@@ -1,6 +1,10 @@
 
 # TrustGraph UK Legislation demo dataset
 
+- [TrustGraph repo](https://github.com/trustgraph-ai/trustgraph)
+- [TrustGraph discord](https://discord.gg/sQMwkRz5GX)
+- [TrustGraph docs](https://trustgraph.ai)
+
 ## What's here
 
 Some UK legislation data - some of the UK legislation passed by Parliament
@@ -101,3 +105,4 @@ The information provided in this repo is shared freely for educational
 purposes for the intention that is to be useful. No claims are made as to
 the accuracy of the information, or its suitability for any specific
 purpose.
+
