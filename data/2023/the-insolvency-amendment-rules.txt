@@ -1,0 +1,4309 @@
+Title: The Insolvency (Amendment) Rules (Northern Ireland) 2023
+Date: 2023-05-18
+Description: These Rules amend the Insolvency Rules (Northern Ireland) 1991 (S.R. 1991 No. 364) (“the principal Rules”) in connection with the introduction of the new moratorium procedure (“the moratorium”) in Part 1A of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19)) (“the 1989 Order”) and the repeal of Schedule A1 to that Order.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2023/15
+
+## The Insolvency (Amendment) Rules (Northern Ireland) 2023
+
+    Insolvency
+
+  Made   20th February 2023
+
+  Coming into operation   13th March 2023
+
+      The Department of Justice makes the following Rules in exercise of the
+power conferred by Article 359 of the Insolvency (Northern Ireland) Order 1989
+, with the concurrence of the Department for the Economy  and in relation to
+those Rules which affect court procedure, with the concurrence of the Lady
+Chief Justice under Article 359(1A)  of that Order.           In accordance
+with Article 360 of the Insolvency (Northern Ireland) Order 1989, the
+Department of Justice has consulted the Committee appointed for the purposes
+of Article 360 of that Order.
+
+### Introductory provision
+
+#### Citation, commencement and interpretation
+
+1
+
+These Rules may be cited as the Insolvency (Amendment) Rules (Northern
+Ireland) 2023 and shall come into operation on 13th March 2023.
+
+2
+
+In these Rules—
+
+2.1
+
+“ the principal Rules ” means the Insolvency Rules (Northern Ireland) 1991 ;
+and
+
+2.2
+
+“ the Order ” means the Insolvency (Northern Ireland) Order 1989 and any
+reference to a numbered Article is a reference to an Article of that Order.
+
+#### Saving provisions
+
+3
+
+3.1
+
+This Rule applies where before 30th March 2022—
+
+3.1.a
+
+a moratorium under Part 1A  of the Order has come into force; or
+
+3.1.b
+
+in the case of a moratorium for a company to which either Article 13BA or 13BB
+applies, an application has been made to the High Court.
+
+3.2
+
+Where this Rule applies—
+
+3.2.a
+
+the amendments made by Parts 2 and 3 of these Rules do not apply; and
+
+3.2.b
+
+Part 3 of Schedule 8 to the Corporate Insolvency and Governance Act 2020
+continues to have effect,
+
+in relation to that moratorium.
+
+4
+
+Nothing in Parts 2 and 3 of these Rules affects the operation of the principal
+Rules in relation to a moratorium under Schedule A1 to the Order which has
+come into operation before repeal of that schedule taking effect on 25th June
+2020 .
+
+### Insertion of Part A1 into the Insolvency Rules
+
+#### Part A1
+
+5
+
+Immediately before Part 1 of the principal Rules (company voluntary
+arrangements) insert—
+
+######## MORATORIUMS
+
+######### Preliminary
+
+  [Note: in accordance with Rules 3 and 4 of the Insolvency (Amendment) Rules
+(Northern Ireland) 2023 this Part applies only in relation to moratoriums
+under Article 13B of the Order that come into force on or after 30th March
+2022 and in relation to moratoriums under Articles 13BA and 13BB of the Order
+where the application to the court is made on or after 30th March 2022]
+
+########## Application of Part A1
+
+5.A1.1
+
+This Part applies for the purposes of a moratorium under Part 1A of the Order.
+
+######### Obtaining a moratorium by filing notice at Court
+
+  [Note: a document required by Part 1A of the Order or Part A1 of these Rules
+must also contain the standard contents set out in chapter 14 or chapter 15 of
+Part A1 of these Rules, as appropriate.]
+
+########## Application of Chapter
+
+5.A1.2
+
+This Chapter applies for the purposes of obtaining a moratorium under Article
+13B.
+
+########## Obtaining a moratorium by filing documents at court (Article 13B): notice of filing
+
+5.A1.3
+
+5.A1.3.1
+
+The directors must (in addition to the relevant documents referred to in
+Article 13BC) file a notice with the court (referred to as a “ notice of
+filing ”).
+
+5.A1.3.2
+
+The notice of filing must—
+
+5.A1.3.2.a
+
+be accompanied by the relevant documents;
+
+5.A1.3.2.b
+
+be headed “Moratorium under Article 13B of the Insolvency (Northern Ireland)
+Order 1989: notice of filing”;
+
+5.A1.3.2.c
+
+state—
+
+5.A1.3.2.c.i
+
+that the directors wish to obtain a moratorium under Article 13B of the Order;
+
+5.A1.3.2.c.ii
+
+the names of the persons filing the notice;
+
+5.A1.3.2.c.iii
+
+the identification details for the company;
+
+5.A1.3.2.c.iv
+
+that the notice is filed in the High Court;
+
+5.A1.3.2.c.v
+
+where the court has previously allocated a number to the insolvency
+proceedings within which the notice is filed, that number; and
+
+5.A1.3.2.c.vi
+
+the date on which the notice is filed; and
+
+5.A1.3.2.d
+
+be authenticated by, or on behalf of, the person filing the notice.
+
+5.A1.3.3
+
+The notice of filing must be endorsed by the court with the date and time of
+filing.
+
+########## The relevant documents: contents and requirements (Article 13BC)
+
+5.A1.4
+
+5.A1.4.1
+
+Each relevant document must—
+
+5.A1.4.1.a
+
+state the nature of the document;
+
+5.A1.4.1.b
+
+identify the proceedings;
+
+5.A1.4.1.c
+
+contain the identification details for the company; and
+
+5.A1.4.1.d
+
+be authenticated by, or on behalf of, the person giving the notice, or making
+the statement (as the case may be).
+
+5.A1.4.2
+
+The statements under Article 13BC(1)(b) to (e) must—
+
+5.A1.4.2.a
+
+be made within the period of five business days ending with the day on which
+the notice of filing is filed with the court; and
+
+5.A1.4.2.b
+
+specify the date on which the statement is made.
+
+########## The relevant documents: further requirements relating to the monitor’s statement and consent to act (Article 13BC(1)(b))
+
+5.A1.5
+
+A statement under Article 13BC(1)(b) must—
+
+5.A1.5.1
+
+be headed “Proposed monitor’s statement and consent to act”; and
+
+5.A1.5.2
+
+contain—
+
+5.A1.5.2.a
+
+a certificate that the proposed monitor  is qualified to act as an insolvency
+practitioner in relation to the company;
+
+5.A1.5.2.b
+
+the name of the relevant recognised professional body which is the source of
+the proposed monitor’s authorisation;
+
+5.A1.5.2.c
+
+the proposed monitor’s IP number; and
+
+5.A1.5.2.d
+
+a statement that the proposed monitor consents to act as monitor in relation
+to the company.
+
+########## Directions
+
+5.A1.6
+
+The court may at any time give such directions as it thinks just as to service
+of the notice of filing on any person.
+
+######### Obtaining a moratorium by application to the court
+
+  [Note: a document required by Part 1A of the Order or Part A1 of these Rules
+must also contain the standard contents set out in chapter 14 or chapter 15 of
+Part A1 of these Rules, as appropriate.]
+
+########## Application of Chapter
+
+5.A1.7
+
+This Chapter applies for the purposes of an application to the court to obtain
+a moratorium—
+
+5.A1.7.1
+
+for a company subject to a winding-up petition under Article 13BA; or
+
+5.A1.7.2
+
+for an overseas company under Article 13BB.
+
+########## Moratorium application (Articles 13BA and 13BB)
+
+5.A1.8
+
+5.A1.8.1
+
+An application for a moratorium under Articles 13BA or 13BB must—
+
+5.A1.8.1.a
+
+specify the date on which the application is filed; and
+
+5.A1.8.1.b
+
+be accompanied by the relevant documents (as to which see Article 13BC).
+
+5.A1.8.2
+
+The application must be endorsed by the court with the date and time of
+filing.
+
+########## The relevant documents: contents and requirements (Article 13BC)
+
+5.A1.9
+
+5.A1.9.1
+
+Each relevant document must—
+
+5.A1.9.1.a
+
+state the nature of the document;
+
+5.A1.9.1.b
+
+identify the proceedings;
+
+5.A1.9.1.c
+
+contain the identification details for the company; and
+
+5.A1.9.1.d
+
+be authenticated by, or on behalf of, the person giving the notice, or making
+the statement (as the case may be).
+
+5.A1.9.2
+
+The statements under Article 13BC(1)(b) to (e) must—
+
+5.A1.9.2.a
+
+be made within the period of five business days ending with the day on which
+the application is filed with the court; and
+
+5.A1.9.2.b
+
+specify the date on which the statement is made.
+
+########## The relevant documents: further requirements relating to the monitor’s statement and consent to act (Article 13BC(1)(b))
+
+5.A1.10
+
+A statement under Article 13BC(1)(b) must—
+
+5.A1.10.1
+
+be headed “Proposed monitor’s statement and consent to act for the purposes of
+a moratorium under Part 1A of the Insolvency (Northern Ireland) Order 1989”,
+and
+
+5.A1.10.2
+
+contain—
+
+5.A1.10.2.a
+
+a certificate that the proposed monitor is qualified to act as an insolvency
+practitioner in relation to the company;
+
+5.A1.10.2.b
+
+the name of the relevant recognised professional body which is the source of
+the proposed monitor’s authorisation;
+
+5.A1.10.2.c
+
+the proposed monitor’s IP number; and
+
+5.A1.10.2.d
+
+a statement that the proposed monitor consents to act as monitor in relation
+to the company.
+
+######### Obligation to notify where moratorium comes into force
+
+  [Note: a document required by Part 1A of the Order or Part A1 of these Rules
+must also contain the standard contents set out in chapter 14 or chapter 15 of
+Part A1 of these Rules, as appropriate.]
+
+########## Notice given by court where moratorium comes into force:
+
+5.A1.11
+
+As soon as reasonably practicable after the coming into force of a moratorium
+the court must deliver to the directors a sealed copy of the document referred
+to in paragraph (1) or (2) (as the case may be) endorsed with the date and
+time of filing—
+
+5.A1.11.1
+
+in the case of a moratorium under Article 13B, the notice of filing referred
+to in Rule A1.3; or
+
+5.A1.11.2
+
+in the case of a moratorium under Article 13BA or 13BB, the application
+referred to in Rule A1.8.
+
+########## Notice given by monitor where moratorium comes into force: standard contents and requirements
+
+5.A1.12
+
+5.A1.12.1
+
+Notification of the coming into force of a moratorium required by Article
+13BE(1) must be delivered—
+
+5.A1.12.1.a
+
+to the persons specified in Article 13BE(2); and
+
+5.A1.12.1.b
+
+where paragraphs (2) and (3) apply, in accordance with those paragraphs.
+
+5.A1.12.2
+
+Paragraph (3) applies where—
+
+5.A1.12.2.a
+
+notification is required to be given to any of the persons referred to in
+Article 13BE(2)(b) to (d); or
+
+5.A1.12.2.b
+
+the moratorium is for a company which is a regulated company within the
+meaning given by Article 13H(13).
+
+5.A1.12.3
+
+Where this paragraph applies—
+
+5.A1.12.3.a
+
+Rule A1.38(3) (copy of a document delivered to registrar may be used to
+satisfy requirements for delivery to other persons) does not apply; and
+
+5.A1.12.3.b
+
+the monitor must deliver a copy of the document delivered to the registrar to—
+
+5.A1.12.3.b.i
+
+the persons referred to in Article 13 BE(2)(b) to (d), for the purpose of
+giving the notification required by those sub-paragraphs, and
+
+5.A1.12.3.b.ii
+
+the appropriate regulator, for the purpose of giving the notification required
+by Article 13H(3) .
+
+######### Extending a moratorium by filing notice with the court
+
+  [Note: a document required by Part 1A of the Order or Part A1 of these Rules
+must also contain the standard contents set out in chapter 14 or chapter 15 of
+Part A1 of these Rules, as appropriate.]
+
+########## Application of Chapter
+
+5.A1.13
+
+This Chapter applies for the purposes of extending a moratorium under Articles
+13CA or 13CB.
+
+########## Extending a moratorium by filing notice with the court (Articles 13CA and 13CB): notice of extension
+
+5.A1.14
+
+5.A1.14.1
+
+The directors must file a notice with the court (referred to as a “ notice of
+extension ”).
+
+5.A1.14.2
+
+The notice of extension must—
+
+5.A1.14.2.a
+
+be accompanied by the documents referred to in Article 13CA(1), or Article
+13CB(1) (as the case may be);
+
+5.A1.14.2.b
+
+be headed “Notice of extension of a moratorium under Article 13CA/13CB of the
+Insolvency (Northern Ireland) Order 1989”;
+
+5.A1.14.2.c
+
+state—
+
+5.A1.14.2.c.i
+
+that the notice is filed for the purpose of extending a moratorium;
+
+5.A1.14.2.c.ii
+
+whether the extension is under Article 13CA or Article 13CB of the Insolvency
+(Northern Ireland) Order 1989;
+
+5.A1.14.2.c.iii
+
+the names of the persons filing the notice;
+
+5.A1.14.2.c.iv
+
+the identification details of the company;
+
+5.A1.14.2.c.v
+
+that the notice is filed in the High Court;
+
+5.A1.14.2.c.vi
+
+where the court has previously allocated a number to the insolvency
+proceedings in which the notice is filed, that number; and
+
+5.A1.14.2.c.vii
+
+the date on which the notice is filed; and
+
+5.A1.14.2.d
+
+be authenticated by, or on behalf of, the person filing the notice.
+
+5.A1.14.3
+
+The notice of extension must be endorsed by the court with the date and time
+of filing.
+
+########## Documents filed with the court under Articles 13CA(1) or 13CB(1) of the Order: contents and requirements
+
+5.A1.15
+
+5.A1.15.1
+
+Each document filed with the court under Article 13CA(1) or 13CB(1) must—
+
+5.A1.15.1.a
+
+state the nature of the document;
+
+5.A1.15.1.b
+
+identify the proceedings;
+
+5.A1.15.1.c
+
+contain the identification details for the company; and
+
+5.A1.15.1.d
+
+be authenticated by, or on behalf of, the person giving the notice or making
+the statement (as the case may be).
+
+5.A1.15.2
+
+The statement under Article 13CB(1)(e) must also state—
+
+5.A1.15.2.a
+
+the venue for the meeting at which creditor consent was obtained;
+
+5.A1.15.2.b
+
+whether the required quorum was in place; and
+
+5.A1.15.2.c
+
+the outcome.
+
+5.A1.15.3
+
+The statements under Article CA(1)(b) to (d), or Article 13CB(1)(b) to (e) (as
+the case may be) must—
+
+5.A1.15.3.a
+
+be made within the period of three business days ending with the day on which
+the notice of extension is filed with the court; and
+
+5.A1.15.3.b
+
+specify the date on which the statement is made.
+
+########## Directions
+
+5.A1.16
+
+The court may at any time give such directions as it thinks just as to service
+of the notice of extension on or to any person.
+
+######### Extending moratorium by application to the Court
+
+  [Note: a document required by Part 1A of the Order or Part A1 of these Rules
+must also contain the standard contents set out in chapter 14 or chapter 15 of
+Part A1 of these Rules, as appropriate.]
+
+########## Application of Chapter
+
+5.A1.17
+
+This Chapter applies for the purposes of extending a moratorium by application
+to the court under Article 13CD.
+
+########## Extending a moratorium by application to the Court (Article 13CD)
+
+5.A1.18
+
+5.A1.18.1
+
+An application for an extension to a moratorium under Article 13CD must—
+
+5.A1.18.1.a
+
+specify the date on which the application is filed; and
+
+5.A1.18.1.b
+
+be accompanied by the documents referred to in Article 13CD(2).
+
+5.A1.18.2
+
+The application must be endorsed by the court with the date and time of
+filing.
+
+########## Documents filed with the Court under Article 13CD(2): contents and requirements
+
+5.A1.19
+
+5.A1.19.1
+
+Each document filed with the court under Article 13CD(2) must—
+
+5.A1.19.1.a
+
+state the nature of the document;
+
+5.A1.19.1.b
+
+identify the proceedings;
+
+5.A1.19.1.c
+
+contain the identification details for the company; and
+
+5.A1.19.1.d
+
+be authenticated by, or behalf of, the person making the statement.
+
+5.A1.19.2
+
+The statements comprised in a document filed with the court under Article
+13CD(2) must—
+
+5.A1.19.2.a
+
+be made within the period of three business days ending with the day on which
+the application is filed with the court; and
+
+5.A1.19.2.b
+
+specify the date on which the statement is made.
+
+######### Notices about change in the end of moratorium
+
+  [Note: a document required by Part 1A of the Order or Part A1 of these Rules
+must also contain the standard contents set out in chapter 14 or chapter 15 of
+Part A1 of these Rules, as appropriate.]
+
+########## Notification by directors to the monitor under Article 13CH(1) of the Order: contents and requirements
+
+5.A1.20
+
+5.A1.20.1
+
+A notice under section Article 13CH(1) must be delivered to the monitor.
+
+5.A1.20.2
+
+The notice must—
+
+5.A1.20.2.a
+
+be delivered within the period of three business days beginning with the day
+on which the duty to give the notice arises; and
+
+5.A1.20.2.b
+
+contain—
+
+5.A1.20.2.b.i
+
+the identification details for the company;
+
+5.A1.20.2.b.ii
+
+a statement specifying the provision in Part 1A of the Insolvency (Northern
+Ireland) Order 1989 by virtue of which the moratorium was extended, or came to
+an end (as the case may be); and
+
+5.A1.20.2.b.iii
+
+if the moratorium has come to an end by virtue of Article 13CG(1)(a) or (b)
+(company enters into insolvency procedure etc.), the additional information
+required by paragraph (3).
+
+5.A1.20.3
+
+The additional information that is required if a moratorium has come to an end
+by virtue of—
+
+5.A1.20.3.a
+
+Article 13CG(1)(a), is the date on which the compromise or arrangement  came
+into effect; and
+
+5.A1.20.3.b
+
+Article 13CG(1)(b), is—
+
+5.A1.20.3.b.i
+
+the date on which the company entered into the relevant insolvency procedure ;
+and
+
+5.A1.20.3.b.ii
+
+the contact details for the office-holder for that procedure.
+
+########## Notification by the monitor to the relevant persons under Article 13CH(2) or (3) of the Order: standard contents and requirements
+
+  [Note: a document required by Part 1A of the Order or Part A1 of these Rules
+must also contain the standard contents set out in chapter 14 or chapter 15 of
+Part A1 of these Rules, as appropriate.]     A1.21       1     Notification
+under Article 13CH(2) or (3) must—     a     be delivered—     i     to the
+relevant persons  specified in Article 13CH(8)(a) to (d); and         ii
+where paragraph (4) applies, in accordance with that paragraph; and
+b     if the moratorium has come to an end by virtue of Article 13CG(1)(b),
+contain the additional information referred to in paragraph (5).             2
+Notification delivered under this Rule must be delivered within the period of
+five business days beginning with the day on which the duty to give the notice
+arises.         3     Paragraph (4) applies where—     a     notification is
+required to be given to any of the relevant persons referred to in Article
+13CH(8)(b) to (d); or         b     the moratorium is for a company which is a
+regulated company within the meaning given by Article 13H(13).             4
+Where this paragraph applies—     a     Rule A1.38(3) (copy of a document
+delivered to registrar may be used to satisfy requirements for delivery to
+other persons) does not apply; and         b     the monitor must deliver a
+copy of the document delivered to the registrar to—     i     the persons
+referred to in Article 13CH(8)(b) to (d), for the purpose of giving the
+information required by those sub-paragraphs; and         ii     the
+appropriate regulator, for the purpose of giving the notification required by
+Article 13H(3).                 5     The additional information that is
+required if a moratorium has come to an end by virtue of Article 13CG(1)(b)
+is—     a     the date on which the company entered into the relevant
+insolvency procedure; and         b     the contact details for the office-
+holder for that procedure.           [Note: Chapter 9 includes provision about
+notification by the monitor to the company etc. where the end of the
+moratorium changes by virtue of a notice given to the court under Article 13ED
+(termination of moratorium by monitor).]
+
+######### Notification by directors of insolvency proceedings
+
+  [Note: a document required by Part 1A of the Order or Part A1 of these Rules
+must also contain the standard contents set out in chapter 14 or chapter 15 of
+Part A1 of these Rules, as appropriate.]
+
+########## Notification by directors to the monitor of insolvency proceedings (Article 13DF)
+
+5.A1.22
+
+Notice by the directors of certain insolvency proceedings under Article 13DF
+must be delivered within the period of—
+
+5.A1.22.1
+
+in the case of a notice under Article 13DF(1), three business days ending with
+the day on which any of the steps mentioned in sub-paragraphs (a) to (c) of
+that paragraph is to be taken; and
+
+5.A1.22.2
+
+in the case of a notice under Article 13DF(2), three business days beginning
+with the day on which the duty to give the notice arises.
+
+######### Termination of moratorium by monitor
+
+  [Note: a document required by Part 1A of the Order or Part A1 of these Rules
+must also contain the standard contents set out in chapter 14 or chapter 15 of
+Part A1 of these Rules, as appropriate.]
+
+########## Notice bringing moratorium to an end (Article 13ED)
+
+5.A1.23
+
+5.A1.23.1
+
+Notice bringing the moratorium to an end under Article 13ED must—
+
+5.A1.23.1.a
+
+be filed with the court—
+
+5.A1.23.1.a.i
+
+as soon as practicable after the duty to bring the moratorium to an end
+arises; and
+
+5.A1.23.1.a.ii
+
+together with one copy for the company;
+
+5.A1.23.1.b
+
+be headed “Notice of termination of moratorium by monitor under Article 13ED
+of the Insolvency (Northern Ireland) Order 1989”;
+
+5.A1.23.1.c
+
+state—
+
+5.A1.23.1.c.i
+
+that the notice is filed for the purpose of terminating a moratorium under
+Article 13ED of the Insolvency (Northern Ireland) Order 1989;
+
+5.A1.23.1.c.ii
+
+the identification details of the company;
+
+5.A1.23.1.c.iii
+
+the name and contact details of the monitor;
+
+5.A1.23.1.c.iv
+
+that the notice is filed in the High Court;
+
+5.A1.23.1.c.v
+
+where the court has previously allocated a number to the insolvency
+proceedings within which the notice is filed, that number;
+
+5.A1.23.1.c.vi
+
+the date on which the notice is filed;
+
+5.A1.23.1.c.vii
+
+the grounds on which the moratorium is to be terminated;
+
+5.A1.23.1.c.viii
+
+the monitor’s reasons for concluding that those grounds are made out; and
+
+5.A1.23.1.c.ix
+
+the date on which the monitor concluded that those grounds were made out; and
+
+5.A1.23.1.d
+
+be authenticated by, or on behalf of, the monitor.
+
+5.A1.23.2
+
+The court must endorse both the notice and the copy of the notice with the
+date and time of filing.
+
+5.A1.23.3
+
+The copy of the notice must have the seal of the court applied to it and must
+be delivered to the monitor.
+
+5.A1.23.4
+
+The monitor must deliver—
+
+5.A1.23.4.a
+
+the sealed copy of the notice to the company; and
+
+5.A1.23.4.b
+
+further copies of that notice to—
+
+5.A1.23.4.b.i
+
+the registrar; and
+
+5.A1.23.4.b.ii
+
+where paragraph (6) applies, the persons specified in paragraph 6(b),
+
+within the period of three business days beginning with the day on which the
+sealed copy of the notice is delivered to the monitor.
+
+5.A1.23.5
+
+Paragraph (6) applies where—
+
+5.A1.23.5.a
+
+notification is required to be given to any of the relevant persons referred
+to in Article 13CH(8)(b) to (d); or
+
+5.A1.23.5.b
+
+the moratorium is for a company which is a regulated company within the
+meaning given by Article 13H(13).
+
+5.A1.23.6
+
+Where this paragraph applies—
+
+5.A1.23.6.a
+
+Rule A1.38(3) (copy of document delivered to registrar may be used to satisfy
+requirements for delivery to other persons) does not apply; and
+
+5.A1.23.6.b
+
+the monitor must deliver a copy of the document delivered to the registrar to—
+
+5.A1.23.6.b.i
+
+the persons referred to in Article 13CH(8)(b) to (d), for the purpose of
+giving the notification required by those sub-paragraphs; and
+
+5.A1.23.6.b.ii
+
+the appropriate regulator, for the purpose of giving the notification required
+by Article 13H(3).
+
+########## Debts that are to be disregarded for the purposes of Article 13ED(1)(d) of the Order
+
+5.A1.24
+
+For the purposes of deciding whether to bring a moratorium to an end under
+Article 13ED(1)(d) the monitor must disregard—
+
+5.A1.24.1
+
+any debts that the monitor has reasonable grounds for thinking are likely to
+be—
+
+5.A1.24.1.a
+
+paid; or
+
+5.A1.24.1.b
+
+compounded to the satisfaction of the creditor,
+
+within five business days of the decision; and
+
+5.A1.24.2
+
+any debts in respect of which the creditor has agreed to defer payment until a
+time that is later than the decision.
+
+######### Replacement of monitor or appointment of additional monitor
+
+  [Note: a document required by Part 1A of the Order or Part A1 of these Rules
+must also contain the standard contents set out in chapter 14 or chapter 15 of
+Part A1 of these Rules, as appropriate.]
+
+########## Replacement of monitor or appointment of additional monitor, monitor’s statement and consent to act: contents and requirements (Article 13EE(4))
+
+5.A1.25
+
+5.A1.25.1
+
+A statement by a proposed replacement or additional monitor under Article
+13EE(4) must be filed with the court.
+
+5.A1.25.2
+
+The statement must—
+
+5.A1.25.2.a
+
+be headed “Proposed monitor’s statement and consent to act for the purposes of
+a moratorium under Part 1A of the Insolvency (Northern Ireland) Order 1989”;
+
+5.A1.25.2.b
+
+contain—
+
+5.A1.25.2.b.i
+
+a certificate that the proposed monitor is qualified to act as an insolvency
+practitioner in relation to the company;
+
+5.A1.25.2.b.ii
+
+the name of the relevant recognised professional body which is the source of
+the proposed monitor’s authorisation;
+
+5.A1.25.2.b.iii
+
+the proposed monitor’s IP number; and
+
+5.A1.25.2.b.iv
+
+a statement that the proposed monitor consents to act as a replacement
+monitor, or, an additional monitor (as the case may be), in relation to the
+company;
+
+5.A1.25.2.c
+
+specify the date on which the statement was made;
+
+5.A1.25.2.d
+
+be authenticated by the proposed replacement monitor, or the proposed
+additional monitor; and
+
+5.A1.25.2.e
+
+be made within the period of five business days ending with the day on which
+the statement is filed with the court.
+
+########## Notice to be given by monitor of replacement of monitor or appointment of additional monitor (Article 13EE(8))
+
+5.A1.26
+
+5.A1.26.1
+
+Notification of the appointment of a replacement monitor, or the appointment
+of an additional monitor, by virtue of an order under Article 13EE(1) must be
+delivered—
+
+5.A1.26.1.a
+
+to the persons specified in Article 13EE(8); and
+
+5.A1.26.1.b
+
+where paragraphs (2) and (3) apply, in accordance with those paragraphs.
+
+5.A1.26.2
+
+Paragraph (3) applies where—
+
+5.A1.26.2.a
+
+notification is required to be given to any of the persons referred to in
+Article 13EE(8)(b) to (d); or
+
+5.A1.26.2.b
+
+the moratorium is for a company which is a regulated company within the
+meaning given by Article 13H(13).
+
+5.A1.26.3
+
+Where this paragraph applies—
+
+5.A1.26.3.a
+
+Rule A1.38(3) (copy of document delivered to registrar may be used to satisfy
+requirements for delivery to other persons) does not apply; and
+
+5.A1.26.3.b
+
+the monitor must deliver a copy of the document delivered to the registrar to—
+
+5.A1.26.3.b.i
+
+for the purpose of giving the notification required by Article 13EE(8)(b) to
+(d), each of the persons referred to in those sub-paragraphs (as applicable);
+and
+
+5.A1.26.3.b.ii
+
+for the purpose of giving the notification required by Article 13H(3), the
+appropriate regulator.
+
+######### Challenges to monitor remuneration
+
+  [Note: a document required by Part 1A of the Order or Part A1 of these Rules
+must also contain the standard contents set out in chapter 14 or chapter 15 of
+Part A1 of these Rules, as appropriate.]
+
+########## Challenges to monitor’s remuneration in subsequent insolvency proceedings
+
+5.A1.27
+
+5.A1.27.1
+
+An administrator or liquidator may apply to the court on the grounds that
+remuneration charged by the monitor in relation to a prior moratorium was
+excessive.
+
+5.A1.27.2
+
+An application under paragraph (1) may not be made after the end of the period
+of 2 years beginning with the day after the day on which the moratorium ends.
+
+5.A1.27.3
+
+On an application under paragraph (1) the court may—
+
+5.A1.27.3.a
+
+dismiss the application;
+
+5.A1.27.3.b
+
+order the monitor—
+
+5.A1.27.3.b.i
+
+to repay some or all of the remuneration; and
+
+5.A1.27.3.b.ii
+
+to pay interest on that sum at the rate specified in paragraph (4) for the
+period beginning with the date on which the remuneration was paid to the
+monitor and ending with the date of repayment; or
+
+5.A1.27.3.c
+
+make such other order as it sees fit.
+
+5.A1.27.4
+
+The rate specified for the purpose of paragraph (3)(b)(ii) is the rate
+applicable to a money judgment of the High Court on the date on which the
+remuneration was paid to the monitor.
+
+######### Applications to court
+
+  [Note: a document required by Part 1A of the Order or Part A1 of these Rules
+must also contain the standard contents set out in chapter 14 or chapter 15 of
+Part A1 of these Rules as appropriate]
+
+########## Application of Chapter
+
+5.A1.28
+
+This Chapter applies where an application is made to the court under—
+
+5.A1.28.1
+
+Article 13DC (restrictions on enforcement and legal proceedings);
+
+5.A1.28.2
+
+Article 13DM (disposal of charged property free from charge);
+
+5.A1.28.3
+
+Article 13DN (disposal of hire-purchase property);
+
+5.A1.28.4
+
+Article 13EC (application by monitor for directions);
+
+5.A1.28.5
+
+Article 13EE (replacement of monitor or appointment of additional monitor);
+
+5.A1.28.6
+
+Article 13F (challenge to monitor’s actions);
+
+5.A1.28.7
+
+Article 13FA and Rule A1.27(1) (challenges to monitor remuneration in
+insolvency proceedings); or
+
+5.A1.28.8
+
+Article 13FB (challenge to directors’ actions).
+
+########## Procedure for filing of application
+
+5.A1.29
+
+5.A1.29.1
+
+An application to which this Chapter applies must—
+
+5.A1.29.1.a
+
+identify the date on which the application is filed; and
+
+5.A1.29.1.b
+
+be filed at the court together with copies for—
+
+5.A1.29.1.b.i
+
+each of the persons specified in the third column of the Table in Rule A1.30;
+and
+
+5.A1.29.1.b.ii
+
+where the application is made in respect of a regulated company within the
+meaning given by Article 13H(13), the appropriate regulator (as defined in
+that Article).
+
+5.A1.29.2
+
+The date and time of filing of the application must be endorsed on the
+application and on the copies.
+
+5.A1.29.3
+
+Each copy of the application must have the seal of the court applied to it and
+must be delivered to the applicant.
+
+########## Service of the application
+
+5.A1.30
+
+5.A1.30.1
+
+The applicant must serve a sealed copy of the application—
+
+5.A1.30.1.a
+
+in accordance with the Table in paragraph (2);
+
+5.A1.30.1.b
+
+in a case where the application is made in respect of a regulated company
+within the meaning given by Article 13H(13), on the appropriate regulator; and
+
+5.A1.30.1.c
+
+at least 14 days before the date fixed for the hearing unless—
+
+5.A1.30.1.c.i
+
+the case is urgent and the court acts under Rule 7.08(6); or
+
+5.A1.30.1.c.ii
+
+the court extends or abridges the time limit.
+
+5.A1.30.2
+
+This is the Table referred to in paragraph (1)—
+
+      Article of the Order Topic Persons on whom application must be served
+13DC Application for permission of the High Court under Article 13DC to take
+enforcement action or to bring legal proceedings against the company during a
+moratorium The applicant must serve the application on the company and the
+monitor 13DM Application for permission of the High Court under Article 13DM
+to dispose of charged property free from charge during a moratorium The
+applicant must serve the application on the holder of the security interest
+and the monitor 13DN Application for permission of the High Court under
+Article 13DN to dispose of hire-purchase property during a moratorium The
+applicant must serve the application on the owner of the property and the
+monitor 13EC Application by monitor for directions The applicant must serve
+the application on the company 13EE Replacement of monitor or appointment of
+additional monitor In cases where the application is made by the directors
+they must serve the application on the monitor. In cases where the application
+is made by the monitor, the monitor must serve the application on the
+directors. 13F Challenge to monitor’s actions The applicant must serve the
+application on the company and the monitor 13FA and Rule A1.27(1) Challenges
+to monitor remuneration in insolvency proceedings The applicant must serve the
+application on the directors and the monitor 13FB Challenge to director’s
+actions The applicant must serve the application on the directors and the
+monitor
+
+########## Proof of service of the application
+
+5.A1.31
+
+5.A1.31.1
+
+Service of the application must be verified by an affidavit of service.
+
+5.A1.31.2
+
+The affidavit must—
+
+5.A1.31.2.a
+
+identify the application;
+
+5.A1.31.2.b
+
+identify the company which is, or was subject to the moratorium to which the
+application relates;
+
+5.A1.31.2.c
+
+identify the applicant;
+
+5.A1.31.2.d
+
+state that the application has been filed in the High Court;
+
+5.A1.31.2.e
+
+where the court has previously allocated a number to the insolvency
+proceedings in which the application is filed, that number;
+
+5.A1.31.2.f
+
+confirm that the copy of the application which was served had been sealed by
+the court;
+
+5.A1.31.2.g
+
+identify the person served; and
+
+5.A1.31.2.h
+
+specify the manner of service and the date of service.
+
+5.A1.31.3
+
+The affidavit must be filed in court immediately after service and in any
+event not less than one day before the hearing of the application.
+
+########## Notice of opposition
+
+5.A1.32
+
+5.A1.32.1
+
+A person on whom an application has been served who intends to oppose the
+application must, not less than three business days before the day fixed for
+the hearing—
+
+5.A1.32.1.a
+
+file a notice with the court which complies with the requirements of paragraph
+(2); and
+
+5.A1.32.1.b
+
+deliver a copy of the notice to—
+
+5.A1.32.1.b.i
+
+the applicant or the applicant’s solicitor; and
+
+5.A1.32.1.b.ii
+
+(where applicable) each of the other persons specified in the third column of
+the Table in Rule A1.30(2) on whom notice of the application is required to be
+served.
+
+5.A1.32.2
+
+The notice must—
+
+5.A1.32.2.a
+
+identify the proceedings;
+
+5.A1.32.2.b
+
+state that the person intends to oppose the application;
+
+5.A1.32.2.c
+
+state the grounds on which the person opposes the application; and
+
+5.A1.32.2.d
+
+state whether the person intends to appear on the hearing of the application.
+
+########## Notice where the court grants permission under Article 13DM or 13DN
+
+5.A1.33
+
+5.A1.33.1
+
+This Rule applies where the court grants permission on an application in
+respect of—
+
+5.A1.33.1.a
+
+the disposal of charged property by a company free from charge under Article
+13DM; or
+
+5.A1.33.1.b
+
+the disposal of hire-purchase property by a company under Article 13DN.
+
+5.A1.33.2
+
+Where this Rule applies the court must deliver two sealed copies of the order
+to the company as soon as reasonably practicable after the order is made.
+
+5.A1.33.3
+
+As soon as reasonably practicable after receiving copies of the order under
+paragraph (2) the company must deliver one copy to the holder of the security
+or the owner of the hire-purchase goods (as the case may be).
+
+######### Form and content of documents
+
+########## Authentication of applications, notices and statements
+
+5.A1.34
+
+5.A1.34.1
+
+This Rule sets out how an application, notice or statement is to be
+authenticated for the purposes of Part 1A of the Order or Part A1.
+
+5.A1.34.2
+
+An application, notice or statement in electronic form is sufficiently
+authenticated—
+
+5.A1.34.2.a
+
+if the identity of the sender is confirmed in a manner specified by the
+recipient; or
+
+5.A1.34.2.b
+
+where the recipient has not so specified, if the communication contains or is
+accompanied by a statement of the identity of the sender and the recipient has
+no reason to doubt the truth of that statement.
+
+5.A1.34.3
+
+An application, notice or statement in hard-copy form is sufficiently
+authenticated if it is signed.
+
+5.A1.34.4
+
+If an application, notice or statement is authenticated by the signature of an
+individual on behalf of—
+
+5.A1.34.4.a
+
+a body of persons, the document must also state the position of that
+individual in relation to the body; or
+
+5.A1.34.4.b
+
+a body corporate of which the individual is the sole member, the document must
+also state that fact.
+
+########## Information required to identify persons and proceedings etc
+
+5.A1.35
+
+5.A1.35.1
+
+Where there is a requirement under Part 1A of the Order or Part A1 to identify
+or to contain identification details in respect of a person or proceedings, or
+to provide contact details for a monitor or office-holder, the information set
+out in the table must be given.
+
+5.A1.35.2
+
+Where a requirement relates to a proposed monitor or office-holder, the
+information set out in the table in respect of a monitor or office-holder must
+be given with any necessary adaptations.
+
+      Company where it is the subject of the proceedings     In the case of a
+registered company—       (a) the registered name;       (b) for a company
+incorporated in Northern Ireland under the Companies Act 2006 or previous
+company legislation applying in Northern Ireland, its registered number;
+(c) for a company incorporated outside the United Kingdom—       (i) the
+country or territory in which it is incorporated;       (ii) the number, if
+any, under which it is registered; and       (iii) the number, if any, under
+which it is registered as an overseas company under Part 34 of the Companies
+Act 2006.       (d) In the case of an unregistered company—       its name;
+and       (e) the postal address of any principal place of business.
+Monitor or office-holder     (f) the name of the monitor or office-holder; and
+(g) the nature of the appointment held by the monitor or office-holder.
+Contact details for the monitor or office-holder     (h) a postal address for
+the monitor or office-holder; and       (i) either an email address, or a
+telephone number, through which the monitor or office-holder may be contacted.
+Proceedings     (j) for proceedings related to a company, the information
+identifying the company;       that the proceedings are, or are to be,
+(k) conducted, or that documents relating to the proceedings have been or will
+be filed in the High Court, and if applicable       (l) any number assigned to
+those proceedings by the court.
+
+########## Prescribed format of documents
+
+5.A1.36
+
+5.A1.36.1
+
+This Rule applies where a Rule in Part A1 sets out requirements as to the
+contents of a document.
+
+5.A1.36.2
+
+Any title required by the Rule must appear at the beginning of the document.
+
+5.A1.36.3
+
+Any other contents required by the Rule (or Rules, where more than one apply
+to a particular document) must be provided in the order listed in the Rule (or
+Rules) or in another order which the maker of the document considers would be
+convenient for the intended recipient.
+
+########## Variation form prescribed contents
+
+5.A1.37
+
+Where a Rule in Part A1 sets out the required content of a document, the
+document may depart from the required contents if—
+
+5.A1.37.1
+
+the circumstances require such a departure (including where the requirement is
+not applicable in the particular case); or
+
+5.A1.37.2
+
+the departure (whether or not intentional) is immaterial.
+
+######### Standard contents of documents to be delivered to the registrar in connection with a company moratorium
+
+  [Note: The requirements in Chapter 14 must be read with Rule A1.35 which set
+out the information required to identify an office-holder, a company, etc.]
+
+########## Standard contents of documents delivered to the registrar
+
+5.A1.38
+
+5.A1.38.1
+
+Where Part 1A of the Order or Part A1 requires a document to be delivered to
+the registrar the document must contain the standard contents set out in this
+Chapter (in addition to any content specifically required by Part 1A of the
+Order or any other provision in Part A1).
+
+5.A1.38.2
+
+A document of more than one type must satisfy the requirements which apply to
+each.
+
+5.A1.38.3
+
+However requirements as to the contents of a document which is to be delivered
+to another person at the same time as to the registrar may be satisfied by
+delivering to that other person a copy of the document delivered to the
+registrar.
+
+########## Registrar: covering notices
+
+5.A1.39
+
+5.A1.39.1
+
+This Rule applies where—
+
+5.A1.39.1.a
+
+Part 1A of the Order or Part A1 require an office-holder to deliver either a
+notice under Article 13ED bringing a moratorium under Part 1A of the Order to
+an end or a court order to the registrar; or
+
+5.A1.39.1.b
+
+the directors are required to deliver a copy of a court order to the registrar
+in accordance with Article 13DM(7) or Article 13DN(5).
+
+5.A1.39.2
+
+The office-holder or the directors (as the case may be) must deliver to the
+registrar with a document mentioned in paragraph (1) a notice containing the
+standard contents required by Chapter 13 and this Chapter.
+
+5.A1.39.3
+
+Such a notice may relate to more than one document where those documents
+relate to the same proceedings and are delivered together to the registrar.
+
+########## Standard contents of all documents
+
+5.A1.40
+
+5.A1.40.1
+
+A document to be delivered to the registrar under Part 1A of the Order or Part
+A1 must—
+
+5.A1.40.1.a
+
+identify the company;
+
+5.A1.40.1.b
+
+state—
+
+5.A1.40.1.b.i
+
+the nature of the document;
+
+5.A1.40.1.b.ii
+
+the Article in the Order, or the Rule under which the document is delivered;
+
+5.A1.40.1.b.iii
+
+the date of the document;
+
+5.A1.40.1.b.iv
+
+the name and address of the person delivering the document; and
+
+5.A1.40.1.b.v
+
+the capacity in which that person is acting in relation to the company; and
+
+5.A1.40.1.c
+
+be authenticated by the person delivering the document.
+
+5.A1.40.2
+
+Where the person delivering the document is the office-holder, the address may
+be omitted if it has previously been notified to the registrar in the
+proceedings and is unchanged.
+
+########## Standard contents of documents relating to the office of the office-holders
+
+5.A1.41
+
+5.A1.41.1
+
+A document referred to in Part 1A of the Order or Part A1 which relates to the
+office of the office-holder must also identify the office-holder and state—
+
+5.A1.41.1.a
+
+the date of the event of which notice is delivered or of the notice (as
+applicable);
+
+5.A1.41.1.b
+
+where the document relates to—
+
+5.A1.41.1.b.i
+
+an appointment,(other than an appointment to which sub-paragraph (b)(ii)
+refers), the person, body or court making the appointment; or
+
+5.A1.41.1.b.ii
+
+in the case of an appointment of a person as a monitor in respect of a
+moratorium for a company to which Article 13B applies, that the relevant
+documents, within the meaning given by Article 13BC were filed at the High
+Court;
+
+5.A1.41.1.c
+
+where the document relates to the termination of an appointment, the reasons
+for that termination; and
+
+5.A1.41.1.d
+
+the contact details for the office-holder.
+
+5.A1.41.2
+
+Where the person delivering the document is the office-holder, the address may
+be omitted if it has previously been notified to the registrar in the
+proceedings and is unchanged.
+
+########## Standard contents of document relating to other documents
+
+5.A1.42
+
+A document referred to in Part 1A of the Order or Part A1 which relates to
+another document must also state—
+
+5.A1.42.1
+
+the nature of the other document;
+
+5.A1.42.2
+
+the date of the other document; and
+
+5.A1.42.3
+
+where the other document relates to a period of time, the period of time to
+which it relates.
+
+########## Standard contents of documents relating to court orders
+
+5.A1.43
+
+A document relating to a court order must also specify—
+
+5.A1.43.1
+
+the nature of the order; and
+
+5.A1.43.2
+
+the date of the order.
+
+########## Standard contents relating to events
+
+5.A1.44
+
+A document referred to in Part 1A of the Order or Part A1 which relates to an
+event must also state—
+
+5.A1.44.1
+
+the nature of the event, including the Article of the Order, or the Rule under
+which it took place; and
+
+5.A1.44.2
+
+the date on which the event occurred.
+
+######### Standard contents of notices for delivery to other persons etc in connection with a company moratorium
+
+  [Note: The requirements in Chapter 15 must be read with Rule A1.35 which set
+out the information required to identify an office-holder, a company, etc.]
+
+########## Standard contents of notices to be delivered to persons other than the registrar
+
+5.A1.45
+
+5.A1.45.1
+
+Where Part 1A of the Order or Part A1 require a notice to be delivered to a
+person other than the registrar in respect of proceedings under Part 1A of the
+Order, the notice must contain the standard contents set out in this Chapter
+(in addition to any content specifically required by Part 1A of the Order or
+any other provision in Part A1).
+
+5.A1.45.2
+
+A notice of more than one type must satisfy the requirements which apply to
+each.
+
+5.A1.45.3
+
+However requirements in respect of a document which is to be delivered to
+another person at the same time as to the registrar may be satisfied by
+delivering to that other person a copy of the document delivered to the
+registrar.
+
+########## Standard contents of all notices
+
+5.A1.46
+
+A notice under Part 1A of the Order or Part A1 must—
+
+5.A1.46.1
+
+state the nature of the notice;
+
+5.A1.46.2
+
+identify the proceedings;
+
+5.A1.46.3
+
+state the Article of the Order, or the Rule under which the notice is given;
+and
+
+5.A1.46.4
+
+in the case of a notice delivered by the office-holder, state the contact
+details for the office-holder.
+
+########## Standard contents of documents relating to the office of the office-holders
+
+5.A1.47
+
+A notice referred to in Part 1A of the Order or Part A1 which relates to the
+office of the office-holder must also identify the office-holder and state—
+
+5.A1.47.1
+
+the date of the event of which notice is delivered;
+
+5.A1.47.2
+
+where the document relates to—
+
+5.A1.47.2.a
+
+an appointment, (other than an appointment to which sub-paragraph (b)(ii)
+refers), the person, body or court making the appointment; or
+
+5.A1.47.2.b
+
+in the case of an appointment of a person as a monitor in respect of a
+moratorium for a company to which Article 13B applies, that the relevant
+documents, within the meaning given by Article 13BC have been filed at the
+High Court;
+
+5.A1.47.3
+
+where the notice relates to the termination of an appointment, the reason for
+that termination.
+
+########## Standard contents of notices relating to documents
+
+5.A1.48
+
+A notice referred to in Part 1A of the Order or Part A1 which relates to a
+document must also state—
+
+5.A1.48.1
+
+the nature of the document;
+
+5.A1.48.2
+
+the date of the document; and
+
+5.A1.48.3
+
+where the document relates to a period of time, the period of time to which
+the document relates.
+
+########## Standard contents of notices relating to court proceedings or orders
+
+5.A1.49
+
+A notice relating to court proceedings must also identify those proceedings
+and if the notice relates to a court order state—
+
+5.A1.49.1
+
+the nature of the order; and
+
+5.A1.49.2
+
+the date of the order.
+
+######### Claims by creditors in a moratorium
+
+  [Note: In this chapter “ the meeting ” means a meeting of creditors in
+respect of a moratorium under Part 1A of the Order.]
+
+########## Liabilities in tort
+
+5.A1.50
+
+For the purposes of any provision of the Order or these Rules about
+moratoriums under Part 1A of the Order any liability in tort is a debt
+provable in the moratorium, if either—
+
+5.A1.50.1
+
+the cause of action has accrued at the date of the meeting; or
+
+5.A1.50.2
+
+all the elements necessary to establish the cause of action exist at that date
+except for actionable damage.
+
+########## References to a debt or liability
+
+5.A1.51
+
+5.A1.51.1
+
+For the purposes of references in any provision of the Order or these Rules
+about moratoriums under Part 1A of the Order to a debt or liability, it is
+immaterial whether the debt or liability is present or future, whether it is
+certain or contingent, or whether its amount is fixed or liquidated, or is
+capable of being ascertained by fixed Rules or as a matter of opinion; and
+references in any such provision to owing a debt are to be read accordingly.
+
+5.A1.51.2
+
+In any provision of the Order or these Rules about moratoriums under Part 1A
+of the Order except in so far as the context otherwise requires, “ liability ”
+means (subject to paragraph 1) a liability to pay money or money’s worth,
+including any liability under a statutory provision, a liability for breach of
+trust, any liability in contract, tort or bailment, and any liability arising
+out of an obligation to make restitution.
+
+########## Provable debts
+
+5.A1.52
+
+5.A1.52.1
+
+All claims by creditors except as provided in this Rule, are provable as debts
+against the company, whether they are present or future, certain or
+contingent, ascertained or sounding only in damages.
+
+5.A1.52.2
+
+An obligation arising under a confiscation order made under Parts 2, 3 or 4 of
+the Proceeds of Crime Act 2002 is not provable.
+
+5.A1.52.3
+
+A claim arising by virtue of section 382(1)(a) of the Financial Services and
+Markets Act 2000  (restitution orders) is not provable until after all other
+claims of creditors have been paid in full with interest under Rule A1.68
+(payment of interest), unless it is also a claim arising by virtue of sub-
+paragraph (b) of that section (a person who has suffered loss etc).
+
+5.A1.52.4
+
+Nothing in this Rule prejudices any statutory provision or rule of law under
+which a particular kind of debt is not provable, whether on grounds of public
+policy or otherwise.
+
+########## Proving a debt
+
+5.A1.53
+
+A creditor wishing to recover a debt must submit a proof to the convener
+unless an order of the court provides otherwise [Form 4.26A].
+
+########## Requirements for proof
+
+5.A1.54
+
+5.A1.54.1
+
+A proof must—
+
+5.A1.54.1.a
+
+be made out by, or under the direction of, the creditor and authenticated by
+the creditor or a person authorised on the creditor’s behalf;
+
+5.A1.54.1.b
+
+state the creditor’s name and address;
+
+5.A1.54.1.c
+
+if the creditor is a company, identify the company;
+
+5.A1.54.1.d
+
+state the total amount of the creditor’s claim (including any value added tax)
+as at the date of the meeting, less any deduction under Rule A1.65 and any
+adjustment by way of set-off in accordance with Rule A1.69;
+
+5.A1.54.1.e
+
+state whether or not the claim includes any outstanding uncapitalised
+interest;
+
+5.A1.54.1.f
+
+contain particulars of how and when the debt was incurred by the company;
+
+5.A1.54.1.g
+
+contain particulars of any security held, the date on which it was given and
+the value which the creditor puts on it;
+
+5.A1.54.1.h
+
+provide details of any reservation of title in relation to goods to which the
+debt relates;
+
+5.A1.54.1.i
+
+provide details of any document by reference to which the debt can be
+substantiated;
+
+5.A1.54.1.j
+
+be dated and authenticated; and
+
+5.A1.54.1.k
+
+state the name, postal address and authority of the person authenticating the
+proof (if someone other than the creditor).
+
+5.A1.54.2
+
+Where sub-paragraph (i) applies the document need not be delivered with the
+proof unless the convener has requested it.
+
+5.A1.54.3
+
+The convener may call for the creditor to produce any document or other
+evidence which the convener considers is necessary to substantiate the whole
+or any part of a claim.
+
+########## Costs of proving
+
+5.A1.55
+
+Unless the court orders otherwise each creditor bears the cost of proving for
+that creditor’s own debt, including costs incurred in providing documents or
+evidence under Rule A1.54(3).
+
+########## Allowing inspection of proofs
+
+5.A1.56
+
+The convener must, so long as proofs delivered to the convener are in the
+possession of the convener, allow them to be inspected, at all reasonable
+times on any business day, by the following—
+
+5.A1.56.1
+
+a creditor who has delivered a proof (unless the proof has been wholly
+rejected, or withdrawn);
+
+5.A1.56.2
+
+a member or contributory of the company; and
+
+5.A1.56.3
+
+a person acting on behalf of any of the above.
+
+########## Admission and rejection of proofs
+
+5.A1.57
+
+5.A1.57.1
+
+The convener may admit or reject a proof (in whole or in part).
+
+5.A1.57.2
+
+If the convener rejects a proof in whole or in part, the convener must deliver
+to the creditor a statement of the convener’s reasons for doing so, as soon as
+reasonably practicable.
+
+########## Appeal against decision on proof
+
+5.A1.58
+
+5.A1.58.1
+
+If a creditor is dissatisfied with the convener’s decision under Rule A1.57 in
+relation to the creditor’s own proof (including a decision whether the debt is
+preferential), the creditor may apply to the court for the decision to be
+reversed or varied.
+
+5.A1.58.2
+
+The application must be made within 21 days of the creditor receiving the
+statement delivered under Rule A1.57(2).
+
+5.A1.58.3
+
+A member, a contributory, or any other creditor, if dissatisfied with the
+convener’s decision admitting, or rejecting the whole or any part of a proof
+or agreeing to revalue a creditor’s security under Rule A1.63, may also make
+such an application within 21 days of becoming aware of the convener’s
+decision.
+
+5.A1.58.4
+
+The court must fix a date for the application to be heard.
+
+5.A1.58.5
+
+The applicant must deliver notice of the date to the creditor who delivered
+the proof in question (unless it is the applicant’s own proof) and the
+convener.
+
+5.A1.58.6
+
+The convener must, on receipt of the notice, file the relevant proof with the
+court, together (if appropriate) with a copy of the statement sent under Rule
+A1.57(2).
+
+5.A1.58.7
+
+After the application has been heard and determined, a proof which was
+submitted by the creditor in hard copy form must be returned by the court to
+the convener.
+
+########## Convener not liable for costs under Rule A 1.58
+
+5.A1.59
+
+The convener is not personally liable for costs incurred by any person in
+respect of an application under Rule A1.58 unless the court orders otherwise.
+
+########## Withdrawal or variation of proof
+
+5.A1.60
+
+5.A1.60.1
+
+A creditor may withdraw a proof at any time by delivering a written notice to
+the convener.
+
+5.A1.60.2
+
+The amount claimed by a creditor’s proof may be varied at any time by
+agreement between the creditor and the convener.
+
+########## Exclusion of proof by the court
+
+5.A1.61
+
+5.A1.61.1
+
+The court may exclude a proof or reduce the amount claimed—
+
+5.A1.61.1.a
+
+on the convener’s application, where the convener thinks that the proof has
+been improperly admitted, or ought to be reduced; or
+
+5.A1.61.1.b
+
+on the application of a creditor, a member, or a contributory, if the convener
+declines to interfere in the matter.
+
+5.A1.61.2
+
+Where application is made under paragraph (1), the court must fix a date for
+the application to be heard.
+
+5.A1.61.3
+
+The applicant must deliver notice of the date—
+
+5.A1.61.3.a
+
+in the case of an application by the convener, to the creditor who submitted
+the proof; and
+
+5.A1.61.3.b
+
+in the case of an application by a creditor, a member, or a contributory, to
+the convener and to the creditor who made the proof (if not the applicant).
+
+########## Moratorium: estimate of value of debt
+
+5.A1.62
+
+5.A1.62.1
+
+In the case of a meeting in respect of a moratorium under Part 1A of the
+Order, the convener must estimate the value of a debt that does not have a
+certain value because it is subject to a contingency or for any other reason.
+
+5.A1.62.2
+
+The convener may revise such an estimate by reference to a change of
+circumstances or to information becoming available to the convener.
+
+5.A1.62.3
+
+The convener must inform the creditor of the convener’s estimate and any
+revision.
+
+5.A1.62.4
+
+Where the value of a debt is estimated under this Rule, the amount provable in
+the case of that debt is that of the estimate for the time being.
+
+########## Secured creditor: value of security
+
+5.A1.63
+
+5.A1.63.1
+
+A secured creditor may, with the agreement of the office-holder or the
+permission of the court, at any time alter the value which that creditor has
+put upon a security in a proof.
+
+5.A1.63.2
+
+Paragraph (3) applies where a secured creditor has voted in respect of the
+unsecured balance of the debt.
+
+5.A1.63.3
+
+Where this paragraph applies—
+
+5.A1.63.3.a
+
+the secured creditor may re-value the security only with the agreement of the
+convener or the permission of the court; and
+
+5.A1.63.3.b
+
+where the revaluation was by agreement, the convener must deliver a notice of
+the revaluation to the creditors within five business days after the
+convener’s agreement.
+
+########## Realisation or surrender of security by creditor
+
+5.A1.64
+
+5.A1.64.1
+
+If a creditor who has valued a security subsequently realises the security—
+
+5.A1.64.1.a
+
+the net amount realised must be treated in all respects (including in relation
+to any valuation in a proof) as an amended valuation made by the creditor; and
+
+5.A1.64.1.b
+
+the creditor may prove for the balance of the creditor’s debt.
+
+5.A1.64.2
+
+A creditor who voluntarily surrenders a security may prove for the whole of
+the creditor’s debt as if it were unsecured.
+
+########## Discounts
+
+5.A1.65
+
+All trade and other discounts (except a discount for immediate or early
+settlement) which would have been available to the company or the debtor but
+for the insolvency proceedings must be deducted from the claim.
+
+########## Debts in foreign currency
+
+5.A1.66
+
+5.A1.66.1
+
+A proof for a debt incurred or payable in a foreign currency must state the
+amount of the debt in that currency.
+
+5.A1.66.2
+
+The convener must convert all such debts into sterling at a single rate for
+each currency determined by the convener by reference to the exchange rates
+prevailing on the date of the meeting.
+
+5.A1.66.3
+
+On the next occasion when the convener communicates with the creditors the
+convener must advise them of any rate so determined.
+
+5.A1.66.4
+
+A creditor who considers that the rate determined by the convener is
+unreasonable may apply to the court.
+
+5.A1.66.5
+
+If on hearing the application the court finds that the rate is unreasonable it
+may itself determine the rate.
+
+########## Payments of a periodical nature
+
+5.A1.67
+
+5.A1.67.1
+
+In the case of rent and other payments of a periodical nature, the creditor
+may prove for any amounts due and unpaid up to the date of the meeting.
+
+5.A1.67.2
+
+Where at that date any payment was accruing due, the creditor may prove for so
+much as would have been due at that date, if accruing from day to day.
+
+########## Interest
+
+5.A1.68
+
+5.A1.68.1
+
+Where a debt proved in proceedings under Part 1A of the Order bears interest,
+that interest is provable as part of the debt except in so far as it is
+payable in respect of any period after the date of the meeting.
+
+5.A1.68.2
+
+In the circumstances set out in paragraphs (3) to (6) the creditor’s claim may
+include interest on the debt for periods before the date of the meeting
+although not previously reserved or agreed.
+
+5.A1.68.3
+
+If the debt is due by virtue of a written instrument and payable at a certain
+time, interest may be claimed for the period from that time to the date of the
+meeting.
+
+5.A1.68.4
+
+If the debt is due otherwise, interest may only be claimed if, before the date
+of the meeting, demand for payment of the debt was made in writing by or on
+behalf of the creditor, and notice was delivered that interest would be
+payable from the date of the demand to the date of the payment.
+
+5.A1.68.5
+
+Interest under paragraph (4) may only be claimed for the period from the date
+of the demand to the date of the meeting and, for the purposes of Part 1A of
+the Order and Part A1 of these Rules, must be charged at a rate not exceeding
+that mentioned in paragraph (6).
+
+5.A1.68.6
+
+The rate of interest to be claimed under paragraphs (3) and (4) is the rate
+applicable to a money judgment of the High Court on the date of the meeting.
+
+########## Moratoriums under Part 1A of the Order: mutual dealings and set off
+
+5.A1.69
+
+5.A1.69.1
+
+This Rule applies for the purposes of a meeting in respect of a moratorium
+under Part 1A of the Order.
+
+5.A1.69.2
+
+An account must be taken of what is due from the company and the creditor to
+each other in respect of their mutual dealings and the sums due from the one
+must be set off against the sums due from the other.
+
+5.A1.69.3
+
+If there is a balance owed to the creditor then only that balance is provable
+for the purposes of the meeting.
+
+5.A1.69.4
+
+For the purpose of this Rule, “ mutual dealings ” means mutual credits, mutual
+debts or other mutual dealings between the company and a creditor proving or
+claiming to prove for a debt in the meeting but—
+
+5.A1.69.4.a
+
+in the case of a meeting held for the purposes of Article 13CB only includes
+those debts which are pre-moratorium debts within the meaning given by Article
+13HD; and
+
+5.A1.69.4.b
+
+in the case of a meeting which is required by virtue of an order under Article
+13FB(3), only includes those debts which are pre-moratorium debts unless the
+court orders otherwise.
+
+5.A1.69.5
+
+A sum must be treated as being due to or from the company for the purposes of
+paragraph (2) whether—
+
+5.A1.69.5.a
+
+it is payable at present or in the future;
+
+5.A1.69.5.b
+
+the obligation by virtue of which it is payable is certain or contingent; or
+
+5.A1.69.5.c
+
+its amount is fixed or liquidated, or is capable of being ascertained by fixed
+Rules or as a matter of opinion.
+
+5.A1.69.6
+
+For the purposes of this Rule—
+
+5.A1.69.6.a
+
+Rule A1.62 applies to an obligation which, by reason of its being subject to a
+contingency or for any other reason, does not bear a certain value; and
+
+5.A1.69.6.b
+
+Rules A1.66 to A1.68 apply to sums due to the company which—
+
+5.A1.69.6.b.i
+
+are payable in a currency other than sterling;
+
+5.A1.69.6.b.ii
+
+are of a periodical nature; or
+
+5.A1.69.6.b.iii
+
+bear interest.
+
+######### Moratorium - Meetings
+
+########## The convener
+
+5.A1.70
+
+For the purposes of this chapter the directors summoning a meeting of pre-
+moratorium creditors under Article 13CC of the Order are referred to
+(collectively) as “the convener”.
+
+########## Creditor when used in relation to a meeting under Article 13CC
+
+5.A1.71
+
+In this chapter “ creditor ” in relation to a meeting under 13CC (creditor
+consent for the purposes of Article 13CB) means a creditor who is a pre-
+moratorium creditor within the meaning given by Article 13CC.
+
+########## Notice to creditors of meetings
+
+5.A1.72
+
+5.A1.72.1
+
+Notice of a meeting of pre-moratorium creditors under Article 13CC must be
+given by the convener to every pre-moratorium creditor of whose address the
+convener is aware.
+
+5.A1.72.2
+
+Notice of a meeting of creditors held pursuant to an order of the court under
+Article 13FB(3) must be given by the convener to all of the company’s
+creditors of whose addresses the convener is aware.
+
+5.A1.72.3
+
+Notice of a meeting under paragraph (1) or (2) must be given at least 5 days
+before the date fixed for the meeting and must include the venue for the
+meeting.
+
+5.A1.72.4
+
+A notice under paragraph (1) or (2) must contain a statement that the meeting
+may be suspended or adjourned by the chair of the meeting (and must be
+adjourned if it is so resolved at the meeting).
+
+5.A1.72.5
+
+A notice under paragraph (1) must state that, in order to be entitled to vote
+at the meeting, the creditor must have delivered a proof and (if applicable) a
+proxy, in accordance with these Rules, to the convener not later than 4.00pm
+on the business day before the date fixed for the meeting.
+
+5.A1.72.6
+
+A notice under paragraph (2) must state that, in order to be entitled to vote
+at the meeting, any creditor who has not already lodged a proof and (if
+applicable) a proxy must deliver a proof and (if applicable) a proxy, in
+accordance with these Rules, to the convener not later than 4.00pm on the
+business day before the date fixed for the meeting.
+
+5.A1.72.7
+
+A notice under paragraph (1) must state that the meeting is being held for the
+purpose of seeking the consent of the pre-moratorium creditors to a revised
+end date for the moratorium.
+
+5.A1.72.8
+
+A notice under paragraph (2) must state that the High Court has made an order
+requiring the meeting to be held and must include particulars of the matters
+which the Court has directed should be considered at the meeting.
+
+5.A1.72.9
+
+A notice under paragraph (1) or (2) must state that a creditor may appeal a
+decision in accordance with Rule A1.91 and the relevant period under that Rule
+within which such an appeal may be made.
+
+5.A1.72.10
+
+A notice under paragraph (1) or (2) must be authenticated and dated by the
+convener.
+
+5.A1.72.11
+
+A notice under paragraph (1) or (2) must be accompanied by a blank proxy [FORM
+8.6].
+
+5.A1.72.12
+
+This Rule does not apply if the court orders under Rule A1.73 that notice of
+the meeting be given by advertisement only.
+
+########## Notice of meeting by advertisement only
+
+5.A1.73
+
+5.A1.73.1
+
+The court may order that notice of a meeting under Part 1A of the Order is to
+be given by advertisement only and not by individual notice to the persons
+concerned.
+
+5.A1.73.2
+
+In considering whether to make such an order, the court must have regard to
+the relative cost of advertisement as against the giving of individual
+notices, the amount of assets available and the extent of the interest of
+creditors, members and contributories or any particular class of them.
+
+5.A1.73.3
+
+The advertisement must meet the requirements for a notice under Rule A1.72(5)
+to (9) and must also state—
+
+5.A1.73.3.a
+
+that the High Court ordered that notice of the meeting be given by
+advertisement only; and
+
+5.A1.73.3.b
+
+the date of the court’s order.
+
+########## Notice to company officers of meetings
+
+5.A1.74
+
+5.A1.74.1
+
+Notice to participate in a creditors meeting in respect of a moratorium under
+Part 1A of the Order must be given by the convener to every present or former
+officer of the company whose presence the convener thinks is required and that
+person is required to attend the meeting.
+
+5.A1.74.2
+
+Notice under this Rule must be given at least 5 days before the date fixed for
+the meeting or in compliance with an order of the court under Rule A1.73.
+
+########## Non-receipt of notice of meeting
+
+5.A1.75
+
+Where notice of a meeting is given to creditors in accordance with Part 1A of
+the Order or Part A1, the meeting is presumed to have been duly initiated and
+conducted, even if not everyone to whom the notice is to be delivered has
+received it.
+
+########## Venue
+
+5.A1.76
+
+5.A1.76.1
+
+In fixing the venue for a meeting, in respect of a moratorium under Part 1A of
+the Order (including the resumption of an adjourned meeting) the convener
+shall have regard to the convenience of the persons (other than whoever is to
+be chair) who are invited to attend.
+
+5.A1.76.2
+
+Meetings shall in all cases be summoned for commencement between 10.00a.m. and
+4.00p.m. on a business day, unless the court otherwise directs.
+
+########## Expenses of summoning meeting
+
+5.A1.77
+
+5.A1.77.1
+
+The expenses of summoning and holding a meeting of pre-moratorium creditors at
+the instance of the directors of the company are to be paid by the company.
+
+5.A1.77.2
+
+The expenses of summoning and holding a meeting of creditors held pursuant to
+an order of the court under Article 13FB(3) are to be paid by the company
+unless the court orders otherwise.
+
+########## The chair at a meeting
+
+5.A1.78
+
+5.A1.78.1
+
+If the meeting has been convened by the directors they may nominate one of
+their number to act as the chair.
+
+5.A1.78.2
+
+If the meeting has been convened other than by the directors or if it has been
+convened by the directors and they do not nominate one of their number to act
+as chair, the monitor, or a person appointed by the monitor shall be chair of
+the meeting.
+
+5.A1.78.3
+
+A person appointed by the monitor under paragraph (2) must be either—
+
+5.A1.78.3.a
+
+qualified to act as an insolvency practitioner in relation to the company; or
+
+5.A1.78.3.b
+
+a person experienced in insolvency matters who is—
+
+5.A1.78.3.b.i
+
+a member or employee of the office-holder’s firm; or
+
+5.A1.78.3.b.ii
+
+an employee of the office-holder.
+
+########## Chair of meeting as proxy-holder
+
+5.A1.79
+
+Where the chair at a meeting of creditors holds a proxy which requires the
+chair to vote for a particular resolution, and no other person proposes that
+resolution—
+
+5.A1.79.1
+
+the chair shall propose it, unless the chair considers that there is good
+reason for not doing so; and
+
+5.A1.79.2
+
+if the chair does not propose it, the chair shall forthwith after the meeting
+notify the principal of the reason why not.
+
+########## The chair – attendance, interventions and questions
+
+5.A1.80
+
+The chair of a meeting may—
+
+5.A1.80.1
+
+allow any person who has given reasonable notice of wishing to attend to be
+admitted to a meeting;
+
+5.A1.80.2
+
+decide what intervention, if any, may be made at a meeting of creditors by any
+person attending who is not a creditor; and
+
+5.A1.80.3
+
+decide what questions may be put to any present or former officer of the
+company.
+
+########## Adjournment of meeting in, or for the purposes of, a moratorium under Part 1A of the Order
+
+5.A1.81
+
+5.A1.81.1
+
+This Rule applies where a meeting is for the purposes of a moratorium under
+Part 1A of the Order.
+
+5.A1.81.2
+
+Where this rule applies the chair may, (and must if it is so resolved),
+adjourn a meeting.
+
+5.A1.81.3
+
+A meeting may be adjourned under this rule on more than one occasion.
+
+5.A1.81.4
+
+An adjournment under this Rule—
+
+5.A1.81.4.a
+
+must not be—
+
+5.A1.81.4.a.i
+
+for a period which is more than 14 days; or
+
+5.A1.81.4.a.ii
+
+to a date which is more than 14 days after the first day on which the meeting
+was held; and
+
+5.A1.81.4.b
+
+where a meeting is for the purpose of seeking a decision of creditors to a
+revised end date for a moratorium under Article 13CB  must be to a date which
+is before the end of the moratorium.
+
+5.A1.81.5
+
+This Rule is subject to any direction of the court.
+
+########## Adjournment in absence of chair
+
+5.A1.82
+
+5.A1.82.1
+
+If no one attends to act as chair within 30 minutes of the time fixed for a
+meeting in respect of a moratorium under Part 1A of the Order to start, then
+the meeting is adjourned to the same time and place the following week or, if
+that is not a business day, to the business day immediately following.
+
+5.A1.82.2
+
+If no one attends to act as chair within 30 minutes of the time fixed for the
+meeting after a second adjournment under this Rule, then the meeting comes to
+an end.
+
+########## Proofs in adjournment
+
+5.A1.83
+
+Where a meeting in respect of a moratorium under Part 1A of the Order is
+adjourned, proofs and proxies may be used if delivered not later than 4.00p.m.
+on the business day immediately before resumption of the adjourned meeting, or
+later than that time where the chair is content to accept the proof and if it
+is accompanied by a proxy, the proxy.
+
+########## Suspension
+
+5.A1.84
+
+The chair of a meeting may, without an adjournment, declare the meeting
+suspended for one or more periods not exceeding one hour in total (or, in
+exceptional circumstances, such longer total period during the same day at the
+chair’s discretion).
+
+########## Voting at a meeting
+
+5.A1.85
+
+5.A1.85.1
+
+At a meeting in respect of a moratorium under Part 1A of the Order, a vote
+must be disregarded if—
+
+5.A1.85.1.a
+
+a proof in respect of the claim is not received by the convener on or before
+4.00p.m. on the business day before the date of the meeting unless under Rule
+A1.83 or A1.86(1)(b)(ii) (as applicable) the chair is content to accept the
+proof later; or
+
+5.A1.85.1.b
+
+the convener decides, on the application of Rules A1.86 to A1.90, that the
+creditor is not entitled to cast the vote.
+
+5.A1.85.2
+
+For a decision to be made at a meeting there must be at least one valid vote.
+
+########## Creditors’ voting rights
+
+5.A1.86
+
+5.A1.86.1
+
+At a meeting of creditors in respect of a moratorium under Part 1A of the
+Order a creditor is entitled to vote only if—
+
+5.A1.86.1.a
+
+the creditor has delivered to the convener a proof of the debt claimed as due
+to them from the company, including any calculation for the purposes of Rule
+A1.87 or A1.88; and
+
+5.A1.86.1.b
+
+the proof was received by the convener—
+
+5.A1.86.1.b.i
+
+not later than 4.00p.m. on the business day before the meeting; or
+
+5.A1.86.1.b.ii
+
+later than the time given in head (i) where the chair is content to accept the
+proof; and
+
+5.A1.86.1.c
+
+the proof has been admitted for the purposes of entitlement to vote.
+
+5.A1.86.2
+
+A proxy-holder is not entitled to vote on behalf of a creditor unless the
+convener or chair has received the proxy intended to be used on behalf of that
+creditor.
+
+5.A1.86.3
+
+The convener or chair may call for any document or other evidence to be
+produced if the convener or chair thinks it necessary for the purpose of
+substantiating the whole or any part of a claim.
+
+########## Calculation of voting rights
+
+5.A1.87
+
+5.A1.87.1
+
+Votes at a meeting in respect of a moratorium under Part 1A of the Order are
+calculated according to the amount of each creditor’s claim as at the date of
+the meeting.
+
+5.A1.87.2
+
+In relation to a meeting in respect of a moratorium under Part 1A of the
+Order, a debt of an unliquidated or unascertained amount is to be valued at £1
+for the purposes of voting unless the convener or chair decides to put a
+higher value on it.
+
+5.A1.87.3
+
+Where a debt is wholly or partly secured the value of a debt for voting
+purposes is its full value without deduction of the value of the security
+where in respect of a moratorium under Part 1A of the Order, there is a
+meeting of pre-moratorium creditors on whether to extend or further extend
+that moratorium under Article 13CB.
+
+5.A1.87.4
+
+In the case of a meeting of creditors held pursuant to an order of the court
+under Article 13FB(3) the value for voting purposes of a debt which is wholly
+secured is nil, and the value for voting purposes of a debt which is partly
+secured is the value of the unsecured part.
+
+5.A1.87.5
+
+No vote may be cast in respect of a claim more than once on any resolution put
+to the meeting.
+
+5.A1.87.6
+
+Paragraph (5) does not prevent a creditor from—
+
+5.A1.87.6.a
+
+voting in respect of less than the full value of an entitlement to vote; or
+
+5.A1.87.6.b
+
+casting a vote one way in respect of part of the value of an entitlement and
+another way in respect of some or all of the balance of that value.
+
+########## Calculation of voting rights: special cases
+
+5.A1.88
+
+5.A1.88.1
+
+In a meeting in respect of a moratorium under Part 1A of the Order, a creditor
+under a hire-purchase agreement is entitled to vote in respect of the debt due
+and payable by the company at the date of the meeting.
+
+5.A1.88.2
+
+In calculating the amount of any debt for the purpose of paragraph (1) no
+account is to be taken of any amount attributable to the exercise of any right
+under the relevant agreement so far as the right has become exercisable solely
+by virtue of a moratorium for the company coming into force.
+
+########## Procedure for admitting creditors’ claims for voting
+
+5.A1.89
+
+5.A1.89.1
+
+The convener or chair in respect of a creditors’ meeting must ascertain
+entitlement to vote and admit or reject claims accordingly.
+
+5.A1.89.2
+
+The convener or chair may admit or reject a claim in whole or in part.
+
+5.A1.89.3
+
+If the convener or chair is in any doubt whether a claim should be admitted or
+rejected, the convener or chair must mark it as objected to and allow votes to
+be cast in respect of it, subject to such votes being subsequently declared
+invalid if the objection to the claim is sustained.
+
+########## Requisite majority
+
+5.A1.90
+
+5.A1.90.1
+
+Subject to paragraphs (2) and (3), a decision in respect of a moratorium under
+Part 1A of the Order is made when a majority (in value calculated in
+accordance with A1.87 and A1.88 as the case may be) of those voting have voted
+in favour of the proposed decision.
+
+5.A1.90.2
+
+A decision is not made if, of the total number of those creditors voting in
+respect of the proposed decision who are, to the best of the convener’s
+belief, unconnected with the company, a majority vote against it.
+
+5.A1.90.3
+
+For the purpose of paragraph (2) a creditor is unconnected unless the convener
+decides that the ceditor is connected.
+
+5.A1.90.4
+
+In the case of a decision which is required by virtue of an order under
+Article 13FB(3) paragraphs (1) and (2) have effect subject to such
+modifications as may be set out in the court’s order.
+
+########## Appeals against decisions under this chapter
+
+5.A1.91
+
+5.A1.91.1
+
+A decision of the convener or chair under this Chapter is subject to appeal to
+the court by a creditor.
+
+5.A1.91.2
+
+Subject to paragraph (3), on an appeal against a decision taken, or required,
+under Part 1A of the Order the court may—
+
+5.A1.91.2.a
+
+reverse the decision;
+
+5.A1.91.2.b
+
+vary the decision;
+
+5.A1.91.2.c
+
+declare certain votes to be invalid; or
+
+5.A1.91.2.d
+
+make such other order as it sees fit.
+
+5.A1.91.3
+
+The court must not make an order of the kind referred to in paragraph (2)(a)
+to (c) if—
+
+5.A1.91.3.a
+
+it is satisfied that the circumstances which led to the appeal did not give
+rise to unfair prejudice or material irregularity; or
+
+5.A1.91.3.b
+
+the decision was taken at a time when the moratorium was in force, and that
+moratorium has subsequently come to an end.
+
+5.A1.91.4
+
+An appeal under this Rule may not be made later than 21 days after the
+decision date.
+
+5.A1.91.5
+
+The person who made the decision is not personally liable for costs incurred
+by any person in relation to an appeal under this Rule unless the court makes
+an order to that effect.
+
+########## Record of a decision
+
+5.A1.92
+
+5.A1.92.1
+
+The convener or chair must cause a record of the meeting to be kept.
+
+5.A1.92.2
+
+The record must be in the form of a minute of the meeting.
+
+5.A1.92.3
+
+The record must be authenticated by the convener or chair and be retained by
+the monitor as part of the records of the moratorium.
+
+5.A1.92.4
+
+The record must identify the proceedings, and must include—
+
+5.A1.92.4.a
+
+a list of the names of the creditors who participated and their claims; and
+
+5.A1.92.4.b
+
+a record of every decision made and how creditors voted.
+
+.
+
+### Miscellaneous amendments of the principal Rules
+
+#### Amendment to the principal Rules
+
+6
+
+The principal Rules are amended as follows.
+
+7
+
+In Rule 0.2 (interpretation)—
+
+7.1
+
+After the definition of “authorised deposit-taker” insert—
+
+“ authenticate ” means to authenticate in accordance with Rule A1.34
+(Authentication of applications, notices and statements)
+
+.
+
+7.2
+
+After the definition of “the court” insert—
+
+“ debt ”, in relation to meetings in respect of a moratorium under Part 1A of
+the Order means (subject to Rule A1.50 (Liabilities in tort)) any of the
+following— any debt or liability to which the company is subject at the date
+of the meeting; any debt or liability to which the company may become subject
+after the date of the meeting by reason of any obligation incurred before that
+date; any interest provable as mentioned in Rule A1.68 (Interest);
+
+.
+
+7.3
+
+After the definition of “the hearing date” insert—
+
+“identification details” and similar references to information identifying
+persons or proceedings etc in Part 1A of the Order or Part A1 are to be
+interpreted in accordance with Rule A1.35 (Information required to identify
+persons and proceedings etc);
+
+.
+
+7.4
+
+After the definition of “the insolvent estate” insert—
+
+“ IP number ” means the identifying number or reference issued to the
+insolvency practitioner by a professional body recognised under Article 350
+(Recognised professional bodies) of the Order;
+
+.
+
+7.5
+
+After the definition of “Master” insert—
+
+“ office-holder ” means a person who under the Order or these Rules holds an
+office in relation to insolvency proceedings and includes a nominee;
+
+.
+
+7.6
+
+After the definition of “sealed” insert—
+
+“ standard contents ” means— for a document to be delivered to the registrar,
+the standard contents set out in Chapter 14 of Part A1; for a document to be
+delivered to other persons, the standard contents set out in Chapter 15 of
+Part A1;
+
+.
+
+#### Amendment to the heading before Parts 1 to 4
+
+8
+
+In the heading before Parts 1 to 4, for “1 to 4” substitute  “A1 to 4” .
+
+#### Amendment of Part 1
+
+9
+
+In Rule 1.01 (Scope of this Part; interpretation)—
+
+9.1
+
+In paragraph (2)—
+
+9.1.a
+
+for sub-paragraph (a) substitute—
+
+9.1.a.a
+
+Chapter 2 applies where the proposal for the voluntary arrangement is made by
+the directors of the company and the company is neither in liquidation nor in
+administration;
+
+.
+
+9.1.b
+
+In sub-paragraph (e) omit “with or without a moratorium”.
+
+9.1.c
+
+Omit sub-paragraph (f).
+
+9.2
+
+Omit paragraph (4).
+
+10
+
+In Rule 1.03 (Contents of proposal) in paragraph (2), after sub-paragraph (m)
+insert—
+
+10.ma
+
+whether a moratorium is, or has been, in force for the company under Part 1A
+of the Order and, if so, the date that moratorium came into force and, (if
+applicable), the date it ended;
+
+.
+
+11
+
+In Rule 1.05 (Statement of affairs)—
+
+11.1
+
+In paragraph (2) after “those already given in the directors’ proposal)”
+insert  “and, in addition, where paragraph (2B) applies the information
+specified in that paragraph” .
+
+11.2
+
+After paragraph (2) insert—
+
+11.2.2A
+
+Paragraph (2B) applies if a moratorium under Part 1A of the Order is, or has
+been, in force for the company at any time within the period of 12 weeks
+ending with the day on which the statement of affairs is made up.
+
+11.2.2B
+
+Where this paragraph applies the statement of affairs must identify which of
+the debts owed by the company are—
+
+11.2.2B.a
+
+moratorium debts; and
+
+11.2.2B.b
+
+priority pre-moratorium debts;
+
+within the meaning given by Article 148A .
+
+.
+
+12
+
+Omit chapter 9 of Part 1.
+
+#### Amendment of Part 2
+
+13
+
+In Rule 2.006 (Service of application) before sub-paragraph (3)(a) insert—
+
+13.za
+
+if there is a moratorium in force for the company under Part 1A of the Order,
+the monitor;
+
+.
+
+14
+
+In Rule 2.012 (The hearing) after sub-paragraph (1)(c) insert—
+
+14.ca
+
+if there is a moratorium in force for the company under Part 1A of the Order,
+the monitor;
+
+.
+
+15
+
+In Rule 2.028 (Notification and advertisement of administrator’s appointment)
+before sub-paragraph (2)(a) insert—
+
+15.za
+
+if there is a moratorium in force for the company under Part 1A of the Order,
+to the monitor;
+
+.
+
+16
+
+In Rule 2.034 (Administrator’s proposals)—
+
+16.1
+
+In paragraph (2)—
+
+16.1.a
+
+after sub-paragraph (e) insert—
+
+16.1.a.ea
+
+a statement as to whether a moratorium under Part 1A of the Order has been in
+force for the company at any time within the period of 2 years ending with the
+day on which it entered administration and, if so—
+
+16.1.a.ea.i
+
+the date on which it came into force;
+
+16.1.a.ea.ii
+
+the date on which it ended; and
+
+16.1.a.ea.iii
+
+particulars of the purposes for which it was entered into and whether, and to
+what extent, those purposes were achieved;
+
+ and
+
+16.1.b
+
+in sub-paragraph (j) after “financial position of the company” insert  “(as to
+which see paragraph (2ZA))” .
+
+16.2
+
+After paragraph (2) insert—
+
+16.2.2ZA
+
+For the purposes of paragraph (2)(j) if a moratorium has been in force at any
+time within the period of 12 weeks ending with the day on which the company
+entered administration then the details of the financial position of the
+company must identify which of the debts owed by the company are—
+
+16.2.2ZA.a
+
+moratorium debts; and
+
+16.2.2ZA.b
+
+priority pre-moratorium debts;
+
+within the meaning given by Article 148A.
+
+.
+
+17
+
+In Rule 2.068 (Expenses of the administration), after paragraph (3) insert—
+
+17.3A
+
+Where paragraph 65A or paragraph 100(1) of Schedule B1 to the Order applies,
+the items specified in paragraph 65A or paragraph 100 (as the case may be) are
+payable in priority to the expenses in this Rule.
+
+.
+
+18
+
+After Rule 2.068 insert—
+
+######## Priority of moratorium debts in subsequent administration
+
+18.2.068ZA
+
+Where paragraph 65A(1) of Schedule B1 to the Order applies, the moratorium
+debts and priority pre-moratorium debts mentioned in paragraph 65A(2) of that
+Schedule are payable in the following order of priority—
+
+18.2.068ZA.a
+
+amounts payable in respect of goods or services supplied during the moratorium
+under a contract where, but for Article 197B(3) or (4) , the supplier would
+not have had to make that supply;
+
+18.2.068ZA.b
+
+wages or salary arising under a contract of employment, so far as relating to
+a period of employment before or during the moratorium;
+
+18.2.068ZA.c
+
+other debts or other liabilities apart from the monitor’s remuneration or
+expenses; and
+
+18.2.068ZA.d
+
+the monitor’s remuneration or expenses.
+
+.
+
+19
+
+In Rule 2.096 (Notice of proposed distribution)—
+
+19.1
+
+In paragraph (1), after “he shall” insert  “(subject to paragraphs (5) and
+(6));” .
+
+19.2
+
+For paragraph 2(b) substitute—
+
+19.2.b
+
+state which of the following classes of creditor will be included in the
+distribution—
+
+19.2.b.i
+
+creditors in respect of a debt which is a moratorium debt or priority pre-
+moratorium debt within the meaning given by Article 148A;
+
+19.2.b.ii
+
+preferential creditors;
+
+19.2.b.iii
+
+unsecured creditors.
+
+.
+
+19.3
+
+For paragraph (5) substitute—
+
+19.3.5
+
+Paragraph (6) applies where the intended dividend is only for one or both of
+the following—
+
+19.3.5.a
+
+preferential creditors; or
+
+19.3.5.b
+
+creditors in respect of a debt which is a moratorium debt or priority pre-
+moratorium debt with the meaning given by Article 148A.
+
+.
+
+19.4
+
+After paragraph (5) insert—
+
+19.4.6
+
+Where this paragraph applies the administrator is only required to deliver a
+notice pursuant to paragraph (1) of this Rule to those creditors referred to
+in sub-paragraph (5)(a) and (b) for whom the dividend is intended and public
+advertisement of the intended dividend need only be done if the administrator
+thinks fit.
+
+.
+
+20
+
+In Rule 2.099 (Notice of declaration of a dividend)—
+
+20.1
+
+In paragraph (1), after “he shall” insert  “(subject to paragraphs (3) and
+(4))” .
+
+20.2
+
+After paragraph (2) insert—
+
+20.2.3
+
+Paragraph (4) applies where the administrator declares a dividend which is
+only for one or both of the following—
+
+20.2.3.a
+
+preferential creditors; or
+
+20.2.3.b
+
+creditors in respect of a debt which is a moratorium debt or priority pre-
+moratorium debt within the meaning given by Article 148A.
+
+20.2.4
+
+Where this paragraph applies the notice under paragraph (1) need only be
+delivered to those creditors referred to in sub-paragraph (3)(a) or (b) (as
+the case may be) who have proved for their debts.
+
+.
+
+#### Amendment of Part 4
+
+21
+
+In Rule 4.002 (Winding up by the court: the various forms of petition) in
+paragraph (1) omit “paragraph (fa) – end of moratorium without approval of
+voluntary arrangement;”.
+
+22
+
+In Rule 4.013 (Persons entitled to copy of petition) after “company” insert,
+“and, (if a moratorium under Part 1A of the Order is in force for the
+company), the monitor” .
+
+23
+
+In Rule 4.021 (Transmission and advertisement of order) for paragraph (4)
+substitute—
+
+23.4
+
+The official receiver shall forward a copy of the order to—
+
+23.4.i
+
+the registrar (in compliance with Article 110(1)); and
+
+23.4.ii
+
+if a moratorium under Part 1A of the Order was in force for the company at the
+time the petition for the winding up of the company was presented, the
+monitor.
+
+.
+
+24
+
+In Rule 4.027 (Appointment of provisional liquidator) before paragraph
+(2)(d)(i) insert—
+
+24.zi
+
+a moratorium under Part 1A of the Order is in force for the company;
+
+.
+
+25
+
+In Rule 4.029 (Order of appointment) for paragraph (3) substitute—
+
+25.3
+
+The official receiver or other person appointed as provisional liquidator must
+as soon as reasonably practicable deliver a sealed copy of the order to
+either—
+
+25.3.a
+
+the company; or
+
+25.3.b
+
+the liquidator, if a liquidator was appointed for the company’s voluntary
+winding-up.
+
+25.4
+
+Where a moratorium under Part 1A of the Order is in force for the company the
+official receiver or other person appointed as provisional liquidator must as
+soon as reasonably practicable deliver a sealed copy of the order to the
+monitor.
+
+25.5
+
+The official receiver or other person appointed as provisional liquidator must
+as soon as reasonably practicable deliver a copy of the order with form 4.16A
+to the registrar.
+
+.
+
+26
+
+In Rule 4.034 (Termination of appointment) at the end insert—
+
+26.3
+
+Notice of termination of the appointment of a provisional liquidator must be
+given by the provisional liquidator, unless the termination is on the making
+of a winding-up order or the court otherwise directs.
+
+26.4
+
+The notice referred to in paragraph (3)—
+
+26.4.a
+
+must be sent as soon as reasonably practicable to—
+
+26.4.a.i
+
+the registrar; and
+
+26.4.a.ii
+
+if a moratorium under Part 1A of the Order is in force for the company, the
+monitor;
+
+26.4.b
+
+must be gazetted as soon as reasonably practicable; and
+
+26.4.c
+
+may be advertised in such other manner as the provisional liquidator thinks
+fit.
+
+26.5
+
+The notice under paragraph (3) must state—
+
+26.5.a
+
+that the appointment as provisional liquidator has been terminated;
+
+26.5.b
+
+the date of that termination; and
+
+26.5.c
+
+that the appointment terminated otherwise than on the making of a winding-up
+order.
+
+.
+
+27
+
+After Rule 4.113 (Appointment to be advertised and registered) insert—
+
+######## Additional requirements as to advertisement where moratorium under Part 1A of the Order in force
+
+27.4.113A
+
+27.4.113A.1
+
+This Rule applies in the case of a voluntary winding up where, immediately
+before the company goes into liquidation, a moratorium under Part 1A of the
+Order is in force for that company.
+
+27.4.113A.2
+
+Where this Rules applies the liquidator must, in addition to delivering a
+notice of the appointment in accordance with Article 95(1), deliver notice of
+the liquidator’s appointment to the monitor.
+
+27.4.113A.3
+
+Notice under this Rule must be given within the period of 14 days beginning
+with the day on which the liquidator is appointed.
+
+.
+
+28
+
+In Rule 4.228 (General Rule as to priority)—
+
+28.1
+
+After paragraph (1) insert—
+
+28.1.1A
+
+The costs of an application by the liquidator under Rule A1.27 are to be
+treated as an expense of the winding up unless the court orders otherwise.
+
+.
+
+28.2
+
+In paragraph (3), after “as provided in” insert  “paragraphs (5) and (6), Rule
+4.228ZA, and” .
+
+28.3
+
+After paragraph (4) insert—
+
+28.3.5
+
+This paragraph applies where—
+
+28.3.5.a
+
+a moratorium has been in force for a company under Part 1A of the Order;
+
+28.3.5.b
+
+proceedings for the winding up of the company are begun before the end of the
+period of 12 weeks beginning with the day after the end of the moratorium; and
+
+28.3.5.c
+
+there are claims in respect of any prescribed fees or expenses of the official
+receiver which, in accordance with Article 148A(2), fall to be paid in
+preference to all other claims.
+
+28.3.6
+
+Where paragraph (5) applies, then, in consequence of those claims of the
+official receiver falling to be paid in preference to all other claims by
+virtue of Article 148A(2), the order of priority referred to in paragraph (3)
+is modified as follows—
+
+28.3.6.a
+
+sub-paragraph (a)(ii) is omitted in relation to any expenses chargeable or
+incurred by the official receiver;
+
+28.3.6.b
+
+sub-paragraph (a)(iii) and (iv) are omitted; and
+
+28.3.6.c
+
+sub-paragraphs (b) to (d) are omitted in relation to any expenses incurred by,
+or fee payable to, the official receiver.
+
+.
+
+29
+
+After Rule 4.228 (General Rule as to priority) insert—
+
+######## Priority of moratorium debts in subsequent winding up
+
+29.4.228ZA
+
+Where Article 148A applies the moratorium debts and priority pre-moratorium
+debts mentioned in paragraph (2)(b) of that Article are payable in the
+following order of priority—
+
+29.4.228ZA.a
+
+amounts payable in respect of goods or services supplied during the moratorium
+under a contract where, but for Article 197B(3) or (4), the supplier would not
+have had to make that supply;
+
+29.4.228ZA.b
+
+wages or salary arising under a contract of employment;
+
+29.4.228ZA.c
+
+other debts or other liabilities apart from the monitor’s remuneration or
+expenses; and
+
+29.4.228ZA.d
+
+the monitor’s remuneration or expenses.
+
+.
+
+30
+
+In Rule 4.228A (Litigation expenses and property subject to a floating charge
+- general provisions) in paragraph (1)(b), before (i) insert—
+
+30.ai
+
+a creditor in respect of a debt which is a moratorium debt or a priority pre-
+moratorium debt within the meaning given by Article 148A;
+
+.
+
+31
+
+In Rule 4.228C (Litigation expenses and property subject to a floating charge
+- request for approval or authorisation) for paragraph (4)(c) substitute—
+
+31.c
+
+notice to—
+
+31.c.i
+
+each preferential creditor; and
+
+31.c.ii
+
+each creditor of the kind described in Rule 4.228A(1)(b)(ai);
+
+that approval or authorisation of the specified amount will be taken to be
+given where a majority in value of those creditors referred to in sub-
+paragraphs (i) and (ii) who respond within the specified time limit are in
+favour of it; or
+
+.
+
+32
+
+In Rule 4.228D (Litigation expenses and property subject to a floating charge
+- grant of approval or authorisation)—
+
+32.1
+
+For paragraph (3), substitute—
+
+32.1.3
+
+Paragraph (3A) applies where the liquidator requires the approval or
+authorisation of—
+
+32.1.3.a
+
+two or more—
+
+32.1.3.a.i
+
+preferential creditors; or
+
+32.1.3.a.ii
+
+creditors of the kind described in Rule 4.228A(1)(b)(ai); or
+
+32.1.3.b
+
+one or more preferential creditors together with one or more creditors of the
+kind described in Rule 4.228A(1)(b)(ai).
+
+.
+
+32.2
+
+After paragraph (3) insert—
+
+32.2.3A
+
+Where this paragraph applies approval or authorisation shall be taken to be
+given where a majority in value of those creditors referred to in sub-
+paragraphs 3(a)(i) or (ii) or paragraph (3)(b) (as the case may be) who
+respond within the specified time limit approve or authorise—
+
+32.2.3A.a
+
+the specified amount; or
+
+32.2.3A.b
+
+a different amount which the liquidator considers sufficient.
+
+.
+
+32.3
+
+For paragraph (4) substitute—
+
+32.3.4
+
+Where a majority in value of—
+
+32.3.4.a
+
+two or more—
+
+32.3.4.a.i
+
+preferential creditors; or
+
+32.3.4.a.ii
+
+creditors of the kind described in Rule 4.228A(1)(b)(ai); or
+
+32.3.4.b
+
+one or more preferential creditors together with one or more creditors of the
+kind described in Rule 4.228A(1)(b)(ai);
+
+propose an amount other than that specified by the liquidator, they shall be
+taken to have approved or authorised an amount equal to the lowest of the
+amounts so proposed.
+
+.
+
+#### Amendment of Part 7
+
+33
+
+In Rule 7.01 (Heading and title of proceedings) in paragraph (1) for “Parts II
+to VII” substitute  “Parts A1 to VII” .
+
+34
+
+In Rule 7.07 (Form and contents of application)—
+
+34.1
+
+At the end of paragraph (1)(a) insert  “or these Rules (as applicable)” .
+
+34.2
+
+After paragraph (3) insert—
+
+34.2.4
+
+In the case of an application under Part A1, the application must be
+authenticated by or on behalf of the applicant or the applicant’s solicitor.
+
+.
+
+35
+
+In Rule 7.08 (Filing and service of application) for paragraph (3) substitute—
+
+35.3
+
+The applicant must serve a sealed copy of the application, endorsed with the
+date for the hearing on—
+
+35.3.a
+
+the respondent named in the application (or on each respondent if more than
+one); and
+
+35.3.b
+
+where an application is made under Part 1A of the Order relating to a
+regulated company within the meaning given by Article 13H, the appropriate
+regulator (within the meaning given by that Article),
+
+unless the court directs or the Rules provide otherwise.
+
+.
+
+36
+
+In Rule 7.12 (Use of reports), paragraph (1)(b)—
+
+36.1
+
+omit “, or” and substitute  “,”  at the end of head (iv);
+
+36.2
+
+in head (v) after “Article 247(2)” omit the full stop and insert  “, or” ; and
+
+36.3
+
+after head (v) insert—
+
+36.3.vi
+
+a monitor.
+
+.
+
+37
+
+In Rule 7.13B (Power to make a block transfer order), paragraph (2)—
+
+37.1
+
+omit “, or” at the end of sub-paragraph (c) and substitute  “,” ;
+
+37.2
+
+the end of sub-paragraph (d) omit the full stop and insert  “, or” ;
+
+37.3
+
+after sub-paragraph (d) insert—
+
+37.3.e
+
+a monitor in respect of a moratorium under Part 1A of the Order.
+
+.
+
+38
+
+In Rule 7.13C (Application for a block transfer order), paragraph (2)—
+
+38.1
+
+before sub-paragraph (a) insert—
+
+38.1.za
+
+Article 13EE (moratorium under Part 1A of the Order);
+
+;
+
+38.2
+
+for sub-paragraph (e) substitute—
+
+38.2.e
+
+Article 20(5) (voluntary arrangement under Part II of the Order); and
+
+.
+
+38.3
+
+In paragraph (3)—
+
+38.3.a
+
+before sub-paragraph (a) insert—
+
+38.3.a.za
+
+Article 13EE (moratorium under Part 1A of the Order);
+
+;
+
+38.3.b
+
+For sub-paragraph (e) substitute—
+
+38.3.b.e
+
+Article 20(5) (voluntary arrangement under Part II of the Order); and
+
+.
+
+39
+
+In Rule 7.20 (Orders enforcing compliance with the Order)—
+
+39.1
+
+In paragraph (1), before sub-paragraph (a) insert—
+
+39.1.za
+
+Article 13EB (Provision of information to monitor);
+
+.
+
+39.2
+
+In paragraph (2), before sub-paragraph (a) insert—
+
+39.2.za
+
+under Article 13EB, the monitor;
+
+.
+
+40
+
+In Rule 7.27 (Right to inspect the file) in paragraph (2)(a), for “Parts II to
+VII” substitute  “Parts A1 to VII” .
+
+41
+
+In Rule 7.36 (Applications for costs) in paragraph (2), for sub-paragraph (a)
+substitute—
+
+41.a
+
+in proceedings other than those relating to a debt relief order, on the
+responsible insolvency practitioner and—
+
+41.a.i
+
+in a winding up by the court or bankruptcy, on the official receiver; or
+
+41.a.ii
+
+in proceedings under Part 1A of the Order, on the company to which the
+moratorium relates; or
+
+.
+
+#### Amendment of Part 11
+
+42
+
+In Rule 11.06 (Notice of declaration)—
+
+42.1
+
+In paragraph (1), after “practitioner shall” insert  “subject to paragraphs
+(6) and (7)” .
+
+42.2
+
+After paragraph (5) insert—
+
+42.2.6
+
+Paragraph (7) applies where the responsible insolvency practitioner declares a
+dividend which is only for one or both of the following—
+
+42.2.6.a
+
+preferential creditors, or
+
+42.2.6.b
+
+creditors in respect of a debt which is a moratorium debt or priority pre-
+moratorium debt within the meaning given by Article 148A.
+
+42.2.7
+
+Where this paragraph applies the notice under paragraph (1) need only be
+delivered to those creditors referred to in sub-paragraph (6)(a) or (b) (as
+the case may be) who have proved for their debts.
+
+.
+
+43
+
+In Rule 11.12 (Preferential creditors)—
+
+43.1
+
+At the end of the heading insert  “or creditors in respect of a debt which is
+a moratorium debt or priority pre-moratorium debt within the meaning given by
+Article 148A” .
+
+43.2
+
+For paragraph (2) substitute—
+
+43.2.2
+
+Paragraph (3) applies where the intended dividend is only for one of both of
+the following—
+
+43.2.2.a
+
+preferential creditors, or
+
+43.2.2.b
+
+creditors in respect of a debt which is a moratorium debt, or a priority pre-
+moratorium debt within the meaning given by Article 148A.
+
+.
+
+43.3
+
+After paragraph (2) insert—
+
+43.3.3
+
+Where this paragraph applies the responsible insolvency practitioner is only
+required to deliver a notice pursuant to paragraph (1) of Rule 11.02 to those
+creditors referred to in sub-paragraph (2)(a) or (b) to whom the dividend is
+intended.
+
+.
+
+#### Amendment of Part 12
+
+44
+
+In Rule 12.02 (Costs) after paragraph (2) insert—
+
+44.3
+
+The costs of an application by the administrator under Rule A1.27 are to be
+treated as an expense of the administration unless the court orders otherwise.
+
+.
+
+45
+
+Rule 12.04 (Notices), after paragraph (1) insert—
+
+45.1A
+
+All applications and statements referred to in Part 1A of the Order or Part A1
+must be in writing, unless it is otherwise provided, or the court allows the
+application or statement to be made in some other way.
+
+45.1B
+
+The requirement that a notice, application or statement required or authorised
+by or under Part 1A of the Order or Part A1 must be in writing is satisfied if
+the notice, application or statement is in electronic form.
+
+45.1C
+
+But paragraph (1B) does not apply in relation to the filing of a notice,
+application or statement with the court.
+
+45.1D
+
+Where pursuant to paragraph (1B), a document is in electronic form, it must be
+capable of being—
+
+45.1D.a
+
+read by the recipient in electronic form; and
+
+45.1D.b
+
+reproduced by the recipient in hard-copy form.
+
+.
+
+46
+
+In Rule 12.05 (Quorum at meeting of creditors or contributories) in paragraph
+(3) for “Parts II to VII” substitute  “Parts A1 to VIII” .
+
+47
+
+In Rule 12.19 (Right to have list of creditors) before paragraph (1)(a)
+insert—
+
+47.za
+
+a moratorium under Part 1A of the Order,
+
+.
+
+#### Amendments to Schedule 2
+
+48
+
+In Schedule 2 to the principal Rules—
+
+48.1
+
+In the index to forms—
+
+48.1.a
+
+omit the entries for Forms 1.05 to 1.19;
+
+48.1.b
+
+immediately after the entry for Form 4.26 insert  “Form 4.26A Proof of Debt –
+For use with moratorium” ;
+
+48.1.c
+
+immediately after the entry for Form 8.5 insert  “Form 8.6 Insolvency
+(Northern Ireland) Order 1989 Proxy – Moratorium” .
+
+48.2
+
+Omit Forms 1.05 to 1.19.
+
+48.3
+
+For Forms 2.03B, 2.08B, 2.10B, 2.14B, 4.02, 4.18, 4,19 and 4.20 substitute the
+forms so numbered in Part A of the Schedule.
+
+48.4
+
+After Form 4.26 insert Form 4.26A as set out in Part B of the Schedule.
+
+48.5
+
+After Form 8.5 insert Form 8.6 as set out in Part B of the Schedule.
+
+      Sealed with the Official Seal of the Department of Justice on 00th
+February 2023       Sealed with the Official Seal of the Department of Justice
+on 20th February 2023         Richard Pengelly   A senior officer of the
+Department of Justice           I concur       Siobhan Keegan   The Lady Chief
+Justice of Northern Ireland           The Department for the Economy concurs
+the foregoing Rules       Sealed with the Official Seal of the Department for
+the Economy on 20th February 2023         Sharon Hetherington   A senior
+officer of the Department for the Economy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Rules)
+
+  These Rules amend the Insolvency Rules (Northern Ireland) 1991 ( S.R. 1991
+No. 364 ) (“ the principal Rules ”) in connection with the introduction of the
+new moratorium procedure (“the moratorium”) in Part 1A of the Insolvency
+(Northern Ireland) Order 1989 ( S.I. 1989/2405 (N.I. 19))  (“ the 1989 Order
+”) and the repeal of Schedule A1 to that Order.
+
+  Section 4 of the Corporate Insolvency and Governance Act  2020 (c.12)
+(“CIGA 2020”) inserted a new Part A1 into the 1989 Order. Part A1 provides for
+a moratorium (“the moratorium”) which, in summary, enables an eligible company
+to obtain certain protections from creditors. Schedule 8 to CIGA 2020 contains
+temporary rules for the purpose of the moratorium. Those temporary rules were
+enacted so that the moratorium could be given immediate effect pending the
+making of these Rules. In addition, section 5 of CIGA 2020 repealed Schedule
+A1 to the 1989 Order. Schedule A1 contained provision for a different form of
+moratorium which was, in effect, superseded by the coming into force of the
+moratorium.
+
+  These Rules are in three Parts. Part 1 contains introductory provision
+dealing with the coming into operation and territorial extent of the Rules.
+Rules 4 and 5 make saving provision for cases where a moratorium, (or a
+moratorium under Schedule A1 to the 1989 Order), is in effect, (or, in certain
+cases, an application for a moratorium has been made), at the time these Rules
+come into operation. If that is the case then the amendments made by these
+Rules do not apply; instead the rules that applied at the time that the
+moratorium first came into effect, (or the application for the moratorium was
+made), continue to apply for the life of that moratorium.
+
+  Part 2 of these Rules inserts a new Part into the principal Rules setting
+out the detailed procedures for the conduct of the moratorium; in particular,
+it specifies the content and timing of the various notifications that are
+required to be given in connection with the obtaining, coming into force,
+extension and termination of the moratorium.
+
+  Part 3 of these Rules makes consequential amendments to Rule 0,2 and Parts
+1, 2, 4, 7, 11 and 12 of, and Schedule 2 to, the principal Rules. These
+consequential amendments deal with matters such as: the notifications that
+must be given where a company enters another form of insolvency procedure
+during a moratorium; the identification of debts incurred during a moratorium
+which are required under the 1989 Order to have priority in subsequent
+insolvency procedures; and changes to rules concerning court procedure which
+are intended to be of general application so as to ensure that they also cover
+moratoriums.
+
+  A full impact assessment has not been produced for this instrument as no, or
+no significant, impact on the private, voluntary or public sector is foreseen.
+An explanatory memorandum has been published alongside this instrument at
+www.legislation.gov.uk  .
+

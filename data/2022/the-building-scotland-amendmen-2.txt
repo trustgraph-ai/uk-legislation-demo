@@ -1,0 +1,435 @@
+Title: The Building (Scotland) Amendment Regulations 2022
+Date: 2023-01-11
+Description: These Regulations amend the Building (Scotland) Regulations 2004 (the “2004 Regulations”) and (other than Part 3) come into force on 1 June 2022. Part 3 comes into force on 1 October 2022.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ssi/2022/136
+
+## The Building (Scotland) Amendment Regulations 2022
+
+    Building And Buildings
+
+  Made   20th April 2022
+
+  Laid before the Scottish Parliament   22nd April 2022
+
+  Coming into force in accordance with regulation 1
+
+      The Scottish Ministers make the following Regulations in exercise of the
+powers conferred by sections 1 and 54(2) and schedule 1 of the Building
+(Scotland) Act 2003 , and all other powers enabling them to do so.         In
+accordance with section 1(2) of that Act they have consulted with such persons
+as appear to them to be representative of the interests concerned.
+
+### Citation and commencement
+
+#### Citation and commencement
+
+1
+
+1.1
+
+These Regulations may be cited as the Building (Scotland) Amendment
+Regulations 2022.
+
+1.2
+
+These Regulations (other than Part 3) come into force on 1 June 2022.
+
+1.3
+
+Part 3 comes into force on    1 February 2023 .
+
+### Amendment of the Building (Scotland) Regulations 2004 on 1 June 2022
+
+#### Amendment of the Building (Scotland) Regulations 2004 – 1 June 2022
+
+2
+
+Subject to regulation 6, the Building (Scotland) Regulations 2004  are amended
+in accordance with regulations 3 to 5.
+
+#### Amendment of regulation 8 – fitness and durability of materials and workmanship
+
+3
+
+In regulation 8 (fitness and durability of materials and workmanship), after
+paragraph (2) insert—
+
+3.3
+
+Subject to paragraph (4), work must be carried out so that materials which
+form part of an external wall cladding system, or specified attachment, of a
+relevant building are of European Classification A2-s1, d0 or A1, classified
+in accordance with BS EN 13501-1:2018 entitled “Fire classification of
+construction products and building elements. Classification using testing data
+from reaction to fire tests” published by the British Standards Institution.
+
+3.4
+
+Paragraph (3) does not apply to materials which form part of—
+
+3.4.a
+
+cavity trays,
+
+3.4.b
+
+cavity vents,
+
+3.4.c
+
+a roof (other than a roof pitched at an angle 70 degrees or more to the
+horizontal) if that part is connected to an external wall,
+
+3.4.d
+
+door frames and doors,
+
+3.4.e
+
+insulation and water proofing materials used below the ground and up to 300 mm
+above the ground,
+
+3.4.f
+
+intumescent and fire stopping materials, fire barriers and cavity barriers
+where the inclusion of the materials is necessary to meet the requirements in
+section 2 (fire) of schedule 5 (building standards applicable to design and
+construction),
+
+3.4.g
+
+membranes,
+
+3.4.h
+
+seals, gaskets, fixings, sealants and backer rods,
+
+3.4.i
+
+thermal break materials,
+
+3.4.j
+
+window frames and glass.
+
+3.5
+
+Work must be carried out so that an external wall cladding system or internal
+lining does not comprise of highly combustible metal composite material.
+
+3.6
+
+In this regulation—
+
+    “ highly combustible metal composite material ” means any panel or sheet,
+having a thickness of no more than 10 mm, which consists of a number of
+layers, two or more of which are made of metal, alloy, or metal compound and
+one or more substantial layer of which is made of material having a gross
+calorific value of more than 35 MJ/kg when tested in accordance with BS EN ISO
+1716:2018 entitled “Reaction to fire tests for products – Determination of the
+gross heat of combustion (calorific value)” published by the British Standards
+Institution,         “ relevant building ” means a building having a storey,
+or creating a storey (not including roof-top plant areas or any storey
+consisting exclusively of plant rooms) at a height of 11 metres or more above
+the ground and which contains—       a dwelling,       a building used as a
+place of assembly, or as a place of entertainment or recreation,       a
+hospital,       a residential care building or sheltered housing complex,
+a shared multi-occupancy residential building,             “ specified
+attachment ” means—       a balcony,       solar shading,       a solar panel,
+
+attached to an external wall,
+
+    “ substantial layer ” means a layer is one which is at least 1 mm thick or
+has a mass per unit area of at least 1 kg per m².
+
+.
+
+#### Amendment of schedule 3 – descriptions of building and work, including the provision of services, fittings and equipment, not requiring a warrant
+
+4
+
+In schedule 3 (descriptions of buildings and work, including the provision of
+services, fittings and equipment, not requiring a warrant)—
+
+4.a
+
+in paragraph 17 for “thermal insulating material to the outer surface of an
+external wall” substitute  “an external wall cladding system that consists of
+thermal insulating material” ,
+
+4.b
+
+in paragraph 25 omit “cladding,”,
+
+4.c
+
+after paragraph 25 insert—
+
+4.c.25A
+
+Replacement of part of an external wall cladding system when the replacement
+is to make a minor repair.
+
+.
+
+#### Amendment of schedule 5 – building standards applicable to design and construction
+
+5
+
+In schedule 5 (building standards applicable to design and construction), in
+paragraph 2.7 (spread on external walls) after “way” insert  “, having regard
+to the height, use and position of the building,” .
+
+#### Transitional provision
+
+6
+
+The amendments made by Part 2 of these Regulations do not apply to work, which
+by virtue of regulation 5 and schedule 3 of the Building (Scotland)
+Regulations 2004, does not require a building warrant if that work is—
+
+6.a
+
+completed before 1 June 2022, or
+
+6.b
+
+not completed before that date and—
+
+6.b.i
+
+the contract for the work is entered into before 1 June 2022, and
+
+6.b.ii
+
+the work is completed on or before 30 September 2022.
+
+### Amendment of the Building (Scotland) Regulations 2004 on   
+
+#### Amendment of the Building (Scotland) Regulations 2004 –   
+
+7
+
+Subject to regulation 11, the Building (Scotland) Regulations 2004  are
+amended in accordance with regulations 8 to 10.
+
+#### Amendment of regulation 2 – interpretation
+
+8
+
+In regulation 2 (interpretation)—
+
+8.a
+
+after the definition of “different occupation” insert—
+
+“ direct emission heating system ”, in relation to a building, means a system
+(other than a heat network) by which the building is heated or is cooled, or
+by which hot water is made available in the building, which uses thermal
+energy produced by a source of production which— is located within the
+building, or curtilage of the building, and during normal operation produces
+greenhouse gas emissions at the point of production of that thermal energy,
+
+,
+
+8.b
+
+after the definition of “flat” insert—
+
+“ greenhouse gas ” has the same meaning as in section 10 of the Climate Change
+(Scotland) Act 2009 , “ heat network ” and “ thermal energy ” have the same
+meaning as in section 1 of the Heat Networks (Scotland) Act 2021 ,
+
+.
+
+#### Amendment of schedule 5 – building standards applicable to design and construction
+
+9
+
+In schedule 5—
+
+9.a
+
+after paragraph 3.27 (water efficiency) insert—
+
+########## Overheating risk
+
+9.a.3.28
+
+Every building must be designed and constructed in such a way that the risk to
+the health of the occupants from overheating is reduced.
+
+Limitation
+
+This standard applies only to—
+
+9.a.3.28.a
+
+a unit of residential accommodation occupied by an individual, or individuals,
+living together as a family or as a single household,
+
+9.a.3.28.b
+
+a shared multi-occupancy residential building,
+
+,
+
+9.b
+
+in paragraph 6.1 (carbon dioxide emissions)—
+
+9.b.i
+
+for the heading substitute  “Energy demand and carbon dioxide emissions” ,
+
+9.b.ii
+
+at the end of sub-paragraph (b) omit “and”,
+
+9.b.iii
+
+after sub-paragraph (c) insert—
+
+9.b.iii.d
+
+it is capable of reducing the energy demand of the building.
+
+,
+
+9.b.iv
+
+in the limitation to the standard—
+
+9.b.iv.aa
+
+for “This standard does not apply to–” substitute—
+
+9.b.iv.aa.1
+
+Standard 6.1(b) only applies in respect of a building which is heated or
+cooled, or in which hot water is made available, by means of a direct
+emissions heating system.
+
+9.b.iv.aa.2
+
+This standard does not apply to—
+
+9.b.iv.bb
+
+at the end of sub-paragraph (d) of the new paragraph (2) omit “or”,
+
+9.c
+
+in paragraph 6.7 (commissioning building services)—
+
+9.c.i
+
+after “energy supply systems” insert  “, control systems” ,
+
+9.c.ii
+
+after “achieve” insert  “effective operation and” .
+
+#### Amendment of schedule 6 – building standards applicable to conversions
+
+10
+
+In schedule 6, in paragraph 2(c) after “3.19” insert  “, 3.28” .
+
+#### Transitional provision
+
+11
+
+The amendments made by Part 3 of these Regulations do not apply to work, which
+by virtue of regulation 5 and schedule 3 of the Building (Scotland)
+Regulations 2004, does not require a building warrant if that work is—
+
+11.a
+
+completed before    1 February 2023 , or
+
+11.b
+
+not completed before that date and—
+
+11.b.i
+
+the contract for the work is entered into before    1 February 2023 , and
+
+11.b.ii
+
+the work is completed on or before    31 May  2023.
+
+      PATRICK HARVIE   Authorised to sign by the Scottish Ministers     St
+Andrew’s House,   Edinburgh
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations amend the Building (Scotland) Regulations 2004 (the “ 2004
+Regulations ”) and (other than Part 3) come into force on 1 June 2022. Part 3
+comes into force on 1 October 2022.
+
+Regulation 3 amends regulation 8 (fitness and durability of materials and
+workmanship). It adds paragraph (3) which requires work to be carried out so
+that the materials which form part of an external wall cladding system or
+specified attachment of a relevant building are classified in accordance with
+the prescribed standard (subject to certain exclusions set out in paragraph
+(4)). Paragraph (5) is added which prohibits the use of highly combustible
+metal composite material in an external wall cladding systems or internal
+lining. Paragraph (6) sets out definitions of the terms “highly combustible
+metal composite material”, “relevant building”, “specified attachment” and
+“substantial layer”.
+
+Regulation 4 amends schedule 3 (descriptions of buildings and work, including
+the provision of services, fittings and equipment, not requiring a warrant).
+Regulation 4(a) amends paragraph 17 so that any work associated with the
+application of an external wall cladding system will require a building
+warrant. Regulation 4(b) amends paragraph 25 by omitting the word “cladding”
+from the work type so that, subject to new paragraph 25A inserted by
+regulation 4(c), any work associated with the replacement, in whole or in
+part, of cladding, internally or externally, will require a warrant.
+Regulation 4(c) inserts paragraph 25A to allow the replacement of part of an
+external wall cladding system without a building warrant only if the
+replacement is to make a minor repair.
+
+Regulation 5, in Part 2 of these Regulations, amends paragraph 2.7 (spread on
+external walls) of schedule 5 (building standards applicable to design and
+construction) to require that regard be taken of the height, use and position
+of the building in order to comply with the standard.
+
+Regulation 6 is a transitional provision, the effect of which is that the
+regulations in Part 2 of these Regulations will not apply to work which does
+not require a building warrant which is completed before 1 June 2022 or not
+completed before that date where the contract for the work is entered into
+before 1 June 2022 and the work is completed on or before 30 September 2022.
+The transitional provision for the regulations in Part 3 of these Regulations
+is contained in regulation 11, which provides that the regulations in that
+Part will not apply to work which does not require a building warrant which is
+completed before 1 October 2022 or not completed before that date where the
+contract for the work is entered into before 1 October 2022 and the work is
+completed on or before 31   January 2023.
+
+Regulation 9(a), in Part 3 of these Regulations, amends schedule 5 to
+introduce a new building standard by inserting paragraph 3.28 (overheating
+risk) to require certain buildings to be designed and constructed in such a
+way that the risk to the health and safety of the occupants is reduced.
+Regulation 10 amends paragraph 2(c) of schedule 6 (building standards
+applicable to conversions) so that in respect of conversions to which the 2004
+Regulations apply, the standard in paragraph 3.28 must be met in so far as is
+reasonably practicable and in no case be worse than before the conversion.
+Regulation 9(b) amends paragraph 6.1 (carbon emissions) to require the design
+and construction of a building to be capable of reducing the energy demand of
+the building and provides that standard 6.1(b) only applies in respect of a
+building which is heated or cooled, or in which hot water is made available,
+by means of a direct emissions heating system. “Direct emissions heating
+system” is a newly defined term inserted in regulation 2 (interpretation) of
+the 2004 Regulations by regulation 8.
+
+Regulation 9(c) amends paragraph 6.7 (commissioning building services) so that
+the standard also applies to control systems and requires that energy supply
+systems, control systems and building services are commissioned to achieve
+effective operation and optimum energy efficiency.
+

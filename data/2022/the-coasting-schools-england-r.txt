@@ -1,0 +1,384 @@
+Title: The Coasting Schools (England) Regulations 2022
+Date: 2023-01-03
+Description: These Regulations make provision in respect of coasting schools. Regulation 3 provides that the regulations do not apply in relation to maintained nursery school.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/720
+
+## The Coasting Schools (England) Regulations 2022
+
+    Education, England
+
+  Made   28th June 2022
+
+  Laid before Parliament   30th June 2022
+
+  Coming into force   1st September 2022
+
+      The Secretary of State for Education makes the following Regulations in
+exercise of the powers conferred by paragraph 3 of Schedule 1 to the Education
+Act 1996  and sections 60B(2) and (3) and 181(2)(a) of the Education and
+Inspections Act 2006 .
+
+### Citation, commencement, extent and application
+
+1
+
+1.1
+
+These Regulations may be cited as the Coasting Schools (England) Regulations
+2022 and come into force on 1st September 2022.
+
+1.2
+
+These Regulations extend to England and Wales and apply in relation to schools
+and units in England.
+
+### Interpretation
+
+2
+
+In these Regulations—
+
+2.a
+
+“ school ” has the meaning given in section 4 of the Education Act 1996 ;
+
+2.b
+
+“ unit ” means a pupil referral unit within the meaning given in section 19 of
+that Act .
+
+### Disapplication of coasting schools regime for certain descriptions of school
+
+3
+
+Section 60B of the Education and Inspections Act 2006 does not apply to a
+maintained nursery school .
+
+### Coasting schools
+
+4
+
+4.1
+
+A school is coasting  for the purposes of section 60B(1) of the Education and
+Inspections Act 2006 where paragraph (2), (3), (4) or (5) applies in relation
+to the school.
+
+4.2
+
+This paragraph applies in relation to a school (“school A”) where school A—
+
+4.2.a
+
+has had two or more section 5 inspections;
+
+4.2.b
+
+at its most recent section 5 inspection, was awarded by the Chief Inspector a
+grade of “requires improvement” for the quality of education provided in that
+school; and
+
+4.2.c
+
+in the section 5 inspection that took place before the inspection referred to
+in sub-paragraph (b), was awarded by the Chief Inspector a grade of “requires
+improvement”, “satisfactory” or “inadequate” for the quality of education
+provided in that school.
+
+4.3
+
+This paragraph applies in relation to a school (“school B”) where school B—
+
+4.3.a
+
+has had only one section 5 inspection;
+
+4.3.b
+
+in that inspection was awarded by the Chief Inspector a grade of “requires
+improvement” for the quality of education provided in that school;
+
+4.3.c
+
+has one predecessor school; and
+
+4.3.d
+
+in the last section 5 inspection of the predecessor school, the predecessor
+school was awarded by the Chief Inspector a grade of “requires improvement”,
+“satisfactory” or “inadequate” for the quality of education provided in that
+school.
+
+4.4
+
+This paragraph applies in relation to a school (“school C”) where school C—
+
+4.4.a
+
+has had only one section 5 inspection;
+
+4.4.b
+
+in that inspection was awarded by the Chief Inspector a grade of “requires
+improvement” for the quality of education provided in that school;
+
+4.4.c
+
+has two or more predecessor schools; and
+
+4.4.d
+
+in the most recent section 5 inspection of each of those predecessor schools,
+each predecessor school was awarded by the Chief Inspector a grade of
+“requires improvement”, “satisfactory” or “inadequate” for the quality of
+education provided in that school.
+
+4.5
+
+This paragraph applies in relation to a school (“school D”)—
+
+4.5.a
+
+where school D is in a chain;
+
+4.5.b
+
+where school D has had only one section 5 inspection;
+
+4.5.c
+
+in that inspection was awarded by the Chief Inspector a grade of “requires
+improvement” for the quality of education provided in that school;
+
+4.5.d
+
+where its predecessor school has not been subject to a section 5 inspection;
+and
+
+4.5.e
+
+in the most recent section 5 inspection of a relevant school, that school was
+awarded by the Chief Inspector a grade of “requires improvement”,
+“satisfactory” or “inadequate” for the quality of education provided in the
+school.
+
+4.6
+
+For the purposes of this regulation, a predecessor school is a school that—
+
+4.6.a
+
+has been discontinued; and
+
+4.6.b
+
+upon discontinuation was replaced by school B, school C or school D.
+
+4.7
+
+For the purposes of paragraph (5), school D is in a chain since—
+
+4.7.a
+
+it has one predecessor school; and
+
+4.7.b
+
+the predecessor school replaced at least one relevant school.
+
+4.8
+
+For the purpose of construing paragraph (7), “ relevant school ” means a
+school in the chain other than school D or its predecessor school.
+
+4.9
+
+In this regulation a “ section 5 inspection ” means an inspection under
+section 5 of the Education Act 2005 .
+
+### Amendment of Education (Pupil Referral Units) (Management Committees etc) (England) Regulations 2007
+
+5
+
+5.1
+
+The Education (Pupil Referral Units) (Management Committees etc) (England)
+Regulations 2007  are amended as follows.
+
+5.2
+
+In regulation 2(1), (interpretation) in the definition of “eligible for
+intervention”, before sub-paragraph (a) insert—
+
+5.2.za
+
+the circumstances set out in section 60B of the Education and Inspections Act
+2006 apply in relation to the unit;
+
+.
+
+### Amendment of the Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007
+
+6
+
+6.1
+
+The Education (Pupil Referral Units) (Application of Enactments) (England)
+Regulations 2007  are amended as follows.
+
+6.2
+
+In Schedule 1—
+
+6.2.a
+
+before paragraph 23 insert—
+
+6.2.a.22A
+
+6.2.a.22A.1
+
+Section 60B of the Education and Inspections Act 2006 applies in relation to
+units as it applies in relation to maintained schools with the following
+modifications.
+
+6.2.a.22A.2
+
+Section 60B has effect as if—
+
+6.2.a.22A.2.a
+
+for subsection (1) there were substituted—
+
+6.2.a.22A.2.a.1
+
+A unit is by virtue of this section eligible for intervention if—
+
+6.2.a.22A.2.a.1.a
+
+the unit is coasting, and
+
+6.2.a.22A.2.a.1.b
+
+the Secretary of State has notified the management committee that it is
+coasting.
+
+.
+
+6.2.a.22A.2.b
+
+subsections (2) and (3) were omitted.
+
+;
+
+6.2.b
+
+in paragraph 23C (application of section 4 of the Academies Act 2010 to
+units), for sub-paragraph (2) substitute—
+
+6.2.b.2
+
+Subsection (1) has effect as for it there were substituted—
+
+6.2.b.2.1
+
+The Secretary of State may make an Academy order in respect of a unit in
+England if—
+
+6.2.b.2.1.a
+
+an application in respect of the unit is made under section 3; or
+
+6.2.b.2.1.b
+
+the unit is eligible for intervention, within the meaning of Part 4 of the
+Education and Inspections Act 2006, by virtue of section 60B of that Act
+(coasting schools).
+
+.
+
+;
+
+6.2.c
+
+omit paragraph 23D(3)(a) (application of section 5 of the Academies Act 2010
+to units);
+
+6.2.d
+
+omit paragraph 23DA(2)(a) (application of section 5B of the Academies Act 2010
+to units);
+
+6.2.e
+
+omit paragraph 23DB(2)(a) (application of section 5C of the Academies Act 2010
+to units);
+
+6.2.f
+
+in paragraph 23DC (application of section 5D of the Academies Act 2010 to
+units), omit the words after “maintained schools”;
+
+6.2.g
+
+in paragraph 23DD (application of section 5E of the Academies Act 2010 to
+units), in the modification made by paragraph (3)(b), after “set out in”
+insert  “section 60B,” ;
+
+6.2.h
+
+after paragraph 30 insert—
+
+########### Coasting Schools (England) Regulations 2022
+
+6.2.h.31
+
+Regulation 4 of the Coasting Schools (England) Regulations 2022 applies in
+relation to a unit as if for—
+
+6.2.h.31.a
+
+“school” in each place there were substituted  “unit” ; and
+
+6.2.h.31.b
+
+“schools” in each place there were substituted  “units” .
+
+.
+
+### Revocation
+
+7
+
+The Coasting Schools (England) Regulations 2017  are revoked.
+
+      Barran   Parliamentary Under Secretary of State   Department for
+Education
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations make provision in respect of coasting schools. Regulation 3
+provides that the regulations do not apply in relation to maintained nursery
+school.
+
+Regulation 4 provides, for the purposes of section 60B of the Education and
+Inspections Act  2006 (c. 40) , a new definition of the circumstances in a
+which a school to which that section applies is deemed to be coasting.
+
+Regulations 5 and 6 respectively provide for the application, with
+modifications, of this new definition of coasting school to pupil referral
+units, by way of amendments to the Education (Pupil Referral Units)
+(Management Committees etc) (England) Regulations 2007 ( S.I. 2007/2978 ) and
+the Education (Pupil Referral Units) (Application of Enactments) (England)
+Regulations 2007 ( S.I. 2007/2979 ).
+
+Regulation 7 revokes the Coasting Schools (England) Regulations 2017 ( S.I.
+2017/9 ).
+
+A full impact assessment has not been produced for this instrument as no, or
+no significant, impact on the private, voluntary or public sectors is
+foreseen.
+

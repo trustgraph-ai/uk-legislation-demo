@@ -1,0 +1,3087 @@
+Title: Bail and Release from Custody (Scotland) Act 2023
+Date: 2024-07-25
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/asp/2023/4
+
+## Bail and Release from Custody (Scotland) Act 2023
+
+### BAIL
+
+#### Decisions on bail: relevant information
+
+1
+
+1.1
+
+The Criminal Procedure (Scotland) Act 1995 (“ the 1995 Act ”) is amended as
+follows.
+
+1.2
+
+In section 22A (consideration of bail on first appearance), after subsection
+(1) insert—
+
+1.2.1A
+
+Before determining whether to admit or refuse to admit the person accused or
+charged to bail, the sheriff or judge must also give an officer of a local
+authority an opportunity to provide (orally or in writing) information
+relevant to that determination.
+
+.
+
+1.3
+
+In section 23B (entitlement to bail and the court’s function)—
+
+1.3.a
+
+at the end of subsection (4) insert  “(including submissions in relation to
+any information provided by an officer of a local authority under section
+22A(1A) or in response to a request under subsection (6))” ,
+
+1.3.b
+
+in subsection (6), after “counsel” insert  “or an officer of a local
+authority” ,
+
+1.3.c
+
+after subsection (6) insert—
+
+1.3.c.6A
+
+Where relevant to a question of bail, and without prejudice to the generality
+of subsection (6), the court may in particular request the prosecutor to
+provide it with information in relation to the risk of harm to the complainer.
+
+,
+
+1.3.d
+
+in subsection (7)—
+
+1.3.d.i
+
+for “that party” in the first place where it occurs substitute  “the
+prosecutor, the accused person’s solicitor or counsel, or an officer of a
+local authority” ,
+
+1.3.d.ii
+
+after “party” in the second place where it occurs insert  “or officer” .
+
+1.4
+
+The Social Work (Scotland) Act 1968 is amended as follows.
+
+1.5
+
+In section 27 (supervision and care of persons put on probation or released
+from prisons etc.), in subsection (1), before paragraph (a) insert—
+
+1.5.za
+
+making available to any court, in accordance with section 22A(1A) or 23B(6) of
+the Criminal Procedure (Scotland) Act 1995, such information as may be
+relevant to the court’s determination of whether to grant bail to persons who
+are accused of or charged with an offence;
+
+.
+
+#### Determination of good reason for refusing bail
+
+2
+
+2.1
+
+The 1995 Act is amended as follows.
+
+2.2
+
+In section 23B (entitlement to bail and the court’s function)—
+
+2.2.a
+
+for subsection (1) substitute—
+
+2.2.a.1
+
+Bail is to be granted to an accused person unless the court determines that
+there is good reason for refusing bail.
+
+2.2.a.1A
+
+The court may determine that there is good reason for refusing bail only if it
+considers that—
+
+2.2.a.1A.a
+
+at least one of the grounds specified in section 23C(1) applies, and
+
+2.2.a.1A.b
+
+having regard to the public interest, and having considered the imposition of
+bail conditions in accordance with subsection (2), it is necessary to refuse
+bail—
+
+2.2.a.1A.b.i
+
+in the interests of public safety, including the protection of the complainer
+from a risk of harm, or
+
+2.2.a.1A.b.ii
+
+to prevent a significant risk of prejudice to the interests of justice.
+
+,
+
+2.2.b
+
+subsection (3) is repealed,
+
+2.2.c
+
+after subsection (7) insert—
+
+2.2.c.8
+
+For the purposes of subsections (1A)(b)(i) and (6A)—
+
+      “ complainer ” means the person against whom the offence to which the
+proceedings relate is alleged to have been committed,           “ harm ” means
+physical or psychological harm,           “ psychological harm ” includes
+fear, alarm and distress.
+
+2.2.c.9
+
+For the purposes of subsection (1A)(b)(ii), “ prejudice to the interests of
+justice ” means—
+
+2.2.c.9.a
+
+the accused person evading justice as a result of the proceedings being
+delayed or discontinued, or
+
+2.2.c.9.b
+
+the course of justice in the proceedings being impeded or prejudiced as a
+result of—
+
+2.2.c.9.b.i
+
+the destruction, concealment or withholding of evidence,
+
+2.2.c.9.b.ii
+
+the giving of false or misleading evidence, or
+
+2.2.c.9.b.iii
+
+the quality of evidence, or its sufficiency in law, being diminished.
+
+2.2.c.10
+
+In subsection (9)(b)(iii), the reference to the quality of evidence is to its
+quality in terms of completeness, accuracy and probative value.
+
+.
+
+2.3
+
+In section 23C (grounds relevant as to question of bail)—
+
+2.3.a
+
+in subsection (1), at the beginning of paragraph (a) insert  “subject to
+subsection (1A),” ,
+
+2.3.b
+
+after subsection (1) insert—
+
+2.3.b.1A
+
+When determining whether there is good reason for refusing bail in summary
+proceedings, the court may take account of any such risk as is mentioned in
+subsection (1)(a) only where—
+
+2.3.b.1A.a
+
+the person has previously failed to appear at a relevant diet, or
+
+2.3.b.1A.b
+
+the proceedings relate to an offence under section 27(1)(a) or 150(8).
+
+,
+
+2.3.c
+
+after subsection (2) insert—
+
+2.3.c.3
+
+In subsection (1A)(a), “ relevant diet ” means a diet of the court relating to
+the offence with which the person is charged—
+
+2.3.c.3.a
+
+of which the person has been given due notice, or
+
+2.3.c.3.b
+
+at which the person is required by this Act to appear.
+
+.
+
+#### Removal of restriction on bail in certain solemn cases
+
+3
+
+Section 23D of the 1995 Act (restriction on bail in certain solemn cases) is
+repealed.
+
+#### Decisions on bail: duty to state and record reasons
+
+4
+
+4.1
+
+Section 24 of the 1995 Act (bail and bail conditions) is amended as follows.
+
+4.2
+
+After subsection (2A) insert—
+
+4.2.2AA
+
+Where the court refuses bail in any proceedings in which a person is accused
+of an offence, it must—
+
+4.2.2AA.a
+
+state in particular—
+
+4.2.2AA.a.i
+
+the grounds on which it determines, in accordance with section 23B(1A), that
+there is good reason for refusing bail,
+
+4.2.2AA.a.ii
+
+if refusing bail solely on the ground specified in section 23C(1)(a)
+(substantial risk of absconding or failing to appear), its reasons for
+considering under section 23B(1A)(b) that it is necessary to do so, and
+
+4.2.2AA.a.iii
+
+its reasons for considering under section 23B(1A)(b) and (2) that either it
+would not be appropriate to impose on the accused bail conditions subject to a
+requirement to submit to monitoring in accordance with Part 1 of the
+Management of Offenders (Scotland) Act 2019 (electronic monitoring) or that
+doing so would not adequately safeguard the interests of public safety or
+justice as mentioned in section 23B(1A)(b)(i) or (ii), and
+
+4.2.2AA.b
+
+have the grounds mentioned in paragraph (a)(i) entered in the record of the
+proceedings.
+
+.
+
+4.3
+
+In subsection (2B)(a), for the words from “a sexual offence” to “Act)”
+substitute  “an offence falling within subsection (2C)” .
+
+4.4
+
+After subsection (2B) insert—
+
+4.4.2C
+
+An offence falls within this subsection if it is—
+
+4.4.2C.a
+
+a sexual offence (having the meaning given by section 210A(10) and (11)),
+
+4.4.2C.b
+
+an offence under section 1(1) of the Domestic Abuse (Scotland) Act 2018,
+
+4.4.2C.c
+
+an offence that is aggravated as described in section 1(1)(a) of the Abusive
+Behaviour and Sexual Harm (Scotland) Act 2016,
+
+4.4.2C.d
+
+an offence under section 39 of the Criminal Justice and Licensing (Scotland)
+Act 2010 (offence of stalking),
+
+4.4.2C.e
+
+an attempt, conspiracy or incitement to commit an offence mentioned in
+paragraph (b), (c) or (d),
+
+4.4.2C.f
+
+aiding, abetting, counselling or procuring the commission of an offence
+mentioned in paragraph (b), (c) or (d).
+
+.
+
+4.5
+
+In subsection (8), after “this section” insert  “(other than subsection
+(2AA))” .
+
+#### Time spent on electronically monitored bail
+
+5
+
+After section 210 of the 1995 Act (consideration of time spent in custody)
+insert—
+
+######## Consideration of time spent on electronically monitored bail
+
+5.210ZA
+
+5.210ZA.1
+
+This section applies where—
+
+5.210ZA.1.a
+
+a court passes a sentence of imprisonment or detention on a person for an
+offence, and
+
+5.210ZA.1.b
+
+the person has spent a period of time (“the bail period”) on qualifying bail
+awaiting trial or sentence.
+
+5.210ZA.2
+
+When passing the sentence, the court must—
+
+5.210ZA.2.a
+
+have regard to the bail period,
+
+5.210ZA.2.b
+
+specify, in accordance with subsection (3), a period of time (“ the relevant
+period ”) which is to be treated as a period of time spent in custody by the
+person, and
+
+5.210ZA.2.c
+
+unless the relevant period is nil, direct (for the purpose of executing the
+sentence) that the person is to be treated as having served either—
+
+5.210ZA.2.c.i
+
+the sentence in full, where the relevant period is equal to or greater than
+the sentence passed, or
+
+5.210ZA.2.c.ii
+
+such part of the sentence as is equal to the relevant period, where the
+relevant period is less than the sentence passed.
+
+5.210ZA.3
+
+The relevant period is to be the period equal to one-half of either of the
+following (rounded up, as necessary, to the nearest whole day)—
+
+5.210ZA.3.a
+
+the bail period, or
+
+5.210ZA.3.b
+
+the bail period less such period (whether all or part of the bail period) as
+the court considers appropriate to disregard.
+
+5.210ZA.4
+
+Where the court specifies the relevant period in accordance with subsection
+(3)(b), it must state its reasons for disregarding all or (as the case may be)
+part of the bail period.
+
+5.210ZA.5
+
+Nothing in this section affects the application of section 210 to any period
+of time which the person may additionally have spent in custody or in hospital
+as described in that section.
+
+5.210ZA.6
+
+For the purposes of this section—
+
+5.210ZA.6.a
+
+“ qualifying bail ” means bail subject to a condition—
+
+5.210ZA.6.a.i
+
+which requires the person to remain at one or more specified places for a
+total period (whether or not continuous) of not less than 9 hours in any given
+day, and
+
+5.210ZA.6.a.ii
+
+in relation to which the person is required to submit to monitoring in
+accordance with Part 1 of the Management of Offenders (Scotland) Act 2019
+(electronic monitoring etc.),
+
+5.210ZA.6.b
+
+references to the bail period are references to the period beginning on the
+day on which the person is granted qualifying bail and ending on the day
+before the day on which the person ceases to be on qualifying bail.
+
+5.210ZA.7
+
+The Scottish Ministers may by regulations—
+
+5.210ZA.7.a
+
+modify—
+
+5.210ZA.7.a.i
+
+the meaning of “qualifying bail” or “the bail period” given by subsection (6),
+
+5.210ZA.7.a.ii
+
+the meaning of “the relevant period” given by subsection (3),
+
+5.210ZA.7.b
+
+further modify this section, or modify any other enactment, to make such
+further provision for the purposes of this section as the Scottish Ministers
+consider appropriate.
+
+5.210ZA.8
+
+Regulations under subsection (7)—
+
+5.210ZA.8.a
+
+may include incidental, supplementary, consequential, transitional, transitory
+or saving provision,
+
+5.210ZA.8.b
+
+are subject to the affirmative procedure.
+
+.
+
+#### Report on bail and remand
+
+6
+
+6.1
+
+The Scottish Ministers must, as soon as reasonably practicable after the end
+of the reporting period, prepare and publish a report on bail and remand.
+
+6.2
+
+The report must include the following information for each year of the
+reporting period—
+
+6.2.a
+
+the average daily remand population,
+
+6.2.b
+
+the total number of individuals within the remand population,
+
+6.2.c
+
+the number of individuals who entered the remand population by reference to
+each of the following characteristics—
+
+6.2.c.i
+
+the offence (or type of offence) in respect of which the individual was
+remanded in custody,
+
+6.2.c.ii
+
+the individual’s gender,
+
+6.2.c.iii
+
+the local authority area in which the individual lived immediately before
+being remanded in custody,
+
+6.2.d
+
+the number of individuals who left the remand population by reference to the
+individual’s gender,
+
+6.2.e
+
+an analysis of the length of time that individuals spent within the remand
+population,
+
+6.2.f
+
+in relation to women within the remand population—
+
+6.2.f.i
+
+the offences (or types of offence) in respect of which women were remanded in
+custody,
+
+6.2.f.ii
+
+the age profile of women who were remanded in custody,
+
+6.2.f.iii
+
+the number of women who transferred from the remand population to the
+population of prisoners serving a sentence of imprisonment or detention,
+
+6.2.g
+
+the number of bail orders made by reference to the offence (or type of
+offence) in respect of which the individual was granted bail,
+
+6.2.h
+
+the number of bail orders made in respect of—
+
+6.2.h.i
+
+individuals who were accused in solemn proceedings of a violent offence, a
+sexual offence, or a domestic abuse offence and had a previous conviction on
+indictment for any such offence, and
+
+6.2.h.ii
+
+individuals who were accused in solemn proceedings of a drug trafficking
+offence and had a previous conviction on indictment for such an offence,
+
+6.2.i
+
+the number of convictions for—
+
+6.2.i.i
+
+bail-related offences, and
+
+6.2.i.ii
+
+other offences (“subsequent offences”) committed while on bail by reference to
+the subsequent offence (or type of subsequent offence) in respect of which the
+individual was convicted.
+
+6.3
+
+The report may—
+
+6.3.a
+
+include information on the operation of the modifications of enactments made
+by this Part, including in particular the repeal of section 23D of the 1995
+Act,
+
+6.3.b
+
+include any other information, including gender-specific information, that the
+Scottish Ministers consider appropriate, and
+
+6.3.c
+
+be in any form that they consider appropriate and, in particular, may be part
+of another document.
+
+6.4
+
+In preparing a report that includes the information mentioned in subsection
+(3)(a), the Scottish Ministers must consult—
+
+6.4.a
+
+the chief constable of the Police Service of Scotland,
+
+6.4.b
+
+the Lord Advocate,
+
+6.4.c
+
+the Scottish Courts and Tribunals Service,
+
+6.4.d
+
+each local authority,
+
+6.4.e
+
+persons who are providing support services to victims in relation to offences
+perpetrated against or in respect of those victims,
+
+6.4.f
+
+such other persons as the Scottish Ministers consider appropriate.
+
+6.5
+
+In this section—
+
+      “ bail-related offence ” means an offence under section 27(1)(a) or (b)
+or (7) of the 1995 Act,           “ domestic abuse offence ” means—         an
+offence under section 1(1) of the Domestic Abuse (Scotland) Act 2018, or
+an offence that is aggravated as described in section 1(1)(a) of the Abusive
+Behaviour and Sexual Harm (Scotland) Act 2016,                 “ drug
+trafficking offence ” has the meaning given by section 49(5) of the Proceeds
+of Crime (Scotland) Act 1995,           “ remand population ” means the
+Scottish prison population comprising—         every individual who was
+accused of, or charged with, an offence and remanded in custody while awaiting
+trial, and           every individual who was convicted of an offence and
+remanded in custody while awaiting sentence,                 “ reporting
+period ” means the period of 3 years beginning with the day on which section 2
+comes into force,           “ sexual offence ” has the meaning given by
+section 210A(10) and (11) of the 1995 Act,           “ violent offence ” means
+any offence (other than a sexual offence) inferring personal violence.
+
+6.6
+
+Any reference in this section to an offence (other than a bail-related offence
+or a sexual offence) includes reference to—
+
+6.6.a
+
+an attempt, conspiracy or incitement to commit the offence,
+
+6.6.b
+
+aiding, abetting, counselling or procuring the commission of the offence.
+
+#### Recording of reasons for granting bail in certain solemn cases
+
+7
+
+7.1
+
+This section applies—
+
+7.1.a
+
+where a person is accused of an offence in solemn proceedings and subsection
+(2) or (3) applies to the person,
+
+7.1.b
+
+for the reporting period.
+
+7.2
+
+This subsection applies where the person—
+
+7.2.a
+
+is accused in the proceedings of an offence falling within subsection (4), and
+
+7.2.b
+
+has a previous conviction on indictment for an offence falling within that
+subsection.
+
+7.3
+
+This subsection applies where the person—
+
+7.3.a
+
+is accused in the proceedings of a drug trafficking offence, and
+
+7.3.b
+
+has a previous conviction on indictment for such an offence.
+
+7.4
+
+An offence falls within this subsection if it is—
+
+7.4.a
+
+a violent offence,
+
+7.4.b
+
+a sexual offence, or
+
+7.4.c
+
+a domestic abuse offence.
+
+7.5
+
+Where the court grants bail to a person to whom this section applies, the
+court must—
+
+7.5.a
+
+state its reasons,
+
+7.5.b
+
+have those reasons entered in the record of proceedings.
+
+7.6
+
+For the purposes of this section—
+
+      “ domestic abuse offence ” means—         an offence under section 1(1)
+of the Domestic Abuse (Scotland) Act 2018, or           an offence that is
+aggravated as described in section 1(1)(a) of the Abusive Behaviour and Sexual
+Harm (Scotland) Act 2016,                 “ drug trafficking offence ” has the
+meaning given by section 49(5) of the Proceeds of Crime (Scotland) Act 1995,
+“ reporting period ” has the meaning given by section 6(5),           “ sexual
+offence ” has the meaning given by section 210A(10) and (11) of the 1995 Act,
+“ violent offence ” means any offence (other than a sexual offence) inferring
+personal violence.
+
+7.7
+
+Any reference in this section to an offence (other than a sexual offence)
+includes reference to—
+
+7.7.a
+
+an attempt, conspiracy or incitement to commit the offence,
+
+7.7.b
+
+aiding, abetting, counselling or procuring the commission of the offence.
+
+### RELEASE FROM CUSTODY
+
+#### Prisoners not to be released on certain days of the week
+
+8
+
+8.1
+
+The Prisoners and Criminal Proceedings (Scotland) Act 1993 (“ the 1993 Act ”)
+is amended as follows.
+
+8.2
+
+In section 27 (interpretation of Part 1)—
+
+8.2.a
+
+in subsection (7), for the words from “a Saturday”, in the first place where
+they occur, to the end substitute
+
+—
+
+8.2.a.a
+
+an excepted day, or
+
+8.2.a.b
+
+subject to subsection  (7A) , a Thursday,
+
+the release of the prisoner is to be brought forward to the last preceding day
+which is a suitable release day.
+
+,
+
+8.2.b
+
+after subsection (7) insert—
+
+8.2.b.7A
+
+Subsection (7)(b) does not apply where the prisoner fell to be released on or
+by an excepted day and the release was brought forward to a Thursday by virtue
+of subsection (7)(a).
+
+8.2.b.7B
+
+For the purposes of subsections (7) and  (7A) —
+
+8.2.b.7B.a
+
+an “excepted day” is a day which is—
+
+8.2.b.7B.a.i
+
+a Friday,
+
+8.2.b.7B.a.ii
+
+a Saturday,
+
+8.2.b.7B.a.iii
+
+a Sunday,
+
+8.2.b.7B.a.iv
+
+a public holiday,
+
+8.2.b.7B.a.v
+
+the day before a public holiday,
+
+8.2.b.7B.b
+
+a “suitable release day” is a day which is not—
+
+8.2.b.7B.b.i
+
+in a case where subsection (7)(a) applies, an excepted day,
+
+8.2.b.7B.b.ii
+
+in a case where subsection (7)(b) applies, an excepted day or a Thursday.
+
+.
+
+#### Release on licence of long-term prisoners
+
+9
+
+9.1
+
+The 1993 Act is amended as follows.
+
+9.2
+
+In section 1A (application to certain persons serving more than one sentence),
+in subsection (1)(c), after “3AA” insert  “or 3AB” .
+
+9.3
+
+In section 1B (prisoners serving consecutive sentences including at least one
+terrorism sentence), in subsection (11), after “3AA” insert  “or 3AB” .
+
+9.4
+
+In section 3AA (further powers to release prisoners)—
+
+9.4.a
+
+subsection (1)(b) and “or” immediately preceding it are repealed,
+
+9.4.b
+
+in subsection (4)—
+
+9.4.b.i
+
+in paragraph (a), after “large” insert  “(including any identifiable group of
+people)” ,
+
+9.4.b.ii
+
+after that paragraph insert—
+
+9.4.b.ii.aa
+
+protecting a victim or any member of a victim’s family,
+
+,
+
+9.4.c
+
+subsection (7) is repealed,
+
+9.4.d
+
+after subsection (7) insert—
+
+9.4.d.7A
+
+In subsection (4)(aa), “ victim ” means a person against or in respect of whom
+an offence has been committeed by the prisoner.
+
+,
+
+9.4.e
+
+in the section title, after “release” insert  “short-term” .
+
+9.5
+
+After that section insert—
+
+########## Further powers to release long-term prisoners
+
+9.5.3AB
+
+9.5.3AB.1
+
+The Scottish Ministers may release on licence under this section a long-term
+prisoner whose release under section 1 has not been recommended by the Parole
+Board.
+
+9.5.3AB.2
+
+Before releasing a long-term prisoner by virtue of subsection (1), the
+Scottish Ministers must consult the Parole Board.
+
+9.5.3AB.3
+
+If directed to do so by the Parole Board, the Scottish Ministers must release
+on licence under this section a long-term prisoner whose release on having
+served one half of the prisoner’s sentence has been recommended by the Board.
+
+9.5.3AB.4
+
+In deciding whether to release a long-term prisoner by virtue of subsection
+(1) or direct the release of a prisoner by virtue of subsection (3), the
+Scottish Ministers or, as the case may be, the Parole Board must have regard
+to considerations of—
+
+9.5.3AB.4.a
+
+protecting the public at large (including any identifiable group of people),
+
+9.5.3AB.4.b
+
+protecting a victim or any member of a victim’s family,
+
+9.5.3AB.4.c
+
+preventing re-offending by the prisoner, and
+
+9.5.3AB.4.d
+
+securing the successful re-integration of the prisoner into the community.
+
+9.5.3AB.5
+
+A long-term prisoner may not be released on licence under this section before
+the beginning of the period of 180 days ending with the day on which the
+prisoner will have served one half of the prisoner’s sentence.
+
+9.5.3AB.6
+
+The period for which a long-term prisoner is to be released on licence under
+this section (the “release period”)—
+
+9.5.3AB.6.a
+
+may not exceed 180 days on any one occasion,
+
+9.5.3AB.6.b
+
+is to be specified—
+
+9.5.3AB.6.b.i
+
+where subsection (1) applies, by the Scottish Ministers,
+
+9.5.3AB.6.b.ii
+
+where subsection (3) applies, by the Parole Board.
+
+9.5.3AB.7
+
+Subject to subsection (6)(a), the Scottish Ministers or, as the case may be,
+the Parole Board may extend the release period specified by virtue of
+subsection (6)(b)(i) or, as the case may be, (ii).
+
+9.5.3AB.8
+
+For the avoidance of doubt, nothing in this section requires the Scottish
+Ministers or the Parole Board to make a decision by a particular date about
+whether to release or, as the case may be, direct the release of a prisoner on
+licence under this section.
+
+9.5.3AB.9
+
+Subsection (1) does not apply where—
+
+9.5.3AB.9.a
+
+the prisoner's sentence was imposed under section 210A of the 1995 Act,
+
+9.5.3AB.9.b
+
+the prisoner is subject to a hospital direction imposed under section 59A of
+that Act or a transfer for treatment direction made under section 136(2) of
+the Mental Health (Care and Treatment) (Scotland) Act 2003,
+
+9.5.3AB.9.c
+
+the prisoner is liable to removal from the United Kingdom (within the meaning
+of section 9 of this Act).
+
+9.5.3AB.10
+
+In subsection (4)(b), “ victim ” means a person against or in respect of whom
+an offence has been committed by the prisoner.
+
+9.5.3AB.11
+
+This section does not apply where the long-term prisoner is a person in
+relation to whom section 1AB applies.
+
+########## Further powers to release long-term prisoners: supplementary
+
+9.5.3AC
+
+9.5.3AC.1
+
+The Scottish Ministers may by regulations do any or all of the following—
+
+9.5.3AC.1.a
+
+amend the number of days for the time being specified in section 3AB(5),
+
+9.5.3AC.1.b
+
+amend the number of days for the time being specified in section 3AB(6)(a),
+
+9.5.3AC.1.c
+
+amend any paragraph of section 3AB(9), add a further paragraph to that
+subsection or repeal any of its paragraphs.
+
+9.5.3AC.2
+
+Regulations under subsection (1)—
+
+9.5.3AC.2.a
+
+may include incidental, supplementary, consequential, transitional, transitory
+or saving provision,
+
+9.5.3AC.2.b
+
+are subject to the affirmative procedure.
+
+.
+
+9.6
+
+In section 11 (duration of licence)—
+
+9.6.a
+
+in subsection (3A), after “3AA” insert  “or 3AB” ,
+
+9.6.b
+
+after subsection (3B) insert—
+
+9.6.b.3C
+
+A licence granted under section 3AB remains in force (unless revoked)—
+
+9.6.b.3C.a
+
+in the case of a person released by virtue of section 3AB(1), until whichever
+comes first—
+
+9.6.b.3C.a.i
+
+the date on which the release period specified by virtue of section
+3AB(6)(b)(i) comes to an end,
+
+9.6.b.3C.a.ii
+
+where the Parole Board decides not to recommend the person’s release on
+licence, the date of that decision,
+
+9.6.b.3C.a.iii
+
+where the Parole Board decides to recommend the person’s release on licence or
+the person otherwise falls to be released by virtue of section 1, the date on
+which the person would, but for their release under section 3AB(1), fall to be
+released on licence under section 1,
+
+9.6.b.3C.b
+
+in the case of a person released by virtue of section 3AB(3), until the date
+on which the person would, but for their release under section 3AB(3), fall to
+be released on licence under section 1.
+
+9.6.b.3D
+
+On a licence under section 3AB ceasing to have effect as mentioned in
+subsection (3C)(a)(i) or (ii), the released person is liable to be detained in
+pursuance of the person’s sentence and, if at large, is deemed to be
+unlawfully at large.
+
+.
+
+9.7
+
+In section 12 (conditions in licence), in subsection (4A)—
+
+9.7.a
+
+for “3AA” substitute  “3AB(1)” ,
+
+9.7.b
+
+for “for the purposes of section 1(3) of this Act” substitute  “by virtue of
+section 3AB(2)” .
+
+9.8
+
+In section 12AA (conditions for persons released on licence under section
+3AA)—
+
+9.8.a
+
+in subsection (1), for “of this Act,” to the end substitute
+
+—
+
+9.8.a.a
+
+any licence granted under section 3AA or 3AB(1) must include—
+
+9.8.a.a.i
+
+the standard conditions, and
+
+9.8.a.a.ii
+
+a curfew condition complying with section 12AB,
+
+9.8.a.b
+
+any licence granted under section 3AB(3) must include such a curfew condition.
+
+,
+
+9.8.b
+
+in subsection (5), after “prescribed” insert
+
+—
+
+9.8.b.a
+
+for licences granted under section 3AA and for licences granted under section
+3AB(1),
+
+9.8.b.b
+
+
+
+,
+
+9.8.c
+
+in subsection (6)(a), after “above” insert  “in relation to licences granted
+under section 3AA” ,
+
+9.8.d
+
+after subsection (6) insert—
+
+9.8.d.7
+
+Subsection (4) of section 3AB applies in relation to—
+
+9.8.d.7.a
+
+the exercise of the power of prescription conferred by subsection (3) in
+relation to licences granted under section 3AB(1),
+
+9.8.d.7.b
+
+the specification, variation or cancellation of conditions, other than the
+standard conditions, in a licence granted under section 3AB,
+
+as it applies in relation to the exercise of the power conferred by subsection
+(1) or, as the case may be, (3) of that section.
+
+,
+
+9.8.e
+
+in the section title, after “3AA” insert  “or 3AB” .
+
+9.9
+
+In section 12B (certain licences to be replaced by one), in subsection (4),
+after  “3AA”  insert  “or 3AB” .
+
+9.10
+
+In section 17 (revocation of licence), in subsection (7), after “3AA” insert
+“or 3AB(1)” .
+
+9.11
+
+In section 17A (recall of prisoners released under section 3AA)—
+
+9.11.a
+
+in subsection (1), after “3AA” insert  “or 3AB(1)” ,
+
+9.11.b
+
+in subsection (5B), after “3AA” insert  “or, as the case may be, 3AB(1)” ,
+
+9.11.c
+
+in the section title, after “3AA” insert  “or 3AB(1)” .
+
+9.12
+
+In section 21A (operating protocol for release on licence under section 3AA)—
+
+9.12.a
+
+in subsection (1), after “3AA” in each place it occurs insert  “or 3AB” ,
+
+9.12.b
+
+in the section title, after “3AA” insert  “or 3AB” .
+
+9.13
+
+In section 32A of the Prisons (Scotland) Act 1989 (offence where person
+unlawfully at large), in subsection (1)(a), after “section” insert  “11(3D),”
+.
+
+9.14
+
+In section 7 of the Management of Offenders (Scotland) Act 2019 (list of
+relevant conditions which may be monitored electronically), in subsection
+(1)(a)—
+
+9.14.a
+
+for “12AA(1)(b)” substitute  “12AA(1)” ,
+
+9.14.b
+
+after “3AA” insert  “or 3AB” .
+
+#### Review of recommendations and directions by Parole Board
+
+10
+
+10.1
+
+The 1993 Act is amended as follows.
+
+10.2
+
+In section 17 (revocation of licence), after subsection (2) insert—
+
+10.2.2A
+
+Subsection (2B) applies where the Scottish Ministers, having released a long-
+term prisoner on licence under section 3AB(3), revoke the licence and recall
+the prisoner to prison under subsection (1) or revoke the licence under
+subsection (1A).
+
+10.2.2B
+
+The Parole Board may, whether when considering the prisoner’s case on a
+referral under subsection (3) or otherwise, review its recommendation that the
+prisoner be released on licence on having served one half of the prisoner’s
+sentence.
+
+.
+
+10.3
+
+In section 17A (recall of prisoners released under section 3AA or 3AB(1))—
+
+10.3.a
+
+after subsection (2A) insert—
+
+10.3.a.2B
+
+Subsection (2C) applies where—
+
+10.3.a.2B.a
+
+the Scottish Ministers release a long-term prisoner on licence under section
+3AB(1),
+
+10.3.a.2B.b
+
+the Parole Board subsequently recommends that the prisoner be released on
+licence on having served one half of the prisoner’s sentence, and
+
+10.3.a.2B.c
+
+the Scottish Ministers revoke the licence under section 3AB(1) and recall the
+prisoner to prison under subsection (1).
+
+10.3.a.2C
+
+The Parole Board may, whether or not the case is referred to it under
+subsection (3), review its recommendation that the prisoner be released on
+licence on having served one half of the prisoner’s sentence.
+
+,
+
+10.3.b
+
+in subsection (3), for “such representations” substitute  “representations
+under subsection (2)” .
+
+10.4
+
+After section 17A insert—
+
+########## Review by Parole Board of decision to recommend or direct release on licence
+
+10.4.17B
+
+10.4.17B.1
+
+This section applies where—
+
+10.4.17B.1.a
+
+the Parole Board recommends or directs that a prisoner be released on licence
+under this Part, and
+
+10.4.17B.1.b
+
+the prisoner has not yet been released on licence as a result of the Board’s
+recommendation or, as the case may be, direction.
+
+10.4.17B.2
+
+The Parole Board may, if subsection (3) applies, review its recommendation or,
+as the case may be, direction that the prisoner be released on licence.
+
+10.4.17B.3
+
+This subsection applies if information comes to the Parole Board’s attention—
+
+10.4.17B.3.a
+
+that was not available to the Board when it made its recommendation or, as the
+case may be, direction, and
+
+10.4.17B.3.b
+
+which, in the opinion of the Board, has a significant bearing on the
+prisoner’s suitability for release on licence.
+
+.
+
+#### Power to release early
+
+11
+
+11.1
+
+The 1993 Act is amended as follows.
+
+11.2
+
+After section 3B (review of decisions as to determinate sentences) insert—
+
+########## Power to release early
+
+11.2.3C
+
+11.2.3C.1
+
+The Scottish Ministers may by regulations provide that a person of a
+description specified in the regulations is to be released from prison early
+on a date that is—
+
+11.2.3C.1.a
+
+either—
+
+11.2.3C.1.a.i
+
+specified in the regulations, or
+
+11.2.3C.1.a.ii
+
+determined in accordance with provision made in the regulations, and
+
+11.2.3C.1.b
+
+not later than the regulations’ latest release date.
+
+11.2.3C.2
+
+The Scottish Ministers may make regulations under this section only if they
+are satisfied that making the regulations is necessary and proportionate, in
+response to the effects an emergency situation is having or is likely to have
+on a prison or prisons generally, for the purpose of protecting—
+
+11.2.3C.2.a
+
+the security and good order of any prison to which the regulations would
+relate, or
+
+11.2.3C.2.b
+
+the health, safety or welfare of prisoners, or those working, in any such
+prison.
+
+11.2.3C.3
+
+Regulations under this section may—
+
+11.2.3C.3.a
+
+provide that long term prisoners released by virtue of those regulations are
+released on licence,
+
+11.2.3C.3.b
+
+specify standard conditions which must be included in any licence granted by
+virtue of  paragraph (a) .
+
+11.2.3C.4
+
+A person is not to be released from prison by virtue of regulations under this
+section more than 180 days earlier than the Scottish Ministers would otherwise
+be required to release the person.
+
+11.2.3C.5
+
+A person is not to be released from prison by virtue of regulations under this
+section if—
+
+11.2.3C.5.a
+
+the person falls within  subsection (6) , or
+
+11.2.3C.5.b
+
+the governor of the prison within which the person is detained considers that
+the person would, if released, pose an immediate risk of harm—
+
+11.2.3C.5.b.i
+
+to an identified person, or
+
+11.2.3C.5.b.ii
+
+to an identified group of people.
+
+11.2.3C.6
+
+A person falls within this subsection if the person is—
+
+11.2.3C.6.a
+
+a life prisoner,
+
+11.2.3C.6.b
+
+an untried prisoner,
+
+11.2.3C.6.c
+
+a terrorist prisoner within the meaning of section 1AB,
+
+11.2.3C.6.d
+
+due to serve a terrorism sentence within the meaning of section 1B but, by
+virtue of that section, is not yet serving it,
+
+11.2.3C.6.e
+
+liable to removal from the United Kingdom for the purposes of section 9,
+
+11.2.3C.6.f
+
+subject to a supervised release order under section 209 of the Criminal
+Procedure (Scotland) Act 1995,
+
+11.2.3C.6.g
+
+serving a sentence passed under section 210A of that Act (extended sentences
+for sex, violent and terrorist offenders),
+
+11.2.3C.6.h
+
+the subject of proceedings under the Extradition Act 2003,
+
+11.2.3C.6.i
+
+subject to the notification requirements of Part 2 of the Sexual Offences Act
+2003,
+
+11.2.3C.6.j
+
+serving a sentence of imprisonment or detention for an offence—
+
+11.2.3C.6.j.i
+
+that is aggravated as described in section 1(1)(a) of the Abusive Behaviour
+and Sexual Harm (Scotland) Act 2016,
+
+11.2.3C.6.j.ii
+
+under section 1(1) of the Domestic Abuse (Scotland) Act 2018,
+
+11.2.3C.6.j.iii
+
+under section 7(1) or 17(1) of the Domestic Abuse (Protection) (Scotland) Act
+2021,
+
+11.2.3C.6.k
+
+a long-term prisoner, unless that prisoner has been recommended for release by
+the Parole Board at the date on which the regulations are made.
+
+11.2.3C.7
+
+The Scottish Ministers must, no later than one year after the date on which
+this section comes into force and in such manner as they consider appropriate,
+publish guidance about the application of subsection (5)(b).
+
+11.2.3C.8
+
+The Scottish Ministers may from time to time revise the guidance published
+under subsection (7) and subsection (9) applies to any revised guidance.
+
+11.2.3C.9
+
+The governor of a prison must have regard to guidance published under
+subsection (7) in considering the application of subsection (5)(b) in relation
+to regulations made under this section.
+
+11.2.3C.10
+
+Regulations under this section may make different provision for different
+purposes.
+
+11.2.3C.11
+
+In this section—
+
+      “ emergency situation ” means—         the incidence or spread of
+infection, contamination or the source of contamination which presents or
+could present significant harm to human health in Scotland (whether from risks
+originating there or elsewhere),           an event or situation which has
+resulted in any prison (or part of a prison) to which the regulations would
+relate being unusable,           any other event or situation which is
+reasonably considered by the Scottish Ministers to place at significant risk—
+the security and good order of a prison or prisons generally,           the
+health, safety, and welfare of prisoners, or those working, in any such
+prison,                       “ governor ” in relation to a prison, means—
+the governor appointed for the prison under section 3(1A) of the Prisons
+(Scotland) Act 1989, or           in the case of a contracted out prison, the
+director appointed for the prison under section 107(1)(a) of the Criminal
+Justice and Public Order Act 1994,                 “ latest release date ”
+means a date specified in the regulations in question, which must be a date
+within the period of 180 days beginning with the day that the regulations are
+made,           “ untried prisoner ” means a person who, whether or not in
+prison for any other reason, is in prison—         having been committed for
+examination or trial on a criminal charge,           by virtue of remand in
+custody under the Extradition Act 2003,           by virtue of detention under
+schedule 2 or 3 of the Immigration Act 1971, or           following conviction
+and awaiting sentence.
+
+########## Parliamentary scrutiny of regulations made under 
+
+11.2.3D
+
+11.2.3D.1
+
+Regulations under  section 3C  are subject to the affirmative procedure,
+unless  subsection (2)  applies to them.
+
+11.2.3D.2
+
+This subsection applies to regulations if the Scottish statutory instrument
+containing the regulations includes a declaration that the Scottish Ministers
+are of the opinion that, by reason of urgency, it is necessary to make the
+regulations without their being subject to the affirmative procedure.
+
+11.2.3D.3
+
+Where  subsection (2)  applies to regulations—
+
+11.2.3D.3.a
+
+section 30 of the Interpretation and Legislative Reform (Scotland) Act 2010
+does not apply to the regulations,
+
+11.2.3D.3.b
+
+the Scottish statutory instrument containing the regulations must be laid
+before the Scottish Parliament as soon as practicable after they are made,
+
+11.2.3D.3.c
+
+the Scottish Ministers must explain why they are of the opinion that, by
+reason of urgency, it is necessary to make the regulations without their being
+subject to the affirmative procedure, and
+
+11.2.3D.3.d
+
+the regulations cease to have effect at the end of the period of 28 days
+beginning with the day on which they are made unless, during that period, the
+Scottish statutory instrument containing them is approved by resolution of the
+Parliament.
+
+11.2.3D.4
+
+In calculating the period of 28 days mentioned in  subsection (3) (d) , no
+account is to be taken of any time during which the Scottish Parliament is—
+
+11.2.3D.4.a
+
+in recess for more than 4 days, or
+
+11.2.3D.4.b
+
+dissolved.
+
+11.2.3D.5
+
+Regulations ceasing to have effect by virtue of  subsection (3) (d)  neither—
+
+11.2.3D.5.a
+
+affects anything done under the regulations before they ceased to have effect,
+nor
+
+11.2.3D.5.b
+
+prevents new regulations being made under  section 3C .
+
+########## Effect of early release from prison or young offenders institution by virtue of regulations
+
+11.2.3E
+
+11.2.3E.1
+
+A person described in the first column of the table below who is released from
+custody by virtue of regulations under  section 3C  is deemed to have been
+released by virtue of the provision of this Act mentioned in the corresponding
+entry in the second column.
+
+    Status of person immediately before release Provision of this Act by
+virtue of which the person is deemed to have been released   A short-term
+prisoner section 1(1) A long-term prisoner section 1(3) A person serving a
+term of imprisonment or detention imposed on a basis mentioned in section
+5(1)(a) or (b) (fine defaulters and persons in contempt of court) and who is,
+for any purpose, to be treated as a short-term prisoner by virtue of that
+section section 1(1), construed as required by section 5(2) A person serving a
+term of imprisonment or detention imposed on a basis mentioned in section
+5(1)(a) or (b) and who is, for any purpose, to be treated as a long-term
+prisoner by virtue of that section section 1(3), construed as required by
+section 5(2)   A person detained—         under section 208 of the Criminal
+Procedure (Scotland) Act 1995 (detention of children convicted on indictment),
+or           in pursuance of an order under section 7(3) (children detained in
+solemn proceedings)           section 7(2)
+
+11.2.3E.2
+
+In this section, “short-term prisoner” and “long-term prisoner” include a
+person treated, for any purpose, as a short-term prisoner or (as the case may
+be) a long term prisoner by virtue of section 6(1)(a) or 16(5)(a).
+
+.
+
+11.3
+
+In section 12 (conditions in licence), after subsection (3) insert—
+
+11.3.3A
+
+Subsection (3)(b) does not apply in relation to a standard condition in a
+licence granted by virtue of regulations under  section 3C (3) .
+
+.
+
+11.4
+
+After that section insert—
+
+########## Conditions for persons released on licence under 
+
+11.4.12ZA
+
+11.4.12ZA.1
+
+Standard conditions specified by the Scottish Ministers in regulations under
+section 3C (3)  remain in force (unless they are cancelled) in relation to a
+released person until the date on which the released person would, but for
+release by virtue of the regulations, fall to be released under section 1(3).
+
+11.4.12ZA.2
+
+Standard conditions specified by the Scottish Ministers in regulations under
+section 3C (3)  may include a curfew condition complying with section 12AB.
+
+.
+
+#### Duty to engage in release planning
+
+12
+
+12.1
+
+The Community Justice (Scotland) Act 2016 (“ the 2016 Act ”) is amended as
+follows.
+
+12.2
+
+After section 34 (innovation, learning and development activity) insert—
+
+########## Engagement in release planning
+
+########### Duty to engage in release planning
+
+12.2.34A
+
+12.2.34A.1
+
+Each person falling within  subsection (2)  must, so far as reasonably
+practicable, comply with a request by the Scottish Ministers to engage in the
+development, management and delivery of a release plan.
+
+12.2.34A.2
+
+The persons are—
+
+12.2.34A.2.a
+
+a local authority,
+
+12.2.34A.2.b
+
+a health board,
+
+12.2.34A.2.c
+
+the chief constable of the Police Service of Scotland,
+
+12.2.34A.2.d
+
+Skills Development Scotland,
+
+12.2.34A.2.e
+
+an integration joint board established by virtue of section 9 of the Public
+Bodies (Joint Working) (Scotland) Act 2014.
+
+12.2.34A.3
+
+Engagement under  subsection (1)  must take place within the timescale
+specified in the request.
+
+12.2.34A.4
+
+In complying with  subsection (1) , a person—
+
+12.2.34A.4.a
+
+must have regard to the role which third sector bodies are able to play in the
+development, management and delivery of the release plan,
+
+12.2.34A.4.b
+
+may commission services from, or co-ordinate with existing services provided
+by, third sector bodies as the person considers appropriate to meet the needs
+of the individual to whom the release plan relates.
+
+12.2.34A.5
+
+The Scottish Ministers may by regulations—
+
+12.2.34A.5.a
+
+make further provision about engagement in the development, management, and
+delivery of release plans,
+
+12.2.34A.5.b
+
+modify the list in  subsection (2) .
+
+12.2.34A.6
+
+Regulations under subsection (5)(a) may, in particular, make provision about—
+
+12.2.34A.6.a
+
+engagement in the development, management and delivery of release plans in
+relation to relevant individuals who, having been remanded in custody, are
+released from custody immediately on the conclusion of proceedings against
+them,
+
+12.2.34A.6.b
+
+the appointment of a person to lead the management and delivery of a relevant
+individual’s release plan following the individual’s release,
+
+12.2.34A.6.c
+
+how the duty of co-operation under section 35 is to operate in relation to the
+duty to engage in the development, management, and delivery of release plans
+under this section.
+
+12.2.34A.7
+
+Regulations under subsection (5)(a)—
+
+12.2.34A.7.a
+
+may include incidental, supplementary, consequential, transitional, transitory
+or saving provision,
+
+12.2.34A.7.b
+
+may modify enactments (including this Act).
+
+12.2.34A.8
+
+Regulations under this section are subject to the affirmative procedure.
+
+12.2.34A.9
+
+In this section—
+
+      “ release plan ” means a plan to—         prepare a relevant individual
+for release,           facilitate—         the individual’s reintegration into
+the community,           access by the individual to relevant general
+services,                       “ relevant general services ” has the same
+meaning as in section 1,           a “ relevant individual ” is an individual
+who has been—         remanded in custody, or           convicted of offences
+and sentenced to imprisonment or detention in a penal institution.
+
+########## Guidance
+
+########### Guidance
+
+12.2.34B
+
+12.2.34B.1
+
+The Scottish Ministers must, no later than one year after the day on which
+section 12(2) of the Bail and Release from Custody (Scotland) Act 2023 comes
+into force for any purpose, publish guidance about engagement under section
+34A(1).
+
+12.2.34B.2
+
+Such guidance may, in particular, include provision about—
+
+12.2.34B.2.a
+
+the issuing of a request for engagement,
+
+12.2.34B.2.b
+
+compliance with a request for engagement,
+
+12.2.34B.2.c
+
+how the duty of co-operation under section 35 is to operate in relation to the
+duty to engage in the development, management, and delivery of release plans
+under section 34A(1).
+
+12.2.34B.3
+
+In preparing, reviewing, and revising the guidance, the Scottish Ministers
+must consult—
+
+12.2.34B.3.a
+
+Community Justice Scotland,
+
+12.2.34B.3.b
+
+each local authority,
+
+12.2.34B.3.c
+
+each health board,
+
+12.2.34B.3.d
+
+the chief constable of the Police Service of Scotland,
+
+12.2.34B.3.e
+
+Skills Development Scotland,
+
+12.2.34B.3.f
+
+the Risk Management Authority,
+
+12.2.34B.3.g
+
+an integration joint board established by virtue of section 9 of the Public
+Bodies (Joint Working) (Scotland) Act 2014,
+
+12.2.34B.3.h
+
+each person—
+
+12.2.34B.3.h.i
+
+of a description prescribed by the Scottish Ministers by regulations, and
+
+12.2.34B.3.h.ii
+
+who is providing support services to victims in relation to offences
+perpetrated against or in respect of those victims,
+
+12.2.34B.3.i
+
+such other persons as the Scottish Ministers consider appropriate.
+
+12.2.34B.4
+
+The Scottish Ministers must keep the guidance under review and may publish
+revised guidance whenever they consider it appropriate to do so.
+
+12.2.34B.5
+
+Where revised guidance is published under  subsection (4) , this section—
+
+12.2.34B.5.a
+
+ceases to apply in relation to the previous guidance,
+
+12.2.34B.5.b
+
+applies instead to the revised guidance (as it applied to the guidance
+published under  subsection (1) ).
+
+12.2.34B.6
+
+In complying with a request to engage under section 34A(1), a person must have
+regard to guidance published under this section.
+
+12.2.34B.7
+
+In this section, “ support services ” has the meaning given by section 34C(8).
+
+12.2.34B.8
+
+The Scottish Ministers may by regulations modify the definition of “support
+services” in  subsection (7) .
+
+12.2.34B.9
+
+Regulations under  subsection (3) (h) (i)  and  (8) —
+
+12.2.34B.9.a
+
+may include incidental, supplementary, consequential, transitional, transitory
+or saving provision,
+
+12.2.34B.9.b
+
+may modify enactments (including this Act).
+
+12.2.34B.10
+
+Regulations—
+
+12.2.34B.10.a
+
+under  subsection (3) (h) (i) —
+
+12.2.34B.10.a.i
+
+which add to, replace or omit any part of the text of an Act are subject to
+the affirmative procedure,
+
+12.2.34B.10.a.ii
+
+are otherwise subject to the negative procedure,
+
+12.2.34B.10.b
+
+under  subsection (8)  are subject to the affirmative procedure.
+
+.
+
+#### Throughcare support
+
+13
+
+13.1
+
+The 2016 Act is amended as follows.
+
+13.2
+
+After section 34B, as inserted by  section 12 , insert—
+
+########## Throughcare support
+
+########### Throughcare support standards
+
+13.2.34C
+
+13.2.34C.1
+
+The Scottish Ministers must, no later than two years after the day on which
+section 13(2) of the Bail and Release from Custody (Scotland) Act 2023 comes
+into force, publish standards applicable to throughcare support in Scotland
+(in this section, the “first standards”).
+
+13.2.34C.2
+
+The first standards—
+
+13.2.34C.2.a
+
+must make provision for minimum standards and outcomes to be met by all
+providers of throughcare support in Scotland,
+
+13.2.34C.2.b
+
+may make such further provision in connection with throughcare support as the
+Scottish Ministers consider appropriate.
+
+13.2.34C.3
+
+The Scottish Ministers must keep the first standards under review and may
+publish revised standards whenever they consider it appropriate to do so.
+
+13.2.34C.4
+
+In preparing, reviewing, and revising the first standards, the Scottish
+Ministers must consult—
+
+13.2.34C.4.a
+
+Community Justice Scotland,
+
+13.2.34C.4.b
+
+each local authority,
+
+13.2.34C.4.c
+
+each health board,
+
+13.2.34C.4.d
+
+the chief constable of the Police Service of Scotland,
+
+13.2.34C.4.e
+
+Skills Development Scotland,
+
+13.2.34C.4.f
+
+the Risk Management Authority,
+
+13.2.34C.4.g
+
+Social Care and Social Work Improvement Scotland,
+
+13.2.34C.4.h
+
+an integration joint board established by virtue of section 9 of the Public
+Bodies (Joint Working) (Scotland) Act 2014,
+
+13.2.34C.4.i
+
+third sector bodies—
+
+13.2.34C.4.i.i
+
+involved in community justice and the provision of throughcare support,
+
+13.2.34C.4.i.ii
+
+involved in or carrying out work related to the provision of support to
+children and families affected by imprisonment,
+
+13.2.34C.4.j
+
+each person—
+
+13.2.34C.4.j.i
+
+of a description prescribed by the Scottish Ministers by regulations, and
+
+13.2.34C.4.j.ii
+
+who is providing support services to victims in relation to offences
+perpetrated against or in respect of those victims,
+
+13.2.34C.4.k
+
+such other persons as the Scottish Ministers consider appropriate.
+
+13.2.34C.5
+
+The Scottish Ministers must, after consulting on the first standards in
+accordance with subsection (4) but before publishing those standards, publish
+a draft of the standards for public consultation for such period, of at least
+12 weeks, as they consider appropriate.
+
+13.2.34C.6
+
+The Scottish Ministers must, before or on publication of the first standards,
+publish a report setting out—
+
+13.2.34C.6.a
+
+the consultation process undertaken in order to comply with subsection (5),
+and
+
+13.2.34C.6.b
+
+the ways in which views expressed during that process have been taken account
+of in preparing the first standards (or stating that no account has been taken
+of such views).
+
+13.2.34C.7
+
+Where revised standards are published under  subsection (3) , this section—
+
+13.2.34C.7.a
+
+ceases to apply in relation to the previous standards,
+
+13.2.34C.7.b
+
+(other than subsections (5) and (6)) applies instead to the revised standards
+(as it applied to the first standards published under  subsection (1) ).
+
+13.2.34C.8
+
+In this section—
+
+      “ relevant general services ” has the same meaning as in section 1,
+“ support services ”—         means any type of service or treatment which is
+intended to benefit the physical or mental health or wellbeing of the victim,
+and           includes—         providing the victim with information
+(including information provided under section 16ZA(3) of the Criminal Justice
+(Scotland) Act 2003),           assisting the victim with safety planning,
+assisting the victim with the making of representations under Part 2 of the
+Criminal Justice (Scotland) Act 2003,                       “ throughcare
+support ” means in relation to individuals falling within  subsection (9) —
+the provision of advice and guidance,           the provision of, and
+facilitation of access to, opportunities to participate in activities designed
+to eliminate or reduce future offending,           the provision of, and
+facilitation of access to, emotional and practical support,           the
+provision of help, including in particular to—         access and make use of
+relevant general services and any relevant specialist services which are
+available,           co-operate and comply with any relevant conditions, court
+orders, and ongoing judicial or court processes,                 engagement in
+release planning in accordance with  section 34A .
+
+13.2.34C.9
+
+An individual falls within this subsection if they have been either—
+
+13.2.34C.9.a
+
+remanded in custody, or
+
+13.2.34C.9.b
+
+convicted of offences and sentenced to imprisonment or detention in a penal
+institution.
+
+13.2.34C.10
+
+The Scottish Ministers may by regulations modify the definition of “support
+services” in subsection (8).
+
+13.2.34C.11
+
+Regulations under subsection (4)(j)(i) and (10)—
+
+13.2.34C.11.a
+
+may include incidental, supplementary, consequential, transitional, transitory
+or saving provision,
+
+13.2.34C.11.b
+
+may modify enactments (including this Act).
+
+13.2.34C.12
+
+Regulations—
+
+13.2.34C.12.a
+
+under subsection (4)(j)(i)—
+
+13.2.34C.12.a.i
+
+which add to, replace or omit any part of the text of an Act are subject to
+the affirmative procedure,
+
+13.2.34C.12.a.ii
+
+are otherwise subject to the negative procedure,
+
+13.2.34C.12.b
+
+under subsection (10) are subject to the affirmative procedure.
+
+########### Throughcare support standards: duty to comply
+
+13.2.34D
+
+13.2.34D.1
+
+Each person falling within  subsection (2)  must, in exercising functions
+relating to the provision of throughcare support, comply with the standards
+published or revised under  section 34C .
+
+13.2.34D.2
+
+The persons are—
+
+13.2.34D.2.a
+
+each local authority,
+
+13.2.34D.2.b
+
+each health board,
+
+13.2.34D.2.c
+
+Skills Development Scotland,
+
+13.2.34D.2.d
+
+an integration joint board established by virtue of section 9 of the Public
+Bodies (Joint Working) (Scotland) Act 2014,
+
+13.2.34D.2.e
+
+the Scottish Ministers.
+
+13.2.34D.3
+
+The Scottish Ministers may by regulations modify the list in  subsection (2) .
+
+13.2.34D.4
+
+Regulations under this section are subject to the affirmative procedure.
+
+.
+
+#### Provision of information to victim support organisations
+
+14
+
+14.1
+
+The Criminal Justice (Scotland) Act 2003 is amended as follows.
+
+14.2
+
+After section 16 (victim’s right to receive information concerning release
+etc. of offender) insert—
+
+########## Provision of information to person supporting victim
+
+14.2.16ZA
+
+14.2.16ZA.1
+
+This section applies where—
+
+14.2.16ZA.1.a
+
+a person entitled to receive information under section 16 (the “victim”)
+intimates to the Scottish Ministers that a person to whom subsection (2)
+applies (the “supporter”) is to be given, as well as or instead of the victim,
+the information described in section 16(3) in relation to the person convicted
+of the offence perpetrated against the victim, or
+
+14.2.16ZA.1.b
+
+a supporter intimates to the Scottish Ministers that they wish to be given
+that information and Ministers are satisfied that the victim consents to the
+supporter being given the information.
+
+14.2.16ZA.2
+
+This subsection applies to a person—
+
+14.2.16ZA.2.a
+
+of a description prescribed by the Scottish Ministers by regulations, and
+
+14.2.16ZA.2.b
+
+who is providing support services to the victim in relation to the offence
+perpetrated against the victim.
+
+14.2.16ZA.3
+
+The Scottish Ministers must, unless they consider that there are exceptional
+circumstances which make it inappropriate to do so, give the supporter such
+information as is described in section 16(3).
+
+14.2.16ZA.4
+
+Subsection (3) does not apply where the person convicted of the offence
+perpetrated against the victim is released before attaining the age of 16
+years.
+
+14.2.16ZA.5
+
+In this section, “support services”—
+
+14.2.16ZA.5.a
+
+means any type of service or treatment which is intended to benefit the
+physical or mental health or wellbeing of the victim, and
+
+14.2.16ZA.5.b
+
+includes—
+
+14.2.16ZA.5.b.i
+
+providing the victim with information (including information provided under
+subsection (3)),
+
+14.2.16ZA.5.b.ii
+
+assisting the victim with safety planning,
+
+14.2.16ZA.5.b.iii
+
+assisting the victim with the making of representations under this Part.
+
+14.2.16ZA.6
+
+The Scottish Ministers may by regulations modify the definition of “support
+services” in subsection (5).
+
+14.2.16ZA.7
+
+Regulations under subsection (2)(a) and (6) may—
+
+14.2.16ZA.7.a
+
+include incidental, supplementary, consequential, transitional, transitory or
+saving provision,
+
+14.2.16ZA.7.b
+
+modify enactments (including this Act).
+
+14.2.16ZA.8
+
+Regulations—
+
+14.2.16ZA.8.a
+
+under subsection (2)(a)—
+
+14.2.16ZA.8.a.i
+
+which add to, replace or omit any part of the text of an Act are subject to
+the affirmative procedure,
+
+14.2.16ZA.8.a.ii
+
+are otherwise subject to the negative procedure,
+
+14.2.16ZA.8.b
+
+under subsection (6) are subject to the affirmative procedure.
+
+.
+
+14.3
+
+After section 16C (information to be given under section 16A) insert—
+
+########## Provision of information concerning offender subject to compulsion order to person supporting victim
+
+14.3.16D
+
+14.3.16D.1
+
+This section applies where—
+
+14.3.16D.1.a
+
+a person entitled to ask to be given information under section 16A (the
+“victim”) intimates to the Scottish Ministers that a person to whom subsection
+(2) applies (the “supporter”) is to be given, as well as or instead of the
+victim, the information described in section 16C about the person referred to
+in section 16A as O, or
+
+14.3.16D.1.b
+
+a supporter intimates to the Scottish Ministers that they wish to be given
+that information and Ministers are satisfied that the victim consents to the
+supporter being given the information.
+
+14.3.16D.2
+
+This subsection applies to a person—
+
+14.3.16D.2.a
+
+of a description prescribed by the Scottish Ministers by regulations, and
+
+14.3.16D.2.b
+
+who is providing support services to the victim in relation to the offence in
+respect of which O has been made subject to a compulsion order and a
+restriction order.
+
+14.3.16D.3
+
+The Scottish Ministers must give the information about O described in section
+16C to the supporter.
+
+14.3.16D.4
+
+But the Scottish Ministers—
+
+14.3.16D.4.a
+
+need not give the supporter information under this section if they consider
+there to be exceptional circumstances which make it inappropriate to do so,
+
+14.3.16D.4.b
+
+are not to give the supporter information about the terms of a condition in
+accordance with section 16C(2)(h) unless the condition is relevant to the
+victim as described in section 18A(3).
+
+14.3.16D.5
+
+Subsection (3) does not apply where O has not attained the age of 16 years.
+
+14.3.16D.6
+
+If the compulsion order or restriction order to which O has been made subject
+is revoked, subsection (3) ceases to apply when the Scottish Ministers give
+the victim or, as the case may be, the supporter the information that—
+
+14.3.16D.6.a
+
+the order has been revoked, and
+
+14.3.16D.6.b
+
+the decision to revoke it is final.
+
+14.3.16D.7
+
+In this section, “ support services ” has the same meaning as in section
+16ZA(5).
+
+14.3.16D.8
+
+Regulations under subsection (2)(a)—
+
+14.3.16D.8.a
+
+may—
+
+14.3.16D.8.a.i
+
+include incidental, supplementary, consequential, transitional, transitory or
+saving provision,
+
+14.3.16D.8.a.ii
+
+modify enactments (including this Act),
+
+14.3.16D.8.b
+
+which add to, replace or omit any part of the text of an Act are subject to
+the affirmative procedure,
+
+14.3.16D.8.c
+
+are otherwise subject to the negative procedure.
+
+.
+
+14.4
+
+After section 17 (release on licence: right of victim to receive information
+and make representations) insert—
+
+########## Release on licence: provision of information to person supporting victim
+
+14.4.17ZA
+
+14.4.17ZA.1
+
+This section applies where—
+
+14.4.17ZA.1.a
+
+a person entitled to receive information under section 16 (the “victim”) as
+respects a convicted person intimates that they wish a person entitled to
+receive information under section 16ZA (the “supporter”) to be informed before
+any decision is taken to release the convicted person, or
+
+14.4.17ZA.1.b
+
+the supporter intimates that they wish to be so informed and the Scottish
+Ministers are satisfied that the victim consents to the supporter being so
+informed.
+
+14.4.17ZA.2
+
+The Scottish Ministers must, whether or not the victim has intimated the wish
+to be afforded the opportunity to make representations under section 17(1),
+give the supporter—
+
+14.4.17ZA.2.a
+
+notice as mentioned in section 17(5), (7) and (9), and
+
+14.4.17ZA.2.b
+
+the information mentioned in section 17(10).
+
+14.4.17ZA.3
+
+The Parole Board for Scotland must give the supporter the information
+mentioned in section 17(6) and (8) (whether or not the victim has intimated
+the desire to receive that information).
+
+14.4.17ZA.4
+
+Subsections (2) and (3) do not apply where the convicted person has not
+attained the age of 16 years by the date on which the case is referred to the
+Parole Board by the Scottish Ministers.
+
+14.4.17ZA.5
+
+This section does not apply—
+
+14.4.17ZA.5.a
+
+as respects release under section 3 of the 1993 Act (release on compassionate
+grounds),
+
+14.4.17ZA.5.b
+
+where the victim’s entitlement to receive information under section 16 arises
+by virtue of section 16(4)(a).
+
+.
+
+14.5
+
+In section 17A (temporary release: victim’s right to make representations
+about conditions)—
+
+14.5.a
+
+for subsection (1) substitute—
+
+14.5.a.1
+
+This section applies where—
+
+14.5.a.1.a
+
+by virtue of subsection (1) or (5) of section 16 a person (the “victim”), or
+
+14.5.a.1.b
+
+by virtue of section 16ZA(3), a person entitled to receive information under
+that section (the “supporter”),
+
+is given the information mentioned in section 16(3)(d) as respects a convicted
+person.
+
+,
+
+14.5.b
+
+in subsection (4)(b), after “victim” insert  “or, as the case may be, the
+supporter” .
+
+14.6
+
+After section 17D (right to information after section 17B decision) insert—
+
+########## Section 17B decision: provision of information to person supporting victim
+
+14.6.17DA
+
+14.6.17DA.1
+
+This section applies where—
+
+14.6.17DA.1.a
+
+a person entitled to receive information under section 17D (the “victim”)
+intimates to the Scottish Ministers that a person to whom subsection (2)
+applies (the “supporter”) is to receive, as well as or instead of the victim,
+the information, or
+
+14.6.17DA.1.b
+
+a supporter intimates to the Scottish Ministers that they wish to receive that
+information and Ministers are satisfied that the victim consents to the
+supporter receiving the information.
+
+14.6.17DA.2
+
+This subsection applies to a person—
+
+14.6.17DA.2.a
+
+of a description prescribed by the Scottish Ministers by regulations, and
+
+14.6.17DA.2.b
+
+who is providing support services to the victim in relation to the offence in
+respect of which the person referred to in section 17B as O has been made
+subject to—
+
+14.6.17DA.2.b.i
+
+a hospital direction,
+
+14.6.17DA.2.b.ii
+
+a transfer for treatment direction, or, as the case may be,
+
+14.6.17DA.2.b.iii
+
+a compulsion order and a restriction order.
+
+14.6.17DA.3
+
+The Scottish Ministers must, unless they consider that there are exceptional
+circumstances which make it inappropriate to do so, inform the supporter that
+the decision under section 17B has been taken.
+
+14.6.17DA.4
+
+Subsection (5) applies where—
+
+14.6.17DA.4.a
+
+in accordance with subsection (3), the Scottish Ministers have informed the
+supporter that the Tribunal has decided to make an order revoking a compulsion
+order or restriction order, and
+
+14.6.17DA.4.b
+
+by virtue of section 196 of the Mental Health Act, the Tribunal's order does
+not have effect because the Court of Session has made an order under section
+323(1) of that Act.
+
+14.6.17DA.5
+
+The Scottish Ministers must—
+
+14.6.17DA.5.a
+
+inform the supporter that the Court of Session has made an order under section
+323(1) of the Mental Health Act, and
+
+14.6.17DA.5.b
+
+give the supporter the information that they would have had to give the
+supporter by virtue of section 16C(4) had the Court not made that order.
+
+14.6.17DA.6
+
+In this section, “ support services ” has the same meaning as in section
+16ZA(5).
+
+14.6.17DA.7
+
+Regulations under subsection (2)(a)—
+
+14.6.17DA.7.a
+
+may—
+
+14.6.17DA.7.a.i
+
+include incidental, supplementary, consequential, transitional, transitory or
+saving provision,
+
+14.6.17DA.7.a.ii
+
+modify enactments (including this Act),
+
+14.6.17DA.7.b
+
+which add to, replace or omit any part of the text of an Act are subject to
+the affirmative procedure,
+
+14.6.17DA.7.c
+
+are otherwise subject to the negative procedure.
+
+.
+
+14.7
+
+In section 17E (information sharing in respect of mentally-disordered
+offenders)—
+
+14.7.a
+
+in subsection (1)—
+
+14.7.a.i
+
+for “or 16A” substitute  “, 16ZA, 16A or 16D” ,
+
+14.7.a.ii
+
+after “(“ V ”)” insert  “or, as the case may be, a supporter” ,
+
+14.7.b
+
+in subsection (3), after “17D” insert  “or to a supporter under section 16ZA,
+16D or 17DA” ,
+
+14.7.c
+
+in subsection (5), for “or 16A” substitute  “16ZA, 16A or, as the case may be,
+16D” ,
+
+14.7.d
+
+after subsection (5) insert—
+
+14.7.d.6
+
+In this section, “ supporter ” is to be construed in accordance with section
+16ZA, 16D or, as the case may be, 17DA.
+
+.
+
+14.8
+
+In section 18A (interpretation)—
+
+14.8.a
+
+in subsection (3)—
+
+14.8.a.i
+
+after “16A(3)(b)” insert  “, 16D(4)(b)” ,
+
+14.8.a.ii
+
+in paragraph (b), after “V” insert  “or, as the case may be, a supporter” ,
+
+14.8.b
+
+after subsection (4) insert—
+
+14.8.b.5
+
+In this section, “ supporter ” is to be construed in accordance with section
+16D or, as the case may be, 17DA.
+
+.
+
+14.9
+
+In section 18B (power to modify Part)—
+
+14.9.a
+
+in subsection (1)(a), for “16A and 16B,” substitute  “16ZA, 16A, 16B, 16D(5)
+and 17ZA(4),” ,
+
+14.9.b
+
+in subsection (2)(a), for “section 16A” substitute  “sections 16A and 16D” ,
+
+14.9.c
+
+in subsection (3), after “16A” in both places insert  “, 16D” .
+
+14.10
+
+In section 87(1) (interpretation), in the definition of “prescribed”, for
+“section” substitute  “sections 16ZA(2)(a), 16D(2)(a), 17DA(2)(a) and” .
+
+14.11
+
+The Victims and Witnesses (Scotland) Act 2014 is amended as follows.
+
+14.12
+
+After section 27A (notification of victims in relation to release etc. of
+short-term prisoners) insert—
+
+########## Provision of information to person supporting victim
+
+14.12.27B
+
+14.12.27B.1
+
+This section applies where—
+
+14.12.27B.1.a
+
+a person entitled to receive information under section 27A (“ V ”) intimates
+to the Scottish Ministers that a person to whom subsection (2) applies (the
+“supporter”) is to be given, as well as or instead of V, the information
+described in section 27A(1) in relation to the person sentenced to
+imprisonment or detention (“ A ”), or
+
+14.12.27B.1.b
+
+a supporter intimates to the Scottish Ministers that they wish to be given
+that information and Ministers are satisfied that V consents to the supporter
+being given the information.
+
+14.12.27B.2
+
+This subsection applies to a person—
+
+14.12.27B.2.a
+
+of a description prescribed by the Scottish Ministers by regulations, and
+
+14.12.27B.2.b
+
+who is providing support services to V in relation to the offence perpetrated
+against V by A.
+
+14.12.27B.3
+
+The Scottish Ministers must notify the supporter of the matters mentioned in
+section 27A(1).
+
+14.12.27B.4
+
+Section 27A(2) and (3) apply to notification under subsection (3) as they
+apply to notification under section 27A(1).
+
+14.12.27B.5
+
+In this section, “ support services ” has the same meaning as in section
+16ZA(5) of the 2003 Act.
+
+14.12.27B.6
+
+Regulations under subsection (2)(a) may—
+
+14.12.27B.6.a
+
+include incidental, supplementary, consequential, transitional, transitory or
+saving provision,
+
+14.12.27B.6.b
+
+modify enactments (including this Act).
+
+14.12.27B.7
+
+Regulations under subsection (2)(a)—
+
+14.12.27B.7.a
+
+which add to, replace or omit any part of the text of an Act are subject to
+the affirmative procedure,
+
+14.12.27B.7.b
+
+are otherwise subject to the negative procedure.
+
+.
+
+#### Report on operation of Part 2
+
+15
+
+15.1
+
+The Scottish Ministers must, as soon as reasonably practicable after the end
+of the reporting period, lay before the Scottish Parliament a report on the
+operation of the modifications of enactments made by this Part.
+
+15.2
+
+In preparing the report, the Scottish Ministers must consult—
+
+15.2.a
+
+Community Justice Scotland,
+
+15.2.b
+
+each local authority,
+
+15.2.c
+
+each health board,
+
+15.2.d
+
+the chief constable of the Police Service of Scotland,
+
+15.2.e
+
+Skills Development Scotland,
+
+15.2.f
+
+the Risk Management Authority,
+
+15.2.g
+
+the Parole Board for Scotland,
+
+15.2.h
+
+Social Care and Social Work Improvement Scotland,
+
+15.2.i
+
+each integration joint board established by virtue of section 9 of the Public
+Bodies (Joint Working) (Scotland) Act 2014,
+
+15.2.j
+
+third sector bodies—
+
+15.2.j.i
+
+involved in community justice and the provision of throughcare support,
+
+15.2.j.ii
+
+involved in or carrying out work related to the provision of support to
+children and families affected by imprisonment,
+
+15.2.k
+
+persons who are providing support services to victims in relation to offences
+perpetrated against or in respect of those victims,
+
+15.2.l
+
+such other persons as the Scottish Ministers consider appropriate.
+
+15.3
+
+In this section—
+
+      “ health board ” means a board constituted under section 2(1)(a) of the
+National Health Service (Scotland) Act 1978,           “ reporting period ”
+means the period of 5 years beginning with the day after Royal Assent,
+“ Skills Development Scotland ” means the company limited by guarantee
+registered in Scotland with company number SC202659,           “ support
+services ” has the meaning given by section 34C(8) of the 2016 Act (as
+inserted by section 13(2)),           “ third sector bodies ” means bodies
+(whether or not formally constituted) established for purposes which consist
+of, or consist mainly of, providing benefits for society (but do not include
+bodies established under an enactment).
+
+### FINAL PROVISIONS
+
+#### Interpretation
+
+16
+
+In this Act—
+
+      “ the 1993 Act ” means the Prisoners and Criminal Proceedings (Scotland)
+Act 1993,           “ the 1995 Act ” means the Criminal Procedure (Scotland)
+Act 1995,           “ the 2016 Act ” means the Community Justice (Scotland)
+Act 2016.
+
+#### Ancillary provision
+
+17
+
+17.1
+
+The Scottish Ministers may by regulations make any incidental, supplementary,
+consequential, transitional, transitory or saving provision they consider
+appropriate for the purposes of, in connection with or for giving full effect
+to this Act.
+
+17.2
+
+Regulations under  subsection (1)  may—
+
+17.2.a
+
+modify any enactment (including this Act),
+
+17.2.b
+
+make different provision for different purposes.
+
+17.3
+
+Regulations under  subsection (1) —
+
+17.3.a
+
+are subject to the affirmative procedure if they add to, replace or omit any
+part of the text of an Act,
+
+17.3.b
+
+otherwise are subject to the negative procedure.
+
+#### Commencement
+
+18
+
+18.1
+
+This section  and sections  6 ,  7 ,  15  to  17  and  19  come into force on
+the day after Royal Assent.
+
+18.2
+
+The other provisions of this Act come into force on such day as the Scottish
+Ministers may by regulations appoint.
+
+18.3
+
+Regulations under  subsection (2)  may—
+
+18.3.a
+
+include transitional, transitory or saving provision,
+
+18.3.b
+
+make different provision for different purposes.
+
+#### Short title
+
+19
+
+The short title of this Act is the Bail and Release from Custody (Scotland)
+Act 2023.
+

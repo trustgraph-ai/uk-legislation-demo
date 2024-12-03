@@ -1,0 +1,1533 @@
+Title: The Economic Crime (Anti-Money Laundering) Levy Regulations 2022
+Date: 2024-05-20
+Description: These Regulations make provision about the assessment, payment, collection and recovery of the economic crime (anti-money laundering) levy (“the levy”) which is charged in accordance with Part 3 of the Finance Act 2022 (c. 3) for the financial year beginning with April 2022 and subsequent financial years (see section 66 of the Finance Act 2022).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/269
+
+## The Economic Crime (Anti-Money Laundering) Levy Regulations 2022
+
+Economic Crime (anti-money Laundering) Levy
+
+Made 10th March 2022
+
+Laid before the House of Commons 11th March 2022
+
+Coming into force 1st April 2022
+
+The Treasury, in exercise of the powers conferred by sections 58(2), (3)(a),
+(b), (c), (d), (e), (f), (h), (i) and (m) and (4), 58(6) and 64(1)(a) and (b)
+and (2) of the Finance Act 2022, make the following Regulations. Before making
+these Regulations, the Treasury have consulted each appropriate collection
+authority  in accordance with section 64(4) of the Finance Act 2022 .
+
+### Introductory
+
+#### Citation, commencement and extent
+
+1
+
+1.1
+
+These Regulations may be cited as the Economic Crime (Anti-Money Laundering)
+Levy Regulations 2022 and come into force on 1st April 2022.
+
+1.2
+
+These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+#### Interpretation
+
+2
+
+In these Regulations—
+
+“ the Act ” means the Finance Act 2022; “ appealable decision ” means a
+decision appealable in accordance with regulation 30; “ appellant ” means the
+person bringing an appeal of an appealable decision under regulation 30; “ due
+date ” has the meaning given in regulation 6(1), 9(1) or 13(1) as the case may
+be; “ economic crime (anti-money laundering) levy return ” has the meaning
+given in regulation 5(1), 9(1)(b) or 13(1)(a) as the case may be; “ FCA return
+date ” has the meaning given in regulation 5(2)(a); “ notice of recalculation
+” means a notice given under regulation 11A(1)(b).
+
+### Determination of the relevant appropriate collection authority
+
+#### Determination as to which appropriate collection authority is to exercise functions
+
+3
+
+3.1
+
+Except where paragraph (2) applies, where both the Gambling Commission and the
+Financial Conduct Authority are an appropriate collection authority with power
+to exercise functions under Part 3 of the Act in respect of a person, the
+Financial Conduct Authority is the appropriate collection authority which is
+to exercise those functions.
+
+3.2
+
+This paragraph applies where the Gambling Commission and the Financial Conduct
+Authority agree that the Gambling Commission will be the appropriate
+collection authority which is to exercise those functions in respect of a
+person.
+
+3.3
+
+Where paragraph (2) applies, the Gambling Commission must notify the person in
+writing.
+
+3.4
+
+Where, after the Gambling Commission has notified a person that the Gambling
+Commission will be the appropriate collection authority in accordance with
+paragraph (3), the Gambling Commission and the Financial Conduct Authority
+agree that the Financial Conduct Authority will be the appropriate collection
+authority which is to exercise functions under Part 3 of the Act in respect of
+a person, the Financial Conduct Authority must notify the person in writing.
+
+### Provisions for assessment, payment, collection and recovery of the levy, where the appropriate collection authority is the Financial Conduct Authority
+
+#### Application of Part 3
+
+4
+
+This Part applies where the appropriate collection authority is the Financial
+Conduct Authority.
+
+#### Information requirements
+
+5
+
+5.1
+
+The Financial Conduct Authority may by notice require any person for whom the
+Financial Conduct Authority is a supervisory authority  to make a return (“ an
+economic crime (anti-money laundering) levy return ”) relating to the person’s
+UK revenue  for a financial year to the Financial Conduct Authority.
+
+5.2
+
+An economic crime (anti-money laundering) levy return must—
+
+5.2.a
+
+be made on or before the date specified in the notice (“the FCA return date”);
+
+5.2.b
+
+contain such information, be in such form and be made in such a manner as may
+be specified in the notice; and
+
+5.2.c
+
+include a declaration by the person making the return that the return is, to
+the best of that person’s knowledge, correct and complete.
+
+5.3
+
+A person who has made an economic crime (anti-money laundering) levy return
+may amend that return at any time up to 12 months after the FCA return date.
+
+5.4
+
+Where a notice under paragraph (1) is given to the responsible partners of a
+partnership , the responsible partners must make an economic crime (anti-money
+laundering) return in the name of the partnership.
+
+#### Payment of the levy
+
+6
+
+6.1
+
+Where a person is liable to pay the levy , the Financial Conduct Authority
+must notify the person in writing as to—
+
+6.1.a
+
+the amount payable by the person;
+
+6.1.b
+
+the date by which that amount is to be paid (“ the due date ”), being a date
+not less than 30 days after the date of the written notification; and
+
+6.1.c
+
+details of how the payment can be made.
+
+6.2
+
+The notification referred to in paragraph (1) must contain such information,
+be in such form and be made in such a manner as is specified in a notice
+published by the Financial Conduct Authority, and not withdrawn by a further
+notice.
+
+6.3
+
+A notification under paragraph (1) may be amended, replaced or withdrawn by
+the Financial Conduct Authority by a further notification in writing.
+
+#### Late payment interest
+
+7
+
+7.1
+
+Where any amount of the levy is not paid in accordance with the notification
+referred to in regulation 6(1), the Financial Conduct Authority may charge
+interest on the amount of the levy which remains unpaid.
+
+7.2
+
+Interest payable under paragraph (1) is simple interest calculated from day to
+day on the unpaid amount from a day determined by the Financial Conduct
+Authority, such day not being before the due date referred to in regulation
+6(1)(b), until the day when payment is made, at a rate of 5% over the Bank of
+England base rate from time to time.
+
+7.3
+
+Where the person liable to pay the levy is the responsible partners of a
+partnership, the liability to pay interest charged in accordance with this
+regulation is joint and several.
+
+7.4
+
+For the purpose of this regulation, the “ Bank of England base rate ” means—
+
+7.4.a
+
+the rate announced from time to time by the Monetary Policy Committee of the
+Bank of England as the official dealing rate, being the rate at which the Bank
+is willing to enter into transactions for providing short term liquidity in
+the money markets, or
+
+7.4.b
+
+where an order under section 19 of the Bank of England Act 1998  (reserve
+powers) is in force, any equivalent rate determined by the Treasury under that
+section.
+
+### Provisions for assessment, payment, collection and recovery of the levy, where the appropriate collection authority is the Gambling Commission
+
+#### Application of Part 4
+
+8
+
+This Part applies where the appropriate collection authority is the Gambling
+Commission.
+
+#### Requirements of a person liable to pay the levy
+
+9
+
+9.1
+
+Where a person is liable to pay the levy, it must—
+
+9.1.a
+
+notify the Gambling Commission of that liability;
+
+9.1.b
+
+make a return (“an economic crime (anti-money laundering) levy return”) to the
+Gambling Commission; and
+
+9.1.c
+
+pay the levy,
+
+on or before 30th September after the end of the financial year for which the
+liability arises (“ the due date ”).
+
+9.2
+
+The notification referred to in paragraph (1)(a) must contain such
+information, be in such form and be made in such a manner as is specified in a
+notice  published by the Gambling Commission, and not withdrawn by a further
+notice.
+
+9.3
+
+An economic crime (anti-money laundering) levy return must—
+
+9.3.a
+
+contain such information, be in such form and be made in such a manner as is
+specified in a notice published by the Gambling Commission, and not withdrawn
+by a further notice; and
+
+9.3.b
+
+include a declaration by the person making the return that the return is, to
+the best of that person’s knowledge, correct and complete.
+
+9.4
+
+Where the person liable to pay the levy is the responsible partners of a
+partnership, the responsible partners must make a notification under paragraph
+(1)(a) and an economic crime (anti-money laundering) levy return in the name
+of the partnership.
+
+#### Amendment of an economic crime (anti-money laundering) levy return
+
+9A
+
+9A.1
+
+A person who has made an economic crime (anti-money laundering) levy return in
+accordance with regulation 9 may amend that return at any time up to 12 months
+after the due date referred to in regulation 9(1).
+
+9A.2
+
+An amount of levy payable as a result of the amendment of an economic crime
+(anti-money laundering) levy return must be paid—
+
+9A.2.a
+
+immediately, or
+
+9A.2.b
+
+if the amendment is made on or before the due date, not later than that due
+date.
+
+#### Register
+
+10
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Late payment interest
+
+11
+
+11.1
+
+Where any amount of the levy is not paid by the due date referred to in
+regulation 9(1), the person liable to pay the levy is liable to pay interest
+on the amount of the levy which remains unpaid.
+
+11.2
+
+Interest payable under paragraph (1) is simple interest calculated from day to
+day on the unpaid amount from the due date until the date when payment is
+made, at the rate set as the late payment interest rate for the purposes of
+section 101 of the Finance Act 2009  (late payment interest in sums due to
+HMRC).
+
+11.3
+
+Where the person liable to pay the levy is the responsible partners of a
+partnership, the liability under this regulation is joint and several.
+
+#### Assessment by the Gambling Commission of amounts of levy due
+
+11A
+
+11A.1
+
+Where it appears to the Gambling Commission that an amount of levy has become
+due and there has been a relevant failure, the Gambling Commission—
+
+11A.1.a
+
+may assess the amount of levy due from a person for that financial year to the
+best of their judgement; and
+
+11A.1.b
+
+must, where such an assessment is made, give a notice to that person (a
+“notice of recalculation”), notifying that person of the assessment made.
+
+11A.2
+
+The notice of recalculation must include—
+
+11A.2.a
+
+the date on which the notice is given;
+
+11A.2.b
+
+a statement of the amount of levy now due;
+
+11A.2.c
+
+the time within which any appeal against the assessment may be made.
+
+11A.3
+
+In this regulation, any of the following is a “relevant failure”—
+
+11A.3.a
+
+a failure to make an economic crime (anti-money laundering) levy return;
+
+11A.3.b
+
+a failure to keep documents necessary to verify an economic crime (anti-money
+laundering) levy return;
+
+11A.3.c
+
+the making of an incomplete or inaccurate economic crime (anti-money
+laundering) levy return;
+
+11A.3.d
+
+an amount of levy has been repaid that ought not to have been repaid.
+
+#### Time limit for recalculation notice
+
+11B
+
+11B.1
+
+A notice of recalculation may not be given after the relevant time.
+
+11B.2
+
+The “relevant time” is—
+
+11B.2.a
+
+the end of the period of 4 years beginning with the date on which an economic
+crime (anti-money laundering) levy return is made, or
+
+11B.2.b
+
+where the economic crime (anti-money laundering) levy return has not been
+made, the end of the period of 20 years beginning with the due date.
+
+#### Payment of levy after assessment by the Gambling Commission
+
+11C
+
+11C.1
+
+The amount of levy stated in the notice of recalculation as the amount due—
+
+11C.1.a
+
+must be paid by the date which is 30 days after the date of the notice of
+recalculation, and
+
+11C.1.b
+
+is recoverable on the basis that it is an amount of levy due from that person.
+
+11C.2
+
+But paragraph (1) does not apply if, or to the extent that, the notice of
+recalculation has been withdrawn or the assessment reduced.
+
+### Provisions for assessment, payment and collection of the levy, where the appropriate collection authority is the HMRC Commissioners
+
+#### Application of Part 5
+
+12
+
+This Part applies where the appropriate collection authority is the HMRC
+Commissioners .
+
+#### Requirements of a person liable to pay the levy
+
+13
+
+13.1
+
+Where a person is liable to pay the levy, it must—
+
+13.1.a
+
+make a return (“an economic crime (anti-money laundering) levy return”) to the
+HMRC Commissioners; and
+
+13.1.b
+
+pay the levy,
+
+on or before 30th September after the end of the financial year for which the
+liability arises (“ the due date ”).
+
+13.2
+
+An economic crime (anti-money laundering) levy return must—
+
+13.2.a
+
+contain such information, be in such form and be made in such a manner as is
+specified in a notice  published by the HMRC Commissioners, and not withdrawn
+by a further notice; and
+
+13.2.b
+
+include a declaration by the person making the return that the return is, to
+the best of that person’s knowledge, correct and complete.
+
+13.3
+
+Where the person liable to pay the levy is the responsible partners of a
+partnership, the responsible partners must make an economic crime (anti-money
+laundering) levy return in the name of the partnership.
+
+#### Amendment of an economic crime (anti-money laundering) levy return
+
+14
+
+14.1
+
+A person who has made an economic crime (anti-money laundering) levy return in
+accordance with regulation 13 may amend that return at any time up to 12
+months after the due date referred to in regulation 13(1).
+
+14.2
+
+An amendment must be in such form and be made in such a manner as is specified
+in a notice published by the HMRC Commissioners, and not withdrawn by a
+further notice.
+
+14.3
+
+An amount of levy payable as a result of the amendment of an economic crime
+(anti-money laundering) levy return must be paid—
+
+14.3.a
+
+immediately, or
+
+14.3.b
+
+if the amendment is made on or before the due date, not later than that due
+date.
+
+#### Assessment by the HMRC Commissioners of amounts of levy due
+
+14A
+
+14A.1
+
+Where it appears to the HMRC Commissioners that an amount of levy has become
+due and there has been a relevant failure, the HMRC Commissioners—
+
+14A.1.a
+
+may assess the amount of levy due from the person for that financial year to
+the best of their judgement; and
+
+14A.1.b
+
+must, where such an assessment is made, notify the amount to the person.
+
+14A.2
+
+In paragraph (1), any of the following is a “relevant failure”—
+
+14A.2.a
+
+a failure to make an economic crime (anti-money laundering) levy return;
+
+14A.2.b
+
+a failure to keep documents necessary to verify an economic crime (anti-money
+laundering) levy return;
+
+14A.2.c
+
+the making of an incomplete or inaccurate economic crime (anti-money
+laundering) levy return;
+
+14A.2.d
+
+an amount of levy, which could include an amount of repayment interest, has
+been repaid that ought not to have been repaid.
+
+#### Replacement assessments by the HMRC Commissioners
+
+14B
+
+14B.1
+
+Where an assessment has been notified to a person under regulation 14A(1) and
+it appears to the HMRC Commissioners that the amount which ought to have been
+assessed as due exceeds the amount that has already been assessed, the HMRC
+Commissioners—
+
+14B.1.a
+
+may make a further assessment (“a replacement assessment”) of the amount of
+levy due from the person to the best of their judgement, and
+
+14B.1.b
+
+must, where such an assessment is made, notify the person of that amount.
+
+14B.2
+
+A replacement assessment made and notified to a person under paragraph (1)
+supersedes any previous assessment.
+
+#### Assessment procedure
+
+14C
+
+Notice of an assessment under regulation 14A(1) or 14B(1) must be given in
+writing stating—
+
+14C.a
+
+the date on which the notice is given, and
+
+14C.b
+
+the time within which any appeal against the assessment may be made.
+
+#### Time limits for assessments by the HMRC Commissioners
+
+14D
+
+14D.1
+
+An assessment under regulation 14A(1) or 14B(1) may not be made after the
+relevant time.
+
+14D.2
+
+The “relevant time” is—
+
+14D.2.a
+
+the end of the period of 4 years beginning with the date on which an economic
+crime (anti-money laundering) levy return is made, or
+
+14D.2.b
+
+where the economic crime (anti-money laundering) levy return has not been
+made, the end of the period of 20 years beginning with the due date.
+
+#### Payment of levy following assessments by the HMRC Commissioners
+
+14E
+
+14E.1
+
+An amount of levy assessed and notified to a person under regulation 14A(1) or
+14B(1)—
+
+14E.1.a
+
+must be paid by the date which is 30 days after the date of notification of
+the assessment, and
+
+14E.1.b
+
+is recoverable on the basis that it is an amount of levy due from that person.
+
+14E.2
+
+But paragraph (1) does not apply if, or to the extent that, the assessment has
+been withdrawn or reduced.
+
+### Death, incapacity or insolvency
+
+#### Death, incapacity or insolvency
+
+15
+
+15.1
+
+This regulation applies where a person liable to pay the levy—
+
+15.1.a
+
+who is an individual—
+
+15.1.a.i
+
+has died or become incapacitated; or
+
+15.1.a.ii
+
+has become bankrupt; or
+
+15.1.b
+
+is subject to winding-up, receivership, administration or an equivalent
+procedure.
+
+15.2
+
+  Subject to paragraph (3),  the person (“ P ”) who—
+
+15.2.a
+
+in the case of an individual, carries on the regulated business  on behalf of
+an individual who has died or become incapacitated; or
+
+15.2.b
+
+acts as the liquidator, receiver or administrator in relation to the business
+of the person liable to pay the levy or acts in an equivalent capacity,
+
+may be treated by the appropriate collection authority as the person liable to
+pay the levy and must satisfy the requirements of Part 3 of the Act and the
+requirements of these Regulations as if they were the person liable to pay the
+levy.
+
+15.3
+
+Any amount of levy which relates to UK revenue attributable to a period before
+the date when the winding-up, receivership, administration or other equivalent
+procedure takes effect is payable by the person subject to the winding-up,
+receivership, administration or an equivalent procedure, and not by the person
+treated as the person liable to pay the levy under paragraph (2).
+
+15.4
+
+Any amount of levy which relates to UK revenue attributable to a period on or
+after the date when the winding-up, receivership, administration or other
+equivalent procedure takes effect is to be regarded as an expense of that
+winding-up, receivership, administration or equivalent procedure.
+
+### Information Requirements
+
+#### Requirement to provide information or documents where the appropriate collection authority is the Financial Conduct Authority or the Gambling Commission
+
+16
+
+16.1
+
+                            This regulation applies where the appropriate
+collection authority is the Financial Conduct Authority or the Gambling
+Commission.
+
+16.2
+
+A person liable to pay the levy must supply the appropriate collection
+authority with such information or documents as the appropriate collection
+authority may request in connection with the levy.
+
+16.3
+
+A request under paragraph (2) may specify—
+
+16.3.a
+
+the form and manner in which the information or documents are to be supplied;
+
+16.3.b
+
+the period within which the information or documents are to be supplied.
+
+#### Duty to keep and preserve records
+
+17
+
+17.1
+
+A person liable to pay the levy must—
+
+17.1.a
+
+keep such records as may be needed to enable them to make a complete and
+accurate economic crime (anti-money laundering) levy return,
+
+17.1.b
+
+preserve those records until at least the end of the relevant day, and
+
+17.1.c
+
+preserve those records in a medium that allows the storage of information in a
+way that is accessible for future reference by the appropriate collection
+authority when the appropriate collection authority is carrying out functions
+under Part 3 of the Act or under these Regulations.
+
+17.2
+
+In paragraph (1)(b), “ relevant day ” means—
+
+17.2.a
+
+the sixth anniversary of the end of the period for which the person may be
+required to make an economic crime (anti-money laundering) levy return, or
+
+17.2.b
+
+such earlier day as may be specified in writing by the appropriate collection
+authority (and different days may be specified for different cases).
+
+17.3
+
+In paragraph (1)(c), the obligation to ensure that storage is accessible for
+future reference by the appropriate collection authority includes the
+requirements that—
+
+17.3.a
+
+the appropriate collection authority must be able to access the record
+readily,
+
+17.3.b
+
+the appropriate collection authority must be able to easily ascertain—
+
+17.3.b.i
+
+if any correction or other amendment has been made to a record, and
+
+17.3.b.ii
+
+the content of any record prior to such correction or amendment, and
+
+17.3.c
+
+it must not be possible for any record to be otherwise manipulated or altered.
+
+### Repayment of overpaid levy
+
+#### Repayment of overpaid levy
+
+18
+
+18.1
+
+Subject to paragraph (2), where a person has paid an amount of levy which was
+not due, the appropriate collection authority must, on the making of a claim
+by that person, repay the amount.
+
+18.2
+
+The appropriate collection authority is not liable, on any claim for a
+repayment of levy, to repay any amount where—
+
+18.2.a
+
+the appropriate collection authority is the Financial Conduct Authority and
+the amount in question was paid more than 2 years before the making of the
+claim;
+
+18.2.b
+
+the appropriate collection authority is the Gambling Commission or HMRC
+Commissioners and the amount in question was paid more than 4 years before the
+making of the claim;
+
+18.2.c
+
+the amount in question was paid as a result of the person liable to pay the
+levy not taking steps under the Corporation Tax Acts to reduce its revenue ;
+
+18.2.d
+
+the person liable to pay the levy—
+
+18.2.d.i
+
+could have reduced the amount of levy due by making an amendment to an
+economic crime (anti-money laundering) levy return within a period which has
+now expired, and
+
+18.2.d.ii
+
+knew, or ought reasonably to have known, before the end of that period that
+such an amendment could have been made;
+
+18.2.e
+
+the claim is made on grounds that have been put to a tribunal or court in the
+course of an appeal or by way of application for judicial review;
+
+18.2.f
+
+the person liable to pay the levy knew, or ought reasonably to have known, of
+the grounds for the claim before the latest of the following—
+
+18.2.f.i
+
+the date on which an appeal or application for judicial review by the person
+liable to pay the levy relating to the amount paid in the course of which the
+ground could have been put forward (a “relevant appeal or judicial review”)
+was determined by a tribunal or court (or is treated as having been so
+determined),
+
+18.2.f.ii
+
+the date on which the person liable to pay the levy withdrew a relevant appeal
+or judicial review to a court or tribunal, and
+
+18.2.f.iii
+
+the end of the period in which the person liable to pay the levy was entitled
+to make a relevant appeal or judicial review to a tribunal or court;
+
+18.2.g
+
+the amount in question was paid—
+
+18.2.g.i
+
+in consequence of proceedings enforcing the payment of that amount brought
+against the person liable to pay the levy by an appropriate collection
+authority, or
+
+18.2.g.ii
+
+in accordance with an agreement between the person liable to pay the levy and
+an appropriate collection authority settling such proceedings;
+
+18.2.h
+
+the amount in question was paid by reason of a mistake in calculating the
+revenue of a person liable to pay the levy, but that calculation was in
+accordance with the practice generally prevailing at the time.
+
+18.3
+
+Where the appropriate collection authority is the Financial Conduct Authority
+or the Gambling Commission, no interest is payable on any repaid levy.
+
+#### Claim for repayment of overpaid levy
+
+19
+
+19.1
+
+A claim for a repayment under regulation 18(1) must—
+
+19.1.a
+
+contain such information, be in such form and be made in such a manner as is
+specified in a notice published by the appropriate collection authority, and
+not withdrawn by a further notice, and
+
+19.1.b
+
+include a declaration by the person making the claim that the claim is, to the
+best of that person’s knowledge, complete and accurate.
+
+19.2
+
+Where the person liable to pay the levy is the responsible partners of a
+partnership, the responsible partners must make a claim in the name of the
+partnership.
+
+### Enforcement
+
+#### Financial penalties
+
+20
+
+20.1
+
+An appropriate collection authority may impose a financial penalty on a person
+liable to pay the levy where that person fails to—
+
+20.1.a
+
+submit an economic crime (anti-money laundering) levy return by—
+
+20.1.a.i
+
+where the appropriate collection authority is the Gambling Commission or the
+HMRC Commissioners, the due date, or
+
+20.1.a.ii
+
+where the appropriate collection authority is the Financial Conduct Authority,
+the FCA return date;
+
+20.1.b
+
+pay the levy by the due date;
+
+20.1.c
+
+make a complete and accurate economic crime (anti-money laundering) levy
+return such that a lower amount of levy has been charged for a financial year
+than the amount determined in accordance with section 54 of the Act;
+
+20.1.d
+
+notify the appropriate collection authority in writing of an under-assessment
+of the levy;
+
+20.1.e
+
+notify the appropriate collection authority in writing that an amount of levy,
+which could include an amount of repayment interest, has been repaid that
+ought not to have been repaid;
+
+20.1.f
+
+comply with a request for information or documents under regulation 16;
+
+20.1.g
+
+comply with record keeping requirements under regulation 17;
+
+20.1.h
+
+submit the economic crime (anti-money laundering) levy return by the date
+which is 3 months after the due date or the FCA return date, following a
+failure under sub-paragraph (a);
+
+20.1.i
+
+pay the levy by the date which is 30 days after the due date, following a
+failure under sub-paragraph (b);
+
+20.1.j
+
+comply with a request for information or documents under regulation 16 by the
+date which is 3 months after the end of the period for compliance given in the
+request, following a failure under sub-paragraph (f);
+
+20.1.k
+
+pay the levy by the date which is 3 months after the due date, following a
+failure under sub-paragraph (i).
+
+20.2
+
+A financial penalty may be imposed under this regulation in respect of each
+and every failure mentioned in paragraph (1).
+
+20.3
+
+But an appropriate collection authority may not impose a financial penalty
+where—
+
+20.3.a
+
+the person liable to pay the levy satisfies the appropriate collection
+authority that they had a reasonable excuse for the failure;
+
+20.3.b
+
+in the case of a failure referred to in paragraph (1)(g), the appropriate
+collection authority is satisfied that any facts which the appropriate
+collection authority reasonably required to be proved, and which would have
+been proved by the records, are proved by other documentary evidence supplied
+to the appropriate collection authority.
+
+20.4
+
+Where a person had a reasonable excuse for a failure but the excuse has
+ceased, that person is to be treated as having continued to have the excuse if
+the failure is remedied without unreasonable delay after the excuse ceased.
+
+#### Amount of financial penalty
+
+21
+
+In the Schedule, in the table—
+
+21.a
+
+column 1 states the provision in regulation 20 under which a penalty may be
+imposed, and
+
+21.b
+
+the amount of the penalty which may be imposed is the amount specified in or
+determined in accordance with the corresponding entry in column 2.
+
+#### Penalty notices
+
+22
+
+22.1
+
+Where an appropriate collection authority decides to impose a financial
+penalty under regulation 20, the appropriate collection authority must give a
+notice imposing the penalty (“a penalty notice”).
+
+22.2
+
+A penalty notice must include—
+
+22.2.a
+
+the amount of the financial penalty;
+
+22.2.b
+
+the period for payment of the penalty in accordance with regulation 24;
+
+22.2.c
+
+information about the ability to request a review and—
+
+22.2.c.i
+
+where the appropriate collection authority is the Financial Conduct Authority,
+the right to apply for judicial review;
+
+22.2.c.ii
+
+where the appropriate collection authority is the Gambling Commission or the
+HMRC Commissioners, the right of appeal including the time limit within which
+the appeal must be brought to the tribunal .
+
+22.3
+
+A penalty notice may be withdrawn by the appropriate collection authority at
+any time by giving notice in writing to the person to whom the penalty notice
+was given.
+
+#### Time limit for imposing a penalty
+
+23
+
+A penalty notice must be given within the period of 4 years beginning with the
+due date.
+
+#### Payment of penalty
+
+24
+
+A penalty imposed in accordance with regulation 20 must be paid by the date
+which is 30 days after the date of the penalty notice.
+
+#### Recovery of unpaid amounts by the HMRC Commissioners
+
+25
+
+Where an amount of unpaid levy, unpaid late payment interest or unpaid penalty
+is due to another appropriate collection authority, the HMRC Commissioners
+may, on request by that other appropriate collection authority, treat such
+amounts as if the HMRC Commissioners were the appropriate collection authority
+in respect of those amounts for the purposes of collection and recovery of
+those unpaid amounts.
+
+### Reviews and Appeals
+
+#### Right to review where the HMRC Commissioners are the appropriate collection authority
+
+26
+
+26.1
+
+This regulation applies where the appropriate collection authority is the HMRC
+Commissioners.
+
+26.2
+
+The HMRC Commissioners must offer a person liable to pay the levy a review of
+a decision that is an appealable decision of the HMRC Commissioners.
+
+26.3
+
+The offer of a review must be made by notice to the person liable to pay the
+levy at the same time as the appealable decision is notified.
+
+26.4
+
+If a person liable to pay the levy accepts the offer of a review, they must
+notify the HMRC Commissioners in writing of that acceptance within the period
+of 30 days beginning with—
+
+26.4.a
+
+the day on which the appealable decision is notified, or
+
+26.4.b
+
+such later day as is set out in a notice, or a further notice, sent by the
+HMRC Commissioners to the person liable to pay the levy to extend the period
+of time in which the offer of a review can be accepted.
+
+26.5
+
+The HMRC Commissioners—
+
+26.5.a
+
+must review a decision if they receive a notification in accordance with
+paragraph (4), but
+
+26.5.b
+
+may not review a decision if an appeal has been made.
+
+#### Review out of time
+
+27
+
+27.1
+
+The HMRC Commissioners must review a decision if—
+
+27.1.a
+
+the person liable to pay the levy does not accept the offer of a review within
+the time allowed under regulation 26(4),
+
+27.1.b
+
+the person liable to pay the levy notifies the HMRC Commissioners in writing
+requesting a review out of time,
+
+27.1.c
+
+the HMRC Commissioners are satisfied that the person liable to pay the levy
+had a reasonable excuse for not accepting the offer within the time allowed,
+and
+
+27.1.d
+
+the HMRC Commissioners are satisfied that the person liable to pay the levy
+made the request without unreasonable delay after the excuse had ceased to
+apply.
+
+27.2
+
+The HMRC Commissioners may not review a decision if an appeal has been made.
+
+#### Review procedure
+
+28
+
+28.1
+
+Where the HMRC Commissioners must review a decision, the HMRC Commissioners
+must, within the review period—
+
+28.1.a
+
+review the appealable decision,
+
+28.1.b
+
+conclude that the appealable decision is to be upheld, varied or cancelled,
+and
+
+28.1.c
+
+give the person liable to pay the levy notice of the conclusions of the
+review, with reasons.
+
+28.2
+
+Where the HMRC Commissioners do not give notice of the conclusions of the
+review in accordance with paragraph (1)(c) within the review period—
+
+28.2.a
+
+the review is to be treated as having concluded that the appealable decision
+is upheld, and
+
+28.2.b
+
+the HMRC Commissioners must notify the person liable to pay the levy of the
+conclusion which the review is treated as having reached.
+
+28.3
+
+In this regulation “ the review period ” means—
+
+28.3.a
+
+where the HMRC Commissioners have been notified in accordance with regulation
+26(4) that a review is required, the period of 45 days beginning with the date
+on which the HMRC Commissioners were so notified,
+
+28.3.b
+
+where the HMRC Commissioners have decided to undertake a review in accordance
+with regulation 27(1), the period of 45 days beginning with the date on which
+the HMRC Commissioners made that decision, or
+
+28.3.c
+
+such other period as the HMRC Commissioners and the person liable to pay the
+levy may agree.
+
+#### Reviews where the appropriate collection authority is the Financial Conduct Authority or the Gambling Commission
+
+29
+
+Regulations 26 to 28 do not restrict the ability of the Financial Conduct
+Authority or the Gambling Commission to conduct a review of a decision, at the
+request of a person liable to pay the levy.
+
+#### Appealable decisions
+
+30
+
+30.1
+
+A person may appeal to the tribunal against a decision of the Gambling
+Commission or the HMRC Commissioners in respect of any of the following
+matters—
+
+30.1.a
+
+that a person is a person liable to pay the levy;
+
+30.1.b
+
+the amount of levy charged for a financial year;
+
+30.1.c
+
+an assessment of amount of levy due under regulation 11A, 14A or 14B;
+
+30.1.d
+
+whether or not the appropriate collection authority must repay an amount to a
+person under regulation 18;
+
+30.1.e
+
+the amount that the appropriate collection authority must repay to a person
+under regulation 18;
+
+30.1.f
+
+whether or not a person is liable to a penalty under regulation 20;
+
+30.1.g
+
+the amount of a penalty payable under regulation 21.
+
+30.2
+
+An appeal must be made to the tribunal by the date which is—
+
+30.2.a
+
+30 days after the date the person making the appeal is notified by the
+Gambling Commission or the HMRC Commissioners of the appealable decision, or
+
+30.2.b
+
+where the Gambling Commission agrees, or the HMRC Commissioners agree, to
+review a decision, 30 days after the date on which the person making the
+appeal is notified of the conclusion of the review.
+
+30.3
+
+An appeal may be made after the end of any period specified in paragraph (2)
+if the tribunal gives permission to do so.
+
+#### Amounts of levy due must be paid before appeal except in cases of hardship
+
+31
+
+31.1
+
+An appeal relating to a decision that an amount of levy is due from a person
+may not be considered by the tribunal unless the amount which the Gambling
+Commission has, or the HMRC Commissioners have, determined to be due has been
+paid or deposited with the Gambling Commission or the HMRC Commissioners.
+
+31.2
+
+But sub-paragraph (1) does not apply if—
+
+31.2.a
+
+the Gambling Commission is or the HMRC Commissioners are satisfied or, if the
+Gambling Commission is not or the HMRC Commissioners are not satisfied but the
+tribunal has decided, on the application of the appellant, that the
+requirement to pay or deposit the amount would cause the appellant to suffer
+hardship, and
+
+31.2.b
+
+the appellant has paid or deposited such other amount (if any) by way of
+security as the Gambling Commission or the HMRC Commissioners or, as the case
+may be, the tribunal considers appropriate.
+
+#### Settling of appeals by agreement
+
+32
+
+32.1
+
+An appropriate collection authority may settle an appeal by way of an
+agreement in writing (“a settlement agreement”) between the appellant and the
+appropriate collection authority that is—
+
+32.1.a
+
+entered into before the appeal is determined, and
+
+32.1.b
+
+to the effect that the decision appealed against should be upheld without
+variation, varied in a particular manner, discharged or cancelled.
+
+32.2
+
+Where a settlement agreement is entered into in relation to an appeal, the
+consequences are to be the same (for all purposes) as if, at the time the
+agreement was entered into, the tribunal had decided the appeal and had upheld
+the decision without variation, varied it in that manner, discharged it or
+cancelled it, as the case may be.
+
+32.3
+
+Paragraph (2) does not apply if, within 30 days beginning with the date on
+which the settlement agreement was entered into, the appellant gives notice in
+writing to the appropriate collection authority that they wish to withdraw
+from the agreement.
+
+32.4
+
+Where an appeal has been made and—
+
+32.4.a
+
+the appellant notifies the appropriate collection authority, orally or in
+writing, that the appellant does not wish to proceed with the appeal, and
+
+32.4.b
+
+the appropriate collection authority does not, within 30 days after that
+notification, give the appellant notice in writing indicating that it is
+unwilling that the appeal should be withdrawn,
+
+paragraphs (1) to (3) have effect as if, at the date of the appellant’s
+notification, the appellant and the appropriate collection authority had
+agreed that the decision under appeal should be upheld without variation.
+
+#### Payment of levy or penalty where appeal has been determined
+
+33
+
+On the determination of an appeal under regulation 30—
+
+33.a
+
+any levy or penalty overpaid must be repaid;
+
+33.b
+
+any levy or penalty appropriately charged but not yet paid, must be paid,
+
+by the date which is 30 days after the date the appeal is determined.
+
+#### Payment of levy or penalty where there is a further appeal
+
+34
+
+34.1
+
+Where the appellant makes a further appeal, the levy or penalty is to be
+payable or repayable in accordance with the determination of the tribunal,
+even though the further appeal is pending.
+
+34.2
+
+But if the amount payable is altered by the order or judgment of the Upper
+Tribunal or court, then—
+
+34.2.a
+
+if too much levy or penalty has been paid, the amount overpaid must be
+refunded, with any interest allowed by the order or judgment, and
+
+34.2.a
+
+if too little levy or penalty has been charged, the amount not yet paid
+becomes due and payable.
+
+Michael Tomlinson Rebecca Harris Two of the Lords Commissioners of Her
+Majesty’s Treasury 10th March 2022
+
+Table of penalty amounts
+
+Regulation 21
+
+Column 1 Column 2 Regulation 20(1)(a) £250 Regulation 20(1)(b) £250 Regulation
+20(1)(c) Either— a £250; or b the amount which is 5% of the difference between
+the amount of levy paid as a result of the failure to make a complete and
+correct economic crime (anti-money laundering) levy return and the amount
+which the appropriate collection authority considers due, at the discretion of
+the appropriate collection authority. Regulation 20(1)(d) Either— a £250; or b
+the amount which is 5% of the difference between the amount of levy paid as a
+result of the failure to notify of an under-assessment of the levy and the
+amount which the appropriate collection authority considers due, at the
+discretion of the appropriate collection authority Regulation 20(1)(e) Either—
+a £250; or b the amount which is 5% of the difference between the amount of
+levy paid as a result of the failure to notify of a repayment that ought not
+to have been repaid and the amount which the appropriate collection authority
+considers ought to have been repaid, at the discretion of the appropriate
+collection authority. Regulation 20(1)(f) £300 Regulation 20(1)(g) Such amount
+as may be determined by the appropriate collection authority at its discretion
+up to a maximum of £3,000. Regulation 20(1)(h) The amount which is 5% of the
+amount of levy which the appropriate collection authority considers due.
+Regulation 20(1)(i) £250 Regulation 20(1)(j) A maximum penalty of £60 for each
+day on which the failure continues, such total amount to be determined at the
+discretion of the appropriate collection authority. Regulation 20(1)(k) The
+amount which is 5% of the amount of unpaid levy which the appropriate
+collection authority considers due.
+
+## EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations make provision about the assessment, payment, collection and
+recovery of the economic crime (anti-money laundering) levy (“the levy”) which
+is charged in accordance with Part 3 of the Finance Act  2022 (c. 3)  for the
+financial year beginning with April 2022 and subsequent financial years ( see
+section 66 of the Finance Act 2022).
+
+The appropriate collection authority is responsible for the collection and
+management of the levy. The appropriate collection authority is either the
+Financial Conduct Authority, the Gambling Commission or the HMRC
+Commissioners, as provided for in section 53(3) of the Finance Act 2022. Part
+2 of this instrument makes provision as to which appropriate collection
+authority is to exercise functions relating to the levy where both the
+Gambling Commission and the Financial Conduct Authority are an appropriate
+collection authority in accordance with section 53(3).
+
+Part 3 of this instrument makes provision about the assessment, payment,
+collection and recovery of the levy where the appropriate collection authority
+is the Financial Conduct Authority (“the FCA”). Regulation 5 provides for the
+FCA to require by notice any person for whom it is a supervisory authority
+(defined in section 65(1) of the Finance Act 2022) to make a return relating
+to the person’s UK revenue and makes provision as to the content of the return
+and date by which it must be returned. Regulation 6 makes provision for the
+payment of the levy and regulation 7 gives the FCA the power to charge
+interest in the event of late payment.
+
+Part 4 of this instrument makes provision about the assessment, payment,
+collection and recovery of the levy where the appropriate collection authority
+is the Gambling Commission. Regulation 9 makes provision for those liable to
+pay the levy to notify the Gambling Commission, make a return and pay the levy
+on or before 30th September following the financial year for which the
+liability arises and makes further provision in relation to the content, form
+and manner of the notification and the return. Regulation 10 provides that the
+Gambling Commission may make a register with the notified information and make
+it publicly available. Regulation 11 makes provision for interest to be
+payable where any amount of levy is not paid by the due date.
+
+Part 5 of this instrument makes provision about the assessment, payment and
+collection of the levy where the appropriate collection authority is the HMRC
+Commissioners. Regulation 13 provides that a person liable to pay the levy
+must make a return and pay the levy on or before 30th September following the
+financial year for which the liability arises and makes further provision in
+relation to the content, form and manner of the return. Regulation 14 makes
+provision as to amendment of the return.
+
+Part 6 makes provision in relation to cases where an individual liable to pay
+the levy dies or becomes incapacitated or where a person (whether or not an
+individual) is subject to an insolvency procedure. Regulation 15(2) provides
+that those acting for such a person may be treated as the person liable to pay
+the levy and must satisfy the requirements of the Finance Act 2022 and these
+Regulations accordingly.
+
+A Tax Information and Impact Note (TIIN) covering this instrument is available
+on the Government website at
+https://www.gov.uk/government/publications/economic-crime-anti-money-
+laundering-levy . It remains an accurate summary of the impacts that apply to
+this instrument.
+

@@ -1,0 +1,657 @@
+Title: The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024
+Date: 2024-05-20
+Description: These Regulations amend the Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2009 “the Repayment Regulations”.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2024/55
+
+## The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024
+
+    Education
+
+  Made   13th March 2024
+
+  Coming into operation-   6th April 2024
+
+      The Department for the Economy  in exercise of the powers conferred by
+Articles 3 and 8(4) of the Education (Student Support) (Northern Ireland)
+Order 1998  makes the following Regulations.
+
+##### Citation, commencement and application
+
+1
+
+1.1
+
+These Regulations may be cited as the Education (Student Loans) (Repayment)
+(Amendment) Regulations (Northern Ireland) 2024.
+
+1.2
+
+These Regulations come into operation on 6th April 2024.
+
+##### Interpretation
+
+2
+
+In these Regulations “ the Repayment Regulations ” means the Education
+(Student Loans) (Repayment) Regulations (Northern Ireland) 2009  .
+
+### Amendments to the Repayment Regulations
+
+#### Amendment of Part 1 (general)
+
+##### Amendment to regulation 3 (interpretation)
+
+3
+
+In regulation 3 (interpretation) —
+
+3.a
+
+after the definition of “repayment threshold year” insert—
+
+      retail price index” means the RPI All Items Index published by the
+Office for National Statistics ;
+
+;
+
+      “ standard interest rate ” means, in relation to a loan, the greater of—
+zero, or           the percentage increase in the retail price index between
+the two Marches immediately before the commencement of the academic year in
+which the loan bears interest;
+
+;
+
+3.b
+
+omit the definitions of the following expressions—
+
+      the 2005 Act
+
+;
+
+      the 2007 Act
+
+.
+
+#### Amendment of Part 2 (Provisions Applicable to all Repayments)
+
+##### Amendments to regulation 6 (interpretation)
+
+4
+
+In regulation 6  (interpretation)—
+
+4.a
+
+in the heading, after “Interpretation” insert  “of Part 2” .
+
+4.a.i
+
+after the definition of “Student Support Regulations” insert—
+
+      “ total charge for credit rules ” means rules made under article 60M of
+the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001
+for the purposes of Chapter 14A of Part 2 of that Order .
+
+;
+
+##### Amendments to regulation 11 (timing of repayments: general)
+
+5
+
+In regulation 11  (timing of repayments: general)—
+
+5.a
+
+for the heading to regulation 11 substitute  “Timing and notification of
+repayments” .
+
+5.b
+
+before paragraph (1) insert—
+
+5.b.A1
+
+In this regulation—
+
+5.b.A1.a
+
+paragraphs (1) to (2E) relate to the timing of repayments for a loan;
+
+5.b.A1.b
+
+paragraphs (3) to (10) relate to the notification of repayments for a student
+loan.
+
+.
+
+##### Amendments to regulation 16 (interest rates on the loans)
+
+6
+
+In regulation 16  (interest rates on the loans)—
+
+6.a
+
+in paragraph (1)—
+
+6.a.i
+
+for “rules made by the Financial Conduct Authority under article 60M of the
+Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 for
+the purposes of Chapter 14A of Part 2 of that Order” substitute  “total charge
+for credit rules” ;
+
+6.a.ii
+
+for “percentage increase between the retail prices all items index published
+by the Office for National Statistics for the two Marches immediately before
+the commencement of the academic year” substitute  “standard interest rate” .
+
+6.b
+
+in paragraph (4) for “retail prices all items index mentioned in paragraph
+(1)” substitute  “retail price index” .
+
+#### Amendment of Part 3 (Repayments by Assessment to Income Tax)
+
+##### Amendments to regulation 24 (time for and amount of repayments)
+
+7
+
+In regulation 24 (time for and amount of repayments)   —
+
+7.a
+
+in paragraph (4) for “the 2005 Act” substitute  “the Income Tax (Trading and
+Other Income) Act 2005 ” ;
+
+7.b
+
+for paragraph (5) substitute —
+
+7.b.5
+
+In this regulation—
+
+      “ the 2007 Act ” means the Income Tax Act 2007 ;           “ jobseeker’s
+allowance ” means an allowance within the meaning of Part II of the Jobseekers
+(Northern Ireland) Order 1995 .
+
+.
+
+##### Amendment to regulation 31 (late payment penalties)
+
+8
+
+Omit regulation 31 (a) (including the “and” that follows it).
+
+##### Amendments to regulation 35 (penalties)
+
+9
+
+In regulation 35 —
+
+9.a
+
+in paragraph (1)(a), omit “for the tax year 2010–11 or any subsequent tax
+year”;
+
+9.b
+
+omit regulation 35(3);
+
+9.c
+
+in paragraph (4), omit “For tax years commencing on or after 6 April 2008,
+where the date on which the return is due to be filed is on or after 6 April
+2009,”.
+
+#### Amendment of Part 4 (Deduction of Repayments by Employers)
+
+##### Amendments to regulation 36 (interpretation)
+
+10
+
+In regulation 36 (interpretation) —
+
+10.a
+
+in the heading to regulation 36, after “Interpretation” insert  “of Part 4” ;
+
+10.b
+
+omit the definition of “Form P46”;
+
+10.c
+
+in the definition of “non-Real Time Information employer”, for “one within
+regulation 36A” substitute  “a Real Time Information employer” ;
+
+10.d
+
+in the definition of “Real Time Information employer”, for “regulation 36A”
+substitute  “regulation 2A of the PAYE Regulations” .
+
+##### Omission of regulation 36A (Real Time Information employer)
+
+11
+
+Omit regulation 36A (Real Time Information employer).
+
+##### Substitution of regulation 38 (commencement of employment with a non-Real Time Information employer) with (new employee to declare repayments liability)
+
+12
+
+For regulation 38  (commencement of employment with a non-Real Time
+Information employer) substitute—
+
+######### New employee to inform employer of repayments liability
+
+12.38
+
+A person who commences employment with an employer must inform the employer
+whether the person has any liability to repay a student loan.
+
+##### Omission of regulation 38A (Commencement of employment with a Real Time Information employer)
+
+13
+
+Omit regulation 38A (Commencement of employment with a Real Time Information
+employer).
+
+##### Amendments to regulation 45 (deductions of repayments)
+
+14
+
+In regulation 45  (deductions of repayments) —
+
+14.a
+
+in paragraph (1)—
+
+14.a.i
+
+in the words before sub-paragraph (a), after “received” insert  “any of the
+following” ;
+
+14.a.ii
+
+omit sub-paragraph (c) (including the “or” that follows it);
+
+14.a.iii
+
+in sub-paragraph (d) for “regulation 38A” substitute  “regulation 38” ;
+
+14.b
+
+in paragraph (2)—
+
+14.b.i
+
+omit sub-paragraph (c) (including the “or” that follows it);
+
+14.b.ii
+
+in sub-paragraph (d) for “regulation 38A” substitute  “regulation 38” .
+
+##### Amendment to regulation 54 (returns by employers)
+
+15
+
+In regulation 54(7) (returns by employers), for “section 566(1) of the 1988
+Act” substitute  “section 70(1)(a) or 71 of the Finance Act 2004 ” .
+
+##### Amendments to regulation 54B (real time returns of information about payments of earnings)
+
+16
+
+In regulation 54B  (real time returns of information about payments of
+earnings)—
+
+16.a
+
+in paragraph (1) omit “but this is subject to paragraph (1A)”;
+
+16.b
+
+omit paragraphs (1A) to (1E).
+
+##### Amendments to regulation 54E (exceptions to regulation 54B)
+
+17
+
+In regulation 54E  (exceptions to regulation 54B)—
+
+17.a
+
+omit paragraph (2A);
+
+17.b
+
+in paragraph (3), for “On and after 6 April 2014, the” substitute  “The” .
+
+##### Amendment to regulation 54G (failure to make a return under regulation 54B or 54E)
+
+18
+
+In regulation 54G  (failure to make a return under regulation 54B or 54E) omit
+paragraph (5).
+
+##### Amendments to regulation 62 (cessation of employment)
+
+19
+
+In regulation 62  (cessation of employment)—
+
+19.a
+
+omit paragraph (b);
+
+19.b
+
+in paragraph (ba) for “regulation 38A” substitute  “regulation 38” ;
+
+19.c
+
+in paragraph (c), for “(where any of paragraph (a), (b), or (ba) apply)”
+substitute  “if paragraph (a) or (ba) apply,” .
+
+#### Amendment of Part 5 (Repayment by Overseas Borrowers)
+
+##### Amendments to regulation 66 (interpretation)
+
+20
+
+In regulation 66  (interpretation)—
+
+20.a
+
+in the heading after “Interpretation” insert  “of Part 5” .;
+
+20.b
+
+after “In this Part—” insert—
+
+      “ country ” includes territory;           “ country-specific multiplier
+” means the country-specific multiplier calculated in accordance with
+regulation 66A;
+
+##### Insertion of regulation 66A (How to calculate country-specific multiplier)
+
+21
+
+After regulation 66(interpretation) insert—
+
+######### How to calculate country-specific multiplier
+
+21.66A
+
+21.66A.1
+
+The country-specific multiplier for a country is the multiplier specified in
+the table in relation to its band.
+
+21.66A.2
+
+The band for a country is the band specified in the table in relation to its
+price level index value.
+
+      Price level index value (x) Band Multiplier   x <0.3 A 0.2 0.3≤ x <0.5 B
+0.4 0.5≤ x <0.7 C 0.6 0.7≤ x <0.9 D 0.8 0.9≤ x <1.1 E 1.0 1.1≤ x <1.3 F 1.2 x
+≥1.3 G 1.4
+
+21.66A.3
+
+The price level index value for a country is the quotient of—
+
+21.66A.3.a
+
+the price level value for the country in the most recent year available, and
+
+21.66A.3.b
+
+the price level value for the United Kingdom in the same year.
+
+      Example       0.736687 is the country’s price level value and 1.058064
+is the United Kingdom’s price level value.       0.736687 divided by 1.058064
+is 0.696259…‬ (unrounded).       The price level index value for the country
+is 0.696259…, which is Band C.       The country-specific multiplier for a
+country in Band C is 0.6.
+
+21.66A.4
+
+If the price level value for a country is not published, the Department may
+determine the price level value for that country by reference to a comparable
+country.
+
+21.66A.5
+
+In this regulation, “ price level value ” means the value published by the
+World Bank in its “Price level ratio of PPP conversion factor (GDP) to market
+exchange rate” world development indicator .”
+
+######### Status of examples
+
+21.66B
+
+21.66B.1
+
+An example used in these Regulations—
+
+21.66B.1.a
+
+is only illustrative of the provision to which it relates, and
+
+21.66B.1.b
+
+does not limit the provision.
+
+21.66B.2
+
+If an example and the provision to which it relates are inconsistent, the
+provision prevails.
+
+.
+
+##### Amendments to regulation 69 (repayment by fixed instalments)
+
+22
+
+In regulation 69 (repayment by fixed instalments) —
+
+22.a
+
+the existing text of regulation 69 is renumbered as paragraph (1);
+
+22.b
+
+in regulation 69(1), omit “calculated in accordance with regulation 71”;
+
+22.c
+
+After regulation 69(1) insert—
+
+22.c.2
+
+The amount of the fixed instalment is the product of—
+
+22.c.2.a
+
+the fixed instalment rate for the borrower’s loan, and
+
+22.c.2.b
+
+the country-specific multiplier for the borrower’s country of residence.
+
+22.c.3
+
+The fixed instalment rate for the student loan is calculated in accordance
+with regulation 69A.
+
+##### Insertion of regulation 69A (how to calculate fixed instalment rate)
+
+23
+
+After regulation 69 (repayments by fixed instalments) insert—
+
+######### How to calculate fixed instalment rate
+
+23.69A
+
+23.69A.1
+
+The fixed instalment rate for a student loan is the result of the formula—
+
+23.69A.1.a
+
+calculated on the 6th of April of each year, and
+
+23.69A.1.b
+
+rounded down to the nearest £1 (if necessary).
+
+        2 x - y × 0.09 12
+
+23.69A.2
+
+In the formula—
+
+      “ x ” means the median salary for graduates (to the nearest £500) in the
+most-recent year published by the Department for Education ;           “ y ”
+means the repayment threshold for the student loan as calculated under
+Regulation 24(6).
+
+##### Amendments to regulation 70 (repayment by income-related instalments)
+
+24
+
+In regulation 70  (repayment by income-related instalments)—
+
+24.a
+
+for paragraph (4) substitute —
+
+24.a.4
+
+The relevant amount is 9% of the gross income which the Department consider
+the borrower is likely to receive in the next 12 month period following the
+date of the determination referred to in paragraph (2), disregarding—
+
+24.a.4.a
+
+income up to the applicable threshold, calculated in accordance with
+regulation 70A; and
+
+24.a.4.b
+
+income in respect of which the Department is satisfied that repayments are
+likely to be made under Part 3 or 4.
+
+24.b
+
+in paragraph (5) for “the instalment”, substitute  “each instalment” .
+
+##### Insertion of regulation 70A (how to calculate applicable threshold)
+
+25
+
+After regulation 70 (repayment by income-related instalments) insert—
+
+######### How to calculate applicable threshold
+
+25.70A
+
+The applicable threshold is, in relation to a borrower’s loan, the amount—
+
+25.70A.a
+
+rounded up to the nearest £5 (if necessary), and
+
+25.70A.b
+
+being the product of—
+
+25.70A.b.i
+
+the repayment threshold for the loan, and
+
+25.70A.b.ii
+
+the country-specific multiplier for the borrower’s country of residence.
+
+.
+
+##### Omission of regulation 71 (calculation of fixed instalment and applicable threshold)
+
+26
+
+Omit regulation 71 (calculation of fixed instalment and applicable threshold).
+
+      Sealed with the Official Seal of the Department for the Economy on 13th
+March 2024.         Mr Mark Lee   A senior officer of the Department for the
+Economy
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations amend the Education (Student Loans) (Repayment)
+Regulations (Northern Ireland) 2009 “the Repayment Regulations”.
+
+  The amendment of the Repayment Regulations:         introduces fixed
+instalment rates, which:         are used to calculate repayments by overseas
+borrowers who have not provided required information about their income,
+replace the fixed instalments set out in regulation 71 (which is omitted)
+makes incidental, supplemental or technical amendments.
+
+  Part 1 of the 2009 Regulations (general) is amended as follows:
+regulation 3 (interpretation) is amended to revise the definitions of
+expressions used in the 2009 Regulations;
+
+  Part 2 of the 2009 Regulations (provisions applicable to all repayments) is
+amended as follows:         regulation 6 (interpretation) is amended to revise
+the definitions of expressions used in Part 2;           regulation 11 (timing
+of repayments: general) and 16 (interest rate on the loans) are amended for
+clarification;
+
+  Part 3 of the 2009 Regulations (repayments by assessment to income tax) is
+amended as follows:         regulation 24 (time for and amount of repayments)
+is amended to clarify legislative terminology;           regulations 31 (late
+payment penalties) and 35 (penalties) are amended to omit spent provisions.
+
+  Part 4 of the 2009 Regulations (deduction of repayments by employers) is
+amended as follows:         regulations 36 and 45 are amended in consequence
+of the following amendments to Part 4;           regulation 36A (real time
+information employers) is omitted in consequence of regulation 14 of the
+Income Tax (Pay As You Earn) (Amendment) Regulations 2013 ( S.I. 2013/521 )
+(which exempts certain employers from the requirement to be Real Time
+Information employers on and after 6th October 2013);           regulation 38
+(new employee to declare repayments liability) is amended, and regulation 38A
+(commencement of employment with a Real Time Information employer) is omitted,
+in consequence of the replacement of Form P46 with the starter checklist (see
+https://www.gov.uk/new-employee/employee-information );           regulation
+54 (return by employers) is amended in consequence of paragraph 8(2) of
+Schedule 12 to the Finance Act  2004 (c. 12) ;           regulation 54B (real
+time returns of information about payments of earnings) is amended to omit
+spent provisions relating to the 2014-15 and 2015-16 tax years;
+regulations 54E and 54G are amended to omit spent provisions.
+
+  Part 5 of the 2009 Regulations (repayment by overseas borrowers) is amended
+as follows:         new regulation 66A sets out how to calculate the country-
+specific multiplier, which is used to determine the amounts of repayments
+payable by overseas borrowers;— new regulation 66B provides that the examples
+in the 2009 Regulations (found in new regulations 66A) are only illustrative;
+regulation 69 (repayment by fixed instalments) is amended in consequence of
+new regulation 69A;           new regulation 69A sets out how to calculate the
+fixed instalment rate payable by overseas borrowers;           regulation 70
+is amended due a previous error and in consequence of new regulation 70A;
+new regulation 70A sets out how to calculate the applicable threshold, which
+is used to determine whether an overseas borrower is required to make
+repayments in relation to a loan;           regulation 71 is omitted in
+consequence of new regulations 69A and 70A.
+
+  A regulatory impact assessment has not been produced for this rule as no, or
+no significant impact on the private, voluntary or public sectors is foreseen.
+

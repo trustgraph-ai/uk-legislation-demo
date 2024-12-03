@@ -1,0 +1,3870 @@
+Title: Charities Act 2022
+Date: 2024-05-20
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ukpga/2022/6
+
+## Charities Act 2022
+
+      B e it enacted  by the Queen’s most Excellent Majesty, by and with the
+advice and consent of the Lords Spiritual and Temporal, and Commons, in this
+present Parliament assembled, and by the authority of the same, as follows:—
+
+### Purposes, powers and governing documents
+
+#### Charitable companies
+
+##### Alteration of charitable company’s purposes
+
+1
+
+1.1
+
+Section 198 of the Charities Act 2011 (alteration of objects by companies and
+Commission’s consent) is amended as follows.
+
+1.2
+
+In subsection (2)(a), for the words from “adding” to the end of the paragraph
+substitute  “which alters the charitable purposes of the company,” .
+
+1.3
+
+After subsection (2) insert—
+
+1.3.2A
+
+In considering whether to consent to an alteration falling within subsection
+(2)(a) the Commission must have regard to—
+
+1.3.2A.a
+
+the purposes of the company when it was established, if and so far as they are
+reasonably ascertainable,
+
+1.3.2A.b
+
+the desirability of securing that the purposes of the company are, so far as
+reasonably practicable, similar to the purposes being altered, and
+
+1.3.2A.c
+
+the need for the company to have purposes which are suitable and effective in
+the light of current social and economic circumstances.
+
+#### Charitable incorporated organisations
+
+##### Amendments to constitution of CIOs
+
+2
+
+2.1
+
+The Charities Act 2011 is amended as follows.
+
+2.2
+
+In section 226 (amendment of constitution and Commission’s consent)—
+
+2.2.a
+
+for subsection (1) substitute—
+
+2.2.a.1
+
+An amendment to a CIO’s constitution which would make a regulated alteration—
+
+2.2.a.1.a
+
+requires the prior written consent of the Commission, and
+
+2.2.a.1.b
+
+cannot take effect if such consent has not been obtained.
+
+;
+
+2.2.b
+
+after subsection (2) insert—
+
+2.2.b.2A
+
+In considering whether to consent to an alteration falling within subsection
+(2)(a) the Commission must have regard to—
+
+2.2.b.2A.a
+
+the purposes of the CIO when it was established, if and so far as they are
+reasonably ascertainable,
+
+2.2.b.2A.b
+
+the desirability of securing that the purposes of the CIO are, so far as
+reasonably practicable, similar to the purposes being altered, and
+
+2.2.b.2A.c
+
+the need for the CIO to have purposes which are suitable and effective in the
+light of current social and economic circumstances.
+
+2.3
+
+In section 227 (registration and coming into effect of amendments)—
+
+2.3.a
+
+after subsection (1) insert—
+
+2.3.a.1A
+
+An amendment to a CIO’s constitution that makes a regulated alteration falling
+within section 226(2)(a) takes effect—
+
+2.3.a.1A.a
+
+when it is registered by the Commission, or
+
+2.3.a.1A.b
+
+if later, on the date specified for that purpose in the resolution containing
+the amendment.
+
+2.3.a.1B
+
+Any other amendment to a CIO’s constitution takes effect (whatever the date on
+which the amendment is registered by the Commission)—
+
+2.3.a.1B.a
+
+on the date the resolution containing it is passed, or
+
+2.3.a.1B.b
+
+if a later date is specified for that purpose in the resolution containing the
+amendment, on that later date.
+
+2.3.a.1C
+
+Subsections  (1A)  and  (1B)  are subject to section 226 (1) .
+
+;
+
+2.3.b
+
+omit subsections (2) to (5).
+
+#### Unincorporated charities
+
+##### Powers of unincorporated charities
+
+3
+
+3.1
+
+Omit sections 267 to 280 of the Charities Act 2011 (which together deal with
+powers to transfer the property of, and alter the purposes or powers of, an
+unincorporated charity).
+
+3.2
+
+Before the italic heading preceding section 281 of that Act insert—
+
+########### Unincorporated charity’s general power to amend
+
+############ Amendment of the trusts of an unincorporated charity
+
+3.2.280A
+
+3.2.280A.1
+
+This section applies to any charity which is not a company or other body
+corporate.
+
+3.2.280A.2
+
+The charity trustees of such a charity may, if they are satisfied that it is
+expedient in the interests of the charity, resolve that the trusts of the
+charity should be amended in such manner as is specified in the resolution.
+
+3.2.280A.3
+
+The power under subsection  (2)  is not exercisable in any way which would
+result in the institution ceasing to be a charity.
+
+3.2.280A.4
+
+Subsection  (5)  applies in the case of a charity which has a body of members
+distinct from the charity trustees, any of whom are entitled under the trusts
+of the charity to attend and vote at a general meeting of the body.
+
+3.2.280A.5
+
+In the case of a charity to which this subsection applies, a resolution under
+subsection  (2)  is effective only if—
+
+3.2.280A.5.a
+
+it is passed by a majority of the charity trustees of the charity, and
+
+3.2.280A.5.b
+
+it is approved by a further resolution which is passed—
+
+3.2.280A.5.b.i
+
+at a general meeting, by not less than 75% of the members entitled to attend
+and vote at the meeting who vote on the resolution,
+
+3.2.280A.5.b.ii
+
+at a general meeting, by a decision taken without a vote and without any
+expression of dissent in response to the question put to the meeting, or
+
+3.2.280A.5.b.iii
+
+otherwise than at a general meeting, by the agreement of all the members
+entitled to attend and vote at a general meeting.
+
+3.2.280A.6
+
+In the case of a charity other than one to which subsection  (5)  applies, a
+resolution under subsection  (2)  is effective only if it is passed by not
+less than 75% of the charity trustees of the charity.
+
+3.2.280A.7
+
+An amendment to which subsection  (8)  applies—
+
+3.2.280A.7.a
+
+requires the written consent of the Commission, and
+
+3.2.280A.7.b
+
+is ineffective if such consent has not been obtained.
+
+3.2.280A.8
+
+This subsection applies to an amendment—
+
+3.2.280A.8.a
+
+which would alter the purposes of the charity;
+
+3.2.280A.8.b
+
+which would alter a provision directing the application of property of the
+charity on its dissolution;
+
+3.2.280A.8.c
+
+which would provide authorisation for any benefit to be obtained by charity
+trustees or members of the charity, or persons connected with them;
+
+3.2.280A.8.d
+
+which would alter a restriction making property permanent endowment;
+
+3.2.280A.8.e
+
+which would require the consent of a person other than—
+
+3.2.280A.8.e.i
+
+a charity trustee of, or trustee for, the charity, or
+
+3.2.280A.8.e.ii
+
+a member of the charity,
+
+if made otherwise than by virtue of this section;
+
+3.2.280A.8.f
+
+which would affect any right directly conferred by the trusts of the charity
+on a person who—
+
+3.2.280A.8.f.i
+
+is named in the trusts of the charity, or
+
+3.2.280A.8.f.ii
+
+holds an office or other position specified in the trusts of the charity
+(other than that of charity trustee or member of, or trustee for, the
+charity); or
+
+3.2.280A.8.g
+
+which would confer power on any person or persons to make an amendment falling
+within any of paragraphs  (a)  to  (f) .
+
+3.2.280A.9
+
+But paragraphs  (e)  and  (f)  of subsection  (8)  do not apply where the
+person concerned consents to the amendment or is no longer in existence.
+
+3.2.280A.10
+
+In considering whether to consent to an alteration falling within subsection
+(8) (a) , or to the conferral of a power which would enable a person or
+persons to make such an alteration, the Commission must have regard to—
+
+3.2.280A.10.a
+
+the purposes of the charity when it was established, if and so far as they are
+reasonably ascertainable,
+
+3.2.280A.10.b
+
+the desirability of securing that the purposes of the charity are, so far as
+reasonably practicable, similar to the purposes being altered, and
+
+3.2.280A.10.c
+
+the need for the charity to have purposes which are suitable and effective in
+the light of current social and economic circumstances.
+
+############ S. 
+
+3.2.280B
+
+3.2.280B.1
+
+A resolution under section  280A (2)  takes effect on the latest of—
+
+3.2.280B.1.a
+
+the date the resolution is passed,
+
+3.2.280B.1.b
+
+the date specified in the resolution for it to take effect,
+
+3.2.280B.1.c
+
+if relevant, the date on which the resolution required by virtue of section
+280A (5)(b)  is passed, and
+
+3.2.280B.1.d
+
+if relevant, the date on which the Commission gives any consent required by
+virtue of section  280A (7) .
+
+3.2.280B.2
+
+For the purposes of section  280A (8) (c)  “ benefit ” means a direct or
+indirect benefit of any nature, except that it does not include—
+
+3.2.280B.2.a
+
+any remuneration whose receipt may be authorised under section 185, or
+
+3.2.280B.2.b
+
+the purchase of any insurance which may be authorised under section 189.
+
+3.2.280B.3
+
+For the purposes of section  280A (8) (c)  the following persons are connected
+with a charity trustee or a member of a charity—
+
+3.2.280B.3.a
+
+a child, parent, grandchild, grandparent, brother or sister of the trustee or
+member;
+
+3.2.280B.3.b
+
+the spouse or civil partner of the trustee or member or of any person falling
+within paragraph  (a) ;
+
+3.2.280B.3.c
+
+a person carrying on business in partnership with the trustee or member or
+with any person falling within paragraph  (a)  or  (b) ;
+
+3.2.280B.3.d
+
+an institution which is controlled—
+
+3.2.280B.3.d.i
+
+by the trustee or member or by any person falling within paragraph  (a) ,  (b)
+or  (c) , or
+
+3.2.280B.3.d.ii
+
+by two or more persons falling within sub-paragraph (i), when taken together;
+
+3.2.280B.3.e
+
+a body corporate in which—
+
+3.2.280B.3.e.i
+
+the trustee or member or any connected person falling within any of paragraphs
+(a)  to  (c)  has a substantial interest, or
+
+3.2.280B.3.e.ii
+
+two or more persons falling within sub-paragraph  (i) , when taken together,
+have a substantial interest.
+
+3.2.280B.4
+
+Sections 350 to 352 (meaning of child, spouse, civil partner, controlled
+institution and substantial interest) apply for the purposes of subsection
+(3) .
+
+3.3
+
+The amendments made by this section do not have effect in respect of a
+resolution passed under section 268(1), 275(2) or 280(2) of the Charities Act
+2011 before the commencement of this section.
+
+#### Charities established etc by Royal charter or Act
+
+##### Power to amend Royal charter
+
+4
+
+After section 280B of the Charities Act 2011 (as inserted by section 3)
+insert—
+
+######### Charity established etc by Royal charter: general power to amend
+
+########## Power to amend Royal charter
+
+4.280C
+
+4.280C.1
+
+This section applies to any charity which is established or regulated by Royal
+charter.
+
+4.280C.2
+
+The charity trustees of such a charity may resolve that the Royal charter
+should be amended in such manner as is specified in the resolution if—
+
+4.280C.2.a
+
+they are satisfied that it is expedient in the interests of the charity to do
+so, and
+
+4.280C.2.b
+
+there is no power under the Royal charter to make the proposed amendment.
+
+4.280C.3
+
+Subsection  (4)  applies in the case of a charity which has a body of members
+distinct from the charity trustees, any of whom are entitled under the Royal
+charter to attend and vote at a general meeting of the body.
+
+4.280C.4
+
+In the case of a charity to which this subsection applies, a resolution under
+subsection  (2)  may not be approved under subsection  (6)  unless—
+
+4.280C.4.a
+
+it is passed by a majority of the charity trustees of the charity, and
+
+4.280C.4.b
+
+it is approved by a further resolution which is passed—
+
+4.280C.4.b.i
+
+at a general meeting, by not less than 75% of the members entitled to attend
+and vote at the meeting who vote on the resolution,
+
+4.280C.4.b.ii
+
+at a general meeting, by a decision taken without a vote and without any
+expression of dissent in response to the question put to the meeting, or
+
+4.280C.4.b.iii
+
+otherwise than at a general meeting, by the agreement of all the members
+entitled to attend and vote at a general meeting.
+
+4.280C.5
+
+In the case of any other charity to which this section applies, a resolution
+under subsection  (2)  may not be approved under subsection  (6)  unless it is
+passed by not less than 75% of the charity trustees of the charity.
+
+4.280C.6
+
+A resolution under this section takes effect when it is approved by Her
+Majesty by Order in Council.
+
+##### Orders under section 73 of the Charities Act 2011: parliamentary procedure
+
+5
+
+In section 73 of the Charities Act 2011 (powers to make schemes altering
+provision made by Acts, etc)—
+
+5.a
+
+omit subsections (3) and (4);
+
+5.b
+
+in subsection (5), omit “Subject to subsection (6),”;
+
+5.c
+
+omit subsection (6).
+
+#### Cy-près and schemes
+
+##### Cy-près powers
+
+6
+
+6.1
+
+For sections 63 to 65 of the Charities Act 2011 (which deal with the
+application of property cy-près) substitute—
+
+########### Failure of specific charitable purposes: application cy-près
+
+6.1.63A
+
+6.1.63A.1
+
+Property given for specific charitable purposes which fail is applicable cy-
+près as if given for charitable purposes generally, if—
+
+6.1.63A.1.a
+
+the court or the Commission by order so direct, or
+
+6.1.63A.1.b
+
+the condition specified in subsection  (3) ,  (4)  or  (6)  is met.
+
+6.1.63A.2
+
+An order may be made under subsection  (1)(a)  if it appears to the court or
+the Commission—
+
+6.1.63A.2.a
+
+that it would be unreasonable, having regard to the amounts likely to be
+returned to the donors, to incur expense with a view to returning the
+property, or
+
+6.1.63A.2.b
+
+that it would be unreasonable, having regard to the nature, circumstances and
+amounts of the gifts, and to the lapse of time since the gifts were made, for
+the donors to expect the property to be returned.
+
+6.1.63A.3
+
+The condition in this subsection is met if—
+
+6.1.63A.3.a
+
+the property is a single gift of £120 or less, and
+
+6.1.63A.3.b
+
+the charity trustees reasonably believe that during the financial year of the
+charity in which it is given the total amount given by the donor to the
+charity for the specific charitable purposes is £120 or less,
+
+unless at the time of giving the gift the donor states in writing that the
+gift must be returned if the specific charitable purposes fail.
+
+6.1.63A.4
+
+The condition in this subsection is met if the property is given by a donor
+who, after the agreed actions are taken, is not identified or is not found.
+
+6.1.63A.5
+
+The “agreed actions” are those agreed in writing between the charity trustees
+and the Commission as being reasonable in all the circumstances of the case to
+identify and find donors.
+
+6.1.63A.6
+
+The condition in this subsection is met if the property consists of—
+
+6.1.63A.6.a
+
+the proceeds of cash collections made—
+
+6.1.63A.6.a.i
+
+by means of collecting boxes, or
+
+6.1.63A.6.a.ii
+
+by other means not adapted for distinguishing one gift from another, or
+
+6.1.63A.6.b
+
+the proceeds of any lottery, competition, entertainment, sale or similar
+money-raising activity, after allowing for property given to provide prizes or
+articles for sale or otherwise to enable the activity to be undertaken.
+
+6.1.63A.7
+
+The Secretary of State may by regulations amend subsection  (3)(a)  or  (b)
+by substituting a different sum for the time being specified there.
+
+6.2
+
+The Charities (Failed Appeals) Regulations 2008 are revoked.
+
+6.3
+
+The amendments made by this section apply to property given for charitable
+purposes whenever given.
+
+##### Proceeds of fund-raising: power of charity trustees to apply cy-près
+
+7
+
+After section 67 of the Charities Act 2011 insert—
+
+######### Proceeds of fund-raising: power of charity trustees to apply cy-près
+
+7.67A
+
+7.67A.1
+
+Subsection  (2)  applies if—
+
+7.67A.1.a
+
+money or other property is solicited to enable a charity to further specific
+charitable purposes,
+
+7.67A.1.b
+
+money or other property is given as a result of that solicitation, and
+
+7.67A.1.c
+
+some or all of that money or other property (or the property for the time
+being representing it or derived from it) is applicable cy-près by virtue of
+section 62(1)(a) or (b) or 63A.
+
+7.67A.2
+
+The charity trustees of the charity may resolve that all the money or other
+property which is applicable cy-près by virtue of section 62(1)(a) or (b) or
+63A be applied for such charitable purposes specified in the resolution as
+they consider appropriate, having regard to—
+
+7.67A.2.a
+
+the desirability of securing that the purposes are, so far as reasonably
+practicable, similar to the specific charitable purposes for which the money
+or other property was given;
+
+7.67A.2.b
+
+the need for the purposes to be suitable and effective in the light of current
+social and economic circumstances.
+
+7.67A.3
+
+A resolution under this section must be passed by a majority of the charity
+trustees.
+
+7.67A.4
+
+If a resolution passed under this section concerns money or other property
+with a value exceeding £1,000—
+
+7.67A.4.a
+
+the charity trustees must send a copy of the resolution to the Commission,
+together with a statement of their reasons for passing it, and
+
+7.67A.4.b
+
+the resolution does not have effect until the date on which the Commission
+consents to it in writing.
+
+7.67A.5
+
+The Secretary of State may by regulations amend subsection  (4)  by
+substituting a different sum for the sum for the time being specified there.
+
+##### Power of the court and the Commission to make schemes
+
+8
+
+Before the italic heading preceding section 75A of the Charities Act 2011
+insert—
+
+######### Power of the court and the Commission to make schemes
+
+########## Power of the court and the Commission to make schemes
+
+8.75ZA
+
+8.75ZA.1
+
+Any power of the court or the Commission to make a scheme in relation to a
+charity that is a charitable trust is also exercisable in relation to any
+other institution which is a charity.
+
+8.75ZA.2
+
+Subsection  (1) —
+
+8.75ZA.2.a
+
+is subject to the provisions of this Act;
+
+8.75ZA.2.b
+
+is to be treated as always having had effect.
+
+#### Permanent endowment
+
+##### Definition of “permanent endowment”
+
+9
+
+In section 353 of the Charities Act 2011 (minor definitions), for subsection
+(3) substitute—
+
+9.3
+
+For the purposes of this Act, property is “permanent endowment” if it is
+subject to a restriction on being expended which distinguishes between income
+and capital.
+
+##### Amendment of powers to release restrictions on spending capital
+
+10
+
+10.1
+
+The Charities Act 2011 is amended as follows.
+
+10.2
+
+In section 281 (power of unincorporated charities to spend capital: general)—
+
+10.2.a
+
+in subsection (1), omit “which is not a company or other body corporate”;
+
+10.2.b
+
+after subsection (6) insert—
+
+10.2.b.6A
+
+If—
+
+10.2.b.6A.a
+
+an amount falls to be repaid to or paid into the fund by the charity trustees
+because the charity trustees have borrowed an amount from the fund,
+
+10.2.b.6A.b
+
+the amount when repaid or paid would fall to be added to the fund and to be
+subject to the same restrictions as to expenditure as apply to the other
+capital in the fund, and
+
+10.2.b.6A.c
+
+the condition in subsection  (6B)  is met in relation to the charity,
+
+the charity trustees may resolve for the purposes of this section that the
+obligation to repay or pay the amount ought to cease to have effect either
+wholly or in part.
+
+10.2.b.6B
+
+The condition is that the charity trustees are satisfied that the purposes set
+out in the trusts to which the fund is subject could be carried out more
+effectively if the obligation ceased to have effect to that extent.
+
+10.2.b.6C
+
+Once the charity trustees have passed a resolution under subsection  (6A) ,
+the obligation ceases to have effect to that extent.
+
+10.2.b.6D
+
+Where a resolution passed under subsection  (6A)  relates to all outstanding
+obligations to repay amounts to or pay amounts into the fund in respect of the
+amount borrowed from the fund, any other obligation which falls to be carried
+out by the charity trustees because the charity trustees have borrowed that
+amount from the fund also ceases to have effect once the resolution has been
+passed.
+
+10.3
+
+In section 282 (resolution to spend larger fund given for particular purpose)—
+
+10.3.a
+
+in the heading, omit “given for particular purpose”;
+
+10.3.b
+
+in subsection (1), for the words from “which is not” to the end of the
+subsection substitute
+
+if—
+
+10.3.b.a
+
+in a case where subsection  (1A)  applies, the adjusted market value of the
+fund exceeds £25,000, or
+
+10.3.b.b
+
+in any other case, the market value of the fund exceeds that sum.
+
+;
+
+10.3.c
+
+after subsection (1) insert—
+
+10.3.c.1A
+
+This subsection applies where the charity trustees of the charity have
+borrowed from the fund and all or part of that borrowing is outstanding.
+
+;
+
+10.3.d
+
+after subsection (3) insert—
+
+10.3.d.3A
+
+If—
+
+10.3.d.3A.a
+
+an amount falls to be repaid to or paid into the fund by the charity trustees
+because the charity trustees have borrowed an amount from the fund,
+
+10.3.d.3A.b
+
+the amount when repaid or paid would fall to be added to the fund and to be
+subject to the same restrictions as to expenditure as apply to the other
+capital in the fund, and
+
+10.3.d.3A.c
+
+the condition in subsection  (3B)  is met in relation to the charity,
+
+the charity trustees may resolve for the purposes of this section that the
+obligation to repay or pay the amount ought to cease to have effect either
+wholly or in part.
+
+10.3.d.3B
+
+The condition is that the charity trustees are satisfied that the purposes set
+out in the trusts to which the fund is subject could be carried out more
+effectively if the obligation ceased to have effect to that extent.
+
+;
+
+10.3.e
+
+in subsection (4)(a), after “(2)” insert  “or  (3A) ” ;
+
+10.3.f
+
+in subsection (5), at the appropriate place insert—
+
+      “ adjusted market value ”, in relation to an endowment fund, means the
+current market value of the fund as determined on a valuation carried out for
+the purpose—         reduced by the value, if any, of the benefit of the debt
+owed by the charity trustees representing outstanding borrowing from the fund
+on the date of that valuation, and           increased by the amount of the
+charity trustees’ outstanding borrowing from the fund on that date;”;
+
+;
+
+      “ outstanding borrowing ” means outstanding borrowing by virtue of
+section 284A or otherwise.
+
+;
+
+10.3.g
+
+omit subsection (6).
+
+10.4
+
+In section 284 (when and how a section 282 resolution takes effect)—
+
+10.4.a
+
+in subsection (5), after “282(2)” insert  “or (as the case may be) the
+obligation to repay or pay the amount to the fund ceases to have effect, by
+virtue of this section, to the extent resolved by the trustees under section
+282 (3A) ” ;
+
+10.4.b
+
+after subsection (5) insert—
+
+10.4.b.6
+
+Where the resolution passed under section 282 (3A)  relates to all outstanding
+obligations to repay amounts to or pay amounts into the fund in respect of the
+amount borrowed from the fund, any other obligation which falls to be carried
+out by the charity trustees because the charity trustees have borrowed that
+amount from the fund ceases to have effect when the obligations to repay or
+pay amounts cease to have effect.
+
+##### Taking effect of resolution under section 282 of the Charities Act 2011
+
+11
+
+11.1
+
+Section 284 of the Charities Act 2011 (when and how a resolution under section
+282 takes effect) is amended as follows.
+
+11.2
+
+In subsection (3), for “period of 3 months beginning with the relevant date”
+substitute  “relevant period” .
+
+11.3
+
+For subsection (4) substitute—
+
+11.3.4
+
+The “ relevant period ” means—
+
+11.3.4.a
+
+the period of 60 days beginning with the date on which the Commission receives
+the copy of the resolution in accordance with section 282(4), or
+
+11.3.4.b
+
+that period as modified by subsection  (4A)  or  (4B) .
+
+11.3.4A
+
+If under section 283(1) the Commission directs the charity trustees to give
+public notice of a resolution, the running of the relevant period is suspended
+from the date on which the direction is given to the charity trustees until
+the end of the period of 42 days beginning with the date on which public
+notice of the resolution is given by the charity trustees.
+
+11.3.4B
+
+If under section 283(2) the Commission directs the charity trustees to provide
+any information or explanations, the running of the relevant period is
+suspended from the date on which the direction is given to the charity
+trustees until the date on which the information or explanations is or are
+provided to the Commission.
+
+##### Power to borrow from permanent endowment
+
+12
+
+12.1
+
+The Charities Act 2011 is amended as follows.
+
+12.2
+
+After section 284 insert—
+
+########### Power to borrow from permanent endowment
+
+############ Power to borrow from permanent endowment: general
+
+12.2.284A
+
+12.2.284A.1
+
+This section applies to any available endowment fund of a charity.
+
+12.2.284A.2
+
+The charity trustees may resolve to borrow an amount, not exceeding the
+permitted amount, from the available endowment fund if they are satisfied—
+
+12.2.284A.2.a
+
+that it is expedient for the amount to be borrowed, in the light of the
+purposes set out in the trusts to which the fund is subject and the purposes
+of the charity, and
+
+12.2.284A.2.b
+
+that arrangements are in place for the amount to be repaid within 20 years of
+being borrowed.
+
+12.2.284A.3
+
+Any amount borrowed in accordance with subsection  (2)  no longer forms part
+of the available endowment fund and, as a result, is freed from the
+restrictions with respect to the expenditure of capital that applied to it
+when it was comprised in that fund.
+
+12.2.284A.4
+
+An amount borrowed in accordance with subsection  (2)  may not be used to
+repay (in whole or in part) any amount previously borrowed from permanent
+endowment (whether the previous borrowing was by virtue of this section or
+otherwise).
+
+12.2.284A.5
+
+When repaying an amount borrowed (whether in whole or in part), the charity
+trustees may resolve to pay an additional amount not exceeding the maximum
+estimated capital appreciation.
+
+12.2.284A.6
+
+Any—
+
+12.2.284A.6.a
+
+repayment of an amount borrowed, and
+
+12.2.284A.6.b
+
+payment of an additional amount by virtue of a resolution under subsection
+(5) ,
+
+is to be added to the available endowment fund and is to be subject to the
+same restrictions as to expenditure as apply to the other capital in the fund.
+
+12.2.284A.7
+
+The powers conferred by this section—
+
+12.2.284A.7.a
+
+may be restricted or excluded by the trusts of the charity;
+
+12.2.284A.7.b
+
+are (subject to paragraph  (a) ) in addition to any other power to borrow that
+the charity or charity trustees may have.
+
+12.2.284A.8
+
+If, and in so far as, the power conferred by subsection  (5)  confers power to
+accumulate income, it is not subject to section 14(3) of the Perpetuities and
+Accumulations Act 2009 (which provides for certain powers to accumulate income
+to cease after 21 years).
+
+12.2.284A.9
+
+In this section “ available endowment fund ”, in relation to a charity, means—
+
+12.2.284A.9.a
+
+the whole of the charity’s permanent endowment if it is all subject to the
+same trusts, or
+
+12.2.284A.9.b
+
+any part of its permanent endowment which is subject to any particular trusts
+that are different from those to which any other part is subject.
+
+12.2.284A.10
+
+If a resolution under section 104A(2) has effect in respect of an available
+endowment fund (or portion of such a fund), references in this section to an
+“available endowment fund” include that fund (or portion) but do not include
+any returns from the investment of the fund (or portion) which have not been
+accumulated.
+
+12.2.284A.11
+
+For the meaning of “permitted amount” and “maximum estimated capital
+appreciation” see sections  284B  and  284C  respectively.
+
+############ Calculation of the “permitted amount”
+
+12.2.284B
+
+12.2.284B.1
+
+The “ permitted amount ” for the purposes of section  284A (2)  is given by
+the formula—
+
+  ( 0.25 × ( V + B ) ) - B       where—         V is the value of the
+available endowment fund on the relevant date (ignoring the value, if any, of
+the benefit of the debt owed by the charity trustees representing outstanding
+borrowing from the fund), and           B is the amount of the charity
+trustees’ outstanding borrowing from the available endowment fund on that
+date.
+
+12.2.284B.2
+
+In subsection  (1) —
+
+      “ outstanding borrowing ” means outstanding borrowing by virtue of
+section 284A or otherwise;           the “relevant date” is the date on which
+the trustees resolve to borrow from the available endowment fund (see section
+284A (2) ).
+
+12.2.284B.3
+
+If a resolution under section 104A(2) has effect in respect of the available
+endowment fund (or any part of it), for the purposes of subsection  (1)  the
+value of the available endowment fund does not include any returns from the
+investment of the fund (or part) which have not been accumulated.
+
+############ Calculation of the “maximum estimated capital appreciation”
+
+12.2.284C
+
+12.2.284C.1
+
+The “ maximum estimated capital appreciation ” for the purposes of section
+284A (5)  is given by the formula—
+
+  R × I       where—         R is the amount of borrowing being repaid, and
+I is the percentage increase in the relevant index between the month in which
+the amount was borrowed and the month preceding the month in which the
+repayment is made (or if there is no increase is nil).
+
+12.2.284C.2
+
+The “relevant index” is whichever of the following is selected by the charity
+trustees from time to time—
+
+12.2.284C.2.a
+
+the retail prices index;
+
+12.2.284C.2.b
+
+the consumer prices index;
+
+12.2.284C.2.c
+
+any similar general index of prices published by the Statistics Board.
+
+12.2.284C.3
+
+In this section—
+
+      “ consumer prices index ” means the general index for consumer prices
+published by the Statistics Board;           “ retail prices index ” means the
+general index of retail prices (for all items) published by the Statistics
+Board.
+
+############ Inability to repay
+
+12.2.284D
+
+12.2.284D.1
+
+If (at any time) it appears to the charity trustees that—
+
+12.2.284D.1.a
+
+they will not be able to fulfil the arrangements put in place to repay an
+amount borrowed under section  284A , or
+
+12.2.284D.1.b
+
+those arrangements are not sufficient to ensure that the amount is repaid,
+
+the trustees must apply to the Commission for an order under this section
+directing them how to proceed.
+
+12.2.284D.2
+
+An order under this section may give such directions as the Commission thinks
+fit, including—
+
+12.2.284D.2.a
+
+that the relevant amount may be repaid over a longer period,
+
+12.2.284D.2.b
+
+that the charity trustees put in place arrangements specified in the order, or
+
+12.2.284D.2.c
+
+that the charity trustees need not repay an amount borrowed.
+
+12.3
+
+In section 285 (power to alter sums specified in Part 13), after subsection
+(2) insert—
+
+12.3.3
+
+The Secretary of State may by regulations amend—
+
+12.3.3.a
+
+the period of time specified in section  284A (2) (b) , or
+
+12.3.3.b
+
+the multiplier in the formula set out in section  284B (1) ,
+
+so as to substitute a different time period or multiplier (as the case may be)
+for the period or multiplier for the time being specified in that provision.
+
+12.4
+
+In section 348 (regulations subject to affirmative procedure etc)—
+
+12.4.a
+
+in subsection (1), after paragraph (c) insert—
+
+12.4.a.d
+
+regulations under section 285(3) (power to amend period or multiplier
+specified);
+
+;
+
+12.4.b
+
+in subsection (2), for “or (c)” substitute  “, (c), (d)” .
+
+##### Total return investment
+
+13
+
+13.1
+
+The Charities Act 2011 is amended as follows.
+
+13.2
+
+After section 104A insert—
+
+########### Total return investment: social investments
+
+13.2.104AA
+
+13.2.104AA.1
+
+This section applies to a fund, or a portion of a fund, in respect of which a
+resolution under section 104A(2) has effect.
+
+13.2.104AA.2
+
+The charity trustees may resolve that—
+
+13.2.104AA.2.a
+
+the fund or portion, and
+
+13.2.104AA.2.b
+
+any returns from the investment of the fund or portion,
+
+may be used to make social investments (within the meaning of section 292A)
+which they could not otherwise make.
+
+13.2.104AA.3
+
+While a resolution under subsection  (2)  has effect, regulations under
+section 104B(1)(b) and (ba) apply to—
+
+13.2.104AA.3.a
+
+the fund or portion, and
+
+13.2.104AA.3.b
+
+any returns from the investment of the fund or portion.
+
+13.3
+
+In section 104B (total return investment: regulations)—
+
+13.3.a
+
+in subsection (1)(a), for “section 104A(2)” substitute  “sections 104A(2) and
+104AA (2) ” ;
+
+13.3.b
+
+omit the “and” following subsection (1)(b);
+
+13.3.c
+
+after subsection (1)(b) insert—
+
+13.3.c.ba
+
+the use of a relevant social investment fund to make social investments
+(within the meaning of section 292A),
+
+;
+
+13.3.d
+
+after subsection (1)(c) insert
+
+, and
+
+13.3.d.d
+
+any steps that must be taken by charity trustees in respect of a relevant
+social investment fund in the event of a resolution under section 104AA (2)
+ceasing to have effect.
+
+;
+
+13.3.e
+
+in subsection (2)(a), after “104A(2)” insert  “or 104AA (2) ” ;
+
+13.3.f
+
+in subsection (6), for “section “relevant” substitute
+
+section—
+
+      “relevant”
+
+;
+
+13.3.g
+
+in subsection (6), at the end insert—
+
+      “ relevant social investment fund ” means a fund, or a portion of a
+fund, and any returns from the investment of the fund, or portion, in respect
+of which a resolution under section 104AA (2)  has effect.
+
+#### Special trusts
+
+##### Special trusts
+
+14
+
+14.1
+
+Omit Part 14 of the Charities Act 2011 (special trusts).
+
+14.2
+
+In section 353 of that Act (minor definitions), after subsection (3) insert—
+
+14.2.4
+
+In this Act, “ special trust ” means property which—
+
+14.2.4.a
+
+is held and administered by or on behalf of a charity for any special purposes
+of the charity, and
+
+14.2.4.b
+
+is so held and administered on separate trusts relating only to that property.
+
+But a special trust does not, by itself, constitute a charity for the purposes
+of Part 8 (charity accounts, reports and returns).
+
+#### Ex gratia payments etc
+
+##### Small ex gratia payments
+
+15
+
+In Part 18 of the Charities Act 2011 (miscellaneous and supplementary), before
+the italic heading preceding section 332 insert—
+
+######### Limited power to make ex gratia payments
+
+########## Limited power for charity trustees to make ex gratia payments etc
+
+15.331A
+
+15.331A.1
+
+The charity trustees of a charity may take any action falling within
+subsection  (2) (a)  or  (b)  if the conditions in subsection  (3)  are met.
+
+15.331A.2
+
+The actions are—
+
+15.331A.2.a
+
+making any application of property of the charity, or
+
+15.331A.2.b
+
+waiving to any extent, on behalf of the charity, its entitlement to receive
+any property.
+
+15.331A.3
+
+The conditions are—
+
+15.331A.3.a
+
+that the value of the property does not exceed the relevant threshold,
+
+15.331A.3.b
+
+that the charity trustees have no power to take the action apart from this
+section or by virtue of section 106, and
+
+15.331A.3.c
+
+that in all the circumstances the charity trustees could reasonably be
+regarded as being under a moral obligation to take the action.
+
+15.331A.4
+
+The power conferred by this section may be restricted or excluded by the
+trusts of the charity.
+
+15.331A.5
+
+In relation to a charity established by (or whose purposes or functions are
+set out in) legislation, the power conferred by this section is not disapplied
+only because the legislation concerned prohibits application of property of
+the charity otherwise than as set out in the legislation.
+
+15.331A.6
+
+For the purposes of subsection  (3)(a) —
+
+15.331A.6.a
+
+if the charity’s gross income in its last financial year did not exceed
+£25,000, the relevant threshold is £1,000;
+
+15.331A.6.b
+
+if the charity’s gross income in its last financial year exceeded £25,000 but
+not £250,000, the relevant threshold is £2,500;
+
+15.331A.6.c
+
+if the charity’s gross income in its last financial year exceeded £250,000 but
+not £1 million, the relevant threshold is £10,000;
+
+15.331A.6.d
+
+if the charity’s gross income in its last financial year exceeded £1 million,
+the relevant threshold is £20,000.
+
+15.331A.7
+
+In subsection  (5)  “ legislation ” means—
+
+15.331A.7.a
+
+an Act of Parliament;
+
+15.331A.7.b
+
+an Act or Measure of Senedd Cymru;
+
+15.331A.7.c
+
+subordinate legislation (within the meaning of the Interpretation Act 1978)
+made under an Act of Parliament;
+
+15.331A.7.d
+
+an instrument made under an Act or Measure of Senedd Cymru; or
+
+15.331A.7.e
+
+a Measure of the Church Assembly or of the General Synod of the Church of
+England.
+
+########## Power to alter sums specified in s.331A
+
+15.331B
+
+The Secretary of State may by regulations amend section 331A (6)  (relevant
+income thresholds) by substituting a different sum for any sum for the time
+being specified in that provision.
+
+##### Power of Commission etc to authorise ex gratia payments etc
+
+16
+
+In section 106 of the Charities Act 2011 (power of Commission to authorise ex
+gratia payments etc)—
+
+16.a
+
+for subsection (1) substitute—
+
+16.a.1
+
+The Commission, the Attorney General or the court may authorise the charity
+trustees of a charity to take any action falling within subsection (2)(a) or
+(b) in a case where the charity trustees—
+
+16.a.1.a
+
+(apart from by virtue of this section or section 331A) have no power to take
+the action, but
+
+16.a.1.b
+
+in all the circumstances could reasonably be regarded as being under a moral
+obligation to take it.
+
+16.a.1A
+
+In relation to a charity established by (or whose purposes or functions are
+set out in) legislation, subsection (1) is not disapplied only because the
+legislation concerned prohibits application of property of the charity
+otherwise than as set out in the legislation.
+
+16.a.1B
+
+In subsection  (1A)  “ legislation ” means—
+
+16.a.1B.a
+
+an Act of Parliament;
+
+16.a.1B.b
+
+an Act or Measure of Senedd Cymru;
+
+16.a.1B.c
+
+subordinate legislation (within the meaning of the Interpretation Act 1978)
+made under an Act of Parliament;
+
+16.a.1B.d
+
+an instrument made under an Act or Measure of Senedd Cymru; or
+
+16.a.1B.e
+
+a Measure of the Church Assembly or of the General Synod of the Church of
+England.
+
+;
+
+16.b
+
+in subsection (3), after second “Commission” insert  “by order and” .
+
+### Charity land
+
+#### Dispositions and mortgages
+
+##### Scope of Part 7 of the Charities Act 2011
+
+17
+
+In section 117 of the Charities Act 2011 (restrictions on dispositions of
+land: general), after subsection (1) insert—
+
+17.1A
+
+For the purposes of this Part, land is held by or in trust for a charity only
+if the whole of the land which forms the subject matter of the disposition is
+held—
+
+17.1A.a
+
+by the charity solely for its own benefit (and, accordingly, is not being held
+as nominee or in trust for another person), or
+
+17.1A.b
+
+in trust solely for the charity.
+
+##### Exceptions to restrictions on dispositions or mortgages of charity land
+
+18
+
+18.1
+
+The Charities Act 2011 is amended as follows.
+
+18.2
+
+In section 117(3) (exceptions to restrictions on dispositions of charity
+land)—
+
+18.2.a
+
+after paragraph (a) insert—
+
+18.2.a.aa
+
+any disposition by a liquidator, provisional liquidator, receiver, mortgagee
+or an administrator,
+
+;
+
+18.2.b
+
+omit paragraph (b);
+
+18.2.c
+
+for paragraph (c) (but not the “or” following it) substitute—
+
+18.2.c.c
+
+any disposition of land held by or in trust for a charity which is made to
+another charity otherwise than as—
+
+18.2.c.c.i
+
+a disposition made with a view to achieving the best price that can reasonably
+be obtained, or
+
+18.2.c.c.ii
+
+a disposition that is a social investment for the purposes of Part 14A (social
+investments),
+
+.
+
+18.3
+
+In section 124(9) (restrictions on mortgages)—
+
+18.3.a
+
+after paragraph (a) (and the “or” following it) insert—
+
+18.3.a.aa
+
+granted by a liquidator, provisional liquidator, receiver, mortgagee or an
+administrator.
+
+;
+
+18.3.b
+
+omit paragraph (b).
+
+##### Advertising and report requirements for disposition of charity land
+
+19
+
+In section 119 of the Charities Act 2011 (requirements for dispositions other
+than certain leases)—
+
+19.a
+
+omit subsection (1)(b) (but not the “and” following it);
+
+19.b
+
+in subsection (4), omit—
+
+19.b.i
+
+“contain such information, and”;
+
+19.b.ii
+
+the “,” after “matters”.
+
+##### Advice relating to the disposition of charity land
+
+20
+
+In section 119 of the Charities Act 2011 (requirements for dispositions other
+than certain leases)—
+
+20.a
+
+in subsection (1)(a), for “qualified surveyor” substitute  “designated
+adviser” ;
+
+20.b
+
+in subsection (1)(c), for “surveyor’s” substitute  “adviser’s” ;
+
+20.c
+
+in subsection (3), for “qualified surveyor” substitute  “designated adviser” .
+
+##### Advice etc from charity trustees, officers and employees
+
+21
+
+21.1
+
+The Charities Act 2011 is amended as follows.
+
+21.2
+
+After section 128 insert—
+
+########### Advice etc from charity trustees, officers and employees
+
+############ Advice etc from charity trustees, officers and employees
+
+21.2.128A
+
+21.2.128A.1
+
+Subsection  (2)  applies to—
+
+21.2.128A.1.a
+
+a report by a designated adviser for the purposes of section 119(1)(a),
+
+21.2.128A.1.b
+
+advice on a proposed disposition for the purposes of section 120(2)(a),
+
+21.2.128A.1.c
+
+proper advice in connection with a mortgage of land for the purposes of
+section 124(2), and
+
+21.2.128A.1.d
+
+proper advice in connection with a mortgage of land for the purposes of
+section 124(7).
+
+21.2.128A.2
+
+For the purposes of the provisions mentioned in subsection  (1) , it does not
+matter if the report or the advice (as the case may be) is provided—
+
+21.2.128A.2.a
+
+by a charity trustee or an officer or employee of the charity or of the
+charity trustees, or
+
+21.2.128A.2.b
+
+in the course of a person’s employment as an officer or an employee of the
+charity or of the charity trustees.
+
+21.3
+
+In section 124 (restrictions on mortgages), in subsection (8), omit from “and
+such advice” to the end.
+
+##### Residential tenancies granted to employees
+
+22
+
+In section 118 of the Charities Act 2011 (meaning of “ connected person ” in
+section 117(2)), after subsection (2) insert—
+
+22.2A
+
+A person who is an employee of the charity does not fall within subsection
+(2)(d) if the disposition in question is the grant of a tenancy—
+
+22.2A.a
+
+for a fixed term of one year or less or which is a periodic tenancy and the
+period is one year or less, and
+
+22.2A.b
+
+which confers the right to occupy a dwelling as a home.
+
+##### Information to be included in certain instruments
+
+23
+
+23.1
+
+The Charities Act 2011 is amended as follows.
+
+23.2
+
+In section 122 (instruments concerning dispositions of land: required
+statements, etc)—
+
+23.2.a
+
+for subsection (2) substitute—
+
+23.2.a.2
+
+An instrument to which this subsection applies must—
+
+23.2.a.2.a
+
+state that the land is held by or in trust for a charity,
+
+23.2.a.2.b
+
+state whether the charity is an exempt charity,
+
+23.2.a.2.c
+
+if the charity is not an exempt charity, state whether the disposition is one
+falling within section 117(3)(a), (aa), (c) or (d), and
+
+23.2.a.2.d
+
+if the charity is not an exempt charity and the disposition is not one falling
+within section 117(3)(a), (aa), (c) or (d), include the statement required by
+subsection  (2A) .
+
+23.2.a.2A
+
+The statement is—
+
+23.2.a.2A.a
+
+in a case where section 117(1) applies to the disposition to which the
+instrument relates, a statement that the disposition has been sanctioned by an
+order of the court or of the Charity Commission, or
+
+23.2.a.2A.b
+
+in a case where section 117(2) applies to the disposition to which the
+instrument relates, a statement that there is power under the trusts of the
+charity to effect the disposition and that sections 117 to 121 have been
+complied with.
+
+;
+
+23.2.b
+
+omit subsection (3);
+
+23.2.c
+
+for subsection (4) substitute—
+
+23.2.c.4
+
+Where subsection  (2) (d)  has been complied with in relation to a contract
+for the disposition of land it is conclusively presumed, for the purposes of
+enforcing the contract, that the statement is true.
+
+23.2.c.4A
+
+Where subsection  (2) (d)  has been complied with in relation to an instrument
+effecting the disposition of land it is conclusively presumed, in favour of a
+person who (whether under the disposition or afterwards) acquires an interest
+in the land for money or money’s worth, that the statement is true.
+
+;
+
+23.2.d
+
+for subsections (5) and (6) substitute—
+
+23.2.d.5
+
+Where subsection  (2) (d)  applies in relation to a contract for the
+disposition of land but the statement required by subsection  (2A)  has not
+been included in it, then in favour of a person who has entered into the
+contract in good faith the contract is enforceable as if—
+
+23.2.d.5.a
+
+the disposition to which the contract relates had been sanctioned by an order
+of the court or of the Charity Commission, or
+
+23.2.d.5.b
+
+there is power under the trusts of the charity to effect such a disposition
+and sections 117 to 121 have been complied with.
+
+23.2.d.5A
+
+Where subsection  (2) (d)  applies in relation to an instrument effecting the
+disposition of land but the statement required by subsection  (2A)  has not
+been included in it, then in favour of a person who (whether under the
+disposition or afterwards) in good faith acquires an interest in the land for
+money or money’s worth, the disposition is valid even if—
+
+23.2.d.5A.a
+
+the disposition has not been sanctioned by an order of the court or of the
+Charity Commission, or
+
+23.2.d.5A.b
+
+there is no power under the trusts of the charity to effect the disposition or
+sections 117 to 121 have not been complied with in relation to it (or both).
+
+23.3
+
+In section 125 (mortgages: required statements, etc)—
+
+23.3.a
+
+for subsection (1) substitute—
+
+23.3.a.1
+
+Any mortgage of land held by or in trust for a charity must—
+
+23.3.a.1.a
+
+state that the land is held by or in trust for a charity,
+
+23.3.a.1.b
+
+state whether the charity is an exempt charity and whether the mortgage is one
+falling within section 124(9), and
+
+23.3.a.1.c
+
+if the charity is not an exempt charity and the mortgage is not one falling
+within section 124(9), include the statement required by subsection  (1A) .
+
+23.3.a.1A
+
+The statement is—
+
+23.3.a.1A.a
+
+in a case where section 124(1) applies, a statement that the mortgage has been
+sanctioned by an order of the court or of the Charity Commission, or
+
+23.3.a.1A.b
+
+in a case where section 124(2) applies, a statement that there is power under
+the trusts of the charity to grant the mortgage and the requirements of
+section 124(2) have been complied with.
+
+;
+
+23.3.b
+
+omit subsection (2);
+
+23.3.c
+
+in subsection (3)—
+
+23.3.c.i
+
+for “subsection (2)” substitute  “subsection (1)(c)” ;
+
+23.3.c.ii
+
+for the words from “facts” to the end substitute  “statement is true” ;
+
+23.3.d
+
+for subsections (4) and (5) substitute—
+
+23.3.d.5
+
+Where subsection  (1) (c)  applies in relation to a mortgage of land but the
+statement required by subsection  (1A)  has not been included in it, then in
+favour of a person who (whether under the mortgage or afterwards) in good
+faith acquires an interest in the land for money or money’s worth, the
+mortgage is valid even if—
+
+23.3.d.5.a
+
+the mortgage has not been sanctioned by an order of the court or of the
+Charity Commission, or
+
+23.3.d.5.b
+
+there is no power under the trusts of the charity to grant the mortgage or the
+requirements of section 124(2) have not been complied with in relation to it
+(or both).
+
+#### Universities and College Estates Act 1925
+
+##### Amendments of the Universities and College Estates Act 1925
+
+24
+
+24.1
+
+The Universities and College Estates Act 1925 is amended in accordance with
+subsections  (2)  to  (6) .
+
+24.2
+
+After section 1 insert—
+
+########### General power over land
+
+############ General power over land
+
+24.2.1A
+
+24.2.1A.1
+
+A university or college has in relation to land belonging to the university or
+college all the powers of an absolute owner.
+
+24.2.1A.2
+
+The power conferred by subsection  (1)  is subject to—
+
+24.2.1A.2.a
+
+any restriction, condition or limitation imposed by, or arising under, any
+enactment,
+
+24.2.1A.2.b
+
+any rule of law or equity, or
+
+24.2.1A.2.c
+
+the statutes regulating the university or college.
+
+24.3
+
+Omit sections 2 to 38 and Schedule 1 (provisions relating to land and the
+application of capital money).
+
+24.4
+
+In section 40 (power to transfer to university or college), omit “with the
+consent of the Minister”.
+
+24.5
+
+In section 42 (saving of existing powers), omit from “: Provided that” to the
+end.
+
+24.6
+
+In section 43 (definitions)—
+
+24.6.a
+
+in the opening words, omit from “unless” to “say”;
+
+24.6.b
+
+omit sub-paragraphs (i), (ii), (viii) and (x).
+
+24.7
+
+Schedule 1 (which contains consequential amendments) has effect.
+
+### Charity names
+
+#### Working names etc
+
+25
+
+In section 42 of the Charities Act 2011 (power to require name to be changed)—
+
+25.a
+
+in the heading, after “name” insert  “or working name” ;
+
+25.b
+
+for subsection (1) substitute—
+
+25.b.1
+
+If one or more of the conditions in subsection (2) are met in relation to the
+name or a working name of a charity, the Commission may give a direction—
+
+25.b.1.a
+
+requiring the name of the charity to be changed to a name determined by the
+charity trustees with the approval of the Commission, or
+
+25.b.1.b
+
+requiring that that working name of the charity no longer be used as a working
+name (as the case may be).
+
+25.b.1A
+
+A direction given under this section must specify the period within which the
+charity is to comply with the direction.
+
+;
+
+25.c
+
+in subsection (2)—
+
+25.c.i
+
+for paragraph (a) and the words before it substitute—
+
+25.c.i.2
+
+The conditions are—
+
+25.c.i.2.a
+
+that the name or working name is the same as, or in the opinion of the
+Commission too like, the name or a working name of another charity,
+
+;
+
+25.c.ii
+
+in paragraph (b), for “the name” substitute  “that the name or working name” ;
+
+25.c.iii
+
+in paragraph (c), for “the name” substitute  “that the name or working name” ;
+
+25.c.iv
+
+in paragraph (c), for “its name” substitute  “the name or working name” ;
+
+25.c.v
+
+in paragraph (d), for “the name of the charity” substitute  “that the name or
+working name” ;
+
+25.c.vi
+
+in paragraph (e), for “the name of the charity” substitute  “that the name or
+working name” ;
+
+25.d
+
+omit subsection (3);
+
+25.e
+
+for subsection (4) substitute—
+
+25.e.4
+
+In this Act, any reference to a working name of a charity is a reference to a
+name that is not the name of the charity but which is used to designate the
+charity and under which activities of the charity are carried out.
+
+#### Power to delay registration of unsuitably named charity
+
+26
+
+After section 45 of the Charities Act 2011 insert—
+
+######## Power to delay registration following s. 42 direction
+
+26.45A
+
+26.45A.1
+
+The Commission may delay the registration of a charity if the Commission has
+given a direction under section 42 (“the section 42 direction”) requiring the
+name of the charity to be changed.
+
+26.45A.2
+
+A delay under subsection  (1)  may last until the first to occur of—
+
+26.45A.2.a
+
+the charity trustees notifying the Commission of the charity’s new name and
+the date of the name change, or
+
+26.45A.2.b
+
+the expiry of the maximum postponement period.
+
+26.45A.3
+
+The “maximum postponement period” is the period of 60 days beginning at the
+end of the period specified in the section 42 direction for giving effect to
+the direction.
+
+26.45A.4
+
+If any relevant proceedings are commenced, any day on which the relevant
+proceedings are ongoing is to be disregarded for the purposes of determining
+whether the period of 60 days mentioned in subsection  (3)  has elapsed.
+
+26.45A.5
+
+Each of the following are “relevant proceedings”—
+
+26.45A.5.a
+
+proceedings on an appeal brought to the Tribunal under section 319 against the
+section 42 direction or against any steps taken by the Commission with a view
+to securing compliance with the section 42 direction;
+
+26.45A.5.b
+
+proceedings on an application made to the Tribunal under section 321 for the
+review of the Commission’s decision to institute an inquiry under section 46
+in respect of matters connected with the section 42 direction;
+
+26.45A.5.c
+
+proceedings on an application for judicial review of the Commission’s decision
+to give the section 42 direction or to take any steps with a view to securing
+compliance with the section 42 direction;
+
+26.45A.5.d
+
+proceedings on an application under section 336 in respect of disobedience to
+the section 42 direction.
+
+26.45A.6
+
+Relevant proceedings are commenced when a notice, claim form or other document
+is sent or delivered to, or filed with, the Tribunal or court for the purpose
+of commencing the proceedings.
+
+26.45A.7
+
+Relevant proceedings are ongoing until—
+
+26.45A.7.a
+
+the proceedings (including any proceedings on appeal or further appeal) have
+been concluded, and
+
+26.45A.7.b
+
+any period during which an appeal (or further appeal) may ordinarily be made
+has passed.
+
+#### Power to delay entry of unsuitable name in register
+
+27
+
+After section 45A of the Charities Act 2011 insert—
+
+######## Power to delay entry of name in register following a s. 42 direction
+
+27.45B
+
+27.45B.1
+
+If the charity trustees of a charity notify the Commission under section 35(3)
+of a change of name of the charity, the Commission may delay changing the
+charity’s name in the register if the Commission has given a direction under
+section 42 (“the section 42 direction”) requiring the new name to be changed.
+
+27.45B.2
+
+A delay under subsection  (1)  may last until the first to occur of—
+
+27.45B.2.a
+
+the charity trustees notifying the Commission of the charity’s further new
+name and the date of the further name change, or
+
+27.45B.2.b
+
+the expiry of the maximum postponement period.
+
+27.45B.3
+
+The “maximum postponement period” is the period of 60 days beginning at the
+end of the period specified in the section 42 direction for giving effect to
+the direction.
+
+27.45B.4
+
+If any relevant proceedings are commenced, any day on which the relevant
+proceedings are ongoing is to be disregarded for the purposes of determining
+whether the period of 60 days mentioned in subsection  (3)  has elapsed.
+
+27.45B.5
+
+Each of the following are “relevant proceedings”—
+
+27.45B.5.a
+
+proceedings on an appeal brought to the Tribunal under section 319 against the
+section 42 direction or against any steps taken by the Commission with a view
+to securing compliance with the section 42 direction;
+
+27.45B.5.b
+
+proceedings on an application made to the Tribunal under section 321 for the
+review of the Commission’s decision to institute an inquiry under section 46
+in respect of matters connected with the section 42 direction;
+
+27.45B.5.c
+
+proceedings on an application for judicial review of the Commission’s decision
+to give the section 42 direction or to take any steps with a view to securing
+compliance with the section 42 direction;
+
+27.45B.5.d
+
+proceedings on an application under section 336 in respect of disobedience to
+the section 42 direction.
+
+27.45B.6
+
+Relevant proceedings are commenced when a notice, claim form or other document
+is sent or delivered to, or filed with, the Tribunal or court for the purpose
+of commencing the proceedings.
+
+27.45B.7
+
+Relevant proceedings are ongoing until—
+
+27.45B.7.a
+
+the proceedings (including any proceedings on appeal or further appeal) have
+been concluded, and
+
+27.45B.7.b
+
+any period during which an appeal (or further appeal) may ordinarily be made
+has passed.
+
+#### Power to direct change of name of exempt charity
+
+28
+
+In Schedule 9 to the Charities Act 2011 (transitory modifications), omit
+paragraph 10 and the italic heading preceding it.
+
+### Charity trustees
+
+#### Powers relating to appointments of trustees
+
+29
+
+After section 184A of the Charities Act 2011 insert—
+
+######## Invalid appointment of charity trustee
+
+######### Power to confirm trustee appointments etc
+
+29.184B
+
+29.184B.1
+
+Subsection  (2)  applies if—
+
+29.184B.1.a
+
+a person acts, or intends to act, as a charity trustee in relation to a
+charity, but
+
+29.184B.1.b
+
+there is not, or might not be, a valid appointment or election of that person
+to a qualifying position in relation to that charity.
+
+29.184B.2
+
+The Commission may, with the consent of the person concerned, by order provide
+that for the purposes of anything done (or not done) on or after the date of
+the order—
+
+29.184B.2.a
+
+any defect in the person’s appointment or election to a qualifying position
+(including any absence of appointment or election) is to be ignored in
+relation to the charity, and
+
+29.184B.2.b
+
+so far as is necessary for those purposes, a valid appointment or election to
+that qualifying position is to be treated as having been made in respect of
+the person.
+
+29.184B.3
+
+For the purposes of this section a position is a “ qualifying position ” in
+relation to a charity if, as a result of a person holding that position, the
+person is a charity trustee of the charity.
+
+29.184B.4
+
+The fact that a position is not a position in a charity does not prevent it
+from being a qualifying position in relation to the charity.
+
+29.184B.5
+
+An order under subsection  (2)  may include—
+
+29.184B.5.a
+
+provision with respect to the vesting in or transfer of property that the
+Commission could make on the removal or appointment of a charity trustee by it
+under section 69 (Commission’s concurrent jurisdiction with High Court for
+certain purposes);
+
+29.184B.5.b
+
+provision that an act of a person who is the subject of the order is valid
+notwithstanding that there was not at the time the act was carried out a valid
+appointment or election to a qualifying position in respect of that person.
+
+29.184B.6
+
+An order containing provision made by virtue of subsection  (5) (a)  has the
+same effect as an order made under section 69.
+
+#### Remuneration of charity trustees etc providing goods or services to charity
+
+30
+
+In section 185 of the Charities Act 2011 (remuneration of charity trustees etc
+providing services to charity)—
+
+30.a
+
+in the heading, before “services” insert  “goods or” ;
+
+30.b
+
+in subsection (1), in the words before paragraph (a), before “services” insert
+“goods or” ;
+
+30.c
+
+in subsection (2)—
+
+30.c.i
+
+in Condition A, in paragraph (a), for “services” substitute  “goods or
+services, or goods and services,” ;
+
+30.c.ii
+
+in Condition A, in paragraph (b), for “services” substitute  “goods or
+services, or goods and services,” ;
+
+30.c.iii
+
+in condition B, for “services” substitute  “goods or services, or goods and
+services,” ;
+
+30.d
+
+for subsection (3) substitute—
+
+30.d.3
+
+This section does not apply to any remuneration for services provided by a
+person in the person’s capacity as a charity trustee or trustee for a charity
+or under a contract of employment.
+
+30.d.3A
+
+Any entitlement to receive remuneration under subsection (2) is in addition to
+and does not affect any entitlement to receive the remuneration by virtue of—
+
+30.d.3A.a
+
+any provision contained in the trusts of the charity;
+
+30.d.3A.b
+
+any order of the court or the Commission;
+
+30.d.3A.c
+
+any other statutory provision contained in or having effect under any Act.
+
+#### Remuneration etc of charity trustees etc
+
+31
+
+After section 186 of the Charities Act 2011 insert—
+
+######## Remuneration etc for work already carried out
+
+31.186A
+
+31.186A.1
+
+This section applies to a person who—
+
+31.186A.1.a
+
+has carried out work for or on behalf of a charity, and
+
+31.186A.1.b
+
+is a charity trustee or trustee for the charity (or was one when the work was
+carried out).
+
+31.186A.2
+
+If the condition in subsection  (3)  is met, the Commission may by order—
+
+31.186A.2.a
+
+require the charity trustees of the charity to pay the person such
+remuneration for the work as must be specified in the order;
+
+31.186A.2.b
+
+authorise, to such extent as must be specified in the order, any benefit
+already received in connection with the work to be retained.
+
+31.186A.3
+
+The condition in this subsection is that the Commission considers that it
+would be inequitable for the person not to be paid the remuneration or not to
+retain the benefit.
+
+31.186A.4
+
+In determining whether to make an order under this section, the Commission
+must in particular have regard to—
+
+31.186A.4.a
+
+whether, if the person had not carried out the work, the charity would have
+paid someone else to carry it out,
+
+31.186A.4.b
+
+the level of skill with which the work was carried out,
+
+31.186A.4.c
+
+any express provision in the trusts of the charity prohibiting the person from
+receiving the remuneration or retaining the benefit, and
+
+31.186A.4.d
+
+whether remunerating the person or allowing the person to retain the benefit
+would encourage breaches of trust or breaches of duty by persons in their
+capacity as charity trustees or trustees for charities.
+
+#### Trustee of charitable trust: status as trust corporation
+
+32
+
+32.1
+
+After section 334 of the Charities Act 2011 insert—
+
+########## Trustee of charitable trust: status as trust corporation
+
+########### Status of certain trustees of charitable trusts
+
+32.1.334A
+
+32.1.334A.1
+
+For the purposes of the provisions listed in subsection (2), “ trust
+corporation ”, in relation to a charitable trust, includes a trustee of or for
+the charitable trust if that trustee is a body corporate and itself a charity.
+
+32.1.334A.2
+
+The provisions are—
+
+32.1.334A.2.a
+
+section 117(1)(xxx) of the Settled Land Act 1925,
+
+32.1.334A.2.b
+
+paragraph (18) of section 68(1) of the Trustee Act 1925,
+
+32.1.334A.2.c
+
+section 205(1)(xxviii) of the Law of Property Act 1925,
+
+32.1.334A.2.d
+
+section 55(1)(xxvi) of the Administration of Estates Act 1925, and
+
+32.1.334A.2.e
+
+section 128 of the Senior Courts Act 1981.
+
+32.2
+
+The amendment made by subsection  (1)  has effect in relation to any trustee
+of or for a charitable trust, even if the trustee became the trustee of or for
+the charitable trust before the amendment comes into force.
+
+### Charity mergers
+
+#### Gifts to merged charity
+
+##### Gifts to merged charity
+
+33
+
+33.1
+
+The Charities Act 2011 is amended as follows.
+
+33.2
+
+In section 239 (effect of registration of CIO), for subsection (3) substitute—
+
+33.2.3
+
+Subsection  (4)  applies to a gift if—
+
+33.2.3.a
+
+the gift would have taken effect as a gift to one of the old CIOs if it had
+not been dissolved, and
+
+33.2.3.b
+
+the date on which the gift would have taken effect is a date on or after the
+date of the registration of the new CIO.
+
+33.2.4
+
+The gift takes effect as a gift to the new CIO.
+
+33.3
+
+In section 244 (effect of confirmation of resolution to transfer property etc
+to another CIO), for subsection (2) substitute—
+
+33.3.2
+
+Subsection  (3)  applies to a gift if—
+
+33.3.2.a
+
+the gift would have taken effect as a gift to the transferor CIO if it had not
+been dissolved, and
+
+33.3.2.b
+
+the date on which the gift would have taken effect is a date on or after the
+date on which the resolution is confirmed (or treated as confirmed).
+
+33.3.3
+
+The gift takes effect as a gift to the transferee CIO.
+
+33.4
+
+In section 311 (effect of registering charity merger on gifts to transferor),
+for subsection (2) substitute—
+
+33.4.2
+
+Subsection  (2A)  applies to a gift, other than an excluded gift, if—
+
+33.4.2.a
+
+the gift would have taken effect as a gift to the transferor if the transferor
+had been in existence, and
+
+33.4.2.b
+
+the date on which the gift would have taken effect is a date on or after the
+date of the registration of the merger.
+
+33.4.2A
+
+The gift takes effect as a gift to the transferee.
+
+33.5
+
+The amendments made by this section have effect in relation to all gifts made
+on or after the date this section comes into force; and it does not matter if
+the will or other document, agreement, transaction or other means which gives
+rise to the gift was executed or entered into before that date.
+
+#### Vesting declarations
+
+##### Vesting declarations: exclusions
+
+34
+
+In section 310(3) of the Charities Act 2011 (exclusion of certain property
+from automatic vesting following a vesting declaration)—
+
+34.a
+
+omit paragraph (a);
+
+34.b
+
+for paragraph (b) (but not the “or” following it) substitute—
+
+34.b.b
+
+any land held by the transferor under a lease or agreement if, had the
+transferor assigned its interest in the land on the specified date to the
+transferee, that assignment would have given rise to—
+
+34.b.b.i
+
+an actionable breach of covenant or condition against alienation, or
+
+34.b.b.ii
+
+a forfeiture,
+
+.
+
+##### Vesting permanent endowment following a merger
+
+35
+
+In section 306 of the Charities Act 2011 (meaning of “ relevant charity merger
+”), in subsection (2)—
+
+35.a
+
+in paragraph (a), omit “a”;
+
+35.b
+
+omit paragraph (b) and the “and” before it.
+
+### Legal proceedings
+
+#### Costs incurred in relation to Tribunal proceedings etc
+
+36
+
+After section 324 of the Charities Act 2011 insert—
+
+######## Power to authorise costs to be incurred in relation to proceedings
+
+36.324A
+
+36.324A.1
+
+The Tribunal may make an authorised costs order on the application of a
+charity or charity trustees of a charity.
+
+36.324A.2
+
+An authorised costs order is an order—
+
+36.324A.2.a
+
+made in respect of proceedings brought, or proposed to be brought, before the
+Tribunal or on appeal from it, and
+
+36.324A.2.b
+
+authorising payment out of the funds of the charity of costs falling within
+subsection (3).
+
+36.324A.3
+
+Those costs are costs incurred, or to be incurred, in connection with the
+proceedings—
+
+36.324A.3.a
+
+by the charity,
+
+36.324A.3.b
+
+by its charity trustees, or
+
+36.324A.3.c
+
+by any other person, so far as the charity or its charity trustees are ordered
+by the Tribunal or the court hearing the appeal to bear them.
+
+### General
+
+#### Public notice as regards Commission orders etc
+
+37
+
+37.1
+
+The Charities Act 2011 is amended as follows.
+
+37.2
+
+In section 337 (other provisions as to orders of Commission)—
+
+37.2.a
+
+after subsection (2) insert—
+
+37.2.a.2A
+
+Where an application is made for an order under this Act or the Commission
+proposes to make such an order, the Commission—
+
+37.2.a.2A.a
+
+may itself give such public notice as it thinks fit of the contents of the
+order applied for or proposed to be made, or
+
+37.2.a.2A.b
+
+may require it to be given by—
+
+37.2.a.2A.b.i
+
+any person making an application for the order, or
+
+37.2.a.2A.b.ii
+
+any charity that would be affected by the order.
+
+;
+
+37.2.b
+
+after subsection (3) insert—
+
+37.2.b.3A
+
+Where the Commission’s written consent is sought under section 67A, 198, 226
+or 280A in relation to a charity, the Commission—
+
+37.2.b.3A.a
+
+may itself give such public notice as it thinks fit of the contents of the
+consent sought, or
+
+37.2.b.3A.b
+
+may require it to be given by the charity.
+
+37.2.b.3B
+
+Where the Commission gives written consent under section 67A, 198, 226 or 280A
+in relation to a charity, the Commission—
+
+37.2.b.3B.a
+
+may itself give such public notice as it thinks fit of the giving or contents
+of the consent, or
+
+37.2.b.3B.b
+
+may require it to be given by the charity.
+
+;
+
+37.2.c
+
+in the heading, after “orders” insert  “etc” .
+
+37.3
+
+In section 338 (directions of the Commission or person conducting inquiry), in
+subsection (2), for “any such directions” substitute  “a direction of the
+Commission under any provision of this Act” .
+
+#### “Connected person”: illegitimate children
+
+38
+
+In section 350(1) of the Charities Act 2011 (connected person: meaning of
+“child”), omit “and an illegitimate child”.
+
+#### “Connected person”: power to amend
+
+39
+
+39.1
+
+After section 352 of the Charities Act 2011 insert—
+
+########## Power to amend definition of “connected person”
+
+39.1.352A
+
+The Secretary of State may by regulations amend this Act to alter what is a “
+connected person ” for the purposes of any provision of this Act.
+
+39.2
+
+In section 348 of that Act (regulations subject to affirmative procedure etc)—
+
+39.2.a
+
+in subsection (1), after paragraph (d) (inserted by section 12) insert—
+
+39.2.a.e
+
+regulations under section 352A (power to amend definition of “connected
+person”).
+
+;
+
+39.2.b
+
+in subsection (2), after “ (d) ” (inserted by section 12) insert  “or (e)” .
+
+#### Minor and consequential provision
+
+40
+
+Schedule 2 (which contains minor and consequential amendments) has effect.
+
+#### Extent, commencement and short title
+
+41
+
+41.1
+
+This Act extends to England and Wales only, subject to subsection  (2) .
+
+41.2
+
+An amendment made by—
+
+41.2.a
+
+section 24;
+
+41.2.b
+
+Schedule 1;
+
+41.2.c
+
+paragraph 12 or 46 of Schedule 2,
+
+has the same extent as the enactment or provision to which it relates.
+
+41.3
+
+This section comes into force on the day on which this Act is passed.
+
+41.4
+
+The other provisions of this Act come into force on such day as the Secretary
+of State may by regulations made by statutory instrument appoint and different
+days may be appointed for different purposes.
+
+41.5
+
+Regulations under subsection  (4)  may make consequential, transitional or
+saving provision.
+
+41.6
+
+This Act may be cited as the Charities Act 2022.
+
+## SCHEDULES
+
+  Amendments of the Universities and College Estates Act 1925: consequential
+amendments
+
+Section 24
+
+##### Law of Property (Amendment) Act 1926 (c. 11)
+
+1
+
+In the Schedule to the Law of Property (Amendment) Act 1926 (minor
+amendments), omit the entry relating to section 3 of the Universities and
+College Estates Act 1925.
+
+##### Landlord and Tenant Act 1927 (c. 36)
+
+2
+
+In section 13 of the Landlord and Tenant Act 1927 (power to apply and raise
+capital money), in subsection (1), omit “, or under the University and College
+Estates Act, 1925,”.
+
+##### Landlord and Tenant (War Damage) Act 1939 (c. 72)
+
+3
+
+In section 3 of the Landlord and Tenant (War Damage) Act 1939 (raising of
+money for making good war damage on settled land, etc)—
+
+3.a
+
+omit paragraph (d) and the “or” preceding it;
+
+3.b
+
+omit from “, or Part I of the First Schedule” to the end.
+
+##### Universities and Colleges (Trusts) Act 1943 (c. 9)
+
+4
+
+4.1
+
+Section 2 of the Universities and Colleges (Trusts) Act 1943 (schemes for
+administering university and college trusts) is amended as follows.
+
+4.2
+
+Omit subsection (2).
+
+4.3
+
+In subsection (3)—
+
+4.3.a
+
+omit from “, subject to the modification that” to “as aforesaid;”;
+
+4.b
+
+omit “, subject to the modification aforesaid”.
+
+4.4
+
+Omit subsection (5).
+
+##### Coast Protection Act 1949 (c. 74)
+
+5
+
+In section 11 of the Coast Protection Act 1949 (incidence of coast protection
+charges, etc), in subsection (2)(a)—
+
+5.a
+
+omit “and by section twenty-six of the Universities and College Estates Act
+1925”;
+
+5.b
+
+omit “and by section thirty of the Universities and College Estates Act 1925”.
+
+##### Landlord and Tenant Act 1954 (c. 56)
+
+6
+
+In paragraph 6 of Schedule 2 to the Landlord and Tenant Act 1954 (provisions
+as to repair where tenant retains possession)—
+
+6.a
+
+omit “and by section twenty-six of the Universities and College Estates Act
+1925”;
+
+6.b
+
+omit “and by section thirty of the Universities and College Estates Act 1925”.
+
+##### Universities and College Estates Act 1964 (c. 51)
+
+7
+
+7.1
+
+The Universities and College Estates Act 1964 is amended as follows.
+
+7.2
+
+Omit sections 2 and 3.
+
+7.3
+
+Omit Schedules 1 and 2.
+
+##### Forestry Act 1967 (c. 10)
+
+8
+
+In Schedule 2 to the Forestry Act 1967 (forestry dedication etc), omit
+paragraph 2.
+
+##### Leasehold Reform Act 1967 (c. 88)
+
+9
+
+9.1
+
+The Leasehold Reform Act 1967 is amended as follows.
+
+9.2
+
+In section 24(1) (application of price or compensation received by landlord,
+etc), omit paragraph (b) and the “and” preceding it.
+
+9.3
+
+In Schedule 2 (right to possession for purposes of redevelopment etc:
+supplementary provision), omit paragraph 9(2).
+
+##### Mines and Quarries (Tips) Act 1969 (c. 10)
+
+10
+
+In section 32 of the Mines and Quarries (Tips) Act 1969 (raising of money in
+special cases), in subsection (2)—
+
+10.a
+
+in paragraph (a), omit “and by section 26 of the Universities and College
+Estates Act 1925”;
+
+10.b
+
+in paragraph (b), omit “and by section 30 of the Universities and College
+Estates Act 1925”.
+
+##### Agriculture Act 1970 (c. 40)
+
+11
+
+In section 61 of the Agriculture Act 1970 (special classes of land), in
+subsection (6), omit “, the Universities and College Estates Act 1925”.
+
+##### Agriculture (Miscellaneous Provisions) Act 1976 (c. 55)
+
+12
+
+In Schedule 3 to the Agriculture (Miscellaneous Provisions) Act 1976
+(enactments to which power to amend applies), omit the entry relating to the
+Universities and College Estates Act 1925.
+
+##### Universities and College Estates Act 1925 (Amendment) Regulations 1978 (
+
+13
+
+The Universities and College Estates Act 1925 (Amendment) Regulations 1978 (
+S.I. 1978/443 ) are revoked.
+
+##### Highways Act 1980 (c. 66)
+
+14
+
+14.1
+
+The Highways Act 1980 is amended as follows.
+
+14.2
+
+In section 87 (agreements for use of land for cattle-grids or by-passes), omit
+subsection (5).
+
+14.3
+
+In Schedule 24 (consequential amendments), omit paragraph 3 and the italic
+heading preceding it.
+
+##### Agricultural Holdings Act 1986 (c. 5)
+
+15
+
+15.1
+
+The Agricultural Holdings Act 1986 is amended as follows.
+
+15.2
+
+In section 89 (power of limited owners to apply capital for improvements),
+omit subsection (2).
+
+15.3
+
+In Schedule 14 (consequential amendments), omit paragraph 13 and the italic
+heading preceding it.
+
+##### Town and Country Planning Act 1990 (c. 8)
+
+16
+
+16.1
+
+Section 328 of the Town and Country Planning Act 1990 (settled land and land
+of universities and colleges) is amended as follows.
+
+16.2
+
+Omit subsection (1)(b) and the “and” preceding it.
+
+16.3
+
+Omit subsection (2)(b) and the “and” preceding it.
+
+16.4
+
+In the heading, omit “and land of universities and colleges”.
+
+##### Solicitors’ Recognised Bodies Order 1991 (
+
+17
+
+In Schedule 1 to the Solicitors’ Recognised Bodies Order 1991 ( S.I. 1991/2684
+) (statutes which apply to recognised bodies), omit the entry relating to the
+Universities and College Estates Act 1925.
+
+##### Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)
+
+18
+
+18.1
+
+The Leasehold Reform, Housing and Urban Development Act 1993 is amended as
+follows.
+
+18.2
+
+In Schedule 2 (special categories of landlords), omit paragraph 7 and the
+italic heading preceding it.
+
+18.3
+
+In Schedule 14 (right to terminate new lease on grounds of redevelopment:
+supplementary provision), omit paragraph 10.
+
+##### Agricultural Tenancies Act 1995 (c. 8)
+
+19
+
+In section 33 of the Agricultural Tenancies Act 1995 (power to apply and raise
+capital money), in subsection (1), omit “or section 26 of the Universities and
+College Estates Act 1925”.
+
+##### Housing Grants, Construction and Regeneration Act 1996 (c. 53)
+
+20
+
+In section 55 of the Housing Grants, Construction and Regeneration Act 1996
+(cessation of conditions on repayment of grant, etc), omit subsection (4)(c)
+and the “and” preceding it.
+
+##### Cathedrals Measure 
+
+21
+
+In section 36 of the Cathedrals Measure 1999 (construction of references to
+dean and chapter, etc), in subsection (2), omit the entry relating to the
+Universities and College Estates Act 1925.
+
+##### Trustee Act 2000 (c. 29)
+
+22
+
+In Schedule 2 to the Trustee Act 2000 (minor and consequential amendments),
+omit paragraph 29 and the italic heading preceding it.
+
+##### Constitutional Reform Act 2005 (c. 4)
+
+23
+
+In paragraph 4(3) of Schedule 11 to the Constitutional Reform Act 2005
+(miscellaneous amendments: Supreme Court of England and Wales), omit “the
+Universities and College Estates Act  1925 (c. 24) ”.
+
+##### Cathedrals Measure 
+
+24
+
+In Schedule 4 to the Cathedrals Measure 2021 (consequential amendments), omit
+paragraph 4 and the italic heading preceding it.
+
+Minor and consequential amendments
+
+Section 40
+
+##### Amendments relating to Part 1
+
+1
+
+The Charities Act 2011 is amended in accordance with paragraphs  2  to  11 ,
+13  to  19  and  21  to  27 .
+
+###### Amendment relating to section 2 of this Act
+
+2
+
+In Schedule 6 (appeals and applications to Tribunal), for the entry relating
+to a decision of the Commission under section 227 to refuse to register an
+amendment to the constitution of a CIO substitute—
+
+Decision of the Commission to give, or withhold, consent under section 226 in
+relation to an amendment of the constitution of a CIO. The persons are— the
+CIO, the charity trustees of the CIO, and any other person who is or may be
+affected by the decision. Power to quash the decision and (if appropriate)
+remit the matter to the Commission.
+
+###### Amendments relating to section 3 of this Act
+
+3
+
+In section 285 (power to alter sums specified in Part 13), in subsection (2),
+omit—
+
+3.a
+
+the entry relating to section 267(1);
+
+3.b
+
+the entry relating to section 275(1).
+
+4
+
+In section 328 (suspension of time limits while reference is in progress),
+omit subsection (3).
+
+5
+
+In section 350 (connected person: child, spouse and civil partner)—
+
+5.a
+
+in subsection (1), for “and 249(2)(a)” substitute  “, 249(2)(a) and
+280B(3)(a)” ;
+
+5.b
+
+in subsection (2), for “and 249(2)(b)” substitute  “, 249(2)(b) and
+280B(3)(b)” .
+
+6
+
+In section 351 (connected person: controlled institution), for “and 249(2)(d)”
+substitute  “, 249(2)(d) and 280B(3)(d)” .
+
+7
+
+In section 352 (connected person: substantial interest in body corporate), in
+subsection (1), for “and 249(2)(e)” substitute  “, 249(2)(e) and 280B(3)(e)” .
+
+8
+
+In Schedule 6 (appeals and applications to Tribunal)—
+
+8.a
+
+omit the entry relating to a decision of the Commission to notify charity
+trustees under section 271(1);
+
+8.b
+
+omit the entry relating to a decision of the Commission to notify charity
+trustees under section 278(1);
+
+8.c
+
+after that entry insert—
+
+Decision of the Commission to withhold consent under section 280A(7) in
+relation to an amendment of the trusts of an unincorporated charity. The
+persons are— the charity trustees of the charity, and any other person who is
+or may be affected by the decision. Power to quash the decision and (if
+appropriate) remit the matter to the Commission.
+
+9
+
+In Schedule 9 (transitory modifications), in the table in paragraph 26(3),
+omit the entry relating to “section 69O”.
+
+10
+
+In Schedule 11 (index of defined expressions)—
+
+10.a
+
+in the entry relating to “child”, for “and 249(2)(a)” substitute  “, 249(2)(a)
+and 280B(3)(a)” ;
+
+10.b
+
+in the entry relating to “civil partner”, for “and 249(2)(b)” substitute  “,
+249(2)(b) and 280B(3)(b)” ;
+
+10.c
+
+in the entry relating to “control of institution”, for “and 249(2)(d)”
+substitute  “, 249(2)(d) and 280B(3)(d)” ;
+
+10.d
+
+in the entry relating to “substantial interest in a body corporate”, for “and
+249(2)(e)” substitute  “, 249(2)(e) and 280B(3)(e)” ;
+
+10.e
+
+omit the entry relating to “transfer of property (in sections 268 to 274)”.
+
+###### Amendments relating to section 5 of this Act
+
+11
+
+In section 349 (orders subject to affirmative procedure), in subsection (1),
+omit paragraph (b).
+
+12
+
+In section 5 of the Coal Industry Act 1987 (coal industry trusts), in
+subsection (8), for “73(1) to (6)” substitute  “73(1), (2) and (5)” .
+
+###### Amendments relating to section 6 of this Act
+
+13
+
+In section 66 (unknown and disclaiming donors: supplementary)—
+
+13.a
+
+for the heading, substitute  “Section 63A: supplementary” ;
+
+13.b
+
+in subsection (1), for “sections 63 and 65” substitute  “section 63A” ;
+
+13.c
+
+after subsection (1) insert—
+
+13.c.1A
+
+Where property is applied cy-près by virtue of section 63A, all the donor’s
+interest in it is treated as having been relinquished when the gift was made.
+
+;
+
+13.d
+
+in subsection (2), for “sections 63 to 65” substitute  “section 63A” ;
+
+13.e
+
+omit subsections (4) to (6).
+
+14
+
+In Schedule 8 (transitionals and savings), in paragraph 17 (application of
+sections 63, 64 and 67 to property given for charitable purposes), for
+“Sections 63, 64 and 67 apply” substitute  “Section 67 applies” .
+
+15
+
+In Schedule 11 (index of defined expressions)—
+
+15.a
+
+in the entry relating to “charitable purposes, failure of”, in column 1, for
+“sections 63 and 65” substitute  “section 63A” ;
+
+15.b
+
+in the entry relating to “donor”, in column 1, for “63 to 66” substitute  “63A
+and 66” ;
+
+15.c
+
+omit the entry relating to “prescribed (in sections 63 and 65)”.
+
+###### Amendments relating to sections 10 and 11 of this Act
+
+16
+
+16.1
+
+In section 281 (power of unincorporated charities to spend capital: general)—
+
+16.1.a
+
+in subsection (2), omit “given for particular purpose”;
+
+16.1.b
+
+in the heading, omit “unincorporated”.
+
+16.2
+
+In the italic heading preceding that section, omit “unincorporated”.
+
+17
+
+17.1
+
+Section 284 (taking effect of resolution under section 282) is amended as
+follows.
+
+17.2
+
+In subsection (1), after “282(2)” insert  “or (3A)” .
+
+17.3
+
+In subsection (1)(a)—
+
+17.3.a
+
+after “evidence” insert  “made” ;
+
+17.3.b
+
+for “the donor or donors mentioned in section 282(1)(a)” substitute  “any
+donor or donors to the available endowment fund” .
+
+17.4
+
+In subsection (1), for paragraph (b) substitute—
+
+17.4.b
+
+any changes in circumstances relating to the available endowment fund since it
+was established (including, in particular, the financial position of the fund,
+the needs of those who can benefit from the fund, and the social, economic and
+legal environment).
+
+17.5
+
+In subsection (2)(a), for “the gift or gifts mentioned in section 282(1)(a)”
+substitute  “any gift or gifts to the available endowment fund” .
+
+17.6
+
+In subsection (5)(b), for “period of 3 months mentioned in subsection (3)”
+substitute  “relevant period” .
+
+18
+
+18.1
+
+Section 285 (power to alter sums specified in certain provisions) is amended
+as follows.
+
+18.2
+
+In subsection (1), omit paragraph (b) and the “or” preceding it.
+
+18.3
+
+In subsection (2), in the words in brackets after “section 282(1)”—
+
+18.3.a
+
+for “income level” substitute  “adjusted market value” ;
+
+18.3.b
+
+omit “given for particular purpose”.
+
+19
+
+For the heading of Part 13 substitute  “Powers to amend trusts and use
+capital” .
+
+###### Amendment relating to sections 10 and 12 of this Act
+
+20
+
+In section 24 of the Cathedrals Measure  2021 (No. 2)  (investment powers,
+etc), after subsection (7) insert—
+
+20.7A
+
+The members of the Chapter of a cathedral may not pass a resolution under—
+
+20.7A.a
+
+section 282 of the Charities Act 2011 (resolution to spend larger fund), or
+
+20.7A.b
+
+section 284A of that Act (power to borrow from permanent endowment),
+
+unless the Chapter has obtained the consent of the Church Commissioners.
+
+###### Amendments relating to section 12 of this Act
+
+21
+
+In the heading of section 285 (power to alter sums specified in Part 13),
+after “sums” insert  “etc” .
+
+22
+
+In Schedule 11 (index of defined expressions), in the entry relating to
+available endowment fund, for “section 281(7)” substitute  “sections 281(7)
+and 284A(9)” .
+
+###### Amendment relating to section 13 of this Act
+
+23
+
+In section 292B (general power to make social investments), in subsection (2),
+after “question” insert  “(but see section 104AA, which confers on charity
+trustees a power to use permanent endowment to make social investments in
+certain circumstances)” .
+
+###### Amendments relating to section 14 of this Act
+
+24
+
+In Schedule 6 (appeals and applications to Tribunal), omit the entry relating
+to a decision of the Commission not to concur under section 291 with a
+resolution of charity trustees under section 289(2).
+
+25
+
+In Schedule 11 (index of defined expressions)—
+
+25.a
+
+in the entry relating to “available endowment fund”—
+
+25.a.i
+
+for “Parts 13 and 14” substitute  “Part 13” ;
+
+25.a.ii
+
+for “sections 282(5) and 288(7)” substitute  “section 282(5)” ;
+
+25.b
+
+omit the entry relating to “the relevant charity, in relation to power to
+spend capital subject to special trust (in Part 14)”;
+
+25.c
+
+in the entry relating to “special trust”, for “section 287” substitute
+“section 353(4)” .
+
+###### Amendments relating to section 16 of this Act
+
+26
+
+In section 322(2) (reviewable decisions of the Commission), after paragraph
+(e) insert—
+
+26.ea
+
+not to make an order under section 106 (power to authorise ex gratia payments
+etc) in relation to a charity;
+
+.
+
+27
+
+In Schedule 6 (appeals and applications to Tribunal), after the entry relating
+to a decision by the Commission not to make an order under section 105 insert—
+
+Decision by the Commission not to make an order under section 106 in relation
+to a charity. The persons are— the charity trustees of the charity, and (if a
+body corporate) the charity itself. Power to quash the decision and (if
+appropriate) remit the matter to the Commission.
+
+##### Amendments relating to Part 2
+
+###### Amendment relating to section 22 of this Act
+
+28
+
+In section 118 of the Charities Act 2011 (meaning of “ connected person ” in
+section 117(2)), in subsection (2), in the words before paragraph (a), for
+“The” substitute  “Subject to subsection (2A), the” .
+
+###### Amendment relating to section 23 of this Act
+
+29
+
+In paragraph 4(2)(b) of Schedule 1 to the Trusts of Land and Appointment of
+Trustees Act 1996 (land held on charitable trusts etc), for the words from “if
+neither” to “conveyance” substitute  “if section 122(2) or 125(1) of that Act
+applies to the conveyance but has not been complied with” .
+
+##### Amendments relating to Part 3
+
+30
+
+The Charities Act 2011 is amended in accordance with paragraphs  31  to  37 .
+
+###### Amendments relating to section 25 of this Act
+
+31
+
+For the italic heading preceding section 42, substitute  “Names and working
+names” .
+
+32
+
+In section 45 (change of name where charity is a company), in subsection (2),
+after “with respect to” insert  “the name of” .
+
+33
+
+In section 208(2) (refusal of application for constitution and registration of
+CIO)—
+
+33.a
+
+in the words after paragraph (a)(ii), after “the name” insert  “or a working
+name” ;
+
+33.b
+
+in paragraph (b), after “charity’s name” insert  “or working name” .
+
+34
+
+In section 231(2) (refusal of application for conversion to CIO)—
+
+34.a
+
+in the words after paragraph (a)(ii), after “the name” insert  “or a working
+name” ;
+
+34.b
+
+in paragraph (b), after “charity’s name” insert  “or working name” .
+
+35
+
+In section 237(3) (refusal of application for amalgamation of CIOs)—
+
+35.a
+
+in the words after paragraph (a)(ii), after “the name” insert  “or a working
+name” ;
+
+35.b
+
+in paragraph (b), after “charity’s name” insert  “or working name” .
+
+36
+
+In Schedule 6 (appeals and applications to Tribunal), in the entry relating to
+a direction of the Commission under section 42 requiring the name of a charity
+to be changed, in column 1, for the words from “requiring” to the end
+substitute
+
+requiring—
+
+36.a
+
+the name of a charity to be changed, or
+
+36.b
+
+that a working name of a charity no longer be used as a working name.
+
+37
+
+In Schedule 11 (index of defined expressions), after the entry relating to
+“vesting declaration” insert—
+
+working name  section 42(4)
+
+.
+
+##### Amendments relating to Part 4
+
+38
+
+The Charities Act 2011 is amended in accordance with paragraphs  39 ,  40  and
+42 .
+
+###### Amendments relating to section 30 of this Act
+
+39
+
+In section 187 (meaning of “benefit” etc)—
+
+39.a
+
+in the heading, omit “, “services””;
+
+39.b
+
+omit the definition of “services”.
+
+40
+
+In Schedule 11 (index of defined expressions), omit the entry for “services”.
+
+41
+
+In section 7A of the Parochial Church Councils (Powers) Measure  1956 (No. 3)
+(modification of section 185 of the Charities Act 2011 in its application to a
+parochial church council)—
+
+41.a
+
+after “providing” insert  “goods or” ;
+
+41.b
+
+for “(3)(a),” substitute  “(3),” .
+
+###### Amendment relating to section 31 of this Act
+
+42
+
+In section 187 (meaning of “benefit” etc), for “and 186” substitute  “to 186A”
+.
+
+##### Other minor amendments
+
+43
+
+In section 199 of the Charities Act 2011 (meaning of “ benefit ” in section
+198(2)), for the words from “include” to the end substitute
+
+include—
+
+43.a
+
+any remuneration whose receipt may be authorised under section 185, or
+
+43.b
+
+the purchase of any insurance which may be authorised under section 189.
+
+44
+
+In section 248 of the Charities Act 2011 (meaning of “ benefit ”), in
+subsection (2), for the words from “include” to the end substitute
+
+include—
+
+44.a
+
+any remuneration whose receipt may be authorised under section 185, or
+
+44.b
+
+the purchase of any insurance which may be authorised under section 189.
+
+45
+
+In section 292B of the Charities Act 2011 (general power to make social
+investments), in subsection (4), for paragraph (b) substitute—
+
+45.b
+
+charities established or regulated by Royal charter;
+
+.
+
+46
+
+In section 77 of the Companies Act 2006 (change of name), in subsection (2),
+after paragraph (d) insert—
+
+46.e
+
+by resolution of the directors acting under section 45(3) of the Charities Act
+2011 (change of name to comply with direction of Charity Commission).
+

@@ -1,0 +1,925 @@
+Title: The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024
+Date: 2024-06-25
+Description: These Regulations further amend the Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995 (S.R.1995 No. 95) (“the 1995 Regulations”), the Health and Social Services (Superannuation) (Additional Voluntary Contributions) Regulations (Northern Ireland) 1999 (S.R.1999 No.294), the Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008 (S.R. 2008 No.256) (“the 2008 Regulations”), the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015 (S.R. 2015 No. 120) (“the 2015 Regulations”), the Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015 No.122) (“the 2015 Transitional Regulations”), the Health and Social Care (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023 No.33) and the Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024 No. 50).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2024/117
+
+## The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024
+
+    Health And Personal Social Services   Public Sector Pensions
+
+  Made   2 1st May 2024
+
+  Coming into operation  - -   12th June 2024
+
+      The Department of Health makes the following Regulations in exercise of
+the powers conferred by Articles 12(1), (2) and (3), and (14)(1) and (2) of,
+and Schedule 3 to the Superannuation (Northern Ireland) Order 1972 (“ the 1972
+Order ”) and sections 1 (1) and (2)(e), 2(1) and 3(1) to (3) of, and paragraph
+5 of Schedule 2 and Schedule 3 to, the Public Service Pensions Act (Northern
+Ireland) 2014  (“ the 2014 Act ”).       In accordance with Article 12(4) of
+the 1972 Order and section 21(1) of the 2014 Act, the Department of Health has
+consulted such persons as appear to the Department of Health likely to be
+affected by these Regulations.       In accordance with section 22(2)(b) of
+the 2014 Act, the Department of Health has laid a report before the Assembly.
+In accordance with Article 12(1) of the 1972 Order and section 3(5) of the
+2014 Act, these Regulations are made with the consent of the Department of
+Finance.
+
+#### Citation, commencement and effect
+
+1
+
+1.1
+
+These Regulations may be cited as the Health and Social Care Pension Schemes
+(Amendment No.2) Regulations (Northern Ireland) 2024.
+
+1.2
+
+These Regulations come into operation on 12th June 2024 and have effect from
+1st April 2024 with the exception of regulation 25(3)(a), (c), (d) and (e)
+which has effect from 1st April 2015.
+
+### Amendments to the Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995
+
+#### General
+
+2
+
+The Heath and Personal Social Services (Superannuation) Regulations (Northern
+Ireland) 1995  are amended in accordance with this Part.
+
+#### Amendment of regulation 2
+
+3
+
+In regulation 2 (interpretation), at the appropriate places insert—
+
+“ lump sum and death benefit allowance ” in relation to a person, has the
+meaning given in section 637R of the Income Tax (Earnings and Pensions) Act
+2003
+
+;
+
+“ salary sacrifice arrangement ” means an arrangement under which the member
+gives up the right to receive an amount of superannuable pay in return for the
+provision of a benefit in kind including, but not limited to, a benefit
+consisting of a motor car or other vehicle, meals, care or vouchers;
+
+.
+
+#### Amendment of regulation 11A
+
+4
+
+In regulation 11A (further contributions by employing authorities in respect
+of excessive pay increases) , in paragraph (21) omit sub-paragraph (i).
+
+#### Amendment of regulation 16A
+
+5
+
+5.1
+
+Regulation 16A (partial retirement pension)  is amended as follows.
+
+5.2
+
+In paragraph (1)—
+
+5.2.a
+
+after the first occurrence of “superannuable employment”, insert  “or who is a
+non-superannuable 1995 Section member” ;
+
+5.2.b
+
+in sub-paragraph (a)(iii), after the first occurrence of “superannuable
+employment”, insert  “for the purposes of the 2015 Scheme” ;
+
+5.2.c
+
+in sub-paragraph (c), after “is reduced”, insert  “(disregarding any reduction
+in superannuable pay resulting from the member entering into a salary
+sacrifice arrangement)” .
+
+5.3
+
+In paragraph (2), after all three occurrences of “superannuable employment”,
+insert  “for the purposes of the 2015 Scheme” .
+
+5.4
+
+In paragraph (7)(b), for “lifetime allowance”, substitute  “lump sum and death
+benefit allowance” .
+
+5.5
+
+After paragraph (11), insert—
+
+5.5.11A
+
+For the purposes of this regulation, in the case of a non-superannuable 1995
+Section member, “ superannuable pay ” means the member’s superannuable
+earnings for the purposes of the 2015 Scheme.
+
+5.6
+
+In paragraph (12), at the appropriate place, insert—
+
+“ Non-superannuable 1995 Section member ” has the same meaning as in
+regulation 2 of the Health and Social Care Pension Scheme (Transitional and
+Consequential Provisions) Regulations 2015 ;
+
+.
+
+#### Amendment of regulation 16B
+
+6
+
+6.1
+
+Regulation 16B (1) (increase in superannuable pay following exercise of option
+under regulation 16A)   is amended as follows.
+
+6.2
+
+In sub-paragraph (b), after “is increased”, insert  “(disregarding any
+increase in superannuable pay resulting from the member leaving a salary
+sacrifice arrangement)” .
+
+6.3
+
+In sub-paragraph (c), after “is reduced” insert  “(disregarding any reduction
+in superannuable pay resulting from the member entering into a salary
+sacrifice arrangement)” .
+
+#### Amendment of regulation 16C
+
+7
+
+7.1
+
+Regulation 16C (application of regulations 16A and 16B with modifications
+where concurrent part-time employments held)  is amended as follows.
+
+7.2
+
+In paragraph (1), after “superannuable employment”, insert  “in the 2015
+scheme” .
+
+7.3
+
+In paragraph (3), after “is reduced”, insert  “(disregarding any reduction in
+superannuable pay resulting from the member entering into a salary sacrifice
+arrangement)” .
+
+7.4
+
+In paragraph (5), after “is increased”, insert  “(disregarding any increase in
+superannuable pay resulting from the member leaving a salary sacrifice
+arrangement)” .
+
+#### Amendment of regulation 85
+
+8
+
+8.1
+
+Regulation 85 (reduction of pension on return to HSC employment) is amended as
+follows.
+
+8.2
+
+In paragraph (1A)  —
+
+8.2.a
+
+in sub-paragraph (b)(iii)—
+
+8.2.a.i
+
+for “paragraph (c) applies”, substitute  “regulation 75(3)(b) (nurses,
+physiotherapists, midwives and health visitors) or regulation 76(9) (mental
+health officers) applies to the member” ;
+
+8.2.a.ii
+
+substitute “,or” with “.”;
+
+8.2.b
+
+omit sub-paragraph (c).
+
+8.3
+
+In paragraph (3), omit “or (c)”.
+
+##### Amendment of regulation 11
+
+9
+
+In the Health and Social Services (Superannuation) (Additional Voluntary
+Contributions) Regulations (Northern Ireland) 1999,  in regulation 11
+(retirement and dependants’ benefits), after paragraph (1)(d), insert—
+
+;
+
+9.e
+
+a pension commencement excess lump sum referred to in section 166(1)(aa) of
+the 2004 Act .
+
+.
+
+### Amendments to the Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008
+
+#### General
+
+10
+
+The Health and Social Care (Pension Scheme) Regulations (Northern Ireland)
+2008  are amended in accordance with this Part.
+
+#### Amendment of regulation 6
+
+11
+
+In regulation 6 (interpretation: general), at the appropriate places, insert—
+
+“ lump sum and death benefit allowance ” in relation to a person, has the
+meaning given in section 637R of the Income Tax (Earnings and Pensions) Act
+2003
+
+;
+
+“ salary sacrifice arrangement ” means an arrangement under which the member
+gives up the right to receive an amount of pensionable pay in return for the
+provision of a benefit in kind including, but not limited to, a benefit
+consisting of a motor car or other vehicle, meals, care or vouchers;
+
+.
+
+#### Amendment of regulation 49
+
+12
+
+12.1
+
+Regulation 49 (partial retirement (members aged at least 55))  is amended as
+follows.
+
+12.2
+
+In paragraph (1)—
+
+12.2.a
+
+in sub-paragraph (a), for “or a non-contributing member”, substitute  “of the
+2015 scheme” .
+
+12.2.b
+
+in sub-paragraph (d), after “is reduced”, insert “(disregarding any reduction
+in pensionable pay resulting from the member entering into a salary sacrifice
+arrangement)”.
+
+12.3
+
+In paragraph (2), after each occurrence of “active member”, insert  “of the
+2015 Scheme” .
+
+12.4
+
+In paragraph (6)(a)(ii), for “lifetime allowance”, substitute  “lump sum and
+death benefit allowance” .
+
+12.5
+
+In paragraph (9)(b), after “service”, insert  “in the 2015 scheme” .
+
+12.6
+
+After paragraph (9) insert—
+
+12.6.9A
+
+For the purposes of this regulation, in the case of a non-contributing member,
+“ pensionable pay ” means the member’s pensionable earnings for the purposes
+of the 2015 Scheme.
+
+.
+
+#### Amendment of regulation 50
+
+13
+
+13.1
+
+Regulation 50(1) (increase in pensionable pay following exercise of option
+under regulation 49) is amended as follows.
+
+13.2
+
+In sub-paragraph (b), after “is increased”, insert  “(disregarding any
+increase in pensionable pay resulting from the member leaving a salary
+sacrifice arrangement)” .
+
+13.3
+
+In sub-paragraph (c), after “is reduced”, insert  “(disregarding any reduction
+in pensionable pay resulting from the member entering into a salary sacrifice
+arrangement)” .
+
+#### Amendment of regulation 51
+
+14
+
+14.1
+
+Regulation 51 (application of regulations 49 and 50 where concurrent part-time
+employments held)  is amended as follows
+
+14.2
+
+In sub-paragraph (1), for “or a non-contributing member”, substitute  “of the
+2015 scheme” .
+
+14.3
+
+In paragraph (3), after “is reduced”, insert  “(disregarding any reduction in
+pensionable pay resulting from the member entering into a salary sacrifice
+arrangement)” .
+
+14.4
+
+In paragraph (5), after “is increased”, insert  “(disregarding any increase in
+pensionable pay resulting from the member ending a salary sacrifice
+arrangement)”
+
+#### Amendment of regulation 137
+
+15
+
+In regulation 137 (interpretation of Part 3: general), at the appropriate
+place, insert—
+
+“ lump sum and death benefit allowance ” in relation to a person, has the
+meaning given in section 637R of the Income Tax (Earnings and Pensions) Act
+2003;
+
+.
+
+#### Amendment of regulation 180
+
+16
+
+16.1
+
+Regulation 180 (partial retirement (members aged at least 55))  is amended as
+follows.
+
+16.2
+
+In paragraph (1)(a), for “or a non-contributing member”, substitute  “of the
+2015 scheme” .
+
+16.3
+
+In paragraph (5)(a)(ii), for “lifetime allowance”, substitute  “lump sum and
+death benefit allowance” .
+
+#### Amendment of regulation 181
+
+17
+
+In regulation 181(4) (increase in level of engagement following exercise of
+option under regulation 180), for “or a non-contributing member of this
+Section of the Scheme”, substitute  “of the 2015 Scheme” .
+
+### Amendments to the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015
+
+#### General
+
+18
+
+The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015
+are amended in accordance with this Part.
+
+#### Amendment of regulation 21
+
+19
+
+—In Regulation 21 (absence from work)  after paragraph (1)(e) omit “, or”.
+
+#### Amendment of regulation 30
+
+20
+
+20.1
+
+Regulation 30 (members’ contributions: employees) is amended as follows.
+
+20.2
+
+In paragraph (3)—
+
+20.2.a
+
+for “year 2022/23 (from 1 November 2022) and scheme year 2023/24 and each
+subsequent scheme year” substitute  “years 2024/25 to 2027/28” ;
+
+20.2.b
+
+for the table, substitute—
+
+Table Scheme Years 2024/25 to 2027/28 Column 1 Column 2 Pensionable earnings
+band Contribution percentage rate Up to £13,259 5.2% £13,260 to £26,831 6.5%
+£26,832 to £32,691 8.3% £32,692 to £49,078 9.8% £49,079 to £62,924 10.7%
+£62,925 and above 12.5%
+
+.
+
+20.3
+
+In paragraph (3A)—
+
+20.3.a
+
+for “year 2022/2023 (from 1 November 2022) and scheme year 2023/24 and each
+subsequent scheme year” substitute  “years 2024/25 to 2027/28” ;
+
+20.3.b
+
+for the table, substitute—
+
+Table Scheme Years 2024/25 to 2027/28 Column 1 Column 2 Pensionable earnings
+band Contribution percentage rate Up to £13,259 5.2% £13,260 to £26,831 6.5%
+£26,832 to £32,691 8.3% £32,692 to £49,078 9.8% £49,079 to £62,924 10.7%
+£62,925 and above 12.5%
+
+.
+
+20.4
+
+After paragraph (6), insert—
+
+20.4.7
+
+The figures in column 1 of the tables in paragraph (3) and (3A) (except for
+the figures £13,259 and £13,260) are to be increased at the beginning of each
+scheme year starting with the scheme year 2025/26, and ending with (and
+including) scheme year 2027/28, if there is a relevant increase in the
+consumer price index for that scheme year, by the appropriate percentage for
+the scheme year rounded up to the nearest £1.
+
+20.4.8
+
+For the purposes of paragraph (7)—
+
+20.4.8.a
+
+there is a relevant increase in the consumer prices index for a scheme year if
+the consumer prices index for the month of September before that scheme year
+is higher than that for the previous September;
+
+20.4.8.b
+
+the appropriate percentage for the scheme year is the same percentage as any
+percentage increase in the consumer prices index over the period specified by
+sub-paragraph (a);
+
+20.4.8.c
+
+the “ consumer price index ” means the general index of consumer prices (for
+all items) published by the Statistics Board, a body corporate established by
+section 1 of the Statistics and Registration Service Act 2007 ;
+
+20.4.8.d
+
+where there is a relevant increase after the 1 st  April 2025, the figures to
+be increased on the relevant date are the figures applicable to the previous
+scheme year.
+
+.
+
+#### Amendment of regulation 31
+
+21
+
+21.1
+
+Regulation 31 (members’ contributions: practitioners and non-GP providers)  is
+amended as follows.
+
+21.2
+
+In paragraph (9)—
+
+21.2.a
+
+after subparagraph (b), insert—
+
+;
+
+21.2.a.c
+
+in respect of the scheme years 2024/25 to 2027/28, Table 3
+
+.
+
+21.2.b
+
+after table 2, insert—
+
+Table 3 Scheme Years 2024/25 to 2027/28 Column 1 Column 2 Pensionable earnings
+band Contribution percentage rate Up to £13,259 5.2% £13,260 to £26,831 6.5%
+£26,832 to £32,691 8.3% £32,692 to £49,078 9.8% £49,079 to £62,924 10.7%
+£62,925 and above 12.5%
+
+.
+
+21.3
+
+After paragraph (10), insert—
+
+21.3.11
+
+The figures in column 1 of Table 3 (except the figures £13,259 and £13,260)
+are to be increased at the beginning of each scheme year starting with the
+scheme year 2025/26 and ending with (and including) scheme year 2027/28, if
+there is a relevant increase in the consumer prices index for that scheme
+year, by the appropriate percentage for the scheme year rounded up to the
+nearest £1.
+
+21.3.12
+
+For the purposes of paragraph (11)—
+
+21.3.12.a
+
+there is a relevant increase in the consumer prices index for a scheme year if
+the consumer prices index for the month of September before that scheme year
+is higher than that for the previous September;
+
+21.3.12.b
+
+the appropriate percentage for the scheme year is the same percentage as any
+percentage increase in the consumer prices index over the period specified by
+sub-paragraph (a);
+
+21.3.12.c
+
+the “ consumer prices index ” means the general index of consumer prices (for
+all items) published by the Statistics Board, a body corporate established by
+section 1 of the Statistics and Registration Service Act 2007;
+
+21.3.12.d
+
+where there is a relevant increase after the 1 st  April 2025, the figures to
+be increased on the relevant date are the figures applicable to the previous
+scheme year.
+
+.
+
+#### Amendment of regulation 83
+
+22
+
+22.1
+
+Regulation 83 (election for partial retirement (members over normal retirement
+age)) is amended as follows.
+
+22.2
+
+In paragraph (2)(a), after “reduced”, insert  “(disregarding any reduction in
+pensionable earnings resulting from the member entering into a salary
+sacrifice arrangement)” .
+
+22.3
+
+In paragraph (5)(a)(ii), for “life-time allowance”, substitute  “lump sum and
+death benefit allowance” .
+
+#### Amendment of regulation 85
+
+23
+
+In regulation 85(2)(a) (terms of employment improve after election), after
+“increased”, insert  “(disregarding any increase in pensionable earnings
+resulting from the member leaving a salary sacrifice arrangement)” .
+
+#### Amendment of regulation 88
+
+24
+
+24.1
+
+Regulation 88 (application of regulations 83 to 87: concurrent employments) is
+amended as follows.
+
+24.2
+
+In paragraph (3), after “reduced”, insert  “(disregarding any reduction in
+pensionable earnings resulting from the member entering into a salary
+sacrifice arrangement)” .
+
+24.3
+
+In paragraph (4), after “increased”, insert  “(disregarding any increase in
+pensionable earnings resulting from the member leaving a salary sacrifice
+arrangement)” .
+
+#### Amendment of Schedule 13
+
+25
+
+25.1
+
+Schedule 13 (definitions) is amended as follows.
+
+25.2
+
+For the entry in Column 2 corresponding to the expression “over time”,
+substitute—
+
+any period of time worked in excess of— whole-time, according to the terms of
+the member’s employment contract; or the terms of the member’s employment
+contract, during the period of 12 months following the election for partial
+retirement made under regulation 83.
+
+.
+
+25.3
+
+At the appropriate places, insert
+
+25.3.a
+
+“adoption leave” and for the corresponding entry in column 2 “has the meaning
+given in regulation 2(1) of the Paternity and Adoption Leave Regulations
+(Northern Ireland) 2002 ”;
+
+25.3.b
+
+“lump sum and death benefit allowance” and for the corresponding entry in
+column 2 “in relation to a person, has the meaning given in section 637R of
+the Income Tax (Earnings and Pensions) Act 2003 ”;
+
+25.3.c
+
+“maternity leave” and for the corresponding entry in column 2 “ordinary
+maternity leave or additional maternity leave as defined in regulation 2(1) of
+the Maternity and Parental Leave etc. Regulations (Northern Ireland) 1999 ”;
+
+25.3.d
+
+“parental leave” and for the corresponding entry in column 2 “leave under
+regulation 2(1) of the Maternity and Parental Leave etc. Regulations (Northern
+Ireland) “1999”;
+
+25.3.e
+
+“paternity leave” and for the corresponding entry in column 2 “has the meaning
+given in regulation 4 or 8 of the Paternity and Adoption Leave Regulations
+(Northern Ireland) “2002” ;”
+
+25.3.f
+
+“salary sacrifice arrangement” and for the corresponding entry in column 2 “an
+arrangement under which the member gives up the right to receive an amount of
+pensionable earnings in return for the provision of a benefit in kind
+including, but not limited to, a benefit consisting of a motor car or other
+vehicle, meals, care or vouchers”.
+
+### Amendments to the Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015
+
+#### General
+
+26
+
+The Health and Social Care Pension Scheme (Transitional and Consequential
+Provisions) Regulations (Northern Ireland) 2015  are amended in accordance
+with this Part.
+
+#### 
+
+27
+
+In regulation 2 (interpretation) at the appropriate place, insert—
+
+“ lump sum and death benefit allowance ” in relation to a person, has the
+meaning given in section 637R of the Income Tax (Earnings and Pensions) Act
+2003 .
+
+.
+
+#### Amendment of regulation 31
+
+28
+
+In regulation 31 (partial retirement)  in paragraph (3)(b), for “lifetime
+allowance”, substitute  “lump sum and death benefit allowance” .
+
+#### Amendment of regulation 35A
+
+29
+
+29.1
+
+Regulation 35A (variations to lump sums for 1995 and 2008 pensioners joining
+new scheme) (pensioners who have taken a partial retirement pension)   is
+amended as follows.
+
+29.2
+
+In paragraph (2)—
+
+29.2.a
+
+in sub-paragraph (a), after “if the member”, insert  “is not a non-pensionable
+old scheme member and” , and at the end of the paragraph, omit  “and” ;
+
+29.2.b
+
+after sub-paragraph (b), insert—
+
+29.2.b.aa
+
+paragraph (3A) if the member is a non-pensionable old scheme member and has
+taken an old scheme partial retirement pension but has not taken a new scheme
+partial retirement pension;
+
+.
+
+29.3
+
+After paragraph (3), insert—
+
+29.3.3A
+
+Where paragraph (2)(aa) applies, the lump sum is an amount equal to the
+appropriate fraction of either—
+
+29.3.3A.a
+
+the lump sum on death found in column 2 of Part 1 of Table 2 (non-pensionable
+old scheme member entitlements) in regulation 38(1A)(death in service)  if the
+member is a non-pensionable 1995 Section member; or
+
+29.3.3A.b
+
+the lump sum on death found in column 2 of Part 2 of that Table if the member
+is a non-pensionable 2008 Section member.
+
+.
+
+#### Omission of regulation 37
+
+30
+
+Omit regulation 37 (abatement: special classes).
+
+### Amendment to the Health and Social Care (Amendment) Regulations (Northern Ireland) 2023
+
+#### Amendment of regulation 28
+
+31
+
+In the Health and Social Care (Amendment) Regulations (Northern Ireland) 2023
+, for regulation 28 (expiry of modifications in this Part) (including the
+heading), substitute—
+
+######## Application and expiry of modifications in this Part
+
+31.28
+
+The modifications in this Part apply only—
+
+31.28.a
+
+for the purposes of members’ contributions payable under the Health and Social
+Care Pension Scheme Regulations (Northern Ireland) 2015 in respect of the
+scheme year 2022/23;
+
+31.28.b
+
+until the end of 31 st  March 2025.
+
+.
+
+### Amendment to the Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024
+
+#### Amendment of regulation 32
+
+32
+
+In the Health and Social Care Pension Schemes (Partial Retirement etc.)
+Regulations (Northern Ireland) 2024  (amendment of regulation 10A) omit
+regulation 32 (amendment of regulation 10A).
+
+      Sealed with the Official Seal of the Department of Health on 21st May
+2024.       (L.S.)   Philip Rodgers   A senior officer of the Department of
+Health           The Department of Finance consents to the foregoing
+Regulations.       Sealed with the Official Seal of the Department of Finance
+on 21st May 2024.       (L.S.)   Patrick Neeson   A senior officer of the
+Department of Finance
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations further amend the Health and Personal Social Services
+(Superannuation) Regulations (Northern Ireland) 1995 ( S.R.1995 No. 95 ) (“
+the 1995 Regulations ”), the Health and Social Services (Superannuation)
+(Additional Voluntary Contributions) Regulations (Northern Ireland) 1999 (
+S.R.1999 No.294 ), the Health and Social Care (Pension Scheme) Regulations
+(Northern Ireland) 2008 ( S.R. 2008 No.256 ) (“ the 2008 Regulations ”), the
+Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015 (
+S.R. 2015 No. 120 ) (“ the 2015 Regulations ”), the Health and Social Care
+Pension Scheme (Transitional and Consequential Provisions) Regulations
+(Northern Ireland) 2015 ( S.R. 2015 No.122 ) (“ the 2015 Transitional
+Regulations ”), the Health and Social Care (Amendment) Regulations (Northern
+Ireland) 2023 ( S.R. 2023 No.33 ) and the Health and Social Care Pension
+Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 ( S.R.
+2024 No. 50 ).
+
+  These Regulations come into operation on 12th June 2024, although regulation
+1(2) provides for certain provisions to have effect from an earlier date, 1st
+April 2015. Section 3(3)(b) of the Public Service Pensions Act (Northern
+Ireland)  2014 (c. 2)  provides that Scheme Regulations may make retrospective
+provision.
+
+  Regulations 3 and 4 amend the 1995 Regulations to make provision regarding
+definitions.
+
+  Regulations 5, 6 and 7 make provision regarding partial retirement in the
+1995 Scheme in two ways. Firstly, regulations 5(2)(a) and (b), (3), (5) and
+(6), and regulation 7(2) ensure that members of the 1995 Scheme who have
+reached maximum service are able to access partial retirement with respect to
+their 1995 Scheme benefits. Secondly, regulations 5(2)(c), 6, 7(3) and (4)
+ensure that the effect on superannuable pay of entering into or leaving a
+salary sacrifice arrangement is disregarded for partial retirement purposes.
+
+  Regulations 5(4) amends the 1995 Regulations to reflect changes made by the
+Finance Act 2024, in removing the lifetime allowance and replacing this with
+the lump sum and death benefit allowance. The 2008, 2015 and Transitional
+Regulations are amended to similar effect by regulations 12(4), 16(3), 22(3)
+and 28 respectively.
+
+  Regulations 8 and 30 amend the 1995 Regulations and the Transitional
+Regulations respectively to remove special class abatement.
+
+  Regulation 9 amends the 1999 Regulations to reflect the changes made by the
+Finance Act 2024 to include a pension commencement excess lump sum as an
+optional payment, having received proceeds from an investment made under
+regulation 7(1), 8(2) or 9(4) of the 1999 Regulations.
+
+  Regulation 11 and 15 amend the 2008 Regulations to make provision regarding
+definitions.
+
+  Regulation 12, 13, 14, 16 and 17 make provision regarding partial retirement
+in the 2008 Scheme in two ways. Firstly, regulations 12(2)(a), (3), (5) and
+(6), 14(2), 16(2) and 17 ensure that members of the 2008 Scheme who have
+reached maximum service are able to access partial retirement with respect to
+their 2008 Scheme benefits. Secondly, regulations 12(2)(b), 13, 14(3) and (4)
+ensure that the effect on pensionable earnings of entering into or leaving a
+salary sacrifice is disregarded for partial retirement purposes.
+
+  Regulation 19 corrects a pre-existing error in the 2015 Regulations.
+
+  Regulations 20 and 21 update member contribution provisions to reflect the
+start of scheme years 2024/25 to 2027/28. Regulation 20 updates the tables in
+paragraph (3) and 3(A) of regulation 30 (members’ contributions: employees),
+which set out pensionable earnings bands and contribution rates, to reflect
+scheme years 2024/25 to 2027/28. Regulation 21 inserts table 3 in regulation
+31 (members’ contributions: practitioners and non-GP providers) which sets out
+the pensionable earnings bands and contribution rates for year 2024/25 to
+2027/28. Regulations 20 and 21 also introduce an automatic increase to the
+pensionable earnings bands in column 1 of the tables in paragraph (3) and (3A)
+of regulation 30 and regulation 31, from scheme year 2025/26 and ending with
+(and including) scheme year 2027/28, where there is an increase in the
+consumer price index for that scheme year.
+
+  Regulations 22, 23 and 24 ensure that the effect on pensionable earnings of
+entering or leaving a salary sacrifice arrangement is disregarded for partial
+retirement purposes in the 2015 Scheme.
+
+  Regulation 25 makes provision regarding definitions, notably by amending the
+definition of overtime. Regulations 30(3)(a), (c), (d) and (e) correct
+omissions in the 2015 Regulations.
+
+  Regulation 27 amends the Transitional Regulations by making provision
+regarding definitions.
+
+  Regulation 29 makes provision for the calculation of lump sums on death with
+regards to non-pensionable old scheme members who have partially retired with
+respect to their 1995 or 2008 Scheme benefits.
+
+  Regulation 31 amends  S.R. 2023 No.33  to extend the temporary modifications
+made by that statutory rule.
+
+  Regulation 32 amends  S.R. 2024 No.50  to correct a pre-existing error.
+

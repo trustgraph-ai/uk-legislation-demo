@@ -1,0 +1,1774 @@
+Title: The Armed Forces (Appeals Against Review of Sentence) Regulations 2024
+Date: 2024-09-05
+Description: These Regulations make provision for procedures to be followed before the Court Martial Appeal Court in the case of appeals against review of sentence under sections 304D (review of sentence following offer of assistance) and 304E (review of sentence following failure to assist) of the Armed Forces Act 2006 (c. 52) (the “2006 Act”). Sections 304D and 304E were inserted into the 2006 Act by the Armed Forces Act 2016 (c. 21).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2024/619
+
+## The Armed Forces (Appeals Against Review of Sentence) Regulations 2024
+
+    DEFENCE
+
+  Made   7th May 2024
+
+  Laid before Parliament   13th May 2024
+
+  Coming into force in accordance with regulation 1(2)
+
+      The Secretary of State makes these Regulations in exercise of the powers
+conferred by sections 304D(10) and (11), 304E(9) and (10), 373(5) and 380 of
+the Armed Forces Act 2006 .
+
+### Citation, commencement, extent and interpretation
+
+#### Citation, commencement and extent
+
+1
+
+1.1
+
+These Regulations may be cited as the Armed Forces (Appeals Against Review of
+Sentence) Regulations 2024.
+
+1.2
+
+These Regulations come into force on the date on which sections 10 and 11 of
+the Armed Forces Act 2016  come into force.
+
+1.3
+
+These Regulations extend to England and Wales, Scotland, Northern Ireland, the
+Isle of Man and the British overseas territories (except Gibraltar).
+
+#### Interpretation
+
+2
+
+In these Regulations—
+
+      “ the 1968 Act ” means the Court Martial Appeals Act 1968 ;           “
+the 2006 Act ” means the Armed Forces Act 2006;           “ advocacy services
+” means any services which it would be reasonable to expect a person who is
+exercising, or contemplating exercising, a right of audience in relation to
+any proceedings, or contemplated proceedings, to provide;           “ Appeal
+Court ” means the Court Martial Appeal Court ;           “ appellant ” means
+the person who applies for leave to appeal, or who is granted leave to appeal
+under Parts 2 or 3 of these Regulations;           “ Director of Service
+Prosecutions ” has the meaning given by section 374 of the 2006 Act;
+“ expert witness costs ” means amounts payable in respect of the services of
+an expert witness, including amounts payable in connection with attendance by
+the witness at court or elsewhere;           “ legal costs ” means fees,
+charges, disbursements and other amounts payable in respect of advocacy
+services or litigation services including, in particular, expert witness
+costs;           “ litigation services ” means any services which it would be
+reasonable to expect a person who is exercising, or contemplating exercising,
+a right to conduct litigation in relation to proceedings, or contemplated
+proceedings, to provide;           “ offender ” means the person in respect of
+whom the referral under section 304D(4) or 304E(2) of the 2006 Act is made;
+“ the registrar ” means the registrar of the Appeal Court;           “ the
+Rules ” means Rules of Court made under  regulation 39 ;           “ sentence
+”, in relation to an offence, includes any order made by a court when dealing
+with an offender.
+
+### Appeals from the Court Martial under section 304D or 304E of the Armed Forces Act 2006
+
+#### Initiating appeals
+
+##### Application of these Regulations
+
+3
+
+These Regulations apply to appeals against review of sentence, brought under
+sections 304D(8) or (9) (review of sentence following offer of assistance) or
+304E(7) or (8) (review of sentence following failure to assist) of the 2006
+Act.
+
+##### Application for leave to appeal
+
+4
+
+4.1
+
+Leave to appeal to the Appeal Court must not be given except on an application
+made by or on behalf of the appellant and lodged, within the period specified
+in the Rules, with the registrar.
+
+4.2
+
+The application must—
+
+4.2.a
+
+be in the form specified by the Rules;
+
+4.2.b
+
+specify—
+
+4.2.b.i
+
+the grounds on which leave to appeal is sought, and
+
+4.2.b.ii
+
+such other particulars, if any, as may be specified in the Rules.
+
+4.3
+
+The Appeal Court may extend the period within which an application for leave
+to appeal must be lodged, whether that period has expired or not.
+
+4.4
+
+The Rules may provide that an application which is lodged with a person other
+than the registrar is to be treated for the purposes of paragraph (1) as
+having been lodged with the registrar.
+
+4.5
+
+A person other than the registrar with whom an application is lodged in
+accordance with the Rules must—
+
+4.5.a
+
+forward the application to the registrar with as much expedition as
+practicable, and
+
+4.5.b
+
+if it appears to the person practicable to do so, and in all the circumstances
+expedient, forward the particulars of the application to the registrar before
+the registrar receives the application, as will enable the registrar to
+prepare a copy of it.
+
+##### Consideration of application by Appeal Court
+
+5
+
+In considering whether or not to give leave to appeal, the Appeal Court must
+have regard to any opinion expressed by the Judge Advocate General that the
+case is a fit one for appeal, and if any such expression is so made they may,
+without more, give leave to appeal.
+
+##### Detention of offender on appeal to Appeal Court
+
+6
+
+6.1
+
+This regulation  applies where all of the following criteria apply—
+
+6.1.a
+
+the Court Martial has substituted a lesser sentence in accordance with section
+304D(6) of the 2006 Act (the “decision under appeal”);
+
+6.1.b
+
+the Appeal Court has granted the Director of Service Prosecutions permission
+to appeal;
+
+6.1.c
+
+the Director of Service Prosecutions seeks a longer sentence than that
+substituted by the Court Martial; and
+
+6.1.d
+
+the effect of the substituted sentence is such that it is likely that the
+offender will be liable to be released prior to the conclusion of the appeal
+proceedings.
+
+6.2
+
+Where  this regulations  applies, the Appeal Court may make one of the
+following orders—
+
+6.2.a
+
+an order providing for the detention of the offender so long as the appeal is
+pending;
+
+6.2.b
+
+an order directing that, so long as the appeal is pending, the offender is not
+to be released except on bail.
+
+6.3
+
+Where an order under  paragraph (2) (b)  is made, the Appeal Court may grant
+the offender bail, from the end of the substituted sentence, pending the
+appeal.
+
+6.4
+
+An order under  paragraph (2) (a)  or  (b) , unless the appeal has previously
+been disposed of, is to cease to have effect at the expiration of the period
+for which the offender would have been liable to be detained but for the
+decision under appeal.
+
+6.5
+
+Where an order is made under  this regulation  for the detention of a person
+who, but for the decision under appeal, would be liable to be detained in
+pursuance of an order or direction under United Kingdom mental health
+legislation (see  paragraph (6) )—
+
+6.5.a
+
+the order must authorise that person’s continued detention in pursuance of
+that order or direction, and
+
+6.5.b
+
+the relevant provisions of that legislation with respect to persons liable to
+be detained under it (including provision as to the renewal of authority for
+detention and the removal or discharge of patients) apply accordingly.
+
+6.6
+
+The legislation referred to in  paragraph (5)  above is—
+
+6.6.a
+
+Part III of the Mental Health Act 1983;
+
+6.6.b
+
+the Mental Health (Care and Treatment) (Scotland) Act 2003 ;
+
+6.6.c
+
+the Mental Health (Northern Ireland) Order 1986 .
+
+6.7
+
+The provisions of the Mental Health Act 1983  with respect to community
+treatment orders (within the meaning of that Act) also apply for the purposes
+of  paragraph (5) .
+
+6.8
+
+The offender is not liable to be detained again as a result of the decision of
+the Appeal Court on appeal if the Appeal Court has made an order within
+paragraph (2) (a)  or  (b)  but the order has ceased to have effect by virtue
+of  paragraph (4)  or the offender has been released or discharged by virtue
+of  paragraph (5) .
+
+#### Disposal of appeal
+
+##### Appeals against review of sentence
+
+7
+
+7.1
+
+Where, on a single occasion, the Court Martial passes two or more sentences on
+an offender, an appeal or application for leave to appeal against a review of
+any of those sentences is to be treated as an appeal or application in respect
+of both or all of them.
+
+7.2
+
+On appeal against a review of sentence the Appeal Court may quash the sentence
+to which the appeal relates and pass in substitution for it any sentence that—
+
+7.2.a
+
+it thinks appropriate, and
+
+7.2.b
+
+is a sentence that the Court Martial had power to pass in respect of the
+offence.
+
+7.3
+
+But the Appeal Court may not exercise its powers under paragraph (2) to pass a
+sentence that exceeds—
+
+7.3.a
+
+if the appeal is made under section 304D(8) or (9) (review of sentence
+following offer of assistance) of the 2006 Act in relation to a referral under
+section 304D(4) of that Act, the sentence to which the referral relates, or
+
+7.3.b
+
+if the appeal is made under section 304E(7) or (8) (review of sentence
+following failure to assist) of the 2006 Act in relation to a referral under
+section 304E(2) of that Act, the sentence that the Court Martial would have
+passed but for the agreement to give assistance.
+
+##### Terms of sentence passed under 
+
+8
+
+Unless the Appeal Court otherwise directs, a sentence passed by it under
+regulation 7  takes effect from the beginning of the day on which the Court
+Martial passed sentence.
+
+#### General procedural provisions
+
+##### Right of offender to be present
+
+9
+
+9.1
+
+An offender (whether or not in custody) is entitled to be present at the
+hearing of the appeal.
+
+9.2
+
+Paragraph (1) does not apply to an offender in custody—
+
+9.2.a
+
+where the appeal is on a ground involving only a question of law,
+
+9.2.b
+
+on an application for leave to appeal, or
+
+9.2.c
+
+on any proceedings preliminary to or incidental to an appeal,
+
+unless the Appeal Court gives the offender leave to be present.
+
+##### Evidence
+
+10
+
+10.1
+
+This regulation applies in relation to an appeal or an application for leave
+to appeal.
+
+10.2
+
+In this regulation “ respondent ” includes a person who will be a respondent
+if leave to appeal is granted.
+
+10.3
+
+The Appeal Court may—
+
+10.3.a
+
+order the production of any document, exhibit or other thing connected with
+the proceedings, the production of which appears to the Appeal Court necessary
+for the determination of the case;
+
+10.3.b
+
+order any witness to attend for examination and be examined before the Appeal
+Court (whether or not the witness was called in the proceedings from which the
+appeal lies);
+
+10.3.c
+
+receive any evidence which was not adduced in the proceedings from which the
+appeal lies.
+
+10.4
+
+The power conferred by  paragraph (3) (a)  may be exercised so as to require
+the production of any document, exhibit or other thing mentioned in that
+paragraph to—
+
+10.4.a
+
+the Appeal Court;
+
+10.4.b
+
+the appellant;
+
+10.4.c
+
+the respondent.
+
+10.5
+
+The Appeal Court, in considering whether to receive any evidence, must have
+regard in particular to—
+
+10.5.a
+
+whether the evidence appears to the Appeal Court to be capable of belief;
+
+10.5.b
+
+whether it appears to the Appeal Court that the evidence may afford any ground
+for allowing the appeal.
+
+10.6
+
+Paragraph (3) (c)  applies to any evidence of a witness (including the
+offender) who is competent but not compellable.
+
+10.7
+
+For the purposes of an appeal or an application for leave to appeal, the
+Appeal Court may order the examination of any witness whose attendance may be
+required under  paragraph (3) (b)  to be conducted in accordance with the
+Rules before—
+
+10.7.a
+
+any judge of the Appeal Court, or
+
+10.7.b
+
+any other person appointed by the Appeal Court for that purpose,
+
+and allow the admission of any depositions so taken as evidence before the
+Appeal Court.
+
+##### Power to call for report by member of the Court Martial
+
+11
+
+The Appeal Court may order the taking of such steps as are required to obtain
+from any member of the Court Martial in the proceedings from which the appeal
+lies, a report giving that member’s opinion on the case or on any point
+arising in it, or containing a statement as to any facts of which the
+ascertainment appears to the Appeal Court to be material for the purpose of
+determining the case.
+
+##### Other powers for facilitating the disposal of appeal
+
+12
+
+12.1
+
+Where any question arising on an appeal involves prolonged examination of
+documents or accounts, or any scientific or local investigation, which cannot
+in the opinion of the Appeal Court conveniently be conducted before it, the
+Appeal Court may order the reference of the question, in the manner prescribed
+by the Rules, for inquiry and report to a special commissioner appointed by
+it, and act upon the report of the commissioner so far as the Appeal Court
+thinks fit to adopt it.
+
+12.2
+
+The Appeal Court may appoint a person with special expert knowledge to act as
+assessor to the Appeal Court in any case where it appears to it that such
+knowledge is required for the proper determination of the case.
+
+12.3
+
+Regulations made by the Lord Chancellor may provide for remuneration and
+travelling and subsistence allowances to be paid out of moneys provided by
+Parliament to—
+
+12.3.a
+
+a special commissioner to whom a question is referred under this regulation
+for an inquiry and report;
+
+12.3.b
+
+a person appointed as assessor to the Appeal Court.
+
+#### Costs
+
+##### Costs against the Secretary of State
+
+13
+
+13.1
+
+This regulation  applies when the Appeal Court—
+
+13.1.a
+
+allows an appeal brought by an offender, or
+
+13.1.b
+
+dismisses an appeal or application for leave to appeal brought by the Director
+of Service Prosecutions.
+
+13.2
+
+Where  this regulation  applies, the Appeal Court may, if it thinks fit,
+direct the payment by the Secretary of State of costs to the offender.
+
+13.3
+
+The costs which may under this section be directed to be paid are such sums as
+appear to the Appeal Court reasonably sufficient to compensate the offender
+for any expenses properly incurred by the offender in the proceedings (in the
+Appeal Court and below), subject to  paragraph (4) ,  regulation 14  and
+regulations made under  regulation 18 .
+
+13.4
+
+Where the Appeal Court considers that there are circumstances that make it
+inappropriate for the offender to recover the whole of the sums mentioned in
+paragraph (3) , a direction under  this regulation  must be made for the
+payment of such lesser sums as it considers just and reasonable.
+
+13.5
+
+The Appeal Court must fix the sums to be paid by the Secretary of State in the
+direction if the Appeal Court considers it appropriate to do so and—
+
+13.5.a
+
+the offender agrees the sums, or
+
+13.5.b
+
+paragraph (4)  applies.
+
+13.6
+
+Where the Appeal Court does not fix the sums to be paid by the Secretary of
+State in the direction—
+
+13.6.a
+
+it must describe in the direction any reduction required under paragraph (4),
+and
+
+13.6.b
+
+the sums must be fixed by means of a determination made by or on behalf of the
+Appeal Court in accordance with procedures specified in regulations made by
+the Lord Chancellor under  regulation 18 .
+
+##### Legal costs
+
+14
+
+14.1
+
+The costs which the Appeal Court may direct the Secretary of State to pay
+under  regulation 13  do not include legal costs, except where regulations
+made by the Lord Chancellor provide otherwise.
+
+14.2
+
+Regulations under this regulation may, in particular, include—
+
+14.2.a
+
+provision for an exception to arise where a determination has been made by a
+person specified in the regulations,
+
+14.2.b
+
+provision requiring the Appeal Court, when they direct the payment of a sum
+that includes a sum in respect of legal costs, to include a statement to that
+effect in the direction, and
+
+14.2.c
+
+provision that the Appeal Court may not direct the payment of a sum in respect
+of legal costs exceeding an amount specified in the regulations.
+
+##### Costs against offender
+
+15
+
+15.1
+
+Where the Appeal Court dismisses an appeal or an application for leave to
+appeal by the offender it may, if it thinks fit, order the offender to pay to
+the Secretary of State the whole or any part of the costs of the appeal,
+including the costs of copying or transcribing any documents for the use of
+the Appeal Court.
+
+15.2
+
+An order under this section may be enforced—
+
+15.2.a
+
+in the same manner as an order for costs made by the criminal division of the
+Court of Appeal, or
+
+15.2.b
+
+if the offender is a member of the regular or reserve forces (as defined by
+section 374 of the 2006 Act), by making deductions from pay due to the
+offender.
+
+15.3
+
+The methods of enforcement listed in  paragraph (2)  may be used separately or
+in combination.
+
+15.4
+
+Any sums which by virtue of  paragraph (2) (a)  above are recovered from a
+person by the Secretary of State are to be paid into the Exchequer.
+
+##### Witnesses’ expenses
+
+16
+
+16.1
+
+The Appeal Court may, whether or not it exercises powers under either
+regulation 13  or  15 , order the payment out of moneys provided by Parliament
+of such sums as appear to the Appeal Court reasonably sufficient to compensate
+any person properly attending to give evidence on appeal under these
+Regulations or any proceedings preliminary or incidental to the appeal
+(whether or not that person gives evidence) for the expense, trouble or loss
+of time properly incurred in or incidental to the person’s attendance, subject
+to  paragraph (3)  and regulations made under  regulation 18 (1) (d) .
+
+16.2
+
+The amount of any costs to be paid under this regulation shall be ascertained
+as soon as practicable by the registrar.
+
+16.3
+
+Sums ordered to be paid out of money provided by Parliament under  paragraph
+(1)  may not include sums in respect of expert witness costs unless
+regulations made by the Lord Chancellor provide otherwise.
+
+##### Offender’s expenses
+
+17
+
+17.1
+
+Where an offender who is not in custody appears before the Appeal Court either
+on the hearing of the appeal or in any preliminary or incidental proceedings,
+the Appeal Court may direct the Secretary of State to pay the offender the
+expenses of that appearance.
+
+17.2
+
+The expenses which the Appeal Court may direct the Secretary of State to pay
+under this regulation do not include legal costs, except where regulations
+made by the Lord Chancellor provide otherwise.
+
+17.3
+
+Regulations made under this regulation may, in particular, include—
+
+17.3.a
+
+provision for an exception to arise where a determination has been made by a
+person specified in the regulations,
+
+17.3.b
+
+provision requiring the Appeal Court, when they direct the payment of a sum
+that includes a sum in respect of legal costs, to include a statement to that
+effect in the direction, and
+
+17.3.c
+
+provision that the Appeal Court may not direct the payment of a sum in respect
+of legal costs exceeding an amount specified in the regulations.
+
+##### Further provision about costs
+
+18
+
+18.1
+
+The Lord Chancellor may by regulations make provision—
+
+18.1.a
+
+as to the sums that may be directed or ordered to be paid under  regulations
+13 ,  16  or  17 , whether by specifying rates or scales or by making other
+provision as to the calculation of the sums;
+
+18.1.b
+
+as to the circumstances in which and conditions under which such sums may be
+paid or directed or ordered to be paid;
+
+18.1.c
+
+requiring such sums to be fixed having regard to regulations under paragraphs
+(a) and (b);
+
+18.1.d
+
+requiring such sums to be calculated in accordance with such regulations
+(whether or not that results in the fixing of an amount that the Appeal Court
+considers reasonably sufficient to compensate the person concerned);
+
+18.1.e
+
+as to the review of determinations of sums directed to be paid under
+regulation 13 .
+
+18.2
+
+Regulations under this regulation may provide that provision as to the
+calculation of sums (whether in the form of rates or scales or other
+provision) may be determined by the Lord Chancellor with the consent of the
+Treasury.
+
+##### Regulations under this Chapter
+
+19
+
+19.1
+
+Regulations made under  regulations 13  to  18  may, in particular—
+
+19.1.a
+
+make different provision in relation to different cases and different classes
+of case, including different provision in relation to different expenses,
+trouble and loss, different directions and order and different areas;
+
+19.1.b
+
+make different provision in relation to the fixing of a sum in a direction or
+order and the fixing of a sum by means of a determination.
+
+19.2
+
+A power to make regulations under  regulations 13  to  18  is exercisable by
+statutory instrument.
+
+19.3
+
+A statutory instrument containing regulations under  regulations 13  to  18
+is subject to annulment in pursuance of a resolution of either House of
+Parliament, subject to  paragraph (4) .
+
+19.4
+
+A statutory instrument containing (whether alone or with any other provision)
+regulations under  regulations 14 ,  16  or  17  may not be made unless a
+draft of the instrument has been laid before, and approved by a resolution of,
+each House of Parliament.
+
+#### Supplementary
+
+##### Powers under 
+
+20
+
+20.1
+
+The powers specified in  paragraph (2)  may be exercised by any judge of the
+Appeal Court in the same manner as they may be exercised by the Appeal Court
+and subject to the same provisions.
+
+20.2
+
+The following powers of the Appeal Court are specified for the purposes of
+paragraph (1) —
+
+20.2.a
+
+to give leave to appeal;
+
+20.2.b
+
+to extend the period within which an application for leave to appeal must be
+lodged;
+
+20.2.c
+
+to allow an offender to be present at any proceedings;
+
+20.2.d
+
+to order witnesses to attend for examination;
+
+20.2.e
+
+to make an order under  regulation 15  for the payment of costs;
+
+20.2.f
+
+to make orders under  regulation 10 (3) (a)  (an order for the production of
+any document, etc).
+
+20.3
+
+If a judge refuses an application on the part of a party to the proceedings to
+exercise in that party’s favour any of the powers mentioned in  paragraph (2)
+other than that under paragraph 2(e) (power to make an order for payment of
+costs), that party, upon making a requisition in that behalf within the
+prescribed period and in the prescribed form and manner is to be entitled to
+have the application determined by the Appeal Court as duly constituted for
+the purpose in accordance with section 5 of the 1968 Act.
+
+##### Power which may be exercised by the registrar
+
+21
+
+21.1
+
+The powers specified in  paragraph (2)  may be exercised by the registrar in
+the same manner as they may be exercised by the Appeal Court and subject to
+the same restrictions.
+
+21.2
+
+The following powers of the Appeal Court are specified for the purposes of
+paragraph (1) —
+
+21.2.a
+
+to extend the time within which notice of appeal or of application for leave
+to appeal may be given;
+
+21.2.b
+
+to order a witness to attend for examination;
+
+21.2.c
+
+to make orders under  regulation 10 (3) (a)  (an order for the production of
+any document, etc).
+
+21.3
+
+If the registrar refuses an application on the part of a party to exercise in
+that party’s favour any power specified in  paragraph (2) , that party is to
+be entitled to have the application determined by any judge of the Appeal
+Court.
+
+##### Procedural directions: powers of single judge and registrar
+
+22
+
+22.1
+
+The power of the Appeal Court to determine an application for procedural
+directions may be exercised by—
+
+22.1.a
+
+a judge of the Appeal Court, or
+
+22.1.b
+
+the registrar.
+
+22.2
+
+In this regulation, “ procedural directions ” means directions for the
+efficient and effective preparation of—
+
+22.2.a
+
+an application for leave to appeal, or
+
+22.2.b
+
+an appeal
+
+under section 304D or 304E of the 2006 Act.
+
+22.3
+
+A judge of the Appeal Court may give such procedural directions as the judge
+thinks fit—
+
+22.3.a
+
+when acting under  paragraph (1) ;
+
+22.3.b
+
+on a reference from the registrar;
+
+22.3.c
+
+on the judge’s own motion.
+
+22.4
+
+The registrar may give such procedural directions as the registrar thinks fit—
+
+22.4.a
+
+when acting under  paragraph (1) ;
+
+22.4.b
+
+on the registrar’s own motion.
+
+##### Appeals against procedural directions
+
+23
+
+23.1
+
+Paragraph (2)  applies if the registrar gives, or refuses to give, procedural
+directions within the meaning of  regulation 22 .
+
+23.2
+
+A judge of the Appeal Court may, on an application to the judge under
+paragraph (3)—
+
+23.2.a
+
+confirm, set aside or vary any procedural directions given by the registrar;
+
+23.2.b
+
+give such procedural directions as the judge thinks fit.
+
+23.3
+
+An application under this regulation may be made by—
+
+23.3.a
+
+an offender, or
+
+23.3.b
+
+the Director of Service Prosecutions.
+
+##### Provision of record of proceedings of the Court Martial
+
+24
+
+In the case of every appeal or application for leave to appeal to the Appeal
+Court against review of sentence, the Judge Advocate General must provide the
+registrar, in accordance with the Rules, with a record of the proceedings of
+the Court Martial.
+
+##### Defence of appeals
+
+25
+
+It is the duty of the Director of Service Prosecutions to conduct the defence
+of any appeal brought by an offender under section 304D (review of sentence
+following offer of assistance) or 304E (review of sentence following failure
+to assist) of the 2006 Act.
+
+### Appeal from Court Martial Appeal Court to Supreme Court
+
+#### Right of appeal
+
+26
+
+26.1
+
+An appeal lies to the Supreme Court, at the instance of the offender or the
+Director of Service Prosecutions, from any decision of the Appeal Court on an
+appeal to it under these Regulations, whether given by it when sitting within
+or outside the United Kingdom.
+
+26.2
+
+The appeal lies only with the leave of the Appeal Court or the Supreme Court
+and such leave is not to be granted unless it is certified by the Appeal Court
+that a point of law of general public importance is involved in the decision
+and it appears to the Appeal Court or the Supreme Court, as the case may be,
+that the point is one that ought to be considered by the Supreme Court.
+
+#### Application for leave to appeal
+
+27
+
+27.1
+
+An application to the Appeal Court for leave to appeal to the Supreme Court is
+to be made within the period of 28 days beginning with the relevant date.
+
+27.2
+
+In  paragraph (1)  “ the relevant date ” means—
+
+27.2.a
+
+the date of the Appeal Court’s decision, or
+
+27.2.b
+
+if later, the date on which the Appeal Court gives reasons for its decision.
+
+27.3
+
+An application to the Supreme Court is to be made within the period of 28 days
+beginning with the date on which the application referred to in paragraph (1)
+is refused by the Appeal Court.
+
+27.4
+
+The Supreme Court or the Appeal Court may, upon application made at any time
+by the offender or the Director of Service Prosecutions extend the time within
+which an application may be made to the Supreme Court or the Appeal Court.
+
+27.5
+
+In this Part—
+
+27.5.a
+
+an appeal must be treated as pending—
+
+27.5.a.i
+
+until any application for leave to appeal is disposed of, and
+
+27.5.a.ii
+
+if leave to appeal is granted, until the appeal is disposed of;
+
+27.5.b
+
+an application for leave to appeal must be treated as disposed of at the
+expiration of the time within which it may be made, if it is not made within
+that time.
+
+#### Hearing and disposal of appeal
+
+28
+
+For the purpose of disposing of an appeal under this Part, the Supreme Court
+may—
+
+28.a
+
+exercise any powers of the Appeal Court, or
+
+28.b
+
+remit the case to the Appeal Court.
+
+#### Detention of offender on appeal to the Supreme Court
+
+29
+
+29.1
+
+The Appeal Court must make one of the orders specified in  paragraph (2)
+where—
+
+29.1.a
+
+but for the decision of the Appeal Court, the offender would be liable to be
+detained, and
+
+29.1.b
+
+immediately after that decision, the Director of Service Prosecutions is
+granted leave to appeal or gives notice of intention to apply for leave to
+appeal.
+
+29.2
+
+The orders specified in this paragraph are—
+
+29.2.a
+
+an order providing for the detention of the offender so long as any appeal to
+the Supreme Court is pending;
+
+29.2.b
+
+an order directing that, so long as any appeal to the Supreme Court is
+pending, the offender is not to be released except on bail;
+
+29.2.c
+
+an order that the offender be released without bail.
+
+29.3
+
+Where an order within  paragraph (2) (b)  is made, the Appeal Court may grant
+the offender bail pending the appeal.
+
+29.4
+
+The Appeal Court may make an order under  paragraph (2) (c)  only if it thinks
+it is in the interests of justice that the offender should not be liable to be
+detained as a result of the decision of the Supreme Court on the appeal.
+
+29.5
+
+An order under  paragraph (2) (a)  or  (b) , unless the appeal has previously
+been disposed of, is to cease to have effect at the expiration of the period
+for which the offender would have been liable to be detained but for the
+decision of the Appeal Court.
+
+29.6
+
+Where an order is made under  this regulation  for the detention of a person
+who, but for the decision of the Appeal Court would be liable to be detained
+in pursuance of an order or direction under United Kingdom mental health
+legislation (see  paragraph (7) )—
+
+29.6.a
+
+the order must authorise that person’s continued detention in pursuance of
+that order or direction, and
+
+29.6.b
+
+the relevant provisions of that legislation with respect to persons liable to
+be detained under it (including provision as to the renewal of authority for
+detention and the removal or discharge of patients) apply accordingly.
+
+29.7
+
+The legislation referred to in  paragraph (6)  above is—
+
+29.7.a
+
+Part III of the Mental Health Act 1983;
+
+29.7.b
+
+the Mental Health (Care and Treatment) (Scotland) Act 2003;
+
+29.7.c
+
+the Mental Health (Northern Ireland) Order 1986.
+
+29.8
+
+The relevant provisions of the Mental Health Act 1983 with respect to
+community treatment orders (within the meaning of that Act) also apply for the
+purposes of  paragraph (6) .
+
+29.9
+
+The offender is not liable to be detained again as a result of the decision of
+the Supreme Court on appeal if—
+
+29.9.a
+
+the Appeal Court has made an order within  paragraph (2) (c) , or
+
+29.9.b
+
+the Appeal Court has made an order within  paragraph (2) (a)  or  (b)  but the
+order has ceased to have effect by virtue of  paragraph (5)  or the offender
+has been released or discharged by virtue of  paragraph (6) .
+
+#### Presence of offender at hearing
+
+30
+
+Where the offender is detained pending an appeal from the Appeal Court to the
+Supreme Court, the offender is not to be entitled to be present on the hearing
+of the appeal or of any proceedings preliminary or incidental to the hearing
+unless Supreme Court rules authorise the offender to be present, or the
+Supreme Court or Appeal Court gives the offender leave to be present.
+
+#### Effect of appeal on sentence
+
+31
+
+31.1
+
+Any sentence passed on an appeal from the Appeal Court to the Supreme Court in
+substitution for another sentence, unless the Supreme Court or the Appeal
+Court otherwise direct, is to begin to run from the time when that other
+sentence began to run.
+
+31.2
+
+Where under these Regulations a person subject to a sentence is granted bail
+pending an appeal, the time during which that person is released on bail is to
+be disregarded in computing the term of that person’s sentence.
+
+#### Costs: application to Appeal Court by Director of Service Prosecutions
+
+32
+
+32.1
+
+Where the Appeal Court dismisses an application for leave to appeal to the
+Supreme Court made by the Director of Service Prosecutions, the Appeal Court
+may direct the payment by the Secretary of State of such sums as appear to
+them to be reasonably sufficient to compensate the offender for any expenses
+properly incurred by the offender in resisting the application, subject to—
+
+32.1.a
+
+paragraph (2) , and
+
+32.1.b
+
+regulations made under  regulation 35 (1) (d) .
+
+32.2
+
+The sums which the Appeal Court may direct the Secretary of State to pay may
+not include legal costs, except where regulations made by the Lord Chancellor
+provide otherwise.
+
+32.3
+
+Regulations under  paragraph (2)  may, in particular, include—
+
+32.3.a
+
+provision for an exception to arise where a determination has been made by a
+person specified in the regulations;
+
+32.3.b
+
+provision requiring the Appeal Court, when it directs the payment of a sum
+that includes a sum in respect of legal costs, to include a statement to that
+effect in the direction;
+
+32.3.c
+
+provision that the Appeal Court may not direct the payment of a sum in respect
+of legal costs exceeding an amount specified in the regulations.
+
+#### Costs: application to Appeal Court by offender
+
+33
+
+Where the Appeal Court dismisses an application for leave to appeal to the
+Supreme Court made by the offender—
+
+33.a
+
+the Appeal Court may make such order as may be made by the Appeal Court under
+regulation 15 (1)  of these Regulations where it dismisses an application for
+leave to appeal to the Appeal Court,
+
+33.b
+
+an order made under this regulation may be enforced in the manner described in
+regulation 15 (2)  of these Regulations, and
+
+33.c
+
+regulation 15 (3)  of these Regulations applies in relation to any sum
+recovered by virtue of  regulation 15 (2) (a)  (as applied by  this regulation
+).
+
+#### Costs: application to Supreme Court
+
+34
+
+34.1
+
+Where the Supreme Court dismisses an application for leave to appeal to the
+Supreme Court and the application was made by the Director of Service
+Prosecutions, the Supreme Court may direct the payment by the Secretary of
+State of such sums as appear to the Supreme Court to be reasonably sufficient
+to compensate the offender for any expenses properly incurred by the offender
+in resisting the application.
+
+34.2
+
+Where the Supreme Court dismisses an application for leave to appeal to the
+Supreme Court and the application was made by the offender, the Supreme Court
+may make such order as may be made by the Appeal Court under  regulation 15
+(1)  of these Regulations where it dismisses an application for leave to
+appeal to the Appeal Court and any order under  this paragraph  may be
+enforced in the manner described in  regulation 15 (2)  of these Regulations.
+
+34.3
+
+Regulation 15 (3)  of these Regulations applies in relation to any sum
+recovered by virtue of  paragraph (2) .
+
+34.4
+
+On determining an appeal from the Appeal Court, the Supreme Court may, if it
+thinks fit, direct the payment by the Secretary of State of such sums as
+appear to the Supreme Court to be reasonably sufficient to compensate the
+offender for any expenses properly incurred by the offender in the proceedings
+(in the Supreme Court and below) subject to—
+
+34.4.a
+
+paragraph (5) , and
+
+34.4.b
+
+regulations made under  regulation 35 (1) (d) .
+
+34.5
+
+The costs which the Supreme Court may direct the Secretary of State to pay do
+not include legal costs incurred in the proceedings in a court below it,
+except where regulations made by the Lord Chancellor provide otherwise.
+
+34.6
+
+Regulations under  paragraph (5)  may, in particular, include—
+
+34.6.a
+
+provision for an exception to arise where a determination has been made by a
+person specified in the Regulations;
+
+34.6.b
+
+provision requiring the Supreme Court, when it directs the payment of a sum
+that includes a sum in respect of legal costs, to include a statement to that
+effect in the direction;
+
+34.6.c
+
+provision that the Supreme Court may not direct the payment of a sum in
+respect of legal costs exceeding an amount specified in the regulations.
+
+34.7
+
+Except as provided by  regulations 32 ,  33  and  this regulation , no costs
+are to be allowed on the hearing or determination of an appeal from the Appeal
+Court to the Supreme Court or of any proceedings preliminary or incidental to
+such an appeal.
+
+#### Further provision about costs
+
+35
+
+35.1
+
+The Lord Chancellor may by regulations make provision—
+
+35.1.a
+
+as to the sums that may be directed to be paid under  regulation 32  or  34
+(4) , whether by specifying rates or scales or by making such other provision
+as to the calculation of the sums;
+
+35.1.b
+
+as to the circumstances in which, and conditions under which, such sums may be
+paid or directed to be paid;
+
+35.1.c
+
+requiring such sums to be fixed having regard to regulations under paragraphs
+(a) and (b);
+
+35.1.d
+
+requiring such sums to be calculated in accordance with such regulations
+(whether or not that results in the fixing of an amount that the Appeal Court
+considers reasonable sufficient to compensate the person concerned).
+
+35.2
+
+The power under  paragraph (1) (d)  may not be exercised in respect of sums
+ordered by the Supreme Court to be paid in respect of expenses incurred in
+proceedings before that court.
+
+35.3
+
+Regulations made under this regulation may provide that provision as to the
+calculation of sums (whether in the form of rates or scales or other
+provision) may be determined by the Lord Chancellor with consent of the
+Treasury.
+
+#### Regulations under this Part
+
+36
+
+36.1
+
+Regulations made under  regulations 32 ,  34  and  35  may, in particular,
+make different provision in relation to different cases and different classes
+of case, including different provision in relation to different expenses,
+trouble and loss, different directions and orders and different areas.
+
+36.2
+
+A power to make regulations in this Part is exercisable by statutory
+instrument.
+
+36.3
+
+A statutory instrument containing regulations made under  this Part  is
+subject to annulment in pursuance of a resolution of either House of
+Parliament, subject to paragraph (4).
+
+36.4
+
+Regulations made under regulations 32 or 34 (whether alone or with other
+provision) may not be made unless a draft of the instrument has been laid
+before, and approved by a resolution of, each House of Parliament.
+
+#### Powers under this Part which are exercisable by a single judge
+
+37
+
+37.1
+
+The following powers of the Appeal Court under this Part may be exercised by
+any judge of the Appeal Court—
+
+37.1.a
+
+to extend the time limit for making an application for leave to appeal;
+
+37.1.b
+
+to make an order for or in relation to bail;
+
+37.1.c
+
+to give leave to be present at the hearing of any proceedings preliminary or
+incidental to an appeal.
+
+37.2
+
+Where a single judge refuses an application to exercise any of the powers in
+paragraph (1) , the applicant is entitled to have the application determined
+by the Appeal Court.
+
+### Miscellaneous, general and amendments
+
+#### Appeals on behalf of deceased persons
+
+38
+
+38.1
+
+This regulation applies where a person (“ P ”) has died.
+
+38.2
+
+Any relevant appeal which might have been begun by P had P remained alive may
+be begun by a person approved by the Appeal Court.
+
+38.3
+
+Any further step which might have been taken by P in connection with any
+relevant appeal if P were alive may be taken by a person approved by the
+Appeal Court.
+
+38.4
+
+In this regulation “ relevant appeal ” means—
+
+38.4.a
+
+an appeal under section 304D(8) or (9) (review of sentence following offer of
+assistance) or 304E(7) or (8)(review of sentence following failure to assist)
+of the 2006 Act,
+
+38.4.b
+
+an appeal under  regulation 26  of these regulations from any decision of the
+Appeal Court on an appeal under any of those sections.
+
+38.5
+
+Approval for the purposes of this regulation may only be given to—
+
+38.5.a
+
+the widow, widower or surviving civil partner of P,
+
+38.5.b
+
+a personal representative of P, or
+
+38.5.c
+
+any other person appearing to the Appeal Court to have, by reason of a family
+or similar relationship with P, a substantial financial or other interest in
+the determination of a relevant appeal relating to P.
+
+38.6
+
+Except in the case of an appeal begun the Director of Service Prosecutions, an
+application for such approval may not be made after the end of the period of
+one year beginning with the date of death.
+
+38.7
+
+Where this regulation applies, any reference in these regulations to the
+offender is to be, where appropriate, construed as including a reference to
+the person approved under this regulation.
+
+38.8
+
+The power of the Appeal Court to approve a person under this section may be
+exercised by any judge of the Appeal Court in the same manner as by the Appeal
+Court and subject to the same provisions: but if the judge refuses the
+application, the applicant is to be entitled to have the application
+determined by the Appeal Court.
+
+38.9
+
+In  paragraph (5) (b) , “ personal representative ” means—
+
+38.9.a
+
+for England and Wales, a person who is a personal representative within the
+meaning of section 55(1)(xi) of the Administration of Estates Act 1925 ,
+
+38.9.b
+
+for Scotland, an executor confirmed to the estate of P, or
+
+38.9.c
+
+for Northern Ireland, a person who is one of the personal representatives
+within the meaning of the Administration of Estates Act (Northern Ireland)
+1955 .
+
+#### Rules of Court
+
+39
+
+39.1
+
+Rules of Court made in accordance with Part 1 of Schedule 1 to the
+Constitutional Reform Act 2005  may provide for regulating the procedure and
+practice to be followed in the Appeal Court in connection with these
+Regulations and for any other matters by which these Regulations are expressed
+to be subjects for rules of court.
+
+39.2
+
+Rules of Court made for the purposes of any provision of these Regulations may
+make different provision in relation to different classes of cases and may
+provide for any incidental or supplementary matters for which it appears to
+the person making the rules of court to be necessary or expedient for the
+purposes of that provision to provide.
+
+#### Duties of registrar with respect to appeals etc.
+
+40
+
+40.1
+
+The registrar is to take all necessary steps for obtaining the determination
+of an appeal or application under these Regulations and must obtain and lay
+before the Appeal Court in proper form all documents, exhibits and other
+things relating to the proceedings in the Court Martial which appear necessary
+for the proper determination of the appeal or application.
+
+40.2
+
+The registrar must furnish the necessary forms and instructions relating to an
+application for leave to appeal under these Regulations to any person who
+demands them, to persons in charge of places where persons sentenced by the
+Court Martial may lawfully be confined for the purposes of serving their
+sentences and to such other persons as the registrar thinks fit.
+
+40.3
+
+Every person in charge of such place as is referred to in paragraph (2) above
+is to ensure the mentioned forms and instructions are placed at the disposal
+of persons confined in that place who wish to apply for leave to appeal to the
+Appeal Court or from the Appeal Court to the Supreme Court.
+
+#### Removal of prisoners
+
+41
+
+Section 52 of the 1968 Act applies in respect of appeals under these
+Regulations as it applies in respect of appeals under Parts 2 and Part 3 of
+the 1968 Act. 
+
+#### Modification for protected prisoners of war
+
+42
+
+As respects a protected prisoner of war (as defined by section 7(1) of the
+Geneva Conventions Act 1957 ), these Regulations apply in relation to a
+prisoner of war court-martial constituted under a Royal Warrant as it applies
+in relation to the Court Martial, subject to such modifications as may be
+contained in the Royal Warrant.
+
+#### Amendment of the Court Martial Appeal Court (Bail) Order 2009
+
+43
+
+In the Court Martial Appeal Court (Bail) Order 2009 , in Article 2, for the
+definition of “appeal” substitute—
+
+      “ appeal ” means an appeal under—         section 8(1) of the Court
+Martial Appeals Act 1968, or           section 304D or 304E of the Armed
+Forces Act 2006,         and  “appellant”  has a corresponding meaning;
+
+.
+
+#### Amendment of the Armed Forces Act 2006 (Transitional Provisions etc) Order 2009
+
+44
+
+44.1
+
+The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009  is amended
+as follows.
+
+44.2
+
+After Part 14 insert—
+
+########## Review of sentence proceedings
+
+########### Review of sentence proceedings
+
+44.2.106A
+
+44.2.106A.1
+
+Part 12A of the AFA 2006 applies where a court-martial has passed a sentence
+as it applies where a Court Martial has passed a sentence with the following
+modifications.
+
+44.2.106A.2
+
+Where it applies to a sentence passed by a court-martial, Part 12A of the AFA
+2006 applies as if—
+
+44.2.106A.2.a
+
+in section 304A(2)(b), “ service offence ” includes an SDA offence;
+
+44.2.106A.2.b
+
+in section 304B(3), “ service offence ” includes an SDA offence;
+
+44.2.106A.2.c
+
+in section 304C(1)(a), “ service offence ” includes an SDA offence;
+
+44.2.106A.2.d
+
+in section 304D—
+
+44.2.106A.2.d.i
+
+in paragraph (1)—
+
+44.2.106A.2.d.i.aa
+
+“ Court Martial ” includes court-martial;
+
+44.2.106A.2.d.i.bb
+
+“ service offence ” includes SDA offence;
+
+44.2.106A.2.d.i.cc
+
+“is not fixed by law or, if it is” is substituted by “was not fixed by law or,
+if it was”;
+
+44.2.106A.2.d.ii
+
+in paragraph (4), “back” is omitted;
+
+44.2.106A.2.d.iii
+
+in paragraph (5), the second occurrence of “ Court Martial ” includes court-
+martial;
+
+44.2.106A.2.e
+
+in section 304E—
+
+44.2.106A.2.e.i
+
+in paragraph (1)—
+
+44.2.106A.2.e.i.aa
+
+“ service offence ” includes an SDA offence;
+
+44.2.106A.2.e.i.bb
+
+“is not fixed by law or, if it is” is substituted by “was not fixed by law or,
+if it was”;
+
+44.2.106A.2.e.ii
+
+in paragraph (2), “back” is omitted;
+
+44.2.106A.2.e.iii
+
+in paragraph (3), the second occurrence of “ Court Martial ” includes court-
+martial.
+
+.
+
+44.3
+
+After Part 15, insert—
+
+########## Appeals against review of sentence
+
+########### Appeals against review of sentence
+
+44.3.130A
+
+44.3.130A.1
+
+This article applies where the Court Martial has exercised its powers under
+Section 304D or 304E of AFA 2006, as applied by article 106A, to substitute a
+new sentence in place of one passed by a court-martial.
+
+44.3.130A.2
+
+Where this article applies, the Armed Forces (Appeals Against Review of
+Sentence) Regulations 2024 apply subject to the following modifications—
+
+44.3.130A.2.a
+
+in regulations 7(1) and (2)(b), 11, 24 and 40, “ Court Martial ” includes
+“court-martial”;
+
+44.3.130A.2.b
+
+in regulation 8, for “Court Martial” substitute  “court-martial” .
+
+.
+
+      Andrew Murrison   Parliamentary Under Secretary of State   Ministry of
+Defence     7th May 2024
+
+## Explanatory Note
+
+    (This note is not part of the Regulations)
+
+  These Regulations make provision for procedures to be followed before the
+Court Martial Appeal Court in the case of appeals against review of sentence
+under sections 304D (review of sentence following offer of assistance) and
+304E (review of sentence following failure to assist) of the Armed Forces Act
+2006 (c. 52)  (the “ 2006 Act ”). Sections 304D and 304E were inserted into
+the 2006 Act by the Armed Forces Act  2016 (c. 21) .
+
+  Part 2 of these Regulations sets out the procedure to be followed before the
+Court Martial Appeal Court in appeals against review of sentence. Chapter 1
+makes provision regarding the initiation of such appeals, including the
+requirement for leave to appeal (regulation 3). Chapter 2 makes provision
+regarding the disposal of appeals. Chapter 3 makes provision for general
+procedural matters, such as the right of the offender to be present
+(regulation 9), and the production of evidence (regulation 10). Chapter 4
+makes provision regarding costs. Chapter 5 makes supplementary provision and
+governs issues such as the powers that may be exercised by a single judge
+(regulation 20) or the registrar (regulation 21).
+
+  Part 3 of these Regulations makes provision for appeals from the Court
+Martial Appeal Court to the Supreme Court, regarding review of sentence under
+sections 304D or 304E of the 2006 Act. Regulation 26 makes provision for a
+right of appeal to the Supreme Court, while regulation 27 governs applications
+for leave to appeal. This Part also makes provision with regard to matters
+such as the presence of the offender at hearings (regulation 30) and costs
+(regulations 32 to 36).
+
+  Part 4 makes miscellaneous provision. It makes provisions governing appeals
+in the event that the person to whom the proceeding relate is deceased
+(regulation 38). It also makes provision regarding rules of court (regulation
+39) and the duties of the registrar (regulation 40). This Part also makes
+transitional provision, amending the Armed Forces Act 2006 (Transitional
+Provisions etc) Order 2009 ( S.I. 2009/1059 ).
+
+  A full impact assessment has not been produced for this instrument as no, or
+no significant, impact on the private, voluntary or public sectors is
+foreseen.
+

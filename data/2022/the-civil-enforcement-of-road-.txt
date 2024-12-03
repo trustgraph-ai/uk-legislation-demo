@@ -1,0 +1,3496 @@
+Title: The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022
+Date: 2024-11-12
+Description: These Regulations make provision entitling persons—who are or may be liable to pay penalty charges in respect of parking contraventions (in and outside Greater London), bus lane contraventions outside Greater London and moving traffic contraventions outside Greater London (“relevant road traffic contraventions”),who pay charges to secure the release of vehicles which have been immobilised or removed on account of such contraventions,
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/576
+
+## The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022
+
+    Road Traffic, England
+
+  Made   23rd May 2022
+
+  Coming into force in accordance with regulation 1(2)
+
+      The Lord Chancellor makes these Regulations in exercise of the powers
+conferred by section 101B of the Road Traffic Regulation Act 1984  (“the RTRA
+1984”) and by sections 80 and 89(1) and (3) of the Traffic Management Act 2004
+(“the TMA 2004”).         In accordance with section 134(5) of the RTRA 1984
+and section 89(5) of the TMA 2004, a draft of these Regulations has been laid
+before, and approved by, a resolution of each House of Parliament.
+
+### Preliminary
+
+#### Citation, commencement, extent and application
+
+1
+
+1.1
+
+These Regulations may be cited as the Civil Enforcement of Road Traffic
+Contraventions (Representations and Appeals) (England) Regulations 2022.
+
+1.2
+
+These Regulations come into force at the same time as the Civil Enforcement of
+Road Traffic Contraventions (Approved Devices, Charging Guidelines and General
+Provisions) (England) Regulations 2022 .
+
+1.3
+
+These Regulations extend to England and Wales, and apply only in relation to
+England.
+
+#### Interpretation of Parts 1 to 5
+
+2
+
+2.1
+
+In this Part and Parts 2 to 5—
+
+    “ the RTRA 1984 ” means the Road Traffic Regulation Act 1984;         “
+the TMA 2004 ” means the Traffic Management Act 2004.         “ the 2022
+General Regulations ” means the Civil Enforcement of Road Traffic
+Contraventions (Approved Devices, Charging Guidelines and General Provisions)
+(England) Regulations 2022;         “ appeal ” means an appeal under
+regulation  7(1) ,  10(1)  or  13(1) ;         “ appellant ”, in relation to
+an appeal or any process connected with such an appeal, means the person
+bringing the appeal;         “ charge certificate ” has the meaning given in
+regulation 2 of the 2022 General Regulations;         “ enforcement notice ”
+means—       a notice to owner, or       a regulation 10 penalty charge
+notice;             “ fax ” means the making of a facsimile copy of a document
+by the transmission of electronic signals;         “ joint committee ”, in
+relation to an enforcement authority, means the joint committee through which,
+in accordance with regulation 18 or 19 of the 2022 General Regulations, the
+authority exercises its functions relating to adjudicators;         “ notice
+to owner ” has the meaning given in regulation 20 of the 2022 General
+Regulations;         “ owner ” in relation to a vehicle, includes any person
+who, by virtue of regulation 6 of the 2022 General Regulations, is treated as
+the owner of the vehicle for the purposes of those Regulations;         “
+penalty charge ” has the meaning given in regulation 2 of the 2022 General
+Regulations;         “ penalty charge notice ” has the meaning given in
+regulation 2 of the 2022 General Regulations;         “ procedural impropriety
+” has the meaning given in paragraph (2);         “ the proper officer ” means
+a member of the administrative staff provided by the relevant enforcement
+authorities under section 81(4)(a) of the TMA 2004 who has been appointed to
+perform the functions of the proper officer under these Regulations;         “
+regulation 9 penalty charge notice ” means a penalty charge notice given under
+regulation 9 of the 2022 General Regulations;         “ regulation 10 penalty
+charge notice ” has the meaning given in regulation 2 of the 2022 General
+Regulations;         “ recipient ” means the person on whom an enforcement
+notice is served;         “ register ” means the register required to be kept
+under regulation  17 ;         “ relevant road traffic contravention ” has the
+meaning given in regulation 2 of the 2022 General Regulations.
+
+2.2
+
+A “ procedural impropriety ” means a failure by an enforcement authority to
+observe any requirement imposed on it by—
+
+2.2.a
+
+the TMA 2004,
+
+2.2.b
+
+the 2022 General Regulations, or
+
+2.2.c
+
+these Regulations,
+
+in relation to the imposition or recovery of a penalty charge or other sum.
+
+2.3
+
+For the purposes of paragraph (2) such a failure includes, in particular, the
+taking of any step, whether or not involving the service of any document,
+otherwise than—
+
+2.3.a
+
+in accordance with the conditions subject to which, or
+
+2.3.b
+
+at the time or during the period when,
+
+it is authorised or required by the 2022 General Regulations or these
+Regulations to be taken.
+
+### Information, representations and appeals in relation to penalty charge notices or enforcement notices
+
+#### Information to be included in regulation 9 penalty charge notices and enforcement notices
+
+##### Information about right to make representations or appeal to be included in regulation 9 penalty charge notices and enforcement notices
+
+3
+
+3.1
+
+A regulation 9 penalty charge notice must include the following information—
+
+3.1.a
+
+that a person on whom a notice to owner is served may, in accordance with
+these Regulations, make representations to the enforcement authority against
+the penalty charge and, if those representations are rejected, appeal to an
+adjudicator;
+
+3.1.b
+
+that if, before a notice to owner is served, representations against the
+penalty charge are received at such address as may be specified in the notice
+for the purpose those representations will be considered by the enforcement
+authority;
+
+3.1.c
+
+that if a notice to owner is served despite the representations mentioned in
+sub-paragraph (b), representations against the penalty charge must be made to
+the enforcement authority in the form and manner and at the time specified in
+the notice to owner.
+
+3.2
+
+An enforcement notice must include the following information—
+
+3.2.a
+
+that—
+
+3.2.a.i
+
+the recipient may make representations against the penalty charge in
+accordance with regulation  5  of these Regulations, but
+
+3.2.a.ii
+
+any such representations made outside the period of 28 days beginning with the
+date on which the notice is served (“ the payment period ”) may be
+disregarded;
+
+3.2.b
+
+the nature of the representations which may be made under regulation  5 ;
+
+3.2.c
+
+the form in which representations must be made;
+
+3.2.d
+
+the address to which representations must be sent, including, as appropriate—
+
+3.2.d.i
+
+an email address,
+
+3.2.d.ii
+
+a FAX telephone number,
+
+3.2.d.iii
+
+the address of any website where representations may be submitted online (and
+the place on that website where the relevant facility may be accessed),
+
+as well as a postal address;
+
+3.2.e
+
+that the recipient may appeal to an adjudicator against any decision of the
+enforcement authority not to accept representations which are made—
+
+3.2.e.i
+
+within the payment period, or
+
+3.2.e.ii
+
+outside that period but not disregarded by the authority;
+
+3.2.f
+
+the form and manner in which an appeal may be made;
+
+3.2.g
+
+where the enforcement notice is a regulation 10 penalty charge notice served
+under regulation 10(2)(a) of the 2022 General Regulations (an “approved device
+notice”), the effect of paragraphs (3) and (4).
+
+3.3
+
+The recipient (“ R ”) of an approved device notice may, by notice in writing,
+request that the enforcement authority—
+
+3.3.a
+
+makes available, at one of its offices specified by R, free of charge and at a
+time during normal office hours so specified, for viewing by R or R’s
+representative the record of the alleged relevant road traffic contravention
+produced by the approved device pursuant to which the penalty charge was
+imposed, or
+
+3.3.b
+
+provides R, free of charge, with such still images from that record as, in the
+authority’s opinion, establish the alleged relevant road traffic
+contravention.
+
+3.4
+
+The enforcement authority must comply with any request under paragraph (3)
+within a reasonable time.
+
+#### Enforcement notices: representations and appeals
+
+##### Application of Chapter 2
+
+4
+
+This Chapter applies where a person—
+
+4.a
+
+is served with a notice to owner, or
+
+4.b
+
+is served with a regulation 10 penalty charge notice and the penalty charge to
+which it relates has not been paid.
+
+##### Representations against the enforcement notice
+
+5
+
+5.1
+
+The recipient may make representations against the enforcement notice to the
+enforcement authority which served it on the recipient.
+
+5.2
+
+The representations must be—
+
+5.2.a
+
+made in the form determined by the enforcement authority, and
+
+5.2.b
+
+to either or both of the following effects—
+
+5.2.b.i
+
+that in relation to the alleged contravention, one or more of the grounds
+specified in paragraph (4) apply;
+
+5.2.b.ii
+
+that, whether or not any of those grounds apply, there are compelling reasons
+why, in the particular circumstances of the case, the enforcement authority
+should cancel the penalty charge and refund any sum paid to it on account of
+the penalty charge.
+
+5.3
+
+In determining the form for making representations, the enforcement authority
+must act through the joint committee.
+
+5.4
+
+The grounds mentioned in paragraph (2)(b)(i) are—
+
+5.4.a
+
+the alleged contravention did not occur;
+
+5.4.b
+
+the recipient—
+
+5.4.b.i
+
+never was the owner of the vehicle in question,
+
+5.4.b.ii
+
+had ceased to be its owner before the alleged contravention occurred, or
+
+5.4.b.iii
+
+became its owner after the alleged contravention occurred;
+
+5.4.c
+
+at the time that the alleged contravention occurred, the vehicle in question
+was in the control of a person who did not have the consent of the owner;
+
+5.4.d
+
+the recipient is a vehicle-hire firm and—
+
+5.4.d.i
+
+the vehicle in question was at the material time hired from that firm under a
+hiring agreement, and
+
+5.4.d.ii
+
+the person hiring it had signed a statement of liability acknowledging their
+liability in respect of any penalty charge notice served in respect of any
+relevant road traffic contravention involving the vehicle during the currency
+of the hiring agreement;
+
+5.4.e
+
+the penalty charge exceeded the amount applicable in the circumstances of the
+case;
+
+5.4.f
+
+there has been a procedural impropriety on the part of the enforcement
+authority;
+
+5.4.g
+
+the order which is alleged to have been contravened in relation to the vehicle
+concerned, except where it is an order to which Part 6 of Schedule 9 to the
+RTRA 1984 applies, is invalid;
+
+5.4.h
+
+if a regulation 10 penalty charge notice is served under regulation 10(2)(b)
+or (c) of the 2022 General Regulations, no person prevented a civil
+enforcement officer from—
+
+5.4.h.i
+
+fixing a regulation 9 penalty charge notice to the vehicle concerned, or
+
+5.4.h.ii
+
+handing such a notice to the owner or person in charge of the vehicle;
+
+5.4.i
+
+the enforcement notice should not have been served because—
+
+5.4.i.i
+
+the penalty charge has already been paid in full, or
+
+5.4.i.ii
+
+the penalty charge has been paid, reduced by the amount of any discount set in
+accordance with Schedule 9 to the TMA 2004, by the applicable date as
+specified in paragraph 1(3) of Schedule 3 to the 2022 General Regulations.
+
+5.5
+
+Where a recipient relies on the ground specified in paragraph (4)(b)(ii),
+their representations must, if the information is known by the recipient,
+state the name and address of the person to whom the vehicle was disposed of.
+
+5.6
+
+Where a recipient relies on the ground specified in paragraph 4(b)(iii), their
+representations must, if the information is known by the recipient, state the
+name and address of the person from whom the recipient acquired the vehicle.
+
+5.7
+
+Where a recipient relies on the ground specified in paragraph (4)(d), their
+representations must state the name and address of the person to whom the
+vehicle was hired at the material time.
+
+5.8
+
+In this regulation—
+
+    “ alleged contravention ” means the alleged relevant road traffic
+contravention in relation to which an enforcement notice is served;         “
+hiring agreement ” and “ vehicle-hire firm ” have the same meanings as in
+section 66 of the Road Traffic Offenders Act 1988 ;         “ the material
+time ” means the time when the alleged contravention is said to have been
+committed.
+
+##### Duties of an enforcement authority to which representations are made under regulation 5
+
+6
+
+6.1
+
+This regulation applies where an enforcement authority receives
+representations from a recipient under regulation  5 .
+
+6.2
+
+The enforcement authority may disregard any representations which it receives
+after the end of the period of 28 days beginning with the date on which the
+relevant enforcement notice is served.
+
+6.3
+
+If the representations are—
+
+6.3.a
+
+made in accordance with regulation  5(2) , and
+
+6.3.b
+
+not disregarded by the enforcement authority under paragraph (2),
+
+the authority must, within the period of 56 days beginning with the date on
+which it receives the representations (“the 56-day period”), comply with the
+requirements specified in paragraph (4).
+
+6.4
+
+The requirements mentioned in paragraph (3) are that enforcement authority
+must—
+
+6.4.a
+
+consider the representations and any supporting evidence which the recipient
+provides, and
+
+6.4.b
+
+serve on the recipient a notice of its decision (a “decision notice”) which
+states whether or not it accepts the representations made by the recipient.
+
+6.5
+
+If the enforcement authority accepts the representations—
+
+6.5.a
+
+it must cancel the relevant enforcement notice,
+
+6.5.b
+
+its decision notice must state that the enforcement notice has been cancelled,
+and
+
+6.5.c
+
+when it serves the decision notice, it must refund any sum paid in relation to
+the relevant enforcement notice.
+
+6.6
+
+If the enforcement authority does not accept the representations, its decision
+notice—
+
+6.6.a
+
+must—
+
+6.6.a.i
+
+state that a charge certificate may be served on the recipient unless within
+the period of 28 days beginning with the date of service of the decision
+notice—
+
+6.6.a.i.aa
+
+the penalty charge is paid, or
+
+6.6.a.i.bb
+
+the recipient appeals to an adjudicator against the penalty charge,
+
+6.6.a.ii
+
+indicate the nature of an adjudicator’s power to award costs, and
+
+6.6.a.iii
+
+describe the form and manner in which an appeal to an adjudicator must be
+made, and
+
+6.6.b
+
+may contain such other information as the enforcement authority considers
+appropriate.
+
+6.7
+
+If the enforcement authority fails to comply with the requirements specified
+in paragraph (4) within the 56-day period—
+
+6.7.a
+
+it is deemed for the purposes of these Regulations to have accepted the
+representations made by the recipient, and
+
+6.7.b
+
+it must—
+
+6.7.b.i
+
+cancel the relevant enforcement notice,
+
+6.7.b.ii
+
+refund any sum paid in relation to it, and
+
+6.7.b.iii
+
+serve a notice on the recipient informing the recipient that the enforcement
+notice has been cancelled because the enforcement authority failed to serve a
+decision notice in accordance with paragraph (4)(b).
+
+6.8
+
+The cancellation of an enforcement notice under this regulation does not
+prevent the enforcement authority from serving a new enforcement notice on
+another person in accordance with the 2022 General Regulations.
+
+##### Appeal to an adjudicator against a decision to reject a recipient’s representations
+
+7
+
+7.1
+
+A recipient may appeal to an adjudicator against an enforcement authority’s
+decision not to accept their representations.
+
+7.2
+
+An appeal under this regulation must be made within—
+
+7.2.a
+
+the period of 28 days beginning with the date of service of the decision
+notice under regulation  6(4)(b)  which states that the enforcement authority
+does not accept the recipient’s representations, or
+
+7.2.b
+
+such longer period as the adjudicator may allow.
+
+7.3
+
+Parts 1 to 3 of Schedule 1 make further provision in connection with appeals
+(including procedural matters).
+
+7.4
+
+On an appeal under this regulation, the adjudicator must consider—
+
+7.4.a
+
+the representations made under regulation  5 ,
+
+7.4.b
+
+any additional representations which are made by the appellant to an effect in
+regulation  5(2)(b) , and
+
+7.4.c
+
+any representations made to the adjudicator by the enforcement authority.
+
+7.5
+
+If the adjudicator concludes that a ground specified in regulation  5(4)
+applies, the adjudicator—
+
+7.5.a
+
+must allow the appeal, and
+
+7.5.b
+
+may give such directions to the enforcement authority as the adjudicator
+considers appropriate for the purpose of giving effect to that decision.
+
+7.6
+
+An adjudicator may, in particular, give a direction under paragraph (5)(b)
+requiring any of the following—
+
+7.6.a
+
+where the relevant enforcement notice is a notice to owner, the cancellation
+of the penalty charge notice to which it relates;
+
+7.6.b
+
+the cancellation of the enforcement notice;
+
+7.6.c
+
+the refund of any sum paid to the enforcement authority in respect of the
+penalty charge.
+
+7.7
+
+An enforcement authority which is given a direction under paragraph (5)(b)
+must comply with it immediately.
+
+7.8
+
+If an adjudicator—
+
+7.8.a
+
+does not allow an appeal, but
+
+7.8.b
+
+is satisfied that there are compelling reasons why, in the particular
+circumstances of the case, the enforcement notice should be cancelled,
+
+the adjudicator may recommend to the enforcement authority that it cancel the
+enforcement notice.
+
+7.9
+
+An enforcement authority to which a recommendation is made under paragraph (8)
+must—
+
+7.9.a
+
+consider afresh the cancellation of the enforcement notice taking full account
+of any observations by the adjudicator, and
+
+7.9.b
+
+within the period of thirty-five days beginning with the date on which the
+recommendation is given (“the 35-day period”), notify the appellant and the
+adjudicator as to whether or not it accepts the adjudicator’s recommendation.
+
+7.10
+
+If the enforcement authority does not accept the adjudicator’s recommendation,
+the notification under paragraph (9)(b) must include the reasons for that
+decision.
+
+7.11
+
+No appeal to the adjudicator lies against the decision of the enforcement
+authority not to accept the adjudicator’s recommendation.
+
+7.12
+
+If the enforcement authority accepts the adjudicator’s recommendation, the
+authority must—
+
+7.12.a
+
+cancel the enforcement notice, as soon as is reasonably practicable, and
+
+7.12.b
+
+refund to the appellant any sum paid in respect of the penalty charge.
+
+7.13
+
+If an enforcement authority fails to comply with paragraph (9) within the
+35-day period, the authority—
+
+7.13.a
+
+is to be taken to have accepted the adjudicator’s recommendation, and
+
+7.13.b
+
+must—
+
+7.13.b.i
+
+cancel the enforcement notice, and
+
+7.13.b.ii
+
+refund to the appellant any sum paid in respect of the penalty charge.
+
+### Representations and appeals in relation to the immobilisation of vehicles
+
+#### Representations against immobilisation
+
+8
+
+8.1
+
+This regulation applies where—
+
+8.1.a
+
+an immobilisation device is fixed, in accordance with regulation 13 of the
+2022 General Regulations, to a vehicle found in a civil enforcement area, and
+
+8.1.b
+
+a relevant person secures its release from the device on payment of an amount
+in accordance with regulation 15 of those Regulations.
+
+8.2
+
+For the purposes of this regulation, a relevant person is—
+
+8.2.a
+
+the owner of the vehicle to which the immobilisation device was fixed, or
+
+8.2.b
+
+the person in charge of that vehicle.
+
+8.3
+
+The relevant person must be notified by the enforcement authority, or a person
+acting on behalf of the enforcement authority—
+
+8.3.a
+
+of their right to make representations to the enforcement authority in
+accordance with this regulation, including the effect of paragraphs (5) and
+(6),
+
+8.3.b
+
+that any representations made outside the period of 28 days beginning with the
+date on which the person is so notified may be disregarded,
+
+8.3.c
+
+of the form in which representations must be made,
+
+8.3.d
+
+the address to which representations must be sent, including, as appropriate—
+
+8.3.d.i
+
+an email address,
+
+8.3.d.ii
+
+a FAX telephone number,
+
+8.3.d.iii
+
+the address of any website where representations may be submitted online (and
+the place on that website where the relevant facility may be accessed),
+
+as well as a postal address, and
+
+8.3.e
+
+of their right to appeal to an adjudicator if those representations are not
+accepted.
+
+8.4
+
+A notice under paragraph (3) must be given, in writing, immediately upon
+release of the vehicle.
+
+8.5
+
+The relevant person may make representations to the enforcement authority to
+either or both of the following effects—
+
+8.5.a
+
+that one or more of the grounds specified in paragraph (6) apply, or
+
+8.5.b
+
+whether or not any of those grounds apply, that there are compelling reasons
+why, in the particular circumstances of the case, the enforcement authority
+should refund some or all of the amount paid to secure the release of the
+vehicle.
+
+8.6
+
+The grounds mentioned in paragraph (5)(a) are—
+
+8.6.a
+
+the circumstances in which the vehicle had been permitted to remain at rest in
+the civil enforcement area were not circumstances in which a penalty charge
+was payable under regulation 5 of the 2022 General Regulations;
+
+8.6.b
+
+the vehicle had been permitted to remain at rest in the place where it was by
+a person who was in control of the vehicle without the consent of the owner;
+
+8.6.c
+
+the place where the vehicle was at rest was not in a civil enforcement area;
+
+8.6.d
+
+in accordance with regulation 14 of the 2022 General Regulations, there was in
+the circumstances of the case no power under those Regulations to immobilise
+the vehicle at the time at which it was immobilised or at all;
+
+8.6.e
+
+the penalty charge or other charge paid to secure the release of the vehicle
+exceeded the amount applicable in the circumstances of the case;
+
+8.6.f
+
+there has been a procedural impropriety on the part of the enforcement
+authority.
+
+8.7
+
+Representations under this regulation must made be in such form as may be
+specified by the enforcement authority.
+
+8.8
+
+In determining the form for making representations, the enforcement authority
+must act through the joint committee.
+
+#### Duties of an enforcement authority to which representations are made under regulation 8
+
+9
+
+9.1
+
+This regulation applies where an enforcement authority receives
+representations under regulation  8 .
+
+9.2
+
+The enforcement authority may disregard any representations which it receives
+after the end of the period of 28 days beginning with the date on which the
+person making them (“ R ”) is informed under regulation  8(3)  of their right
+to make representations under that regulation.
+
+9.3
+
+If the representations are—
+
+9.3.a
+
+are made in accordance with regulation  8(5) , and
+
+9.3.b
+
+are not disregarded by the enforcement authority under paragraph (2),
+
+the authority must, within the period of 56 days beginning with the date on
+which the enforcement authority receives the representations (“the 56-day
+period”), comply with the requirement specified in paragraph (4).
+
+9.4
+
+The requirements mentioned in paragraph (3) are that the enforcement authority
+must—
+
+9.4.a
+
+consider the representations and any supporting evidence which R provides, and
+
+9.4.b
+
+serve on R a notice of its decision (a “decision notice”) as to whether or not
+it accepts that—
+
+9.4.b.i
+
+there are compelling reasons of the kind mentioned in regulation  8(5)(b) , or
+
+9.4.b.ii
+
+any of the grounds specified in regulation  8(6)  apply.
+
+9.5
+
+If the enforcement authority accepts that any of the grounds specified in
+regulation  8(6)  apply, it must, when serving its decision notice, refund any
+sums that the person to whom the vehicle was released was required to pay
+under regulation 15 of the 2022 General Regulations.
+
+9.6
+
+If the enforcement authority—
+
+9.6.a
+
+accepts there are compelling reasons of a kind mentioned in regulation
+8(5)(b) , but
+
+9.6.b
+
+if representations are also made that any of the grounds specified in
+regulation  8(6)  apply, does not accept that any of the stated grounds apply,
+
+the authority must refund the appropriate sums.
+
+9.7
+
+For the purposes of paragraph (6) “ the appropriate sums ” means—
+
+9.7.a
+
+any sums that the person to whom the vehicle was released was required to pay
+under regulation 15 of the 2022 General Regulations, or
+
+9.7.b
+
+such of those sums as the enforcement authority considers appropriate.
+
+9.8
+
+If the enforcement authority does not accept that there are compelling reasons
+of a kind mentioned in regulation  8(5)(b)  or that any of the grounds
+specified in regulation  8(6)  apply, the enforcement authority’s decision
+notice must—
+
+9.8.a
+
+inform R of the right to appeal to an adjudicator under regulation  10 ,
+
+9.8.b
+
+indicate the nature of an adjudicator’s power to award costs, and
+
+9.8.c
+
+describe the form and manner in which such an appeal is required to be made.
+
+9.9
+
+If an enforcement authority fails to comply with the requirements specified in
+paragraph (4) within the 56-day period, it—
+
+9.9.a
+
+is to be deemed to have accepted the representations and to have served a
+decision notice to that effect, and
+
+9.9.b
+
+must refund any sums that the person to whom the vehicle was released was
+required to pay under regulation 15 of the 2022 General Regulations.
+
+9.10
+
+Paragraphs (6), (8) and (9) do not require an enforcement authority to refund
+any sum to the extent (if any) to which it was properly paid.
+
+#### Appeal to an adjudicator against enforcement authority’s decision to reject representations
+
+10
+
+10.1
+
+A person (“ P ”) may appeal to an adjudicator against an enforcement
+authority’s decision not to accept that—
+
+10.1.a
+
+any of the grounds specified in regulation  8(6)  apply, or
+
+10.1.b
+
+there are compelling reasons of the kind mentioned in regulation  8(5)(b) .
+
+10.2
+
+An appeal under this regulation must be made within—
+
+10.2.a
+
+the period of 28 days beginning with the date of service of the decision
+notice under regulation  9(4)(b)  informing P of P’s right to appeal to an
+adjudicator under this regulation, or
+
+10.2.b
+
+such longer period as the adjudicator may allow.
+
+10.3
+
+Parts 1 to 3 of Schedule 1 make further provision in connection with appeals
+(including procedural matters).
+
+10.4
+
+On an appeal under this regulation, the adjudicator must consider—
+
+10.4.a
+
+the representations made under regulation  8 ,
+
+10.4.b
+
+any additional representations which are made by the appellant, and
+
+10.4.c
+
+any representations made to the adjudicator by the enforcement authority.
+
+10.5
+
+If the adjudicator concludes that—
+
+10.5.a
+
+any of the grounds specified in regulation  8(6)  apply, and
+
+10.5.b
+
+the enforcement authority would have been under the duty imposed by regulation
+9(5)  to refund any sums if it had accepted that the ground in question
+applied,
+
+the adjudicator must direct the authority to refund the relevant sums.
+
+10.6
+
+An enforcement authority which is given a direction under paragraph (5) must
+comply with it immediately.
+
+10.7
+
+If the adjudicator—
+
+10.7.a
+
+does not give a direction under paragraph (5), but
+
+10.7.b
+
+is satisfied that there are compelling reasons why, in the particular
+circumstances of the case, some or all of the sums paid to secure the release
+of the vehicle should be refunded,
+
+the adjudicator may recommend that the enforcement authority make such a
+refund.
+
+10.8
+
+An enforcement authority to which a recommendation is made under paragraph (7)
+must—
+
+10.8.a
+
+consider afresh the making of a refund of those sums taking full account of
+any observations by the adjudicator, and
+
+10.8.b
+
+within the period of thirty-five days beginning with the date on which the
+recommendation was given (“the 35-day period”), notify the appellant and the
+adjudicator as to whether or not it accepts the adjudicator’s recommendation.
+
+10.9
+
+If the enforcement authority does not accept the recommendation, the
+notification under paragraph (8)(b) must include the reasons for that
+decision.
+
+10.10
+
+No appeal to the adjudicator lies against a decision of the enforcement
+authority not to accept an adjudicator’s recommendation.
+
+10.11
+
+If the enforcement authority accepts the adjudicator’s recommendation it must
+make the recommended refund within the 35-day period.
+
+10.12
+
+If the enforcement authority fails to comply with the requirements in
+paragraph (8) within the 35-day period, the authority—
+
+10.12.a
+
+is to be deemed to have accepted the adjudicator’s recommendation, and
+
+10.12.b
+
+must make the recommended refund.
+
+### Representations and appeals in relation to removed vehicles
+
+#### Representations about a removed vehicle
+
+11
+
+11.1
+
+This regulation applies where, in relation to a vehicle found in a civil
+enforcement area for parking contraventions and removed under regulations made
+under section 99 of the RTRA 1984 , a person (“ P ”)—
+
+11.1.a
+
+is required to pay an amount on recovery of the vehicle under section 101A(1)
+of that Act ,
+
+11.1.b
+
+receives a sum in respect of the vehicle under section 101A(2) of that Act,
+
+11.1.c
+
+is informed that the proceeds of sale of the vehicle did not exceed the amount
+of the relevant charges , or
+
+11.1.d
+
+is informed that the vehicle was disposed of without there being any proceeds
+of sale.
+
+11.2
+
+P must, immediately upon the happening of the occurrence referred to in
+paragraph (1), be notified, in writing—
+
+11.2.a
+
+of their right to make representations to the enforcement authority in
+accordance with this regulation, including the effect of paragraphs (3) and
+(4),
+
+11.2.b
+
+that any representations made outside the period of 28 days beginning with the
+date on which the person is so notified may be disregarded,
+
+11.2.c
+
+of the form in which the representations must be made,
+
+11.2.d
+
+of the address to which representations must be sent, including, as
+appropriate—
+
+11.2.d.i
+
+an email address,
+
+11.2.d.ii
+
+a FAX telephone number,
+
+11.2.d.iii
+
+the address of any website where representations may be submitted online (and
+the place on that website where the relevant facility may be accessed),
+
+as well as a postal address, and
+
+11.2.e
+
+of that person’s right to appeal to an adjudicator if those representations
+are not accepted.
+
+11.3
+
+P may make representations to the enforcement authority to either or both of
+the following effects that—
+
+11.3.a
+
+one or more of the grounds specified in paragraph (4) apply, or
+
+11.3.b
+
+whether or not any of those grounds apply, there are compelling reasons why,
+in the particular circumstances of the case, the enforcement authority should—
+
+11.3.b.i
+
+refund some or all of the amount that was paid to secure the release of the
+vehicle,
+
+11.3.b.ii
+
+refund some or all of the amount that was deducted from the proceeds of sale
+of the vehicle in respect of the relevant charges, or
+
+11.3.b.iii
+
+waive its right to recover all or any of the sums due to it on account of the
+removal or disposal of the vehicle.
+
+11.4
+
+The grounds mentioned in paragraph (3)(a) are that—
+
+11.4.a
+
+the circumstances in which the vehicle had been permitted to remain at rest in
+a civil enforcement area for parking contraventions were not circumstances in
+which a penalty charge was payable by virtue of regulation 5 of the 2022
+General Regulations;
+
+11.4.b
+
+a civil enforcement officer had not, in accordance with regulation 9 of the
+2022 General Regulations, fixed a penalty charge notice to the vehicle or
+handed such a notice to the person appearing to that officer to be in charge
+of the vehicle, before the vehicle was removed;
+
+11.4.c
+
+at the time the vehicle was removed, the power to remove the vehicle conferred
+by paragraph (2) of regulation 5C of the Removal and Disposal of Vehicles
+Regulations 1986  was, by virtue of paragraph (3) of that regulation, not
+exercisable;
+
+11.4.d
+
+the vehicle had been permitted to remain at rest in the place where it was by
+a person who was in control of the vehicle without the consent of the owner;
+
+11.4.e
+
+that the place where the vehicle was at rest was not in a civil enforcement
+area for parking contraventions;
+
+11.4.f
+
+that the penalty charge or other charge paid to secure the release of the
+vehicle exceeded the amount applicable in the circumstances of the case;
+
+11.4.g
+
+that there has been a procedural impropriety on the part of the enforcement
+authority.
+
+11.5
+
+Representations under this regulation must be made in such form as may be
+specified by the enforcement authority.
+
+11.6
+
+In determining the form for making representations, the enforcement authority
+must act through the joint committee.
+
+#### Duties of an enforcement authority to which representations are made under regulation 11
+
+12
+
+12.1
+
+This regulation applies where an enforcement authority receives
+representations under regulation  11 .
+
+12.2
+
+The enforcement authority may disregard any representations which it receives
+after the end of the period of 28 days beginning with the date on which the
+person making them (“ R ”) is notified under regulation  11(2)  of their right
+to make representations.
+
+12.3
+
+If the representations—
+
+12.3.a
+
+are made in accordance with regulation  11(3) , and
+
+12.3.b
+
+are not disregarded by the enforcement authority under paragraph (2),
+
+the authority must, within the period of 56 days beginning with the date on
+which the enforcement authority receives the representations (“the 56-day
+period”), comply with the requirements specified in paragraph (4).
+
+12.4
+
+The requirements are that the enforcement authority must—
+
+12.4.a
+
+consider the representations and any supporting evidence which R provides, and
+
+12.4.b
+
+serve on R a notice of its decision (a “decision notice”) as to whether or not
+it accepts that—
+
+12.4.b.i
+
+there are compelling reasons of the kind referred to in regulation  11(3)(b) ,
+or
+
+12.4.b.ii
+
+any of the grounds specified in regulation  11(4)  apply.
+
+12.5
+
+If the enforcement authority accepts that any of the grounds specified in
+regulation  11(4)  apply, it must, when serving its decision notice—
+
+12.5.a
+
+refund any amount that was—
+
+12.5.a.i
+
+paid by R to secure the release of the vehicle under section 101A(1) of the
+RTRA 1984, or
+
+12.5.a.ii
+
+deducted from the proceeds of sale of the vehicle in respect of the relevant
+charges in accordance with section 101A(2) of that Act, and
+
+12.5.b
+
+inform R that it has waived the right to recover any sum which might otherwise
+have been due to it by way of a penalty charge or on account of the removal,
+storage or disposal of the vehicle.
+
+12.6
+
+Paragraph (7) applies where the enforcement authority—
+
+12.6.a
+
+accepts that there are compelling reasons of a kind mentioned in regulation
+11(3)(b) , but
+
+12.6.b
+
+if the representations include any of the grounds specified in regulation
+11(4) , it does not accept that any of the stated grounds apply.
+
+12.7
+
+Where this paragraph applies, the enforcement authority must, when serving its
+decision notice—
+
+12.7.a
+
+refund the relevant amount, and
+
+12.7.b
+
+inform R that it has waived the right to recover any sum which might otherwise
+have been due to it by way of a penalty charge or on account of the removal,
+storage or disposal of the vehicle.
+
+12.8
+
+For the purposes of paragraph (7) “ the relevant amount ” means—
+
+12.8.a
+
+where R was required to pay an amount to secure the release of the vehicle
+under section 101A(1) of the RTRA 1984—
+
+12.8.a.i
+
+that amount, or
+
+12.8.a.ii
+
+so much of that amount as the enforcement authority considers appropriate in
+the circumstances of the case;
+
+12.8.b
+
+where an amount was deducted from the proceeds of sale of the vehicle in
+respect of the relevant charges in accordance with section 101A(2) of the RTRA
+1984—
+
+12.8.b.i
+
+the amount so deducted, or
+
+12.8.b.ii
+
+so much of that amount as the enforcement authority considers appropriate in
+the circumstances of the case.
+
+12.9
+
+Paragraphs (5) and (7) do not require an enforcement authority to refund any
+sum to the extent (if any) to which it was properly paid or deducted.
+
+12.10
+
+An authority which has waived its right to recover a sum loses its right to do
+so.
+
+12.11
+
+Where an authority does not accept that there are any compelling reasons of a
+kind mentioned in regulation  11(3)(b) , or that any of the grounds specified
+in regulation  11(4)  apply, its decision notice must—
+
+12.11.a
+
+inform R of R’s right to appeal to an adjudicator under regulation  13 ,
+
+12.11.b
+
+indicate the nature of an adjudicator’s power to award costs, and
+
+12.11.c
+
+describe in general terms the form and manner in which such an appeal is
+required to be made.
+
+12.12
+
+Where an enforcement authority fails to comply with the requirements in
+paragraph (4) before the end of the 56-day period, the authority—
+
+12.12.a
+
+is to be deemed to have accepted the representations and served a decision
+notice to that effect, and
+
+12.12.b
+
+must refund—
+
+12.12.b.i
+
+the relevant charges that R was required to pay under section 101A(1) of the
+RTRA 1984, or
+
+12.12.b.ii
+
+the amount that was deducted from the proceeds of sale of the vehicle in
+respect of the relevant charges in accordance with section 101A(2) of that
+Act.
+
+#### Appeal to an adjudicator against enforcement authority’s decision to reject representations
+
+13
+
+13.1
+
+A person (“ P ”) may appeal to an adjudicator against an enforcement
+authority’s decision not to accept that—
+
+13.1.a
+
+there are compelling reasons of a kind mentioned in regulation  11(3)(b) , or
+
+13.1.b
+
+any of the grounds specified in regulation  11(4)  apply.
+
+13.2
+
+An appeal under this regulation must be made within—
+
+13.2.a
+
+the period of 28 days beginning with date of service of the decision notice
+under regulation  12(4)(b)  informing P of P’s right to appeal under this
+regulation, or
+
+13.2.b
+
+such longer period as the adjudicator may allow.
+
+13.3
+
+Parts 1 to 3 of Schedule 1 make further provision in connection with appeals
+(including procedural matters).
+
+13.4
+
+On an appeal under this regulation, the adjudicator must consider—
+
+13.4.a
+
+the representations made by the appellant under regulation  11(3) , and
+
+13.4.b
+
+any additional representations that are made by the appellant.
+
+13.5
+
+If the adjudicator concludes that—
+
+13.5.a
+
+any of the grounds specified in regulation  11(4)  apply, and
+
+13.5.b
+
+the enforcement authority would have been under the duty imposed by regulation
+12(5)  to refund any sum if it had served a notice that it accepted that the
+ground in question applied,
+
+the adjudicator must direct the authority to refund that sum.
+
+13.6
+
+An enforcement authority which is given a direction under paragraph (5)—
+
+13.6.a
+
+must comply with the direction immediately, and
+
+13.6.b
+
+ceases to have any right to recover any sum which might otherwise have been
+due to it by way of a penalty charge or on account of the removal, storage or
+disposal of the vehicle.
+
+13.7
+
+If the adjudicator—
+
+13.7.a
+
+does not make a direction under paragraph (5), but
+
+13.7.b
+
+is satisfied that there are compelling reasons why, in the particular
+circumstances of the case, some or all of the relevant charges paid to secure
+the release of the vehicle, or of the amount deducted from the proceeds of
+sale in respect of the relevant charges, should be refunded,
+
+the adjudicator may recommend that the enforcement authority make such a
+refund.
+
+13.8
+
+An enforcement authority to which a recommendation is made under paragraph (7)
+must—
+
+13.8.a
+
+consider afresh the making of a refund of those sums taking full account of
+any observations by the adjudicator, and
+
+13.8.b
+
+within the period of 35 days beginning with the date on which the
+recommendation was given (“the 35-day period”), notify the appellant and the
+adjudicator as to whether or not it accepts the adjudicator’s recommendation.
+
+13.9
+
+If the enforcement authority does not accept the recommendation, the
+notification under paragraph (8)(b) must include the reasons for that
+decision.
+
+13.10
+
+No appeal to the adjudicator lies against the decision of the enforcement
+authority not to accept the adjudicator’s recommendation.
+
+13.11
+
+If the enforcement authority accepts the adjudicator’s recommendation it must
+make the recommended refund within the 35-day period.
+
+13.12
+
+If the enforcement authority fails to comply with the requirements of
+paragraph (8) within the 35-day period, the authority—
+
+13.12.a
+
+is to be deemed have accepted the adjudicator’s recommendation, and
+
+13.12.b
+
+must make the recommended refund.
+
+### Miscellaneous provisions
+
+#### Proceedings in connection with invalid notices
+
+14
+
+Part 4 of Schedule 1 contains provision for, and in connection with, the
+referral to an adjudicator of a case in which an order of a county court is
+deemed to have been revoked under regulation 23 of the 2022 General
+Regulations.
+
+#### Procedure of adjudicators
+
+15
+
+An adjudicator may regulate their own procedure, subject to the provisions of
+Schedule 1.
+
+#### Recovery of sums payable
+
+16
+
+16.1
+
+Any amount which is payable under any provision of these Regulations requiring
+an enforcement authority to refund any sum is, if a county court so orders, to
+be recoverable by the person to whom the amount is payable as if it were
+payable under a county court order.
+
+16.2
+
+Paragraph (1) does not apply to a penalty charge which remains payable
+following an appeal under regulation  7 .
+
+#### The register
+
+17
+
+17.1
+
+The proper officer must establish and maintain a register for the purpose of
+recording proceedings conducted under these Regulations.
+
+17.2
+
+The register must be kept open for inspection by any person without charge at
+all reasonable hours at the principal office of the adjudicators.
+
+17.3
+
+The register may be kept in electronic form.
+
+17.4
+
+If the register is kept in electronic form, the duty to allow inspection is to
+be treated as a duty to allow inspection of a reproduction in legible form of
+the recording of the entry the inspection of which is being sought.
+
+17.5
+
+A document purporting to be certified by the proper officer to be a true copy
+of any entry of a decision in a register is to be evidence of the entry and of
+the matters contained in it.
+
+#### False representations
+
+18
+
+18.1
+
+A person who—
+
+18.1.a
+
+makes any representation under Part 2 or 3, or any provision of Schedule 1 so
+far as it relates to an appeal under regulation 7(1) or 10(1), that is false
+in a material particular, and
+
+18.1.b
+
+does so recklessly or knowing it to be false,
+
+commits an offence.
+
+18.2
+
+A person who is guilty of an offence under paragraph (1) is liable on summary
+conviction to a fine.
+
+### Consequential, savings and transitional provisions
+
+#### Revocation of the Civil Enforcement of Parking Contraventions (England) Representations and Appeals Regulations 2007 and related provisions
+
+##### Revocation of the Civil Enforcement of Parking Contraventions (England) Representations and Appeals Regulations 2007
+
+19
+
+The Civil Enforcement of Parking Contraventions (England) Representations and
+Appeals Regulations 2007  are revoked.
+
+##### Interpretation of Chapter
+
+20
+
+20.1
+
+In this Chapter—
+
+    “ the 2007 Appeals Regulations ” means the Civil Enforcement of Parking
+Contraventions (England) Representations and Appeals Regulations, as they were
+in force immediately before the commencement date;         “ the 2007 General
+Regulations ” means the Civil Enforcement of Parking Contraventions (England)
+General Regulations 2007 , as they were in force immediately before the
+commencement date;         “ the saved 2007 General Regulations ” means the
+Civil Enforcement of Parking Contraventions (England) General Regulations
+2007, as those Regulations continue to have effect by virtue of regulation 33
+of the 2022 General Regulations;         “ the commencement date ” means the
+day on which these Regulations come into force;         “ owner ”, in relation
+to a vehicle, has the meaning given by the 2007 General Regulations;
+
+20.2
+
+This Chapter is without prejudice to section 16 of the Interpretation Act
+1978.
+
+##### Saving and transitional provisions: representations and appeals in relation to penalty charges for parking contraventions occurring before the commencement date
+
+21
+
+21.1
+
+Parts 2 and 5 of, and the Schedule to, the 2007 Appeals Regulations continue
+to have effect, on and after the commencement date, for the purposes of, and
+in connection with—
+
+21.1.a
+
+any representations made to an enforcement authority—
+
+21.1.a.i
+
+against an existing penalty charge notice, or
+
+21.1.a.ii
+
+under regulation 4 of the 2007 Appeals Regulations,
+
+before the commencement date;
+
+21.1.b
+
+any appeal to an adjudicator under regulation 7 of the 2007 Appeals
+Regulations made before that date;
+
+21.1.c
+
+any transitional charge case.
+
+21.2
+
+For the purposes of paragraph (1)(c), a “transitional charge case” is a case—
+
+21.2.a
+
+where—
+
+21.2.a.i
+
+the person on whom an existing penalty charge notice was served had not,
+before the commencement date, made representations against the notice to the
+enforcement authority which served it, and
+
+21.2.a.ii
+
+a notice to owner had not been served on that person by the authority before
+that date,
+
+21.2.b
+
+where—
+
+21.2.b.i
+
+the person on whom an existing enforcement notice was served had, before the
+commencement date, made no representations against the notice under regulation
+4 of the 2007 Appeals Regulations, and
+
+21.2.b.ii
+
+a charge certificate had not been served on that person under regulation 21 of
+the 2007 General Regulations before that date by the enforcement authority
+which served the existing enforcement notice,
+
+21.2.c
+
+where a person is served with a new penalty charge notice, or
+
+21.2.d
+
+where a person is served with a new enforcement notice.
+
+21.3
+
+In this regulation—
+
+    “ existing penalty charge notice ” means a penalty charge notice served
+under regulation 9 or 9A of the 2007 General Regulations before the
+commencement date;         “ existing enforcement notice ” means—       a
+penalty charge notice served under regulation 10 of the 2007 General
+Regulations before the commencement date, or       a notice to owner served
+under regulation 19 of those Regulations before that date;             “ new
+penalty charge notice ” means a penalty charge notice served under regulation
+9 or 9A of the saved 2007 General Regulations on or after the commencement
+date;         “ new enforcement notice ” means—       a penalty charge notice
+served under regulation 10 of the saved 2007 General Regulations on or after
+the commencement date, or       a notice to owner served under regulation 19
+of the saved 2007 General Regulations on or after that date.
+
+##### Savings and transitional provisions: representations and appeals against immobilisation of vehicles before the commencement date
+
+22
+
+22.1
+
+Parts 3 and 5 of, and the Schedule to, the 2007 Appeals Regulations continue
+to have effect, on and after the commencement date, for the purposes of, and
+in connection with—
+
+22.1.a
+
+any representations made to an enforcement authority under regulation 8 of the
+2007 Appeals Regulations before the commencement date;
+
+22.1.b
+
+any appeal to an adjudicator under regulation 10 of the 2007 Appeals
+Regulations made before that date;
+
+22.1.c
+
+any transitional immobilisation case.
+
+22.2
+
+For the purposes of paragraph (1)(c), a “transitional immobilisation case” is
+a case—
+
+22.2.a
+
+where, before the commencement date—
+
+22.2.a.i
+
+an immobilisation device was fixed to a vehicle in accordance with regulation
+12 of the General Regulations,
+
+22.2.a.ii
+
+the owner or the person in charge of the vehicle (“ P ”) secures the release
+of the vehicle from the device on payment of an amount in accordance with
+regulation 14 of the 2007 General Regulations, and
+
+22.2.a.iii
+
+P had not delivered a notice of appeal to the proper officer under the 2007
+Appeals Regulations or such a notice had not been delivered on P’s behalf,
+
+22.2.b
+
+where—
+
+22.2.b.i
+
+an immobilisation device was fixed, before the commencement date, to a vehicle
+in accordance with regulation 12 of the General Regulations, and
+
+22.2.b.ii
+
+the owner or the person in charge of the vehicle secures the release of the
+vehicle from the device, on or after that date, on payment of an amount in
+accordance with regulation 14 of the saved 2007 General Regulations, or
+
+22.2.c
+
+where—
+
+22.2.c.i
+
+an immobilisation device is fixed, on or after the commencement date, to a
+vehicle under regulation 12 of the saved General Regulations, and
+
+22.2.c.ii
+
+the owner or the person in charge of the vehicle secures the release of the
+vehicle from the device on payment of an amount in accordance with regulation
+14 of the saved 2007 General Regulations.
+
+22.3
+
+For the purposes of paragraph (2)(a)(iii) “notice of appeal” and “proper
+officer” have the meanings they had for the purposes of Schedule 1 to the 2007
+Appeals Regulations.
+
+##### Savings and transitional provisions: representations and appeals in connection with removal of vehicles before the commencement date
+
+23
+
+23.1
+
+Parts 4 and 5 of, and the Schedule to, the 2007 Appeals Regulations continue
+to have effect, on and after the commencement date, for the purposes of, and
+in connection with—
+
+23.1.a
+
+any representations made to an enforcement authority under regulation 11 of
+the 2007 Appeals Regulations before the commencement date;
+
+23.1.b
+
+any appeal to an adjudicator under regulation 13 of the 2007 Appeals
+Regulations made before that date;
+
+23.1.c
+
+any transitional removal case.
+
+23.2
+
+For the purposes of paragraph (1)(c), a “transitional removal case” is a case—
+
+23.2.a
+
+where, before the commencement date—
+
+23.2.a.i
+
+a person (“ P ”)—
+
+23.2.a.i.aa
+
+is required to pay an amount on recovery of a relevant vehicle under section
+101A of the RTRA 1984,
+
+23.2.a.i.bb
+
+receives a sum in respect of such a vehicle under section 101A(2) of that Act,
+
+23.2.a.i.cc
+
+is informed that the proceeds of sale of such a vehicle did not exceed the
+amount of the relevant charges , or
+
+23.2.a.i.dd
+
+is informed that such a vehicle was disposed of without there being any
+proceeds of sale, and
+
+23.2.a.ii
+
+P had not delivered a notice of appeal to the proper officer under the 2007
+Appeals Regulations or such a notice had not been delivered on P’s behalf, or
+
+23.2.b
+
+where, on or after the commencement date, a person—
+
+23.2.b.i
+
+is required to pay an amount on recovery of a relevant vehicle under section
+101A of the RTRA 1984,
+
+23.2.b.ii
+
+receives a sum in respect of such a vehicle under section 101A(2) of that Act,
+
+23.2.b.iii
+
+is informed that the proceeds of sale of such a vehicle did not exceed the
+amount of the relevant charges, or
+
+23.2.b.iv
+
+is informed that such a vehicle was disposed of without there being any
+proceeds of sale.
+
+23.3
+
+For the purposes of paragraph (2)(a)(ii) “notice of appeal” and “proper
+officer” have the meanings they had for the purposes of Schedule 1 to the 2007
+Appeals Regulations.
+
+23.4
+
+In this regulation—
+
+    “ the RTRA 1984 ” means the Road Traffic Regulation Act 1984;         “
+relevant vehicle ” means a vehicle which, before the commencement date, was—
+found in a civil enforcement area for parking contraventions, and
+removed under regulations made under section 99 of the RTRA 1984.
+
+##### Savings and transitional provisions: invalid notice cases
+
+24
+
+24.1
+
+Part 5 of, and the Schedule to, the 2007 Appeals Regulations continue to have
+effect, on and after the commencement date, for the purposes of any case which
+was referred to an adjudicator under paragraph 19 of the Schedule to those
+Regulations before the commencement date.
+
+24.2
+
+Part 5 of, and the Schedule to, the 2007 Appeals Regulations continue to have
+effect for the purposes of, and in connection with any transitional invalid
+notice case.
+
+24.3
+
+For the purposes of paragraph (2), a “transitional invalid notice case” is—
+
+24.3.a
+
+a case—
+
+24.3.a.i
+
+where, before the commencement date, an order of a county court was deemed
+under regulation 23 of the 2007 General Regulations to have been revoked
+following the making of a witness statement,
+
+24.3.a.ii
+
+which the enforcement authority had not referred to the adjudicator for
+directions under paragraph 19 of the Schedule to the 2007 Appeals Regulations
+before that date, and
+
+24.3.a.iii
+
+where any time limit for making such a referral had not expired before that
+date, or
+
+24.3.b
+
+a case where, on or after the commencement date, an order of a county court is
+deemed under regulation 23 of the saved 2007 General Regulations to have been
+revoked following the making of a witness statement.
+
+#### Other consequential provisions
+
+##### Consequential amendments
+
+25
+
+Schedule 2 contains amendments in consequence of these Regulations.
+
+    Signed by authority of the Lord Chancellor     James Cartlidge
+Parliamentary Under Secretary of State for Justice   Ministry of Justice
+
+  Procedure in adjudication proceedings
+
+Regulations 7, 10, 13 and 14,
+
+##### Interpretation
+
+###### Interpretation
+
+1
+
+1.1
+
+In this Schedule—
+
+    “ the appeal period ” has the meaning given in paragraph 2(4);         “
+document exchange ” means a document exchange providing a system of delivery
+of documents by reference to numbered boxes at document exchanges (DX);
+“ hearing ” means an oral hearing;         “ working day ” means any day
+except—       a Saturday or a Sunday,       Good Friday,       Christmas Day,
+or       a day which is a Bank Holiday in England by virtue of the Banking and
+Financial Dealings Act 1971 .
+
+1.2
+
+In this Schedule, in relation to an appeal or any process connected with an
+appeal—
+
+    “ the disputed decision ” means the decision appealed against;         “
+the enforcement authority ” means the enforcement authority which made the
+disputed decision;         “ the original representations ” means the
+representations to the enforcement authority under regulation  5(1) ,  8(5)
+or  11(3) .
+
+##### Initiating an appeal
+
+2
+
+2.1
+
+An appeal must be made by delivering a notice of appeal to the proper officer.
+
+2.2
+
+A notice of appeal—
+
+2.2.a
+
+must be in writing and signed by—
+
+2.2.a.i
+
+the appellant, or
+
+2.2.a.ii
+
+a person authorised to do so by the appellant,
+
+2.2.b
+
+must state the name and address at which the appellant wishes documents in
+connection with the appeal to be sent,
+
+2.2.c
+
+must state the date and any reference number of the disputed decision and the
+name of the enforcement authority, and
+
+2.2.d
+
+may include any representations which the appellant desires to make in
+addition to the original representations.
+
+2.3
+
+Sub-paragraph 2(2)(a)—
+
+2.3.a
+
+is satisfied, in the case of a document transmitted by fax, if a copy of the
+signature of the relevant person appears on the transmitted copy, and
+
+2.3.b
+
+does not apply in relation to a document transmitted by other means of
+electronic data transmission.
+
+2.4
+
+If the notice of appeal is delivered to the proper officer after the end of
+the period specified in regulation  7(2)(a) ,  10(2)(a)  or  13(2)(a)  (as the
+case may be) (“the appeal period”)—
+
+2.4.a
+
+the appellant must include in the notice a statement of the reasons which are
+relied upon for justifying the delay, and
+
+2.4.b
+
+the adjudicator must treat any such statement of reasons for delay as a
+request to extend that period.
+
+###### Action upon receipt of notice of appeal and copy of such notice
+
+3
+
+3.1
+
+Upon receiving a notice of appeal the proper officer must—
+
+3.1.a
+
+send an acknowledgement of its receipt to the appellant, and
+
+3.1.b
+
+enter particulars of the appeal in the register.
+
+3.2
+
+If the proper officer is satisfied that the notice of appeal is made in
+accordance with paragraph 2, the proper officer must send to the enforcement
+authority—
+
+3.2.a
+
+a copy of the notice of appeal, and
+
+3.2.b
+
+the directions extending the period for appealing (if any).
+
+3.3
+
+Where an enforcement authority receives a copy of a notice of appeal sent to
+it under sub-paragraph (2), the authority must, within seven days of the day
+on which it receives that copy, deliver to the proper officer a copy of each
+of the following—
+
+3.3.a
+
+the original representations,
+
+3.3.b
+
+the relevant penalty charge notice (if any), and
+
+3.3.c
+
+the notice of rejection.
+
+3.4
+
+If the proper officer receives a notice of appeal and considers that it may
+not be in accordance with paragraph 2, the proper officer must refer the issue
+of its validity to an adjudicator.
+
+3.5
+
+If the adjudicator determines that the notice of appeal referred to the
+adjudicator under sub-paragraph (4) is in accordance with paragraph 2, the
+proper officer must deal with it in accordance with sub-paragraph (2).
+
+3.6
+
+Sub-paragraph (7) applies where—
+
+3.6.a
+
+a notice of appeal is delivered outside the appeal period with a request to
+extend the appeal period and the adjudicator declines to direct that the
+period be extended, or
+
+3.6.b
+
+the adjudicator determines that a notice of appeal is not in accordance with
+paragraph 2.
+
+3.7
+
+Where this sub-paragraph applies, the proper officer must—
+
+3.7.a
+
+inform the appellant that the adjudicator has declined the request for an
+extension or, as the case may be, of the reasons why the adjudicator considers
+that the notice does not accord with paragraph 2, and
+
+3.7.b
+
+record the action taken in the register.
+
+3.8
+
+In this paragraph “ notice of rejection ” means a notice of a decision made by
+an enforcement authority not to accept representations made to it under
+regulation  5 ,  8  or  11 ;
+
+###### Further representations by the parties
+
+4
+
+4.1
+
+Any party may deliver representations in relation to the matters referred to
+in regulation  5(2)(b) ,  8(5)  or  11(3) , as appropriate in the
+circumstances, to the proper officer at any time before the appeal is
+determined.
+
+4.2
+
+The adjudicator may invite a party to deliver to the proper officer
+representations dealing with such matters relating to the appeal as may be
+specified by the adjudicator.
+
+4.3
+
+Any representations in response to an invitation under sub-paragraph (2) must
+be delivered to the proper officer within the time and in the manner specified
+by the adjudicator.
+
+4.4
+
+Where a party fails to respond to an invitation under sub-paragraph (2), the
+adjudicator may draw such inferences as appear proper to the adjudicator.
+
+4.5
+
+Any representations delivered under this paragraph must be signed by the party
+in question or by someone authorised by that party to sign those
+representations.
+
+4.6
+
+Sub-paragraph (5)—
+
+4.6.a
+
+is satisfied, in the case of a document transmitted by fax, if a copy of the
+signature of the relevant person appears on the transmitted copy, and
+
+4.6.b
+
+does not apply in relation to a document transmitted by other means of
+electronic data transmission.
+
+4.7
+
+Where the appellant delivers representations to the proper officer under this
+paragraph, the proper officer must send a copy of the representations to the
+enforcement authority.
+
+4.8
+
+Where the enforcement authority delivers representations to the proper officer
+under this paragraph, it must at the same time send a copy of the
+representations to the appellant.
+
+4.9
+
+This paragraph is without prejudice to the powers of an adjudicator under
+paragraph  10 .
+
+###### Adjudicator’s power to require attendance of witnesses and production of documents
+
+5
+
+5.1
+
+The adjudicator may send a notice, in writing, to any person (including a
+party to the appeal) requiring that person to—
+
+5.1.a
+
+attend, at a time and place specified in the notice, to give evidence at the
+hearing of an appeal, and
+
+5.1.b
+
+produce any documents in that person’s custody, or under that person’s
+control, relating to any matter in the proceedings.
+
+5.2
+
+A notice sent under sub-paragraph (1) must contain a statement of the effect
+of sub-paragraphs (3) to (7).
+
+5.3
+
+A person who receives a notice under sub-paragraph (1) may apply to the
+adjudicator to vary or set aside the requirement.
+
+5.4
+
+Subject to sub-paragraphs (5) and (6), a person is bound to comply with a
+requirement made under sub-paragraph (1) if—
+
+5.4.a
+
+they have been given at least seven days’ notice of the hearing, or
+
+5.4.b
+
+otherwise, they have informed the adjudicator that the shorter notice period
+is accepted.
+
+5.5
+
+No person, other than the appellant, is bound to comply with a requirement in
+under sub-paragraph (1) unless the necessary expenses of that person’s
+attendance are paid or tendered to that person.
+
+5.6
+
+No person is required to give any evidence or produce any documents under sub-
+paragraph (1) which would not be required to be given or produced in the trial
+of an action in a court of law.
+
+5.7
+
+A person who fails to comply with a requirement made under sub-paragraph (1)—
+
+5.7.a
+
+commits an offence, and
+
+5.7.b
+
+is liable on summary conviction to a fine not exceeding level 2 on the
+standard scale.
+
+###### Disposal of an appeal without a hearing
+
+6
+
+6.1
+
+Subject to the following provisions of this paragraph, the adjudicator may
+dispose of an appeal without a hearing.
+
+6.2
+
+The adjudicator must not dispose of an appeal without a hearing if, in the
+adjudicator’s opinion, the appeal raises issues of public importance such as
+to require that a hearing be held.
+
+6.3
+
+The adjudicator must not dispose of an appeal without a hearing if either
+party has requested a hearing unless—
+
+6.3.a
+
+the party who made the request withdraws the request before notice of a
+hearing has been sent to the other party under paragraph  7 ,
+
+6.3.b
+
+both parties have subsequently consented to the appeal being disposed of
+without a hearing, or
+
+6.3.c
+
+the party requesting the hearing, having been sent a notice of the hearing of
+an appeal in accordance with paragraph  7 , fails to attend or be represented
+at the hearing.
+
+6.4
+
+Where the adjudicator is minded to dispose of an appeal without a hearing, the
+appeal must not be so disposed of unless and until either—
+
+6.4.a
+
+there has elapsed a period of 28 days beginning with the date on which an
+acknowledgment is sent in accordance with paragraph  3(1)  during which
+neither party has requested a hearing, or
+
+6.4.b
+
+both parties have consented to its disposal without a hearing.
+
+###### Notice of time and place of hearing
+
+7
+
+7.1
+
+This paragraph has effect where a hearing is to be held for the purpose of
+disposing of an appeal.
+
+7.2
+
+The proper officer must—
+
+7.2.a
+
+fix the time and place of the hearing, and
+
+7.2.b
+
+not less than 21 days before the time so fixed, or such shorter time as the
+parties agree—
+
+7.2.b.i
+
+send to each party a notice that the hearing is to be at that time and place,
+or
+
+7.2.b.ii
+
+inform them of those matters in such other manner as the proper officer thinks
+fit.
+
+7.3
+
+The adjudicator may alter the time and place of any hearing.
+
+7.4
+
+If the adjudicator makes an alteration under sub-paragraph (3), the proper
+officer must, not less than seven days, or such shorter period as the parties
+agree, before the date on which the hearing is then to be held—
+
+7.4.a
+
+send to each party notice of the new time and place of the hearing, or
+
+7.4.b
+
+inform them of those matters in such other manner as the proper officer thinks
+fit.
+
+7.5
+
+This paragraph applies to an adjourned hearing but, if before the adjournment,
+the time and place of the adjourned hearing are notified to all persons
+expected to attend, no further notice is required.
+
+###### Public and private hearings and admission to a hearing
+
+8
+
+8.1
+
+Subject to the provisions of this paragraph, a hearing is to be held in
+public.
+
+8.2
+
+The adjudicator may direct that the whole or any part of a hearing be held in
+private if satisfied that it is just and reasonable to do so by reason of—
+
+8.2.a
+
+the likelihood of disclosure of intimate personal or financial circumstances,
+
+8.2.b
+
+the likelihood of disclosure of commercially sensitive information or
+information obtained in confidence, or
+
+8.2.c
+
+exceptional circumstances not falling within paragraph (a) or (b).
+
+8.3
+
+Any other adjudicator is entitled to attend the hearing of an appeal which is
+held in private.
+
+8.4
+
+The adjudicator, with the consent of the parties, may permit any other person
+to attend the hearing of an appeal, which is held in private or, where part of
+it is so held, that part.
+
+8.5
+
+Without prejudice to any other powers an adjudicator may have, the adjudicator
+may exclude from the hearing of an appeal, or part of it, any person whose
+conduct has disrupted, or is likely, in the opinion of the adjudicator, to
+disrupt, the hearing.
+
+###### Appearances at a hearing
+
+9
+
+9.1
+
+The parties may appear at the hearing of an appeal.
+
+9.2
+
+Any other person may appear at a hearing at the discretion of the adjudicator.
+
+9.3
+
+At the hearing of an appeal, the appellant may conduct their case in person
+(with assistance from any person if the appellant wishes) or may be
+represented by a solicitor, counsel or any other person.
+
+9.4
+
+If in any particular case the adjudicator is satisfied that there are
+sufficient reasons for doing so, the adjudicator may prohibit a particular
+person from assisting or representing either party at the hearing.
+
+###### Procedure at a hearing
+
+10
+
+10.1
+
+At the beginning of the hearing of an appeal the adjudicator must explain the
+order of proceedings.
+
+10.2
+
+Subject to the provisions of this paragraph, the adjudicator must conduct the
+hearing of an appeal in the manner most suitable to the clarification of the
+issues and generally to the just handling of the proceedings, and the
+adjudicator must seek to avoid formality in the proceedings, so far as appears
+to the adjudicator to be appropriate.
+
+10.3
+
+At the hearing of an appeal—
+
+10.3.a
+
+the parties are entitled to give evidence, to call witnesses and to address
+the adjudicator both on the evidence and generally on the subject matter of
+the appeal;
+
+10.3.b
+
+the adjudicator may receive evidence of any fact which appears to the
+adjudicator to be relevant even if such evidence would be inadmissible in
+proceedings before a court of law.
+
+10.4
+
+Without prejudice to paragraph  6(3)(c) , where a party who has been sent a
+notice of the hearing of an appeal or has otherwise been notified of the
+hearing in accordance with paragraph  7  fails to attend the hearing, the
+adjudicator may dispose of the appeal in that party’s absence.
+
+###### Decisions on appeals
+
+11
+
+11.1
+
+The adjudicator must give the reasons for a decision on an appeal.
+
+11.2
+
+Where an appeal is disposed of at a hearing, the adjudicator may—
+
+11.2.a
+
+give the decision and the reasons orally at the end of the hearing, or
+
+11.2.b
+
+reserve the decision and give it and the reasons subsequently in writing.
+
+11.3
+
+Upon the decision being given (whether at a hearing or otherwise), the proper
+officer must—
+
+11.3.a
+
+as soon as practicable record the decision in the register, together with the
+adjudicator’s reasons and any directions given, and
+
+11.3.b
+
+send a copy of the register entry to each party.
+
+###### Review of adjudicator’s decision
+
+12
+
+12.1
+
+The adjudicator may, on the application of a party, review—
+
+12.1.a
+
+any decision not to grant an extension of the period of time for bringing an
+appeal, or
+
+12.1.b
+
+any decision to determine that a notice of appeal does not accord with
+paragraph  2  or to dismiss or allow an appeal, or any decision as to costs,
+on one or more of the following grounds—
+
+12.1.b.i
+
+the decision was wrongly made as the result of an administrative error;
+
+12.1.b.ii
+
+the adjudicator was wrong to reject the notice of appeal;
+
+12.1.b.iii
+
+a party who failed to appear or be represented at a hearing had good and
+sufficient reason for failing to appear;
+
+12.1.b.iv
+
+where the decision was made after a hearing, new evidence has become available
+since the conclusion of the hearing, the existence of which could not
+reasonably have been known or foreseen;
+
+12.1.b.v
+
+where the decision was made without a hearing, new evidence has become
+available since the decision was made, the existence of which could not
+reasonably have been known or foreseen;
+
+12.1.b.vi
+
+the interests of justice require such a review.
+
+12.2
+
+An application under sub-paragraph (1) must—
+
+12.2.a
+
+be delivered to the proper officer within the period of 14 days beginning with
+the date on which the copy of the entry in the register is served on the
+parties, and
+
+12.2.b
+
+state the grounds in full.
+
+12.3
+
+The parties must have the opportunity to be heard on any application for
+review under sub-paragraph (1).
+
+12.4
+
+Having reviewed the decision, the adjudicator may direct that it be—
+
+12.4.a
+
+confirmed,
+
+12.4.b
+
+revoked, or
+
+12.4.c
+
+varied.
+
+12.5
+
+If, having reviewed a decision, the adjudicator directs that it be revoked,
+the adjudicator must substitute a new decision or order a re-determination by—
+
+12.5.a
+
+that adjudicator,
+
+12.5.b
+
+the original adjudicator, or
+
+12.5.c
+
+a different adjudicator.
+
+12.6
+
+Paragraph  11  applies to the confirmation, revocation or variation of a
+decision under this paragraph as it applies to a decision made on the disposal
+of an appeal.
+
+###### Costs
+
+13
+
+13.1
+
+An adjudicator must not normally make an order awarding costs and expenses.
+
+13.2
+
+But, subject to sub-paragraph (3), an adjudicator may make an order awarding
+costs and expenses—
+
+13.2.a
+
+against a party (including an appellant who has withdrawn an appeal or an
+enforcement authority which has consented to an appeal being allowed), if the
+adjudicator considers that—
+
+13.2.a.i
+
+the party has acted frivolously or vexatiously, or
+
+13.2.a.ii
+
+the party’s conduct in making, pursuing or resisting an appeal was wholly
+unreasonable;
+
+13.2.b
+
+against an enforcement authority, where the adjudicator considers that the
+disputed decision was wholly unreasonable.
+
+13.3
+
+An order must not be made against a party unless that party has been given an
+opportunity to make representations against the making of the order.
+
+13.4
+
+An order must require the party against whom it is made to pay to the other
+party a specified sum in respect of the costs and expenses incurred by that
+other party in connection with the proceedings.
+
+###### Consolidation of proceedings
+
+14
+
+14.1
+
+Where there are pending two or more appeals and at any time it appears to an
+adjudicator that—
+
+14.1.a
+
+some common question of law or fact arises in both or all the appeals, or
+
+14.1.b
+
+for some other reason it is desirable to make an order under this paragraph,
+
+the adjudicator may order that both or all of the appeals or those specified
+in the order are to be considered together and may give such consequential
+directions as may appear to the adjudicator to be necessary.
+
+14.2
+
+An order must not be made under this paragraph unless all parties concerned
+have been given an opportunity to make representations against the making of
+the order.
+
+###### Miscellaneous powers of adjudicators
+
+15
+
+15.1
+
+An adjudicator may—
+
+15.1.a
+
+extend the time appointed by or under this Schedule for the doing of any act
+even where the time appointed has expired;
+
+15.1.b
+
+if an appellant at any time gives notice of the withdrawal of their appeal,
+dismiss the proceedings;
+
+15.1.c
+
+if an enforcement authority consents to an appeal being allowed, allow the
+appeal;
+
+15.1.d
+
+if both or all of the parties agree in writing on the terms of a decision to
+be made by an adjudicator, decide accordingly;
+
+15.1.e
+
+adjourn a hearing.
+
+15.2
+
+An adjudicator may exercise the powers conferred by this Schedule (other than
+paragraph  12 ) on the application of a party or on the adjudicator’s own
+motion.
+
+###### Clerical errors
+
+16
+
+Clerical mistakes in any document recording a direction or decision of the
+adjudicator, or errors in such a document arising from an accidental slip or
+omission, may be corrected by the proper officer on the direction of the
+adjudicator.
+
+##### Service of documents
+
+###### Service of documents on a party to an appeal
+
+17
+
+17.1
+
+This paragraph applies to any notice or other document required or authorised
+by these Regulations to be sent to a party to an appeal (an “appeal
+document”).
+
+17.2
+
+An appeal document is to be regarded as having been sent to that party if it
+is—
+
+17.2.a
+
+delivered to that party,
+
+17.2.b
+
+left at that party’s proper address,
+
+17.2.c
+
+sent by first class post to that party at that address, or
+
+17.2.d
+
+transmitted to that party by fax or other means of electronic data
+transmission in accordance with sub-paragraph (3).
+
+17.3
+
+An appeal document may be transmitted to a party by fax or by other means of
+electronic data transmission where—
+
+17.3.a
+
+the party has indicated in writing to the person sending the document that
+this form of communication is acceptable if it is transmitted to a specified
+FAX telephone number or, as the case may be, a specified electronic address,
+and
+
+17.3.b
+
+the document is transmitted to that number or address.
+
+17.4
+
+In the case of an enforcement authority, an indication under sub-paragraph
+(3)(a) may be expressed to apply in relation to any appeal to which it is the
+respondent.
+
+17.5
+
+For the purposes of this Schedule, and of section 7 (references to service by
+post) of the Interpretation Act 1978  (“ the 1978 Act ”) in its application to
+this paragraph—
+
+17.5.a
+
+the proper address of the appellant is the address stated under paragraph
+2(2)(b);
+
+17.5.b
+
+the proper address of an enforcement authority in proceedings in which it is
+the respondent is such address as the authority may from time to time specify,
+in a notice delivered to the proper officer, as being the authority’s address
+for service in all such proceedings.
+
+17.6
+
+If no address has been stated under paragraph 2(2)(b) or, as the case may be,
+specified by the enforcement authority, the proper address for the purposes of
+this Schedule, and section 7 of the 1978 Act, is—
+
+17.6.a
+
+in the case of an individual, their usual or last known address;
+
+17.6.b
+
+in the case of a partnership, the principal or last known place of business of
+the firm within the United Kingdom;
+
+17.6.c
+
+in the case of an incorporated or unincorporated body, the registered or
+principal office of the body.
+
+17.7
+
+Where a party’s proper address includes a box number at a document exchange,
+the delivery of an appeal document may be effected by leaving the document
+addressed to that box number—
+
+17.7.a
+
+at that document exchange, or
+
+17.7.b
+
+at a document exchange which transmits documents every working day to that
+exchange.
+
+17.8
+
+A party may at any time, by notice in writing delivered to the proper officer,
+change their proper address for the purposes of this Schedule and section 7 of
+the 1978 Act.
+
+17.9
+
+A party may, by notice in writing delivered to the other party and the proper
+officer, vary or revoke any indication given under sub-paragraph (3)(a).
+
+17.10
+
+Unless the contrary is proved—
+
+17.10.a
+
+where an appeal document is left at the proper address of a party it is to be
+taken to have been delivered on the second working day after the day on which
+it was left;
+
+17.10.b
+
+where an appeal document is sent by fax or other means of electronic data
+transmission it is to be taken to have been delivered on the first working day
+after the day on which it was transmitted;
+
+17.10.c
+
+where an appeal document is left at a document exchange in accordance with
+sub-paragraph (7) it is to be taken to have been delivered on the second
+working day after the day on which it was left.
+
+###### Delivery of documents to the proper officer
+
+18
+
+18.1
+
+This paragraph applies to any notice or other document required or authorised
+by or under this Schedule to be delivered to the proper officer (a “PO
+document”).
+
+18.2
+
+A PO document may be delivered to the proper officer by being transmitted to
+the proper officer by fax or other means of electronic data transmission, but
+only to a FAX telephone number or, as the case may be, electronic address for
+the time being published by the proper officer for the purpose of receiving PO
+documents.
+
+18.3
+
+Unless the contrary is proved, any PO document transmitted in accordance with
+sub-paragraph (2) is to be taken to have been delivered on the second working
+day after the day on which it was transmitted.
+
+18.4
+
+Where the address of the proper officer includes a box number at a document
+exchange, the delivery of such a document may be effected by leaving the
+document addressed to that box number—
+
+18.4.a
+
+at that document exchange, or
+
+18.4.b
+
+at a document exchange which transmits documents every working day to that
+exchange.
+
+18.5
+
+Unless the contrary is proved, any PO document which is left at a document
+exchange in accordance with sub-paragraph (4) is to be taken to have been
+delivered on the second working day after the day on which it was left.
+
+##### Directions as to invalid notices
+
+###### Directions as to invalid notices
+
+19
+
+19.1
+
+This paragraph applies where—
+
+19.1.a
+
+the order of a county court which has been made against a person (a “relevant
+person”) is deemed to have been revoked following the making of a witness
+statement in accordance with regulation 23 of the 2022 General Regulations,
+and
+
+19.1.b
+
+the enforcement authority refers the case to the adjudicator for directions.
+
+19.2
+
+The proper officer must enter particulars of the case in the register.
+
+19.3
+
+The adjudicator must give directions as to the conduct of the proceedings
+unless the adjudicator decides that no such directions are necessary.
+
+19.4
+
+The adjudicator may, in particular—
+
+19.4.a
+
+if it appears to the adjudicator that no appeal has been made by the relevant
+person in relation to the subject matter of the case, direct that the case
+proceed as an appeal;
+
+19.4.b
+
+if it appears to the adjudicator that an appeal has been made by the relevant
+person in relation to the subject matter of the case and that the appeal has
+been dismissed, direct that the case proceed as an application under paragraph
+12 to review that decision.
+
+19.5
+
+Where the adjudicator gives a direction under sub-paragraph (4)(a), Parts 1 to
+3 of this Schedule (except paragraphs 2 and 3) apply as if an appeal had been
+duly made by the relevant person.
+
+  Consequential amendments
+
+Regulation 25
+
+##### Amendment of article 8A of the High Court and County Courts Jurisdiction Order 1991
+
+1
+
+1.1
+
+Article 8A of the High Court and County Courts Jurisdiction Order 1991  is
+amended in accordance with this paragraph.
+
+1.2
+
+In paragraph (1)(c)(ii), for “Civil Enforcement of Parking Contraventions
+(England) Representations and Appeals Regulations 2007” substitute  “Civil
+Enforcement of Road Traffic Contraventions (Representations and Appeals)
+(England) Regulations 2022” .
+
+##### Amendment of Article 7 of the Traffic Management Act 2004 (Commencement No. 5 and Transitional Provisions) (England) Order 2007
+
+2
+
+2.1
+
+Article 7 of the Traffic Management Act 2004 (Commencement No. 5 and
+Transitional Provisions) (England) Order 2007  is amended in accordance with
+this paragraph.
+
+2.2
+
+In paragraph (2)(b), in the inserted definition of “the Parking General
+Representations and Appeals Regulations”, for “Civil Enforcement of Parking
+Contraventions (England) Representations and Appeals Regulations 2007”
+substitute  “Civil Enforcement of Road Traffic Contraventions (Representations
+and Appeals) (England) Regulations 2022” .
+
+2.3
+
+In paragraph (4)—
+
+2.3.a
+
+in the substituted paragraph (a), for  “8(5)”  substitute “ 8(6) ”;
+
+2.3.b
+
+in the substituted paragraph (b), for  “11(5)”  substitute “ 11(4) ”.
+
+2.4
+
+In paragraph (5), for “4” substitute  “ 5 ” .
+
+##### Amendment of the Penalty Charges Enforcement (London) Regulations 2012
+
+3
+
+3.1
+
+The Penalty Charges Enforcement (London) Regulations 2012  are amended as
+follows.
+
+3.2
+
+In regulation 2, in the definition of “the Representations and Appeals
+Regulations”, for “Civil Enforcement of Parking Contraventions (England)
+Representations and Appeals Regulations 2007” substitute  “Civil Enforcement
+of Road Traffic Contraventions (Representations and Appeals) (England)
+Regulations 2022” .
+
+3.3
+
+In regulation 3(2)(c)—
+
+3.3.a
+
+in sub-paragraph (iv), for “7(4)”, substitute  “ 7 (8)” ; and
+
+3.3.b
+
+in the words after that sub-paragraph, for “7(5)”, substitute  “ 7(9) ” .
+
+##### Amendment of the Household Waste (Fixed Penalty and Penalty Charge) Regulations 2015
+
+4
+
+4.1
+
+The Household Waste (Fixed Penalty and Penalty Charge) Regulations 2015  are
+amended as follows.
+
+4.2
+
+In regulation 4, for “Civil Enforcement of Parking Contraventions (England)
+Representations and Appeals Regulations 2007” substitute  “Civil Enforcement
+of Road Traffic Contraventions (Representations and Appeals) Regulations 2022”
+.
+
+4.3
+
+In the Schedule—
+
+4.3.a
+
+in the heading, for “Civil Enforcement of Parking Contraventions (England)
+Representations and Appeals Regulations 2007” substitute  “Civil Enforcement
+of Road Traffic Contraventions (Representations and Appeals) Regulations 2022;
+
+4.3.b
+
+for paragraph 3 substitute—
+
+############# Regulations 8 to 14
+
+4.3.b.3
+
+Omit regulations 8 to 14.
+
+;
+
+4.3.c
+
+omit paragraphs 4 and 5;
+
+4.3.d
+
+after paragraph 5, insert—
+
+############# Regulation 
+
+4.3.d.5A
+
+For regulation  16  substitute—
+
+################# Recovery of sums payable
+
+4.3.d.5A.16
+
+Any amount which is payable under an adjudicator’s decision is, if a county
+court so orders, recoverable by the person to whom the amount is payable as if
+it were payable under a county court order.
+
+.
+
+############# Regulation 
+
+4.3.d.5B
+
+In regulation  17 , in paragraph (1), after “proper officer” insert  “(within
+the meaning of paragraph 1(1) of Schedule 1)” .
+
+############# Regulation 18
+
+4.3.d.5C
+
+In regulation 18(1)—
+
+4.3.d.5C.a
+
+omit “Part 2, 3 or 4, or”;
+
+4.3.d.5C.b
+
+after “appeal”, insert  “under regulation 7(1)” .
+
+;
+
+4.3.e
+
+in paragraph 6—
+
+4.3.e.i
+
+for the heading substitute—
+
+Schedule 1
+
+;
+
+4.3.e.ii
+
+in sub-paragraph (1), for “The Schedule” substitute  “Schedule 1” .
+
+4.3.e.iii
+
+for sub-paragraph (2) substitute—
+
+4.3.e.iii.2
+
+In paragraph 1(1), at the appropriate places insert the following definitions—
+
+    “ appeal ” means an appeal under regulation 7(1);
+
+;
+
+    “ fax ” means the making of a facsimile copy of a document by the
+transmission of electronic signals;
+
+;
+
+    “ proper officer ” means a member of the administrative staff provided
+under section 81(4)(a) of the Traffic Management Act 2004 who has been
+appointed to perform the functions of the proper officer under these
+Regulations;
+
+;
+
+    “ register ” means the register required to be kept under regulation 17;
+
+.
+
+;
+
+4.3.e.iv
+
+in sub-paragraph (3), for “regulation 4(1), 8(4) or 11(4)” substitute
+“regulation 5(1), 8(5) or 11(3)” ;
+
+4.3.e.v
+
+after sub-paragraph (3), insert—
+
+4.3.e.v.3A
+
+In paragraph 2(2), for paragraph (b) substitute—
+
+4.3.e.v.3A.b
+
+the name and address of the appellant;
+
+.
+
+;
+
+4.3.e.vi
+
+for sub-paragraph (4) substitute—
+
+4.3.e.vi.4
+
+In paragraph 2(4), omit “, 10(2)(a) or 13(2)(a) (as the case may be)”.
+
+;
+
+4.3.e.vii
+
+after sub-paragraph (5), insert—
+
+4.3.e.vii.5A
+
+Omit paragraph 2(8).
+
+;
+
+4.3.e.viii
+
+in sub-paragraph (6), for “regulation 4(2)(b), 8(4) or 11(4)” substitute
+“regulation 5(2)(b), 8(5) or 11(3)” ;
+
+4.3.e.ix
+
+omit sub-paragraph (7).
+
+##### Amendment of the West Midlands Combined Authority (Functions and Amendment) Order 2017
+
+5
+
+5.1
+
+Article 6 of the West Midlands Combined Authority (Functions and Amendment)
+Order 2017  is amended as follows.
+
+5.2
+
+In paragraph (3), after “Regulations” insert  “or the Appeals and
+Representations Regulations” .
+
+5.3
+
+In paragraph (4), after sub-paragraph (a), insert—
+
+5.3.aza
+
+“ the Appeals and Representations Regulations ” means the Civil Enforcement of
+Road Traffic Contraventions (Representations and Appeals) (England)
+Regulations 2022;
+
+.
+
+##### Amendment of the West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021
+
+6
+
+6.1
+
+Article 24 of the West Yorkshire Combined Authority (Election of Mayor and
+Functions) Order 2021  is amended as follows.
+
+6.2
+
+In paragraph (3), after “Regulations” insert or  “the Appeals and
+Representations Regulations” .
+
+6.3
+
+In paragraph (4), after sub-paragraph (a) insert—
+
+6.3.aza
+
+“ the Appeals and Representations Regulations ” means the Civil Enforcement of
+Road Traffic Contraventions (Representations and Appeals) (England)
+Regulations 2022;
+
+.
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations make provision entitling persons—   a     who are or may be
+liable to pay penalty charges in respect of parking contraventions (in and
+outside Greater London), bus lane contraventions outside Greater London and
+moving traffic contraventions outside Greater London (“relevant road traffic
+contraventions”),       b     who pay charges to secure the release of
+vehicles which have been immobilised or removed on account of such
+contraventions,
+
+to make representations to enforcement authorities regarding their liability
+for the charges and to appeal to an adjudicator if the representations are not
+accepted. These Regulations apply only in England.
+
+These Regulations should be read with the Civil Enforcement of Road Traffic
+Contraventions (Approved Devices, Charging Guidelines and General Provisions)
+(England) Regulations ( S.I. 2022/71 ) (“ the General Regulations ”).
+
+Part 1 makes provision for preliminary matters.
+
+Part 2 makes provision about the information to be included in certain notices
+served in relation to relevant road traffic contraventions under the General
+Regulations about a person’s right to make representations or bring an appeal
+under these Regulations. This Part also makes provision about the making of
+representations against enforcement notices and the duties of an enforcement
+authority if they receive such representations. This Part also provides for an
+appeal to an adjudicator if the enforcement authority does not accept those
+representations.
+
+Part 3 makes similar provision for the making of representations and appeals
+in relation to vehicles which have been immobilised in accordance with the
+General Regulations and in respect of which a person has had to pay a charge
+to have the vehicle released.
+
+Part 4 makes similar provision for the making of representations and appeals
+in relation to vehicles which have been removed and stored or disposed of in
+accordance with the Road Traffic Regulation Act 1984 and regulations made
+under it.
+
+Part 5 makes provision about the procedure to be followed in connection with
+an appeal under these Regulations. In addition, it creates an offence of
+making false or reckless representations under Parts 2, 3 or 4, or otherwise
+in connection with an appeal under, these Regulations.
+
+Part 6 of these Regulations revokes the Civil Enforcement of Parking
+Contraventions (England) Regulations 2007 ( S.I. 2007/3482 ) and makes related
+savings and transitional provisions. This Part also makes various
+consequential amendments to other existing legislation.
+
+A de minimis impact assessment has been prepared for this instrument and is
+available on  www.legislation.gov.uk .
+
+An Explanatory Memorandum has been published alongside this instrument at
+www.legislation.gov.uk .
+

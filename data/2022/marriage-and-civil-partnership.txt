@@ -1,0 +1,584 @@
+Title: Marriage and Civil Partnership (Minimum Age) Act 2022
+Date: 2023-04-05
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ukpga/2022/28
+
+## Marriage and Civil Partnership (Minimum Age) Act 2022
+
+      B e it enacted  by the Queen’s most Excellent Majesty, by and with the
+advice and consent of the Lords Spiritual and Temporal, and Commons, in this
+present Parliament assembled, and by the authority of the same, as follows:—
+
+### Marriage
+
+#### Marriage: increase of minimum age to 18
+
+1
+
+1.1
+
+The Marriage Act 1949 is amended as follows.
+
+1.2
+
+In section 2 (marriages of persons under sixteen)—
+
+1.2.a
+
+in the heading, for “sixteen” substitute  “eighteen” ;
+
+1.2.b
+
+in the text, for “sixteen” substitute  “eighteen” .
+
+1.3
+
+Omit section 3 (marriages of persons under eighteen).
+
+#### Offence of conduct relating to marriage of persons under 18
+
+2
+
+2.1
+
+Section 121 of the Anti-social Behaviour, Crime and Policing Act 2014 (offence
+of forced marriage: England and Wales) is amended as follows.
+
+2.2
+
+After subsection (3) insert—
+
+2.2.3A
+
+A person commits an offence under the law of England and Wales if he or she
+carries out any conduct for the purpose of causing a child to enter into a
+marriage before the child’s eighteenth birthday (whether or not the conduct
+amounts to violence, threats, any other form of coercion or deception, and
+whether or not it is carried out in England and Wales).
+
+2.3
+
+After subsection (5) insert—
+
+2.3.5A
+
+“ Child ” means a person under the age of 18 years.
+
+2.4
+
+In subsection (6)—
+
+2.4.a
+
+after “(1)” insert  “or subsection (3A)” ;
+
+2.4.b
+
+for “that subsection” substitute  “either of those subsections” .
+
+2.5
+
+After subsection (7) insert—
+
+2.5.7A
+
+A person commits an offence under subsection (3A) only if—
+
+2.5.7A.a
+
+the conduct is for the purpose of causing the child to enter into a marriage
+in England or Wales,
+
+2.5.7A.b
+
+at the time of the conduct, the person or child is habitually resident in
+England and Wales, or
+
+2.5.7A.c
+
+at the time of the conduct, the child is a United Kingdom national who—
+
+2.5.7A.c.i
+
+has been habitually resident in England and Wales, and
+
+2.5.7A.c.ii
+
+is not habitually resident or domiciled in Scotland or Northern Ireland.
+
+### Civil partnership
+
+#### Civil partnership: increase of minimum age to 18
+
+3
+
+3.1
+
+The Civil Partnership Act 2004 is amended as follows.
+
+3.2
+
+In section 3 (eligibility), in subsection (1), in paragraph (c), for “16”
+substitute  “18” .
+
+3.3
+
+Omit section 4 (parental etc. consent where proposed civil partner under 18).
+
+#### Civil partnerships etc. registered outside England and Wales
+
+4
+
+4.1
+
+The Civil Partnership Act 2004 is amended as follows.
+
+4.2
+
+In section 54 (validity of civil partnerships registered outside England and
+Wales)—
+
+4.2.a
+
+in subsection (1)—
+
+4.2.a.i
+
+in paragraph (a), omit “and”;
+
+4.2.a.ii
+
+after paragraph (a), insert—
+
+4.2.a.ii.aa
+
+void, if the civil partnership was registered when—
+
+4.2.a.ii.aa.i
+
+one of the two people was domiciled in England and Wales, and
+
+4.2.a.ii.aa.ii
+
+one of the two people was under 18, and
+
+;
+
+4.2.b
+
+in subsection (2)—
+
+4.2.b.i
+
+in paragraph (a), omit “and”;
+
+4.2.b.ii
+
+after paragraph (a), insert—
+
+4.2.b.ii.aa
+
+void, if the civil partnership was registered when—
+
+4.2.b.ii.aa.i
+
+one of the two people was domiciled in England and Wales, and
+
+4.2.b.ii.aa.ii
+
+one of the two people was under 18, and
+
+;
+
+4.2.c
+
+in subsection (2A)—
+
+4.2.c.i
+
+in paragraph (a), omit “and”;
+
+4.2.c.ii
+
+after paragraph (a), insert—
+
+4.2.c.ii.aa
+
+void, if the marriage was solemnised there when—
+
+4.2.c.ii.aa.i
+
+one of the two people was domiciled in England and Wales, and
+
+4.2.c.ii.aa.ii
+
+one of the two people was under 18, and
+
+.
+
+4.3
+
+In section 217 (person domiciled in a part of the United Kingdom), in
+subsection (2), in paragraph (a), for “16” substitute  “18” .
+
+### Final provisions
+
+#### Consequential amendments
+
+5
+
+5.1
+
+The Schedule  to this Act contains minor and consequential amendments.
+
+5.2
+
+The Secretary of State may by regulations made by statutory instrument make
+provision that is consequential on any provision made by this Act.
+
+5.3
+
+Regulations under  this section —
+
+5.3.a
+
+may include transitional or saving provision;
+
+5.3.b
+
+may amend, repeal or revoke any provision of or made under primary
+legislation.
+
+5.4
+
+The provision referred to in  subsection (3) (b)  does not include a provision
+of legislation passed or made after the end of the session of Parliament in
+which this Act is passed.
+
+5.5
+
+A statutory instrument containing regulations under  this section  that amend,
+repeal or revoke primary legislation may not be made unless a draft of the
+instrument has been laid before and approved by a resolution of each House of
+Parliament.
+
+5.6
+
+Any other statutory instrument containing regulations under  this section  is
+subject to annulment in pursuance of a resolution of either House of
+Parliament.
+
+5.7
+
+In  this section  “ primary legislation ” means—
+
+5.7.a
+
+an Act;
+
+5.7.b
+
+a Measure or Act of Senedd Cymru;
+
+5.7.c
+
+an Act of the Scottish Parliament;
+
+5.7.d
+
+Northern Ireland legislation.
+
+#### Extent
+
+6
+
+6.1
+
+This Act extends to England and Wales only, subject to  subsections (2)  and
+(3) .
+
+6.2
+
+Sections 4 (3)  and  5  to  9  also extend to Scotland and Northern Ireland.
+
+6.3
+
+An amendment or repeal made by  the Schedule  has the same extent as the
+provision amended or repealed.
+
+#### Commencement
+
+7
+
+7.1
+
+The provisions of this Act come into force on such day as the Secretary of
+State may by regulations appoint.
+
+7.2
+
+Different days may be appointed for different purposes.
+
+7.3
+
+The Secretary of State may by regulations make transitional, transitory or
+saving provision in connection with the coming into force of any provision of
+this Act.
+
+7.4
+
+Regulations under this section are to be made by statutory instrument.
+
+#### Saving provisions
+
+8
+
+8.1
+
+An amendment made by a provision of this Act does not affect the validity of—
+
+8.1.a
+
+any marriage solemnised, or
+
+8.1.b
+
+any civil partnership registered,
+
+before the day on which that provision comes into force.
+
+8.2
+
+The amendment made by  section 4 (3)  does not affect the treatment as a civil
+partnership of an overseas relationship that is registered under the relevant
+law as having been entered into before that provision comes into force.
+
+8.3
+
+In  subsection (2) —
+
+      “ overseas relationship ” has the same meaning as in the Civil
+Partnership Act 2004 (see section 212(1) of that Act);           “ the
+relevant law ” has the same meaning as in Chapter 2 of Part 5 of that Act (see
+section 212(2) of that Act).
+
+#### Short title
+
+9
+
+This Act may be cited as the Marriage and Civil Partnership (Minimum Age) Act
+2022.
+
+  Minor and consequential amendments
+
+Section 5
+
+##### Marriage Act 1949
+
+1
+
+1.1
+
+The Marriage Act 1949 is amended as follows.
+
+1.2
+
+In section 16 (provisions as to common licences), in subsection (1), omit
+paragraph (c).
+
+1.3
+
+In section 25 (void marriages), in subsection (2), in paragraph (c), omit
+“subsection (3) of section three or”.
+
+1.4
+
+In section 28 (declaration to accompany notice of marriage), in subsection
+(1), omit paragraph (c).
+
+1.5
+
+Omit section 30 (forbidding of issue of marriage schedule).
+
+1.6
+
+In section 31 (marriage under marriage schedule)—
+
+1.6.a
+
+in subsection (2)—
+
+1.6.a.i
+
+in paragraph (a) omit “or”;
+
+1.6.a.ii
+
+omit paragraph (b);
+
+1.6.b
+
+omit subsection (3A).
+
+1.7
+
+In section 48 (proof of certain matters not necessary to validity of
+marriages), in subsection (1), omit paragraph (b).
+
+1.8
+
+In section 75 (offences relating to solemnization of marriages), in subsection
+(3)—
+
+1.8.a
+
+in paragraph (b), at the end insert  “or” ;
+
+1.8.b
+
+omit paragraph (c).
+
+##### Marriage (Registrar General’s Licence) Act 1970
+
+2
+
+2.1
+
+The Marriage (Registrar General’s Licence) Act 1970 is amended as follows.
+
+2.2
+
+In section 3 (evidence of capacity, consent etc., to be produced), omit
+paragraph (b).
+
+2.3
+
+Omit section 6 (marriage of persons under eighteen).
+
+2.4
+
+In section 7 (issue of licence by Registrar General)—
+
+2.4.a
+
+in paragraph (a), omit “or”;
+
+2.4.b
+
+omit paragraph (b).
+
+##### Matrimonial Causes Act 1973
+
+3
+
+In the Matrimonial Causes Act 1973, in section 11 (grounds on which a marriage
+is void), in paragraph (a), in sub-paragraph (ii), for “sixteen” substitute
+“eighteen” .
+
+##### Civil Partnership Act 2004
+
+4
+
+4.1
+
+The Civil Partnership Act 2004 is amended as follows.
+
+4.2
+
+In section 5 (types of pre-registration procedure), in subsection (3)—
+
+4.2.a
+
+in paragraph (a), omit “and”;
+
+4.2.b
+
+omit paragraph (b).
+
+4.3
+
+In section 31 (offences relating to civil partnership schedule)—
+
+4.3.a
+
+in subsection (1)—
+
+4.3.a.i
+
+at the end of paragraph (a) insert  “or” ;
+
+4.3.a.ii
+
+in paragraph (b) omit “or”;
+
+4.3.a.iii
+
+omit paragraph (c);
+
+4.3.b
+
+in subsection (2), in paragraph (d), omit “or (c)”.
+
+4.4
+
+In section 32 (offence relating to General Registrar’s licence), in subsection
+(2), in paragraph (d), omit “or (c)”.
+
+4.5
+
+In section 33 (offences relating to the recording of civil partnerships)—
+
+4.5.a
+
+in subsection (5) omit “or (c)”;
+
+4.5.b
+
+in subsection (7) omit “or (c)”.
+
+4.6
+
+In section 49 (grounds on which civil partnership is void)—
+
+4.6.a
+
+at the end of paragraph (a) insert  “or” ;
+
+4.6.b
+
+in paragraph (b), in sub-paragraph (vi) omit “or”;
+
+4.6.c
+
+omit paragraph (c).
+
+4.7
+
+In section 52 (proof of certain matters not necessary to validity of civil
+partnership)—
+
+4.7.a
+
+in subsection (1), omit paragraph (a);
+
+4.7.b
+
+omit subsection (2).
+
+4.8
+
+In section 80 (false statements etc. with reference to civil partnerships), in
+subsection (1)—
+
+4.8.a
+
+at the end of paragraph (b) insert  “or” ;
+
+4.8.b
+
+omit paragraph (c).
+
+4.9
+
+Omit Schedule 2 (civil partnerships of persons under 18: England and Wales).
+

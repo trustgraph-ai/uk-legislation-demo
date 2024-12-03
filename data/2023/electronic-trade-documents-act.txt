@@ -1,0 +1,403 @@
+Title: Electronic Trade Documents Act 2023
+Date: 2024-05-20
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ukpga/2023/38
+
+## Electronic Trade Documents Act 2023
+
+      B e it enacted  by the King’s most Excellent Majesty, by and with the
+advice and consent of the Lords Spiritual and Temporal, and Commons, in this
+present Parliament assembled, and by the authority of the same, as follows:—
+
+### Definition of “paper trade document”
+
+1
+
+1.1
+
+A document is a “ paper trade document ” for the purposes of this Act if—
+
+1.1.a
+
+it is in paper form,
+
+1.1.b
+
+it is a document of a type commonly used in at least one part of the United
+Kingdom in connection with—
+
+1.1.b.i
+
+trade in or transport of goods, or
+
+1.1.b.ii
+
+financing such trade or transport, and
+
+1.1.c
+
+possession of the document is required as a matter of law or commercial
+custom, usage or practice for a person to claim performance of an obligation.
+
+1.2
+
+The following are examples of documents that are commonly used as mentioned in
+subsection  (1)(b) —
+
+1.2.a
+
+a bill of exchange;
+
+1.2.b
+
+a promissory note;
+
+1.2.c
+
+a bill of lading;
+
+1.2.d
+
+a ship’s delivery order;
+
+1.2.e
+
+a warehouse receipt;
+
+1.2.f
+
+a mate’s receipt;
+
+1.2.g
+
+a marine insurance policy;
+
+1.2.h
+
+a cargo insurance certificate.
+
+### Definition of “electronic trade document”
+
+2
+
+2.1
+
+This section applies where information in electronic form is information that,
+if contained in a document in paper form, would lead to the document being a
+paper trade document.
+
+2.2
+
+The information, together with any other information with which it is
+logically associated that is also in electronic form, constitutes an “
+electronic trade document ” for the purposes of this Act if a reliable system
+is used to—
+
+2.2.a
+
+identify the document so that it can be distinguished from any copies,
+
+2.2.b
+
+protect the document against unauthorised alteration,
+
+2.2.c
+
+secure that it is not possible for more than one person to exercise control of
+the document at any one time,
+
+2.2.d
+
+allow any person who is able to exercise control of the document to
+demonstrate that the person is able to do so, and
+
+2.2.e
+
+secure that a transfer of the document has effect to deprive any person who
+was able to exercise control of the document immediately before the transfer
+of the ability to do so (unless the person is able to exercise control by
+virtue of being a transferee).
+
+2.3
+
+For the purposes of subsection  (2) —
+
+2.3.a
+
+a person exercises control of a document when the person uses, transfers or
+otherwise disposes of the document (whether or not the person has a legal
+right to do so), and
+
+2.3.b
+
+persons acting jointly are to be treated as one person.
+
+2.4
+
+Reading or viewing a document is not, of itself, sufficient to amount to use
+of the document for the purposes of subsection  (3)(a) .
+
+2.5
+
+When determining whether a system is reliable for the purposes of subsection
+(2), the matters that may be taken into account include—
+
+2.5.a
+
+any rules of the system that apply to its operation;
+
+2.5.b
+
+any measures taken to secure the integrity of information held on the system;
+
+2.5.c
+
+any measures taken to prevent unauthorised access to and use of the system;
+
+2.5.d
+
+the security of the hardware and software used by the system;
+
+2.5.e
+
+the regularity of and extent of any audit of the system by an independent
+body;
+
+2.5.f
+
+any assessment of the reliability of the system made by a body with
+supervisory or regulatory functions;
+
+2.5.g
+
+the provisions of any voluntary scheme or industry standard that apply in
+relation to the system.
+
+### Possession, indorsement and effect of electronic trade documents
+
+3
+
+3.1
+
+A person may possess, indorse and part with possession of an electronic trade
+document.
+
+3.2
+
+An electronic trade document has the same effect as an equivalent paper trade
+document.
+
+3.3
+
+Anything done in relation to an electronic trade document has the same effect
+(if any) in relation to the document as it would have in relation to an
+equivalent paper trade document.
+
+3.4
+
+An electronic trade document is to be treated as corporeal moveable property
+for the purposes of any Act of the Scottish Parliament relating to the
+creation of a security in the form of a pledge over moveable property.
+
+### Change of form
+
+4
+
+4.1
+
+A paper trade document may be converted into an electronic trade document, and
+an electronic trade document may be converted into a paper trade document, if
+(and only if)—
+
+4.1.a
+
+a statement that the document has been converted is included in the document
+in its new form, and
+
+4.1.b
+
+any contractual or other requirements relating to the conversion of the
+document are complied with.
+
+4.2
+
+Where a document is converted in accordance with subsection  (1) —
+
+4.2.a
+
+the document in its old form ceases to have effect, and
+
+4.2.b
+
+all rights and liabilities relating to the document continue to have effect in
+relation to the document in its new form.
+
+### Exceptions
+
+5
+
+5.1
+
+If an intention that section 3 should not apply in relation to an electronic
+trade document appears in, or can reasonably be inferred from, the document or
+terms that have effect in relation to the document—
+
+5.1.a
+
+that section does not apply in relation to the document, and
+
+5.1.b
+
+section 4 also does not apply in relation to it.
+
+5.2
+
+Sections 1 to 4 do not apply in relation to—
+
+5.2.a
+
+an uncertificated unit of a security that is transferable by means of a
+relevant system in accordance with the Uncertificated Securities Regulations
+2001 ( S.I. 2001/3755 ), or
+
+5.2.b
+
+a document or instrument of a type specified in regulations made by the
+appropriate authority.
+
+5.3
+
+The Secretary of State may by regulations amend this section so as to amend or
+remove the exception conferred by subsection  (2)(a) .
+
+5.4
+
+The Secretary of State must consult the Scottish Ministers before making
+regulations under subsection  (2)(b)  that contain provision that is to have
+effect in relation to Scotland.
+
+5.5
+
+Subsection  (4)  does not apply if the regulations are to be made by the
+Secretary of State and the Scottish Ministers acting jointly.
+
+5.6
+
+Regulations under this section may include incidental, consequential,
+transitional or saving provision.
+
+5.7
+
+“ The appropriate authority ”, in relation to regulations under subsection
+(2)(b) , means—
+
+5.7.a
+
+in any case, the Secretary of State or the Secretary of State and the Scottish
+Ministers acting jointly;
+
+5.7.b
+
+in a case in which all of the provision made by the regulations is within
+Scottish devolved competence, the Scottish Ministers.
+
+5.8
+
+Provision is within Scottish devolved competence if it is provision which
+would be within the legislative competence of the Scottish Parliament if
+contained in an Act of that Parliament.
+
+### Regulations under section 5
+
+6
+
+6.1
+
+Any power to make regulations under section 5, so far as exercisable by the
+Secretary of State acting alone or by the Secretary of State and the Scottish
+Ministers acting jointly, is exercisable by statutory instrument.
+
+6.2
+
+For regulations made under section 5 by the Scottish Ministers acting alone,
+see section 27 of the 2010 Act (Scottish statutory instruments).
+
+6.3
+
+A statutory instrument containing regulations made under section 5 by the
+Secretary of State acting alone, or by the Secretary of State and the Scottish
+Ministers acting jointly, may not be made unless a draft of the instrument
+containing the regulations has been laid before and approved by a resolution
+of each House of Parliament.
+
+6.4
+
+Regulations made under section 5 by the Scottish Ministers acting alone, or by
+the Secretary of State and the Scottish Ministers acting jointly, are subject
+to the affirmative procedure (see section 29 of the 2010 Act).
+
+6.5
+
+Where regulations are made under section 5 by the Secretary of State and the
+Scottish Ministers acting jointly—
+
+6.5.a
+
+section 29 of the 2010 Act (affirmative procedure) applies in relation to the
+regulations as it applies in relation to devolved subordinate legislation
+(within the meaning of Part 2 of that Act) which is subject to the affirmative
+procedure, but as if references to a Scottish statutory instrument were to a
+statutory instrument, and
+
+6.5.b
+
+section 32 of the 2010 Act (laying) applies in relation to the laying before
+the Scottish Parliament of the statutory instrument containing the regulations
+as it applies in relation to the laying before that Parliament of a Scottish
+statutory instrument (within the meaning of Part 2 of that Act).
+
+6.6
+
+In this section “ the 2010 Act ” means the Interpretation and Legislative
+Reform (Scotland) Act  2010 (asp 10) .
+
+### Consequential provision
+
+7
+
+7.1
+
+In section 89B(2) of the Bills of Exchange Act 1882 (instruments to which
+section 89A applies), at the end insert  “or to anything that is an electronic
+trade document for the purposes of the Electronic Trade Documents Act 2023
+(see section 2 of that Act).”
+
+7.2
+
+In section 1 of the Carriage of Goods by Sea Act 1992 (shipping documents
+etc), omit subsections (5) and (6).
+
+### Extent, commencement and short title
+
+8
+
+8.1
+
+This Act extends to England and Wales, Scotland and Northern Ireland, except
+that section 3(4) extends only to Scotland.
+
+8.2
+
+This Act comes into force at the end of the period of two months beginning
+with the day on which it is passed.
+
+8.3
+
+Sections 3 and 4 do not apply in relation to a paper trade document or an
+electronic trade document issued before the day on which this Act comes into
+force.
+
+8.4
+
+This Act may be cited as the Electronic Trade Documents Act 2023.
+

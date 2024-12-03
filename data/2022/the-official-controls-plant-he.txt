@@ -1,0 +1,511 @@
+Title: The Official Controls (Plant Health) (Frequency of Checks) Regulations 2022
+Date: 2024-10-10
+Description: Part 1 of these Regulations makes provision for a regime to determine the frequency rates of physical checks and identity checks of consignments of certain plants, plant products and other objects entering Great Britain from a third country, including for the modification of those frequency rates. The plants, plant products and other objects are those for which a phytosanitary certificate is required for entry into Great Britain and which have been assessed as posing an actual or potential threat to plant biosecurity.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/739
+
+## The Official Controls (Plant Health) (Frequency of Checks) Regulations 2022
+
+Plant Health Seeds
+
+Made at 11.03 a.m. on 30th June 2022
+
+Laid before Parliament at 4.30 p.m. on 30th June 2022
+
+Coming into force 22nd July 2022
+
+The Secretary of State makes these Regulations in exercise of the powers
+conferred by Articles 22(3) and 54(3) of Regulation (EU) 2017/625 of the
+European Parliament and of the Council on official controls and other official
+activities performed to ensure the application of food and feed law, rules on
+animal health and welfare, plant health and plant protection products  (“ the
+Official Controls Regulation ”). In accordance with Article 3(2B)  of the
+Official Controls Regulation, the Scottish Ministers and the Welsh Ministers,
+in relation to the application of these Regulations to Scotland and Wales,
+have consented to the Secretary of State making these Regulations. In
+accordance with Article 144(7) of the Official Controls Regulation, before
+making these Regulations the Secretary of State has consulted such bodies and
+persons as appear to the Secretary of State to be representative of the
+interests likely to be substantially affected by these Regulations and such
+other bodies or persons as the Secretary of State considers appropriate.
+
+### Citation, commencement and extent
+
+1
+
+1.1
+
+These Regulations may be cited as the Official Controls (Plant Health)
+(Frequency of Checks) Regulations 2022 and come into force on 22nd July 2022.
+
+1.2
+
+They extend to England and Wales, and Scotland.
+
+### Rules relating to frequency of checks
+
+#### Interpretation
+
+2
+
+2.1
+
+In this Part—
+
+2.1.a
+
+“ the appropriate computerised information management system ” means the
+system for official controls referred to in Article 131 of the Official
+Controls Regulation;
+
+2.1.b
+
+“ border control post ” means a border control post in England, Scotland or
+Wales, which has been designated pursuant to Article 59(1) of the Official
+Controls Regulation for the purposes of official controls performed for the
+verification of compliance with the plant health rules;
+
+2.1.c
+
+“ the Commission Regulation ” means Commission Implementing Regulation (EU)
+2019/2072 establishing uniform conditions for the implementation of Regulation
+(EU) 2016/2031 of the European Parliament and the Council, as regards
+protective measures against pests of plants ;
+
+2.1.d
+
+“ consignment ” means a consignment of plants, plant products or other
+objects;
+
+2.1.e
+
+“ financial year ” means the period of twelve months ending with 31st March in
+any year;
+
+2.1.f
+
+“ frequency rate ”, in relation to physical checks and identity checks, means
+the minimum percentage of consignments arriving at a border control post in
+Great Britain during any given financial year in respect of which physical
+checks and identity checks must be carried out by a plant health inspector,
+being the percentage determined in accordance with regulations 3 and 4;
+
+2.1.g
+
+“ the Official Controls Regulation ” means Regulation (EU) 2017/625 of the
+European Parliament and of the Council on official controls and other official
+activities performed to ensure the application of food and feed law, rules on
+animal health and welfare, plant health and plant protection products ;
+
+2.1.h
+
+“ plant health inspector ” means—
+
+2.1.h.i
+
+in relation to England, an official plant health officer appointed by the
+Secretary of State or the Forestry Commissioners;
+
+2.1.h.ii
+
+in relation to Scotland, an official plant health officer appointed by the
+Scottish Ministers;
+
+2.1.h.iii
+
+in relation to Wales, an official plant health officer appointed by the Welsh
+Ministers;
+
+2.1.i
+
+“ the Plant Health Regulation ” means Regulation (EU) 2016/2031 of the
+European Parliament and of the Council on protective measures against pests of
+plants ;
+
+2.1.j
+
+“ plant health rule ” means a rule of a kind mentioned in Article 1(2)(g) of
+the Official Controls Regulation, and “ the plant health rules ” means all
+such rules.
+
+2.2
+
+Words and expressions not defined in this Part which appear in the Plant
+Health Regulation have the same meaning in this Part as in the Plant Health
+Regulation.
+
+#### Determination of the frequency rate of physical checks and identity checks
+
+3
+
+3.1
+
+This regulation applies to plants, plant products or other objects of a
+description specified in Part A of Annex 11  that originate in the third
+country in the corresponding entry in column (3) of the table in that Part ,
+or in Annex 12, to the Commission Regulation   ... .
+
+3.1A
+
+Paragraph (1) does not apply to plants, plant products or other objects—
+
+3.1A.a
+
+that originate in an EU Member State, Liechtenstein or Switzerland;
+
+3.1A.b
+
+are imported into Great Britain before 31st October 2024;
+
+3.1A.c
+
+are either—
+
+3.1A.c.i
+
+imported through a relevant port; or
+
+3.1A.c.ii
+
+listed in the table in Schedule 2A to the Plant Health (Amendment etc.) (EU
+Exit) Regulations 2020; and
+
+3.1A.d
+
+if originating in Liechtenstein, do not fall within the Schedule.
+
+3.2
+
+Subject to paragraph (2A),  the appropriate authority must determine the
+frequency rate of physical checks and identity checks of goods to which this
+regulation applies by reference to the third country from which the goods
+originate, and having regard to information of a kind specified in paragraph
+(4).
+
+3.2A
+
+In respect of the goods listed in the Schedule, the frequency rates determined
+by the appropriate authority must be no lower than the rates of such checks in
+respect of corresponding goods being imported into Northern Ireland,
+notwithstanding the appropriate authority having regard to information of a
+kind specified in paragraph (4).
+
+3.3
+
+The appropriate authority must publish online the frequency rates determined
+under paragraph (2)  or paragraph (2A), as applicable , and may from time to
+time publish a revised frequency rate.
+
+3.4
+
+The information referred to in paragraph (2) is—
+
+3.4.a
+
+available scientific assessments;
+
+3.4.b
+
+data and information collected through the appropriate computerised
+information management system referred to in Article 131 of the Official
+Controls Regulation;
+
+3.4.c
+
+information relating to the risk to plant health associated with the plants,
+plant products or other objects, in particular, the matters specified in
+paragraph (5) (insofar as they apply).
+
+3.5
+
+The matters referred to in paragraph (4)(c) are—
+
+3.5.a
+
+whether the plant, plant product or other object has been processed, and if
+so, the method and (if necessary) the degree of processing to which it is
+likely to have been subjected prior to its export to Great Britain;
+
+3.5.b
+
+whether the manner of storage or means of transport of the plant, plant
+product or other object prior to and during its export to Great Britain, or
+after its import into Great Britain, is likely to prevent a GB regulated non-
+quarantine pest from establishing or spreading;
+
+3.5.c
+
+the intended use of the plant or plant product following its entry into Great
+Britain and, in particular, whether it is intended for—
+
+3.5.c.i
+
+consumption or use other than planting, without further processing;
+
+3.5.c.ii
+
+processing before consumption or further distribution; or
+
+3.5.c.iii
+
+planting;
+
+3.5.d
+
+in the case of plants for planting (including seeds), whether the plant—
+
+3.5.d.i
+
+is a woody plant;
+
+3.5.d.ii
+
+appears from its packaging, labelling or elsewhere to be intended for direct
+supply to final users not involved in professional plant production;
+
+3.5.d.iii
+
+is intended to be grown for direct production of other commodities
+(propagation) or for increasing the number of the same plant for planting for
+commercial use; or
+
+3.5.d.iv
+
+is intended to be an indoor plant.
+
+3.5.e
+
+in the case of seeds, whether they—
+
+3.5.e.i
+
+are intended for marketing within Great Britain;
+
+3.5.e.ii
+
+are intended to be used for trial or official testing purposes; or
+
+3.5.e.iii
+
+have been subjected to testing, and the level of any such testing.
+
+3.6
+
+Subject to regulation 4(2), a plant health inspector must select goods to
+which this regulation applies for the performance of physical checks and
+identity checks at, as a minimum, the frequency rate determined pursuant to
+paragraph (2)  or paragraph (2A), as applicable   in relation to plants, plant
+products or other objects of the kind in question.
+
+3.7
+
+In this regulation—
+
+“ indoor plant ” means a plant which appears from its packaging, labelling or
+by other means to be intended for direct supply to final users for indoor use
+or use in an aquarium;   relevant port” means any of the following seaports—
+Ayr; Barrow; Barry; Cairnryan; Cardiff; Ellesmere Port; Fishguard; Garston;
+Greenock; Heysham; Holyhead; Lancaster; Liverpool; Mersey Wharf; Newport;
+Pembroke; Port Talbot; Royal Portbury (Bristol); Seaforth Grain Terminal;
+Silloth; Workington.   ... “ woody plant ” means a plant which has a woody or
+partly woody stem, and includes all trees, forest reproductive material (other
+than seed), shrubs and palms, and those vines and perennial herbs with woody
+or partly woody stems; and for this purpose “ perennial herbs ” means herbs
+for which the average life exceeds two years.
+
+#### Annual review and modification of the frequency rate of physical checks and identity checks
+
+4
+
+4.1
+
+The appropriate authority must annually review the frequency rates determined
+pursuant to regulation 3(2), and, following the review, may increase or
+decrease any such frequency rate if it considers it appropriate to do so
+having regard to information of a kind specified in regulation 3(4).
+
+4.2
+
+The competent authority may (without prejudice to paragraph (1)) at any time
+increase the frequency rate of a physical check of plants, plant products or
+other objects of a particular kind if it considers—
+
+4.2.a
+
+that the plant, plant product or other object of the kind in question poses a
+serious risk of a plant pest establishing or spreading in view of—
+
+4.2.a.i
+
+a new threat of a plant pest from a particular third country; or
+
+4.2.a.ii
+
+frequent interceptions of a controlled plant pest on a plant, plant product or
+other object of the kind in question from a particular third country; or
+
+4.2.b
+
+that the increased frequency rate is appropriate in view of—
+
+4.2.b.i
+
+information collected by the appropriate authority in accordance with Article
+125(1) of the Official Controls Regulation; or
+
+4.2.b.ii
+
+the outcome of controls performed in accordance with Article 120(1) of the
+Official Controls Regulation by experts appointed by the appropriate
+authority.
+
+4.3
+
+Where the risk, information or outcome of controls referred to in paragraph
+(2) no longer justifies the increased frequency rate applied under that
+paragraph, the competent authority must reduce the frequency rates of physical
+checks and identity checks to the frequency rates determined pursuant to
+regulation 3(2)  or regulation 3(2A), as applicable   in relation to plants,
+plant products or other objects of the kind in question.
+
+4.4
+
+In this regulation—
+
+“ the competent authority ” means— in relation to England, the competent
+authority designated pursuant to regulation 6(1) and (2) of the Official
+Controls (Plant Health and Genetically Modified Organisms) (England)
+Regulations 2019 ; in relation to Scotland, the competent authority designated
+pursuant to regulation 5(1) of the Plant Health (Official Controls and
+Miscellaneous Provisions) (Scotland) Regulations 2019  and (where an
+arrangement has been made under regulation 5(2) of those Regulations), the
+Forestry Commissioners; in relation to Wales, the competent authority
+designated pursuant to regulation 6(1) of the Official Controls (Plant Health
+and Genetically Modified Organisms) (Wales) Regulations 2020 ; “ controlled
+plant pest ” means— a plant pest of a description specified in Annex 2, 2A, 3
+or 4 to the Commission Regulation; or a plant pest subject to any of the plant
+health rules, including a potential quarantine plant pest; “ potential
+quarantine plant pest ” means a plant pest which is not a GB quarantine pest
+or a provisional GB quarantine pest within the meaning respectively given in
+Article 2(32) and (40) of the Plant Health Regulation, but in relation to
+which the appropriate authority considers— the criteria set out in subsection
+1 of section 3 of Annex 1 to that Regulation are met; or there is a material
+risk, on the basis of an assessment of available scientific information and
+other evidence, and pending further information or assessments relating to the
+pest, that the criteria set out in subsection 2 of that section are met.
+
+#### Selection of consignments for physical checks
+
+5
+
+5.1
+
+A plant health inspector must select a third country consignment for a
+physical check in one of the following ways—
+
+5.1.a
+
+the selection of a consignment generated by the appropriate computerised
+information management system;
+
+5.1.b
+
+the selection of a consignment of plants, plant products or other objects of
+the same category and origin as those in any consignment selected as described
+in sub-paragraph (a);
+
+5.1.c
+
+the selection of a consignment which a plant health inspector suspects—
+
+5.1.c.i
+
+is likely to be, or has been, brought into Great Britain in contravention of a
+plant health rule; or
+
+5.1.c.ii
+
+may not otherwise comply with a plant health rule.
+
+5.2
+
+For each consignment selected for a physical check in accordance with
+paragraph (1), the plant health inspector must perform an identity check in
+accordance with the requirement set out in Article 3(1) of Commission
+Implementing Regulation (EU) 2019/2130 establishing detailed rules on the
+operations to be carried out during and after documentary checks, identity
+checks and physical checks on animals and goods subject to official controls
+at border control posts .
+
+5.3
+
+In this regulation, “ third country consignment ” means a consignment that is
+introduced into Great Britain from a third country.
+
+### Official controls: Amendment of secondary legislation
+
+#### The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021
+
+6
+
+Part 6 of the Official Controls, Plant Health, Seeds and Seed Potatoes
+(Amendment etc.) Regulations 2021  is revoked.
+
+Benyon Parliamentary Under Secretary of State Department for Environment, Food
+and Rural Affairs At 11.03 a.m. on 30th June 2022
+
+List of goods
+
+Regulation 3
+
+Description of plants Country of origin Strawberries, fresh or chilled Third
+countries other than an EU Member State and Switzerland Avocados, fresh or
+chilled Third countries other than an EU Member State and Switzerland
+Blackberries, mulberries and loganberries, fresh or chilled Third countries
+other than an EU Member State and Switzerland Raspberries, fresh or chilled
+Third countries other than an EU Member State and Switzerland Table grapes,
+fresh or chilled Third countries other than an EU Member State and Switzerland
+Apples, fresh or chilled but excluding cider apples, in bulk from 16 September
+to 15 December Third countries other than an EU Member State and Switzerland
+Pears, fresh or chilled but excluding perry pears in bulk, from 01 August to
+31 December Third countries other than an EU Member State and Switzerland
+Fruits of the species  Vaccinium macrocarpon  and  Vaccinium corymbosum ,
+fresh or chilled  Third countries other than an EU Member State and
+Switzerland Fruits of species  Vaccinium myrtillus,  fresh or chilled  Third
+countries other than an EU Member State and Switzerland Fruits of the genus
+Capsicum or of the genus Pimenta (Solanaceae), fresh or chilled, but excluding
+fruits of the genus Capsicum for the manufacture of capsicin or capsicum
+oleoresin dyes, or for the industrial manufacture of essential oils or
+resinoids Third countries other than an EU Member State and Switzerland Sweet
+potatoes, fresh, whole, intended for human consumption Third countries other
+than an EU Member State and Switzerland Ginger, fresh or chilled, other than
+dried Third countries other than an EU Member State and Switzerland Tomatoes,
+fresh or chilled Third countries other than an EU Member State and Switzerland
+Asparagus, fresh or chilled Third countries other than an EU Member State and
+Switzerland Sweetcorn, fresh or chilled Third countries other than an EU
+Member State and Switzerland.   Leaves of basil plants, fresh or chilled Third
+countries other than an EU Member State and Switzerland Cut flowers of
+carnations, fresh Third countries other than an EU Member State and
+Switzerland Cut flowers of roses, fresh Third countries other than an EU
+Member State and Switzerland Cut flowers of gypsophila, fresh Third countries
+other than an EU Member State and Switzerland Cut flowers of chrysanthemums,
+fresh Third countries other than an EU Member State and Switzerland
+
+## EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Part 1 of these Regulations makes provision for a regime to determine the
+frequency rates of physical checks and identity checks of consignments of
+certain plants, plant products and other objects entering Great Britain from a
+third country, including for the modification of those frequency rates. The
+plants, plant products and other objects are those for which a phytosanitary
+certificate is required for entry into Great Britain and which have been
+assessed as posing an actual or potential threat to plant biosecurity.
+
+Part 2 revokes Part 6 of the Official Controls, Plant Health, Seeds and Seed
+Potatoes (Amendment etc.) Regulations 2021 ( S.I. 2021/426 ).
+
+A full impact assessment has not been produced for this instrument as no, or
+no significant impact on the private or voluntary sector is foreseen.
+

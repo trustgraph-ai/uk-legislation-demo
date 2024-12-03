@@ -1,0 +1,901 @@
+Title: The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024
+Date: 2024-05-28
+Description: The Public Service Pensions and Judicial Offices Act 2022 (c. 7) (“PSPJOA 2022”) was made to remedy age discrimination caused by transitional provision contained in the Judicial Pensions Regulations (Northern Ireland) 2015 (S.R. 2015 No. 76) (“the 2015 Regulations”). The Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023 (S.R. 2023 No. 107) (“the 2023 Regulations”) were made under PSPJOA 2022 to implement it and make further technical provision for judicial schemes.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2024/106
+
+## The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024
+
+    Public Service Pensions
+
+  Made   2nd May 2024
+
+  Coming into operation-   24th May 2024
+
+      The Department of Justice makes these Regulations in exercise of the
+powers conferred by sections 1(1) and (2)(b), 2(1) (as read with paragraph 2
+of Schedule 2) and 3(1), (2)(a) (as read with paragraphs 2 and 9 of Schedule
+3) and (c), and (3)(b) of the Public Service Pensions Act (Northern Ireland)
+2014  (“ the 2014 Act ”) and sections 58(1) to (4), 67(2) and (3), 74(2) and
+103(1) and (2) of the Public Service Pensions and Judicial Offices Act 2022
+(“PSPJOA 2022”).       In accordance with section 21 of the 2014 Act, the
+Department of Justice has consulted such persons or representatives of such
+persons as appear to the Department of Justice likely to be affected by these
+Regulations.       In accordance with section 3(5) of the 2014 Act, the
+Department of Justice has obtained the consent of the Department of Finance
+before making these Regulations.       The Department of Justice has had
+regard to the matters referred to in section 5(4) of the 2014 Act.       To
+the extent required by section 62 of PSPJOA 2022, these Regulations are made
+in accordance with Treasury directions  made under that section.           In
+accordance with section 24(1)(c) of the 2014 Act, the Pension Board for the
+scheme of judicial office holders has stated that it considers these
+Regulations to be minor or wholly beneficial.
+
+### Citation, commencement and extent
+
+1
+
+These Regulations—
+
+1.a
+
+may be cited as the Judicial Pensions (Remediable Service etc.) (Amendment)
+Regulations (Northern Ireland) 2024; and
+
+1.b
+
+come into operation on 24th May 2024.
+
+### Amendment of the Judicial Pensions Regulations (Northern Ireland) 2015
+
+2
+
+2.1
+
+The Judicial Pensions Regulations (Northern Ireland) 2015  are amended as
+follows.
+
+2.2
+
+In regulation 2 (interpretation) for the definition of “active member”
+substitute—
+
+      active member”, in relation to this scheme, means a person who is in
+pensionable service under this scheme;
+
+;
+
+2.3
+
+After regulation 36 (application of chapter), insert—
+
+######### Purported transfer value payment
+
+2.3.36A
+
+In this Chapter, “ purported transfer value payment ” means a payment—
+
+2.3.36A.a
+
+which was made by either—
+
+2.3.36A.a.i
+
+a person “P” who has remediable service  in a judicial office; or
+
+2.3.36A.a.ii
+
+a relevant fee-paid judge  who has relevant service in a judicial office;
+
+2.3.36A.b
+
+which was intended to be a transfer value payment; and
+
+2.3.36A.c
+
+which was not a transfer value payment due to—
+
+2.3.36A.c.i
+
+a determination by a court or tribunal that, as a result of a non-
+discrimination rule , any person has rights under a judicial legacy scheme in
+respect of P’s remediable service;
+
+2.3.36A.c.ii
+
+an agreement between the scheme manager of a judicial legacy scheme and any
+person that, as a result of a non-discrimination rule, the person has any
+rights under the scheme in respect of P’s remediable service; or
+
+2.3.36A.c.iii
+
+the payment being made in relation to a relevant fee-paid judge.
+
+.
+
+2.4
+
+For regulation 38A (accrued earned pension attributable to a transfer value
+payment where a legacy scheme election is made) substitute—
+
+######### Transfer value payment or purported transfer value payment in respect of judges with remediable service
+
+2.4.38A
+
+2.4.38A.1
+
+Paragraph (2) applies where—
+
+2.4.38A.1.a
+
+a person “P” has remediable service in a judicial office;
+
+2.4.38A.1.b
+
+one or more purported transfer value payments were made in relation to P
+during the period of remediable service;
+
+2.4.38A.1.c
+
+an immediate detriment remedy  has been obtained in relation to the period of
+remediable service; and
+
+2.4.38A.1.d
+
+no payment has been made to P, or to another pension scheme on behalf of P, of
+a value which represents the full value of P’s purported transfer value
+payments (as referred to in sub-paragraph (b)).
+
+2.4.38A.2
+
+The purported transfer value payments referred to in paragraph (1)(b) are to
+be treated as having been received by this scheme and P is to be treated as an
+active member of this scheme for all purposes in connection with the purported
+transfer value payments.
+
+2.4.38A.3
+
+Paragraph (4) applies where—
+
+2.4.38A.3.a
+
+a person “P” has remediable service in a judicial office;
+
+2.4.38A.3.b
+
+one or more transfer value payments have been received by this scheme in
+relation to P during the period of remediable service; and
+
+2.4.38A.3.c
+
+a legacy scheme election under section 40 of PSPJOA 2022 is made in respect of
+P.
+
+2.4.38A.4
+
+P is to be treated as an active member of this scheme for all purposes in
+connection with the transfer value payments referred to in paragraph (3)(b).
+
+.
+
+2.5
+
+For regulation 38B (accrued earned pension attributable to a transfer value
+payment in respect of relevant fee-paid judges) substitute—
+
+######### Purported transfer value payment in respect of relevant fee-paid judges
+
+2.5.38B
+
+2.5.38B.1
+
+Paragraph (2) applies where—
+
+2.5.38B.1.a
+
+a relevant fee-paid judge “R” has relevant service in a judicial office; and
+
+2.5.38B.1.b
+
+one or more purported transfer value payments were made in relation to R
+during the period of relevant service.
+
+2.5.38B.2
+
+The purported transfer value payments referred to in paragraph (1)(b) are to
+be treated as having been received by this scheme and R is to be treated as an
+active member of this scheme for all purposes in connection with the purported
+transfer value payments.
+
+.
+
+2.6
+
+In Schedule 1 (payments for extra pension)—
+
+2.6.a
+
+in paragraph 1 (interpretation), after the definition of “period of service”,
+insert—
+
+      “ purported added pension payment ” means a payment—         which was
+made by either—         a person “P” who has remediable service in a judicial
+office; or           a relevant fee-paid judge who has relevant service in a
+judicial office;                 which was intended to be an added pension
+payment under this Part; and           which was not an added pension payment
+under this Part due to—         determination by a court or tribunal that, as
+a result of a non-discrimination rule, any person has rights under a judicial
+legacy scheme in respect of P’s remediable service;           an agreement
+between the scheme manager of a judicial legacy scheme and any person that, as
+a result of a non-discrimination rule, the person has any rights under the
+scheme in respect of P’s remediable service; or           the payment being
+made in relation to a relevant fee-paid judge;
+
+;
+
+2.6.b
+
+for paragraph 23A (added pension in respect of judges with remediable service)
+substitute—
+
+########### Added pension payment or purported added pension payment in respect of judges with remediable service
+
+2.6.b.23A
+
+2.6.b.23A.1
+
+Sub-paragraph (2) applies where—
+
+2.6.b.23A.1.a
+
+a person “P” has remediable service in a judicial office;
+
+2.6.b.23A.1.b
+
+one or more purported added pension payments were made by P during the period
+of remediable service;
+
+2.6.b.23A.1.c
+
+an immediate detriment remedy has been obtained in relation to the period of
+remediable service;
+
+2.6.b.23A.1.d
+
+the notification period in relation to P under regulation 14(2) of the 2023
+Regulations has passed;
+
+2.6.b.23A.1.e
+
+a request has not been made in respect of P under regulation 24 of the 2023
+Regulations; and
+
+2.6.b.23A.1.f
+
+no payment has been made to P of a value which represents the full value of
+P’s purported added pension payments (as referred to in paragraph (b)).
+
+2.6.b.23A.2
+
+The purported added pension payments referred to in sub-paragraph (1)(b) are
+to be treated as having been received by this scheme and P is to be treated as
+an active member of this scheme for all purposes in connection with the
+purported added pension payments.
+
+2.6.b.23A.3
+
+Sub-paragraph (4) applies where—
+
+2.6.b.23A.3.a
+
+a person “P” has remediable service in a judicial office;
+
+2.6.b.23A.3.b
+
+P made one or more added pension payments during the period of remediable
+service;
+
+2.6.b.23A.3.c
+
+a legacy scheme election under section 40 of PSPJOA 2022 is made in respect of
+P;
+
+2.6.b.23A.3.d
+
+the election period in relation to P under section 69(1) PSPJOA 2022 has
+passed; and
+
+2.6.b.23A.3.e
+
+a request has not been made in respect of P under regulation 8 of the 2023
+Regulations.
+
+2.6.b.23A.4
+
+P is to be treated as an active member of this scheme for all purposes in
+connection with the added pension payments referred to in sub-paragraph
+(3)(b).
+
+;
+
+2.6.c
+
+for paragraph 23B (added pension in respect of relevant fee-paid judges)
+substitute—
+
+########### Purported added pension in respect of relevant fee-paid judges
+
+2.6.c.23B
+
+2.6.c.23B.1
+
+Sub-paragraph (2) applies where—
+
+2.6.c.23B.1.a
+
+a relevant fee-paid judge “R” has relevant service in a judicial office;
+
+2.6.c.23B.1.b
+
+one or more purported added pension payments were made by R during the period
+of relevant service;
+
+2.6.c.23B.1.c
+
+the notification period in relation to R under regulation 30(2)(b) of the 2023
+Regulations has passed; and
+
+2.6.c.23B.1.d
+
+a request has not been made in respect of R under regulation 40 of the 2023
+Regulations.
+
+2.6.c.23B.2
+
+The purported added pension payments referred to in sub-paragraph (1)(b) are
+to be treated as having been received by this scheme and R is treated as
+having been an active member of this scheme for all purposes in connection
+with the purported added pension payments.
+
+.
+
+### Amendment of the Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023
+
+3
+
+3.1
+
+The Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland)
+2023  are amended as follows.
+
+3.2
+
+In regulation 2 (interpretation)—
+
+3.2.a
+
+after the definition of “Judicial Pension Board” insert—
+
+      “ purported added pension payment ” has the meaning given in paragraph 1
+of Schedule 1 to the 2015 Regulations;           “ purported effective pension
+age payment ” means a payment—         which was made by either—         a
+person “P” who has remediable service in a judicial office, or           a
+relevant fee-paid judge who has relevant service in a judicial office,
+which was intended to be an effective pension age payment under Part 3 of
+Schedule 1 to the 2015 Regulations, and           which was not in fact an
+effective pension age payment under Part 3 of Schedule 1 to the 2015
+Regulations due to—         a determination by a court or tribunal that, as a
+result of a non-discrimination rule, any person has rights under a judicial
+legacy scheme in respect of P’s remediable service,           an agreement
+between the scheme manager of a judicial legacy scheme and any person that, as
+a result of a non-discrimination rule, the person has any rights under the
+scheme in respect of P’s remediable service, or           the payment being
+made in relation to a relevant fee-paid judge;                       “
+purported special payment ” means a payment—         which was made by either—
+a person “P” who has remediable service in a judicial office, or           a
+relevant fee-paid judge who has relevant service in a judicial office,
+which was intended to be a special payment under regulation 74(3)(a) or (c) of
+the 2015 Regulations, and           which was not in fact a special payment
+under regulation 74(3)(a) or (c) due to—         a determination by a court or
+tribunal that, as a result of a non-discrimination rule, any person has rights
+under a judicial legacy scheme in respect of P’s remediable service,
+an agreement between the scheme manager of a judicial legacy scheme and any
+person that, as a result of a non-discrimination rule, the person has any
+rights under the scheme in respect of P’s remediable service, or           the
+payment being made in relation to a relevant fee-paid judge;
+
+.
+
+3.3
+
+In regulation 18 (partial retirement notice)—
+
+3.3.a
+
+in paragraph (1)(a), for “exercised” substitute  “purported to exercise” ;
+
+3.3.b
+
+in paragraph (3), before “exercise” insert  “purported” .
+
+3.4
+
+In regulation 19 (effect of immediate detriment remedy on benefits previously
+paid or payable)—
+
+3.4.a
+
+in paragraph (1)—
+
+3.4.a.i
+
+in the opening words, for “benefits (“the paid benefits”) that the 2015 scheme
+has at any time paid” substitute  “payments purporting to be benefits that the
+2015 scheme has at any time paid (“the purported benefits”)” ;
+
+3.4.a.ii
+
+in sub-paragraph (b)—
+
+3.4.a.ii.aa
+
+for “benefits” substitute  “payments” ;
+
+3.4.a.ii.bb
+
+after “receive”, insert  “as benefits” .
+
+3.4.b
+
+in paragraph (2) for “The paid benefits”, substitute  “The purported benefits”
+;
+
+3.4.c
+
+in paragraph (3)—
+
+3.4.c.i
+
+in the opening words, for “benefits (“the paid benefits”) that the 2015 scheme
+has at any time paid” substitute  “payments purporting to be benefits that the
+2015 scheme has at any time paid (“the purported benefits”)” ;
+
+3.4.c.ii
+
+in sub-paragraph (b)—
+
+3.4.c.ii.aa
+
+for “benefits” substitute  “payments” ;
+
+3.4.c.ii.bb
+
+after “receive”, insert  “as benefits” .
+
+3.4.d
+
+in paragraph (4) for “The paid benefits”, substitute  “The purported benefits”
+.
+
+3.5
+
+In regulation 20 (effect of immediate detriment remedy on pension
+contributions previously paid or payable)—
+
+3.5.a
+
+in paragraph (1)—
+
+3.5.a.i
+
+in the opening words, for “paid any pension contributions (“the paid
+contributions”) under the 2015 scheme” substitute  “made any payments
+purporting to be pension contributions under the 2015 scheme (“the purported
+contributions”)” ;
+
+3.5.a.ii
+
+in sub-paragraph (b) for “P was not required to pay to the 2015 scheme”,
+substitute  “were not payments that P was required to make under the 2015
+scheme” ;
+
+3.5.b
+
+in paragraph (2) for “The paid contributions”, substitute  “The purported
+contributions” ;
+
+3.5.c
+
+in paragraph (3)—
+
+3.5.c.i
+
+in the opening words, for “paid any pension contributions (“the paid
+contributions”) under the 2015 scheme” substitute  “made any payments
+purporting to be pension contributions under the 2015 scheme (“the purported
+contributions”)” ;
+
+3.5.c.ii
+
+in sub-paragraph (b) for “P was not required to pay to the 2015 scheme”,
+substitute  “were not payments that P was required to make under the 2015
+scheme” ;
+
+3.5.d
+
+in paragraph (4) for “The paid contributions”, substitute  “The purported
+contributions” .
+
+3.6
+
+In regulation 23 (compensation for special payments to buy out early payment
+reduction)—
+
+3.6.a
+
+immediately before “special payments”, in each place it occurs (including in
+the heading, insert  “purported” ;
+
+3.6.b
+
+in paragraph (1) omit “under regulation 74(3)(a) or (c) of the 2015
+Regulations”;
+
+3.6.c
+
+in paragraph (2)—
+
+3.6.c.i
+
+for “The rights” substitute  “For the avoidance of doubt, any rights” ;
+
+3.6.c.ii
+
+after “payments” insert  “had P been entitled to make them” ;
+
+3.6.d
+
+in paragraph (3)(b)—
+
+3.6.d.i
+
+for “was” substitute  “would have been” ;
+
+3.6.d.ii
+
+at the end, insert  “had P been entitled to make them” .
+
+3.7
+
+In regulation 24 (compensation for payments for added pension)—
+
+3.7.a
+
+immediately before “added pension”, in each place it occurs (including in the
+heading, insert  “purported” ;
+
+3.7.b
+
+in paragraph (1)(a), omit “under Part 2 of Schedule 1 to the 2015
+Regulations”;
+
+3.7.c
+
+in paragraph (2)(a)—
+
+3.7.c.i
+
+for “the rights” substitute  “for the avoidance of doubt, any rights” ;
+
+3.7.c.ii
+
+after “payments” insert  “, had P been entitled to make them,” ;
+
+3.7.d
+
+in paragraph (2)(b)(ii)—
+
+3.7.d.i
+
+for “was” substitute  “would have been” ;
+
+3.7.d.ii
+
+at the end, insert  “had P been entitled to make them” .
+
+3.8
+
+In regulation 25 (compensation for effective pension age payments)—
+
+3.8.a
+
+immediately before “effective pension age payments”, in each place it occurs
+(including in the heading), insert  “purported” ;
+
+3.8.b
+
+in paragraph (1), omit “under Part 3 of Schedule 1 to the 2015 Regulations”;
+
+3.8.c
+
+in paragraph (2)—
+
+3.8.c.i
+
+for “The rights” substitute  “For the avoidance of doubt, any rights” ;
+
+3.8.c.ii
+
+after “payments” insert  “, had P been entitled to make them,” ;
+
+3.8.d
+
+in paragraph (3)(b)—
+
+3.8.d.i
+
+for “was” substitute  “would have been” ;
+
+3.8.d.ii
+
+at the end, insert  “had P been entitled to make them” .
+
+3.9
+
+In regulation 35 (benefits previously paid or payable)—
+
+3.9.a
+
+in paragraph (1)—
+
+3.9.a.i
+
+in the opening words, for “benefits (“the paid benefits”) that the 2015 scheme
+has at any time paid” substitute  “payments purporting to be benefits that the
+2015 scheme has at any time paid (“the purported benefits”)” ;
+
+3.9.a.ii
+
+in sub-paragraph (b)—
+
+3.9.a.ii.aa
+
+for “benefits” substitute  “payments” ;
+
+3.9.a.ii.bb
+
+after “receive”, insert  “as benefits” .
+
+3.9.b
+
+in paragraph (2) for “The paid benefits”, substitute  “The purported benefits”
+;
+
+3.9.c
+
+in paragraph (3)—
+
+3.9.c.i
+
+in the opening words, for “benefits (“the paid benefits”) that the 2015 scheme
+has at any time paid” substitute  “payments purporting to be benefits that the
+2015 scheme has at any time paid (“the purported benefits”)” ;
+
+3.9.c.ii
+
+in sub-paragraph (b)—
+
+3.9.c.ii.aa
+
+for “benefits” substitute  “payments” ;
+
+3.9.c.ii.bb
+
+after “receive”, insert  “as benefits” .
+
+3.9.d
+
+in paragraph (4) for “The paid benefits”, substitute  “The purported benefits”
+.
+
+3.10
+
+In regulation 36 (pension contributions previously paid or payable)—
+
+3.10.a
+
+in paragraph (1)—
+
+3.10.a.i
+
+in the opening words, for “paid any pension contributions (“the paid
+contributions”) under the 2015 scheme” substitute  “made any payments
+purporting to be pension contributions under the 2015 scheme (“the purported
+contributions”)” ;
+
+3.10.a.ii
+
+in sub-paragraph (b), at the beginning, insert  “were payments which,”
+
+3.10.b
+
+in paragraph (2) for “The paid contributions”, substitute  “The purported
+contributions” ;
+
+3.10.c
+
+in paragraph (3)—
+
+3.10.c.i
+
+in the opening words, for “paid any pension contributions (“the paid
+contributions”) under the 2015 scheme” substitute  “made any payments
+purporting to be pension contributions under the 2015 scheme (“the purported
+contributions”)” ;
+
+3.10.c.ii
+
+in sub-paragraph (b), at the beginning, insert  “were payments which,” ;
+
+3.10.d
+
+in paragraph (4) for “The paid contributions”, substitute  “The purported
+contributions” .
+
+3.11
+
+In regulation 39 (compensation for special payments to buy out early payment
+reduction)—
+
+3.11.a
+
+immediately before “special payments”, in each place it occurs (including in
+the heading), insert  “purported” ;
+
+3.11.b
+
+in paragraph (1) omit “under regulation 74(3)(a) or (c) of the 2015
+Regulations”;
+
+3.11.c
+
+in paragraph (2)
+
+3.11.c.i
+
+for “The rights” substitute  “For the avoidance of doubt, any rights” ;
+
+3.11.c.ii
+
+after “payments” insert  “, had R been entitled to make them” ;
+
+3.11.d
+
+in paragraph (3)(b)—
+
+3.11.d.i
+
+for “was” substitute  “would have been” ;
+
+3.11.d.ii
+
+at the end, insert  “had R been entitled to make them” .
+
+3.12
+
+In regulation 40 (compensation for payments for added pension)—
+
+3.12.a
+
+immediately before “added pension”, in each place it occurs (including in the
+heading), insert  “purported” ;
+
+3.12.b
+
+in paragraph (1)(a), omit “under Part 2 of Schedule 1 to the 2015
+Regulations”;
+
+3.12.c
+
+in paragraph (2)(a)—
+
+3.12.c.i
+
+for “the rights” substitute  “for the avoidance of doubt, any rights” ;
+
+3.12.c.ii
+
+after “payments” insert  “, had R been entitled to make them,” ;
+
+3.12.d
+
+in paragraph (2)(b)(ii)—
+
+3.12.d.i
+
+for “was” substitute  “would have been” ;
+
+3.12.d.ii
+
+at the end, insert  “had R been entitled to make them” .
+
+3.13
+
+In regulation 41 (compensation for effective pension age payments)—
+
+3.13.a
+
+immediately before “effective pension age payments”, in each place it occurs
+(including in the heading), insert  “purported” ;
+
+3.13.b
+
+in paragraph (1), omit “under Part 3 of Schedule 1 to the 2015 Regulations”;
+
+3.13.c
+
+in paragraph (2)—
+
+3.13.c.i
+
+for “The rights” substitute  “For the avoidance of doubt, any rights” ;
+
+3.13.c.ii
+
+after “payments” insert  “, had R been entitled to make them” ;
+
+3.13.d
+
+in paragraph (3)(b)—
+
+3.13.d.i
+
+for “was” substitute  “would have been” ;
+
+3.13.d.ii
+
+at the end, insert  “had R been entitled to make them” .
+
+      Sealed with the Official Seal of the Department of Justice on 2nd May
+2024         Naomi Long   Minister   Department of Justice           Sealed
+with the Official Seal of the Department of Finance on 2nd May 2024
+Patrick Neeson   Senior Officer   Department of Finance
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  The Public Service Pensions and Judicial Offices Act  2022 (c. 7)  (“PSPJOA
+2022”) was made to remedy age discrimination caused by transitional provision
+contained in the Judicial Pensions Regulations (Northern Ireland) 2015 ( S.R.
+2015 No. 76 ) (“ the 2015 Regulations ”). The Judicial Pensions (Remediable
+Service etc.) Regulations (Northern Ireland) 2023 ( S.R. 2023 No. 107 ) (“ the
+2023 Regulations ”) were made under PSPJOA 2022 to implement it and make
+further technical provision for judicial schemes.
+
+  These Regulations make technical amendments to the 2015 Regulations and the
+2023 Regulations, in relation to payments purportedly made to the judicial
+pension scheme 2015 (“ the 2015 scheme ”). These payments were not in fact
+made to or received by the judicial pension scheme, due to the operation of
+anti-discrimination rules. These amendments are intended to clarify that some
+references to payments made under or received by the 2015 scheme were intended
+to be references to payments purported to have been made under or received by
+that scheme. This ensures that the remedy can be delivered in relation to
+those payments.
+
+  These Regulations are scheme regulations under the Public Service Pensions
+Act (Northern Ireland)  2014 (c. 2)  (“PSPA 2014”) and in accordance with
+PSPJOA 2022 in relation to a member’s remediable service in the judicial
+legacy schemes (as defined in section 70(3) of PSPJOA 2022) and in the 2015
+scheme. They are, to the extent required by section 62 of PSPJOA 2022, made in
+accordance with Treasury directions (see section 75 of PSPJOA 2022 for the
+definition of “Treasury directions”) under that section (in the form of the
+Public Service Pensions (Exercise of Powers, Compensation and Information)
+Directions (Northern Ireland) 2023). To the extent that these Regulations have
+retrospective effect, this is authorised by section 3(3)(b) of PSPA 2014.
+
+  A full impact assessment has not been produced for this instrument as no, or
+no significant, impact on the private, voluntary or public sector is foreseen.
+An Explanatory Memorandum has been published alongside these Regulations on
+http://www.legislation.gov.uk .
+

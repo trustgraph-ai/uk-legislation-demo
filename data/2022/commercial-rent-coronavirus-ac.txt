@@ -1,0 +1,2634 @@
+Title: Commercial Rent (Coronavirus) Act 2022
+Date: 2024-05-20
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ukpga/2022/12
+
+## Commercial Rent (Coronavirus) Act 2022
+
+      B e it enacted  by the Queen’s most Excellent Majesty, by and with the
+advice and consent of the Lords Spiritual and Temporal, and Commons, in this
+present Parliament assembled, and by the authority of the same, as follows:—
+
+### Introductory provisions
+
+#### Overview
+
+1
+
+1.1
+
+This Act enables the matter of relief from payment of protected rent debts due
+from the tenant to the landlord under a business tenancy to be resolved by
+arbitration (if not resolved by agreement).
+
+1.2
+
+In this Act—
+
+1.2.a
+
+sections 2 to 6 define for the purposes of this Act the terms “protected rent
+debt”, “the matter of relief from payment” and other key terms used in this
+Act;
+
+1.2.b
+
+Part 2 provides for statutory arbitration between the landlord and the tenant
+under a business tenancy in relation to the matter of relief from payment of a
+protected rent debt;
+
+1.2.c
+
+Part 3 provides for temporary restrictions on the availability of certain
+remedies and insolvency arrangements that would otherwise be available in
+relation to a protected rent debt.
+
+1.3
+
+Nothing in this Act is to be taken as—
+
+1.3.a
+
+affecting the capacity of the parties to a business tenancy to resolve by
+agreement, at any time, the matter of relief from payment of a protected rent
+debt (or any other matter relating to the tenancy), or
+
+1.3.b
+
+preventing an agreement resolving the matter of relief from payment of a
+protected rent debt from having effect or being enforced.
+
+#### “Rent” and “business tenancy”
+
+2
+
+2.1
+
+“ Rent ”, in relation to a business tenancy, means an amount consisting of one
+or more of the following—
+
+2.1.a
+
+an amount payable by the tenant to the landlord under the tenancy for
+possession and use of the premises comprised in the tenancy (whether described
+as rent or otherwise);
+
+2.1.b
+
+an amount payable by the tenant to the landlord under the tenancy as a service
+charge;
+
+2.1.c
+
+interest on an unpaid amount within paragraph  (a)  or  (b) .
+
+2.2
+
+In subsection  (1) —
+
+2.2.a
+
+a reference to an amount includes any VAT chargeable on that amount;
+
+2.2.b
+
+a reference to the landlord includes a person acting for the landlord (such as
+a managing agent);
+
+2.2.c
+
+“ service charge ” means an amount—
+
+2.2.c.i
+
+which is payable (directly or indirectly) for services, repairs, maintenance,
+improvements, insurance costs or the landlord’s management costs (including
+management costs of a superior landlord which the landlord is required to
+pay), and
+
+2.2.c.ii
+
+which is a fixed amount or an amount that varies or may vary according to the
+relevant costs (or a combination of the two).
+
+2.3
+
+In subsection  (2)(c) —
+
+2.3.a
+
+“ insurance costs ” includes costs incurred by the landlord in connection with
+insuring against loss of rent or in complying with obligations under the
+tenancy either to insure the whole or any part of—
+
+2.3.a.i
+
+the premises comprised in the tenancy, and
+
+2.3.a.ii
+
+any common parts of a property which includes those premises,
+
+or to pay the costs of such insurance incurred by any superior landlord;
+
+2.3.b
+
+“ the relevant costs ” means the costs or estimated costs incurred or to be
+incurred by or on behalf of the landlord in connection with the matter for
+which the service charge is payable, and for this purpose—
+
+2.3.b.i
+
+“ costs ” includes overheads, and
+
+2.3.b.ii
+
+costs are relevant costs in relation to a service charge whether they are
+incurred, or to be incurred, in the period for which the service charge is
+payable or in an earlier or later period.
+
+2.4
+
+An amount drawn down by the landlord from a tenancy deposit to meet the whole
+or part of a rent debt is to be treated as unpaid rent due from the tenant to
+the landlord (and such rent is “paid” where the tenant makes good any
+shortfall in the deposit).
+
+2.5
+
+“ Business tenancy ” means a tenancy to which Part 2 of the Landlord and
+Tenant Act 1954 applies.
+
+2.6
+
+“ English business tenancy ” means a business tenancy comprising premises in
+England.
+
+2.7
+
+“ Welsh business tenancy ” means a business tenancy comprising premises in
+Wales.
+
+#### “Protected rent debt”
+
+3
+
+3.1
+
+A “protected rent debt” is a debt under a business tenancy consisting of
+unpaid protected rent.
+
+3.2
+
+Rent due under the tenancy is “protected rent” if—
+
+3.2.a
+
+the tenancy was adversely affected by coronavirus (see section 4), and
+
+3.2.b
+
+the rent is attributable to a period of occupation by the tenant for, or for a
+period within, the protected period applying to the tenancy (see section 5).
+
+3.3
+
+Rent consisting of interest on an unpaid amount within section 2 (1)(a)  or
+(b)  is to be regarded for the purposes of subsection  (2)(b)  as attributable
+to the same period of occupation by the tenant as that unpaid amount.
+
+3.4
+
+A period of occupation by the tenant that began, or ended, at a time during a
+particular day is to be treated as including the whole of that day.
+
+3.5
+
+If any rent due under the tenancy is attributable to a period of occupation by
+the tenant of which only part is of the description in subsection  (2)(b) ,
+then so much of the rent as can be reasonably attributed to that part of the
+period is protected rent.
+
+3.6
+
+An amount treated by section 2(4) as unpaid rent is to be regarded as unpaid
+protected rent if the rent debt that was satisfied (in whole or part) by
+drawing it down from the tenancy deposit would otherwise have been a protected
+rent debt.
+
+#### “Adversely affected by coronavirus”
+
+4
+
+4.1
+
+A business tenancy was “ adversely affected by coronavirus ” for the purposes
+of section 3 (2)(a)  if, for any relevant period—
+
+4.1.a
+
+the whole or part of the business carried on by the tenant at or from the
+premises comprised in the tenancy, or
+
+4.1.b
+
+the whole or part of those premises,
+
+was of a description subject to a closure requirement.
+
+4.2
+
+For this purpose—
+
+4.2.a
+
+“ closure requirement ” means a requirement imposed by coronavirus regulations
+which is expressed as an obligation—
+
+4.2.a.i
+
+to close businesses, or parts of businesses, of a specified description, or
+
+4.2.a.ii
+
+to close premises, or parts of premises, of a specified description; and
+
+4.2.b
+
+“ relevant period ” means a period beginning at or after 2 p.m. on 21 March
+2020 and ending at or before—
+
+4.2.b.i
+
+11.55 p.m. on 18 July 2021, for English business tenancies, or
+
+4.2.b.ii
+
+6 a.m. on 7 August 2021, for Welsh business tenancies.
+
+4.3
+
+A requirement expressed as an obligation to close businesses or premises of a
+specified description, or parts of businesses or premises of a specified
+description, every day at particular times is to be regarded for the purposes
+of subsection  (2)(a)  as a closure requirement.
+
+4.4
+
+It is immaterial for the purposes of subsection  (2)(a)  that specific limited
+activities were (as an exception) allowed by the regulations to be carried on
+despite the obligation to close (and accordingly the fact they were permitted
+or carried on is to be disregarded in determining whether the tenancy was
+adversely affected by coronavirus).
+
+4.5
+
+Where the premises comprised in the tenancy were occupied by the tenant for
+the purposes of a business not carried on solely at or from those premises,
+the reference in subsection  (1)(a)  to the business carried on at or from the
+premises is to so much of the business as was carried on at or from the
+premises.
+
+4.6
+
+In this section “ coronavirus regulations ” means regulations—
+
+4.6.a
+
+made under section 45C of the Public Health (Control of Disease) Act 1984
+(whether or not also made under any other power), and
+
+4.6.b
+
+expressed to be made in response to the threat to public health posed by the
+incidence or spread of coronavirus.
+
+#### “Protected period”
+
+5
+
+5.1
+
+The “ protected period ”, in relation to a business tenancy adversely affected
+by coronavirus, is the period beginning with 21 March 2020 and ending with—
+
+5.1.a
+
+where the business tenancy comprises premises in England—
+
+5.1.a.i
+
+if subsection  (2)  identifies a day earlier than 18 July 2021, that day, or
+
+5.1.a.ii
+
+in any other case, 18 July 2021;
+
+5.1.b
+
+where the business tenancy comprises premises in Wales—
+
+5.1.b.i
+
+if subsection  (2)  identifies a day earlier than 7 August 2021, that day, or
+
+5.1.b.ii
+
+in any other case, 7 August 2021.
+
+5.2
+
+The relevant day for the purposes of subsection  (1)(a)(i)  or  (b)(i)  is the
+last day on which (or for part of which)—
+
+5.2.a
+
+the whole or part of the business carried on by the tenant at or from the
+premises, or
+
+5.2.b
+
+the whole or part of those premises,
+
+was of a description subject to either a closure requirement or a specific
+coronavirus restriction.
+
+5.3
+
+In subsection  (2)  “ specific coronavirus restriction ” means a restriction
+or requirement (other than a closure requirement) imposed by coronavirus
+regulations which regulated any aspect of—
+
+5.3.a
+
+the way a business, or a part of a business, of any specified description was
+to be carried on, or
+
+5.3.b
+
+the way any premises, or any part of premises, of a specified description were
+or was to be used.
+
+5.4
+
+But for the purposes of subsection (3)—
+
+5.4.a
+
+requirements to display or provide information on premises (or parts of
+premises), and
+
+5.4.b
+
+restrictions applying more generally than to specific descriptions of
+businesses or premises (or parts of businesses or premises),
+
+are not specific coronavirus restrictions.
+
+5.5
+
+In this section “ closure requirement ” and “ coronavirus regulations ” have
+the same meaning as in section 4.
+
+#### “The matter of relief from payment”
+
+6
+
+6.1
+
+References to the matter of relief from payment of a protected rent debt are
+to all issues relating to the questions—
+
+6.1.a
+
+whether there is a protected rent debt of any amount, and
+
+6.1.b
+
+if so, whether the tenant should be given relief from payment of that debt
+and, if so, what relief.
+
+6.2
+
+“ Relief from payment ”, in relation to a protected rent debt, means any one
+or more of the following—
+
+6.2.a
+
+writing off the whole or any part of the debt;
+
+6.2.b
+
+giving time to pay the whole or any part of the debt, including by allowing
+the whole or any part of the debt to be paid by instalments;
+
+6.2.c
+
+reducing (including to zero) any interest otherwise payable by the tenant
+under the terms of the tenancy in relation to the whole or any part of the
+debt.
+
+### Arbitration
+
+#### Approved arbitration bodies
+
+##### Approval of arbitration bodies
+
+7
+
+7.1
+
+The Secretary of State may approve one or more bodies to carry out the
+functions under section 8 (and a body which is for the time being so approved
+is referred to in this Act as an “approved arbitration body”).
+
+7.2
+
+The Secretary of State may only approve a body which the Secretary of State
+considers to be suitable to carry out those functions.
+
+7.3
+
+The Secretary of State may withdraw an approval given under subsection  (1)
+if the Secretary of State considers that the body is no longer suitable to
+carry out those functions.
+
+7.4
+
+Where the Secretary of State proposes to withdraw an approval given under
+subsection  (1) , the Secretary of State must notify the body in question and
+give the body an opportunity to make representations.
+
+7.5
+
+Where an approval given under subsection  (1)  is withdrawn from a body, the
+Secretary of State must make arrangements relating to—
+
+7.5.a
+
+the repayment of any fees or expenses already paid to the body (if any), and
+
+7.5.b
+
+the body’s entitlement (if any) to fees or expenses.
+
+7.6
+
+The withdrawal of an approval given under subsection  (1)  does not affect the
+validity of anything done by or in relation to the body in question before
+that withdrawal.
+
+7.7
+
+The Secretary of State must maintain and publish a list of approved
+arbitration bodies.
+
+##### Functions of approved arbitration bodies
+
+8
+
+8.1
+
+An approved arbitration body has the following functions—
+
+8.1.a
+
+to maintain a list of arbitrators who—
+
+8.1.a.i
+
+are available to act as arbitrators under this Part (whether alone or as a
+member of a panel of arbitrators), and
+
+8.1.a.ii
+
+appear to the body to be suitable, by virtue of their qualifications or
+experience, to act as such,
+
+8.1.b
+
+to appoint an arbitrator or panel of arbitrators from that list to deal with
+the matter of relief from payment of a protected rent debt referred to the
+body for arbitration under this Part,
+
+8.1.c
+
+where an arbitrator appointed by the body resigns, dies or otherwise ceases to
+hold office, to appoint another arbitrator from that list to fill the vacancy,
+
+8.1.d
+
+to set, collect and pay its fees and the fees of an arbitrator appointed by
+it,
+
+8.1.e
+
+to oversee any arbitration in relation to which it has appointed an arbitrator
+or panel of arbitrators, and
+
+8.1.f
+
+to remove an arbitrator appointed by it from a case on any one of the grounds
+in subsection  (2) .
+
+8.2
+
+The grounds for removal are—
+
+8.2.a
+
+that circumstances exist that give rise to justifiable doubts as to the
+impartiality or independence of the arbitrator,
+
+8.2.b
+
+that the arbitrator does not possess the qualifications required for the
+arbitration,
+
+8.2.c
+
+that the arbitrator is physically or mentally incapable of conducting the
+arbitration or there are justifiable doubts as to their capacity to do so, or
+
+8.2.d
+
+that the arbitrator has refused or failed to properly conduct the arbitration,
+or to use all reasonable despatch in conducting the proceedings or making an
+award, and that substantial injustice has been or will be caused to the
+parties.
+
+8.3
+
+An approved arbitration body must ensure that an arbitrator or panel of
+arbitrators appointed by it under subsection  (1)(b)  is independent from the
+parties to the arbitration.
+
+8.4
+
+Where an arbitrator resigns, dies or otherwise ceases to hold office, an
+approved arbitration body must make arrangements relating to—
+
+8.4.a
+
+the repayment of any fees or expenses already paid to the arbitrator (if any),
+and
+
+8.4.b
+
+the arbitrator’s entitlement (if any) to fees or expenses.
+
+8.5
+
+Where requested by, or as agreed with, the Secretary of State, an approved
+arbitration body must provide a report to the Secretary of State containing
+details of—
+
+8.5.a
+
+the exercise by the approved body of its functions under this section, and
+
+8.5.b
+
+any arbitrations overseen by the approved body under subsection  (1)(e) ,
+including the progress of, and any awards made in relation to, such
+arbitrations.
+
+8.6
+
+An approved arbitration body must publish on its website the fees payable in
+relation to arbitrations referred to it under this Part.
+
+#### References to arbitration by tenant or landlord
+
+##### Period for making a reference to arbitration
+
+9
+
+9.1
+
+This section applies where the tenant and the landlord under a business
+tenancy are not in agreement as to the resolution of the matter of relief from
+payment of a protected rent debt.
+
+9.2
+
+A reference to arbitration may be made by either the tenant or the landlord
+within the period of six months beginning with the day on which this Act is
+passed.
+
+9.3
+
+The Secretary of State may by regulations made by statutory instrument extend
+the period allowed by subsection  (2)  for making references to arbitration in
+the case of—
+
+9.3.a
+
+English business tenancies,
+
+9.3.b
+
+Welsh business tenancies, or
+
+9.3.c
+
+English business tenancies and Welsh business tenancies.
+
+9.4
+
+A statutory instrument containing regulations under subsection  (3)  is
+subject to annulment in pursuance of a resolution of either House of
+Parliament.
+
+##### Requirements for making a reference to arbitration
+
+10
+
+10.1
+
+Before making a reference to arbitration—
+
+10.1.a
+
+the tenant or landlord must notify the other party (“ the respondent ”) of
+their intention to make a reference, and
+
+10.1.b
+
+the respondent may, within 14 days of receipt of the notification under
+paragraph  (a) , submit a response.
+
+10.2
+
+A reference to arbitration must not be made before—
+
+10.2.a
+
+the end of the period of 14 days after the day on which the response under
+subsection  (1)(b)  is received, or
+
+10.2.b
+
+if no such response is received, the end of the period of 28 days beginning
+with the day on which the notification under subsection  (1)(a)  is served.
+
+10.3
+
+A reference to arbitration may not be made, an arbitrator may not be
+appointed, and no formal proposal under section 11 (2)  or  (4)  may be made,
+where the tenant that owes a protected rent debt is subject to one of the
+following—
+
+10.3.a
+
+a company voluntary arrangement which relates to any protected rent debt that
+has been approved under section 4 of the Insolvency Act 1986,
+
+10.3.b
+
+an individual voluntary arrangement which relates to any protected rent debt
+that has been approved under section 258 of that Act, or
+
+10.3.c
+
+a compromise or arrangement which relates to any protected rent debt that has
+been sanctioned under section 899 or 901F of the Companies Act 2006.
+
+10.4
+
+A reference to arbitration must be made to an approved arbitration body.
+
+10.5
+
+After a reference to arbitration has been made, an arbitrator may not be
+appointed, and no formal proposal under section 11 (2)  or  (4)  may be made,
+during any period where the tenant that owes a protected rent debt is the
+debtor under one of the following—
+
+10.5.a
+
+a company voluntary arrangement which relates to any protected rent debt that
+has been proposed and is awaiting a decision under section 4 of the Insolvency
+Act 1986,
+
+10.5.b
+
+an individual voluntary arrangement which relates to any protected rent debt
+that has been proposed and is awaiting a decision under section 258 of that
+Act, or
+
+10.5.c
+
+a compromise or arrangement which relates to any protected rent debt that has
+been applied for and is awaiting a decision under section 899 or 901F of the
+Companies Act 2006.
+
+10.6
+
+This section, so far as relating to a company voluntary arrangement and a
+compromise or arrangement under section 899 or 901F of the Companies Act 2006,
+applies to limited liability partnerships (as well as to companies).
+
+#### Proposals for resolving the matter of relief from payment
+
+##### Proposals for resolving the matter of relief from payment
+
+11
+
+11.1
+
+A reference to arbitration must include a formal proposal for resolving the
+matter of relief from payment of a protected rent debt.
+
+11.2
+
+The other party to the arbitration may put forward a formal proposal in
+response within the period of 14 days beginning with the day on which the
+proposal under subsection  (1)  is received.
+
+11.3
+
+A formal proposal under subsection  (1)  or  (2)  must be accompanied by
+supporting evidence.
+
+11.4
+
+Each party may put forward a revised formal proposal within the period of 28
+days beginning with the day on which the party gives a formal proposal to the
+other party under subsection  (1)  or  (2) .
+
+11.5
+
+A revised formal proposal must be accompanied by any further supporting
+evidence.
+
+11.6
+
+The periods in subsections  (2)  and  (4)  may be extended—
+
+11.6.a
+
+by agreement between the parties, or
+
+11.6.b
+
+by the arbitrator where the arbitrator considers that it would be reasonable
+in all the circumstances.
+
+11.7
+
+In this section “ formal proposal ” means a proposal which is—
+
+11.7.a
+
+made on the assumption that the reference is not dismissed for a reason set
+out in section 13(2) or (3),
+
+11.7.b
+
+expressed to be made for the purposes of this section, and
+
+11.7.c
+
+given to the other party and the arbitrator.
+
+##### Written statements
+
+12
+
+12.1
+
+This section applies to any written statement provided to the arbitrator by a
+party (whether made by the party or another person) which relates to a matter
+relevant to the arbitration.
+
+12.2
+
+The written statement must be verified by a statement of truth.
+
+12.3
+
+The written statement may be disregarded by the arbitrator if it is not so
+verified.
+
+#### Arbitration awards
+
+##### Arbitration awards available
+
+13
+
+13.1
+
+This section sets out the awards open to the arbitrator on a reference under
+this Part.
+
+13.2
+
+If the arbitrator determines that—
+
+13.2.a
+
+the parties have by agreement resolved the matter of relief from payment of a
+protected rent debt before the reference was made,
+
+13.2.b
+
+the tenancy in question is not a business tenancy, or
+
+13.2.c
+
+there is no protected rent debt,
+
+the arbitrator must make an award dismissing the reference.
+
+13.3
+
+If, after assessing the viability of the tenant’s business, the arbitrator
+determines that (at the time of the assessment) the business—
+
+13.3.a
+
+is not viable, and
+
+13.3.b
+
+would not be viable even if the tenant were to be given relief from payment of
+any kind,
+
+the arbitrator must make an award dismissing the reference.
+
+13.4
+
+Subsection (5) applies if, after making that assessment, the arbitrator
+determines that (at the time of the assessment) the business—
+
+13.4.a
+
+is viable, or
+
+13.4.b
+
+would become viable if the tenant were to be given relief from payment of any
+kind.
+
+13.5
+
+In that case the arbitrator must resolve the matter of relief from payment of
+a protected rent debt by—
+
+13.5.a
+
+considering whether the tenant should receive any relief from payment and, if
+so, what relief, and
+
+13.5.b
+
+making an award in accordance with section 14.
+
+##### Arbitrator’s award on the matter of relief from payment
+
+14
+
+14.1
+
+This section applies where the arbitrator is considering how to resolve the
+matter of relief from payment of a protected rent debt as required by section
+13(5).
+
+14.2
+
+Before determining what award to make the arbitrator must consider any final
+proposal put forward to it by a party under section 11.
+
+14.3
+
+Where both parties put forward final proposals under section 11—
+
+14.3.a
+
+if the arbitrator considers that both proposals are consistent with the
+principles in section 15, the arbitrator must make the award set out in
+whichever of them the arbitrator considers to be the most consistent;
+
+14.3.b
+
+if the arbitrator considers that one proposal is consistent with the
+principles in section 15 but the other is not, the arbitrator must make the
+award set out in the proposal that is consistent.
+
+14.4
+
+Where only the party making the reference to arbitration puts forward a final
+proposal under section 11, the arbitrator must make the award set out in the
+proposal if the arbitrator considers that the proposal is consistent with the
+principles in section 15.
+
+14.5
+
+Otherwise, the arbitrator must make whatever award the arbitrator considers
+appropriate (applying the principles in section 15).
+
+14.6
+
+An award under this section may—
+
+14.6.a
+
+give the tenant relief from payment of the debt as set out in the award, or
+
+14.6.b
+
+state that the tenant is to be given no relief from payment of the debt.
+
+14.7
+
+Where an award under subsection  (6)(a)  gives the tenant time to pay an
+amount (including an instalment), the payment date must be within the period
+of 24 months beginning with the day after the day on which the award is made.
+
+14.8
+
+In subsection  (7)  “ the payment date ” means the day specified in the award
+as the day on which the amount concerned falls due for payment.
+
+14.9
+
+An award giving the tenant relief from payment of a protected rent debt is to
+be taken as altering the effect of the terms of tenancy in relation to the
+protected rent constituting the debt.
+
+14.10
+
+Subsection  (9)  means, in particular, that—
+
+14.10.a
+
+the tenant is not to be regarded as in breach of covenant by virtue of—
+
+14.10.a.i
+
+non-payment of an amount written off by the award, or
+
+14.10.a.ii
+
+failure to pay an amount payable under the terms of the award before it falls
+due under those terms;
+
+14.10.b
+
+a guarantor of the tenant’s obligation to pay rent, or a former tenant who is
+otherwise liable for a failure by the tenant to pay rent, is not liable in
+respect of anything mentioned in paragraph  (a)(i)  or  (ii) ;
+
+14.10.c
+
+a person other than the tenant who is liable for the payment of rent on an
+indemnity basis is not liable—
+
+14.10.c.i
+
+to pay any unpaid protected rent written off by the award, or
+
+14.10.c.ii
+
+to pay an amount payable under the terms of the award before it falls due
+under those terms;
+
+14.10.d
+
+any amount payable under the terms of the award is to be treated for the
+purposes of the tenancy as rent payable under the tenancy.
+
+14.11
+
+In this section “ final proposal ” means—
+
+14.11.a
+
+the revised formal proposal put forward by a party under section 11(4), or
+
+14.11.b
+
+if there is no revised formal proposal put forward by a party, the formal
+proposal put forward by the party under section 11(1) or (2).
+
+##### Arbitrator’s principles
+
+15
+
+15.1
+
+The principles in this section are—
+
+15.1.a
+
+that any award should be aimed at—
+
+15.1.a.i
+
+preserving (in a case falling within section 13 (4)(a) ), or
+
+15.1.a.ii
+
+restoring and preserving (in a case falling within section 13 (4)(b) ),
+
+the viability of the business of the tenant, so far as that is consistent with
+preserving the landlord’s solvency, and
+
+15.1.b
+
+that the tenant should, so far as it is consistent with the principle in
+paragraph  (a)  to do so, be required to meet its obligations as regards the
+payment of protected rent in full and without delay.
+
+15.2
+
+In considering the viability of the tenant’s business and the landlord’s
+solvency for the purposes of subsection  (1) , the arbitrator must disregard
+anything done by the tenant or the landlord with a view to manipulating their
+financial affairs so as to improve their position in relation to an award to
+be made under section 14.
+
+15.3
+
+For the purposes of this section, the landlord is “solvent” unless the
+landlord is, or is likely to become, unable to pay their debts as they fall
+due.
+
+##### Arbitrator: assessment of “viability” and “solvency”
+
+16
+
+16.1
+
+In assessing the viability of the business of the tenant, the arbitrator must,
+so far as known, have regard to—
+
+16.1.a
+
+the assets and liabilities of the tenant, including any other tenancies to
+which the tenant is a party,
+
+16.1.b
+
+the previous rental payments made under the business tenancy from the tenant
+to the landlord,
+
+16.1.c
+
+the impact of coronavirus on the business of the tenant, and
+
+16.1.d
+
+any other information relating to the financial position of the tenant that
+the arbitrator considers appropriate.
+
+16.2
+
+In assessing the solvency of the landlord, the arbitrator must, so far as
+known, have regard to—
+
+16.2.a
+
+the assets and liabilities of the landlord, including any other tenancies to
+which the landlord is a party, and
+
+16.2.b
+
+any other information relating to the financial position of the landlord that
+the arbitrator considers appropriate.
+
+16.3
+
+In making an assessment under subsection  (1)  or  (2) , the arbitrator must
+disregard the possibility of the tenant or the landlord (as the case may be)—
+
+16.3.a
+
+borrowing money, or
+
+16.3.b
+
+restructuring its business.
+
+##### Timing of arbitrator’s award
+
+17
+
+17.1
+
+Subject to subsection  (2) , the arbitrator must make an award under section
+14 as soon as reasonably practicable after—
+
+17.1.a
+
+where both parties have put forward a final proposal, the day on which the
+latest final proposal is received, or
+
+17.1.b
+
+otherwise, the last day on which a party may put forward a revised formal
+proposal (see section 11 (4) ).
+
+17.2
+
+Where an oral hearing is held (see section 20), the arbitrator must make an
+award within the period of 14 days beginning with the day on which the hearing
+concludes.
+
+17.3
+
+The period in subsection  (2)  may be extended—
+
+17.3.a
+
+by agreement between the parties, or
+
+17.3.b
+
+by the arbitrator where the arbitrator considers that it would be reasonable
+in all the circumstances to do so.
+
+17.4
+
+In this section “ final proposal ” has the same meaning as in section 14 (11)
+.
+
+##### Publication of award
+
+18
+
+18.1
+
+This section applies when the arbitrator has made an award on a reference
+under this Part.
+
+18.2
+
+The arbitrator must publish the award together with the reasons for making it,
+subject as follows.
+
+18.3
+
+The arbitrator must exclude confidential information from anything published
+under this section, unless the arbitrator has been notified by the person to
+whom it relates that the person consents to its publication.
+
+18.4
+
+In subsection (3) “ confidential information ” means information which the
+arbitrator is satisfied is—
+
+18.4.a
+
+commercial information relating to a party or to any other person the
+disclosure of which would, or might, significantly harm the legitimate
+business interests of the person to which it relates, or
+
+18.4.b
+
+information relating to the private affairs of an individual the disclosure of
+which would, or might, significantly harm that individual’s interests.
+
+#### Arbitration fees and oral hearings
+
+##### Arbitration fees and expenses
+
+19
+
+19.1
+
+In this section references to arbitration fees are to—
+
+19.1.a
+
+the arbitrator’s fees and expenses (including any oral hearing fees), and
+
+19.1.b
+
+the fees and expenses of any approved arbitration body concerned.
+
+19.2
+
+The Secretary of State may by regulations made by statutory instrument specify
+limits on arbitration fees, which may differ depending on the amount of
+protected rent debt in question.
+
+19.3
+
+A statutory instrument containing regulations under subsection  (2)  is
+subject to annulment in pursuance of a resolution of either House of
+Parliament.
+
+19.4
+
+The applicant must pay arbitration fees (other than oral hearing fees) in
+advance of the arbitration taking place.
+
+19.5
+
+When the arbitrator makes an award under section 13 or 14, the arbitrator must
+(subject to subsection (6)) also make an award requiring the other party to
+reimburse the applicant for half the arbitration fees paid under subsection
+(4).
+
+19.6
+
+The general rule in subsection (5) does not apply if the arbitrator considers
+it more appropriate in the circumstances of the case to award a different
+proportion (which may be zero).
+
+19.7
+
+Except as provided by subsection (5) and section 20(6), the parties must meet
+their own legal or other costs.
+
+19.8
+
+Legal or other costs incurred in connection with arbitration (including
+arbitration fees) are not recoverable by virtue of any term of the business
+tenancy concerned.
+
+19.9
+
+In this section, “ applicant ” means the party which made the reference to
+arbitration.
+
+##### Oral hearings
+
+20
+
+20.1
+
+An oral hearing must be held where either or both of the parties make a
+request to the arbitrator.
+
+20.2
+
+An oral hearing must be held within the period of 14 days beginning with the
+day on which the arbitrator receives a request under subsection  (1) .
+
+20.3
+
+The period in subsection  (2)  may be extended—
+
+20.3.a
+
+by agreement between the parties, or
+
+20.3.b
+
+by the arbitrator where the arbitrator considers that it would be reasonable
+in all the circumstances to do so.
+
+20.4
+
+Where both parties request an oral hearing, the parties are jointly and
+severally liable to pay the hearing fees in advance.
+
+20.5
+
+Where one of the parties requests an oral hearing, that party must pay the
+hearing fees in advance.
+
+20.6
+
+When the arbitrator makes an award under section 13 or 14, the arbitrator must
+(subject to subsection (7)) also make an award requiring the other party to
+reimburse the applicant for half the hearing fees.
+
+20.7
+
+The general rule in subsection (6) does not apply if the arbitrator considers
+it more appropriate in all the circumstances to award a different proportion
+(which may be zero).
+
+20.8
+
+An oral hearing must be held in public unless the parties agree otherwise.
+
+#### Guidance
+
+##### Guidance
+
+21
+
+21.1
+
+The Secretary of State may issue guidance to—
+
+21.1.a
+
+arbitrators about the exercise of their functions under this Part, and
+
+21.1.b
+
+tenants and landlords about making a reference to arbitration under this Part.
+
+21.2
+
+The Secretary of State may revise any guidance issued under this section.
+
+21.3
+
+The Secretary of State must arrange for any guidance issued or revised under
+this section to be published.
+
+#### Modification of Part 1 of the Arbitration Act 1996
+
+##### Modification of Part 1 of the Arbitration Act 1996
+
+22
+
+Schedule 1 modifies Part 1 of the Arbitration Act 1996 in relation to
+arbitrations under this Part.
+
+### Moratorium on certain remedies and insolvency arrangements
+
+#### Temporary moratorium on enforcement of protected rent debts
+
+23
+
+23.1
+
+Schedule 2 contains—
+
+23.1.a
+
+provision preventing a landlord who is owed a protected rent debt from using
+the following remedies in relation to (or on the basis of) the debt during the
+moratorium period—
+
+23.1.a.i
+
+making a debt claim in civil proceedings;
+
+23.1.a.ii
+
+using the commercial rent arrears recovery power;
+
+23.1.a.iii
+
+enforcing a right of re-entry or forfeiture;
+
+23.1.a.iv
+
+using a tenant’s deposit;
+
+23.1.b
+
+retrospective provision in relation to certain debt claims made by such a
+landlord before the start of the moratorium period for the protected rent
+debt;
+
+23.1.c
+
+provision relating to the right of such a landlord during the moratorium
+period to appropriate any rent paid by the tenant;
+
+23.1.d
+
+retrospective provision in relation to the right of such a landlord to
+appropriate any rent paid by the tenant before the start of the moratorium
+period for the protected rent debt;
+
+23.1.e
+
+provision connected with certain things mentioned in paragraphs (a) to (d).
+
+23.2
+
+In this section “ the moratorium period ”, in relation to a protected rent
+debt, is the period—
+
+23.2.a
+
+beginning with the day on which this Act is passed, and
+
+23.2.b
+
+ending—
+
+23.2.b.i
+
+where the matter of relief from payment of the protected rent debt is not
+referred to arbitration within the period of six months beginning with that
+day, with the last day of that period, or
+
+23.2.b.ii
+
+where that matter is referred to arbitration, with the day on which the
+arbitration concludes.
+
+23.3
+
+Subsection  (2)  is subject to any extension of the period mentioned in
+paragraph  (b)(i)  that—
+
+23.3.a
+
+is made by or by virtue of section 24, and
+
+23.3.b
+
+has effect in relation to the protected rent debt.
+
+23.4
+
+For the purposes of subsection  (2)(b)  an arbitration concludes when—
+
+23.4.a
+
+the arbitration proceedings are abandoned or withdrawn by the parties,
+
+23.4.b
+
+the time period for appealing expires without an appeal being brought, or
+
+23.4.c
+
+any appeal brought within that period is finally determined, abandoned or
+withdrawn.
+
+23.5
+
+In this section “ arbitration ” means arbitration under Part 2.
+
+#### Alteration of moratorium period
+
+24
+
+24.1
+
+In this section “ extension regulations ” means regulations under section 9(3)
+extending the period allowed by section 9(2) for making references to
+arbitration.
+
+24.2
+
+Where extension regulations made by virtue of section 9(3)(a) or (c) extend
+that period in the case of English business tenancies, the period specified in
+section 23(2)(b)(i), so far as it applies in the case of a protected rent debt
+under an English business tenancy, is extended for the same period of time.
+
+24.3
+
+Subsection (4) below applies where extension regulations made by virtue of
+section 9(3)(b) or (c) extend that period in the case of Welsh business
+tenancies.
+
+24.4
+
+The Secretary of State may by regulations made by statutory instrument extend
+the period specified in section 23(2)(b)(i), so far as it applies in the case
+of a protected rent debt under a Welsh business tenancy, for the same period
+of time.
+
+24.5
+
+Regulations under subsection (4) must provide for the extension referred to in
+that subsection—
+
+24.5.a
+
+to have effect for the purposes of this Part including the purposes of
+Schedule 2, or
+
+24.5.b
+
+to have effect for the purposes of this Part other than the purposes of
+Schedule 2.
+
+24.6
+
+The power to make the provision referred to in subsection (5)(a) is
+exercisable only with the consent of the Welsh Ministers to the extension
+having effect for the purposes of Schedule 2 other than the purposes of
+paragraph 3(6) and (7).
+
+24.7
+
+A statutory instrument containing regulations under subsection (4) is subject
+to annulment in pursuance of a resolution of either House of Parliament.
+
+#### Temporary restriction on initiating certain insolvency arrangements
+
+25
+
+25.1
+
+This section applies where the matter of relief from payment of a protected
+rent debt has been referred to arbitration.
+
+25.2
+
+During the relevant period—
+
+25.2.a
+
+no proposal for a company voluntary arrangement under section 1 of the
+Insolvency Act 1986 which relates to the whole or part of the debt may be
+made,
+
+25.2.b
+
+no proposal for an individual voluntary arrangement under section 256A of that
+Act, or an application for an interim order under section 253 of that Act,
+which relates to the whole or part of the debt may be made, and
+
+25.2.c
+
+no application for a compromise or arrangement under section 896 or 901C of
+the Companies Act 2006 (court orders for holding of meetings) which relates to
+the whole or part of the debt may be made.
+
+25.3
+
+In this section “ the relevant period ” means the period beginning with the
+day on which an arbitrator is appointed and ending with—
+
+25.3.a
+
+where the arbitrator makes an award in accordance with section 14, the day
+which is 12 months after the day on which that award is made,
+
+25.3.b
+
+where the arbitrator makes an award dismissing a reference under section 13
+(2)  or  (3) , the day on which that award is made,
+
+25.3.c
+
+where an award made in accordance with section 14 is set aside on appeal, the
+day on which that decision is made, or
+
+25.3.d
+
+where the arbitration proceedings are abandoned or withdrawn by the parties,
+the day of that abandonment or withdrawal.
+
+25.4
+
+This section, so far as relating to a company voluntary arrangement and a
+compromise or arrangement under section 899 or 901F of the Companies Act 2006,
+applies to limited liability partnerships (as well as to companies).
+
+#### Temporary restriction on initiating arbitration proceedings
+
+26
+
+26.1
+
+The tenant or the landlord under a business tenancy may not initiate
+arbitration proceedings (other than an arbitration under Part 2) in relation
+to a protected rent debt during the moratorium period for the debt, unless the
+other party agrees.
+
+26.2
+
+In this section “ the moratorium period ” has the meaning given by section 23
+(2) .
+
+#### Temporary restriction on winding-up petitions and petitions for bankruptcy orders
+
+27
+
+Schedule 3 contains temporary provision in relation to winding up petitions
+and petitions for bankruptcy orders.
+
+### Final provisions
+
+#### Power to apply Act in relation to future periods of coronavirus control
+
+28
+
+28.1
+
+The Secretary of State may by regulations provide for this Act (apart from
+this section) to apply again in relation to rent debts under business
+tenancies adversely affected by closure requirements.
+
+28.2
+
+Regulations under this section may—
+
+28.2.a
+
+be made so as to apply in relation to—
+
+28.2.a.i
+
+English business tenancies,
+
+28.2.a.ii
+
+Welsh business tenancies, or
+
+28.2.a.iii
+
+English business tenancies and Welsh business tenancies;
+
+28.2.b
+
+exclude the provisions mentioned in subsection  (10)   (a)  to (c) from the
+provisions being re-applied in relation to Welsh business tenancies.
+
+28.3
+
+A business tenancy is adversely affected by a closure requirement for the
+purposes of subsection  (1)  if—
+
+28.3.a
+
+the whole or part of a business carried on at or from the premises comprised
+in the tenancy, or
+
+28.3.b
+
+the whole or part of those premises,
+
+is of a description subject to a closure requirement imposed at any time after
+7 August 2021.
+
+28.4
+
+In this section “ closure requirement ” means a requirement imposed by
+regulations as a public health response to coronavirus and expressed as an
+obligation—
+
+28.4.a
+
+to close businesses, or parts of businesses, of a specified description, or
+
+28.4.b
+
+to close premises, or parts of premises, of a specified description.
+
+28.5
+
+In subsection  (4)  “ coronavirus ” means severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2).
+
+28.6
+
+The power under this section is exercisable whether or not the closure
+requirement remains in force when the regulations are made.
+
+28.7
+
+Subsections  (3)  to  (5)  of section 4 apply for the purposes of this section
+as they apply for the purposes of section 4.
+
+28.8
+
+Regulations under this section may—
+
+28.8.a
+
+provide for provisions of this Act to apply with such necessary modifications
+as are specified in the regulations;
+
+28.8.b
+
+make different provision for England and for Wales;
+
+28.8.c
+
+make incidental, supplemental, consequential, saving or transitional provision
+(including provision amending or otherwise modifying an Act of Parliament).
+
+28.9
+
+For the purposes of subsection  (8)(a) —
+
+28.9.a
+
+“ modifications ” means omissions, additions or variations, and
+
+28.9.b
+
+modifications are “necessary” if they appear to the Secretary of State to be
+necessary for the provisions being re-applied to operate correctly in relation
+to business tenancies adversely affected by the closure requirements in
+question.
+
+28.10
+
+The power under this section is exercisable only with the consent of the Welsh
+Ministers so far as it relates to the re-application, in relation to Welsh
+business tenancies, of—
+
+28.10.a
+
+Schedule 2 apart from paragraph 3(6) and (7),
+
+28.10.b
+
+section 23 so far as relating to Schedule 2 apart from paragraph 3(6) and (7),
+and
+
+28.10.c
+
+Part 1 and this Part, so far as relating to the provisions mentioned in
+paragraphs (a) and (b).
+
+28.11
+
+Regulations under this section—
+
+28.11.a
+
+are to be made by statutory instrument, and
+
+28.11.b
+
+may not be made unless a draft of the statutory instrument containing them has
+been laid before and approved by a resolution of each House of Parliament.
+
+#### Concurrent power for Welsh Ministers to apply moratorium provisions again
+
+29
+
+29.1
+
+The Welsh Ministers may exercise the power conferred by section 28,
+concurrently with the Secretary of State, so far as it relates to the re-
+application, in relation to Welsh business tenancies, of—
+
+29.1.a
+
+Schedule 2 apart from paragraph 3(6) and (7),
+
+29.1.b
+
+section 23 so far as relating to Schedule 2 apart from paragraph 3(6) and (7),
+and
+
+29.1.c
+
+Part 1 and this Part, so far as relating to the provisions mentioned in
+paragraphs (a) and (b).
+
+29.2
+
+Section 28 has effect in relation to regulations made by the Welsh Ministers
+by virtue of this section as if—
+
+29.2.a
+
+references to the Secretary of State were to the Welsh Ministers,
+
+29.2.b
+
+subsection  (2)(a)(i)  and (iii) and (b) were omitted,
+
+29.2.c
+
+in subsection  (8) —
+
+29.2.c.i
+
+the references in paragraph (a) to provisions of this Act were references to
+provisions mentioned in subsection (1)(a) to (c) above, and
+
+29.2.c.ii
+
+the reference in paragraph (c) to an Act of Parliament included a reference to
+an Act or Measure of Senedd Cymru,
+
+29.2.d
+
+subsection  (10)  were omitted, and
+
+29.2.e
+
+in subsection  (11)(b) , for “each House of Parliament” there were substituted
+“Senedd Cymru” .
+
+29.3
+
+In Schedule 7B to the Government of Wales Act 2006 (general restrictions on
+legislative competence of Senedd Cymru), in paragraph 11(6)(b) (exceptions to
+restrictions relating to Ministers of the Crown)—
+
+29.3.a
+
+omit the “or” at the end of paragraph (vi), and
+
+29.3.b
+
+after paragraph (vii) insert
+
+; or
+
+29.3.b.viii
+
+section 28 of the Commercial Rent (Coronavirus) Act 2022.
+
+#### Crown application
+
+30
+
+This Act binds the Crown (but without prejudice to section 2(5) which secures
+that the business tenancies to which this Act applies are those to which Part
+2 of the Landlord and Tenant Act 1954 applies).
+
+#### Extent, commencement and short title
+
+31
+
+31.1
+
+Parts 1 to 3 extend to England and Wales only (except as provided by
+subsections  (2)  and  (3) ).
+
+31.2
+
+The following provisions extend to England and Wales, Scotland and Northern
+Ireland—
+
+31.2.a
+
+in section 25—
+
+31.2.a.i
+
+subsections (1), (2)(c) and (3), and
+
+31.2.a.ii
+
+subsection  (4)  so far as relating to a compromise or arrangement under
+section 899 or 901F of the Companies Act 2006,
+
+31.2.b
+
+Part 1 so far as relating to the provisions mentioned in paragraph (a), and
+
+31.2.c
+
+this Part.
+
+31.3
+
+The following provisions extend to England and Wales and Scotland only—
+
+31.3.a
+
+in section 25—
+
+31.3.a.i
+
+subsection  (2)(a) , and
+
+31.3.a.ii
+
+subsection  (4)  so far as relating to a company voluntary arrangement,
+
+31.3.b
+
+paragraph  1  of Schedule 3 and section 27 so far as relating to that
+paragraph, and
+
+31.3.c
+
+Part 1 so far as relating to the provisions mentioned in paragraphs (a) and
+(b).
+
+31.4
+
+This Act comes into force on the day on which it is passed (except as provided
+by subsection  (5) ).
+
+31.5
+
+Paragraph  1  of Schedule 3, and section 27 so far as relating to that
+paragraph, comes into force on 1 April 2022.
+
+31.6
+
+This Act may be cited as the Commercial Rent (Coronavirus) Act 2022.
+
+## SCHEDULES
+
+  Modifications of the Arbitration Act 1996 in relation to arbitrations under
+this Act
+
+Section 22
+
+1
+
+Part 1 of the Arbitration Act 1996 has effect in relation to arbitrations
+under this Act as if the following were omitted—
+
+1.a
+
+in section 14 (commencement of arbitral proceedings), subsections (1) and (2);
+
+1.b
+
+in section 15 (arbitral tribunal), in subsection (1), the words “or umpire”;
+
+1.c
+
+sections 16 to 19 (appointment of arbitrators);
+
+1.d
+
+in section 20 (chairman), subsections (1) and (2);
+
+1.e
+
+section 21 (umpire);
+
+1.f
+
+in section 22 (decision-making where no chairman or umpire), subsection (1);
+
+1.g
+
+in section 23 (revocation of the arbitrator’s authority), subsections (1),
+(2), (3)(a), (4) and (5)(a);
+
+1.h
+
+in section 25 (resignation of arbitrator), subsections (1) and (2);
+
+1.i
+
+in section 27 (filling of vacancy), subsections (1) to (3);
+
+1.j
+
+in section 30 (competence of tribunal to rule on its own jurisdiction), in
+subsection (1), the words “Unless otherwise agreed by the parties”;
+
+1.k
+
+in section 37 (power to appoint experts, legal advisers or assessors), in
+subsection (1), the words “Unless otherwise agreed by the parties”;
+
+1.l
+
+in section 38 (general powers exercisable by the tribunal), subsections (1) to
+(4);
+
+1.m
+
+in section 39 (power to make provisional awards), in subsection (2)(a), the
+words “or the disposition of property”;
+
+1.n
+
+in section 48 (remedies), subsections (1), (2) and (5)(b) and (c);
+
+1.o
+
+in section 49 (interest), subsections (1) to (3), (5) and (6);
+
+1.p
+
+in section 51 (settlement)—
+
+1.p.i
+
+in subsection (1), the words “unless otherwise agreed by the parties”; and
+
+1.p.ii
+
+in subsection (2), the words “if so requested by the parties and not objected
+to by the tribunal”;
+
+1.q
+
+in section 52 (form of award), subsections (1) and (2);
+
+1.r
+
+in section 58 (effect of award), in subsection (1), the words “Unless
+otherwise agreed by the parties”;
+
+1.s
+
+in section 68 (challenging the award: serious irregularity), in subsection
+(2)(e), the words “vested by the parties”.
+
+2
+
+Part 1 of the Arbitration Act 1996 has effect in relation to arbitrations
+under this Act as if —
+
+2.a
+
+in section 20 (chairman), in subsection (3), at the beginning there were
+inserted “Where there is a chairman,”;
+
+2.b
+
+in section 22 (decision-making where no chairman), in subsection (2) for “If
+there is no such agreement” there were substituted  “Where there are two or
+more arbitrators with no chairman” ;
+
+2.c
+
+in section 34 (procedural and evidential matters), in subsection (1) after
+“matters”, there were inserted  “(including in relation to oral hearings held
+in public)” ;
+
+2.d
+
+in section 35 (consolidation of proceedings and concurrent hearings), in
+subsection (2), for the words from “Unless” to “has no” there were substituted
+“The tribunal also has” ;
+
+2.e
+
+in section 37 (power to appoint experts, legal advisers or assessors), in
+subsection (1)(a), after “tribunal may” there were inserted  “, where agreed
+by the parties” ;
+
+2.f
+
+in section 68 (challenging the award: serious irregularity), in subsection
+(2)(c), the words “procedure agreed by the parties” were substituted by
+“statutory procedure”;
+
+2.g
+
+in section 74 (immunity of arbitral institutions)—
+
+2.g.i
+
+in subsection (1), for “appoint or nominate” there were substituted  “appoint,
+nominate or remove” ;
+
+2.g.ii
+
+in subsection (2), for “appointed or nominated”, in both places, there were
+substituted  “appointed, nominated or removed” .
+
+3
+
+The modifications under paragraphs 1 and 2 are without prejudice to the
+operation of sections 94 to 98 of the Arbitration Act 1996 in relation to
+other provisions.
+
+  Temporary moratorium on enforcement of protected rent debts
+
+Section 23
+
+##### Preliminary: interpretation
+
+1
+
+1.1
+
+This Schedule applies in relation to a protected rent debt under a business
+tenancy.
+
+1.2
+
+In this Schedule—
+
+1.2.a
+
+references to “the protected debt” or “the debt” are to the whole or any part
+of that protected rent debt;
+
+1.2.b
+
+“the business tenancy” is the business tenancy under which the protected debt
+arose;
+
+1.2.c
+
+“the landlord” and “the tenant” refer respectively to the landlord and the
+tenant under that tenancy;
+
+1.2.d
+
+“ the moratorium period ”, in relation to the protected debt, has the meaning
+given by section 23(2);
+
+1.2.e
+
+a reference to doing something “in relation to” the protected debt includes,
+where appropriate, its being done on the basis of the debt.
+
+##### Making a debt claim
+
+2
+
+2.1
+
+The landlord may not, during the moratorium period for the debt, make a debt
+claim to enforce the protected debt.
+
+2.2
+
+In this paragraph “ debt claim ” means a claim to enforce a debt in civil
+proceedings (including by a counterclaim or any other way of claiming payment
+of a debt in such proceedings).
+
+##### Debt claims made before the day on which this Act is passed
+
+3
+
+3.1
+
+This paragraph applies to proceedings on a debt claim which—
+
+3.1.a
+
+is made on or after 10 November 2021 but before the day on which this Act is
+passed,
+
+3.1.b
+
+is made by the landlord against the tenant, and
+
+3.1.c
+
+relates to, or to debts which include, the protected rent debt.
+
+3.2
+
+Either of the parties to the business tenancy may apply to the court for the
+proceedings on the debt claim to be stayed in order to enable the matter of
+payment of the protected rent debt to be resolved (whether by arbitration or
+otherwise).
+
+3.3
+
+Where such an application is made in respect of proceedings on a debt claim
+the court must stay the proceedings (unless it is satisfied that they are not
+proceedings to which this paragraph applies).
+
+3.4
+
+Sub-paragraphs (5) to (7) apply if judgment on the debt claim is given in
+favour of the landlord during the period described in sub-paragraph  (1)(a) .
+
+3.5
+
+So long as the judgment debt so far as relating to the protected rent debt, or
+any interest on it, is unpaid, then—
+
+3.5.a
+
+the matter of relief from payment of the judgment debt so far as relating to
+the protected rent debt, or any interest on it, may be resolved by arbitration
+under Part 2 of this Act or by agreement (as if that part of the judgment debt
+and any interest on it were a protected rent debt), despite the judgment
+having been given,
+
+3.5.b
+
+the judgment debt, so far as relating to the protected rent debt or any
+interest on it, may not be enforced or relied on by the landlord before the
+end of the moratorium period for the protected rent debt, and
+
+3.5.c
+
+if relief from payment is awarded or agreed, the effect of the judgment debt
+is to be taken as altered in accordance with the award or agreement.
+
+3.6
+
+Where it comes to the attention of the officer of the court in which the
+judgment is entered that—
+
+3.6.a
+
+the judgment relates solely to the protected rent debt,
+
+3.6.b
+
+relief from payment of the protected rent debt has been awarded under Part 2
+of this Act or agreed, and
+
+3.6.c
+
+the moratorium period for the protected rent debt has ended,
+
+the officer must send a request to the registrar to cancel the entry in the
+register of judgments under section 98 of the Courts Act 2003.
+
+3.7
+
+Following receipt of a request under sub-paragraph  (6) , the registrar must
+cancel the entry.
+
+3.8
+
+In this paragraph—
+
+      “ debt claim ” has the same meaning as in paragraph 2;           “
+tenant ” includes—         a person who has guaranteed the obligations of the
+tenant under a business tenancy,           a person other than the tenant who
+is liable on an indemnity basis for the payment of rent under a business
+tenancy, and           a former tenant who is liable for the payment of rent
+under a business tenancy.
+
+##### Using CRAR (the commercial rent arrears recovery power)
+
+4
+
+4.1
+
+The landlord may not, during the moratorium period for the protected debt, use
+CRAR in relation to the debt.
+
+4.2
+
+This means that during that period—
+
+4.2.a
+
+an authorisation to exercise CRAR on behalf of the landlord in relation to the
+protected debt may not be given,
+
+4.2.b
+
+a notice of enforcement may not be given in relation to the protected debt on
+behalf of the landlord, and
+
+4.2.c
+
+the protected debt is to be disregarded in calculating the net unpaid rent for
+the purposes of section 77 of the Tribunals, Courts and Enforcement Act 2007
+(the rent recoverable using CRAR).
+
+4.3
+
+In this paragraph “ CRAR ” and “ notice of enforcement ” have the same meaning
+as in Chapter 2 of Part 3 of that Act.
+
+4.4
+
+In section 77 of that Act, after paragraph (b) of subsection (1) insert
+
+;
+
+4.4.c
+
+it is not excluded from recovery using CRAR by paragraph 4 of Schedule 2 to
+the Commercial Rent (Coronavirus) Act 2022 (temporary moratorium on
+enforcement of protected rent debts).
+
+##### Enforcing a right of re-entry or forfeiture
+
+5
+
+5.1
+
+The landlord may not, during the moratorium period for the protected debt,
+enforce, by action or otherwise, a right of re-entry or forfeiture for non-
+payment of the debt.
+
+5.2
+
+No conduct by or on behalf of the landlord during the moratorium period, other
+than giving an express waiver in writing, is to be regarded as waiving a right
+of re-entry or forfeiture, under the business tenancy, for non-payment of the
+debt.
+
+5.3
+
+For the purposes of determining whether the ground mentioned in section
+30(1)(b) of the Landlord and Tenant Act 1954 (persistent delay in paying rent
+which has become due) is established in relation to the business tenancy, any
+failure to pay the debt during the moratorium period is to be disregarded.
+
+6
+
+6.1
+
+This paragraph applies where—
+
+6.1.a
+
+a superior landlord enforces, by action or otherwise, a right of re-entry or
+forfeiture in relation to a superior tenancy during the moratorium period, and
+
+6.1.b
+
+the tenant applies for relief from forfeiture in relation to its interest in
+the property comprised in the tenancy.
+
+6.2
+
+For the purposes of determining whether to grant the tenant relief from
+forfeiture and, if so, the terms of such relief, the court must disregard any
+failure to pay the protected rent debt.
+
+##### Using landlord’s right to appropriate rent
+
+7
+
+7.1
+
+This paragraph applies in relation to a payment of rent under a business
+tenancy which is paid during the moratorium period for the debt at a time
+when—
+
+7.1.a
+
+the tenant owes the landlord an unprotected rent debt in addition to the debt,
+and
+
+7.1.b
+
+the tenant has not exercised the tenant’s right to appropriate the payment to
+any particular rent debt owed to the landlord.
+
+7.2
+
+The landlord’s right to appropriate the payment must be used to apply the
+payment to meet the unprotected rent debt before it is applied to the
+protected rent debt.
+
+7.3
+
+In this paragraph an “unprotected rent debt” is a debt consisting of—
+
+7.3.a
+
+rent that is not protected rent, or
+
+7.3.b
+
+interest on rent that is not protected rent.
+
+8
+
+8.1
+
+This paragraph applies in relation to any payment of rent under a business
+tenancy which was paid during the period mentioned in sub-paragraph (2) at a
+time when—
+
+8.1.a
+
+the tenant owed the landlord an unprotected rent debt in addition to the debt,
+and
+
+8.1.b
+
+the tenant had not exercised the tenant’s right to appropriate the payment to
+any particular rent debt.
+
+8.2
+
+The period relevant for the purposes of sub-paragraph (1) is the period—
+
+8.2.a
+
+beginning with the day after the last day of the protected period for the
+debt, and
+
+8.2.b
+
+ending with the day before the first day of the moratorium period for the
+debt.
+
+8.3
+
+During the moratorium period for the debt, the landlord’s right to appropriate
+the payment must be used to apply the payment to meet the unprotected rent
+debt before it is applied to the protected rent debt.
+
+8.4
+
+If the landlord used that right during the period mentioned in sub-paragraph
+(2) to appropriate the rent to the debt, then—
+
+8.4.a
+
+the appropriation of the payment to the debt is ineffective to the extent of
+the unprotected rent debt, and
+
+8.4.b
+
+the payment is to be treated for all purposes as having been appropriated to
+the unprotected rent debt first.
+
+8.5
+
+In this paragraph “ unprotected rent debt ” has the same meaning as in
+paragraph 7.
+
+##### Using tenant’s deposit to apply towards unpaid rent debt
+
+9
+
+9.1
+
+This paragraph applies where a tenancy deposit is available to the landlord
+for the purpose of applying towards an unpaid rent debt.
+
+9.2
+
+The landlord may not, during the moratorium period for the debt, recover the
+debt from the tenancy deposit.
+
+9.3
+
+If the landlord has lawfully recovered the debt from the tenancy deposit
+before the beginning of the moratorium period, the tenant is not required to
+make good any shortfall in the deposit before the end of that period.
+
+  Winding-up and bankruptcy petitions
+
+Section 27
+
+##### Prohibition on presenting a winding-up petition solely in relation to a protected rent debt
+
+1
+
+1.1
+
+This paragraph applies where a landlord under a business tenancy is owed a
+protected rent debt and the tenant is a company.
+
+1.2
+
+The landlord may not, during the moratorium period for the debt, present a
+petition for the winding up of the company under section 124 of the Insolvency
+Act 1986 on a ground specified—
+
+1.2.a
+
+in the case of a registered company, in section 122(1)(f) of that Act, or
+
+1.2.b
+
+in the case of an unregistered company, in section 221(5)(b) of that Act,
+
+unless the landlord is owed a debt by the company which is not a protected
+rent debt.
+
+1.3
+
+In this paragraph—
+
+      “ the moratorium period ”, in relation to a protected rent debt, has the
+same meaning as in section 23;           “ registered company ” means a
+company registered under the Companies Act 2006 in England and Wales or
+Scotland;           “ unregistered company ” has the same meaning as in Part 5
+of the Insolvency Act 1986.
+
+1.4
+
+This paragraph, so far as relating to registered companies, applies to limited
+liability partnerships.
+
+##### Prohibition on presenting a bankruptcy order petition in relation to a protected rent debt
+
+2
+
+2.1
+
+This paragraph (and paragraph  3 ) applies where the landlord under a business
+tenancy is owed a protected rent debt and the tenant is an individual.
+
+2.2
+
+The landlord may not present a petition for a bankruptcy order against the
+tenant on a ground specified in section 268(1)(a) or (2) of the Insolvency Act
+1986 where the demand referred to in those provisions related to any protected
+rent debt and was served during the relevant period.
+
+2.3
+
+The landlord may not present a petition for a bankruptcy order against the
+tenant on a ground specified in section 268(1)(b) of that Act where the
+judgment or order referred to in that provision related to any protected rent
+debt and the claim for that debt was issued during the relevant period.
+
+2.4
+
+If a petition mentioned in sub-paragraph  (2)  or  (3)  is presented, the
+court may make such order or give such directions as it thinks appropriate to
+restore the position to what it would have been if the petition had not been
+presented.
+
+2.5
+
+If it appears to the interim receiver or special manager that the petition is
+one mentioned in sub-paragraph  (2)  or  (3) , the interim receiver or special
+manager must refer the matter to the court to determine whether to make an
+order or give directions under sub-paragraph (4).
+
+2.6
+
+Neither the interim receiver or special manager is liable in any civil or
+criminal proceedings for anything done pursuant to an order made under section
+286 or 370 of the Insolvency Act 1986 in relation to a petition that relates
+to any protected rent debt.
+
+2.7
+
+The “relevant period” is the period which begins on 10 November 2021 and ends
+with the day mentioned in section 23 (2)(b) .
+
+2.8
+
+In this paragraph “ claim ” includes a counterclaim or any other way of
+claiming payment of a debt in civil proceedings.
+
+2.9
+
+This paragraph is to be regarded as having come into force on 10 November
+2021.
+
+##### Bankruptcy orders made before the day on which this Act is passed
+
+3
+
+3.1
+
+This paragraph applies where—
+
+3.1.a
+
+a court makes a bankruptcy order against the tenant on a petition from the
+landlord under section 267 of the Insolvency Act 1986,
+
+3.1.b
+
+the order was made on or after 10 November 2021 but before the day on which
+this Schedule comes into force, and
+
+3.1.c
+
+the order was not one which the court would have made had this Schedule been
+in force at the time.
+
+3.2
+
+The court is to be regarded as having had no power to make the order (and,
+accordingly, the order is to be regarded as void).
+
+3.3
+
+Neither the trustee, official receiver, interim receiver or special manager is
+liable in any civil or criminal proceedings for anything done pursuant to the
+order.
+
+3.4
+
+The court may make such order or give such directions as it thinks appropriate
+to restore the position to what it was immediately before the petition was
+presented.
+
+3.5
+
+If at any time it appears to the trustee, official receiver, interim receiver
+or special manager that—
+
+3.5.a
+
+a bankruptcy order made by the court is void by virtue of sub-paragraph  (2) ,
+and
+
+3.5.b
+
+it might be appropriate for the court to make an order or give directions
+under sub-paragraph  (4) ,
+
+the trustee, official receiver, interim receiver or special manager must refer
+the matter to the court to determine whether to make such an order or give
+such directions.
+
+##### Interpretation
+
+4
+
+4.1
+
+In this Schedule—
+
+      “ interim receiver ” means a person appointed under section 286 of the
+Insolvency Act 1986;           “ special manager ” means a person appointed
+under section 370 of that Act;           “ trustee ” means the trustee of a
+bankrupt’s estate.
+
+4.2
+
+In this Schedule, references to the “ tenant ” include—
+
+4.2.a
+
+a person who has guaranteed the obligations of the tenant under a business
+tenancy,
+
+4.2.b
+
+a person other than the tenant who is liable on an indemnity basis for the
+payment of rent under a business tenancy, and
+
+4.2.c
+
+a former tenant who is liable for the payment of rent under a business
+tenancy.
+

@@ -1,0 +1,280 @@
+Title: Horse Racing (Amendment) Act (Northern Ireland) 2022
+Date: 2022-08-01
+Description: Amend the Horse Racing (Northern Ireland) Order 1990 to allow for payments to be made from the Horse Racing Fund to horse racecourse operators; and for connected purposes.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nia/2022/2
+
+## Horse Racing (Amendment) Act (Northern Ireland) 2022
+
+      BE IT ENACTED by being passed by the Northern Ireland Assembly and
+assented to by Her Majesty as follows:
+
+### Horse racecourse operators
+
+1
+
+1.1
+
+Article 2 of the 1990 Order (interpretation) is amended as follows.
+
+1.2
+
+In paragraph (2)—
+
+1.2.a
+
+omit the definition of “the Company”;
+
+1.2.b
+
+omit the definition of “the Corporation”;
+
+1.2.c
+
+at the appropriate place insert—
+
+      “horse racecourse operator” means any of the following—
+Downpatrick Race Club;           Down Royal Park Racecourse Limited;
+
+.
+
+1.3
+
+After paragraph (2) add—
+
+1.3.3
+
+The Department may by regulations make such amendment to the definition of
+“horse racecourse operator” as it thinks appropriate.
+
+1.3.4
+
+Regulations under paragraph (3) may not be made unless a draft of the
+regulations has been laid before and approved by a resolution of the Assembly.
+
+.
+
+### Horse Racing Fund
+
+2
+
+2.1
+
+Article 3 of the 1990 Order (horse racing fund) is amended as follows.
+
+2.2
+
+In paragraph (1), for “the Corporation and the Company” substitute  “horse
+racecourse operators” .
+
+2.3
+
+In paragraph (4)—
+
+2.3.a
+
+for “The Corporation and the Company” in the first place where it occurs
+substitute  “Each horse racecourse operator” ;
+
+2.3.b
+
+for “the Corporation and the Company” in the second place where it occurs
+substitute  “the horse racecourse operator” .
+
+2.4
+
+After paragraph (4) insert—
+
+2.4.4A
+
+A horse racecourse operator may submit a statement under paragraph (4) either
+on its own or together with any other horse racecourse operator.
+
+.
+
+2.5
+
+In paragraph (5)—
+
+2.5.a
+
+in the words before sub-paragraph (a)—
+
+2.5.a.i
+
+for “the statement” substitute  “a statement” ;
+
+2.5.a.ii
+
+for “the Corporation or, as the case may be, the Company” substitute  “the
+horse racecourse operator” ;
+
+2.5.b
+
+in sub-paragraph (c), for “the Corporation or the Company” substitute  “the
+horse racecourse operator” .
+
+2.6
+
+After paragraph (5) insert—
+
+2.6.5A
+
+Where a horse racecourse operator submits a statement under paragraph (4)
+together with any other horse racecourse operator, any reference in paragraphs
+(4) or (5), or in Article 6 to either “the horse racecourse operator” or “a
+horse racecourse operator” is a reference to the horse racecourse operators in
+question.
+
+.
+
+2.7
+
+Omit paragraph (6).
+
+### Minor and consequential amendments
+
+3
+
+3.1
+
+The 1990 Order is amended as follows.
+
+3.2
+
+In Article 2(2) (interpretation), omit the definition of “modify”.
+
+3.3
+
+In Article 6(1)(a) (power to enter land), for “the Corporation or the Company”
+substitute  “a horse racecourse operator” .
+
+3.4
+
+In Article 7 (returns or information to the Department), for “The Corporation
+and the Company” substitute  “Each horse racecourse operator” .
+
+3.5
+
+In Article 10 (accounts etc.)—
+
+3.5.a
+
+in paragraph (1), for “The Corporation and the Company” substitute  “Each
+horse racecourse operator” ;
+
+3.5.b
+
+in paragraph (2), for “the Corporation or, as the case may be, the Company”
+substitute  “the horse racecourse operator” .
+
+3.6
+
+Omit Article 11 (rules and bye-laws of the Corporation).
+
+3.7
+
+In Schedule 1 (amendments), omit paragraphs 5 and 6 and the cross-heading
+before paragraph 5.
+
+### Interpretation
+
+4
+
+In this Act “the 1990 Order” means the Horse Racing (Northern Ireland) Order
+1990.
+
+### Transitional and supplementary provision
+
+5
+
+5.1
+
+Down Royal Park Racecourse Limited must submit a statement of its expenditure
+for the year beginning with 1 January 2021 to the Department.
+
+5.2
+
+Where a horse racecourse operator has not submitted a statement under Article
+3(4) of the 1990 Order for the year beginning with 1 January 2022, the
+operator must submit a statement for the year to the Department.
+
+5.3
+
+A statement submitted under subsection (2) must include—
+
+5.3.a
+
+the expenditure of the horse racecourse operator for the period beginning with
+1 January 2022 and ending on the day the operator submits the statement, and
+
+5.3.b
+
+the proposed budget and expenditure plans for the horse racecourse operator
+for the period beginning with the day after the day on which the statement is
+submitted and ending on 31 December 2022.
+
+5.4
+
+The statements referred to in subsections (1) and (2) must be submitted before
+the end of the period of two weeks beginning with the day after the day on
+which this Act receives Royal Assent.
+
+5.5
+
+In the 1990 Order —
+
+5.5.a
+
+Article 3(5) has effect as if the reference to the statement submitted under
+paragraph (4) of the Article included a statement submitted under subsection
+(1) or (2),
+
+5.5.b
+
+for the purposes of accounts prepared under Article 5 of the 1990 Order for
+the year ending on 31 December 2021, Article 5(2) has effect as if the
+reference to April were to June,
+
+5.5.c
+
+Article 6(1)(a) has effect as if the reference to works under Article 3(5)(b)
+or (c) proposed in any statement submitted under Article 3(4) included works
+under Article 3(5)(b) or (c) to which expenditure in a statement submitted
+under subsection (1) or (2) relates,
+
+5.5.d
+
+Article 10(1)(b) has effect as if the duty to prepare an annual statement of
+accounts for a period of 12 months ending on 31 December in each year included
+a duty for Down Royal Park Racecourse Limited to prepare such a statement for
+the year ending on 31 December 2021, and
+
+5.5.e
+
+for the purposes of accounts prepared under Article 10(1) of the 1990 Order
+for the year ending on 31 December 2021, Article 10(3) has effect as if the
+reference to April were to June.
+
+5.6
+
+In this section—
+
+      “the Department” means the Department of Agriculture, Environment and
+Rural Affairs;           “horse racecourse operator” has the meaning given by
+Article 2(2) of the 1990 Order.
+
+### Commencement
+
+6
+
+This Act comes into operation on the day after the day on which this Act
+receives Royal Assent.
+
+### Short title
+
+7
+
+This Act may be cited as the Horse Racing (Amendment) Act (Northern Ireland)
+2022.
+

@@ -1,0 +1,265 @@
+Title: The Motor Vehicles (Construction and Use) (Amendment) Regulations (Northern Ireland) 2023
+Date: 2024-05-20
+Description: These Regulations amend the Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999 in order to make provision regarding the age of tyres (including retreaded tyres), and the legibility of date markings on tyres, which are permitted for use on buses (including minibuses) and goods vehicles with a maximum gross weight exceeding 3,500 kg. The Regulations also amend Table 2 of Schedule 1 to the 1999 Regulations to include provisions relating to retreaded tyres in ECE Regulations 108 and 109. These Regulations provide for an exemption for vehicles of historic interest provided they are not used for commercial purposes.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2023/168
+
+## The Motor Vehicles (Construction and Use) (Amendment) Regulations (Northern Ireland) 2023
+
+    Road Traffic And Vehicles
+
+  Made   11th October 2023
+
+  Coming into operation   13th November 2023
+
+      The Department for Infrastructure , makes the following Regulations in
+exercise of the powers conferred by Articles 55(1), (2)(a) and (6) and 110(2)
+of the Road Traffic (Northern Ireland) Order 1995  and now vested in it .
+
+### Citation and commencement
+
+
+1
+
+These Regulations may be cited as the Motor Vehicles (Construction and Use)
+(Amendment) Regulations (Northern Ireland) 2023 and shall come into operation
+on 13th November 2023.
+
+### Amendment of the Construction and Use Regulations
+
+
+2
+
+2.1
+
+The Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999
+are amended in accordance with paragraphs (2) to (5).
+
+2.2
+
+In regulation 2(2) (interpretation), in the definition of “ECE Regulation,
+followed by a number”, for “more than two digits” substitute  “a full-stop
+followed by another number” .
+
+2.3
+
+In regulation 30 (tyre loads and speed ratings)—
+
+2.3.a
+
+in paragraph (7), for “but this requirement shall not apply to a retreaded
+tyre” substitute  “or, in the case of a retreaded tyre, with the requirements
+of ECE Regulation 108 or ECE Regulation 109.” ; and
+
+2.3.b
+
+in paragraph (12), in the definition of “load-capacity index”, for “2.29” to
+the end substitute  “2 of ECE Regulation 30.02 or ECE Regulation 54, or as
+“load index” in paragraph 2 of ECE Regulation 108 or ECE Regulation 109;” .
+
+2.4
+
+In regulation 32 (condition and maintenance of tyres)—
+
+2.4.a
+
+in paragraph (1)—
+
+2.4.a.i
+
+for “Subject to paragraphs (2) to (4)” substitute  “Subject to paragraph (1A)
+and paragraphs (2) to (4)” ;
+
+2.4.a.ii
+
+in sub-paragraph (g)(ii) omit “or” at the end;
+
+2.4.a.iii
+
+after sub-paragraph (h) insert—
+
+2.4.a.iii.i
+
+the tyre is not a retreaded tyre and—
+
+2.4.a.iii.i.i
+
+the week of manufacture on its sidewall in accordance with ECE Regulation 30
+or 54 falls more than 10 years before the date on which the motor vehicle is
+used on the road; or
+
+2.4.a.iii.i.ii
+
+it does not have a week of manufacture marking which complies with ECE
+Regulation 30 or 54 (whether because it was manufactured before the ECE
+Regulation applied or otherwise);
+
+2.4.a.iii.j
+
+the tyre is a retreaded tyre and—
+
+2.4.a.iii.j.i
+
+the week of retreading marked on its sidewall in accordance with ECE
+Regulation 108 or 109 falls more than 10 years before the date on which the
+motor vehicle is used on the road; or
+
+2.4.a.iii.j.ii
+
+it does not have a week of retreading marking which complies with ECE
+Regulation 108 or 109 (whether because it was retreaded before the ECE
+Regulations applied or otherwise); or
+
+2.4.a.iii.k
+
+a date marked on the tyre sidewall in accordance with ECE Regulation 30. 54,
+108 or 109 is illegible.
+
+;
+
+2.4.b
+
+after paragraph (1) insert—
+
+2.4.b.1A
+
+Subject to paragraph (4)(a) and (ca), and notwithstanding anything in
+regulation 30—
+
+2.4.b.1A.a
+
+paragraph (1)(i) and (j) only applies to tyres fitted—
+
+2.4.b.1A.a.i
+
+to a front axle of a bus other than a minibus;
+
+2.4.b.1A.a.ii
+
+in single configuration on any axle of a minibus; or
+
+2.4.b.1A.a.iii
+
+to a front axle of a goods vehicle with a maximum gross weight exceeding 3,500
+kg;
+
+2.4.b.1A.b
+
+in sub-paragraph (a) —
+
+2.4.b.1A.b.i
+
+“ front axle ” means any axle, forward of the mid-point of the chassis on
+which the wheels are controlled by the steering system; and
+
+2.4.b.1A.b.ii
+
+“ single configuration ” means where no more than one wheel and tyre assembly
+is mounted at the end of the axle concerned; and
+
+2.4.b.1A.c
+
+paragraph (1)(k) only applies to —
+
+2.4.b.1A.c.i
+
+buses (including minibuses); and
+
+2.4.b.1A.c.ii
+
+goods vehicles with a maximum gross weight exceeding 3,500 kg.
+
+;
+
+2.4.c
+
+in paragraph (4)—
+
+2.4.c.i
+
+in sub-paragraph (a), after “(1)(a) to (g)” insert  “and (i) to (k)” ;
+
+2.4.c.ii
+
+after sub-paragraph (c) insert—
+
+2.4.c.ii.ca
+
+Nothing in paragraph (1)(i) to (k) applies to a vehicle of historical interest
+used for non-commercial purposes, and for this purpose “ vehicle of historical
+interest ” means a vehicle which the Department considers to be of historical
+interest to Northern Ireland and which—
+
+2.4.c.ii.ca.i
+
+was manufactured or registered for the first time at least 40 years
+previously;
+
+2.4.c.ii.ca.ii
+
+is of a type no longer in production; and
+
+2.4.c.ii.ca.iii
+
+is historically preserved or maintained in its original state and has not
+undergone substantial changes in the technical characteristics of its main
+components,
+
+where “ type ” in relation to the vehicle has the same meaning as “type of
+vehicle” in Article 3(32) of  Regulation (EU) 2018/858  of the European
+Parliament and of the Council of 30 May 2018 on the approval and market
+surveillance of motor vehicles and their trailers, and of systems, components
+and separate technical units intended for such vehicles ;
+
+; and
+
+2.4.d
+
+in paragraph (6)(a), in the definition of “original tread pattern” for “re-
+treaded”, in both places that it appears, substitute  “retreaded” .
+
+2.5
+
+In Schedule 1, in Table 2 (ECE Regulations), after the entry relating to item
+44 insert—
+
+      45 108 108 23.6.98 Retread tyres for passenger cars and their trailers –
+– 46 109 109 23.6.98 Retread tyres for commercial vehicles and their trailers
+– –
+
+      Sealed with the Official Seal of the Department for Infrastructure on
+11th October 2023         Chris Hughes   A senior officer of the Department
+for Infrastructure
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations amend the Motor Vehicles (Construction and Use)
+Regulations (Northern Ireland) 1999 in order to make provision regarding the
+age of tyres (including retreaded tyres), and the legibility of date markings
+on tyres, which are permitted for use on buses (including minibuses) and goods
+vehicles with a maximum gross weight exceeding 3,500 kg. The Regulations also
+amend Table 2 of Schedule 1 to the 1999 Regulations to include provisions
+relating to retreaded tyres in ECE Regulations 108 and 109. These Regulations
+provide for an exemption for vehicles of historic interest provided they are
+not used for commercial purposes.
+
+  These Regulations were notified to the European Commission pursuant to
+Directive (EU) 2015/1535 of the European Parliament and of the Council of 9
+September 2015 (O.J. No. L241, 17.9.2015, p 1) under notification number
+2023/7002/X1. No comments were made during the three-month standstill period.
+The Directive is available online at  http://eur-lex.europa.eu
+
+  The ECE Regulations are issued by the United Nations Economic Commission for
+Europe. Copies of the ECE Regulations referred to in these Regulations can be
+obtained from the UNECE website:
+http://www.unece.org/trans/main/wp29/wp29regs.html . Copies can also be
+obtained from Vehicle Policy Branch, Safe and Accessible Travel Division,
+Department for Infrastructure, Clarence Court, 10-18 Adelaide Street, Town
+Parks, Belfast BT2 8GB (e-mail:  vehicle.standards@infrastructure-ni.gov.uk )
+
+  A Regulatory Impact Assessment and Explanatory Memorandum have been produced
+and are available from Vehicle Policy Branch at the above address or online
+alongside this Statutory Rule at  http://www.legislation.gov.uk/nisr
+

@@ -1,0 +1,179 @@
+Title: Employment Relations (Flexible Working) Act 2023
+Date: 2024-04-07
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ukpga/2023/33
+
+## Employment Relations (Flexible Working) Act 2023
+
+      B e it enacted  by the King’s most Excellent Majesty, by and with the
+advice and consent of the Lords Spiritual and Temporal, and Commons, in this
+present Parliament assembled, and by the authority of the same, as follows:—
+
+### Flexible working
+
+1
+
+1.1
+
+Section 80F of the Employment Rights Act 1996 (flexible working: right to
+request contract variation) is amended as follows.
+
+1.2
+
+In subsection (2)—
+
+1.2.a
+
+at the end of paragraph (a) insert  “and” ;
+
+1.2.b
+
+omit paragraph (c) and the “and” preceding it.
+
+1.3
+
+For subsection (4) substitute—
+
+1.3.4
+
+An employee may not—
+
+1.3.4.a
+
+make more than two applications under this section to the same employer during
+any period of 12 months;
+
+1.3.4.b
+
+make an application under this section to an employer if another such
+application to the same employer is proceeding.
+
+1.3.4A
+
+For the purposes of this section an application is “proceeding” during any of
+these periods—
+
+1.3.4A.a
+
+the period—
+
+1.3.4A.a.i
+
+beginning when the application is made, and
+
+1.3.4A.a.ii
+
+ending when the application is concluded;
+
+1.3.4A.b
+
+any period—
+
+1.3.4A.b.i
+
+beginning when an appeal against a decision to refuse the application is
+brought, and
+
+1.3.4A.b.ii
+
+ending when the appeal is concluded;
+
+1.3.4A.c
+
+any period—
+
+1.3.4A.c.i
+
+beginning when, in accordance with section 80G(1C)(b), the decision period for
+an application or appeal is extended with retrospective effect, and
+
+1.3.4A.c.ii
+
+ending when the application or appeal is concluded.
+
+1.3.4B
+
+For the purposes of this section an application or appeal is “concluded” when
+any of these events occurs—
+
+1.3.4B.a
+
+a decision is made on the application or appeal under section 80G;
+
+1.3.4B.b
+
+the application or appeal is withdrawn;
+
+1.3.4B.c
+
+the application or appeal is disposed of by agreement;
+
+1.3.4B.d
+
+the decision period specified in section 80G for the application or appeal
+ends without a decision, withdrawal or agreed disposal.”
+
+1.4
+
+Section 80G of the Employment Rights Act 1996 (flexible working: employer’s
+duties in relation to application) is amended as follows.
+
+1.5
+
+In subsection (1), after paragraph (a) insert—
+
+1.5.aza
+
+shall not refuse the application unless the employee has been consulted about
+the application,”.
+
+1.6
+
+In subsection (1B)(a), for “three months” substitute  “two months” .
+
+1.7
+
+The amendments made by this section apply in respect of—
+
+1.7.a
+
+an employee’s entitlement, on or after the coming into force of this section,
+to make an application under section 80F of the Employment Rights Act 1996,
+and
+
+1.7.b
+
+any such application made on or after the coming into force of this section,
+
+regardless of when the employment, contract or other arrangement (as the case
+may be) began.
+
+1.8
+
+On or after the coming into force of this section, in any determination of the
+number of applications made under section 80F of the Employment Rights Act
+1996 by an employee during a period of 12 months, any such application made
+before that coming into force (and during that period) is to be included.
+
+### Extent, commencement and short title
+
+2
+
+2.1
+
+This Act extends to England and Wales and Scotland.
+
+2.2
+
+Section 1 comes into force on such day as the Secretary of State may by
+regulations made by statutory instrument appoint; and different days may be
+appointed for different purposes.
+
+2.3
+
+This section comes into force on the day on which this Act is passed.
+
+2.4
+
+This Act may be cited as the Employment Relations (Flexible Working) Act 2023.
+

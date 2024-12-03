@@ -1,0 +1,350 @@
+Title: The Air Navigation (Isle of Man) (Amendment) Order 2022
+Date: 2024-05-16
+Description: The Air Navigation (Isle of Man) Order 2015 (S.I. 2015/870) makes provision for the Isle of Man in relation to the registration, marking, airworthiness, equipment, manning, operation, movement and safety of aircraft and the licensing and welfare of flight crew.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/172
+
+## The Air Navigation (Isle of Man) (Amendment) Order 2022
+
+    Civil Aviation
+
+  Made   16th February 2022
+
+  Coming into force in accordance with article 1
+
+    At the Court at Windsor Castle, the 16th day of February 2022 Present, The
+Queen’s Most Excellent Majesty in Council         This Order is made in
+exercise of the powers conferred by sections 60 and 61 of the Civil Aviation
+Act 1982 .         Her Majesty, by and with the advice of Her Privy Council,
+orders as follows:
+
+### Citation and commencement
+
+1
+
+1.1
+
+This Order may be cited as the Air Navigation (Isle of Man) (Amendment) Order
+2022.
+
+1.2
+
+Subject to paragraphs (3) and (4), this Order comes into force on the date of
+the coming into operation of the Civil Aviation (Aircraft Registration and
+Marking) Order 2022 .
+
+1.3
+
+Articles 7, 12 and 13(1)(b), (2)(b) and (3)(a) come into force on the date of
+the coming into operation of the Civil Aviation (Aerodromes) Order 2022 .
+
+1.4
+
+Articles 8,   8A, 8B(b), 8C,  9(2), 11(a) and 13(3)(b) come into force on the
+date of the coming into operation of the Civil Aviation (Miscellaneous
+Amendments) Order 2022 .
+
+### Amendment to the Air Navigation (Isle of Man) Order 2015
+
+2
+
+The Air Navigation (Isle of Man) Order 2015  is amended as follows.
+
+### Registration and marking of aircraft
+
+3
+
+Omit articles 4 to 10.
+
+### Operations
+
+4
+
+In article 11, after “an aircraft registered in the Isle of Man”, insert
+“prior to the date of the coming into operation of the Civil Aviation
+(Aircraft Registration and Marking) Order 2022   (SD 2022/0073) ” .
+
+### Certificate of airworthiness
+
+5
+
+In article 15(2), for subparagraph (g) substitute—
+
+5.g
+
+a single-seat deregulated aeroplane which is flying on a private flight.
+
+.
+
+### Marking of break-in areas
+
+6
+
+Omit article 63.
+
+### Aerodromes, aeronautical lights and dangerous lights
+
+7
+
+Omit articles 126 to 134.
+
+### Restriction on aerial photography, aerial survey and aerial work
+
+8
+
+Omit article 141.
+
+### Revocation, suspension and variation of permissions, etc
+
+8A
+
+In article 145—
+
+8A.a
+
+in the heading, omit “or article 141”;
+
+8A.b
+
+in paragraph (1), omit “or article 141”.
+
+### Department’s power to prevent aircraft flying
+
+8B
+
+In article 147(2)(a)—
+
+8B.a
+
+omit “10,”;
+
+8B.b
+
+for “, 139 or 141” substitute  “or 139” .
+
+### Exemption from Order
+
+8C
+
+In article 156, omit “141,”.
+
+### Interpretation
+
+9
+
+9.1
+
+In article 167(1)—
+
+9.1.a
+
+after the definition of “Authorised person”, insert—
+
+“ Basic Regulation ” means Regulation (EU) 2018/1139 of the European
+Parliament and of the Council of 4 July 2018 on common rules in the field of
+civil aviation and establishing a European Union Aviation Safety Agency, and
+amending Regulations  (EC) No 2111/2005 ,  (EC) No 1008/2008 , (EU) No
+996/2010, (EU) No 376/2014 and Directives  2014/30/EU  and  2014/53/EU  of the
+European Parliament and of the Council, and repealing Regulations  (EC) No
+552/2004  and  (EC) No 216/2008  of the European Parliament and of the Council
+and  Council Regulation (EEC) No 3922/91 ;
+
+;
+
+9.1.b
+
+for the definition of “the Department”, substitute—
+
+“ the Department ” means the Department for Enterprise of the Isle of Man
+Government;
+
+;
+
+9.1.c
+
+in the definition of “EASA”—
+
+9.1.c.i
+
+after “European” insert  “Union” ;
+
+9.1.c.ii
+
+delete “EASA” in the second place it occurs;
+
+9.1.d
+
+omit the definition of “Microlight aeroplane”;
+
+9.1.e
+
+after the definition of “Night”, insert—
+
+“ Non-Part 21 aircraft ” means an aircraft which would not be required by the
+Basic Regulation to hold a certificate of airworthiness or a restricted
+certificate of airworthiness under subpart H of Part 21 or a permit to fly
+under subpart P of Part 21;
+
+;
+
+9.1.f
+
+for the definition of “Part 21”, substitute—
+
+“ Part 21 ” means the Annex so entitled to  Commission Regulation (EU) No
+748/2012  of 3 August 2012 laying down implementing rules for the
+airworthiness and environmental certification of aircraft and related
+products, parts and appliances, as well as for the certification of design and
+production organisations;
+
+;
+
+9.1.g
+
+after the definition of “Self-sustaining glider”, insert—
+
+“ Single-seat deregulated aeroplane ” means a non-Part 21 aircraft, other than
+an unmanned aircraft, which is designed to carry not more than one person,
+which has— a maximum take-off mass not exceeding— 300kg for a landplane (or
+390kg for a landplane of which at least 51% was built by an amateur, or non-
+profit making association of amateurs (“the association”), for the amateur or
+the association’s own purposes and without any commercial objective, in
+respect of which a permit to fly issued by the CAA was in force prior to 1st
+January 2003); 330kg for an amphibian or floatplane; or 315kg for a landplane
+equipped with an airframe mounted total recovery parachute system; and a
+stalling speed, or minimum steady flight speed in the landing configuration,
+at the maximum take-off mass not exceeding 35 knots calibrated airspeed;
+
+.
+
+9.2
+
+For article 167(3), substitute—
+
+9.2.3
+
+Aircraft shall be classified in accordance with the Classification of Aircraft
+in the Schedule to the Civil Aviation (Miscellaneous Provisions) Order 2020
+(SD 2020/0134).
+
+.
+
+### Commercial air transport and aerial work
+
+10
+
+In article 172, after “commercial air transport flight”, insert  “by an
+aircraft registered in the Isle of Man prior to the date of the coming into
+operation of the Civil Aviation (Aircraft Registration and Marking) Order 2022
+(SD 2022/0073) ” .
+
+### Classification and marking of aircraft and dealer certification
+
+11
+
+In Schedule 2, omit—
+
+11.a
+
+Part 1 (classification of aircraft); and
+
+11.b
+
+Parts 2 (conditions in aircraft dealer’s certificate) and 3 (nationality and
+registration marks of aircraft registered in the Isle of Man).
+
+### Information and instructions to be included in an aerodrome manual
+
+12
+
+Omit Schedule 9.
+
+### Penalties
+
+13
+
+13.1
+
+In Part 1 of Schedule 11, omit the entries in respect of—
+
+13.1.a
+
+articles 6(6) and 7(1) to 7(3);
+
+13.1.b
+
+articles 129(3), 130(4), 131 and 132.
+
+13.2
+
+In Part 2 of Schedule 11, omit the entries in respect of—
+
+13.2.a
+
+articles 10(1), 10(3) and 63(2);
+
+13.2.b
+
+articles 126, 128, 129(4), 129(5), 129(7) to 129(10), 132A(3), 134(1) and
+134(2), and 134(4) and 134(5).
+
+13.3
+
+In Part 3 of Schedule 11, omit the entries in respect of—
+
+13.3.a
+
+articles 134(6) and 134(7);
+
+13.3.b
+
+article 141.
+
+### Transitional and saving provision
+
+14
+
+Notwithstanding the revocation by article 3 of this Order of article 6 of the
+Air Navigation (Isle of Man) Order 2015, where an aircraft has been registered
+and a certificate of registration issued under article 6 of that Order, and
+the registration and certificate of registration are valid immediately before
+that revocation comes into force, the registration has effect as if done, and
+the certificate has effect as if issued, by the Department for Enterprise of
+the Isle of Man Government under article 9 of the Civil Aviation (Aircraft
+Registration and Marking) Order 2022.
+
+Ceri King Deputy Clerk of the Privy Council
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Order)
+
+The Air Navigation (Isle of Man) Order 2015 ( S.I. 2015/870 ) makes provision
+for the Isle of Man in relation to the registration, marking, airworthiness,
+equipment, manning, operation, movement and safety of aircraft and the
+licensing and welfare of flight crew.
+
+The Airports and Civil Aviation Act 1987 (AT 10 of 1987) (an Act of Tynwald),
+as amended by the Airports and Civil Aviation (Amendment) Act 2018 (AT 12 of
+2018) (an Act of Tynwald), provides enabling powers so that the Isle of Man is
+able to make its own secondary legislation in relation to civil aviation.
+
+This Order accordingly amends the Air Navigation (Isle of Man) Order 2015 by
+revoking provisions relating to the registration and marking of aircraft,
+certain aircraft operations, aircraft classification and aerodromes.
+
+These revocations have effect from the date when replacement provisions made
+by the Isle of Man come into force. These can be found in the Civil Aviation
+(Aircraft Registration and Marking) Order 2022 (SD No 2022/0073), the Civil
+Aviation (Aerodromes) Order 2022 (SD No 2022/0074) and the Civil Aviation
+(Miscellaneous Amendments) Order 2022 (SD No 2022/0075).
+
+Provision relating to the requirement for a certificate of airworthiness is
+also amended to provide an exemption for certain flights of single-seat
+deregulated aeroplanes, and will also take effect upon commencement of the
+Civil Aviation (Aircraft Registration and Marking) Order 2022. The exemption
+for single-seat deregulated aeroplanes replaces the previous exemption which
+referred to microlight aeroplanes to align with recent changes to the Air
+Navigation Order 2016 ( S.I. 2016/765 ) made by the Air Navigation (Amendment)
+Order 2021 ( S.I. 2021/879 ).
+

@@ -1,0 +1,435 @@
+Title: The Packaging Waste (Data Reporting) (No. 2) (Amendment) Regulations (Northern Ireland) 2023
+Date: 2024-05-20
+Description: These Regulations are made to correct errors in The Packaging Waste (Data Reporting) (No.2) Regulations (Northern Ireland) 2023 (S.R. 2023 No. 25) (“the first Regulations”), to make further provision clarifying when a brand owner is a producer in relation to packaging and to assign responsibility for certain packaging to packer/fillers, rather than brand owners, and to importers.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2023/106
+
+## The Packaging Waste (Data Reporting) (No. 2) (Amendment) Regulations (Northern Ireland) 2023
+
+    Environmental Protection
+
+  Made   27th June 2023
+
+  Coming into operation   30th June 2023
+
+      The Department of Agriculture, Environment and Rural Affairs makes these
+Regulations in exercise of the powers conferred by Article 4(1) and paragraphs
+11 and 20 of Schedule 1 to, the Environment (Northern Ireland) Order 2002 (“
+the 2002 Order ”)  and now vested in it .           In accordance with Article
+4, paragraph (3) and (4) of the 2002 Order, the Department of Agriculture,
+Environment and Rural Affairs has consulted—         district councils and
+such bodies or persons appearing to it to be representative of the interests
+of district councils as it considers appropriate;           such bodies or
+persons appearing to it to be representative of the interests of industry,
+agriculture and businesses as it considers appropriate; and,           such
+other bodies or persons as it considers appropriate.
+
+### Citation, commencement interpretation
+
+1
+
+1.1
+
+These Regulations may be cited as the Packaging Waste (Data Reporting) (No. 2)
+(Amendment) Regulations (Northern Ireland) 2023.
+
+1.2
+
+These Regulations come into operation on 30th June 2023.
+
+1.3
+
+The Interpretation Act (Northern Ireland) 1954  shall apply to these
+Regulations as it applies to an Act of the Assembly.
+
+### Amendment of the Packaging Waste (Data Reporting) (No.2) Regulations (Northern Ireland) 2023
+
+2
+
+The Packaging Waste (Data Reporting) (No.2) Regulations (Northern Ireland)
+2023  are amended as follows.
+
+### Interpretation
+
+3
+
+In regulation 2(2) (interpretation)—
+
+3.a
+
+in the definition of “brand owner”, for “8(2)” substitute  “8(2B) read with
+8(2A)” ;
+
+3.b
+
+omit the definition of “recovery”.
+
+### Establishment in Northern Ireland and the United Kingdom
+
+4
+
+In regulation 3 (establishment in Northern Ireland and the United Kingdom)—
+
+4.a
+
+in paragraph (3)—
+
+4.a.i
+
+for “countries in”, substitute  “nations of” ;
+
+4.a.ii
+
+for “countries”, the second time it occurs, substitute  “nations” ;
+
+4.b
+
+in paragraph (4), for “country” substitute  “nation” ;
+
+4.c
+
+in paragraph (5), for “country” substitute  “nation” .
+
+### Packaging and packaging categories
+
+5
+
+In regulation 6(3) (packaging and packaging categories), for “rules”
+substitute  “application of the criteria” .
+
+### Producers
+
+6
+
+In regulation 8 (producers)—
+
+6.a
+
+for paragraph (2), substitute—
+
+6.a.2
+
+Unless paragraph (3A) applies, and subject to paragraph (2C), a brand owner is
+a producer in relation to—
+
+6.a.2.a
+
+filled packaging on which that brand owner’s, brand appears;
+
+6.a.2.b
+
+any packaging contained within, or forming part of, branded packaging (whether
+or not that packaging is branded).
+
+;
+
+6.b
+
+after paragraph (2), insert—
+
+6.b.2A
+
+Subject to paragraph (2C), when more than one brand appears on filled
+packaging, the owner of the brand who makes the first supply of the filled
+packaging is to be treated as the brand owner and producer in relation to that
+packaging.
+
+6.b.2B
+
+In this regulation—
+
+      “ brand ” means a brand name, trade mark or other distinctive mark;
+“ branded packaging ” means packaging on which the brand owner’s brand
+appears; and,           “ brand owner ” means, subject to paragraph (2A), a
+person whose brand appears on an item of filled packaging.
+
+6.b.2C
+
+Where a number of different individual branded products or unbranded products
+(or both) are grouped together to be sold as a single sales unit—
+
+6.b.2C.a
+
+the brand owner for an individual branded product within the sales unit is a
+producer in relation to the branded packaging on that individual product; and,
+
+6.b.2C.b
+
+the packer/filler is a producer in relation to any unbranded packaging within
+the sales unit which is filled by the packer/filler.
+
+;
+
+6.c
+
+after paragraph (3), insert—
+
+6.c.3A
+
+A packer/filler is also a producer—
+
+6.c.3A.a
+
+where—
+
+6.c.3A.a.i
+
+the packer/filler has filled packaging;
+
+6.c.3A.a.ii
+
+the packer/filler has put a brand on the packaging to assist with distribution
+and not at the request of the brand owner;
+
+6.c.3A.a.iii
+
+there is no other brand on the packaging;
+
+6.c.3A.b
+
+for any packaging which the packer/filler adds to branded packaging otherwise
+than at the request of the brand owner.
+
+;
+
+6.d
+
+in paragraph (4), in sub-paragraph (b)—
+
+6.d.i
+
+at the end of paragraph (ii), omit “or”;
+
+6.d.ii
+
+for paragraph (iii), substitute—
+
+6.d.ii.iii
+
+where the brand owner is responsible for the import of the packaging, but is
+not a large producer under these Regulations; or
+
+;
+
+6.d.iii
+
+after paragraph (iii), insert—
+
+6.d.iii.iv
+
+where the brand owner is not established in the United Kingdom.
+
+;
+
+6.e
+
+after paragraph (4), insert—
+
+6.e.4A
+
+An importer is also a producer in relation to any packaging imported by the
+importer into, and discarded in, the United Kingdom.
+
+### Supply
+
+7
+
+In regulation 11 (supply)—
+
+7.a
+
+after paragraph (1), insert—
+
+7.a.1A
+
+In these Regulations, an importer is to be treated as “supplying” packaging or
+packaging materials which the importer imports into and discards in the United
+Kingdom.
+
+;
+
+7.b
+
+in paragraph (2), for “functions” substitute  “actions” .
+
+### Threshold criteria for large and small producers
+
+8
+
+In regulation 12(9)(a) and (b) (threshold criteria for large and small
+producers), for “and 4(b)” substitute  “, (4)(b), (5)(b) and (6)(b)” .
+
+### Monitoring
+
+9
+
+In regulation 24 (monitoring), omit paragraphs (2) and (5).
+
+### Approved persons
+
+10
+
+In regulation 25(2) (approved persons), after sub-paragraph (b), insert—
+
+10.ba
+
+is a limited liability partnership, a member of that partnership;
+
+.
+
+### Schedule 1: Collection and reporting information
+
+11
+
+11.1
+
+Schedule 1 (collection and reporting information) is amended as follows.
+
+11.2
+
+In paragraph 10(3)(b)—
+
+11.2.a
+
+at the end of sub-paragraph (i), omit “and”;
+
+11.2.b
+
+omit sub-paragraph (ii).
+
+11.3
+
+In paragraph 13—
+
+11.3.a
+
+in sub-paragraph (1), in the opening words, for “reporting” substitute
+“relevant” ;
+
+11.3.b
+
+after sub-paragraph (2), insert—
+
+11.3.b.3
+
+Sub-paragraph (1) does not apply in relation to imported packaging which has
+been discarded in the United Kingdom by an importer.
+
+;
+
+11.4
+
+Omit paragraph 14.
+
+11.5
+
+In paragraph 15(c), for “of household” substitute  “of unfilled household” .
+
+11.6
+
+For paragraph 16 substitute—
+
+11.6.16
+
+11.6.16.1
+
+Where the producer has instituted a system of reusing reusable packaging, a
+description of that system, including the following information––
+
+11.6.16.1.i
+
+the weight in kilograms of all the packaging supplied during the relevant
+period that is reusable or refillable;
+
+11.6.16.1.ii
+
+the weight in kilograms of the packaging which is primary packaging.
+
+11.6.16.2
+
+The information provided under sub-paragraph (1) must be given for each
+packaging category supplied by the producer in the relevant period.
+
+11.6.16.3
+
+The producer need only include information on the reusable household packaging
+in the year in which it is first supplied.
+
+.
+
+11.7
+
+In paragraph 17(1), after “the producer” insert  “in the relevant period in
+each packaging category” .
+
+11.8
+
+In paragraph 22, for sub-paragraph (2) substitute—
+
+11.8.2
+
+For the purposes of reports submitted in relation to the relevant years 2024,
+2025 and 2026, but not in relation to any later years, producers who are—
+
+11.8.2.a
+
+sellers who supply secondary or tertiary packaging may estimate the amount of
+packaging which had been supplied to a nation of the United Kingdom in order
+to calculate the weight of packaging supplied to that nation;
+
+11.8.2.b
+
+importers who import secondary or tertiary packaging may estimate the amount
+of packaging discarded in a nation of the United Kingdom in order to calculate
+the weight of packaging discarded in that nation.
+
+.
+
+11.9
+
+In paragraph 23—
+
+11.9.a
+
+in paragraph (1), at the end insert  “and sent for recycling” ;
+
+11.9.b
+
+after sub-paragraph (5), insert—
+
+11.9.b.6
+
+“ Relevant packaging waste ” includes reusable packaging which has been reused
+and has become waste, whether or not it is collected from households for
+recycling by more than 75% of relevant authorities in Northern Ireland
+responsible for waste collection.
+
+.
+
+### Schedule 2: Licensors and Pub Operating businesses
+
+12
+
+In paragraph 8(a)(ii), for “paragraph 5” substitute  “paragraph 7(2)” .
+
+      Sealed with the Official Seal of the Department of Agriculture,
+Environment and Rural Affairs on 27 June 2023         Shane Doris   A senior
+officer of the   Department of Agriculture, Environment and Rural Affairs
+
+## Explanatory Note
+
+    (This note is not part of the Regulations)
+
+  These Regulations are made to correct errors in The Packaging Waste (Data
+Reporting) (No.2) Regulations (Northern Ireland) 2023 ( S.R. 2023 No. 25 ) (“
+the first Regulations ”), to make further provision clarifying when a brand
+owner is a producer in relation to packaging and to assign responsibility for
+certain packaging to packer/fillers, rather than brand owners, and to
+importers.
+
+  A full impact assessment of the effect that the first Regulations will have
+on the costs of business, the voluntary sector and the public sector is
+available form  www.legislation.gov.uk  and from the Department of
+Agriculture, Environment and Rural Affairs, Klondyke Building, Cromac Avenue,
+Gasworks Business Park, Malone Lower, Belfast BT7 2JA.
+

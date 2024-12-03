@@ -1,0 +1,774 @@
+Title: The Building (Amendment) (Wales) Regulations 2022
+Date: 2024-05-20
+Description: These Regulations amend the Building Regulations 2010 (“the Building Regulations”) and the Building (Approved Inspectors etc.) Regulations 2010 (“the Approved Inspectors Regulations”) as they apply in relation to Wales. The amendments made by these Regulations apply the new metric for the measurement of energy efficiency in the form of a target primary energy rate to new dwellings. Previously, primary energy consumption rates applied to buildings other than dwellings.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/wsi/2022/564
+
+## The Building (Amendment) (Wales) Regulations 2022
+
+    Building And Buildings, Wales
+
+  Made   20 May 2022
+
+  Laid before Senedd Cymru   24 May 2022
+
+  Coming into force   23 November 2022
+
+      The Welsh Ministers, in exercise of the powers conferred on the
+Secretary of State by sections 1, 34 and 47(1) of, and paragraphs 1, 2, 4, 4A,
+7, 8 and 10 of Schedule 1 to, the Building Act 1984 , now exercisable by them
+having consulted the Building Regulations Advisory Committee for Wales and
+such other bodies as appear to them to be representative of the interests
+concerned in accordance with section 14(7) of the Building Act 1984 , make the
+following Regulations.
+
+### Introductory
+
+#### Title, application, commencement and interpretation
+
+1
+
+1.1
+
+The title of these Regulations is the Building (Amendment) (Wales) Regulations
+2022.
+
+1.2
+
+These Regulations apply in relation to Wales.
+
+1.3
+
+These Regulations come into force on 23 November 2022.
+
+1.4
+
+In these Regulations—
+
+    “ the Approved Inspectors Regulations ” (“ y Rheoliadau Arolygwyr
+Cymeradwy ”) means the Building (Approved Inspectors etc.) Regulations 2010 ;
+“ the Building Regulations ” (“ y Rheoliadau Adeiladu ”) means the Building
+Regulations 2010 .
+
+### Amendment of the Building Regulations
+
+#### Amendment of the Building Regulations
+
+2
+
+The Building Regulations are amended in accordance with regulations 3 to 17.
+
+#### Amendment of regulation 2 of the Building Regulations
+
+3
+
+In regulation 2(1) (interpretation)—
+
+3.a
+
+in the definition of “energy efficiency requirements”—
+
+3.a.i
+
+after “26B” insert  “, 26C” ;
+
+3.a.ii
+
+for “and 40” substitute  “40 and 40A, ” ;
+
+3.b
+
+after the definition of “softened wholesome water” insert—
+
+;
+
+    “ system for on-site electricity generation ” means a system that produces
+electricity and has a direct electrical connection to the building in
+question.
+
+#### Amendment of regulation 4 of the Building Regulations
+
+4
+
+In regulation 4 (requirements relating to building work), after paragraph (3)
+insert—
+
+4.4
+
+This paragraph applies in relation to a building where—
+
+4.4.a
+
+building work is undertaken in respect of that building (“relevant work”), and
+
+4.4.b
+
+Part L of Schedule 1 imposes a requirement in respect of the relevant work.
+
+4.5
+
+Notwithstanding paragraph (3), upon completion of the relevant work, any
+building to which paragraph (4) applies must—
+
+4.5.a
+
+comply with Part F of Schedule 1, or
+
+4.5.b
+
+where the building did not comply with Part F of Schedule 1 before the
+relevant work was begun, be no more unsatisfactory in relation to it than
+before the work was begun.
+
+#### Amendment of regulation 17 of the Building Regulations
+
+5
+
+In regulation 17(2A) (completion certificates)—
+
+5.a
+
+in sub-paragraph (c), omit “consumption”;
+
+5.b
+
+after sub-paragraph (ca) insert—
+
+5.b.cb
+
+regulation 26C (target primary energy rates for new buildings),
+
+.
+
+#### Amendment of regulation 25C of the Building Regulations
+
+6
+
+In regulation 25C (new buildings: minimum energy performance requirements)—
+
+6.a
+
+in paragraph (a)—
+
+6.a.i
+
+omit “(other than new dwellings),”;
+
+6.a.ii
+
+omit “consumption”;
+
+6.b
+
+in paragraph (b), for “new dwellings” substitute  “when a dwelling is erected”
+.
+
+#### Insertion of regulation 25D of the Building Regulations
+
+7
+
+After regulation 25C (new buildings: minimum energy performance requirements)
+insert—
+
+######## Energy efficiency rating
+
+7.25D
+
+Energy efficiency ratings must be approved by the Welsh Ministers, applying
+the methodology of calculation and expression of the energy performance of
+buildings approved pursuant to regulation 24 for new buildings.
+
+#### Amendment of regulation 26A of the Building Regulations
+
+8
+
+In regulation 26A (primary energy consumption rates for new buildings)—
+
+8.a
+
+in the heading, omit “consumption”;
+
+8.b
+
+omit “(other than a dwelling)”;
+
+8.c
+
+omit “consumption”.
+
+#### Insertion of regulation 26C into the Building Regulations
+
+9
+
+After regulation 26B (fabric performance values for new dwellings) insert—
+
+######## Minimum energy efficiency rating
+
+9.26C
+
+Where a dwelling is erected, it must equal or exceed the energy efficiency
+rating for the dwelling which has been approved pursuant to regulation 25D
+applying the methodology of calculation and expression of the energy
+performance of buildings approved pursuant to regulation 24 for new buildings.
+
+#### Amendment of regulation 27A of the Building Regulations
+
+10
+
+In regulation 27A (primary energy consumption rate calculations)—
+
+10.a
+
+in the heading, omit “consumption”;
+
+10.b
+
+in paragraph (1), omit “(other than a dwelling)”;
+
+10.c
+
+in paragraphs (2)(a) and (b), (3)(a)(i) and (ii) and (5), omit “consumption”.
+
+#### Insertion of regulation 27C into the Building Regulations
+
+11
+
+After regulation 27B (fabric performance values calculations) insert—
+
+######## Energy efficiency rating calculations
+
+11.27C
+
+11.27C.1
+
+This regulation applies where a dwelling is erected and regulation 26C
+applies.
+
+11.27C.2
+
+Not later than the day before the work starts, the person carrying out the
+work must give the local authority a notice which specifies—
+
+11.27C.2.a
+
+the energy efficiency rating for the dwelling as designed, calculated and
+expressed in accordance with the methodology approved pursuant to regulation
+24, and
+
+11.27C.2.b
+
+a list of specifications to which the dwelling is to be constructed.
+
+11.27C.3
+
+Not later than five days after the work has been completed, the person
+carrying out the work must give the local authority—
+
+11.27C.3.a
+
+a notice which specifies—
+
+11.27C.3.a.i
+
+the target energy efficiency rating for the building, calculated and expressed
+in accordance with the methodology approved pursuant to regulation 24,
+
+11.27C.3.a.ii
+
+the energy efficiency rating of the building as constructed, calculated and
+expressed in accordance with the methodology approved pursuant to regulation
+24, and
+
+11.27C.3.a.iii
+
+whether the building has been constructed in accordance with the list of
+specifications referred to in paragraph (2)(b), and if not, a list of any
+changes to those specifications, or
+
+11.27C.3.b
+
+a certificate of the sort referred to in paragraph (4) accompanied by the
+information referred to in sub-paragraph (a).
+
+11.27C.4
+
+A local authority is authorised to accept as evidence that the requirements of
+regulation 26C have been satisfied, a certificate to that effect by an energy
+assessor who is accredited to produce energy performance certificates for that
+category of building.
+
+#### Insertion of regulations 40A and 40B into the Building Regulations
+
+12
+
+After regulation 40 (information about use of fuel and power) insert—
+
+######## Information about systems for on-site generation of electricity
+
+12.40A
+
+12.40A.1
+
+This regulation applies to building work in respect of a building in relation
+to which paragraph L2 of Schedule 1 applies.
+
+12.40A.2
+
+The person carrying out the work must, not later than five days after the work
+has been completed, provide to the owner sufficient information about the
+system for on-site electricity generation in respect of its operation and
+maintenance requirements so that the system may be operated and maintained in
+such a manner as to produce the maximum electricity that is reasonable in the
+circumstances and delivers this electricity to the optimal place for use.
+
+######## Information about overheating
+
+12.40B
+
+12.40B.1
+
+This regulation applies to building work in respect of a building where Part O
+of Schedule 1 imposes a requirement in relation to building work.
+
+12.40B.2
+
+The person carrying out the work must, not later than five days after the work
+has been completed, give sufficient information to the owner about the
+provision made in accordance with Part O so that the systems in place further
+to Part O can be operated in such a manner as to protect against overheating.
+
+#### Amendment of regulation 42 of the Building Regulations
+
+13
+
+In regulation 42 (mechanical ventilation air flow rate testing)—
+
+13.a
+
+for paragraph (1) substitute—
+
+13.a.1
+
+This regulation applies where paragraph F1(1) of Schedule 1 imposes a
+requirement in relation to—
+
+13.a.1.a
+
+the creation of a new dwelling by building work; or
+
+13.a.1.b
+
+an existing dwelling which undergoes building work for the provision or
+extension of any fixed building system for mechanical ventilation.
+
+13.a.1A
+
+Paragraph (1)(b) excludes building work to which Schedule 4 applies.
+
+;
+
+13.b
+
+in paragraph (2)(b), for “.” substitute  “, other than when Schedules 3 or 4
+apply.”
+
+#### Amendment of regulation 43 of the Building Regulations
+
+14
+
+In regulation 43(4) (pressure testing), for “the Independent Airtightness
+Testing Scheme Limited” substitute  “Elmhurst Energy Systems Limited” .
+
+#### Insertion of regulation 44ZA into the Building Regulations
+
+15
+
+After regulation 44 (commissioning) insert—
+
+######## Commissioning in respect of a system for on-site electricity generation
+
+15.44ZA
+
+15.44ZA.1
+
+This regulation applies to building work in respect of a building in relation
+to which paragraph L2 of Schedule 1 imposes a requirement, but does not apply
+to the provision or extension of any system for on-site electricity generation
+where testing and adjustment is not possible.
+
+15.44ZA.2
+
+Where this regulation applies the person carrying out the work must, for the
+purpose of ensuring compliance with paragraph L2 of Schedule 1, give to the
+local authority a notice confirming that the system for on-site electricity
+generation has been commissioned.
+
+15.44ZA.3
+
+The notice must be given to the local authority—
+
+15.44ZA.3.a
+
+not later than the date on which the notice required by regulation 16(4) is
+required to be given; or
+
+15.44ZA.3.b
+
+where that regulation does not apply, not more than 30 days after completion
+of the work.
+
+#### Amendment of Schedule 1 to the Building Regulations
+
+16
+
+In Schedule 1 (requirements)—
+
+16.a
+
+in Part L, after entry L1 insert—
+
+      "On-site generation of electricity L2. Where a system for on-site
+electricity generation is installed—       reasonable provision must be made
+to ensure that—     the system and its electrical output are appropriately
+sized for the site and available infrastructure;       the system has
+effective controls; and             it must be commissioned by testing and
+adjusting as necessary to ensure that it produces the maximum electricity that
+is reasonable in the circumstances."       Requirement L2 applies only to
+dwellings.
+
+16.b
+
+after Part N of Schedule 1 insert—
+
+      "PART O OVERHEATING Overheating Mitigation O1. —(1) Reasonable provision
+must be made to—       limit unwanted solar gains in summer;       provide an
+adequate means to remove heat from the indoor environment.         2     In
+meeting the obligations in sub-paragraph (1)—     a     account must be taken
+of the safety of any occupant, and their reasonable enjoyment of the building;
+and       b     mechanical cooling may only be used where insufficient heat is
+capable of being removed from the indoor environment without it."
+Requirement O1 applies only to the erection of the following buildings—
+a dwelling;       an institution; or       any other building containing one
+or more rooms for residential purposes (other than a room in a hotel).
+
+#### Amendment of Schedule 3 to the Building Regulations
+
+17
+
+17.1
+
+Schedule 3 (self-certification schemes and exemptions from requirement to give
+building notice or deposit full plans) is amended as follows.
+
+17.2
+
+In the table, in column 2 (person carrying out work)—
+
+17.2.a
+
+in each of rows 7, 8 and 9, omit “, Building Engineering Services Competence
+Assessment Limited”;
+
+17.2.b
+
+in each of rows 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19 and
+20, omit “or Stroma Certification Limited”;
+
+17.2.c
+
+in row 2, after “NAPIT Registration Limited”, for “,” substitute  “or” ;
+
+17.2.d
+
+in row 3, after “NAPIT Registration Limited”, for “,” substitute  “or” ;
+
+17.2.e
+
+in row 4, after “NAPIT Registration Limited”, for “,” substitute  “or” ;
+
+17.2.f
+
+in row 5, after “Certsure LLP”, for “,” substitute  “or” ;
+
+17.2.g
+
+in row 6, after “Certsure LLP”, for “,” substitute  “or” ;
+
+17.2.h
+
+in row 7, after “Certsure LLP”, for “,” substitute  “or” ;
+
+17.2.i
+
+in row 8, after “NAPIT Registration Limited”, for “,” substitute  “or” ;
+
+17.2.j
+
+in row 9, after “Certsure LLP”, for “,” substitute  “or” ;
+
+17.2.k
+
+in row 10, after “Fenestration Self-Assessment Scheme”, for “,” substitute
+“or” ;
+
+17.2.l
+
+in row 11, after “Fenestration Self-Assessment Scheme”, for “,” substitute
+“or” ;
+
+17.2.m
+
+in row 12, after “HETAS Limited”, for “,” substitute  “or” ;
+
+17.2.n
+
+in row 13, after “HETAS Limited”, for “,” substitute  “or” ;
+
+17.2.o
+
+in row 14, after “HETAS Limited”, for “,” substitute  “or” ;
+
+17.2.p
+
+in row 15, after “NAPIT Registration Limited”, for “,” substitute  “or” ;
+
+17.2.q
+
+in row 17—
+
+17.2.q.i
+
+for “Cavity Insulation Guarantee Agency” substitute  “Insulation Assurance
+Authority Limited” ;
+
+17.2.q.ii
+
+after “Certsure LLP”, for “,” substitute  “or” ;
+
+17.2.r
+
+in row 18, after “Certsure LLP”, for “,” substitute  “or” ;
+
+17.2.s
+
+in row 19, after “Certsure LLP”, for “,” substitute  “or” ;
+
+17.2.t
+
+in row 20, after “Certsure LLP”, for “,” substitute  “or” .
+
+### Amendment of the Approved Inspectors Regulations
+
+#### Amendment of the Approved Inspectors Regulations
+
+18
+
+The Approved Inspectors Regulations are amended in accordance with regulations
+19 and 20.
+
+#### Amendment of regulation 8 of the Approved Inspectors Regulations
+
+19
+
+In regulation 8(1) (functions of approved inspectors)—
+
+19.a
+
+in sub-paragraph (a)—
+
+19.a.i
+
+after “26B (fabric performance values for new dwellings),” insert  “26C
+(target primary energy rates for new buildings),” ;
+
+19.a.ii
+
+for “and” before “40” substitute “,”;
+
+19.a.iii
+
+after “40 (information about use of fuel and power)” insert  “, 40A
+(information about systems for on-site generation of electricity) and 40B
+(information about overheating)” ;
+
+19.b
+
+in sub-paragraph (b)—
+
+19.b.i
+
+after “27B,” insert  “27C,” ;
+
+19.b.ii
+
+for “and 44” substitute  “, 44 and 44ZA” .
+
+#### Amendment of regulation 20 of the Approved Inspectors Regulations
+
+20
+
+In regulation 20 (application of certain regulations of the Building
+Regulations)—
+
+20.a
+
+in the heading—
+
+20.a.i
+
+after “27B,” insert  “27C,” ;
+
+20.a.ii
+
+for “and 44” substitute  “, 44 and 44ZA” ;
+
+20.b
+
+in paragraph (1)—
+
+20.b.i
+
+after “27B (fabric performance values calculations),” insert  “27C (target
+primary energy rate calculations for new buildings),” ;
+
+20.b.ii
+
+for “and 44” substitute  “, 44” ;
+
+20.b.iii
+
+after “(commissioning)” insert  “and 44ZA (commissioning in respect of a
+system for on-site electricity generation)” ;
+
+20.c
+
+after paragraph (2B) insert—
+
+20.c.2C
+
+Regulation 27C(3) of the Principal Regulations applies in relation to building
+work which is the subject of an initial notice as if after “work has been
+completed,” there were inserted  “or, if earlier, the date on which in
+accordance with regulation 17 of the Building (Approved Inspectors etc.)
+Regulations 2010 the initial notice ceases to be in force” .
+
+;
+
+20.d
+
+after paragraph (6) insert—
+
+20.d.6A
+
+Regulation 44ZA of the Principal Regulations applies in relation to building
+work which is the subject of an initial notice as if for paragraph (3) there
+were substituted—
+
+20.d.6A.3
+
+The notice must be given to the approved inspector—
+
+20.d.6A.3.a
+
+subject to sub-paragraphs (b) and (c), not later than five days after
+completion of the work to which the initial notice relates;
+
+20.d.6A.3.b
+
+where regulation 17 of the Building (Approved Inspectors etc.) Regulations
+2010 applies, not later than the date on which the initial notice ceases to be
+in force or, if earlier, the end of the period referred to in sub-paragraph
+(a);
+
+20.d.6A.3.c
+
+where regulation 20 applies by virtue of regulation 20 of the Building
+(Approved Inspectors etc.) Regulations 2010, not later than the date on which
+the notice or certificate required by that regulation must be given.
+
+### Transitional Provision
+
+#### Transitional provision
+
+21
+
+21.1
+
+The amendments made by Parts 2 and 3 of these Regulations  (other than
+regulations 14 and 17)  do not apply in a case where—
+
+21.1.a
+
+building work on a particular building has been commenced prior to the day
+these Regulations come into force in accordance with any relevant notification
+provision, or
+
+21.1.b
+
+a relevant notification provision has been complied with in relation to
+proposed building work on an individual building  prior to the day these
+Regulations come into force  and the building work has commenced within 12
+months beginning with the day these Regulations come into force  , or
+
+21.1.c
+
+a relevant notification provision has been complied with before 31 July 2014
+and building work has commenced before 31 July 2015 in accordance with the
+relevant notification provision.
+
+21.2
+
+In this regulation, “ relevant notification provision ” means regulation 12(2)
+of the Building Regulations and sections 47(1), 50, 51A(2) and 54 of the
+Building Act 1984.
+
+      Lee Waters   Deputy Minister for Climate Change under authority of the
+Minister for Climate Change, one of the Welsh Ministers
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations amend the Building Regulations 2010 (“ the Building
+Regulations ”) and the Building (Approved Inspectors etc.) Regulations 2010 (“
+the Approved Inspectors Regulations ”) as they apply in relation to Wales. The
+amendments made by these Regulations apply the new metric for the measurement
+of energy efficiency in the form of a target primary energy rate to new
+dwellings. Previously, primary energy consumption rates applied to buildings
+other than dwellings.
+
+The amendments also introduce new energy efficiency ratings to new buildings
+and introduce a new regulation for on-site electricity generation and in
+relation to overheating (in particular by virtue of the insertion of paragraph
+L2 into Part L of Schedule 1 to the Building Regulations and a new Part O).
+These Regulations also amend the application of Part F relating to mechanical
+ventilation air flow testing. Amendments are made to the Approved Inspectors
+Regulations in consequence of these changes.
+
+These Regulations also make transitional provision for building work on a
+particular building where the building work has been started in accordance
+with a relevant notification provision, provided that the building work on
+that building has already commenced, or is started within 12 months of these
+Regulations coming into force.
+
+Schedule 3 to the Building Regulations is amended to reflect changes to bodies
+participating in self-certification schemes.
+
+The Building Act 1984 gives the Secretary of State the power to approve and
+issue documents containing practical guidance with respect to the requirements
+contained in the Building Regulations. That power is exercisable by the Welsh
+Ministers insofar as it applies to Wales.
+
+Approved Document L Volume 1, 2022 edition, Approved Document F Volume 1, 2022
+edition and Approved Document O, 2022 edition contains practical guidance on
+meeting the new requirements inserted into the Building Regulations by this
+instrument. The Approved Documents are published by the Welsh Ministers and
+may be accessed at  www.gov.wales .
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
+Assessments was considered in relation to these Regulations. As a result, a
+regulatory impact assessment has been prepared as to the likely costs and
+benefits of complying with these Regulations. A copy can be obtained from
+Welsh Government, Cathays Park, Cardiff, CF10 3NQ and is published on
+www.gov.wales .
+

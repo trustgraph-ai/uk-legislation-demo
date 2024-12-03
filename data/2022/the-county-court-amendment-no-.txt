@@ -1,0 +1,496 @@
+Title: The County Court (Amendment No. 2) Rules (Northern Ireland) 2022
+Date: 2023-01-13
+Description: These Rules amend the County Court Rules (Northern Ireland) 1981 (S.R. 1981 No. 225) to—insert a new Order 12A which prescribes a procedure for applications for summary judgment where a notice of intention to defend has been served; andinsert a new Order 25A which prescribes the procedure for applications for provisional assessment of damages in personal injury cases.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2022/252
+
+## The County Court (Amendment No. 2) Rules (Northern Ireland) 2022
+
+    County Courts   Procedure
+
+  Made   13th October 2022
+
+  Coming into operation   6th January 2023
+
+      The County Court Rules Committee makes and the Department of Justice,
+after consultation with the Lady Chief Justice, allows the following Rules in
+exercise of the powers conferred by Article 47 of the County Courts (Northern
+Ireland) 1980  and paragraphs 10(2) and 10(5) of Schedule 6 to the
+Administration of Justice Act 1982 .
+
+### Citation and commencement
+
+1
+
+These Rules may be cited as the County Court (Amendment No. 2) Rules (Northern
+Ireland) 2022 and shall come into operation on 6th January 2023.
+
+### Amendments to the County Court Rules (Northern Ireland) 1981
+
+2
+
+The County Court Rules (Northern Ireland) 1981  are amended as follows—
+
+2.a
+
+After Order 12, insert the new Order 12A set out in Schedule 1 to these Rules;
+and
+
+2.b
+
+after Order 25, insert the new Order 25A set out in Schedule 2 to these Rules.
+
+      Patricia Smyth   Paul Brennen   Colin Mitchell   Sandra Crawford
+In exercise of the powers conferred by Article 47(4) of the County Courts
+(Northern Ireland) Order 1980, I allow these Rules.       Sealed with the
+Official Seal of the Department of Justice on 20th October 2022         Naomi
+R Long   Minister of Justice
+
+Rule 2(a)
+
+###### SUMMARY JUDGMENT
+
+####### Interpretation
+
+1
+
+In this Order—
+
+      “application’ means an application for summary judgment made under rule
+2 or rule 10 as the case may be;           subject to rule 10, ‘defendant’
+means a defendant against whom an application for summary judgment is made;
+and           “judge’ means judge or, in relation to proceedings within the
+jurisdiction of the district judge, the district judge.
+
+####### Application by plaintiff for summary judgment
+
+2
+
+2.1
+
+Where in an action to which this rule applies a civil bill has been served on
+a defendant and that defendant has entered a notice of intention to defend in
+the action, the plaintiff may, on the ground that that defendant has no
+defence to a claim included in the civil bill, or to a particular part of such
+a claim, or has no defence to such a claim or part except as to the amount of
+any damages claimed, apply to the judge for judgment against that defendant.
+
+2.2
+
+Subject to paragraph (3), this rule applies to every action begun by civil
+bill other than an action which includes a claim by the plaintiff—
+
+2.2.a
+
+for libel, slander, malicious prosecution or false imprisonment;
+
+2.2.b
+
+pursuant to the ejectment, title or equity jurisdiction of the court; or
+
+2.2.c
+
+for committal of the defendant to prison.
+
+2.3
+
+No application against the Crown may be made under this rule.
+
+####### Manner in which an application shall be made
+
+3
+
+3.1
+
+An application shall be made by lodging with the chief clerk notice in writing
+supported by an affidavit verifying the facts on which the claim, or the part
+of the claim to which the application relates, is based and stating that, in
+the deponent’s belief, there is no defence to the claim or part of the claim,
+as the case may be, or no defence except as to the amount of any damages
+claimed.
+
+3.2
+
+The notice and a copy of the affidavit shall be served by the plaintiff on the
+defendant within 3 days of making the application.
+
+####### Representations by defendant
+
+4
+
+4.1
+
+The defendant may lodge representations in writing with the chief clerk within
+14 days of service on him of the application and shall, at the same time,
+serve a copy on the plaintiff.
+
+####### Consideration of application
+
+5
+
+Upon consideration of the application and any representations made under rule
+4, the judge may—
+
+5.a
+
+grant the application without a hearing;
+
+5.b
+
+dismiss the application without a hearing;
+
+5.c
+
+list the application for a review hearing; or
+
+5.d
+
+list the application for substantive hearing upon such terms and conditions,
+if any, as he thinks fit,
+
+and give such directions as he considers appropriate.
+
+6
+
+The chief clerk shall notify the plaintiff and defendant of any hearing listed
+under rule 5.
+
+####### Judgment for the plaintiff
+
+7
+
+7.1
+
+Unless on the hearing of an application—
+
+7.1.a
+
+the judge dismisses the application; or
+
+7.1.b
+
+the defendant satisfies the judge with respect to the claim, or the part of a
+claim to which the application relates, that there is an issue or question in
+dispute which ought to be tried or that there ought for some other reason to
+be a trial of that claim or part,
+
+the judge may give such judgment for the plaintiff against the defendant on
+that claim or part as may be just having regard to the nature of the remedy or
+relief claimed.
+
+7.2
+
+The judge may, by order and subject to such conditions, if any, as may be
+just, stay enforcement of any judgment given against a defendant under this
+rule until after the trial of any counterclaim made or raised by the defendant
+in the action.
+
+####### Leave to defend
+
+8
+
+8.1
+
+A defendant may show cause against an application at any time by affidavit or
+otherwise to the satisfaction of the judge.
+
+8.2
+
+Any affidavit made under this rule shall be lodged with the chief clerk and a
+copy shall be served on the plaintiff by the defendant.
+
+8.3
+
+Where the application is listed for substantive hearing, any affidavit made
+under this rule shall be lodged and served no later than three days before the
+hearing date.
+
+9
+
+On dismissing an application, the judge may—
+
+9.a
+
+give a defendant leave to defend the action with respect to the claim, or the
+part of a claim to which the application related, either unconditionally or on
+such terms as to giving security or time as he thinks fit; or
+
+9.b
+
+order the defendant or, where the defendant is a body corporate, any director,
+manager, secretary or other similar officer thereof, or any person purporting
+to act in any such capacity—
+
+9.b.i
+
+to produce any document; or
+
+9.b.ii
+
+if it appears to the judge that there are special circumstances which make it
+desirable that that person should do so, to attend and be examined on oath.
+
+####### Application for summary judgment on counterclaim
+
+10
+
+10.1
+
+Where a defendant to an action begun by civil bill has served a counterclaim
+on the plaintiff then, subject to paragraphs (3) and (4), the defendant may,
+on the ground that the plaintiff has no defence to a claim made in the
+counterclaim, or to a particular part of such a claim, apply to the judge for
+judgment against the plaintiff on that claim or part.
+
+10.2
+
+The provisions of this Order shall apply with any necessary modifications to
+an application made under this rule.
+
+10.3
+
+This rule shall not apply to a counterclaim which includes any such claim as
+is referred to in rule 2(2).
+
+10.4
+
+No application against the Crown may be made under this rule.
+
+####### Directions as to further conduct of the action
+
+11
+
+Where the judge—
+
+11.a
+
+orders that a defendant or plaintiff has leave (whether conditional or
+unconditional) to defend an action or counterclaim, as the case may be, with
+respect to a claim or a part of a claim; or
+
+11.b
+
+gives judgment for a plaintiff or a defendant on a claim or a part of a claim
+but also orders that enforcement of the judgment be stayed pending the trial
+of a counterclaim or the action, as the case may be,
+
+the judge may give directions as to the further conduct of the action.
+
+####### Costs
+
+12
+
+12.1
+
+On disposing of an application, the judge may make such order as to costs as
+he considers appropriate.
+
+12.2
+
+Without prejudice to paragraph (1)—
+
+12.2.a
+
+if an application is made under rule 2 where the action is not within this
+Order or if it appears to the judge that the plaintiff knew that the defendant
+relied on a contention which would entitle him to unconditional leave to
+defend, the judge may dismiss the application with costs and may, if the
+plaintiff is not an assisted person, require the costs to be paid forthwith;
+and
+
+12.2.b
+
+the judge shall have the same power to dismiss an application made under rule
+10 as he has under sub-paragraph (a) to dismiss an application made under rule
+2, and that sub-paragraph shall apply accordingly with the necessary
+modifications.
+
+####### Right to proceed with residue of action or counterclaim
+
+13
+
+13.1
+
+Where on an application under rule 2 the plaintiff obtains judgment on a claim
+or a part of a claim against any defendant, he may proceed with the action as
+respects any other claim or as respects the remainder of the claim or against
+any other defendant.
+
+13.2
+
+Where on an application under rule 10 a defendant obtains judgment on a claim
+or part of a claim made in a counterclaim against the plaintiff, he may
+proceed with the counterclaim as respects any other claim or as respects the
+remainder of the claim or against any other defendant to the counterclaim.
+
+####### Setting aside judgment
+
+14
+
+Any judgment against a party who does not appear at the hearing of an
+application may be set aside or varied by the judge on such terms as he thinks
+just.
+
+Rule 2(b)
+
+###### ORDERS FOR PROVISIONAL DAMAGES FOR PERSONAL INJURIES
+
+####### Application and interpretation
+
+1
+
+1.1
+
+This Order applies to actions to which paragraph 10 of Schedule 6 to the
+Administration of Justice Act 1982  (referred to as “ paragraph 10 ” in this
+Order) applies.
+
+1.2
+
+In this Order—
+
+      “ award of provisional damages ” means an award of damages for personal
+injuries under which—         damages are assessed on the assumption that the
+injured person will not develop the disease or suffer the deterioration
+referred to in paragraph 10; and           the injured person is entitled to
+apply for further damages at a future date if he develops the disease or
+suffers the deterioration;                 “ judge ” means judge or, in
+relation to proceedings within the jurisdiction of the district judge, the
+district judge.
+
+####### Order for provisional damages
+
+2
+
+2.1
+
+The court may, on such terms as it thinks just and subject to the provisions
+of this rule, make an award of provisional damages if—
+
+2.1.a
+
+the plaintiff has claimed provisional damages; and
+
+2.1.b
+
+the court is satisfied that the action is one to which paragraph 10 applies.
+
+2.2
+
+An order for an award of provisional damages shall specify the disease or type
+of deterioration in respect of which an application may be made at a future
+date and shall also, unless the court otherwise determines, shall specify the
+period within which such application may be made.
+
+2.3
+
+The judge may, on the application of the plaintiff made within the period, if
+any, specified in paragraph (2), by order extend that period if it thinks it
+just to do so and the plaintiff may make more than one such application.
+
+2.4
+
+An order for an award of provisional damages may be made in respect of more
+than one disease or type of deterioration and may in respect of each disease
+or deterioration specify a different period within which an application may be
+made at a future date.
+
+2.5
+
+Order 12 shall not apply in relation to an action in which the plaintiff
+claims provisional damages.
+
+####### Offer to submit to an award
+
+3
+
+3.1
+
+Where an application is made for an award of provisional damages any defendant
+may at any time (whether or not he makes a payment into court) make a written
+offer to the plaintiff—
+
+3.1.a
+
+to tender a sum of money (which may include) an amount, to be specified, in
+respect of interest) in satisfaction of the plaintiff’s claim for damages
+assessed on the assumption that the injured person will not develop the
+disease or suffer the deterioration referred to in paragraph 10 and
+identifying the disease or deterioration in question; and
+
+3.1.b
+
+to agree to the making of an award of provisional damages.
+
+3.2
+
+Any offer made under paragraph (1) shall not be brought to the attention of
+the court until after the court has determined the claim for an award of
+provisional damages.
+
+3.3
+
+Where an offer is made under paragraph (1) the plaintiff, may within 21 days
+after receipt of the offer, give written notice to the defendant of his
+acceptance of the offer and shall on such acceptance make an application to
+the judge for an order in accordance with the provisions of rule 2(2).
+
+####### Application for award of further damages
+
+4
+
+4.1
+
+This rule applies where the plaintiff, pursuant to an award of provisional
+damages, claims further damages.
+
+4.2
+
+No application for further damages may be made after the expiration of the
+period, if any, specified under rule 2(2), or of such period as extended under
+rule 2(3).
+
+4.3
+
+The plaintiff shall give not less than 3 months’ written notice to the
+defendant of his intention to apply for further damages and, if the defendant
+is to the plaintiff’s knowledge insured in respect of the plaintiff’s claim,
+to the insurers.
+
+4.4
+
+The plaintiff may apply to the judge for directions as to the future conduct
+of the action within 21 days after the expiry of the period of notice referred
+to in paragraph (3).
+
+4.5
+
+On the hearing of the application for directions the judge shall give such
+directions as may be appropriate for the future conduct of the action
+including, but not limited to, the disclosure of medical reports and the
+place, mode and date of the hearing of the application for further damages.
+
+4.6
+
+Only one application for further damages may be made in respect of each
+disease or type of deterioration specified in the order for the award of
+provisional damages.
+
+4.7
+
+The court may include in an award of further damages simple interest at such
+rate as it thinks fit on all or any part thereof for all or any part of the
+period between the date of notification of the plaintiff’s intention to apply
+for further damages and the date of the award.
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Rules)
+
+  These Rules amend the County Court Rules (Northern Ireland) 1981 ( S.R. 1981
+No. 225 ) to—         insert a new Order 12A which prescribes a procedure for
+applications for summary judgment where a notice of intention to defend has
+been served; and           insert a new Order 25A which prescribes the
+procedure for applications for provisional assessment of damages in personal
+injury cases.
+

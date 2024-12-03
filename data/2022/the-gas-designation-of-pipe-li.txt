@@ -1,0 +1,162 @@
+Title: The Gas (Designation of Pipe-lines) Order (Northern Ireland) 2022
+Date: 2023-01-30
+Description: Article 8(1) of the Gas (Northern Ireland) Order 1996 (“the Gas Order”) authorises the holder of a licence issued under sub-paragraph (a) to participate in the conveyance of gas from one place to another.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2022/248
+
+## The Gas (Designation of Pipe-lines) Order (Northern Ireland) 2022
+
+    Gas
+
+  Made   12th October 2022
+
+  Coming into operation   2nd November 2022
+
+      The Department for the Economy , in exercise of the powers conferred on
+it by Article 59(1), (2) and (5) of the Energy (Northern Ireland) Order 2003 ,
+makes the following Order.           The Department has consulted with the
+Northern Ireland Authority for Utility Regulation in accordance with Article
+59(1) of the Energy Order and has given notice in accordance with Article
+59(4) of that Order and has considered any representations or objections which
+are duly made and not withdrawn.
+
+### Citation, commencement and interpretation
+
+1
+
+1.1
+
+This Order may be cited as the Gas (Designation of Pipe-lines) Order (Northern
+Ireland) 2022 and shall come into operation on 2nd November 2022.
+
+1.2
+
+In this Order —
+
+      “ assigned ” has the same meaning as in Article 12 of the Gas Order;
+“ the Energy Order ” means the Energy (Northern Ireland) Order 2003;
+“ the Gas Order ” means the Gas (Northern Ireland) Order 1996 ; and
+“ the Insolvency Order ” means the Insolvency (Northern Ireland) Order 1989
+
+### Designated pipe-line
+
+2
+
+The pipe-line specified in column (1) of the Schedule, being a high pressure
+pipe-line, is hereby designated as a pipe-line to which Article 60 of the
+Energy Order applies for the period beginning on and including the date of
+commencement of this Order and ending on the date specified opposite thereto
+in column (2) of the Schedule.
+
+### Cessation of designation
+
+3
+
+3.1
+
+This Order shall, subject to paragraph (2), cease to have effect where—
+
+3.1.a
+
+the licence granted under Article 8(1)(a) of the Gas Order authorising the
+holder to convey gas through the pipe-line designated by Article 2 is assigned
+or revoked; or
+
+3.1.b
+
+there is an insolvency event in relation to the holder.
+
+3.2
+
+This Order shall not cease to have effect by virtue of paragraph (1)(a) where
+a licence granted under Article 8(1)(a) of the Gas Order authorising the
+holder to convey gas through the pipe-line is assigned or revoked but is
+immediately replaced by a further such licence granted to the same holder so
+as to preserve the continuity of the authorisation of that holder to convey
+gas through the pipe-line, or when an Energy Administration Order as defined
+in section 17 of the Energy Act (Northern Ireland) 2011  is in force.
+
+3.3
+
+For the purpose of paragraph (1)(b) an “insolvency event” occurs in relation
+to the licence holder referred to in that sub-paragraph if it:—
+
+3.3.a
+
+is deemed unable to pay its debts (within the meaning of Article 103(1) or (2)
+of the Insolvency Order) or if any voluntary arrangement is proposed in
+relation to it under Article 14 of the Insolvency Order;
+
+3.3.b
+
+has a receiver (which expression shall include an administrative receiver
+within the meaning of Article 5(1) of the Insolvency Order) of the whole or
+any material part of its assets or undertaking appointed;
+
+3.3.c
+
+has an administration order under Article 21 of the Insolvency Order made in
+relation to it;
+
+3.3.d
+
+has any resolution for winding up passed in relation to it; or
+
+3.3.e
+
+becomes subject to an order for winding up by a court of competent
+jurisdiction.
+
+3.4
+
+In paragraph (3)(a) the reference to Article 103(1) of the Insolvency Order
+shall be construed as a reference to that provision as if in sub-paragraph (a)
+for “£750” there was substituted  “£250,000” .
+
+3.5
+
+For the purposes of paragraph (3)(a), a licence holder shall not be deemed to
+be unable to pay its debts if any such demand as is mentioned in Article
+103(1)(a) of the Insolvency Order, is being contested in good faith by that
+holder with recourse to all appropriate measures and procedures.
+
+      Sealed with the Official Seal of the Department for the Economy on 12 th
+October 2022.         Peter Russell   A senior officer of the   Department for
+the Economy
+
+      Description of the pipe-line Date designation ending   The pipe-line
+known as the Kilroot Transmission Pipe-line which runs for 3 kilometres, from
+(and including) the Offtake Connection on the Belfast Gas Transmission Pipe-
+line at Marshallstown to (and including) the Pipe-line Inspection Gauge
+reception facility at Kilroot. 31  st  December 2051
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Order)
+
+  Article 8(1) of the Gas (Northern Ireland) Order 1996 (“ the Gas Order ”)
+authorises the holder of a licence issued under sub-paragraph (a) to
+participate in the conveyance of gas from one place to another.
+
+  Such licences are subject to standard conditions. There may also be
+conditions attaching to a particular licence. Article 60(1) of the Energy
+(Northern Ireland) Order 2003 provides for the Department for the Economy,
+after consultation with the Northern Ireland Authority for Utility Regulation,
+or that Authority with the consent of the Department, to modify the conditions
+of a particular licence, or the standard conditions where it considers it
+necessary or expedient to do so, for the purpose of implementing or
+facilitating the operation of arrangements designed to secure that prices
+charged in connection with the conveyance of gas through certain designated
+pipe-lines are in accordance with a common tariff which does not distinguish
+(whether directly or indirectly) between different parts of Northern Ireland
+or the extent of use of any such pipe-lines.
+
+  Article 2 and the Schedule to this Order designates a pipe-line to which
+this power of modification applies.
+
+  The pipe-line in the Schedule is designated from the date of coming into
+operation of the Order until the date specified opposite the reference to the
+pipe-line in the Schedule. However, the Order specifies certain events on the
+happening of which the Order will cease to have effect. These events are set
+out in Article 3.
+

@@ -1,0 +1,558 @@
+Title: The Energy Bills Support Scheme and Alternative Fuel Payment Pass-through Requirement (Northern Ireland) Regulations 2023
+Date: 2024-05-20
+Description: These Regulations make provision for pass-through requirements in relation to the Energy Bills Support Scheme and Alternative Fuel Payment in Northern Ireland (EBSS AFP NI). Pass-through requirements are imposed on a “relevant intermediary” (defined in regulation 2) and establish that they must pass-through the benefits of the EBSS AFP NI scheme to an “end user” to whom energy has been made available (defined in section 19(3) of the Energy Prices Act 2022 (c. 44)) but excluding any person to whom a relevant intermediary supplies or makes available energy outside Northern Ireland. These Regulations apply in respect of relevant intermediaries other than those providing certain types of hospitality accommodation (defined as “excluded persons” under these Regulations).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2023/10
+
+## The Energy Bills Support Scheme and Alternative Fuel Payment Pass-through Requirement (Northern Ireland) Regulations 2023
+
+  Regulations made by the Secretary of State, laid before Parliament under
+sections 19(13) and 26(5) of the Energy Prices Act 2022, for approval by
+resolution of each House of Parliament within 28 days beginning with the day
+on which these Regulations were made subject to extension for periods of
+dissolution, prorogation or adjournment for more than four days.
+
+    Energy, Northern Ireland
+
+  Made   10th January 2023
+
+  Laid before Parliament   11th January 2023
+
+  Coming into force   12th January 2023
+
+      The Secretary of State makes the following Regulations in exercise of
+the powers conferred by sections 19 and 26(2)(a) and (b) of the Energy Prices
+Act 2022 .
+
+### Introductory
+
+#### Citation, commencement and extent
+
+1
+
+1.1
+
+These Regulations may be cited as the Energy Bills Support Scheme and
+Alternative Fuel Payment Pass-through Requirement (Northern Ireland)
+Regulations 2023 and come into force on 12th January 2023.
+
+1.2
+
+These Regulations extend to Northern Ireland.
+
+#### Interpretation
+
+2
+
+In these Regulations—
+
+“ EBSS AFP NI ” means the Energy Bills Support Scheme and Alternative Fuel
+Payment in Northern Ireland; “ EBSS AFP NI Direction ” means the Direction
+dated 22nd December 2022  made by the Secretary of State for Business, Energy
+and Industrial Strategy pursuant to section 22 of the Energy Prices Act 2022;
+“ EBSS AFP NI domestic electricity supplier ” means a “ domestic electricity
+supplier ” as defined in the EBSS AFP NI Direction; “ EBSS AFP NI eligible
+customer ” means an “ eligible customer ” as defined in the EBSS AFP NI
+Direction; “ EBSS AFP NI scheme benefit ” means an EBSS AFP NI support payment
+made by an EBSS AFP NI domestic electricity supplier to an EBSS AFP NI
+eligible customer pursuant to the EBSS AFP NI Direction, where the amount of
+the EBSS AFP NI scheme benefit is the amount notified by the EBSS AFP NI
+domestic electricity supplier to the EBSS AFP NI eligible customer pursuant to
+paragraph 13 of the EBSS AFP NI Direction; “ EBSS AFP NI scheme month ” means
+a “ scheme month ” as defined in the EBSS AFP NI Direction; “ EBSS AFP NI
+support payment ” means a support payment which an EBSS AFP NI domestic
+electricity supplier is required to provide  ... pursuant to the EBSS AFP NI
+Direction; “ end user ” means an end user as defined in section 19(3) of the
+Energy Prices Act 2022 other than an excluded end user; “ excluded end user ”
+means a person to whom a relevant intermediary supplies or makes available
+energy at premises located outside Northern Ireland; “ excluded person ” means
+a person engaged in either or both of the provision of accommodation within
+the meaning of standard industrial classification divisions 55.1, 55.2, 55.3
+(except persons providing caravans on protected sites as defined in section
+17(1) of the Caravans Act (Northern Ireland) 2011 ) and 55.9 (except persons
+providing student residences, school dormitories, workers hostels and rooming
+and boarding houses) and the provision of energy  to such accommodation; “
+pass-through ” means the act of a relevant intermediary of passing through all
+or part of a scheme benefit to an end user; “ pass-through amount ” means an
+amount, being all or part of a scheme benefit, which is passed through to an
+end user by a relevant intermediary pursuant to these Regulations; “ period ”
+means in relation to— an EBSS AFP NI scheme benefit, an EBSS AFP NI scheme
+month; or a pass-through amount, the period in connection with which such
+pass-through was effected; “ relevant intermediary ” means a person to whom a
+scheme benefit has been provided in circumstances in which there is one or
+more end user other than the relevant intermediary except where that person is
+an excluded person and for the purpose of regulation 3, relevant intermediary
+includes a person who will have entitlement to have a scheme benefit provided
+to it but to whom it has not yet been so provided; “scheme benefit means”— an
+EBSS AFP NI scheme benefit, including that provided in respect of a period
+before these Regulations came into force; or where the end user is also a
+relevant intermediary, a pass-through made by virtue of these Regulations
+where the amount of the scheme benefit is the pass-through amount provided to
+the end user concerned (as intermediary),
+
+and the amount of the scheme benefit may be an amount in pounds sterling or in
+pounds sterling per kWh of energy;
+
+“ standard industrial classification ” means the Office for National
+Statistics’ “UK Standard Industrial Classification of Economic Activities 2007
+(SIC 2007)” ; “ usage ” means the quantity of energy made available by a
+relevant intermediary to an end user, that quantity of energy having been
+supplied to the relevant intermediary, leading to a scheme benefit being
+provided to the relevant intermediary.
+
+### Pass-through requirement
+
+#### Pass-through requirement
+
+3
+
+3.1
+
+A relevant intermediary must not—
+
+3.1.a
+
+reject, or fail to take all reasonable steps in accordance with paragraph (10)
+to secure, a pass-through amount to which it is entitled pursuant to the
+operation of these Regulations, or
+
+3.1.b
+
+provide a pass-through amount to an excluded end user.
+
+3.2
+
+A relevant intermediary must ensure that as soon as reasonably practicable
+after a scheme benefit has been provided to it in respect of a period, it
+provides to each of its end users in respect of that period a just and
+reasonable pass-through amount in respect of the scheme benefit provided to
+that relevant intermediary.
+
+3.3
+
+If and to the extent that the relevant intermediary does not pass through the
+whole of the scheme benefit provided to it in a period to its end users, it is
+for the relevant intermediary to demonstrate to end users that the pass-
+through it has effected in respect of the period concerned is just and
+reasonable, and in so doing it is entitled to take into account the extent to
+which its charges to end users reflect the increased cost of energy as a
+result of the energy crisis.
+
+3.4
+
+The pass-through amount must be calculated in accordance with the rules set
+out in regulation 4.
+
+3.5
+
+Unless the circumstances in paragraph (7) apply, a scheme benefit is provided
+to a relevant intermediary—
+
+3.5.a
+
+if such scheme benefit is an EBSS AFP NI scheme benefit, when the EBSS AFP NI
+support payment is provided to it by an EBSS AFP NI domestic electricity
+supplier pursuant to the provisions of paragraph 11 of the EBSS AFP NI
+Direction, or
+
+3.5.b
+
+if the relevant intermediary is also an end user, when a pass-through amount
+is provided to it by virtue of these Regulations.
+
+3.6
+
+A scheme benefit is deemed to have been provided to a relevant intermediary
+when such relevant intermediary is notified that it has been identified as an
+end user for the purpose of these Regulations but the pass-through amount set
+out in such notification is zero.
+
+3.7
+
+A scheme benefit is not treated as having been provided to a relevant
+intermediary for the purposes of these Regulations to the extent that the
+relevant intermediary has notified the person that provided the scheme benefit
+that it has been provided in error and the relevant intermediary is taking
+reasonable steps to return such scheme benefit to that person in accordance
+with the requirements of the EBSS AFP NI (as appropriate).
+
+3.8
+
+An end user can also be a relevant intermediary in respect of a scheme benefit
+provided to that end user and vice versa.
+
+3.9
+
+Where a person is an end user, and that person is also a relevant intermediary
+in respect of some or all of the same energy, that person must comply with
+these Regulations.
+
+3.10
+
+To give full effect to the pass-through requirement a relevant intermediary
+must take all such reasonable steps as may be necessary to secure that it is
+provided with the scheme benefit to which it is entitled so that it may effect
+a pass-through to its end users.
+
+3.11
+
+If a scheme benefit has been provided to a relevant intermediary in respect of
+energy supplied or made available to an excluded end user, the relevant
+intermediary must notify the person that provided the scheme benefit of this
+and such scheme benefit is not treated as having been provided to the relevant
+intermediary for the purposes of these Regulations.
+
+#### Calculation of pass-through amount
+
+4
+
+4.1
+
+Subject to regulation 3(3), the requirement for a relevant intermediary to
+provide to end users a pass-through amount that is just and reasonable is
+treated as having been met in any case where—
+
+4.1.a
+
+the relevant intermediary makes energy available through equipment where—
+
+4.1.a.i
+
+tariffs per unit of energy used are automatically charged by the equipment;
+and
+
+4.1.a.ii
+
+the energy is paid for by end users at the time that the energy is made
+available; and
+
+4.1.b
+
+the relevant intermediary effects a pass-through by, as soon as reasonably
+practicable after the scheme benefit is provided to the relevant intermediary
+in accordance with regulation 3(5), adjusting the tariffs charged by the
+equipment to reflect the relevant intermediary’s reasonable assessment using
+best available information of the adjustment required to allocate the scheme
+benefit between the relevant intermediary’s end users in accordance with
+paragraph (2) or (3) below (as appropriate),
+
+4.2
+
+Subject to regulation 3(3), where the relevant intermediary was charging end
+users at the point at which the scheme benefit was provided to it either—
+
+4.2.a
+
+according to the proportion which each end user’s usage represents of the
+aggregate quantity of energy supplied or made available to the relevant
+intermediary which led to provision of the scheme benefit, or
+
+4.2.b
+
+according to the proportion each end user pays of the total amount paid by the
+relevant intermediary in relation to the aggregate energy supplied or made
+available to the relevant intermediary which led to provision of the scheme
+benefit,
+
+a pass-through amount is just and reasonable for the purposes of regulation
+3(2), if the relevant intermediary applies the same approach, as the case may
+be, to calculate the pass-through amount for each end user on this basis.
+
+4.3
+
+If neither paragraph (1) nor paragraph (2) applies, in considering what is
+just and reasonable the relevant intermediary must apply the best available
+information to allocate the benefit amongst end users and in so doing may take
+into account the basis on which the relevant intermediary was allocating
+charges amongst end users at the point at which the scheme benefit was
+provided to it.
+
+4.4
+
+When calculating the pass-through amount in accordance with this regulation, a
+relevant intermediary must take into account circumstances in which a person
+is an end user for part of a period, such that the pass-through to that end
+user relates only to that part of the relevant period in which they were an
+end user.
+
+4.5
+
+A relevant intermediary is not required to pass-through to end users amounts
+in excess of the scheme benefit provided to it (as adjusted to take account of
+its own end user usage, where relevant).
+
+4.6
+
+When calculating pass-through amounts, a relevant intermediary which is also
+an end user in respect of a scheme benefit provided to it must not retain more
+of the scheme benefit for itself than is proportionate to its own usage (or,
+if it is not practicable to assess the volume of its usage, the proportion of
+overall energy charges borne by the relevant intermediary and its end users
+that the relevant intermediary itself bears).
+
+4.7
+
+A relevant intermediary is entitled to include energy used to provide common
+services to end users as part of its own usage for the purposes of the
+calculation in paragraphs (2) or (3) to the extent that the cost of such
+energy is or will not be borne by its end users as part of the arrangements in
+place when the scheme benefit was provided to the relevant intermediary in
+accordance with regulation 3(5).
+
+#### Provision of information to end users
+
+5
+
+5.1
+
+Within the period of 30 days beginning with the later of the day on which
+these Regulations came into force or the day on which the scheme benefit was
+provided to it in accordance with regulation 3(5) or was deemed to have been
+provided to it in accordance with regulation 3(6), the relevant intermediary
+must take reasonable steps to notify its end users in writing (where possible
+using the means of communication it customarily uses to communicate with its
+end users)—
+
+5.1.a
+
+that the relevant intermediary has either—
+
+5.1.a.i
+
+had a scheme benefit provided to it and has identified the end user as a
+person entitled to a just and reasonable proportion of such benefit by virtue
+of the application of these Regulations, or
+
+5.1.a.ii
+
+been notified that it has been identified as an end user for the purpose of
+these Regulations but the pass-through amount set out in such notification is
+zero (and in such circumstances the relevant intermediary must also provide to
+its end users the details in sub-paragraphs (b) and (c) provided to it in the
+notice from its relevant intermediary and the information set out in sub-
+paragraphs (f) and (g)),
+
+5.1.b
+
+the amount of scheme benefit provided to the relevant intermediary and that
+the scheme benefit is an EBSS AFP NI scheme benefit,
+
+5.1.c
+
+the amount or proportion of scheme benefit provided to the relevant
+intermediary (if any) which it intends to pass-through to the end user
+concerned together with supporting details demonstrating why the relevant
+intermediary considers such pass-through amount to be just and reasonable,
+
+5.1.d
+
+to the extent applicable, when and how the relevant intermediary will provide
+the pass-through amount to the end user,
+
+5.1.e
+
+to the extent applicable, of any steps it is taking to correct an error in the
+way in which the relevant intermediary has previously passed-through a scheme
+benefit to an end user,
+
+5.1.f
+
+how the end user may appeal to the relevant intermediary about the matters set
+out in the notice, and
+
+5.1.g
+
+that if the pass-through amount to which it is entitled by virtue of these
+Regulations is not provided to the end user, it is entitled to recover it from
+the relevant intermediary as a civil debt pursuant to regulation 7(1).
+
+5.2
+
+Where the relevant intermediary makes energy available through equipment which
+automatically charges a tariff per unit of energy used, paid by end users at
+the time the energy is made available—
+
+5.2.a
+
+paragraph (1) does not apply, and
+
+5.2.b
+
+the relevant intermediary must, as soon as reasonably practicable after the
+scheme benefit was provided to it, notify its end users by notice on or near
+such equipment in a place in which it will be seen by end users of—
+
+5.2.b.i
+
+the tariff adjustment which the relevant intermediary has applied pursuant to
+these Regulations to effect the pass-through to end users of the scheme
+benefit which has been provided to it, and
+
+5.2.b.ii
+
+the contact details of the relevant intermediary which can be used should the
+end user require further information about its entitlements under these
+Regulations, including the ability to appeal to the relevant intermediary in
+respect of the basis on which the tariffs have been adjusted to reflect the
+scheme benefit provided to the relevant intermediary.
+
+#### Effecting the pass-through
+
+6
+
+6.1
+
+Notwithstanding any provision in the contract between the relevant
+intermediary and the end user at the time the scheme benefit was provided to
+the relevant intermediary, the relevant intermediary must effect the pass-
+through so that the pass-through amount is provided to the end user as soon as
+reasonably practicable.
+
+6.2
+
+Where the relevant intermediary makes energy available through equipment which
+automatically charges a tariff per unit of energy used, paid by end users at
+the time that the energy is made available, the relevant intermediary must as
+soon as reasonably practicable make such adjustments to its tariff as is
+necessary to effect the pass-through required under regulation 3(2).
+
+6.3
+
+Without prejudice to paragraph (1), a pass-through can be effected, in pounds
+sterling or pounds sterling per kWh by—
+
+6.3.a
+
+application of a credit in the next invoice, statement of account or other
+similar document provided by the relevant intermediary to the end user,
+
+6.3.b
+
+a payment in cash or by any other means, including a bank transfer,
+
+6.3.c
+
+tariff adjustment on tariff equipment,
+
+6.3.d
+
+adjusting the amount of money taken pursuant to a direct debit or the amount
+of a standing order,
+
+6.3.e
+
+set off against an amount or part of an amount which was owed by the end user
+to the relevant intermediary at the time at which the scheme benefit was
+provided to the relevant intermediary in accordance with regulation 3(5),
+
+or a combination of the methods set out in this paragraph, as appropriate.
+
+6.4
+
+A relevant intermediary has discharged its duty under regulations 3(2), 5(1)
+or 5(2), and paragraph (1) in respect of an end user if and to the extent it
+has taken reasonable steps to notify and effect a pass-through of a just and
+reasonable pass-through amount to that end user but is unable to do so.
+
+6.5
+
+An end user has no right to a pass-through amount if the relevant intermediary
+has discharged its duty under regulations 3(2), 5(1) or 5(2), and paragraph
+(1) pursuant to paragraph (4) and a period of six months has elapsed after the
+scheme benefit concerned was provided to the relevant intermediary.
+
+6.6
+
+If the contract between the relevant intermediary and the end user expires or
+is terminated before the pass-through required by these Regulations is
+effected (such that the full value of the pass-through amount has not been
+provided to the end user), the relevant intermediary must effect a pass
+through to the end user to reflect the end user’s entitlement (or remaining
+entitlement) under these Regulations as soon as reasonably practicable
+following such expiry or termination.
+
+### General
+
+#### Enforcement
+
+7
+
+7.1
+
+Where a relevant intermediary fails to effect a pass-through to which an end
+user is entitled by virtue of these Regulations, that end user may, subject to
+regulation 6(5), recover the relevant pass-through amount from the relevant
+intermediary as a civil debt.
+
+7.2
+
+Where a relevant intermediary fails to effect a pass-through to which an end
+user is entitled by virtue of these Regulations, the end user may claim
+interest to be paid by the relevant intermediary on such amount at a rate of
+2% per cent per annum over the Bank of England base rate from the date 60 days
+after the date on which the scheme benefit to which the pass-through relates
+was provided to the relevant intermediary.
+
+7.3
+
+For the purposes of this regulation the “ Bank of England base rate ” means—
+
+7.3.a
+
+the rate announced from time to time by the Monetary Policy Committee of the
+Bank of England as the official dealing rate, being the rate at which the Bank
+is willing to enter into transactions for providing short term liquidity in
+the money markets, or
+
+7.3.b
+
+where an order under section 19 of the Bank of England Act 1998  (reserve
+powers) is in force, any equivalent rate determined by the Treasury under that
+section.
+
+      Graham Stuart   Minister of State for Energy and Climate   Department
+for Business, Energy and Industrial Strategy
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations make provision for pass-through requirements in relation
+to the Energy Bills Support Scheme and Alternative Fuel Payment in Northern
+Ireland (EBSS AFP NI). Pass-through requirements are imposed on a “ relevant
+intermediary ” (defined in regulation 2) and establish that they must pass-
+through the benefits of the EBSS AFP NI scheme to an “end user” to whom energy
+has been made available (defined in section 19(3) of the Energy Prices Act
+2022 (c. 44) ) but excluding any person to whom a relevant intermediary
+supplies or makes available energy outside Northern Ireland. These Regulations
+apply in respect of relevant intermediaries other than those providing certain
+types of hospitality accommodation (defined as “excluded persons” under these
+Regulations).
+
+  Regulation 3 establishes the requirement for relevant intermediaries to
+pass-through a just and reasonable amount of the benefit provided to them
+under the EBSS AFP NI scheme to each of their end users.
+
+  Regulation 4 provides for the calculation of the pass-through amount and
+sets out the way in which relevant intermediaries are to determine what is a
+just and reasonable amount for the purposes of regulation 3.
+
+  Regulation 5 sets out the information which relevant intermediaries are
+required to provide to each of their end users about the EBSS AFP NI scheme
+benefit provided to them, the amount or proportion the relevant intermediary
+intends to provide to the end user together with supporting details about how
+they have calculated that this is a just and reasonable amount.
+
+  Regulation 6 makes provision about the way in which the pass-through is to
+be given effect including that it must be provided to the end user as soon as
+reasonably practicable after the scheme benefit has been provided to the
+relevant intermediary.
+
+  Regulation 7 provides for unpaid pass-through amounts to be recoverable from
+the relevant intermediary by the end user as a civil debt.
+
+  An impact assessment of the effect the EBSS AFP NI scheme, including the
+related pass-through requirements, will have on the costs of business and the
+voluntary sector is available from the Department for Business, Energy and
+Industrial Strategy, 1 Victoria Street, London, SW1H 0ET.
+

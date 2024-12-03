@@ -1,0 +1,683 @@
+Title: The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2022
+Date: 2024-05-20
+Description: These Regulations amend the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013 (“the Prescribed Requirements Regulations”) and the Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013 (“the Default Scheme Regulations”) made under section 13A(4) and (5) of, and Schedule 1B to, the Local Government Finance Act 1992.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/wsi/2022/51
+
+## The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2022
+
+    Council Tax, Wales
+
+  Made   19 January 2022
+
+  Coming into force in accordance with regulation 1(2)
+
+      The Welsh Ministers make the following Regulations in exercise of the
+powers conferred upon them by section 13A(4) and (5) of, and paragraphs 2 to 6
+of Schedule 1B to, the Local Government Finance Act 1992 .         In
+accordance with section 13A(8) of that Act, a draft of this instrument has
+been laid before and approved by resolution of Senedd Cymru .
+
+### Title, commencement and interpretation
+
+1
+
+1.1
+
+The title of these Regulations is the Council Tax Reduction Schemes
+(Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations
+2022.
+
+1.2
+
+These Regulations come into force the day after the day on which they are
+made.
+
+1.3
+
+These Regulations apply in relation to a council tax reduction scheme made for
+a financial year beginning on or after 1 April 2022.
+
+1.4
+
+In these Regulations—
+
+“billing authority” (“ awdurdod bilio ”) has the meaning given in section
+1(2)(b) of the Local Government Finance Act 1992 (“the 1992 Act”); “council
+tax reduction scheme” (“ cynllun gostyngiadau’r dreth gyngor ”) means a scheme
+made by a billing authority in accordance with the Council Tax Reduction
+Schemes and Prescribed Requirements (Wales) Regulations 2013 , or the scheme
+that applies in default by virtue of paragraph 6(1)(e) of Schedule 1B to the
+1992 Act.
+
+### Amendments to the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013
+
+2
+
+The Council Tax Reduction Schemes and Prescribed Requirements (Wales)
+Regulations 2013 are amended in accordance with regulations 3 to 10.
+
+3
+
+3.1
+
+Regulation 28(5) (persons treated as not being in Great Britain) is amended in
+accordance with paragraphs (2) to (5).
+
+3.2
+
+In sub-paragraph (e)—
+
+3.2.a
+
+after paragraph (ii) omit “or”;
+
+3.2.b
+
+at the end of paragraph (iii) for “;” substitute  “,” ;
+
+3.2.c
+
+after paragraph (iii) insert—
+
+or
+
+3.2.c.iv
+
+granted under the Afghan Citizens Resettlement Scheme ;
+
+.
+
+3.3
+
+After sub-paragraph (k) omit “or”.
+
+3.4
+
+At the end of sub-paragraph (l) for “.” substitute  “;” .
+
+3.5
+
+After sub-paragraph (l) insert—
+
+3.5.m
+
+a person granted leave in accordance with the rules referred to in sub-
+paragraph (e), where such leave is granted by virtue of—
+
+3.5.m.i
+
+the Afghan Relocations and Assistance Policy , or
+
+3.5.m.ii
+
+the previous scheme for locally-employed staff in Afghanistan (sometimes
+referred to as the ex-gratia scheme) ; or
+
+3.5.n
+
+a person in Great Britain not coming within sub-paragraph (e)(iv) or (m) who
+left Afghanistan in connection with the collapse of the Afghan government that
+took place on 15 August 2021.
+
+4
+
+In Schedule 1 (determining eligibility for a reduction: pensioners), in
+paragraph 3 (non-dependant deductions: pensioners)—
+
+4.a
+
+in sub-paragraph (1)(a), for “£15.35” substitute  “£15.95” ;
+
+4.b
+
+in sub-paragraph (1)(b), for “£5.10” substitute  “£5.30” ;
+
+4.c
+
+in sub-paragraph (2)(a), for “£217.00” substitute  “£224.00” ;
+
+4.d
+
+in sub-paragraph (2)(b), for “£217.00”, “£377.00” and “£10.20” substitute
+“£224.00”, “£389.00” and “£10.60” respectively;
+
+4.e
+
+in sub-paragraph (2)(c), for “£377.00”, “£469.00” and “£12.85” substitute
+“£389.00”, “£484.00” and “£13.35” respectively.
+
+5
+
+In Schedule 2 (applicable amounts: pensioners)—
+
+5.a
+
+for the Table in paragraph 1 (personal allowance) substitute—
+
+Column (1) Column (2) Person, couple or polygamous marriage Amount 1 Single
+applicant or lone parent who has attained pensionable age £197.10 2 Couple
+where one or both members have attained pensionable age £294.90 3 If the
+applicant is a member of a polygamous marriage and one or more members of the
+marriage have attained pensionable age— a for the applicant and the other
+party to the marriage; b for each additional spouse who is a member of the
+same household as the applicant. £294.90 £97.80
+
+;
+
+5.b
+
+in column (2) of the Table in paragraph 2(1) (child or young person amounts),
+for “£66.90”, in each place it occurs, substitute  “£70.80” ;
+
+5.c
+
+in paragraph 3 (family premium), for “£17.45” substitute  “£17.85” ;
+
+5.d
+
+in the Table in Part 4 (amounts of premium specified in Part 3), in the second
+column—
+
+5.d.i
+
+in sub-paragraph (1), for “£67.30”, in each place it occurs, substitute
+“£69.40”  and for “£134.60” substitute  “£138.80” ;
+
+5.d.ii
+
+in sub-paragraph (2), for “£26.67” substitute  “£27.44” ;
+
+5.d.iii
+
+in sub-paragraph (3), for “£65.94” substitute  “£68.04” ;
+
+5.d.iv
+
+in sub-paragraph (4), for “£37.70” substitute  “£38.85” .
+
+6
+
+In Schedule 5 (capital disregards: pensioners), after paragraph 28C insert—
+
+6.28D
+
+Any ex gratia payment made at the discretion of the Scottish Ministers from
+the Advance Payment Scheme which the Scottish Ministers set up in respect of
+cases of historical child abuse in care .
+
+6.28E
+
+Any redress payment made under Part 4 of the Redress for Survivors (Historical
+Child Abuse in Care) (Scotland) Act 2021 .
+
+7
+
+In Schedule 6 (determining eligibility for a reduction: persons who are not
+pensioners), in paragraph 5 (non-dependant deductions: persons who are not
+pensioners)—
+
+7.a
+
+in sub-paragraph (1)(a), for “£15.35” substitute  “£15.95” ;
+
+7.b
+
+in sub-paragraph (1)(b), for “£5.10” substitute  “£5.30” ;
+
+7.c
+
+in sub-paragraph (2)(a), for “£217.00” substitute  “£224.00” ;
+
+7.d
+
+in sub-paragraph (2)(b), for “£217.00”, “£377.00” and “£10.20” substitute
+“£224.00”, “£389.00” and “£10.60” respectively;
+
+7.e
+
+in sub-paragraph (2)(c), for “£377.00”, “£469.00” and “£12.85” substitute
+“£389.00”, “£484.00” and “£13.35” respectively.
+
+8
+
+In Schedule 7 (applicable amounts: persons who are not pensioners)—
+
+8.a
+
+in column (2) of the Table in paragraph 1 (personal allowances)—
+
+8.a.i
+
+in sub-paragraph (1), for “£79.60”, in each place it occurs, substitute
+“£82.10”  and for “£63.05” substitute  “£65.00” ;
+
+8.a.ii
+
+in sub-paragraph (2), for “£79.60” substitute  “£82.10” ;
+
+8.a.iii
+
+in sub-paragraph (3), for “£125.05” substitute  “£128.95” ;
+
+8.b
+
+in column (2) of the Table in paragraph 3(1), for “£66.90”, in each place it
+occurs, substitute  “£70.80” ;
+
+8.c
+
+in paragraph 4(1)(b) (family premium), for “£17.45” substitute  “£17.85” ;
+
+8.d
+
+in the Table in Part 4 (amounts of premiums specified in Part 3), in the
+second column—
+
+8.d.i
+
+in sub-paragraph (1), for “£35.10” and “£50.05” substitute  “£36.20”  and
+“£51.60”  respectively;
+
+8.d.ii
+
+in sub-paragraph (2), for “£67.30”, in each place it occurs, substitute
+“£69.40”  and for “£134.60” substitute  “£138.80” ;
+
+8.d.iii
+
+in sub-paragraph (3), for “£65.94” substitute  “£68.04” ;
+
+8.d.iv
+
+in sub-paragraph (4), for “£37.70” substitute  “£38.85” ;
+
+8.d.v
+
+in sub-paragraph (5), for “£26.67”, “£17.20” and “£24.60” substitute “£27.44”,
+“£17.75” and “£25.35” respectively;
+
+8.e
+
+in Part 6 (amount of components)—
+
+8.e.i
+
+in paragraph 23, for “£29.70” substitute  “£30.60” ;
+
+8.e.ii
+
+in paragraph 24, for “£39.40” substitute  “£40.60” .
+
+9
+
+In Schedule 10 (capital disregards: persons who are not pensioners), after
+paragraph 65 insert—
+
+9.66
+
+Any ex gratia payment made at the discretion of the Scottish Ministers from
+the Advance Payment Scheme which the Scottish Ministers set up in respect of
+cases of historical child abuse in care.
+
+9.67
+
+Any redress payment made under Part 4 of the Redress for Survivors (Historical
+Child Abuse in Care) (Scotland) Act 2021.
+
+10
+
+In Schedule 13 (all applicants: matters that must be included in an
+authority’s scheme - other matters), in paragraph 5—
+
+10.a
+
+at the end of sub-paragraph (7)(c) for “.” substitute  “;” ;
+
+10.b
+
+after sub-paragraph (7)(c) insert—
+
+10.b.d
+
+a payment which is disregarded under paragraph 28D or 28E of Schedule 5
+(capital disregards: pensioners) or paragraph 66 or 67 of Schedule 10 (capital
+disregards: persons who are not pensioners).
+
+### Amendments to the Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013
+
+11
+
+The scheme set out in the Schedule to the Council Tax Reduction Schemes
+(Default Scheme) (Wales) Regulations 2013  is amended in accordance with
+regulations 12 to 18.
+
+12
+
+12.1
+
+Paragraph 19(5) (persons treated as not being in Great Britain) is amended in
+accordance with paragraphs (2) to (5).
+
+12.2
+
+In paragraph (e)—
+
+12.2.a
+
+after sub-paragraph (ii) omit “or”;
+
+12.2.b
+
+at the end of sub-paragraph (iii) for “;” substitute  “,” ;
+
+12.2.c
+
+after sub-paragraph (iii) insert—
+
+or
+
+12.2.c.iv
+
+granted under the Afghan Citizens Resettlement Scheme ;
+
+.
+
+12.3
+
+After paragraph (k) omit “or”.
+
+12.4
+
+At the end of paragraph (l) for “.” substitute  “;” .
+
+12.5
+
+After paragraph (l) insert—
+
+12.5.m
+
+a person granted leave in accordance with the rules referred to in paragraph
+(e), where such leave is granted by virtue of—
+
+12.5.m.i
+
+the Afghan Relocations and Assistance Policy , or
+
+12.5.m.ii
+
+the previous scheme for locally-employed staff in Afghanistan (sometimes
+referred to as the ex-gratia scheme) ; or
+
+12.5.n
+
+a person in Great Britain not coming within paragraph (e)(iv) or (m) who left
+Afghanistan in connection with the collapse of the Afghan government that took
+place on 15 August 2021.
+
+13
+
+In paragraph 28 (non-dependant deductions: pensioners and persons who are not
+pensioners)—
+
+13.a
+
+in sub-paragraph (1)(a), for “£15.35” substitute  “£15.95” ;
+
+13.b
+
+in sub-paragraph (1)(b), for “£5.10” substitute  “£5.30” ;
+
+13.c
+
+in sub-paragraph (2)(a), for “£217.00” substitute  “£224.00” ;
+
+13.d
+
+in sub-paragraph (2)(b), for “£217.00”, “£377.00” and “£10.20” substitute
+“£224.00”, “£389.00” and “£10.60” respectively;
+
+13.e
+
+in sub-paragraph (2)(c), for “£377.00”, “£469.00” and “£12.85” substitute
+“£389.00”, “£484.00” and “£13.35” respectively.
+
+14
+
+In paragraph 111 (evidence and information)—
+
+14.a
+
+at the end of sub-paragraph (7)(c) for “.” substitute  “;” ;
+
+14.b
+
+after sub-paragraph (7)(c) insert—
+
+14.b.d
+
+a payment which is disregarded under paragraph 28D or 28E of Schedule 8
+(capital disregards: pensioners) or paragraph 66 or 67 of Schedule 9 (capital
+disregards: persons who are not pensioners).
+
+15
+
+In Schedule 2 (applicable amounts: pensioners)—
+
+15.a
+
+in paragraph 1 (personal allowance), for the Table substitute—
+
+Column (1) Column (2) Person, couple or polygamous marriage Amount 1 Single
+applicant or lone parent who has attained pensionable age £197.10 2 Couple
+where one or both members have attained pensionable age £294.90 3 If the
+applicant is a member of a polygamous marriage and one or more members of the
+marriage have attained pensionable age— a for the applicant and the other
+party to the marriage; b for each additional spouse who is a member of the
+same household as the applicant. £294.90 £97.80
+
+;
+
+15.b
+
+in column (2) of the Table in paragraph 2(1) (child or young person amounts),
+for “£66.90”, in each place it occurs, substitute  “£70.80” ;
+
+15.c
+
+in paragraph 3 (family premium), for “£17.45” substitute  “£17.85” ;
+
+15.d
+
+in the Table in Part 4 (amounts of premium specified in Part 3), in the second
+column—
+
+15.d.i
+
+in sub-paragraph (1), for “£67.30” in each place it occurs, substitute
+“£69.40”  and for “£134.60” substitute  “£138.80” ;
+
+15.d.ii
+
+in sub-paragraph (2), for “£26.67” substitute  “£27.44” ;
+
+15.d.iii
+
+in sub-paragraph (3), for “£65.94” substitute  “£68.04” ;
+
+15.d.iv
+
+in sub-paragraph (4), for “£37.70” substitute  “£38.85” .
+
+16
+
+In Schedule 3 (applicable amounts: persons who are not pensioners)—
+
+16.a
+
+in column (2) of the Table in paragraph 1 (personal allowances)—
+
+16.a.i
+
+in sub-paragraph (1), for “£79.60”, in each place it occurs, substitute
+“£82.10”  and for “£63.05” substitute  “£65.00” ;
+
+16.a.ii
+
+in sub-paragraph (2), for “£79.60” substitute  “£82.10” ;
+
+16.a.iii
+
+in sub-paragraph (3), for “£125.05” substitute  “£128.95” ;
+
+16.b
+
+in column (2) of the Table in paragraph 3(1) (child or young person amounts),
+for “£66.90”, in each place it occurs, substitute  “£70.80” ;
+
+16.c
+
+in paragraph 4(1)(b) (family premium), for “£17.45” substitute  “£17.85” ;
+
+16.d
+
+in the Table in Part 4 (amount of premiums specified in Part 3), in the second
+column—
+
+16.d.i
+
+in sub-paragraph (1), for “£35.10” and “£50.05” substitute  “£36.20”  and
+“£51.60”  respectively;
+
+16.d.ii
+
+in sub-paragraph (2), for “£67.30”, in each place it occurs, substitute
+“£69.40”  and for “£134.60” substitute  “£138.80” ;
+
+16.d.iii
+
+in sub-paragraph (3), for “£65.94” substitute  “£68.04” ;
+
+16.d.iv
+
+in sub-paragraph (4), for “£37.70” substitute  “£38.85” ;
+
+16.d.v
+
+in sub-paragraph (5), for “£26.67”, “£17.20” and “£24.60” substitute “£27.44”,
+“£17.75” and “£25.35” respectively;
+
+16.e
+
+in Part 6 (amount of components)—
+
+16.e.i
+
+in paragraph 23, for “£29.70” substitute  “£30.60” ;
+
+16.e.ii
+
+in paragraph 24, for “£39.40” substitute  “£40.60” .
+
+17
+
+In Schedule 8 (capital disregards: pensioners), after paragraph 28C insert—
+
+17.28D
+
+Any ex gratia payment made at the discretion of the Scottish Ministers from
+the Advance Payment Scheme which the Scottish Ministers set up in respect of
+cases of historical child abuse in care .
+
+17.28E
+
+Any redress payment made under Part 4 of the Redress for Survivors (Historical
+Child Abuse in Care) (Scotland) Act 2021 .
+
+18
+
+In Schedule 9 (capital disregards: persons who are not pensioners), after
+paragraph 65 insert—
+
+18.66
+
+Any ex gratia payment made at the discretion of the Scottish Ministers from
+the Advance Payment Scheme which the Scottish Ministers set up in respect of
+cases of historical child abuse in care.
+
+18.67
+
+Any redress payment made under Part 4 of the Redress for Survivors (Historical
+Child Abuse in Care) (Scotland) Act 2021.
+
+Rebecca Evans Minister for Finance and Local Government, one of the Welsh
+Ministers
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations amend the Council Tax Reduction Schemes and Prescribed
+Requirements (Wales) Regulations 2013 (“the Prescribed Requirements
+Regulations”) and the Council Tax Reduction Schemes (Default Scheme) (Wales)
+Regulations 2013 (“the Default Scheme Regulations”) made under section 13A(4)
+and (5) of, and Schedule 1B to, the Local Government Finance Act 1992.
+
+The Prescribed Requirements Regulations require each billing authority in
+Wales to make a scheme specifying the reductions which are to apply to amounts
+of council tax payable by persons, or classes of persons, whom the authority
+considers are in financial need. The Prescribed Requirements Regulations also
+set out the matters that must be included within such a scheme.
+
+The Default Scheme Regulations set out a scheme that will take effect, in
+respect of dwellings situated in the area of a billing authority, if the
+authority fails to make its own scheme.
+
+These Regulations amend both the Prescribed Requirements and the Default
+Scheme Regulations.
+
+Regulation 3 inserts new categories into the list of persons who are not to be
+treated as not being in Great Britain for the purpose of the residence
+criteria set out in regulation 28 of the Prescribed Requirements Regulations.
+The new categories are persons to whom leave is granted under immigration
+rules by virtue of the Afghan Relocations and Assistance Policy or the
+previous scheme for locally-employed staff in Afghanistan (otherwise known as
+the ex-gratia scheme), persons to whom leave is granted under the Afghan
+Citizens Resettlement Scheme, and persons not coming within those schemes, but
+who arrived in Great Britain from Afghanistan in connection with the fall of
+the Afghan government that took place on 15 August 2021. The same amendments
+are made to the Default Scheme Regulations by regulation 12.
+
+The amendments made to the Prescribed Requirements Regulations by regulations
+4, 5(b) to (d), 7 and 8 increase certain figures that are used in calculating
+whether a person is entitled to a reduction, and the amount of that reduction.
+The uprated figures relate to non-dependant deductions (adjustments made to
+the maximum amount of reduction a person can receive to take account of adults
+living in the dwelling who are not dependants of the applicant); and the
+applicable amount in relation to an application for a reduction (the amount
+against which an applicant’s income is compared in order to determine the
+amount of reduction to which the applicant is entitled). Other figures are
+also uprated to reflect changes over time to various entitlements. The same
+amendments are made to the Default Scheme Regulations by regulations 13, 15(b)
+to (d) and 16.
+
+The amendment made by regulation 5(a) replaces the existing table in paragraph
+1 of Schedule 2 to the Prescribed Requirements Regulations to remove redundant
+references to persons under 65. The same amendment is made to the Default
+Scheme Regulations by regulation 15(a). The effect of these amendments is to
+extend the higher rate of personal allowance to pensioners.
+
+The amendments made to the Prescribed Requirements Regulations by regulations
+6, 9 and 10 provide for how compensation payments made by the Scottish
+Ministers in relation to cases of historical child abuse are to be taken into
+account when determining eligibility for a reduction and the amount of a
+reduction. The same amendments are made to the Default Scheme Regulations by
+regulations 14, 17 and 18.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
+Assessments was considered in relation to these Regulations. As a result, a
+regulatory impact assessment has been prepared as to the likely costs and
+benefits of complying with these Regulations. A copy can be obtained from
+Local Government Finance Reform, Welsh Government, Cathays Park, Cardiff, CF10
+3NQ.
+

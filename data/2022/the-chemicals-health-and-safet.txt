@@ -1,0 +1,473 @@
+Title: The Chemicals (Health and Safety) Trade and Miscellaneous Amendments Regulations 2022
+Date: 2024-05-20
+Description: These Regulations make provision under section 2(1) of the Trade Act 2021 to implement provisions relating to co-operation in the regulation of chemicals contained in the EEA EFTA Agreement. The Regulations also make amendments to retained EU legislation in exercise of powers conferred by sections 8(1) and 8C(1) of the European Union (Withdrawal) Act 2018 and by paragraph 7 of Schedule 4 to that Act.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/1037
+
+## The Chemicals (Health and Safety) Trade and Miscellaneous Amendments Regulations 2022
+
+    This Statutory Instrument has been printed to correct errors in  S.I.
+2019/720  as amended by  S.I. 2020/1567  and  S.I. 2021/33  and is being
+issued free of charge to all known recipients of those Statutory Instruments.
+
+    Environmental Protection       Fees And Charges       Health And Safety
+Trade
+
+  Made   10th October 2022
+
+  Coming into force   1st November 2022
+
+      The Secretary of State makes the following Regulations, in exercise of
+powers conferred by section 2 of the Trade Act 2021 , by section 8(1) and
+8C(1) of, and paragraph 7 of Schedule 4 to, the European Union (Withdrawal)
+Act 2018 , and by section 41(1) of the European Union (Withdrawal Agreement)
+Act 2020 .           In accordance with paragraph 4(1) of Schedule 2 to the
+Trade Act 2021, and paragraphs 1(1), 8F(1), 12(1) and 38(2)  of Schedule 7 to
+the European Union (Withdrawal) Act 2018, a draft of these Regulations has
+been laid before Parliament and approved by a resolution of each House of
+Parliament.
+
+### GENERAL
+
+#### Citation and commencement
+
+1
+
+1.1
+
+These Regulations may be cited as the Chemicals (Health and Safety) Trade and
+Miscellaneous Amendments Regulations 2022.
+
+1.2
+
+These Regulations come into force on the 22nd day after the day on which they
+are made.
+
+#### Extent
+
+2
+
+2.1
+
+This Part and Part 2 extend to England and Wales, Northern Ireland and
+Scotland.
+
+2.2
+
+An amendment made by Part 3 and Part 4 has the same extent as the provision
+amended.
+
+### TRADE
+
+#### Disclosure of chemical trade and safety information within UK
+
+3
+
+3.1
+
+This regulation applies to information which relates to the trade in or safety
+of chemicals supplied by a relevant trading partner, or such person as a
+relevant trading partner may specify by written notice to the Secretary of
+State, for the purpose of giving effect to a provision of the EEA EFTA
+Agreement (including any annex to such agreement).
+
+3.2
+
+The Executive may disclose that information for a permitted purpose.
+
+3.3
+
+The following are the “permitted purposes” for the purpose of paragraph (2)—
+
+3.3.a
+
+to ensure health and safety;
+
+3.3.b
+
+to ensure protection of consumers;
+
+3.3.c
+
+to ensure protection of the environment.
+
+3.4
+
+A person who receives information as a result of paragraph (2) may—
+
+3.4.a
+
+use the information for a permitted purpose, or
+
+3.4.b
+
+further disclose that information with the consent of the Executive.
+
+3.5
+
+A person who receives the information following consent by the Executive under
+sub-paragraph 4(b) may use or disclose the information in accordance with
+paragraph (4).
+
+#### Disclosure of chemical trade and safety information to a relevant trading partner
+
+4
+
+4.1
+
+This regulation applies to information held by the Executive which relates to
+the trade in or safety of chemicals.
+
+4.2
+
+The Executive may disclose information to a relevant trading partner, or such
+person as the relevant trading partner may specify by written notice to the
+Secretary of State, for the purpose of giving effect to a provision of the EEA
+EFTA Agreement (including any annex to such agreement).
+
+#### General provisions about disclosure of chemical trade and safety information
+
+5
+
+5.1
+
+Nothing in regulation 3 or 4 limits the circumstances in which information may
+be disclosed under any other enactment or rule of law.
+
+5.2
+
+A disclosure under regulation 3 or 4 does not breach—
+
+5.2.a
+
+any obligation of confidence owed by the Executive, or
+
+5.2.b
+
+any other restriction on the disclosure of that information (however imposed).
+
+5.3
+
+Nothing in this regulation, or regulation 3 and 4, authorises a disclosure of
+information if the disclosure would contravene the data protection legislation
+(but in determining whether a disclosure would do so, regulation 3 and 4 of
+these Regulations should be taken into account).
+
+#### Interpretation of regulations 3 to 5
+
+6
+
+In regulations 3 to 5—
+
+      “ data protection legislation ” has the same meaning as in the Data
+Protection Act 2018 ;           “ EEA EFTA Agreement ” means the Free Trade
+Agreement between Iceland, the Principality of Liechtenstein and the Kingdom
+of Norway and the United Kingdom of Great Britain and Northern Ireland ;
+“ relevant trading partner ” means a Party, other than the United Kingdom, to
+the EEA EFTA Agreement;           “ the Executive ” means the Health and
+Safety Executive .
+
+### AMENDMENTS TO RETAINED DIRECT EU LEGISLATION
+
+#### Regulation 
+
+7
+
+7.1
+
+Regulation  (EC) No 1272/2008  of the European Parliament and of the Council
+of 16 December 2008 on classification, labelling and packaging of substances
+and mixtures  is amended as follows.
+
+7.2
+
+In Article 21(3), omit “in that Part”.
+
+7.3
+
+In Article 53—
+
+7.3.a
+
+in paragraph 1,
+
+7.3.a.i
+
+from “The Commission” to “amending” substitute “The Secretary of State may by
+regulations amend”;
+
+7.3.a.ii
+
+omit from “Where imperative” to “this paragraph”.
+
+7.3.b
+
+omit paragraph 2.
+
+7.4
+
+Omit Article 53a (Exercise of the delegation).
+
+7.5
+
+Omit Article 53b (Urgency procedure).
+
+7.6
+
+Omit Article 53c (Separate delegated acts for different delegated powers).
+
+#### Regulation (EU) No 649/2012
+
+8
+
+8.1
+
+Regulation (EU) No 649/2012 of the European Parliament and of the Council of 4
+July 2012 concerning the export and import of hazardous chemicals (recast)  is
+amended as follows.
+
+8.2
+
+In Article 3(16), substitute—
+
+      “ export ” means:         the export of a chemical made in accordance
+with sections 33(4), 35 or 36 of the Taxation (Cross-border Trade) Act 2018 ;
+the removal of a chemical from Great Britain to Northern Ireland; or
+the export of a chemical where the chemicals are, immediately prior to export,
+in a temporary storage facility or subject to the control of any HMRC officer
+as described in paragraph 1(2) of Schedule 1 to the Taxation (Cross-border
+Trade) Act 2018,         but does not include chemicals which are under a
+transit procedure by which chargeable goods may be moved between places in
+Great Britain..
+
+.
+
+#### Regulation (EU) No 528/2012
+
+9
+
+9.1
+
+Regulation (EU) No 528/2012 of the European Parliament and of the Council of
+22 May 2012 concerning the making available on the market and use of biocidal
+products  is amended as follows.
+
+9.2
+
+In Article 2(3), omit “or other Union legislation”.
+
+9.3
+
+In Article 64(2), omit “, as applicable” .
+
+#### Commission Delegated Regulation (EU) No 1062/2014
+
+10
+
+10.1
+
+Commission Delegated Regulation (EU) No 1062/2014 of 4 August 2014 on the work
+programme for the systematic examination of all existing active substances
+contained in biocidal products referred to in Regulation (EU) No 528/2012 of
+the European Parliament and of the Council  is amended as follows.
+
+10.2
+
+In the heading of Article 5, for “category 6” substitute  “category B” .
+
+10.3
+
+In Article 5(1), for “category 6” substitute  “category B” .
+
+10.4
+
+In Article 6(7)(a), for “UK mandatory classification” substitute  “GB
+mandatory classification” .
+
+10.5
+
+In Article 20, omit “the third subparagraph of”.
+
+10.6
+
+In Article 22—
+
+10.6.a
+
+in paragraph (1), for “point (a)(ii) of Article 89(7)” substitute  “Article
+89(8)” ;
+
+10.6.b
+
+in paragraph (3), omit “point (a)(ii) of” .
+
+#### Commission Implementing Regulation (EU) No 88/2014
+
+11
+
+11.1
+
+Commission Implementing Regulation (EU) No 88/2014 of 31 January 2014
+specifying a procedure for the amendment of Annex I to Regulation (EU) No
+528/2012 of the European Parliament and of the Council concerning the making
+available on the market and use of biocidal products  is amended as follows.
+
+11.2
+
+In Article 1(a), for “category 1, 2, 3, 4, 5 or 6” substitute  “category A or
+category B” .
+
+11.3
+
+In Article 3(2), for “category 6” substitute  “category B” .
+
+11.4
+
+In Article 4, in both places it occurs—
+
+11.4.a
+
+for “category 1, 2, 3, 4 or 5” substitute  “category A” ;
+
+11.4.b
+
+for “category 6” substitute  “category B” .
+
+11.5
+
+In Annex I—
+
+11.5.a
+
+in Part A, including the heading, in both places it occurs for “category 1, 2,
+3, 4 or 5” substitute  “category A” ;
+
+11.5.b
+
+in Part B, including the heading, in both places it occurs for “category 6”
+substitute  “category B” .
+
+### DOMESTIC LEGISLATION
+
+#### Plant Protection Product (Fees and Charges) Regulations 2011
+
+12
+
+12.1
+
+The Plant Protection Product (Fees and Charges) Regulations 2011  are amended
+as follows.
+
+12.2
+
+In regulation 2, in both places it occurs, for “EU law” substitute  “Northern
+Ireland by virtue of the Protocol on Ireland/Northern Ireland in the EU
+withdrawal agreement” .
+
+#### Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013
+
+13
+
+13.1
+
+The Biocidal Products and Chemicals (Appointment of Authorities and
+Enforcement) Regulations 2013  are amended as follows.
+
+13.2
+
+In regulation 4(1), in paragraph (b) of the definition of the PIC Regulation,
+for “EU law” substitute  “Northern Ireland by virtue of the Protocol on
+Ireland/Northern Ireland in the EU withdrawal agreement” .
+
+13.3
+
+In paragraph 1 of Schedule 2, in the definition of “plant protection product”,
+for “exit day” substitute  “IP completion day” .
+
+13.4
+
+In paragraph 11 of Schedule 2, for “exit day” substitute  “IP completion day”
+.
+
+#### Health and Safety and Nuclear (Fees) Regulations 2021
+
+14
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+      Signed by authority of the Secretary of State for Work and Pensions
+Claire Coutinho   Parliamentary Under Secretary of State   Department for Work
+and Pensions
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations make provision under section 2(1) of the Trade Act 2021 to
+implement provisions relating to co-operation in the regulation of chemicals
+contained in the EEA EFTA Agreement. The Regulations also make amendments to
+retained EU legislation in exercise of powers conferred by sections 8(1) and
+8C(1) of the European Union (Withdrawal) Act 2018 and by paragraph 7 of
+Schedule 4 to that Act.
+
+  They make provision under section 8(1) of that Act in order to address
+failures of retained EU legislation to operate effectively and other
+deficiencies falling under section 8(2)(a), (d) and (e) arising from the UK’s
+exit from the European Union. They make provision under section 8C(1) in order
+to make amendments relating to the Northern Ireland Protocol.
+
+  These Regulations make provision under paragraph 7 of Schedule 4 to alter
+fees contained in regulation 21 of the Health and Safety and Nuclear (Fees)
+Regulations 2021 ( S.I. 2021/33 ) (“ the 2021 Regulations ”), which came into
+force on 1st April 2021. Amendments were made to regulation 21 of the Health
+and Safety and Nuclear (Fees) Regulations 2016 ( S.I. 2016/253 ) (“ the 2016
+Regulations ”) by the Chemicals (Health and Safety) and Genetically Modified
+Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 ( S.I.
+2019/720 ) which came into force on 31st December 2020 and which were
+erroneously omitted from the 2021 Regulations, which remade the 2016
+Regulations. The amendment intends to clarify the law in relation to the
+charging of fees in relation to biocidal products.
+
+  Regulation 3 provides an information sharing gateway to the Health and
+Safety Executive (“ the Executive ”) which allows it to share information
+related to the trade in or safety of chemicals supplied by a relevant trading
+partner under the EEA EFTA Agreement within the UK. The information may be
+disclosed for a permitted purpose meaning to ensure health and safety, ensure
+protection of consumers, and ensure protection of the environment.
+
+  Regulation 4 provides an information sharing gateway to the Executive which
+allows it to share information related to the trade in or safety of chemicals
+with a relevant trading partner under the EEA EFTA Agreement to give effect to
+a provision of that agreement.
+
+  Regulation 5 ensures that the effect of regulation 3 or 4 does not limit the
+circumstances in which information can be disclosed under any other enactment
+or rule of law. It confirms that a disclosure under regulation 3 or 4 does not
+breach any obligation of confidence owed by the Executive or any other
+restriction on the disclosure of that information. Further, it confirms that
+nothing in these Regulations authorises disclosure that contravenes data
+protection legislation but in determining whether a disclosure should do so,
+regulations 3 and 4 should be taken into account.
+
+  Regulation 6 provides definitions for terms used in regulations 3 to 5.
+
+  Regulations 7 to 11 make amendments to retained direct EU legislation1 in
+the field of chemicals regulation to correct minor deficiencies and ensure the
+implementation of the Northern Ireland Protocol.
+
+  Regulations 12 and 13 make provision under section 8C(1) of the European
+Union (Withdrawal) Act 2018 to correct references to the Northern Ireland
+Protocol. Regulation 13 also makes consequential provision in exercise of the
+power conferred by section 41(1) of the European Union (Withdrawal Agreement)
+Act to substitute references to “exit day” with “IP completion day”.
+
+  Regulation 14 makes provision in relation to the Health and Safety and
+Nuclear (Fees) Regulations 2021 as explained above.
+
+  No impact assessment has been prepared for these Regulations as there is not
+expected to be any additional costs to business, charities or the voluntary
+sector. Some of the regulations contained in this Statutory Instrument correct
+errors in  S.I 2019/720  as amended by  S.I 2020/1567  and  S.I. 2021/33 ,
+therefore it is being issued free of charge to all known recipients of those
+Statutory Instruments.
+

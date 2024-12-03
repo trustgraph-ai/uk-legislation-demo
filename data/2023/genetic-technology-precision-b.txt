@@ -1,0 +1,3013 @@
+Title: Genetic Technology (Precision Breeding) Act 2023
+Date: 2023-03-31
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ukpga/2023/6
+
+## Genetic Technology (Precision Breeding) Act 2023
+
+                                                   B e it enacted  by the
+King’s most Excellent Majesty, by and with the advice and consent of the Lords
+Spiritual and Temporal, and Commons, in this present Parliament assembled, and
+by the authority of the same, as follows:—
+
+### Precision breeding: definitions
+
+#### Precision bred organism
+
+1
+
+1.1
+
+In this Act “ precision bred organism ” means a precision bred plant or a
+precision bred animal.
+
+1.2
+
+For the purposes of this Act an organism is “precision bred” if—
+
+1.2.a
+
+any feature of its genome results from the application of modern
+biotechnology,
+
+1.2.b
+
+every feature of its genome that results from the application of modern
+biotechnology is stable,
+
+1.2.c
+
+every feature of its genome that results from the application of modern
+biotechnology could have resulted from traditional processes, whether or not
+in conjunction with selection techniques, alone, and
+
+1.2.d
+
+its genome does not contain any feature that results from the application of
+any artificial modification technique other than modern biotechnology.
+
+1.3
+
+In this Act “ modern biotechnology ” means any technique mentioned in
+regulation 5(1)(a) or (b) of the Genetically Modified Organisms (Deliberate
+Release) Regulations 2002 ( S.I. 2002/2443 ).
+
+1.4
+
+A feature of an organism’s genome is “stable” if it is capable of being
+propagated whenever the organism is reproduced, whether by sexual or asexual
+reproduction.
+
+1.5
+
+In determining whether a feature of an organism’s genome could have resulted
+from traditional processes, no account is to be taken of—
+
+1.5.a
+
+the copy number of the feature,
+
+1.5.b
+
+its epigenetic status, or
+
+1.5.c
+
+its location in the genome.
+
+1.6
+
+In  this section  “ traditional processes ” means—
+
+1.6.a
+
+in relation to plants—
+
+1.6.a.i
+
+sexual fertilisation,
+
+1.6.a.ii
+
+spontaneous mutation,
+
+1.6.a.iii
+
+in vitro fertilisation,
+
+1.6.a.iv
+
+polyploidy induction,
+
+1.6.a.v
+
+embryo rescue,
+
+1.6.a.vi
+
+grafting,
+
+1.6.a.vii
+
+induced mutagenesis, or
+
+1.6.a.viii
+
+somatic hybridisation or cell fusion of plant cells of organisms which are
+capable of exchanging genetic material by a process within sub-paragraphs  (i)
+to  (vii) ;
+
+1.6.b
+
+in relation to animals—
+
+1.6.b.i
+
+sexual fertilisation,
+
+1.6.b.ii
+
+spontaneous mutation,
+
+1.6.b.iii
+
+artificial insemination,
+
+1.6.b.iv
+
+in vitro fertilisation,
+
+1.6.b.v
+
+embryo transfer,
+
+1.6.b.vi
+
+polyploidy induction, or
+
+1.6.b.vii
+
+recovery and transfer of primordial germ cells.
+
+1.7
+
+An “ artificial modification technique ” means any technique by which genes or
+other genetic material can be artificially modified within the meaning of Part
+6 of the Environmental Protection Act 1990 (as it has effect from time to
+time).
+
+1.8
+
+If the category of techniques by which, or circumstances in which, genes or
+other genetic material are taken to be, or not to be, artificially modified
+for the purposes of Part 6 of the Environmental Protection Act 1990 changes by
+virtue of—
+
+1.8.a
+
+regulation 5 of the Genetically Modified Organisms (Deliberate Release)
+Regulations 2002 ( S.I. 2002/2443 ) being modified, or
+
+1.8.b
+
+regulations being made under subsection (4B) or (4C) of section 106 of the
+Environmental Protection Act 1990,
+
+regulations may modify  this section  so as to make corresponding changes
+(with or without variation) to the definition of “modern biotechnology”.
+
+1.9
+
+Regulations under subsection  (8)  are subject to the affirmative procedure.
+
+1.10
+
+An organism to which  subsection (11)  applies does not fail to be precision
+bred merely because it does not meet the condition in  subsection (2) (d) .
+
+1.11
+
+This subsection  applies to an organism which, for the purposes of Part 6 of
+the Environmental Protection Act 1990, is to be taken not to be a genetically
+modified organism by virtue of—
+
+1.11.a
+
+paragraph (3) of the regulation referred to in  subsection (8) (a) , or
+
+1.11.b
+
+regulations under subsection (4C) of section 106 of that Act.
+
+#### Meaning of “plant” and “animal”
+
+2
+
+2.1
+
+In this Act “ plant ” means an organism in the taxonomic group—
+
+2.1.a
+
+Archaeplastida, or
+
+2.1.b
+
+Phaeophyceae.
+
+2.2
+
+In this Act “ animal ” means an organism in the taxonomic group Metazoa, other
+than a human (or a human admixed embryo).
+
+2.3
+
+In subsections  (1)  and  (2) , references to an organism—
+
+2.3.a
+
+include an embryo and all subsequent developmental stages of the organism;
+
+2.3.b
+
+in the case of a plant, also include a seed or a vegetative propagule;
+
+2.3.c
+
+do not include a gamete.
+
+2.4
+
+In this Act “gamete”—
+
+2.4.a
+
+does not include an egg that is in the process of fertilisation or is
+undergoing any other process capable of resulting in an embryo, but
+
+2.4.b
+
+otherwise includes a mature germ cell capable of initiating fusion with a germ
+cell of the opposite sex.
+
+2.5
+
+In this section—
+
+                           “ embryo ” includes an egg that is in the process
+of fertilisation or is undergoing any other process capable of resulting in an
+embryo;
+“ human ” includes a human embryo and all subsequent developmental stages of a
+human;
+“ human admixed embryo ” has the same meaning as it has in the Human
+Fertilisation and Embryology Act 1990 by virtue of section 4A(6) and (11) of
+that Act.
+
+### Precision bred organisms: release, marketing and risk assessments
+
+#### Release
+
+##### Restrictions on release of precision bred organism in England
+
+3
+
+3.1
+
+A person who has a precision bred organism under their control must not
+release the organism in England unless—
+
+3.1.a
+
+the following apply—
+
+3.1.a.i
+
+the notification requirements are satisfied in relation to the release (see
+section  4 ),
+
+3.1.a.ii
+
+the person is a person specified in the release notice under section  4 (2) ,
+and
+
+3.1.a.iii
+
+the release is carried out in accordance with the release notice, or
+
+3.1.b
+
+the organism is—
+
+3.1.b.i
+
+a marketable precision bred organism (see section  5 (2) ), or
+
+3.1.b.ii
+
+the qualifying progeny of a marketable precision bred organism (see section
+24 ).
+
+3.2
+
+For the purposes of this Act an organism is under a person’s “control” if the
+person keeps it contained by measures designed to—
+
+3.2.a
+
+limit its contact with humans and the environment, and
+
+3.2.b
+
+prevent or minimise the risk of adverse effects as regards the health of
+humans or the environment.
+
+3.3
+
+For the purposes of this section and section  4 , a person “releases” an
+organism under their control by deliberately causing or permitting it to—
+
+3.3.a
+
+cease to be under their control or the control of anyone else, and
+
+3.3.b
+
+enter the environment.
+
+##### Release of precision bred organism: notification requirements
+
+4
+
+4.1
+
+The notification requirements are satisfied in relation to the release of an
+organism if—
+
+4.1.a
+
+a person has given a notice (a “release notice”) to the Secretary of State in
+relation to the release, accompanied by—
+
+4.1.a.i
+
+any required information (see subsection  (3) (b) ), and
+
+4.1.a.ii
+
+any fee required by regulations under section  39 , and
+
+4.1.b
+
+any minimum period prescribed by regulations has elapsed since paragraph  (a)
+was satisfied.
+
+4.2
+
+A release notice must specify one or more persons, or descriptions of person,
+in relation to the release. 
+
+4.3
+
+Regulations may—
+
+4.3.a
+
+make provision about the form and content of a release notice (but subject to
+subsection  (2) );
+
+4.3.b
+
+prescribe information which must accompany a release notice (“required
+information”).
+
+4.4
+
+Regulations under subsection  (3)  may, in particular, prescribe whom a person
+may specify under subsection  (2)  when giving a release notice.
+
+4.5
+
+For the meaning of “release” see section  3 (3) .
+
+4.6
+
+Regulations under  subsection (1) (b)  are subject to the negative procedure.
+
+4.7
+
+Regulations under subsection  (3)  are subject to the affirmative procedure.
+
+#### Marketing
+
+##### Restrictions on marketing of precision bred organism in England
+
+5
+
+5.1
+
+A person must not market a precision bred organism in England unless—
+
+5.1.a
+
+it is a marketable precision bred organism, or
+
+5.1.b
+
+it is the qualifying progeny of a marketable precision bred organism.
+
+5.2
+
+In this Act “ marketable precision bred organism ” means a precision bred
+organism in respect of which—
+
+5.2.a
+
+a precision bred confirmation is in force, and
+
+5.2.b
+
+if it is a relevant animal, a precision bred animal marketing authorisation is
+in force.
+
+5.3
+
+For the purposes of this Act—
+
+5.3.a
+
+a precision bred organism is “marketed” by a person when products consisting
+of or including—
+
+5.3.a.i
+
+the precision bred organism, or
+
+5.3.a.ii
+
+its gametes,
+
+are made available to other persons, whether or not for consideration, and
+
+5.3.b
+
+the marketing occurs in England so far as those products are made available
+for delivery in England.
+
+5.4
+
+For provision about the following terms used in subsections  (1)  and  (2)
+see—
+
+qualifying progeny section  24 precision bred confirmation section  8 (1) (a)
+(i) relevant animal section  10 precision bred animal marketing authorisation
+section  13 (1) .
+
+5.5
+
+For the purposes of subsection  (2) , a precision bred confirmation or
+precision bred animal marketing authorisation is “in force” if it has been
+issued and not revoked, and, in the case of an authorisation, is not
+suspended.
+
+#### Precision bred confirmation
+
+##### Application for precision bred confirmation
+
+6
+
+6.1
+
+A person (the “notifier”) may apply for a precision bred confirmation in
+relation to an organism by giving a notice (a “marketing notice”) to the
+Secretary of State.
+
+6.2
+
+Regulations may—
+
+6.2.a
+
+make provision about the form and content of a marketing notice, and
+
+6.2.b
+
+prescribe information which must accompany a marketing notice (“required
+information”).
+
+6.3
+
+As soon as practicable after receiving—
+
+6.3.a
+
+a marketing notice,
+
+6.3.b
+
+any required information, and
+
+6.3.c
+
+any fee prescribed by regulations under section  39 ,
+
+the Secretary of State must refer the marketing notice to the advisory
+committee (see section  22 (1) ) by sending the committee the marketing notice
+and any required information that accompanied it.
+
+6.4
+
+Regulations under subsection  (2)  are subject to the affirmative procedure.
+
+##### Report by advisory committee
+
+7
+
+7.1
+
+This section applies where the Secretary of State refers a marketing notice to
+the advisory committee.
+
+7.2
+
+Within 90 days after the marketing notice is referred to it, the advisory
+committee must provide a report to the Secretary of State stating—
+
+7.2.a
+
+whether it considers the organism to be precision bred, and
+
+7.2.b
+
+its reasons for reaching that conclusion.
+
+7.3
+
+Before the end of that period, the committee may by notice (“an information
+notice”) request the notifier to provide further information to the committee.
+
+7.4
+
+The committee’s report to the Secretary of State must be accompanied by any
+information provided to the committee as the result of an information notice.
+
+7.5
+
+Subsection  (2)  is subject to regulations under section  23 .
+
+##### Issue of precision bred confirmation
+
+8
+
+8.1
+
+As soon as practicable after receiving a report from the advisory committee
+under  section 7 (2) , the Secretary of State must—
+
+8.1.a
+
+if satisfied that the organism is precision bred—
+
+8.1.a.i
+
+issue a statement to that effect (a “precision bred confirmation”), and
+
+8.1.a.ii
+
+give notice of it to the notifier;
+
+8.1.b
+
+if not satisfied, give notice to the notifier of that fact.
+
+8.2
+
+A notice under subsection  (1) (b)  must state the reasons for not issuing a
+precision bred confirmation.
+
+##### Revocation of precision bred confirmation
+
+9
+
+9.1
+
+Regulations may make provision conferring power on the Secretary of State to
+revoke a precision bred confirmation relating to an organism if the Secretary
+of State is no longer satisfied that the organism is precision bred.
+
+9.2
+
+Regulations made under this section must make provision—
+
+9.2.a
+
+for the procedure that is to be followed where the Secretary of State proposes
+to revoke a precision bred confirmation, which must include provision for—
+
+9.2.a.i
+
+requiring notice of a proposal to revoke a precision bred confirmation to be
+published in any way that the Secretary of State considers appropriate to
+bring it to the attention of those affected by it, and
+
+9.2.a.ii
+
+permitting persons affected by the proposal to make representations about it;
+
+9.2.b
+
+about the consequences of revoking a precision bred confirmation;
+
+9.2.c
+
+for prescribed information to be included in the register (see section  18 ).
+
+9.3
+
+Provision made by virtue of subsection  (2) (b)  must secure that the
+following are treated as revoked by the revocation of a precision bred
+confirmation relating to an organism—
+
+9.3.a
+
+a precision bred animal marketing authorisation relating to the organism;
+
+9.3.b
+
+any marketing authorisation issued under regulations under Part  3  that was
+issued in reliance, for the purposes of any requirement imposed by virtue of
+section  26 (3) (a) , on the organism being a marketable precision bred
+organism.
+
+9.4
+
+Regulations under this section may confer a function on the advisory
+committee.
+
+9.5
+
+Regulations under this section are subject to the negative procedure.
+
+#### Relevant animals: precision bred animal marketing authorisation
+
+##### Meaning of “relevant animal”
+
+10
+
+10.1
+
+In this Act “ relevant animal ” means an animal which is a vertebrate.
+
+10.2
+
+If the definition of “animal” in the Animal Welfare Act 2006 is extended for
+any purposes by virtue of section 1(3) of that Act to include invertebrates of
+any description, regulations may amend subsection  (1)  to extend the
+definition of “relevant animal” so as to include invertebrates of that
+description.
+
+10.3
+
+In this section, “vertebrate” and “invertebrate” have the meanings given by
+section 1(5) of the Animal Welfare Act 2006.
+
+10.4
+
+Regulations under subsection  (2)  are subject to the affirmative procedure.
+
+##### Application for precision bred animal marketing authorisation
+
+11
+
+11.1
+
+This section applies where a marketing notice is or has been given to the
+Secretary of State in relation to a relevant animal.
+
+11.2
+
+The notifier may apply to the Secretary of State for a precision bred animal
+marketing authorisation in relation to the relevant animal.
+
+11.3
+
+An application under this section must include a declaration that the notifier
+does not expect the health or welfare of the relevant animal or its qualifying
+progeny to be adversely affected (see section  25 ) by any precision bred
+trait (“an animal welfare declaration”).
+
+11.4
+
+An application under this section must be accompanied by—
+
+11.4.a
+
+an assessment of the risks to the health or welfare of the relevant animal or
+its qualifying progeny which could reasonably be expected to result from any
+precision bred trait,
+
+11.4.b
+
+an explanation of the steps that the notifier has taken to identify the traits
+and risks mentioned in  paragraph (a) ,
+
+11.4.c
+
+any required information (see subsection  (5) (b) ), and
+
+11.4.d
+
+any fee prescribed by regulations under section  39 .
+
+11.5
+
+Regulations may—
+
+11.5.a
+
+make provision about the form and content of—
+
+11.5.a.i
+
+an application under this section (but subject to subsection  (3) ), or
+
+11.5.a.ii
+
+any document required under subsection  (4) (a)  or  (b) ;
+
+11.5.b
+
+prescribe any further information which must accompany the application (“the
+required information”).
+
+11.6
+
+After receiving an application under this section accompanied by everything
+required by subsection  (4) , the Secretary of State must refer the
+application to the welfare advisory body (see section  22 (3) ) by sending the
+body the application and the documents and information provided under
+subsection  (4) (a)  to  (c) .
+
+This is subject to subsection  (8) .
+
+11.7
+
+The Secretary of State must refer the application—
+
+11.7.a
+
+as soon as practicable, if a precision breeding confirmation has already been
+issued in relation to the relevant animal;
+
+11.7.b
+
+otherwise, at any time before, or as soon as practicable after, such a
+confirmation is issued.
+
+11.8
+
+The duty to refer the application does not apply if, before referring it, the
+Secretary of State decides not to issue a precision breeding confirmation in
+relation to the relevant animal.
+
+11.9
+
+Regulations may prescribe circumstances in which an application for a
+precision bred animal marketing authorisation in relation to a relevant animal
+may be made by a person other than the notifier (and in those cases references
+to the notifier, in relation to the marketing authorisation and an application
+for it, are to be read as references to that person).
+
+11.10
+
+Regulations under subsection  (5)  are subject to the affirmative procedure.
+
+11.11
+
+Regulations under subsection  (9)  are subject to the negative procedure.
+
+##### Report by welfare advisory body
+
+12
+
+12.1
+
+This section applies where the Secretary of State refers an application for a
+precision bred animal marketing authorisation to the welfare advisory body.
+
+12.2
+
+Before the end of the reporting period, the welfare advisory body must provide
+a report to the Secretary of State stating—
+
+12.2.a
+
+whether the notifier, in making the animal welfare declaration, has had regard
+to—
+
+12.2.a.i
+
+the traits identified by the notifier as precision bred traits, and
+
+12.2.a.ii
+
+the risks identified by the notifier as risks to the health or welfare of the
+animal or its qualifying progeny that could reasonably be expected to result
+from those traits,
+
+12.2.b
+
+whether the notifier has taken reasonable steps to identify those traits and
+risks and has made an appropriate assessment of those risks, and
+
+12.2.c
+
+the reasons for its conclusions on the matters referred to in paragraphs  (a)
+and  (b) .
+
+12.3
+
+In this section, the “ reporting period ” means a period specified in
+regulations beginning with the day on which the application was referred to
+the body.
+
+12.4
+
+Before the end of the reporting period, the body may by notice (“an
+information notice”) request the notifier to provide further information to
+the body.
+
+12.5
+
+The body’s report to the Secretary of State must be accompanied by any
+information provided to the body as the result of an information notice.
+
+12.6
+
+Subsections  (2)  and  (3)  are subject to regulations under section  23 .
+
+12.7
+
+Regulations under subsection  (3)  are subject to the negative procedure.
+
+##### Issue of precision bred animal marketing authorisation
+
+13
+
+13.1
+
+As soon as practicable after receiving a report from the welfare advisory body
+under  section 12 (2)  in relation to a relevant animal, the Secretary of
+State must—
+
+13.1.a
+
+decide whether to issue a precision bred animal marketing authorisation in
+respect of the relevant animal,
+
+13.1.b
+
+issue the authorisation if the decision is to do so, and
+
+13.1.c
+
+notify the notifier—
+
+13.1.c.i
+
+of the decision, and
+
+13.1.c.ii
+
+if the decision is not to issue an authorisation, of the reasons for the
+decision.
+
+13.2
+
+The Secretary of State may issue a precision bred animal marketing
+authorisation only if satisfied—
+
+13.2.a
+
+that the notifier, in making the animal welfare declaration, has had regard
+to—
+
+13.2.a.i
+
+the traits identified by the notifier as precision bred traits, and
+
+13.2.a.ii
+
+the risks identified by the notifier as risks to the health or welfare of the
+animal or its qualifying progeny that could reasonably be expected to result
+from those traits, and
+
+13.2.b
+
+that the notifier has taken reasonable steps to identify those traits and
+risks and has made an appropriate assessment of those risks.
+
+#### Protection of relevant animals following issue of marketing authorisation
+
+##### Precision bred animal marketing authorisations: reporting obligations
+
+14
+
+14.1
+
+Regulations may make provision for requiring the notifier or any other
+prescribed person—
+
+14.1.a
+
+to provide the Secretary of State with prescribed information about the health
+or welfare of any animal within subsection  (2) ;
+
+14.1.b
+
+to take prescribed steps, in connection with supplying such an animal to
+another person, to secure that prescribed information about the subsequent
+health or welfare of—
+
+14.1.b.i
+
+that animal, or
+
+14.1.b.ii
+
+any of its progeny within subsection  (2) ,
+
+is provided by, or can be collected from, that other person.
+
+14.2
+
+An animal is within this subsection if it is—
+
+14.2.a
+
+a relevant animal to which a precision bred animal marketing authorisation
+relates, or
+
+14.2.b
+
+its qualifying progeny.
+
+14.3
+
+Regulations under this section may provide for requirements to apply to
+information about the health or welfare of a relevant animal or its qualifying
+progeny during periods—
+
+14.3.a
+
+prescribed by the regulations, or
+
+14.3.b
+
+determined by the Secretary of State in particular cases.
+
+14.4
+
+Regulations under this section are subject to the affirmative procedure.
+
+##### Suspension and revocation of precision bred animal marketing authorisation
+
+15
+
+15.1
+
+Regulations may make provision for the Secretary of State—
+
+15.1.a
+
+to suspend a precision bred animal marketing authorisation where the Secretary
+of State receives information (whether by virtue of section  14  or otherwise)
+relating to the health or welfare of the relevant animal or its qualifying
+progeny;
+
+15.1.b
+
+to revoke a precision bred animal marketing authorisation where, in
+consequence of such information, the Secretary of State considers the health
+or welfare of the relevant animal or its qualifying progeny likely to be
+adversely affected by precision bred traits (see section  25 );
+
+15.1.c
+
+to suspend or revoke a precision bred animal marketing authorisation where
+there has been a failure by any person to comply with regulations under
+section  14 .
+
+15.2
+
+Regulations made under this section must make provision—
+
+15.2.a
+
+for the procedure to be followed where the Secretary of State proposes to
+suspend or revoke a precision bred animal marketing authorisation, which must
+include provision for the following, except in urgent cases—
+
+15.2.a.i
+
+requiring notice of the proposal to be published in any way that the Secretary
+of State considers appropriate to bring it to the attention of those affected
+by it;
+
+15.2.a.ii
+
+permitting persons affected by the proposal to make representations about it;
+
+15.2.b
+
+about the consequences of suspending or revoking a precision bred animal
+marketing authorisation;
+
+15.2.c
+
+for prescribed information to be included in the register (see  section 18 ).
+
+15.3
+
+Regulations under this section may confer a function on the welfare advisory
+body.
+
+15.4
+
+Nothing in this section affects the power for regulations under Part  4  to
+make provision in relation to a failure to comply with regulations under
+section  14 .
+
+15.5
+
+Regulations under this section are subject to the negative procedure.
+
+#### Reviews and appeals relating to Part 
+
+##### Reviews and appeals relating to Part 
+
+16
+
+16.1
+
+Regulations must make provision for reviews of and appeals against decisions
+under this Part.
+
+16.2
+
+The regulations must, in particular, in relation to each of the decisions
+mentioned in subsection  (3) —
+
+16.2.a
+
+secure that any person prescribed by the regulations may—
+
+16.2.a.i
+
+require the Secretary of State to review the decision, and
+
+16.2.a.ii
+
+if not satisfied with the outcome of any such review, appeal against the
+decision,
+
+16.2.b
+
+secure that the grounds on which a review may be required or an appeal brought
+include the following—
+
+16.2.b.i
+
+that the decision was based on an error of fact,
+
+16.2.b.ii
+
+that the decision was wrong in law, and
+
+16.2.b.iii
+
+that the decision was unreasonable for any reason, and
+
+16.2.c
+
+make provision for such an appeal to be brought in the First-tier Tribunal.
+
+16.3
+
+Those decisions are—
+
+16.3.a
+
+a decision under section  8  not to issue a precision bred confirmation;
+
+16.3.b
+
+a decision under section  9  to revoke a precision bred confirmation;
+
+16.3.c
+
+a decision under section  13  not to issue a precision bred animal marketing
+authorisation;
+
+16.3.d
+
+a decision under section  15  to suspend or revoke a precision bred animal
+marketing authorisation.
+
+16.4
+
+Regulations may make provision as to—
+
+16.4.a
+
+the Secretary of State’s functions on a review of a decision under this Part;
+
+16.4.b
+
+the powers of the First-tier Tribunal on an appeal by virtue of this section.
+
+16.5
+
+Regulations under this section are subject to the negative procedure.
+
+#### Risk assessments
+
+##### Restrictions on importation and acquisition of precision bred organisms in England
+
+17
+
+17.1
+
+Regulations may make provision for requiring a person to carry out an
+environmental risk assessment before—
+
+17.1.a
+
+importing a precision bred organism where its destination is in England;
+
+17.1.b
+
+acquiring a precision bred organism which is in England.
+
+17.2
+
+In subsection  (1) , an “ environmental risk assessment ” means an assessment
+of the risks of damage to the environment being caused as result of the person
+importing or acquiring the organism.
+
+17.3
+
+Regulations under subsection  (1)  may, in particular, make provision—
+
+17.3.a
+
+prescribing how risk assessments are to be carried out;
+
+17.3.b
+
+prescribing matters which must be taken into account, investigated or assessed
+by persons carrying out risk assessments;
+
+17.3.c
+
+requiring risk assessments to be kept under review;
+
+17.3.d
+
+requiring records to be kept of risk assessments and for those records to be
+provided to the Secretary of State.
+
+17.4
+
+Provision that may be made by virtue of subsection  (3)  includes provision
+requiring persons carrying out risk assessments to obtain advice from
+prescribed persons.
+
+17.5
+
+For the purposes of this section—
+
+17.5.a
+
+“ acquire ”, in relation to precision bred organisms, includes any method by
+which such organisms may come to be in a person’s possession, other than by
+their being imported;
+
+17.5.b
+
+“damage to the environment” is caused by the presence in the environment of a
+precision bred organism which is no longer under anyone’s control (see section
+3 (2) ) and is capable of causing adverse effects as regards the health of
+humans or the environment.
+
+17.6
+
+Regulations under this section are subject to the negative procedure.
+
+#### Register
+
+##### Precision breeding register
+
+18
+
+18.1
+
+The Secretary of State must establish and maintain a register (“ the register
+”) containing prescribed information about—
+
+18.1.a
+
+release notices and any required information (see section  4 (1) (a) );
+
+18.1.b
+
+marketing notices and any required information (see  section 6 (1)  and  (2)
+);
+
+18.1.c
+
+reports provided by the advisory committee to the Secretary of State under
+section 7 (2) ;
+
+18.1.d
+
+information provided to the advisory committee in accordance with an
+information notice given by the committee (see  section 7 (3) );
+
+18.1.e
+
+notices given by the Secretary of State under  section 8 (1) ;
+
+18.1.f
+
+reports provided by the welfare advisory body to the Secretary of State under
+section 12 (2) ;
+
+18.1.g
+
+information provided to welfare advisory body in accordance with an
+information notice given by the body (see  section 12 (4) );
+
+18.1.h
+
+notices given by the Secretary of State under  section 13 (1) ;
+
+18.1.i
+
+enforcement notices (see  section 32 (3) );
+
+18.1.j
+
+such other matters relating to this Act as may be prescribed.
+
+18.2
+
+The Secretary of State must not include information in the register if, on
+request by a person, the Secretary of State determines that the information is
+for the time being commercially confidential in relation to that person.
+
+This is subject to subsection  (4) .
+
+18.3
+
+Subsection  (2)  ceases to apply if the Secretary of State determines that the
+information is no longer commercially confidential (whether or not on request
+by a person).
+
+18.4
+
+For the purposes of subsections  (2)  and  (3) , the following information is
+not to be regarded as commercially confidential—
+
+18.4.a
+
+the name of any person giving the notices and required information mentioned
+in  subsection (1) (a)  and  (b) ;
+
+18.4.b
+
+a general description of any precision bred organism.
+
+18.5
+
+The Secretary of State must ensure that the register is accessible to the
+public free of charge by electronic means.
+
+18.6
+
+Regulations may make provision for the keeping of the register.
+
+18.7
+
+Regulations under subsection  (1)  are subject to the affirmative procedure.
+
+18.8
+
+Regulations under subsection  (6)  are subject to the negative procedure.
+
+#### Monitoring and inspection
+
+##### Inspectors
+
+19
+
+19.1
+
+The Secretary of State may appoint inspectors for the purposes of this Part.
+
+19.2
+
+An inspector appointed under this section is not liable in any civil or
+criminal proceedings for anything done in the purported exercise of the
+inspector’s functions under section  20  or Part  4  if the court is satisfied
+that the act was done in good faith and that there were reasonable grounds for
+doing it.
+
+19.3
+
+Relief from liability of an inspector under subsection  (2)  does not affect
+any liability of any other person in respect of the inspector’s act.
+
+19.4
+
+In this Part “ inspector ” means an inspector appointed under this section.
+
+##### Monitoring and inspection of Part 
+
+20
+
+20.1
+
+Regulations may make provision for—
+
+20.1.a
+
+monitoring compliance with Part  2  obligations, and
+
+20.1.b
+
+investigating suspected failures to comply with Part  2  obligations.
+
+20.2
+
+Subject to subsection  (3) , regulations under this section may, in
+particular, make provision—
+
+20.2.a
+
+conferring powers on inspectors—
+
+20.2.a.i
+
+to enter premises;
+
+20.2.a.ii
+
+to inspect and search premises;
+
+20.2.a.iii
+
+to take copies of documents;
+
+20.2.a.iv
+
+to take photographs and samples;
+
+20.2.a.v
+
+to require the provision of information;
+
+20.2.b
+
+for allowing inspectors, in carrying out their functions, to be accompanied by
+other persons;
+
+20.2.c
+
+for treating matters as relevant breaches (see section  31 ), including—
+
+20.2.c.i
+
+obstructing an inspector;
+
+20.2.c.ii
+
+providing false information to an inspector;
+
+20.2.c.iii
+
+impersonating an inspector.
+
+20.3
+
+Regulations under this section—
+
+20.3.a
+
+may not create criminal offences;
+
+20.3.b
+
+may not authorise an inspector to enter a private dwelling without the consent
+of the occupier except in exercise of a warrant issued by a justice of the
+peace;
+
+20.3.c
+
+may not authorise the use of force to enter premises;
+
+20.3.d
+
+must contain provision to prohibit information obtained by inspectors under
+the regulations being used or disclosed otherwise than—
+
+20.3.d.i
+
+for the purposes of this Part or Part 6 of the Environmental Protection Act
+1990, or
+
+20.3.d.ii
+
+for prescribed purposes relating to safeguarding the health and welfare of
+animals.
+
+20.4
+
+Regulations under this section are subject to the affirmative procedure.
+
+##### Meaning of “Part 
+
+21
+
+21.1
+
+In this Act “Part  2  obligation” means any requirement, other than one within
+subsection  (2) , imposed—
+
+21.1.a
+
+by or under this Part, or
+
+21.1.b
+
+by a compliance notice or stop notice issued in connection with a requirement
+imposed by or under this Part,
+
+including, in particular, a requirement imposed by an inspector in exercise of
+the inspector’s functions.
+
+21.2
+
+The following are not Part  2  obligations—
+
+21.2.a
+
+a request made in an information notice (within the meaning of section  23 )
+given by an advisory body, or
+
+21.2.b
+
+any obligation of the Secretary of State, an advisory body or an inspector.
+
+21.3
+
+Regulations may provide for references to a failure to comply with a Part  2
+obligation to include references to providing or recording information, or
+making a statement, that is false or misleading—
+
+21.3.a
+
+in purported compliance with a  Part 2  obligation, or
+
+21.3.b
+
+in connection with any application or review, or any proposal to suspend or
+revoke a confirmation or authorisation, under this Part.
+
+21.4
+
+For the purposes of this section “ requirement ” includes “prohibition”.
+
+21.5
+
+Regulations under subsection  (3)  are subject to the affirmative procedure.
+
+#### Release and marketing: general provisions
+
+##### Advisory bodies
+
+22
+
+22.1
+
+References in this Act to the advisory committee are to the committee
+appointed by the Secretary of State under section 124(1) of the Environmental
+Protection Act 1990.
+
+22.2
+
+The advisory committee must, at the request of the Secretary of State, provide
+advice on any matter relevant to the Secretary of State’s functions under
+sections  6  to  9  (precision bred confirmation).
+
+22.3
+
+References in this Act to the welfare advisory body are to such committee or
+other body as may be designated by regulations.
+
+22.4
+
+A body designated by regulations under subsection  (3)  may be—
+
+22.4.a
+
+a committee appointed by the Secretary of State for the purposes of this Part,
+or
+
+22.4.b
+
+a body—
+
+22.4.b.i
+
+established by or under any other Act, or
+
+22.4.b.ii
+
+which otherwise exercises functions of a public nature.
+
+22.5
+
+The welfare advisory body must, at the request of the Secretary of State,
+provide advice on any matter relevant to the Secretary of State’s functions
+under sections  11  to  15  (precision bred animal marketing authorisation).
+
+22.6
+
+Subsections  (7)  and  (8)  apply to any committee appointed by the Secretary
+of State under subsection  (4) (a) .
+
+22.7
+
+Members of the committee are to hold and vacate office in accordance with the
+terms of their appointment.
+
+22.8
+
+The Secretary of State may pay to members of the committee such remuneration
+and allowances as the Secretary of State may determine.
+
+22.9
+
+Regulations under subsection  (3)  are subject to the affirmative procedure.
+
+##### Advisory bodies: time limits etc
+
+23
+
+23.1
+
+Regulations may—
+
+23.1.a
+
+make provision for a reporting period relating to an organism not to run while
+the information requested by any information notice given in relation to the
+organism has not been provided;
+
+23.1.b
+
+make provision for a relevant application relating to an organism to be
+treated as withdrawn if the information requested by any information notice
+given in relation to the organism is not provided within a prescribed period.
+
+23.2
+
+In this section—
+
+                                    “ information notice ” means an
+information notice under section  7  (report by advisory committee) or  12
+(report by welfare advisory body);
+“ relevant application ” means a marketing notice or an application for a
+precision bred animal marketing authorisation;
+“ reporting period ” means—
+a 90 day period mentioned in section  7 (2) , or
+a reporting period within the meaning of section  12 .
+
+23.3
+
+For the purposes of this section—
+
+23.3.a
+
+an information notice is given in relation to an organism if it is given in
+connection with a relevant application relating to the organism, and
+
+23.3.b
+
+a reporting period relates to an organism if it applies for the purposes of a
+relevant application relating to the organism.
+
+23.4
+
+Regulations under subsection  (1)  are subject to the negative procedure.
+
+##### Meaning of “qualifying progeny”
+
+24
+
+In this Act “ qualifying progeny ”, in relation to a marketable precision bred
+organism, means any progeny of the organism whose genome does not contain any
+feature resulting from the application of modern biotechnology, apart from
+features inherited from that or any other marketable precision bred organism.
+
+##### Precision bred animal marketing authorisation: adverse effects
+
+25
+
+25.1
+
+Regulations may prescribe circumstances in which the health or welfare of a
+relevant animal or its qualifying progeny is, or is not, to be regarded for
+the purposes of—
+
+25.1.a
+
+section  11 (3) , or
+
+25.1.b
+
+section  15 (1) (b) ,
+
+as being adversely affected by any precision bred trait.
+
+25.2
+
+Regulations under this section are subject to the affirmative procedure.
+
+### Food and feed produced from precision bred organisms
+
+#### Regulation of food and feed produced from precision bred organisms
+
+26
+
+26.1
+
+Regulations may make provision for regulating the placing on the market in
+England of food and feed produced from precision bred organisms.
+
+26.2
+
+Regulations under subsection  (1)  may, in particular—
+
+26.2.a
+
+prohibit any person from placing food or feed produced from a precision bred
+organism on the market in England except in accordance with a marketing
+authorisation issued by the Secretary of State under the regulations in
+relation to the organism, and
+
+26.2.b
+
+impose requirements for the purpose of securing traceability in relation to
+food or feed produced from precision bred organisms that is placed on the
+market in England.
+
+26.3
+
+Regulations made by virtue of subsection  (2) (a)  may, in particular,
+prescribe requirements that must be satisfied in order for the Secretary of
+State to issue a food and feed marketing authorisation in relation to a
+precision bred organism which may include requirements—
+
+26.3.a
+
+that the precision bred organism—
+
+26.3.a.i
+
+is a marketable precision bred organism, or
+
+26.3.a.ii
+
+is the qualifying progeny of a marketable precision bred organism;
+
+26.3.b
+
+for securing that—
+
+26.3.b.i
+
+any food or feed produced from the organism and covered by the authorisation
+will not have adverse effects on human or animal health;
+
+26.3.b.ii
+
+the way in which any such food or feed will be placed on the market will not
+mislead consumers;
+
+26.3.b.iii
+
+the production of any such food or feed will not have adverse effects on the
+environment;
+
+26.3.b.iv
+
+consuming any such food or feed in place of other food or feed that it might
+reasonably be expected to replace will not be nutritionally disadvantageous to
+humans or animals.
+
+26.4
+
+Regulations made by virtue of subsection  (2) (a)  may also make provision, in
+particular—
+
+26.4.a
+
+about the procedure for determining applications for food and feed marketing
+authorisations;
+
+26.4.b
+
+for food and feed marketing authorisations to be issued subject to conditions
+and limitations;
+
+26.4.c
+
+for varying or cancelling conditions or limitations that apply to food and
+feed marketing authorisations, or imposing new ones;
+
+26.4.d
+
+about revocation of food and feed marketing authorisations;
+
+26.4.e
+
+about publication of information relating to applications for food and feed
+marketing authorisations.
+
+26.5
+
+In subsection  (4) , references to applications for food and feed marketing
+authorisations include references to applications to vary or cancel conditions
+or limitations that apply to marketing authorisations.
+
+26.6
+
+Provision that may be made by virtue of subsection  (4)  includes provision
+conferring functions on the Food Standards Agency, which may include
+provision—
+
+26.6.a
+
+for requiring the Food Standards Agency, in carrying out a function conferred
+by the regulations—
+
+26.6.a.i
+
+to obtain advice or information from, or consult, persons of prescribed
+descriptions;
+
+26.6.a.ii
+
+to carry out risk assessments;
+
+26.6.b
+
+relating to any risk assessment required by the regulations.
+
+26.7
+
+Regulations which, by virtue of subsection  (6) (a) (i) , impose an obligation
+on any person other than the Food Standards Agency may provide that the
+obligation is not a Part  3  obligation (see section  29 ).
+
+26.8
+
+Regulations made by virtue of subsection  (2) (a) —
+
+26.8.a
+
+may prescribe who is authorised to place food and feed on the market by virtue
+of a food and feed marketing authorisation, which may, in particular, be—
+
+26.8.a.i
+
+only the person who applied for the authorisation,
+
+26.8.a.ii
+
+any person, or
+
+26.8.a.iii
+
+any person of a prescribed description, and
+
+26.8.b
+
+may provide for any provision made by virtue of paragraph  (a)  to be subject,
+in the case of a particular food and feed marketing authorisation, to any
+limitation to which the authorisation is subject.
+
+26.9
+
+Regulations under this section are subject to the affirmative procedure.
+
+#### Food and feed marketing authorisations: register
+
+27
+
+27.1
+
+Regulations may make provision for requiring the Food Standards Agency to
+establish and maintain a public register containing prescribed particulars
+relating to food and feed marketing authorisations (the “food and feed
+register”).
+
+27.2
+
+Regulations under subsection  (1)  may provide for information provided to the
+Secretary of State or the Food Standards Agency in connection with food and
+feed marketing authorisations or applications for them, or with applications
+to vary or cancel conditions or limitations, to be included in the food and
+feed register.
+
+27.3
+
+The particulars prescribed under subsection  (1)  in relation to a food and
+feed marketing authorisation may include, in particular, particulars of any
+confirmation or authorisation issued under Part  2  that may be required in
+connection with the authorisation by virtue of section  26 (3) (a) .
+
+27.4
+
+Regulations under subsection  (1)  are subject to the affirmative procedure.
+
+#### Monitoring and inspection of Part 
+
+28
+
+28.1
+
+Regulations may make provision for designating one or more bodies within
+subsection  (2)  as enforcement authorities with functions of—
+
+28.1.a
+
+monitoring compliance with Part  3  obligations, and
+
+28.1.b
+
+investigating suspected failures to comply with Part  3  obligations.
+
+28.2
+
+A body is within this subsection if it—
+
+28.2.a
+
+is established by or under any other Act, or
+
+28.2.b
+
+otherwise exercises functions of a public nature.
+
+28.3
+
+Subject to subsection  (4) , regulations under this section may, in
+particular, make provision—
+
+28.3.a
+
+conferring powers on enforcement authorities to appoint inspectors to carry
+out functions under the regulations;
+
+28.3.b
+
+conferring functions on an inspector, including—
+
+28.3.b.i
+
+powers of entry, inspection, examination, search and seizure;
+
+28.3.b.ii
+
+powers to take copies of documents, photographs and samples;
+
+28.3.b.iii
+
+powers to impose requirements;
+
+28.3.b.iv
+
+powers to require the provision of information;
+
+28.3.c
+
+for allowing inspectors, in carrying out their functions, to be accompanied by
+other persons;
+
+28.3.d
+
+for treating matters as relevant breaches, including—
+
+28.3.d.i
+
+obstructing an inspector;
+
+28.3.d.ii
+
+providing false information to an inspector;
+
+28.3.d.iii
+
+impersonating an inspector;
+
+28.3.e
+
+for relief for inspectors from criminal or civil liability for acts done in
+good faith in the purported exercise of their functions;
+
+28.3.f
+
+corresponding to, or applying (with or without modifications), any provision
+made by or under—
+
+28.3.f.i
+
+the Food Safety Act 1990;
+
+28.3.f.ii
+
+section 67 of the Agriculture Act 1970.
+
+28.4
+
+Regulations under this section—
+
+28.4.a
+
+may not create criminal offences;
+
+28.4.b
+
+may not authorise an inspector to enter a private dwelling without the consent
+of the occupier except in exercise of a warrant issued by a justice of the
+peace.
+
+28.5
+
+Regulations under this section are subject to the affirmative procedure.
+
+#### Meaning of “Part 
+
+29
+
+29.1
+
+In this Act “Part  3  obligation” means any requirement, other than one within
+subsection  (3) , imposed—
+
+29.1.a
+
+by or under this Part, or
+
+29.1.b
+
+by a compliance notice or stop notice issued in connection with a requirement
+imposed by or under this Part.
+
+29.2
+
+Part  3  obligations include, in particular—
+
+29.2.a
+
+where a food and feed marketing authorisation is subject to conditions, the
+obligation to comply with those conditions;
+
+29.2.b
+
+any requirement imposed by an inspector in exercise of the inspector’s
+functions.
+
+29.3
+
+The following are not Part  3  obligations—
+
+29.3.a
+
+an obligation of the Secretary of State, the Food Standards Agency or an
+inspector;
+
+29.3.b
+
+any obligation that is not a Part  3  obligation by virtue of provision made
+under section  26 (7) .
+
+29.4
+
+Regulations may provide for references to a failure to comply with a Part  3
+obligation to include references to providing or recording information, or
+making a statement, that is false or misleading—
+
+29.4.a
+
+in purported compliance with a  Part 3  obligation, or
+
+29.4.b
+
+in connection with any application or review, or any proposal to suspend or
+revoke an authorisation or to vary, revoke or impose conditions or
+limitations, under this Part.
+
+29.5
+
+For the purposes of this section “ requirement ” includes “prohibition”.
+
+29.6
+
+Regulations under subsection  (4)  are subject to the affirmative procedure.
+
+#### Interpretation of Part 
+
+30
+
+30.1
+
+In this Part—
+
+                           “ feed ” has the meaning given by Article 3(4) of
+the Food Regulation;
+“ food ” has the same meaning as in the Food Regulation (see Article 2 of that
+Regulation);
+“ food and feed marketing authorisation ” means a marketing authorisation
+issued under regulations under section  26  in relation to a precision bred
+organism;
+“ the Food Regulation ” means  Regulation (EC) No 178/2002  of the European
+Parliament and of the Council of 28 January 2002 laying down the general
+principles and requirements of food law, establishing the European Food Safety
+Authority and laying down procedures in matters of food safety;
+“ inspector ” means a person appointed as such under regulations under section
+28 ;
+“ traceability ”, in relation to food or feed produced from a precision bred
+organism, means the ability to trace and follow the organism and the food or
+feed through all stages of production, processing and distribution.
+
+30.2
+
+For the purposes of this Part, food or feed is produced “from” a precision
+bred organism if it contains or consists of, or is otherwise derived from, the
+precision bred organism.
+
+30.3
+
+References in this Part to food or feed being placed on the market are to be
+read in accordance with Article 3(8) of the Food Regulation.
+
+### Enforcement
+
+#### Enforcement of relevant breaches: general provisions
+
+##### Meaning of “relevant breach” etc
+
+31
+
+31.1
+
+In this Act “ relevant breach ”, in relation to a person, means a failure by
+the person to comply with a relevant obligation, but—
+
+31.1.a
+
+in relation to an inspector appointed under section  19 , means a failure to
+comply with a Part  2  obligation;
+
+31.1.b
+
+in relation to an inspector appointed under regulations under section  28 ,
+means a failure to comply with a Part  3  obligation.
+
+31.2
+
+In this Part—
+
+31.2.a
+
+“ inspector ” means an inspector appointed under section  19  or under
+regulations under section  28 ;
+
+31.2.b
+
+“ relevant obligation ” means a Part  2  obligation or a Part  3  obligation.
+
+31.3
+
+Regulations may make provision for—
+
+31.3.a
+
+persons to be treated as having failed to comply with a Part  3  obligation in
+circumstances corresponding or similar to those in which section 20 of the
+Food Safety Act 1990 provides for persons to be guilty of an offence under
+that section;
+
+31.3.b
+
+a failure to comply with a Part  3  obligation not to be regarded as a
+relevant breach in circumstances corresponding or similar to those in which
+sections 21 and 22 of the Food Safety Act 1990 provide for defences to
+offences under that Act.
+
+31.4
+
+Regulations under subsection  (3)  are subject to the affirmative procedure.
+
+##### Enforcement
+
+32
+
+32.1
+
+Regulations may make provision for—
+
+32.1.a
+
+an inspector to issue either of the following—
+
+32.1.a.i
+
+a compliance notice (see section  33 );
+
+32.1.a.ii
+
+a stop notice (see section  34 );
+
+32.1.b
+
+the Secretary of State or an inspector to issue a monetary penalty notice (see
+section  35 );
+
+to a person in relation to a relevant breach.
+
+32.2
+
+Regulations may provide for a requirement imposed by a stop notice to be
+enforceable, on the application of the Secretary of State, by injunction.
+
+This does not affect the enforcement of the requirement (or power to make
+provision for its enforcement) in any other way (whether by monetary penalty
+notice or otherwise).
+
+32.3
+
+In this Act “ enforcement notice ” means—
+
+32.3.a
+
+a compliance notice,
+
+32.3.b
+
+a stop notice, or
+
+32.3.c
+
+a monetary penalty notice.
+
+32.4
+
+Regulations under this section are subject to the affirmative procedure.
+
+#### Enforcement notices
+
+##### Compliance notices
+
+33
+
+33.1
+
+In this Act “ compliance notice ” means a notice requiring the person to whom
+it is issued to take specified steps within a specified period.
+
+33.2
+
+Regulations which provide for the issue of a compliance notice must secure—
+
+33.2.a
+
+that a compliance notice may be issued only where the inspector issuing the
+notice is satisfied that the person to whom it is issued has committed or is
+committing a relevant breach,
+
+33.2.b
+
+that the steps specified under subsection  (1)  are steps that the inspector
+considers will ensure that the relevant breach does not continue or recur, and
+
+33.2.c
+
+that the period specified under subsection  (1)  is not less than 14 days
+beginning with the day on which the notice is received.
+
+33.3
+
+Sections  36  and  37  make further provision about compliance notices.
+
+33.4
+
+In this section “ specified ”, in relation to a compliance notice, means
+specified in the notice.
+
+##### Stop notices
+
+34
+
+34.1
+
+In this Act “ stop notice ” means a notice prohibiting the person to whom it
+is issued—
+
+34.1.a
+
+from carrying on a specified activity, or
+
+34.1.b
+
+from doing so until the person has taken specified steps.
+
+34.2
+
+Regulations which provide for the issue of a stop notice must secure—
+
+34.2.a
+
+that a stop notice may be issued to a person only where the inspector issuing
+the notice reasonably believes that the person to whom it is issued has
+committed or is likely to commit a relevant breach, and
+
+34.2.b
+
+that the steps specified under subsection  (1) (b)  are steps that the
+inspector issuing the notice considers will ensure that the specified activity
+will be carried on in a way that does not involve the person committing a
+relevant breach.
+
+34.3
+
+Sections  36  and  37  make further provision about stop notices.
+
+34.4
+
+In this section “ specified ”, in relation to a stop notice, means specified
+in the notice.
+
+##### Monetary penalty notices
+
+35
+
+35.1
+
+In this Act “ monetary penalty notice ” means a notice requiring the person to
+whom it is issued to pay a sum specified in the notice (a “monetary penalty”)
+to the appropriate authority.
+
+35.2
+
+In this section “ appropriate authority ” means—
+
+35.2.a
+
+in relation to a Part  2  obligation, the Secretary of State;
+
+35.2.b
+
+in relation to a Part  3  obligation, an enforcement authority.
+
+35.3
+
+Regulations which provide for the issue of a monetary penalty notice must
+secure that the Secretary of State or an inspector may issue a monetary
+penalty notice only where satisfied that the person to whom it is issued has
+committed a relevant breach.
+
+35.4
+
+Regulations which provide for the issue of a monetary penalty notice must
+require the notice to state—
+
+35.4.a
+
+how payment may be made,
+
+35.4.b
+
+the period within which payment must be made, and
+
+35.4.c
+
+the consequences of late payment or failure to pay.
+
+35.5
+
+Regulations which provide for the issue of a monetary penalty notice may make
+provision—
+
+35.5.a
+
+for the payment of interest on late payment;
+
+35.5.b
+
+as to how any amounts payable by virtue of the regulations are to be
+recoverable.
+
+##### Content of enforcement notices: further provision
+
+36
+
+36.1
+
+Regulations which provide for the issue of an enforcement notice to a person
+must require the notice to state—
+
+36.1.a
+
+the grounds for issuing the notice,
+
+36.1.b
+
+the person’s rights to require a review of or appeal against the notice, and
+
+36.1.c
+
+the consequences of failure to comply with the notice.
+
+36.2
+
+The statement required by virtue of subsection  (1) (a)  must include
+information specifying—
+
+36.2.a
+
+the relevant obligation to which the relevant breach relates, and
+
+36.2.b
+
+the matters which, in the opinion of the inspector or Secretary of State
+issuing the notice, constitute the failure to comply with that obligation.
+
+36.3
+
+Regulations which provide for the issue of an enforcement notice may provide
+for the variation or revocation of the notice—
+
+36.3.a
+
+by the Secretary of State, in the case of a monetary penalty notice issued by
+the Secretary of State;
+
+36.3.b
+
+by an inspector, in any other case.
+
+##### Enforcement notices: reviews and appeals
+
+37
+
+37.1
+
+Regulations which provide for the issue of an enforcement notice to a person
+must—
+
+37.1.a
+
+secure that the person to whom it is issued may—
+
+37.1.a.i
+
+require the Secretary of State to review the decision to issue the notice, and
+
+37.1.a.ii
+
+if not satisfied with the outcome of any such review, appeal against that
+decision;
+
+37.1.b
+
+secure that the grounds on which a review may be required or an appeal brought
+include the following—
+
+37.1.b.i
+
+that the decision was based on an error of fact,
+
+37.1.b.ii
+
+that the decision was wrong in law,
+
+37.1.b.iii
+
+that any steps specified in the notice were unreasonable,
+
+37.1.b.iv
+
+in the case of a stop notice, that the person to whom it was issued had not
+committed the relevant breach and would not have done so had the notice not
+been issued,
+
+37.1.b.v
+
+in the case of a monetary penalty notice, that the amount of the penalty was
+unreasonable, and
+
+37.1.b.vi
+
+that the decision was unreasonable for any other reason,
+
+37.1.c
+
+make provision for such an appeal to be brought in the First-tier Tribunal,
+and
+
+37.1.d
+
+make provision for suspending the operation of a compliance notice or monetary
+penalty notice where an appeal is brought under the regulations in relation to
+the notice pending the outcome of the appeal.
+
+37.2
+
+Regulations which provide for the issue of an enforcement notice may make
+provision as to—
+
+37.2.a
+
+the Secretary of State’s functions on a review of a decision to issue an
+enforcement notice, or
+
+37.2.b
+
+the powers of the First-tier Tribunal on an appeal by virtue of this section.
+
+#### Costs
+
+##### Costs
+
+38
+
+38.1
+
+Regulations may make provision for an appropriate authority, by notice (a
+“costs notice”) to require a person to pay the costs incurred by the authority
+in relation to an enforcement notice up to the time of its issue.
+
+38.2
+
+In this section, “ appropriate authority ”, in relation to an enforcement
+notice, means—
+
+38.2.a
+
+in relation to a Part  2  obligation, the Secretary of State;
+
+38.2.b
+
+in relation to a Part  3  obligation, an enforcement authority.
+
+38.3
+
+In subsection  (1) , “ costs ” includes, in particular—
+
+38.3.a
+
+investigation costs;
+
+38.3.b
+
+administration costs;
+
+38.3.c
+
+costs of obtaining expert advice (including legal advice).
+
+38.4
+
+Regulations which provide for the issue of a costs notice to a person must
+secure that—
+
+38.4.a
+
+the notice specifies the amount required to be paid,
+
+38.4.b
+
+the person to whom the notice is issued may require the person issuing it to
+provide a detailed breakdown of the amount,
+
+38.4.c
+
+the person to whom the costs notice is issued is not liable to pay any costs
+which that person shows to have been unnecessarily incurred,
+
+38.4.d
+
+the person to whom the notice is issued may—
+
+38.4.d.i
+
+require the Secretary of State to review a relevant decision, and
+
+38.4.d.ii
+
+if not satisfied with the outcome of any such review, appeal against that
+decision, and
+
+38.4.e
+
+the grounds on which a review may be required or an appeal brought include—
+
+38.4.e.i
+
+in the case of a decision as to the amount of the costs, that the amount
+includes any amount referable to any costs unnecessarily incurred,
+
+38.4.e.ii
+
+that the decision was based on an error of fact,
+
+38.4.e.iii
+
+that the decision was wrong in law, and
+
+38.4.e.iv
+
+that the decision was unreasonable for any other reason.
+
+38.5
+
+Regulations which provide for the issue of a costs notice to a person must
+also make provision—
+
+38.5.a
+
+for an appeal under the regulations to be brought in the First-tier Tribunal,
+and
+
+38.5.b
+
+for suspending the operation of a costs notice where an appeal is brought
+under the regulations pending the outcome of the appeal.
+
+38.6
+
+In subsection  (4) , “ relevant decision ”, in relation to a costs notice,
+means—
+
+38.6.a
+
+the decision to issue the notice, or
+
+38.6.b
+
+the decision as to the amount of the costs.
+
+38.7
+
+Regulations which provide for the issue of a costs notice may make provision—
+
+38.7.a
+
+for the payment of interest on late payment;
+
+38.7.b
+
+as to how any amounts payable by virtue of the regulations are to be
+recoverable.
+
+38.8
+
+Regulations under this section are subject to the affirmative procedure.
+
+### General
+
+#### Fees
+
+39
+
+39.1
+
+Regulations may make provision requiring a fee to be paid to the appropriate
+authority in respect of the exercise of any function conferred by or under
+Part  2  or Part  3 .
+
+39.2
+
+In this section “ appropriate authority ” means—
+
+39.2.a
+
+in relation to a function conferred by or under Part  2 , the Secretary of
+State;
+
+39.2.b
+
+in relation to a function conferred by or under under Part  3 , the Food
+Standards Agency.
+
+39.3
+
+Regulations which require the payment of a fee must prescribe—
+
+39.3.a
+
+the amount of the fee, or
+
+39.3.b
+
+how the amount of the fee is to be calculated.
+
+39.4
+
+In prescribing the amount of a fee in respect of a function (or any other
+amount by reference to which the fee is to be calculated) the Secretary of
+State may have regard to the desirability of securing that, as far as
+practicable and taking one year with another, the following are equal—
+
+39.4.a
+
+income of the appropriate authority from fees referable to the function, and
+
+39.4.b
+
+expenditure incurred by—
+
+39.4.b.i
+
+the Secretary of State, in the case of a function conferred by or under Part
+2 , or
+
+39.4.b.ii
+
+the Secretary of State, the Food Standards Agency or enforcement authorities,
+in the case of a function conferred by or under Part  3 ,
+
+in exercising the function (including a reasonable share of expenditure which
+is referable only partly or indirectly to the exercise of that function).
+
+39.5
+
+Regulations under this section are subject to the affirmative procedure.
+
+#### Notices and documents
+
+40
+
+40.1
+
+Regulations may make provision about—
+
+40.1.a
+
+how a notice or other document may be issued or given under this Act;
+
+40.1.b
+
+when such a notice or document is to be treated as being received.
+
+40.2
+
+Regulations under this section are subject to the negative procedure.
+
+#### Consequential amendments of the Environmental Protection Act 1990
+
+41
+
+41.1
+
+The Environmental Protection Act 1990 is amended as follows.
+
+41.2
+
+After section 106 insert—
+
+########## Exclusion of precision bred organisms from English application of Part
+
+41.2.106A
+
+41.2.106A.1
+
+In this Part as it applies in relation to England, references to genetically
+modified organisms (except in this section and section 127)—
+
+41.2.106A.1.a
+
+do not include references to precision bred organisms;
+
+41.2.106A.1.b
+
+so far as they relate to marketing, also do not include references to gametes
+of precision bred organisms.
+
+41.2.106A.2
+
+For the purposes of subsection  (1) , this Part applies in relation to England
+so far as it applies in relation to—
+
+41.2.106A.2.a
+
+importing genetically modified organisms where their destination is in
+England;
+
+41.2.106A.2.b
+
+acquiring genetically modified organisms which are in England;
+
+41.2.106A.2.c
+
+keeping or releasing genetically modified organisms in England;
+
+41.2.106A.2.d
+
+marketing a genetically modified organism so far as the organism (or, where
+the organism is marketed by virtue of a product consisting of or including the
+organism being made available to other persons, that product) is made
+available for delivery in England.
+
+41.2.106A.3
+
+In this section “ precision bred organism ” and “ gamete ” have the same
+meanings as in the Genetic Technology (Precision Breeding) Act 2023.
+
+41.3
+
+In section 124 (advisory committee for purposes of Part 6), in subsection (1),
+at the end insert—
+
+For other functions of the committee, see Part  2  of the Genetic Technology
+(Precision Breeding) Act 2023.
+
+#### Power to make consequential provision
+
+42
+
+42.1
+
+Regulations may make supplementary, incidental or consequential provision in
+connection with any provision of or made under this Act.
+
+42.2
+
+Regulations under this section may modify legislation.
+
+42.3
+
+Regulations under this section which contain provision modifying primary
+legislation (with or without other provision) are subject to the affirmative
+procedure.
+
+42.4
+
+Other regulations under this section are subject to the negative procedure.
+
+#### Regulations
+
+43
+
+43.1
+
+This section applies to regulations under this Act other than regulations
+under section  48  (commencement regulations).
+
+43.2
+
+Regulations are to be made by statutory instrument.
+
+43.3
+
+A power to make regulations includes power—
+
+43.3.a
+
+to make—
+
+43.3.a.i
+
+different provision for different purposes;
+
+43.3.a.ii
+
+transitional, transitory or saving provision;
+
+43.3.b
+
+to confer a function involving the exercise of a discretion.
+
+(See section  42 (1)  for power to make consequential, incidental and
+supplemental provision.)
+
+43.4
+
+Where regulations under this Act are subject to the affirmative procedure, the
+regulations may not be made unless a draft of the statutory instrument
+containing them has been laid before, and approved by a resolution of, each
+House of Parliament.
+
+43.5
+
+Where regulations under this Act are subject to the negative procedure, the
+statutory instrument containing them is subject to annulment in pursuance of a
+resolution of either House of Parliament.
+
+43.6
+
+Any provision that may be made by regulations under this Act subject to the
+negative procedure may be made in regulations subject to the affirmative
+procedure.
+
+#### Interpretation
+
+44
+
+In this Act the following terms have the following meanings—
+
+         “ advisory body ” means the advisory committee or welfare advisory
+body;
+“ the advisory committee ” has the meaning given by section  22 (1) ;
+“ the affirmative procedure ” has the meaning given by section  43 (4) ;
+“ animal ” has the meaning given by section  section 2 (2) ;
+“ compliance notice ” has the meaning given by section  33 (1) ;
+“ control ” is to be read in accordance with section  3 (2) ;
+“ enforcement authority ” means a body designated as such under section  28
+(1) ;
+“ enforcement notice ” has the meaning given by section  32 (3) ;
+“ the environment ” includes land, air, water and living organisms supported
+by any of those media;
+“ gamete ” has the meaning given by section  2 (4) ;
+“ legislation ” means—
+primary legislation,
+retained direct EU legislation, or
+subordinate legislation;
+“ marketable precision bred organism ” has the meaning given by section  5 (2)
+;
+“ marketing notice ” has the meaning given by section  6 (1) ;
+“ modern biotechnology ” has the meaning given by section  1 (3) ;
+“ modify ”, in relation to legislation, includes amend, repeal or revoke (and
+related terms are to be read accordingly);
+“ monetary penalty notice ” has the meaning given by section  35 (1) ;
+“ the negative procedure ” has the meaning given by section  43 (5) ;
+“ notifier ”, in relation to a marketing notice, has the meaning given by
+section  6 (1)  (but see section  11 (9) );
+“ organism ” (except in section  2 ) means plant or animal;
+“ Part 2 obligation ” has the meaning given by section  21 ;
+“ Part 3 obligation ” has the meaning given by section  29 ;
+“ plant ” has the meaning given by  section 2 (1) ;
+“ precision bred ” has the meaning given by section  1 ;
+“ precision bred animal marketing authorisation ” means a marketing
+authorisation issued under section  13 (1) ;
+“ precision bred confirmation ” has the meaning given by section  8 (1) (a)
+(i) ;
+“ precision bred organism ” has the meaning given by section  1 (1) ;
+“ precision bred trait ”, in relation to a relevant animal, means a trait of
+the animal which results from a feature of the animal’s genome that results
+from the application of modern biotechnology;
+“ prescribed ” means prescribed by regulations;
+“ primary legislation ” means—
+an Act,
+an Act of the Scottish Parliament,
+an Act or Measure of Senedd Cymru, or
+Northern Ireland legislation;
+“ progeny ”, in relation to a precision bred organism, includes any progeny of
+the organism, whether resulting from sexual or asexual reproduction;
+“ qualifying progeny ” has the meaning given by section  24 ;
+“ the register ” has the meaning given by section  18 ;
+“ regulations ” means regulations made by the Secretary of State;
+“ relevant animal ” has the meaning given by section  10 ;
+“ relevant breach ” has the meaning given by section  31 (1) ;
+“ stop notice ” has the meaning given by section  34 (1) ;
+“ subordinate legislation ” means an instrument made under primary legislation
+or under retained direct EU legislation;
+“ the welfare advisory body ” has the meaning given by section  22 (3) .
+
+#### Financial provisions
+
+45
+
+The following are to be paid out of money provided by Parliament—
+
+45.a
+
+any expenditure incurred under or by virtue of this Act by the Secretary of
+State or the Food Standards Agency, and
+
+45.b
+
+sums payable out of money so provided under any other Act.
+
+#### Crown application
+
+46
+
+46.1
+
+This Act binds the Crown.
+
+46.2
+
+If the Secretary of State certifies that it appears to the Secretary of State
+appropriate in the interests of national security that powers of entry
+conferred under this Act should not be exercisable in relation to Crown
+premises specified in the certificate, those powers are not exercisable in
+relation to those premises.
+
+46.3
+
+In subsection  (2) , “ Crown premises ” means premises held, or used, by or on
+behalf of the Crown.
+
+46.4
+
+No power of entry conferred under this Act may be exercised in relation to
+land belonging to His Majesty in right of His private estates.
+
+46.5
+
+In subsection  (4) , the reference to His Majesty’s private estates is to be
+construed in accordance with section 1 of the Crown Private Estates Act 1862.
+
+#### Extent and application to sea areas
+
+47
+
+47.1
+
+Subject as follows, this Act extends to England and Wales only.
+
+47.2
+
+Part  1  and section  41  extend to England and Wales and Scotland only.
+
+47.3
+
+Sections  42  to  46 , this section and section  48  extend to England and
+Wales, Scotland and Northern Ireland.
+
+47.4
+
+This Act—
+
+47.4.a
+
+applies to the territorial sea adjacent to England as it applies in England;
+
+47.4.b
+
+applies to any area for the time being designated under section 1(7) of the
+Continental Shelf Act 1964 as it applies in England.
+
+#### Short title and commencement
+
+48
+
+48.1
+
+This Act may be cited as the Genetic Technology (Precision Breeding) Act 2023.
+
+48.2
+
+Part  1  comes into force on the day on which this Act is passed.
+
+48.3
+
+Parts  2  to  4  and sections  39  and  40  come into force—
+
+48.3.a
+
+so far as necessary to enable the exercise of any power to make regulations,
+on the day on which this Act is passed;
+
+48.3.b
+
+for remaining purposes, on such day as regulations may appoint.
+
+48.4
+
+Section  41  comes into force on such day as regulations may appoint.
+
+48.5
+
+The rest of this Part comes into force on the day on which this Act is passed.
+
+48.6
+
+Regulations under this section may appoint different days for different
+purposes.
+
+48.7
+
+Regulations may make transitional, transitory or saving provision in
+connection with the coming into force of any provision of this Act.
+
+48.8
+
+Regulations under this section are to be made by statutory instrument.
+

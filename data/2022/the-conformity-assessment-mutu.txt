@@ -1,0 +1,208 @@
+Title: The Conformity Assessment (Mutual Recognition Agreements) (Amendment) Regulations 2022 (replaced—not approved)
+Date: 2024-05-20
+Description: These Regulations implement the Agreement between the Swiss Confederation and the United Kingdom of Great Britain and Northern Ireland on mutual recognition in relation to conformity assessment (“the Swiss MRA”), copies of which may be downloaded from https://www.gov.uk/guidance/uk-switzerland-mutual-recognition-agreement. Switzerland has a mutual recognition agreement with the European Union, which was in effect immediately before exit day.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/1346
+
+## The Conformity Assessment (Mutual Recognition Agreements) (Amendment) Regulations 2022 (replaced—not approved)
+
+Consumer Protection Electromagnetic Compatibility Environmental Protection
+Health And Safety Telecommunications Weights And Measures
+
+Made 15th December 2022
+
+Coming into force 16th December 2022
+
+The Secretary of State makes these Regulations in exercise of the powers
+conferred by sections 2(1), 2(9)(b) and (c) and 4(1)(a) and (b) of the Trade
+Act 2021 . In accordance with paragraph 4(1) of Schedule 2 to the Trade Act
+2021 a draft of this instrument has been laid before Parliament and approved
+by a resolution of each House of Parliament.
+
+### Citation and commencement
+
+1
+
+These Regulations may be cited as the Conformity Assessment (Mutual
+Recognition Agreements) (Amendment) Regulations 2022 and come into force the
+day after the day on which these Regulations are made.
+
+### Extent
+
+2
+
+2.1
+
+Subject to paragraph (2), these Regulations extend to England and Wales,
+Scotland and Northern Ireland.
+
+2.2
+
+Regulation 5 extends to England and Wales and Scotland only.
+
+### Amendment of the Conformity Assessment (Mutual Recognition Agreements) and Weights and Measures (Intoxicating Liquor) (Amendment) Regulations 2021
+
+3
+
+The Conformity Assessment (Mutual Recognition Agreements) and Weights and
+Measures (Intoxicating Liquor) (Amendment) Regulations 2021  are amended in
+accordance with regulations 4 to 7.
+
+4
+
+In regulation 3 (interpretation)—
+
+4.a
+
+before paragraph (a), insert—
+
+4.a.za
+
+“ the 2009 Regulations ” means the Carriage of Dangerous Goods and Use of
+Transportable Pressure Equipment Regulations 2009 ;
+
+;
+
+4.b
+
+after paragraph (b), insert—
+
+4.b.ba
+
+“ appointed body ” has the meaning given in regulation 2(5) of the 2009
+Regulations;
+
+;
+
+4.c
+
+in paragraph (h)—
+
+4.c.i
+
+after sub-paragraph (v), omit “or”;
+
+4.c.ii
+
+after sub-paragraph (vi), insert—
+
+or
+
+4.c.ii.vii
+
+the Agreement between the Swiss Confederation and the United Kingdom of Great
+Britain and Northern Ireland on mutual recognition in relation to conformity
+assessment;
+
+.
+
+5
+
+In regulation 4(2) (recognition of conformity assessment), for “by an approved
+body.” substitute—
+
+by—
+
+5.a
+
+an approved body, for the purposes of the specified Regulations other than the
+2009 Regulations; or
+
+5.b
+
+an appointed body, for the purposes of the 2009 Regulations.
+
+.
+
+6
+
+In Schedule 1 (specified Regulations)—
+
+6.a
+
+after paragraph 2, insert—
+
+6.a.2A
+
+The 2009 Regulations.
+
+;
+
+6.b
+
+after paragraph 7, insert—
+
+6.b.7A
+
+The Non-automatic Weighing Instruments Regulations 2016 .
+
+.
+
+7
+
+In Schedule 2 (annexes and appendices to the MRAs), at the end insert—
+
+####### For the Swiss MRA
+
+7.12
+
+Annex I (Product sectors).
+
+.
+
+Kevin Hollinrake Parliamentary Under Secretary of State Department for
+Business, Energy and Industrial Strategy 15th December 2022
+
+## EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations implement the Agreement between the Swiss Confederation and
+the United Kingdom of Great Britain and Northern Ireland on mutual recognition
+in relation to conformity assessment (“the Swiss MRA”), copies of which may be
+downloaded from  https://www.gov.uk/guidance/uk-switzerland-mutual-
+recognition-agreement . Switzerland has a mutual recognition agreement with
+the European Union, which was in effect immediately before exit day.
+
+These Regulations amend the Conformity Assessment (Mutual Recognition
+Agreements) and Weights and Measures (Intoxicating Liquor) (Amendment)
+Regulations 2021 (“ the 2021 Regulations ”), to add the Swiss MRA to the
+mutual recognition agreements covered by Part 2 of the 2021 Regulations
+(provisions in respect of MRAs) (see regulation 4). The Swiss MRA requires the
+UK to accept conformity assessment procedures performed and conformity
+assessment results issued by conformity assessment bodies designated by
+Switzerland, in respect of certain products. The conformity assessment result
+or conformity assessment procedure may confirm that the product concerned
+complies with the requirements of the legislation which applies to that
+product, as listed in Schedule 1 to the 2021 Regulations. Regulation 6 amends
+that Schedule to add additional legislation covered by the Swiss MRA.
+Regulation 4 of the 2021 Regulations provides that where an MRA requires the
+UK to accept a conformity assessment result or conformity assessment procedure
+by a body designated by the other Party to the MRA, that conformity assessment
+result or procedure should be treated as if it were issued or performed by an
+approved body. Regulation 5 of these Regulations amends regulation 4(2) of the
+2021 Regulations to add a reference to appointed bodies, which is the term
+used for conformity assessment bodies in relevant additional legislation
+covered by the Swiss MRA. To the extent that these Regulations contain
+provision in the areas of protection of human or animal life or health or
+environmental protection, the provision is consistent with maintaining UK
+levels of statutory protection in that area.
+
+Regulation 7 amends Schedule 2 to the 2021 Regulations, to include reference
+to the annex on product sectors to the Swiss MRA. This will mean that, by
+virtue of regulation 6 of the 2021 Regulations, the Secretary of State may
+designate conformity assessment bodies for the purpose of assessing conformity
+assessment procedures against the legislative, regulatory and administrative
+requirements of Switzerland in respect of that annex. Certain functions
+involved in designation may be carried out by the United Kingdom Accreditation
+Service.
+
+A hard copy of the Swiss MRA may be obtained upon request from the Regulatory
+Environment Team, Department for International Trade, King Charles Street,
+Whitehall, London, SW1A 2AH, United Kingdom.
+
+A full impact assessment has not been produced for this instrument as no, or
+no significant, impact on the private or voluntary sector or community bodies
+is foreseen. An Explanatory Memorandum is available alongside the instrument
+on the UK legislation website,  www.legislation.gov.uk .
+

@@ -1,0 +1,174 @@
+Title: The Violent Crime Reduction Act 2006 (Specification for Imitation Firearms) Regulations (Northern Ireland) 2023
+Date: 2024-01-26
+Description: These Regulations prescribe the specifications that imitation firearms must conform to, pursuant to paragraph 7(A1) of Schedule 2 to the Violent Crime Reduction Act 2006 (“the 2006 Act”). The underlying purpose is to prevent imitation firearms from being converted into functioning firearms.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2023/162
+
+## The Violent Crime Reduction Act 2006 (Specification for Imitation Firearms) Regulations (Northern Ireland) 2023
+
+    Firearms
+
+  Made   2nd October 2023
+
+  Coming into operation   31st October 2023
+
+      The Department of Justice makes the following Regulations in exercise of
+the powers conferred by paragraph 7(A1)(a) and (6B) of Schedule 2 to the
+Violent Crime Reduction Act 2006 .
+
+### Citation and commencement
+
+
+1
+
+These Regulations may be cited as the Violent Crime Reduction Act 2006
+(Specification for Imitation Firearms) Regulations (Northern Ireland) 2023 and
+come into operation on 31st October 2023.
+
+### Interpretation
+
+
+2
+
+In these Regulations—
+
+      “ blank-firing imitation firearm ” means an imitation firearm capable of
+firing a blank cartridge;           “ inclusion ” means part of an imitation
+firearm incorporated into the firearm during manufacture for the purpose of
+preventing an imitation firearm being modified for use as a firearm;
+“ revolver ” means a firearm that has a cylinder (containing multiple
+chambers) that revolves to align each chamber in turn with the firing
+mechanism and the barrel.
+
+### Specifications for imitation firearms
+
+
+3
+
+3.1
+
+Blank-firing imitation firearms, other than those described in paragraph (2),
+must conform to the following specifications—
+
+3.1.a
+
+an imitation firearm must incorporate an inclusion;
+
+3.1.b
+
+the inclusion must be wholly made of a material which is at least as resistant
+to being cut, drilled, bored, ground (or any similar process) as sintered
+tungsten carbide in the range 1550-2000 HV 30 ;
+
+3.1.c
+
+the inclusion must wholly block the barrel and should be permanent and
+incapable of being knocked out without destroying the chamber or barrel;
+
+3.1.d
+
+part of the inclusion must be incorporated into the rear of the dummy barrel;
+and
+
+3.1.e
+
+the inclusion must be intended to prevent—
+
+3.1.e.i
+
+the creation of a hole through the dummy barrel along its axis; and
+
+3.1.e.ii
+
+the removal of a dummy barrel, unless the frame and chamber area of the
+firearm is rendered useless as a result or its integrity so compromised that
+it cannot be used to form the basis of a firearm without significant repair or
+addition.
+
+3.2
+
+The blank-firing imitation firearms described in this paragraph are—
+
+3.2.a
+
+imitation revolvers; and
+
+3.2.b
+
+imitation firearms where the blank cartridges are loaded vertically at 90
+degrees to the dummy barrel and which fire, and vent the gases produced on
+discharge, in the same direction.
+
+3.3
+
+Blank-firing imitation revolvers must conform to the following specifications—
+
+3.3.a
+
+an imitation revolver must incorporate an inclusion cast into the dummy barrel
+and a separate inclusion cast into the cylinder which extends to fully
+obstruct all the dummy chambers;
+
+3.3.b
+
+the inclusions must be wholly made of a material which is at least as
+resistant to being cut, drilled, bored, ground (or any similar process) as
+sintered tungsten carbide in the range 1550-2000 HV 30;
+
+3.3.c
+
+the inclusions should be permanent and incapable of being knocked out without
+destroying the chamber or barrel;
+
+3.3.d
+
+the barrel inclusion must wholly block the dummy barrel and part of it must be
+incorporated into the rear of the dummy barrel;
+
+3.3.e
+
+the barrel inclusion must be intended to prevent removal of the dummy barrel,
+unless the frame of the firearm is rendered useless as a result or its
+integrity so compromised that it cannot be used to form the basis of a firearm
+without significant repair or addition;
+
+3.3.f
+
+the inclusions must be intended to prevent the creation of a hole through the
+dummy barrel or chamber along their axis; and
+
+3.3.g
+
+the revolver must vent the gases produced on discharge at not less than 80
+degrees from the axis of the dummy barrel.
+
+      Sealed with the Official Seal of the Department of Justice on 2nd
+October 2023         Richard Pengelly   A senior officer of the Department of
+Justice
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations prescribe the specifications that imitation firearms must
+conform to, pursuant to paragraph 7(A1) of Schedule 2 to the Violent Crime
+Reduction Act 2006 (“ the 2006 Act ”). The underlying purpose is to prevent
+imitation firearms from being converted into functioning firearms.
+
+  Under paragraph 7(2)(a) to (c) of Schedule 2 to the 2006 Act, a person is
+guilty of an offence if they: manufacture an imitation firearm which does not
+conform to the prescribed specifications; modify an imitation firearm so that
+it ceases to conform; or modify a firearm to create an imitation firearm that
+does not conform.
+
+  Regulation 3(1) sets out the specifications for blank-firing imitation
+firearms.
+
+  Regulation 3(3) sets out the specifications for blank-firing imitation
+revolvers.
+
+  An Impact Assessment has not been produced for these Regulations as it has
+no or minimal impact on business, charities or voluntary bodies. A copy of the
+Explanatory Memorandum is published alongside the Regulations on
+www.legislation.gov.uk .
+

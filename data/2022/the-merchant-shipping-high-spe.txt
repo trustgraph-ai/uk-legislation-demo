@@ -1,0 +1,1505 @@
+Title: The Merchant Shipping (High Speed Craft) Regulations 2022
+Date: 2024-05-20
+Description: These Regulations implement outstanding amendments to Chapter X of the Annex to the International Convention for the Safety of Life at Sea, 1974 (“the Convention”), which relates to the safety of high speed craft. Chapter X gives effect to the High-Speed Craft Codes, 1994 and 2000 (“the Codes”), which contain the detailed requirements governing high speed craft safety, equipment and operations.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/1219
+
+## The Merchant Shipping (High Speed Craft) Regulations 2022
+
+    Merchant Shipping       Safety
+
+  Made   28th November 2022
+
+  Coming into force   19th December 2022
+
+      The Secretary of State, after consulting the persons referred to in
+section 86(4) of the Merchant Shipping Act 1995 , and in exercise of the
+powers conferred by sections 85(1), (3), (5), (6) and (7), 86(1)(a), (b), (c)
+and (d), 302(1) and 306A of that Act, and with the consent of the Treasury,
+makes the following Regulations.           In accordance with paragraph 13(1)
+of Schedule 8 to the European Union (Withdrawal) Act 2018 , a draft of this
+instrument has been laid before Parliament and approved by a resolution of
+each House of Parliament.
+
+### Preliminary
+
+#### Citation, commencement and extent
+
+1
+
+1.1
+
+These Regulations may be cited as the Merchant Shipping (High Speed Craft)
+Regulations 2022 and come into force 21 days after the day on which they are
+made.
+
+1.2
+
+These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+#### Amendments and revocations
+
+2
+
+2.1
+
+The amendments listed in Part 1 of the Schedule have effect.
+
+2.2
+
+The Regulations listed in the first column of the Table in Part 2 of the
+Schedule are revoked to the extent specified in the third column of that
+Table.
+
+#### Interpretation
+
+3
+
+3.1
+
+In these Regulations—
+
+      “ cargo craft ” means a high speed craft, other than a passenger craft,
+which is capable of maintaining the main functions and safety systems of
+unaffected spaces after damage in any one compartment on board;           “
+Chapter X ” means Chapter X (safety measures for high speed craft) in the
+Annex to the Convention ;           “ constructed ” means, in relation to a
+craft, that the keel of the craft is laid or that the craft is at a similar
+stage of construction;           “ Convention ” means the International
+Convention for the Safety of Life at Sea, 1974 ;           “ craft ” means
+ships and hovercraft;           “ domestic voyage ” means a voyage that is not
+an international voyage;           “ fishing craft ” means a craft used for
+catching fish, whales, seals, walrus or other living resources of the sea;
+“ gross tonnage ” means gross tonnage determined in accordance with regulation
+6 or 12(1) of the Merchant Shipping (Tonnage) Regulations 1997 ;           “
+high speed craft ” has the same meaning as in regulation 1.3 of Chapter X;
+“ High-Speed Craft Code, 1994 ” has the same meaning as in regulation 1.1 of
+Chapter X ;           “ High-Speed Craft Code, 2000 ” has the same meaning as
+in regulation 1.2 of Chapter X ;           “ international voyage ” means a
+voyage between—         a port in the United Kingdom and a port outside the
+United Kingdom; or           a port in a Convention country, other than the
+United Kingdom, and a port in any other country or territory, whether a
+Convention country or not, which is outside the United Kingdom,         and,
+for the purposes of paragraph (b), “ Convention country ” means a country or
+territory which is either a country the Government of which is party to the
+Convention or a territory to which the Convention extends whether or not it is
+subject to the amendments to, or reservations in respect of, the Convention;
+“ maximum speed ” means the speed achieved at the maximum continuous
+propulsion power for which the craft is certified at maximum operational
+weight and in smooth water;           “ Merchant Shipping Notice ” means a
+notice described as such and issued by the Maritime and Coastguard Agency (an
+executive agency of the Department for Transport) and includes a reference to
+any document amending or replacing that notice which is considered by the
+Secretary of State to be relevant from time to time and is specified in a
+Merchant Shipping Notice;           “ non-United Kingdom high speed craft ”
+means a high speed craft other than a United Kingdom high speed craft;
+“ operational speed ” means 90 per cent of the maximum speed of which the
+craft is capable;           “ passenger ” means a person other than—
+the master and the members of the crew or other persons employed or engaged in
+any capacity on board a ship on the business of that ship; or           a
+child under one year of age;                 “ passenger craft ” means a high
+speed craft carrying more than 12 passengers;           “ place of refuge ”
+means any naturally or artificially sheltered area which may be used as a
+shelter by craft under conditions likely to endanger its safety;           “
+pleasure craft ” means—         any craft which at the time it is being used
+is—         in the case of a craft wholly owned by—         an individual or
+individuals, used only for the sport or pleasure of the owner or the immediate
+family or friends of the owner; or           a body corporate, used only for
+sport or pleasure and on which the persons on board are employees or officers
+of the body corporate, or their immediate family or friends; and
+on a voyage or excursion which is one for which the owner does not receive
+money for or in connection with operating the craft or carrying any person,
+other than as a contribution to the direct expenses of the operation of the
+craft incurred during the voyage or excursion; or                 any craft
+wholly owned by or on behalf of a members’ club formed for the purpose of
+sport or pleasure which, at the time it is being used, is used only for the
+sport or pleasure of members of that club or their immediate family, and for
+the use of which any charges levied are paid into club funds and applied for
+the general use of the club,         where, in the case of any craft referred
+to in paragraph (a) or (b), no other payments are made by or on behalf of
+users of the craft, other than by the owner; and in this definition “
+immediate family ” means, in relation to an individual, the spouse or civil
+partner of the individual, and a relative of the individual or the
+individual’s spouse or civil partner; and “ relative ” means brother, sister,
+ancestor or lineal descendant;           “ sea area ” has the same meaning as
+in regulation 2 of the Merchant Shipping (Passenger Ships on Domestic Voyages)
+Regulations 2000 ;           “ seagoing ” means going to sea beyond the limits
+of category A, B, C or D waters, as categorised in Merchant Shipping Notice
+1837 (M) ;           “ similar stage of construction ” means a stage at which—
+construction identifiable with a specific craft begins, and           assembly
+of that craft has commenced comprising at least 50 tonnes or 3 per cent of the
+estimated mass of all structural material, whichever is less;
+“ United Kingdom high speed craft ” means a high speed craft which is a United
+Kingdom ship or a hovercraft registered in the United Kingdom;           “
+valid ” means in force.
+
+3.2
+
+Where a high speed craft is operated by a person other than its owner, whether
+on behalf of the owner or some other person, or on that person’s own behalf, a
+reference in these Regulations to the owner must be construed as including a
+reference to that person.
+
+3.3
+
+References to proceeding to sea or on a voyage over water include proceeding
+on or over land, so far as such proceeding is part of that voyage.
+
+#### Application
+
+4
+
+4.1
+
+Subject to paragraphs (2) and (3), these Regulations apply to every high speed
+craft which—
+
+4.1.a
+
+is a United Kingdom high speed craft, wherever it may be, or a non-United
+Kingdom high speed craft while it is within United Kingdom waters;
+
+4.1.b
+
+was constructed—
+
+4.1.b.i
+
+on or after 1st January 1996; or
+
+4.1.b.ii
+
+before 1st January 1996 and to which repairs, alterations or modifications, or
+outfitting of a major character are made on or after 1st January 1996; and
+
+4.1.c
+
+is—
+
+4.1.c.i
+
+a passenger craft which does not proceed in the course of its voyage more than
+4 hours at operational speed from a place of refuge when fully laden,
+
+4.1.c.ii
+
+a craft which is carrying passengers for hire or reward which is not a
+passenger craft and which does not proceed in the course of its voyage more
+than 4 hours at operational speed from a place of refuge when fully laden,
+
+4.1.c.iii
+
+a cargo craft of 500 gross tonnage or more which does not proceed in the
+course of its voyage more than 8 hours at operational speed from a place of
+refuge when fully laden, or
+
+4.1.c.iv
+
+a cargo craft of less than 500 gross tonnage which is carrying cargo for hire
+or reward and which does not proceed in the course of its voyage more than 8
+hours at operational speed from a place of refuge when fully laden.
+
+4.2
+
+These Regulations do not apply to—
+
+4.2.a
+
+a warship or a naval auxiliary;
+
+4.2.b
+
+a craft owned or operated by a State and engaged only on governmental non-
+commercial service;
+
+4.2.c
+
+a craft not propelled by mechanical means;
+
+4.2.d
+
+a wooden craft of primitive build;
+
+4.2.e
+
+a pleasure craft;
+
+4.2.f
+
+a fishing craft;
+
+4.2.g
+
+a craft solely navigating the Great Lakes of North America and the River St
+Lawrence as far east as a straight line drawn from Cap des Rosiers to West
+Point, Anticosti Island and, on the north side of Anticosti Island, the 63rd
+meridian;
+
+4.2.h
+
+a craft which has been examined, and in respect of which a certificate has
+been issued, in accordance with a Code of Practice referred to in regulations
+4 or 5 of the Merchant Shipping (Vessels in Commercial Use for Sport or
+Pleasure) Regulations 1998 ;
+
+4.2.i
+
+a craft which has been examined, and in respect of which a certificate has
+been issued, in accordance with   the Workboat Code Edition 3 referred to in
+regulation 3(1) of the Merchant Shipping (Small Workboats and Pilot Boats)
+Regulations 2023 ;
+
+4.2.j
+
+a craft to which the Merchant Shipping (High Speed Offshore Service Craft)
+Regulations 2022 apply ;
+
+4.2.k
+
+a passenger craft engaged on domestic voyages in sea areas B, C or D when—
+
+4.2.k.i
+
+the displacement of that craft corresponding to the design waterline is less
+than 500m 3 ; and
+
+4.2.k.ii
+
+the maximum speed of that craft, as defined in paragraph 1.4.30 of the High-
+Speed Craft Code, 1994 or where applicable, paragraph 1.4.38 of the High-Speed
+Craft Code, 2000, is less than 20 knots.
+
+4.3
+
+A non-United Kingdom high speed craft flying the flag of a State which is not
+a party to the Convention is not subject to these Regulations if it would not
+have been in United Kingdom waters but for stress of weather or any other
+circumstances which neither the master nor the owner or the charterer could
+have prevented.
+
+4.4
+
+Where persons are on board a craft as a consequence of—
+
+4.4.a
+
+the circumstances described in paragraph (3); or
+
+4.4.b
+
+an obligation laid upon the master to carry shipwrecked or other persons ,
+
+those persons are not to be taken into account for the purpose of determining
+the application to that craft of any provision of these Regulations.
+
+#### Ambulatory reference
+
+5
+
+5.1
+
+In these Regulations, any reference to Chapter X, the High-Speed Craft Code,
+1994 or the High-Speed Craft Code, 2000 is to be construed—
+
+5.1.a
+
+as a reference to Chapter X, the High-Speed Craft Code, 1994 or the High-Speed
+Craft Code, 2000 as modified from time to time; and
+
+5.1.b
+
+as, if Chapter X, the High-Speed Craft Code, 1994 or the High-Speed Craft
+Code, 2000 is replaced, a reference to the replacement.
+
+5.2
+
+For the purposes of paragraph (1), Chapter X, the High-Speed Craft Code, 1994
+or the High-Speed Craft Code, 2000 is modified or replaced if the modification
+or replacement takes effect in accordance with Article VIII of the Convention.
+
+5.3
+
+A modification or replacement of Chapter X, the High-Speed Craft Code, 1994 or
+the High-Speed Craft Code, 2000 has effect at the time such modification or
+replacement comes into force in accordance with Article VIII of the
+Convention.
+
+#### Exemptions
+
+6
+
+6.1
+
+The Secretary of State may grant an exemption from any provision of these
+Regulations in respect of a craft which does not normally engage on
+international voyages but is, in exceptional circumstances, required to
+undertake a single international voyage.
+
+6.2
+
+The Secretary of State may grant an exemption from a requirement of regulation
+9 in respect of a craft where the High-Speed Craft Code, 1994 or the High-
+Speed Craft Code, 2000 permits an exemption to be granted by the
+Administration of the State whose flag the craft is entitled to fly, provided
+the Secretary of State is satisfied that any conditions applicable to such
+exemption are met.
+
+6.3
+
+The Secretary of State may, in exceptional circumstances not provided for in
+paragraph (1) or (2), grant an exemption from any provision of these
+Regulations in respect of a craft or class of craft if satisfied that
+compliance with such provision is either impracticable or unreasonable in the
+case of that craft or class of craft.
+
+6.4
+
+An exemption under paragraph (1), (2) or (3) may be granted subject to such
+safety requirements as the Secretary of State thinks fit to ensure the overall
+safety of the craft.
+
+6.5
+
+An exemption granted under paragraph (1), (2) or (3) may, on the giving of
+reasonable notice, be altered or cancelled.
+
+6.6
+
+An exemption granted under paragraph (1), (2) or (3), or an alteration or
+cancellation under paragraph (5), must—
+
+6.6.a
+
+be in writing;
+
+6.6.b
+
+specify the date on which it takes effect; and
+
+6.6.c
+
+specify the terms, if any, on which it is given.
+
+6.7
+
+The requirement that an exemption granted under paragraph (1), (2) or (3), or
+an alteration or cancellation under paragraph (5), be in writing is satisfied
+where the text of the exemption, alteration or cancellation is—
+
+6.7.a
+
+transmitted by electronic means;
+
+6.7.b
+
+received in legible form; and
+
+6.7.c
+
+capable of being used for subsequent reference.
+
+6.8
+
+Where an exemption is granted subject to safety requirements under paragraph
+(4), the exemption ceases to have effect if those requirements are not
+complied with.
+
+#### Equivalents
+
+7
+
+7.1
+
+Where the provisions of Chapter X, the High-Speed Craft Code, 1994 or the
+High-Speed Craft Code, 2000 require that—
+
+7.1.a
+
+a particular fitting, material, appliance or apparatus be fitted on, or
+carried in, a craft;
+
+7.1.b
+
+any particular arrangement be made on, or in relation to, a craft; or
+
+7.1.c
+
+any particular provision be made in relation to a craft,
+
+the Secretary of State may approve any other fitting, material, appliance,
+apparatus, arrangement or other provision if satisfied that it is at least as
+effective as that required by Chapter X, the High-Speed Craft Code, 1994 or
+the High-Speed Craft Code, 2000.
+
+7.2
+
+The Secretary of State may, in circumstances not provided for in paragraph
+(1), in relation to any requirement of a provision of Chapter X, the High-
+Speed Craft Code, 1994 or the High-Speed Craft Code, 2000 for a craft or class
+of craft, approve an alternative arrangement if satisfied that compliance with
+such requirement is impracticable in the case of that craft or class of craft,
+subject to such safety requirements as the Secretary of State thinks fit to
+ensure the overall safety of the craft.
+
+7.3
+
+An approval given under paragraph (1) or (2) may, on the giving of reasonable
+notice, be continued, altered or cancelled.
+
+7.4
+
+Any approval given under paragraph (1) or (2), or a continuation, alteration
+or cancellation under paragraph (3), must—
+
+7.4.a
+
+be in writing;
+
+7.4.b
+
+specify the date on which it takes effect; and
+
+7.4.c
+
+specify the terms, if any, on which it is given.
+
+7.5
+
+The requirement that the approval referred to in paragraph (1) or (2), or a
+continuation, alteration or cancellation in paragraph (3), be in writing is
+satisfied where the text of the approval, continuation, alteration or
+cancellation is—
+
+7.5.a
+
+transmitted by electronic means;
+
+7.5.b
+
+received in legible form; and
+
+7.5.c
+
+capable of being used for subsequent reference.
+
+7.6
+
+Where an approval is granted subject to safety requirements under paragraph
+(2), the approval ceases to have effect if those requirements are not complied
+with.
+
+#### Approvals
+
+8
+
+8.1
+
+The Secretary of State, or any person authorised by the Secretary of State,
+may grant an approval in relation to a United Kingdom high speed craft for
+anything in Chapter X, the High-Speed Craft Code, 1994 or the High-Speed Craft
+Code, 2000 requiring to be—
+
+8.1.a
+
+approved by the Administration of the State whose flag the craft is entitled
+to fly;
+
+8.1.b
+
+done to the satisfaction of such Administration; or
+
+8.1.c
+
+acceptable to that Administration.
+
+8.2
+
+An approval given under paragraph (1) may, on the giving of reasonable notice,
+be continued, altered or cancelled.
+
+8.3
+
+Any approval given under paragraph (1), or a continuation, alteration or
+cancellation under paragraph (2), must—
+
+8.3.a
+
+be in writing;
+
+8.3.b
+
+specify the date on which it takes effect; and
+
+8.3.c
+
+specify the terms, if any, on which it is given.
+
+8.4
+
+The requirement that the approval referred to in paragraph (1), or a
+continuation, alteration or cancellation under paragraph (2), be in writing is
+satisfied where the text of the approval, continuation, alteration or
+cancellation is—
+
+8.4.a
+
+transmitted by electronic means;
+
+8.4.b
+
+received in legible form; and
+
+8.4.c
+
+capable of being used for subsequent reference.
+
+### Requirements for high speed craft
+
+#### Requirements in relation to high speed craft
+
+9
+
+9.1
+
+Subject to paragraph (5), a high speed craft which was constructed on or after
+1st January 1996 but before 1st July 2002 must comply with each requirement
+applicable to that craft in—
+
+9.1.a
+
+the High-Speed Craft Code, 1994, and
+
+9.1.b
+
+the approved standards specified in Merchant Shipping Notice 1672 (M+F)
+Amendment 4 .
+
+9.2
+
+Subject to paragraph (5), a high speed craft constructed before 1st January
+1996 and to which repairs, alterations or modifications, or outfitting related
+to such repairs, alterations or modifications, of a major character were
+carried out on or after 1st January 1996, but before 1st July 2002, must
+comply with each requirement applicable to that craft in—
+
+9.2.a
+
+the High-Speed Craft Code, 1994, but only to the extent that such repairs,
+alterations or modifications, or outfitting related to those repairs,
+alterations or modifications were carried out, and
+
+9.2.b
+
+the approved standards specified in Merchant Shipping Notice 1672 (M+F)
+Amendment 4.
+
+9.3
+
+Subject to paragraph (5), a high speed craft which was constructed on or after
+1st July 2002 must comply with each requirement applicable to that craft in—
+
+9.3.a
+
+the High-Speed Craft Code, 2000, and
+
+9.3.b
+
+the approved standards specified in Merchant Shipping Notice 1672 (M+F)
+Amendment 4.
+
+9.4
+
+Subject to paragraph (5), a high speed craft constructed before 1st July 2002
+and to which repairs, alterations or modifications, or outfitting related to
+such repairs, alterations or modifications, of a major character were carried
+out on or after 1st July 2002, must comply with each requirement applicable to
+that craft in—
+
+9.4.a
+
+the High-Speed Craft Code, 2000, but only to the extent that such repairs,
+alterations or modifications, or outfitting related to those repairs,
+alterations or modifications were carried out, and
+
+9.4.b
+
+the approved standards specified in Merchant Shipping Notice 1672 (M+F)
+Amendment 4.
+
+9.5
+
+A high speed craft is not required to comply with the applicable requirements
+in paragraphs (1), (2), (3) and (4) to the extent that such requirements—
+
+9.5.a
+
+apply to seagoing United Kingdom high speed craft; and
+
+9.5.b
+
+relate to paragraph 18.3.3 of the High-Speed Craft Code, 1994 or paragraph
+18.3.3 of the High-Speed Craft Code, 2000.
+
+9.6
+
+All equipment fitted on or carried in a high speed craft must—
+
+9.6.a
+
+in relation to a United Kingdom high speed craft, unless approved in
+accordance with the Merchant Shipping (Marine Equipment) Regulations 2016 , be
+of a type approved by the Secretary of State or any person authorised by the
+Secretary of State; or
+
+9.6.b
+
+in relation to a non-United Kingdom high speed craft, conform to standards not
+inferior to those set out in Sections 1 and 3 to 5 of Annex 1 to Merchant
+Shipping Notice 1874 (M+F) Amendment 5 .
+
+#### Requirements in relation to persons on board a passenger craft
+
+10
+
+10.1
+
+A person on board a passenger craft who—
+
+10.1.a
+
+is drunk and disorderly, and
+
+10.1.b
+
+has received a full refund, or an offer of a full refund, in respect of any
+fare paid by, or on behalf of, that person,
+
+must, if so requested by the master or crew, leave the craft at any place in
+the United Kingdom at which that person can conveniently do so.
+
+10.2
+
+A person who is on board a passenger craft must not, after being warned by the
+master or crew, molest or continue to molest any passenger.
+
+10.3
+
+A person who is on board a passenger craft must not intentionally do or cause
+to be done anything in such a manner as to—
+
+10.3.a
+
+obstruct or damage any part of the machinery or equipment of that craft; or
+
+10.3.b
+
+obstruct, impede or molest the master or crew, or any of them, in the
+navigation or management of the craft, or otherwise in the execution of their
+duty on or about the craft.
+
+#### Risk assessment with reference to wash
+
+11
+
+11.1
+
+A risk assessment with respect to wash must be prepared in relation to a high
+speed craft before it proceeds or attempts to proceed to sea or on any voyage.
+
+11.2
+
+The risk assessment required by paragraph (1) must—
+
+11.2.a
+
+be carried out in accordance with generally recognised procedures for risk
+assessment;
+
+11.2.b
+
+identify—
+
+11.2.b.i
+
+any likely areas of potentially hazardous wash, taking into account possible
+operating conditions and the classification of wash as sub-critical, critical
+or super-critical, and
+
+11.2.b.ii
+
+the operating restrictions necessary to reduce that potentially hazardous
+wash, and
+
+11.2.c
+
+be documented in the route operational manual required by paragraph 18.2.2 of
+the High-Speed Craft Code, 1994 or paragraph 18.2.2 of the High-Speed Craft
+Code, 2000.
+
+11.3
+
+In this regulation—
+
+      “ wash ” means the sweep of waves left behind by a moving craft,
+classified as sub-critical, critical or supercritical in terms of the depth
+Froude number F nh  = Vs/√(gh) where F nh  describes the ratio of the vessel’s
+speed to the wave propagation velocity in shallow water, Vs is the ship speed
+in metres per second, g is the acceleration due to gravity and h is the water
+depth in metres: for the purposes of classification “ sub-critical ” means F
+nh <0.85, “ critical ” means F nh  = 0.85 to 1.15 and “ supercritical ” means
+F nh >1.15.
+
+#### Safety requirements for persons with reduced mobility
+
+12
+
+12.1
+
+This regulation applies to—
+
+12.1.a
+
+a high speed craft used for public transport and engaged on a voyage, in whole
+or in part in a sea area which begins and ends in a port in the United
+Kingdom; and
+
+12.1.b
+
+a United Kingdom high speed craft used for public transport and engaged on a
+voyage, in whole or in part in a sea area which begins and ends in ports
+within a Member State or begins and ends within an EEA State.
+
+12.2
+
+In complying with regulation 9, a high speed craft—
+
+12.2.a
+
+constructed on or after 1st October 2004 must, where practicable, be
+constructed and equipped, and display signs, based on the guidelines in Annex
+III to the Directive;
+
+12.2.b
+
+constructed before 1st October 2004 must, if undergoing modification, be
+constructed and equipped as respects that modification, and display signs as
+respects that modification, based on the guidelines in Annex III to the
+Directive so far as is practicable in economic terms.
+
+12.3
+
+In applying the guidelines in Annex III to the Directive, the Secretary of
+State must follow the International Maritime Organization MSC/Circ 735 ,
+entitled ‘Recommendation on the design and operation of passenger ships to
+respond to elderly and disabled persons’ needs’.
+
+12.4
+
+In this regulation—
+
+      “ the Directive ” means  Directive 2009/45/EC  of the European
+Parliament and of the Council of 6th May 2009 on safety rules and standards
+for passenger ships  as amended by Commission  Directive 2010/36/EU  of 1 June
+2010 amending  Directive 2009/45/EC  of the European Parliament and of the
+Council on safety rules and standards for passenger ships , Commission
+Directive (EU) 2016/844 of 27 May 2016 amending  Directive 2009/45/EC  of the
+European Parliament and of the Council on safety rules and standards for
+passenger ships  and Directive (EU) 2017/2108 of the European Parliament and
+of the Council of 15 November 2017 amending  Directive 2009/45/EC  on safety
+rules and standards for passenger ships ;           “ EEA State ” means a
+State, other than the United Kingdom, which was an EEA State immediately
+before IP completion day.
+
+#### High Speed Craft Safety Certificate
+
+13
+
+13.1
+
+A high speed craft must not proceed or attempt to proceed to sea or on any
+voyage unless there is a valid High Speed Craft Safety Certificate.
+
+13.2
+
+The Secretary of State or any person authorised by the Secretary of State may
+issue or endorse a High Speed Craft Safety Certificate in accordance with
+section 1.8 of the High-Speed Craft Code, 1994 or section 1.8 of the High-
+Speed Craft Code, 2000.
+
+#### Permit to operate
+
+14
+
+14.1
+
+A high speed craft must not proceed or attempt to proceed to sea or on any
+voyage unless there is a valid Permit to Operate.
+
+14.2
+
+The Secretary of State or any person authorised by the Secretary of State may
+issue a Permit to Operate in accordance with section 1.9 of the High-Speed
+Craft Code, 1994 or section 1.9 of the High-Speed Craft Code, 2000.
+
+14.3
+
+A Permit to Operate which is issued in respect of a passenger craft must
+specify the maximum number of passengers which that craft is allowed to carry
+on board.
+
+14.4
+
+A Permit to Operate must set out, and be subject to, the operating
+restrictions identified in accordance with regulation 11.
+
+14.5
+
+The owner and master of a passenger craft must ensure that the craft does not
+carry more than the maximum number of passengers specified in the Permit to
+Operate.
+
+### Control and Enforcement
+
+#### Offences in respect of which a sentence of imprisonment and/or a fine may be imposed
+
+15
+
+15.1
+
+If a high speed craft proceeds or attempts to proceed to sea or on any voyage,
+or arrives within United Kingdom waters, in breach of any of the requirements
+of these Regulations applicable to that craft, the owner and the master are
+each guilty of an offence in respect of each case of non-compliance.
+
+15.2
+
+An offence under paragraph (1) is punishable—
+
+15.2.a
+
+on summary conviction–
+
+15.2.a.i
+
+in England and Wales by a fine; or
+
+15.2.a.ii
+
+in Scotland or Northern Ireland by a fine not exceeding the statutory maximum;
+or
+
+15.2.b
+
+on conviction on indictment by imprisonment for a term not exceeding two
+years, or a fine, or both.
+
+15.3
+
+It is a defence for a person charged with an offence under this regulation to
+prove that the person charged took all reasonable steps to avoid the
+commission of the offence.
+
+#### Offences in respect of which a fine may be imposed on summary conviction only
+
+16
+
+A person who contravenes regulation 10 is guilty of an offence punishable on
+summary conviction—
+
+16.a
+
+in England and Wales by a fine; or
+
+16.b
+
+in Scotland or Northern Ireland by a fine not exceeding the statutory maximum.
+
+#### Detention
+
+17
+
+17.1
+
+For the purposes of this regulation, any reference to “ the Act ” is a
+reference to the Merchant Shipping Act 1995.
+
+17.2
+
+Any high speed craft which does not comply with the requirements of these
+Regulations, Chapter X, the High-Speed Craft Code, 1994 or the High-Speed
+Craft Code, 2000 applicable to that craft may be detained.
+
+17.3
+
+Section 284 of the Act  applies where a high speed craft is liable to be
+detained under this regulation as if—
+
+17.3.a
+
+references to detention of a ship under the Act were references to detention
+of the high speed craft in question under this regulation; and
+
+17.3.b
+
+subsection (7) were omitted.
+
+17.4
+
+Where a high speed craft is liable to be detained under this regulation, the
+person detaining the high speed craft must serve on the master a detention
+notice which—
+
+17.4.a
+
+states the grounds of the detention; and
+
+17.4.b
+
+requires the terms of the notice to be complied with until the high speed
+craft is released by any person mentioned in section 284(1) of the Act.
+
+17.5
+
+Subject to paragraph (6), section 96 (references of detention notices to
+arbitration)  and section 97 (compensation in connection with invalid
+detention of a ship) of the Act apply in relation to a detention notice issued
+pursuant to this regulation as they apply in relation to detention notices
+issued pursuant to section 95 (power to detain dangerously unsafe ship ).
+
+17.6
+
+For the purposes of paragraph (5)—
+
+17.6.a
+
+section 96 of the Act applies as if—
+
+17.6.a.i
+
+subsection (3) were omitted;
+
+17.6.a.ii
+
+the words “as a dangerously unsafe ship” in subsection (5) were omitted;
+
+17.6.a.iii
+
+subsection (11) were omitted; and
+
+17.6.b
+
+sections 96 and 97 of the Act apply as if “ the relevant inspector ” means a
+person issuing the detention notice pursuant to this regulation.
+
+17.7
+
+Subject to paragraph (8), where a non-United Kingdom high speed craft is
+detained, the Secretary of State must immediately inform the craft’s flag
+administration in writing.
+
+17.8
+
+If it is not possible to inform the craft’s flag administration in accordance
+with paragraph (7), the Secretary of State must inform the Consul of the State
+of the flag administration, or in the absence of a Consul, the nearest
+diplomatic representative of the State of the flag administration.
+
+17.9
+
+For the purposes of paragraphs (7) and (8), “ flag administration ” in
+relation to a high speed craft means the administration of the State whose
+flag the craft is entitled to fly.
+
+#### Review
+
+18
+
+18.1
+
+The Secretary of State must from time to time—
+
+18.1.a
+
+carry out a review of the regulatory provision contained in these Regulations;
+and
+
+18.1.b
+
+publish a report setting out the conclusions of the review.
+
+18.2
+
+The first report must be published before the end of the period of five years
+beginning with the date on which these Regulations come into force.
+
+18.3
+
+Subsequent reports must be published at intervals not exceeding five years.
+
+18.4
+
+Section 30(3) of the Small Business, Enterprise and Employment Act 2015
+requires that a review carried out under this regulation must, so far as is
+reasonable, have regard to how the obligations under Chapter X are implemented
+in other countries which are subject to the obligations.
+
+18.5
+
+Section 30(4) of the Small Business, Enterprise and Employment Act 2015
+requires that a report published under this regulation must, in particular—
+
+18.5.a
+
+set out the objectives intended to be achieved by the regulatory provision
+referred to in paragraph (1)(a);
+
+18.5.b
+
+assess the extent to which those objectives are achieved;
+
+18.5.c
+
+assess whether those objectives remain appropriate; and
+
+18.5.d
+
+if those objectives remain appropriate, assess the extent to which they could
+be achieved in another way which involves less onerous regulatory provision.
+
+18.6
+
+In this regulation, “ regulatory provision ” has the same meaning as in
+sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015
+(see section 32 of that Act).
+
+      Signed by authority of the Secretary of State for Transport       Vere
+Parliamentary Under Secretary of State   Department for Transport     28th
+November 2022             We consent to the making of these Regulations
+Nigel Huddleston   Amanda Solloway   Two of the Lords Commissioners of His
+Majesty’s Treasury     23rd November 2022
+
+Regulation 2
+
+##### Amendments
+
+###### Hovercraft (General) Order 1972
+
+1
+
+In the Hovercraft (General) Order 1972 —
+
+1.a
+
+in article 7A, for “the Merchant Shipping (High Speed Craft) Regulations 2004
+” substitute  “the Merchant Shipping (High Speed Craft) Regulations 2022 ” ;
+
+1.b
+
+in article 17A, for “the Merchant Shipping (High Speed Craft) Regulations 1996
+” substitute  “the Merchant Shipping (High Speed Craft) Regulations 2022” .
+
+###### The Merchant Shipping (Cargo Ship Construction) Regulations 1997
+
+2
+
+In regulation 4(c)(ii) of the Merchant Shipping (Cargo Ship Construction)
+Regulations 1997 , for “the Merchant Shipping (High Speed Craft) Regulations
+2004” substitute  “the Merchant Shipping (High Speed Craft) Regulations 2022”
+.
+
+###### The Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997
+
+3
+
+In regulation 2(2) of the Merchant Shipping and Fishing Vessels (Health and
+Safety at Work) Regulations 1997 , in the definition of “sea-going”, in sub-
+paragraph (a)(iv), for “regulation 8 of the Merchant Shipping (High Speed
+Craft) Regulations 2004” substitute  “regulation 14 of the Merchant Shipping
+(High Speed Craft) Regulations 2022” .
+
+###### The Merchant Shipping (Fire Protection: Small Ships) Regulations 1998
+
+4
+
+In regulation 1(7)(b)(iii) of the Merchant Shipping (Fire Protection: Small
+Ships) Regulations 1998 , for “the Merchant Shipping (High Speed Craft)
+Regulations 2004” substitute  “the Merchant Shipping (High Speed Craft)
+Regulations 2022” .
+
+###### The Merchant Shipping (Fire Protection: Large Ships) Regulations 1998
+
+5
+
+In regulation 1(7)(c)(ii) of the Merchant Shipping (Fire Protection: Large
+Ships) Regulations 1998 , for “the Merchant Shipping (High Speed Craft)
+Regulations 2004” substitute  “the Merchant Shipping (High Speed Craft)
+Regulations 2022” .
+
+###### The Merchant Shipping (Radio Installations) Regulations 1998
+
+6
+
+In regulation 3(2)(k) of the Merchant Shipping (Radio Installations)
+Regulations 1998 , for “the Merchant Shipping (High Speed Craft) Regulations
+2004” substitute  “the Merchant Shipping (High Speed Craft) Regulations 2022”
+.
+
+###### The Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and II(A)) Regulations 1998
+
+7
+
+In regulation 3(4) of the Merchant Shipping (Passenger Ship Construction:
+Ships of Classes I, II and II(A)) Regulations 1998 , for “the Merchant
+Shipping (High Speed Craft) Regulations 2004” substitute  “the Merchant
+Shipping (High Speed Craft) Regulations 2022” .
+
+###### The Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998
+
+8
+
+In regulation 3 of the Merchant Shipping (Passenger Ship Construction: Ships
+of Classes III to VI(A)) Regulations 1998 , for “the Merchant Shipping (High
+Speed Craft) Regulations 2004” substitute  “the Merchant Shipping (High Speed
+Craft) Regulations 2022” .
+
+###### The Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships) Regulations 1999
+
+9
+
+In regulation 3(1) of the Merchant Shipping (Counting and Registration of
+Persons on Board Passenger Ships) Regulations 1999 , in the definition of
+“high speed craft”, for “regulation 2 of the Merchant Shipping (High Speed
+Craft) Regulations 2004” substitute  “regulation 3 of the Merchant Shipping
+(High Speed Craft) Regulations 2022” .
+
+###### The Merchant Shipping (Musters, Training and Decision Support Systems) Regulations 1999
+
+10
+
+In regulation 3(2)(e) of the Merchant Shipping (Musters, Training and Decision
+Support Systems) Regulations 1999 , for “the Merchant Shipping (High Speed
+Craft) Regulations 2004” substitute  “the Merchant Shipping (High Speed Craft)
+Regulations 2022” .
+
+###### The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000
+
+11
+
+In regulation 4(2)(c)(i) and (2)(g) of the Merchant Shipping (Passenger Ships
+on Domestic Voyages) Regulations 2000 , for “the Merchant Shipping (High Speed
+Craft) Regulations 2004” substitute  “the Merchant Shipping (High Speed Craft)
+Regulations 2022” .
+
+###### The Merchant Shipping (Domestic Passenger Ships) (Safety Management Code) Regulations 2001
+
+12
+
+In regulation 3(3) of the Merchant Shipping (Domestic Passenger Ships) (Safety
+Management Code) Regulations 2001 , for “the Merchant Shipping (High Speed
+Craft) Regulations 2004” substitute  “the Merchant Shipping (High Speed Craft)
+Regulations 2022” .
+
+###### The Merchant Shipping (Passenger Ships) (Safety Code for UK Categorised Waters) Regulations 2010
+
+13
+
+In regulation 3(2)(a) of the Merchant Shipping (Passenger Ships) (Safety Code
+for UK Categorised Waters) Regulations 2010 , for “regulation 2(1) of the
+Merchant Shipping (High Speed Craft) Regulations 2004” substitute  “regulation
+3(1) of the Merchant Shipping (High Speed Craft) Regulations 2022” .
+
+###### The Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010
+
+14
+
+In regulation 2 of the Merchant Shipping (Maritime Labour Convention) (Medical
+Certification) Regulations 2010 , in the definition of “sea-going”, in sub-
+paragraph (d), for “regulation 8 of the Merchant Shipping (High Speed Craft)
+Regulations 2004” substitute  “regulation 14 of the Merchant Shipping (High
+Speed Craft) Regulations 2022” .
+
+###### The Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013
+
+15
+
+In regulation 2(1) of the Merchant Shipping (Maritime Labour Convention)
+(Survey and Certification) Regulations 2013 , in the definition of “sea-
+going”, in sub-paragraph (d), for “regulation 8 of the Merchant Shipping (High
+Speed Craft) Regulations 2004” substitute  “regulation 14 of the Merchant
+Shipping (High Speed Craft) Regulations 2022” .
+
+###### The Merchant Shipping (International Safety Management (ISM) Code) Regulations 2014
+
+16
+
+In regulation 2(1) of the Merchant Shipping (International Safety Management
+(ISM) Code) Regulations 2014 , in the definition of “high speed craft”, for
+“the Merchant Shipping (High Speed Craft) Regulations 2004” substitute  “the
+Merchant Shipping (High Speed Craft) Regulations 2022” .
+
+###### The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014
+
+17
+
+In regulation 2(1) of the Merchant Shipping (Maritime Labour Convention)
+(Minimum Requirements for Seafarers etc.) Regulations 2014 , in the definition
+of “sea-going”, in sub-paragraph (d), for “regulation 8 of the Merchant
+Shipping (High Speed Craft) Regulations 2004” substitute  “regulation 14 of
+the Merchant Shipping (High Speed Craft) Regulations 2022” .
+
+###### The Merchant Shipping (Maritime Labour Convention) (Recruitment and Placement) Regulations 2014
+
+18
+
+In regulation 2(1) of the Merchant Shipping (Maritime Labour Convention)
+(Recruitment and Placement) Regulations 2014 , in the definition of “sea-
+going”, in sub-paragraph (d), for “regulation 8 of the Merchant Shipping (High
+Speed Craft) Regulations 2004” substitute  “regulation 14 of the Merchant
+Shipping (High Speed Craft) Regulations 2022” .
+
+###### The Merchant Shipping (Survey and Certification) Regulations 2015
+
+19
+
+In regulation 5(2)(c) of the Merchant Shipping (Survey and Certification)
+Regulations 2015 , for “the Merchant Shipping (High Speed Craft) Regulations
+2004” substitute  “the Merchant Shipping (High Speed Craft) Regulations 2022”
+.
+
+###### The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2015
+
+20
+
+In regulation 3(1) of the Merchant Shipping (Standards of Training,
+Certification and Watchkeeping) Regulations 2015 , in the definition of “high
+speed craft”, for “the Merchant Shipping (High Speed Craft) Regulations 2004”
+substitute  “the Merchant Shipping (High Speed Craft) Regulations 2022” .
+
+###### The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018
+
+21
+
+In regulation 2(1) of the Merchant Shipping (Maritime Labour Convention)
+(Hours of Work) Regulations 2018 , in the definition of “sea-going”, in sub-
+paragraph (d), for “regulation 8 of the Merchant Shipping (High Speed Craft)
+Regulations 2004” substitute  “regulation 14 of the Merchant Shipping (High
+Speed Craft) Regulations 2022” .
+
+###### The Merchant Shipping (Fees) Regulations 2018
+
+22
+
+The Merchant Shipping (Fees) Regulations 2018  are amended as follows.
+
+23
+
+In Schedule 1 (fees under the Merchant Shipping Act 1995), in the table in
+paragraph 5 (fees for inspections, etc) of Part 1 (surveys, inspections and
+applications for exemption)—
+
+23.a
+
+in Section I (construction and equipment)—
+
+23.a.i
+
+omit the entry for the Merchant Shipping (High Speed Craft) Regulations 2004;
+
+23.a.ii
+
+at the end, insert—
+
+The Merchant Shipping (High Speed Offshore Support Craft) Regulations 2022
+2022/41 2022/1219 The Merchant Shipping (High Speed Craft) Regulations 2022
+S.I. 2022/1219 None
+
+23.b
+
+in Section L (survey and certification), in the entry for the Merchant
+Shipping (Survey and Certification) Regulations 2015, in the third column,
+after “2018/53” insert—
+
+2022/42
+
+2022/1219
+
+.
+
+###### The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019
+
+24
+
+In regulation 29(4)(b) of the Merchant Shipping (Prevention of Oil Pollution)
+Regulations 2019 , for “regulation 6 of the Merchant Shipping (High Speed
+Craft) Regulations 2004” substitute  “regulation 9 of the Merchant Shipping
+(High Speed Craft) Regulations 2022” .
+
+###### The Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020
+
+25
+
+In regulation 4(2)(i) of the Merchant Shipping (Life-Saving Appliances and
+Arrangements) Regulations 2020 , for “the Merchant Shipping (High Speed Craft)
+Regulations 2004” substitute  “the Merchant Shipping (High Speed Craft)
+Regulations 2022” .
+
+###### The Merchant Shipping (Safety of Navigation) Regulations 2020
+
+26
+
+The Merchant Shipping (Safety of Navigation) Regulations 2020  are amended as
+follows.
+
+27
+
+In—
+
+27.a
+
+regulation 5(3)(a), for “the Merchant Shipping (High Speed Craft) Regulations
+2004” substitute  “the Merchant Shipping (High Speed Craft) Regulations 2022”
+;
+
+27.b
+
+the Schedule, in Part 2 (revocations), omit the entry relating to “The
+Merchant Shipping (High Speed Craft) Regulations 2004”.
+
+###### The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021
+
+28
+
+In regulation 4(2)(j) of the Merchant Shipping (Radiocommunications)
+(Amendment) Regulations 2021 , for “the Merchant Shipping (High Speed Craft)
+Regulations 2004” substitute  “the Merchant Shipping (High Speed Craft)
+Regulations 2022” .
+
+###### The Merchant Shipping and Fishing Vessels (Entry into Enclosed Spaces) Regulations 2022
+
+29
+
+In regulation 5(2) of the Merchant Shipping and Fishing Vessels (Entry into
+Enclosed Spaces) Regulations 2022 , for sub-paragraph (d), substitute—
+
+29.d
+
+ships owned or operated by a State and engaged only on government non-
+commercial service;
+
+29.e
+
+ships to which the Merchant Shipping (High Speed Craft) Regulations 2022
+apply.
+
+.
+
+##### Revocations
+
+      Regulations revoked References Extent of revocation   The Merchant
+Shipping (High Speed Craft) Regulations 2004 S.I. 2004/302 The whole
+Regulations The Merchant Shipping (Passenger Ships on Domestic Voyages)
+(Amendment) (No 2) Regulations 2004 S.I. 2004/2883 Regulation 4 The Merchant
+Shipping (Passenger Ships on Domestic Voyages) (Amendment) Regulations 2012
+S.I. 2012/2636 Regulation 4 The Merchant Shipping (Marine Equipment)
+Regulations 2016 S.I. 2016/1025 Paragraph 11 of Schedule 1 The Merchant
+Shipping (Miscellaneous Provisions) (Amendments etc) (EU Exit) Regulations
+2018 S.I. 2018/1221 Regulation 3(5) and paragraph 19 of the Schedule The
+Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages)
+(Miscellaneous Amendments) Regulations 2020 S.I. 2020/1222 Regulation 3 The
+Merchant Shipping (High Speed Offshore Support Craft) Regulations 2022 S.I.
+2022/41 Regulation 8
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations implement outstanding amendments to Chapter X of the Annex
+to the International Convention for the Safety of Life at Sea, 1974 (“ the
+Convention ”), which relates to the safety of high speed craft. Chapter X
+gives effect to the High-Speed Craft Codes, 1994 and 2000 (“the Codes”), which
+contain the detailed requirements governing high speed craft safety, equipment
+and operations.
+
+  These Regulations also amend the Merchant Shipping (Fees) Regulations 2018 (
+S.I. 2018/1104 ) to enable the Secretary of State to charge fees for certain
+actions (e.g. surveys and inspections) carried out under the Merchant Shipping
+(High Speed Offshore Support Craft) Regulations 2022 ( S.I. 2022/41 ) and
+these Regulations.
+
+  These Regulations revoke and replace the Merchant Shipping (High Speed
+Craft) Regulations 2004 ( S.I. 2004/302 ) and apply, with certain limited
+exceptions, to United Kingdom high speed craft and to non-United Kingdom high
+speed craft when in United Kingdom waters (regulation 4).
+
+  These Regulations implement all amendments to Chapter X as at the date on
+which this instrument comes into force. All future amendments to the
+provisions of Chapter X, and the Codes referred to in them, will be
+automatically incorporated into these Regulations by way of the ambulatory
+reference provision (regulation 5) using the power in section 306A of the
+Merchant Shipping Act  1995 (c. 21) .
+
+  These Regulations provide for the granting of exemptions (regulation 6), the
+approval of equivalents (regulation 7) and the approval of other matters
+(regulation 8).
+
+  Regulation 9 applies the technical requirements in Chapter X to high speed
+craft. Regulation 10 prescribes various requirements on persons on board high
+speed craft. Regulations 11 to 14 make provisions for specific requirements
+relating to risk assessments in respect of wash, safety of persons with
+reduced mobility, permits to operate and high speed craft safety certificates.
+
+  Regulations 15 and 16 make provision for offences. Regulation 15 makes it an
+offence by the owner and master of a high speed craft for it to be used in
+contravention of any of the requirements of these Regulations. Regulation 16
+makes it an offence by persons to contravene the requirements specified in
+regulation 10. Regulation 17 contains power to detain a ship in cases of non-
+compliance with these Regulations.
+
+  Regulation 18 requires the Secretary of State to review the operation and
+effect of these Regulations and publish a report at the end of the period of
+five years beginning with the date on which these Regulations come into force
+and at intervals not exceeding five years after that. Following a review, it
+will fall to the Secretary of State to consider whether the Regulations should
+remain as they are, or be amended or revoked. A further instrument would be
+needed to amend or revoke the Regulations.
+
+  The Schedule to these Regulations makes consequential amendments to other
+instruments.
+
+  Merchant Shipping Notice 1672 (M+F) Amendment 4 and Merchant Shipping Notice
+1874 (M+F) Amendment 5, which are referred to in these Regulations, are
+available on  https://assets.publishing.service.gov.uk/government/uploads/syst
+em/uploads/attachment_data/file/946254/MSN_1672_Amendment_4_-_FINAL.pdf  and
+https://www.gov.uk/government/publications/msn-1874mf-amendment-5-marine-
+directive-other-approval-and-standards  or in hard copy from the Maritime and
+Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15
+1EG (telephone 020 3817 2000 and email  infoline@mcga.gov.uk ) or on
+https://www.gov.uk/government/organisations/maritime-and-coastguard-agency .
+
+  The Convention and its Protocol of 1988 may be obtained in copy from the
+International Maritime Organization (IMO), 4 Albert Embankment, London SE1 7SR
+and both are available on the Foreign, Commonwealth and Development Office
+(FCDO) treaties database (
+https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch/ ). The text of
+the IMO Resolutions amending the Convention and Protocol may be obtained from
+the IMO or on the FCDO treaties database (
+https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch/ ).
+
+  Future amendments to the Convention and to the Protocol, and to the Codes,
+may be obtained in copy from the IMO and, after coming into force in the
+United Kingdom, found on the Foreign, Commonwealth and Development Office
+(FCDO) treaties database (
+https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch/ ). Until such
+publication is made on the FCDO treaties database, an amendment will be
+available from the MCA and on  https://www.gov.uk . An amendment will be
+publicised in advance of its in-force date by means of a Parliamentary
+Statement to both Houses of Parliament and by way of a Marine Guidance Note,
+which will be available in copy from the MCA and on
+https://www.gov.uk/government/organisations/maritime-and-coastguard-agency .
+
+  A full impact assessment has not been produced for this instrument as no, or
+no significant, impact on the private or voluntary sector is foreseen.
+
+  An Explanatory Memorandum is published alongside the instrument on
+www.legislation.gov.uk .
+

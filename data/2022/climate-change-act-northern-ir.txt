@@ -1,0 +1,2970 @@
+Title: Climate Change Act (Northern Ireland) 2022
+Date: 2022-06-09
+Description: Set targets for the years 2050, 2040 and 2030 for the reduction of greenhouse gas emissions; to provide for a system of carbon budgeting; to provide for reporting and statements against those targets and budgets; to confer power to impose climate change reporting duties on public bodies; to provide for reports and advice from the Committee on Climate Change; and for connected purposes.
+Publisher: Government Printer for Northern Ireland
+Identifier: http://www.legislation.gov.uk/nia/2022/31/enacted
+
+## Climate Change Act (Northern Ireland) 2022
+
+      BE IT ENACTED by being passed by the Northern Ireland Assembly and
+assented to by Her Majesty as follows:
+
+### Emissions Targets And Sectoral Plans
+
+#### The emissions targets
+
+##### The emissions targets for 2050
+
+1
+
+1.1
+
+The Northern Ireland departments must ensure that the net Northern Ireland
+emissions account for the year 2050 is at least 100% lower than the baseline.
+
+1.2
+
+The Northern Ireland departments must ensure that the net Northern Ireland
+emissions account for carbon dioxide for the year 2050 is at least 100% lower
+than the baseline for carbon dioxide.
+
+1.3
+
+The duty in subsection (1) does not require the net Northern Ireland emissions
+account for methane for the year 2050 to be more than 46% lower than the
+baseline for methane.
+
+##### Emissions targets for 2030 and 2040
+
+2
+
+2.1
+
+The Department must set targets for the years 2030 and 2040 that are in line
+with the target for the year 2050.
+
+2.2
+
+Proposed targets for the years 2030 and 2040 must be laid before the Assembly
+within 24 months of this Act receiving Royal Assent and be approved by draft
+affirmative resolution.
+
+##### The emissions target for 2040
+
+3
+
+The Northern Ireland departments must ensure that the net Northern Ireland
+emissions account for the year 2040 is in line with the target for the year
+2050.
+
+##### The emissions target for 2030
+
+4
+
+The Northern Ireland departments must ensure that the net Northern Ireland
+emissions account for the year 2030 is at least 48% lower than the baseline.
+
+#### Power to amend targets
+
+##### Power to amend emissions targets
+
+5
+
+5.1
+
+The Department may by regulations amend section 1, 3 or 4 so as to specify—
+
+5.1.a
+
+for a particular emissions target, an earlier year than that for the time
+being specified;
+
+5.1.b
+
+for a particular year, a higher percentage than that for the time being
+specified.
+
+5.2
+
+The Department may by regulations amend this Part so as to impose a duty on
+the Northern Ireland departments to ensure that the net Northern Ireland
+emissions account for a specified year is at least a specified percentage
+lower than the baseline.
+
+5.3
+
+See section 54 for restrictions on the powers conferred by subsections (1) and
+(2).
+
+##### Duty to consider whether to revise targets
+
+6
+
+6.1
+
+The Department must consider whether the targets in sections 3 and 4 are
+consistent with meeting the emissions target in section 1(1).
+
+6.2
+
+In relation to each of the targets in sections 3 and 4, the Department must
+either—
+
+6.2.a
+
+lay before the Assembly draft regulations under section 5 to amend the target
+so as to be consistent with the target in section 1(1), or
+
+6.2.b
+
+lay before the Assembly a statement explaining why it considers that the
+target does not need to be amended.
+
+6.3
+
+The Department must lay draft regulations or a statement in relation to each
+target within the period of 2 years beginning with the day on which this Act
+receives Royal Assent.
+
+6.4
+
+Section 54(2) does not apply to regulations laid before the Assembly under
+subsection (2)(a).
+
+#### Meaning of key concepts
+
+##### Meaning of “baseline”
+
+7
+
+7.1
+
+The baseline is the aggregate amount of net Northern Ireland emissions of each
+greenhouse gas mentioned in the following table in the year specified in
+relation to that gas—
+
+    Greenhouse gas Year   Carbon dioxide 1990 Methane 1990 Nitrous oxide 1990
+Hydrofluorocarbons 1995 Perfluorocarbons 1995 Sulphur hexafluoride 1995
+Nitrogen trifluoride 1995
+
+7.2
+
+The baseline for carbon dioxide is the amount of net Northern Ireland
+emissions of carbon dioxide in 1990.
+
+7.3
+
+The baseline for methane is the amount of net Northern Ireland emissions of
+methane in 1990.
+
+7.4
+
+The Department may by regulations amend—
+
+7.4.a
+
+the table in subsection (1) so as to specify a different year in relation to a
+greenhouse gas, or
+
+7.4.b
+
+subsection (2) or (3) so as to specify a different year in relation to carbon
+dioxide or methane.
+
+7.5
+
+See section 55 for restrictions on the powers conferred by subsection (4).
+
+##### Meaning of “net Northern Ireland emissions account”
+
+8
+
+8.1
+
+The net Northern Ireland emissions account for a year is determined as
+follows—
+
+8.1.a
+
+take the aggregate amount of net Northern Ireland emissions of each greenhouse
+gas for that year (which is to be determined in accordance with sections 9 and
+10),
+
+8.1.b
+
+deduct the amount of carbon units that are to be credited to the net Northern
+Ireland emissions account for that year (in accordance with regulations under
+section 11), and
+
+8.1.c
+
+add the amount of carbon units that are to be debited from the net Northern
+Ireland emissions account for that year (also in accordance with regulations
+under section 11).
+
+8.2
+
+Subsection (1) does not apply in relation to the net Northern Ireland
+emissions account for carbon dioxide for 2050 or the net Northern Ireland
+emissions account for methane for 2050 (see subsections (3) and (4)).
+
+8.3
+
+The net Northern Ireland emissions account for carbon dioxide for 2050 is
+determined as follows—
+
+8.3.a
+
+take the amount of net Northern Ireland emissions of carbon dioxide for 2050
+(which is to be determined in accordance with sections 9 and 10),
+
+8.3.b
+
+deduct the amount of carbon units that are to be credited to the net Northern
+Ireland emissions account for carbon dioxide for 2050 (in accordance with
+regulations under section 11), and
+
+8.3.c
+
+add the amount of carbon units that are to be debited from the net Northern
+Ireland emissions account for carbon dioxide for 2050 (also in accordance with
+regulations under section 11).
+
+8.4
+
+The net Northern Ireland emissions account for methane for 2050 is the amount
+of net Northern Ireland emissions of methane for 2050 (which is to be
+determined in accordance with sections 9 and 10).
+
+#### Meaning of underlying concepts
+
+##### Meaning of “net Northern Ireland emissions”
+
+9
+
+9.1
+
+The amount of net Northern Ireland emissions of a greenhouse gas for a period
+is—
+
+9.1.a
+
+the amount of Northern Ireland emissions of the gas for the period (see
+subsection (2)),
+
+minus
+
+9.1.b
+
+the amount of Northern Ireland removals of the gas for the period (see
+subsection (3)).
+
+9.2
+
+The Northern Ireland emissions of a gas for a period are—
+
+9.2.a
+
+emissions of the gas from sources in Northern Ireland in the period, and
+
+9.2.b
+
+emissions of the gas from international aviation or international shipping
+that count as Northern Ireland emissions for the period (as determined by
+regulations under section 10).
+
+9.3
+
+The Northern Ireland removals of a gas for a period are removals of the gas
+from the atmosphere in the period due to—
+
+9.3.a
+
+land use in Northern Ireland;
+
+9.3.b
+
+land-use change in Northern Ireland;
+
+9.3.c
+
+forestry activities in Northern Ireland; and
+
+9.3.d
+
+the use of carbon capture and storage technology in Northern Ireland.
+
+9.4
+
+The Department may by regulations amend subsection (3) so as to amend the
+definition of Northern Ireland removals.
+
+9.5
+
+The amounts of Northern Ireland emissions and Northern Ireland removals of a
+gas for a period must be determined consistently with international carbon
+reporting practice (see section 63).
+
+##### Meaning of “Northern Ireland emissions”: international aviation and shipping
+
+10
+
+10.1
+
+The Department may by regulations make provision for emissions of a greenhouse
+gas from international aviation or international shipping to count as Northern
+Ireland emissions of the gas.
+
+10.2
+
+The regulations may—
+
+10.2.a
+
+specify activities which are to be regarded as international aviation or
+international shipping;
+
+10.2.b
+
+specify the circumstances in which, and the extent to which, emissions of a
+greenhouse gas from international aviation or international shipping are to
+count as Northern Ireland emissions of that gas;
+
+10.2.c
+
+specify the period (whether past or future) for which emissions of a
+greenhouse gas from international aviation or international shipping are to
+count as Northern Ireland emissions of that gas;
+
+10.2.d
+
+make provision about how emissions of a greenhouse gas from international
+aviation or international shipping are to be taken into account in determining
+Northern Ireland emissions of that gas for the year specified in section 7(1)
+in relation to it.
+
+##### Crediting and debiting of carbon units
+
+11
+
+11.1
+
+The Department may by regulations make provision about—
+
+11.1.a
+
+the circumstances in which carbon units may or may not be credited to the net
+Northern Ireland emissions account for a period,
+
+11.1.b
+
+the circumstances in which carbon units may or may not be debited from that
+account for a period, and
+
+11.1.c
+
+how that is to be done.
+
+Section 59 explains what a “carbon unit” is.
+
+11.2
+
+The regulations must contain provision for ensuring that carbon units that are
+credited to the net Northern Ireland emissions account for a period cease to
+be available to offset other greenhouse gas emissions.
+
+11.3
+
+The regulations must set a limit on the net amount of carbon units by which
+the net Northern Ireland emissions account for a period may be reduced as a
+result of applying provision made under subsection (1)(a) and (b); and that
+limit must not be greater than 25% of the aggregate amount of net Northern
+Ireland emissions of each greenhouse gas for that period (as determined in
+accordance with sections 9 and 10).
+
+11.4
+
+The regulations may provide that carbon units of a description specified in
+the regulations do not count towards the limit.
+
+11.5
+
+The regulations may make provision about the crediting of carbon units to, and
+the debiting of carbon units from, the net Northern Ireland emissions account
+for carbon dioxide for 2050.
+
+11.6
+
+The amount of carbon units that are to be credited to the net Northern Ireland
+emissions account for carbon dioxide for 2050 must not be greater than—
+
+  Total credits   × CO 2   emissions Total emissions
+
+11.7
+
+If—
+
+11.7.a
+
+carbon units are credited to the net Northern Ireland emissions account for
+carbon dioxide for 2050, and
+
+11.7.b
+
+carbon units are debited from the net Northern Ireland emissions account for
+2050,
+
+carbon units must be debited from the net Northern Ireland emissions account
+for carbon dioxide for 2050; and the amount of carbon units so debited must
+not be less than—
+
+  Total debits   × CO 2   emissions Total emissions
+
+11.8
+
+In subsections (6) and (7)—
+
+      “Total credits” is the amount of carbon units that are credited to the
+net Northern Ireland emissions account for 2050;           “Total debits” is
+the amount of carbon units that are debited from the net Northern Ireland
+emissions account for 2050;           “CO2 emissions” is the amount of net
+Northern Ireland emissions of carbon dioxide for 2050;           “Total
+emissions” is the aggregate amount of net Northern Ireland emissions of each
+greenhouse gas for 2050.
+
+##### Carbon units: accounting scheme
+
+12
+
+12.1
+
+The Department may by regulations make provision for a scheme—
+
+12.1.a
+
+for registering or otherwise keeping track of carbon units, or
+
+12.1.b
+
+for establishing and maintaining accounts in which carbon units may be held,
+and between which they may be transferred, by the Department.
+
+12.2
+
+The regulations may provide for an existing scheme to be adapted for those
+purposes.
+
+12.3
+
+The regulations may—
+
+12.3.a
+
+appoint a person or body (an “administrator”) to administer the scheme, or
+provide that the Department is to do so;
+
+12.3.b
+
+establish a body for the purpose of administering the scheme and make
+provision in relation to the appointment of members, staffing, expenditure and
+procedure of that body;
+
+12.3.c
+
+confer or impose functions on the administrator for the purpose of
+administering the scheme;
+
+12.3.d
+
+confer power on the Department to give guidance or directions to the
+administrator;
+
+12.3.e
+
+require the payment by persons using the scheme of charges (of an amount
+determined by or under the regulations) towards the cost of operating it.
+
+12.4
+
+If regulations adapt an existing scheme or appoint an existing person to
+administer the scheme, the regulations may amend any statutory provision
+relating to the existing scheme or existing person.
+
+#### Sectoral plans
+
+##### Sectoral plans
+
+13
+
+13.1
+
+The Northern Ireland departments must develop and publish plans for areas of
+the economy, to be known as sectoral plans, setting out how the targets in
+sections 1, 3 and 4 will be achieved by sector.
+
+13.2
+
+These must include proposals and policies to ensure the targets set out in
+sections 1, 3 and 4 are achieved.
+
+13.3
+
+Interim sectoral reports must be published in line with the targets set out in
+sections 1, 3 and 4.
+
+13.4
+
+Sectoral plans shall also support a just transition by—
+
+13.4.a
+
+supporting the creation of secure green jobs and building pathways into green
+careers in partnership with industry and unions, with workers’ rights and
+health and safety at the centre;
+
+13.4.b
+
+ensuring that workers and communities dependent on the high carbon economy are
+supported with the transition;
+
+13.4.c
+
+supporting the transition to a green economy with net-zero carbon investment
+and infrastructure; and
+
+13.4.d
+
+tackling inequality and breaking down barriers of division.
+
+13.5
+
+The Department must make arrangements with the other Northern Ireland
+departments to secure co-operation and the submission of information for
+subsection (1), including the format and detail of the requirement outlined in
+subsection (3).
+
+##### Sectoral plans for energy
+
+14
+
+14.1
+
+The Department for the Economy must develop and publish sectoral plans for the
+energy sector setting out how the sector will contribute to the achievement of
+the targets in sections 1, 3 and 4.
+
+14.2
+
+Sectoral plans for energy must include proposals and policies for energy
+production and the supply of private and public heating and cooling systems.
+
+##### Renewable electricity consumption
+
+15
+
+The Department for the Economy must ensure that at least 80% of electricity
+consumption is from renewable sources by 2030.
+
+##### Sectoral plans for infrastructure
+
+16
+
+16.1
+
+The Department for Infrastructure must develop and publish sectoral plans for
+the infrastructure sector setting out how the sector will contribute to the
+achievement of the targets in sections 1, 3 and 4.
+
+16.2
+
+Sectoral plans for infrastructure must include proposals and policies for
+planning and construction.
+
+##### Sectoral plans for industrial processes
+
+17
+
+The Department for the Economy must develop and publish sectoral plans for the
+industrial processes sector setting out how the sector will contribute to the
+achievement of the targets in sections 1, 3 and 4.
+
+##### Sectoral plans for waste management
+
+18
+
+18.1
+
+The Department must ensure that at least 70% of waste is recycled by 2030.
+
+18.2
+
+The Department must develop and publish sectoral plans for the waste
+management sector setting out how the sector will contribute to the
+achievement of the targets in sections 1, 3 and 4 and subsection (1) of this
+section.
+
+##### Sectoral plans for agriculture
+
+19
+
+19.1
+
+The Department must develop and publish sectoral plans for the agriculture
+sector setting out how the sector will contribute to the achievement of the
+targets in sections 1, 3 and 4.
+
+19.2
+
+Sectoral plans for agriculture must contain proposals for carrying out fully
+funded carbon audits of farms to assess where performance improvements and
+savings can be made.
+
+19.3
+
+As part of the carbon auditing process, carbon sequestration measures already
+being conducted by the sector should be calculated.
+
+##### Sectoral plans for fisheries
+
+20
+
+20.1
+
+The Department must develop and publish sectoral plans for the fisheries
+sector setting out how the sector will contribute to the achievement of the
+targets in sections 1, 3 and 4.
+
+20.2
+
+Sectoral plans for fisheries must include proposals and policies for sea
+fisheries and the inland fisheries industry.
+
+##### Sectoral plans for transport
+
+21
+
+21.1
+
+The Department for Infrastructure must develop and publish sectoral plans for
+the transport sector setting out how the sector will contribute to the
+achievement of the targets in sections 1, 3 and 4.
+
+21.2
+
+Sectoral plans for transport must include proposals and policies for public
+and private transport.
+
+##### Active travel
+
+22
+
+The Department for Infrastructure must develop sectoral plans for transport
+which set a minimum spend on active travel from the overall transport budgets
+of 10%.
+
+### Carbon Budgets
+
+#### Carbon budgets
+
+23
+
+23.1
+
+The Department must by regulations set a maximum total amount for the net
+Northern Ireland emissions account for each budgetary period.
+
+That amount is referred to as the “carbon budget” for that period.
+
+23.2
+
+The Department must—
+
+23.2.a
+
+carry out a public consultation lasting at least 16 weeks on proposed carbon
+budgets,
+
+23.2.b
+
+commission a financial, social, economic and rural impact assessment on the
+effects of the carbon budget for that period, and
+
+23.2.c
+
+consult the Northern Ireland Climate Commissioner, the other Northern Ireland
+departments and the Just Transition Commission and lay proposals before the
+Assembly.
+
+23.3
+
+When seeking advice on setting the carbon budget, or on other environmental
+issues, the Department is to give due regard to the expertise and advice of
+the following bodies—
+
+23.3.a
+
+the Republic of Ireland Climate Change Advisory Council; and
+
+23.3.b
+
+the Intergovernmental Panel on Climate Change.
+
+23.4
+
+The budgetary periods are—
+
+23.4.a
+
+2023 to 2027, and
+
+23.4.b
+
+each succeeding period of five years.
+
+23.5
+
+The Department may by regulations amend subsection (4) so as to change a
+budgetary period.
+
+23.6
+
+See—
+
+23.6.a
+
+sections 25 to 28 for provision about the setting and adjustment of carbon
+budgets, and
+
+23.6.b
+
+section 55 for restrictions on the power conferred by subsection (5).
+
+#### Emissions not to exceed carbon budget
+
+24
+
+The Northern Ireland departments must ensure that the net Northern Ireland
+emissions account for each budgetary period does not exceed the carbon budget
+for that period.
+
+#### Setting of carbon budgets: principles
+
+25
+
+The Department must—
+
+25.a
+
+set the carbon budget for each budgetary period up to and including the
+budgetary period 2048 to 2052 at a level that it is satisfied is consistent
+with meeting the emissions targets for 2050 (see section 1);
+
+25.b
+
+set the carbon budget for the budgetary periods 2033 to 2037 and 2038 to 2042
+at a level that it is satisfied is consistent with meeting the emissions
+target for 2040 (see section 3); and
+
+25.c
+
+set the carbon budget for the budgetary periods 2023 to 2027 and 2028 to 2032
+at a level that it is satisfied is consistent with meeting the emissions
+targets for 2030 and 2040 (see sections 3 and 4).
+
+#### Setting of carbon budgets: social, environmental and economic factors
+
+26
+
+26.1
+
+In setting a carbon budget, the Department must take account of—
+
+26.1.a
+
+the objective of not exceeding a fair and safe emissions budget,
+
+26.1.b
+
+European and international law and policy relating to climate change
+(including the United Nations Framework Convention on Climate Change and the
+protocols to that Convention),
+
+26.1.c
+
+scientific knowledge about climate change,
+
+26.1.d
+
+technology relevant to climate change,
+
+26.1.e
+
+economic circumstances, in particular the likely impact of the budget on—
+
+26.1.e.i
+
+the economy,
+
+26.1.e.ii
+
+the competitiveness of particular sectors of the economy,
+
+26.1.e.iii
+
+small and medium-sized enterprises,
+
+26.1.e.iv
+
+jobs and employment opportunities,
+
+26.1.f
+
+fiscal circumstances, in particular the likely impact of the budget on
+taxation, public spending and public borrowing,
+
+26.1.g
+
+social circumstances, in particular the likely impact of the budget on those
+living in poorer or deprived communities,
+
+26.1.h
+
+the likely impact of the budget on public health,
+
+26.1.i
+
+the likely impact of the budget on those living in remote rural communities
+and island communities,
+
+26.1.j
+
+energy policy, in particular the likely impact of the budget on energy
+supplies, the renewable energy sector and the carbon and energy intensity of
+the economy,
+
+26.1.k
+
+environmental considerations, in particular the likely impact of the budget on
+biodiversity,
+
+26.1.l
+
+the likely impact of the budget on the achievement of sustainable development,
+including the achievement of the United Nations sustainable development goals,
+
+26.1.m
+
+current international carbon reporting practice,
+
+26.1.n
+
+the special economic and social role of agriculture, including the distinct
+characteristics of biogenic methane,
+
+26.1.o
+
+the risk of substantial and unreasonable carbon leakage.
+
+26.2
+
+“Carbon leakage” means the transfer of the production of goods (including
+agricultural goods) and the provision of services to countries without
+comparable climate change policies.
+
+26.3
+
+In subsection (2), “comparable climate change policies” are policies that are
+intended to achieve reductions in greenhouse gas emissions for the country in
+question which are equivalent to the targets set out in sections 1, 3 and 4,
+by the years set out in those sections.
+
+#### Setting of carbon budgets: timing
+
+27
+
+27.1
+
+The Department must—
+
+27.1.a
+
+set the carbon budgets for the first three budgetary periods before the end of
+2023, and
+
+27.1.b
+
+set the carbon budget for the fourth and subsequent budgetary periods at least
+twelve years before the start of the period in question.
+
+27.2
+
+The Department may by regulations—
+
+27.2.a
+
+amend the carbon budget for any budgetary period before the start of the
+period (and not otherwise);
+
+27.2.b
+
+amend subsection (1) so as to change the date by which a carbon budget must be
+set.
+
+27.3
+
+See section 54 for restrictions on the power conferred by subsection (2)(a).
+
+#### Carrying amounts from one budgetary period to another
+
+28
+
+28.1
+
+The Department may decide to carry part of the carbon budget for a budgetary
+period back to the preceding budgetary period.
+
+28.2
+
+If the Department carries back part of the carbon budget—
+
+28.2.a
+
+the budget for the later period is reduced, and
+
+28.2.b
+
+the budget for the earlier period is increased,
+
+by the amount carried back.
+
+28.3
+
+The amount carried back must not exceed 1% of the carbon budget for the later
+period.
+
+28.4
+
+The Department may decide to carry any unused part of the carbon budget for a
+budgetary period forward to the next budgetary period.
+
+28.5
+
+If the Department carries forward part of the carbon budget—
+
+28.5.a
+
+the budget for the later period is increased, and
+
+28.5.b
+
+the budget for the earlier period is reduced,
+
+by the amount carried forward.
+
+28.6
+
+The carbon budget for a period is “unused” to the extent that it exceeds the
+net Northern Ireland emissions account for the period.
+
+28.7
+
+Before deciding to carry an amount back or forward under this section, the
+Department must consult—
+
+28.7.a
+
+the other Northern Ireland departments,
+
+28.7.b
+
+the Committee on Climate Change, and
+
+28.7.c
+
+the Northern Ireland Climate Commissioner.
+
+28.8
+
+Each Northern Ireland department must provide such assistance as the
+Department requires when deciding to carry an amount back or forward under
+this section.
+
+28.9
+
+Section 39 provides for the reporting of a decision under this section.
+
+### Reports and Statements against Targets and Budgets etc
+
+#### Carbon budgets
+
+##### Proposals and policies for meeting carbon budget
+
+29
+
+29.1
+
+The Department must prepare and publish a report for each budgetary period
+setting out proposals and policies for meeting the carbon budget for that
+period.
+
+29.2
+
+References in this Act to a “climate action plan” are to a report under this
+section.
+
+29.3
+
+The report must set out proposals and policies covering the areas of
+responsibility of each Northern Ireland department.
+
+29.4
+
+When developing policies each department must ensure they are consistent with
+the targets set out in the carbon budget.
+
+29.5
+
+Having consulted the relevant sector-specific advisory groups, each Northern
+Ireland department must provide the Department with—
+
+29.5.a
+
+its proposals and policies in its areas of responsibility, and
+
+29.5.b
+
+such other assistance as the Department requires in the preparation of the
+report.
+
+29.6
+
+Each Northern Ireland department must provide its proposals and policies for a
+budgetary period before the end of the first nine months of that period.
+
+29.7
+
+The Department must lay the report for a budgetary period before the Assembly
+before the end of the first year of that period.
+
+29.8
+
+The Department must publish the report for public consultation for a period of
+not less than 16 weeks ending on a day which is not less than 10 working days
+before that report is laid before the Assembly.
+
+29.9
+
+The Department must lay the results of the public consultation in subsection
+(8) before the Assembly at the same time as it lays the report.
+
+##### Requirements for proposals and policies under section 29
+
+30
+
+30.1
+
+In deciding its proposals and policies for the purposes of section 29, each
+Northern Ireland department must—
+
+30.1.a
+
+have regard to the desirability of co-ordinating those proposals and policies
+with corresponding proposals and policies in other parts of the United
+Kingdom, in the Republic of Ireland (recognising that the island of Ireland is
+a single biogeographic unit) or elsewhere;
+
+30.1.b
+
+consult such persons as it considers appropriate (including, where
+appropriate, any public body responsible in any other jurisdiction for
+providing advice or making recommendations in connection with adaptation to,
+or the mitigation of the effects of, climate change);
+
+30.1.c
+
+commission a financial, social, economic and rural impact assessment on the
+effects of the proposals and policies; and
+
+30.1.d
+
+give due regard to the special economic and social role of agriculture,
+including the distinct characteristics of biogenic methane.
+
+30.2
+
+In deciding its proposals and policies for the purposes of section 29, each
+Northern Ireland department must also have regard to—
+
+30.2.a
+
+the just transition principle (see subsection (3)), and
+
+30.2.b
+
+the desirability of using and supporting nature-based projects (see subsection
+(5)), whether alone or together with other types of action.
+
+30.3
+
+The just transition principle is the importance, in taking action to reduce
+Northern Ireland emissions and increase Northern Ireland removals, of doing so
+in a manner which, so far as possible, achieves the objectives of—
+
+30.3.a
+
+supporting jobs and the growth of jobs that are climate resilient and
+environmentally and socially sustainable,
+
+30.3.b
+
+in particular, supporting the agriculture sector and other sectors of the
+economy in Northern Ireland that are likely to be most affected by action to
+reduce those emissions and increase those removals,
+
+30.3.c
+
+supporting low-carbon investment and infrastructure,
+
+30.3.d
+
+developing and maintaining consensus through engagement with (among others)
+workers, trade unions, communities, non-governmental organisations and
+representatives of the interests of business and industry,
+
+30.3.e
+
+creating decent, fair and high-value work in a way which does not negatively
+affect the current workforce,
+
+30.3.f
+
+contributing to a resource-efficient and sustainable economy,
+
+30.3.g
+
+supporting persons who are most affected by climate change, particularly those
+who may have done the least to cause it or may be the least equipped to adapt
+to its effects,
+
+30.3.h
+
+reducing, with a view to eliminating, poverty, inequality and social
+deprivation,
+
+30.3.i
+
+eliminating gender inequality and advancing equality of opportunity between
+men and women,
+
+30.3.j
+
+supporting the social and economic needs of people in rural areas, and
+
+30.3.k
+
+taking into account the future generations principle.
+
+30.4
+
+In this section—
+
+30.4.a
+
+“climate resilient” when used in relation to jobs and job growth, refers to
+the ability of social, economic and environmental systems to adapt to the
+effects of climate change;
+
+30.4.b
+
+“environmentally and socially sustainable”, when used in relation to jobs and
+job growth, refers to the creation and promotion of jobs in a way which
+conserves and improves natural resources in accordance with the future
+generations principle;
+
+30.4.c
+
+the “future generations principle” means acting in a manner which seeks to
+ensure that the needs of the present are met without compromising the ability
+of future generations to meet their own needs.
+
+30.5
+
+“Nature-based projects” are projects to protect, restore or sustainably manage
+ecosystems in order to—
+
+30.5.a
+
+promote both human well-being and biodiversity, or
+
+30.5.b
+
+provide other environmental, social and economic benefits.
+
+30.6
+
+Each climate action plan must explain how the proposals and policies set out
+in the plan take account of the just transition principle.
+
+30.7
+
+Each climate action plan must explain how the Department intends to mitigate
+any negative effects uncovered in the relevant financial, social, economic and
+rural impact assessment.
+
+30.8
+
+The duty under subsection (2) is in addition to, and does not limit, the duty
+under section 25 of the Northern Ireland (Miscellaneous Provisions) Act 2006
+(sustainable development).
+
+30.9
+
+The Department may by regulations amend subsection (3).
+
+##### Just Transition Fund for Agriculture
+
+31
+
+31.1
+
+The Department must by regulations establish a scheme for the administration
+of a fund to be known as the “Just Transition Fund for Agriculture” for the
+purpose of providing advice and financial assistance to the agriculture sector
+to deliver its contribution under proposals and policies for the purposes of
+section 29.
+
+31.2
+
+The regulations may make provision—
+
+31.2.a
+
+for determining eligibility or entitlement for advice or assistance under the
+scheme;
+
+31.2.b
+
+regarding applications (if any) for advice or assistance under the scheme;
+
+31.2.c
+
+imposing conditions or restrictions in connection with the scheme;
+
+31.2.d
+
+requiring persons to provide specified information, or imposing other
+obligations on them, in connection with the scheme;
+
+31.2.e
+
+conferring functions on the Department or other public bodies in connection
+with the scheme;
+
+31.2.f
+
+about steps to be taken to bring the scheme to the attention of persons likely
+to be eligible for assistance under it;
+
+31.2.g
+
+about the enforcement of obligations imposed by or by virtue of the
+regulations (which may include a power for the Department to impose financial
+penalties);
+
+31.2.h
+
+about the general administration of the scheme, including provision for the
+review of decisions taken under the scheme and for dealing with disputes as to
+eligibility or entitlement under the scheme;
+
+31.2.i
+
+about any other matter which appears to the Department to be necessary or
+appropriate for the efficient and effective administration of the scheme.
+
+31.3
+
+If the scheme provides for financial assistance, the regulations may make
+provision—
+
+31.3.a
+
+for the assistance to be given in any form, including, in particular, by way
+of a grant, loan or guarantee;
+
+31.3.b
+
+for determining the extent of assistance (including for the calculation of
+payments that are to be made);
+
+31.3.c
+
+for the assistance to be provided subject to such conditions as may be
+specified in, or determined in accordance with, the scheme;
+
+31.3.d
+
+for those conditions to include (in the case of a grant) conditions for
+repayment in specified circumstances;
+
+31.3.e
+
+for assistance to be provided—
+
+31.3.e.i
+
+directly to those entitled to receive it under the scheme; or
+
+31.3.e.ii
+
+indirectly (for example by being made to a public body on terms which require
+that body to provide financial assistance to those so entitled).
+
+##### Proposals and policies: targets
+
+32
+
+32.1
+
+Climate action plans must contain targets to be achieved during the relevant
+budgetary period in the following areas—
+
+32.1.a
+
+soil quality, and
+
+32.1.b
+
+biodiversity;
+
+but these targets are subject to subsection (2) of this section.
+
+32.2
+
+Targets under subsection (1) must be set in a way best calculated to achieve
+the relevant carbon budget after taking the following matters into account—
+
+32.2.a
+
+international law, including, in particular, the United Nations Framework
+Convention on Climate Change;
+
+32.2.b
+
+the impact of such targets on the environment of Northern Ireland;
+
+32.2.c
+
+the impact of such targets on public health and well-being;
+
+32.2.d
+
+the impact of such targets on fiscal, economic and social circumstances
+specific to Northern Ireland;
+
+32.2.e
+
+the just transition principle;
+
+32.2.f
+
+the transboundary impact.
+
+32.3
+
+Climate action plans must also include annual targets on—
+
+32.3.a
+
+greenhouse gas emissions, and
+
+32.3.b
+
+air quality.
+
+##### Proposals and policies: further provision
+
+33
+
+Proposals and policies under section 29 must ensure that the relevant carbon
+budget is achieved in the following sectors—
+
+33.a
+
+energy production and supply (including for residential, public and district
+heating and cooling purposes);
+
+33.b
+
+transport (including shipping and aviation);
+
+33.c
+
+infrastructure (including infrastructure for electric vehicular transport);
+
+33.d
+
+business and industrial processes;
+
+33.e
+
+residential and public (in relation to buildings in these sectors);
+
+33.f
+
+waste management;
+
+33.g
+
+agriculture;
+
+33.h
+
+land use and land-use change, including forestry;
+
+33.i
+
+fisheries; and
+
+33.j
+
+the provision of financial assistance to any person in connection with—
+
+33.j.i
+
+the promotion of economic development in Northern Ireland or any part of
+Northern Ireland; and
+
+33.j.ii
+
+the provision of infrastructure, goods or services in Northern Ireland or any
+part of Northern Ireland;
+
+provided that, when setting out proposals and policies in respect of energy
+production and supply, the advices and recommendations of the SEM Committee
+regarding matters in relation to which it has functions under Article 6(2) of
+the Electricity (Single Wholesale Market) (Northern Ireland) Order 2007 must
+be obtained and must be taken into account.
+
+##### Proposals and policies: nature based solutions
+
+34
+
+Proposals and policies under section 29 shall as far as is practicable,
+support nature based projects that enhance biodiversity, protect and restore
+ecosystems, and seek to reduce, or increase the removal of, greenhouse gas
+emissions or support climate resilience.
+
+##### Proposals and policies: workforce, employers and communities
+
+35
+
+35.1
+
+Each climate action plan must—
+
+35.1.a
+
+explain how the proposals and policies set out in the plan are expected to
+affect the workforce, employers and communities; and
+
+35.1.b
+
+include proposals and policies for supporting the workforce, employers and
+communities.
+
+35.2
+
+The explanation, proposals and policies included under subsection (1) must
+make particular reference to small businesses.
+
+35.3
+
+In subsection (2), a “small business” is a business that employs fewer than 50
+persons.
+
+35.4
+
+The Department may by regulations amend subsection (3); and such regulations
+may define a small business by reference to such matters (or combination of
+matters) as the Department considers appropriate (including, in particular,
+the number of its employees, its turnover and its balance sheet).
+
+##### Proposals and policies: carbon leakage
+
+36
+
+36.1
+
+In deciding its proposals and policies for the purposes of section 29, each
+Northern Ireland department must take into account—
+
+36.1.a
+
+the risk that implementation of those proposals and policies will result in
+carbon leakage, and
+
+36.1.b
+
+the desirability of eliminating or minimising that risk.
+
+36.2
+
+“Carbon leakage” means the transfer of the production of goods (including
+agricultural goods) and the provision of services to countries without
+comparable climate change policies.
+
+36.3
+
+In subsection (2), “comparable climate change policies” are policies that are
+intended to achieve reductions in greenhouse gas emissions for the country in
+question which are equivalent to the targets set out in sections 1, 3 and 4,
+by the years set out in those sections.
+
+##### Just Transition Commission
+
+37
+
+37.1
+
+The Department must by regulations establish a body to be known as the “Just
+Transition Commission”.
+
+37.2
+
+The functions of the Commission are to—
+
+37.2.a
+
+oversee the implementation of the just transition elements of this Act, and
+
+37.2.b
+
+provide advice to the Northern Ireland departments on how to ensure that
+proposals, policies, strategies and plans required under this Act comply with
+the just transition principle.
+
+37.3
+
+Regulations under subsection (1)—
+
+37.3.a
+
+must make provision for the constitution of the Commission (including, in
+particular, its membership, general powers and proceedings);
+
+37.3.b
+
+may provide that the Commission is established as a body corporate (and that
+section 19 of the Interpretation Act (Northern Ireland) 1954 applies to it
+with such modifications (if any) as may be prescribed in the regulations);
+
+37.3.c
+
+may make provision for the payment of remuneration and allowances to members
+of the Commission, and for the defraying of its expenses;
+
+37.3.d
+
+may make provision in relation to accounting, reporting and record-keeping by
+the Commission;
+
+37.3.e
+
+may make such further provision in relation to the Commission as the
+Department considers appropriate.
+
+37.4
+
+Regulations made by virtue of subsection (3)(a) must provide for the members
+of the Commission to include a representative of each of the following—
+
+37.4.a
+
+the agricultural sector;
+
+37.4.b
+
+the fisheries sector;
+
+37.4.c
+
+academia;
+
+37.4.d
+
+trade unions;
+
+37.4.e
+
+youth groups;
+
+37.4.f
+
+civic society;
+
+37.4.g
+
+environmental groups.
+
+(But this does not prevent the regulations from providing for other persons to
+be members of the Commission.)
+
+37.5
+
+Regulations under subsection (1) may also make provision about the functions
+of the Commission, including provision specifying—
+
+37.5.a
+
+how the oversight function is to be performed;
+
+37.5.b
+
+what the just transition elements of this Act are.
+
+##### Interim progress reporting for budgetary period
+
+38
+
+38.1
+
+The Department must, during the course of each budgetary period, prepare and
+publish a report setting out what progress has been made in implementing the
+proposals and policies set out in the climate action plan prepared under
+section 29 for that period.
+
+38.2
+
+Each Northern Ireland department must provide the Department with—
+
+38.2.a
+
+information on the progress it has made in its areas of responsibility in
+implementing its proposals and policies, and
+
+38.2.b
+
+such other assistance as the Department requires in the preparation of the
+report.
+
+38.3
+
+Each Northern Ireland department must provide the information on its progress
+for a budgetary period before the end of the first 33 months of that period.
+
+38.4
+
+The Department must lay the report for a budgetary period before the Assembly
+before the end of the third year of that period.
+
+##### Final statement for budgetary period
+
+39
+
+39.1
+
+The Department must—
+
+39.1.a
+
+prepare a final statement for each budgetary period in accordance with this
+section, and
+
+39.1.b
+
+lay the statement before the Assembly before the end of the second year after
+that period.
+
+39.2
+
+A final statement under this section must state, in respect of each greenhouse
+gas—
+
+39.2.a
+
+the total amount of Northern Ireland emissions,
+
+39.2.b
+
+the total amount of Northern Ireland removals, and
+
+39.2.c
+
+the total amount of net Northern Ireland emissions,
+
+for the period.
+
+39.3
+
+It must—
+
+39.3.a
+
+state the total amount of carbon units that have been credited to or debited
+from the net Northern Ireland emissions account for the period, and
+
+39.3.b
+
+give details of the number and type of those units.
+
+39.4
+
+It must state the final amount of the net Northern Ireland emissions account
+for the period.
+
+39.5
+
+It must—
+
+39.5.a
+
+state whether the Department has decided to carry an amount back or forward
+under section 28 so as to increase or reduce the carbon budget for the period,
+and
+
+39.5.b
+
+if so, state the amount carried back or forward.
+
+39.6
+
+It must state the final amount of the carbon budget for the period.
+
+39.7
+
+Whether the carbon budget for a period has been met is to be determined by
+reference to the information in the statement for that period.
+
+39.8
+
+The statement must explain why the carbon budget for the period has, or has
+not, been met.
+
+39.9
+
+In particular, it must include an assessment of the extent to which the
+proposals and policies for meeting the carbon budget set out in the climate
+action plan under section 29 for the period—
+
+39.9.a
+
+have been carried out, and
+
+39.9.b
+
+have contributed to the carbon budget for the period being met or not being
+met.
+
+39.10
+
+The statement under subsection (8) and assessment under subsection (9) must
+cover the areas of responsibility of each Northern Ireland department.
+
+39.11
+
+Each Northern Ireland department must provide the Department with—
+
+39.11.a
+
+an explanation of what it considers to be the reasons why the carbon budget
+for the period has, or has not, been met, so far as relating to its areas of
+responsibility,
+
+39.11.b
+
+its assessment of the extent to which its proposals and policies for meeting
+the carbon budget—
+
+39.11.b.i
+
+have been carried out, and
+
+39.11.b.ii
+
+have contributed to the carbon budget for the period being met or not being
+met, and
+
+39.11.c
+
+such other assistance as the Department requires in the preparation of the
+statement.
+
+39.12
+
+Each Northern Ireland department must provide its explanation and assessment
+for a budgetary period before the end of the first 21 months after that
+period.
+
+##### Proposals and policies where carbon budget not met
+
+40
+
+40.1
+
+This section applies if the Department has laid a final statement before the
+Assembly under section 39 in respect of a budgetary period for which the net
+Northern Ireland emissions account exceeds the carbon budget.
+
+40.2
+
+No later than three months after laying the statement, the Department must lay
+before the Assembly a report setting out proposals and policies to compensate
+for the excess emissions in subsequent budgetary periods.
+
+40.3
+
+Each Northern Ireland department must provide such assistance as the
+Department requires in the preparation of the report.
+
+#### Emissions targets
+
+##### Statements on compliance with emissions targets
+
+41
+
+41.1
+
+The Department must—
+
+41.1.a
+
+prepare a statement for each of the years 2030, 2040 and 2050 in accordance
+with this section, and
+
+41.1.b
+
+lay each statement before the Assembly before the end of the second year after
+the year to which it relates.
+
+41.2
+
+A statement under this section must state, in respect of each greenhouse gas—
+
+41.2.a
+
+the total amount of Northern Ireland emissions,
+
+41.2.b
+
+the total amount of Northern Ireland removals, and
+
+41.2.c
+
+the total amount of net Northern Ireland emissions,
+
+for the year to which the statement relates.
+
+41.3
+
+It must—
+
+41.3.a
+
+state the total amount of carbon units that have been credited to or debited
+from the net Northern Ireland emissions account for the year, and
+
+41.3.b
+
+give details of the number and type of those units.
+
+41.4
+
+It must state the amount of the net Northern Ireland emissions account for the
+year.
+
+41.5
+
+The statement for 2050 must also state—
+
+41.5.a
+
+the total amount of carbon units (if any) that have been credited to or
+debited from the net Northern Ireland emissions account for carbon dioxide for
+that year, and
+
+41.5.b
+
+the amount of the net Northern Ireland emissions account for carbon dioxide
+for that year.
+
+41.6
+
+Whether the emissions target (or targets) for 2030, 2040 or 2050 has (or have)
+been met is to be determined by reference to the information in the statement
+for that year.
+
+41.7
+
+The statement must explain why the target (or each of the targets) for the
+year has, or has not, been met.
+
+41.8
+
+Each Northern Ireland department must provide the Department with—
+
+41.8.a
+
+an explanation of what it considers to be the reasons why the target (or each
+of the targets) for the year has, or has not, been met, so far as relating to
+its areas of responsibility, and
+
+41.8.b
+
+such other assistance as the Department requires in the preparation of the
+statement.
+
+41.9
+
+Each Northern Ireland department must provide its explanation before the end
+of the first 21 months after the year to which the statement relates.
+
+#### Other reports
+
+##### Climate change reporting by public bodies
+
+42
+
+42.1
+
+The Department must make regulations that impose, on specified public bodies,
+specified climate change reporting duties.
+
+“Specified” means specified in the regulations.
+
+42.2
+
+In this section “public body” means—
+
+42.2.a
+
+a person or body with functions of a public nature;
+
+42.2.b
+
+a person who is a statutory undertaker within the meaning of the Planning Act
+(Northern Ireland) 2011 (see section 250 of that Act).
+
+42.3
+
+The climate change reporting duties that may be imposed on a body under
+subsection (1) include in particular duties to prepare reports containing any
+of the following—
+
+42.3.a
+
+an assessment of the current and predicted impact of climate change in
+relation to the body’s functions;
+
+42.3.b
+
+a statement of the body’s proposals and policies for adapting to, or
+mitigating the effects of, climate change in the exercise of its functions;
+
+42.3.c
+
+a statement of the time-scales for implementing those proposals and policies;
+
+42.3.d
+
+an assessment of the progress made by the body towards implementing the
+proposals and policies set out in any previous reports prepared under the
+regulations.
+
+42.4
+
+The regulations may require public bodies to have regard to (among other
+things) the following, so far as relevant—
+
+42.4.a
+
+the most recent report under section 56 of the Climate Change Act 2008 (report
+on impact of climate change);
+
+42.4.b
+
+the most recent programme under section 60 of that Act (programme for
+adaptation to climate change for Northern Ireland);
+
+42.4.c
+
+the desirability of co-ordinating the proposals and policies referred to in
+subsection (3)(b) with corresponding proposals and policies in other parts of
+the United Kingdom, in the Republic of Ireland or elsewhere.
+
+42.5
+
+The regulations may make provision about—
+
+42.5.a
+
+the contents of a report (including the time period to which the report
+relates);
+
+42.5.b
+
+the time period within which a report must be prepared;
+
+42.5.c
+
+co-operation between public bodies in the preparation of a report, or the
+preparation of a joint report by two or more public bodies;
+
+42.5.d
+
+the form of reports;
+
+42.5.e
+
+the publication of reports.
+
+42.6
+
+The regulations may confer functions on the Department in connection with the
+duties imposed by the regulations.
+
+42.7
+
+The Department must consult such public bodies, and such other persons, as it
+considers appropriate before making the regulations.
+
+42.8
+
+The first regulations made under this section must come into operation before
+the end of the period of 18 months beginning with the day on which this Act
+receives Royal Assent.
+
+### Reports by Committee on Climate Change
+
+#### Progress report during first budgetary period
+
+43
+
+43.1
+
+Before the end of 2027, the Committee on Climate Change must send a report to
+the Department setting out the Committee’s views on—
+
+43.1.a
+
+the progress that has been made towards meeting—
+
+43.1.a.i
+
+the emissions targets that have been set by section 1, 3 and 4, and
+
+43.1.a.ii
+
+the carbon budgets that have been set under section 23,
+
+43.1.b
+
+whether those targets and budgets are likely to be met, and
+
+43.1.c
+
+any further measures that are needed to meet those targets and budgets.
+
+43.2
+
+The Department must lay a copy of the report before the Assembly as soon as
+reasonably practicable after receiving it.
+
+#### Progress reports after statement about each budgetary period
+
+44
+
+44.1
+
+No later than six months after the Department lays the final statement for a
+budgetary period before the Assembly under section 39, the Committee on
+Climate Change must send a report to the Department setting out the
+Committee’s views on—
+
+44.1.a
+
+the way in which the carbon budget for the period was, or was not, met,
+
+44.1.b
+
+the action taken by the Northern Ireland departments to reduce net Northern
+Ireland emissions of greenhouse gases during the period,
+
+44.1.c
+
+the progress that has been made towards meeting—
+
+44.1.c.i
+
+the emissions targets that have been set by section 1, 3 and 4, and
+
+44.1.c.ii
+
+the carbon budgets that have been set under section 23,
+
+44.1.d
+
+whether those targets and budgets are likely to be met, and
+
+44.1.e
+
+any further measures that are needed to meet those targets and budgets.
+
+44.2
+
+Subsection (1)(c) to (e) do not require the Committee to set out its views on
+the matters mentioned in those paragraphs to the extent that they concern
+targets and budgets relating to periods of time that end before the report is
+sent.
+
+44.3
+
+The Department must lay a copy of the report before the Assembly as soon as
+reasonably practicable after receiving it.
+
+#### Progress report after statement about emissions target for 2030
+
+45
+
+45.1
+
+No later than six months after the Department lays the statement under section
+41 for 2030 before the Assembly, the Committee on Climate Change must send a
+report to the Department setting out the Committee’s views on—
+
+45.1.a
+
+whether the emissions targets for 2040 and 2050 are the highest achievable
+targets,
+
+45.1.b
+
+if any of them is not the highest achievable target—
+
+45.1.b.i
+
+what is the highest achievable target, and
+
+45.1.b.ii
+
+what further measures are needed to meet the highest achievable target.
+
+45.2
+
+The Department must lay a copy of the report before the Assembly as soon as
+reasonably practicable after receiving it.
+
+#### Progress report after statement about emissions target for 2040
+
+46
+
+46.1
+
+No later than six months after the Department lays the statement under section
+41 for 2040 before the Assembly, the Committee on Climate Change must send a
+report to the Department setting out the Committee’s views on—
+
+46.1.a
+
+whether the emissions targets for 2050 are the highest achievable targets,
+
+46.1.b
+
+if either of them is not the highest achievable target—
+
+46.1.b.i
+
+what is the highest achievable target, and
+
+46.1.b.ii
+
+what further measures are needed to meet the highest achievable target.
+
+46.2
+
+The Department must lay a copy of the report before the Assembly as soon as
+reasonably practicable after receiving it.
+
+#### Response to progress reports
+
+47
+
+47.1
+
+The Department must prepare a response to the points raised by each report of
+the Committee on Climate Change under sections 43 to 46.
+
+47.2
+
+Each Northern Ireland department must provide such assistance as the
+Department requires in the preparation of the response.
+
+47.3
+
+The Department must lay the response before the Assembly within six months of
+receiving the report from the Committee.
+
+#### Adaptation programme reports
+
+48
+
+48.1
+
+This section applies where a programme is laid before the Assembly under
+section 60 of the Climate Change Act 2008 (programme for adaptation to climate
+change for Northern Ireland).
+
+48.2
+
+No later than 3 years after the programme is laid, the Committee on Climate
+Change must send a report to the Department setting out—
+
+48.2.a
+
+the Committee’s assessment of the progress made towards implementing the
+objectives, proposals and policies set out in the programme, and
+
+48.2.b
+
+the Committee’s recommendations for the next programme to be laid under
+section 60 of that Act.
+
+48.3
+
+The Department must lay a copy of the report before the Assembly as soon as
+reasonably practicable after receiving it.
+
+#### Response to adaptation programme reports
+
+49
+
+49.1
+
+The Department must prepare a response to the points raised by each report of
+the Committee on Climate Change under section 48.
+
+49.2
+
+Each Northern Ireland department must provide such assistance as the
+Department requires in the preparation of the response.
+
+49.3
+
+The Department must lay the response before the Assembly within six months of
+receiving the report from the Committee.
+
+### FURTHER OVERSIGHT
+
+#### Northern Ireland Climate Commissioner
+
+50
+
+50.1
+
+The Executive Office must by regulations establish an independent office to be
+known as the “Northern Ireland Climate Commissioner”.
+
+50.2
+
+The functions of the Commissioner are to oversee and report on the operations
+of this Act.
+
+50.3
+
+Regulations under subsection (1)—
+
+50.3.a
+
+must make provision for the appointment of the Commissioner;
+
+50.3.b
+
+may provide that the Commissioner is to be a corporation sole;
+
+50.3.c
+
+may make provision about the general powers of the Commissioner;
+
+50.3.d
+
+may make provision for the payment of remuneration and allowances to the
+Commissioner, and for the defraying of the Commissioner’s expenses;
+
+50.3.e
+
+may make provision in relation to accounting, reporting and record-keeping by
+the Commissioner;
+
+50.3.f
+
+may make provision for the appointment of officers and staff by the
+Commissioner;
+
+50.3.g
+
+may make provision about the acquisition and disposal by the Commissioner of
+property, rights and liabilities (including land);
+
+50.3.h
+
+may make such further provision in relation to the Commissioner as the
+Executive Office considers appropriate.
+
+50.4
+
+Regulations under subsection (1) may also make provision about the functions
+of the Commissioner, including provision specifying how the oversight and
+reporting functions are to be performed.
+
+50.5
+
+The first regulations under subsection (1) must be laid in draft before the
+Assembly within the period of 2 years beginning with the day on which this Act
+receives Royal Assent.
+
+#### Climate action plan
+
+51
+
+51.1
+
+The Department must lay before the Assembly and publish a plan, known as the
+climate action plan, within 24 months from the day on which this Act receives
+Royal Assent.
+
+51.2
+
+Before laying each plan before the Assembly, the Department must commission a
+financial, social, economic and rural impact assessment on the effects of the
+draft climate action plan and carry out a public consultation on the draft
+climate action plan, including consultation with sector-specific advisory
+groups, lasting at least 16 weeks.
+
+51.3
+
+Subsequent plans must be published within 5 years from the date on which the
+previous plan was laid before the Assembly.
+
+51.4
+
+The climate action plan must set out how the interim targets and the target of
+net zero will be achieved by the year 2050.
+
+51.5
+
+Climate action plans must be climate resilient and support an environmentally
+sustainable economy.
+
+51.6
+
+The plans must include annual targets on—
+
+51.6.a
+
+greenhouse gas emissions, and
+
+51.6.b
+
+air quality.
+
+51.7
+
+“Climate resilient” means the ability to minimise, mitigate or remedy the
+effects of climate change.
+
+### Supplementary
+
+#### Duties in relation to emissions
+
+##### Duties to ensure that targets etc are met
+
+52
+
+52.1
+
+The duties mentioned in sections 1, 3 to 5 and 24 on the Northern Ireland
+departments (namely, to ensure that the net Northern Ireland emissions account
+is below a certain amount and that the net Northern Ireland emissions account
+for carbon dioxide for 2050 is below a certain amount) are duties on each of
+them—
+
+52.1.a
+
+to exercise its own functions, so far as is possible to do so, in a manner
+that is consistent with the achievement of that objective,
+
+52.1.b
+
+so far as is consistent with the proper exercise of its own functions, to co-
+operate with each of the other departments in the performance by the other
+department of the other department’s duty under paragraph (a), and
+
+52.1.c
+
+to draw up and implement such plans, policies and strategies as may be
+appropriate for the purpose of performing its duties under paragraphs (a) and
+(b).
+
+52.2
+
+The Northern Ireland departments should, as far as reasonably practicable,
+align such plans, policies and strategies to those of the Republic of Ireland.
+
+52.3
+
+Subsection (1) is in addition to (and does not limit) the duties under other
+sections of this Act.
+
+#### Regulation-making powers: general
+
+##### Regulations: general
+
+53
+
+53.1
+
+Regulations under this Act may make such consequential or supplementary
+provision as the Department considers appropriate.
+
+53.2
+
+The provision that may be made under subsection (1) includes, in particular,
+provision that—
+
+53.2.a
+
+amends this Act, or
+
+53.2.b
+
+amends the carbon budget for any budgetary period before the start of the
+period (but not otherwise).
+
+53.3
+
+Regulations may not be made under any provision of this Act unless a draft of
+the regulations has been laid before, and approved by a resolution of, the
+Assembly; but this is subject to subsection (4).
+
+53.4
+
+Regulations under section 9(4) or 42(1) are subject to negative resolution,
+unless they contain consequential or supplementary provision of the kind
+mentioned in subsection (2).
+
+53.5
+
+See sections 54 and 55 for restrictions on the power to make provision
+mentioned in subsection (2).
+
+#### Regulation-making powers: restrictions and considerations
+
+##### Regulations that amend or add an emissions target or amend a carbon budget
+
+54
+
+54.1
+
+This section applies in relation to the making of regulations, under any
+provision of this Act, that—
+
+54.1.a
+
+amend an emissions target or add a new target in relation to emissions, or
+
+54.1.b
+
+amend a carbon budget.
+
+54.2
+
+The Department may make such regulations only if—
+
+54.2.a
+
+it is satisfied that it is appropriate to do so as a result of significant
+developments in one or more of the following matters—
+
+54.2.a.i
+
+United Kingdom or international law or policy relating to climate change;
+
+54.2.a.ii
+
+scientific knowledge about climate change;
+
+54.2.a.iii
+
+technology relevant to climate change; or
+
+54.2.b
+
+the provision made by the regulations—
+
+54.2.b.i
+
+has been recommended by the Committee on Climate Change, or
+
+54.2.b.ii
+
+is not substantially different from provision that has been recommended by the
+Committee.
+
+54.3
+
+When making such regulations, the Department must have regard to the following
+matters—
+
+54.3.a
+
+United Kingdom and international law or policy relating to climate change,
+
+54.3.b
+
+scientific knowledge about climate change,
+
+54.3.c
+
+technology relevant to climate change, and
+
+54.3.d
+
+the views of the Northern Ireland Climate Commissioner and the Just Transition
+Commission.
+
+54.4
+
+But if the Department is satisfied that it is appropriate to make the
+regulations as a result of significant developments in a matter listed in
+subsection (2)(a) the Department is not also required by subsection (3) to
+have separate regard to that matter.
+
+##### Regulations that specify a different baseline year or change a budgetary period
+
+55
+
+55.1
+
+This section applies in relation to the making of regulations, under any
+provision of this Act, that—
+
+55.1.a
+
+specify a different baseline year for a greenhouse gas, or
+
+55.1.b
+
+change a budgetary period.
+
+55.2
+
+The Department may make such regulations only if it is satisfied that it is
+appropriate to do so as a result of significant developments in United Kingdom
+or international law or policy relating to climate change.
+
+#### Regulation-making powers: advice
+
+##### Requirement to obtain advice about proposals to make regulations
+
+56
+
+56.1
+
+This section applies in relation to the making of regulations under any
+provision of this Act, except regulations that are made in accordance with
+section 54(2)(b) (recommendation by the Committee on Climate Change).
+
+56.2
+
+Before making regulations under section 9(4) or 42(1), or laying draft
+regulations before the Assembly under section 53(3), the Department must—
+
+56.2.a
+
+request advice from the Committee on Climate Change about the proposal to make
+the regulations, and
+
+56.2.b
+
+take the Committee’s advice into account.
+
+56.3
+
+When the Department requests advice from the Committee on Climate Change under
+this section, it must specify a reasonable period within which the advice must
+be provided.
+
+56.4
+
+The Committee must provide the advice within that period.
+
+56.5
+
+The Committee’s advice must set out the reasons for the advice.
+
+56.6
+
+The Department must publish the Committee’s advice as soon as reasonably
+practicable after receiving it.
+
+56.7
+
+Subsections (8) and (9) apply where—
+
+56.7.a
+
+the Committee’s advice includes recommendations as to provision that should be
+made by regulations, and
+
+56.7.b
+
+the Department intends to make regulations that differ from that
+recommendation.
+
+56.8
+
+If the regulations are to be laid in draft before the Assembly, the Department
+must at the same time lay before the Assembly a statement setting out the
+reasons for the difference.
+
+56.9
+
+Otherwise, the Department must, on making the regulations, publish a statement
+setting out the reasons for the difference.
+
+##### Advice about proposed regulations relating to targets
+
+57
+
+57.1
+
+Subsections (2) and (3) apply where—
+
+57.1.a
+
+the Department proposes to make regulations, under any provision of this Act,
+that—
+
+57.1.a.i
+
+specify a different year for a particular emissions target, or
+
+57.1.a.ii
+
+specify a different percentage for a particular year, and
+
+57.1.b
+
+the Committee on Climate Change provides advice under section 56.
+
+57.2
+
+Where the Department proposes to make regulations that specify a different
+year for a particular target, the Committee’s advice must include the
+Committee’s opinion as to—
+
+57.2.a
+
+whether the year proposed is the earliest year for which the target could be
+achieved, and
+
+57.2.b
+
+if not, what is the earliest year for which the target could be achieved.
+
+57.3
+
+Where the Department proposes to make regulations that specify a different
+percentage for a particular year, the Committee’s advice must include the
+Committee’s opinion as to—
+
+57.3.a
+
+whether the percentage proposed is the highest percentage achievable for the
+year, and
+
+57.3.b
+
+if not, what is the highest percentage achievable for the year.
+
+57.4
+
+When giving advice in accordance with this section, the Committee must have
+regard to the following matters—
+
+57.4.a
+
+United Kingdom and international law or policy relating to climate change,
+
+57.4.b
+
+scientific knowledge about climate change, and
+
+57.4.c
+
+technology relevant to climate change.
+
+##### Advice about proposed regulations relating to budgets
+
+58
+
+58.1
+
+This section applies where—
+
+58.1.a
+
+the Department proposes to make regulations, under any provision of this Act,
+that set or change a carbon budget for a budgetary period, and
+
+58.1.b
+
+the Committee on Climate Change provides advice under section 56.
+
+58.2
+
+The Committee’s advice must include the Committee’s opinion as to—
+
+58.2.a
+
+the appropriate level of the carbon budget for the period;
+
+58.2.b
+
+the extent to which the carbon budget for the period should be met—
+
+58.2.b.i
+
+by reducing the amount of net Northern Ireland emissions of greenhouse gases,
+or
+
+58.2.b.ii
+
+by the use of carbon units that, in accordance with regulations made under
+section 11, may be credited to the net Northern Ireland emissions account for
+the period;
+
+58.2.c
+
+the respective contributions towards meeting the carbon budget for the period
+that should be made—
+
+58.2.c.i
+
+by the sectors of the Northern Ireland economy covered by trading schemes
+(taken as a whole);
+
+58.2.c.ii
+
+by the sectors of the Northern Ireland economy not so covered (taken as a
+whole);
+
+58.2.d
+
+the sectors of the Northern Ireland economy in which there are particular
+opportunities for contributions to be made towards meeting the carbon budget
+for the period through reductions in emissions of greenhouse gases.
+
+58.3
+
+When giving advice in accordance with this section, the Committee must have
+regard to the following matters—
+
+58.3.a
+
+United Kingdom and international law or policy relating to climate change,
+
+58.3.b
+
+scientific knowledge about climate change, and
+
+58.3.c
+
+technology relevant to climate change.
+
+58.4
+
+In subsection (2)(c), “trading schemes” has the meaning given by section 44 of
+the Climate Change Act 2008.
+
+#### Definitions
+
+##### Meaning of “carbon unit”
+
+59
+
+In this Act, a “carbon unit” is a unit of a kind specified in regulations made
+by the Department and representing—
+
+59.a
+
+a reduction in an amount of greenhouse gas emissions,
+
+59.b
+
+the removal of an amount of greenhouse gas from the atmosphere, or
+
+59.c
+
+an amount of greenhouse gas emissions allowed under a scheme or arrangement
+imposing a limit on such emissions.
+
+##### Meaning of “greenhouse gas”
+
+60
+
+60.1
+
+In this Act, “greenhouse gas” means any of the following—
+
+60.1.a
+
+carbon dioxide;
+
+60.1.b
+
+methane;
+
+60.1.c
+
+nitrous oxide;
+
+60.1.d
+
+hydrofluorocarbons;
+
+60.1.e
+
+perfluorocarbons;
+
+60.1.f
+
+sulphur hexafluoride;
+
+60.1.g
+
+nitrogen trifluoride.
+
+60.2
+
+The Department may by regulations amend the list of greenhouse gases in
+subsection (1) so as to add a gas.
+
+##### Meaning and measurement of emissions
+
+61
+
+61.1
+
+In this Act, “emissions”, in relation to a greenhouse gas, means emissions of
+that gas into the atmosphere that are attributable to human activity.
+
+61.2
+
+Each of the following must be measured or calculated in tonnes of carbon
+dioxide equivalent—
+
+61.2.a
+
+emissions of greenhouse gases;
+
+61.2.b
+
+reductions in greenhouse gas emissions;
+
+61.2.c
+
+removals of greenhouse gases from the atmosphere.
+
+61.3
+
+A “tonne of carbon dioxide equivalent” means one metric tonne of carbon
+dioxide or an amount of any other greenhouse gas with an equivalent global
+warming potential, calculated consistently with international carbon reporting
+practice (see section 63).
+
+##### Meaning of “sector”
+
+62
+
+In this Act “sector” or “sectors” refers to one or all of the following—
+
+62.a
+
+energy production and supply (including for residential, public and district
+heating and cooling purposes);
+
+62.b
+
+transport (including shipping and aviation);
+
+62.c
+
+infrastructure (including infrastructure for electric vehicular transport);
+
+62.d
+
+business and industrial processes;
+
+62.e
+
+residential and public (in relation to buildings in these sectors);
+
+62.f
+
+waste management;
+
+62.g
+
+land use and land-use change, including forestry;
+
+62.h
+
+agriculture; and
+
+62.i
+
+the provision of financial assistance to any person in connection with—
+
+62.i.i
+
+the promotion of economic development in Northern Ireland or any part of
+Northern Ireland; and
+
+62.i.ii
+
+the provision of infrastructure, goods or services in Northern Ireland or any
+part of Northern Ireland.
+
+##### Other definitions
+
+63
+
+In this Act—
+
+      “the Committee on Climate Change” means the Committee of that name
+established by Part 2 of the Climate Change Act 2008;           “the
+Department” means the Department of Agriculture, Environment and Rural
+Affairs;           “emissions target” means a target set by section 1, 3 or 4;
+“international carbon reporting practice” means accepted practice in relation
+to reporting for the purposes of—         the protocols to the United Nations
+Framework Convention on Climate Change, or           such other international
+agreements or arrangements as the Department may specify by regulations;
+“Northern Ireland emissions” has the meaning given by section 9(2);
+“Northern Ireland removals” has the meaning given by section 9(3).
+
+#### General
+
+##### Commencement
+
+64
+
+This Act comes into operation on the day after the day on which it receives
+Royal Assent.
+
+##### Short title
+
+65
+
+This Act may be cited as the Climate Change Act (Northern Ireland) 2022.
+

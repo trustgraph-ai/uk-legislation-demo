@@ -1,0 +1,268 @@
+Title: The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022
+Date: 2022-12-01
+Description: These Regulations make amendments and modifications to the Occupational Pension Schemes (Climate Change Governance and Reporting) Regulations (Northern Ireland) 2021 (“the Climate Change Regulations”). They also make transitional provision.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2022/209
+
+## The Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022
+
+    Pensions
+
+  Made   6th September 2022
+
+  Coming into operation   1st October 2022
+
+      The Department for Communities makes the following Regulations in
+exercise of the powers conferred by Articles 41A, 41B and 166 (1) to (3) of
+the Pensions (Northern Ireland) Order 1995  and now vested in it .
+
+### Citation, commencement and interpretation
+
+1
+
+1.1
+
+These Regulations may be cited as the Occupational Pension Schemes (Climate
+Change Governance and Reporting) (Amendment, Modification and Transitional
+Provision) Regulations (Northern Ireland) 2022 and shall come into operation
+on 1st October 2022.
+
+1.2
+
+In these Regulations “ the Climate Change Regulations ” means the Occupational
+Pension Schemes (Climate Change Governance and Reporting) Regulations
+(Northern Ireland) 2021 .
+
+### Amendment of the Climate Change Regulations
+
+2
+
+2.1
+
+The Climate Change Regulations are amended in accordance with paragraphs (2)
+and (3).
+
+2.2
+
+In Part 1 of the Schedule (climate change governance etc. requirements)—
+
+2.2.a
+
+in paragraph 15—
+
+2.2.a.i
+
+in sub-paragraph (b) for “metric, and” substitute  “metric;” ;
+
+2.2.a.ii
+
+after sub-paragraph (b) insert—
+
+2.2.a.ii.ba
+
+one portfolio alignment metric, and
+
+;
+
+2.2.b
+
+after paragraph 19 insert—
+
+2.2.b.19A
+
+Trustees must in each scheme year, as far as they are able—
+
+2.2.b.19A.a
+
+obtain the data required to calculate their selected portfolio alignment
+metric;
+
+2.2.b.19A.b
+
+use the data obtained to calculate that metric in relation to the scheme’s
+assets, and
+
+2.2.b.19A.c
+
+use the metric they have calculated to identify and assess the climate-related
+risks and opportunities which are relevant to the scheme.
+
+;
+
+2.2.c
+
+in paragraph 21 after “paragraphs 18” insert  “, 19A” ;
+
+2.2.d
+
+in paragraph 26—
+
+2.2.d.i
+
+in the definition of “additional climate change metric” after “intensity
+metric” insert  “or a portfolio alignment metric” ;
+
+2.2.d.ii
+
+after the definition of “greenhouse gas” insert—
+
+      “ portfolio alignment metric ” means a metric which gives the alignment
+of the scheme’s assets with the climate change goal of limiting the increase
+in the global average temperature to 1.5 degrees Celsius above pre-industrial
+levels;
+
+.
+
+2.3
+
+In Part 2 of the Schedule (information to be included in a report under
+regulation 6) in paragraph 27(n) after “paragraphs 18” insert  “, 19A” .
+
+### Modification of the Climate Change Regulations
+
+3
+
+3.1
+
+The following modifications apply in respect of trustees of a trust scheme who
+are required to comply with the requirements in Part 1 of the Schedule to the
+Climate Change Regulations (climate change governance etc. requirements)
+before 1st October 2022, and who have not ceased to be subject to the
+requirements before that date.
+
+3.2
+
+For the purposes of the amendments made by regulation 2(2)(a), paragraph 15 of
+the Schedule to the Climate Change Regulations is to be read as if for “the
+first scheme year in respect of which the requirements of this Part apply”
+there were substituted  “the scheme year which is underway on 1st October
+2022” .
+
+3.3
+
+For the purposes of the amendments made by regulation 2(2)(b) and (c),
+paragraph 21 of the Schedule to the Climate Change Regulations is to be read
+as if—
+
+3.3.a
+
+for “the first scheme year in respect of which the requirements of this Part
+apply” there were substituted  “the scheme year which is underway on 1st
+October 2022” ;
+
+3.3.b
+
+for “that first scheme year” there were substituted  “that scheme year” ;
+
+3.3.c
+
+for “any day before the requirements apply” there were substituted  “any day
+before the requirements under paragraph 19A apply” .
+
+4
+
+4.1
+
+The following modifications apply in respect of trustees of a trust scheme who
+are required to comply with the requirements in Part 1 of the Schedule to the
+Climate Change Regulations (climate change governance etc. requirements)
+before 1st October 2022 but who have ceased to be subject to the requirements
+before that date, where such trustees are subsequently required to comply with
+those requirements by virtue of regulation 3(4), 4(4) or 5(4) of the Climate
+Change Regulations.
+
+4.2
+
+For the purposes of the amendments made by regulation 2(2)(b) and (c),
+paragraph 21 of the Schedule to the Climate Change Regulations is to be read
+as if—
+
+4.2.a
+
+for “the first scheme year in respect of which the requirements of this Part
+apply” there were substituted  “the first scheme year in respect of which the
+requirements of paragraph 19A apply” ;
+
+4.2.b
+
+for “that first scheme year” there were substituted  “that scheme year” ;
+
+4.2.c
+
+for “any day before the requirements apply” there were substituted  “any day
+before the requirements under paragraph 19A apply” .
+
+### Transitional provision
+
+5
+
+5.1
+
+The amendment made by regulation 2(3) does not apply in respect of a scheme
+year which ends before 1st October 2022.
+
+5.2
+
+For the purposes of this regulation, “ scheme year ” has the meaning given by
+regulation 2 of the Climate Change Regulations.
+
+      Sealed with the Official Seal of the Department for Communities on 6th
+September 2022       (L.S.)   Anne McCleary   A senior officer of the
+Department for Communities
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations make amendments and modifications to the Occupational
+Pension Schemes (Climate Change Governance and Reporting) Regulations
+(Northern Ireland) 2021 (“ the Climate Change Regulations ”). They also make
+transitional provision.
+
+  Regulation 2(2) amends Part 1 of the Schedule to the Climate Change
+Regulations to introduce a requirement that trustees must select and calculate
+a portfolio alignment metric for the assets of their scheme. A portfolio
+alignment metric is a metric which gives the alignment of the scheme’s assets
+with the goal of limiting the increase in the global average temperature to
+1.5 degrees Celsius above pre-industrial levels.
+
+  Regulation 2(3) amends paragraph 27(n) in Part 2 of the Schedule to the
+Climate Change Regulations to require that trustees include specified
+information about their portfolio alignment metric in the report they are
+required to produce and publish under regulation 6 of the Climate Change
+Regulations.
+
+  Regulation 3 makes modifications to Part 1 of the Schedule to the Climate
+Change Regulations, for the purposes of amendments made to those Regulations
+by regulation 2, for trustees who were subject to the requirements in Part 1
+of the Schedule to the Climate Change Regulations before the date on which
+these Regulations come into operation and who have not ceased to be subject to
+the requirements before that date.
+
+  Regulation 4 makes modifications to Part 1 of the Schedule to the Climate
+Change Regulations, for the purposes of amendments made to those Regulations
+by regulation 2, for trustees who were subject to the requirements in Part 1
+of the Schedule to the Climate Change Regulations before the date on which
+these Regulations come into operation but who cease to be subject to the
+requirements before that date, where such trustees subsequently become subject
+to those requirements by virtue of regulation 3(4), 4(4) or 5(4) of the
+Climate Change Regulations.
+
+  Regulation 5 makes transitional provision. It provides that the amendment
+made by regulation 2(3) does not apply in respect of a scheme year which ends
+before 1st October 2022 as trustees are not required to calculate a portfolio
+alignment metric in scheme years ending before that date.
+
+  The Pension Schemes Act 2021 (Commencement No. 1) Order (Northern Ireland)
+2021 ( S.R. 2021 No. 240 (C. 8) ) provides for the coming into operation of
+paragraph 12(2) of Schedule 11 to the Pension Schemes Act 2021, which inserts
+Articles 41A and 41B into the Pensions (Northern Ireland) Order 1995, some of
+the enabling provisions under which these Regulations are made, on 1st
+September 2021.
+
+  As these Regulations make in relation to Northern Ireland only provision
+corresponding to provision contained in regulations made by the Secretary of
+State for Work and Pensions in relation to Great Britain, the requirement to
+consult under Article 117(1) of the Pensions (Northern Ireland) Order 1995
+does not apply by virtue of paragraph (2)(e) of that Article.
+

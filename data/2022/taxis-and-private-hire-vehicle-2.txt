@@ -1,0 +1,679 @@
+Title: Taxis and Private Hire Vehicles (Safeguarding and Road Safety) Act 2022
+Date: 2023-05-24
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ukpga/2022/14
+
+## Taxis and Private Hire Vehicles (Safeguarding and Road Safety) Act 2022
+
+      B e it enacted  by the Queen’s most Excellent Majesty, by and with the
+advice and consent of the Lords Spiritual and Temporal, and Commons, in this
+present Parliament assembled, and by the authority of the same, as follows:—
+
+### Relevant information
+
+#### Relevant information
+
+1
+
+1.1
+
+In this Act “ relevant information ”, in relation to a person, means
+information indicating that the person—
+
+1.1.a
+
+has committed a sexual offence (whether or not the person was charged with,
+prosecuted for or convicted of the offence);
+
+1.1.b
+
+has harassed another person;
+
+1.1.c
+
+has caused physical or psychological harm to another person;
+
+1.1.d
+
+has committed an offence that involves a risk of causing physical or
+psychological harm to another person (whether or not the person was charged
+with, prosecuted for or convicted of the offence);
+
+1.1.e
+
+has committed an offence under section 165, 168 or 170 of the Equality Act
+2010 (whether or not the person was charged with, prosecuted for or convicted
+of the offence);
+
+1.1.f
+
+has done anything that, for the purposes of the Equality Act 2010, constitutes
+unlawful discrimination or victimisation against another person;
+
+1.1.g
+
+has threatened, abused or insulted another person;
+
+1.1.h
+
+poses a risk to road safety when driving;
+
+1.1.i
+
+may be unsuitable to hold a driver’s licence for other reasons relating to—
+
+1.1.i.i
+
+the safeguarding of passengers, or
+
+1.1.i.ii
+
+road safety.
+
+1.2
+
+A reference in  subsection (1)  to an offence includes a reference to the
+following offences—
+
+1.2.a
+
+attempt to commit the offence;
+
+1.2.b
+
+conspiracy to commit the offence;
+
+1.2.c
+
+aiding, abetting, counselling or procuring the commission of the offence;
+
+1.2.d
+
+incitement to commit the offence;
+
+1.2.e
+
+an offence under Part 2 of the Serious Crimes Act 2007 in relation to the
+offence.
+
+1.3
+
+A reference in  subsection (1)  to an offence (including a reference having
+effect by virtue of  subsection (2) ) includes a reference to conduct that
+would have constituted the offence if it had been done in England and Wales.
+
+1.4
+
+In this section, “ sexual offence ” means—
+
+1.4.a
+
+an offence under any of sections 1 to 12 and 14 to 17 of the Sexual Offences
+Act 1956 (rape, unlawful intercourse, indecent assault, forcible abduction
+etc);
+
+1.4.b
+
+an offence under section 128 of the Mental Health Act 1959 (unlawful
+intercourse with person receiving treatment for mental disorder by member of
+hospital staff etc);
+
+1.4.c
+
+an offence under section 1 of the Indecency with Children Act 1960 (indecent
+conduct towards child under 14);
+
+1.4.d
+
+an offence under section 9 of the Theft Act 1968 of burglary with intent to
+rape;
+
+1.4.e
+
+an offence under section 54 of the Criminal Law Act 1977 (incitement of child
+under 16 to commit incest);
+
+1.4.f
+
+an offence under Part 1 of the Sexual Offences Act 2003;
+
+1.4.g
+
+an offence under section 2 of the Modern Slavery Act 2015 (human trafficking)
+committed with a view to exploitation that consists of or includes behaviour
+within section 3(3) of that Act (sexual exploitation).
+
+### Licensing information database
+
+#### Duty to record information about licensing decisions in database
+
+2
+
+2.1
+
+This section applies where, relying wholly or in part on relevant information
+relating to a person, a licensing authority decides—
+
+2.1.a
+
+to refuse the person’s application for a driver’s licence,
+
+2.1.b
+
+to refuse the person’s application for the renewal of a driver’s licence,
+
+2.1.c
+
+to suspend the person’s driver’s licence, or
+
+2.1.d
+
+to revoke the person’s driver’s licence.
+
+2.2
+
+The licensing authority must—
+
+2.2.a
+
+make an entry recording the decision, and the information listed in
+subsection (4) , in the licensing information database,
+
+2.2.b
+
+ensure (whether by amending, removing or reinstating it) that the entry is
+kept up-to-date so as to reflect any subsequent change made to the decision—
+
+2.2.b.i
+
+by the authority,
+
+2.2.b.ii
+
+on appeal against the authority’s decision, or
+
+2.2.b.iii
+
+on any subsequent appeal,
+
+during the period of 11 years beginning with the day on which the entry is
+first made, and
+
+2.2.c
+
+keep a record of the relevant information and the decision until the end of
+the period referred to in  paragraph (b) .
+
+2.3
+
+The reference in  subsection (2) (b)  to a subsequent change made to the
+decision includes a reference to a subsequent decision by the authority to
+grant a driver’s licence to the person.
+
+2.4
+
+The information is—
+
+2.4.a
+
+the person’s full name, date of birth, home address and national insurance
+number;
+
+2.4.b
+
+if the person holds a licence to drive a motor vehicle granted under Part 3 of
+the Road Traffic Act 1988, the driver number shown on the licence;
+
+2.4.c
+
+if the person holds a Northern Ireland driving licence, the driver number
+shown on the licence;
+
+2.4.d
+
+if the person holds a Community licence, the number of the licence;
+
+2.4.e
+
+the name of the licensing authority and details of how further information
+about the decision can be obtained from the authority;
+
+2.4.f
+
+the date on which the decision was made and (if different) the date on which
+it takes effect;
+
+2.4.g
+
+the date on which any subsequent change to the decision was made and (if
+different) the date on which it takes effect;
+
+2.4.h
+
+if the decision is to suspend the person’s driver’s licence for a period, the
+date on which the suspension is to end;
+
+2.4.i
+
+such other information as the Secretary of State may by regulations made by
+statutory instrument prescribe.
+
+2.5
+
+The licensing authority must—
+
+2.5.a
+
+comply with  subsection (2) (a)  within the period of 5 working days beginning
+with the day on which the licensing authority notifies the person of its
+decision, and
+
+2.5.b
+
+comply with  subsection (2) (b)  as soon as practicable after becoming aware
+of the change in question.
+
+2.6
+
+Regulations under this section may make different provision for different
+purposes.
+
+2.7
+
+A statutory instrument containing regulations under this section is subject to
+annulment in pursuance of a resolution of either House of Parliament.
+
+2.8
+
+In this section “Community licence” and “Northern Ireland driving licence”
+have the meaning given by section 108(1) of the Road Traffic Act 1988.
+
+#### Duty to search database and have regard to relevant information
+
+3
+
+3.1
+
+Before making a decision on a person’s application for, or for the renewal of,
+a driver’s licence, a licensing authority (“ the decision-making authority ”)
+must search the licensing information database for entries relating to the
+person.
+
+3.2
+
+Where any such entry was made by another licensing authority (“ the recording
+authority ”)—
+
+3.2.a
+
+the decision-making authority must make a request in writing to the recording
+authority for the relevant information on which the recording authority relied
+when making the decision recorded in the entry, and
+
+3.2.b
+
+the recording authority must provide the information within the period of 20
+working days beginning with the day on which it receives the request.
+
+3.3
+
+The decision-making authority must have regard to the information when making
+the decision referred to in  subsection (1) .
+
+3.4
+
+Where, after complying with  subsection (2) (b) , the recording authority
+makes a change to the entry in order to comply with  section 2 (2) (b)  (duty
+to keep entry up-to-date)—
+
+3.4.a
+
+the recording authority must inform the decision-making authority of—
+
+3.4.a.i
+
+the change, and
+
+3.4.a.ii
+
+the reason for the change, and
+
+3.4.b
+
+the decision-making authority must have regard to the information received
+under  paragraph (a)  when making the decision referred to in  subsection (1)
+(if the decision still falls to be made).
+
+#### The database
+
+4
+
+4.1
+
+In this Act “ licensing information database ” means the database operated for
+the purposes of this Act—
+
+4.1.a
+
+by a person designated by the Secretary of State, or
+
+4.1.b
+
+where no such person is designated, by, or on behalf of, the Secretary of
+State.
+
+4.2
+
+A designation under  subsection (1) (a) —
+
+4.2.a
+
+may contain conditions to which it is subject, and
+
+4.2.b
+
+may be varied or withdrawn by the Secretary of State.
+
+4.3
+
+The person operating the database must ensure that—
+
+4.3.a
+
+every licensing authority, relevant authority and the Department for
+Infrastructure in Northern Ireland are, subject to  subsection (4) , able to
+search the database, make entries in it and amend, remove and reinstate
+entries that it has made,
+
+4.3.b
+
+every entry made in the database in accordance with  section 2  is removed
+from the database at the end of the period of 11 years beginning with the day
+on which it is first made, and
+
+4.3.c
+
+the information contained in the database is disclosed only for the purposes
+of ensuring—
+
+4.3.c.i
+
+the safeguarding of passengers, and
+
+4.3.c.ii
+
+road safety.
+
+4.4
+
+The person operating the database may charge a fee to a person specified in
+subsection (3) (a)  in respect of the costs of the database.
+
+4.5
+
+A fee under  subsection (4)  may in particular be a periodic fee calculated in
+such manner as the person operating the database considers appropriate.
+
+4.6
+
+But a person designated under  subsection (1) (a)  may only charge fees under
+subsection (4)  if the Secretary of State has agreed the level of the fees to
+be charged.
+
+### Concerns about drivers licensed in other areas 
+
+#### Duty to report concerns about drivers licensed in other areas
+
+5
+
+5.1
+
+This section applies where—
+
+5.1.a
+
+an English licensing authority (“ the first authority ”) becomes aware of
+relevant information relating to a person who has driven in the first
+authority’s area in reliance on a driver’s licence or a relevant licence
+granted by another licensing authority or a relevant authority ( “the second
+authority” ),
+
+5.1.b
+
+the information relates to the person’s conduct in the first authority’s area,
+and
+
+5.1.c
+
+the first authority is satisfied that, had it granted the licence, it would
+have considered suspending or revoking it in reliance on the information.
+
+5.2
+
+The first authority must provide to the second authority—
+
+5.2.a
+
+the relevant information, and
+
+5.2.b
+
+any other information of which it is aware which is relevant to identifying
+the person,
+
+before the end of the period of 10 working days beginning with the day on
+which the first authority became aware of the relevant information relating to
+the person’s conduct in its area.
+
+5.3
+
+In this section “ relevant licence ” means—
+
+5.3.a
+
+a licence granted by a district council in Wales under section 51 of the Local
+Government (Miscellaneous Provisions) Act 1976;
+
+5.3.b
+
+a taxi driver’s licence or private hire car driver’s licence under section 13
+of the Civic Government (Scotland) Act 1982.
+
+#### Duty as regards reported concerns about drivers licensed in other areas
+
+6
+
+6.1
+
+This section applies where an English licensing authority (“ authority A ”)—
+
+6.1.a
+
+receives information from another licensing authority (“ authority B ”) under
+section 5  relating to a person who has driven in authority B’s area in
+reliance on a driver’s licence granted by authority A, or
+
+6.1.b
+
+receives information of a similar nature from a relevant authority (“
+authority C ”) relating to a person who has driven in authority C’s area in
+reliance on a driver’s licence granted by authority A.
+
+6.2
+
+Before the end of the period of 20 working days beginning with the date on
+which authority A becomes aware of the information, authority A must—
+
+6.2.a
+
+consider whether to suspend or revoke the person’s driver’s licence in
+reliance on—
+
+6.2.a.i
+
+the information, and
+
+6.2.a.ii
+
+any other information available to authority A, and
+
+6.2.b
+
+inform authority B or authority C (as the case may be) in writing—
+
+6.2.b.i
+
+whether or not it has suspended or revoked, or intends to suspend or revoke,
+the person’s driver’s licence, and
+
+6.2.b.ii
+
+the reasons for that action or intended action.
+
+### Guidance
+
+#### Guidance
+
+7
+
+7.1
+
+The Secretary of State may issue guidance to licensing authorities in
+connection with their functions under this Act.
+
+7.2
+
+The Secretary of State may revise guidance issued under  this section .
+
+7.3
+
+The Secretary of State must arrange for guidance under  this section , and any
+revision of it, to be published.
+
+7.4
+
+A licensing authority must have regard to guidance issued under  this section
+.
+
+### Final provisions
+
+#### Interpretation
+
+8
+
+8.1
+
+In this Act—
+
+      “ driver’s licence ” means a licence granted by a licensing authority
+under—         section 46 of the Town Police Clauses Act 1847;
+section 8 of the Metropolitan Public Carriage Act 1869;           section 9 of
+the Plymouth City Council Act 1975 (c. xx);           section 51 of the Local
+Government (Miscellaneous Provisions) Act 1976;           section 13 of the
+Private Hire Vehicles (London) Act 1998;                 “ licensing authority
+”, except in the definition of “relevant authority”, means a public authority
+in England which has licensing functions under—          sections 37 to 68 of
+the Town Police Clauses Act 1847;           the Metropolitan Public Carriage
+Act 1869;           the Plymouth City Council Act 1975;           Part 2 of
+the Local Government (Miscellaneous Provisions) Act 1976;           section 13
+of the Private Hire Vehicles (London) Act 1998;                 “ licensing
+information database ” has the meaning given by  section 4 ;           “
+relevant authority ” means—         a district council in Wales;           a
+licensing authority within the meaning of section 2 of the Civic Government
+(Scotland) Act 1982;                 “ relevant information ” in relation to a
+person, has the meaning given by  section 1 ;           “ working day ” means
+any day other than—         Saturday or Sunday;           Christmas Day or
+Good Friday;           a day which is a bank holiday in England under the
+Banking and Financial Dealings Act 1971.
+
+8.2
+
+References in this Act to the area of a licensing authority are—
+
+8.2.a
+
+in the case of Transport for London, to Greater London;
+
+8.2.b
+
+in any other case, to the area for which the authority acts.
+
+8.3
+
+References in this Act to the area of a relevant authority are to the area for
+which the authority acts.
+
+#### Extent, commencement and short title
+
+9
+
+9.1
+
+This Act extends to England and Wales only.
+
+9.2
+
+The following come into force on the day on which this Act is passed—
+
+9.2.a
+
+section 1 ,
+
+9.2.b
+
+the power of the Secretary of State to make regulations under  section 2 ,
+
+9.2.c
+
+the powers of the Secretary of State to issue, revise and arrange for the
+publication of guidance under  section 7 (1)  to  (3) ,
+
+9.2.d
+
+section 8 , and
+
+9.2.e
+
+this section .
+
+9.3
+
+The following come into force at the end of the period of 2 months beginning
+with the day on which this Act is passed—
+
+9.3.a
+
+the powers of the Secretary of State to make, vary and withdraw a designation
+under  section 4 ,
+
+9.3.b
+
+sections 5  and  6 , and
+
+9.3.c
+
+section 7  (so far as not already in force under  subsection (2) ).
+
+9.4
+
+The remaining provisions of this Act come into force on such day or days as
+the Secretary of State may by regulations made by statutory instrument
+appoint.
+
+9.5
+
+The regulations—
+
+9.5.a
+
+may appoint different days for different purposes, and
+
+9.5.b
+
+may make transitional, transitory or saving provision.
+
+9.6
+
+This Act may be cited as the Taxis and Private Hire Vehicles (Safeguarding and
+Road Safety) Act 2022.
+

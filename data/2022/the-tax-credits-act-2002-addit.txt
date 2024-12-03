@@ -1,0 +1,150 @@
+Title: The Tax Credits Act 2002 (Additional Payments Modification and Disapplication) Regulations 2022
+Date: 2023-08-07
+Description: These Regulations are made in exercise of the powers in section 6(5), 6(6) and 10(1) of the Social Security (Additional Payments) Act 2022 (c. 38) (“SSAPA”). This is the first exercise of these powers. These Regulations modify the Tax Credit Act 2002 (c. 21) (“TCA 2002”) to create a distinct recovery mechanism for His Majesty’s Revenue and Customs (“HMRC”) to recover additional payments made under section 1(2) or 4(1) or (2) of SSAPA where it is determined that a person has received a payment of the additional payment, to which they were not entitled.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/1208
+
+## The Tax Credits Act 2002 (Additional Payments Modification and Disapplication) Regulations 2022
+
+Social Security
+
+Made 18th November 2022
+
+Laid before Parliament 21st November 2022
+
+Coming into force 22nd December 2022
+
+The Commissioners for His Majesty’s Revenue and Customs, in exercise of the
+powers conferred by sections 6(5) and (6) and 10(1) of the Social Security
+(Additional Payments) Act 2022 , make the following Regulations.
+
+### Citation, commencement and interpretation
+
+1
+
+1.1
+
+These Regulations may be cited as the Tax Credits Act 2002 (Additional
+Payments Modification and Disapplication) Regulations 2022 and come into force
+on 22nd December 2022 but regulations 2 to 6 have effect from 28th June 2022.
+
+1.2
+
+In these Regulations “ additional payment ” means   a payment   made by His
+Majesty’s Revenue Customs in accordance with section 1(2) or 4(1) or (2) of
+the Social Security (Additional Payments) Act 2022  or section  1 (2)  of the
+Social Security (Additional Payments) Act 2023 .
+
+### Modification and disapplication of the Tax Credits Act 2002
+
+2
+
+The Tax Credits Act 2002  is modified as follows.
+
+3
+
+In respect of an additional payment, made to a person who is, or persons who
+are, not entitled to the additional payment, sections 14 to 19 are disapplied.
+
+4
+
+Section 20  has effect as if after subsection (5), there were inserted—
+
+4.5A
+
+Where the Board  have reasonable grounds for believing that an additional
+payment has been paid to a person, or two persons jointly, by reference to a
+child tax credit or working tax credit and that the person or persons had no
+entitlement to the payment, the Board may decide that the additional payment
+was paid incorrectly.
+
+4.5B
+
+But no decision may be made under subsection (5A) after the period of five
+years beginning with the end of the tax year in which the additional payment
+is made.
+
+5
+
+Section 28  has effect as if—
+
+5.a
+
+in subsection (1)—
+
+5.a.i
+
+after “sections 18 to 21C),” there were inserted  “or where the Commissioners
+have decided that an additional payment was paid incorrectly,” ,
+
+5.a.ii
+
+after “any part of it,” there were inserted  “or the incorrectly paid
+additional payment, or any part of it,” ,
+
+5.b
+
+in subsection (2), after “an excess” there were inserted  “or incorrectly paid
+additional payment” ,
+
+5.c
+
+in subsections (3) and (4), after “awarded” there were inserted  “or to whom
+the additional payment was made” .
+
+6
+
+Section 67  has effect as if, at the appropriate place, there were inserted—
+
+“ additional payment ” means a payment made under section 1(2) or 4(1) or (2)
+of the Social Security (Additional Payments) Act 2022   , a payment made under
+section  1 (2)  of the Social Security (Additional Payments) Act 2023,  or a
+payment purporting to be a payment under any of those provisions.
+
+Joanna Rowland Jonathan Athow Two of the Commissioners for His Majesty’s
+Revenue and Customs 18th November 2022
+
+## EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are made in exercise of the powers in section 6(5), 6(6) and
+10(1) of the Social Security (Additional Payments) Act  2022 (c. 38)  (“ SSAPA
+”). This is the first exercise of these powers. These Regulations modify the
+Tax Credit Act  2002 (c. 21)  (“TCA 2002”) to create a distinct recovery
+mechanism for His Majesty’s Revenue and Customs (“ HMRC ”) to recover
+additional payments made under section 1(2) or 4(1) or (2) of SSAPA where it
+is determined that a person has received a payment of the additional payment,
+to which they were not entitled.
+
+Regulation 1 provides for citation, commencement and interpretation. In
+addition, and made under section 6(6) of SSAPA, regulation 1 provides that
+regulations 2 to 6 will be applied retrospectively from 28 June 2022.
+
+Regulation 3 disapplies sections 14 to 19, of the TCA 2002, in respect of
+additional payments paid to persons who are not entitled to the additional
+payment. As a consequence of this regulation such a person, from whom HMRC are
+seeking to recover an additional payment, will not be able to seek a mandatory
+review of the decision to recover the additional payment or to appeal that
+decision to the First-tier Tribunal.
+
+Regulation 4 modifies section 20 of the TCA 2002, so as to apply that section
+to additional payments made under section 1(2) or 4(1) or (2) of SSAPA. By
+applying that section, additional payments may be recovered from recipients
+who are not entitled to those additional payments under SSAPA. A decision that
+an additional payment was incorrectly paid may only be made within five years,
+beginning with 6th April after the tax year in which the additional payment is
+made.
+
+Regulation 5 modifies subsections (1), (2), (3) and (4) of section 28 of the
+TCA 2002 to include payments made under SSAPA. As a consequence of this
+modification, any additional payment which should not have been made becomes
+an overpayment, for the purposes of the TCA 2002, and can be recovered using
+the recovery methods specified in section 29 of the TCA 2002.
+
+Regulation 6 modifies section 67 of the TCA 2002 to include a definition of
+additional payments.
+
+A full impact statement has not been produced because no impact on the
+private, voluntary or public sector is foreseen.
+

@@ -1,0 +1,404 @@
+Title: The Non-Domestic Rating (Chargeable Amounts) (Wales) Regulations 2022
+Date: 2024-04-04
+Description: These Regulations come into force on 31 December 2022 and apply in relation to Wales.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/wsi/2022/1350
+
+## The Non-Domestic Rating (Chargeable Amounts) (Wales) Regulations 2022
+
+    Rating And Valuation, Wales
+
+  Made   14 December 2022
+
+  Coming into force   31 December 2022
+
+      The Welsh Ministers make the following Regulations in exercise of the
+power conferred on the Secretary of State by sections 58(1), (2), (3), (4),
+(5), (6), (7) and (10) and 143(1) of the Local Government Finance Act 1988
+and now vested in them .       A draft of these Regulations was laid before,
+and approved by a resolution of Senedd Cymru, in accordance with section
+143(4) of that Act .           In accordance with section 58(9) of that Act,
+the Welsh Ministers have had regard to the object of securing (so far as
+practicable) that the aggregate amount payable to the Welsh Ministers and all
+billing authorities by way of non-domestic rates as regards the financial
+years falling within the relevant period does not exceed that which the Welsh
+Ministers consider would be likely to be payable apart from these Regulations.
+
+### Preliminary: general
+
+#### Title, commencement and application
+
+1
+
+1.1
+
+The title of these Regulations is the Non-Domestic Rating (Chargeable Amounts)
+(Wales) Regulations 2022.
+
+1.2
+
+These Regulations come into force on 31 December 2022  and apply in relation
+to Wales.
+
+1.3
+
+These Regulations apply in relation to the period beginning on 1 April 2023
+and ending on 31 March 2028 (“ the relevant period ”).
+
+#### Interpretation
+
+2
+
+In these Regulations—
+
+“ the Act ” (“  y Ddeddf ”) means the Local Government Finance Act 1988; “
+base liability ” (“ BL ”) (“  rhwymedigaeth sylfaenol ”, “ BL ”) is the amount
+calculated in accordance with regulation 4; “ central list ” (  “rhestr
+ganolog” ) means a list compiled and maintained in accordance with section 52
+of the Act ; “ chargeable day ” (“  diwrnod y codir swm ynglŷn ag ef ”), in
+relation to occupied hereditaments shown in a local list, has the meaning
+given in section 43(3) of the Act, in relation to unoccupied hereditaments
+shown in a local list, has the meaning given in section 45(3) of the Act, and
+in relation to hereditaments shown in a central list, has the meaning given in
+section 54(3) of the Act; “ defined hereditament ” (“  hereditament
+diffiniedig ”) has the meaning given in regulation 3; “ local list ” (“
+rhestr leol ”) means a list compiled and maintained in accordance with section
+41 of the Act ; “ notional chargeable amount ” (“ NCA ”) (“  swm tybiannol a
+godir ”, “ NCA ”) is the amount calculated in accordance with regulations 6
+and 7; “ relevant day ” (“  diwrnod perthnasol ”) is a chargeable day falling
+within the relevant period; “ relevant period ” (“  cyfnod perthnasol ”) has
+the meaning given in regulation 1(3).
+
+#### Defined hereditament
+
+3
+
+A hereditament is a defined hereditament in respect of a relevant day if it is
+shown in a local list or in a central list on—
+
+3.a
+
+31 March 2023,
+
+3.b
+
+the relevant day, and
+
+3.c
+
+each day, if any, falling after 31 March 2023 and before the relevant day.
+
+### Preliminary: calculations
+
+#### Base liability
+
+4
+
+4.1
+
+Where, on 31 March 2023, section 43(4B)(b) of the Act  applies to a defined
+hereditament, the base liability (“ BL ”) for that defined hereditament is
+calculated by applying the formula—
+
+A × 0.535 E
+
+4.2
+
+In all other cases, the BL for a defined hereditament is calculated by
+applying the formula—
+
+A × 0.535
+
+4.3
+
+For the purposes of this regulation—
+
+A is the rateable value shown for the defined hereditament in a local list or
+in a central list on 31 March 2023, and E is the amount of E which applies to
+the defined hereditament on 31 March 2023 in accordance with the Non-Domestic
+Rating (Small Business Relief) (Wales) Order 2017 .
+
+#### Notional chargeable amount
+
+5
+
+The notional chargeable amount (“ NCA ”) for a defined hereditament is
+calculated in accordance with regulations 6 and 7.
+
+6
+
+6.1
+
+Where, on 1 April 2023, section 43(4B)(b) of the Act applies to a defined
+hereditament, the NCA for that defined hereditament is calculated by applying
+the formula—
+
+A × B E
+
+6.2
+
+In all other cases, the NCA for a defined hereditament is calculated by
+applying the formula—
+
+A × B
+
+6.3
+
+For the purposes of this regulation—
+
+A is the rateable value shown for the defined hereditament in a local list or
+in a central list on 1 April 2023, B is the non-domestic rating multiplier for
+the financial year beginning on 1 April 2023 calculated in accordance with
+paragraph 4B of Schedule 7 to the Act , and E is the amount of E which applies
+to the defined hereditament on 1 April 2023 in accordance with the Non-
+Domestic Rating (Small Business Relief) (Wales) Order 2017.
+
+7
+
+7.1
+
+This regulation applies to a defined hereditament where for a day after 1
+April 2023 the rateable value shown in a local list or in a central list for
+the defined hereditament is different to that shown for it in a local list or
+in a central list on 1 April 2023.
+
+7.2
+
+From the day on which the change in rateable value has effect, regulation 6
+has effect as regards the defined hereditament with the following amendments—
+
+7.2.a
+
+in paragraph (1), for “1 April 2023”, substitute  “the day on which the change
+in rateable value has effect” , and
+
+7.2.b
+
+in paragraph (3), for the definition of ‘A’. substitute  “A is the rateable
+value shown for the defined hereditament in a local list or in a central list
+on the day on which the change in rateable value has effect  , but where
+paragraph 3 of Schedule 4ZA or paragraph 3 of Schedule 5A (improvement relief)
+to the Act applies in respect of a hereditament (as the case may be), A is
+that rateable value minus G. ” .
+
+7.3
+
+In paragraph (2)(b) above, G is the amount prescribed, or calculated in
+accordance with provision prescribed, by the Welsh Ministers under paragraph
+10(7) of Schedule 4ZA or paragraph 6(6) of Schedule 5A to the Act (as the case
+may be).
+
+### Cases to which the prescribed rules apply
+
+8
+
+For the purpose of section 58(2) of the Act, the cases are those that fall
+within the descriptions prescribed in regulation 9, and do not fall within the
+descriptions prescribed in regulation 10.
+
+#### Prescribed descriptions
+
+9
+
+A defined hereditament where—
+
+9.a
+
+the NCA is greater than the sum calculated by applying the formula—
+
+BL + 100
+
+, and
+
+9.b
+
+on the relevant day, the occupier of the hereditament is the same person as
+the occupier on 31 March 2023.
+
+#### Exceptions
+
+10
+
+A defined hereditament where on the relevant day—
+
+10.a
+
+the chargeable amount would otherwise be zero under   paragraph 2 of Schedule
+4ZB to   the Act , or
+
+10.b
+
+an apportionment under section 44A(1) of the Act  applies to the hereditament
+and has effect in relation to the chargeable amount.
+
+### Prescribed rules
+
+#### Rules for finding the chargeable amount
+
+11
+
+For the purpose of   section 58(3)  of the Act, the chargeable amount for a
+defined hereditament to which regulation 8 applies (cases that fall within the
+prescribed description) is to be found in accordance with the rules prescribed
+in regulations 12 to 16.
+
+12
+
+The chargeable amount for a relevant day is the amount calculated in
+accordance with section 43 , 45  or 54  of the Act as appropriate, less the
+amount calculated under whichever of regulations 14 to 16 applies.
+
+13
+
+If the result of reducing the chargeable amount in accordance with the rules
+in regulations 14 to 16 is to produce a negative figure, the chargeable amount
+is zero.
+
+#### Financial year commencing on 1 April 2023
+
+14
+
+In the financial year commencing on 1 April 2023, the chargeable amount is
+reduced by an amount calculated by applying the formula—
+
+NCA - B L × 0.67 366
+
+#### Financial year commencing on 1 April 2024
+
+15
+
+In the financial year commencing on 1 April 2024, the chargeable amount is
+reduced by an amount calculated by applying the formula—
+
+NCA - B L × 0.34 365
+
+#### Financial years commencing on 1 April 2025, 1 April 2026 and 1 April 2027
+
+16
+
+In the financial years commencing on 1 April 2025, 1 April 2026 and 1 April
+2027 the chargeable amount is reduced by zero.
+
+### Revocation
+
+17
+
+The Non-Domestic Rating (Chargeable Amounts) (Wales) Regulations 2016  are
+revoked.
+
+Rebecca Evans Minister for Finance and Local Government, one of the Welsh
+Ministers 14 December 2022
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations come into force on 31 December 2022 and apply in relation
+to Wales.
+
+  These Regulations prescribe rules to be used to find the chargeable amount
+for cases which fall within the descriptions prescribed in the Regulations.
+
+  The prescribed rules apply to a chargeable day falling within the period of
+five years beginning on 1 April 2023 and ending on 31 March 2028 (“ the
+relevant period ”). A chargeable day is defined in regulation 2.
+
+  The prescribed rules apply to defined hereditaments. A defined hereditament
+is a hereditament shown in a local list or in a central list on 31 March 2023,
+the relevant day and every day between. Where a hereditament is removed from a
+local list or a central list, subject to any appeals, the prescribed rules do
+not apply to the hereditament from the day on which the removal took effect.
+Such a removal would not impact the application of the prescribed rules to the
+hereditament prior to the day on which the removal took effect.
+
+  The prescribed rules reduce the increase in a ratepayer’s liability as a
+result of the 2023 revaluation. Regulation 4 provides the calculations for the
+chargeable amount for the hereditament on 31 March 2023 (the base liability).
+This is the day before the new lists compiled on 1 April 2023 have effect.
+0.535 is the non-domestic rating multiplier calculated for the financial year
+2022-23 under paragraph 3B of Schedule 7 to the Act.
+
+  Regulation 6 provides the formula for finding the notional chargeable amount
+(“ NCA ”). This is the chargeable amount which would apply for the defined
+hereditament on 1 April 2023 if the prescribed rules did not apply. There are
+two formulae in regulation 6 to reflect the possibility that the prescribed
+rules apply to ratepayers in receipt of small business rate relief and
+ratepayers who do not receive such relief.
+
+  The formula to find the NCA uses the rateable value, non-domestic rating
+multiplier and, where necessary, E, as they are on 1 April 2023. E is the
+figure prescribed by the Welsh Ministers in the Non-Domestic Rating (Small
+Business Relief) (Wales) Order 2017 ( S.I. 2017/1229 ) (W. 293) which applies
+to the hereditament in question on 1 April 2023. The fact that the relevant
+day for which the chargeable amount is being calculated may be later than 1
+April 2023 does not change these figures. This is because the reduction in
+liability is based on a proportion of the increase in liability between 31
+March 2023 and 1 April 2023 due to the compilation of the new lists.
+
+  Regulation 7 modifies regulation 6 in the event that a change to the
+rateable value for a hereditament takes effect during the relevant period but
+from a day after 1 April 2023. It operates so that the NCA, used for the
+purposes of regulations 8 and 9(a) and the formulae in regulations 14 and 15,
+is calculated using the new rateable value rather than the rateable value on 1
+April 2023. The non-domestic rating multiplier and E will remain as they were
+on 1 April 2023.
+
+  Part 3 prescribes the descriptions of cases to which the prescribed rules
+apply. Regulations 9 and 10 both have to be read in conjunction with
+regulation 8. Regulation 9(a) provides that for the prescribed rules to apply,
+the base liability must have increased by more than £300. Regulation 9(b)
+requires the same person to have occupied the defined hereditament in order to
+be eligible for a reduction. Where occupation of the hereditament changes on 1
+April 2023 or at any later date during the relevant period, the prescribed
+rules do not apply.
+
+  Regulation 10 describes cases where the prescribed rules do not apply.
+Regulation 10(a) addresses the possibility of an unoccupied hereditament
+falling within the cases in section 45A(2) or (3) of the Act (charities and
+registered community amateur sports clubs). In such a case, the ratepayer’s
+liability would be zero in accordance with section 45A(1) of the Act.
+Regulation 10(b) addresses the situation where a part of a hereditament is
+unoccupied and the billing authority has required the valuation officer to
+apportion the rateable value of the hereditament between the occupied and
+unoccupied parts of the hereditament under section 44A(1) of the Act. The
+prescribed rules do not apply to such a case. No reduction in chargeable
+amount is therefore available where such an apportionment applies to a defined
+hereditament and has effect in relation to the chargeable amount.
+
+  Where a defined hereditament is a case which falls within all of the
+descriptions prescribed in regulation 9 and does not fall within the
+descriptions in regulation 10, the rules prescribed in regulations 12 to 16
+apply. These rules are to be used to find the chargeable amount for a
+chargeable day.
+
+  The first step under regulation 12 is to calculate the chargeable amount for
+the hereditament under section 43 of the Act for occupied hereditaments,
+section 45 of the Act for non-occupied hereditaments and section 54 of the Act
+for hereditaments shown in the central list. The second step is to reduce that
+amount by the amounts calculated under whichever of regulations 14 to 16
+applies.
+
+  Regulations 14 and 15 provide a phased reduction in chargeable amounts
+during the period beginning on 1 April 2023 and ending on 31 March 2025. In
+the first year, the chargeable amount is reduced by an amount equal to 67% of
+the increase in liability between 31 March 2023 and 1 April 2023. In the
+second year the chargeable amount is reduced by 34% of the increase in
+liability between 31 March 2023 and 1 April 2023. The reduction in chargeable
+amount is calculated for each relevant day, with the figure 366 used in
+regulation 14 to reflect that 2024 is a leap year. Regulation 16 provides that
+during the period beginning on 1 April 2025 and ending on 31 March 2028 the
+chargeable amount is that found under section 43 of the Act for occupied
+hereditaments, section 45 of the Act for non-occupied hereditaments, and
+section 54 for hereditaments shown in the central list (i.e. there is no
+reduction for those financial years).
+
+  Regulation 13 ensures that the prescribed rules do not reduce the chargeable
+amount to below zero.
+
+  The Welsh Ministers’ Code of Practice on the carrying out of Regulatory
+Impact Assessments was considered in relation to these Regulations. As a
+result, a regulatory impact assessment has been prepared as to the likely
+costs and benefits of complying with these Regulations. A copy can be obtained
+from the Local Government Finance Policy Division, Welsh Government, Cathays
+Park, Cardiff, CF10 3NQ.
+

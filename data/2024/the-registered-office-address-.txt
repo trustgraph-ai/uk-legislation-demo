@@ -1,0 +1,886 @@
+Title: The Registered Office Address (Rectification of Register) Regulations 2024
+Date: 2024-07-02
+Description: These Regulations provide the registrar of companies with power, on application and on the registrar’s own motion, to change a company’s registered office address to a “default address” if the registrar is satisfied that the address is not an “appropriate address” within the meaning of section 86 of the Companies Act 2006 (c. 46).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2024/233
+
+## The Registered Office Address (Rectification of Register) Regulations 2024
+
+    COMPANIES
+
+  Made   29th February 2024
+
+  Coming into force in accordance with regulation 1(2)
+
+      The Secretary of State makes these Regulations in exercise of the powers
+conferred by sections 1097A and 1292(1) of the Companies Act 2006 .       In
+accordance with sections 1097A(10) and 1290 of the Companies Act 2006, a draft
+of these Regulations has been laid before Parliament and approved by a
+resolution of each House of Parliament.
+
+### Introductory
+
+#### Citation, commencement and extent
+
+1
+
+1.1
+
+These Regulations may be cited as the Registered Office Address (Rectification
+of Register) Regulations 2024.
+
+1.2
+
+These Regulations come into force when section 105 (registered office:
+rectification of register) of the Economic Crime and Corporate Transparency
+Act 2023  comes fully into force.
+
+1.3
+
+These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+#### Interpretation
+
+2
+
+In these Regulations—
+
+“ the Act ” means the Companies Act 2006; “ default address ” means an address
+nominated by the registrar under  regulation 3 ; “ the 2016 Regulations ”
+means the Companies (Address of Registered Office) Regulations 2016 .
+
+### Default address
+
+#### Nomination of default address
+
+3
+
+3.1
+
+The registrar must nominate one or more addresses to be default addresses for
+the purposes of these Regulations (which need not be appropriate addresses ).
+
+3.2
+
+The registrar may only nominate an address under  paragraph (1)  if the
+address is—
+
+3.2.a
+
+one at which the registrar carries out functions, or
+
+3.2.b
+
+a PO box.
+
+3.3
+
+The registrar must perform the duty in  paragraph (1)  by means of registrar’s
+rules .
+
+### Application to registrar
+
+#### Application for address to be changed
+
+4
+
+4.1
+
+Any person may apply to the registrar to change the address of a company’s
+registered office in accordance with these Regulations if the person thinks
+that the address is not an appropriate address.
+
+4.2
+
+The application must—
+
+4.2.a
+
+state the applicant’s name, address and email address;
+
+4.2.b
+
+state the name of the company, the company’s registered number and the address
+of its registered office, and
+
+4.2.c
+
+explain why the applicant thinks that the address of the company’s registered
+office is not an appropriate address.
+
+4.3
+
+The application must be accompanied by any information that the applicant
+wishes to rely on in support of the application.
+
+#### Notification of outcome of application
+
+5
+
+5.1
+
+The registrar must give the applicant a written notice stating the outcome of
+any application under  regulation 4 .
+
+5.2
+
+If the application is unsuccessful, the notice must explain that the applicant
+has a right to appeal under  regulation 14 .
+
+### Change of address to default address with prior notice
+
+#### Notice that registrar intends to change address to default address
+
+6
+
+6.1
+
+Where the registrar is satisfied that the address of a company’s registered
+office is not an appropriate address and  regulation 10  (power to change
+address to default address without notice) does not apply, the registrar must
+give the company a written notice in accordance with  this regulation .
+
+6.2
+
+The notice must state that the registrar intends to change the address of the
+company's registered office to a default address unless within the specified
+period—
+
+6.2.a
+
+the company gives notice of a new registered office address in accordance with
+section 87 of the Act, or
+
+6.2.b
+
+the company objects to the address of its registered office being changed and
+provides evidence to the satisfaction of the registrar that the company’s
+registered office address is an appropriate address.
+
+6.3
+
+The notice must be accompanied by a description of any information on which
+the registrar relied in deciding to act under  this regulation .
+
+6.4
+
+A notice may be given under  this regulation  on the registrar’s own motion or
+following an application under  regulation 4 .
+
+6.5
+
+If it is given following an application under  regulation 4 , the notice must
+also state that fact.
+
+6.6
+
+In  this Part  “ the specified period ” means the period of 14 days beginning
+with the day on which a notice is given under  paragraph (1) .
+
+#### Registrar duty to change address to default address
+
+7
+
+7.1
+
+Where the registrar has given a company a notice under  regulation 6  the
+registrar must change the address of the company’s registered office to a
+default address if—
+
+7.1.a
+
+within the specified period, the company has not given notice of a new
+registered office address in accordance with section 87 of the Act, and
+
+7.1.b
+
+after the end of the specified period, the registrar remains satisfied that
+the company’s registered office address is not an appropriate address.
+
+7.2
+
+The fact that a company failed, within the specified period, to object to the
+change of the address may be taken by the registrar as sufficient evidence of
+the fact that its registered office address is not an appropriate address
+(without further ado).
+
+7.3
+
+The change in the address of the company’s registered office is effected by
+the registrar proceeding as if the company had given notice under section 87
+of the Act.
+
+#### Notice of change of address under 
+
+8
+
+8.1
+
+If the registrar changes the address of a company’s registered office under
+regulation 7 , the registrar must give the company a written notice of the
+change.
+
+8.2
+
+The notice must—
+
+8.2.a
+
+state the new address;
+
+8.2.b
+
+state the date on which the address was changed;
+
+8.2.c
+
+explain why the address was changed;
+
+8.2.d
+
+explain that the company has a right to appeal under  regulation 13 , and
+
+8.2.e
+
+explain the effect of  regulations 20  to  22 .
+
+8.3
+
+The notice must be accompanied by a description of any information on which
+the registrar relied in deciding to change the address.
+
+#### Notice of decision not to change address under 
+
+9
+
+If the registrar has given the company a notice under  regulation 6  and
+decides not to change the address of its registered office, the registrar must
+give the company a written notice of that fact.
+
+### Change of address to default address without prior notice
+
+#### Power to change address to default address without notice
+
+10
+
+10.1
+
+This regulation  applies where the registrar—
+
+10.1.a
+
+is satisfied that the address of a company’s registered office is not an
+appropriate address, and
+
+10.1.b
+
+does not consider it necessary to provide a period for objections to be made
+to the address of the company’s registered office being changed to a default
+address.
+
+10.2
+
+The registrar may change the address of the company’s registered office to a
+default address.
+
+10.3
+
+The change in the address of the company’s registered office is effected by
+the registrar proceeding as if the company had given notice under section 87
+of the Act.
+
+10.4
+
+The registrar may act under  this regulation  on the registrar’s own motion or
+following an application under  regulation 4 .
+
+#### Notice of change of address under 
+
+11
+
+11.1
+
+If the registrar changes the address of a company’s registered office under
+regulation 10 , the registrar must give the company a written notice of the
+change.
+
+11.2
+
+The notice must—
+
+11.2.a
+
+state the new address;
+
+11.2.b
+
+state the date on which the address was changed;
+
+11.2.c
+
+explain why the address was changed;
+
+11.2.d
+
+where the change follows an application under  regulation 4 , state that fact;
+
+11.2.e
+
+explain that the company has a right to appeal under  regulation 13 , and
+
+11.2.f
+
+explain the effect of  regulations 20  to  22 .
+
+11.3
+
+The notice must be accompanied by a description of any information on which
+the registrar relied in deciding to change the address.
+
+### Change of address from one default address to another default address
+
+#### Change of default address
+
+12
+
+12.1
+
+This regulation  applies where—
+
+12.1.a
+
+the registrar has changed the address of a company’s registered office under
+regulation 7  or  10 , and
+
+12.1.b
+
+the company has not since delivered a notice to the registrar in accordance
+with section 87 of the Act.
+
+12.2
+
+The registrar may change the address of the company’s registered office to
+another default address.
+
+12.3
+
+The change in the address is effected by the registrar proceeding as if the
+company had given notice under section 87 of the Act.
+
+12.4
+
+Where the registrar acts under  paragraph (2) , the registrar must give the
+company a written notice of the change.
+
+12.5
+
+The notice must state—
+
+12.5.a
+
+the new address;
+
+12.5.b
+
+the date on which the address was changed.
+
+### Appeals to the court
+
+#### Appeal by company
+
+13
+
+13.1
+
+If the registrar changes the address of a company’s registered office under
+regulation 7  or  10  the company may appeal to the court.
+
+13.2
+
+The appeal must be brought within the period of 28 days beginning with the day
+on which the company was given the notice of the change under  regulation 8
+or  11 .
+
+13.3
+
+In determining an appeal the court may take into account evidence that was not
+available to the registrar.
+
+#### Appeal by applicant
+
+14
+
+14.1
+
+A person who applies to the registrar under  regulation 4  to change the
+address of a company’s registered office may appeal to the court if the
+application is unsuccessful.
+
+14.2
+
+The appeal must be brought within the period of 28 days beginning with the day
+on which the applicant was given the notice of the outcome of the application
+under  regulation 5 .
+
+### Effect of change to default address
+
+#### Valid service at previous address
+
+15
+
+Where the registrar changes the address of a company’s registered office to a
+default address under these Regulations (including where the registrar changes
+the address from one default address to another default address), a person may
+validly serve any document on the company at the old address during the period
+of 14 days beginning with the day on which it was changed.
+
+#### Suspension of duties about making records available for inspection
+
+16
+
+16.1
+
+Where the registrar changes the address of a company’s registered office from
+an address which is not a default address to a default address, the following
+duties do not apply in relation to the company during the suspension period
+(see paragraphs (2) and (3))—
+
+16.1.a
+
+the duty under any of the following sections of the Act to make company
+records available for inspection—
+
+16.1.a.i
+
+section 114 (register of members);
+
+16.1.a.ii
+
+section 162 (register of directors);
+
+16.1.a.iii
+
+section 228 (directors’ service contracts or memorandum of terms);
+
+16.1.a.iv
+
+section 237 (directors’ indemnities);
+
+16.1.a.v
+
+section 275 (register of secretaries);
+
+16.1.a.vi
+
+section 358 (records of resolutions etc);
+
+16.1.a.vii
+
+section 388 (accounting records);
+
+16.1.a.viii
+
+section 702 (contracts relating to the purchase of own shares);
+
+16.1.a.ix
+
+section 720 (directors’ statement and auditor’s report to be available for
+inspection);
+
+16.1.a.x
+
+section 743 (register of debenture holders);
+
+16.1.a.xi
+
+section 790N (register to be kept available for public inspection);
+
+16.1.a.xii
+
+section 805 (report to members of outcome of investigation by public company
+into interests in its shares);
+
+16.1.a.xiii
+
+section 809 (register of interests in shares disclosed to public company), and
+
+16.1.a.xiv
+
+sections 859P and 859Q (instruments creating and amending charges);
+
+16.1.b
+
+the duty to display a company’s issuer register of members and its register of
+uncertificated shares under paragraph 6 of Schedule 4 to the Uncertificated
+Securities Regulations 2001 ;
+
+16.1.c
+
+the duty to display a company’s registered name at the company’s registered
+office under regulation 21(1)(a) of the Company, Limited Liability Partnership
+and Business (Names and Trading Disclosures) Regulations 2015  (“ the 2015
+Regulations ”);
+
+16.1.d
+
+the duty under regulation 25 of the 2015 Regulations to state information
+about the company’s registered office in descriptions of document or
+communication specified in regulation 25(1), and
+
+16.1.e
+
+the duty under regulation 27 of the 2015 Regulations to provide information
+about a company’s registered office on request to those persons the company
+deals with in the course of business.
+
+16.2
+
+The “ suspension period ” means the period of 28 days beginning with the day
+on which the change referred to in paragraph (1) was made, unless an appeal is
+brought within that period.
+
+16.3
+
+If an appeal is brought within that period, the “suspension period” is
+whichever of the following ends later—
+
+16.3.a
+
+the period mentioned in paragraph (2), and
+
+16.3.b
+
+the period beginning with the day on which the change is made and ending with—
+
+16.3.b.i
+
+the end of the period of 7 days beginning with the day on which the appeal is
+finally determined in the registrar’s favour;
+
+16.3.b.ii
+
+the end of the period of 7 days beginning with the day on which a new address
+is registered at the direction of the court following final determination of
+the appeal in the applicant’s favour, or
+
+16.3.b.iii
+
+the day on which the appeal is withdrawn.
+
+#### Administration of the default address
+
+17
+
+Where a company has had its registered office address changed to a default
+address in accordance with these Regulations, the company may not display its
+name, or keep, display, or make available for inspection, its registers,
+indexes or other documents at the default address.
+
+#### Collection and destruction of documents
+
+18
+
+18.1
+
+If the address of a company’s registered office is changed to a default
+address (including from one default address to another default address) the
+registrar must facilitate the collection by the company of any documents
+delivered to the company at that address.
+
+18.2
+
+But the registrar may destroy any document delivered to the company at that
+address if—
+
+18.2.a
+
+it is not collected within the period of 6 months beginning with the day on
+which it is delivered, or
+
+18.2.b
+
+the company is struck off.
+
+#### No duty on registrar to forward documents
+
+19
+
+Where a company has changed the address of its registered office from a
+default address to a new address under section 87 of the Act, the registrar is
+under no duty to forward any documents delivered to the company at the default
+address to the new address.
+
+### Requirement to move registered office from default address
+
+#### Duty to move registered office from default address within compliance period
+
+20
+
+20.1
+
+This regulation  applies to a company that has had the address of its
+registered office changed to a default address under either—
+
+20.1.a
+
+regulation 7  or  10 , or
+
+20.1.b
+
+the 2016 Regulations and has not given a notice under section 87 of the Act
+before these Regulations come into force.
+
+20.2
+
+The company must, before the end of the compliance period, give a notice under
+section 87 of the Act to change the address of its registered office to a new
+address.
+
+20.3
+
+The “compliance period” is—
+
+20.3.a
+
+in relation to a company whose registered office address has been changed
+under  regulation 7  or  10 , the period of 28 days beginning with the day on
+which the change was made, and
+
+20.3.b
+
+in relation to a company whose registered office address has been changed
+under the 2016 Regulations, the period of 28 days beginning with the day on
+which these Regulations come into force,
+
+unless an appeal is brought within that period.
+
+20.4
+
+If an appeal is brought within that period, the “compliance period” is
+whichever of the following ends later—
+
+20.4.a
+
+the period mentioned in  paragraph (3) , and
+
+20.4.b
+
+the period beginning with the day on which the change is made and ending with—
+
+20.4.b.i
+
+the end of the period of 7 days beginning with the day on which the appeal is
+finally determined in the registrar’s favour, or
+
+20.4.b.ii
+
+the day on which the appeal is withdrawn.
+
+#### Offence of failure to comply with 
+
+21
+
+21.1
+
+If a company fails, without reasonable excuse, to comply with  regulation 20
+an offence is committed by—
+
+21.1.a
+
+the company, and
+
+21.1.b
+
+every officer of the company that is in default .
+
+21.2
+
+For the purposes of  this regulation  a shadow director is treated as a
+director.
+
+21.3
+
+A person guilty of an offence under  this regulation  is liable on summary
+conviction to a fine not exceeding level 3 on the standard scale and, for
+continued contravention, a daily default fine not exceeding one-tenth of level
+3 on the standard scale.
+
+#### Striking off a company that fails to comply with 
+
+22
+
+22.1
+
+The registrar may strike a company’s name off the register if the company has
+failed to comply with  regulation 20 .
+
+22.2
+
+The registrar may not exercise the power in paragraph (1) unless, after that
+failure—
+
+22.2.a
+
+the registrar has published a notice in the Gazette that, at the end of the
+period of 2 months beginning with the date of the notice, the name of the
+company mentioned in the notice will be struck off the register and the
+company will be dissolved unless, before the end of that period, the company
+gives a notice in accordance with section 87 of the Act to change the address
+of its registered office to a new address or an objection is received by the
+registrar which satisfies the registrar that it is not appropriate to strike
+the company’s name off the register, and
+
+22.2.b
+
+the period mentioned in paragraph (a) has expired.
+
+22.3
+
+If the registrar exercises the power in paragraph (1), the registrar must
+publish a notice in the Gazette of the company’s name having been struck off
+the register.
+
+22.4
+
+On the publication of the notice in the Gazette the company is dissolved.
+
+22.5
+
+However—
+
+22.5.a
+
+the liability (if any) of every director, managing officer and member of the
+company continues and may be enforced as if the company had not been
+dissolved, and
+
+22.5.b
+
+nothing in this paragraph affects the power of the court to wind up a company
+the name of which has been struck off the register.
+
+#### Restoration of struck-off company
+
+23
+
+23.1
+
+Chapter 3 of Part 31 of the Act applies in relation to a company struck off
+under regulation 22 as it applies to a company struck off under section 1000
+of the Act, subject to the modification in paragraph (2).
+
+23.2
+
+Section 1025 of the Act has effect as if after the words “up to date” in
+subsection (5) there were included “and has delivered to the registrar a
+notice of change of address under section 87”.
+
+### Revocation and Transitional Provision
+
+#### Revocation
+
+24
+
+The 2016 Regulations are revoked.
+
+#### Transitional provision
+
+25
+
+25.1
+
+An application made or notice given under a provision of the 2016 Regulations
+specified in column 2 of the table is to be treated, after the commencement of
+these Regulations—
+
+25.1.a
+
+as if it were an application made or notice given under the provision of these
+Regulations specified in the corresponding entry in column 3, and
+
+25.1.b
+
+as if it complied with the requirements of these Regulations in relation to
+such applications or notices.
+
+1 2 3 General description Provision of the 2016 Regulations Corresponding
+provision of these Regulations> Application to change company’s registered
+office address Regulation 2 Regulation 4 Notice of application Regulation 5(b)
+Regulation 6 Notice of outcome Regulation 10 Regulations 5 and 8
+
+25.2
+
+Where a notice has been given under regulation 5(b) of the 2016 Regulations
+before these Regulations come into force, the specified period for the
+purposes of regulations 6 and 7 of these Regulations is the period specified
+in that notice.
+
+25.3
+
+Where an address is a default address within the meaning of regulation 1(2)(d)
+of the 2016 Regulations before these Regulations come into force, that address
+is to be treated, after the commencement of these Regulations, as if it had
+been nominated in accordance with regulation 3 of these Regulations.
+
+25.4
+
+In relation to a company whose registered office address has been changed to a
+default address under the 2016 Regulations, regulation 13(2) has effect as if
+the reference to the period mentioned there were to the period mentioned in
+regulation 16 of the 2016 Regulations.
+
+25.5
+
+Anything else done under (or for the purposes of or in reliance on) a
+provision in the 2016 Regulations, and effective immediately before the time
+these Regulations come into force, has effect after that time as if done under
+(or for the purposes of or in reliance on) the corresponding provision of
+these Regulations.
+
+Kevin Hollinrake Parliamentary Under Secretary of State Department for
+Business and Trade 29th February 2024
+
+## Explanatory Note
+
+    (This note is not part of the Regulations)
+
+  These Regulations provide the registrar of companies with power, on
+application and on the registrar’s own motion, to change a company’s
+registered office address to a “default address” if the registrar is satisfied
+that the address is not an “appropriate address” within the meaning of section
+86 of the Companies Act  2006 (c. 46) .
+
+  Part 2 requires the registrar to nominate a default address for the purposes
+of these Regulations.
+
+  Part 3 provides for applications to be made to the registrar to change a
+company’s registered office address and the notice to be given about the
+application.
+
+  Part 4 provides for the registrar to change a company’s registered office
+address after having given prior notice to the company.
+
+  Part 5 provides for the registrar to change a company’s registered office
+address without giving prior notice.
+
+  Part 6 provides for the registrar to be able to change a registered office
+address from one default address to another default address.
+
+  Part 7 provides for appeals against the registrar’s decisions under these
+Regulations.
+
+  Part 8 provides for the effect of changing a company’s registered office
+address to a default address nominated by the registrar.
+
+  Part 9 establishes a criminal offence for a company and any officer in
+default where the company does not change its registered office address to an
+appropriate address within a certain period. Part 9 also establishes a power
+for the registrar to initiate strike-off proceedings against the company in
+these circumstances, and makes provision about the restoration of a struck-off
+company.
+
+  Part 10 revokes the Companies (Address of Registered Office) 2016
+Regulations ( S.I. 2016/423 ) and contains transitional provision.
+
+  No impact assessment has been prepared in connection with these Regulations.
+

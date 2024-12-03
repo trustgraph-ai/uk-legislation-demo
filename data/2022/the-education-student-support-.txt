@@ -1,0 +1,313 @@
+Title: The Education (Student Support, etc.) (Amendment) (No.3) Regulations (Northern Ireland) 2022
+Date: 2023-01-30
+Description: These Regulations amend legislation which makes provision about, or in connection with, student finance. Three sets of Student Support Regulations are amended. Those Regulations are the Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 “the 2009 Regulations”, the Student Fees (Amounts) Regulations (Northern Ireland) 2005 (“the 2005 Regulations”) and the Student Fees (Qualifying Courses and Persons) Regulations (Northern Ireland) 2007 “the 2007 Regulations”.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2022/263
+
+## The Education (Student Support, etc.) (Amendment) (No.3) Regulations (Northern Ireland) 2022
+
+Education
+
+Made 25th October 2022
+
+Coming into operation- 16th November 2022
+
+The Department for the Economy  in exercise of the powers conferred by
+Articles 3 and 8(4) of the Education (Student Support) (Northern Ireland)
+Order 1998  and Articles 4(8) and 14(4) of the Higher Education (Northern
+Ireland) Order 2005  makes the following Regulations. In accordance with
+Article 4(11)(a)(i) and (b)(i) of the Higher Education (Northern Ireland)
+Order 2005 the Department is satisfied that the increases to the basic and
+higher amounts are no greater than are required to maintain the value of those
+amounts in real terms
+
+##### Citation, commencement and application
+
+1
+
+1.1
+
+These Regulations may be cited as The Education (Student Support, etc.)
+(Amendment) (No.3) Regulations (Northern Ireland) 2022.
+
+1.2
+
+These Regulations come into operation on 16th November 2022.
+
+1.3
+
+The following provisions apply in relation to the provision of support to a
+student in relation to an academic year which begins on or after 1st August
+2023, whether or not anything done under these Regulations is done before, on
+or after that date—
+
+1.3.a
+
+regulations 3 and 4;
+
+1.3.b
+
+regulation 7, 8 and the Schedule.
+
+1.4
+
+In paragraph (3) an “academic year” is the period of twelve months beginning
+with 1st January, 1st April, 1st July or 1st September of the calendar year in
+which the academic year of the course in question begins, according to whether
+the academic year of the course in question begins—
+
+1.4.a
+
+on or after 1st January and before 1st April;
+
+1.4.b
+
+on or after 1st April and before 1st July;
+
+1.4.c
+
+on or after 1st July and before 1st August; or
+
+1.4.d
+
+on or after 1st August and on or before 31st December.
+
+##### Interpretation
+
+2
+
+In these Regulations —
+
+2.a
+
+“ the 2009 Regulations ” means the Education (Student Support) (No.2)
+Regulations (Northern Ireland) 2009 .
+
+2.b
+
+“ the 2007 Regulations ” means The Student Fees (Qualifying Courses and
+Persons) Regulations (Northern Ireland) 2007 .
+
+2.c
+
+“ the 2005 Regulations ” means The Student Fees (Amounts) Regulations
+(Northern Ireland) 2005
+
+#### Amendment of the Student Fees (Amounts) Regulations (Northern Ireland) 2005
+
+##### Amendment to the 2005 Regulations
+
+3
+
+In regulation 3 (Prescribed basic and higher amounts)—
+
+3.a
+
+for “£1,825” substitute  “£1,855” ; and
+
+3.b
+
+for “£4,630” substitute  “£4,710” .
+
+4
+
+In regulation 4 (Prescribed basic and higher amounts for specified courses)—
+
+4.a
+
+for “£890” substitute  “£905” ; and
+
+4.b
+
+for “£2,300” substitute  “£2,340” .
+
+#### Graduate Entry Courses
+
+##### Amendments to the 2007 Regulations
+
+5
+
+In regulation 2 , in the appropriate place insert—
+
+“ graduate entry course ” means a “graduate entry dentistry course”, “graduate
+entry medicine course”, “graduate entry social work course” or a “graduate
+entry veterinary course”. “ graduate entry dentistry course ” means a course—
+the standard of which is not higher than a first degree which leads to
+qualification as a dentist, and where a first degree or equivalent
+qualification would normally be required for entry to the course. “ graduate
+entry medicine course ” means a course— the standard of which is not higher
+than a first degree which leads to qualification as a medical doctor, and
+where a first degree or equivalent qualification would normally be required
+for entry to the course. “ graduate entry social work course ” means a course—
+the standard of which is not higher than a first degree which leads to
+qualification as a social worker, and where a first degree or equivalent
+qualification would normally be required for entry to the course. “ graduate
+entry veterinary course ” means a course— the standard of which is not higher
+than a first degree which leads to qualification as a veterinary surgeon, and
+where a first degree or equivalent qualification would normally be required
+for entry to the course;
+
+.
+
+6
+
+In regulation 5  (prescribed description of a qualifying person) after
+paragraph 3 insert—
+
+6.3A
+
+Paragraph (2) does not apply where the qualifying course is a graduate entry
+course.
+
+#### Amendments to Loan Amounts
+
+##### Amendments to the 2009 Regulations
+
+7
+
+In Regulation 66 (current system students with full entitlement) for paragraph
+(4) substitute—
+
+7.4
+
+“the maintenance grant amount” is, unless otherwise stated,—
+
+7.4.i
+
+where the student qualifies under Chapter 6 of Part 5 for an amount of
+maintenance grant not exceeding £1,318, the amount of maintenance grant
+payable;
+
+7.4.ii
+
+where the student qualifies under regulation 58(2) for an amount of
+maintenance grant exceeding £1,318 but less than £1,738, £1,625 less £1 in
+every complete £12.32 by which the household exceeds £19,203;
+
+7.4.iii
+
+where the student qualifies under regulation 58(2) for an amount of
+maintenance grant of £1,738, £1,625;
+
+7.4.iv
+
+where the student qualifies under regulation 58(3) for an amount of
+maintenance grant exceeding £1,318 but less than £3,475, £2,642 less £1 in
+every complete £7.42 by which the household income exceeds £19,203;
+
+7.4.v
+
+where the student qualifies under regulation 58(4) for an amount of
+maintenance grant exceeding £1,318 but less than £1,738, £1,550 less £1 in
+every complete £16.45 by which the household exceeds £19,203;
+
+7.4.vi
+
+where the student qualifies under regulation 58(5) for an amount of
+maintenance grant exceeding £1,318 but less than £3,475, £2,115 less £1 in
+every complete £12.32 by which the household income exceeds £19,203;
+
+7.4.vii
+
+where the student qualifies under Chapter 6 of Part 5 for an amount of
+maintenance grant of £3,475, £2,115; and
+
+7.4.viii
+
+where no maintenance grant is payable, nil.
+
+8
+
+The Schedule to these Regulations has effect to substitute the figure in the
+third column of the table for the figure in the second column where that
+figure appears in the provision of the Education (Student Support) (No. 2)
+Regulations (Northern Ireland) 2009 set out in the first column.
+
+#### Miscellaneous
+
+9
+
+In Schedule 6  to the 2009 Regulations (Relevant Institutions of Higher
+Education in the Republic of Ireland)—
+
+9.a
+
+add “Atlantic Technological University”;
+
+9.b
+
+after “Maynooth University” add  “South East Technological University” ;
+
+Sealed with the Official Seal of the Department for the Economy on 25th
+October 2022. Mr Trevor Cooper A senior officer of the Department for the
+Economy
+
+Regulation 8
+
+NEW SUPPORT RATES Provision in the Education (Student Support) (No. 2)
+Regulations (Northern Ireland) 2009 Existing figure New figure Regulation 25
+25(2A)(a) £4,630 £4,710 25(2B)(a) £2,300 £2,340 25(14)(b) £4,630 £4,710
+Regulation 66 66(2)(i) £3,750 £5,250 66(2)(ii) £6,780 £9,492 66(2)(iii) £5,770
+£8,078 66 (2)(iv) £4,840 £6,776 66(3)(i) £3,390 £4,746 66(3)(ii) £6,170 £8,638
+66(3)(iii) £5,015 £7,021 66(3)(iv) £4,480 £6,272 Regulation 67 67(2)(a) £3,750
+£5,250 67(2)(b) £6,780 £9,492 67(2)(c) £5,770 £8,078 67(2)(d) £4,840 £6,776
+67(3)(a) £3,390 £4,746 67(3)(b) £6,170 £8,638 67(3)(c) £5,015 £7,021 67(3)(d)
+£4,480 £6,272 Regulation 69 69(1)(a)(i) £1,780 £2,492 69(1)(a)(ii) £3,330
+£4,662 69(1)(a)(iii) £2,370 £3,318 69(1)(b)(i) £1,780 £2,492 69(1)(b)(ii)
+£3,330 £4,662 69(1)(b)(iii) £2,835 £3,969 69(1)(b)(iv) £2,370 £3,318
+69(1)(c)(i) £2,812 £3,925 69(1)(c)(ii) £5,085 £7,119 69(1)(c)(iii) £4,330
+£6,062 69(1)(c)(iv) £3,630 £5,082 69(2)(a)(i) £1,350 £1,890 69(2)(a)(ii)
+£2,550 £3,570 69(2)(a)(iii) £1,850 £2,590 69(2)(b)(i) £1,350 £1,890
+69(2)(b)(ii) £2,550 £3,570 69(2)(b)(iii) £2,070 £2,898 69(2)(b)(iv) £1,850
+£2,590 69(2)(c)(i) £2,540 £3,560 69(2)(c)(ii) £4,630 £6,479 69(2)(c)(iii)
+£3,760 £5,266 69(2)(c)(iv) £3,360 £4,704 Regulation 70 70(5)(i) £55 £77
+70(5)(ii) £108 £152 70(5)(iii) £117 £164 70(5)(iv) £84 £118 Regulation 91
+91(1)(a) £2,812 £3,925 91(1)(b) £5,085 £7,119 91(1)(c) £4,330 £6,062 91(1)(d)
+£3,630 £5,082 91(2)(a) £2,540 £3,560 91(2)(b) £4,630 £6,479 91(2)(c) £3,760
+£5,266 91(2)(d) £3,360 £4,704 Regulation 110A 110A(1)(a) £3,472.50 £3,532.50
+Regulation 117 117(4)(d)(i) £3,472.50 £3,532.50 Regulation 127A 127A(1)(a)
+£3,472.50 £3,532.50 Regulation 135 135(4A)(d)(i) £3,472.50 £3,532.50
+135(10B)(a)(i) £3,472.50 £3,532.50 135(19)(a)(i) £3,472.50 £3,532.50
+Regulation 156 156(1)(a) £5,500 £6,500 156(4)(a) £5,500 £6,500 Schedule 5
+9(1)(a) £9.50 £6.79
+
+## EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend legislation which makes provision about, or in
+connection with, student finance. Three sets of Student Support Regulations
+are amended. Those Regulations are the Education (Student Support) (No. 2)
+Regulations (Northern Ireland) 2009 “the 2009 Regulations”, the Student Fees
+(Amounts) Regulations (Northern Ireland) 2005 (“ the 2005 Regulations ”) and
+the Student Fees (Qualifying Courses and Persons) Regulations (Northern
+Ireland) 2007 “the 2007 Regulations”.
+
+Regulations 3 and 4 of these regulations amend the 2005 Regulations by
+increasing the basic and higher amounts prescribed in the 2005 Regulations. In
+each case the increases are by 1.8%, and will come into operation on 1st
+September 2023.
+
+The 2005 Regulations prescribe the basic and higher amounts which higher
+education institutions in Northern Ireland may charge by way of tuition fees.
+Regulation 3 of the 2005 Regulations sets out the basic and higher amounts
+which ordinarily apply. Regulation 4 of the 2005 Regulations sets out the
+lower basic and higher amounts which apply in respect of an academic year of
+specified courses.
+
+Regulations 5 and 6 amends the 2007 Regulations to correct an omission to
+ensure that those students studying for graduate entry courses are not
+discounted from Home Fee Status because of holding a previous honours degree.
+
+Regulation 9 makes amendments to Schedule 6, to update the list of relevant
+institutions of higher education in the Republic of Ireland.
+
+### New payment rates (regulations 7, 8 and the Schedule)
+
+The 2009 Regulations are amended to update the payment rates for student
+support for an academic year which begins on or after 1st August 2023
+(regulations 7, 8 and the Schedule).
+
+An impact assessment has not been produced for this rule as no, or no
+significant impact on the private, voluntary or public sectors is foreseen.
+

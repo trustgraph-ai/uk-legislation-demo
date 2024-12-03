@@ -1,0 +1,5093 @@
+Title: The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023
+Date: 2024-11-09
+Description: These Regulations make provision for Carer Support Payment which is a type of carer’s assistance given by the Scottish Ministers under section 28 of the Social Security (Scotland) Act 2018.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ssi/2023/302
+
+## The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023
+
+    Social Security
+
+  Made   25th October 2023
+
+  Coming into force in accordance with regulation 1
+
+      The Scottish Ministers make the following Regulations in exercise of the
+powers conferred by sections 28(2), 41(4)(a), 43(5), 51(1), 52, 81(8) and 95
+of the Social Security (Scotland) Act 2018  and all other powers enabling them
+to do so.       In accordance with section 96(2) of that Act, a draft of these
+Regulations has been laid before and approved by resolution of the Scottish
+Parliament.           In accordance with section 97(2) of that Act, the
+Scottish Ministers have informed the Scottish Commission on Social Security of
+their proposals, notified the Scottish Parliament that they have done so and
+made their proposals publicly available by such means as they consider
+appropriate.
+
+### Introductory and interpretation
+
+
+#### Citation and commencement
+
+
+1
+
+1.1
+
+These Regulations may be cited as the Carer’s Assistance (Carer Support
+Payment) (Scotland) Regulations 2023.
+
+1.2
+
+Subject to paragraph (3), these Regulations come into force on 19 November
+2023.
+
+1.3
+
+Regulation 13(2) and (3) come into force on   23 June 2024 .
+
+#### Interpretation
+
+
+2
+
+In these Regulations—
+
+“ the 2018 Act ” means the Social Security (Scotland) Act 2018, “ the 1992 Act
+” means the Social Security Contributions and Benefits Act 1992 , “ Adult
+Disability Payment ” means disability assistance for adults given in
+accordance with the Disability Assistance for Working Age People (Scotland)
+Regulations 2022 , “ Armed Forces Independence Payment ” means a payment under
+the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011 , “
+Attendance Allowance ” means an attendance allowance under— section 64 of the
+1992 Act, or the Social Security (Attendance Allowance) Regulations (Northern
+Ireland) 1992 , “ award week ” means a period of 7 days beginning on a Sunday
+and ending on a Saturday, “cared for person” is a person described in
+regulation 5(1), “ carer element of Universal Credit ” means the amount
+awarded by virtue of— section 12(2)(c) of the Welfare Reform Act 2012 , or
+article 17(2)(c) of the Welfare Reform (Northern Ireland) Order 2015 , “
+Carer’s Allowance ” means a benefit for carers given under— section 70
+(carer’s allowance) of the 1992 Act , or section 70 (carer’s allowance) of the
+Social Security Contributions and Benefits (Northern Ireland) Act 1992 , “
+Carer Support Payment ” means carer’s assistance given in accordance with
+these Regulations, “ Child Disability Payment ” means disability assistance
+for children and young people given in accordance with the Disability
+Assistance for Children and Young People (Scotland) Regulations 2021 , “
+Constant Attendance Allowance ” means an allowance under— section 104 of the
+1992 Act, or article 8 of the Naval, Military and Air Forces Etc. (Disablement
+and Death) Service Pensions Order 2006 , “ couple ” has the meaning given by
+section 39 of the Welfare Reform Act 2012 , “determination” or “ determination
+of entitlement ” has the meaning in section 25 of the 2018 Act, “ Disability
+Living Allowance ” means a disability living allowance under— section 71 of
+the 1992 Act, or section 71 of the Social Security Contributions and Benefits
+(Northern Ireland) Act 1992 , “ EEA state ” means— any member state of the
+European Union, or any other state that is party to the Agreement on the
+European Economic Area signed at Oporto on 2 May 1992 , together with the
+Protocol adjusting that Agreement signed at Brussels on 17 March 1993 , as
+modified or supplemented from time to time, “ Industrial Injuries Disablement
+Benefit ” means a benefit payable under Part V and section 103 of the 1992
+Act, “ legal detention ” means detention in legal custody within the meaning
+of section 295 of the Criminal Procedure (Scotland) Act 1995 ,   “ Pension Age
+Disability Payment ” means disability assistance for older people given in
+accordance with the Disability Assistance for Older People (Scotland)
+Regulations 2024,   “ Personal Independence Payment ” means personal
+independence payment under— Part 4 of the Welfare Reform Act 2012, or Article
+82 of the Welfare Reform (Northern Ireland) Order 2015 , “ qualifying
+disability benefit ” means— the daily living component of Adult Disability
+Payment at the standard or enhanced rate, the daily living component of
+Personal Independence Payment, the care component of Child Disability Payment
+at the middle or highest rate, the care component of Disability Living
+Allowance at the middle or highest rate,   Pension Age Disability Payment,
+Attendance Allowance, Armed Forces Independence Payment, or Constant
+Attendance Allowance— at or above the normal maximum rate with Industrial
+Injuries Disablement Benefit, or at the basic (full day) rate with a War
+Disablement Pension, “ relevant EU Regulation ” means— one of the following
+Regulations— Council Regulation  (EC) No 1408/71  of 14 June 1971  on the
+application of social security schemes to employed persons, to self-employed
+persons and to members of their families moving within the Community,
+Regulation  (EC) No 883/2004  of the European Parliament and of the Council of
+29 April 2004  on the coordination of social security systems, or in relation
+to an individual to whom the agreement constituted by the exchange of letters
+set out in the schedule of the Family Allowances, National Insurance and
+Industrial Injuries (Gibraltar) Order 1974  applies, a Regulation mentioned in
+paragraph (a) of this definition as it forms part of domestic law by virtue of
+section 3 of the European Union (Withdrawal) Act 2018 , “ War Disablement
+Pension ” means— any retired pay, pension or allowance granted in respect of
+disablement under powers conferred by or under the Air Force (Constitution)
+Act 1917 , the Personal Injuries (Emergency Provisions) Act 1939 , the
+Pensions (Navy, Army, Air Force and Mercantile Marine) Act 1939 , the Polish
+Resettlement Act 1947 , or Part VII or section 151 of the Reserve Forces Act
+1980 , without prejudice to paragraph (a) of this definition, any retired pay
+or pension to which any of paragraphs (a) to (f) of section 641(1) of the
+Income Tax (Earnings and Pensions) Act 2003  applies, and “ Young Carer Grant
+” means a grant paid under the Carer’s Assistance (Young Carer Grants)
+(Scotland) Regulations 2019 .
+
+### Carer Support Payment
+
+
+#### Overview
+
+
+3
+
+An individual is entitled to Carer Support Payment in accordance with these
+Regulations if they meet the eligibility rules in—
+
+3.a
+
+regulation 4 (age criteria),
+
+3.b
+
+regulation 5 (provision of care to a cared for person),
+
+3.c
+
+regulations 6 to 11 (residence and presence conditions),
+
+3.d
+
+regulation 12 (entitlement to other benefits),
+
+3.e
+
+regulation 13 (individuals in education),
+
+3.f
+
+regulation 14 (earnings limit).
+
+### Eligibility
+
+
+#### Age criteria
+
+
+4
+
+4.1
+
+Carer Support Payment may only be paid in respect of an individual who is 16
+years of age or older.
+
+4.2
+
+Where an individual was born on 29 February, the individual’s birthday is to
+be taken to fall on 28 February in a year which is not a leap year.
+
+#### Provision of care to a cared for person
+
+
+5
+
+5.1
+
+Carer Support Payment may only be paid to an individual in respect of a period
+during which that individual provides regular and substantial care to a person
+to whom a qualifying disability benefit is normally payable (a “cared for
+person”).
+
+5.2
+
+For the purposes of paragraph (1), an individual shall only be treated as
+being regularly and substantially engaged in caring for a cared for person on
+every day in a week if they are, or are likely to be, regularly engaged for at
+least 35 hours in an award week in caring for that cared for person.
+
+5.3
+
+No individual can be entitled to Carer Support Payment in respect of a cared
+for person where another individual is entitled to—
+
+5.3.a
+
+Carer Support Payment,
+
+5.3.b
+
+Carer’s Allowance, or
+
+5.3.c
+
+the carer element of Universal Credit,
+
+in respect of that cared for person.
+
+5.4
+
+The care must not be provided by an individual—
+
+5.4.a
+
+under or by virtue of a contract, unless the contract is of a kind specified
+by regulations made under section 1(3)(a) of the Carers (Scotland) Act 2016
+as not to be regarded as a contract for the purposes of that Act, or
+
+5.4.b
+
+as voluntary work done for a charity or other not-for-profit organisation for
+which no payment is received other than reasonable expenses.
+
+5.5
+
+No individual can be entitled to more than one Carer Support Payment in
+respect of the same period.
+
+5.6
+
+A period during which an individual fails to satisfy the requirement of
+paragraph (2) is to be treated as a temporary break in care within the meaning
+of regulation 40 (temporary break in care), provided the individual satisfies
+the requirements set out in regulation 40.
+
+5.7
+
+For the avoidance of doubt, an individual may be entitled to Carer Support
+Payment in respect of a cared for person where another individual is entitled
+to Young Carer Grant for that cared for person.
+
+#### Residence and presence conditions
+
+
+6
+
+6.1
+
+An individual satisfies the residence and presence conditions where on any day
+that individual—
+
+6.1.a
+
+is ordinarily resident in Scotland,
+
+6.1.b
+
+is habitually resident in the common travel area,
+
+6.1.c
+
+is not a person subject to immigration control within the meaning of section
+115(9) of the Immigration and Asylum Act 1999 ,
+
+6.1.d
+
+is present in the common travel area, and
+
+6.1.e
+
+has been present in the common travel area for a period of, or for periods
+amounting in the aggregate to, not less than 26 weeks of the 52 weeks
+immediately preceding that day.
+
+6.2
+
+In this Part, “ common travel area ” has the meaning given in section 1(3) of
+the Immigration Act 1971 .
+
+6.3
+
+The residence condition set out in paragraph (1)(a) does not apply where on
+any day the individual—
+
+6.3.a
+
+is habitually resident in Ireland,
+
+6.3.b
+
+has a genuine and sufficient link to Scotland, and
+
+6.3.c
+
+is an individual—
+
+6.3.c.i
+
+to whom the Convention on Social Security between the Government of the United
+Kingdom of Great Britain and Northern Ireland and the Government of Ireland
+signed at Dublin on 1 February 2019 , as modified from time to time in
+accordance with any provision of it, applies, and
+
+6.3.c.ii
+
+in respect of whom the United Kingdom is, as a result, competent for the
+payment of long term care benefits.
+
+6.4
+
+The reference in paragraph (3)(b) to an individual’s link to Scotland being
+sufficient is to it being sufficiently close that if the individual were not
+entitled to Carer Support Payment, paragraph (3) would be incompatible with
+the Convention on Social Security between the Government of the United Kingdom
+of Great Britain and Northern Ireland and the Government of Ireland signed at
+Dublin on 1 February 2019.
+
+6.5
+
+Paragraph (1)(c) does not apply to a person subject to immigration control
+within the meaning of section 115(9) of the Immigration and Asylum Act 1999
+where the person—
+
+6.5.a
+
+is lawfully working in the United Kingdom and is a national of a state with
+which the United Kingdom has concluded an agreement which replaces in whole or
+in part an agreement under Article 217 of the Treaty on the Functioning of the
+European Union  which has ceased to apply to, and in, the United Kingdom,
+providing, in the field of social security, for the equal treatment of workers
+who are nationals of the signatory state and their families,
+
+6.5.b
+
+is a member of the family of, and living with, a person specified in sub-
+paragraph (a), or
+
+6.5.c
+
+has been given leave to enter, or remain in, the United Kingdom by the
+Secretary of State upon an undertaking by another person or persons pursuant
+to the immigration rules, to be responsible for their maintenance and
+accommodation.
+
+6.6
+
+The past presence condition in paragraph (1)(e) does not apply where an
+individual—
+
+6.6.a
+
+has a terminal illness, or
+
+6.6.b
+
+cares for a cared for person who—
+
+6.6.b.i
+
+has a terminal illness,
+
+6.6.b.ii
+
+is in receipt of Armed Forces Independence Payment or Constant Attendance
+Allowance at or above the normal maximum rate with Industrial Injuries
+Disablement Benefit, or at the basic (full day) rate with a War Disablement
+Pension, or
+
+6.6.b.iii
+
+is not required to meet a past presence condition by virtue of an exception
+set out in—
+
+6.6.b.iii.aa
+
+regulation 2A(1) or 2C(1) of the Social Security (Attendance Allowance)
+Regulations 1991 ,
+
+6.6.b.iii.bb
+
+regulation 2A(1) or 2C(1) of the Social Security (Disability Living Allowance)
+Regulations 1991 ,
+
+6.6.b.iii.cc
+
+regulation 2A(1), 2B, 2C(1) or paragraph 5 of Schedule 2 of the Social
+Security (Disability Living Allowance) Regulations (Northern Ireland) 1992 ,
+
+6.6.b.iii.dd
+
+regulation 22 or 23A(1) of the Social Security (Personal Independence Payment)
+Regulations 2013 ,
+
+6.6.b.iii.ee
+
+regulation 5(8), (10)(b), 5(10A) or 8 of the Disability Assistance for
+Children and Young People (Scotland) Regulations 2021 ,  ...
+
+6.6.b.iii.ff
+
+regulation 15(7), 17(2), 18 or 19 of the Disability Assistance for Working Age
+People (Scotland) Regulations 2022   , or
+
+6.6.b.iii.gg
+
+regulation 9(7), 11(2), 12 or 13 of the Disability Assistance for Older People
+(Scotland) Regulations 2024.
+
+6.7
+
+For the purposes of paragraph (6), an individual or a cared for person has a
+terminal illness where they are entitled to—
+
+6.7.a
+
+Disability Living Allowance by virtue of regulation 2(4) of the Social
+Security (Disability Living Allowance) Regulations 1991,
+
+6.7.b
+
+Disability Living Allowance by virtue of regulation 2(3) of the Social
+Security (Disability Living Allowance) Regulations (Northern Ireland) 1992,
+
+6.7.c
+
+Attendance Allowance by virtue of section 66 of the 1992 Act,
+
+6.7.d
+
+Attendance Allowance by virtue of regulation 2(3) of the Social Security
+(Attendance Allowance) Regulations (Northern Ireland) 1992 ,
+
+6.7.da
+
+Pension Age Disability Payment by virtue of regulation 18 of the Disability
+Assistance for Older People (Scotland) Regulations 2024,
+
+6.7.e
+
+Personal Independence Payment by virtue of regulation 21 of the Social
+Security (Personal Independence Payment) Regulations 2013,
+
+6.7.f
+
+Universal Credit by virtue of regulations 16(2), 28(5)(a) or 40(5) read with
+paragraph 1 of Schedule 9 of the Universal Credit Regulations 2013 ,
+
+6.7.g
+
+Employment and Support Allowance by virtue of regulations 7(1)(a), 16(1)(a),
+31(1)(a), 45(2) or 85(2)(b) of the Employment and Support Allowance
+Regulations 2013 ,
+
+6.7.h
+
+Personal Independence Payment by virtue of regulation 21 of the Personal
+Independence Payment Regulations (Northern Ireland) 2016 ,
+
+6.7.i
+
+Child Disability Payment by virtue of regulation 15 of the Disability
+Assistance for Children and Young People (Scotland) Regulations 2021,
+
+6.7.j
+
+Adult Disability Payment by virtue of regulation 26 of the Disability
+Assistance for Working Age People (Scotland) Regulations 2022.
+
+6.8
+
+The habitual residence condition in paragraph (1)(b) and the past presence
+condition in paragraph (1)(e) do not apply where an individual is a person
+who—
+
+6.8.a
+
+has leave to enter or remain in the United Kingdom granted under the
+immigration rules by virtue of—
+
+6.8.a.i
+
+the Afghan Relocations and Assistance Policy, or
+
+6.8.a.ii
+
+the previous scheme for locally-employed staff in Afghanistan (sometimes
+referred to as the ex-gratia scheme),
+
+6.8.b
+
+has been granted discretionary leave outside the immigration rules as a
+dependant of a person referred to in sub-paragraph (a),
+
+6.8.c
+
+has leave granted under the Afghan Citizens Resettlement Scheme,
+
+6.8.d
+
+has been granted refugee status or humanitarian protection under the
+immigration rules,
+
+6.8.e
+
+has leave to enter or remain in the United Kingdom as the dependant of a
+person referred to in sub-paragraph (d),
+
+6.8.f
+
+has leave to enter or remain in the United Kingdom granted under or outside
+the immigration rules, has a right of abode in the United Kingdom within the
+meaning given in section 2  of the Immigration Act 1971 or does not require
+leave to enter or remain in the United Kingdom in accordance with section 3ZA
+of that Act, where the individual—
+
+6.8.f.i
+
+was residing in Ukraine immediately before 1 January 2022, and
+
+6.8.f.ii
+
+left Ukraine in connection with the Russian invasion which took place on 24
+February 2022,  ...
+
+6.8.g
+
+has leave to enter or remain in the United Kingdom granted under or outside
+the immigration rules, has a right of abode in the United Kingdom within the
+meaning given in section 2 of the Immigration Act 1971 or does not require
+leave to enter or remain in the United Kingdom in accordance with section 3ZA
+of that Act, where the individual—
+
+6.8.g.i
+
+was residing in Sudan before 15 April 2023, and
+
+6.8.g.ii
+
+left Sudan in connection with the violence which rapidly escalated on 15 April
+2023 in Khartoum and across Sudan  , or
+
+6.8.h
+
+has leave to enter or remain in the United Kingdom granted under or outside
+the immigration rules, a right of abode in the United Kingdom within the
+meaning given in section 2 of the Immigration Act 1971 or does not require
+leave to enter or remain in the United Kingdom in accordance with section 3ZA
+of that Act, where the individual—
+
+6.8.h.i
+
+was residing in Israel, the West Bank, the Gaza Strip, East Jerusalem, the
+Golan Heights or Lebanon immediately before 7 October 2023, and
+
+6.8.h.ii
+
+left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights
+or Lebanon in connection with the Hamas terrorist attack in Israel on 7
+October 2023 or the violence which rapidly escalated in the region following
+the attack.
+
+6.9
+
+For the purposes of this regulation—
+
+6.9.a
+
+“ immigration rules ” means the rules laid before Parliament under section
+3(2) of the Immigration Act 1971 ,
+
+6.9.b
+
+“ the Afghan Citizens Resettlement Scheme ” means the scheme announced by the
+United Kingdom Government on 18 August 2021 .
+
+#### Temporary absence from the common travel area
+
+
+7
+
+7.1
+
+Where an individual is temporarily absent from the common travel area, the
+individual is to be treated as present in the common travel area during the
+first—
+
+7.1.a
+
+4 weeks of any period of absence,
+
+7.1.b
+
+13 weeks of any period of absence where that period of absence, or any
+extension to that period of absence, is for the specific purpose of caring for
+a cared for person who is also absent from the common travel area and where
+that cared for person is paid a qualifying disability benefit during that
+period, or
+
+7.1.c
+
+26 weeks of any period of absence where—
+
+7.1.c.i
+
+that period of absence, or any extension to that period of absence, is for the
+specific purpose of caring for a cared for person and is in connection with
+arrangements made for the medical treatment of the cared for person for a
+disease or bodily or mental disablement which commenced before leaving the
+common travel area and where that cared for person is paid a qualifying
+disability benefit during that period, and
+
+7.1.c.ii
+
+the arrangements relate to medical treatment—
+
+7.1.c.ii.aa
+
+outside the common travel area,
+
+7.1.c.ii.bb
+
+during the period when the cared for person is temporarily absent from the
+common travel area, and
+
+7.1.c.ii.cc
+
+by, or under the supervision of, a person appropriately qualified to carry out
+that treatment.
+
+7.2
+
+For the purposes of paragraph (1)—
+
+7.2.a
+
+an individual is “temporarily absent” if, at the beginning of the period of
+absence, that absence is unlikely to exceed 52 weeks, and
+
+7.2.b
+
+“ medical treatment ” means medical, surgical, psychological or rehabilitative
+treatment (including any course or diet regimen).
+
+#### Serving members of His Majesty’s forces, civil servants and their family members
+
+
+8
+
+8.1
+
+A relevant individual is to be treated as meeting the residence and presence
+conditions set out in regulations 6(1)(a), (b) and (d) where on any day that
+individual is outside the common travel area—
+
+8.1.a
+
+by reason of their capacity mentioned in paragraph (3)(a) provided that the
+individual satisfied the residence and presence conditions set out in
+regulation 6(1)(a), (b) and (d) immediately prior to the start of their
+employment mentioned in paragraph (3)(a), or
+
+8.1.b
+
+by reason of being a person mentioned in paragraph (3)(b) living with an
+individual to whom paragraph (3)(a) applies.
+
+8.2
+
+The past presence condition set out in regulation 6(1)(e) does not apply to a
+relevant individual.
+
+8.3
+
+A “relevant individual” in paragraph (1) and (2) means an individual who is—
+
+8.3.a
+
+outside of the common travel area in their capacity as a—
+
+8.3.a.i
+
+serving member of His Majesty’s forces, or
+
+8.3.a.ii
+
+civil servant, or
+
+8.3.b
+
+living with a person mentioned in sub-paragraph (a) and—
+
+8.3.b.i
+
+is the child, step-child or child in care of that person,
+
+8.3.b.ii
+
+is the parent, step-parent or parent-in-law of that person, or
+
+8.3.b.iii
+
+is married to or in a civil partnership with that person, or is living
+together with that person as if they were married or in a civil partnership.
+
+8.4
+
+In this regulation—
+
+“ child in care ” means— under the law of Scotland, a child in respect of whom
+a relevant individual listed in paragraph (3)(a)— is a foster carer within the
+meaning of regulation 2 of the Looked After Children (Scotland) Regulations
+2009 , is a kinship carer within the meaning of regulation 2 of the Looked
+After Children (Scotland) Regulations 2009, has a kinship care order within
+the meaning of section 72 of the Children and Young People (Scotland) Act 2014
+, or under the law of England and Wales and Northern Ireland, a child in
+respect of whom a person listed in paragraph (3)(a) has a relationship
+equivalent to those listed under the law of Scotland, “ civil servant ” has
+the meaning given by section 1(4) of the Constitutional Reform and Governance
+Act 2010 , and “ serving member of His Majesty’s forces ” means a member of a
+regular force or a reserve force (“ M ”) as defined, in each case, by section
+374 (definitions applying for purposes of the whole Act) of the Armed Forces
+Act 2006 , unless— M is under the age of 16, M is committing an offence under
+section 8 of the Armed Forces Act 2006 (desertion), the force concerned is one
+of His Majesty’s naval forces which M locally entered at an overseas base
+without— previously being an insured person under the National Insurance Act
+1965 , or paying or having previously paid one or more of the following
+classes of contributions under the Social Security Act 1975  or the 1992 Act—
+primary Class 1, Class 2, or Class 3, or the force concerned is one of His
+Majesty’s military forces or His Majesty’s air forces which M entered, or was
+recruited for, outside the United Kingdom and— where that force is one of His
+Majesty’s military forces, the depot for M’s unit is outside the United
+Kingdom, or where that force is one of His Majesty’s air forces, M is liable
+under the terms of M’s engagement to serve only in a specified area outside
+the United Kingdom.
+
+#### Aircraft workers, mariners and continental shelf operations
+
+
+9
+
+9.1
+
+An individual is to be treated as meeting the presence conditions set out in
+regulation 6(1)(d) and (e) for any period where that individual is—
+
+9.1.a
+
+outside the common travel area in their capacity as an aircraft worker or a
+mariner, or
+
+9.1.b
+
+in employment prescribed for the purposes of section 120 (employment at sea
+(continental shelf operations)) of the 1992 Act  in connection with
+continental shelf operations.
+
+9.2
+
+In this regulation—
+
+“ aircraft worker ” means a person who is, or has been, employed under a
+contract of service either as a pilot, commander, navigator or other member of
+the crew of any aircraft, or in any other capacity on board any aircraft
+where— the employment in that other capacity is for the purposes of the
+aircraft or its crew or of any passengers or cargo or mail carried on that
+aircraft, and the contract is entered into in the United Kingdom with a view
+to its performance (in whole or in part) while the aircraft is in flight, but
+does not include a person so far as that employment is as a serving member His
+Majesty’s forces, and “ mariner ” means a person who is, or has been, in
+employment under a contract of service either as a master or member of the
+crew of any ship or vessel, or in any other capacity on board any ship or
+vessel where— the employment in that other capacity is for the purposes of
+that ship or vessel or its crew or any passenger or cargo or mail carried by
+the ship or vessel, and the contract is entered into in the United Kingdom
+with a view to its performance (in whole or in part) while the ship or vessel
+is on voyage, but does not include a person in so far as that employment is as
+a serving member of His Majesty’s forces.
+
+#### Persons residing in the United Kingdom to whom a relevant EU regulation applies
+
+
+10
+
+10.1
+
+The past presence condition set out in regulation 6(1)(e) (residence and
+presence conditions) does not apply where on any day the individual is—
+
+10.1.a
+
+ordinarily resident in Scotland,
+
+10.1.b
+
+habitually resident in the United Kingdom,
+
+10.1.c
+
+an individual—
+
+10.1.c.i
+
+to whom the rules set out in a relevant EU regulation apply by virtue of—
+
+10.1.c.i.aa
+
+Title III of Part 2 of the EU withdrawal agreement,
+
+10.1.c.i.bb
+
+Part 3 or Article 23(4) of the Swiss citizens’ rights agreement (as defined in
+section 39(1) of the European Union (Withdrawal Agreement) Act 2020  (“ the
+2020 Act ”),
+
+10.1.c.i.cc
+
+Title III of the EEA EFTA separation agreement (as defined in section 39(1) of
+the 2020 Act), or
+
+10.1.c.i.dd
+
+the agreement constituted by the exchange of letters set out in the schedule
+of the Family Allowances, National Insurance and Industrial Injuries
+(Gibraltar) Order 1974 ,
+
+10.1.c.ii
+
+in respect of whom the United Kingdom is, as a result, competent for payment
+of sickness benefits in cash.
+
+10.2
+
+An individual to whom a relevant EU regulation applies is not entitled to
+Carer Support Payment for a period unless during that period the United
+Kingdom is competent for payment of sickness benefits in cash to the person
+for the purposes of the relevant EU regulation in question.
+
+#### Persons residing outside the United Kingdom to whom a relevant EU regulation applies
+
+
+11
+
+11.1
+
+The residence and presence conditions set out in regulation 6(1) (residence
+and presence conditions) do not apply in relation to Carer Support Payment
+where on any day the individual satisfies the conditions in paragraph (2).
+
+11.2
+
+The conditions referred to in paragraph (1) are that the individual must—
+
+11.2.a
+
+be an individual—
+
+11.2.a.i
+
+to whom the rules set out in a relevant EU regulation apply by virtue of—
+
+11.2.a.i.aa
+
+Title III of Part 2 of the EU withdrawal agreement,
+
+11.2.a.i.bb
+
+Part 3 or Article 23(4) of the Swiss citizens’ rights agreement (as defined in
+section 39(1) of the European Union (Withdrawal Agreement) Act 2020 (“ the
+2020 Act ”),
+
+11.2.a.i.cc
+
+Title III of the EEA EFTA separation agreement (as defined in section 39(1) of
+the 2020 Act), or
+
+11.2.a.i.dd
+
+the agreement constituted by the exchange of letters set out in the schedule
+of the Family Allowances, National Insurance and Industrial Injuries
+(Gibraltar) Order 1974, and
+
+11.2.a.ii
+
+in respect of whom the United Kingdom is, as a result, competent for payment
+of sickness benefits in cash,
+
+11.2.b
+
+be habitually resident in—
+
+11.2.b.i
+
+Switzerland,
+
+11.2.b.ii
+
+an EEA state, or
+
+11.2.b.iii
+
+Gibraltar, and
+
+11.2.c
+
+have a genuine and sufficient link to Scotland.
+
+11.3
+
+The reference in paragraph (2)(c) to an individual’s link to Scotland being
+sufficient is to it being sufficiently close that if the individual were not
+entitled to Carer Support Payment, paragraph (2) would be incompatible with
+the applicable agreement mentioned in sub-paragraph (a)(i) of that paragraph.
+
+11.4
+
+An individual to whom a relevant EU regulation applies is not entitled to
+Carer Support Payment for a period unless during that period the United
+Kingdom is competent for payment of sickness benefits in cash to the person
+for the purposes of the relevant EU regulation in question.
+
+#### Entitlement to other benefits
+
+
+12
+
+12.1
+
+An individual is not entitled to Carer Support Payment in respect of a cared
+for person for any period that they are entitled to—
+
+12.1.a
+
+Carer’s Allowance,
+
+12.1.b
+
+the carer element of Universal Credit in respect of a different cared for
+person, or
+
+12.1.c
+
+Young Carer Grant.
+
+12.2
+
+An individual may be entitled to Carer Support Payment in respect of a cared
+for person where they have previously been entitled to Young Carer Grant.
+
+#### Individuals in education
+
+
+13
+
+13.1
+
+An individual who has not reached the age of 20 will not be entitled to Carer
+Support Payment if they are—
+
+13.1.a
+
+undertaking a course of full-time education, which is not advanced education
+and which is not provided by virtue of their employment or any office held by
+them, or
+
+13.1.b
+
+being provided with “appropriate full-time education” in England within the
+meaning of section 4 (appropriate full-time education or training) of the
+Education and Skills Act 2008 , which is not—
+
+13.1.b.i
+
+a course in preparation for a degree, a diploma of higher education, a higher
+national certificate, a higher national diploma, a teaching qualification, any
+other course which is of a standard above ordinary national diploma, a
+national diploma, or national certificate of Edexcel, a general certificate of
+education (advanced level), or Scottish national qualifications at higher or
+advanced higher level,
+
+13.1.b.ii
+
+provided by virtue of their employment of any office held by them,
+
+13.1.c
+
+undertaking approved training that is not provided by means of a contract of
+employment.
+
+13.2
+
+This regulation does not apply to an individual if they are—
+
+13.2.a
+
+without parental support,
+
+13.2.b
+
+entitled to disability living allowance, child disability payment, adult
+disability payment or personal independence payment and, on a date before the
+date on which the individual starts receiving education—
+
+13.2.b.i
+
+it has been determined that they have limited capability for work or limited
+capability for work and work-related activity on the basis of an assessment
+under Part 5 of the Universal Credit Regulations 2013  or under Part 4 or 5 of
+the Employment and Support Allowance Regulations 2013 , or
+
+13.2.b.ii
+
+they are treated as having limited capability for work under schedule 8 of the
+Universal Credit Regulations 2013 or limited capability for work and work-
+related activity under schedule 9 of the Universal Credit Regulations 2013,
+
+13.2.c
+
+responsible for a child or a qualifying young person,
+
+13.2.d
+
+single and is a foster parent with whom a child is placed,
+
+13.2.e
+
+a member of a couple—
+
+13.2.e.i
+
+and the other member of the couple is not undertaking a course of education,
+or
+
+13.2.e.ii
+
+both of whom are receiving education, and the other member of the couple falls
+within one of the exceptions set out in paragraph (2)(a) to (d).
+
+13.3
+
+For the purposes of paragraph (2)(a), an individual is without parental
+support if they are not being looked after by a local authority and—
+
+13.3.a
+
+has no parent,
+
+13.3.b
+
+cannot live with their parents because—
+
+13.3.b.i
+
+the individual is estranged from them, or
+
+13.3.b.ii
+
+there is a serious risk to the individual’s physical or mental health, or that
+individual would suffer significant harm if the individual lived with them,
+
+13.3.c
+
+is living away from their parents, and neither parent is able to support the
+individual financially because that parent—
+
+13.3.c.i
+
+has a physical or mental impairment,
+
+13.3.c.ii
+
+is detained in custody pending trial or sentence upon conviction or under a
+sentence imposed by a court, or
+
+13.3.c.iii
+
+is prohibited from entering or re-entering Great Britain.
+
+13.4
+
+For the purposes of this regulation—
+
+“ advanced education ” means full-time education (which is not school
+education within the meaning of the Education (Scotland) Act 1980 ) for the
+purposes of— a course in preparation for a degree, a diploma of higher
+education, a higher national certificate, a higher national diploma, or a
+teaching qualification, or any other course which is of a standard above
+ordinary national diploma, a national diploma or national certificate of
+Edexcel, a general certificate of education (advanced level), or Scottish
+national qualifications at higher or advanced higher level, “ approved
+training ” means arrangements made by the Government— in relation to Wales,
+known as “Traineeships” or “Foundation Apprenticeships”, in relation to
+Scotland, known as “No One Left Behind”, or in relation to Northern Ireland,
+known as “PEACE IV Children and Young People 2.1”, “Training for Success”, or
+“Skills for Life and Work”, “ arrangements made by the Government ” means
+arrangements— in relation to England and Wales, made by the Secretary of State
+under section 2 of the Employment and Training Act 1973 , in relation to
+Scotland, made— by the Scottish Ministers under section 2 of the Employment
+and Training Act 1973, by Scottish Enterprise or Highlands and Islands
+Enterprise under section 2 of the Enterprise and New Towns (Scotland) Act 1990
+, or in relation to Northern Ireland, made by the Department for Communities
+or the Department for the Economy under sections 1 and 3 of the Employment and
+Training Act (Northern Ireland) 1950 , “ foster parent ” means— under the law
+of Scotland, a foster carer or kinship carer with whom a child is placed under
+the Looked After Children (Scotland) Regulations 2009 , or under the law of
+England and Wales and Northern Ireland, a person with whom a child is placed
+who has an equivalent relationship with the child to those listed under the
+law of Scotland, “full-time education”— is education undertaken in pursuit of
+a course, where the average time spent during term time in receiving tuition,
+engaging in practical work, or supervised study, or taking examinations
+exceeds 21 hours per week, and in calculating the time spent in pursuit of the
+course, no account is taken of time occupied by meal breaks or spent on
+unsupervised study, and “ qualifying young person ” has the same meaning as
+regulation 5 of the Universal Credit Regulations 2013.
+
+#### Earnings limit
+
+
+14
+
+14.1
+
+An individual is not entitled to Carer Support Payment in any award week in
+which their earnings in respect of that award week exceed  £151 .
+
+14.2
+
+Earnings are to be calculated in accordance with schedule 2.
+
+### Making of applications and payments and duration of eligibility
+
+
+#### Making payments
+
+
+15
+
+15.1
+
+Where Carer Support Payment is payable in respect of an individual, the
+Scottish Ministers may, where they consider it appropriate, make the payment
+to another person to be used for the benefit of the individual.
+
+15.2
+
+Where the Scottish Ministers consider, for any reason, that it is no longer
+appropriate for a particular person who falls within paragraph (1) to continue
+to receive the payment, they may cease making payment to that person.
+
+#### Amount and form of Carer Support Payment
+
+
+16
+
+16.1
+
+Subject to regulation 21 (amount and form of carer support payment where
+payments are backdated), the weekly rate of payment of Carer Support Payment
+is  £81.90 .
+
+16.2
+
+For any award week where an individual is entitled to one or more overlapping
+benefit, the amount of Carer Support Payment that is to be given to the
+individual is to be reduced—
+
+16.2.a
+
+by the amount of the overlapping benefit paid, or
+
+16.2.b
+
+where the amount of the overlapping benefit is equal to or greater than the
+amount of Carer Support Payment, the value of Carer Support Payment that is to
+be given to the individual is £0.
+
+16.3
+
+In this regulation “ overlapping benefit ” means—
+
+16.3.a
+
+State Pension or Retirement Pension,
+
+16.3.b
+
+Incapacity Benefit,
+
+16.3.c
+
+Severe Disablement Allowance,
+
+16.3.d
+
+Unemployability Supplement that is paid with Industrial Injuries Disablement
+benefit or War Pension,
+
+16.3.e
+
+Widow’s Allowance or Widow’s Benefit or Widowed Parent’s Allowance or Widowed
+Mother’s Allowance or Widow’s Pension, excluding additional pension,
+
+16.3.f
+
+Bereavement Allowance,
+
+16.3.g
+
+War Widow’s or Widower’s Pension,
+
+16.3.h
+
+Maternity Allowance,
+
+16.3.i
+
+Industrial Death Benefit,
+
+16.3.j
+
+Contribution-based Jobseeker’s Allowance,
+
+16.3.k
+
+Contributory Employment and Support Allowance,
+
+16.3.l
+
+Training Allowance.
+
+16.4
+
+When the cared for person dies and an individual was entitled to Carer Support
+Payment in respect of that cared for person immediately before their death,
+the individual’s entitlement to Carer Support Payment will continue to be paid
+until whichever of the following comes first—
+
+16.4.a
+
+until the first day of the award week following the award week in which the
+individual ceases to satisfy any of the eligibility requirements set out in
+regulations 6 to 14, or
+
+16.4.b
+
+for a period of 8 award weeks after the first day of the award week following
+the award week in which the cared for person died,.
+
+16.5
+
+Carer Support Payment may only be given as money, except as provided for by—
+
+16.5.a
+
+regulation 17 (abatement in respect of a relevant individual), or
+
+16.5.b
+
+regulation 26 (form of payment – giving Carer Support Payment by way of
+deduction).
+
+16.6
+
+For the purposes of this regulation—
+
+“ 1914-1918 War Injuries Scheme ” means any scheme made under the Injuries in
+War (Compensation) Act 1914  or under the Injuries in War Compensation Act
+1914 (Session 2)  or any Government scheme for compensation in respect of
+persons injured in any merchant ship or fishing vessel as the result of
+hostilities during the 1914-1918 War, “ Bereavement Allowance ” means an
+allowance referred to in section 39B of the 1992 Act subject to the
+transitional provisions specified in article 4 of the Pensions Act 2014
+(Commencement No.10) Order 2017, “ Contribution-based Jobseeker’s Allowance ”
+means an allowance under the Jobseekers Act 1995 as amended by the provisions
+of Part 1 of Schedule 14 to the Welfare Reform Act 2012 that remove references
+to an income-based allowance, and a contribution-based allowance under the
+Jobseekers Act as that Act has effect apart from those provisions, “
+Contributory Employment and Support Allowance ” means an allowance under Part
+1 of the Welfare Reform Act 2007 as amended by the provisions of Schedule 3,
+and Part 1 of Schedule 14, to the Welfare Reform Act 2012 Act that remove
+references to an income-related allowance, and a contributory allowance under
+Part 1 of the Welfare Reform Act 2007 as that Part has effect apart from those
+provisions, “ Incapacity Benefit ” means a benefit referred to in section 30A
+of the 1992 Act, “ Industrial Death Benefit ” means a benefit referred to in
+Part VI of Schedule 7 to the 1992 Act, “ Maternity Allowance ” means an
+allowance referred to in sections 35 and 35B of the 1992 Act, “ Personal
+Injuries Scheme ” means any scheme made under the Personal Injuries (Emergency
+Provisions) Act 1939 or under the Pensions (Navy, Army, Air Force and
+Mercantile Marine) Act 1939, “ Retirement Pension ” means a pension payable
+under Part II and Part III of the 1992 Act, excluding any additional pension
+or graduated retirement benefit, “ Service Pensions Instrument ” means any
+instrument described in sub-paragraphs (a) or (b) below in so far, but only in
+so far, as the pensions or other benefits provided by that instrument are not
+calculated or determined by reference to length of service, namely:— any
+instrument made in exercise of powers— referred to in section 12(1) of the
+Social Security (Miscellaneous Provisions) Act 1977  (pensions or other
+benefits for disablement or death due to service in the armed forces of the
+Crown); or under section 1 of the Polish Resettlement Act 1947 (pensions and
+other benefits for disablement or death due to service in certain Polish
+forces); or any instrument under which a pension or other benefit may be paid
+to a person (not being a member of the armed forces of the Crown) out of
+public funds in respect of death or disablement, wound, injury or disease due
+to service in any nursing service or other auxiliary service of any of the
+armed forces of the Crown, or in any other organisation established under the
+control of the Defence Council or formerly established under the control of
+the Admiralty, the Army Council or the Air Council, “ Severe Disablement
+Allowance ” means an allowance referred to in sections 68 and 69 of the 1992
+Act, “ State Pension ” means a pension payable under Part 1 of the Pensions
+Act 2014, “ Training Allowance ” means an allowance (whether by way of
+periodical grants or otherwise) payable out of public funds by a Government
+department or by or on behalf of Scottish Enterprise, Highlands and Islands
+Enterprise, the Secretary of State, the National Assembly for Wales to a
+person for their maintenance, or in respect of any dependant of theirs, for
+the period, or part of the period, during which they are following a course of
+training or instruction provided by, or in pursuance of arrangements made
+with, that department or approved by that department in relation to them or so
+provided or approved by or on behalf of the Scottish Enterprise, Highlands and
+Islands Enterprise, the National Assembly for Wales or the said Commission but
+it does not include— an allowance paid by any Government department to or in
+respect of a person by reason of the fact that they are following a course of
+full-time education or is training as a teacher, or a payment made by or on
+behalf of Scottish Enterprise, Highlands and Islands Enterprise or the
+Secretary of State to any person by way of training premium or training bonus
+in consequence of that person’s use of facilities for training provided in
+pursuance of arrangements made under section 2 of the Employment and Training
+Act 1973 or section 2 of the Enterprise and New Towns (Scotland) Act 1990, “
+Unemployability Supplement ” includes an increase on account of
+unemployability under any Personal Injuries Scheme, Service Pensions
+Instrument or 1914-1918 War Injuries Scheme, “ War Widow’s Pension ” means any
+widow’s or surviving civil partner’s pension or allowance granted in respect
+of a death due to service or war injury and payable by virtue of any enactment
+mentioned in paragraph (a) of the definition of “War Disablement Pension” in
+regulation 2, or a pension or allowance for a widow or surviving civil partner
+granted under any scheme mentioned in section 641(1)(e) or (f) of the Income
+Tax (Earnings and Pensions) Act 2003, “ Widowed Mother’s Allowance ” means an
+allowance referred to in section 37 of the 1992 Act, “ Widowed Parent’s
+Allowance ” means an allowance referred to in section 39A of the 1992 Act, “
+Widow’s Pension ” means a pension referred to in section 38 of the 1992 Act.
+
+#### Abatement in respect of a relevant benefit
+
+
+17
+
+17.1
+
+This regulation applies where an individual—
+
+17.1.a
+
+makes an application for Carer Support Payment, or
+
+17.1.b
+
+becomes entitled to an increased amount of Carer Support Payment following a
+determination without application, and
+
+17.1.c
+
+that individual is (or if they are a member of a couple, their partner is) in
+receipt of a relevant benefit at any time during the abatement period.
+
+17.2
+
+Where this regulation applies, Carer Support Payment may be given (in whole or
+in part) to the Secretary of State in order to meet, or contribute towards
+meeting, any liability the individual has to the Secretary of State in
+connection with a relevant benefit, provided that the individual has—
+
+17.2.a
+
+agreed to the assistance being given in that form, or
+
+17.2.b
+
+unreasonably refused to agree to the assistance being given in that form.
+
+17.3
+
+The amount of Carer Support Payment that is to be given by way of payment to
+the Secretary of State in accordance with paragraph (2) is to be the
+difference between—
+
+17.3.a
+
+the total amount of any relevant benefits the individual or their partner is
+paid during the abatement period, and
+
+17.3.b
+
+the total amount of any relevant benefits the individual or their partner
+would have been paid during the abatement period had their entitlement to
+those relevant benefits been adjusted as a result of their entitlement to
+Carer Support Payment (which, for the avoidance of doubt, includes any carer
+premia, carer additions, or carer elements that they would be entitled to
+receive).
+
+17.4
+
+For the purposes of this regulation—
+
+“ abatement period ” means— where sub-paragraph (1)(a) applies, a period, as
+short as reasonably practicable, beginning with the first day of the award
+week in which the individual’s entitlement to Carer Support Payment begins and
+ending on the day before the first day of the award week in which the
+individual’s first payment of Carer Support Payment is made, or where sub
+paragraph (1)(b) applies, a period, as short as reasonably practicable,
+beginning with the first day of the award week in which the individual’s
+entitlement to Carer Support Payment increases and ending on the day before
+the first day of the award week in which the individual received the first
+payment of Carer Support Payment at that increased amount, “ Income Support ”
+means a payment made under section 124 of the 1992 Act, “ Income-based
+Jobseeker’s Allowance ” means a jobseeker’s allowance entitlement to which is
+based on the individual’s satisfying conditions which include those set out in
+section 3 of the Jobseeker’s Act 1995 , or a joint-claim jobseeker’s
+allowance, “ Income-related Employment and Support Allowance ” means an
+income-related allowance under Part 1 of the Welfare Reform Act 2007 , “
+joint-claim jobseeker’s allowance ” means a jobseeker’s allowance entitlement
+to which arises by virtue of section 1(2B) of the Jobseeker’s Act 1995, and “
+Pension Credit ” means a pension credit under the State Pension Credit Act
+2002 , and “ relevant benefit ” means— Income Support, Income-based
+Jobseeker’s Allowance, Income-related Employment and Support Allowance, or
+Pension Credit.
+
+#### When an application is to be treated as made and beginning of entitlement to assistance
+
+
+18
+
+18.1
+
+An application for Carer Support Payment is to be treated as made on the day
+it is received by the Scottish Ministers.
+
+18.2
+
+Where, on the basis of an application, a determination is made that an
+individual is entitled to Carer Support Payment, entitlement to assistance is
+to begin—
+
+18.2.a
+
+on the first day of the award week in which the application is treated as made
+in accordance with paragraph (1),
+
+18.2.b
+
+where the individual has notified the Scottish Ministers that they wish their
+entitlement to assistance to begin on a date prior to the day on which their
+application is treated as made, on the first day of the award week in which
+that chosen date falls, provided that—
+
+18.2.b.i
+
+the date chosen by the individual is no more than 13 weeks prior to the day on
+which their application is treated as made, and
+
+18.2.b.ii
+
+the individual satisfied the eligibility requirements set out in Part 3 of
+these Regulations on that chosen date, or
+
+18.2.c
+
+where regulation 19 applies (applications made within 13 weeks of a qualifying
+disability benefit), a date to be chosen by the Scottish Ministers in
+accordance with that regulation.
+
+18.3
+
+Where the individual does not satisfy the eligibility requirements set out in
+Part 3 of these Regulations on the chosen date mentioned in paragraph (2)(b),
+the Scottish Ministers may choose that entitlement to assistance begins on a
+later date, provided the individual satisfied the eligibility requirements on
+that later date.
+
+18.4
+
+For the purposes of section 38(3) of the 2018 Act, the period covered by an
+application for Carer Support Payment—
+
+18.4.a
+
+under paragraph (2)(a)—
+
+18.4.a.i
+
+begins on the day on which the application is treated as having been made, and
+
+18.4.a.ii
+
+ends on the day on which the determination of entitlement is made,
+
+18.4.b
+
+under paragraph (2)(b) or (c)—
+
+18.4.b.i
+
+begins on the date chosen or the later date in accordance with paragraph (3),
+
+18.4.b.ii
+
+ends on the day on which the determination of entitlement is made.
+
+#### Entitlement beginning before individual satisfied the residence requirements in regulation 46
+
+18A
+
+18A.1
+
+This paragraph applies where an individual—
+
+18A.1.a
+
+is undertaking—
+
+18A.1.a.i
+
+a course of full-time advanced education,
+
+18A.1.a.ii
+
+a course of full-time education which is provided by virtue of their
+employment or any office held by them, or
+
+18A.1.a.iii
+
+a course of full-time education and has reached the age of 20,
+
+18A.1.b
+
+is exempt from fulfilling the past presence test in regulation 6(1)(e)
+(residence and presence) by virtue of an exception mentioned in regulation
+6(6), or
+
+18A.1.c
+
+would not satisfy the past presence test in regulation 9(1)(c) (residence and
+presence in Great Britain) of the Social Security (Invalid Care Allowance)
+Regulations 1976 at any point between 19 November 2023 and the date on which
+they first satisfied the eligibility criteria prescribed in these regulations
+(including those prescribed in regulation 46 (transitory provision - initial
+period for applications), insofar as it applies).
+
+18A.2
+
+Where, on the basis of an application, a determination is made that an
+individual to whom paragraph (1) applies is entitled to Carer Support Payment,
+entitlement to assistance is to begin—
+
+18A.2.a
+
+on the first day of the award week in which the application is treated as made
+in accordance with regulation 18(1) (when an application is to be treated as
+made and beginning of entitlement to assistance), or
+
+18A.2.b
+
+where the individual has notified the Scottish Ministers that they wish their
+entitlement to assistance to begin on a date prior to the day on which their
+application is treated as made, on the first day of the award week in which
+that chosen date falls, provided that—
+
+18A.2.b.i
+
+the date chosen by the individual is no earlier than 19 November 2023,
+
+18A.2.b.ii
+
+the individual’s application is received by the Scottish Ministers—
+
+18A.2.b.ii.aa
+
+on or before the relevant date, or
+
+18A.2.b.ii.bb
+
+after the relevant date, provided the Scottish Ministers consider that the
+individual has good reason for not making their application on or before the
+relevant date, and
+
+18A.2.b.iii
+
+the individual satisfied the eligibility requirements set out in Part 3 of
+these Regulations on that chosen date.
+
+18A.3
+
+For the purposes of this regulation—
+
+“ advanced education ” has the same meaning as in regulation 13(4), “ full-
+time education ” has the same meaning as in regulation 13(4), “ the relevant
+date ” means the date specified paragraph 2A of schedule 1.
+
+#### Entitlement beginning before individual satisfied the residence requirements in regulation 46 – individuals in education mentioned in regulation 13(2)
+
+18B
+
+18B.1
+
+This paragraph applies to any individual—
+
+18B.1.i
+
+who has not reached the age of 20, and
+
+18B.1.ii
+
+to whom regulation 13(2) (individuals in education) applies.
+
+18B.2
+
+Where, on the basis of an application, a determination is made that an
+individual to whom paragraph (1) applies is entitled to Carer Support Payment,
+entitlement to assistance is to begin—
+
+18B.2.a
+
+on the first day of the award week in which the application is treated as made
+in accordance with regulation 18(1) (when an application is to be treated as
+made and beginning of entitlement to assistance), or
+
+18B.2.b
+
+where the individual has notified the Scottish Ministers that they wish their
+entitlement to assistance to begin on a date prior to the day on which their
+application is treated as made, on the first day of the award week in which
+that chosen date falls, provided that—
+
+18B.2.b.i
+
+the date chosen by the individual is no earlier than 23 June 2024,
+
+18B.2.b.ii
+
+the individual’s application is received by the Scottish Ministers—
+
+18B.2.b.ii.aa
+
+on or before the relevant date, or
+
+18B.2.b.ii.bb
+
+after the relevant date, provided the Scottish Ministers consider that the
+individual has good reason for not making their application on or before the
+relevant date, and
+
+18B.2.b.iii
+
+the individual satisfied the eligibility requirements set out in Part 3 of
+these Regulations on that chosen date.
+
+18B.3
+
+For the purposes of this regulation—
+
+“ advanced education ” has the same meaning as in regulation 13(4), “ full-
+time education ” has the same meaning as in regulation 13(4), “ the relevant
+date ” means the date specified in paragraph 2B of schedule 1.
+
+#### Applications made within 13 weeks of a qualifying disability benefit decision
+
+
+19
+
+19.1
+
+Where an individual makes an application for Carer Support Payment in respect
+of a cared for person within 13 weeks of a relevant qualifying disability
+benefit decision, the Scottish Ministers may determine that entitlement to
+Carer Support Payment begins on the first day of the award week in which, as a
+result of that relevant qualifying disability benefit decision, entitlement to
+that benefit begins, provided the individual satisfied the eligibility
+requirements set out in Part 3 of these Regulations on that date.
+
+19.2
+
+Where the individual does not satisfy the eligibility requirements set out in
+Part 3 of these Regulations on the date on which the relevant qualifying
+disability benefit decision falls, the Scottish Ministers may determine that
+entitlement to Carer Support Payment begins on a later date, provided the
+individual satisfies those eligibility requirements on that later date.
+
+19.3
+
+For the purposes of this regulation, “ relevant qualifying disability benefit
+decision ” means a decision—
+
+19.3.a
+
+made by the Secretary of State, the Scottish Ministers, or the Department for
+Communities in Northern Ireland—
+
+19.3.a.i
+
+on a claim or an application, or
+
+19.3.a.ii
+
+on revision, determination of entitlement, or supersession, or
+
+19.3.b
+
+on appeal whether by the First-tier Tribunal, the First-tier Tribunal for
+Scotland, the Upper Tribunal, the court, the Northern Ireland Appeal Tribunal
+or the Northern Ireland Social Security and Child Support Commissioner,
+
+awarding a qualifying disability benefit to the cared for person mentioned in
+paragraph (1).
+
+#### Entitlement beginning before the commencement of these Regulations
+
+
+20
+
+Where the Scottish Ministers make a determination under regulation 19
+(applications made within 13 weeks of a qualifying disability benefit
+decision) the effect of which is that an individual’s entitlement to Carer
+Support Payment would begin on a date before the commencement of these
+Regulations—
+
+20.a
+
+the individual is treated as having made a claim for Carer’s Allowance under
+section 70 of the 1992 Act for the period starting with that date and ending
+on the day before the date of commencement of these Regulations,
+
+20.b
+
+the determination is to be made on the assumption that the individual
+satisfied the eligibility requirements in section 70 of the 1992 Act, read
+with the Social Security (Invalid Care Allowance) Regulations 1976  for that
+period, and
+
+20.c
+
+any payments of Carer Support Payment made in respect of that period are to be
+treated as though they were payments of Carer’s Allowance.
+
+#### Amount and form of Carer Support Payment where payments are backdated
+
+
+21
+
+Any payment of Carer Support Payment made in respect of a period—
+
+21.a
+
+before the commencement of these Regulations is to be paid at the weekly rate
+specified in paragraph 4 of Part III of schedule 4 of the 1992 Act, or
+
+21.b
+
+after the commencement of these Regulations is to be paid at the weekly rate
+specified in regulation 16(1) (amount and form of Carer Support Payment),
+
+as it had effect during the period to which that payment relates.
+
+#### Time of payment
+
+
+22
+
+Where an award of Carer Support Payment is made, the Scottish Ministers are
+to—
+
+22.a
+
+make the first payment of assistance on a date specified in the notice of
+determination, and
+
+22.b
+
+inform the individual that any subsequent payment will be made—
+
+22.b.i
+
+4 weekly in arrears, or
+
+22.b.ii
+
+weekly in advance.
+
+#### Temporary stop in entitlement
+
+
+23
+
+23.1
+
+This paragraph applies where the Scottish Ministers have made a determination
+without application under regulation 36 (determination following a change of
+circumstances etc.) that an individual is no longer entitled to Carer Support
+Payment in respect of a cared for person because—
+
+23.1.a
+
+the individual’s earnings in respect of an award week exceeded the earnings
+limit set out in regulation 14,
+
+23.1.b
+
+the cared for person has voluntarily relinquished their entitlement to their
+qualifying disability benefit and the individual therefore no longer satisfies
+the requirements of regulation 5(1) (provision of care to a cared for person)
+in respect of an award week, or
+
+23.1.c
+
+subject to regulation 40 (temporary break in care), the individual failed to
+satisfy the requirements of regulation 5(1) (provision of care to a cared for
+person) in respect of an award week.
+
+23.2
+
+Where paragraph (1) applies, the Scottish Ministers are to make a
+determination without application of the individual’s entitlement to Carer
+Support Payment if, within 26 weeks of the determination mentioned in
+paragraph (1), the Scottish Ministers establish that the individual satisfies
+the eligibility requirements set out in Part 3 of these Regulations.
+
+23.3
+
+The duty on the Scottish Ministers to make a determination without application
+mentioned in paragraph (2) does not apply where another individual has been
+awarded—
+
+23.3.a
+
+Carer Support Payment,
+
+23.3.b
+
+Carer’s Allowance, or
+
+23.3.c
+
+the carer element of Universal Credit,
+
+in respect of the cared for person mentioned in paragraph (1).
+
+23.4
+
+This paragraph applies where an individual who has an ongoing entitlement to
+Carer Support Payment cares for a cared for person whose qualifying disability
+benefit has been—
+
+23.4.a
+
+reduced to £0,
+
+23.4.b
+
+ended as a result of the cared for person being—
+
+23.4.b.i
+
+admitted to a hospital or care home, or
+
+23.4.b.ii
+
+in legal detention,
+
+23.4.c
+
+suspended as a result of—
+
+23.4.c.i
+
+the circumstances mentioned in—
+
+23.4.c.i.aa
+
+regulation 26A(3)(a) of the Disability Assistance for Children and Young
+People (Scotland) Regulations 2021 ,  ...
+
+23.4.c.i.bb
+
+regulation 38(3)(a) of the Disability Assistance for Working Age People
+(Scotland) Regulations 2022   , or
+
+23.4.c.i.cc
+
+regulation 30(3)(a) of the Disability Assistance for Older People (Scotland)
+Regulations 2024,
+
+23.4.c.ii
+
+a failure to provide information in accordance with—
+
+23.4.c.ii.aa
+
+regulation 17 of the Social Security and Child Support (Decisions and Appeals)
+Regulations 1999 ,
+
+23.4.c.ii.bb
+
+regulation 17 of the Social Security and Child Support (Decisions and Appeals)
+Regulations (Northern Ireland) 1999 ,
+
+23.4.c.ii.cc
+
+regulation 45 of the Universal Credit, Personal Independence Payment,
+Jobseeker’s Allowance and Employment and Support Allowance (Decisions and
+Appeals) Regulations 2013 , or
+
+23.4.c.ii.dd
+
+regulation 44 of the Universal Credit, Personal Independence Payment,
+Jobseeker’s Allowance and Employment and Support Allowance (Decisions and
+Appeals) Regulations (Northern Ireland) 2016 , or
+
+23.4.c.iii
+
+the circumstances mentioned in—
+
+23.4.c.iii.aa
+
+regulation 16(3)(a)(i) or (ii) of the Social Security and Child Support
+(Decisions and Appeals) Regulations 1999,
+
+23.4.c.iii.bb
+
+regulation 16(3)(a)(i) or (ii) of the Social Security and Child Support
+(Decisions and Appeals) Regulations (Northern Ireland) 1999 ,
+
+23.4.c.iii.cc
+
+regulation 44(2)(a)(i) or (ii) of the Universal Credit, Personal Independence
+Payment, Jobseeker’s Allowance and Employment and Support Allowance (Decisions
+and Appeals) Regulations 2013, or
+
+23.4.c.iii.dd
+
+regulation 43(2)(a)(i) or (ii) of the Universal Credit, Personal Independence
+Payment, Jobseeker’s Allowance and Employment and Support Allowance (Decisions
+and Appeals) Regulations (Northern Ireland) 2016.
+
+23.5
+
+Where paragraph (4) applies, the Scottish Ministers are to make a
+determination without receiving an application that the individual is no
+longer entitled to Carer Support Payment.
+
+23.6
+
+Where paragraph (4)(a) or (b) applies, the determination comes into effect on
+the first day of the award week following the award week in which the cared
+for person’s qualifying disability benefit has been ended or reduced to £0.
+
+23.7
+
+Where paragraph (4)(c) applies, the determination comes into effect on the
+first day of the award week following the day on which the cared for person’s
+qualifying disability benefit has been suspended for 4 weeks.
+
+23.8
+
+Where paragraph (5) applies, the Scottish Ministers are to make a
+determination without application of the individual’s entitlement to Carer
+Support Payment if, within 26 weeks of the determination mentioned in
+paragraph (5), the Scottish Ministers establish that—
+
+23.8.a
+
+a determination is made that the value of the qualifying disability benefit
+that is to be given to the cared for person is an amount more than £0, or
+
+23.8.b
+
+the suspension of the cared for person’s qualifying disability benefit
+mentioned in paragraph (4)(c) is ended and the cared for person would have
+been entitled to the qualifying disability benefit during the period of
+suspension.
+
+23.9
+
+Where paragraph (2) applies, the individual’s entitlement to assistance
+begins—
+
+23.9.a
+
+where the individual notifies the Scottish Ministers that they satisfy the
+eligibility requirements set out in Part 3 of these Regulations within 13
+weeks of that change occurring, on the first day of the award week in which
+that change occurred,
+
+23.9.b
+
+where the individual notifies the Scottish Ministers that they satisfy the
+eligibility requirements set out in Part 3 of these Regulations later than 13
+weeks of the change occurring, but where the Scottish Ministers consider that
+the individual has good reason for not notifying the change within 13 weeks,
+on the first day of the award week in which that change occurred,
+
+23.9.c
+
+where the individual notifies the Scottish Ministers that they satisfy the
+eligibility requirements set out in Part 3 of these Regulations later than 13
+weeks of the change occurring and where the Scottish Ministers do not consider
+that the individual has good reason for not notifying that change within 13
+weeks, on the first day of the award week in which the individual notified
+that change, or
+
+23.9.d
+
+in any other case, the first day of the award week in which the individual
+satisfies the eligibility requirements set out in Part 3 of these Regulations.
+
+23.10
+
+Where paragraph (8)(a) applies, the individual’s entitlement to assistance
+begins—
+
+23.10.a
+
+where the individual notifies the Scottish Ministers that the cared for
+person’s qualifying disability benefit is paid at an amount more than £0
+within 13 weeks of that change occurring, on the first day of the award week
+in which that change occurred,
+
+23.10.b
+
+where the individual notifies the Scottish Ministers that the cared for
+person’s qualifying disability benefit is paid at an amount more than £0 later
+than 13 weeks of the change occurring, but where the Scottish Ministers
+consider that the individual has good reason for not notifying the change
+within 13 weeks, on the first day of the award week in which that change
+occurred,
+
+23.10.c
+
+where the individual notifies the Scottish Ministers that the cared for
+person’s qualifying disability benefit is paid at an amount more than £0 later
+than 13 weeks of the change occurring and where the Scottish Ministers do not
+consider that the individual has good reason for not notifying that change
+within 13 weeks, on the first day of the award week in which the individual
+notified that change, or
+
+23.10.d
+
+in any other case, the first day of the award week in which the cared for
+person’s qualifying disability benefit is paid at an amount more than £0.
+
+23.11
+
+Where paragraph (8)(b) applies, the individual’s entitlement to assistance
+begins—
+
+23.11.a
+
+where it is determined that during the period of suspension, the cared for
+person would have been entitled to a qualifying disability benefit in respect
+of that period, on the first day of the award week in which the cared for
+person’s entitlement to the qualifying disability benefit begins,
+
+23.11.b
+
+in any other event, on the first day of the award week in which the suspension
+is ended.
+
+#### Multiple applications involving the same cared for person
+
+
+24
+
+24.1
+
+Where the Scottish Ministers receive two or more applications for Carer
+Support Payment from different individuals in respect of the same cared for
+person, the Scottish Ministers must determine the application made first
+before determining any other application.
+
+24.2
+
+Where, but for regulation 5(3) (provision of care to a cared for person), two
+or more individuals would be entitled to Carer Support Payment in respect of
+the same cared for person for the same period, only one of them may be
+entitled, being either—
+
+24.2.a
+
+one of them as they may jointly agree in accordance with paragraph (5), or
+
+24.2.b
+
+in absence of such agreement, one of them as may be determined by the Scottish
+Ministers in accordance with paragraph (6).
+
+24.3
+
+Where, but for regulation 5(3) (provision of care to a cared for person), a
+person (‘carer A’) would be entitled to Carer’s Allowance payable by the
+Scottish Ministers and another person (‘carer B’) would be entitled to Carer
+Support Payment in respect of the same cared for person for the same period,
+carer B will only be entitled if—
+
+24.3.a
+
+carer A and carer B jointly agree in accordance with paragraph (5) that carer
+A will not be entitled, or
+
+24.3.b
+
+in absence of such agreement, the Scottish Ministers determine that carer B is
+or remains entitled to Carer Support Payment in respect of that period.
+
+24.4
+
+Where, but for regulation 5(3) (provision of care to a cared for person), a
+person (‘carer A’) would have a relevant entitlement and another person
+(‘carer B’) would be entitled to Carer Support Payment in respect of the same
+cared for person for the same period, carer B will only be entitled to Carer
+Support Payment if—
+
+24.4.a
+
+carer A and carer B jointly agree in accordance with paragraph (5) that carer
+A will not have a relevant entitlement, or
+
+24.4.b
+
+in absence of such agreement, the Scottish Ministers determine that carer B is
+or remains entitled to Carer Support Payment in respect of that period,
+following—
+
+24.4.b.i
+
+in a case where the relevant entitlement is to—
+
+24.4.b.i.aa
+
+a Carer’s Allowance payable by the Secretary of State under section 70 of the
+1992 Act,
+
+24.4.b.i.bb
+
+the carer element of Universal Credit payable by the Secretary of State under
+section 12(2)(c) of the Welfare Reform Act 2012,
+
+consultation with the Secretary of State,
+
+24.4.b.ii
+
+in a case where the relevant entitlement is to—
+
+24.4.b.ii.aa
+
+a Carer’s Allowance payable by the Department for Communities in Northern
+Ireland under section 70 of the Social Security Contributions and Benefits
+(Northern Ireland) Act 1992,
+
+24.4.b.ii.bb
+
+the carer element of Universal Credit payable by the Department for
+Communities in Northern Ireland under Article 17(2)(c) of the Welfare Reform
+(Northern Ireland) Order 2015,
+
+consultation with the Department for Communities in Northern Ireland.
+
+24.5
+
+An agreement under paragraph (2)(a), (3)(a) or (4)(a) is to be made by giving
+the Scottish Ministers a notice in writing signed by the individuals mentioned
+in paragraph (2), (3) or (4) as the case may be, specifying one of them as the
+individual to be entitled to assistance.
+
+24.6
+
+When making a determination under paragraph (2)(b), (3)(b) or (4)(b), the
+Scottish Ministers must have regard to factors including but not limited to—
+
+24.6.a
+
+the best interests of the cared for person,
+
+24.6.b
+
+whether any of the individuals mentioned in paragraph (2), (3) or (4)—
+
+24.6.b.i
+
+are family members of the cared for person,
+
+24.6.b.ii
+
+live with or near the cared for person,
+
+24.6.b.iii
+
+receive any benefits on behalf of, or as a result of their responsibility for,
+the cared for person.
+
+24.7
+
+The Scottish Ministers may, having considered the factors set out in paragraph
+(6), make a determination without application that—
+
+24.7.a
+
+one of the individuals mentioned in paragraph (2) or (3), or
+
+24.7.b
+
+following consultation with the Secretary of State or, as the case may be, the
+Department for Communities in Northern Ireland, carer B mentioned in paragraph
+(4),
+
+who has ongoing entitlement to Carer Support Payment, is no longer entitled to
+Carer Support Payment.
+
+24.8
+
+For the purposes of this regulation, an individual has a “relevant
+entitlement” if the individual is entitled to—
+
+24.8.a
+
+a Carer’s Allowance, or
+
+24.8.b
+
+the carer element of universal credit.
+
+24.9
+
+Where paragraph (2) applies at the same time as paragraphs (3) or (4), the
+Scottish Ministers must make a determination under paragraph (2) before making
+a determination under paragraph (3) or (4).
+
+#### Continuing eligibility
+
+
+25
+
+25.1
+
+Subject to paragraphs (3) and (4), a determination that an individual is
+entitled to Carer Support Payment in respect of a period is to be made on the
+basis that the individual has an ongoing entitlement to Carer Support Payment
+after the end of that period, except where paragraph (2) applies.
+
+25.2
+
+This paragraph applies where, after the end of the period mentioned in
+paragraph (1), the individual no longer satisfies the eligibility rules.
+
+25.3
+
+A determination of ongoing entitlement is made on the basis that—
+
+25.3.a
+
+the individual will continue to be entitled to Carer Support Payment for a
+fixed or indefinite period as specified in the notice of determination, and
+
+25.3.b
+
+the decision that the individual is entitled to Carer Support Payment for each
+subsequent 4-week period is to be taken in accordance with these Regulations,
+on the strength of the assumptions set out in paragraph (4).
+
+25.4
+
+The assumptions are that—
+
+25.4.a
+
+the individual continues to satisfy the eligibility criteria which were
+satisfied to be entitled to Carer Support Payment under the determination
+mentioned in paragraph (1),
+
+25.4.b
+
+the information on which the determination mentioned in paragraph (1) was made
+still applies and is relevant in the individual’s case, and
+
+25.4.c
+
+there is no change in circumstances of the individual which would require to
+be notified under section 56 of the 2018 Act.
+
+#### Form of payment – giving Carer Support Payment by way of deduction
+
+
+26
+
+26.1
+
+Where an individual has a liability to the Scottish Ministers under section 63
+of the 2018 Act, the individual’s payment of Carer Support Payment may be
+given (in whole or in part) by way of deduction, at a reasonable level, from
+that liability either—
+
+26.1.a
+
+with the agreement of the individual, or
+
+26.1.b
+
+without the individual’s agreement, where the individual has unreasonably
+refused to agree to the assistance being given in that form.
+
+26.2
+
+For the purposes of paragraph (1), “ reasonable level ” means a level that is
+reasonable having regard to the financial circumstances of the individual.
+
+#### When a decrease in amount or cessation of entitlement takes effect
+
+
+27
+
+27.1
+
+Where, as a result of a determination without application, the amount of Carer
+Support Payment payable in respect of an individual is decreased or their
+entitlement to Carer Support Payment ceases, the change takes effect—
+
+27.1.a
+
+in the case of a determination without application under regulation 35
+(consideration of entitlement after specified period) or 36(a) (determination
+following change of circumstances etc.), on the first day of the award week
+following the award week in which—
+
+27.1.a.i
+
+the individual should have notified the Scottish Ministers of the change,
+where the individual was required to notify a change under section 56 of the
+2018 Act, if the individual—
+
+27.1.a.i.aa
+
+knowingly fails to notify a change, or
+
+27.1.a.i.bb
+
+fails to notify the change as soon as reasonably practicable after it
+occurred, or
+
+27.1.a.ii
+
+in any other case, the Scottish Ministers make the determination,
+
+27.1.b
+
+in the case of an earlier determination which was based on error within the
+meaning of regulation 37 (determination following official error –
+underpayments) or regulation 38 (determination following error –
+overpayments), on the first day of the award week in which the earlier
+determination took effect,
+
+27.1.c
+
+in any other case, on the first day of the award week following the award week
+in which the Scottish Ministers make the determination.
+
+27.2
+
+Where the Scottish Ministers consider that in all the circumstances it would
+be unjust not to do so, they may, when making their determination, set a later
+date for the purposes of paragraph (1).
+
+#### When an increase in amount of entitlement takes effect
+
+
+28
+
+28.1
+
+Where, as a result of a determination without application, the amount of Carer
+Support Payment payable in respect of an individual is increased, the change
+takes effect—
+
+28.1.a
+
+in the case of an increase pursuant to a determination made under regulation
+36(a) or (b) (determination following change of circumstances etc.), on the
+first day of the award week in which—
+
+28.1.a.i
+
+the individual first satisfies the requirements for an increased amount of
+Carer Support Payment—
+
+28.1.a.i.aa
+
+where the individual reports the change within 13 weeks of the change
+occurring, or
+
+28.1.a.i.bb
+
+where the individual reports the change more than 13 weeks after the change
+occurring, but only if the Scottish Ministers consider that the individual has
+good reason for not reporting the change within 13 weeks, or
+
+28.1.a.ii
+
+in any other case, the individual reports the change,
+
+28.1.a.iii
+
+where as a result of the Scottish Ministers becoming aware that a
+determination of an individual’s entitlement was made in ignorance of a
+material fact, the Scottish Ministers make the determination.
+
+28.1.b
+
+in the case of an earlier determination which was based on error within the
+meaning of regulation 37 (determination following official error –
+underpayments) or regulation 38 (determination following error –
+overpayments), on the first day of the award week in which the earlier
+determination took effect,
+
+28.1.c
+
+in any other case, on the first day of the award week following the award week
+in which the Scottish Ministers make the determination.
+
+28.2
+
+Where the Scottish Ministers consider that in all the circumstances it would
+be unjust not to do so, they may, when making their determination, set an
+earlier date for the purposes of paragraph (1).
+
+### Suspensions
+
+
+#### Circumstances in which assistance may be suspended
+
+
+29
+
+29.1
+
+The Scottish Ministers may decide that an individual who has an ongoing
+entitlement to Carer Support Payment in respect of a period by virtue of
+regulation 25 (continuing eligibility) is not to become entitled to be given
+some or all of that assistance at the time at which the individual otherwise
+would in accordance with that regulation, as read with regulation 22 (time of
+payment) (referred to in these Regulations as a decision to suspend the
+individual’s Carer Support Payment).
+
+29.2
+
+Where such a decision is made in respect of an individual, payments of Carer
+Support Payment to that individual are to be suspended until such a time as
+the Scottish Ministers decide that the individual is once again to become
+entitled to be given Carer Support Payment.
+
+29.3
+
+The Scottish Ministers may decide to suspend an individual’s Carer Support
+Payment only in the circumstances where—
+
+29.3.a
+
+section 54(1A) of the 2018 Act  applies, or
+
+29.3.b
+
+the Scottish Ministers have made arrangements (whether under section 85B of
+the 2018 Act  or otherwise) for a person to receive Carer Support Payment on
+the individual’s behalf, and the Scottish Ministers consider that it is
+necessary to suspend the Carer Support Payment—
+
+29.3.b.i
+
+in order to protect the individual from the risk of financial abuse, or
+
+29.3.b.ii
+
+because the person with whom the Scottish Ministers have made arrangements is
+unable to continue to receive the Carer Support Payment.
+
+29.3.c
+
+In this regulation “ financial abuse ” includes—
+
+29.3.c.i
+
+having money or other property stolen,
+
+29.3.c.ii
+
+being defrauded,
+
+29.3.c.iii
+
+being put under pressure in relation to money or other property,
+
+29.3.c.iv
+
+having money or other property misused.
+
+#### Having regard to financial circumstances
+
+
+30
+
+The Scottish Ministers must have regard to an individual’s financial
+circumstances prior to making a decision to suspend payment to the individual
+of some or all of Carer Support Payment.
+
+#### Information to be given following suspension
+
+
+31
+
+31.1
+
+Having made a decision to suspend an individual’s Carer Support Payment, the
+Scottish Ministers must inform the individual of—
+
+31.1.a
+
+their decision to suspend the individual’s Carer Support Payment,
+
+31.1.b
+
+the reasons for their decision,
+
+31.1.c
+
+any steps which might be taken by the individual in order for the Scottish
+Ministers to consider ending the suspension, and
+
+31.1.d
+
+the individual’s right under regulation 32 (right to review suspension) to
+require the Scottish Ministers to review their decision.
+
+31.2
+
+The Scottish Ministers must fulfil their duty under paragraph (1) in a way
+that leaves the individual with a record of the information which the
+individual can show to, or otherwise share with, others.
+
+#### Right to review suspension
+
+
+32
+
+32.1
+
+An individual may require the Scottish Ministers to review a decision to
+suspend that individual’s Carer Support Payment.
+
+32.2
+
+The Scottish Ministers must—
+
+32.2.a
+
+complete a review mentioned in paragraph (1) within 31 days beginning with the
+day on which they received notice from the individual requiring them to review
+their decision,
+
+32.2.b
+
+inform the individual of the outcome of the review including the reasons for
+it.
+
+32.3
+
+The Scottish Ministers must fulfil their duty under paragraph (2)(b) in a way
+that leaves the individual with a record of the information which the
+individual can show to, or otherwise share with, others.
+
+#### Ending a suspension
+
+
+33
+
+The Scottish Ministers are to make a decision to end a suspension where—
+
+33.a
+
+the individual provides the information requested under section 54(1) of the
+2018 Act  and the Scottish Ministers consider that they do not require to make
+a determination without application,
+
+33.b
+
+regulation 29(3)(a) (circumstances in which assistance may be suspended)
+applies and the Scottish Ministers make a determination without application
+under regulation 35 (consideration of entitlement after specified period), 36
+(determination following change of circumstances, etc.), 37 (determination
+following official error – underpayments), 38 (determination following error –
+overpayments) or 39 (determination to effect a deduction decision),
+
+33.c
+
+the Scottish Ministers make a determination under section 54(2)  of the 2018
+Act,
+
+33.d
+
+the circumstances mentioned in regulation 29(3)(b) (circumstances in which
+assistance may be suspended) no longer apply, or
+
+33.e
+
+the Scottish Ministers consider it appropriate in the circumstances, including
+having regard to the financial circumstances of the individual.
+
+#### Effect of suspension ending
+
+
+34
+
+When—
+
+34.a
+
+the suspension of an individual’s Carer Support Payment ends, and
+
+34.b
+
+under the latest determination of the individual’s entitlement to Carer
+Support Payment relating to the period of the suspension the individual would
+have become entitled to be given Carer Support Payment during that period,
+
+the individual is immediately to be given the Carer Support Payment that the
+individual would have become entitled to be given under the determination
+during the period of suspension.
+
+### Re-consideration of entitlement to Carer Support Payment: determination without application
+
+
+#### Consideration of entitlement after specified period
+
+
+35
+
+The Scottish Ministers must make a determination of an individual’s
+entitlement to Carer Support Payment, without receiving an application, after
+the end of the period specified (if any) in—
+
+35.a
+
+the individual’s notice of determination under section 40 or notice of re-
+determination under section 44 (as the case may be), or
+
+35.b
+
+a determination made by the First-tier Tribunal for Scotland under section 49,
+
+of the 2018 Act.
+
+#### Determination following change of circumstances etc.
+
+
+36
+
+The Scottish Ministers must make a determination of an individual’s
+entitlement to Carer Support Payment, without receiving an application, where
+the individual has an ongoing entitlement to Carer Support Payment and they
+become aware—
+
+36.a
+
+of a change of circumstances whether or not notified by the individual in
+accordance with section 54 or 56 of the 2018 Act,
+
+36.b
+
+that a determination of an individual’s entitlement was made in ignorance of a
+material fact which is likely to result in an alteration to the amount of
+Carer Support Payment payable to the individual or which is likely to mean
+that the individual is no longer entitled to Carer Support Payment,
+
+36.c
+
+that the individual has died,
+
+36.d
+
+that the cared for person has died,
+
+36.e
+
+that the individual has notified the Scottish Ministers that they wish for
+their entitlement to assistance to begin on a date prior to the day on which
+their application was treated as made, provided that—
+
+36.e.i
+
+the date chosen by the individual is no more than 13 weeks prior to the day on
+which their application was treated as made, and
+
+36.e.ii
+
+the individual satisfied the eligibility requirements set out in Part 3 of
+these Regulations on that chosen date,
+
+36.f
+
+of an alteration of the award of Carer’s Allowance which the individual was
+entitled to immediately before the date of transfer to Carer Support Payment
+in accordance with Part 2 of schedule 1, as a result of a decision made
+pursuant to—
+
+36.f.i
+
+a revision under regulation 3 of the Social Security and Child Support
+(Decisions and Appeals) Regulations 1999  (“ the 1999 Regulations ”),
+
+36.f.ii
+
+a supersession under regulation 6 of the 1999 Regulations,
+
+36.f.iii
+
+an appeal under section 12 of the Social Security Act 1998 (“ the 1998 Act ”)
+,
+
+36.f.iv
+
+a redetermination under section 13 of the 1998 Act,
+
+36.f.v
+
+an appeal to the Upper Tribunal under section 14 of the 1998 Act,
+
+36.f.vi
+
+a revision under article 10 of the Social Security (Northern Ireland) Order
+1998  (“ the 1998 Order ”),
+
+36.f.vii
+
+a supersession under article 11 of the 1998 Order,
+
+36.f.viii
+
+an appeal under article 13 of the 1998 Order, or
+
+36.f.ix
+
+an appeal to the Commissioner under article 15 of the 1998 Order,
+
+36.g
+
+of an alteration of the award of Carer’s Allowance which the individual was
+entitled to immediately before moving to Scotland in circumstances in which
+regulation 41 (individuals in respect of whom Carer’s Allowance is paid in
+another part of the United Kingdom immediately before moving to Scotland)
+applies, as a result of a decision made pursuant to—
+
+36.g.i
+
+a revision under regulation 3 of the Social Security and Child Support
+(Decisions and Appeals) Regulations 1999 (“ the 1999 Regulations ”),
+
+36.g.ii
+
+a supersession under regulation 6 of the 1999 Regulations,
+
+36.g.iii
+
+an appeal under section 12 of the Social Security Act 1998 (“ the 1998 Act ”),
+
+36.g.iv
+
+a re-consideration under section 13 of the 1998 Act,
+
+36.g.v
+
+an appeal to the Upper Tribunal under section 14 of the 1998 Act,
+
+36.g.vi
+
+a revision under article 10 of the Social Security (Northern Ireland) Order
+1998  (“ the 1998 Order ”),
+
+36.g.vii
+
+a supersession under article 11 of the 1998 Order,
+
+36.g.viii
+
+an appeal under article 13 of the 1998 Order, or
+
+36.g.ix
+
+an appeal to the Commissioner under article 15 of the 1998 Order.
+
+#### Determination following official error - underpayments
+
+
+37
+
+37.1
+
+The Scottish Ministers are to make a determination of an individual’s
+entitlement to Carer Support Payment, without receiving an application, where—
+
+37.1.a
+
+they have previously made a determination of the individual’s entitlement to
+Carer Support Payment (“the original determination”),
+
+37.1.b
+
+they establish that, due to an official error, the original determination was
+incorrect resulting in the individual—
+
+37.1.b.i
+
+not being given an award of Carer Support Payment, or
+
+37.1.b.ii
+
+being given a lower award than that,
+
+to which the individual was entitled,
+
+37.1.c
+
+the Scottish Ministers are not considering a request for a re-determination of
+the individual’s entitlement to Carer Support Payment, and
+
+37.1.d
+
+the individual has not appealed to the First-tier Tribunal for Scotland
+against the Scottish Minister’s determination of the individual’s entitlement
+to Carer Support Payment.
+
+37.2
+
+In making a determination required by paragraph (1) the Scottish Ministers are
+to use—
+
+37.2.a
+
+any information—
+
+37.2.a.i
+
+provided in the application that led to the original determination,
+
+37.2.a.ii
+
+they have obtained in connection with that application, and
+
+37.2.b
+
+any other information they have obtained in connection with the individual’s
+entitlement to Carer Support Payment.
+
+37.3
+
+In this regulation “ official error ” means an error made by someone acting on
+behalf of the Scottish Ministers or on behalf of a Minister of the Crown that
+was not materially contributed to by anyone else.
+
+#### Determination following error – overpayments
+
+
+38
+
+38.1
+
+The Scottish Ministers are to make a determination of an individual’s
+entitlement to Carer Support Payment, without receiving an application, where—
+
+38.1.a
+
+they have previously made a determination of the individual’s entitlement to
+Carer Support Payment (“the original determination”),
+
+38.1.b
+
+they establish that, due to an error, the original determination was incorrect
+resulting in the individual being given—
+
+38.1.b.i
+
+an award of Carer Support Payment to which the individual was not entitled, or
+
+38.1.b.ii
+
+a higher award than that to which the individual was entitled,
+
+38.1.c
+
+the Scottish Ministers are not considering a request for a re-determination of
+the individual’s entitlement to Carer Support Payment, and
+
+38.1.d
+
+the individual has not made an appeal to the First-tier Tribunal for Scotland
+or Upper Tribunal against the Scottish Minister’s determination of the
+individual’s entitlement to Carer Support Payment, that has not yet been
+determined.
+
+38.2
+
+In making a determination required by paragraph (1) the Scottish Ministers are
+to use—
+
+38.2.a
+
+any information—
+
+38.2.a.i
+
+provided in the application that led to the original determination, and
+
+38.2.a.ii
+
+they have obtained in connection with that application,
+
+38.2.b
+
+any other information they have obtained in connection with the individual’s
+entitlement to Carer Support Payment, and
+
+38.2.c
+
+any other information available to them that is relevant to their
+consideration of whether the individual is entitled to Carer Support Payment.
+
+38.3
+
+In this regulation references to an “error” are to—
+
+38.3.a
+
+an error in the performance of a function conferred by these Regulations or
+the 2018 Act, including a determination being made—
+
+38.3.a.i
+
+wrongly, or
+
+38.3.a.ii
+
+correctly but on the basis of—
+
+38.3.a.ii.aa
+
+incorrect information, or
+
+38.3.a.ii.bb
+
+an assumption which proves to be wrong, or
+
+38.3.b
+
+a new determination not being made after an assumption on the basis of which
+an earlier determination was made has proved to be wrong.
+
+#### Determination to effect a deduction decision
+
+
+39
+
+39.1
+
+The Scottish Ministers are to make a determination of an individual’s
+entitlement to Carer Support Payment, without receiving an application, where
+the circumstances in paragraphs (2) and (3) apply.
+
+39.2
+
+This paragraph applies where—
+
+39.2.a
+
+regulation 26 (form of payment – giving Carer Support Payment by way of
+deduction) allows Carer Support Payment to be given to the individual by way
+of deduction, or
+
+39.2.b
+
+Carer Support Payment is being given to the individual by way of deduction,
+and the Scottish Ministers consider that may no longer be appropriate.
+
+39.3
+
+This paragraph applies where the Scottish Ministers have decided to—
+
+39.3.a
+
+vary the amount of Carer Support Payment to be given by way of deduction
+(including introducing a deduction, where the full amount of Carer Support
+Payment was previously given as money),
+
+39.3.b
+
+vary any period for which the individual’s Carer Support Payment is to be
+given by way of deduction, that may have been specified in a previous
+determination of the individual’s entitlement, or
+
+39.3.c
+
+cease making deductions, and instead give the individual’s Carer Support
+Payment in the form of money.
+
+39.4
+
+The Scottish Ministers are to make a determination, without receiving an
+application, where an individual who is receiving Carer Support Payment by way
+of deduction under a previous determination of entitlement notifies the
+Scottish Ministers that the individual—
+
+39.4.a
+
+withdraws their agreement to their Carer Support Payment being given by way of
+deduction,
+
+39.4.b
+
+wishes the Scottish Ministers to increase the amount of their Carer Support
+Payment that is given by way of deduction,
+
+39.4.c
+
+wishes the Scottish Ministers to decrease the amount of their Carer Support
+Payment that is given by way of deduction (including ceasing the deduction),
+or
+
+39.4.d
+
+wishes the Scottish Ministers to amend the length of any period referred to in
+paragraph (3)(b).
+
+### Breaks in care
+
+
+#### Temporary break in care
+
+
+40
+
+40.1
+
+An award week in respect of which an individual fails to satisfy the
+requirement of regulation 5(2) (provision of care to a cared for person) is to
+be treated as an award week in respect of which that individual satisfies that
+requirement if—
+
+40.1.a
+
+that individual has only temporarily ceased to satisfy it, and
+
+40.1.b
+
+that individual has satisfied it for at least 14 weeks in the period of 26
+weeks ending with that award week and would have satisfied it for at least 22
+weeks in that period but for the fact that—
+
+40.1.b.i
+
+that individual was undergoing medical or other treatment as an in-patient in
+a hospital or similar institution, or
+
+40.1.b.ii
+
+the cared for person was undergoing medical or other treatment as an in-
+patient in a hospital or similar institution.
+
+40.2
+
+Regulation 14 (earnings limit) does not apply to an individual in respect of
+an award week mentioned in paragraph (1).
+
+40.3
+
+Paragraph (1) applies to an individual who fails to satisfy the requirement of
+regulation 5(2) because they are in legal detention, provided the individual
+satisfies the requirements of this regulation.
+
+### Movement of individuals between Scotland and the rest of the United Kingdom
+
+
+#### Individuals in respect of whom Carer’s Allowance is paid in another part of the United Kingdom immediately before moving to Scotland
+
+
+41
+
+41.1
+
+Where an individual—
+
+41.1.a
+
+becomes resident in Scotland,
+
+41.1.b
+
+was resident in another part of the United Kingdom, and
+
+41.1.c
+
+was entitled to Carer’s Allowance in respect of a cared for person immediately
+before the date of the move,
+
+the Scottish Ministers are to make a determination without application of the
+individual’s entitlement to Carer Support Payment.
+
+41.2
+
+Entitlement to Carer Support Payment under paragraph (1) begins on the day
+after the day on which the individual’s entitlement to Carer’s Allowance ends.
+
+41.3
+
+In this regulation, “the date of the move” is the date when the individual
+becomes resident in Scotland, as notified by the individual or otherwise
+communicated to the Scottish Ministers (whether the notification takes place
+before or after the date of the move).
+
+#### Individuals in respect of whom Carer Support Payment is paid at the time of moving to another part of the United Kingdom
+
+
+42
+
+42.1
+
+Where the Scottish Ministers become aware that an individual who is entitled
+to Carer Support Payment has moved or is to move to become resident in another
+part of the United Kingdom, the individual is to be treated as though the
+individual meets the condition under regulation 6(1)(a) (residence and
+presence conditions) of being ordinarily resident in Scotland for a period of
+13 weeks beginning in accordance with paragraph (4).
+
+42.2
+
+Where the Scottish Ministers become aware that an individual has moved or is
+to move to another part of the United Kingdom mentioned in paragraph (1), they
+are to make a determination without application at the end of the 13-week
+period mentioned in paragraph (1) that the individual’s entitlement to Carer
+Support Payment is to terminate.
+
+42.3
+
+Where before the end of the 13-week period, the Scottish Ministers become
+aware that the individual is no longer to move to become resident in another
+part of the United Kingdom, the duty in paragraph (2) does not apply.
+
+42.4
+
+The 13-week period mentioned in paragraph (1) begins on the date the
+individual ceases to be ordinarily resident in Scotland.
+
+42.5
+
+On the day after the 13-week period specified in paragraph (4) ends—
+
+42.5.a
+
+entitlement to Carer Support Payment ceases, and
+
+42.5.b
+
+regulation 38 (determination following error – overpayments) applies to any
+Carer Support Payment paid to an individual in relation to a period after the
+end of that 13-week period.
+
+### Periods in respect of a re-determination request
+
+
+#### Periods in respect of a re-determination request
+
+
+43
+
+43.1
+
+The period for requesting a re-determination of entitlement to Carer Support
+Payment under section 41 of the 2018 Act is 42 days beginning with the day
+that the individual is informed, in accordance with section 40 of the 2018
+Act, of the right to make the request.
+
+43.2
+
+In relation to determining entitlement to Carer Support Payment, the period
+allowed for re-determination (within the meaning of section 43 of the 2018
+Act) is 56 days beginning with—
+
+43.2.a
+
+the day that the request for a re-determination is received by the Scottish
+Ministers,
+
+43.2.b
+
+in a case where the request for a re-determination is received by the Scottish
+Ministers outwith the period prescribed in paragraph (1), the day on which it
+is decided by the Scottish Ministers or (as the case may be) the First-tier
+Tribunal for Scotland that the individual in question has a good reason for
+not requesting a re-determination sooner, or
+
+43.2.c
+
+in a case where the Scottish Ministers have informed the individual of their
+decision that the request for a re-determination was not made in such form as
+the Scottish Ministers require, the day on which it is subsequently decided by
+the First-tier Tribunal for Scotland that the individual in question has made
+the request in such form as the Scottish Ministers require.
+
+### Transfer from Carer’s Allowance to Carer Support Payment
+
+
+#### Transfer from Carer’s Allowance to Carer Support Payment
+
+
+44
+
+Part 2 of schedule 1 makes provision about transferring from Carer’s Allowance
+to Carer Support Payment.
+
+### Initial period for applications
+
+
+#### Initial period for applications
+
+
+45
+
+Part 1 of schedule 1 makes provision about the initial period for
+applications.
+
+### Transitory provision
+
+
+#### Transitory provision – initial period for applications
+
+
+46
+
+46.1
+
+During the initial period for applications, in addition to satisfying the
+residence and presence conditions in regulations 6 to 11, an individual must
+be resident in one of the local authority areas specified in paragraph 2 of
+Part 1 of schedule 1 on the date their application is received by the Scottish
+Ministers.
+
+46.2
+
+In this regulation and in Part 1 of schedule 1, “ initial period for
+applications ” means the period beginning with 19 November 2023 and ending
+with   3 November 2024 .
+
+46.3
+
+The initial period for applications comprises three phases—
+
+46.3.a
+
+phase 1, beginning with 19 November 2023 and ending with 23 June 2024,
+
+46.3.b
+
+phase 2, beginning with 24 June 2024 and ending with 18 August 2024, and
+
+46.3.c
+
+phase 3, beginning with 19 August 2024 and ending with 3 November 2024.
+
+#### Exclusion to transitory provision
+
+
+47
+
+47.1
+
+An individual who has made a claim for Carer’s Allowance prior to 19 November
+2023 which has not yet been decided is not entitled to be paid Carer Support
+Payment during the initial period for applications.
+
+47.2
+
+In paragraph (1) a claim for Carer’s Allowance is decided if it has—
+
+47.2.a
+
+been decided by the Secretary of State under section 70 of the 1992 Act ,
+
+47.2.b
+
+been withdrawn in accordance with regulation 5(2) of the Social Security
+(Claims and Payments) Regulations 1987 , or
+
+47.2.c
+
+otherwise is no longer to be decided by the Secretary of State as mentioned in
+sub-paragraph (a).
+
+### Consequential amendments
+
+
+#### Consequential amendments
+
+
+48
+
+The amendments specified in Part 3 of schedule 1 have effect.
+
+      SHIRLEY-ANNE SOMERVILLE   A member of the Scottish Government     St
+Andrew’s House,   Edinburgh       25th October 2023
+
+Regulations 44, 45 and 48
+
+##### Initial period for applications
+
+
+###### Initial period for applications
+
+
+1
+
+1.1
+
+These Regulations apply to an individual who is resident in one of the local
+authority areas mentioned in paragraph 2 when the individual makes an
+application for Carer Support Payment during the initial period for
+applications.
+
+1.2
+
+An individual who is awarded Carer Support Payment pursuant to an application
+made during the initial period for applications will continue to be entitled
+if that individual moves to another local authority area in Scotland.
+
+###### Local authority areas for initial period for applications
+
+
+2
+
+The local authority areas specified for the purposes of regulation 45 (initial
+period for applications) are—
+
+2.a
+
+in phase 1, Perthshire and Kinross, City of Dundee and Western Isles,
+
+2.b
+
+in phase 2, Perthshire and Kinross, City of Dundee, Western Isles, Angus,
+North Lanarkshire and South Lanarkshire,
+
+2.c
+
+in phase 3, Perthshire and Kinross, City of Dundee, Western Isles, Angus,
+North Lanarkshire, South Lanarkshire, Fife, City of Aberdeen, Aberdeenshire,
+Moray, North Ayrshire, East Ayrshire and South Ayrshire.
+
+##### Relevant date
+
+2A
+
+For the purposes of regulation 18A (entitlement beginning before individual
+satisfied residence requirements), the “relevant date” in respect of an
+individual who is resident in a local authority area listed in column 1 of
+table 1, is the date specified in the corresponding entry of column 2.
+
+Table 1 Column 1: local authority area Column 2: relevant date Angus, North
+Lanarkshire or South Lanarkshire, 22 September 2024 Fife, City of Aberdeen,
+Aberdeenshire, Moray, North Ayrshire, East Ayrshire or South Ayrshire, 17
+November 2024 Argyll and Bute, Clackmannanshire, Dumfries and Galloway, East
+Dunbartonshire, East Lothian, East Renfrewshire, City of Edinburgh, Falkirk,
+Glasgow City, Highlands, Inverclyde, Midlothian, Orkney Islands, Renfrewshire,
+Scottish Borders, Shetland Islands, Stirling, West Dunbartonshire or West
+Lothian 2 February 2025
+
+2B
+
+For the purposes of regulation 18B (entitlement beginning before individual
+satisfied residence requirements – education), the “relevant date” in respect
+of an individual who is resident in a local authority area listed in column 1
+of table 2, is the date specified in the corresponding entry of column 2.
+
+Table 2 Column 1: local authority area Column 2: relevant date Perthshire and
+Kinross, City of Dundee, Western Isles, Angus, North Lanarkshire or South
+Lanarkshire 22 September 2024 Fife, City of Aberdeen, Aberdeenshire, Moray,
+North Ayrshire, East Ayrshire or South Ayrshire 17 November 2024 Argyll and
+Bute, Clackmannanshire, Dumfries and Galloway, East Dunbartonshire, East
+Lothian, East Renfrewshire, City of Edinburgh, Falkirk, Glasgow City,
+Highlands, Inverclyde, Midlothian, Orkney Islands, Renfrewshire, Scottish
+Borders, Shetland Islands, Stirling, West Dunbartonshire or West Lothian 2
+February 2025
+
+##### Transfer to Carer Support Payment
+
+
+###### Interpretation
+
+
+3
+
+In this Part of the schedule—
+
+“ date of transfer ” means the date when a transferring individual’s
+entitlement to Carer Support Payment begins by virtue of a determination made
+under paragraph 5(1), “ relevant individual ” means an individual— who has an
+award of Carer’s Allowance who appears to the Scottish Ministers to be likely
+to be eligible for Carer Support Payment, and who is— ordinarily resident in
+Scotland, or someone to whom regulation 6(3) (residence and presence
+conditions) or 11(2) (persons residing outside the United Kingdom to whom a
+relevant EU regulation applies) applies, “ sufficient ” means a link to
+Scotland that is sufficiently close that regulation 6(3) or 11(2) would be
+incompatible with the applicable agreement mentioned in that regulation, if
+the relevant individual were not entitled to Carer Support Payment, “ transfer
+notice ” means the notice required by paragraph 4, and “ transferring
+individual ” means an individual on whom the Scottish Ministers have served a
+notice of intention to transfer in accordance with paragraph 4.
+
+###### Notice of intention to transfer to Carer Support Payment
+
+
+4
+
+4.1
+
+The Scottish Ministers are to notify each relevant individual of their
+intention to transfer that individual’s entitlement to carer’s assistance from
+an entitlement to Carer’s Allowance to an entitlement to Carer Support
+Payment.
+
+4.2
+
+Notice under sub-paragraph (1) must—
+
+4.2.a
+
+be given in a way that leaves the relevant individual with a record of the
+information which they can show to, or otherwise share with, others,
+
+4.2.b
+
+inform the relevant individual that—
+
+4.2.b.i
+
+they have been identified as a relevant individual for the purpose of transfer
+to Carer Support Payment,
+
+4.2.b.ii
+
+the Scottish Ministers will make a determination without receiving an
+application to transfer the individual’s entitlement to Carer’s Allowance to
+an entitlement to Carer Support Payment within a period to be specified in the
+notice (the individual will be notified when the determination is made and
+informed about their award and start date of Carer Support Payment), and
+
+4.2.b.iii
+
+the individual’s award of Carer’s Allowance will cease immediately before the
+award of Carer Support Payment begins.
+
+4.3
+
+Where a notice under sub-paragraph (1) is given—
+
+4.3.a
+
+to a transferring individual who, before a determination is made under
+paragraph 5(1)—
+
+4.3.a.i
+
+ceases to be ordinarily resident in Scotland, or
+
+4.3.a.ii
+
+cares for a cared for person who dies, or
+
+4.3.b
+
+in error where the individual is neither—
+
+4.3.b.i
+
+ordinarily resident in Scotland, nor
+
+4.3.b.ii
+
+an individual who is habitually resident in an EEA state, Gibraltar or
+Switzerland and has a genuine and sufficient link to Scotland,
+
+the duty on the Scottish Ministers in paragraph 5(1) does not apply.
+
+4.4
+
+Where sub-paragraph (3) applies in respect of an individual and a
+determination under paragraph 5(1) has not been made, the Scottish Ministers
+are to notify the individual that the duty on the Scottish Ministers in
+paragraph 5(1) does not apply.
+
+###### Determination without application of entitlement to Carer Support Payment
+
+
+5
+
+5.1
+
+The Scottish Ministers are to make a determination without receiving an
+application in respect of a transferring individual of that individual’s
+entitlement to Carer Support Payment.
+
+5.2
+
+Entitlement to Carer Support Payment under a determination under sub-paragraph
+(1) begins on the date specified in the notice of determination given to the
+transferring individual in accordance with section 40 of the 2018 Act.
+
+5.3
+
+The determination under sub-paragraph (1) is to be made on the basis of—
+
+5.3.a
+
+such information as the Scottish Ministers have received from the Secretary of
+State in respect of the transferring individual’s entitlement to Carer’s
+Allowance, and
+
+5.3.b
+
+any other information available to the Scottish Ministers that appears to be
+relevant.
+
+5.4
+
+A determination under sub-paragraph (1) must be made on the basis that the
+transferring individual is entitled to the amount of Carer Support Payment
+that is equivalent to the amount of Carer’s Allowance to which the individual
+was entitled immediately before the date of transfer.
+
+5.5
+
+A determination under sub-paragraph (1)—
+
+5.5.a
+
+may be made on the assumption that whatever can be discerned about the
+transferring individual’s circumstances from the information mentioned in sub-
+paragraph (3) remains accurate on the date on which the determination is made,
+
+5.5.b
+
+notwithstanding the generality of head (a), is to be made on the assumption
+that the conditions relating to residence and presence set out in regulations
+6 to 11 (residence and presence conditions etc.) are satisfied in the
+individual’s case, and
+
+5.5.c
+
+must be made no later than the period specified in the notice under paragraph
+4(1) (notice of intention to transfer to Carer Support Payment) unless the
+Scottish Ministers have—
+
+5.5.c.i
+
+good reason to extend that period,
+
+5.5.c.ii
+
+agreed the period for extension with the Secretary of State, and
+
+5.5.c.iii
+
+notified the transferring individual of the extension and reason for it.
+
+5.6
+
+Where the Scottish Ministers make a determination under paragraph (1) that a
+transferring individual is entitled to Carer Support Payment, for the week in
+which that determination takes place, “ award week ” means—
+
+5.6.a
+
+where the individual cares for a cared for person who is in receipt of
+Constant Attendance Allowance, a period of 4 days, starting on the Wednesday
+of that week and ending on the following Saturday, or
+
+5.6.b
+
+in all other cases, a period of 6 days, starting on the Monday of that week
+and ending on the following Saturday.
+
+###### Date of cessation of Carer’s Allowance
+
+
+6
+
+Where a determination is made under paragraph 5(1) (determination without
+application of entitlement to Carer Support Payment) that the transferring
+individual is entitled to Carer Support Payment, the transferring individual’s
+entitlement to Carer’s Allowance will cease on the date their entitlement to
+Carer Support Payment begins.
+
+###### Modification of these regulations: transferring individuals
+
+
+7
+
+These Regulations apply to a transferring individual on and after the date of
+transfer with the following modifications—
+
+In regulation 22, for sub-paragraph (b), substitute—
+
+7.b
+
+inform the transferring individual that any subsequent payment will be made—
+
+7.b.i
+
+4 weekly in arrears,
+
+7.b.ii
+
+weekly in advance,
+
+7.b.iii
+
+in respect of an individual who was paid Carer’s Allowance one week in advance
+and 3 weekly in arrears—
+
+7.b.iii.aa
+
+4 weekly in arrears, or
+
+7.b.iii.bb
+
+weekly in advance, provided that the individual has informed the Scottish
+Ministers that they wish to be paid weekly in advance before the date
+specified in the notice of intention to transfer given to the individual in
+accordance with paragraph 4(1) of schedule 1,
+
+7.b.iv
+
+where the Scottish Ministers consider that it would be unjust not to do so, at
+such intervals as may be specified in the notice of determination.
+
+.
+
+###### Appointees
+
+
+8
+
+8.1
+
+A person appointed by the Secretary of State under regulation 33 (persons
+unable to act) of the Social Security (Claims and Payments) Regulations 1987
+to receive Carer’s Allowance on behalf of a transferring individual is to be
+treated on and after the date of transfer as though appointed by the Scottish
+Ministers to act on behalf of that transferring individual under section 85B
+of the 2018 Act.
+
+8.2
+
+As soon as reasonably practicable after the date of transfer, the Scottish
+Ministers must—
+
+8.2.a
+
+consider whether the conditions for making an appointment in respect of the
+transferring individual are met (having regard to section 85B(3) of the 2018
+Act),
+
+8.2.b
+
+consider whether to terminate the appointment that is treated as having been
+made by virtue of sub-paragraph (1) and terminate it if they consider it
+appropriate, and
+
+8.2.c
+
+if they have terminated an appointment in pursuance of head (b), appoint under
+section 85B of the 2018 Act another person to act on the transferring
+individual’s behalf if they consider it appropriate to do so.
+
+8.3
+
+The duty in paragraph (2) does not apply to a person in respect of whom the
+Scottish Ministers have already—
+
+8.3.a
+
+appointed to act on behalf of that transferring individual under section 85B
+of the 2018 Act, or
+
+8.3.b
+
+considered whether the conditions for making an appointment are met in
+accordance with paragraph 15 (appointees) of Part 3 of schedule 2 of the
+Disability Assistance for Working Age People (Scotland) Regulations 2022  or
+paragraph 14 (appointees) of Part 3 of the schedule of the Disability
+Assistance for Children and Young People (Scotland) Regulations 2021 .
+
+##### Consequential amendments
+
+
+###### Amendment of the 2018 Act
+
+
+9
+
+9.1
+
+Section 81 of the 2018 Act is amended in accordance with sub-paragraphs (2) to
+(5).
+
+9.2
+
+In subsection (2), for paragraph (a) substitute—
+
+9.2.a
+
+in receipt of—
+
+9.2.a.i
+
+a carer’s allowance under section 70 of the Social Security Contributions and
+Benefits Act 1992 , or
+
+9.2.a.ii
+
+carer support payment under the Carer’s Assistance (Carer Support Payment)
+(Scotland) Regulations 2023 ( S.S.I. 2023/302 ), and
+
+.
+
+9.3
+
+In subsection (9), for paragraph (a) substitute—
+
+9.3.a
+
+in receipt of—
+
+9.3.a.i
+
+a carer’s allowance under section 70 of the Social Security Contributions and
+Benefits Act 1992, or
+
+9.3.a.ii
+
+carer support payment under the Carer’s Assistance (Carer Support Payment)
+(Scotland) Regulations 2023 ( S.S.I. 2023/302 ),
+
+.
+
+9.4
+
+In subsection (11), for paragraph (a) substitute—
+
+9.4.a
+
+in receipt of—
+
+9.4.a.i
+
+a carer’s allowance under section 70 of the Social Security Contributions and
+Benefits Act 1992, or
+
+9.4.a.ii
+
+carer support payment under the Carer’s Assistance (Carer Support Payment)
+(Scotland) Regulations 2023 ( S.S.I. 2023/302 ),
+
+.
+
+9.5
+
+In subsection (13), for paragraph (a) substitute—
+
+9.5.a
+
+in receipt of—
+
+9.5.a.i
+
+a carer’s allowance under section 70 of the Social Security Contributions and
+Benefits Act 1992, or
+
+9.5.a.ii
+
+carer support payment under the Carer’s Assistance (Carer Support Payment)
+(Scotland) Regulations 2023 ( S.S.I. 2023/302 ),
+
+.
+
+###### Amendment of the Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020
+
+
+10
+
+10.1
+
+The Carer’s Allowance Supplement and Young Carer Grants (Residence
+Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020
+are amended in accordance with sub-paragraph (2).
+
+10.2
+
+In regulation 7(b), for paragraph (i) substitute—
+
+10.2.i
+
+the Scottish Ministers establish that the individual has received an award of—
+
+10.2.i.aa
+
+carer’s allowance under section 70 of the Social Security Contributions and
+Benefits Act 1992 ,
+
+10.2.i.bb
+
+carer support payment under the Carer’s Assistance (Carer Support Payment)
+(Scotland) Regulations 2023 ( S.S.I. 2023/302 ),
+
+.
+
+###### Amendment of the Carer’s Assistance (Young Carer Grants) (Scotland) Regulations 2019
+
+
+11
+
+11.1
+
+The Carer’s Assistance (Young Carer Grants) (Scotland) Regulations 2019  are
+amended in accordance with sub-paragraph (2).
+
+11.2
+
+In regulation 7(1) (further eligibility conditions)—
+
+11.2.a
+
+after “young carer grant if,”, insert  “at any point in the qualifying period
+or” , and
+
+11.2.b
+
+omit “in respect of any of the persons being cared for”.
+
+  Calculation of earnings
+
+Regulation 14
+
+##### Interpretation
+
+
+1
+
+In this schedule—
+
+“ basic rate ” means the rate of income tax of that name determined in
+accordance with section 6(2) of the Income Tax Act 2007 , “ board and lodging
+accommodation ” means— accommodation provided to a person or, if they are a
+member of a family, to them or any other member of their family, for a charge
+which includes the provision of that accommodation and at least some cooked or
+prepared meals (which are provided by a person other than the person to whom
+the accommodation is provided or a member of their family) and are consumed in
+that accommodation, or accommodation provided to a person in a hotel, guest
+house, lodging house or some similar establishment,
+
+except accommodation provided by a close relative of theirs or of any other
+member of their family, or other than on a commercial basis,
+
+“ close relative ” means a parent, parent-in-law, son, son-in-law, daughter,
+daughter-in-law, step-parent, step-son, step-daughter, brother, sister, or if
+any of the preceding persons is one member of a couple, the other member of
+that couple, “ dwelling occupied as the home ” means the dwelling together
+with any garage, garden and outbuildings, normally occupied by the individual
+as their home including any premises not so occupied which it is impracticable
+or unreasonable to sell separately, in particular, in Scotland, any croft land
+on which the dwelling is situated, “ employed earner ” means a person who is
+in gainful employment in Great Britain under a contract of service, or in an
+office (including elective office) with emoluments chargeable to income tax
+under schedule E of the Income and Corporation Taxes Act 1988 and includes— a
+person in any employment which would be such employment if it were in Great
+Britain, and a person in any such employment which, in accordance with the
+provisions of the 1992 Act and of any regulations made under it, is to be
+disregarded in relation to liability for contributions, “ employment ”
+includes any trade, business, profession, office or vocation, “ individual ”
+means any person making an application for Carer Support Payment or
+transferring from Carer’s Allowance to Carer Support Payment under these
+Regulations, “ maximum weekly amount ” means the maximum weekly amount which,
+on the date on which the payment of compensation is made, is specified in
+section 227(1) of the Employment Rights Act 1996 , “ occupational pension
+scheme ” has the same meaning as in section 1 of the Pension Schemes Act 1993
+, “ pay period ” means the period in respect of which an individual is, or
+expects to be, normally paid by their employer, being a week, a fortnight, 4
+weeks, a calendar month, or such other period as the case may be, “ personal
+pension scheme ” has the same meaning as in section 1 of the Pension Schemes
+Act 1993 and, in the case of a self-employed earner, includes a scheme
+approved by the Inland Revenue under Chapter IV of Part XIV of the Income and
+Corporation Taxes Act 1988, “ relevant earnings limit ” means the earnings
+limit set out in regulation 14 of these Regulations, “ retirement annuity
+contract ” means a contract or trust scheme approved under Chapter III of Part
+XIV of the Income and Corporation Taxes Act 1988, “ Scottish basic rate ”
+means the rate of income tax of that name calculated in accordance with
+section 6A of the Income Tax Act 2007 , “ Scottish taxpayer ” has the same
+meaning as in Chapter 2 of Part 4A of the Scotland Act 1998 , “ self-employed
+earner ” means a person who is in gainful employment in Great Britain
+otherwise than as an employed earner and includes a person in any— employment
+which would be such employment if it were in Great Britain, and such
+employment which, in accordance with the provisions of the 1992 Act and of any
+regulations made under it, is to be disregarded in relation to liability for
+contributions, and “ year of assessment ” means, with reference to any income
+tax, the year for which such tax was granted by any enactment granting income
+tax.
+
+##### Calculation of earnings
+
+
+2
+
+2.1
+
+For the purposes of regulation 14 (earnings limit), the earnings of an
+individual are to be calculated by determining the weekly amount of their
+earnings in accordance with this schedule.
+
+2.2
+
+The amount of an individual’s earnings for any period are the whole of those
+earnings (including any earnings which they are treated as possessing under
+paragraph 3 (notional earnings)) except in so far as paragraphs 9 (calculation
+of net earnings of employed earners) and 12 (calculation of net profit of
+self-employed earners) provide that certain sums are to be disregarded or
+deducted.
+
+##### Notional earnings
+
+
+3
+
+3.1
+
+Where an individual’s earnings are not ascertainable at the date on which the
+Scottish Ministers are determining the individual’s entitlement to Carer
+Support Payment or considering whether they are required to make a
+determination of the individual’s entitlement to Carer Support Payment without
+receiving an application, the individual is treated as possessing such
+earnings as is reasonable in the circumstances having regard to the number of
+hours worked and the earnings paid for comparable employment.
+
+3.2
+
+Where an individual is treated as possessing any earnings under sub-paragraph
+(1), this schedule applies for the purposes of calculating the amount of those
+earnings as if a payment had actually been made and as if they were actual
+earnings which that individual does possess, except that paragraph 9(3)
+(calculation of net earnings of employed earners) does not apply and their net
+earnings are calculated by taking into account the earnings which they are
+treated as possessing, less—
+
+3.2.a
+
+an amount in respect of income tax equivalent to an amount calculated by
+applying to those earnings the basic rate, or in the case of a Scottish
+taxpayer, the Scottish basic rate, of tax in the year of assessment less only
+the personal reliefs to which the individual is entitled under Chapters 2, 3
+and 3A of Part 3 of the Income Tax Act 2007 as are appropriate to their
+circumstances; but if the period over which those earnings are to be taken
+into account is less than a year, the earnings to which the basic rate, or
+Scottish basic rate, of tax is to be applied and the amount of the personal
+reliefs deductible under this paragraph are calculated on a pro rata basis,
+
+3.2.b
+
+where the weekly amount of those earnings equals or exceeds the lower earnings
+limit, an amount representing primary Class 1 contributions under the 1992
+Act, calculated by applying to those earnings the initial and main primary
+percentages in accordance with section 8(1)(a) and (b) of that Act, and
+
+3.2.c
+
+one half of any sum payable by the individual in respect of a pay period by
+way of a contribution towards an occupational or personal pension scheme,
+
+3.2.d
+
+any care charges to which paragraph 15 (care charges to be deducted in the
+calculation of earnings) applies up to a maximum deduction, in respect of such
+care charges incurred by any individual, of 50% of their notional earnings.
+
+##### Rounding of fractions
+
+
+4
+
+Where any calculation under this schedule results in a fraction of a penny
+that fraction is, if it would be to individual’s advantage, treated as a
+penny, otherwise it is disregarded.
+
+##### Calculation of earnings of employed earners
+
+
+5
+
+5.1
+
+Earnings derived from employment as an employed earner are calculated or
+estimated over a period determined in accordance with the following paragraphs
+and at a weekly amount determined in accordance with paragraph 7 (calculation
+of weekly amount of earnings).
+
+5.2
+
+Subject to sub-paragraphs (3) and (5) to (7), the period over which a payment
+is to be taken into account—
+
+5.2.a
+
+in a case where it is payable in respect of a period, is a period equal to the
+total number of award weeks in the period commencing on the date on which the
+earnings are treated as paid under paragraph 6 (date on which earnings are
+treated as paid) and ending on the day before the date on which earnings of
+the same kind (excluding earnings of the kind mentioned in paragraph 8(1)(a)
+to (j)) and from the same source would, or would if the employment was
+continuing, next be treated as paid under that paragraph, or
+
+5.2.b
+
+in any other case, and where it would cause the individual’s earnings to
+exceed the relevant earnings limit if it were taken into account only in
+respect of the period in which it was received, is a period equal to such
+number of weeks as is equal to the number (less any fraction of a whole
+number) calculated in accordance with the formula—
+
+P Q + R where— P is the net earnings, Q is the amount of the relevant earnings
+limit plus one penny, and R is the total of the sums which would fall to be
+disregarded or deducted as appropriate under paragraph 9(2) (calculation of
+net earnings of employed earners), and that period begins on the date on which
+the payment is treated as paid under paragraph 6 (date on which earnings are
+treated as paid).
+
+5.3
+
+Where earnings not of the same kind are derived from the same source and the
+periods in respect of which those earnings would, but for this sub-paragraph,
+fall to be taken into account overlap, wholly or partly, those earnings are
+taken into account over a period—
+
+5.3.a
+
+equal to the aggregate length of those periods, and
+
+5.3.b
+
+beginning with the earliest date on which any part of those earnings would
+otherwise be treated as paid under paragraph 6 (date on which earnings are
+treated as paid).
+
+5.4
+
+In a case to which paragraph (3) applies, earnings under paragraph 8 (earnings
+of employed earners) are taken into account in the following order of
+priority—
+
+5.4.a
+
+earnings normally derived from the employment,
+
+5.4.b
+
+any payment to which paragraph 8(1)(b) or (c) applies,
+
+5.4.c
+
+any payment to which paragraph 8(1)(i) applies,
+
+5.4.d
+
+any payment to which paragraph 8(1)(d) applies.
+
+5.5
+
+Where earnings to which paragraph 8(1)(b) to (d) (earnings of employed
+earners) applies are paid in respect of a part of a day, those earnings are
+taken into account over a period equal to a week.
+
+5.6
+
+Where earnings to which paragraph 8(1)(i)(i) (earnings of employed earners)
+applies are paid in respect of or on the termination of any employment which
+is not part-time employment, the period over which they are taken into account
+is—
+
+5.6.a
+
+a period of weeks equal to the number of weeks (less any fraction of a whole
+number) obtained by dividing the net earnings by the maximum weekly amount
+which, on the date on which the payment of earnings is made, is specified in
+section 227(1) of the Employment Rights Act 1996 , or
+
+5.6.b
+
+a period equal to the length of the specified period,
+
+whichever is the shorter, and that period begins on the date on which the
+payment is treated as paid under paragraph 6 (date on which earnings are
+treated as paid).
+
+5.7
+
+In this paragraph—
+
+“ part-time employment ” means— subject to the provisions of heads (b) to (d)
+of this definition, employment in which a person is engaged, or, where their
+hours of work fluctuate, they are engaged on average for less than 16 hours a
+week, being work for which payment is made or which is done in expectation of
+payment, subject to head (c) of this definition, the number of hours for which
+an individual is engaged in work is determined— where no recognisable cycle
+has been established in respect of an individual’s work, by reference to the
+number of hours, or, where those hours are likely to fluctuate, the average of
+the hours, which they are expected to work in a week, where the number of
+hours for which they are engaged fluctuates, by reference to the average of
+hours worked over— if there is a recognisable cycle of work, the period of one
+complete cycle (including, where the cycle involves periods in which the
+individual does not work, those periods but disregarding any other absences),
+in any other case, the period of 5 weeks immediately before the date on which
+an application for Carer Support Payment is treated as received, or the date
+on which a determination without application falls to be made, or such other
+length of time as may, in the particular case, enable the individual’s average
+hours of work to be determined more accurately, where for the purpose of head
+(b)(ii)(aa) of this definition, an individual’s recognisable cycle of work at
+a school, other education establishment or other place of employment is one
+year and includes periods of school holidays or similar vacations during which
+they do not work, those periods and any other periods not forming part of such
+holidays or vacations during which they are not required to work is
+disregarded in establishing the average hours for which they are engaged in
+work, for the purposes of heads (a) and (b) of this definition, in determining
+the number of hours for which an individual is engaged in work, that number
+includes any time allowed to that individual by their employer for a meal or
+for refreshment, but only where that individual is, or expects to be, paid
+earnings in respect of that time, “ specified period ” means a period equal
+to— a week or such number of weeks (less any fraction of a whole number) as
+comprise the period of notice which is applicable to an individual, or would
+have been applicable if it had not been waived, less any part of that period
+during which the individual has continued to work in the employment in
+question or in respect of which they have received any payment in lieu of
+notice,
+
+and for the purposes of this definition “ period of notice ” means the period
+of notice of termination of employment to which an individual is entitled by
+statute or by contract, whichever is the longer, or, if they are not entitled
+to such notice, the period of notice which is customary in the employment in
+question.
+
+##### Date on which earnings are treated as paid
+
+
+6
+
+Earnings to which paragraph 5 (calculation of earnings of employed earners) or
+10(2) (calculation of earnings of self-employed earners) applies are treated
+as paid on the first day of the award week in which the payment is received.
+
+##### Calculation of weekly amount of earnings
+
+
+7
+
+7.1
+
+For the purposes of paragraph 5 (calculation of earnings of employed earners),
+subject to sub-paragraphs (2) to (4), where the period in respect of which a
+payment is made—
+
+7.1.a
+
+does not exceed a week, the weekly amount is the amount of that payment,
+
+7.1.b
+
+exceeds a week, the weekly amount is determined—
+
+7.1.b.i
+
+where that period is a month, by multiplying the amount of that payment by 12
+and dividing the product by 52,
+
+7.1.b.ii
+
+where that period is 3 months, by multiplying the amount of the payment by 4
+and dividing the product by 52,
+
+7.1.b.iii
+
+where that period is a year, by dividing the amount of the payment by 52,
+
+7.1.b.iv
+
+for any other period, by multiplying the amount of the payment by 7 and
+dividing the product by the number equal to the number of days in the period
+in respect of which it is made.
+
+7.2
+
+Where a payment of earnings from a particular source is or has been paid
+regularly and that payment falls to be taken into account in the same award
+week as a payment of the same kind from the same source, the amount of those
+earnings to be taken into account in any one award week will not exceed the
+weekly amount determined under sub-paragraph (1)(a) or (b), as the case may
+be, of the payment which under paragraph 6 (date on which earnings are treated
+as paid) is treated as paid first.
+
+7.3
+
+Where the amount of the individual’s net earnings fluctuates and has changed
+more than once, or an individual’s regular pattern of work is such that they
+do not work every week, the application of sub-paragraphs (1) and (2) may be
+modified so that the weekly amount of their earnings is determined by
+reference to their average weekly earnings—
+
+7.3.a
+
+if there is a recognisable cycle of work, over the period of one complete
+cycle,
+
+7.3.b
+
+if the individual has provided the Scottish Ministers with payslips, over the
+period to which the payslips relate, up to a maximum period of 26 weeks, or
+
+7.3.c
+
+in any other case, over a period of 5 weeks or such other period as may, in
+the particular case, enable the individual’s average weekly earnings to be
+determined more accurately.
+
+##### Earnings of employed earners
+
+
+8
+
+8.1
+
+Subject to sub-paragraphs (2) and (3), “earnings”, in the case of employment
+as an employed earner means the remuneration or profit derived from the
+employment and includes—
+
+8.1.a
+
+any bonus or commission,
+
+8.1.b
+
+any payment in lieu of remuneration except any periodic sum paid to an
+individual on account of the termination of their employment by reason of
+redundancy,
+
+8.1.c
+
+any payment in lieu of notice,
+
+8.1.d
+
+any holiday pay except where it is payable more than 4 weeks after the
+termination or interruption of employment,
+
+8.1.e
+
+any payment by way of a retainer,
+
+8.1.f
+
+any payment made by the individual’s employer in respect of expenses not
+wholly, exclusively and necessarily incurred in the performance of the duties
+of the employment, including any payment made by the employer in respect of—
+
+8.1.f.i
+
+travelling expenses incurred by the individual between their home and place of
+employment,
+
+8.1.f.ii
+
+expense incurred by the individual under arrangements made for the care of a
+member of their family owing to the individual’s absence from home,
+
+8.1.g
+
+any award of compensation made under section 112(4) (the remedies: orders and
+compensation) or 117(3)(a) (enforcement of order and compensation) of the
+Employment Rights Act 1996 (remedies and compensation),
+
+8.1.h
+
+any such sum as is referred to in section 112(3) of the 1992 Act (certain sums
+to be earnings for social security purposes),
+
+8.1.i
+
+where—
+
+8.1.i.i
+
+a payment of compensation is made in respect of employment which is not part-
+time employment and that payment is not less than the maximum weekly amount,
+the amount of the compensation less the deductible remainder, where that is
+applicable,
+
+8.1.i.ii
+
+a payment of compensation is made in respect of employment which is part-time
+employment, the amount of the compensation,
+
+8.1.j
+
+any remuneration paid by or on behalf of an employer to the individual in
+respect of a period during which the individual is—
+
+8.1.j.i
+
+on maternity leave or paternity leave,
+
+8.1.j.ii
+
+on adoption leave, or
+
+8.1.j.iii
+
+absent from work because they are ill.
+
+8.2
+
+For the purposes of sub-paragraph (1)(i)(i), the “deductible remainder”—
+
+8.2.a
+
+applies in cases where dividing the amount of the compensation by the maximum
+weekly amount produces a whole number plus a fraction, and
+
+8.2.b
+
+is equal to the difference between—
+
+8.2.b.i
+
+the amount of the compensation, and
+
+8.2.b.ii
+
+the product of the maximum weekly amount multiplied by the whole number.
+
+8.3
+
+“Earnings” do not include any payment in respect of expenses—
+
+8.3.a
+
+wholly, exclusively and necessarily incurred in the performance of the duties
+of the employment, or
+
+8.3.b
+
+arising out of the individual participating as a service user.
+
+8.4
+
+The reference in sub-paragraph (3)(b) to the individual participating as a
+service user is to—
+
+8.4.a
+
+a person who is being consulted by or on behalf of—
+
+8.4.a.i
+
+a body which has a statutory duty to provide services in the field of health,
+social care or social housing, or
+
+8.4.a.ii
+
+a body which conducts research or undertakes monitoring for the purpose of
+planning or improving such services,
+
+in their capacity as a user, potential user, carer of a user or person
+otherwise affected by the provision of those services,
+
+8.4.b
+
+a person who is being consulted by or on behalf of—
+
+8.4.b.i
+
+the Secretary of State or the Scottish Ministers in relation to any of their
+functions in the field of social security or child support under section 2 of
+the Employment and Training Act 1973 , or
+
+8.4.b.ii
+
+a body which conducts research or undertakes monitoring for the purpose of
+planning or improving such functions,
+
+in their capacity as a person affected or potentially affected by the exercise
+of those functions or the carer of such a person, or
+
+8.4.c
+
+the carer of a person consulted under sub-paragraphs (a) or (b).
+
+8.5
+
+In this paragraph—
+
+      “ adoption leave ” means a period of absence from work on ordinary or
+additional adoption leave under section 75A or 75B of the Employment Rights
+Act 1996 ,           “ compensation ” means any payment made in respect of or
+on the termination of employment in a case where a person has not received or
+received only part of a payment in lieu of notice due or which would have been
+due to them had they not waived their right to receive it, other than—
+any payment specified in sub-paragraph (1)(a) to (h),           any payment
+specified in sub-paragraph (3)           any redundancy payment within the
+meaning of section 135 of the Employment Rights Act 1996,           any refund
+of contributions to which that person was entitled under an occupational
+pension scheme,                 “ maternity leave ” means a period during
+which a person is absent from work because they are pregnant or have given
+birth to a child, and at the end of which they have the right to return to
+work either under the terms of their contract or under Part 8 of the
+Employment Rights Act 1996,           “ part-time employment ” has the same
+meaning as in paragraph 5(7) (calculation of earnings of employed earners),
+“ paternity leave ” means a period of absence from work on leave under section
+80A  (entitlement to paternity leave: birth) or 80B  (entitlement to paternity
+leave: adoption) of the Employment Rights Act 1996.
+
+##### Calculation of net earnings of employed earners
+
+
+9
+
+9.1
+
+For the purposes of paragraphs 2 (calculation of earnings) and 5 (calculation
+of earnings of employed earners) the earnings of an individual derived from
+employment as an employed earner to be taken into account are, subject to sub-
+paragraphs (2) and (3), their net earnings.
+
+9.2
+
+There is disregarded or deducted as appropriate from an individual’s net
+earnings—
+
+9.2.a
+
+any sum, where applicable, specified in paragraph 14 (sums to be disregarded
+in the calculation of earnings), and
+
+9.2.b
+
+any care charges to which paragraph 15 (care charges to be deducted in the
+calculation of earnings) applies up to a maximum deduction, in respect of such
+care charges incurred by any individual, of 50% of their net earnings less
+those sums, if any, specified in paragraph 14 which are disregarded.
+
+9.3
+
+For the purposes of sub-paragraph (1) net earnings are calculated by taking
+into account the gross earnings of the individual from that employment, less—
+
+9.3.a
+
+any amount deducted by way of—
+
+9.3.a.i
+
+income tax,
+
+9.3.a.ii
+
+primary Class 1 contributions under the 1992 Act, and
+
+9.3.b
+
+one half of any sum paid by the individual in respect of a pay period by way
+of a contribution towards an occupational or personal pension scheme.
+
+##### Calculation of earnings of self-employed earners
+
+
+10
+
+10.1
+
+Except where paragraph (2) applies, where an individual’s earnings consist of
+earnings from employment as a self-employed earner the weekly amount of their
+earnings are determined by reference to their average weekly earnings from
+that employment—
+
+10.1.a
+
+over a period of one year, or
+
+10.1.b
+
+where the individual has been engaged in that employment for less than a year
+or there has been a change which is likely to affect their normal pattern of
+earnings, over such other period as may, in any particular case, enable the
+weekly amount of their earnings to be determined more accurately.
+
+10.2
+
+Where the individual’s earnings—
+
+10.2.a
+
+consist of royalties or other sums paid as a consideration for the use of, or
+the right to use, any copyright, design, patent or trade mark, and
+
+10.2.b
+
+the individual is the first owner of the copyright, design, patent or trade
+mark,
+
+those earnings are taken into account over a period equal to such number of
+weeks as is equal to the number (less any fraction of a whole number)
+calculated in accordance with the formula—
+
+S T + U where— S is the earnings, T is the relevant earnings limit plus one
+penny, and U is the total of the sums which would fall to be disregarded or
+deducted as appropriate under paragraph 12(2) (calculation of net profit of
+self-employed earners).
+
+10.3
+
+The period mentioned in sub-paragraph (2) begins on the date on which the
+payment is treated as paid under paragraph 6 (date on which earnings are
+treated as paid).
+
+##### Earnings of self-employed earners
+
+
+11
+
+“Earnings”, in the case of employment as a self-employed earner, means the net
+profits of the employment and includes any allowance paid under section 2 of
+the Employment and Training Act 1973 or section 2 of the Enterprise and New
+Towns (Scotland) Act 1990  to the individual for the purpose of assisting them
+in carrying on their business.
+
+##### Calculation of net profit of self-employed earners
+
+
+12
+
+12.1
+
+For the purposes of paragraphs 2 (calculation of earnings) and 10 (calculation
+of earnings of self-employed earners), the earnings of an individual to be
+taken into account are, in the case of a self-employed earner—
+
+12.1.a
+
+who is engaged in employment on their own account, the net profit derived from
+that employment,
+
+12.1.b
+
+whose employment is carried on in partnership or is that of a share fisherman,
+their share of the net profit derived from that employment less—
+
+12.1.b.i
+
+an amount in respect of income tax and social security contributions payable
+under the 1992 Act calculated in accordance with paragraph 13 (deduction of
+tax and contributions for self-employed earners), and
+
+12.1.b.ii
+
+one half of any premium paid in the period that is relevant under paragraph 10
+in respect of a retirement annuity contract or a personal pension scheme,
+
+12.1.c
+
+in sub-paragraph (b), “ share fisherman ” means any person who—
+
+12.1.c.i
+
+is ordinarily employed in the fishing industry otherwise than under a contract
+of service, as a master or member of the crew of any fishing boat manned by
+more than one person, and is remunerated in respect of that employment in
+whole or in part by a share of profits or gross earnings of the fishing boat,
+or
+
+12.1.c.ii
+
+has ordinarily been so employed, but who by reason of age or infirmity
+permanently ceases to be so employed and becomes ordinarily engaged in
+employment ashore in Great Britain, otherwise than under a contract of
+service, performing any services ancillary to or in connection with a fishing
+boat and is remunerated in respect of that employment in whole or in part by a
+share of the profits or gross earnings of that boat and has not ceased to be
+ordinarily engaged in that employment.
+
+12.2
+
+There is to be disregarded or deducted as appropriate from an individual’s net
+profit—
+
+12.2.a
+
+any sum, where applicable, specified in paragraph 14 (sums to be disregarded
+in the calculation of earnings), and
+
+12.2.b
+
+any care charge to which paragraph 15 (care charges to be deducted in the
+calculation of earnings) applies up to a maximum deduction, in respect of such
+care charges incurred by any individual, of 50% of their net profit less those
+sums, if any, specified in paragraph 14 which are disregarded.
+
+12.3
+
+For the purposes of sub-paragraph (1)(a), the net profit of the employment is,
+except where sub-paragraph (9) applies, calculated by taking into account the
+earnings of the employment over the period determined under paragraph 10
+(calculation of earnings of self-employed earners), less—
+
+12.3.a
+
+subject to sub-paragraphs (5) to (7), any expenses wholly and exclusively paid
+in that period for the purposes of that employment,
+
+12.3.b
+
+an amount in respect of—
+
+12.3.b.i
+
+income tax, and
+
+12.3.b.ii
+
+social security contributions payable under the 1992 Act, calculated in
+accordance with paragraph 13 (deduction of tax and contributions for self-
+employed earners), and
+
+12.3.c
+
+one half of any premium paid in the period that is relevant under paragraph 10
+(calculation of earnings of self-employed earners) in respect of a retirement
+annuity contract or a personal pension.
+
+12.4
+
+For the purposes of sub-paragraph (1)(b), the net profit of the employment is
+calculated by taking into account the earnings of the employment over the
+period determined under paragraph 10 less, subject to sub-paragraphs (5) to
+(7), any expenses wholly and exclusively paid in that period for the purposes
+of that employment.
+
+12.5
+
+Subject to paragraph (6), no deduction is to be made under paragraph (3)(a) or
+(4) in respect of—
+
+12.5.a
+
+any capital expenditure,
+
+12.5.b
+
+the depreciation of any capital asset,
+
+12.5.c
+
+any sum employed or intended to be employed in the setting up or expansion of
+the employment,
+
+12.5.d
+
+any loss incurred before the beginning of the period determined under
+paragraph 10 (calculation of earnings of self-employed earners),
+
+12.5.e
+
+the repayment of capital on any loan taken out for the purposes of the
+employment,
+
+12.5.f
+
+any expenses incurred in providing business entertainment,
+
+12.5.g
+
+where the individual provides accommodation to another person in the dwelling
+the individual occupies as their home, any expenses paid by the individual in
+providing the accommodation to that person.
+
+12.6
+
+A deduction is made under sub-paragraph (3)(a) or (4) in respect of the
+repayment of capital on any loan used for—
+
+12.6.a
+
+the replacement in the course of business of equipment or machinery, and
+
+12.6.b
+
+the repair of an existing business asset except to the extent that any sum is
+payable under an insurance policy for its repair.
+
+12.7
+
+A deduction is not made in respect of any expenses under sub-paragraph (3)(a)
+or (4) where the Scottish Ministers are not satisfied that the expenses have
+been incurred or, having regard to the nature of the expense and its amount,
+that it has been reasonably incurred.
+
+12.8
+
+For the avoidance of doubt—
+
+12.8.a
+
+a deduction is not made under sub-paragraph (3)(a) or (4) in respect of any
+sum unless it has been expended for the purposes of the business,
+
+12.8.b
+
+a deduction is made under sub-paragraph (3)(a) or (4) in respect of—
+
+12.8.b.i
+
+the excess of any VAT paid over VAT received in the period determined under
+paragraph 10 (calculation of earnings of self-employed earners),
+
+12.8.b.ii
+
+any income expended in the repair of an existing asset except to the extent
+that any sum is payable under an insurance policy for its repair,
+
+12.8.b.iii
+
+any payment of interest on a loan taken out for the purposes of the
+employment.
+
+12.9
+
+Where an individual is engaged in employment as a child minder the net profit
+of the employment is one-third of the earnings of that employment, less—
+
+12.9.a
+
+an amount in respect of—
+
+12.9.a.i
+
+income tax, and
+
+12.9.a.ii
+
+social security contributions payable under the 1992 Act, calculated in
+accordance with paragraph 13 (deduction of tax and contributions for self-
+employed earners), and
+
+12.9.b
+
+one half of any premiums paid in respect of a retirement annuity or personal
+pension scheme.
+
+12.10
+
+Notwithstanding paragraph 10 (calculation of earnings for self-employed
+earners) and sub-paragraphs (1) to (5) of this paragraph, the Scottish
+Ministers may assess any item of an individual’s earnings or expenditure over
+a period other than that determined under paragraph 10 as may, in the
+particular case, enable the weekly amount of that item of earnings or
+expenditure to be determined more accurately.
+
+##### Deduction of tax and contributions for self-employed earners
+
+
+13
+
+13.1
+
+The amount to be deducted in respect of income tax under paragraph
+12(1)(b)(i), (3)(b)(i) or (9)(a)(i) (calculation of net profit for self-
+employed earners) is calculated on the basis of the amount of chargeable
+income and as if that income were assessable to income tax at the basic rate,
+or in the case of a Scottish taxpayer, the Scottish basic rate, of tax less
+only the personal reliefs to which the individual is entitled under Chapters
+2, 3 and 3A of Part 3 of the Income Tax Act 2007  and as are appropriate to
+their circumstances; but, if the period determined under paragraph 10
+(calculation of earnings of self-employed earners) is less than a year, the
+earnings to which the basic rate, or the Scottish basic rate, of tax is to be
+applied and the amount of the personal reliefs deductible under this sub-
+paragraph is calculated on a pro rata basis.
+
+13.2
+
+The amount to be deducted in respect of social security contributions under
+paragraph 12(1)(b)(i), (3)(b)(ii) or (9)(a)(ii) is the total of—
+
+13.2.a
+
+the amount of Class 2 contributions payable under section 11(2) or, as the
+case may be, 11(8) of the 1992 Act at the rate applicable at the date on which
+a   determination   relating to the individual’s entitlement to Carer Support
+Payment is made by the Scottish Ministers under these Regulations or, as the
+case may be, on appeal by the First-tier Tribunal for Scotland, except where
+the individual’s chargeable income is equal to or less than the amount
+specified in section 11(4)(a) of that Act (lower profits threshold) for the
+tax year in which that date falls; but if the assessment period is less than a
+year, the amount specified for that year is reduced pro rata, and
+
+13.2.b
+
+the amount of Class 4 contributions (if any) which would be payable under
+section 15 of the 1992 Act (Class 4 contributions recoverable under the Income
+Tax Acts) at the percentage rate applicable at the date on which a
+determination   relating to the individual’s entitlement to Carer Support
+Payment is made by the Scottish Ministers under these Regulations or, as the
+case may be, on appeal by the First-tier Tribunal for Scotland, on so much of
+the chargeable income as exceeds the lower limit but does not exceed the upper
+limit of profits and gains applicable for the tax year in which that date
+falls; but if the assessment period is less than a year, those limits are
+reduced pro rata.
+
+13.3
+
+In this paragraph, “ chargeable income ” means—
+
+13.3.a
+
+in the case of employment as a child minder, one-third of the earnings of that
+employment, or
+
+13.3.b
+
+in all other cases, the earnings derived from the employment less any expenses
+deducted under paragraph 12(3)(a) or (4).
+
+##### Sums to be disregarded in the calculation of earnings and profits
+
+
+14
+
+For the purposes of paragraphs 9(2) (calculation of net earnings of employed
+earners) and 12(2) (calculation of net profit of self-employed earners), the
+sums to be disregarded in the calculation of earnings and profits are—
+
+14.a
+
+any payment made to the individual by a person who normally resides with the
+individual, which is a contribution towards that person’s living and
+accommodation costs, except where that person is residing with the individual
+in circumstances to which sub-paragraph (b) or (c) refers,
+
+14.b
+
+where the individual occupies a dwelling as their home and the dwelling is
+also occupied by another person and there is a contractual liability to make
+payments to the individual in respect of the occupation of the dwelling by
+that person or a member of their family—
+
+14.b.i
+
+where the aggregate of any payments made in respect of any one week in respect
+of that dwelling by that person or a member of their family, or by that person
+and a member of their family, is less than £20, the whole of that amount, or
+
+14.b.ii
+
+where the aggregate of those payments is £20 or more per week, £20,
+
+14.c
+
+where the individual occupies a dwelling as their home and they provide in
+that dwelling board and lodging accommodation, an amount, in respect of each
+person for whom that accommodation is provided for the whole or any part of a
+week, equal to—
+
+14.c.i
+
+where the aggregate of those payments made in respect of any one week does not
+exceed £20, 100% of those payments, or
+
+14.c.ii
+
+where the aggregate of those payments exceeds £20, £20 and 50% of the excess
+over £20,
+
+14.d
+
+except in the case of an individual who is absent from the United Kingdom and
+to whom regulation 11 (persons residing outside the United Kingdom to whom a
+relevant EU regulation applies) applies—
+
+14.d.i
+
+any earnings derived from employment which are payable in a country outside
+the United Kingdom for such period during which there is a prohibition against
+transfer to the United Kingdom of those earnings,
+
+14.d.ii
+
+where a payment of earnings is made in a currency other than sterling, any
+banking charge or commission payable in converting that payment into sterling,
+
+14.e
+
+any earnings which are due to be paid before the start of the award of Carer
+Support Payment and which would otherwise fall to be taken into account in the
+same award week as a payment of the same kind and from the same source,
+
+14.f
+
+any payment made by a local authority to the individual with whom a person is
+accommodated by virtue of arrangements made under section 22C (ways in which
+looked after children are to be accommodated and maintained) of the Children
+Act 1989  (provision of accommodation and maintenance for a child whom they
+are looking after), section 81 (ways in which looked after children are to be
+accommodated and maintained) of the Social Services and Well-being (Wales) Act
+2014 , or section 26 (manner of provision of accommodation to child looked
+after by local authority) of the Children (Scotland) Act 1995  or by a
+voluntary organisation under section 59(1)(a) (provision of accommodation by
+voluntary organisations) of the Children Act 1989.
+
+14.g
+
+any payment made by a health authority, an integrated care board, the   NHS
+England , a local authority or a voluntary organisation to the individual in
+respect of a person who is not normally a member of the individual’s household
+but is temporarily in their care,
+
+14.h
+
+any payment paid at intervals of at least one year and derived from
+employments as—
+
+14.h.i
+
+a part-time fire fighter employed by a fire and rescue authority under the
+Fire and Rescue Services Act 2004  or by the Scottish Fire and Rescue Service
+established under section 1A of the Fire (Scotland) Act 2005 ,
+
+14.h.ii
+
+an auxiliary coastguard in respect of coast rescue activities,
+
+14.h.iii
+
+a person engaged part-time in the manning or launching of a lifeboat,
+
+14.h.iv
+
+a member of any territorial reserve force prescribed in Part I of schedule 1
+of the Employment and Support Allowance Regulations 2013 ,
+
+14.i
+
+any amount by way of refund of income tax deducted from profits or emoluments
+chargeable to income tax under schedule D or E of the Income and Corporation
+Taxes Act 1988 ,
+
+14.j
+
+in the case of employment as an employed earner, any advance of earnings or
+any loan made by the individual’s employer,
+
+14.k
+
+any earnings, other than items to which sub-paragraph (l) applies, paid or due
+to be paid from the individual’s employment as an employed earner which ended
+before the day in respect of which the individual first satisfied the
+eligibility criteria for Carer Support Payment set out in Part 3 of these
+Regulations,
+
+14.l
+
+this sub-paragraph applies to—
+
+14.l.i
+
+any payment by way of occupational or personal pension, and
+
+14.l.ii
+
+except in a case where the individual’s employment terminated by reason of
+retirement at a time when they had attained pensionable age (within the
+meaning given by the rules in paragraph 1 of schedule 4 of the Pensions Act
+1995 )—
+
+14.l.ii.aa
+
+any payment or remuneration of the nature described in paragraph 8(1)(e) or
+(j), and
+
+14.l.ii.bb
+
+any award or sum of the nature described in paragraph 8(1)(g) or (h)
+(including any payment made following the settlement of a complaint to an
+employment tribunal or of court proceedings).
+
+##### Care charges to be deducted in the calculation of earnings
+
+
+15
+
+15.1
+
+This paragraph applies where an individual is—
+
+15.1.a
+
+entitled to Carer Support Payment in accordance with these Regulations, and
+
+15.1.b
+
+incurring relevant care charges.
+
+15.2
+
+In this paragraph—
+
+“ close relative ” means a parent, son, daughter, brother, sister or partner,
+“ relevant care charges ” means the charges paid by the individual for care
+which is provided by a person, who is not a close relative of either the cared
+for person or the individual, for— the cared for person, or any child under
+the age of 16 on the date on which the award week begins in respect of whom
+the individual or their partner is entitled to Child Benefit under section 141
+of the 1992 Act because the individual is unable to care for any of those
+persons because they are carrying out duties in connection with their
+employment, “ cared for person ” means the cared for person in respect of whom
+entitlement to Carer Support Payment arises.
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations make provision for Carer Support Payment which is a type
+of carer’s assistance given by the Scottish Ministers under section 28 of the
+Social Security (Scotland) Act 2018.
+
+  Part 2 provides an overview of arrangements for payment of Carer Support
+Payment.
+
+  Part 3 sets out the eligibility criteria including the age criteria,
+requirements for the provision of care to a cared for person, residence and
+presence conditions, the effect of entitlement to other benefits, criteria for
+individuals in education and the earnings limit. Schedule 2 provides for
+calculation of earnings.
+
+  Part 4 provides for the making of applications, the time of payments, the
+amount and form of Carer Support Payment and abatement in respect of a
+relevant benefit. It also provides for continuing eligibility, temporary stops
+in entitlement and multiple applications involving the same cared for person.
+It includes provisions to make payments by way of deduction and when increases
+and decreases in payments take effect.
+
+  Part 5 provides for suspensions.
+
+  Part 6 deals with reconsideration of entitlement, where an award of Carer
+Support Payment has already been made and is being revisited. It provides for
+determinations without application to be made where a specified period has
+elapsed, there is a change in circumstances, to address errors resulting in
+overpayments, official errors resulting in underpayments, or to effect a
+deduction decision.
+
+  Part 7 deals with temporary breaks in care.
+
+  Part 8 provides for the situation where people in Scotland in receipt of
+Carer Support Payment move to another part of the United Kingdom or people in
+another part of the United Kingdom in receipt of equivalent assistance,
+Carer’s Allowance, move to Scotland.
+
+  Part 9 provides for time periods for dealing with requests for re-
+determination of entitlement.
+
+  Part 10 and Part 2 of schedule 1 makes provision to transfer individuals who
+meet the residence and presence conditions and are awarded Carer’s Allowance
+to become entitled to Carer Support Payment.
+
+  Parts 11 and 12 and Part 1 of schedule 1 makes provision for an initial
+period for applications to take place before full rollout of Carer Support
+Payment.
+
+  Part 13 and Part 3 of schedule 1 make provision for consequential
+amendments.
+

@@ -1,0 +1,689 @@
+Title: The Wireless Telegraphy (Mobile Repeater) (Exemption) Regulations 2022
+Date: 2024-06-25
+Description: These Regulations exempt the establishment, installation and use of certain wireless telegraphy stations or apparatus, known as “mobile repeaters”, which comply with certain terms, provisions and limitations, from the requirement to be licensed under section 8(1) of the Wireless Telegraphy Act 2006 (c.36). These Regulations also revoke the Wireless Telegraphy (Mobile Repeater) (Exemption) Regulations 2018 (c.399) (the “2018 Regulations”).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/595
+
+## The Wireless Telegraphy (Mobile Repeater) (Exemption) Regulations 2022
+
+    Electronic Communications
+
+  Made   26th May 2022
+
+  Coming into force   16th June 2022
+
+      The Office of Communications (“ OFCOM ”) make the following Regulations
+in exercise of the powers conferred by section 8(3) and section 122(7) of the
+Wireless Telegraphy Act 2006  (the “ Act ”) and in exercise of those sections
+of the Act  as extended to the Bailiwick of Guernsey, to the Bailiwick of
+Jersey and to the Isle of Man.         Before making these Regulations, OFCOM
+have given notice of their proposal to do so in accordance with section
+122(4)(a) of the Act, published notice of their proposal in accordance with
+section 122(4)(b) of the Act and have considered the representations made to
+them before the time specified in that notice in accordance with section
+122(4)(c) of the Act.
+
+### Introductory Provisions
+
+#### Citation and Commencement
+
+1
+
+These Regulations may be cited as the Wireless Telegraphy (Mobile Repeater)
+(Exemption) Regulations 2022 and shall come into force on 16th June 2022.
+
+#### Revocation
+
+2
+
+The Wireless Telegraphy (Mobile Repeater) (Exemption) Regulations 2018  are
+hereby revoked.
+
+#### Interpretation
+
+3
+
+In these Regulations—
+
+3.a
+
+“ Act ” means the Wireless Telegraphy Act 2006;
+
+3.b
+
+“ coverage antenna ” means the antenna connected to a mobile repeater device
+which receives transmissions from mobile devices;
+
+3.c
+
+“ coverage port ” means the interface between a mobile repeater device and its
+coverage antenna;
+
+3.d
+
+“ dB ” means decibel;
+
+3.e
+
+“ dBm ” means decibels of power referenced to one milliWatt;
+
+3.f
+
+“ dBm/MHz ” means decibels of power referenced to one milliWatt per megahertz;
+
+3.g
+
+“ dBm/5 MHz ” means decibels of power referenced to one milliWatt per five
+megahertz;
+
+3.h
+
+“ donor antenna ” means the antenna connected to a mobile repeater device
+which receives transmissions from the base stations of mobile network
+operators;
+
+3.i
+
+“ donor port ” means the interface between a mobile repeater device and its
+donor antenna;
+
+3.j
+
+“ downlink frequencies ” means the frequency bands 758-788MHz, 791-821MHz,
+925-960MHz, 1805-1880 MHz, and 2110-2170MHz;
+
+3.k
+
+“ ETSI ” means the European Telecommunications Standards Institute;
+
+3.l
+
+“e.i.r.p.” means equivalent isotropically radiated power, which is the product
+of the power supplied to an antenna and the absolute antenna gain in a given
+direction relative to an isotropic antenna;
+
+3.m
+
+“ GSM system ” means an electronic communications network that complies with
+standards EN 301 502  and EN 301 511  published by ETSI for the Global System
+for Mobile Communications (also known as GSM);
+
+3.n
+
+“ indoors ” means inside premises, which—
+
+3.n.i
+
+have a ceiling or a roof; and
+
+3.n.ii
+
+except for any doors, windows or passageways, are wholly enclosed;
+
+3.o
+
+“IR2102.2” means interface requirement “IR2102.2: Minimum requirements for the
+use of: low gain mobile phone repeaters for in-vehicle use” contained within
+the document entitled “UK Interface Requirement 2102 – Licence exempt mobile
+phone repeaters” published by OFCOM   in February 2024 ;
+
+3.p
+
+“ LTE system ” means an electronic communications network that complies with
+standards EN 301 908-1 , EN 301 908-13  and EN 301 908-14  published by ETSI
+for the Long Term Evolution telecommunication system (also known as LTE);
+
+3.q
+
+“ MHz ” means megahertz;
+
+3.r
+
+“ mobile repeater device ” means a wireless telegraphy station or wireless
+telegraphy apparatus which amplifies the radio signals carried over
+frequencies licensed to one or more mobile network operators;
+
+3.s
+
+“ motor vehicle ” means a mechanically propelled vehicle intended or adapted
+for use on roads;
+
+3.t
+
+“ OFCOM ” means the Office of Communications;
+
+3.u
+
+“ power spectral density ” means, in respect of a particular frequency band or
+frequencies, the e.i.r.p. of the transmissions made by the mobile repeater
+device on that particular frequency band or frequencies (as applicable) with
+the average power per five MHz bandwidth centred on that frequency band or
+frequencies, radiated in the direction of the maximum level;
+
+3.v
+
+“ system gain ” means, in respect of a particular frequency band or
+frequencies, the difference between (i) the power received at the input
+antenna of the mobile repeater device in respect of that particular frequency
+band or those particular frequencies, and (ii) the power transmitted by the
+output antenna of the mobile repeater device in respect of that particular
+frequency band or those particular frequencies (which difference shall be
+expressed in dB);
+
+3.w
+
+“ UMTS system ” means an electronic communications network that complies with
+standards EN 301 908—1, 301 908—2  and EN 301 908—3  published by ETSI for the
+Universal Mobile Telecommunications System (also known as UMTS);
+
+3.x
+
+“ uplink frequencies ” means the frequency bands 703-733 MHz, 832-862 MHz,
+880-915 MHz, 1710-1785 MHz and 1920-1980 MHz;
+
+3.y
+
+“ uplink noise power ” means the total amount of noise produced by a mobile
+repeater device in the relevant uplink frequencies, expressed in dBm/MHz; and
+
+3.z
+
+“ WiMAX system ” means an electronic communications network that complies with
+standards EN 301 908—1, EN 301 908—21  and EN 301 908—22  published by ETSI
+for the Worldwide Interoperability for Microwave Access telecommunication
+system (also known as WiMAX).
+
+### Mobile repeater devices for indoor use
+
+#### Scope of exemption for indoor use
+
+4
+
+The establishment, installation, or use of a mobile repeater device is exempt
+from the provisions of section 8(1) of the Act if—
+
+4.a
+
+that device complies with the terms, provisions, and limitations specified in
+regulations  5  to  12 ; or if
+
+4.b
+
+that device complies with the terms, provisions, and limitations specified in
+regulations  5  to  8  and regulations  14   to  17 .
+
+#### Terms, provisions and limitations for all mobile repeater devices
+
+##### Limitations on transmissions
+
+5
+
+5.1
+
+The mobile repeater device must only be established, installed, and used where
+the transmissions it makes on downlink frequencies are made indoors.
+
+5.2
+
+The mobile repeater device may only amplify signals carried over the downlink
+frequencies and the uplink frequencies.
+
+##### Prohibition on undue interference
+
+6
+
+The establishment, installation, and use of the mobile repeater device must
+not cause or contribute to undue interference to other users of the
+electromagnetic spectrum.
+
+##### Anti-oscillation requirements
+
+7
+
+7.1
+
+The mobile repeater device must—
+
+      automatically detect any oscillations it makes; and           use an
+anti-oscillation technique, in accordance with paragraphs  (4)  and  (5) ,
+where it detects any such oscillations.
+
+7.2
+
+Any oscillations in the uplink frequencies must be detected within 0.3
+seconds.
+
+7.3
+
+Any oscillations in the downlink frequencies must be detected within one
+second.
+
+7.4
+
+Subject to paragraph  (5) , if the mobile repeater device detects any
+oscillations, it must use an anti-oscillation technique which stops those
+oscillations and continues for at least one minute.
+
+7.5
+
+If an anti-oscillation technique has been used on five occasions in accordance
+with paragraph (4), and the mobile repeater device subsequently detects
+further oscillations, it must cease transmitting.
+
+7.6
+
+A mobile repeater device which has ceased transmitting in accordance with
+paragraph  (5)  must only resume operation if it has been manually reset.
+
+7.7
+
+For the purpose of this regulation, a mobile repeater device makes
+oscillations when the transmissions made by the mobile repeater device are
+received and subsequently re-amplified by that device, resulting in a
+fluctuation in the transmit power of that device (either in the frequency band
+being amplified or in another frequency band).
+
+##### System noise figure limit
+
+8
+
+8.1
+
+The system noise emanating from the mobile repeater device shall not exceed a
+system noise figure of 7 dB.
+
+8.2
+
+For the purpose of this regulation—
+
+8.2.a
+
+“ system noise figure ” means the difference between (i) the noise power
+measured at the output port of the mobile repeater device, and (ii) the noise
+power which would be present at the output port of that device if the only
+source of noise from that device were thermal noise (which difference shall be
+expressed in dB); and
+
+8.2.b
+
+“ thermal noise ” means the noise power from a mobile repeater device due to
+the thermal agitation of charge carriers within that device at room
+temperature, which noise occurs even if the mobile repeater device is not
+amplifying any signals.
+
+#### Additional terms, provisions and limitations for provider-specific mobile repeater devices
+
+##### Frequencies to be amplified
+
+9
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Automatic standby requirement
+
+10
+
+10.1
+
+Where the mobile repeater device does not serve an active connection between a
+mobile device operating on the network of a particular mobile network operator
+and that particular mobile network for five minutes or more, it must ensure
+that any transmissions it makes on the uplink frequencies licensed to that
+mobile network operator comply with the limit in paragraph  (2) .
+
+10.2
+
+The transmissions, when measured in any direction, must have an uplink noise
+power which does not exceed -70 dBm/MHz e.i.r.p.
+
+##### Power limits
+
+11
+
+The mobile repeater device may only emit transmissions on frequencies licensed
+to a mobile network operator which—
+
+11.a
+
+in the frequency band 703-733 MHz or 832-862 MHz, when measured in any
+direction and in respect of the frequencies licensed to that mobile network
+operator only, have an e.i.r.p. no greater than 23 dBm;
+
+11.b
+
+in the frequency band 880-915 MHz, when measured in any direction and in
+respect of the frequencies licensed to that mobile network operator only,
+have—
+
+11.b.i
+
+an e.i.r.p. where those transmissions are carried over a GSM system no greater
+than 33 dBm;
+
+11.b.ii
+
+an e.i.r.p. where those transmissions are carried over a UMTS system no
+greater than 24 dBm; and
+
+11.b.iii
+
+an e.i.r.p, where those transmissions are carried over a terrestrial
+electronic communications network that is not a GSM system or UMTS system, no
+greater than 23 dBm;
+
+11.c
+
+in the frequency band 1710-1785 MHz, when measured in any direction and in
+respect of the frequencies licensed to that mobile network operator only,
+have—
+
+11.c.i
+
+an e.i.r.p. where those transmissions are carried over a GSM system no greater
+than 30 dBm;
+
+11.c.ii
+
+an e.i.r.p. where those transmissions are carried over a UMTS system no
+greater than 24 dBm; and
+
+11.c.iii
+
+an e.i.r.p. where those transmissions are carried over a terrestrial
+electronic communications network that is not a GSM system or UMTS system, no
+greater than 23 dBm;
+
+11.d
+
+in the frequency band 1920-1980 MHz, when measured in any direction and in
+respect of the frequencies licensed to that mobile network operator only, have
+an e.i.r.p. no greater than 24 dBm;
+
+11.e
+
+in the frequency band 758-788 MHz or 791-821 MHz, when measured in any
+direction and in respect of the frequencies licensed to that mobile network
+operator only, have—
+
+11.e.i
+
+an e.i.r.p. no greater than 17 dBm; and
+
+11.e.ii
+
+a power spectral density no greater than 10 dBm/5 MHz;
+
+11.f
+
+in the frequency band 925-960 MHz, when measured in any direction and in
+respect of the frequencies licensed to that mobile network operator only,
+have—
+
+11.f.i
+
+an e.i.r.p. where those transmissions are carried over a GSM system no greater
+than 10 dBm;
+
+11.f.ii
+
+an e.i.r.p. where those transmissions are carried over a terrestrial
+electronic communications network that is not a GSM system, no greater than 17
+dBm; and
+
+11.f.iii
+
+a power spectral density, where those transmissions are carried over a
+terrestrial electronic communications network that is not a GSM system, no
+greater than 10 dBm/5 MHz;
+
+11.g
+
+in the frequency band 1805-1880 MHz, when measured in any direction and in
+respect of the frequencies licensed to that mobile network operator only,
+have—
+
+11.g.i
+
+an e.i.r.p. where those transmissions are carried over a GSM system no greater
+than 10 dBm;
+
+11.g.ii
+
+an e.i.r.p. where those transmissions are carried over a terrestrial
+electronic communications network that is not a GSM system, no greater than 17
+dBm; and
+
+11.g.iii
+
+a power spectral density, where those transmissions are carried over a
+terrestrial electronic communications network that is not a GSM system, no
+greater than 10 dBm/5 MHz; and
+
+11.h
+
+in the frequency band 2110-2170 MHz, when measured in any direction and in
+respect of the frequencies licensed to that mobile network operator only,
+have—
+
+11.h.i
+
+an e.i.r.p. no greater than 17 dBm; and
+
+11.h.ii
+
+a power spectral density no greater than 10 dBm/5 MHz.
+
+##### System gain limits
+
+12
+
+12.1
+
+Where the mobile repeater device emits transmissions on frequencies licensed
+to one mobile network operator only, the uplink and downlink system gain must
+not exceed the limit in paragraph  (3)  where the uplink and downlink system
+gain is measured for each of the frequency bands being transmitted.
+
+12.2
+
+Where the mobile repeater device emits transmissions on frequencies licensed
+to more than one mobile network operator within a particular frequency band,
+the uplink and downlink system gain must not exceed the limit in paragraph
+(3)  where the uplink and downlink system gain is measured separately for the
+frequencies licensed to each mobile network operator within that band that are
+being transmitted.
+
+12.3
+
+The uplink and downlink system gain must not exceed whichever is the smaller
+of—
+
+      100 dB; and           BSCL – 30 dB.
+
+12.4
+
+Where the mobile repeater device cannot determine the BSCL for a particular
+frequency band or for the frequencies licensed to a particular mobile network
+operator, it shall not make any transmissions on that frequency band or those
+frequencies (as applicable).
+
+12.5
+
+In this regulation, “ BSCL ” means base station coupling loss, which is the
+difference between (i) the power transmitted by the base station (which may be
+determined from the system information messages sent by that base station on
+its control channels) and (ii) the power received by the mobile repeater
+device from the base station (which difference shall be measured in dB).
+
+#### Additional terms, provisions and limitations for multi-operator mobile repeater devices
+
+##### Frequencies that must be amplified
+
+13
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Automatic standby requirement
+
+14
+
+14.1
+
+Where the mobile repeater device does not serve an active connection between a
+mobile device and a mobile network for five minutes or more, it must ensure
+that any transmissions it makes using the uplink frequencies comply with the
+limit in paragraph  (2) .
+
+14.2
+
+The transmissions, when measured in any direction, must have an uplink noise
+power which does not exceed -70 dBm/MHz e.i.r.p.
+
+##### Limits on power spectral density
+
+15
+
+15.1
+
+The mobile repeater device may only emit transmissions on uplink frequencies
+in a particular frequency band which, when measured in any direction, have a
+power spectral density no greater than 17 dBm/5 MHz.
+
+15.2
+
+The mobile repeater device may only emit transmissions on downlink frequencies
+in a particular frequency band which, when measured in any direction, have a
+power spectral density no greater than 10 dBm/5 MHz.
+
+##### System gain limits
+
+16
+
+16.1
+
+When measured separately for each of the frequency bands being transmitted—
+
+16.1.a
+
+the uplink and downlink system gain must not exceed whichever is the smaller
+of—
+
+16.1.a.i
+
+100 dB; and
+
+16.1.a.ii
+
+10 dB – RSSI; and
+
+16.1.b
+
+the uplink and downlink system gain must be equal.
+
+16.2
+
+In this regulation, “ RSSI ” means received signal strength indicator, which
+is the total downlink signal power received at the donor port of the mobile
+repeater device, for all base stations in the frequency band being transmitted
+(and which shall be measured in dBm).
+
+##### Limit on transmitted intermodulation products
+
+17
+
+17.1
+
+For each frequency band that is being transmitted by the mobile repeater
+device, the power level of transmitted intermodulation products due to input
+signals within that frequency band shall not exceed −19dBm at the donor port
+and coverage port of that device.
+
+17.2
+
+In this regulation, “transmitted intermodulation products” due to input
+signals within a frequency band means any signals transmitted by the mobile
+repeater device within that frequency band which have been created from the
+non-linear combination of two or more input signals within that frequency
+band.
+
+### Mobile repeater devices for use in a motor vehicle
+
+#### Scope of exemption for use in a motor vehicle
+
+18
+
+18.1
+
+The establishment, installation and use of a mobile repeater device is also
+exempt from the provisions of section 8(1) of the Act where the terms,
+provisions, and limitations in this regulation are met.
+
+18.2
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+18.3
+
+The establishment, installation, and use of the mobile repeater device must
+comply with IR2102.2.
+
+18.4
+
+The mobile repeater device must only be established, installed, and used in a
+motor vehicle.
+
+18.5
+
+The establishment, installation, and use must not cause or contribute to any
+undue interference to any wireless telegraphy.
+
+      Helen Hearn   Group Director of Spectrum   Office of Communications
+26th May 2022
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations exempt the establishment, installation and use of certain
+wireless telegraphy stations or apparatus, known as “mobile repeaters”, which
+comply with certain terms, provisions and limitations, from the requirement to
+be licensed under section 8(1) of the Wireless Telegraphy Act  2006 (c.36) .
+These Regulations also revoke the Wireless Telegraphy (Mobile Repeater)
+(Exemption) Regulations  2018 (c.399)  (the “ 2018 Regulations ”).
+
+The mobile repeaters that are exempted are those used indoors and those which
+are used in motor vehicles.
+
+Mobile repeaters which are used indoors must comply with either Regulations 5
+to 12 (in which case, they are more commonly known as provider-specific mobile
+phone repeaters) or with Regulations 5 to 8 and Regulations 13 to 17 (in which
+case, they are more commonly known as multi-operator mobile phone repeaters).
+
+Mobile repeaters which are used in motor vehicles must comply with Regulation
+18, which incorporates technical specifications and conditions set out in an
+interface requirement published by the Office of Communications (“Ofcom”).
+Within the European Union, interface requirements are published in accordance
+with Article 8.1 of  Directive 2014/53/EU  of the European Parliament and of
+the Council of 16 April 2014 on the harmonisation of the laws of the Member
+States relating to the making available on the market of radio equipment. The
+interface requirements are published by Ofcom and available to the public on
+its official website at   https://www.ofcom.org.uk/   and from its library at
+Riverside House, 2a Southwark Bridge Road, London SE1 9HA.
+
+The ETSI standards referred to in the Regulations are European Union
+harmonised standards and are available to the public from the official website
+of the European Union at   http://eur-lex.europa.eu/oj/direct-access.html   or
+from the EU Bookshop (as managed by the Publications Office of the European
+Union) by emailing: bookshop@publications.europa.eu, or from the Publications
+Office of the European Union at 2 rue Mercier, 2985 Luxembourg, Luxembourg.
+The ETSI standards themselves are available to the public from ETSI on their
+website at http://www.etsi.org or from the ETSI Secretariat at 650 Route des
+Lucioles, 06560 Valbonne, Sophia-Antipolis CEDEX, France (Tel: +33 4 92 94 42
+00).
+
+A full regulatory impact assessment of the effect of these Regulations is
+available to the public from Ofcom’s website at http://www.ofcom.org.uk or
+from the Ofcom library at Riverside House, 2a Southwark Bridge Road, London
+SE1 9HA. Copies of this assessment have also been placed in the library of the
+House of Commons.
+

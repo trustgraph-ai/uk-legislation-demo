@@ -1,0 +1,194 @@
+Title: The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023
+Date: 2023-05-22
+Description: These Regulations amend the Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (“the 2017 Regulations”).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2023/31
+
+## The Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023
+
+    This Statutory Rule has been printed to correct an error in  S.R. 2018 No.
+37  and is being issued free of charge to all known recipients of that
+Statutory Rule.
+
+    Social Security
+
+  Made   8th March 2023
+
+  Coming into operation   3rd April 2023
+
+      The Department for Communities , makes the following Regulations in
+exercise of the powers conferred by Articles 13(1), (2) and (3) and 14(1),
+(3)(b) and (e) to the Welfare Reform and Work (Northern Ireland) Order 2016 .
+The powers are exercisable by the Department for Communities by virtue of
+Article 2 to the Welfare Reform (Northern Ireland) Order 2015 (Cessation of
+Transitory Provision) Order 2020 .
+
+### Citation and commencement
+
+1
+
+These Regulations may be cited as the Loans for Mortgage Interest (Amendment)
+Regulations (Northern Ireland) 2023 and come into operation on 3rd April 2023.
+
+### Amendment of the Loans for Mortgage Interest Regulations
+
+2
+
+2.1
+
+The Loans for Mortgage Interest Regulations (Northern Ireland) 2017  are
+amended in accordance with paragraphs (2) to (5).
+
+2.2
+
+In regulation 2(1) (interpretation), in sub-paragraph (a) of the definition of
+“qualifying period”, for “9” substitute  “3” .
+
+2.3
+
+In regulation 3 (the offer of loan payments)—
+
+2.3.a
+
+in paragraph (1) , omit “, unless paragraph (4) applies”;
+
+2.3.b
+
+omit paragraph (4).
+
+2.4
+
+In regulation 8 (period covered by loan payments)—
+
+2.4.a
+
+in paragraph (1)—
+
+2.4.a.i
+
+in sub-paragraph (b), after “in the case of a UC claimant”, insert  “, except
+where sub-paragraph (ba) or (bb) applies,” ;
+
+2.4.a.ii
+
+after sub-paragraph (b), insert—
+
+2.4.a.ii.ba
+
+in the case of a couple where one member is an SPC claimant receiving loan
+payments, the first day of entitlement to universal credit as a couple;
+
+2.4.a.ii.bb
+
+in the case of a couple where one member was formerly an SPC claimant
+receiving loan payments, the first day of entitlement to universal credit as a
+couple, if the first day of that entitlement is within the period of one month
+beginning with the day on which the entitlement to state pension credit ended;
+
+;
+
+2.4.a.iii
+
+in sub-paragraph (c), for “SPC claimant”, substitute  “SPC claimant (who is
+not in a couple)” ;
+
+2.4.b
+
+in paragraph (2) , for “paragraph (1)(a) to (c) and (e)”, substitute  “sub-
+paragraphs (a), (b), (c) and (e) of paragraph (1)” .
+
+2.4.c
+
+after paragraph (2), insert—
+
+2.4.c.3
+
+In this regulation, “ couple ” means a couple entitled to universal credit as
+joint claimants under regulation 3(1)(a) of the UC Regulations .
+
+.
+
+2.5
+
+In regulation 9 (duration of loan payments)—
+
+2.5.a
+
+in paragraph (3), omit sub-paragraph (e);
+
+2.5.b
+
+for paragraph (7) , substitute—
+
+2.5.b.7
+
+If a legacy benefit claimant ceases to be entitled to, or treated as entitled
+to, a legacy benefit (“the old entitlement”) but becomes entitled, or treated
+as entitled, again to the benefit ( “the new entitlement” ) within the period
+of 52 weeks beginning with the day on which the claimant ceased to be
+entitled, or treated as entitled, to the old entitlement, and the claimant
+wishes to receive loan payments on the basis of the new entitlement, there is
+no requirement for the claimant to serve a new qualifying period.
+
+2.5.b.8
+
+If a UC claimant ceases to be entitled to universal credit (“the old
+entitlement”) but becomes entitled again to universal credit ( “the new
+entitlement” ) within the period of 6 months beginning with the day on which
+the claimant ceased to be entitled to the old entitlement, and the claimant
+wishes to receive loan payments on the basis of the new entitlement, there is
+no requirement for the claimant to serve a new qualifying period.
+
+.
+
+      Sealed with the Official Seal of the Department for Communities on 8th
+March 2023       (L.S.)   Anne McCleary   A senior officer of the Department
+for Communities
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations amend the Loans for Mortgage Interest Regulations
+(Northern Ireland) 2017 (“ the 2017 Regulations ”).
+
+  Regulation 2(2) reduces the length of the qualifying period for universal
+credit claimants from 9 consecutive assessment periods to 3 consecutive
+assessment periods.
+
+  Regulation 2(3) and 2(5)(a) remove the condition that a universal credit
+claimant must not have any earnings in order to be eligible to receive loan
+payments.
+
+  Regulation 2(4) provides that a couple is not required to re-serve the
+qualifying period where one member of the couple is still a state pension
+credit claimant receiving loan payments when the joint entitlement to
+universal credit begins, and also where one member of the couple was formerly
+a state pension credit claimant receiving loan payments, provided their
+entitlement to universal credit begins within one month of the end of the
+entitlement to state pension credit. The former is included because
+termination of the state pension credit entitlement can take place after the
+joint entitlement to universal credit begins. Regulation 2(4) also operates to
+ensure that the qualifying period of 3 consecutive assessment periods applies
+for all other couples which do not fall within the two circumstances
+specified. Regulation 2(4)(c) inserts a definition of a couple for the
+purposes of regulation 8 of the 2017 Regulations.
+
+  Regulation 2(5)(b) inserts a new paragraph (8) into regulation 9 of the 2017
+Regulations providing that, for claimants who return to universal credit
+within 6 months, and wish to start receiving loan payments, there is no
+requirement to serve a new qualifying period.
+
+  Regulation 2(5)(b) also substitutes a revised paragraph (7) of regulation 9
+for the existing paragraph (7) with a view to ensuring that the wording of
+paragraph (7) is consistent with the wording of the new paragraph (8) of
+regulation 9.
+
+  These Regulations make in relation to Northern Ireland only provision
+corresponding to provision contained in Regulations made by the Secretary of
+State for Work and Pensions in relation to Great Britain and accordingly, by
+virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social
+Security Administration (Northern Ireland) Act  1992 (c. 8) , are not subject
+to requirement of section 149(2) of that Act for prior reference to the Social
+Security Advisory Committee.
+

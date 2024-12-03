@@ -1,0 +1,562 @@
+Title: The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022
+Date: 2024-05-20
+Description: These Regulations amend the National Health Service Pension Scheme Regulations 1995 (S.I. 1995/300) (“the 1995 Regulations”), the National Health Service Pension Scheme Regulations 2008 (S.I. 2008/653) (“the 2008 Regulations”), and the National Health Service Pension Scheme Regulations 2015 (S.I. 2015/94) (the “2015 Regulations”).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/273
+
+## The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022
+
+    Public Service Pensions, England And Wales       National Health Service,
+England And Wales
+
+  Made   10th March 2022
+
+  Laid before Parliament   11th March 2022
+
+  Coming into force in accordance with regulation 1
+
+      The Secretary of State for Health and Social Care makes the following
+Regulations in exercise of the powers conferred by section 10(1) and (2) of,
+and Schedule 3 to, the Superannuation Act 1972 (“ the 1972 Act ”) and sections
+1(1) and (2)(e), 2(1) and 3(1) to (3) of, and paragraph 5(a) of Schedule 2,
+and Schedule 3 to, the Public Service Pensions Act 2013  (“ the 2013 Act ”).
+In relation to Part 1, as applicable, and Part 2, the Secretary of State has
+consulted the representatives of such persons as appear to the Secretary of
+State likely to be affected by these Regulations with a view to reaching
+agreement with them, in accordance with section 22(2)(a) of the 2013 Act.
+In accordance with section 22(2)(b) of the 2013 Act, the Secretary of State
+has laid a report before Parliament  in relation to Part 1, as applicable, and
+Part 2.     In relation to Part 1, as applicable, and Part 3, the Secretary of
+State has consulted the representatives of such persons as appear to the
+Secretary of State likely to be affected by these Regulations, in accordance
+with section 10(4) of the 1972 Act and section 21(1) of the 2013 Act .
+In accordance with section 10(1) of the 1972 Act  and section 3(5) of the 2013
+Act, these Regulations are made with the consent of the Treasury.
+
+### Introductory
+
+#### Citation, commencement and extent
+
+1
+
+1.1
+
+These Regulations may be cited as the National Health Service Pension Schemes
+(Member Contributions etc.) (Amendment) Regulations 2022.
+
+1.2
+
+This Part and Part 3 come into force immediately after the expiry of section
+45 of the Coronavirus Act 2020 .
+
+1.3
+
+Part 2 comes into force on 1st October 2022.
+
+1.4
+
+These Regulations extend to England and Wales.
+
+### Amendments to member contribution provisions in the National Health Service Pension Scheme Regulations 2015
+
+#### General
+
+2
+
+The National Health Service Pension Scheme Regulations 2015  are amended in
+accordance with this Part.
+
+#### Amendment of regulation 30
+
+3
+
+3.1
+
+Regulation 30 (members’ contributions: employees) is amended as follows.
+
+3.2
+
+In paragraph (3)—
+
+3.2.a
+
+for “each scheme year from 2015/16” substitute  “the scheme year 2022/23” ;
+
+3.2.b
+
+for the table in paragraph (3), substitute—
+
+Table Scheme Year 2022/23 Column 1 Column 2 Pensionable earnings band
+Contribution percentage rate Up to £13,246 5.1% £13,247 to £16,831 5.7%
+£16,832 to £22,878 6.1% £22,879 to £23,948 6.8% £23,949 to £28,223 7.7%
+£28,224 to £29,179 8.8% £29,180 to £43,805 9.8% £43,806 to £49,245 10.0%
+£49,246 to £56,163 11.6% £56,164 to £72,030 12.5% £72,031 and above 13.5%
+
+.
+
+3.3
+
+After paragraph (3), insert—
+
+3.3.3A
+
+Where paragraph 2A or 3 of Schedule 11 applies, M’s contribution rate for the
+scheme year 2022/23 is the percentage specified in column 2 of the following
+table in respect of the corresponding pensionable earnings band specified in
+column 1 into which M’s pensionable earnings fall.
+
+Table Scheme Year 2022/23 Column 1 Column 2 Pensionable earnings band
+Contribution percentage rate Up to £13,246 5.1% £13,247 to £16,831 5.7%
+£16,832 to £22,878 6.1% £22,879 to £23,948 6.8% £23,949 to £28,223 7.7%
+£28,224 to £29,179 8.8% £29,180 to £43,805 9.8% £43,806 to £49,245 10.0%
+£49,246 to £56,163 11.6% £56,164 to £72,030 12.5% £72,031 and above 13.5%
+
+.
+
+3.4
+
+In paragraph (4), for “Table” substitute  “tables” .
+
+#### Amendment of regulation 31
+
+4
+
+4.1
+
+Regulation 31 (members’ contributions: practitioners and non-GP providers) is
+amended as follows.
+
+4.2
+
+In paragraph (3)—
+
+4.2.a
+
+for “each scheme year from 2015/16” substitute  “the scheme year in question”
+;
+
+4.2.b
+
+after “column 2 of the” insert  “relevant” ;
+
+4.2.c
+
+omit “(“ the Table ”)”;
+
+4.2.d
+
+for “Table”, in the second place it occurs, substitute  “relevant table in
+paragraph (9)” .
+
+4.3
+
+In paragraph (4), for “the Table” substitute  “paragraph (9)” .
+
+4.4
+
+For paragraph (9), substitute—
+
+4.4.9
+
+For the purposes of this regulation, the “ relevant table ” means—
+
+4.4.9.a
+
+in respect of each scheme year from 2015/16 to 2021/22, Table 1;
+
+4.4.9.b
+
+in respect of the scheme year 2022/23, Table 2.
+
+Table 1 Scheme Years from 2015/16 to 2021/22 Column 1 Column 2 Pensionable
+earnings band Contribution percentage rate Up to £15,431 5.0% £15,432 to
+£21,477 5.6% £21,478 to £26,823 7.1% £26,824 to £47,845 9.3% £47,846 to
+£70,630 12.5% £70,631 to £111,376 13.5% £111,377 to any higher amount 14.5%
+
+Table 2 Scheme Year 2022/23 Column 1 Column 2 Pensionable earnings band
+Contribution percentage rate Up to £13,246 5.1% £13,247 to £16,831 5.7%
+£16,832 to £22,878 6.1% £22,879 to £23,948 6.8% £23,949 to £28,223 7.7%
+£28,224 to £29,179 8.8% £29,180 to £43,805 9.8% £43,806 to £49,245 10.0%
+£49,246 to £56,163 11.6% £56,164 to £72,030 12.5% £72,031 and above 13.5%
+
+.
+
+4.5
+
+In paragraph (10), for ““the Table”” substitute  “the relevant table” .
+
+#### Amendment of regulation 38
+
+5
+
+5.1
+
+Regulation 38 (members’ contributions: supplementary: medical practitioners
+and non-GP providers) is amended as follows.
+
+5.2
+
+In paragraph (3) for “the Table”—
+
+5.2.a
+
+in the first place it occurs, substitute  “the relevant table” ;
+
+5.2.b
+
+in the second place it occurs, substitute  “that table” .
+
+5.3
+
+In paragraph (4), for “Table” substitute  “relevant table” .
+
+#### Amendment of regulation 39
+
+6
+
+6.1
+
+Regulation 39 (members’ contributions: supplementary: dental practitioners) is
+amended as follows.
+
+6.2
+
+In paragraph (3) for “the Table”—
+
+6.2.a
+
+in the first place it occurs, substitute  “the relevant table” ;
+
+6.2.b
+
+in the second place it occurs, substitute  “that table” .
+
+6.3
+
+In paragraph (4), for “Table” substitute  “relevant table” .
+
+#### Amendment of Schedule 11
+
+7
+
+7.1
+
+Schedule 11 (determination of pensionable earnings: setting contribution
+rates) is amended as follows.
+
+7.2
+
+In paragraph 2 (continuous employment spanning two scheme years)—
+
+7.2.a
+
+in sub-paragraph (1)—
+
+7.2.a.i
+
+for “Sub-paragraph (2)” substitute  “This paragraph” ;
+
+7.2.a.ii
+
+for the words from “(M)” to the end substitute—
+
+(“ M ”) who—
+
+7.2.a.ii.a
+
+is in pensionable employment with the same employing authority on both—
+
+7.2.a.ii.a.i
+
+the last day of the previous scheme year; and
+
+7.2.a.ii.a.ii
+
+the first day of the current scheme year; and
+
+7.2.a.ii.b
+
+falls within any of the cases in sub-paragraph (2).
+
+7.2.b
+
+in sub-paragraph (2), for the table of cases substitute—
+
+      Column 1 Column 2   CASE 1 M—   (a) was in pensionable employment with
+an employing authority throughout the previous scheme year; and   (b) paid
+contributions in respect of that employment at the same percentage rate
+throughout that year.   The amount of M’s pensionable earnings received during
+the previous scheme year. CASE 2 M—   (a) was in pensionable employment with
+an employing authority throughout the previous scheme year; and   (b) did not
+pay contributions in respect of that employment at the same percentage rate
+throughout that year.   The amount of M’s pensionable earnings determined by
+the formula—     where—   RPE is the pensionable earnings received in respect
+of M’s employment for the period—   (i) starting on the date M’s contribution
+rate last changed in the previous scheme year; and   (ii) ending on the last
+day of that year; and   NDPE is the number of days of pensionable employment
+with the employing authority for the period—   (i) starting on the date M’s
+contribution rate last changed in that year; and   (ii) ending on the last day
+of that year.   CASE 3 M—   (a) started pensionable employment with an
+employing authority during the previous scheme year; and   (b) paid
+contributions in respect of that employment at the same percentage rate from
+the date the employment started to the last day of that year.   The amount of
+M’s pensionable earnings determined by the formula—     where—   RPE is the
+pensionable earnings received in respect of M’s employment for the period—
+(i) starting on the date M started that employment in the previous scheme
+year; and   (ii) ending on the last day of that year; and   NDPE is the number
+of days of pensionable employment with the employing authority for the period—
+(i) starting on the date M started that employment in that year; and   (ii)
+ending on the last day of that year.   CASE 4 M—   (a) started pensionable
+employment with an employing authority during the previous scheme year; and
+(b) did not pay contributions in respect of that employment at the same
+percentage rate from the date the employment started to the last day of that
+year.   The amount of M’s pensionable earnings   determined by the formula—
+where—   RPE is the pensionable earnings received in respect of M’s employment
+for the period—   (i) starting on the date M’s contribution rate last changed
+in the previous scheme year; and   (ii) ending on the last day of that year;
+and   NDPE is the number of days of pensionable employment with the employing
+authority for the period—   (i) starting on the date M’s contribution rate
+last changed in that year; and   (ii) ending on the last day of that year.
+CASE 5 M—   (a) was in pensionable employment on a part-time basis with an
+employing authority throughout the previous scheme year and during that year
+M’s annual rate of pensionable earnings in respect of that employment changed;
+and   (b) paid contributions in respect of that period at the same percentage
+rate throughout that year.   The amount of M’s pensionable earnings
+determined by the formula—     where—   RPE is the pensionable earnings
+received in respect of M’s employment for the period—   (i) starting on the
+date M’s annual rate of pensionable earnings last changed in the previous
+scheme year; and   (ii) ending on the last day of that year; and   NDPE is the
+number of days of pensionable employment with the employing authority for the
+period—   (i) starting on the date M’s annual rate of pensionable earnings
+last changed in that year; and   (ii) ending on the last day of that year.
+
+.
+
+7.2.c
+
+omit sub-paragraphs (3) and (4).
+
+7.3
+
+After paragraph 2, insert—
+
+########## Members who do not fall within any of the cases in paragraph 2
+
+7.3.2A
+
+7.3.2A.1
+
+This paragraph applies for the purpose of determining the relevant
+contribution rate for the current scheme year for a member who—
+
+7.3.2A.1.a
+
+is in pensionable employment with the same employing authority on both—
+
+7.3.2A.1.a.i
+
+the last day of the previous scheme year; and
+
+7.3.2A.1.a.ii
+
+the first day of the current scheme year; and
+
+7.3.2A.1.b
+
+does not fall within any of the cases in paragraph 2.
+
+7.3.2A.2
+
+Where this paragraph applies—
+
+7.3.2A.2.a
+
+the scheme manager must determine the amount of the member’s pensionable
+earnings; and
+
+7.3.2A.2.b
+
+the member must pay contributions during the current scheme year at the rate
+specified in column 2 of the table in paragraph (3A) of regulation 30 in
+respect of the amount of pensionable earnings referred to in column 1 of that
+table which corresponds to the amount determined under paragraph (a).
+
+7.3.2A.3
+
+For the purposes of sub-paragraph (2)(a), the scheme manager must take the
+advice of the scheme actuary and have regard to—
+
+7.3.2A.3.a
+
+pensionable earnings attributable to pensionable service comparable to that of
+the member;
+
+7.3.2A.3.b
+
+prevailing pay scales;
+
+7.3.2A.3.c
+
+prevailing rates of pensionable allowances.
+
+7.3.2A.4
+
+A member is regarded as being in pensionable employment throughout the
+previous scheme year regardless of any period in that year during which the
+member continued to be employed by the same employer but did not make
+contributions to this scheme.
+
+7.3.2A.5
+
+For the purposes of calculating the member’s pensionable earnings, additional
+pensionable earnings that the member is treated as having received during an
+absence from work (see regulation 28) is included.
+
+7.3.2A.6
+
+The amount of pensionable earnings determined in accordance with this
+paragraph must be rounded down to the nearest whole pound.
+
+.
+
+7.4
+
+In paragraph 3 (change to employment or rate of pensionable earnings or
+allowances)—
+
+7.4.a
+
+in sub-paragraph (1), for “(3)” substitute  “(3A)” ;
+
+7.4.b
+
+in sub-paragraph (2)(a), for “(3)” substitute  “(3A)” ;
+
+7.4.c
+
+omit sub-paragraph (4);
+
+7.4.d
+
+for sub-paragraph (5), substitute—
+
+7.4.d.5
+
+Where sub-paragraph (1) or (2) applies the scheme manager must determine the
+member’s pensionable earnings by applying the formula—
+
+        E P E       N D P E       × 365
+
+where—
+
+    EPE is the pensionable earnings that the member’s employing authority
+estimates will be payable to the member from the date the employment mentioned
+in that sub-paragraph starts to the end of the current scheme year; and
+NDPE is the number of days of pensionable employment from the date the
+employment starts to the end of that year.
+
+;
+
+7.4.e
+
+in sub-paragraph (7), for the words from “(6)” to the end substitute  “(6) is
+to be taken as such amount as the employing authority considers appropriate
+for the current scheme year” .
+
+#### Amendment of Schedule 12
+
+8
+
+In Schedule 12 (practitioner contribution payments), in paragraph 4(5)
+(information to be provided to scheme manager) after “column 2 of the” insert
+“relevant” .
+
+### Modifications of restrictions on return to work
+
+#### Expiry of modifications in this Part
+
+9
+
+The modifications in this Part apply until the end of   31st March 2023,
+except for the modification in regulation 10(b) which applies until the end of
+31st March 2025 .
+
+#### Modifications of the National Health Service Pension Scheme Regulations 1995
+
+10
+
+The National Health Service Pension Scheme Regulations 1995  have effect as
+if—
+
+10.a
+
+regulation S1 (suspension of pension on return to NHS employment) were
+omitted; and
+
+10.b
+
+in the opening words of regulation S2(3) (reduction of pension on return to
+NHS employment) the words “or (c)” were omitted.
+
+#### Modifications of the National Health Service Pension Scheme Regulations 2008
+
+11
+
+The National Health Service Pension Scheme Regulations 2008  have effect as if
+the following regulations were omitted—
+
+11.a
+
+regulation 2.D.6(2)(a) (abatement of pension following increase in pensionable
+pay); and
+
+11.b
+
+regulation 3.D.6(2)(a) (abatement of pension following increase in engagement
+in employment).
+
+#### Modification of the National Health Service Pension Scheme Regulations 2015
+
+12
+
+The National Health Service Pension Scheme Regulations 2015  have effect as if
+regulation 86(3) (abatement of pension following continuation of employment)
+were omitted.
+
+    Signed by authority of the Secretary of State for Health and Social Care
+Edward Argar   Minister of State,   Department of Health and Social Care
+We consent     Rebecca Harris   Michael Tomlinson   Two of the Lords
+Commissioners of Her Majesty’s Treasury
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations amend the National Health Service Pension Scheme Regulations
+1995 ( S.I. 1995/300 ) (“ the 1995 Regulations ”), the National Health Service
+Pension Scheme Regulations 2008 ( S.I. 2008/653 ) (“ the 2008 Regulations ”),
+and the National Health Service Pension Scheme Regulations 2015 ( S.I. 2015/94
+) (the “ 2015 Regulations ”).
+
+Part 2 amends the 2015 Regulations to introduce a new structure in respect of
+member contributions. Part 2 amends contribution rates paid by members towards
+their pension and creates new pensionable earning bands and contributions
+rates to be paid by members from 1 October 2022.
+
+The amendments in Part 2 also provide a mechanism for the pensionable earnings
+bands that determine a member’s contribution rate to be updated and amended
+annually, makes changes in relation to the assessment of a tiered contribution
+rate for part-time employed members based on their actual annual rate of pay
+rather than the notional whole-time equivalent and to remove reference to the
+notional whole time equivalent, and sets out how a member’s pensionable
+earnings are to be determined for the purposes of setting their contribution
+rate for the scheme year.
+
+Part 3 makes temporary modifications to the 1995 Regulations, the 2008
+Regulations and the 2015 Regulations to suspend the operation of various
+provisions applying to members who partially retire or return to NHS
+employment after their pension becomes payable. These provisions were
+originally suspended by section 45 of the Coronavirus Act  2020 (c. 7) . A
+full impact assessment has not been produced for this instrument as no, or no
+significant, impact on the private, voluntary or public sector is foreseen.
+

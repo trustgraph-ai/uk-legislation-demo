@@ -1,0 +1,1246 @@
+Title: The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023
+Date: 2024-05-20
+Description: These Regulations, while extending to the legal jurisdiction of England and Wales, apply only in relation to England.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2023/571
+
+## The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023
+
+    Education, England
+
+  Made   23rd May 2023
+
+  Laid before Parliament   25th May 2023
+
+  Coming into force   1st September 2023
+
+      The Secretary of State makes the following Regulations in exercise of
+the powers conferred by sections 51A(3)(c) and (e), (8)(d) and (12) and 210(7)
+of the Education Act 2002 .
+
+### General
+
+#### Citation, commencement, extent and application
+
+1
+
+1.1
+
+These Regulations may be cited as the School Discipline (Pupil Exclusions and
+Reviews) (England) (Amendment and Transitional Provision) Regulations 2023,
+and they come into force on 1st September 2023.
+
+1.2
+
+These Regulations extend to England and Wales.
+
+1.3
+
+These Regulations apply in relation to  ... exclusions of pupils from
+maintained schools, pupil referral units and Academies in England.
+
+#### Interpretation
+
+2
+
+In these Regulations—
+
+      “ the 2012 Regulations ” means the School Discipline (Pupil Exclusions
+and Reviews) (England) Regulations 2012 ;           “ Academy ” means an
+Academy school or alternative provision Academy.
+
+#### Amendment of the 2012 Regulations
+
+3
+
+The 2012 Regulations are amended in accordance with regulations 4 to 14.
+
+#### Amendment of regulation 2 of the 2012 Regulations
+
+4
+
+In regulation 2 (interpretation), in paragraph (1)—
+
+4.a
+
+omit the definition of “coronavirus”;
+
+4.b
+
+before the definition of “home local authority” insert—
+
+      extraordinary events or unforeseen circumstances” means extraordinary
+events or unforeseen circumstances arising after a meeting has been agreed to
+take place in person;
+
+;
+
+4.c
+
+omit the definition of “relevant exclusion”;
+
+4.d
+
+after the definition of “remote access” insert—
+
+      “ remote meeting request ” means a request by a relevant person for a
+meeting to be held using remote access;
+
+.
+
+### Maintained Schools
+
+#### Amendments relating to remote access meetings
+
+##### Amendment of regulation 5 of the 2012 Regulations
+
+5
+
+5.1
+
+Regulation 5 (exclusion of pupils: head teacher’s duty to inform relevant
+person, governing body, local authority, social worker and virtual school
+head) is amended as follows.
+
+5.2
+
+After paragraph (3)(b)(ii) insert—
+
+5.2.iia
+
+where a meeting of the governing body is to consider the exclusion, that a
+remote meeting request may be made, if the relevant person wishes to be able
+to attend the meeting using remote access;
+
+.
+
+5.3
+
+In paragraph (3)(b)(iii) and (iv), after “representations” insert  “or a
+remote meeting request” .
+
+##### Amendment of regulation 6 of the 2012 Regulations
+
+6
+
+6.1
+
+Regulation 6 (functions of the governing body in relation to excluded pupils)
+is amended as follows.
+
+6.2
+
+For paragraph (3A) substitute—
+
+6.2.3A
+
+Paragraph (3B) applies if a remote meeting request has been made.
+
+.
+
+6.3
+
+In paragraph (3B)—
+
+6.3.a
+
+in the words before sub-paragraph (a), for “may” substitute  “must” ;
+
+6.3.b
+
+omit sub-paragraph (b).
+
+6.4
+
+After paragraph (3C) insert—
+
+6.4.3D
+
+Where—
+
+6.4.3D.a
+
+a social worker or virtual school head; or
+
+6.4.3D.b
+
+their nominated representative as referred to in paragraph (3C),
+
+attends a meeting referred to in paragraph (3)(c) which is taking place in
+person, they may do so using remote access provided the governing body are
+satisfied that the conditions referred to in paragraph (3B)(a), (c) and (d)
+are met.
+
+6.4.3E
+
+Paragraph (3F) applies if—
+
+6.4.3E.a
+
+for a reason related to extraordinary events or unforeseen circumstances, it
+is not reasonably practicable for the meeting referred to in paragraph (3)(c)
+to be held in person; and
+
+6.4.3E.b
+
+the meeting is not already required to take place using remote access pursuant
+to paragraph (3B).
+
+6.4.3F
+
+Where this paragraph applies, the meeting referred to in paragraph (3)(c) may
+be held using remote access, provided the governing body are satisfied that
+the conditions referred to in paragraph (3B)(a), (c) and (d) are met.
+
+6.4.3G
+
+Subject to the exception made for persons referred to in paragraph (3D), a
+meeting referred to in paragraph (3)(c) must be held in person unless—
+
+6.4.3G.a
+
+a remote meeting request is made; or
+
+6.4.3G.b
+
+for a reason related to extraordinary events or unforeseen circumstances, it
+is not reasonably practicable for the meeting to be held in person,
+
+and the governing body are satisfied that the conditions in paragraph (3B)(a),
+(c) and (d) are met.
+
+.
+
+6.5
+
+In paragraph (6)(b)—
+
+6.5.a
+
+after paragraph (iv) insert—
+
+6.5.a.iva
+
+where a meeting of the review panel is to review the governing body’s
+decision, that a remote meeting request may be made, if the relevant person
+wishes to be able to attend the meeting using remote access;
+
+;
+
+6.5.b
+
+in paragraph (v)—
+
+6.5.b.i
+
+after “for a review” insert  “or a remote meeting request” ;
+
+6.5.b.ii
+
+for “and what the application” substitute  “, and what these” ;
+
+6.5.c
+
+in paragraph (vi)—
+
+6.5.c.i
+
+after “the application” insert  “or remote meeting request” ;
+
+6.5.c.ii
+
+for “and the date by which the application” substitute  “, and the date by
+which these” .
+
+6.6
+
+In paragraph (7), for “paragraphs (7A), (7B), (7C), (7D) and” substitute
+“paragraphs (7E), (7F) and” .
+
+6.7
+
+Omit paragraphs (7A) to (7D).
+
+6.8
+
+Before paragraph (8) insert—
+
+6.8.7E
+
+Paragraph (7F) applies where, immediately before the applicable time limit
+referred to in paragraph (7)(a) or (b) expires, the meeting referred to in
+paragraph (3)(c) has not been held because—
+
+6.8.7E.a
+
+it has not been reasonably practicable to meet in person for a reason related
+to extraordinary events or unforeseen circumstances; and
+
+6.8.7E.b
+
+it has not been reasonably practicable to meet by way of remote access for a
+reason related to the satisfaction of the conditions in paragraph (3B)(a), (c)
+and (d).
+
+6.8.7F
+
+Where this paragraph applies, the time limit referred to in paragraph (7)(a)
+or (b) within which the governing body must take steps is extended by such
+period as is reasonably necessary for a reason related to the extraordinary
+events or unforeseen circumstances.
+
+.
+
+#### Amendments relating to cancelling exclusions
+
+##### Insertion of regulation 8A into the 2012 Regulations
+
+7
+
+After regulation 8 insert—
+
+######### Cancellation of exclusion of a pupil
+
+7.8A
+
+7.8A.1
+
+Subject to paragraphs (2) and (3), if a head teacher decided to exclude a
+pupil, the head teacher may cancel the exclusion—
+
+7.8A.1.a
+
+either before or after it has begun; and
+
+7.8A.1.b
+
+whether or not the pupil has been admitted to another school following their
+exclusion.
+
+7.8A.2
+
+A head teacher may not cancel an exclusion under paragraph (1) if, by the time
+the head teacher comes to make the decision to cancel an exclusion, the pupil—
+
+7.8A.2.a
+
+has already been excluded for more than 45 school days in any school year; or
+
+7.8A.2.b
+
+would have been excluded for more than 45 school days in any school year when
+the cancellation took effect.
+
+7.8A.3
+
+In cases where regulation 5(3) applies by virtue of regulation 5(2), a head
+teacher may not cancel an exclusion under paragraph (1) if, by the time the
+head teacher comes to make the decision to cancel an exclusion, the governing
+body has commenced a meeting for the purpose of making a decision under
+regulation 6(2) regarding reinstatement of the pupil.
+
+7.8A.4
+
+Where an exclusion is cancelled in accordance with paragraph (1)—
+
+7.8A.4.a
+
+the head teacher must, without delay—
+
+7.8A.4.a.i
+
+inform the relevant person, the governing body, the local authority, the
+social worker and the virtual school head of the cancellation and the reasons
+for it in writing; and
+
+7.8A.4.a.ii
+
+reinstate the pupil;
+
+7.8A.4.b
+
+the governing body are not required to consider reinstatement of the pupil
+under regulation 6.
+
+.
+
+### Pupil Referral Units
+
+#### Amendments relating to remote access meetings
+
+##### Amendment of regulation 14 of the 2012 Regulations
+
+8
+
+8.1
+
+Regulation 14 (exclusion of pupils: teacher in charge’s duty to inform
+relevant person, management committee, local authority, social worker and
+virtual school head) is amended as follows.
+
+8.2
+
+After paragraph (3)(b)(ii) insert—
+
+8.2.iia
+
+where a meeting of the management committee is to consider the exclusion, that
+a remote meeting request may be made, if the relevant person wishes to be able
+to attend the meeting using remote access;
+
+.
+
+8.3
+
+In paragraph (3)(b)(iii) and (iv), after “representations” insert  “or a
+remote meeting request” .
+
+##### Amendment of regulation 15 of the 2012 Regulations
+
+9
+
+9.1
+
+Regulation 15 (functions of the management committee in relation to excluded
+pupils) is amended as follows.
+
+9.2
+
+For paragraph (3A) substitute—
+
+9.2.3A
+
+Paragraph (3B) applies if a remote meeting request has been made.
+
+.
+
+9.3
+
+In paragraph (3B)—
+
+9.3.a
+
+in the words before sub-paragraph (a), for “may” substitute  “must” ;
+
+9.3.b
+
+omit sub-paragraph (b).
+
+9.4
+
+After paragraph (3C) insert—
+
+9.4.3D
+
+Where—
+
+9.4.3D.a
+
+a social worker or virtual school head; or
+
+9.4.3D.b
+
+their nominated representative as referred to in paragraph (3C),
+
+attends a meeting referred to in paragraph (3)(c) which is taking place in
+person, they may do so using remote access provided the   management committee
+is   satisfied that the conditions referred to in paragraph (3B)(a), (c) and
+(d) are met.
+
+9.4.3E
+
+Paragraph (3F) applies if—
+
+9.4.3E.a
+
+for a reason related to extraordinary events or unforeseen circumstances, it
+is not reasonably practicable for the meeting referred to in paragraph (3)(c)
+to be held in person; and
+
+9.4.3E.b
+
+the meeting is not already required to take place using remote access pursuant
+to paragraph (3B).
+
+9.4.3F
+
+Where this paragraph applies, the meeting referred to in paragraph (3)(c) may
+be held using remote access provided that the   management committee is
+satisfied that the conditions referred to in paragraph (3B)(a), (c) and (d)
+are met.
+
+9.4.3G
+
+Subject to the exception made for persons referred to in paragraph (3D), a
+meeting referred to in paragraph (3)(c) must be held in person unless—
+
+9.4.3G.a
+
+a remote meeting request is made; or
+
+9.4.3G.b
+
+for a reason related to extraordinary events or unforeseen circumstances, it
+is not reasonably practicable for the meeting to be held in person,
+
+and the   management committee is   satisfied that the conditions in paragraph
+(3B)(a), (c) and (d) are met.
+
+.
+
+9.5
+
+In paragraph (6)(b)—
+
+9.5.a
+
+after paragraph (iv) insert—
+
+9.5.a.iva
+
+where a meeting of the review panel is to review the management committee’s
+decision, that a remote meeting request may be made, if the relevant person
+wishes to be able to attend the meeting using remote access;
+
+;
+
+9.5.b
+
+in paragraph (v)—
+
+9.5.b.i
+
+after “for a review” insert  “or a remote meeting request” ;
+
+9.5.b.ii
+
+for “and what the application” substitute  “, and what these” ;
+
+9.5.c
+
+in paragraph (vi)—
+
+9.5.c.i
+
+after “the application” insert  “or remote meeting request” ;
+
+9.5.c.ii
+
+for “and the date by which the application” substitute  “, and the date by
+which these” .
+
+9.6
+
+In paragraph (7), for “paragraphs (7A), (7B), (7C), (7D) and” substitute
+“paragraphs (7E), (7F) and” .
+
+9.7
+
+Omit paragraphs (7A) to (7D).
+
+9.8
+
+Before paragraph (8) insert—
+
+9.8.7E
+
+Paragraph (7F) applies where, immediately before the applicable time limit
+referred to in paragraph (7)(a) or (b) expires, the meeting referred to in
+paragraph (3)(c) has not been held because—
+
+9.8.7E.a
+
+it has not been reasonably practicable to meet in person for a reason related
+to extraordinary events or unforeseen circumstances; and
+
+9.8.7E.b
+
+it has not been reasonably practicable to meet by way of remote access for a
+reason related to the satisfaction of the conditions in paragraph (3B)(a), (c)
+and (d).
+
+9.8.7F
+
+Where this paragraph applies, the time limit referred to in paragraph (7)(a)
+or (b) within which the management committee must take steps is extended by
+such period as is reasonably necessary for a reason related to the
+extraordinary events or unforeseen circumstances.
+
+.
+
+#### Amendments relating to cancelling exclusions
+
+##### Insertion of regulation 17A into the 2012 Regulations
+
+10
+
+After regulation 17 insert—
+
+######### Cancellation of exclusion of a pupil
+
+10.17A
+
+10.17A.1
+
+Subject to paragraphs (2) and (3), if a teacher in charge decided to exclude a
+pupil, the teacher in charge may cancel the exclusion—
+
+10.17A.1.a
+
+either before or after it has begun; and
+
+10.17A.1.b
+
+whether or not the pupil has been admitted to another school following their
+exclusion.
+
+10.17A.2
+
+A teacher in charge may not cancel an exclusion under paragraph (1) if, by the
+time the teacher in charge comes to make the decision to cancel an exclusion,
+the pupil—
+
+10.17A.2.a
+
+has already been excluded for more than 45 days in any school year; or
+
+10.17A.2.b
+
+would have been excluded for more than 45 days in any school year when the
+cancellation took effect.
+
+10.17A.3
+
+In cases where regulation 14(3) applies by virtue of regulation 14(2), a
+teacher in charge may not cancel an exclusion under paragraph (1) if, by the
+time the teacher in charge comes to make the decision to cancel an exclusion,
+the management committee has commenced a meeting for the purpose of making a
+decision under regulation 15(2) regarding reinstatement of the pupil.
+
+10.17A.4
+
+Where an exclusion is cancelled in accordance with paragraph (1)—
+
+10.17A.4.a
+
+the teacher in charge must, without delay—
+
+10.17A.4.a.i
+
+inform the relevant person, the management committee, the local authority, the
+social worker and the virtual school head of the cancellation and the reasons
+for it in writing; and
+
+10.17A.4.a.ii
+
+reinstate the pupil;
+
+10.17A.4.b
+
+the management committee is not required to consider reinstatement of the
+pupil under regulation 15.
+
+.
+
+### Academies
+
+#### Amendments relating to remote access meetings
+
+##### Amendment of regulation 23 of the 2012 Regulations
+
+11
+
+11.1
+
+Regulation 23 (exclusion of pupils: principal’s duty to inform relevant
+person, proprietor, local authority, social worker and virtual school head) is
+amended as follows.
+
+11.2
+
+After paragraph (3)(b)(ii) insert—
+
+11.2.iia
+
+where a meeting of the proprietor is to consider the exclusion, that a remote
+meeting request may be made, if the relevant person wishes to be able to
+attend the meeting using remote access;
+
+.
+
+11.3
+
+In paragraph (3)(b)(iii) and (iv), after “representations” insert  “or a
+remote meeting request” .
+
+##### Amendment of regulation 24 of the 2012 Regulations
+
+12
+
+12.1
+
+Regulation 24 (functions of the proprietor in relation to excluded pupils) is
+amended as follows.
+
+12.2
+
+For paragraph (3A) substitute—
+
+12.2.3A
+
+Paragraph (3B) applies if a remote meeting request has been made.
+
+.
+
+12.3
+
+In paragraph (3B)—
+
+12.3.a
+
+in the words before sub-paragraph (a), for “may” substitute  “must” ;
+
+12.3.b
+
+omit sub-paragraph (b).
+
+12.4
+
+After paragraph (3C) insert—
+
+12.4.3D
+
+Where—
+
+12.4.3D.a
+
+a social worker or virtual school head; or
+
+12.4.3D.b
+
+their nominated representative as referred to in paragraph (3C),
+
+attends a meeting referred to in paragraph (3)(c) which is taking place in
+person, they may do so using remote access provided the   proprietor is
+satisfied that the conditions referred to in paragraph (3B)(a), (c) and (d)
+are met.
+
+12.4.3E
+
+Paragraph (3F) applies if—
+
+12.4.3E.a
+
+for a reason related to extraordinary events or unforeseen circumstances, it
+is not reasonably practicable for the meeting referred to in paragraph (3)(c)
+to be held in person; and
+
+12.4.3E.b
+
+the meeting is not already required to take place   using remote access
+pursuant to paragraph (3B).
+
+12.4.3F
+
+Where this paragraph applies, the meeting referred to in paragraph (3)(c) may
+be held using remote access, provided the proprietor is satisfied that the
+conditions referred to in paragraph (3B)(a), (c) and (d) are met.
+
+12.4.3G
+
+Subject to the exception made for persons referred to in paragraph (3D), a
+meeting referred to in paragraph (3)(c) must be held in person unless—
+
+12.4.3G.a
+
+a remote meeting request is made; or
+
+12.4.3G.b
+
+for a reason related to extraordinary events or unforeseen circumstances, it
+is not reasonably practicable for the meeting to be held in person,
+
+and the   proprietor is   satisfied that the conditions in paragraph (3B)(a),
+(c) and (d) are met.
+
+.
+
+12.5
+
+In paragraph (6)(b)—
+
+12.5.a
+
+after paragraph (iv) insert—
+
+12.5.a.iva
+
+where a review panel is to meet and review the proprietor’s decision, that a
+remote meeting request may be made, if the relevant person wishes to be able
+to attend the meeting using remote access;
+
+;
+
+12.5.b
+
+in paragraph (v)—
+
+12.5.b.i
+
+after “for a review” insert  “or a remote meeting request” ;
+
+12.5.b.ii
+
+for “and what the application” substitute  “, and what these” ;
+
+12.5.c
+
+in paragraph (vi)—
+
+12.5.c.i
+
+after “the application” insert  “or remote meeting request” ;
+
+12.5.c.ii
+
+for “and the date by which the application” substitute  “, and the date by
+which these” .
+
+12.6
+
+In paragraph (7), for “paragraphs (7A), (7B), (7C), (7D) and” substitute
+“paragraphs (7E), (7F) and” .
+
+12.7
+
+Omit paragraphs (7A) to (7D).
+
+12.8
+
+Before paragraph (8) insert—
+
+12.8.7E
+
+Paragraph (7F) applies where, immediately before the applicable time limit
+referred to in paragraph (7)(a) or (b) expires, the meeting referred to in
+paragraph (3)(c) has not been held because—
+
+12.8.7E.a
+
+it has not been reasonably practicable to meet in person for a reason related
+to extraordinary events or unforeseen circumstances; and
+
+12.8.7E.b
+
+it has not been reasonably practicable to meet by way of remote access for a
+reason related to the satisfaction of the conditions in paragraph (3B)(a), (c)
+and (d).
+
+12.8.7F
+
+Where this paragraph applies, the time limit referred to in paragraph (7)(a)
+or (b) within which the proprietor must take steps is extended by such period
+as is reasonably necessary for a reason related to the extraordinary events or
+unforeseen circumstances.
+
+.
+
+#### Amendments relating to cancelling exclusions
+
+##### Insertion of regulation 26A into the 2012 Regulations
+
+13
+
+After regulation 26 insert—
+
+######### Cancellation of exclusion of a pupil
+
+13.26A
+
+13.26A.1
+
+Subject to paragraphs (2) and (3), if a principal decided to exclude a pupil,
+the principal may cancel the exclusion—
+
+13.26A.1.a
+
+either before or after it has begun; and
+
+13.26A.1.b
+
+whether or not the pupil has been admitted to another school following their
+exclusion.
+
+13.26A.2
+
+A principal may not cancel an exclusion under paragraph (1) if, by the time
+the principal comes to make the decision to cancel an exclusion, the pupil—
+
+13.26A.2.a
+
+has already been excluded for more than 45 days in any school year; or
+
+13.26A.2.b
+
+would have been excluded for more than 45 days in any school year when the
+cancellation took effect.
+
+13.26A.3
+
+In cases where regulation 23(3) applies by virtue of regulation 23(2), a
+principal may not cancel an exclusion under paragraph (1) if, by the time the
+principal comes to make the decision to cancel an exclusion, the proprietor
+has commenced a meeting for the purpose of making a decision under regulation
+24(2).
+
+13.26A.4
+
+Where an exclusion is cancelled in accordance with paragraph (1)—
+
+13.26A.4.a
+
+the principal must, without delay—
+
+13.26A.4.a.i
+
+inform the relevant person, the proprietor, the local authority, the social
+worker and the virtual school head of the cancellation and the reasons for it
+in writing; and
+
+13.26A.4.a.ii
+
+reinstate the pupil;
+
+13.26A.4.b
+
+the proprietor is not required to consider reinstatement of the pupil under
+regulation 24.
+
+.
+
+### Constitution and procedure of review panels
+
+#### Amendment of Schedule 1 to the 2012 Regulations
+
+14
+
+14.1
+
+Schedule 1 (constitution and procedure of review panels) is amended as
+follows.
+
+14.2
+
+In paragraph 2, omit sub-paragraph (1A).
+
+14.3
+
+In paragraph 9—
+
+14.3.a
+
+after sub-paragraph (a), omit the “and”;
+
+14.3.b
+
+after sub-paragraph (b) insert—
+
+; and
+
+14.3.b.c
+
+may include a remote meeting request.
+
+.
+
+14.4
+
+In paragraph 10—
+
+14.4.a
+
+for sub-paragraph (3) substitute—
+
+14.4.a.3
+
+Sub-paragraph (4) applies if a remote meeting request has been made.
+
+;
+
+14.4.b
+
+in sub-paragraph (4)—
+
+14.4.b.i
+
+after “in sub-paragraph (1)”, for “may” substitute  “must” ;
+
+14.4.b.ii
+
+omit paragraph (b);
+
+14.4.c
+
+after sub-paragraph (4) insert—
+
+14.4.c.4A
+
+Sub-paragraph (4B) applies if—
+
+14.4.c.4A.a
+
+for a reason related to extraordinary events or unforeseen circumstances, it
+is not reasonably practicable for the meeting referred to in sub-paragraph (1)
+to be held in person; and
+
+14.4.c.4A.b
+
+the meeting is not already required to take place using remote access pursuant
+to sub-paragraph (4).
+
+14.4.c.4B
+
+Where this sub-paragraph applies, the meeting referred to in sub-paragraph (1)
+may be held using remote access, provided the arranging authority is satisfied
+that the conditions referred to in sub-paragraph (4)(a), (c) and (d) are met.
+
+14.4.c.4C
+
+Sub-paragraph (4D) applies where, immediately before the date determined by
+the arranging authority as referred to in sub-paragraph (2), the meeting
+referred to in sub-paragraph (1) has not been held because—
+
+14.4.c.4C.a
+
+it has not been reasonably practicable to meet in person for a reason related
+to extraordinary events or unforeseen circumstances; and
+
+14.4.c.4C.b
+
+it has not been reasonably practicable to meet by way of remote access for a
+reason related to the satisfaction of the conditions in sub-paragraph (4)(a),
+(c) and (d).
+
+14.4.c.4D
+
+Where this sub-paragraph applies, the date determined by the arranging
+authority as referred to in sub-paragraph (2) is extended by such period as is
+reasonably necessary for a reason related to the extraordinary events or
+unforeseen circumstances.
+
+14.4.c.4E
+
+Subject to the exception made for persons referred to in paragraph 12(4), a
+meeting referred to in sub-paragraph (1) must be held in person unless—
+
+14.4.c.4E.a
+
+a remote meeting request is made; or
+
+14.4.c.4E.b
+
+for a reason related to extraordinary events or unforeseen circumstances, it
+is not reasonably practicable for the meeting to be held in person,
+
+and the   arranging authority is   satisfied that the conditions in sub-
+paragraph (4)(a), (c) and (d) are met.
+
+;
+
+14.4.d
+
+omit sub-paragraphs (5) to (8).
+
+14.5
+
+In paragraph 12, after sub-paragraph (3), insert—
+
+14.5.4
+
+Where a social worker, a virtual school head, a representative as referred to
+in sub-paragraph (1), or a representative as referred to in sub-paragraph (3)
+attends a meeting referred to in paragraph 10(1) which is taking place in
+person, they may do so using remote access provided the arranging authority is
+satisfied that the conditions referred to in paragraph 10(4)(a), (c) and (d)
+are met.
+
+### Transitional arrangements
+
+#### Interpretation of regulation 16
+
+15
+
+In regulation 16—
+
+      “ relevant person ” means—         in relation to a pupil under the age
+of 18, a parent of the pupil, or           in relation to a pupil who has
+attained that age, the pupil;                 “ remote access ” means access
+to a meeting to enable those who are not all present together at the same
+place to attend and participate simultaneously by electronic means, including
+by live audio and video link;           “ review panel ” means a review panel
+constituted in accordance with Schedule 1 to the 2012 Regulations;
+“scrutiny” of an exclusion refers to any of the following—         a meeting
+of—         the governing body under regulation 6(3)(c) of the 2012
+Regulations;           the management committee under regulation 15(3)(c) of
+the 2012 Regulations;           the proprietor under regulation 24(3)(c) of
+the 2012 Regulations,         to consider whether the pupil should be
+reinstated;           a meeting of the review panel under paragraph 10(1) of
+Schedule 1 to the 2012 Regulations to review a decision (of a body referred to
+in the previous sub-paragraph) not to reinstate the pupil.
+
+#### Exclusion of pupils: remote meetings - transitional arrangements
+
+16
+
+16.1
+
+Subject to paragraphs (3) and (4), this regulation applies to an exclusion of
+a pupil under—
+
+16.1.a
+
+section 51A(1) of the Education Act 2002  (in the case of a maintained
+school),
+
+16.1.b
+
+section 51A(2) of the Education Act 2002 (in the case of a pupil referral
+unit), or
+
+16.1.c
+
+section 51A(1) of the Education Act 2002 as modified by regulation 21 of the
+2012 Regulations (in the case of an Academy),
+
+which occurs before 1st September 2023, if scrutiny of the exclusion is or may
+be required and has not started before that date.
+
+16.2
+
+In a case involving scrutiny of an exclusion as referred to   in paragraph (a)
+of the definition of “scrutiny” in regulation 15 , the head teacher (of a
+maintained school), the teacher in charge (of a pupil referral unit) or the
+principal (of an Academy) must, without delay on commencement of these
+Regulations, give the relevant person notice in writing of the following—
+
+16.2.a
+
+that the relevant person may, within 3 school days of notification, request
+that the meeting be held using remote access;
+
+16.2.b
+
+how and to whom the request should be made.
+
+16.3
+
+In a case involving scrutiny of an exclusion as referred   to in paragraph (b)
+of the definition of “scrutiny” in regulation 15 , the governing body (of a
+maintained school), the management committee (of a pupil referral unit), or
+the proprietor (of an Academy) must, without delay on commencement of these
+Regulations, give the relevant person notice in writing of the following—
+
+16.3.a
+
+that the relevant person may, within 3 school days after notification, request
+that the meeting be held using remote access;
+
+16.3.b
+
+how and to whom the request should be made.
+
+16.4
+
+A notice in writing referred to in this regulation—
+
+16.4.a
+
+may be given by—
+
+16.4.a.i
+
+delivering it directly to the relevant person,
+
+16.4.a.ii
+
+delivering it to the relevant person’s last known address, or
+
+16.4.a.iii
+
+sending it by first class post to the relevant person’s last known address;
+
+16.4.b
+
+unless the contrary is shown, will be taken to have been given—
+
+16.4.b.i
+
+where first class post is used, on the second working day after the date of
+posting, or
+
+16.4.b.ii
+
+where the notice is delivered, on the date of delivery.
+
+      Nick Gibb   Minister of State   Department for Education     23rd May
+2023
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations, while extending to the legal jurisdiction of England and
+Wales, apply only in relation to England.
+
+  The changes made by Parts 2 to 5 of these Regulations apply to exclusions
+that take place on or after 1st September 2023. By virtue of Part 6 of these
+Regulations (transitional arrangements), the changes regarding remote meetings
+made by Parts 2 to 5 also apply to meetings that may be or are required to
+take place on or after 1st September 2023 in respect of certain exclusions
+that took place before that date.
+
+  These Regulations amend the School Discipline (Pupil Exclusions and Reviews)
+(England) Regulations 2012 ( S.I. 2012/1033 ) (“ the 2012 Regulations ”). The
+2012 Regulations set out procedures in relation to exclusions under section
+51A of the Education Act 2002, from maintained schools, pupil referral units
+and Academies (meaning Academy schools or alternative provision Academies) in
+England. Parts 2, 3 and 4 of these Regulations make the same types of changes
+in respect of maintained schools, pupil referral units and Academies
+respectively.
+
+  Part 1 of these Regulations (general) contains introductory provisions.
+Regulation 4 amends regulation 2 of the 2012 Regulations, which contains
+definitions of general relevance to the 2012 Regulations.
+
+  Part 2 of these Regulations (maintained schools) amends Part 2 of the 2012
+Regulations, which contains provisions regarding maintained schools. Within
+Part 2 of these Regulations, Chapter 1 makes amendments which provide for
+remote access meetings to take place in certain circumstances and when certain
+conditions are met; and Chapter 2 inserts a new regulation 8A into the 2012
+Regulations regarding the cancellation of exclusion decisions. New regulation
+8A enables a head teacher to cancel a school exclusion decision in certain
+circumstances and where specified requirements are met; it also requires the
+head teacher to inform certain persons of the cancellation of the exclusion
+and to reinstate the pupil without delay.
+
+  Parts 3 and 4 of these Regulations make similar changes in relation to pupil
+referral units and Academies respectively.
+
+  Part 5 of these Regulations (constitution and procedure of review panels)
+amends Schedule 1 to the 2012 Regulations, which contains provisions regarding
+the constitution and procedure of review panels.
+
+  Part 6 of these Regulations (transitional arrangements) provides for
+transitional arrangements regarding the rules on meetings that take place
+using remote access, for exclusions that occur before 1st September 2023 where
+the consideration or review of the exclusion has not yet been completed.
+Regulation 15 covers the interpretation of terms used in regulation 16.
+Regulation 16 sets out what the transitional arrangements are and makes
+provision for how notices may be given in this context.
+
+  A full impact assessment has not been produced for this instrument as no, or
+no significant, impact on the private, voluntary or public sectors is
+foreseen. An explanatory memorandum is published alongside these Regulations
+on  www.legislation.gov.uk . Hard copies are available from the Department for
+Education, Sanctuary Buildings, Great Smith Street, London SW1P 33BT.
+

@@ -1,0 +1,1025 @@
+Title: The Gas Safety (Management) (Amendment) Regulations 2023
+Date: 2024-04-02
+Description: These Regulations amend the Gas Safety (Management) Regulations 1996 (S.I. 1996/551) (“the 1996 Regulations”). The 1996 Regulations provide for the preparation and acceptance of safety cases in respect of the conveyance of gas in a network and impose requirements in respect of gas escapes and the composition and pressure of gas. With one exception, these Regulations come into force on 6th April 2023.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2023/284
+
+## The Gas Safety (Management) (Amendment) Regulations 2023
+
+    Health And Safety
+
+  Made   7th March 2023
+
+  Laid before Parliament   9th March 2023
+
+  Coming into force in accordance with regulation 1(2) and (3)
+
+      The Secretary of State makes these Regulations in exercise of the powers
+conferred by sections 15(1), (2) and (4)(a), 43(2), (4), (5) and (6) and
+82(3)(a) of, and paragraphs 1(1)(c), 15(1), 16 and 21(a) of Schedule 3 to, the
+Health and Safety at Work etc. Act 1974 (“ the Act ”) .           These
+Regulations give effect without modifications to proposals submitted to the
+Secretary of State by the Health and Safety Executive under section 11(3) of
+the Act. Before submitting the proposals, the Health and Safety Executive
+consulted the Office for Nuclear Regulation  and such other bodies as appeared
+to be appropriate as required by section 50(3) of the Act.
+
+### Citation, commencement and extent
+
+1
+
+1.1
+
+These Regulations may be cited as the Gas Safety (Management) (Amendment)
+Regulations 2023.
+
+1.2
+
+  Regulation 14(2)(a)(v)   comes into force on 6th April 2025.
+
+1.3
+
+Otherwise, these Regulations come into force on 6th April 2023.
+
+1.4
+
+Any amendment made by these Regulations has the same extent as the provision
+amended.
+
+### Amendment of the Gas Safety (Management) Regulations 1996
+
+2
+
+The Gas Safety (Management) Regulations 1996  are amended in accordance with
+regulations  3  to  14 .
+
+### Amendment of regulation 2
+
+3
+
+3.1
+
+Regulation 2 (interpretation) is amended as follows.
+
+3.2
+
+In paragraph (1)—
+
+3.2.a
+
+omit the definition of “the 1994 Regulations”;
+
+3.2.b
+
+after that definition insert—
+
+      “ the 1998 Regulations ” means the Gas Safety (Installation and Use)
+Regulations 1998 ;           “biogas” and “biomethane” have the meanings given
+in section 100(3) of the Energy Act 2008 ;           “ biomethane production
+facility ” means a facility for the production of biomethane from biogas ;
+
+;
+
+3.2.c
+
+in the following definitions, for “the 1994 Regulations” substitute  “the 1998
+Regulations” —
+
+3.2.c.i
+
+“distribution main”;
+
+3.2.c.ii
+
+“emergency control”;
+
+3.2.c.iii
+
+“gas fittings”;
+
+3.2.c.iv
+
+“installation pipework”;
+
+3.2.c.v
+
+“service pipe”;
+
+3.2.d
+
+after the definition of “emergency control” insert—
+
+      “ emergency reporting service provider ” is to be construed in
+accordance with paragraphs (3A) and (3B) of regulation 3;
+
+;
+
+3.2.e
+
+after the definition of “interconnector” insert—
+
+      “ LNG facility ” means a facility for the reception and regasification
+of liquid natural gas and any activity, including temporary storage of gas or
+liquid gas, which is necessary for that reception or regasification.
+
+.
+
+3.3
+
+In paragraph (2), after “a gas processing facility” insert  “, a biomethane
+production facility, an LNG facility” .
+
+3.4
+
+In paragraph (4)—
+
+3.4.a
+
+after “gas”, in the first place it occurs, insert  “(other than biogas or any
+gas produced from biogas)” ;
+
+3.4.b
+
+after “a gas processing facility”, insert  “, or an LNG facility,” ;
+
+3.4.c
+
+for the words from “, any pipes” to the end substitute—
+
+—
+
+3.4.c.a
+
+any pipes used exclusively for conveying gas (other than biogas or gas
+produced from biogas) from that facility to the point where the gas is treated
+or blended or to non-domestic premises (or to both) are not to be treated as
+part of a network for the purposes of these Regulations;
+
+3.4.c.b
+
+any pipes used exclusively for conveying gas (including biogas or gas produced
+from biogas) from that facility to the point where the gas is treated or
+blended or to non-domestic premises (or to both) are not to be treated as part
+of a network for the purposes of these Regulations at any time when they are
+being used to convey gas which is not biogas or produced from biogas.
+
+.
+
+3.5
+
+After paragraph (10) insert—
+
+3.5.10A
+
+In these Regulations any reference, in relation to a network, to an emergency
+reporting service provider is a reference to an emergency reporting service
+provider who has prepared and had accepted a safety case relating to that
+network pursuant to regulation 3(3A).
+
+.
+
+### Amendment of regulation 3
+
+4
+
+4.1
+
+Regulation 3 (duties on persons conveying gas) is amended as follows.
+
+4.2
+
+In paragraph (1)—
+
+4.2.a
+
+omit “and” at the end of sub-paragraph (a);
+
+4.2.b
+
+after sub-paragraph (a) insert—
+
+4.2.b.aa
+
+there is a sole emergency reporting service provider for the network; and
+
+.
+
+4.3
+
+After paragraph (3) insert—
+
+4.3.3A
+
+For the purposes of these Regulations, an “emergency reporting service
+provider” is a person who has prepared a safety case containing the
+particulars specified in Schedule 2A and has had that safety case accepted by
+the Executive.
+
+4.3.3B
+
+Where an emergency reporting service provider has given written notice to the
+Executive and all persons who are conveying gas in the network that they no
+longer intend to act in that capacity, that person ceases to be an emergency
+reporting service provider on the relevant date.
+
+4.3.3C
+
+For the purposes of paragraph (3B) “ the relevant date ” means—
+
+4.3.3C.a
+
+the date specified in the written notice given by the person, which may not be
+before the end of the period of two years beginning with the date on which the
+notice is given; or
+
+4.3.3C.b
+
+if earlier, the date on which another person who has prepared a safety case in
+relation to the relevant network containing the particulars specified in
+Schedule 2A has their safety case accepted by the Executive.
+
+.
+
+4.4
+
+In paragraph (4), after “co-ordinator” insert  “or the emergency reporting
+service provider (or both)” .
+
+### Amendment of regulation 5
+
+5
+
+In regulation 5 (duty to conform with safety case), in paragraph (1), after
+“co-ordinator” insert  “or an emergency reporting service provider” .
+
+### Amendment of regulation 6
+
+6
+
+6.1
+
+Regulation 6 (co-operation) is amended as follows.
+
+6.2
+
+In paragraph (1), for “and with a network emergency co-ordinator” substitute
+“, with a network emergency co-ordinator and with any emergency reporting
+service provider” .
+
+6.3
+
+In paragraph (2)—
+
+6.3.a
+
+in sub-paragraph (c), after “gas” insert  “or an emergency reporting service
+provider” ;
+
+6.3.b
+
+after sub-paragraph (c) insert—
+
+6.3.b.ca
+
+an emergency reporting service provider in relation to a person conveying gas
+or a network emergency co-ordinator;
+
+;
+
+6.3.c
+
+in sub-paragraph (h)—
+
+6.3.c.i
+
+after “a gas production facility” insert  “, a biomethane production facility”
+;
+
+6.3.c.ii
+
+after “a storage facility” insert  “, an LNG facility” .
+
+### Amendment of regulation 7
+
+7
+
+7.1
+
+Regulation 7 (gas escapes and investigations) is amended as follows.
+
+7.2
+
+For paragraph 1 substitute—
+
+7.2.1
+
+An emergency reporting service provider—
+
+7.2.1.a
+
+must provide a continuously staffed telephone service for enabling persons to
+report an escape of gas from a network or from a gas fitting supplied with gas
+from a relevant network, and
+
+7.2.1.b
+
+may provide other continuously staffed means for enabling persons to report
+such an escape to it.
+
+7.2.1A
+
+In this regulation “ relevant network ”, in relation to an emergency reporting
+service provider (“ N ”), means—
+
+7.2.1A.a
+
+the network for which N is the emergency reporting service provider, or
+
+7.2.1A.b
+
+where N is the emergency reporting service provider for two or more networks,
+any of the networks for which N is the emergency reporting service provider,
+
+and references to a “relevant service provider” are to be construed
+accordingly.
+
+7.2.1B
+
+The telephone service provided for the purposes of paragraph (1)(a) must be
+contactable within Great Britain by the use of one telephone number.
+
+7.2.1C
+
+Where the emergency reporting service provider is not the same for all
+networks—
+
+7.2.1C.a
+
+the emergency reporting service providers must ensure, for the purposes of
+paragraph (1)(a), that they are all contactable within Great Britain by the
+use of the same telephone number, and
+
+7.2.1C.b
+
+where an emergency reporting service provider (“ E ”) also provides other
+means for enabling persons to report gas escapes to it, E must have in place
+arrangements to ensure that any gas escape notified to E which concerns a
+network for which E is not the emergency reporting service provider is
+notified forthwith to the relevant emergency reporting service provider.
+
+.
+
+7.3
+
+In paragraph (2) for “Where British Gas p.l.c” substitute  “If an emergency
+reporting service provider” .
+
+7.4
+
+In paragraph (3) for “British Gas p.l.c” substitute  “the emergency reporting
+service provider for the relevant network” .
+
+7.5
+
+After paragraph (3) insert—
+
+7.5.3A
+
+But paragraph (3) does not apply if the person who discovers or is notified of
+the escape of gas is the emergency reporting service provider for that
+network.
+
+.
+
+7.6
+
+In paragraph (8) for “British Gas p.l.c” substitute  “the emergency reporting
+service provider for the network from which the premises are supplied with
+gas” .
+
+7.7
+
+After paragraph (8) insert—
+
+7.7.8A
+
+But paragraph (8) does not apply if the responsible person is the emergency
+reporting service provider for that network.
+
+.
+
+7.8
+
+In paragraph (11)—
+
+7.8.a
+
+in the words before sub-paragraph (a)—
+
+7.8.a.i
+
+after “conveying gas” insert  “(“ C ”)” ;
+
+7.8.a.ii
+
+for “his behalf” substitute  “C’s behalf” ;
+
+7.8.a.iii
+
+for “he does” substitute  “C does” ;
+
+7.8.b
+
+in sub-paragraph (a)—
+
+7.8.b.i
+
+for “he” substitute  “C” ;
+
+7.8.b.ii
+
+for “British Gas p.l.c” substitute  “the emergency reporting service provider
+for the network” ;
+
+7.8.c
+
+in sub-paragraph (b), for “the person conveying the gas”, in both places it
+occurs, substitute  “C” .
+
+7.9
+
+After paragraph (11) insert—
+
+7.9.11A
+
+But paragraph (11)(a) does not apply where C is the emergency reporting
+service provider for that network.
+
+.
+
+7.10
+
+In paragraph (17)(a), for “the 1994 Regulations” substitute  “the 1998
+Regulations” .
+
+### Amendment of regulation 8
+
+8
+
+8.1
+
+Regulation 8 (content and other characteristics of gas) is amended as follows.
+
+8.2
+
+In paragraph (1), for “paragraphs (2) to (4)” substitute  “paragraphs (1A) to
+(4)” .
+
+8.3
+
+After paragraph (1) insert—
+
+8.3.1A
+
+A person may convey out of specification biogas from a relevant facility in a
+relevant pipe for treatment or blending so as to bring it into conformity with
+those requirements.
+
+8.3.1B
+
+For the purposes of paragraph (1A)—
+
+      “ out of specification biogas ” means gas which—         is biogas or
+produced from biogas, and           does not conform with the requirements
+specified in Part 1 of Schedule 3;                 “ relevant facility ” means
+a biomethane production facility or a gas processing facility;           “
+relevant pipe ” means a pipe used exclusively for conveying gas (including out
+of specification biogas) to—         the point where the gas is treated or
+blended, or           that point and non-domestic premises.
+
+.
+
+8.4
+
+After paragraph (5) insert—
+
+8.4.6
+
+But paragraph (5) does not apply in respect of any out of specification biogas
+which is conveyed in a relevant pipe as permitted by paragraph (1A).
+
+.
+
+### Transitional provisions
+
+9
+
+For regulation 10 substitute—
+
+####### Pipes used to convey biogas or gas made from biogas: transitional provisions
+
+9.10
+
+9.10.1
+
+A BPF pipe transporter (“ B ”) may continue to convey gas in a BPF pipe on and
+after 6th April 2023 despite the fact that B does not have a safety case
+prepared pursuant to regulation 3(1)(a) which has been accepted by the
+Executive.
+
+9.10.2
+
+But paragraph (1) ceases to apply to B—
+
+9.10.2.a
+
+on 6th October 2024, if B has not prepared a safety case pursuant to
+regulation 3(1)(a) and sent it to the Executive before that date;
+
+9.10.2.b
+
+if the Executive rejects the safety case prepared by B pursuant to regulation
+3(1)(a), on the date on which the Executive rejects B’s safety case (whether
+this date is before or after 6th October 2024).
+
+9.10.3
+
+In this regulation—
+
+      “ BPF pipe transporter ” means a person who, immediately before 6th
+April 2023—         is conveying gas in a BPF pipe; and           is not
+conveying gas in any part of any existing network to which the BPF pipe is
+connected;                 “ BPF pipe ” means a pipe conveying gas from a
+biomethane production facility which, immediately before 6th April 2023—
+is connected to an existing network; but           is not treated as part of
+that network for the purposes of these Regulations;                 “ existing
+network ” means a network within the meaning of these Regulations as they had
+effect immediately before 6th April 2023.
+
+####### Transitional provisions: emergency reporting service provider safety case
+
+9.10A
+
+9.10A.1
+
+This regulation applies where, immediately before 6th April 2023, a person (“
+P ”) has an accepted EHP safety case.
+
+9.10A.2
+
+P’s accepted EHP safety case is to be treated, on and after 6th April 2023, as
+if it had been prepared pursuant to, and accepted by the Executive under,
+regulation 3(3A).
+
+9.10A.3
+
+Accordingly, on 6th April 2023, P becomes the emergency reporting service
+provider for each network.
+
+9.10A.4
+
+Regulation 4 applies in relation to P as if the requirement in paragraph (3)
+of that regulation to make a thorough review of the contents of its accepted
+EHP safety case every three years were a requirement to—
+
+9.10A.4.a
+
+make a thorough review of the accepted EHP safety case by the end of the
+period of three years beginning with the day on which P last reviewed that
+safety case, and
+
+9.10A.4.b
+
+at least every three years thereafter.
+
+9.10A.5
+
+Nothing in this regulation prevents P from giving written notice for the
+purposes of regulation 3(3B) on or after 6th April 2023 in relation to any or
+all of the networks.
+
+9.10A.6
+
+In this regulation “ accepted EHP safety case ” means a safety case prepared
+pursuant to, and accepted by the Executive under, paragraph 3 of exemption No.
+8 of 2016 granted by the Executive in pursuance of its powers under regulation
+11(1) of these Regulations on 5th September 2016 to National Grid Gas
+Distribution Limited, a company registered in England and Wales with the
+company number 10080864.
+
+.
+
+### Revocation of regulation 12
+
+10
+
+Omit regulation 12 (repeals, revocations and amendment).
+
+### Insertion of Regulation 13
+
+11
+
+After regulation 12 insert—
+
+####### Review of these Regulations
+
+11.13
+
+11.13.1
+
+The Secretary of State must from time to time—
+
+11.13.1.a
+
+carry out a review of the regulatory provisions contained in these
+Regulations, as amended by the Gas Safety (Management) (Amendment) Regulations
+2023;
+
+11.13.1.b
+
+set out the conclusions of the review in a report; and
+
+11.13.1.c
+
+publish the report.
+
+11.13.2
+
+Section 30(4) of the Small Business, Enterprise and Employment Act 2015
+requires that a report must in particular—
+
+11.13.2.a
+
+set out the objectives intended to be achieved by the regulatory regime
+established by the regulatory provisions referred to in paragraph (1)(a),
+
+11.13.2.b
+
+assess the extent to which the objectives are achieved, and
+
+11.13.2.c
+
+assess whether those objectives remain appropriate, and if so, the extent to
+which they could be achieved by a system which imposes less onerous regulatory
+provision.
+
+11.13.3
+
+The first report must be published before the end of the period of five years
+beginning with 6th April 2023.
+
+11.13.4
+
+Subsequent reports must be published under this regulation at intervals not
+exceeding five years.
+
+11.13.5
+
+In this regulation “ regulatory provision ” has the same meaning as in
+sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015
+(see section 32 of that Act).
+
+.
+
+### Amendment of Schedule 1
+
+12
+
+In paragraph 12 of Schedule 1, after “network emergency co-ordinator”, in both
+places it occurs, insert  “or the emergency reporting service provider for the
+network” .
+
+### New Schedule 2A
+
+13
+
+The Schedule inserts a new Schedule 2A into the Gas Safety (Management)
+Regulations 1996.
+
+### Amendment of Schedule 3
+
+14
+
+14.1
+
+Schedule 3 (content and other characteristics of gas) is amended as follows.
+
+14.2
+
+In Part 1—
+
+14.2.a
+
+in the table following paragraph 1—
+
+14.2.a.i
+
+in the entry for “oxygen content”, for “≤0.2% (molar)” substitute  “≤1.0%
+(molar), where the gas is conveyed in a pipe operated at a pressure of ≤38
+barg, and ≤0.2% molar, where the gas is conveyed in a pipe operated at a
+pressure of >38 barg” ;
+
+14.2.a.ii
+
+in the entry for “impurities”, for “the 1994 Regulations” substitute  “the
+1998 Regulations” ;
+
+14.2.a.iii
+
+in the entry for “hydrocarbon dew point and water dewpoint”, for “the 1994
+Regulations” substitute  “the 1998 Regulations” ;
+
+14.2.a.iv
+
+after that entry insert—
+
+RD ≤0.700
+
+;
+
+14.2.a.v
+
+in the entry for “WN”, for “≥47.20 MJ/m 3 ” substitute  “≥46.50 MJ/m 3 ” ;
+
+14.2.a.vi
+
+omit the entry for “ICF”;
+
+14.2.a.vii
+
+omit the entry for “SI”;
+
+14.2.b
+
+in paragraph 3, for “the 1994 Regulations” substitute  “the 1998 Regulations”
+;
+
+14.2.c
+
+in paragraph 4 omit sub-paragraph (2).
+
+14.3
+
+In Part 2—
+
+14.3.a
+
+in paragraph 1—
+
+14.3.a.i
+
+omit sub-paragraph (b);
+
+14.3.a.ii
+
+after that sub-paragraph insert—
+
+14.3.a.ii.c
+
+RD ≤0.700
+
+;
+
+14.3.b
+
+in paragraph 2 omit sub-paragraph (2).
+
+14.4
+
+In Part 3—
+
+14.4.a
+
+in paragraph 1—
+
+14.4.a.i
+
+omit the definition of “C 3 H 8 ”;
+
+14.4.a.ii
+
+omit the definition of “equivalent mixture”;
+
+14.4.a.iii
+
+omit the definition of “ICF”;
+
+14.4.a.iv
+
+after that definition insert—
+
+“ gross calorific value ” means the gross calorific value, expressed in MJ/ m
+3 , of a dry gas determined on the basis that the water produced by combustion
+is assumed to be condensed;
+
+;
+
+14.4.a.v
+
+in the definition of “mg/m 3 ” for “at 15C and 1.01325 bar” substitute  “under
+the reference conditions” ;
+
+14.4.a.vi
+
+for the definition of “MJ/ m 3 ” substitute—
+
+“MJ/ m 3 ” means megajoules per cubic metre under the reference conditions;
+
+;
+
+14.4.a.vii
+
+omit the definition of “N 2 ”;
+
+14.4.a.viii
+
+omit the definition of “PN”;
+
+14.4.a.ix
+
+for the definition of “relative density” substitute—
+
+“ relative density ” (“ RD ”) means the ratio of VG to VA (expressed in the
+same units) where— VG is the mass of a volume of the gas when containing no
+water vapour under the reference conditions; and VA is the mass of the same
+volume of air containing no water vapour under those conditions;
+
+;
+
+14.4.a.x
+
+omit the definition of “SI”;
+
+14.4.a.xi
+
+for the definition of “WN” substitute—
+
+“ WN ” means the Wobbe Number of the gas, which is calculated in accordance
+with the following formula—
+
+g r o s s   c a l o r i f i c   v a l u e ÷ r e l a t i v e   d e n s i t y
+
+;
+
+14.4.a.xii
+
+omit “trigonometric functions are to be evaluated in radians.”;
+
+14.4.b
+
+after paragraph 1 insert—
+
+14.4.b.1A
+
+In this Schedule, the reference conditions are 15C and 1.01325 bar.
+
+;
+
+14.4.c
+
+omit paragraph 2.
+
+### Amendment of the Health and Safety and Nuclear (Fees) Regulations 2022
+
+15
+
+15.1
+
+The Health and Safety and Nuclear (Fees) Regulations 2022  are amended as
+follows.
+
+15.2
+
+In regulation 15 (fees payable in respect of gas safety functions)—
+
+15.2.a
+
+in paragraph (2), for “or by a network emergency co-ordinator” insert  “, by a
+network emergency co-ordinator or by an emergency reporting service provider”
+;
+
+15.2.b
+
+in paragraph (4), for the definition of ““network”, “network emergency co-
+ordinator” and “safety case”” (other than “and” at the end) substitute—
+
+      “emergency reporting service provider”, “ network ”, “ network emergency
+co-ordinator ” and “ safety case ” have the meanings given in the 1996
+Regulations (see regulation 2(1) of those Regulations);
+
+.
+
+15.3
+
+In Schedule 11 (fees payable in respect of gas safety functions), in column 2
+for “or the network emergency coordinator”, in both places it occurs,
+substitute  “, the network emergency co-ordinator or the emergency reporting
+service provider” .
+
+Signed by authority of the Secretary of State for Work and Pensions
+
+      Mims Davies   Parliamentary Under Secretary of State   Department for
+Work and Pensions     7th March 2023
+
+  Emergency Reporting Service Provider: Safety Case
+
+Regulation 13
+
+  After Schedule 2 to the Gas Safety (Management) Regulations 1996 insert—
+SCHEDULE 2A     Particulars to be included in safety case of an emergency
+reporting service provider     Regulation 3(3A)       1     Name and address
+of the person preparing the safety case (referred to in this Schedule as “ the
+duty holder ”).         2     A general description of any network to which
+the safety case relates, including the boundary of the network.         3
+A general description of the plant and premises the duty holder intends to use
+in connection with the arrangements and procedures described in the duty
+holder’s safety case pursuant to this Schedule.         4     Where the duty
+holder intends to provide any service under paragraph (1)(b) of regulation 7,
+particulars of the communication methods to be used by the duty holder.
+5       1     Particulars to demonstrate that the duty holder has established
+adequate arrangements to enable the duty holder to comply with the duties, and
+carry out all of the functions, of an emergency reporting service provider
+under regulation 7, including in particular—     a     particulars to
+demonstrate that the duty holder has established adequate arrangements for
+ensuring that each relevant service is manned only by persons who are
+competent and have the necessary equipment and training to—     i
+establish the location of the person reporting the gas escape and, if
+different, the likely location of the escape,         ii     determine whether
+the gas escape is controllable or uncontrollable,         iii     if the gas
+escape is controllable, determine whether steps can be taken to control the
+escape and if so, advise the person reporting the escape how to do so, and
+confirm if it has been controlled, and         iii     provide appropriate
+advice to the person reporting the gas escape on the steps that may be taken
+to minimise the risk of harm to themselves and others;             b
+particulars to demonstrate that the duty holder has established adequate
+arrangements for ensuring that the service required by regulation 7(1)(a), and
+any service provided under regulation 7(1)(b), is available throughout Great
+Britain and manned continuously, including—     i     arrangements for
+ensuring business continuity and disaster recovery capability, and         ii
+particulars to demonstrate that the duty holder has established adequate
+arrangements for testing and rehearsing those arrangements;             c
+particulars to demonstrate that the duty holder has established adequate
+arrangements for ensuring that calls to the service required by regulation
+7(1)(a) are answered, and any communications made through a service provided
+under regulation 7(1)(b) are responded to, in a timely manner;         d
+where the duty holder provides a service under regulation 7(1)(b), particulars
+of the procedures and arrangements that the duty holder has established for
+ensuring that a gas escape reported to it concerning a network for which it is
+not the emergency reporting service provider is, in accordance with paragraph
+(1C)(b) of regulation 7, reported to the correct emergency reporting service
+provider;         e     particulars of the procedures and arrangements that
+the duty holder has established for ensuring that a gas escape is reported, in
+accordance with paragraph (2) of regulation 7, to the person conveying gas on
+the network who is responsible for preventing the gas escaping.             2
+In this paragraph “ relevant service ” means—     a     the service required
+by regulation 7(1)(a),         b     any service provided under regulation
+7(1)(b), or         c     a service provided for the purposes of regulation
+7(3) or (8).                 6     Particulars to demonstrate that the duty
+holder has established adequate arrangements for passing and receiving
+information relevant to health and safety to and from other persons who have
+duties under these Regulations.         7     Particulars of the arrangements
+the duty holder has established to enable the duty holder to comply with
+regulation 6 (co-operation).             .
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations amend the Gas Safety (Management) Regulations 1996 ( S.I.
+1996/551 ) (“ the 1996 Regulations ”). The 1996 Regulations provide for the
+preparation and acceptance of safety cases in respect of the conveyance of gas
+in a network and impose requirements in respect of gas escapes and the
+composition and pressure of gas. With one exception, these Regulations come
+into force on 6th April 2023.
+
+  These Regulations update the requirements set out in Schedule 3 to the 1996
+Regulations as to the characteristics and composition of gas which is conveyed
+in a network. The updates include a revision to the range within which the
+Wobbe Number of gas must fall. The revision to the Wobbe Number range comes
+into force on 6th April 2025.
+
+  These Regulations also amend the 1996 Regulations:     a     to bring pipes
+used to convey gas from biomethane production facilities and LNG facilities
+within the definition of “ network ” for the purposes of those Regulations;
+b     to require there to be a sole emergency reporting service provider for
+each network and set out the functions of that provider. An “emergency
+reporting service provider” is a person who has prepared a specific safety
+case that is accepted by the Health and Safety Executive;         c     to
+make clear that operators of LNG facilities must co-operate with a person
+conveying gas in a network, a national emergency co-ordinator and an emergency
+reporting service provider;         d     to make a number of minor drafting
+and consequential amendments and transitional provisions;         e     to
+require the Secretary of State to keep the provisions of the 1996 Regulations
+as amended by these Regulations under review.
+
+  These Regulations also amend the Health and Safety and Nuclear (Fees)
+Regulations 2022 ( S.I. 2022/1378 ) so a fee is payable by an emergency
+reporting service provider, or a person applying to be such a provider, to the
+Health and Safety Executive in respect of the exercise of its functions.
+
+  A full impact assessment of the effect that this instrument will have on the
+costs of business, the voluntary sector and the public sector is published
+alongside the instrument on  legislation.gov.uk . Copies of the impact
+assessment are also available from the Energy Policy Team, HSE, Engagement and
+Policy Division, 2.2 Redgrave Court, Bootle, L20 7HS.
+

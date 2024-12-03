@@ -1,0 +1,2984 @@
+Title: The Boiler Upgrade Scheme (England and Wales) Regulations 2022
+Date: 2024-09-05
+Description: These Regulations, which apply in England and Wales, establish the Boiler Upgrade Scheme (“the Scheme”).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/565
+
+## The Boiler Upgrade Scheme (England and Wales) Regulations 2022
+
+    Energy, England And Wales
+
+  Made   22nd May 2022
+
+  Coming into force   23rd May 2022
+
+      The Secretary of State makes the following Regulations in exercise of
+the powers conferred by sections 100 and 104(2) of the Energy Act 2008 . In
+accordance with section 105(3)  of that Act, a draft of this instrument was
+laid before Parliament and approved by a resolution of each House of
+Parliament. In accordance with section 148A of the Government of Wales Act
+2006  the Secretary of State has consulted the Welsh Ministers.
+
+### Introductory provisions
+
+#### Citation, commencement and extent
+
+1
+
+1.1
+
+These Regulations may be cited as the Boiler Upgrade Scheme (England and
+Wales) Regulations 2022 and come into force on the day after the day on which
+they are made.
+
+1.2
+
+These Regulations extend to England and Wales only.
+
+#### Interpretation
+
+2
+
+2.1
+
+In these Regulations—
+
+“ air source heat pump ” means a plant  which generates heat using a
+thermodynamic cycle by transferring energy stored in the form of heat in the
+ambient air outside a property and uses that energy to heat a liquid;   “
+boiler upgrade grant ” means the grant, the value of which has been published
+under regulation 13(1), (4) or (5) which is payable by the Authority to an
+installer under these Regulations;   “ boiler upgrade voucher ” has the
+meaning given in regulation 15(1); “ biomass boiler ” means a plant which— is
+designed and installed to burn solid biomass  to provide heat, is designed to
+minimise direct heat loss to the immediate area in which it is installed, is
+not capable of providing heat to a property without using a liquid to deliver
+that heat, and is not designed to generate heat for the purpose of cooking
+food  where that function is not able to be controlled independently of the
+heating or hot water ; “ building ” means a roofed construction having walls,
+for which energy is used to condition the indoor climate, and reference to a
+building includes reference to a building unit in that building; “ building
+unit ” means a section, floor or apartment within a building which is designed
+or altered to be used separately; “ commencement date ” means the day on which
+these Regulations come into force; “ commissioned ”, in relation to a plant,
+means the completion of such procedures and tests as constitute, at the time
+they are undertaken, the usual industry standards and practices for that type
+of plant which demonstrate that it is capable of operating and generating
+heat; “ connected person ”, in relation to an installer, means any person
+connected to them within the meaning of section 1122 of the Corporation Tax
+Act 2010 ; “ consumer code ” means a code of practice   for the purpose of
+consumer protection approved by the Secretary of State under regulation
+4(1)(j);   “ eligible plant ” has the meaning given in regulation 8; “
+eligible property ” has the meaning given in regulation 5; “ energy
+performance certificate ” has the meaning given in regulation 2(1) of the EPB
+Regulations; “ the EPB Regulations ” means the Energy Performance of Buildings
+(England and Wales) Regulations 2012 ; “ financial year ” means— the period
+beginning with the commencement date and ending with 31st March 2023, or any
+subsequent 12 month period beginning with 1st April and ending with the
+following 31st March; “ grant application ” has the meaning given in
+regulation 14(1); “ grant change notice ” has the meaning given in regulation
+13(4);   “ grant from public funds ” means a grant made by a public authority
+or by any person distributing funds on behalf of a public authority;   “
+ground source heat pump ” means a plant which generates heat using a
+thermodynamic cycle by transferring energy stored in the form of heat from the
+ground, including water in the ground or surface water or both, and uses that
+energy to heat a liquid;   “ heat network ” means a network that, by
+distributing a liquid or a gas, enables the transfer of thermal energy for the
+purpose of supplying heating, cooling or hot water to two or more properties
+(and includes any appliance the main purpose of which is to heat or cool the
+liquid or gas);   “ heat pump ” means a plant which is an air source heat pump
+or a ground source heat pump   or both ; “ installer ” means a person who is
+certified by the Microgeneration Certification Scheme  or a scheme— which is
+equivalent to the Microgeneration Certification Scheme, and under which
+installers are certified to standards equivalent to the Microgeneration
+Certification Scheme’s standards by a certification body or organisation
+accredited by UKAS to the standard approved by the Secretary of State under
+regulation 4(1)(a); “ installer obligation ” means an obligation specified in
+regulation 17; “ mains gas ” means a supply of the kind mentioned in section
+5(1)(b) of the Gas Act 1986 ;   “ new-build property ” means an eligible
+property that meets the requirements set out in regulation 7;   “ NOx ” means
+oxides of nitrogen;   “ off-gas grid property ” means a property that is not
+attached to a heat network and— is not fuelled by mains gas, there is no
+record of a gas meter point at the property, and is not a new-build property;
+“ original heating system ” has the meaning given in regulation 5(1)(c)(ii); “
+PM ” means particulate matter; “properly made”— in the case of a grant
+application, means an application which provides the information required by
+regulation 14(3), and in relation to which any information specified in a
+notice issued in accordance with regulation 14(4) or (5) has been received by
+the Authority, in relation to a redemption application, means an application
+which provides the information required by regulation 16(3), and in relation
+to which any information required by a notice issued in accordance with
+regulation 16(4) has been received by the Authority; “ quarter ” means a
+period of three months beginning with 1st January, 1st April, 1st July, or 1st
+October; “ recommendation report ” has the meaning given in regulation 4(1) of
+the EPB Regulations; “ redemption application ” has the meaning given in
+regulation 16(1); “ related property ”, in relation to an eligible property,
+... means any building or swimming pool which is used by, or available for the
+use of, an owner or occupier of that property and where the building, building
+unit or swimming pool is not covered by the valid energy performance
+certificate for that property; “ relevant installation standard ” has the
+meaning given in paragraph 2 of Schedule 4; “ relevant financial year ” means
+a financial year beginning with— the commencement date,   1st April 2023,  1st
+April 2024, 1st April 2025, 1st April 2026, or 1st April 2027; “ the Scheme ”
+has the meaning given in regulation 3; “ UKAS ” means the United Kingdom
+Accreditation Service, a company limited by guarantee and incorporated in
+England and Wales under number 3076190; “ urban area ” means an area
+classified as urban in the “2011 rural-urban classification of output areas”
+published by the Office for National Statistics in August 2013 .
+
+2.2
+
+For the purposes of these Regulations, an energy performance certificate for a
+property is “valid” if—
+
+2.2.a
+
+it was entered on the register required to be maintained under regulation
+27(1) of the EPB Regulations no more than 10 years before the date on which it
+is relied on for the purposes of a grant application in relation to that
+property, and
+
+2.2.b
+
+no other energy performance certificate for the property has since been
+entered on the register.
+
+2.3
+
+Where there is more than one owner of a property, then any reference in these
+Regulations to the owner of the property includes any person who is an owner
+of the property.
+
+2.4
+
+For the purposes of these Regulations, a scheme is equivalent to the
+Microgeneration Certification Scheme if it is approved as equivalent by the
+Secretary of State.
+
+2.5
+
+For the purposes of these Regulations, a property does not cease to be
+“fuelled by mains gas” if the supply meter point in relation to the property
+is capped or clamped, where “ supply meter point ” has the meaning given in
+the Uniform Network Code (as defined in section 36C(7) of the Gas Act 1986) .
+
+#### The Boiler Upgrade Scheme
+
+3
+
+A scheme to be known as the Boiler Upgrade Scheme, which is a scheme to
+facilitate and encourage the use of heat pumps and biomass boilers in the
+space and water heating of certain properties (“ the Scheme ”), is established
+by these Regulations.
+
+#### Approval of standards or schemes by the Secretary of State
+
+4
+
+4.1
+
+The Secretary of State must approve—
+
+4.1.a
+
+a standard for the purposes of—
+
+4.1.a.i
+
+the definition of “installer” in regulation 2(1), and
+
+4.1.a.ii
+
+paragraph 1(b)(i) of Schedule 4,
+
+4.1.b
+
+one or more standards for heat pumps for the purposes of regulation 9(1)(c),
+
+4.1.c
+
+a standard for the purposes of regulation 9(1)(d),
+
+4.1.d
+
+one or more standards for biomass boilers for the purposes of regulation
+10(1)(c),
+
+4.1.e
+
+a standard for the purposes of paragraph 1 of Schedule 1,
+
+4.1.f
+
+a standard for the purposes of paragraph 2 of Schedule 1,
+
+4.1.g
+
+a standard in relation to NOx emissions and a standard in relation to PM
+emissions for the purposes of paragraph 3(a) of Schedule 1,
+
+4.1.h
+
+one or more installation standards for—
+
+4.1.h.i
+
+biomass boilers, and
+
+4.1.h.ii
+
+heat pumps,
+
+for the purposes of paragraph 2(a) of Schedule 4,  ...
+
+4.1.i
+
+a scheme deemed to be equivalent to the Microgeneration Certification Scheme
+by the Secretary of State  , and
+
+4.1.j
+
+one or more codes of practice for consumer protection for the purpose of the
+definition of “consumer code” in regulation 2(1) .
+
+4.2
+
+The Secretary of State may withdraw the approval of any standard or scheme
+under paragraph (1).
+
+4.3
+
+The Secretary of State must—
+
+4.3.a
+
+publish the details of the standards or schemes first approved under paragraph
+(1) before the end of the commencement date to have effect from that date,
+
+4.3.b
+
+publish the details of any subsequent standard or scheme which is approved
+under paragraph (1), and the date from which it is approved, and
+
+4.3.c
+
+where the approval of a standard or scheme is withdrawn under paragraph (2),
+publish that fact together with the date on which it ceased to be approved.
+
+### Eligible properties
+
+#### Eligible properties
+
+5
+
+5.1
+
+For the purposes of these Regulations, a property is an eligible property
+where—
+
+5.1.a
+
+it is a building,
+
+5.1.b
+
+it is not social housing,
+
+5.1.c
+
+if it   has had any heating system installed, and was, or will be, first
+occupied or used   before the date on which the relevant eligible plant is
+commissioned—
+
+5.1.c.i
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5.1.c.ii
+
+the system providing space heating or water heating, or both, of the property
+prior to the installation and commissioning of the eligible plant (the
+“original heating system”) is—
+
+5.1.c.ii.aa
+
+fuelled by fossil fuel , or
+
+5.1.c.ii.bb
+
+an electric heating system, and
+
+5.1.c.iii
+
+there has not been a previous grant from public funds for a heat pump or
+biomass boiler at the same address, and
+
+5.1.c.iv
+
+there has not been a previous installation of a heat pump, or biomass boiler
+at the property as a measure promoted by an electricity or gas supplier for
+the purpose of achieving their home-heating cost reduction obligation under
+section 41B of the Electricity Act 1989 or section 33BD of the Gas Act 1986,
+and
+
+5.1.c.v
+
+there is a valid energy performance certificate for the property ,
+
+5.1.d
+
+if it has not had any heating system installed before the date on which the
+relevant eligible plant is commissioned, and it will be first occupied or used
+on or after the date on which the relevant eligible plant is commissioned, it
+meets the requirements in regulation 7 (requirements for new-build
+properties).
+
+5.2
+
+For the purposes of this regulation—
+
+5.2.a
+
+“ electric heating system ” means a heating system which provides heat
+generated wholly or mainly from electricity, but does not include a heat pump,
+
+5.2.aa
+
+“ grant from public funds ” has the meaning given in regulation 2(1),
+
+5.2.b
+
+“ relevant eligible plant ”, in relation to a property, means the eligible
+plant which is installed in relation to that property,
+
+5.2.c
+
+“ social housing ” has the meaning given in section 68 of the Housing and
+Regeneration Act 2008 .
+
+#### Insulation requirements
+
+6
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Requirements for new-build properties
+
+7
+
+7.1
+
+A property meets the requirements in this regulation where the building—
+
+7.1.a
+
+was built principally with the use of the labour or resources of the first
+owner (including where the resource was a loan which the first owner was
+liable to repay),  ...
+
+7.1.b
+
+has not, while it was built or at any subsequent time been owned wholly or
+partly by a person who is not an individual  , and
+
+7.1.c
+
+is not part of an excluded property development.
+
+7.2
+
+In this regulation—
+
+“ excluded property development ” means a development of multiple buildings
+constructed on a plot acquired from a person who decided or offered the plans
+or specifications to which the buildings were wholly or mainly built.
+
+### Eligible plant
+
+#### Eligible plant
+
+8
+
+8.1
+
+For the purposes of these Regulations, a heat pump is an eligible plant where—
+
+8.1.a
+
+it meets the requirements for heat pumps set out in regulation 9(1), and
+
+8.1.b
+
+once installed—
+
+8.1.b.i
+
+it meets the suitability criteria in relation to the eligible property  ...
+for which it is installed, determined in accordance with regulation 9(2), and
+
+8.1.b.ii
+
+it is first commissioned   no more than 120 days before the date on which the
+grant application is properly made, unless the Authority has made a decision
+to extend this period under paragraph (3) .
+
+8.2
+
+For the purposes of these Regulations, subject to regulation 11, a biomass
+boiler is an eligible plant where—
+
+8.2.a
+
+it meets the requirements for biomass boilers set out in regulation 10(1), and
+
+8.2.b
+
+once installed—
+
+8.2.b.i
+
+it meets the suitability criteria in relation to the eligible property,  ...
+for which it is installed, determined in accordance with regulation 10(2), and
+
+8.2.b.ii
+
+it is first commissioned   no more than 120 days before the date on which the
+grant application is properly made, unless the Authority has made a decision
+to extend this period under paragraph (3) .
+
+8.3
+
+The Authority may by notice extend the period specified in paragraph
+(1)(b)(ii) or (2)(b)(ii) where—
+
+8.3.a
+
+that period has been exceeded, or is likely to be exceeded, following a
+decision by the Authority under regulation 15(7), 15(8), 16(8), 21(1), 23 or
+25(5), and
+
+8.3.b
+
+it is satisfied that it is reasonable to do so.
+
+#### Requirements for heat pumps
+
+9
+
+9.1
+
+A heat pump meets the requirements in this paragraph where—
+
+9.1.a
+
+no part of the heat pump which generates heat, other than the ground loop in
+the case of a subsequent heat pump installation in relation to a shared ground
+loop system, was used before the plant was first commissioned,
+
+9.1.b
+
+it has a capacity of no more than 45 kilowatt thermal, or, in the case of a
+shared ground loop system,   the system has a capacity of no more than 300
+kilowatt thermal,
+
+9.1.c
+
+it meets the requirements set out in the standards for heat pumps approved by
+the Secretary of State under regulation 4(1)(b) which are applicable when the
+plant is first commissioned,
+
+9.1.d
+
+it has a seasonal coefficient of performance of at least 2.8, determined in
+accordance with the standard approved by the Secretary of State under
+regulation 4(1)(c) which is applicable when the plant is first commissioned,
+
+9.1.e
+
+it uses a compressor which is driven by electricity, and
+
+9.1.f
+
+if it is an air source heat pump, it is not designed to use heat in air which
+has been expelled from an appliance or building.
+
+9.2
+
+A heat pump meets the suitability criteria in relation to the eligible
+property  ... for which it is installed where—
+
+9.2.a
+
+it provides heating—
+
+9.2.a.i
+
+solely to that property, or to both that property and any related property,
+and
+
+9.2.a.ii
+
+for the purpose of both space heating and hot water heating, using liquid as a
+medium for delivering that heat,
+
+9.2.b
+
+it is capable of meeting the full space heating and hot water heating demands
+of that property, and
+
+9.2.c
+
+it replaces the heat generating components of the original heating system
+installed in that property (where applicable), other than any—
+
+9.2.c.i
+
+supplementary electric heater, including any immersion heater,
+
+9.2.c.ii
+
+circulation pump, or
+
+9.2.c.iii
+
+solar thermal collector.
+
+9.3
+
+For the purposes of paragraph (1)—
+
+9.3.a
+
+“ ground loop ”, in relation to a shared ground loop system, means the
+equipment which absorbs energy stored in the form of heat in the ground,
+including heat in water in the ground, or in surface water,
+
+9.3.b
+
+“ shared ground loop system ” means a system in which a ground loop provides
+heat energy through a hydraulic connection to two or more ground source heat
+pumps,
+
+9.3.c
+
+“ subsequent heat pump installation ”, in relation to a shared ground loop
+system, means the installation of a second or subsequent ground source heat
+pump as part of an existing shared ground loop system.
+
+9.4
+
+For the purposes of paragraph (2) and regulation 10(2), “ hot water ” means
+hot water which is intended for the personal use of the individuals who use or
+occupy the eligible property  ... and does not include hot water used for the
+purposes of—
+
+9.4.a
+
+space heating,
+
+9.4.b
+
+heating a swimming pool, or
+
+9.4.c
+
+carrying out a process.
+
+#### Requirements for biomass boilers
+
+10
+
+10.1
+
+A biomass boiler meets the requirements in this paragraph where—
+
+10.1.a
+
+no part of the biomass boiler which generates heat was used before the plant
+is first commissioned,
+
+10.1.b
+
+it has a capacity of no more than 45 kilowatt thermal,
+
+10.1.c
+
+it meets the requirements set out in the standards for biomass boilers
+approved by the Secretary of State under regulation 4(1)(d) which are
+applicable when the plant was first commissioned,
+
+10.1.d
+
+an emissions certificate that meets the requirements set out in Schedule 1
+(requirements for emissions certificates)—
+
+10.1.d.i
+
+has been issued for the plant,
+
+10.1.d.ii
+
+has been issued for a plant of the same make, model and installation capacity
+as the plant, or
+
+10.1.d.iii
+
+specifies the plant as being in the same type-testing range as a plant for
+which an emissions certificate has been issued (see paragraph 1(m) of Schedule
+1),
+
+10.1.e
+
+if the biomass boiler has a cooking function that is not able to be controlled
+independently of the heating or hot water function.
+
+10.2
+
+A biomass boiler meets the suitability criteria in relation to the eligible
+property  ... in which it is installed where—
+
+10.2.a
+
+it provides heating—
+
+10.2.a.i
+
+solely to that property, or to both that property and any related property,
+and
+
+10.2.a.ii
+
+for the purpose of space heating and hot water heating, using liquid as a
+medium for delivering that heat,
+
+10.2.b
+
+it is capable of meeting the full space heating and hot water heating demands
+of that property, and
+
+10.2.c
+
+it replaces the heat generating components of the original heating system
+installed in the eligible property (where applicable), other than any—
+
+10.2.c.i
+
+supplementary electric heater, including any immersion heater,
+
+10.2.c.ii
+
+circulation pump, or
+
+10.2.c.iii
+
+solar thermal collector.
+
+#### Properties in relation to which biomass boilers are not eligible plant
+
+11
+
+A biomass boiler is not an eligible plant in relation to a property, where the
+property—
+
+11.a
+
+is in an urban area,
+
+11.b
+
+is fuelled by mains gas, or
+
+11.c
+
+falls within regulation 5(1)(d) and meets the requirements in regulation 7
+(new-build properties).
+
+### Boiler upgrade grants
+
+#### Determination and publication of budget allocation
+
+12
+
+12.1
+
+The Secretary of State—
+
+12.1.a
+
+must publish the total budget allocation for boiler upgrade vouchers before
+the end of the period of 14 days beginning with the commencement date,
+
+12.1.b
+
+must determine and publish the budget allocation for boiler upgrade vouchers
+for a relevant financial year before—
+
+12.1.b.i
+
+in the case of the relevant financial year beginning with the commencement
+date, the end of the period of 14 days beginning with that date;
+
+12.1.b.ii
+
+in the case of any other relevant financial year, the beginning of that
+financial year, and
+
+12.1.c
+
+may determine and publish a budget allocation for boiler upgrade vouchers for
+a quarter of a relevant financial year before the beginning of that quarter.
+
+12.2
+
+The Authority must publish the total value of boiler upgrade vouchers issued,
+at least once in every quarter of each relevant financial year.
+
+12.3
+
+For the purposes of paragraph (2), “ boiler upgrade vouchers issued ” means
+boiler upgrade vouchers which have been issued and have not—
+
+12.3.a
+
+expired in accordance with regulation 15(2), or
+
+12.3.b
+
+been revoked in accordance with regulation 16(8) or 21.
+
+#### Determination and publication of boiler upgrade grant values
+
+13
+
+13.1
+
+The Secretary of State must determine and publish the values of the boiler
+upgrade grants, for one set of grant categories contained in Schedule 1A
+within 14 days of the day on which the Boiler Upgrade Scheme (England and
+Wales) (Amendment) Regulations 2024 come into force.
+
+13.2
+
+The Secretary of State may review the value of a boiler upgrade grant, having
+regard to such matters as the Secretary of State considers relevant, and may
+as a result of such a review—
+
+13.2.a
+
+increase or decrease the value of the boiler upgrade grant, or
+
+13.2.b
+
+determine that the value of the boiler upgrade grant remains unchanged.
+
+13.2A
+
+The Secretary of State may review the categories of boiler upgrade grant,
+having regard to such matters as the Secretary of State considers relevant,
+and as a result of such a review, may—
+
+13.2A.a
+
+determine that the published grant categories are to be replaced by an
+alternative set of grant categories and publish the values of the boiler
+upgrade grant for the alternative set of grant categories contained in
+Schedule 1A, or
+
+13.2A.b
+
+determine that the same set of grant categories available should remain
+unchanged,
+
+13.2B
+
+The Secretary of State may only determine and publish the values of one set of
+grant categories contained in Schedule 1A at any one time.
+
+13.3
+
+For the purposes of paragraph (2)  and (2A),  the matters to which the
+Secretary of State may have regard include—
+
+13.3.a
+
+the number of boiler upgrade vouchers issued in relation to the installation
+of eligible plant,
+
+13.3.b
+
+a change in the market price of eligible plant or in the cost of installation
+of eligible plant,
+
+13.3.c
+
+any other factor which is likely, in the opinion of the Secretary of State, to
+affect—
+
+13.3.c.i
+
+the number of grant applications, or
+
+13.3.c.ii
+
+the cost of installing or running eligible plant.
+
+13.4
+
+Where the value of a boiler upgrade grant is increased or decreased as a
+result of a review described in paragraph (2), the Secretary of State must
+publish a notice (a “grant change notice”) specifying—
+
+13.4.a
+
+the new value of the boiler upgrade grant, and
+
+13.4.b
+
+the date on which that new value will take effect, which must be a date at
+least 28 days after the date on which the grant change notice is published.
+
+13.5
+
+Where the set of grant categories is replaced as a result of a review
+described in paragraph (2A), the Secretary of State must publish a notice (a
+“grant category change notice”) specifying—
+
+13.5.a
+
+the new set of grant categories that will be available,
+
+13.5.b
+
+the values of the boiler upgrade grants for those grant categories, and
+
+13.5.c
+
+the date on which the new set of grant categories will take effect, which must
+be a date at least 28 days after the date on which the grant change notice is
+published.
+
+#### Grant applications
+
+14
+
+14.1
+
+An installer may make an application to the Authority for a boiler upgrade
+grant (a “grant application”) in relation to the installation of an eligible
+plant—
+
+14.1.a
+
+for an eligible property, or
+
+14.1.b
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+provided that the conditions in paragraph (2) are met.
+
+14.2
+
+The conditions in this paragraph are that—
+
+14.2.a
+
+the owner of the property—
+
+14.2.a.i
+
+consents to the installer making the grant application,
+
+14.2.a.ii
+
+will become the owner of the eligible plant on completion of the installation,
+
+14.2.a.iii
+
+has not received a grant from public funds in respect of any of the costs of
+the purchase or installation of the eligible plant,  ...
+
+14.2.a.iv
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+14.2.a.v
+
+has not received a previous grant from public funds for a heat pump or a
+biomass boiler installed at the same address,
+
+14.2.a.vi
+
+has read and understood the recommendations on their energy performance
+certificate, and
+
+14.2.a.vii
+
+if the property owner does not occupy the property, has informed the tenant
+(if any) of the impact of the installation of the eligible plant,
+
+14.2.b
+
+the installation of the eligible plant is not a measure promoted by an
+electricity or gas supplier for the purpose of achieving their home-heating
+cost reduction obligation under section 41B of the Electricity Act 1989  or
+section 33BD of the Gas Act 1986 ,
+
+14.2.ba
+
+there has been no previous installation of a heat pump, or biomass boiler at
+the property as a measure promoted by an electricity or gas supplier for the
+purpose of achieving their home-heating cost reduction obligation under
+section 41B of the Electricity Act 1989 or section 33BD of the Gas Act 1986,
+
+14.2.c
+
+a boiler upgrade grant has not previously been paid to an installer in
+accordance with regulation 16(6)(b) in relation to the installation of any
+eligible plant in the property, and
+
+14.2.d
+
+if the installer is paid the boiler upgrade grant in accordance with
+regulation 16(6)(b), it will be used by the installer solely to fund the
+installation of the eligible plant.
+
+14.3
+
+A grant application must be in writing, in such form as the Authority may
+require, and include—
+
+14.3.a
+
+the information specified in Schedule 2 (information required for grant
+application), and
+
+14.3.b
+
+confirmation, given by the installer, that the condition in paragraph (2)(c)
+is met, and the information provided under sub-paragraph (a) is accurate to
+the best of their knowledge and belief.
+
+14.4
+
+The Authority must give the owner of the property a notice which—
+
+14.4.a
+
+specifies, for the purposes of determining the grant application, the
+information required from the owner of the property, which may include
+confirming that owner is aware of, and consents to the grant application,
+
+14.4.b
+
+specifies the period within which the information required in sub-paragraph
+(a) must be provided, and
+
+14.4.c
+
+informs the owner that failure to provide the requested information within
+that period may result in the grant application being rejected.
+
+14.5
+
+Where the Authority considers that further information from the installer is
+necessary for the purpose of determining a grant application, it may by
+notice—
+
+14.5.a
+
+specify further information which the installer is required to provide within
+14 days beginning with the date the notice is issued, and
+
+14.5.b
+
+inform the installer that failure to provide the requested information within
+that period may result in the grant application being rejected.
+
+14.6
+
+The Authority may by notice extend the period specified in a notice under
+paragraph (4)(b) or (5)(b) where it is satisfied that it is reasonable to do
+so.
+
+14.7
+
+For the purposes of paragraph (4), where there is more than one owner of the
+eligible property  ...—
+
+14.7.a
+
+the Authority may request information, and confirmation of the matters
+referred to in paragraph (2)(a), from any person who is an owner of the
+eligible property,
+
+14.7.b
+
+any information or confirmation so requested may be provided by one of the
+owners of the eligible property on behalf of one or more of the other owners,
+provided that any confirmation requested is provided by or on behalf of every
+owner, and
+
+14.7.c
+
+where one owner provides confirmation on behalf of another owner, the
+confirmation must state that they have authority to provide that confirmation
+on behalf of that other owner.
+
+14.8
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+14.9
+
+An installer may withdraw a grant application made under paragraph (1) at any
+time before the Authority determines the application and issues a boiler
+upgrade voucher under regulation 15.
+
+#### Determination of grant applications
+
+15
+
+15.1
+
+Subject to paragraphs (4) to (7), regulation 20(5) (refusal of subsequent
+grant applications), and regulation 21 (revocation of vouchers), where a grant
+application is properly made, the Authority must issue a notice (a “boiler
+upgrade voucher”) to the installer which specifies—
+
+15.1.a
+
+the date on which the boiler upgrade voucher is issued,
+
+15.1.b
+
+the date on which the boiler upgrade voucher expires if it has not already
+been—
+
+15.1.b.i
+
+redeemed in accordance with regulation 16(6), or
+
+15.1.b.ii
+
+revoked in accordance with regulation 16(8) or 21,
+
+15.1.c
+
+the unique identifier of the boiler upgrade voucher,
+
+15.1.d
+
+which category of boiler upgrade grant contained in Schedule 1A the boiler
+upgrade voucher relates to,
+
+15.1.e
+
+the address of the property, and the installer to which the boiler upgrade
+voucher relates,
+
+15.1.f
+
+the name, address, email address, and telephone number of the owner of the
+property to which the boiler upgrade voucher relates, and
+
+15.1.g
+
+the value of the boiler upgrade grant which will be paid to the installer if
+they make a valid application to redeem the boiler upgrade voucher on or
+before the date on which it expires.
+
+15.2
+
+For the purposes of paragraph (1)—
+
+15.2.a
+
+a boiler upgrade voucher relating to the installation of an air source heat
+pump or a biomass boiler expires at the end of the day which falls at the end
+of the period of three months which begins with the date on which it is
+issued, and
+
+15.2.b
+
+a boiler upgrade voucher relating to the installation of a ground source heat
+pump expires at the end of—
+
+15.2.b.i
+
+the day which falls at the end of the period of six months which begins with
+the date on which it is issued, or
+
+15.2.b.ii
+
+31st March   2028 ,
+
+whichever is the earlier.
+
+15.3
+
+For the purposes of paragraph (1)(g), the value of a boiler upgrade grant is
+the current value of the boiler upgrade grant, for the eligible plant that is
+specified in the boiler upgrade voucher in accordance with paragraph (1)(d),
+which is published under regulation 13(1)   , (4) or (5)   (as the case may
+be)—
+
+15.3.a
+
+in a case where the grant application is considered as an outstanding
+application in accordance with paragraph (6), on the date on which the boiler
+upgrade voucher is issued,
+
+15.3.b
+
+in any other case, on the date on which the grant application is properly
+made.
+
+15.4
+
+The Authority must consider properly made grant applications in the order in
+which they are received by it, and must not issue a boiler upgrade voucher
+without the written consent of the Secretary of State—
+
+15.4.a
+
+in a relevant financial year, where—
+
+15.4.a.i
+
+the total value of boiler upgrade vouchers already issued in that financial
+year is equal to, or exceeds, the budget allocation for that financial year,
+or
+
+15.4.a.ii
+
+the total value of boiler upgrade vouchers issued in that financial year would
+exceed the budget allocation for that financial year if that boiler upgrade
+voucher was issued, or
+
+15.4.b
+
+in a quarter in respect of which the Secretary of State has published a budget
+allocation in accordance with regulation 12(1)(c), where the total value of
+boiler upgrade vouchers already issued in that quarter is equal to, or
+exceeds, the budget allocation for that quarter.
+
+15.5
+
+For the purposes of paragraph (4)—
+
+15.5.a
+
+the budget allocation for a relevant financial year means the budget
+allocation published in accordance with regulation 12(1)(b) in respect of that
+year,
+
+15.5.b
+
+the total value of boiler upgrade vouchers issued does not include the value
+of any boiler upgrade voucher which has—
+
+15.5.b.i
+
+expired in accordance with paragraph (2), or
+
+15.5.b.ii
+
+been revoked in accordance with regulation 16(8) or 21.
+
+15.6
+
+Following any decrease in the total value of boiler upgrade vouchers issued in
+a relevant financial year or a quarter (as the case may be), as a result of
+the expiry or revocation of a boiler upgrade voucher within the relevant
+financial year or the quarter in which it was issued, the Authority must
+proceed to consider outstanding grant applications in the order in which they
+were received.
+
+15.7
+
+The Authority must refuse to issue a boiler upgrade voucher—
+
+15.7.a
+
+where it considers that the grant application does not comply with regulation
+14(1),
+
+15.7.b
+
+where it is not satisfied that the conditions in regulation 14(2) are met in
+relation to the grant application, or
+
+15.7.c
+
+after 31st December   2027 .
+
+15.8
+
+The Authority may refuse to issue a boiler upgrade voucher where—
+
+15.8.a
+
+it considers that the installer will not comply with one or more of the
+installer obligations,
+
+15.8.b
+
+it refused a previous grant application made by the installer or a connected
+person, or withheld payment of a boiler upgrade grant from the installer or a
+connected person in accordance with regulation 20, on the ground that
+information contained in a previous grant application was incorrect or
+misleading in a material particular,
+
+15.8.c
+
+the owner of the property has failed to provide the information specified in a
+notice given under regulation 14(4) within the period specified under
+regulation 14(4)(b) or (6), as applicable,
+
+15.8.d
+
+the installer has failed to provide the information specified in a notice
+given under regulation 14(5) within the period specified in regulation
+14(5)(b) or (6), as applicable,
+
+15.8.e
+
+a voucher previously issued to the installer or a connected person was
+revoked, other than at the request of the installer or the connected person
+(as the case may be), or
+
+15.8.f
+
+the Authority is satisfied, having received notification from a relevant body,
+that the installation or operation of the eligible plant is or will be in
+breach of any provision of legislation or of a consumer code, of which the
+installer is a member.
+
+15.9
+
+For the purposes of paragraph (8)(f), “ relevant body ” means a court,
+tribunal, or public authority responsible for enforcing the legislative
+provision, the Microgeneration Certification Scheme or an equivalent scheme,
+or a consumer code, of which the installer is a member.
+
+15.10
+
+Where the Authority refuses to issue a boiler upgrade voucher, it must send a
+notice to the installer specifying—
+
+15.10.a
+
+the reason for the refusal, and
+
+15.10.b
+
+details of the installer’s right of review under regulation 25.
+
+#### Redemption applications
+
+16
+
+16.1
+
+An installer who—
+
+16.1.a
+
+has been issued a boiler upgrade voucher, and
+
+16.1.b
+
+has installed the eligible plant for the eligible property  ... as specified
+in that voucher, and commissioned the eligible plant,
+
+may make an application to the Authority to redeem the boiler upgrade voucher
+(a “redemption application”) after the plant is first commissioned and before
+the boiler upgrade voucher expires.
+
+16.2
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+16.3
+
+A redemption application must be in writing, in such form as the Authority may
+require, and include—
+
+16.3.a
+
+the information specified in Schedule 3 (information required for redemption
+application),
+
+16.3.b
+
+evidence that the eligible plant meets the certification requirements in
+Schedule 4 (certification requirements), and
+
+16.3.c
+
+confirmation, given by the installer, that the information provided under sub-
+paragraph (a) and (b) is accurate to the best of their knowledge and belief.
+
+16.4
+
+Where the Authority considers that further information from the installer is
+necessary for the purpose of determining a redemption application, it may by
+notice—
+
+16.4.a
+
+specify further information which the installer is required to provide within
+14 days beginning with the date the notice is issued, and
+
+16.4.b
+
+inform the installer that failure to provide the requested information within
+that period may result in the redemption application being rejected.
+
+16.4A
+
+The Authority may, as soon as reasonably practicable, undertake an audit of
+the information provided in order to determine a redemption application.
+
+16.5
+
+The Authority may by notice extend the period specified in a notice under
+paragraph (4)(a) where it is satisfied that it is reasonable to do so.
+
+16.6
+
+Subject to paragraph (7), regulation 20 (power to withhold grant payment in
+the case of non-compliance), and regulation 21 (revocation of vouchers), where
+the Authority is satisfied that a redemption application has been properly
+made, it must—
+
+16.6.a
+
+notify the installer that their redemption application has been approved, and
+
+16.6.b
+
+make a payment to the installer of the amount of boiler upgrade grant which
+was notified to them under regulation 15(1)(g) (“the grant amount”).
+
+16.7
+
+The Authority must refuse a redemption application where approval of the
+redemption application would result in more than one boiler upgrade grant
+being paid in accordance with paragraph (6) in relation to the same eligible
+property.
+
+16.8
+
+Where the Authority is not satisfied that the redemption application has been
+properly made, it may refuse that application and revoke the boiler upgrade
+voucher.
+
+16.9
+
+Where the Authority refuses a redemption application it must, within 14 days
+of making that decision, send a notice to the installer—
+
+16.9.a
+
+notifying them of that decision;
+
+16.9.b
+
+specifying the reason for the refusal;
+
+16.9.c
+
+notifying them of their right of review under regulation 25.
+
+### Compliance and enforcement
+
+#### Obligations on installers
+
+17
+
+17.1
+
+An installer who has   made a grant application that has not been refused by
+the Authority, or been issued a boiler upgrade voucher   must —
+
+17.1.a
+
+retain a copy of any information relied on when making the grant application
+and any redemption application for six years from the date on which the grant
+application or the redemption application (as the case may be) was made,
+
+17.1.b
+
+if they become aware that any of the information provided in support of the
+grant application or any redemption application—
+
+17.1.b.i
+
+was incorrect at the time it was relied on, or
+
+17.1.b.ii
+
+has materially changed since it was relied on such that, had the application
+been made after the change, it would not comply with the requirements in these
+Regulations,
+
+notify the Authority of that fact no more than 14 days after becoming so
+aware,
+
+17.1.c
+
+provide to the Authority, within 14 days of a request by the Authority, any
+information which the installer holds in relation to the installation to which
+the boiler upgrade voucher relates and which the Authority requires in order
+to discharge its functions under these Regulations.
+
+17.2
+
+Paragraph (1) applies regardless of whether the boiler upgrade voucher has—
+
+17.2.a
+
+expired in accordance with regulation 15(2),
+
+17.2.b
+
+been redeemed in accordance with regulation 16(6), or
+
+17.2.c
+
+been revoked in accordance with regulation 16(8) or 21.
+
+#### Inspection of property
+
+18
+
+18.1
+
+The Authority or its authorised agent may request access at any reasonable
+hour to inspect a property to which a boiler upgrade voucher relates to do any
+one or more of the following—
+
+18.1.a
+
+verify an eligible plant,
+
+18.1.b
+
+verify that a property is an eligible property  ...,
+
+18.1.c
+
+take photographs, measurements, or video or audio recordings in relation to
+that verification,
+
+18.1.d
+
+ensure that there is no contravention of these Regulations.
+
+18.2
+
+The request referred to in paragraph (1) must be made by a notice to the owner
+of the property which—
+
+18.2.a
+
+specifies the reason for the proposed inspection,
+
+18.2.b
+
+is given to the owner no less than two days before the proposed inspection is
+to take place, and
+
+18.2.c
+
+informs the owner of their right to refuse the request.
+
+18.3
+
+Paragraph (1) applies regardless of whether the boiler upgrade voucher has—
+
+18.3.a
+
+expired in accordance with regulation 15(2),
+
+18.3.b
+
+been redeemed in accordance with regulation 16(6), or
+
+18.3.c
+
+been revoked in accordance with regulation 16(8) or 21.
+
+#### Power to temporarily withhold grant payment during investigation
+
+19
+
+19.1
+
+Where the Authority has reasonable grounds to suspect that—
+
+19.1.a
+
+an installer—
+
+19.1.a.i
+
+has failed or is failing to comply with an installer obligation, or
+
+19.1.a.ii
+
+has been issued a voucher, or has been paid a boiler upgrade grant, as a
+result of the provision of information which was incorrect in a material
+particular,
+
+19.1.b
+
+the person who is specified in a boiler upgrade voucher as an installer is not
+an installer,
+
+19.1.c
+
+the property specified in a boiler upgrade voucher is not an eligible property
+...  , or
+
+19.1.d
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+19.1.e
+
+the plant specified in a boiler upgrade voucher is not eligible, or not
+eligible in relation to the property specified in the voucher,
+
+and it requires time to investigate, it may decide to withhold one or more
+payments of a boiler upgrade grant which would otherwise be payable to the
+installer, pending the outcome of that investigation.
+
+19.2
+
+For the purposes of paragraph (1), the Authority is deemed to have reasonable
+grounds to suspect the matters mentioned in paragraph (1)(a) or (b) if it
+receives notification from the Microgeneration Certification Scheme or an
+equivalent scheme or a consumer code that the installer is under investigation
+by them for breach of a requirement of the Microgeneration Certification
+Scheme, the equivalent scheme or the consumer code.
+
+19.3
+
+Within 14 days of a decision to withhold a payment of a boiler upgrade grant
+under paragraph (1), the Authority must send a notice to the installer which
+specifies—
+
+19.3.a
+
+which of the grounds in paragraph (1)(a) to (e) apply,
+
+19.3.b
+
+the boiler upgrade grant payment which will be withheld and the next steps in
+the investigation,
+
+19.3.c
+
+where applicable, the information the installer must provide to the Authority,
+
+19.3.d
+
+the date by which the information mentioned in sub-paragraph (c) must be
+provided, and
+
+19.3.e
+
+the consequences of the installer failing to provide the information mentioned
+in sub-paragraph (d) by the date specified.
+
+19.4
+
+The Authority’s investigation must be commenced and completed as soon as is
+reasonably practicable, and immediately on conclusion of its investigation the
+Authority must inform the installer of—
+
+19.4.a
+
+the outcome of the investigation, and
+
+19.4.b
+
+the action the Authority proposes to take under this Part, if any.
+
+19.5
+
+Where the Authority concludes that none of the grounds in paragraph (1)(a) to
+(e) is satisfied, it must make payment of any grant withheld during the course
+of its investigation.
+
+19.6
+
+Within three months of sending a notice under paragraph (3), the Authority
+must either make payment in accordance with paragraph (5) or must send the
+installer a notice under regulation 20, 21, or 22.
+
+#### Power to withhold grant payment in the case of non-compliance
+
+20
+
+20.1
+
+Where the Authority is satisfied that—
+
+20.1.a
+
+an installer—
+
+20.1.a.i
+
+has failed or is failing to comply with an installer obligation, or
+
+20.1.a.ii
+
+has been issued a voucher, or has been paid a boiler upgrade grant, as a
+result of the provision of information which was incorrect in a material
+particular,
+
+20.1.b
+
+the person who is specified in a boiler upgrade voucher as the installer is
+not an installer,
+
+20.1.c
+
+the property specified in a boiler upgrade voucher is not an eligible property
+...  , or
+
+20.1.d
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+20.1.e
+
+the plant specified in a boiler upgrade voucher is not eligible, or not
+eligible in relation to the property specified in the voucher,
+
+it may decide to withhold one or more boiler upgrade grant payments which
+would otherwise be payable to the installer.
+
+20.2
+
+Within 14 days of a decision to withhold a payment of a boiler upgrade grant
+under paragraph (1), the Authority must send a notice to the installer
+specifying—
+
+20.2.a
+
+which of the grounds in paragraph (1)(a) to (e) apply,
+
+20.2.b
+
+where there has been a failure to comply with an installer obligation, the
+respect in which the Authority is satisfied that the installer has failed or
+is failing to comply with that obligation,
+
+20.2.c
+
+where the installer has been issued a boiler upgrade voucher as a result of
+the provision of information which was incorrect in a material particular,
+details of the respect in which the information was incorrect,
+
+20.2.d
+
+the number, and total value, of boiler upgrade grant payments the Authority
+intends to withhold,
+
+20.2.e
+
+where applicable, the steps that the installer must take to satisfy the
+Authority that it is complying with the installer obligation,
+
+20.2.f
+
+where applicable, the steps that the installer must take to satisfy the
+Authority that, notwithstanding the provision of information which was
+incorrect in a material particular, the Authority should not withhold the
+boiler upgrade grant payments,
+
+20.2.g
+
+where applicable, the information the installer must provide to the Authority,
+
+20.2.h
+
+the date by which the steps referred to in sub-paragraph (e) or (f) must be
+completed, or the information mentioned in sub-paragraph (g) must be provided,
+which must be within 14 days beginning with the date the notice is issued, and
+
+20.2.i
+
+the consequences of the installer failing to take the steps referred to in
+sub-paragraph (e) or (f), or to provide the information mentioned in sub-
+paragraph (g), by the date specified.
+
+20.3
+
+The Authority may extend the time specified in the notice in accordance with
+paragraph (2)(h) where it is satisfied that it is reasonable to do so.
+
+20.4
+
+Where the Authority is satisfied that the installer has taken the steps
+specified in the notice in accordance with paragraph (2)(e) or (f), or
+provided the information specified in the notice in accordance with paragraph
+(2)(g), as applicable, within the time specified, it must notify that
+installer that the boiler upgrade grant payments will not be withheld in
+accordance with this regulation.
+
+20.5
+
+Where the Authority is not satisfied as described in paragraph (4), the
+Authority—
+
+20.5.a
+
+must notify the installer of that fact,
+
+20.5.b
+
+may revoke a boiler upgrade voucher, and
+
+20.5.c
+
+may refuse any subsequent grant application by that installer or by a
+connected person.
+
+#### Revocation of vouchers
+
+21
+
+21.1
+
+The Authority may revoke a boiler upgrade voucher—
+
+21.1.a
+
+where it is no longer satisfied that the conditions in regulation 14(2) are
+met in relation to the boiler upgrade voucher,
+
+21.1.b
+
+where it is no longer satisfied that any information required by a notice
+given under regulation 14(4) in relation to the boiler upgrade voucher is
+accurate,
+
+21.1.c
+
+where it is satisfied that the installer to whom it has issued the boiler
+upgrade voucher—
+
+21.1.c.i
+
+has failed or is failing to comply with an installer obligation, or
+
+21.1.c.ii
+
+has been issued the voucher as a result of the provision of information which
+was incorrect in a material particular,
+
+21.1.d
+
+where it is satisfied that—
+
+21.1.d.i
+
+the person who is specified in the boiler upgrade voucher as the installer is
+not an installer,
+
+21.1.d.ii
+
+the property specified in the boiler upgrade voucher is not an eligible
+property  ...  , or
+
+21.1.d.iii
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+21.1.d.iv
+
+the plant specified in the boiler upgrade voucher is not eligible, or not
+eligible in relation to the property specified in the voucher, or
+
+21.1.e
+
+at the request of the installer.
+
+21.2
+
+Where the Authority is satisfied as set out in paragraph (1)(c) or (d)(i), it
+may also revoke all other boiler upgrade vouchers issued to the installer.
+
+21.3
+
+Within 14 days of a decision to revoke the boiler upgrade voucher under
+paragraph (1), the Authority must send a notice to the installer specifying—
+
+21.3.a
+
+where paragraph (1)(a) or (b) applies—
+
+21.3.a.i
+
+the respect in which the Authority is satisfied that the condition is no
+longer met, or the information is no longer accurate, and
+
+21.3.a.ii
+
+where applicable, the steps that the installer must take to satisfy the
+Authority that the condition is met or the information is accurate,
+
+21.3.b
+
+where paragraph (1)(c)(i) applies—
+
+21.3.b.i
+
+the respect in which the Authority is satisfied that the installer has failed
+or is failing to comply with the installer obligation, and
+
+21.3.b.ii
+
+where applicable, the steps that the installer must take to satisfy the
+Authority that it is complying with the installer obligation,
+
+21.3.c
+
+where paragraph (1)(c)(ii) applies—
+
+21.3.c.i
+
+details of the respect in which the information was incorrect, and
+
+21.3.c.ii
+
+where applicable, the steps that the installer must take to satisfy the
+Authority that, notwithstanding the provision of incorrect information, the
+boiler upgrade voucher should not be revoked,
+
+21.3.d
+
+where paragraph (1)(c) or (d)(i) applies, details of any other boiler upgrade
+vouchers issued to the installer that the Authority has decided to revoke
+under paragraph (2),
+
+21.3.e
+
+where paragraph (1)(d) applies, details of the respect in which the Authority
+is satisfied as to the matters described in paragraph (1)(d)(i), (ii), (iii)
+or (iv) (as applicable),
+
+21.3.f
+
+where applicable, any further information the installer must provide to the
+Authority,
+
+21.3.g
+
+the date by which the steps referred to in sub-paragraph (a)(ii), (b)(ii) or
+(c)(ii) must be completed, or the information mentioned in sub-paragraph (f)
+must be provided, which must be within 14 days beginning with the date the
+notice is issued,
+
+21.3.h
+
+the consequences of the installer failing to take the steps referred to in
+sub-paragraph (a)(ii), (b)(ii) or (c)(ii), or to provide the information
+mentioned in sub-paragraph (f), by the date specified, and
+
+21.3.i
+
+where paragraph (1)(a), (b), (c) or (d) applies, details of the installer’s
+right of review under regulation 25.
+
+21.4
+
+The Authority may extend the time specified in the notice in accordance with
+paragraph (3)(g) where it is satisfied that it is reasonable to do so.
+
+21.5
+
+Where the Authority is satisfied that the installer has taken the steps
+specified in the notice in accordance with sub-paragraph (a)(ii), (b)(ii) or
+(c)(ii) or provided the information specified in the notice in accordance with
+sub-paragraph (f), as applicable, within the time specified, it must notify
+that installer that the boiler upgrade voucher will not be revoked in
+accordance with this regulation.
+
+21.6
+
+Where the Authority revokes a boiler upgrade voucher in accordance with this
+regulation, regulation 16(8) or 20(5) it—
+
+21.6.a
+
+must update the register, maintained under regulation 28, accordingly, and
+
+21.6.b
+
+may refuse any subsequent grant application by that installer or by a
+connected person, except where paragraph (1)(e) applies (installer request to
+revoke).
+
+#### Repayment notices and offsetting
+
+22
+
+22.1
+
+Where the Authority is satisfied that an installer has received payments under
+these Regulations which—
+
+22.1.a
+
+exceed the amount to which the installer was entitled under these Regulations,
+
+22.1.b
+
+were paid whilst there was a failure by the installer to comply with an
+installer obligation, or following such a failure, or
+
+22.1.c
+
+were paid as a result of the provision of information by the installer which
+was incorrect in a material particular,
+
+it may take one of the actions set out in paragraph (2).
+
+22.2
+
+The actions in this paragraph are that the Authority may—
+
+22.2.a
+
+require the installer to repay an amount in relation to some or all of those
+payments, or
+
+22.2.b
+
+offset an amount in relation to some or all of those payments against future
+payments to the installer under these Regulations.
+
+22.3
+
+Before taking either of the actions set out in paragraph (2), the Authority
+must send a notice to the installer specifying—
+
+22.3.a
+
+the amount it is seeking to recover,
+
+22.3.b
+
+the basis on which that amount is calculated,
+
+22.3.c
+
+whether the amount must be repaid or will be offset,
+
+22.3.d
+
+where applicable, the date by which the amount must be repaid, which must be
+not less than 28 days after the date on which the notice is sent, and
+
+22.3.e
+
+details of the installer’s right of review under regulation 25.
+
+22.4
+
+Subject to regulation 25(7), where an installer, who is required to repay an
+amount under this regulation fails, to make payment in full by the date
+specified under paragraph (3)(d), the Authority may recover any outstanding
+amount as a civil debt.
+
+#### Revocation of sanctions
+
+23
+
+23.1
+
+The Authority may at any time revoke a sanction imposed in accordance with any
+of regulations 16(8) and 20 to 22 if it is satisfied that—
+
+23.1.a
+
+there was an error involved in the original imposition of the sanction, or
+
+23.1.b
+
+it is just and equitable in the particular circumstances of the case to do so.
+
+23.2
+
+Within 14 days of a decision to revoke a sanction, the Authority must send a
+notice to the installer specifying—
+
+23.2.a
+
+the sanction which has been revoked, and
+
+23.2.b
+
+the reason for the revocation.
+
+23.3
+
+Where a sanction is revoked, the Authority must, where applicable, update the
+register maintained under regulation 28.
+
+#### Application of this Part in relation to persons who are not or cease to be installers
+
+24
+
+24.1
+
+If a person  who has made a grant application that has not been refused by the
+Authority, or   to whom a boiler upgrade voucher has been issued ceases to be
+an installer, any installer obligations, and the requirement to comply with
+those obligations, continue to apply to that person as if they were an
+installer.
+
+24.2
+
+If any person who makes an application under regulation 14 or 16 is not, or
+ceases to be, an installer, the Authority may commence or continue compliance
+or enforcement action under this Part in relation to any breach of these
+Regulations by them, and they are an installer for the purposes of any such
+action.
+
+### Additional powers and functions of the Authority
+
+#### Right of review
+
+25
+
+25.1
+
+Any installer, or person who has made an application as an installer, affected
+by a decision made by the Authority in exercise of its functions under these
+Regulations (other than a decision made in accordance with regulation 19,
+20(1) or this regulation) may have that decision reviewed by the Authority.
+
+25.2
+
+An application for review must be made by notice in such format as the
+Authority may require and must—
+
+25.2.a
+
+be received by the Authority within 28 days of the date of notification of the
+decision to be reviewed,
+
+25.2.b
+
+specify the decision which that person wishes to be reviewed,
+
+25.2.c
+
+specify the grounds and evidence upon which the application is made, and
+
+25.2.d
+
+be signed by or on behalf of the person making the application.
+
+25.3
+
+A person who has made an application in accordance with paragraph (2) must
+provide the Authority with such information as the Authority may reasonably
+request in order to discharge its functions under this regulation, provided
+any information requested is in that person’s possession.
+
+25.4
+
+A review under this regulation may not be carried out by any person who was
+involved in the decision which is being reviewed.
+
+25.5
+
+On review the Authority may—
+
+25.5.a
+
+revoke or vary its decision,
+
+25.5.b
+
+confirm its decision,
+
+25.5.c
+
+vary any sanction it has imposed (including modifying any date specified for
+the purposes of regulation 22(3)(d)), or
+
+25.5.d
+
+replace any sanction it has imposed with one or more alternative sanctions.
+
+25.6
+
+Within 21 days of the Authority’s decision on a review, it must send a notice
+to the installer or former installer (as the case may be), and to any other
+person who is in the Authority’s opinion affected by its decision, setting out
+its decision with reasons.
+
+25.7
+
+Where an application is made under paragraph (1) for a decision to be
+reviewed, that decision will be suspended until a decision is made under
+paragraph (5).
+
+#### Reliance on information provided to the Authority
+
+26
+
+26.1
+
+When exercising any functions under these Regulations, the Authority may—
+
+26.1.a
+
+treat any information or confirmation provided to it—
+
+26.1.a.i
+
+by an installer in support of a grant application or a redemption application,
+
+26.1.a.ii
+
+by a property owner or any other person in relation to a grant application or
+a redemption application,
+
+as conclusive as to the matters to which they relate, unless the Authority has
+reason to believe that any such information or confirmation is not accurate,
+
+26.1.b
+
+verify any information provided by an installer against any information on the
+register required to be maintained under regulation 27(1) of the EPB
+Regulations, the Microgeneration Installation Database or an approved
+register, and any other information available to the Authority,
+
+26.1.c
+
+treat inclusion of a plant on the Microgeneration Installation Database or an
+approved register as evidence that the plant has been certified on the basis
+that the plant is installed in accordance with a relevant installation
+standard, and
+
+26.1.d
+
+treat any information about a plant on the Microgeneration Installation
+Database or an approved register as conclusive as to the matters to which it
+relates.
+
+26.2
+
+For the purposes of this regulation—
+
+26.2.a
+
+“ Microgeneration Installation Database ” means the database of installations
+maintained by the Microgeneration Certification Scheme,
+
+26.2.b
+
+the Secretary of State—
+
+26.2.b.i
+
+may approve one or more registers for the purposes of paragraph (1)(b), (c)
+and (d),
+
+26.2.b.ii
+
+must publish the details of any register which is approved, and the date from
+which it is approved, and
+
+26.2.b.iii
+
+where any register ceases to be approved, must publish that fact together with
+the date on which it ceased to be approved,
+
+and “ approved register ” means a register which is approved by the Secretary
+of State in accordance with sub-paragraph (b)(i).
+
+#### The Authority’s power to disclose information
+
+27
+
+27.1
+
+The Authority may disclose relevant information to another person for the
+purpose of facilitating the exercise by the Authority of any function it has
+under or by virtue of these Regulations.
+
+27.2
+
+This regulation does not limit the circumstances in which information may
+otherwise lawfully be disclosed by the Authority under any other enactment or
+rule of law.
+
+27.3
+
+For the purposes of this regulation, “ relevant information ” means
+information provided in accordance with these Regulations by a person who
+makes a grant application or a person who owns a property which is the subject
+of a grant application.
+
+#### Duty to maintain register
+
+28
+
+The Authority must maintain a register of—
+
+28.a
+
+grant applications,
+
+28.b
+
+redemption applications,
+
+28.c
+
+issued boiler upgrade vouchers,
+
+28.d
+
+redeemed boiler upgrade vouchers.
+
+and must ensure, so far as practicable, that entries in the register are
+accurate and up to date.
+
+#### Publication of guidance
+
+29
+
+The Authority must publish procedural guidance to installers in connection
+with the administration of the Scheme.
+
+#### Reporting obligations
+
+30
+
+30.1
+
+The Authority must provide monthly reports to the Secretary of State, in such
+manner and form as the Secretary of State may request, containing the
+following information—
+
+30.1.a
+
+in relation to each boiler upgrade grant which was paid during the period
+covered by the report—
+
+30.1.a.i
+
+the information provided to the Authority in support of the related grant
+application in accordance with regulation 14(3)(a), and
+
+30.1.a.ii
+
+the information provided to the Authority in support of the related redemption
+application in accordance with regulation 16(3)(a), and
+
+30.1.b
+
+such other information as the Authority holds and the Secretary of State may
+require in relation to grant applications and issued boiler upgrade vouchers.
+
+30.2
+
+Each monthly report must cover a calendar month, and must be provided to the
+Secretary of State within seven working days of the end of that month.
+
+30.3
+
+The Authority must provide the following reports to the Secretary of State, in
+such manner and form as the Secretary of State may request, containing the
+information specified in paragraph (1)(a) and (b) in aggregate form—
+
+30.3.a
+
+a report, provided by 31st August 2022, for the period beginning with the
+commencement date and ending with 31st July 2022,
+
+30.3.b
+
+quarterly reports in accordance with paragraph (4),
+
+30.3.c
+
+annual reports, for each relevant financial year, by 31st July following the
+end of each relevant financial year.
+
+30.4
+
+The quarterly reports must cover a three month period beginning with 1st
+August, 1st November, 1st February or 1st May, with the first beginning with
+1st August 2022 and the last beginning with 1st February   2028 , and be
+provided by no later than one month after the end of the relevant three month
+period.
+
+30.5
+
+The Authority must publish each quarterly and annual report by no later than
+the date on which it is provided to the Secretary of State.
+
+30.6
+
+Any information which includes personal data (within the meaning of section
+3(2) of the Data Protection Act 2018 ) relating to the owner of a property,
+and which is required to be, reported or published by or under this
+regulation, must be reported or published (as the case may be) in anonymised
+form.
+
+30.7
+
+For the purposes of paragraph (7), “ anonymised form ” means that the data is
+in a form calculated to prevent the data from being identified as relating to
+a particular person or property.
+
+#### Additional information to be provided to the Secretary of State
+
+31
+
+31.1
+
+On request by the Secretary of State, the Authority must provide to the
+Secretary of State in such manner and form and by such date as the Secretary
+of State may request such additional information as the Authority may hold in
+relation to the performance of its functions under these Regulations.
+
+31.2
+
+For the avoidance of doubt, the information which the Secretary of State may
+request under paragraph (1) includes personal data (within the meaning of
+section 3(2) of the Data Protection Act 2018 ), that would otherwise be
+anonymised under regulation 30(6).
+
+#### Provision of information to the Authority
+
+32
+
+32.1
+
+This regulation applies where—
+
+32.1.a
+
+the Authority requests information from—
+
+32.1.a.i
+
+an installer,
+
+32.1.a.ii
+
+a person who has made an application as an installer, or
+
+32.1.a.iii
+
+an owner,
+
+32.1.b
+
+an installer, a person who has made an application as an installer, or an
+owner is required to provide information or confirmation to the Authority
+under these Regulations.
+
+32.2
+
+The information or confirmation must be provided within such time and in such
+manner and form as the Authority may reasonably request and must be accurate
+to the best knowledge and belief of the person required to provide it.
+
+32.3
+
+The costs of providing the information are to be borne, where applicable, by—
+
+32.3.a
+
+the installer,
+
+32.3.b
+
+the person who has made an application as an installer, or
+
+32.3.c
+
+the owner, where paragraph (1)(a)(iii) applies.
+
+#### Notices
+
+33
+
+33.1
+
+Any notice or notification required to be given or issued under these
+Regulations must be in writing and may be sent by electronic means, including
+by sending it to an email address provided by the addressee for the purposes
+of these Regulations.
+
+33.2
+
+Any such notice or notification required to be given to or issued to or served
+on an installer or the owner of a property (“ P ”) may be given by—
+
+33.2.a
+
+delivering or sending it to, or leaving it at—
+
+33.2.a.i
+
+P’s registered office, P’s principal place of activity, or P’s home address
+(as applicable), or
+
+33.2.a.ii
+
+another address provided by P for the purposes of these Regulations, or
+
+33.2.b
+
+electronic means, including by sending it to an email address provided by P
+for the purposes of these Regulations.
+
+      Callanan   Parliamentary Under Secretary of State   Department for
+Business, Energy and Industrial Strategy   22nd May 2022
+
+Requirements for emissions certificates
+
+Regulation 10(1)(d)
+
+1
+
+An emissions certificate meets the requirements in this Schedule where it is
+issued by a testing laboratory which is accredited by UKAS to the standard
+approved by the Secretary of State under regulation 4(1)(e) (“the laboratory
+accreditation standard”) at the time of testing, and contains the following
+information—
+
+1.a
+
+the name and address of the testing laboratory by which tests have been
+carried out,
+
+1.b
+
+the name and signature of the person authorised by the testing laboratory to
+issue the certificate,
+
+1.c
+
+the date of issue of the certificate together with a certificate reference
+number,
+
+1.d
+
+the date of the accreditation of the testing laboratory to the laboratory
+accreditation standard, and the accreditation number,
+
+1.e
+
+the name, model, manufacturer and installation capacity of the plant tested,
+
+1.f
+
+the date of the testing,
+
+1.g
+
+confirmation that—
+
+1.g.i
+
+emissions of NOx and PM have been tested on the same occasion,
+
+1.g.ii
+
+the testing was in accordance with the requirements set out in paragraph 2 or
+3,
+
+1.g.iii
+
+the test was carried out at no less than 85% of the installation capacity of
+the plant,
+
+1.h
+
+confirmation that when tested as specified in sub-paragraph (g)—
+
+1.h.i
+
+emissions of PM from the plant did not exceed 30 grams of PM per gigajoule net
+heat input, and
+
+1.h.ii
+
+emissions of NOx did not exceed 150 grams of NOx per gigajoule net heat input,
+
+where “ net heat input ” means the rate of heat, expressed as the amount of
+heat over time, which is supplied to the plant by the fuel used, based on the
+net calorific value of that fuel,
+
+1.i
+
+the actual emissions of PM and NOx measured when the plant was tested as
+specified in sub-paragraph (g),
+
+1.j
+
+a list of—
+
+1.j.i
+
+the types of fuel used during the testing, and
+
+1.j.ii
+
+the types of fuel which can be used so as to ensure that the emission limits
+referred to in sub-paragraph (h) are not exceeded,
+
+1.k
+
+the moisture content of the fuel used during testing and the maximum moisture
+content which can be used so as to ensure that the emission limits referred to
+in sub-paragraph (h) are not exceeded,
+
+1.l
+
+a statement indicating whether or not the plant tested was a manually stoked
+natural draught plant,
+
+1.m
+
+a list of plants, other than the plant tested, in the type-testing range of
+plants for the certificate, if any.
+
+2
+
+For the purposes of paragraph 1(g)(ii) the requirements in this paragraph are
+that testing is carried out in accordance with the provisions relevant to
+emissions of PM and NOx in the standard approved by the Secretary of State
+under regulation 4(1)(f).
+
+3
+
+For the purposes of paragraph 1(g)(ii) the requirements in this paragraph are
+that—
+
+3.a
+
+testing is carried out in accordance with the standards approved by the
+Secretary of State under regulation 4(1)(g) in relation to—
+
+3.a.i
+
+NOx emissions, and
+
+3.a.ii
+
+PM emissions,
+
+3.b
+
+the emissions of PM represent the average of at least three measurements of
+emissions of PM, each of at least 30 minutes duration, and
+
+3.c
+
+the value for NOx emissions is derived from the average of measurements made
+throughout the PM emission tests.
+
+Sets of Grant Categories
+
+regulation 2, 13 and 15
+
+1
+
+This Schedule specifies the sets of grant categories that may be published by
+the Secretary of State under regulation 13.
+
+Table 1 Set One Column 1 Column 2: A boiler upgrade grant for the installation
+of— 1 An air source heat pump 2 A ground source heat pump 3 A biomass boiler
+
+Table 2 Set Two Column 1 Column 2: A boiler upgrade grant for the installation
+of— 1 An air source heat pump in a new-build property 2 A ground source heat
+pump in a new-build property 3 An air source heat pump in a property that is
+not a new-build property 4 A ground source heat pump in a property that is not
+a new-build property 5 A biomass boiler in a property that is not a new-build
+property
+
+Table 3 Set Three Column 1 Column 2: A boiler upgrade grant for the
+installation of— 1 An air source heat pump in a property that is not an off-
+gas grid property 2 A ground source heat pump in a property that is not an
+off-gas grid property 3 An air source heat pump in an off-gas grid property
+that is replacing a coal heating system 4 An air source heat pump in an off-
+gas grid property that is replacing a liquefied petroleum gas heating system 5
+An air source heat pump in an off-gas grid property that is replacing an oil
+heating system 6 An air source heat pump in an off-gas grid property that is
+replacing a fossil fuel hybrid system 7 An air source heat pump in an off-gas
+grid property that is replacing an electric heating system that is not a heat
+pump 8 An air source heat pump in an off-gas grid property that is replacing
+any other fossil fuel heating system that is not covered by row 3 to 7 of this
+Table 9 A ground source heat pump in an off-gas grid property that is
+replacing a coal heating system 10 A ground source heat pump in an off-gas
+grid property that is replacing a liquefied petroleum gas heating system 11 A
+ground source heat pump in an off-gas grid property that is replacing an oil
+heating system 12 A ground source heat pump in an off-gas grid property that
+is replacing a fossil fuel hybrid system 13 A ground source heat pump in an
+off-gas grid property that is replacing an electric heating system that is not
+a heat pump 14 A ground source heat pump in an off-gas grid property that is
+replacing any other fossil fuel heating system that is not covered by row 9 to
+13 of this Table 15 A biomass boiler in an off-gas grid property replacing a
+coal heating system 16 A biomass boiler in an off-gas grid property replacing
+a liquefied petroleum gas heating system 17 A biomass boiler in an off-gas
+grid property replacing an oil heating system 18 A biomass boiler in an off-
+gas grid property replacing a fossil fuel hybrid system 19 A biomass boiler in
+an off-gas grid property replacing an electric heating system that is not a
+heat pump 20 A biomass boiler in an off-gas grid property replacing any other
+fossil fuel heating system that is not covered by row 15 to 19 of this Table
+
+Table 4 Set Four Column 1 Column 2: A boiler upgrade grant for the
+installation of— 1 An air source heat pump in a property that is not an off-
+gas grid property and not a new-build property 2 A ground source heat pump in
+a property that is not an off-gas grid property and not a new-build property 3
+An air source heat pump in a new-build property 4 A ground source heat pump in
+a new-build property 5 An air source heat pump in an off-gas grid property
+that is replacing a coal heating system 6 An air source heat pump in an off-
+gas grid property that is replacing a liquefied petroleum gas heating system 7
+An air source heat pump in an off-gas grid property that is replacing an oil
+heating system 8 An air source heat pump in an off-gas grid property that is
+replacing a fossil fuel hybrid system 9 An air source heat pump in an off-gas
+grid property that is replacing an electric heating system that is not a heat
+pump 10 An air source heat pump in an off-gas grid property that is replacing
+any other fossil fuel heating system that is not covered by row 5 to 9 of this
+Table 11 A ground source heat pump in an off-gas grid property that is
+replacing a coal heating system 12 A ground source heat pump in an off-gas
+grid property that is replacing a liquefied petroleum gas heating system 13 A
+ground source heat pump in an off-gas grid property that is replacing an oil
+heating system 14 A ground source heat pump in an off-gas grid property that
+is replacing a fossil fuel hybrid system 15 A ground source heat pump in an
+off-gas grid property that is replacing an electric heating system that is not
+a heat pump 16 A ground source heat pump in an off-gas grid property that is
+replacing any other fossil fuel heating system that is not covered by row 11
+to 15 of this Table 17 A biomass boiler in an off-gas grid property replacing
+a coal heating system 18 A biomass boiler in an off-gas grid property
+replacing a liquefied petroleum gas heating system 19 A biomass boiler in an
+off-gas grid property replacing an oil heating system 20 A biomass boiler in
+an off-gas grid property replacing a fossil fuel hybrid system 21 A biomass
+boiler in an off-gas grid property replacing an electric heating system that
+is not a heat pump 22 A biomass boiler in an off-gas grid property replacing
+any other fossil fuel heating system that is not covered by row 17 to 21 of
+this Table
+
+2
+
+For the purposes of this Schedule, a “ fossil fuel hybrid system ” means a
+heating system that comprises of two or more plants that are all powered by
+fossil fuel.
+
+Information required for grant application
+
+Regulation 14(3)(a)
+
+1
+
+This Schedule specifies the information that must be provided in support of a
+grant application.
+
+2
+
+The information is—
+
+2.a
+
+the installer’s name, any trading or other name by which the installer is
+commonly known, and registered office (where applicable) or principal place of
+activity, and company registration number (where applicable),
+
+2.b
+
+the installer’s certification number in relation to the Microgeneration
+Certification Scheme, or an equivalent scheme, under which they are certified,
+
+2.c
+
+the name of the consumer code of which the installer is a member,   and the
+membership or certification number of the consumer code of which the installer
+is a member ,
+
+2.d
+
+where the grant application is made on behalf of the installer by an
+individual, information to enable the Authority to satisfy itself—
+
+2.d.i
+
+as to the identity of that individual, and
+
+2.d.ii
+
+that the individual has authority from the installer to make the grant
+application,
+
+2.e
+
+details of a bank account in the installer’s name which accepts pound sterling
+deposits in the United Kingdom,
+
+2.f
+
+details of the property, including—
+
+2.f.i
+
+the address,
+
+2.f.ii
+
+whether it   has had any heating system installed and was, or will be first
+occupied or used   before the date on which the eligible plant was, or is to
+be, commissioned,
+
+2.f.iii
+
+in the case of a grant application relating to the installation of a biomass
+boiler, whether it is—
+
+2.f.iii.aa
+
+in an urban area
+
+2.f.iii.bb
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2.f.iii.cc
+
+falls within regulation 5(1)(d) and meets the requirements in regulation 7
+(new-build properties),
+
+2.f.iv
+
+whether—
+
+2.f.iv.aa
+
+it is an eligible property  ...
+
+2.f.iv.bb
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2.g
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2.h
+
+details of the original heating system in relation to the property (where
+applicable),
+
+2.ha
+
+whether the property is fuelled by mains gas,
+
+2.i
+
+details of the eligible plant to be installed in the property, including
+whether it is an air source heat pump, a ground source heat pump, or a biomass
+boiler,
+
+2.j
+
+where the property falls within regulation 5(1)(c) (property first occupied or
+used  or has had any heating system installed   before the date on which the
+plant is commissioned), the unique reference number for the valid energy
+performance certificate for the property,
+
+2.k
+
+details of the quote provided by the installer to the owner of the property
+for the installation of the eligible plant,
+
+2.l
+
+the name, address, email address (if available), and telephone number of the
+owner of the property, and
+
+2.m
+
+such other information, or declarations from the installer, as the Authority
+may require to enable it to determine the grant application.
+
+Information required for redemption application
+
+Regulation 16(3)(a)
+
+1
+
+This Schedule specifies the information that must be provided in support of a
+redemption application.
+
+2
+
+The information is—
+
+2.a
+
+the unique reference number under which the eligible plant is certified under
+the Microgeneration Certification Scheme or an equivalent scheme (see
+paragraph 1(a) and (b) of Schedule 4),
+
+2.b
+
+the unique identifier of the boiler upgrade voucher,
+
+2.c
+
+the name of the manufacturer, the model, and the serial number of the eligible
+plant installed for the eligible property  ...,
+
+2.d
+
+where the eligible plant installed was a biomass boiler, the biomass emissions
+certificate,
+
+2.da
+
+the date that the eligible plant was commissioned,
+
+2.e
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
+
+2.f
+
+such other information as the Authority may require to enable it to determine
+the redemption application.
+
+Certification requirements
+
+Regulation 16(3)(b)
+
+1
+
+A plant meets the requirements in this Schedule where it is certified under—
+
+1.a
+
+the Microgeneration Certification Scheme as installed in accordance with a
+relevant installation standard in that scheme, or
+
+1.b
+
+a scheme where—
+
+1.b.i
+
+installers are certified to that scheme’s standards by a certification body or
+organisation accredited by UKAS to the standard approved by the Secretary of
+State under regulation 4(1)(a),
+
+1.b.ii
+
+the plant is installed in accordance with the installation requirements
+applicable to the plant under that scheme when the plant is first commissioned
+and which are equivalent to a relevant installation standard, and
+
+1.b.iii
+
+that scheme is equivalent to the Microgeneration Certification Scheme.
+
+2
+
+For the purposes of paragraph 1(a), “ relevant installation standard ” in
+relation to a plant means an installation standard which—
+
+2.a
+
+is approved by the Secretary of State under regulation 4(1)(h), and
+
+2.b
+
+is in force when the plant is first commissioned.
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations, which apply in England and Wales, establish the Boiler
+Upgrade Scheme (“ the Scheme ”).
+
+The Scheme is a renewable heat incentive scheme to facilitate and encourage
+the use of heat pumps and biomass boilers to provide space and water heating
+in domestic properties and small non-domestic properties. To that extent the
+Scheme replaces the Domestic Renewable Heat Incentive Scheme, set out in the
+Domestic Renewable Heat Incentive Scheme Regulations 2014 ( S.I. 2014/928 )
+which closes to new applicants, with some exceptions, on 31st March 2022.
+
+The Scheme supports the installation of heat pumps and biomass boilers through
+a grant mechanism provided that they do not replace an existing renewable
+heating system.
+
+These Regulations confer functions on the Gas and Electricity Markets
+Authority (“ the Authority ”) in relation to the administration of the Scheme.
+
+Part 2 prescribes eligible properties for the purposes of the Scheme. In
+brief, these are buildings including building units (other than social
+housing):   a     which either meet certain insulation requirements or are new
+build properties, and       b     where the existing heating system in the
+property is fuelled by fossil fuel or is a heating system which provides heat
+generated wholly or mainly from electricity (other than a heat pump).
+
+Part 3 prescribes the eligible plant which may be installed for eligible
+properties under the Scheme, namely air source heat pumps, ground source heat
+pumps, and biomass boilers, where the plant is first commissioned on or after
+1st April 2022. However, a biomass boiler may not be installed under the
+Scheme for an eligible property which is in an urban area and fuelled by mains
+gas, or which is a new-build property.
+
+Part 4 sets out the budget control mechanism for the Scheme, and provides for
+the Secretary of State to determine and publish: the total budget for the
+Scheme, the budget allocation for boiler upgrade vouchers for each of the
+financial years 2022/23, 2023/24 and 2024/25, and the value of boiler upgrade
+vouchers for each of the types of eligible plant. The value of the boiler
+upgrade grants may be reviewed by the Secretary of State during the lifetime
+of the Scheme. Part 4 provides for a certified installer who installs an
+eligible plant for an eligible property, or a property to which regulation
+14(1)(b) applies, to apply to the Authority for a boiler upgrade voucher. The
+voucher is time-limited, and entitles the installer to be paid the relevant
+boiler upgrade grant on completion of the installation, provided that a valid
+application to redeem the voucher is made before the voucher expires. However,
+the Authority may not issue a boiler upgrade voucher after 31st December 2024.
+
+Part 5 deals with compliance and enforcement. It places obligations on
+installers in relation to the provision of information to the Authority, and
+enables the Authority to take action in the event that an installer fails to
+comply with such an obligation or has been issued a boiler upgrade voucher on
+the basis of information which was incorrect in a material particular. Part 5
+enables the Authority to withhold boiler upgrade grant payments, to revoke
+vouchers and to require repayment of a grant in certain circumstances.
+
+Part 6 sets out the additional powers and functions of the Authority under the
+Scheme. It enables any installer or former installer to apply to the Authority
+for a review of any decision affecting them. It requires the Authority to
+publish guidance to installers, and requires the Authority to maintain a
+register of grant applications and grants paid, and to make monthly reports to
+the Secretary of State on the operation of the Scheme.
+
+A full impact assessment of the effect that this instrument will have on the
+costs of business and the voluntary sector is available from the Department
+for Business, Energy and Industrial Strategy at 1 Victoria Street, London,
+SW1H 0ET and is published with the Explanatory Memorandum alongside the
+instrument on  www.legislation.gov.uk .
+

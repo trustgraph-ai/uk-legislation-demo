@@ -1,0 +1,2274 @@
+Title: The Town and Country Planning (Former RAF Scampton) (Accommodation for Asylum-Seekers etc.) Special Development Order 2024
+Date: 2024-10-15
+Description: This Order grants temporary planning permission for development at the former RAF Scampton relating to the provision of accommodation and other forms of support to single adult male asylum-seekers and failed asylum-seekers.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2024/412
+
+## The Town and Country Planning (Former RAF Scampton) (Accommodation for Asylum-Seekers etc.) Special Development Order 2024
+
+    Town And Country Planning, England
+
+  Made   20th March 2024
+
+  Laid before Parliament   21st March 2024
+
+  Coming into force   11th April 2024
+
+      The Secretary of State for Levelling Up, Housing and Communities makes
+this Order in exercise of the powers conferred by sections 59(1), (2)(a) and
+(3)(b) and 60(1), (1A) and (2A) of the Town and Country Planning Act 1990 .
+
+### Citation, commencement, extent and application
+
+1
+
+1.1
+
+This Order may be cited as the Town and Country Planning (Former RAF Scampton)
+(Accommodation for Asylum-Seekers etc.) Special Development Order 2024.
+
+1.2
+
+This Order comes into force on 11th April 2024.
+
+1.3
+
+This Order extends to England and Wales.
+
+1.4
+
+This Order applies to the land at Former RAF Scampton, near Lincoln,
+Lincolnshire LN1 2ST, shown bounded externally by the outer edge of a bold red
+line on the Map (the “Order land”).
+
+### Interpretation
+
+2
+
+2.1
+
+In this Order—
+
+      “ the 2015 Order ” means the Town and Country (General Permitted
+Development) (England) Order 2015 ;           “ adjoining owner or occupier ”
+means any owner or occupier of any land adjoining the Order land;           “
+approved document ” means any document listed in Schedule 1 (documents
+submitted by the Home Secretary), or any document in respect of which the
+Secretary of State has given subsequent approval, and where the Secretary of
+State—         gives subsequent approval in respect of a replacement for an
+approved document, the approved document is the document in respect of which
+such subsequent approval was most recently given;           gives variation
+approval in relation to an approved document, the approved document is the
+version of that document that reflects the cumulative effect of all the
+amendments to it in respect of which the Secretary of State has given such
+approval,         and if both subsequent approval as described in paragraph
+(a) and variation approval have been given in relation to an approved
+document, the approved document is the document or version that reflects the
+cumulative effect of all approvals, of either kind, that have been given, and
+references to any particular approved document are to be construed according
+to the same principles;           “ authorised development ” has the meaning
+given in article 4(1) (grant of temporary planning permission);           “
+CEMP ” means a construction and environmental management plan submitted and
+approved in accordance with condition 15 (construction and environmental
+management plan);           “ construction ” includes installation, provision,
+operation, maintenance, improvement or alteration, decommissioning or removal
+(demolition), or any other building or engineering operations, and “
+constructed ” is to be construed accordingly;           “ contamination expert
+” means a person—         with suitable knowledge, skills and experience in
+relation to the assessment and mitigation of relevant contamination risks, and
+who is a registered Specialist in Land Condition , or holds another
+qualification indicating a similar level of expertise in relation to such
+risks;                 “ existing ” means, in relation to anything on the
+Order land, that it was present on the Order land on 10th April 2024;
+“ heritage assets ” means the following buildings or structures at Former RAF
+Scampton—         the four “C-type” aircraft hangars;           the Officers’
+Mess;           the grave of Wing Commander Guy Gibson’s dog;
+“ the Home Secretary ” means the Secretary of State for the Home Department;
+“ the Map ” means the document numbered Figure 2 in Schedule 1;           “
+Multi-Agency Forum ” means the group to be established by the Home Secretary
+under condition 27 (Multi-Agency Forum);           “ OMP ” means an
+operational management plan submitted and approved in accordance with sub-
+paragraph (1) of condition 21 (OMP: establishment and review);           “
+Order land ” has the meaning given in article 1(4);           “ reinstatement
+works ” means development  for which planning permission is granted by article
+4(1)(c);           “ relevant contamination risk ” means a risk to human
+health or the environment posed by hazardous substances including gases,
+vapour concentrations and radiological contamination in, on, under or over the
+Order land;           “ relevant duty ” means a duty imposed by an enactment
+(other than this Order) that applies to the Home Secretary when the Home
+Secretary carries out relevant functions;           “ relevant functions ”
+means providing, or arranging for the provision of, accommodation and support
+under section 4 (accommodation), section 95 (persons for whom support may be
+provided) or section 98 (temporary support) of the Immigration and Asylum Act
+1999 ;           “ relevant ordnance risk ” means a risk to human health or
+the environment associated with the presence of unexploded ordnance in, on,
+under or over the Order land;           “ relevant person ” means a person
+who—         is male,           is at least 18 years old and no more than 64
+years old,           has no dependants within the meaning of section 94(1) of
+the Immigration and Asylum Act 1999 (interpretation of Part VI) , and
+is—         an asylum-seeker within the meaning of that section, or
+otherwise receiving accommodation or support under section 4 of that Act;
+“ relevant risk ” means a relevant contamination risk or a relevant ordnance
+risk;           “ remedial step ” means any step, the taking of which by the
+Home Secretary secures compliance with a duty imposed on the Home Secretary,
+by an enactment (other than this Order) or a rule of common law, to prevent or
+mitigate a relevant risk;           “ resident service user ” means a service
+user who is accommodated on the Order land;           “ the Secretary of State
+” means, except in the definition of “Home Secretary”, the Secretary of State
+for Levelling Up, Housing and Communities;           “ service user ” means a
+person in respect of whom the Home Secretary carries out relevant functions;
+“ site operator ” means the person designated as such under condition 1 (site
+operator);           “ subsequent approval ” means the Secretary of State’s
+approval, after the date on which this Order is made, in respect of a plan,
+report, scheme or programme that this Order requires or permits the Home
+Secretary to submit for the Secretary of State’s approval, where—         the
+plan, report, scheme or programme is submitted for such approval for the first
+time, or           approval is sought in respect of a replacement for such a
+plan, report, scheme or programme under sub-paragraph (3) of condition 2
+(approved documents);                 “ unsuitability criterion ” means any of
+the criteria specified, on pages 17 to 22 of the Home Office publication
+“Allocation of asylum accommodation policy”, version 11.0, dated 12th February
+2024 , as making a person potentially unsuitable (either generally, or in
+certain circumstances) to be accommodated on an “ex-MoD site”, or to share a
+room;           “ variation approval ” means the Secretary of State’s approval
+in respect of an amendment, proposed by the Home Secretary, to the details of
+a matter set out in an approved document.
+
+2.2
+
+A reference in this Order to a numbered “condition” is to the paragraph that
+is so numbered in Schedule 3 (conditions subject to which planning permission
+is granted).
+
+2.3
+
+A reference in this Order to the height of a building or other structure is a
+reference to its height when measured from ground level, and in this paragraph
+“ ground level ” means—
+
+2.3.a
+
+the level of the surface of the ground adjoining the building or structure;
+
+2.3.b
+
+if the level of the surface of the ground where the building or structure is
+situated or is to be situated is not uniform, the level of the highest part of
+the surface of the ground adjacent to it.
+
+### Application of the 2015 Order
+
+3
+
+3.1
+
+Subject to the provisions of this Order, the 2015 Order applies to the Order
+land.
+
+3.2
+
+Planning permission granted by article 3(1) of the 2015 Order (permitted
+development) does not apply to development carried out in, on, under or over
+the Order land during the period beginning with 11th April 2024 and ending
+with 10th October 2027, unless it is—
+
+3.2.a
+
+development of a class that is described as permitted development in Part 13
+(water and sewerage), Part 15 (power related development) or Part 16
+(communications) of Schedule 2 to the 2015 Order (permitted development
+rights);
+
+3.2.b
+
+the replacement of a window or door as part of refurbishment of a building or
+structure.
+
+3.3
+
+Planning permission granted by article 3(1) of the 2015 Order for development
+of a type specified in Schedule 2 to this Order that was carried out on or
+before 10th April 2024—
+
+3.3.a
+
+ceases to apply on 11th April 2024;
+
+3.3.b
+
+applies again on and from 11th April 2027, but only if, and to the extent
+that, the planning permission granted for it by article 3(1) of the 2015 Order
+would not, but for this Order, have ceased before that date.
+
+### Grant of temporary planning permission
+
+4
+
+4.1
+
+Subject to the provisions of this Order, planning permission is granted for—
+
+4.1.a
+
+the making of any material change in the use of any buildings or other land of
+a type specified in paragraph 1 of Schedule 2;
+
+4.1.b
+
+the carrying out of building, engineering or other operations of a type
+specified in paragraph 2 of Schedule 2;
+
+4.1.c
+
+development comprised in—
+
+4.1.c.i
+
+the cessation, decommissioning or removal of development within sub-paragraph
+(a) or (b);
+
+4.1.c.ii
+
+the reversion of the Order land and any buildings in, on, under or over it to
+their previous lawful use
+
+(“authorised development”).
+
+4.2
+
+The planning permission granted by paragraph (1)—
+
+4.2.a
+
+is subject to—
+
+4.2.a.i
+
+the conditions specified in Schedule 3;
+
+4.2.a.ii
+
+such additional conditions as the Secretary of State may impose when giving
+subsequent approval or variation approval under article 6 (authorised
+development: decisions of the Secretary of State);
+
+4.2.b
+
+includes, as regards paragraphs (1)(a) and (b), planning permission for the
+retention and continued operation, after 10th April 2024, of development of a
+type specified in Schedule 2 that was first carried out on or before 10th
+April 2024 under planning permission granted by article 3(1) of the 2015
+Order;
+
+4.2.c
+
+does not include planning permission for any material change in use, or
+building, engineering or other operations to take place, in respect of any
+heritage asset, other than the works that are to be undertaken by virtue of
+sub-paragraph (2)(b) of condition 10 (fencing) or sub-paragraph (2) of
+condition 12 (heritage management scheme).
+
+4.3
+
+The conditions referred to in paragraph (2)(a) apply to development within
+paragraph (2)(b) if and to the extent that it is retained and continues to
+operate after 10th April 2024, but they do not apply as regards its
+construction before that date.
+
+4.4
+
+Authorised development may only be carried out by or on behalf of the Home
+Secretary.
+
+4.5
+
+The planning permission granted by paragraph (1)(a) and (b) ceases at the end
+of 10th April 2027, and any development within those paragraphs must cease by
+that time.
+
+4.6
+
+The planning permission granted by paragraph (1)(c) ceases at, and
+reinstatement works must be completed by, the end of 10th October 2027.
+
+### Subsequent approval and variation approval
+
+5
+
+5.1
+
+A replacement for an approved document has no effect for the purposes of this
+Order unless the Home Secretary has submitted it for subsequent approval under
+sub-paragraph (3) of condition 2, and the Secretary of State has given
+subsequent approval in respect of the replacement.
+
+5.2
+
+An amendment to an approved document has no effect for the purposes of this
+Order unless the Home Secretary has sought, and the Secretary of State has
+given, variation approval in respect of that amendment.
+
+5.3
+
+Where the Home Secretary submits a document for subsequent approval or seeks
+variation approval, the Home Secretary must make an application—
+
+5.3.a
+
+to the Secretary of State in writing, signed by the site operator on behalf of
+the Home Secretary;
+
+5.3.b
+
+including a copy of any document that it is proposed should be an approved
+document following the giving of subsequent approval or variation approval as
+requested.
+
+5.4
+
+No subsequent approval or variation approval may be sought or given in respect
+of any replacement of, or amendment to, the Map.
+
+### Authorised development: decisions of the Secretary of State
+
+6
+
+6.1
+
+When giving or declining to give subsequent approval or variation approval,
+the Secretary of State must give the Home Secretary a written notice of the
+Secretary of State’s decision on the application made under article 5(3)
+(subsequent approval and variation approval).
+
+6.2
+
+The Secretary of State may give subsequent approval or variation approval
+either unconditionally, or subject to conditions set out in a notice given
+under paragraph (1).
+
+6.3
+
+The Secretary of State must not give—
+
+6.3.a
+
+subsequent approval or variation approval;
+
+6.3.b
+
+any other consent or agreement provided for under this Order or an approved
+document in relation to the authorised development
+
+(each a “relevant approval”), unless the condition specified in paragraph (4)
+or the condition specified in paragraph (5) is satisfied.
+
+6.4
+
+The condition is that the Secretary of State has concluded that—
+
+6.4.a
+
+the giving of the relevant approval will not result in the authorised
+development having any impacts that are materially new, or materially
+different, as compared with the impacts that the Secretary of State took into
+account before making this Order,
+
+6.4.b
+
+the authorised development will not, as a result of the relevant approval, be
+EIA development as defined in regulation 2(1) of the Town and Country Planning
+(Environmental Impact Assessment Regulations 2017  (the “ 2017 Regulations ”),
+and
+
+6.4.c
+
+development carried out as a result of the relevant approval will not
+otherwise give rise to any significant environmental effect.
+
+6.5
+
+The condition is that the Secretary of State has directed under regulation
+63(1) of the 2017 Regulations (exemptions) that the authorised development is
+exempt from the requirements of those Regulations.
+
+### Documents to be made available by the Secretary of State
+
+7
+
+7.1
+
+This paragraph applies to—
+
+7.1.a
+
+approved documents;
+
+7.1.b
+
+notices given under article 6(1).
+
+7.2
+
+Subject to paragraph (4), the Secretary of State must arrange for a copy of
+each document to which paragraph (1) applies to be made available for
+inspection by the public—
+
+7.2.a
+
+on a website maintained by or on behalf of the Secretary of State ;
+
+7.2.b
+
+in person, upon giving reasonable notice to the Department for Levelling Up,
+Housing and Communities, at 2 Marsham Street, London SW1P 4DF.
+
+7.3
+
+This paragraph applies to information contained in a document to which
+paragraph (1) applies, where the Secretary of State is satisfied that that
+information relates to—
+
+7.3.a
+
+matters of national security;
+
+7.3.b
+
+measures taken or to be taken to ensure the security of any premises or
+property, whose efficacy may be impaired by the disclosure of that
+information.
+
+7.4
+
+Where paragraph (3) applies—
+
+7.4.a
+
+the Secretary of State may redact the information to which it applies from any
+copy of the document that is made available under paragraph (2);
+
+7.4.b
+
+if the Secretary of State considers that it is appropriate, having regard to
+national security or other security considerations, to redact the entire
+contents of a document under sub-paragraph (a), the Secretary of State may
+make available a statement to that effect, identifying the document, instead
+of making available a copy of the document with the contents entirely
+redacted.
+
+      Signed by authority of the Secretary of State for Levelling Up, Housing
+and Communities       Lee Rowley   Minister of State   Department for
+Levelling Up, Housing and Communities     20th March 2024
+
+  Documents submitted by the Home Secretary
+
+Article 2(1)
+
+      Number Figure Title Scale Paper size   Figure 2 The Map – Existing Site
+Plan 1:10,000 A3 Figure 3 Operational Area – Existing Use Plan Focused On The
+Proposed Operational Area 1:5,000 A3 Figure 4a Proposed Site Plans – Access /
+Egress Points 1:10,000 A3 Figure 4e Proposed Site Plans – Proposed Site Uses
+1:5,000 A3
+
+  Development for which planning permission is granted
+
+Article 4(1)(a) and (b)
+
+1
+
+The making of material changes in the use of any buildings in, on, under or
+over the Order land, or of any other part of the Order land, in connection
+with the carrying out, in relation to resident service users, of relevant
+functions, or functions incidental or ancillary to such functions, including
+the provision, by making such a change in use, of—
+
+1.a
+
+living accommodation;
+
+1.b
+
+catering or dining facilities;
+
+1.c
+
+toilet or washing facilities;
+
+1.d
+
+laundry facilities;
+
+1.e
+
+indoor or outdoor sport and recreation facilities;
+
+1.f
+
+education facilities;
+
+1.g
+
+worship and religious observance facilities;
+
+1.h
+
+retail facilities;
+
+1.i
+
+parking for vehicles;
+
+1.j
+
+warehousing or storage;
+
+1.k
+
+office or administrative facilities;
+
+1.l
+
+medical facilities, including accommodation for those being treated in
+isolation for infectious diseases;
+
+1.m
+
+facilities for providing legal and other advice to resident service users;
+
+1.n
+
+facilities for those carrying out police and security activities.
+
+2
+
+Building, engineering or other operations, in, on, under or over the Order
+land, in connection with the carrying out, in relation to resident service
+users, of relevant functions, or functions incidental or ancillary to such
+functions, comprising the construction of—
+
+2.a
+
+buildings or structures to be used in providing any accommodation or other
+facility of a kind referred to in paragraph 1, including any works of
+refurbishment to a building or structure, where planning permission is
+required for the refurbishment;
+
+2.b
+
+any artificial surfacing, including—
+
+2.b.i
+
+surfacing that is permeable or porous;
+
+2.b.ii
+
+surfacing in the form of paths or pavements;
+
+2.b.iii
+
+maintenance, repair or replacement of existing internal access roads,
+
+but excluding any other construction of roads;
+
+2.c
+
+hard landscaping, including seats, refuse bins and barriers to control the
+movement of people or vehicles;
+
+2.d
+
+lighting and signage;
+
+2.e
+
+gates, fences, walls or other means of enclosure, including where these are
+erected to provide protection for existing buildings or structures on the
+Order land, or screening between the Order land and adjacent land;
+
+2.f
+
+gatehouses;
+
+2.g
+
+mains, sewers, drains, pipes, conduits, cables, electrical substations or
+other apparatus, for the provision of water, gas, electricity, or other
+services, including breaking open any land to enable their construction;
+
+2.h
+
+foul water and surface water drainage, including any apparatus or machinery
+associated with their provision;
+
+2.i
+
+soft landscaping;
+
+2.j
+
+ancillary security measures;
+
+2.k
+
+closed-circuit television and development ancillary to closed-circuit
+television;
+
+2.l
+
+works required in connection with—
+
+2.l.i
+
+the production or supply of any form of energy;
+
+2.l.ii
+
+the storage of fuel or other substances,
+
+to be used for the benefit of resident service users or persons involved in
+the carrying out of relevant functions;
+
+2.m
+
+other plant or machinery.
+
+  Conditions subject to which planning permission is granted
+
+Article 4(2)(a)(i)
+
+###### Site operator
+
+1
+
+1.1
+
+The Home Secretary must ensure that, during the whole period beginning with
+11th April 2024 and ending with the date on which reinstatement works are
+completed in accordance with this Order, a named member of the Senior Civil
+Service in the Home Secretary’s department is designated in writing as the
+principal point of contact for the Secretary of State in the Home Secretary’s
+department on all matters connected with this Order (the “site operator”).
+
+1.2
+
+The Home Secretary may designate different persons as the site operator at
+different times within the period referred to in sub-paragraph (1).
+
+1.3
+
+Whenever a person is designated as the site operator, the Home Secretary must
+promptly inform the Secretary of State, in writing, that that person has been
+so designated.
+
+###### Approved documents
+
+2
+
+2.1
+
+The authorised development must be carried out in accordance with each of the
+approved documents, and in particular—
+
+2.1.a
+
+where an approved document provides for anything to be constructed, it must be
+constructed, remain, and be maintained, in the location specified, and as
+provided for, in any approved document that relates to its construction,
+maintenance or location;
+
+2.1.b
+
+where an approved document—
+
+2.1.b.i
+
+sets out, in relation to the construction or operation of the authorised
+development—
+
+2.1.b.i.aa
+
+a policy, procedure or standard to be applied;
+
+2.1.b.i.bb
+
+a step to be taken, arrangement to be made, or measure to be adopted,
+
+2.1.b.ii
+
+refers to—
+
+2.1.b.ii.aa
+
+an activity to be undertaken;
+
+2.1.b.ii.bb
+
+a facility or service to be made available,
+
+in connection with the authorised development under or by virtue of a
+provision of this Schedule,
+
+the construction or operation of the authorised development must be carried
+out, the activity undertaken, or the facility or service made available, in a
+manner that is consistent with such policy, procedure, standard, step,
+arrangement or measure;
+
+2.1.c
+
+any requirements set out in an approved document for the validation,
+verification or approval of work carried out in accordance with that document
+must be complied with.
+
+2.2
+
+The accommodation and other facilities referred to in the document numbered
+Figure 4e in Schedule 1 must be in place and fully operational while any
+service users are accommodated on the Order land.
+
+2.3
+
+The Home Secretary may submit for subsequent approval a replacement for any
+approved document other than the Map, provided that, in the case of a plan,
+report, scheme or programme provided for in this Schedule, the proposed
+replacement plan, report, scheme or programme complies with the relevant
+provisions of this Schedule.
+
+###### Height of buildings and other structures
+
+3
+
+3.1
+
+Subject to sub-paragraphs (2) and (3), the height of any building or structure
+constructed as part of the authorised development must not exceed 4.5 metres.
+
+3.2
+
+The height of any gate, fence, wall or other means of enclosure erected or
+constructed must not exceed 2.4 metres.
+
+3.3
+
+Where plant or machinery (other than plant or machinery that is required for
+the purposes of constructing the authorised development) is erected or
+extended on the Order land, its height (when its erection or extension is
+completed) must not exceed—
+
+3.3.a
+
+if it replaces existing plant or machinery, the height of any plant or
+machinery that it replaces;
+
+3.3.b
+
+if it does not replace existing plant or machinery, 8.5 metres.
+
+###### Modular facilities: floorspace
+
+4
+
+4.1
+
+The combined floorspace of all buildings or structures—
+
+4.1.a
+
+that are erected or installed as part of the authorised development, and
+
+4.1.b
+
+whose construction is development of a type specified in paragraph 2 of
+Schedule 2,
+
+must not exceed the baseline by more than 17,500 square metres.
+
+4.2
+
+For the purposes of this paragraph, the baseline is the total amount of
+floorspace of all buildings or structures that were on the Order land on 14th
+April 2023.
+
+###### Restriction on development outside the Operational Area
+
+5
+
+Outside the area designated as the Operational Area on the document numbered
+Figure 3 in Schedule 1, no development may take place other than development
+that relates to—
+
+5.a
+
+securing the points of entrance to and exit from the site (including the
+construction of gatehouses, closed circuit television and lighting);
+
+5.b
+
+the repair, maintenance or replacement of existing internal roads;
+
+5.c
+
+utilities serving the authorised development.
+
+###### Artificial lighting and its impacts
+
+6
+
+6.1
+
+Any exterior artificial lighting installed on or after 14th April 2023 must be
+arranged so that the main beam angle of each installation is directed—
+
+6.1.a
+
+downward and away from the closest boundary of the Order land so as to
+minimise light spill;
+
+6.1.b
+
+away from the windows of any sleeping accommodation on the Order land, so as
+to minimise any potential disturbance to those occupying it.
+
+6.2
+
+The windows of any sleeping accommodation must be fitted with blackout blinds
+or blackout curtains.
+
+###### Drainage
+
+7
+
+7.1
+
+There must be no net increase in the rate or volume of surface water discharge
+from the Order land as a result of the authorised development.
+
+7.2
+
+No service users may be accommodated on the Order land unless—
+
+7.2.a
+
+the Home Secretary has submitted to the Secretary of State a foul and surface
+water drainage systems report in respect of the authorised development,
+identifying what measures, if any, it is necessary to adopt and maintain in
+relation to such systems before up to 2,000 service users are accommodated on
+the Order land;
+
+7.2.b
+
+the Secretary of State has approved the report;
+
+7.2.c
+
+any measures identified in the approved report as necessary to be adopted
+before up to 2,000 service users are accommodated have been implemented.
+
+###### Storage of fuel and hazardous substances
+
+8
+
+Any storage for fuel or other hazardous substances installed on or after 14th
+April 2023 must be so arranged as to ensure that—
+
+8.a
+
+it is located on an impervious base and graded to drain to a sump or
+collector, or surrounded by impervious walls to form a bunded compound;
+
+8.b
+
+all filling points, vents, gauges and sight glasses are located on an
+impervious base and the drainage system sealed, with no discharge to any
+watercourse, land or underground strata;
+
+8.c
+
+any associated pipe work is located above ground and protected from accidental
+damage;
+
+8.d
+
+all filling points and tank overflow pipe outlets are designed to discharge
+into a sump, collector or bunded compound.
+
+###### Removal of trees, hedges and existing buildings
+
+9
+
+9.1
+
+Subject to sub-paragraph (2), no—
+
+9.1.a
+
+tree or hedge may be removed from the Order land;
+
+9.1.b
+
+existing building or structure on the Order land may be demolished,
+
+as part of the authorised development unless the Home Secretary has submitted
+to the Secretary of State, and the Secretary of State has approved, a plan for
+that removal or demolition.
+
+9.2
+
+The Home Secretary may, without a plan having been submitted to or approved by
+the Secretary of State under sub-paragraph (1)—
+
+9.2.a
+
+cut down, uproot, top or lop a tree, to the extent that such works are
+urgently necessary to remove an immediate risk of serious harm;
+
+9.2.b
+
+demolish a building or structure that is at risk of imminent collapse or
+otherwise poses an immediate threat to safety.
+
+###### Fencing
+
+10
+
+10.1
+
+No service users may be accommodated on the Order land as part of the
+authorised development until the Home Secretary has submitted to the Secretary
+of State, and the Secretary of State has approved, a scheme for the
+installation or enhancement of fencing on and around the Order land,
+comprising—
+
+10.1.a
+
+a plan showing the locations where fencing has been or is to be installed or
+enhanced;
+
+10.1.b
+
+a description and illustration of the fencing or screening to be used in each
+location.
+
+10.2
+
+The scheme submitted and approved under sub-paragraph (1) must include details
+of—
+
+10.2.a
+
+privacy mesh screening installed or to be installed between—
+
+10.2.a.i
+
+the Order land and Pollyplatt Primary School;
+
+10.2.a.ii
+
+the Order land and the playing field adjacent to Pollyplatt Primary School;
+
+10.2.b
+
+protective fencing installed or to be installed around the heritage assets.
+
+10.3
+
+No works of construction may take place until the fencing referred to in sub-
+paragraph (2)(b) has been installed in accordance with the approved scheme.
+
+###### Travel plan
+
+11
+
+No service users may be accommodated on the Order land unless the Home
+Secretary has submitted to the Secretary of State, and the Secretary of State
+has approved, a travel plan setting out how the use of private cars by those
+travelling to the Order land—
+
+11.a
+
+to work on, or visit, the authorised development; or
+
+11.b
+
+to provide services to, or in respect of, resident service users,
+
+will be minimised.
+
+###### Heritage management scheme
+
+12
+
+12.1
+
+Before 11th July 2024, the Home Secretary must submit to the Secretary of
+State for approval a heritage management scheme.
+
+12.2
+
+The heritage management scheme must set out what steps the Home Secretary
+proposes to take, in addition to the installation of fencing around them
+provided for in any scheme approved under condition 10, as regards the
+protection, repair or maintenance of the heritage assets during the period
+covered by the planning permission granted by article 4(1).
+
+###### Noise
+
+13
+
+Any building services or other plant installed on the Order land must be so
+located and installed as to ensure that—
+
+13.a
+
+between the hours of 11 p.m. and 7 a.m., internal ambient noise levels in
+sleeping accommodation do not exceed 30dB LAeq, 8 hours and 45dB LAFmax more
+than 15 times per night, assessed in accordance with British Standard BS
+8233:2014 ;
+
+13.b
+
+plant noise levels, calculated by reference to any point where the following
+intersect—
+
+13.b.i
+
+the boundary between the Order land and the nearest residential or educational
+premises that are noise sensitive receptors, and
+
+13.b.ii
+
+a straight line drawn between the plant and the nearest façade of those
+premises,
+
+do not exceed 30dB LAr, Tr, assessed in accordance with British Standard BS
+4142:2014+A1:2019 .
+
+###### Fruit and vegetables
+
+14
+
+No fruit or vegetables may be grown on the Order land unless the Secretary of
+State gives prior written consent to their being grown.
+
+###### Construction and environmental management plan
+
+15
+
+15.1
+
+No works of construction for which planning permission is required, and is
+granted by article 4(1) (“construction work”), may—
+
+15.1.a
+
+commence, or
+
+15.1.b
+
+having commenced under planning permission granted by article 3(1) of the 2015
+Order, continue,
+
+until the Home Secretary has submitted a construction and environmental
+management plan for the authorised development to the Secretary of State and
+the Secretary of State has approved it.
+
+15.2
+
+The plan submitted under sub-paragraph (1) must comprise details of policies,
+procedures or standards, to be complied with in connection with construction
+work, in relation to—
+
+15.2.a
+
+the hours within which construction work may take place, including the setting
+of times when particular activities may not be carried out in particular
+places;
+
+15.2.b
+
+engagement with adjoining owners or occupiers, including keeping them informed
+about construction work in so far as it may reasonably be expected to affect
+them, and explaining how and with whom they may raise concerns or complaints
+about it;
+
+15.2.c
+
+application of best practicable means to minimise—
+
+15.2.c.i
+
+in so far as they arise from the carrying out of construction work and
+associated vehicle movements—
+
+15.2.c.i.aa
+
+noise, including the setting of limits not to be exceeded generally or at
+certain times and in certain places;
+
+15.2.c.i.bb
+
+vibration and emissions to air, including dust, and any other adverse impact
+on air quality on or around the Order land;
+
+15.2.c.ii
+
+the adverse effects of lighting on the amenity of adjoining owners and
+occupiers, and ecological receptors;
+
+15.2.d
+
+sourcing, placing, managing and storing of construction materials;
+
+15.2.e
+
+ensuring the safety of—
+
+15.2.e.i
+
+resident service users;
+
+15.2.e.ii
+
+those visiting the authorised development;
+
+15.2.e.iii
+
+those working on its construction or otherwise on the Order land,
+
+while construction work is being carried out;
+
+15.2.f
+
+management of waste in accordance with the waste hierarchy;
+
+15.2.g
+
+preventing or controlling any contamination or pollution that may arise from
+construction work;
+
+15.2.h
+
+preventing damage to trees or hedges that are—
+
+15.2.h.i
+
+to be retained on the Order land, or
+
+15.2.h.ii
+
+immediately adjacent to any part of the Order land where construction work is
+to be carried out;
+
+15.2.i
+
+management of construction traffic, including measures to prevent the deposit
+of mud and construction materials on the highway;
+
+15.2.j
+
+assessing and managing risks associated with unexploded ordnance;
+
+15.2.k
+
+management of invasive species;
+
+15.2.l
+
+provision of awareness training to contractors in relation to contamination,
+unexploded ordnance and other risks that may be associated with construction
+work;
+
+15.2.m
+
+arrangements for the appointment and retention of a suitably qualified
+archaeologist, arboriculturist, ecologist, ordnance specialist or
+contamination expert, to carry out, supervise or verify any work in relation
+to the construction of the authorised development to which their expertise is
+relevant.
+
+15.3
+
+A copy of the CEMP must be kept on the Order land at all times.
+
+15.4
+
+The CEMP must be kept up to date during any period in which construction takes
+place in relation to the authorised development.
+
+###### Land contamination: site control measures
+
+16
+
+No service users may be accommodated on the Order land unless the following
+are in place, and the Home Secretary has provided the Secretary of State with
+evidence that they are in place—
+
+16.a
+
+measures to ensure that obstruction to the ventilation of the authorised
+development does not increase relevant contamination risks, in particular as a
+result of—
+
+16.a.i
+
+space underneath structures being enclosed with materials that restrict
+airflow, or
+
+16.a.ii
+
+non-decorative air-bricks being obstructed or not maintained,
+
+which may include the installation of metal mesh screens to enclose the void
+beneath any modular building;
+
+16.b
+
+signage and other materials (including materials for use in the induction of
+service users when they are first accommodated on the Order land) that are
+intelligible to users and those working on and visiting the Order land,
+encouraging good hygiene procedures such as hand washing or sanitation before
+eating.
+
+###### Land contamination: monitoring programme and intrusive investigation
+
+17
+
+17.1
+
+The Home Secretary must carry out a programme of intrusive ground
+investigations to assess relevant contamination risks in accordance with
+British Standard BS 10175:2011 , comprising—
+
+17.1.a
+
+shallow soil sampling and analysis;
+
+17.1.b
+
+installation of gas monitoring wells;
+
+17.1.c
+
+groundwater sampling, analysis and monitoring
+
+(the “investigations programme”).
+
+17.2
+
+In the period before the investigations programme has been completed, the Home
+Secretary must, at least once in each period of two weeks, with the first such
+period beginning on 11th April 2024, monitor for indoor ground gas and vapours
+in each building or structure on the Order land that is used, or to be used,
+to provide any accommodation or other facility of a kind referred to in
+paragraph 1 of Schedule 2.
+
+17.3
+
+The results of the investigations programme, and any remedial steps, must be
+set out in a report prepared for the Home Secretary by, or under the
+supervision of, or verified by, a contamination expert.
+
+17.4
+
+When the Home Secretary has decided what remedial steps, if any, to take, the
+Home Secretary must send to the Secretary of State—
+
+17.4.a
+
+a copy of the report prepared under sub-paragraph (3);
+
+17.4.b
+
+a notice setting out—
+
+17.4.b.i
+
+the remedial steps that the Home Secretary has decided to take, or
+
+17.4.b.ii
+
+that the Home Secretary has decided that no remedial steps require to be
+taken.
+
+17.5
+
+No service users may be accommodated on the Order land until the Secretary of
+State has received—
+
+17.5.a
+
+a notice from the Home Secretary under sub-paragraph (4)(b)(ii), or
+
+17.5.b
+
+a report, prepared by a contamination expert for the Home Secretary,
+confirming that the Home Secretary has taken the steps set out in a notice
+under sub-paragraph (4)(b)(i).
+
+###### Radiological walkover survey
+
+18
+
+18.1
+
+No service users may be accommodated on the Order land until—
+
+18.1.a
+
+a radiological walkover survey of the Order land, carried out in accordance
+with British Standard BS 10175:2011, has been completed;
+
+18.1.b
+
+a report for the Home Secretary, setting out the findings of that survey and
+any remedial steps, has been prepared by, or under the supervision of, or
+verified by, a contamination expert.
+
+18.2
+
+When the Home Secretary has decided what remedial steps, if any, to take, the
+Home Secretary must send to the Secretary of State—
+
+18.2.a
+
+a copy of the report prepared under sub-paragraph (1)(b);
+
+18.2.b
+
+a notice setting out—
+
+18.2.b.i
+
+the remedial steps that the Home Secretary has decided to take, or
+
+18.2.b.ii
+
+that the Home Secretary has decided that no remedial steps require to be
+taken.
+
+18.3
+
+No service users may be accommodated on the Order land until the Secretary of
+State has received—
+
+18.3.a
+
+a notice from the Home Secretary under sub-paragraph (2)(b)(ii), or
+
+18.3.b
+
+a report, prepared by a contamination expert for the Home Secretary,
+confirming that the Home Secretary has taken the steps set out in a notice
+under sub-paragraph (2)(b)(i).
+
+###### Unexploded ordnance
+
+19
+
+19.1
+
+No service users may be accommodated on the Order land until—
+
+19.1.a
+
+a non-intrusive survey has been carried out to determine whether, and if so,
+where, unexploded ordnance is present on the Order land, including in any
+building or structure;
+
+19.1.b
+
+a report for the Home Secretary, setting out the findings of that survey and
+any remedial steps, has been prepared by, or under the supervision of, or
+verified by, an ordnance specialist.
+
+19.2
+
+When the Home Secretary has decided what remedial steps, if any, to take, the
+Home Secretary must send to the Secretary of State—
+
+19.2.a
+
+a copy of the report prepared under sub-paragraph (1)(b);
+
+19.2.b
+
+a notice setting out—
+
+19.2.b.i
+
+the remedial steps that the Home Secretary has decided to take, or
+
+19.2.b.ii
+
+that the Home Secretary has decided that no remedial steps require to be
+taken.
+
+19.3
+
+No service users may be accommodated on the Order land until the Secretary of
+State has received—
+
+19.3.a
+
+a notice from the Home Secretary under sub-paragraph (2)(b)(ii), or
+
+19.3.b
+
+a report, prepared by an ordnance specialist for the Home Secretary,
+confirming that the Home Secretary has taken the steps set out in a notice
+under sub-paragraph (2)(b)(i).
+
+###### Relevant risks identified unexpectedly
+
+20
+
+20.1
+
+If a relevant risk that has not been identified as a result of work undertaken
+in compliance with a policy, procedure or standard under sub-paragraph (2)(g)
+or (j) of condition 15, or another condition in this Part, is identified
+during the construction or operation of the authorised development—
+
+20.1.a
+
+any activity that may exacerbate the relevant risk, in particular by causing
+contamination or pollution to spread, or unexploded ordnance to explode, must
+be suspended;
+
+20.1.b
+
+an investigation and risk assessment in respect of the relevant risk and the
+relevant contamination risks or relevant ordnance risks associated with it
+must be carried out;
+
+20.1.c
+
+if the relevant risk is a relevant contamination risk, a report for the Home
+Secretary must be prepared by, or under the supervision of, or verified by, a
+contamination expert, setting out the results of the assessment and any
+remedial steps;
+
+20.1.d
+
+if the relevant risk is a relevant ordnance risk, a report for the Home
+Secretary must be prepared by, or under the supervision of, or verified by, an
+ordnance specialist, setting out the results of the assessment and any
+remedial steps;
+
+20.1.e
+
+the activity suspended under paragraph (a) must not be resumed until the Home
+Secretary has determined—
+
+20.1.e.i
+
+what remedial steps, if any, to take in relation to the relevant risk, and has
+taken them, or
+
+20.1.e.ii
+
+that there is no need to take remedial steps in relation to the relevant risk.
+
+20.2
+
+When the Home Secretary has decided what remedial steps, if any, to take, and
+taken them, the Home Secretary must send to the Secretary of State—
+
+20.2.a
+
+a copy of the report prepared under sub-paragraph (1)(c) or (d);
+
+20.2.b
+
+a notice setting out—
+
+20.2.b.i
+
+the remedial steps that the Home Secretary has taken, or
+
+20.2.b.ii
+
+that the Home Secretary has decided that no remedial steps require to be
+taken.
+
+###### OMP: establishment and review
+
+21
+
+21.1
+
+No service users may be accommodated on the Order land until—
+
+21.1.a
+
+the Home Secretary submits for approval by the Secretary of State an
+operational management plan—
+
+21.1.a.i
+
+whose contents comply with condition 22 (OMP: contents);
+
+21.1.a.ii
+
+compliance with which will assist the Home Secretary to comply, in carrying
+out relevant functions in relation to resident service users, with relevant
+duties;
+
+21.1.b
+
+the Secretary of State approves that plan.
+
+21.2
+
+If a document covers matters set out in condition 22 and other matters, only
+that part of the document that covers matters set out in condition 22 requires
+the Secretary of State’s approval under sub-paragraph (1)(b) or forms part of
+the OMP if such approval is given.
+
+21.3
+
+For as long as service users are accommodated on the Order land under the
+planning permission granted by article 4(1) a copy of the OMP must be kept on
+the Order land.
+
+21.4
+
+The Home Secretary must—
+
+21.4.a
+
+keep the operation of the authorised development under review throughout the
+period for which planning permission is granted by article 4(1)(a) and (b),
+carrying out at least one review of its operation in each period of 12 months
+beginning with 11th April 2024, 11th April 2025, or 11th April 2026, and
+having regard in carrying out such reviews to—
+
+21.4.a.i
+
+relevant duties;
+
+21.4.a.ii
+
+the requirement for the operation of the authorised development to comply with
+the OMP;
+
+21.4.b
+
+within one month of completing a review under paragraph (a)—
+
+21.4.b.i
+
+submit to the Secretary of State a report on the review;
+
+21.4.b.ii
+
+where the review identifies a need to—
+
+21.4.b.ii.aa
+
+amend the details of any matter set out in an approved document, or
+
+21.4.b.ii.bb
+
+replace an approved document under sub-paragraph 3 of condition 2,
+
+make the necessary application for variation approval or subsequent approval.
+
+###### OMP: contents
+
+22
+
+The OMP must include policies, procedures or standards relating to—
+
+22.a
+
+identifying—
+
+22.a.i
+
+among resident service users, or those whom it is proposed to accommodate on
+the Order land, persons who meet an unsuitability criterion;
+
+22.a.ii
+
+resident service users who may require to be removed from the Order land under
+sub-paragraph (3) of condition 24 (accommodation on the Order land);
+
+22.b
+
+explaining to resident service users that they must not leave the Order land
+on foot otherwise than by the main gate, which is indicated as such in the
+document numbered Figure 4a in Schedule 1;
+
+22.c
+
+preventing and mitigating the outbreak and spread of infectious diseases on
+the Order land, including by a programme of immunisation against such
+diseases;
+
+22.d
+
+compliance with—
+
+22.d.i
+
+sub-paragraphs (1) and (3) of condition 24;
+
+22.d.ii
+
+condition 26 (core facilities and services to be provided);
+
+22.e
+
+ensuring the safety and security of those accommodated or working on, or
+visiting, the Order land, including measures for—
+
+22.e.i
+
+managing the impact of disturbances, protests or demonstrations taking place
+on or in the vicinity of the Order land;
+
+22.e.ii
+
+responding to emergencies on the Order land;
+
+22.e.iii
+
+managing, reporting and monitoring crimes or incidents of anti-social or
+violent behaviour involving resident service users that occur on the Order
+land;
+
+22.e.iv
+
+recording and monitoring crimes or incidents of anti-social or violent
+behaviour involving resident service users that occur elsewhere, and of which
+the Home Secretary becomes aware;
+
+22.f
+
+providing cultural orientation to resident service users;
+
+22.g
+
+explaining to resident service users, in a format and language that they can
+understand—
+
+22.g.i
+
+the services that resident service users can expect to receive;
+
+22.g.ii
+
+the location of amenities in the vicinity of the Order land;
+
+22.g.iii
+
+details of recreational, educational or voluntary sector activities on or near
+the Order land in which resident service users can participate;
+
+22.g.iv
+
+details of the standards of behaviour expected of resident service users in
+relation to—
+
+22.g.iv.aa
+
+harassment or threat of harassment, or displays of prejudice or hostility
+towards any person, on the grounds of race, religion or belief, sex, sexual
+orientation, gender reassignment, age or disability;
+
+22.g.iv.bb
+
+acts that result in physical or other harm to any person;
+
+22.g.iv.cc
+
+the rights of other persons to respect for their private and family life;
+
+22.g.iv.dd
+
+noise and disruption or other behaviour likely to result in a nuisance to, or
+justified annoyance on the part of, adjoining owners or occupiers;
+
+22.g.iv.ee
+
+littering;
+
+22.g.iv.ff
+
+areas where children are present;
+
+22.h
+
+providing information about the operation of the authorised development to
+persons affected, or likely to be affected, by it, and handling complaints
+about it from them.
+
+###### Phasing scheme
+
+23
+
+23.1
+
+No service users may be accommodated on the Order land until a phasing scheme
+has been submitted by the Home Secretary and approved by the Secretary of
+State, that sets out—
+
+23.1.a
+
+the phases in which the facilities and services that are to be made available
+to service users under this Schedule will be delivered;
+
+23.1.b
+
+how any arrangements that are required to be made in relation to such
+facilities or services under any approved document will be adjusted,
+
+so as to ensure that the provision made for the needs of resident service
+users at any given time is such that relevant duties are complied with in
+carrying out relevant functions, taking account in particular of any material
+actual or anticipated changes in the number or proportion of resident service
+users that meet an unsuitability criterion.
+
+23.2
+
+Where a scheme approved under sub-paragraph (1) indicates that particular
+steps are to be taken before the number or proportion of resident service
+users that meet an unsuitability criterion increases to or by a certain
+amount, the Home Secretary must, before that increase occurs, provide to the
+Secretary of State written confirmation that those steps have been taken.
+
+###### Accommodation on the Order land
+
+24
+
+24.1
+
+A service user must not be accommodated on the Order land unless—
+
+24.1.a
+
+the service user is a relevant person, and
+
+24.1.b
+
+the service user—
+
+24.1.b.i
+
+does not meet any of the unsuitability criteria, or
+
+24.1.b.ii
+
+meets an unsuitability criterion, but the Home Secretary determines that that
+service user is nevertheless suitable to be accommodated on the Order land.
+
+24.2
+
+This sub-paragraph applies where the Home Secretary concludes that—
+
+24.2.a
+
+a service user—
+
+24.2.a.i
+
+is not a relevant person;
+
+24.2.a.ii
+
+meets an unsuitability criterion and is unsuitable to be accommodated on the
+Order land;
+
+24.2.b
+
+accommodating a service user on the Order land is inappropriate for another
+reason.
+
+24.3
+
+Where sub-paragraph (2) applies, a service user in respect of whom the Home
+Secretary reaches a conclusion under sub-paragraph (2)(a) or (b)—
+
+24.3.a
+
+must not be accommodated on the Order land for longer than 48 hours after the
+Home Secretary reaches such a conclusion, except as a means to avoid or
+mitigate a risk that may otherwise be expected to arise to any person’s
+welfare;
+
+24.3.b
+
+must, while the service user remains accommodated on the Order land—
+
+24.3.b.i
+
+be accommodated separately from other resident service users;
+
+24.3.b.ii
+
+be treated in a way that takes due account of any matter that makes
+accommodation on the Order land unsuitable for that service user.
+
+24.4
+
+Where the Home Secretary makes a determination of the kind referred to in sub-
+paragraph (1)(b)(ii), the Home Secretary must keep a written record of that
+determination.
+
+24.5
+
+The Home Secretary must send the Secretary of State a report—
+
+24.5.a
+
+no more than seven days before each 10th April and 10th October that falls
+between 11th April 2024 and 11th April 2027;
+
+24.5.b
+
+covering the period—
+
+24.5.b.i
+
+in the case of the first such report, beginning with 11th April 2024 and
+ending on a date in October 2024, earlier than 10th October 2024, that is
+specified in the report;
+
+24.5.b.ii
+
+in any other case, since the end of the period covered by the previous such
+report;
+
+24.5.c
+
+setting out the average and maximum numbers of resident service users meeting
+each unsuitability criterion in each month of the period covered by the
+report.
+
+###### General limit on number of resident service users
+
+25
+
+25.1
+
+The Home Secretary must—
+
+25.1.a
+
+keep an accurate and up to date record of the number of resident service
+users;
+
+25.1.b
+
+make that record available whenever requested to do so by the Secretary of
+State.
+
+25.2
+
+No more than 2,000 service users may be accommodated on the Order land at any
+time.
+
+###### Core facilities and services to be provided
+
+26
+
+26.1
+
+No service users may be accommodated on the Order land unless—
+
+26.1.a
+
+the Home Secretary has made arrangements for the facilities specified in sub-
+paragraphs (2) and (3) and the services specified in sub-paragraphs (4) to (6)
+to be available, free of charge at the point of use, to or in respect of
+resident service users;
+
+26.1.b
+
+those arrangements remain in place.
+
+26.2
+
+The facility is a medical isolation facility for resident service users, with
+at least 40 isolation beds and access to sufficient nursing staff to provide
+care to those who may be accommodated in it.
+
+26.3
+
+The facility is a medical centre for resident service users on the Order land—
+
+26.3.a
+
+staffed by an on-site medical team comprising at least—
+
+26.3.a.i
+
+a health care assistant;
+
+26.3.a.ii
+
+a mental health nurse;
+
+26.3.a.iii
+
+a general nurse;
+
+26.3.a.iv
+
+an advanced nurse practitioner;
+
+26.3.a.v
+
+a general practitioner (that is, a person whose name is contained in the
+General Practitioner Register as defined in section 34C (general practitioner
+register) of the Medical Act 1983  or a fully registered person, as defined in
+section 55 of that Act (interpretation) );
+
+26.3.b
+
+where resident service users may—
+
+26.3.b.i
+
+register with a general practitioner;
+
+26.3.b.ii
+
+book and attend appointments with on-site medical staff;
+
+26.3.b.iii
+
+book appointments to receive other services specified in sub-paragraph (4);
+
+26.3.b.iv
+
+be treated for minor injuries and illnesses.
+
+26.4
+
+The services are the following—
+
+26.4.a
+
+medical health screening of service users when they first arrive at the
+authorised development;
+
+26.4.b
+
+immunisation against diseases;
+
+26.4.c
+
+a system that enables them to collect medicine that has been lawfully
+prescribed for them;
+
+26.4.d
+
+a low-level trauma-informed mental health support service;
+
+26.4.e
+
+confidential health advice;
+
+26.4.f
+
+emergency dental care provided by a person registered in the register kept
+under section 14 (dentists register and registrar) of the Dentists Act 1984 ;
+
+26.4.g
+
+eye tests, to be provided by a person registered in the register of
+optometrists maintained under section 7 of the Opticians Act 1989 (registers
+of opticians) .
+
+26.5
+
+The service is that suitably trained security personnel are stationed on the
+Order land at all times.
+
+26.6
+
+The service is the provision of—
+
+26.6.a
+
+a regular free shuttle bus service for resident service users from the Order
+land to Lincoln, Gainsborough and Newark-on-Trent, with—
+
+26.6.a.i
+
+buses departing for and arriving from each of these destinations at least
+three times a day;
+
+26.6.a.ii
+
+each bus having the capacity to seat at least 16 service users;
+
+26.6.b
+
+such other transport services as are necessary to enable resident service
+users to access the services specified in sub-paragraph (4), or hospital
+appointments.
+
+###### Multi-Agency Forum
+
+27
+
+27.1
+
+The Home Secretary must establish a group of persons (the “Multi-Agency
+Forum”)—
+
+27.1.a
+
+nominated by the persons and bodies specified in sub-paragraph (2) to
+represent them, in response to an invitation to each of them from the Home
+Secretary;
+
+27.1.b
+
+to meet—
+
+27.1.b.i
+
+for the purpose specified in sub-paragraph (3);
+
+27.1.b.ii
+
+regularly, and in any event not less than once in every two calendar months,
+throughout the period in which the Order land is used to accommodate service
+users.
+
+27.2
+
+The persons and bodies to be represented on the Multi-Agency Forum are—
+
+27.2.a
+
+each of the following that have functions in respect of the Order land or part
+of it—
+
+27.2.a.i
+
+a fire and rescue authority (as defined in section 1 of the Fire and Rescue
+Services Act 2004) (fire and rescue authorities) );
+
+27.2.a.ii
+
+a local planning authority;
+
+27.2.a.iii
+
+in so far as they are not within sub-paragraphs (i) or (ii), a county council,
+district council, or parish council;
+
+27.2.a.iv
+
+an integrated care board established under section 14Z25 of the National
+Health Service Act 2006 (duty to establish integrated care boards) ;
+
+27.2.a.v
+
+a chief officer of police;
+
+27.2.b
+
+the UK Health Security Agency;
+
+27.2.c
+
+the Office for Health Improvement and Disparities;
+
+27.2.d
+
+East Midlands Strategic Migration Partnership;
+
+27.2.e
+
+a voluntary or charitable organisation providing information and assistance to
+service users;
+
+27.2.f
+
+any other person or body that the Home Secretary considers it appropriate to
+invite to be represented on the Multi-Agency Forum.
+
+27.3
+
+The purpose of the Multi-Agency Forum is to facilitate the exchange of
+information and views between the Home Secretary and the persons and bodies
+represented on the Multi-Agency Forum about interactions between the
+performance of their functions and the Home Secretary’s performance of
+relevant functions in relation to resident service users.
+
+###### Local services programme
+
+28
+
+28.1
+
+In this paragraph—
+
+      “ local service impact ” means any material adverse impact that the
+accommodation of service users on the Order land may be expected to have on
+relevant local services;           “ local services programme ” means a
+programme that sets out arrangements made by the Home Secretary—         in
+connection with relevant local services;           that are designed to avoid
+or mitigate local service impacts,         and stating the period of time that
+those arrangements cover;           “ local service provider ” means a person
+or body that is—         represented on the Multi-Agency Forum, and
+responsible for the provision of a relevant local service;                 “
+relevant local service ” means any service that is provided locally, on a
+statutory basis and at public expense, to persons living in the vicinity of
+the Order land, and on which the accommodation of service users on the Order
+land may reasonably be expected to have a material adverse effect, including—
+health care, including acute care, other in-patient hospital care,
+physiotherapy, diagnostics, and ambulance transport;           policing,
+including policing on and in the immediate vicinity of the Order land;
+social care for children;           public health services and control of the
+spread of infectious diseases.
+
+28.2
+
+A local services programme must take account of, and describe arrangements
+that are consistent with, the phasing scheme approved under condition 23
+(phasing scheme).
+
+28.3
+
+No service users may be accommodated on the Order land during a period that is
+not covered by arrangements set out in an approved local services programme
+that the Home Secretary has submitted to the Secretary of State, and the
+Secretary of State has approved.
+
+28.4
+
+When submitting a local services programme for approval, the Home Secretary
+must also send to the Secretary of State a report that summarises—
+
+28.4.a
+
+the views of local service providers regarding—
+
+28.4.a.i
+
+local service impacts;
+
+28.4.a.ii
+
+the effectiveness of any arrangements already made by the Home Secretary to
+avoid or mitigate local service impacts;
+
+28.4.b
+
+the steps taken by the Home Secretary to engage with local service providers,
+including—
+
+28.4.b.i
+
+the information provided by the Home Secretary to local service providers
+about the authorised development and when it was provided to them;
+
+28.4.b.ii
+
+the period in which they were able to make representations about local service
+impacts to the Home Secretary, being not less than 14 calendar days and
+beginning with the date on which they were invited to make such
+representations;
+
+28.4.b.iii
+
+the outcomes of such engagement.
+
+28.5
+
+When approving a local services programme, the Secretary of State may, having
+regard to the report provided under sub-paragraph (4) and any other relevant
+considerations, give written notice to the Home Secretary of the maximum
+number of service users (being no more than 2,000) that may be accommodated on
+the Order land during the whole or a specified part of the period covered by
+the arrangements set out in that programme.
+
+###### Reinstatement plan
+
+29
+
+29.1
+
+In this condition, “ reinstatement plan ” means a plan detailing reinstatement
+works, including a method statement and timetable for carrying them out.
+
+29.2
+
+A reinstatement plan may detail any aspect of the reinstatement works by
+referring to, annexing, or otherwise incorporating, material from the CEMP.
+
+29.3
+
+Reinstatement works must not be commenced until the Home Secretary has
+submitted to the Secretary of State, and the Secretary of State has approved,
+the reinstatement plan.
+
+29.4
+
+The site operator must submit a reinstatement plan to the Secretary of State
+for the Secretary of State’s approval on or before—
+
+29.4.a
+
+11th February 2027, or
+
+29.4.b
+
+such later date proposed by the Home Secretary as the Secretary of State may
+agree in writing before 11th February 2027.
+
+29.5
+
+A reinstatement plan need not contain details of any reinstatement works in
+respect of authorised development, to the extent that planning permission has
+been granted for it to be retained otherwise than under or by virtue of this
+Order.
+
+29.6
+
+The site operator must notify the Secretary of State when reinstatement works
+have been completed.
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Order)
+
+  This Order grants temporary planning permission for development at the
+former RAF Scampton relating to the provision of accommodation and other forms
+of support to single adult male asylum-seekers and failed asylum-seekers.
+
+  The land to which the Order applies is shown on a map, a copy of which is
+available for inspection from the Department for Levelling Up, Housing and
+Communities, 2 Marsham Street, London, SW1P 4DF, and online from  www.gov.uk .
+
+  The development permitted consists of the material change in the use of
+buildings or other land, building and other operations, and reinstatement
+works. The specific types of development permitted by the Order are set out in
+article 4 and Schedule 2 and further detail is given in the documents listed
+in Schedule 1.
+
+  The permission granted under the Order ceases at the end of 10 th  October
+2027.
+
+  Planning permission granted by the Order is subject to conditions set out in
+Schedule 3, as well as any further conditions the Secretary of State may
+impose when approving a document that is required to be approved under the
+Order, or a variation to such a document (or to a document listed in Schedule
+1). The procedure for such approvals is set out in articles 5 and 6; article 7
+provides for relevant documents to be made publicly available, and how they
+are to be made publicly available.
+
+  A full regulatory impact assessment has not been produced for this
+instrument: as the instrument does not regulate business activity, it is not
+in the scope of the Government’s Better Regulation Framework.
+
+  For illustrative purposes only a plan of the land to which this Order
+applies is appended below.
+

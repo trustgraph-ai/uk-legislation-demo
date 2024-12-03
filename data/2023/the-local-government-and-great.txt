@@ -1,0 +1,2450 @@
+Title: The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023
+Date: 2024-04-30
+Description: These Regulations make provision in relation to a number of provisions of the Elections Act 2022 (c. 37) (“the Act”). The provisions implemented by these Regulations are proxy voting restrictions (section 6 and Schedule 4), candidates’ commonly used names (section 10), EU citizens’ candidacy rights (section 15) and disqualification orders (Part 5 of the Act).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2023/1066
+
+## The Local Government and Greater London Authority Elections (Miscellaneous Amendments) Regulations 2023
+
+    LONDON GOVERNMENT       REPRESENTATION OF THE PEOPLE, ENGLAND
+
+  Made   5th October 2023
+
+  Laid before Parliament   9th October 2023
+
+  Coming into force in accordance with regulation 1(2) to (4)
+
+      The Secretary of State makes these Regulations in exercise of the powers
+conferred by paragraph 18 of Schedule 12 to the Local Government Act 1972 ,
+section 36(1), (2) and (2A) of the Representation of the People Act 1983  and
+section 9HB(d) of the Local Government Act 2000 .           The Secretary of
+State has consulted with the Electoral Commission in accordance with section
+7(1) and (2)(d) of the Political Parties, Elections and Referendums Act 2000 .
+
+### Citation, commencement, extent, transitional and savings provisions
+
+
+1
+
+1.1
+
+These Regulations may be cited as the Local Government and Greater London
+Authority Elections (Miscellaneous Amendments) Regulations 2023.
+
+1.2
+
+The following provisions come into force on 31st October 2023—
+
+1.2.a
+
+this regulation;
+
+1.2.b
+
+regulation 3(1), (2), (7), (10), (15) and (17);
+
+1.2.c
+
+regulation 4(1), (2), (7), (10) and (15);
+
+1.2.d
+
+in Schedule 1, paragraphs 1, 6, 7(2), 8(2) and (3), 9, 10(2), 11(2) and (3),
+12, 13(2) and (3) and 14(2).
+
+1.3
+
+Subject to paragraph (4), the remainder of these Regulations come into force
+on 1st November 2023.
+
+1.4
+
+The following provisions come into force on 31st January 2024—
+
+1.4.a
+
+regulation 3(8), (9)(c) and (d), (16) and (18)(c) and (d);
+
+1.4.b
+
+regulation 4(8), (9)(c) and (d), (16) and (17)(c) and (d);
+
+1.4.c
+
+regulation 5(7), (13), (19), (25), (31), (37) and (38)(e) and (f);
+
+1.4.d
+
+in Schedule 1, paragraphs 7(1), 8(1), 10(1), 11(1), 13(1) and 14(1).
+
+1.5
+
+An amendment made by these Regulations has the same extent as the provision
+amended.
+
+1.6
+
+Schedule 1 (transitional and savings provisions) has effect.
+
+### Amendment of the Parish and Community Meetings (Polls) Rules 1987
+
+
+2
+
+2.1
+
+Rule 6 (application of provisions in the Act of 1983) of the Parish and
+Community Meetings (Polls) Rules 1987  is amended as follows.
+
+2.2
+
+In paragraph (a), after “114,” insert  “114A ,” .
+
+2.3
+
+After paragraph (e), insert—
+
+2.3.ea
+
+in respect of the election of the chairman of a parish meeting or a poll
+consequent on a parish meeting—
+
+2.3.ea.i
+
+section 114A applies as if, in subsection (2)(b), “or of a proxy for an
+elector” were omitted;
+
+2.3.ea.ii
+
+section 115 does not apply;
+
+2.3.eb
+
+in respect of a poll consequent on a community meeting, section 114A does not
+apply;
+
+.
+
+### Amendment of the Local Elections (Principal Areas) (England and Wales) Rules 2006
+
+
+3
+
+3.1
+
+The Local Elections (Principal Areas) (England and Wales) Rules 2006  are
+amended as follows.
+
+3.2
+
+Schedule 2 (rules for conduct of an election of councillors of a principal
+area where poll is not taken together with poll at another election) is
+amended in accordance with paragraphs (3) to (9).
+
+3.3
+
+In rule 4 (nomination of candidates), for paragraph (3) substitute—
+
+3.3.3
+
+If a candidate—
+
+3.3.3.a
+
+commonly uses a surname that is different from any other surname the candidate
+has,
+
+3.3.3.b
+
+commonly uses a forename that is different from any other forename the
+candidate has, or
+
+3.3.3.c
+
+otherwise commonly uses one or more forenames or a surname in a different way
+from the way in which the candidate’s names are stated in accordance with
+paragraph (2)(a),
+
+the nomination paper may state the commonly used name or names in addition to
+the names as stated in accordance with paragraph (2)(a).
+
+.
+
+3.4
+
+In rule 7 (consent to nomination), in paragraph (b)(i), for “and section 34 of
+the Localism Act 2011 ” substitute  “, section 34 of the Localism Act 2011 and
+section 30 of the Elections Act 2022 ” .
+
+3.5
+
+In rule 8 (decisions as to validity of nomination papers), in paragraph (2)—
+
+3.5.a
+
+omit the “and” after sub-paragraph (a);
+
+3.5.b
+
+after paragraph (b) insert—
+
+3.5.b.c
+
+that an order under section 30 of the Elections Act 2022 (disqualification
+orders) has effect in relation to the candidate.
+
+.
+
+3.6
+
+In rule 9 (publication of statement of persons nominated), in paragraph (3)—
+
+3.6.a
+
+for “in addition to another name” substitute  “in accordance with rule 4(3)” ;
+
+3.6.b
+
+for “any other name” substitute  “the other surname or forename” .
+
+3.7
+
+In rule 24 (appointment of presiding officers and polling clerks), in
+paragraph (3)(c) for “mentions” substitute  “mentioned” .
+
+3.8
+
+In rule 33 (questions to be put to voters)—
+
+3.8.a
+
+in paragraph (1)(b), after “put if” insert  “(where applicable) the person has
+answered the previous question in the manner indicated, and” ;
+
+3.8.b
+
+in the table following paragraph (1)—
+
+3.8.b.i
+
+in entries 2 and 3, in the column headed “Question”, for question (c)
+substitute—
+
+3.8.b.i.c
+
+Disregarding any parliamentary election or police and crime commissioner
+election, have you already voted as proxy at this election or any other
+election or referendum for which the day of poll is today, whether here or
+elsewhere in this electoral area or anywhere else in England, on behalf of
+four or more electors? [R]
+
+3.8.b.i.d
+
+If the person answers question (c) in the negative: “Disregarding any
+parliamentary election or police and crime commissioner election, have you
+already voted as proxy at this election or any other election or referendum
+for which the day of poll is today, whether here or elsewhere in this
+electoral area or anywhere else in England, on behalf of two or more
+electors?” [R]
+
+3.8.b.i.e
+
+If the person answers question (d) in the affirmative: “Were two or more of
+the electors on whose behalf you have voted in this election, or any other
+election or referendum for which the day of poll is today, registered in a
+register of electors otherwise than in pursuance of a service declaration?”
+[R]
+
+3.8.b.i.f
+
+If the person answers question (e) in the affirmative: “Is the elector (or are
+the electors) for whom you are voting today registered in a register of
+electors otherwise than in pursuance of a service declaration?” [R]
+
+;
+
+3.8.b.ii
+
+omit entry 4;
+
+3.8.c
+
+in paragraph (2), for “3(a), (b) and (c)” substitute  “3(a) and (b)” .
+
+3.9
+
+In Part 7 (appendix of forms), for—
+
+3.9.a
+
+the form of nomination paper;
+
+3.9.b
+
+the form of candidate’s consent to nomination;
+
+3.9.c
+
+the form of official poll card (to be sent to an elector voting in person);
+and
+
+3.9.d
+
+the form of official proxy poll card (to be sent to an appointed proxy voting
+in person),
+
+substitute the corresponding form set out in Part 1 of Schedule 3 to these
+Regulations.
+
+3.10
+
+Schedule 3 (rules for conduct of an election of councillors of a principal
+area where the poll is taken together with the poll at a relevant election or
+referendum) is amended in accordance with paragraphs (11) to (18).
+
+3.11
+
+In rule 4 (nomination of candidates), for paragraph (3) substitute—
+
+3.11.3
+
+If a candidate—
+
+3.11.3.a
+
+commonly uses a surname that is different from any other surname the candidate
+has,
+
+3.11.3.b
+
+commonly uses a forename that is different from any other forename the
+candidate has, or
+
+3.11.3.c
+
+otherwise commonly uses one or more forenames or a surname in a different way
+from the way in which the candidate’s names are stated in accordance with
+paragraph (2)(a),
+
+the nomination paper may state the commonly used name or names in addition to
+the names as stated in accordance with paragraph (2)(a).
+
+.
+
+3.12
+
+In rule 7 (consent to nomination), in paragraph (b)(i), for “and section 34 of
+the Localism Act 2011” substitute  “, section 34 of the Localism Act 2011 and
+section 30 of the Elections Act 2022” .
+
+3.13
+
+In rule 8 (decisions as to validity of nomination papers), in paragraph (2)—
+
+3.13.a
+
+omit the “and” after sub-paragraph (aa);
+
+3.13.b
+
+after sub-paragraph (b) insert—
+
+3.13.b.c
+
+that an order under section 30 of the Elections Act 2022 (disqualification
+orders) has effect in relation to the candidate.
+
+.
+
+3.14
+
+In rule 9 (publication of statement of persons nominated), in paragraph (3)—
+
+3.14.a
+
+for “in addition to another name” substitute  “in accordance with rule 4(3)” ;
+
+3.14.b
+
+for “any other name” substitute  “the other surname or forename” .
+
+3.15
+
+In rule 24 (appointment of presiding officers and clerks), in paragraph (3)(c)
+for “mentions” substitute  “mentioned” .
+
+3.16
+
+In rule 33 (questions to be put to voters)—
+
+3.16.a
+
+in paragraph (1)(b), after “put if” insert  “(where applicable) the person has
+answered the previous question in the manner indicated, and” ;
+
+3.16.b
+
+in the table following paragraph (1)—
+
+3.16.b.i
+
+in entries 2 and 3, in the column headed “Question”, for question (c)
+substitute—
+
+3.16.b.i.c
+
+Disregarding any parliamentary election or police and crime commissioner
+election, have you already voted as proxy at this election or any other
+election or referendum for which the day of poll is today, whether here or
+elsewhere in this electoral area or anywhere else in England, on behalf of
+four or more electors? [R]
+
+3.16.b.i.d
+
+If the person answers question (c) in the negative: “Disregarding any
+parliamentary election or police and crime commissioner election, have you
+already voted as proxy at this election or any other election or referendum
+for which the day of poll is today, whether here or elsewhere in this
+electoral area or anywhere else in England, on behalf of two or more
+electors?” [R]
+
+3.16.b.i.e
+
+If the person answers question (d) in the affirmative: “Were two or more of
+the electors on whose behalf you have voted in this election, or any other
+election or referendum for which the day of poll is today, registered in a
+register of electors otherwise than in pursuance of a service declaration?”
+[R]
+
+3.16.b.i.f
+
+If the person answers question (e) in the affirmative: “Is the elector (or are
+the electors) for whom you are voting today registered in a register of
+electors otherwise than in pursuance of a service declaration?” [R]
+
+;
+
+3.16.b.ii
+
+omit entry 4;
+
+3.16.c
+
+in paragraph (2), for “3(a), (b) and (c)” substitute  “3(a) and (b)” .
+
+3.17
+
+In rule 37 (voting by persons with disabilities), in paragraph (3) for “voter”
+in the third place it occurs, substitute  “vote” .
+
+3.18
+
+In Part 7 (appendix of forms), for—
+
+3.18.a
+
+the form of nomination paper;
+
+3.18.b
+
+the form of candidate’s consent to nomination;
+
+3.18.c
+
+the form of official poll card (to be sent to an elector voting in person);
+and
+
+3.18.d
+
+the form of official proxy poll card (to be sent to an appointed proxy voting
+in person),
+
+substitute the corresponding form set out in Part 2 of Schedule 3 to these
+Regulations.
+
+### Amendment of the Local Elections (Parishes and Communities) (England and Wales) Rules 2006
+
+
+4
+
+4.1
+
+The Local Elections (Parishes and Communities) (England and Wales) Rules 2006
+are amended as follows.
+
+4.2
+
+Schedule 2 (rules for conduct of an election of councillors of a parish where
+poll is not taken together with poll at another election) is amended in
+accordance with paragraphs (3) to (9).
+
+4.3
+
+In rule 4 (nomination of candidates), for paragraph (3) substitute—
+
+4.3.3
+
+If a candidate—
+
+4.3.3.a
+
+commonly uses a surname that is different from any other surname the candidate
+has,
+
+4.3.3.b
+
+commonly uses a forename that is different from any other forename the
+candidate has, or
+
+4.3.3.c
+
+otherwise commonly uses one or more forenames or a surname in a different way
+from the way in which the candidate’s names are stated in accordance with
+paragraph (2)(a),
+
+the nomination paper may state the commonly used name or names in addition to
+the names as stated in accordance with paragraph (2)(a).
+
+.
+
+4.4
+
+In rule 7 (consent to nomination), in paragraph (b)(i), for “and section 34 of
+the Localism Act 2011” substitute  “, section 34 of the Localism Act 2011 and
+section 30 of the Elections Act 2022” .
+
+4.5
+
+In rule 8 (decisions as to validity of nomination papers), in paragraph (2)—
+
+4.5.a
+
+omit the “and” after sub-paragraph (aa);
+
+4.5.b
+
+after sub-paragraph (b) insert—
+
+4.5.b.c
+
+that an order under section 30 of the Elections Act 2022 (disqualification
+orders) has effect in relation to the candidate.
+
+.
+
+4.6
+
+In rule 9 (publication of statement of persons nominated), in paragraph (3)—
+
+4.6.a
+
+for “in addition to another name” substitute  “in accordance with rule 4(3)” ;
+
+4.6.b
+
+for “any other name” substitute  “the other surname or forename” .
+
+4.7
+
+In rule 24 (appointment of presiding officers and polling clerks), in
+paragraph (3)(c) for “mentions” substitute  “mentioned” .
+
+4.8
+
+In rule 33 (questions to be put to voters)—
+
+4.8.a
+
+in paragraph (1)(b), after “put if” insert  “(where applicable) the person has
+answered the previous question in the manner indicated, and” ;
+
+4.8.b
+
+in the table following paragraph (1)—
+
+4.8.b.i
+
+in entries 2 and 3, in the column headed “Question”, for question (c)
+substitute—
+
+4.8.b.i.c
+
+Disregarding any parliamentary election or police and crime commissioner
+election, have you already voted as proxy at this election or any other
+election or referendum for which the day of poll is today, whether here or
+elsewhere in this electoral area or anywhere else in England, on behalf of
+four or more electors? [R]
+
+4.8.b.i.d
+
+If the person answers question (c) in the negative: “Disregarding any
+parliamentary election or police and crime commissioner election, have you
+already voted as proxy at this election or any other election or referendum
+for which the day of poll is today, whether here or elsewhere in this
+electoral area or anywhere else in England, on behalf of two or more
+electors?” [R]
+
+4.8.b.i.e
+
+If the person answers question (d) in the affirmative: “Were two or more of
+the electors on whose behalf you have voted in this election, or any other
+election or referendum for which the day of poll is today, registered in a
+register of electors otherwise than in pursuance of a service declaration?”
+[R]
+
+4.8.b.i.f
+
+If the person answers question (e) in the affirmative: “Is the elector (or are
+the electors) for whom you are voting today registered in a register of
+electors otherwise than in pursuance of a service declaration?” [R]
+
+;
+
+4.8.b.ii
+
+omit entry 4;
+
+4.8.c
+
+in paragraph (2), for “3(a), (b) and (c)” substitute  “3(a) and (b)” .
+
+4.9
+
+In Part 7 (appendix of forms), for—
+
+4.9.a
+
+the form of nomination paper;
+
+4.9.b
+
+the form of candidate’s consent to nomination;
+
+4.9.c
+
+the form of official poll card (to be sent to an elector voting in person);
+and
+
+4.9.d
+
+the form of official proxy poll card (to be sent to an appointed proxy voting
+in person),
+
+substitute the corresponding forms set out in Part 1 of Schedule 4 to these
+Regulations.
+
+4.10
+
+Schedule 3 (rules for conduct of an election of councillors of a parish where
+the poll is taken together with the poll at a relevant election or referendum)
+is amended in accordance with paragraphs (11) to (17).
+
+4.11
+
+In rule 4 (nomination of candidates), for paragraph (3) substitute—
+
+4.11.3
+
+If a candidate—
+
+4.11.3.a
+
+commonly uses a surname that is different from any other surname the candidate
+has,
+
+4.11.3.b
+
+commonly uses a forename that is different from any other forename the
+candidate has, or
+
+4.11.3.c
+
+otherwise commonly uses one or more forenames or a surname in a different way
+from the way in which the candidate’s names are stated in accordance with
+paragraph (2)(a),
+
+the nomination paper may state the commonly used name or names in addition to
+the names as stated in accordance with paragraph (2)(a).
+
+.
+
+4.12
+
+In rule 7 (consent to nomination), in paragraph (b)(i), for “and section 34 of
+the Localism Act 2011” substitute  “, section 34 of the Localism Act 2011 and
+section 30 of the Elections Act 2022” .
+
+4.13
+
+In rule 8 (decisions as to validity of nomination papers), in paragraph (2)—
+
+4.13.a
+
+omit the “and” after sub-paragraph (aa);
+
+4.13.b
+
+after sub-paragraph (b) insert—
+
+4.13.b.c
+
+that an order under section 30 of the Elections Act 2022 (disqualification
+orders) has effect in relation to the candidate.
+
+.
+
+4.14
+
+In rule 9 (publication of statement of persons nominated), in paragraph (3)—
+
+4.14.a
+
+for “in addition to another name” substitute  “in accordance with rule 4(3)” ;
+
+4.14.b
+
+for “any other name” substitute  “the other surname or forename” .
+
+4.15
+
+In rule 24 (appointment of presiding officers and polling clerks), in
+paragraph (3)(c) for “mentions” substitute  “mentioned” .
+
+4.16
+
+In rule 33 (questions to be put to voters)—
+
+4.16.a
+
+in paragraph (1)(b), after “put if” insert  “(where applicable) the person has
+answered the previous question in the manner indicated, and” ;
+
+4.16.b
+
+in the table following paragraph (1)—
+
+4.16.b.i
+
+in entries 2 and 3, in the column headed “Question”, for question (c)
+substitute—
+
+4.16.b.i.c
+
+Disregarding any parliamentary election or police and crime commissioner
+election, have you already voted as proxy at this election or any other
+election or referendum for which the day of poll is today, whether here or
+elsewhere in this electoral area or anywhere else in England, on behalf of
+four or more electors? [R]
+
+4.16.b.i.d
+
+If the person answers question (c) in the negative: “Disregarding any
+parliamentary election or police and crime commissioner election, have you
+already voted as proxy at this election or any other election or referendum
+for which the day of poll is today, whether here or elsewhere in this
+electoral area or anywhere else in England, on behalf of two or more
+electors?” [R]
+
+4.16.b.i.e
+
+If the person answers question (d) in the affirmative: “Were two or more of
+the electors on whose behalf you have voted in this election, or any other
+election or referendum for which the day of poll is today, registered in a
+register of electors otherwise than in pursuance of a service declaration?”
+[R]
+
+4.16.b.i.f
+
+If the person answers question (e) in the affirmative: “Is the elector (or are
+the electors) for whom you are voting today registered in a register of
+electors otherwise than in pursuance of a service declaration?” [R]
+
+;
+
+4.16.b.ii
+
+omit entry 4;
+
+4.16.c
+
+in paragraph (2), for “3(a), (b) and (c)” substitute  “3(a) and (b)” .
+
+4.17
+
+In Part 7 (appendix of forms), for—
+
+4.17.a
+
+the form of nomination paper;
+
+4.17.b
+
+the form of candidate’s consent to nomination;
+
+4.17.c
+
+the form of official poll card (to be sent to an elector voting in person);
+and
+
+4.17.d
+
+the form of official proxy poll card (to be sent to an appointed proxy voting
+in person),
+
+substitute the corresponding form set out in Part 2 of Schedule 4 to these
+Regulations.
+
+### Amendment of the Greater London Authority Elections Rules 2007
+
+
+5
+
+5.1
+
+The Greater London Authority Elections Rules 2007  are amended as follows.
+
+5.2
+
+Schedule 1 (the constituency members election rules) is amended in accordance
+with paragraphs (3) to (7).
+
+5.3
+
+In rule 6 (nomination of candidates), for paragraph (3) substitute—
+
+5.3.3
+
+If a candidate—
+
+5.3.3.a
+
+commonly uses a surname that is different from any other surname the candidate
+has,
+
+5.3.3.b
+
+commonly uses a forename that is different from any other forename the
+candidate has, or
+
+5.3.3.c
+
+otherwise commonly uses one or more forenames or a surname in a different way
+from the way in which the candidate’s names are stated in accordance with
+paragraph (2)(a),
+
+the nomination paper may state the commonly used name or names in addition to
+the names as stated in accordance with paragraph (2)(a).
+
+.
+
+5.4
+
+In rule 7 (consent to nomination), in paragraph (2)(b)(iii), after
+“(offences)” insert  “or section 30 of the Elections Act 2022
+(disqualification orders)” .
+
+5.5
+
+In rule 9 (decisions as to validity of nomination papers), in paragraph (2)—
+
+5.5.a
+
+omit the “or” after sub-paragraph (a);
+
+5.5.b
+
+after sub-paragraph (b) insert  “or” ;
+
+5.5.c
+
+after sub-paragraph (b) insert—
+
+5.5.c.c
+
+that an order under section 30 of the Elections Act 2022 (disqualification
+orders) has effect in relation to the candidate.
+
+.
+
+5.6
+
+In rule 10 (publication of statement of persons nominated), in paragraph (3)—
+
+5.6.a
+
+for “in addition to another name” substitute  “in accordance with rule 6(3)” ;
+
+5.6.b
+
+for “any other name” substitute  “the other surname or forename” .
+
+5.7
+
+In rule 36 (questions to be put to voters)—
+
+5.7.a
+
+in paragraph (1)(b), after “put if” insert  “(where applicable) the person has
+answered the previous question in the manner indicated, and” ;
+
+5.7.b
+
+in the table following paragraph (1)—
+
+5.7.b.i
+
+in entries 2 and 3, in the column headed “Question”, for question (c)
+substitute—
+
+5.7.b.i.c
+
+Disregarding any parliamentary election or police and crime commissioner
+election, have you already voted as proxy at this election or any other
+election or referendum for which the day of poll is today, whether here or
+elsewhere in this electoral area or anywhere else in England, on behalf of
+four or more electors? [R]
+
+5.7.b.i.d
+
+If the person answers question (c) in the negative: “Disregarding any
+parliamentary election or police and crime commissioner election, have you
+already voted as proxy at this election or any other election or referendum
+for which the day of poll is today, whether here or elsewhere in this
+electoral area or anywhere else in England, on behalf of two or more
+electors?” [R]
+
+5.7.b.i.e
+
+If the person answers question (d) in the affirmative: “Were two or more of
+the electors on whose behalf you have voted in this election, or any other
+election or referendum for which the day of poll is today, registered in a
+register of electors otherwise than in pursuance of a service declaration?”
+[R]
+
+5.7.b.i.f
+
+If the person answers question (e) in the affirmative: “Is the elector (or are
+the electors) for whom you are voting today registered in a register of
+electors otherwise than in pursuance of a service declaration?” [R]
+
+;
+
+5.7.b.ii
+
+omit entry 4;
+
+5.7.c
+
+in paragraph (2), for “3(a), (b) and (c)” substitute  “3(a) and (b)” .
+
+5.8
+
+Schedule 2 (the London members election rules) is amended in accordance with
+paragraphs (9) to (13).
+
+5.9
+
+In rule 8 (nomination papers: general provisions) for paragraph (2)
+substitute—
+
+5.9.2
+
+If an individual candidate or a candidate included on a party list—
+
+5.9.2.a
+
+commonly uses a surname that is different from any other surname the candidate
+has,
+
+5.9.2.b
+
+commonly uses a forename that is different from any other forename the
+candidate has, or
+
+5.9.2.c
+
+otherwise commonly uses one or more forenames or a surname in a different way
+from the way in which the candidate’s names are stated in accordance with rule
+6(2)(a),
+
+the nomination paper may state the commonly used name or names in addition to
+the names as stated in accordance with rule 6(2)(a).
+
+.
+
+5.10
+
+In rule 9 (consent to nomination), in paragraph (2)(c)(iii), after
+“(offences)” insert  “or section 30 of the Elections Act 2022
+(disqualification orders)” .
+
+5.11
+
+In rule 11 (decisions as to validity of nomination papers), in paragraph (4),
+after “by law”, insert  “or that an order under section 30 of the Elections
+Act 2022 (disqualification orders) has effect in relation to the candidate” .
+
+5.12
+
+In rule 12 (publication of statement of persons nominated), in paragraph (2)—
+
+5.12.a
+
+for “in addition to another name” substitute  “in accordance with rule 8(2)” ;
+
+5.12.b
+
+for “any other name” substitute  “the other surname or forename” .
+
+5.13
+
+In rule 37 (questions to be put to voters)—
+
+5.13.a
+
+in paragraph (1)(b), after “put if” insert  “(where applicable) the person has
+answered the previous question in the manner indicated, and” ;
+
+5.13.b
+
+in the table following paragraph (1)—
+
+5.13.b.i
+
+in entries 2 and 3, in the column headed “Question”, for question (c)
+substitute—
+
+5.13.b.i.c
+
+Disregarding any parliamentary election or police and crime commissioner
+election, have you already voted as proxy at this election or any other
+election or referendum for which the day of poll is today, whether here or
+elsewhere in this electoral area or anywhere else in England, on behalf of
+four or more electors? [R]
+
+5.13.b.i.d
+
+If the person answers question (c) in the negative: “Disregarding any
+parliamentary election or police and crime commissioner election, have you
+already voted as proxy at this election or any other election or referendum
+for which the day of poll is today, whether here or elsewhere in this
+electoral area or anywhere else in England, on behalf of two or more
+electors?” [R]
+
+5.13.b.i.e
+
+If the person answers question (d) in the affirmative: “Were two or more of
+the electors on whose behalf you have voted in this election, or any other
+election or referendum for which the day of poll is today, registered in a
+register of electors otherwise than in pursuance of a service declaration?”
+[R]
+
+5.13.b.i.f
+
+If the person answers question (e) in the affirmative: “Is the elector (or are
+the electors) for whom you are voting today registered in a register of
+electors otherwise than in pursuance of a service declaration?” [R]
+
+;
+
+5.13.b.ii
+
+omit entry 4;
+
+5.13.c
+
+in paragraph (2), for “3(a), (b) and (c)” substitute  “3(a) and (b)” .
+
+5.14
+
+Schedule 3 (the mayoral election rules) is amended in accordance with
+paragraphs (15) to (19).
+
+5.15
+
+In rule 6 (nomination of candidates), for paragraph (3) substitute—
+
+5.15.3
+
+If a candidate—
+
+5.15.3.a
+
+commonly uses a surname that is different from any other surname the candidate
+has,
+
+5.15.3.b
+
+commonly uses a forename that is different from any other forename the
+candidate has, or
+
+5.15.3.c
+
+otherwise commonly uses one or more forenames or a surname in a different way
+from the way in which the candidate’s names are stated in accordance with
+paragraph (2)(a),
+
+the nomination paper may state the commonly used name or names in addition to
+the names as stated in accordance with paragraph (2)(a).
+
+.
+
+5.16
+
+In rule 8 (consent to nomination), in paragraph (2)(b)(iii), after
+“(offences)” insert  “or section 30 of the Elections Act 2022
+(disqualification orders)” .
+
+5.17
+
+In rule 10 (decisions as to validity of nomination papers), in paragraph (2),
+after sub-paragraph (c) insert—
+
+5.17.d
+
+that an order under section 30 of the Elections Act 2022 (disqualification
+orders) has effect in relation to the candidate.
+
+.
+
+5.18
+
+In rule 11 (publication of statement of persons nominated), in paragraph (3)—
+
+5.18.a
+
+for “in addition to another name” substitute  “in accordance with rule 6(3)” ;
+
+5.18.b
+
+for “any other name” substitute  “the other surname or forename” .
+
+5.19
+
+In rule 36 (questions to be put to voters)—
+
+5.19.a
+
+in paragraph (1)(b), after “put if” insert  “(where applicable) the person has
+answered the previous question in the manner indicated, and” ;
+
+5.19.b
+
+in the table following paragraph (1)—
+
+5.19.b.i
+
+in entries 2 and 3, in the column headed “Question”, for question (c)
+substitute—
+
+5.19.b.i.c
+
+Disregarding any parliamentary election or police and crime commissioner
+election, have you already voted as proxy at this election or any other
+election or referendum for which the day of poll is today, whether here or
+elsewhere in this electoral area or anywhere else in England, on behalf of
+four or more electors? [R]
+
+5.19.b.i.d
+
+If the person answers question (c) in the negative: “Disregarding any
+parliamentary election or police and crime commissioner election, have you
+already voted as proxy at this election or any other election or referendum
+for which the day of poll is today, whether here or elsewhere in this
+electoral area or anywhere else in England, on behalf of two or more
+electors?” [R]
+
+5.19.b.i.e
+
+If the person answers question (d) in the affirmative: “Were two or more of
+the electors on whose behalf you have voted in this election, or any other
+election or referendum for which the day of poll is today, registered in a
+register of electors otherwise than in pursuance of a service declaration?”
+[R]
+
+5.19.b.i.f
+
+If the person answers question (e) in the affirmative: “Is the elector (or are
+the electors) for whom you are voting today registered in a register of
+electors otherwise than in pursuance of a service declaration?” [R]
+
+;
+
+5.19.b.ii
+
+omit entry 4;
+
+5.19.c
+
+in paragraph (2), for “3(a), (b) and (c)” substitute  “3(a) and (b)” .
+
+5.20
+
+Schedule 5 (the constituency members election rules) is amended in accordance
+with paragraphs (21) to (25).
+
+5.21
+
+In rule 6 (nomination of candidates), for paragraph (3) substitute—
+
+5.21.3
+
+If a candidate—
+
+5.21.3.a
+
+commonly uses a surname that is different from any other surname the candidate
+has,
+
+5.21.3.b
+
+commonly uses a forename that is different from any other forename the
+candidate has, or
+
+5.21.3.c
+
+otherwise commonly uses one or more forenames or a surname in a different way
+from the way in which the candidate’s names are stated in accordance with
+paragraph (2)(a),
+
+the nomination paper may state the commonly used name or names in addition to
+the names as stated in accordance with paragraph (2)(a).
+
+.
+
+5.22
+
+In rule 7 (consent to nomination), in paragraph (2)(b)(iii), after
+“(offences)” insert  “or section 30 of the Elections Act 2022
+(disqualification orders)” .
+
+5.23
+
+In rule 9 (decisions as to validity of nomination papers), in paragraph (2)—
+
+5.23.a
+
+omit the “or” after sub-paragraph (a);
+
+5.23.b
+
+at the end of sub-paragraph (b) insert  “or” ;
+
+5.23.c
+
+after sub-paragraph (b) insert—
+
+5.23.c.c
+
+that an order under section 30 of the Elections Act 2022 (disqualification
+orders) has effect in relation to the candidate.
+
+.
+
+5.24
+
+In rule 10 (publication of statement of persons nominated), in paragraph (3)—
+
+5.24.a
+
+for “in addition to another name” substitute  “in accordance with rule 6(3)” ;
+
+5.24.b
+
+for “any other name” substitute  “the other surname or forename” .
+
+5.25
+
+In rule 36 (questions to be put to voters)—
+
+5.25.a
+
+in paragraph (1)(b), after “put if” insert  “(where applicable) the person has
+answered the previous question in the manner indicated, and” ;
+
+5.25.b
+
+in the table following paragraph (1)—
+
+5.25.b.i
+
+in entries 2 and 3, in the column headed “Question”, for question (c)
+substitute—
+
+5.25.b.i.c
+
+Disregarding any parliamentary election or police and crime commissioner
+election, have you already voted as proxy at this election or any other
+election or referendum for which the day of poll is today, whether here or
+elsewhere in this electoral area or anywhere else in England, on behalf of
+four or more electors? [R]
+
+5.25.b.i.d
+
+If the person answers question (c) in the negative: “Disregarding any
+parliamentary election or police and crime commissioner election, have you
+already voted as proxy at this election or any other election or referendum
+for which the day of poll is today, whether here or elsewhere in this
+electoral area or anywhere else in England, on behalf of two or more
+electors?” [R]
+
+5.25.b.i.e
+
+If the person answers question (d) in the affirmative: “Were two or more of
+the electors on whose behalf you have voted in this election, or any other
+election or referendum for which the day of poll is today, registered in a
+register of electors otherwise than in pursuance of a service declaration?”
+[R]
+
+5.25.b.i.f
+
+If the person answers question (e) in the affirmative: “Is the elector (or are
+the electors) for whom you are voting today registered in a register of
+electors otherwise than in pursuance of a service declaration?” [R]
+
+;
+
+5.25.b.ii
+
+omit entry 4;
+
+5.25.c
+
+in paragraph (2), for “3(a), (b) and (c)” substitute  “3(a) and (b)” .
+
+5.26
+
+Schedule 6 (the London members election rules) is amended in accordance with
+paragraphs (27) to (31).
+
+5.27
+
+In rule 8 (nomination papers: general provisions), for paragraph (2)
+substitute—
+
+5.27.2
+
+If an individual candidate or candidate included on a party list—
+
+5.27.2.a
+
+commonly uses a surname that is different from any other surname the candidate
+has,
+
+5.27.2.b
+
+commonly uses a forename that is different from any other forename the
+candidate has, or
+
+5.27.2.c
+
+otherwise commonly uses one or more forenames or a surname in a different way
+from the way in which the candidate’s names are stated in accordance with rule
+6(2)(a),
+
+the nomination paper may state the commonly used name or names in addition to
+the names as stated in accordance with rule 6(2)(a).
+
+.
+
+5.28
+
+In rule 9 (consent to nomination), in paragraph (2)(c)(iii), after
+“(offences)” insert  “or section 30 of the Elections Act 2022
+(disqualification orders)” .
+
+5.29
+
+In rule 11 (decisions as to validity of nomination papers), in paragraph (4),
+after “by law” insert  “or that an order under section 30 of the Elections Act
+2022 (disqualification orders) has effect in relation to the candidate” .
+
+5.30
+
+In rule 12 (publication of statement of persons nominated), in paragraph (2)—
+
+5.30.a
+
+for “in addition to another name” substitute  “in accordance with rule 8(2)” ;
+
+5.30.b
+
+for “any other name” substitute  “the other surname or forename” .
+
+5.31
+
+In rule 37 (questions to be put to voters)—
+
+5.31.a
+
+in paragraph (1)(b), after “put if” insert  “(where applicable) the person has
+answered the previous question in the manner indicated, and” ;
+
+5.31.b
+
+in the table following paragraph (1)—
+
+5.31.b.i
+
+in entries 2 and 3, in the column headed “Question”, for question (c)
+substitute—
+
+5.31.b.i.c
+
+Disregarding any parliamentary election or police and crime commissioner
+election, have you already voted as proxy at this election or any other
+election or referendum for which the day of poll is today, whether here or
+elsewhere in this electoral area or anywhere else in England, on behalf of
+four or more electors? [R]
+
+5.31.b.i.d
+
+If the person answers question (c) in the negative: “Disregarding any
+parliamentary election or police and crime commissioner election, have you
+already voted as proxy at this election or any other election or referendum
+for which the day of poll is today, whether here or elsewhere in this
+electoral area or anywhere else in England, on behalf of two or more
+electors?” [R]
+
+5.31.b.i.e
+
+If the person answers question (d) in the affirmative: “Were two or more of
+the electors on whose behalf you have voted in this election, or any other
+election or referendum for which the day of poll is today, registered in a
+register of electors otherwise than in pursuance of a service declaration?”
+[R]
+
+5.31.b.i.f
+
+If the person answers question (e) in the affirmative: “Is the elector (or are
+the electors) for whom you are voting today registered in a register of
+electors otherwise than in pursuance of a service declaration?” [R]
+
+;
+
+5.31.b.ii
+
+omit entry 4;
+
+5.31.c
+
+in paragraph (2), for “3(a), (b) and (c)” substitute  “3(a) and (b)” .
+
+5.32
+
+Schedule 7 (the mayoral election rules) is amended in accordance with
+paragraphs (33) to (37).
+
+5.33
+
+In rule 6 (nomination of candidates), for paragraph (3) substitute—
+
+5.33.3
+
+If a candidate—
+
+5.33.3.a
+
+commonly uses a surname that is different from any other surname the candidate
+has,
+
+5.33.3.b
+
+commonly uses a forename that is different from any other forename the
+candidate has, or
+
+5.33.3.c
+
+otherwise commonly uses one or more forenames or a surname in a different way
+from the way in which the candidate’s names are stated in accordance with
+paragraph (2)(a),
+
+the nomination paper may state the commonly used name or names in addition to
+the names as stated in accordance with paragraph (2)(a).
+
+.
+
+5.34
+
+In rule 8 (consent to nomination), in paragraph (2)(b)(iii), after
+“(offences)” insert  “or section 30 of the Elections Act 2022
+(disqualification orders)” .
+
+5.35
+
+In rule 10 (decisions as to validity of nomination papers), in paragraph (2)—
+
+5.35.a
+
+omit the “and” after sub-paragraph (b);
+
+5.35.b
+
+after sub-paragraph (c) insert—
+
+5.35.b.d
+
+that an order under section 30 of the Elections Act 2022 (disqualification
+orders) has effect in relation to the candidate.
+
+.
+
+5.36
+
+In rule 11 (publication of statement of persons nominated), in paragraph (3)—
+
+5.36.a
+
+for “in addition to another name” substitute  “in accordance with rule 6(3)” ;
+
+5.36.b
+
+for “any other name” substitute  “the other surname or forename” .
+
+5.37
+
+In rule 36 (questions to be put to voters)—
+
+5.37.a
+
+in paragraph (1)(b), after “put if” insert  “(where applicable) the person has
+answered the previous question in the manner indicated, and” ;
+
+5.37.b
+
+in the table following paragraph (1)—
+
+5.37.b.i
+
+in entries 2 and 3, in the column headed “Question”, for question (c)
+substitute—
+
+5.37.b.i.c
+
+Disregarding any parliamentary election or police and crime commissioner
+election, have you already voted as proxy at this election or any other
+election or referendum for which the day of poll is today, whether here or
+elsewhere in this electoral area or anywhere else in England, on behalf of
+four or more electors? [R]
+
+5.37.b.i.d
+
+If the person answers question (c) in the negative: “Disregarding any
+parliamentary election or police and crime commissioner election, have you
+already voted as proxy at this election or any other election or referendum
+for which the day of poll is today, whether here or elsewhere in this
+electoral area or anywhere else in England, on behalf of two or more
+electors?” [R]
+
+5.37.b.i.e
+
+If the person answers question (d) in the affirmative: “Were two or more of
+the electors on whose behalf you have voted in this election, or any other
+election or referendum for which the day of poll is today, registered in a
+register of electors otherwise than in pursuance of a service declaration?”
+[R]
+
+5.37.b.i.f
+
+If the person answers question (e) in the affirmative: “Is the elector (or are
+the electors) for whom you are voting today registered in a register of
+electors otherwise than in pursuance of a service declaration?” [R]
+
+;
+
+5.37.b.ii
+
+omit entry 4;
+
+5.37.c
+
+in paragraph (2), for “3(a), (b) and (c)” substitute  “3(a) and (b)” .
+
+5.38
+
+In Schedule 10 (Schedule of forms) for—
+
+5.38.a
+
+Form 1 (Nomination paper (constituency and individual London member
+candidates));
+
+5.38.b
+
+Form 2 (Nomination paper (London member party list candidates));
+
+5.38.c
+
+Form 3 (Nomination paper (Mayor of London candidates));
+
+5.38.d
+
+Form 4 (candidate’s consent to nomination);
+
+5.38.e
+
+Form 12 (official poll card); and
+
+5.38.f
+
+Form 14 (official proxy poll card),
+
+substitute the corresponding form set out in Schedule 5 to these Regulations.
+
+### Amendment of the Local Authorities (Elected Mayors) (Elections, Terms of Office and Casual Vacancies) (England) Regulations 2012
+
+
+6
+
+In regulation 10 of the Local Authorities (Elected Mayors) (Elections, Terms
+of Office and Casual Vacancies) (England) Regulations 2012 (filling of casual
+vacancies: supplementary) , in paragraph (1), after sub-paragraph (c) insert—
+
+6.ca
+
+in the case of disqualification by virtue of an order under section 30 of the
+Elections Act 2022 (disqualification orders), on the date the office is
+vacated in accordance with section 31 of that Act (vacation of office etc);
+
+.
+
+      Signed by authority of the Secretary of State for Levelling Up, Housing
+and Communities       Lee Rowley   Parliamentary Under Secretary of State
+Department for Levelling Up, Housing and Communities     5th October 2023
+
+  Transitional and savings provisions
+
+Regulation 1(6)
+
+##### Interpretation and general savings
+
+
+###### Interpretation
+
+
+1
+
+In this Schedule—
+
+      “ GLA Rules ” means the Greater London Authority Elections Rules 2007;
+“ Parish Rules ” means the Local Elections (Parishes and Communities) (England
+and Wales) Rules 2006;           “ Principal Areas Rules ” means the Local
+Elections (Principal Areas) (England and Wales) Rules 2006;           “
+relevant rule ” means (as the case may be)—         rule 3 of Schedule 2 or
+rule 3 of Schedule 3 to the Principal Areas Rules;           rule 3 of
+Schedule 2 or rule 3 of Schedule 3 to the Parish Rules;           rule 5 of
+Schedule 1, rule 5 of Schedule 2, rule 5 of Schedule 3, rule 5 of Schedule 5,
+rule 5 of Schedule 6 or rule 5 of Schedule 7 to the GLA Rules.
+
+###### Savings for elections for which the notice of election was published on or before 31st October 2023
+
+
+2
+
+The amendments made by regulations 3(5) and (13), 4(5) and (13) and 5(5),
+(11), (17), (23), (29) and (35) do not apply in relation to an election in
+respect of which the notice of election was published in accordance with the
+relevant rule on or before 31st October 2023.
+
+###### Savings for elections for which the date of poll is on or before 1st May 2024
+
+
+3
+
+The amendments made by the following provisions do not apply in relation to an
+election in respect of which the date of the poll as specified in the notice
+of election published in accordance with the relevant rule is on or before 1st
+May 2024—
+
+3.a
+
+regulation 3(3), (4), (6), (9)(a), (11), (12), (14) and (18)(a);
+
+3.b
+
+regulation 4(3), (4), (6), (9)(a), (11), (12), (14) and (17)(a);
+
+3.c
+
+regulation 5(3), (4), (6), (9), (10), (12), (15), (16), (18), (21), (22),
+(24), (27), (28), (30), (33), (34), (36) and (38)(a) to (c).
+
+###### Savings for elections for which the date of poll is on or before 6th May 2024
+
+
+4
+
+The amendments made by regulations 3(9)(b) and (18)(b), 4(9)(b) and (17)(b)
+and 5(38)(d) do not apply in relation to an election in respect of which the
+date of the poll as specified in the notice of election published in
+accordance with the relevant rule is on or before 6th May 2024.
+
+###### Modification of forms used for an election in the period beginning with 2nd May 2024 and ending with 6th May 2024
+
+
+5
+
+5.1
+
+This regulation applies to an election in respect of which the date of the
+poll as specified in the notice of election published in accordance with the
+relevant rule is 2nd, 3rd, 4th, 5th or 6th May 2024.
+
+5.2
+
+The reference to “the appropriate form” in—
+
+5.2.a
+
+rule 7(b) of Schedule 2 to the Principal Areas Rules is to be taken as a
+reference to the form in Part 1 of Schedule 2 to these Regulations;
+
+5.2.b
+
+rule 7(b) of Schedule 3 to the Principal Areas Rules is to be taken as a
+reference to the form in Part 2 of Schedule 2 to these Regulations;
+
+5.2.c
+
+rule 7(b) of Schedule 2 to the Parish Rules is to be taken as a reference to
+the form in Part 3 of Schedule 2 to these Regulations;
+
+5.2.d
+
+rule 7(b) of Schedule 3 to the Parish Rules is to be taken as a reference to
+the form in Part 4 of Schedule 2 to these Regulations;
+
+5.2.e
+
+rule 7(1)(a) of Schedule 1, rule 9(1)(a) of Schedule 2, rule 8(1)(a) of
+Schedule 3, rule 7(1)(a) of Schedule 5, rule 9(1)(a) of Schedule 6 and rule
+8(1)(a) of Schedule 7 to the GLA Rules is to be taken as a reference to the
+form in Part 5 of Schedule 2 to these Regulations.
+
+##### Principal area councillor elections
+
+
+###### Interpretation of Part 2
+
+
+6
+
+In this Part—
+
+      “ election conduct rules ” means the rules set out in Schedules 2 and 3
+to the Principal Areas Rules (as the case may be);           “ ongoing
+principal area councillor election ” means a relevant principal area
+councillor election for which the date of poll as specified in the notice of
+election is on or after 31st January 2024;           “ relevant principal area
+councillor election ” means an election of councillors of a principal area for
+which the notice of election is published in accordance with the relevant rule
+on or before 30th January 2024.
+
+###### Questions for proxies at certain principal area councillor elections
+
+
+7
+
+7.1
+
+The amendments made by regulation 3(8) and (16) do not apply in respect of an
+ongoing principal area councillor election.
+
+7.2
+
+Rule 33 of the election conduct rules applies in respect of a relevant
+principal area councillor election as if—
+
+7.2.a
+
+in the table after paragraph (1)—
+
+7.2.a.i
+
+in entry 2 (proxy), in the column headed “Question”—
+
+7.2.a.i.aa
+
+after question (b) there were inserted—
+
+7.2.a.i.aa.ba
+
+“Were you appointed as proxy on behalf of C.D. before 31st October 2023?” [R]
+
+;
+
+7.2.a.i.bb
+
+in question (c), at the beginning there were inserted “If the person answers
+question (ba) in the affirmative:”;
+
+7.2.a.ii
+
+in entry 3 (proxy for an elector with an anonymous entry), in the column
+headed “Question”—
+
+7.2.a.ii.aa
+
+after question (b) there were inserted—
+
+7.2.a.ii.aa.ba
+
+“Were you appointed as proxy on behalf of the person whose number on the
+register of electors is (read out the number) before 31st October 2023?” [R]
+
+;
+
+7.2.a.ii.bb
+
+in question (c), at the beginning there were inserted “If the person answers
+question (ba) in the affirmative:”;
+
+7.2.b
+
+in paragraph (2), after “3(a), (b)” there were inserted  “, (ba)” .
+
+###### Poll card forms for certain principal area councillor elections
+
+
+8
+
+8.1
+
+The amendments made by regulation 3(9)(c) and (d) and (18)(c) and (d) do not
+apply in respect of an ongoing principal area councillor election.
+
+8.2
+
+The form of the official poll card (to be sent to an elector voting in person)
+and the form of the official proxy poll card (to be sent to an appointed proxy
+voting in person) in the election conduct rules apply in respect of a relevant
+principal area councillor election as if, on the front of the form, before the
+text that begins “vote as a proxy at this election” there were inserted  “(in
+the case of a proxy appointed before 31st October 2023)” .
+
+8.3
+
+The form of the official postal poll card (to be sent to an elector voting by
+post) and the form of the official proxy postal poll card (to be sent to an
+appointed proxy voting by post) in the election conduct rules apply in respect
+of a relevant principal area councillor election as if on the back of the
+form, before the text that begins “vote as a proxy at this election” there
+were inserted  “(in the case of a proxy appointed before 31st October 2023)” .
+
+8.4
+
+Sub-paragraph (5) applies to an election of councillors of a principal area
+for which—
+
+8.4.a
+
+the notice of election is published in accordance with the relevant rule on or
+after 31st January 2024, and
+
+8.4.b
+
+the date of poll stated in that notice is on or before 1st May 2024.
+
+8.5
+
+The form of the official postal poll card (to be sent to an elector voting by
+post) and the form of the official proxy postal poll card (to be sent to an
+appointed proxy voting by post) in the election conduct rules apply in respect
+of an election to which this sub-paragraph applies as if, on the back of the
+form, for the text that begins “vote as a proxy at this election” and ends
+with “grandchild” there were substituted—
+
+(in the case of a proxy appointed on or after 31st October 2023) vote as a
+proxy on behalf of more than four electors, of which no more than two may be
+on behalf of other domestic electors (a domestic elector is one who is not an
+overseas or service elector)
+
+.
+
+##### Parish councillor elections
+
+
+###### Interpretation of Part 3
+
+
+9
+
+In this Part—
+
+      “ election conduct rules ” means the rules set out in Schedules 2 and 3
+to the Parish Rules (as the case may be);           “ ongoing parish
+councillor election ” means a relevant parish councillor election where the
+date of poll as specified in the notice of election is on or after 31st
+January 2024;           “ relevant parish councillor election ” means an
+election of councillors of a parish where the notice of election published in
+accordance with the relevant rule is published on or before 30th January 2024.
+
+###### Questions for proxies at certain parish councillor elections
+
+
+10
+
+10.1
+
+The amendments made by regulation 4(8) and (16) do not apply in respect of an
+ongoing parish councillor election.
+
+10.2
+
+Rule 33 of the election conduct rules applies in respect of an ongoing parish
+councillor election as if—
+
+10.2.a
+
+in the table after paragraph (1)—
+
+10.2.a.i
+
+in entry 2 (proxies), in the column headed “Question”—
+
+10.2.a.i.aa
+
+after question (b) there were inserted—
+
+10.2.a.i.aa.ba
+
+“Were you appointed as proxy on behalf of C.D. before 31st October 2023?” [R]
+
+;
+
+10.2.a.i.bb
+
+in question (c), at the beginning there were inserted “If the person answers
+question (ba) in the affirmative:”;
+
+10.2.a.ii
+
+in entry 3 (proxy for an elector with an anonymous entry), in the column
+headed “Question”—
+
+10.2.a.ii.aa
+
+after question (b) there were inserted—
+
+10.2.a.ii.aa.ba
+
+“Were you appointed as proxy on behalf of the person whose number on the
+register of electors is (read out the number) before 31st October 2023?” [R]
+
+;
+
+10.2.a.ii.bb
+
+in question (c), at the beginning there were inserted “If the person answers
+question (ba) in the affirmative:”;
+
+10.2.b
+
+in paragraph (2), after “3(a), (b)” there were inserted  “, (ba)” .
+
+###### Poll card forms for certain parish councillor elections
+
+
+11
+
+11.1
+
+The amendments made by regulation 4(9)(c) and (d) and (17)(c) and (d) do not
+apply in respect of an ongoing parish councillor election.
+
+11.2
+
+The form of the official poll card (to be sent to an elector voting in person)
+and the form of the official proxy poll card (to be sent to an appointed proxy
+voting in person) in the election conduct rules apply in respect of an ongoing
+parish councillor election as if, on the front of the form, before the text
+that begins “vote as a proxy at this election” there were inserted  “(in the
+case of a proxy appointed before 31st October 2023)” .
+
+11.3
+
+The form of the official postal poll card (to be sent to an elector voting by
+post) and the form of the official proxy postal poll card (to be sent to an
+appointed proxy voting by post) in the election conduct rules apply in respect
+of a relevant parish councillor election as if on the back of the form, before
+the text that begins “vote as a proxy at this election” there were inserted
+“(in the case of a proxy appointed before 31st October 2023)” .
+
+11.4
+
+Sub-paragraph (5) applies to an election of councillors of a principal area
+for which—
+
+11.4.a
+
+the notice of election is published in accordance with the relevant rule on or
+after 31st January 2024, and
+
+11.4.b
+
+the date of poll stated in that notice is on or before 1st May 2024.
+
+11.5
+
+The form of the official postal poll card (to be sent to an elector voting by
+post) and the form of the official proxy postal poll card (to be sent to an
+appointed proxy voting by post) in the election conduct rules apply in respect
+of an election to which this sub-paragraph applies as if, on the back of the
+form, for the text that begins “vote as a proxy at this election” and ends
+with “grandchild” there were substituted—
+
+(in the case of a proxy appointed on or after 31st October 2023) vote as a
+proxy on behalf of more than four electors, of which no more than two may be
+on behalf of other domestic electors (a domestic elector is one who is not an
+overseas or service elector)
+
+.
+
+##### Greater London Authority elections
+
+
+###### Interpretation of Part 4
+
+
+12
+
+In this Part—
+
+      “ Authority election ”, “Constituency Members Election Rules”, “London
+Members Election Rules and “Mayoral Election Rules” have the same meanings as
+in rule 2 of the GLA Rules;           “ ongoing Authority election ” means a
+relevant Authority election where the date of poll as specified in the notice
+of election is on or after 31st January 2024;           “ relevant Authority
+election ” means an Authority election where the notice of election published
+in accordance with the relevant rule is published on or before 30th January
+2024.
+
+###### Questions for proxies at certain Authority elections
+
+
+13
+
+13.1
+
+The amendments made by regulation 5(7), (13), (19), (25), (31) and (37) do not
+apply in respect of an ongoing Authority election.
+
+13.2
+
+The questions to voters rule applies in respect of a relevant Authority
+election as if—
+
+13.2.a
+
+in the table after paragraph (1)—
+
+13.2.a.i
+
+in entry 2 (proxies), in the column headed “Question”—
+
+13.2.a.i.aa
+
+after question (b) there were inserted—
+
+13.2.a.i.aa.ba
+
+“Were you appointed as proxy on behalf of C.D. before 31st October 2023?” [R]
+
+;
+
+13.2.a.i.bb
+
+in question (c), at the beginning there were inserted “If the person answers
+question (ba) in the affirmative:”;
+
+13.2.a.ii
+
+in entry 3 (proxy for an elector with an anonymous entry), in the column
+headed “Question”—
+
+13.2.a.ii.aa
+
+after question (b) there were inserted—
+
+13.2.a.ii.aa.ba
+
+“Were you appointed as proxy on behalf of the person whose number on the
+register of electors is (read out the number) before 31st October 2023?” [R]
+
+;
+
+13.2.a.ii.bb
+
+in question (c), at the beginning there were inserted “If the person answers
+question (ba) in the affirmative:”
+
+13.2.b
+
+in paragraph (2), after “3(a), (b)” there were inserted  “, (ba)” .
+
+13.3
+
+In paragraph (2), “ the questions to voters rule ” means—
+
+13.3.a
+
+rule 36 in the Constituency Members Election Rules or Mayoral Election Rules;
+
+13.3.b
+
+rule 37 in the London Members Election Rules.
+
+###### Poll card forms for certain Authority elections
+
+
+14
+
+14.1
+
+The amendments made by regulation 5(38)(e) and (f) do not apply in respect of
+an ongoing Authority election.
+
+14.2
+
+In Schedule 10 to the GLA Rules (forms)—
+
+14.2.a
+
+Form 12 (official poll card) and Form 14 (official proxy poll card) apply in
+respect of a relevant Authority election as if, on the front of the form,
+before the text that begins “vote as a proxy at this election” there were
+inserted  “(in the case of a proxy appointed before 31st October 2023)” ;
+
+14.2.b
+
+Form 13 (official postal poll card) and Form 15 (official proxy postal poll
+card) apply in respect of a relevant Authority election as if on the back of
+the form, before the text that begins “vote as a proxy at   the same election
+” there were inserted  “(in the case of a proxy appointed before 31st October
+2023)” .
+
+14.2.c
+
+Form 13 (official postal poll card) and Form 15 (official proxy postal poll
+card) apply in respect of an Authority election to which sub-paragraph (3)
+applies as if, on the back of the form, for the text that begins “vote as a
+proxy at the same election” and ends with “grandchild” there were substituted—
+
+(in the case of a proxy appointed on or after 31st October 2023) vote as a
+proxy on behalf of more than four electors, of which no more than two may be
+on behalf of other domestic electors (a domestic elector is one who is not an
+overseas or service elector)
+
+.
+
+14.3
+
+This sub-paragraph applies to an Authority election for which—
+
+14.3.a
+
+the notice of election is published in accordance with the relevant rule on or
+after 31st January 2024, and
+
+14.3.b
+
+the date of poll stated in that notice is on or before 1st May 2024.
+
+  Forms for use at an election in respect of which the date of poll specified
+in the notice of election is within the period beginning with 2nd May 2024 and
+ending with 6th May 2024
+
+Schedule 1, paragraph 5
+
+##### Form for substitution for Form of Candidate’s consent to nomination in Schedule 2 to the Local Elections (Principal Areas) (England and Wales) Rules 2006
+
+
+    Front of Form
+
+    Back of Form
+
+##### Form for substitution for Form of Candidate’s consent to nomination in Schedule 3 to the Local Elections (Principal Areas) (England and Wales) Rules 2006
+
+
+    Front of Form
+
+    Back of Form
+
+##### Form for substitution for Form of Candidate’s consent to nomination in Schedule 2 to the Local Elections (Parishes and Communities) (England and Wales) Rules 2006
+
+
+    Front of Form
+
+    Back of Form
+
+##### Form for substitution for Form of Candidate’s consent to nomination in Schedule 3 to the Local Elections (Parishes and Communities) (England and Wales) Rules 2006
+
+
+    Front of Form
+
+    Back of Form
+
+##### Form for substitution for Candidate’s consent to nomination in Schedule 10 to the Greater London Authority Elections Rules 2007
+
+
+    Front of Form
+
+    Back of Form
+
+The Local Elections (Principal Areas) (England and Wales) Rules 2006: New
+Forms
+
+Regulation 3(9) and (18)
+
+##### Forms for use at an election of councillors of a principal area where poll is not taken together with poll for another election or referendum
+
+
+###### Form of nomination paper
+
+
+
+
+
+
+###### Candidate’s consent to nomination form
+
+
+
+
+
+
+Back of Form
+
+###### Form of official poll card
+
+
+
+
+
+
+###### Form of official proxy poll card
+
+
+
+
+
+
+##### Forms for use at an election of councillors of a principal area where the poll is taken together with poll for another election or referendum
+
+
+###### Form of nomination paper
+
+
+
+
+
+
+###### Candidate’s consent to nomination form
+
+
+Front of Form
+
+
+
+Back of Form
+
+###### Form of official poll card
+
+
+
+
+
+
+###### Form of official proxy poll card
+
+
+
+
+
+
+The Local Elections (Parish and Communities) (England and Wales) Rules 2006:
+New Forms
+
+Regulation 4(9) and (17)
+
+##### Forms for use at an election of councillors of a parish where poll is not taken together with poll at another election
+
+
+###### Form of nomination paper
+
+
+
+
+
+
+###### Candidate’s consent to nomination form
+
+
+Front of Form
+
+
+
+Back of Form
+
+###### Form of official poll card
+
+
+
+
+
+
+###### Form of official proxy poll card
+
+
+
+
+
+
+##### Forms for use at an election of councillors of a parish where the poll is taken together with the poll at a relevant election or referendum
+
+
+###### Form of nomination paper
+
+
+
+
+
+
+###### Candidate’s consent to nomination form
+
+
+Front of Form
+
+
+
+Back of Form
+
+###### Form of official poll card
+
+
+
+
+
+
+###### Form of official proxy poll card
+
+
+
+
+
+
+The Greater London Authority Elections Rules 2007: New forms
+
+Regulation 5(38)
+
+##### Form 1: Constituency member and London member (individual) candidates: Form of nomination paper
+
+
+
+
+
+
+##### Form 2: London member (party list) candidates: form of nomination paper
+
+
+
+
+
+
+##### Form 3: candidate to be mayor of London: form of nomination paper
+
+
+
+
+
+
+
+
+##### Form 4: candidate’s consent to nomination
+
+
+Front of Form
+
+
+
+Back of Form
+
+##### Form 12: official poll card
+
+
+
+
+
+
+##### Form 14: official proxy poll card
+
+
+
+
+
+
+## Explanatory Note
+
+    (This note is not part of the Regulations)
+
+  These Regulations make provision in relation to a number of provisions of
+the Elections Act  2022 (c. 37)  (“ the Act ”). The provisions implemented by
+these Regulations are proxy voting restrictions (section 6 and Schedule 4),
+candidates’ commonly used names (section 10), EU citizens’ candidacy rights
+(section 15) and disqualification orders (Part 5 of the Act).
+
+  The Regulations make provision in relation to local elections and Greater
+London Assembly and London mayoral elections to enable a returning officer to
+hold a nomination paper invalid if the person submitting that nomination paper
+is subject to a disqualification order, and introduce the new forms of
+nomination paper, candidate’s consent to nomination, and elector and proxy
+poll cards. The Regulations also make provision to introduce new poll cards
+and proxy poll cards that reflect the proxy voting provisions in section 6 of
+and Schedule 4 to the Act.
+
+  Regulation 2 applies the new offence of undue influence, inserted by section
+8 of the Act to parish polls in England, and maintains the position for
+devolved community polls in Wales.
+
+  Regulation 6 amends the vacancy rules in relation to single authority mayors
+so that in the event of a disqualification order being made under section 30
+of the Act, the vacancy arises on the date determined in accordance with
+section 31 of the Act.
+
+  Schedule 1 contains transitional and savings provisions. Paragraph 2 makes
+provision so that the amendment to the power of the returning officer to hold
+a nomination paper invalid does not take effect in relation to which a notice
+of election has been issued on or before 31st October 2023. This is to avoid
+changing the powers of the returning officers in the middle of an election for
+which notice has been issued prior to commencement.
+
+  Paragraph 3 makes saving provision so that amendments to nomination forms do
+not have effect in relation to an election where the date of poll specified in
+the notice of election is on or before 1st May 2024. The new forms will apply
+to elections on or after 2nd May 2024.
+
+  Paragraph 4 makes saving provision so that the changes in relation to the
+candidate’s consent to nomination form to implement the amended EU citizens’
+candidacy rights do not have effect in relation to an election where the date
+of poll is on or before 6th May 2024.
+
+  Paragraph 5 makes provision so that the form of candidate’s consent to
+nomination for an election where the date of poll is on or after 2nd May 2024
+but on or before 6th May includes only the amendments to implement
+disqualification orders but not the new EU citizens’ candidacy rights. This is
+to ensure that the amended EU citizens’ candidacy rights take effect after the
+elections to be held on the ordinary day of election in 2024.
+
+  Parts 2-4 (paragraphs 6-14) of Schedule 1 make transitional and saving
+provisions in relation to proxy arrangements to ensure that proxies who were
+appointed as proxy prior to 31st October 2023 remain subject to the rules on
+appointment of and voting by proxies that applied at the time of the
+appointment.
+
+  A full impact assessment has not been produced for this instrument as no, or
+no significant, impact on the private, voluntary or public sector is foreseen.
+An impact assessment has been produced in relation to the Act and copies can
+be obtained at   https://bills.parliament.uk/publications/44886/documents/1304
+or from the Department for Levelling Up, Housing and Communities at 2 Marsham
+Street, London, SW1P 4DF.
+

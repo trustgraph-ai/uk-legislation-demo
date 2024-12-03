@@ -1,0 +1,179 @@
+Title: The Council Tax (Discount Disregards and Exempt Dwellings) (Amendment) (England) Regulations 2022
+Date: 2024-05-20
+Description: These Regulations amend the Council Tax (Additional Provisions for Discount Disregards) Regulations 1992 (“the Discount Disregards Regulations”) and the Council Tax (Exempt Dwellings) Order 1992 (“the Exempt Dwellings Order”).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/439
+
+## The Council Tax (Discount Disregards and Exempt Dwellings) (Amendment) (England) Regulations 2022
+
+    Council Tax, England
+
+  Made   7th April 2022
+
+  Laid before Parliament   11th April 2022
+
+  Coming into force   12th April 2022
+
+      The Secretary of State, in exercise of the powers conferred by sections
+4, 113(1) and 116(1) of, and paragraph 11 of Schedule 1 to, the Local
+Government Finance Act 1992 , makes the following Regulations.
+
+### Citation, commencement, extent and application
+
+1
+
+1.1
+
+These Regulations may be cited as the Council Tax (Discount Disregards and
+Exempt Dwellings) (Amendment) (England) Regulations 2022 and come into force
+on 12th April 2022.
+
+1.2
+
+These Regulations extend to England and Wales.
+
+1.3
+
+Regulation 3 applies in relation to billing authorities in England only.
+
+### Amendment of the Council Tax (Additional Provisions for Discount Disregards) Regulations 1992
+
+2
+
+In regulation 3(1) (persons of other descriptions: England) of the Council Tax
+(Additional Provisions for Discount Disregards) Regulations 1992  at the end
+insert—
+
+####### Homes for Ukraine Scheme
+
+Class G: a person who holds permission to enter or to stay in the United
+Kingdom granted under the Homes for Ukraine Sponsorship Scheme route in
+Appendix Ukraine Scheme of the Immigration Rules .
+
+.
+
+### Amendment of the Council Tax (Exempt Dwellings) Order 1992
+
+3
+
+3.1
+
+The Council Tax (Exempt Dwellings) Order 1992  is amended as follows.
+
+3.2
+
+In article 2—
+
+3.2.a
+
+in paragraph (1)—
+
+3.2.a.i
+
+after the definition of “relevant absentee” insert—
+
+    relevant Ukrainian person” means a person who holds permission to enter or
+to stay in the United Kingdom granted under the Homes for Ukraine Sponsorship
+Scheme route in Appendix Ukraine Scheme of the Immigration Rules ;
+
+;
+
+3.2.a.ii
+
+in the definition of “an unoccupied dwelling” after “paragraph (3)” insert
+“and (3A)” ;
+
+3.2.b
+
+after paragraph (3) insert—
+
+3.2.b.3A
+
+For the purposes of Classes B, D, E, F, H, I, J, K, L, Q and T of article 3,
+in considering whether a dwelling is unoccupied, any occupation by a relevant
+Ukrainian person is to be disregarded.
+
+.
+
+3.3
+
+In article 3—
+
+3.3.a
+
+in Class N, in paragraph (2)(a)—
+
+3.3.a.i
+
+at the end of sub-paragraph (ii) omit “or”;
+
+3.3.a.ii
+
+at the end of sub-paragraph (iii) insert—
+
+or
+
+3.3.a.ii.iv
+
+where there are other residents of the dwelling who fall within (i), (ii) or
+(iii) above, a relevant Ukrainian person;
+
+;
+
+3.3.b
+
+in Class S at the end insert  “or one or more such persons together with one
+or more relevant Ukrainian persons” ;
+
+3.3.c
+
+in Class U for paragraph (2)(a) substitute—
+
+3.3.c.a
+
+“ relevant person ” means—
+
+3.3.c.a.i
+
+a person falling within paragraphs (i), (ii) or (iii) of paragraph (2)(a) of
+Class N above; or
+
+3.3.c.a.ii
+
+a relevant Ukrainian person; and
+
+.
+
+    Signed by authority of the Secretary of State for Levelling Up, Housing
+and Communities     Neil O’Brien   Parliamentary Under Secretary of State
+Department for Levelling Up, Housing and Communities
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations amend the Council Tax (Additional Provisions for Discount
+Disregards) Regulations 1992 (“ the Discount Disregards Regulations ”) and the
+Council Tax (Exempt Dwellings) Order 1992 (“ the Exempt Dwellings Order ”).
+
+Under Part 1 of the Local Government Finance Act 1992 (“ the 1992 Act ”)
+council tax is payable in respect of dwellings which are not exempt. The
+Exempt Dwellings Order prescribes classes of dwellings which are exempt from
+council tax. Section 11 of the 1992 Act makes provision for discount in the
+amount of council tax payable where there is only one resident of a dwelling
+or where all residents (or all but one) fall to be disregarded. Schedule 1
+makes provision for persons who are to be disregarded. Regulation 3 of the
+Discount Disregards Regulations prescribes additional classes of person who
+are to be disregarded.
+
+Regulation 2 amends the Discount Disregards Regulations to prescribe persons
+sponsored under the Government’s Homes for Ukraine scheme as an additional
+class of persons to be disregarded.
+
+Regulation 3 amends the Exempt Dwellings Order to ensure that a person being
+accommodated in an exempt dwelling under the Homes for Ukraine scheme does not
+affect the exempt status of the dwelling.
+
+A regulatory impact assessment has not been prepared as this instrument amends
+an existing local tax regime.
+

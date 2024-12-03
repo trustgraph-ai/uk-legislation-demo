@@ -1,0 +1,819 @@
+Title: The Valuation (Proposals Procedure) (Scotland) Regulations 2022
+Date: 2024-10-08
+Description: These Regulations make provision as to the making of proposals by proprietors, tenants and occupiers of lands and heritages for alteration of entries in the valuation roll. This includes provision regarding to whom the proposal must be made (the assessor), the information to be supplied as part of the proposal, and the course that the assessor may follow in the event that the requirement in regulation 5(1)(d) to supply certain information is considered not to have been met.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ssi/2022/369
+
+## The Valuation (Proposals Procedure) (Scotland) Regulations 2022
+
+    Rating And Valuation
+
+  Made   8th December 2022
+
+  Laid before the Scottish Parliament   12th December 2022
+
+  Coming into force   1st April 2023
+
+      The Scottish Ministers make the following Regulations in exercise of the
+powers conferred by section 3ZA(7) and section 3ZB(7)(a) of the Local
+Government (Scotland) Act 1975  (“ the 1975 Act ”) and all other powers
+enabling them to do so.
+
+### Citation and commencement
+
+1
+
+These Regulations may be cited as the Valuation (Proposals Procedure)
+(Scotland) Regulations 2022 and come into force on 1 April 2023.
+
+### Interpretation
+
+2
+
+2.1
+
+In these Regulations—
+
+“ the 1956 Act ” means the Valuation and Rating (Scotland) Act 1956 , “ the
+1975 Act ” means the Local Government (Scotland) Act 1975, “ the 2022 Order ”
+means the Valuation Timetable (Scotland) Order 2022 , “ appeal ” means an
+appeal under section 3ZB(1) of the 1975 Act, “ assessor ” means an assessor
+appointed under section 27(2) of the Local Government etc. (Scotland) Act 1994
+and includes a depute assessor, “ electronic communication ” has the meaning
+given in section 15(1) of the Electronic Communications Act 2000 , “ the
+First-tier Tribunal ” means the Local Taxation Chamber  of the First-tier
+Tribunal for Scotland as established by section 1(1) of the Tribunals
+(Scotland) Act 2014 , “ lands and heritages ” is to be construed in accordance
+with section 42 of the Lands Valuation (Scotland) Act 1854 , “ notice of
+appeal ” means a written notice containing the information set out in
+regulation 26(2) of the First-tier Tribunal for Scotland Local Taxation
+Chamber (Rules of Procedure) Regulations 2022 , “ proposal ” means any
+proposal made under section 3ZA(1) of the 1975 Act for alteration of an entry
+in the valuation roll, “ proposal determination date ” means the date on or
+before which the assessor intends in practice to issue a decision on a
+proposal, “ proposer ” means a proprietor, tenant or occupier of lands and
+heritages who makes a proposal under section 3ZA(1) of the 1975 Act, “
+rateable value ” means— the value within the meaning of section 6(9) of the
+1956 Act , where the lands and heritages fall within the description in
+section 7B of the 1956 Act  (rateable value of certain buildings used for
+breeding or rearing horses), the amount which is to be taken as their rateable
+value in terms of that section, or where the lands and heritages are
+prescribed by, or fall within a class which is prescribed by, an order under
+section 6(1) of the 1975 Act  (valuation by formula of certain lands and
+heritages), the amount calculated in accordance with that Order, “ revaluation
+year ” means the year of revaluation as defined in section 37(1) of the 1975
+Act ,  ... “ valuation roll ” means the roll made up under section 1(1) of the
+1975 Act,  and  “ year ” means a period of 12 months beginning with 1 April
+
+2.2
+
+For the purpose of these Regulations, a proposal is “determined” if a decision
+is made by the assessor in accordance with section 3ZA(6) of the 1975 Act.
+
+### Application
+
+3
+
+These Regulations apply to any proposal made to an assessor under section
+3ZA(1) of the 1975 Act.
+
+### Use of electronic communication
+
+4
+
+4.1
+
+Where the criteria in paragraph (2) are met—
+
+4.1.a
+
+any document or notice sent in relation to a proposal may be sent by
+electronic communication, and
+
+4.1.b
+
+a document or notice sent electronically fulfils any requirement in these
+Regulations that a notice or document issued in connection with a proposal is
+to be in writing,
+
+4.1.c
+
+an agreement in writing may be reached by an exchange of messages sent by
+electronic communication.
+
+4.2
+
+The criteria are—
+
+4.2.a
+
+the recipient consents either—
+
+4.2.a.i
+
+explicitly by nominating and, in the case of an assessor, publishing an
+address for the purposes of electronic communications, or
+
+4.2.a.ii
+
+implicitly by having used electronic communications in relation to a proposal,
+and
+
+4.2.b
+
+any notice, document or message sent by electronic communication—
+
+4.2.b.i
+
+is capable of being accessed by the recipient,
+
+4.2.b.ii
+
+makes the information it contains available to the recipient to no lesser
+extent than it would be if sent as a document in printed form, and
+
+4.2.b.iii
+
+is sufficiently permanent to be used for subsequent reference.
+
+### Proposal requirements
+
+5
+
+5.1
+
+A proposal must—
+
+5.1.a
+
+be made to the assessor who is responsible for valuing the lands and heritages
+to which the proposal relates,
+
+5.1.b
+
+be made within the relevant timescale as set out in   regulation 17ZA ,
+
+5.1.c
+
+be in writing,
+
+5.1.d
+
+include—
+
+5.1.d.i
+
+the name and contact details of the proposer,
+
+5.1.d.ii
+
+the date on which the proposal is made,
+
+5.1.d.iii
+
+a copy of the valuation notice in respect of which the proposal is made or,
+where this cannot be provided, the address of the lands and heritages to which
+the entry relates and the rateable value in respect of which the proposal is
+made,
+
+5.1.d.iv
+
+if the proposal is being submitted by a person who is representing the
+proposer, evidence that the person has the authority to represent the
+proposer, and the name and contact details of the person,
+
+5.1.d.v
+
+the specific grounds on which the proposal is made,
+
+5.1.d.vi
+
+any evidence to support the grounds of the proposal,
+
+5.1.d.vii
+
+a statement as to how the evidence supports the grounds of the proposal,
+
+5.1.d.viii
+
+a statement as to how the proposer wishes the assessor to alter the entry in
+the valuation roll, including, where relevant, the altered rateable value
+sought, expressed in pounds sterling, and
+
+5.1.d.ix
+
+the date from which the proposer considers the proposed alteration should have
+effect.
+
+5.2
+
+For the avoidance of doubt, a proposal must be made in respect of only one
+entry in the valuation roll.
+
+5.3
+
+A proposal is to be taken to be made on the date on which it is sent to the
+assessor.
+
+### Incomplete proposals
+
+6
+
+6.1
+
+Where a proposal does not contain all of the information required under
+regulation 5(1)(d) the assessor may decide the proposal is incomplete.
+
+6.2
+
+Where the assessor decides that a proposal is incomplete the assessor must,
+within the period of 56 days beginning with the day on which the proposal is
+presumed to have been received by the assessor, send to the proposer a notice
+in writing—
+
+6.2.a
+
+indicating the date on which the proposal was received,
+
+6.2.b
+
+specifying the information required by regulation 5(1)(d) which the assessor
+considers has not been supplied, and
+
+6.2.c
+
+advising the proposer that the assessor will make a decision on the proposal,
+namely not to alter the relevant entry in the valuation roll, if, at the end
+of the last day of the period of 28 days beginning with the day on which the
+notice is presumed to have been received by the proposer, the proposer has
+neither provided the information specified in the notice, such that the
+proposal is considered to be complete, nor requested a review under paragraph
+(3).
+
+6.3
+
+The proposer may, within the period of 14 days beginning with the day on which
+the notice under paragraph (2) is presumed to have been received, request that
+the decision of the assessor that the proposal is incomplete be reviewed.
+
+6.4
+
+Where the decision made as a result of a review under paragraph (3) is that
+the proposal is incomplete, the assessor must send to the proposer a notice—
+
+6.4.a
+
+specifying the information required by regulation 5(1)(d) which the assessor
+considers has not been supplied, and
+
+6.4.b
+
+advising the proposer—
+
+6.4.b.i
+
+that the information specified must be received within the period of 28 days
+beginning with the day on which the notice is presumed to have been received
+by the proposer,
+
+6.4.b.ii
+
+that if the proposer fails to supply the information, such that the proposal
+is considered to be complete, the assessor will make a decision on the
+proposal, namely not to alter the relevant entry in the valuation roll.
+
+6.5
+
+The person who undertakes the review must not be the same person who issued
+the notice under paragraph (2) indicating that the proposal is considered to
+be incomplete.
+
+6.6
+
+Where a decision not to alter the valuation roll is made under this
+regulation, the assessor must send to the proposer a notice of the decision,
+in writing, within the period of 7 days beginning with the day on which the
+decision is made.
+
+6.7
+
+For the purposes of this regulation, a notice or a proposal is to be presumed
+to have been received 48 hours after it was sent.
+
+### Acknowledgement of proposal
+
+7
+
+7.1
+
+Subject to paragraphs (3) and (4) and to regulation 17, the assessor must send
+to the proposer an acknowledgment, in writing, of receipt of the proposal,
+within the period of 56 days beginning with the day on which the proposal is
+presumed to have been received by the assessor.
+
+7.2
+
+The assessor must provide the following information with the acknowledgement
+of receipt—
+
+7.2.a
+
+the date on which the assessor received the proposal, and
+
+7.2.b
+
+the date of issue of the acknowledgement.
+
+7.3
+
+Paragraph (1) does not apply where an assessor decides that a proposal is
+incomplete and issues a notice under regulation 6(2).
+
+7.4
+
+Where a proposal has been the subject of a notice under regulation 6(2) but
+has subsequently been considered to be complete, an acknowledgement of the
+proposal, in writing, must be sent to the proposer within the period of 7 days
+beginning with the day on which the decision is made that the proposal is
+complete.
+
+7.5
+
+An acknowledgement under paragraph (4) must confirm that the proposal is now
+being considered.
+
+7.6
+
+For the purposes of this regulation a proposal is to be presumed to have been
+received by the assessor 48 hours after it was sent.
+
+### Withdrawal of proposal after submission to the assessor
+
+8
+
+8.1
+
+The proposer may withdraw their proposal at any time before a notice of
+decision has been issued by the assessor in accordance with regulation 15, by
+giving notice of the withdrawal of the proposal to the assessor in writing.
+
+8.2
+
+On receipt of a notice under paragraph (1) the assessor must treat the
+proposal as withdrawn.
+
+### Notice of proposal determination date and request by proposer to alter timing
+
+9
+
+9.1
+
+Subject to regulation 17, where a proposal has been made to the assessor and
+has not been withdrawn in accordance with regulation 8, the assessor must send
+to the proposer a written notice of the proposal determination date, in
+accordance with the timescale set out in   regulation 17ZB .
+
+9.2
+
+If the proposer considers that, applying the proposal determination date,
+notice of the decision on the proposal is not due to be issued within a
+reasonable period, the proposer may, subject to paragraph (3), request that
+the decision be issued within such other period as the proposer specifies.
+
+9.3
+
+The period requested under paragraph (2) must not be less than 70 days
+beginning with the day on which the request is made, unless the assessor and
+the proposer agree in writing to a shorter period.
+
+9.4
+
+The assessor may alter the proposal determination date, as a result of a
+request made under paragraph (2) above.
+
+9.5
+
+Where a proposal determination date is altered under paragraph (4), any
+reference in these Regulations to something being done on or before the
+proposal determination date, is to be read as relating to the proposal
+determination date as altered.
+
+9.6
+
+The assessor must provide a response, in writing, to the proposer’s request
+that the decision on the proposal be issued within an alternative period,
+including reasons where the assessor does not undertake to issue a decision
+within the period requested by the proposer.
+
+9.7
+
+Where the assessor alters the proposal determination date as a result of a
+request under paragraph (2), a revised notice of proposal determination date
+must be issued.
+
+### Provision of response to proposal by assessor
+
+10
+
+10.1
+
+Subject to regulation 17, the assessor must, no later than 70 days before the
+proposal determination date, send to the proposer a written statement in
+response to the proposal.
+
+10.2
+
+The proposer may, within the period of 28 days beginning with the day on which
+the statement under paragraph (1) is presumed to have been received, send to
+the assessor a written statement in response.
+
+10.3
+
+The statement under paragraph (1) is to be presumed to have been received by
+the proposer 48 hours after it was sent.
+
+### Information on plant and machinery to be provided to proposer
+
+11
+
+11.1
+
+The proposer may, on the date on which the proposal is made, request that the
+assessor provide the proposer with a list of all plant and machinery included
+in the valuation of the lands and heritages which is the subject of the
+proposal or where there is no such plant and machinery, a statement to that
+effect.
+
+11.2
+
+Subject to paragraphs (4) and (5), the assessor is to send the list requested
+under paragraph (1) to the proposer with the response required by regulation
+10.
+
+11.3
+
+Where the list requested under paragraph (1) is issued with the response
+required by regulation 10 and is subsequently amended as a result of the
+decision on the proposal, the assessor must, when issuing the notice of
+decision on the proposal, send the amended list.
+
+11.4
+
+Where regulation 17 applies, the list requested under paragraph (1), or where
+appropriate, the statement that there is no plant and machinery included in
+the valuation, must be sent to the proposer at the same time as issuing the
+notice of decision.
+
+11.5
+
+A list issued in accordance with paragraph (4) must reflect any amendments
+made to the list as a result of the decision on the proposal.
+
+### Provision of additional evidence by proposer
+
+12
+
+12.1
+
+Subject to regulation 17 and to paragraph (6), the proposer may, in the
+circumstances set out in paragraphs (2) and (3), provide the assessor with
+further information relating to the grounds of the proposal, after the
+proposal is made.
+
+12.2
+
+The proposer may provide the assessor with further evidence relating to the
+grounds of the proposal where that evidence did not exist at the time the
+proposal was made.
+
+12.3
+
+The proposer and assessor may agree in writing that the proposer may provide
+further evidence relating to the grounds of the proposal, if the evidence was
+not provided to the assessor when the proposal was made, but did exist at the
+time it was made.
+
+12.4
+
+The proposer must send information under paragraph (1) to the assessor no
+later than 28 days before the proposal determination date, unless the proposer
+and assessor agree to a shorter timescale before the proposal determination
+date.
+
+12.5
+
+Paragraph (6) applies where the assessor does not respond to a request by the
+proposer for agreement that they may submit further evidence under paragraph
+(3), at least 42 days before the last date under   regulation 17ZC   for issue
+of a notice of decision in relation to a proposal.
+
+12.6
+
+Where this paragraph applies, the assessor is to be presumed to have agreed to
+the submission of further evidence as described in paragraph (3).
+
+### Postponement of proposal determination date by assessor
+
+13
+
+13.1
+
+The assessor may, at any time, postpone the proposal determination date set in
+accordance with regulation 9 by intimating the postponement to the proposer
+within a reasonable time of the decision to postpone.
+
+13.2
+
+The proposer may, on receiving intimation under paragraph (1), request that
+notice of a decision on the proposal be issued within such shorter period as
+the proposer may suggest.
+
+13.3
+
+The assessor must intimate a response to the request under paragraph (2),
+including reasons where the assessor does not undertake to issue notice of a
+decision within the period requested by the proposer.
+
+13.4
+
+No postponement may take place which causes notice of the decision on the
+proposal to be issued to the proposer on a date later than the last date set
+out in   regulation 17ZC .
+
+13.5
+
+Where a postponement takes place under this paragraph, any reference in these
+Regulations to something being done on or before the proposal determination
+date is to be read as relating to the proposal determination date as altered
+by the postponement.
+
+### Extension of timescales for proposer
+
+14
+
+14.1
+
+Where information is required to be supplied to the assessor or anything else
+is required to be done by the proposer under these Regulations, within a
+specified period of time, the assessor may extend the period for doing so.
+
+14.2
+
+For the avoidance of doubt, no alteration may be made which causes notice of
+the decision on the proposal to be issued to the proposer on a date later than
+the last date set out in   regulation 17ZC .
+
+### Notice of decision on a proposal
+
+15
+
+15.1
+
+An assessor must send notice of the decision in respect of the proposal to the
+proposer, in writing, on or before the proposal determination date, where a
+proposal determination date has been set.
+
+15.2
+
+The notice sent under paragraph (1) must include reasons for the decision,
+except where the decision falls under section 3ZA(6)(a) of the 1975 Act.
+
+### Duty to provide explanation for failure to issue proposal determination date or decision
+
+16
+
+16.1
+
+Subject to regulation 17, where the assessor—
+
+16.1.a
+
+does not issue a proposal determination date on or before the last date set
+out in   regulation 17ZB ,
+
+16.1.b
+
+does not issue notice of a decision on a proposal on or before the proposal
+determination date or, where no proposal determination date has been issued,
+the last date set out in   regulation 17ZC ,
+
+the assessor must send to the proposer a statement, in writing, setting out
+the reasons for the failure to do so.
+
+16.2
+
+The statement described in paragraph (1) must be sent within the period of 14
+days beginning with the last date as referred to in sub-paragraph (a) or (b),
+as applicable.
+
+### Disapplication of regulations 7, 9, 10, 12 and 16
+
+17
+
+Regulations 7, 9, 10, 12 and 16 do not apply where—
+
+17.a
+
+the assessor makes a decision under section 3ZA(6)(a) of the 1975 Act, before
+a proposal determination date is issued,
+
+17.b
+
+if paragraph (a) does not apply, the proposer and assessor agree in writing
+that a decision on the proposal may be issued without a proposal determination
+date being set, or
+
+17.c
+
+the assessor makes a decision under regulation 6(2)(c) or (4)(b)(ii) not to
+alter the entry.
+
+### Last date for making a proposal
+
+17ZA
+
+17ZA.1
+
+In relation to any entry in a valuation roll, the last dates for making a
+proposal are as set out in paragraphs (2) to (5).
+
+17ZA.2
+
+Where a proposal is made in reliance on section 3ZA(2)(a) of the 1975 Act
+(proprietor, tenant or occupier has received certain notices under section
+3(2) of the 1975 Act ), the last date for making a proposal is whichever is
+the later of—
+
+17ZA.2.a
+
+31 July in the year in which the valuation roll containing the entry in
+relation to which the proposal is made comes into force,
+
+17ZA.2.b
+
+the last day of the period of four months beginning with the date on which the
+relevant notice under section 3(2) of the 1975 Act was sent to the proprietor,
+tenant or occupier.
+
+17ZA.4
+
+Where a proposal is made in reliance on section 3ZA(2)(b) of the 1975 Act
+(person has become the proprietor, tenant or occupier of lands and heritages
+to which the entry relates), the last date for making the proposal is the last
+day of the period of four months beginning with the date on which the person
+making the proposal became the proprietor, tenant or occupier of the lands and
+heritages to which the proposal relates.
+
+17ZA.5
+
+Where a proposal is made in reliance on section 3ZA(2)(c) of the 1975 Act
+(material change of circumstances since the entry was made), the last date for
+making a proposal is four months after the date on which the valuation roll
+containing the relevant entry ceases to be in force.
+
+17ZA.6
+
+Where a proposal is made in reliance on section 3ZA(2)(d) of the 1975 Act
+(error in the entry), the last date for making a proposal is 31 March in the
+year preceding the year of revaluation immediately following the making of the
+proposal.
+
+### Last date for assessor to issue proposal determination date
+
+17ZB
+
+The last date for the assessor to issue notice of the proposal determination
+date is 70 days before the proposal determination date.
+
+### Last date for the assessor to issue notice of a decision on a proposal
+
+17ZC
+
+The last date for the assessor to issue notice of a decision on a proposal is
+whichever is the latest of—
+
+17ZC.a
+
+30 September in the year before the revaluation year which follows the coming
+into force of the valuation roll containing the entry to which the proposal
+relates,
+
+17ZC.b
+
+30 September in the year after the year in which the proposal is made to the
+assessor,
+
+17ZC.c
+
+the last day of the period of 12 months beginning with the date on which the
+proposal is made to the assessor.
+
+### Last date for making certain proposals in the revaluation year 2023-24
+
+17A
+
+17A.1
+
+In relation to the making of any entry in or alteration to the valuation roll
+in the year of revaluation 2023-24, the last date for making a proposal where
+the circumstances in section 3ZA(2)(a) of the 1975 Act apply (proprietor,
+tenant or occupier receives a valuation notice under section 3(2) of the 1975
+Act) is whichever is the later of—
+
+17A.1.a
+
+31 August 2023,
+
+17A.1.b
+
+the last day of the period of 4 months beginning with the date on which the
+notice under section 3(2) of the 1975 Act  was sent to the proprietor, tenant
+or occupier of the lands and heritages.
+
+17A.2
+
+Where paragraph (1) applies, the timescale set out in   regulation 17ZA  does
+not apply.
+
+### Last date for making an appeal in relation to a proposal
+
+18
+
+18.1
+
+The periods within which an appeal under section 3ZB(1) of the 1975 Act is to
+be made are as set out in paragraphs (2) to (4).
+
+18.2
+
+Where a notice of decision has been issued in respect of a proposal, an appeal
+may be made by sending a notice of appeal to the First-tier Tribunal within
+the period of 28 days beginning with the day on which the notice of the
+decision is presumed to have been received.
+
+18.3
+
+Where a proposal determination date has been issued in relation to a proposal,
+but no notice of a decision is issued on or before the proposal determination
+date, an appeal may be made by sending a notice of appeal to the First-tier
+Tribunal within the period of 28 days beginning with the proposal
+determination date.
+
+18.4
+
+Where notice of a proposal determination date has not been issued 70 days
+before the last date for the assessor to issue notice of a decision on the
+proposal, according to   regulation 17ZC  , an appeal may be made by sending a
+notice of appeal to the First-tier Tribunal no later than 42 days before that
+last date.
+
+18.5
+
+For the purposes of paragraph (2), a notice of decision is to be presumed to
+have been received 48 hours after it was sent.
+
+TOM ARTHUR Authorised to sign by the Scottish Ministers St Andrew’s House,
+Edinburgh 8th December 2022
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations make provision as to the making of proposals by
+proprietors, tenants and occupiers of lands and heritages for alteration of
+entries in the valuation roll. This includes provision regarding to whom the
+proposal must be made (the assessor), the information to be supplied as part
+of the proposal, and the course that the assessor may follow in the event that
+the requirement in regulation 5(1)(d) to supply certain information is
+considered not to have been met.
+
+  The Regulations set out requirements regarding acknowledgement of receipt of
+the proposal (regulation 7) and the issuing of a date on or before which the
+assessor intends to issue notice of a decision on the proposal (regulation 9).
+Further, the Regulations make provision for response to the proposal by the
+assessor (regulation 10) and for the supply of additional evidence by the
+proposer (regulation 12). The requirement to provide a response, and the
+opportunity to supply further evidence does not, though, apply where the
+decision is reached without a proposal determination date, in accordance with
+regulation 17. Regulation 17 provides for a decision to be made without a
+proposal determination date where the entry in the valuation roll is altered
+in accordance with the proposal, or where the proposer and assessor otherwise
+agree that a decision be reached without a proposal determination date.
+Further, the requirement for a proposal determination date is removed where
+the assessor decides that a proposal is incomplete as a result of not
+including information required by regulation 5(1)(d). The proposal
+determination date is the date indicated by the assessor as being the date on
+or before which the assessor intends to issue a decision on the proposal.
+
+  The assessor may extend timescales where the proposer is required to do
+something, such as supply information, within a specified period of time
+(regulation 14). The assessor is required to provide an explanation where
+there is a failure to issue notice of a decision on a proposal, or of a
+proposal determination date, within the timescale set down in schedule 1 of
+the Valuation Timetable (Scotland) Order 2022 (regulation 16). This does not
+apply in the event that the decision is reached without setting a proposal
+determination date, in accordance with regulation 17.
+
+  The Regulations also set down the periods within which any appeal in
+relation to the outcome of a proposal is to be brought (regulation 18).
+

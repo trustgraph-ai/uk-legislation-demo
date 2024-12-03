@@ -1,0 +1,99 @@
+Title: The Financial Services and Markets Act 2000 (Exemptions from Financial Promotion General Requirement) Regulations 2023
+Date: 2024-06-13
+Description: These Regulations create three exemptions to section 55NA(1) of the Financial Services and Markets Act 2000 (c. 8) (“the Act”). The effect of an exemption is to disapply the general requirement that authorised persons must not approve the content of a communication for the purposes of section 21 of the Act, unless granted permission by the FCA.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2023/966
+
+## The Financial Services and Markets Act 2000 (Exemptions from Financial Promotion General Requirement) Regulations 2023
+
+    Financial Services And Markets
+
+  Made   5th September 2023
+
+  Laid before Parliament   6th September 2023
+
+  Coming into force   27th September 2023
+
+      The Treasury make these Regulations in exercise of the powers conferred
+by section 55NB(1) of the Financial Services and Markets Act 2000 .
+
+### Citation and commencement
+
+1
+
+1.1
+
+These Regulations may be cited as the Financial Services and Markets Act 2000
+(Exemptions from Financial Promotion General Requirement) Regulations 2023.
+
+1.2
+
+These Regulations come into force on 27th September 2023.
+
+1.3
+
+These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+### Interpretation
+
+2
+
+In these Regulations—
+
+      “ the Act ” means the Financial Services and Markets Act 2000;
+“ appointed representative ” means a person referred to in section 39(2)(a) of
+the Act.
+
+### Exemptions from the general requirement relating to financial promotion approval
+
+3
+
+Section 55NA(1) (general requirement relating to financial promotion approval)
+of the Act does not apply to the giving of approval of the content of a
+communication by an authorised person (“ A ”)  ... where the content of the
+communication is prepared by—
+
+3.a
+
+A,
+
+3.b
+
+  an unauthorised person , where both A and   that unauthorised person   are
+members of the same group, or
+
+3.c
+
+  an unauthorised person , where   that unauthorised person   is an appointed
+representative of A, in relation to any regulated activity comprised in the
+carrying on of the business for which A, as   that unauthorised person’s
+principal, has accepted responsibility.
+
+      Steve Double   Stuart Anderson   Two of the Lords Commissioners of His
+Majesty’s Treasury     5th September 2023
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations create three exemptions to section 55NA(1) of the
+Financial Services and Markets Act  2000 (c. 8)  (“ the Act ”). The effect of
+an exemption is to disapply the general requirement that authorised persons
+must not approve the content of a communication for the purposes of section 21
+of the Act, unless granted permission by the FCA.
+
+  Regulation 3 of these regulations sets out the three exemptions for where an
+unauthorised person communicates a financial promotion. The first is where the
+authorised person that approves the communication also prepared the content of
+that communication. The second is where the unauthorised person prepared the
+content of the communication, and that unauthorised person and the authorised
+person that approves that communication are in the same group. The third is
+where the content of the communication is prepared by an appointed
+representative, that is the unauthorised person, in relation to any regulated
+activity that their principal has accepted responsibility for. This exemption
+applies where that principal, as an authorised person, approves that
+communication.
+
+  A full impact assessment has not been produced for this instrument as no, or
+no significant, impact on the private, voluntary or public sector is foreseen.
+

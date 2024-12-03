@@ -1,0 +1,471 @@
+Title: The Building etc. (Amendment) (England) (No. 2) Regulations 2022
+Date: 2024-04-20
+Description: Regulation 2 of these Regulations introduces the Schedule. Part 1 of the Schedule amends the Building Regulations 2010 (S.I. 2010/2214), as they apply in England, so as to impose (in the new paragraphs RA1 and RA2 inserted in Schedule 1 to those Regulations by paragraph 8 of the Schedule) new requirements relating to the provision, in relation to newly built dwellings, of “gigabit-ready physical infrastructure” and a connection to a “gigabit-capable public electronic communications network” (those terms being defined in regulation 44C of those Regulations as amended by paragraph 6 of the Schedule).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/984
+
+## The Building etc. (Amendment) (England) (No. 2) Regulations 2022
+
+    Building And Buildings, England
+
+  Made   23rd September 2022
+
+  Laid before Parliament   26th September 2022
+
+  Coming into force   26th December 2022
+
+      The Secretary of State has consulted the Building Regulations Advisory
+Committee for England, and such other bodies as appear to be representative of
+the interests concerned, in accordance with section 14(3) of the Building Act
+1984 .           The Secretary of State makes these Regulations in exercise of
+the powers conferred by sections 1, 3(1), 34, 47(1) and (5), 50(4), 51A(2), 54
+and 126 of, paragraphs 2, 7, 8 and 10 of Schedule 1 to, and paragraph 2(2) of
+Schedule 4 to, that Act .
+
+### Citation, extent, application and commencement
+
+1
+
+1.1
+
+These Regulations may be cited as the Building etc. (Amendment) (England) (No.
+2) Regulations 2022.
+
+1.2
+
+These Regulations extend to England and Wales.
+
+1.3
+
+These Regulations apply in relation to England.
+
+1.4
+
+These Regulations come into force on 26th December 2022.
+
+### Amendments to building regulations
+
+2
+
+2.1
+
+The Building Regulations 2010  are amended in accordance with Part 1 of the
+Schedule.
+
+2.2
+
+The Building (Approved Inspectors etc.) Regulations 2010  are amended in
+accordance with Part 2 of the Schedule.
+
+### Transitional provision
+
+3
+
+3.1
+
+The amendments made by paragraphs 2 to 6 and 8 and 9 of the Schedule do not
+apply in relation to previously notified work if it—
+
+3.1.a
+
+has started before the day on which these Regulations come into force, or
+
+3.1.b
+
+is started within the period of 12 months beginning with that day.
+
+3.2
+
+In paragraph (1) “ previously notified work ” means building work in respect
+of which—
+
+3.2.a
+
+a building notice or an initial notice has been given to a local authority
+before the day on which these Regulations come into force, or
+
+3.2.b
+
+full plans have been deposited with a local authority before that day.
+
+3.3
+
+In paragraph (2), “building notice”, “building work”, “full plans” and
+“initial notice” each has the same meaning as in the Building Regulations
+2010.
+
+      Julia Lopez   Minister of State   Department for Digital, Culture, Media
+& Sport     23rd September 2022
+
+Regulation 2
+
+##### Amendments to Building Regulations 2010
+
+1
+
+The Building Regulations 2010 are amended as follows.
+
+2
+
+In regulation 13 (particulars and plans where a building notice given) , after
+paragraph (2) insert—
+
+2.2A
+
+In the case of the erection of a dwelling, or a building that is to contain
+one or more dwellings, a building notice shall be accompanied by—
+
+2.2A.a
+
+particulars of any public electronic communications network in relation to
+which a connection is to be provided,
+
+2.2A.b
+
+if an exemption in regulation 44ZB is proposed to be relied on, evidence in
+support of the exemption, and
+
+2.2A.c
+
+if regulation 44ZC is proposed to be relied on—
+
+2.2A.c.i
+
+evidence of the matters mentioned in regulation 44ZC(6)(a) and (b), and
+
+2.2A.c.ii
+
+if paragraph RA1(1)(c)(i) or (ii) of Schedule 1 is also proposed to be relied
+on, evidence of the steps taken to establish whether, and if so where, a
+distribution point for a gigabit-capable public electronic communications
+network (as defined by regulation 44C) is likely to be installed, in a
+location relevant for the purposes of paragraph RA(1)(c), within the period of
+2 years beginning with the day on which the notice is given.
+
+.
+
+3
+
+In regulation 14 (full plans) , in paragraph (3)(a), for “and (2)” substitute
+“, (2) and (2A)” .
+
+4
+
+For the heading to Part 9A  substitute  “Infrastructure for electronic
+communications” .
+
+5
+
+In Part 9A, before regulation 44A insert—
+
+######### Exemptions from paragraphs RA1 and RA2 of Schedule 1
+
+5.44ZB
+
+5.44ZB.1
+
+The requirements of paragraphs RA1 and RA2 of Schedule 1 (gigabit-ready
+physical infrastructure and connection to gigabit-capable network) do not
+apply to buildings—
+
+5.44ZB.1.a
+
+to be occupied by the Ministry of Defence or the armed forces of the Crown, or
+
+5.44ZB.1.b
+
+to be otherwise occupied for purposes connected to national security.
+
+5.44ZB.2
+
+The requirements of paragraph RA1 of Schedule 1 do not apply in relation to a
+building if all the following conditions are met—
+
+5.44ZB.2.a
+
+the building is situated in an area that is isolated from public electronic
+communications networks of any of the kinds mentioned in regulation 44ZC(2) or
+(3),
+
+5.44ZB.2.b
+
+paragraph RA2 of that Schedule does not apply because the case falls within
+regulation 44ZC(4), and
+
+5.44ZB.2.c
+
+the prospect of a connection with a network of any of the kinds mentioned in
+regulation 44ZC(2) or (3) is considered too remote to justify equipping the
+building with gigabit-ready physical infrastructure or an access point.
+
+######### Cases in which paragraph RA2 of Schedule 1 modified or excluded
+
+5.44ZC
+
+5.44ZC.1
+
+The requirement in paragraph RA2 of Schedule 1 has effect subject to
+paragraphs (2) to (4).
+
+5.44ZC.2
+
+Where a person carrying out building work of the kind described in the second
+column of paragraph RA1 of Schedule 1 (“the developer”)—
+
+5.44ZC.2.a
+
+is unable to secure the provision of a connection with a gigabit-capable
+public electronic communications network for a cost not exceeding the cost
+cap, but
+
+5.44ZC.2.b
+
+is able to secure the provision of a connection with a high-speed public
+electronic communications network for such a cost,
+
+paragraph RA2 of Schedule 1 is to be read as requiring the provision of a
+connection with a high-speed public electronic communications network.
+
+5.44ZC.3
+
+Where the developer—
+
+5.44ZC.3.a
+
+is unable to secure the provision of a connection with a high-speed public
+electronic communications network for a cost not exceeding the cost cap, but
+
+5.44ZC.3.b
+
+is able to secure the provision of a connection with a USO-standard public
+electronic communications network for such a cost,
+
+paragraph RA2 of Schedule 1 is to be read as requiring the provision of a
+connection with a USO-standard public electronic communications network.
+
+5.44ZC.4
+
+Where the developer is unable to secure the provision of a connection with a
+USO-standard public electronic communications network for a cost not exceeding
+the cost cap, paragraph RA2 of Schedule 1 does not apply.
+
+5.44ZC.5
+
+In paragraphs (2) to (4)—
+
+      “ high-speed public electronic communications network ” means a public
+electronic communications network that is a high-speed electronic
+communications network;           “ USO-standard public electronic
+communications network ” means a public electronic communications network that
+provides at least the minimum download speed for the time being specified by
+virtue of section 65(2B)(a) of the Communications Act 2003  in the universal
+service order (as defined by section 151(1) of that Act).
+
+5.44ZC.6
+
+The developer is to be treated as being able to secure the provision of a
+connection mentioned in any of paragraphs (2) to (4) for a cost not exceeding
+the cost cap unless—
+
+5.44ZC.6.a
+
+the developer has invited at least two suitable providers to make, before the
+end of the 30th day after the date of the invitation, an offer to provide a
+connection of the kind mentioned in the paragraph in question, and
+
+5.44ZC.6.b
+
+none of those providers has before that time offered to provide that
+connection free of charge or at a cost not exceeding the cost cap.
+
+5.44ZC.7
+
+The cost cap is £2,000 in respect of each dwelling.
+
+5.44ZC.8
+
+In calculating the cost to the developer of securing the provision of a
+connection—
+
+5.44ZC.8.a
+
+there is to be included value added tax;
+
+5.44ZC.8.b
+
+there is to be excluded—
+
+5.44ZC.8.b.i
+
+the cost to the developer of installing gigabit-ready physical infrastructure
+in accordance with paragraph RA1 of Schedule 1,
+
+5.44ZC.8.b.ii
+
+administrative costs of the developer, and
+
+5.44ZC.8.b.iii
+
+the cost to an end-user (as defined by section 151(1) of the Communications
+Act 2003) of the provision of a public electronic communications service.
+
+5.44ZC.9
+
+In paragraph (6)(a) “ suitable provider ” means the provider of a public
+electronic communications network whom the developer reasonably considers to
+be likely to be able to provide the connection referred to.
+
+.
+
+6
+
+6.1
+
+Regulation 44C (interpretation of Part R of Schedule 1)  is amended as
+follows.
+
+6.2
+
+In the heading, after “of”, in the first place where it occurs, insert  “Part
+9A and of” .
+
+6.3
+
+In the opening words, after “In” insert  “this Part and in” .
+
+6.4
+
+In the definition of “access point”, after “infrastructure” insert  “, or as
+the case requires the gigabit-ready physical infrastructure,” .
+
+6.5
+
+After that definition insert—
+
+      “ gigabit-capable electronic communications network ” means an
+electronic communications network that is capable of delivering broadband
+access services at download speeds of at least 1,000 Mbps;           “
+gigabit-capable public electronic communications network ” means a public
+electronic communications network that is a gigabit-capable electronic
+communications network;           “ gigabit-ready physical infrastructure ”
+means physical infrastructure or installations, including elements under joint
+ownership, intended to host wired or wireless gigabit-capable public
+electronic communications networks;
+
+.
+
+6.6
+
+At the end insert—
+
+      “ public electronic communications network ” has the meaning given by
+section 151(1) of the Communications Act 2003.
+
+.
+
+7
+
+In regulation 55 (review of Part 9A and Part R of Schedule 1) , omit paragraph
+(2).
+
+8
+
+8.1
+
+In Schedule 1 (requirements), Part R (physical infrastructure for high-speed
+electronic communications networks)  is amended as follows.
+
+8.2
+
+For the heading substitute  “Infrastructure for electronic communications” .
+
+8.3
+
+Before paragraph R1 insert—
+
+          Gigabit-ready physical infrastructure         RA1. —(1) Building
+work must be carried out so as to ensure that each dwelling is equipped with
+gigabit-ready physical infrastructure that extends from a network termination
+point for gigabit-capable public electronic communications networks and
+reaches—     a     a distribution point, or         b     where the person
+carrying out the building work (“the developer”) has no right to install
+gigabit-ready physical infrastructure in land in which it would have to be
+installed if it were to reach a distribution point, as close as is reasonably
+practicable to a distribution point, or         c     where the developer has
+no such right and requirement RA2 is excluded or modified by regulation 44ZC,
+and would be so excluded or modified even if the gigabit-ready physical
+infrastructure were required to reach as close as is reasonably practicable to
+a distribution point—     i     as close as is reasonably practicable to a
+location at which a distribution point is likely to be installed within the
+relevant 2-year period (a “likely future location”), or         ii     where
+there is no likely future location that is closer to the building than the
+closest distribution point already installed, an access point for gigabit-
+capable public electronic communications networks, or             d     where
+the developer has no right to install gigabit-ready physical infrastructure in
+land beyond the building, an access point for gigabit-capable public
+electronic communications networks.         2     Where the work concerns a
+building containing more than one dwelling, the work must be carried out so as
+to ensure that the building is equipped in addition with a common access point
+for gigabit-capable public electronic communications networks.         3
+In this paragraph—         “ distribution point ” means a distribution point
+for a gigabit-capable public electronic communications network;           “
+the relevant 2-year period ” means the period of 2 years beginning with the
+earlier of the following—           (a) the day on which a building notice,
+initial notice or public body’s notice relating to work to which this
+paragraph applies is given;           (b) the day on which full plans relating
+to building work to which this paragraph applies are deposited.
+Requirements RA1 and RA2 apply to the erection of a dwelling or of a building
+that contains one or more dwellings.         Connection to gigabit-capable
+network         RA2. Each dwelling must in addition be provided with a
+connection to a gigabit-capable public electronic communications network.
+
+.
+
+8.4
+
+In paragraph R1—
+
+8.4.a
+
+for the heading substitute  “High-speed ready in-building physical
+infrastructure” , and
+
+8.4.b
+
+in the second column, after “work” insert  “, other than building work to
+which paragraph RA1 applies,” .
+
+##### Amendments to Building (Approved Inspectors etc.) Regulations 2010
+
+9
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  Regulation 2 of these Regulations introduces the Schedule. Part 1 of the
+Schedule amends the Building Regulations 2010 ( S.I. 2010/2214 ), as they
+apply in England, so as to impose (in the new paragraphs RA1 and RA2 inserted
+in Schedule 1 to those Regulations by paragraph 8 of the Schedule) new
+requirements relating to the provision, in relation to newly built dwellings,
+of “gigabit-ready physical infrastructure” and a connection to a “ gigabit-
+capable public electronic communications network ” (those terms being defined
+in regulation 44C of those Regulations as amended by paragraph 6 of the
+Schedule).
+
+  Paragraph 5 of the Schedule inserts in those Regulations new regulations
+44ZB and 44ZC, which modify or exclude the new requirements in certain cases.
+
+  Part 2 of the Schedule contains related amendments to the Building (Approved
+Inspectors etc.) Regulations 2010 ( S.I. 2010/2215 ), as they apply in
+England.
+
+  Regulation 3 makes transitional provision under which the new requirements
+do not apply in certain cases.
+
+  A full impact assessment has not been produced for this instrument as no, or
+no significant, impact on the private or voluntary sector or community bodies
+is foreseen.
+

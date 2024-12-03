@@ -1,0 +1,92 @@
+Title: The Social Security (Budgeting Loans) (Electronic Communications) (Amendment) Order (Northern Ireland) 2023
+Date: 2023-08-01
+Description: This Order amends the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 (“the Claims and Payments Regulations”) to allow electronic claims to be made for budgeting loans.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2023/96
+
+## The Social Security (Budgeting Loans) (Electronic Communications) (Amendment) Order (Northern Ireland) 2023
+
+    Social Security
+
+  Made   12th June 2023
+
+  Coming into operation   31st July 2023
+
+      The Department for Communities  makes the following Order in exercise of
+the powers conferred by sections 1 and 2 of the Electronic Communications Act
+(Northern Ireland) 2001 .           In accordance with section 1(3) of that
+Act it considers that the authorisation of the use of electronic
+communications by this Order for any purpose is such that the extent (if any)
+to which records of things done for that purpose will be available will be no
+less satisfactory in cases where use is made of electronic communications than
+in other cases.
+
+### Citation and commencement
+
+1
+
+This Order may be cited as the Social Security (Budgeting Loans) (Electronic
+Communications) (Amendment) Order (Northern Ireland) 2023 and shall come into
+operation on 31 st  July 2023.
+
+### Amendment of the Social Security (Claims and Payments) Regulations
+
+2
+
+2.1
+
+The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987
+are amended as follows.
+
+2.2
+
+In regulation 2(1) (interpretation) , after the definition of “bereavement
+support payment” insert—
+
+      “ budgeting loan ” means a payment by way of budgeting loan under
+section 134(1) of the Contributions and Benefits Act ;
+
+.
+
+2.3
+
+In regulation 4ZC(2)  (electronic claims for benefit) after “bereavement
+support payment,” insert  “a budgeting loan,” .
+
+2.4
+
+In regulation 32ZA(2)  (information given electronically) after paragraph (aa)
+insert—
+
+2.4.ab
+
+a budgeting loan;
+
+.
+
+2.5
+
+In Schedule 8D  (conditions for the use of electronic communication) in
+paragraph 2(1) after “bereavement support payment,” insert  “a budgeting
+loan,” .
+
+      Sealed with the Official Seal of the Department for Communities on 12 th
+June 2023       (L.S.)   David Tarr   A senior officer of the Department for
+Communities
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Order)
+
+  This Order amends the Social Security (Claims and Payments) Regulations
+(Northern Ireland) 1987 (“ the Claims and Payments Regulations ”) to allow
+electronic claims to be made for budgeting loans.
+
+  Article 1 provides for citation and commencement.
+
+  Article 2 amends regulation 4ZC, 32ZA(2) of, and paragraph 2 of Schedule 8D
+to, the Claims and Payments Regulations to permit the use of an electronic
+claim form and electronic communications in connection with a claim for a
+budgeting loan. The use of an electronic communication by claimants must be in
+accordance with a direction of the Department.
+

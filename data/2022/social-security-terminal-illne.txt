@@ -1,0 +1,211 @@
+Title: Social Security (Terminal Illness) Act (Northern Ireland) 2022
+Date: 2022-08-01
+Description: Provide that special social security rules which apply where life expectancy is 6 months or less are instead to apply where life expectancy is 12 months or less
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nia/2022/7
+
+## Social Security (Terminal Illness) Act (Northern Ireland) 2022
+
+      BE IT ENACTED by being passed by the Northern Ireland Assembly and
+assented to by Her Majesty as follows:
+
+### Special rules to apply where death expected within 12 months
+
+1
+
+1.1
+
+In the provisions listed in subsection (2) (provisions related to special
+rules which apply where death can reasonably be expected within 6 months), for
+“6” substitute  “12” .
+
+1.2
+
+The provisions are—
+
+1.2.a
+
+section 66(2)(a) of the 1992 Act (attendance allowance and, by virtue of
+sections 72(5) and 73(12), also disability living allowance),
+
+1.2.b
+
+Article 87(4) of the Welfare Reform (Northern Ireland) Order 2015 (personal
+independence payment),
+
+1.2.c
+
+the definition of “terminally ill” in each of the following—
+
+1.2.c.i
+
+regulation 2(1) of the Employment and Support Allowance Regulations (Northern
+Ireland) 2008,
+
+1.2.c.ii
+
+regulation 2(1) of the Universal Credit Regulations (Northern Ireland) 2016,
+
+1.2.c.iii
+
+regulation 2 of the Employment and Support Allowance Regulations (Northern
+Ireland) 2016, and
+
+1.2.c.iv
+
+regulation 2(1) of the Universal Credit, Personal Independence Payment,
+Jobseeker’s Allowance and Employment and Support Allowance (Decisions and
+Appeals) Regulations (Northern Ireland) 2016, and
+
+1.2.d
+
+the second sentence of section 30B(4) of the 1992 Act (incapacity benefit
+etc).
+
+1.3
+
+For each of sections 72(2)(b)(ii) and 73(9)(b)(ii) of the 1992 Act (care and
+mobility components of disability living allowance: person expected to die
+within 6 months must be likely to satisfy an entitlement condition until
+death) substitute—
+
+1.3.ii
+
+if expected to die within the period of 12 months beginning with that date,
+either the period of 6 months beginning with that date or the period beginning
+with that date and ending at death.
+
+.
+
+1.4
+
+In consequence of subsection (3), the 1992 Act is amended as follows—
+
+1.4.a
+
+in each of sections 72(4)(a) and 73(11)(a), for “that mentioned in paragraph
+(b)” substitute  “(as the case may be) the period mentioned in paragraph
+(b)(i), or a period mentioned in paragraph (b)(ii),” ,
+
+1.4.b
+
+in section 72(4)(b), for “those periods” substitute  “the period mentioned in
+paragraph (a) of that subsection and (as the case may be) the period mentioned
+in paragraph (b)(i), or a period mentioned in paragraph (b)(ii), of that
+subsection” ,
+
+1.4.c
+
+in section 73(12)(b), for ““the period mentioned in subsection (9)(b)”
+substitute “ “(as the case may be) the period mentioned in paragraph (b)(i),
+or a period mentioned in paragraph (b)(ii), of subsection (9)” , and
+
+1.4.d
+
+in section 74(1), for “the periods mentioned in those paragraphs” substitute
+“the period mentioned in paragraph (a) of that subsection and (as the case may
+be) the period mentioned in paragraph (b)(i), or a period mentioned in
+paragraph (b)(ii), of that subsection” .
+
+1.5
+
+In regulation 1(2) of the Social Security (Disability Living Allowance)
+Regulations (Northern Ireland) 1992, in the definition of “terminally ill”,
+after “section 66(2)” insert  “(as amended by the Social Security (Terminal
+Illness) Act (Northern Ireland) 2022)” .
+
+1.6
+
+In regulation 1(2) of the Social Security (Attendance Allowance) Regulations
+(Northern Ireland) 1992, in the definition of “terminally ill”, for “same
+meaning as in section 35(2C) of the Act” substitute  “meaning given by section
+66(2) of the Social Security Contributions and Benefits (Northern Ireland) Act
+1992” .
+
+1.7
+
+An amendment made by this section does not prevent or restrict the exercise of
+any power to amend or revoke the provision amended.
+
+1.8
+
+An amendment made by subsections (1) and (2) does not apply for the purposes
+of—
+
+1.8.a
+
+regulation 4ZE of the Individual Savings Account Regulations 1998, or
+
+1.8.b
+
+regulation 18A of the Child Trust Funds Regulations 2004.
+
+1.9
+
+In this section “ the 1992 Act ” means the Social Security Contributions and
+Benefits (Northern Ireland) Act 1992.
+
+### Consequential provision
+
+2
+
+2.1
+
+The Department for Communities may by regulations make provision that is
+consequential on any provision made by this Act.
+
+2.2
+
+Regulations under this section may—
+
+2.2.a
+
+amend, repeal, revoke or otherwise modify a statutory provision;
+
+2.2.b
+
+include transitional, transitory or saving provision in connection with the
+coming into operation of provision made by the regulations.
+
+2.3
+
+Regulations under this section are subject to negative resolution, except
+where subsection (4) applies to them.
+
+2.4
+
+Regulations under this section which contain (whether alone or with other
+provision) provision that amends, repeals or revokes any of the text of any
+Northern Ireland legislation or Act of Parliament are not to be made unless a
+draft of the regulations has been laid before, and approved by a resolution
+of, the Assembly.
+
+2.5
+
+In this section “ statutory provision ” has the meaning given by section 1(f)
+of the Interpretation Act (Northern Ireland) 1954.
+
+### Commencement and short title
+
+3
+
+3.1
+
+Section 2 and this section come into operation on the day after the day on
+which this Act receives Royal Assent.
+
+3.2
+
+Section 1 comes into operation on such day or days as the Department for
+Communities may by order appoint.
+
+3.3
+
+An order under subsection (2) may contain such transitional, transitory or
+saving provision as the Department for Communities considers appropriate.
+
+3.4
+
+This Act may be cited as the Social Security (Terminal Illness) Act (Northern
+Ireland) 2022.
+

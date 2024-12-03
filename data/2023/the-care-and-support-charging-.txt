@@ -1,0 +1,148 @@
+Title: The Care and Support (Charging) and (Financial Assessment) (Wales) (Miscellaneous Amendments) Regulations 2023
+Date: 2024-05-20
+Description: These Regulations amend the Care and Support (Charging) (Wales) Regulations 2015 (“the Charging Regulations”) and the Care and Support (Financial Assessment) (Wales) Regulations 2015 (“the Financial Assessment Regulations”).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/wsi/2023/67
+
+## The Care and Support (Charging) and (Financial Assessment) (Wales) (Miscellaneous Amendments) Regulations 2023
+
+    Social Care, Wales
+
+  Made   23 January 2023
+
+  Laid before Senedd Cymru   25 January 2023
+
+  Coming into force   10 April 2023
+
+      The Welsh Ministers make the following Regulations in exercise of the
+powers conferred by sections 50, 52, 53(3), 61, 64(1), 64(2)(b), 66 and 196(2)
+of the Social Services and Well-being (Wales) Act 2014 .
+
+### Title and coming into force
+
+1
+
+1.1
+
+The title of these Regulations is the Care and Support (Charging) and
+(Financial Assessment) (Wales) (Miscellaneous Amendments) Regulations 2023.
+
+1.2
+
+These Regulations come into force on 10 April 2023.
+
+### Amendment of the Care and Support (Charging) (Wales) Regulations 2015
+
+2
+
+The Care and Support (Charging) (Wales) Regulations 2015  are amended as
+follows—
+
+2.a
+
+in regulation 13 (minimum income amount where a person is provided with
+accommodation in a care home), for “£35” substitute  “£39.50” ;
+
+2.b
+
+in regulation 28 (minimum income amount where a person is provided with
+accommodation in a care home), for “£35” substitute  “£39.50” .
+
+### Amendment of the Care and Support (Financial Assessment) (Wales) Regulations 2015
+
+3
+
+The Care and Support (Financial Assessment) (Wales) Regulations 2015  are
+amended as follows—
+
+3.a
+
+in Schedule 2 (capital to be disregarded)—
+
+3.a.i
+
+in paragraph 20, in the parenthetical description of paragraphs 21 to 24 of
+Schedule 10 of the Income Support Regulations, after the words “Independent
+Living Fund” insert  “, any Grenfell Tower payment, child abuse payment,
+Windrush payment and any payment made by the Child Migrants Trust under the
+scheme for former British child migrants” ;
+
+3.a.ii
+
+after paragraph 39 insert—
+
+3.a.ii.40
+
+Any payment made under the Energy Bill Support Scheme as directed  by the
+Secretary of State for Business, Energy and Industrial Strategy pursuant to
+sections 7(3)(a) and 107 of the Electricity Act 1989 .
+
+3.a.ii.41
+
+Any payment made under sections 1, 4 and 5 of the Social Security (Additional
+Payments) Act 2022  (means-tested additional payments and disability
+additional payments).
+
+      Julie Morgan   Deputy Minister for Social Services, under the authority
+of the Minister for Health and Social Services, one of the Welsh Ministers
+23 January 2023
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations amend the Care and Support (Charging) (Wales) Regulations
+2015  (“ the Charging Regulations ”) and the Care and Support (Financial
+Assessment) (Wales) Regulations 2015  (“ the Financial Assessment Regulations
+”).
+
+  The Charging Regulations set out the requirements which local authorities
+must follow when making a determination of the amount of the charges which
+apply in relation to care and support which they are providing or arranging in
+the course of carrying out their functions under Part 4 of the Social Services
+and Well-being (Wales) Act 2014 (“ the Act ”). The Charging Regulations also
+contain parallel provisions setting out requirements which apply when a local
+authority makes direct payments to meet a person’s need for care and support.
+
+  The Financial Assessment Regulations make provision under the Act about the
+way in which a local authority must carry out a financial assessment of a
+person’s (“ A ”) financial resources in the following cases:         where the
+authority thinks that if it were to meet A’s needs for care and support (or a
+carer’s needs for support) it would impose a charge under section 59 of the
+Act, or           where the authority thinks that if it were to make payments
+towards meeting the cost of A’s needs for care and support (or a carer’s need
+for support) by making direct payments by virtue of section 50 or 52 of the
+Act, it would require A to pay, by way of reimbursement (in the case of gross
+payments) or contribution (in the case of net payments), towards the cost of
+securing the provision of that care and support.
+
+  Regulation 2 of this instrument amends regulation 13 of the Charging
+Regulations (minimum income amount where a person is provided with
+accommodation in a care home) to increase the net weekly income amount from
+£35 to £39.50. Regulation 28 is also amended to make corresponding change for
+a recipient of direct payments.
+
+  Regulation 3(a)(i) of this instrument amends the descriptive wording of
+paragraph 20(1) of Schedule 2 to the Financial Assessment Regulations to
+include the following:         Grenfell Tower payment,           child abuse
+payment,           Windrush payment, or           payments made by the Child
+Migrants Trust.
+
+  These schemes are already disregarded through the effect of paragraph 20 of
+Schedule 2 through their inclusion in the Income Support (General) Regulations
+1987 and they are added in the descriptive words for clarity.
+
+  Regulation 3(a)(ii) of this instrument amends Schedule 2 to the Financial
+Assessment Regulations as follows:         payments made under the Energy Bill
+Support Scheme,           payments made under the Social Security (Additional
+Payments) Act 2022,
+
+  are to be disregarded in the calculation of an adult’s capital.
+
+  The Welsh Ministers’ Code of Practice on the carrying out of regulatory
+impact assessments was considered in relation to these Regulations. As a
+result, a regulatory impact assessment has been prepared as to the likely
+costs and benefits of complying with these Regulations. A copy can be obtained
+from Welsh Government, Cathays Park, Cardiff, CF10 3NQ and is published on
+www.gov.wales .
+

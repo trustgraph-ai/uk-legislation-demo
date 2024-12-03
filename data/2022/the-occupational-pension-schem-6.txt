@@ -1,0 +1,2055 @@
+Title: The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022
+Date: 2024-05-20
+Description: These Regulation make consequential and miscellaneous amendments in relation to schemes and sections of schemes providing collective money purchase benefits (“collective money purchase schemes”).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2022/192
+
+## The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern
+
+    Pensions
+
+  Made   1st July 2022
+
+  Coming into operation   1st August 2022
+
+      The Department for Communities makes the following Regulations in
+exercise of the powers conferred by sections 69(2)(b) and (4)(b), 93(1), (2),
+(3) and (4) and 109(1), (2), (3) and (6) of the Pension Schemes (Northern
+Ireland) Act 1993 , Articles 35(4), 67(3A), 73(2)(b), 75(1), 87(2), 92(1)(b)
+and 166(1) and (2) of the Pensions (Northern Ireland) Order 1995 , Article
+3(1) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 , and
+now vested in it , Articles 200(1)(b) and (2), 236(1) and (2) and 280(1)(a) of
+the Pensions (Northern Ireland) Order 2005  and sections 97(1) and (2) and
+102(2) of the Pension Schemes Act 2021 .
+
+### Introduction
+
+#### Citation, commencement and interpretation
+
+1
+
+1.1
+
+These Regulations may be cited as the Occupational Pension Schemes (Collective
+Money Purchase Schemes) (Modifications and Consequential and Miscellaneous
+Amendments) Regulations (Northern Ireland) 2022 and shall come into operation
+on 1st August 2022.
+
+1.2
+
+The Interpretation Act (Northern Ireland) 1954  shall apply to these
+Regulations as it applies to an Act of the Assembly.
+
+### Amendments
+
+#### Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations
+
+2
+
+2.1
+
+The Occupational Pension Schemes (Preservation of Benefit) Regulations
+(Northern Ireland) 1991  are amended in accordance with paragraphs (2) and
+(3).
+
+2.2
+
+In regulation 12 (transfer of member’s accrued rights without consent)—
+
+2.2.a
+
+in paragraph (1)  for “For the purposes of” substitute  “Subject to paragraph
+(3A), for the purposes of” ;
+
+2.2.b
+
+after paragraph (3) insert—
+
+2.2.b.3A
+
+A scheme may not provide for the member’s accrued rights which are not
+relevant money purchase rights to be transferred to a collective money
+purchase scheme without the member’s consent.
+
+;
+
+2.2.c
+
+in paragraph (11)  before the definition of “controlling employer” insert—
+
+    “ collective money purchase scheme ” means a scheme or a section of a
+scheme which is a collective money purchase scheme for the purposes of Part 2
+of the Pension Schemes Act 2021 (collective money purchase benefits: Northern
+Ireland);
+
+.
+
+2.3
+
+After regulation 12 insert—
+
+########## Discharge of liabilities by collective money purchase scheme which is winding up
+
+2.3.12A
+
+2.3.12A.1
+
+For the purposes of section 69(4), a collective money purchase scheme may
+provide for the scheme’s liability to a beneficiary in respect of the
+beneficiary’s accrued rights to benefits under the scheme to be discharged in
+accordance with the default discharge option for that beneficiary without the
+consent of the beneficiary where—
+
+2.3.12A.1.a
+
+the scheme is pursuing continuity option 1 within the meaning of sections 85
+(continuity options) and 87 (continuity option 1: discharge of liabilities and
+winding up) of the Pension Schemes Act 2021; and
+
+2.3.12A.1.b
+
+the trustees of the scheme do not receive a notice from the beneficiary in
+accordance with paragraph 14 of Schedule 6 to the Occupational Pension Schemes
+(Collective Money Purchase Schemes) Regulations (Northern Ireland) 2022
+(continuity option 1: transfer out and winding up).
+
+2.3.12A.2
+
+In this regulation—
+
+    “ beneficiary ” has the meaning given by section 87(8) of the Pension
+Schemes Act 2021;         “ collective money purchase scheme ” means a scheme
+or a section of a scheme which is a collective money purchase scheme for the
+purposes of Part 2 of the Pension Schemes Act 2021 (collective money purchase
+benefits: Northern Ireland);         “ default discharge option ” has the
+meaning given by paragraph 1(1) of Schedule 6 to the Occupational Pension
+Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland)
+2022.
+
+.
+
+#### Amendment of the Occupational Pension Schemes (Transfer Values) Regulations
+
+3
+
+3.1
+
+The Occupational Pension Schemes (Transfer Values) Regulations (Northern
+Ireland) 1996  are amended in accordance with paragraphs (2) to (9).
+
+3.2
+
+In regulation 1(2) (interpretation) after the definition of “categories of
+benefits”  insert—
+
+    “ collective money purchase scheme ” means a scheme or a section of a
+scheme which is a collective money purchase scheme for the purposes of Part 2
+of the Pension Schemes Act 2021 (collective money purchase benefits: Northern
+Ireland);
+
+.
+
+3.3
+
+After regulation 2 (pre-1986 leavers) insert—
+
+########## Collective money purchase scheme during winding-up
+
+3.3.2A
+
+3.3.2A.1
+
+Chapter 1 of Part 4ZA  of the Act does not apply to a member of a collective
+money purchase scheme which is pursuing continuity option 1 within the meaning
+of sections 85 (continuity options) and 87 (continuity option 1: discharge of
+liabilities and winding up) of the Pension Schemes Act 2021, during the
+winding-up period for that scheme.
+
+3.3.2A.2
+
+In this regulation, “ winding-up period ” has the meaning given by paragraph
+1(1) of Schedule 6 to the Occupational Pension Schemes (Collective Money
+Purchase Schemes) Regulations (Northern Ireland) 2022 (continuity option 1:
+transfer out and winding up).
+
+.
+
+3.4
+
+In regulation 7(1)(a)  (manner of calculation and verification of cash
+equivalents – general provisions)—
+
+3.4.a
+
+in head (i) omit “or”;
+
+3.4.b
+
+in head (ii)—
+
+3.4.b.i
+
+for “money purchase benefits and cash balance benefits” substitute  “cash
+balance benefits and money purchase benefits other than collective money
+purchase benefits, or” ;
+
+3.4.b.ii
+
+for “regulation 7C,” substitute  “regulation 7C;” ;
+
+3.4.c
+
+after head (ii) add—
+
+3.4.c.iii
+
+for collective money purchase benefits, in accordance with regulation 7ZC,
+
+;
+
+3.4.d
+
+for paragraph (5) substitute—
+
+3.4.d.5
+
+Where the cash equivalent relates to more than one of the benefits specified
+in paragraph (1)(a)(i) to (iii), the initial cash equivalent is to be
+calculated—
+
+3.4.d.5.a
+
+for the portion falling within paragraph (1)(a)(i), in accordance with
+regulations 7A and 7B;
+
+3.4.d.5.b
+
+for the portion falling within paragraph (1)(a)(ii), in accordance with
+regulation 7C; and
+
+3.4.d.5.c
+
+for the portion falling within paragraph (1)(a)(iii), in accordance with
+regulation 7ZC .
+
+.
+
+3.5
+
+In the heading to regulation 7C  (manner of calculation of initial cash
+equivalents for money purchase benefits and cash balance benefits not
+calculated by reference to final salary) after “money purchase benefits”
+insert  “(other than collective money purchase benefits)” .
+
+3.6
+
+In regulation 7C(1)  after “money purchase benefits” insert  “other than
+collective money purchase benefits” .
+
+3.7
+
+After regulation 7C insert—
+
+########## Manner of calculation of initial cash equivalents for collective money purchase benfits
+
+3.7.7ZC
+
+3.7.7ZC.1
+
+For collective money purchase benefits, the initial cash equivalent is the
+realisable value of the member’s share at the date of calculation of the
+available assets of the collective money purchase scheme, and is to be
+calculated—
+
+3.7.7ZC.1.a
+
+on an actuarial basis;
+
+3.7.7ZC.1.b
+
+using assumptions determined in accordance with this regulation; and
+
+3.7.7ZC.1.c
+
+in accordance with the scheme rules, to the extent that they are consistent
+with sub-paragraphs (a) and (b).
+
+3.7.7ZC.2
+
+Having taken the advice of the actuary, the trustees must—
+
+3.7.7ZC.2.a
+
+determine the economic, financial and demographic assumptions; and
+
+3.7.7ZC.2.b
+
+calculate the initial cash equivalent by using the assumptions so determined.
+
+3.7.7ZC.3
+
+In determining the demographic assumptions, the trustees must have regard to—
+
+3.7.7ZC.3.a
+
+the main characteristics of the members of the scheme; or
+
+3.7.7ZC.3.b
+
+where the members of the scheme do not form a large enough group to allow
+demographic assumptions to be made, the characteristics of a wider population
+sharing similar characteristics to the members.
+
+3.7.7ZC.4
+
+The trustees must have regard to the scheme’s investment strategy when
+deciding what assumptions will be included in calculating the discount rates
+in respect of the member.
+
+3.7.7ZC.5
+
+The trustees must determine the assumptions under this regulation with the aim
+that, taken as a whole, they should lead to the best estimate of the initial
+cash equivalent.
+
+3.7.7ZC.6
+
+In this regulation, “ the available assets of the collective money purchase
+scheme ” has the meaning given by section 53(2) of the Pension Schemes Act
+2021.
+
+.
+
+3.8
+
+In regulation 13(1)  (extension of time limits for payment of cash
+equivalents)—
+
+3.8.a
+
+for “section 95(2)(a) or, as the case may be, (b)” substitute  “section
+95(2)(a), (b) or, as the case may be, (c) ” ;
+
+3.8.b
+
+at the end of sub-paragraph (bb) omit “or”;
+
+3.8.c
+
+after sub-paragraph (bb) insert—
+
+3.8.c.bc
+
+the scheme is, or within 3 months immediately before the end of that period
+has been, the subject of a pause order under section 95(5) of the Pension
+Schemes Act 2021 which contains a direction under section 95(5)(e) of that Act
+(no transfers etc of members’ rights); or
+
+;
+
+3.8.d
+
+in sub-paragraph (c) for “(ba) or (bb)” substitute  “(ba), (bb) or (bc)” .
+
+3.9
+
+In Schedule 1 (information to be made available to members) after paragraph 3
+add—
+
+3.9.4
+
+Where information is made available under this Schedule to a member of a
+collective money purchase scheme, the information to be made available to such
+a member also includes—
+
+3.9.4.a
+
+a statement that the Money and Pensions Service provides information about
+transfers that may assist the member in deciding whether to transfer;
+
+3.9.4.b
+
+an explanation of any potential adverse consequences for the member of
+transferring before normal pension age;
+
+3.9.4.c
+
+an explanation of the trustees’ duties under section 95A  (trustees’ further
+duties: collective money purchase benefits);
+
+3.9.4.d
+
+an explanation that the member will not be able to transfer in the event of
+the scheme pursuing continuity option 1 within the meaning of sections 85
+(continuity options) and 87 (continuity option 1: discharge of liabilities and
+winding up) of the Pension Schemes Act 2021.
+
+.
+
+#### Amendment of the Occupational Pension Schemes (Winding Up) Regulations
+
+4
+
+In regulation 13 of the Occupational Pension Schemes (Winding Up) Regulations
+(Northern Ireland) 1996  (hybrid schemes) for paragraph (2) substitute—
+
+4.2
+
+In paragraph (1) “ relevant money purchase benefits ” means—
+
+4.2.a
+
+collective money purchase benefits ; and
+
+4.2.b
+
+other money purchase benefits, other than—
+
+4.2.b.i
+
+benefits derived from the payment by any member of voluntary contributions; or
+
+4.2.b.ii
+
+underpin benefits.
+
+.
+
+#### Amendment of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations
+
+5
+
+In regulation 8 of the Occupational Pension Schemes (Assignment, Forfeiture,
+Bankruptcy etc.) Regulations (Northern Ireland) 1997  (exemptions from the
+inalienability and forfeiture provisions)—
+
+5.a
+
+after paragraph (7) insert—
+
+5.a.7A
+
+Article 89(1)(c)  does not apply to a scheme or a section of a scheme which is
+a collective money purchase scheme for the purposes of Part 2 of the Pension
+Schemes Act 2021 (collective money purchase benefits: Northern Ireland) and
+which is pursuing continuity option 1 within the meaning of sections 85
+(continuity options) and 87 (continuity option 1: discharge of liabilities and
+winding up) of that Act, to the extent that it would prevent a reduction to
+the quantification of the value of a beneficiary’s accrued rights to benefits
+under the scheme to take account of any periodic income received by that
+beneficiary in accordance with Schedule 6 to the Occupational Pension Schemes
+(Collective Money Purchase Schemes) Regulations (Northern Ireland) 2022
+(continuity option 1: transfer out and winding up).
+
+;
+
+5.b
+
+after paragraph (8) add—
+
+5.b.9
+
+In paragraph (7A) “ periodic income ” has the meaning given by paragraph 1(1)
+of Schedule 6 to the Occupational Pension Schemes (Collective Money Purchase
+Schemes) Regulations (Northern Ireland) 2022.
+
+.
+
+#### Amendment of the Stakeholder Pension Schemes Regulations
+
+6
+
+After regulation 19 of the Stakeholder Pension Schemes Regulations (Northern
+Ireland) 2000  (requirement for trustees of a stakeholder pension scheme
+established under a trust) insert—
+
+######## Requirement that a stakeholder pension is not a collective money purchase scheme
+
+6.19A
+
+For the purposes of Article 3(1)(b), it shall be a condition of a scheme being
+a stakeholder pension scheme that it must not be a collective money purchase
+scheme for the purposes of Part 2 of the Pension Schemes Act 2021 (collective
+money purchase benefits: Northern Ireland).
+
+.
+
+#### Amendment of the Occupational Pension Schemes (Employer Debt) Regulations
+
+7
+
+In regulation 10(4) of the Occupational Pension Schemes (Employer Debt)
+Regulations (Northern Ireland) 2005  (money purchase schemes: fraud and levy
+deficiencies etc.)—
+
+7.a
+
+in the definition of “the levy deficit” for “paragraph (2).” substitute
+“paragraph (2);” ;
+
+7.b
+
+after the definition of “the levy deficit” insert—
+
+    “ money purchase schemes ” does not include a scheme or a section of a
+scheme that is a collective money purchase scheme for the purposes of Part 2
+of the Pension Schemes Act 2021 (collective money purchase benefits: Northern
+Ireland).
+
+.
+
+#### Amendment of the Occupational Pension Schemes (Winding up, etc.) Regulations
+
+8
+
+In regulation 3 of the Occupational Pension Schemes (Winding up, etc.)
+Regulations (Northern Ireland) 2005  (schemes to which Article 73 of the 1995
+Order does not apply) after paragraph (1) insert—
+
+8.1A
+
+Article 73 of the 1995 Order does not apply to a section of a scheme that is a
+collective money purchase scheme for the purposes of Part 2 of the Pension
+Schemes Act 2021 (collective money purchase benefits: Northern Ireland).
+
+.
+
+#### Amendment of the Occupational Pension Schemes (Scheme Funding) Regulations
+
+9
+
+In regulation 17(1) of the Occupational Pension Schemes (Scheme Funding)
+Regulations (Northern Ireland) 2005  (exemptions – general)—
+
+9.a
+
+in sub-paragraph (k) for “114, or” substitute  “114;” ;
+
+9.b
+
+in sub-paragraph (l) for “wound up.” substitute  “wound up, or”
+
+9.c
+
+after sub-paragraph (l) add—
+
+9.c.m
+
+a scheme or a section of a scheme which is a collective money purchase scheme
+for the purposes of Part 2 of the Pension Schemes Act 2021 (collective money
+purchase benefits: Northern Ireland).
+
+.
+
+#### Amendment of the Occupational Pension Schemes (Investment) Regulations
+
+10
+
+In regulation 2A of the Occupational Pension Schemes (Investment) Regulations
+(Northern Ireland) 2005  (additional requirements in relation to default
+arrangement) after paragraph (6) add—
+
+10.7
+
+This regulation does not apply to a scheme or a section of a scheme which is a
+collective money purchase scheme for the purposes of Part 2 of the Pension
+Schemes Act 2021 (collective money purchase benefits: Northern Ireland).
+
+.
+
+#### Amendment of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations
+
+11
+
+In regulation 10 of the Occupational and Personal Pension Schemes
+(Consultation by Employers) Regulations (Northern Ireland) 2006  (listed
+changes: exclusions)—
+
+11.a
+
+in paragraph (1) after sub-paragraph (ab) insert—
+
+11.a.ac
+
+which is or results in an adjustment of the rate or amount of benefits
+provided under a collective money purchase scheme, provided that such
+adjustment is made in accordance with—
+
+11.a.ac.i
+
+the most recent actuarial valuation or (as the case may be) any multi-annual
+reduction in effect, and
+
+11.a.ac.ii
+
+the scheme rules;
+
+11.a.ad
+
+which is made in respect of a collective money purchase scheme that is
+pursuing continuity option 1 in accordance with—
+
+11.a.ad.i
+
+Schedule 6 to the Occupational Pension Schemes (Collective Money Purchase
+Schemes) Regulations (Northern Ireland) 2022  (continuity option 1: transfer
+out and winding up), or
+
+11.a.ad.ii
+
+scheme rules made in accordance with that Schedule;
+
+;
+
+11.b
+
+after paragraph (3) add—
+
+11.b.4
+
+In this regulation—
+
+    “ actuarial valuation ”, in relation to a collective money purchase
+scheme, has the meaning given by section 71(2) of the Pension Schemes Act
+2021;         “ collective money purchase scheme ” means a scheme or a section
+of a scheme which is a collective money purchase scheme for the purposes of
+Part 2 of the Pension Schemes Act 2021 (collective money purchase benefits:
+Northern Ireland);         “ multi-annual reduction ” has the meaning given by
+regulation 2 of the Occupational Pension Schemes (Collective Money Purchase
+Schemes) Regulations (Northern Ireland) 2022.
+
+.
+
+#### Amendment of the Occupational Pension Schemes (Modification of Schemes) Regulations
+
+12
+
+12.1
+
+The Occupational Pension Schemes (Modification of Schemes) Regulations
+(Northern Ireland) 2006  are amended in accordance with paragraphs (2) and
+(3).
+
+12.2
+
+In regulation 1(2) (interpretation) after the definition of “the 2015 Act”
+insert—
+
+    “ actuarial valuation ”, in relation to a collective money purchase
+scheme, has the meaning given by section 71(2) of the Pension Schemes Act
+2021;         “ collective money purchase scheme ” means a scheme or a section
+of a scheme that is a collective money purchase scheme for the purposes of
+Part 2 of the Pension Schemes Act 2021 (collective money purchase benefits:
+Northern Ireland);         “ multi-annual reduction ” has the meaning given by
+regulation 2 of the Occupational Pension Schemes (Collective Money Purchase
+Schemes) Regulations (Northern Ireland) 2022;
+
+;
+
+12.3
+
+In regulation 3  (non-application of the subsisting rights provisions)—
+
+12.3.a
+
+in paragraph (i)(ii) for “spouse, or” substitute  “ spouse;” ;
+
+12.3.b
+
+in paragraph (j)(ii) for “spouse.” substitute  “ spouse;” ;
+
+12.3.c
+
+after paragraph (j)(ii) add—
+
+12.3.c.k
+
+which is or results in an adjustment of the rate or amount of benefits
+provided under a collective money purchase scheme, provided that such
+adjustment is made in accordance with—
+
+12.3.c.k.i
+
+the most recent actuarial valuation or (as the case may be) any multi-annual
+reduction in effect, and
+
+12.3.c.k.ii
+
+the scheme rules, or
+
+12.3.c.l
+
+which is made in respect of a collective money purchase scheme that is
+pursuing continuity option 1 in accordance with—
+
+12.3.c.l.i
+
+Schedule 6 to the Occupational Pension Schemes (Collective Money Purchase
+Schemes) Regulations (Northern Ireland) 2022 (continuity option 1: transfer
+out and winding up), or
+
+12.3.c.l.ii
+
+scheme rules made in accordance with the requirements of that Schedule.
+
+.
+
+#### Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations
+
+13
+
+13.1
+
+The Occupational and Personal Pension Schemes (Disclosure of Information)
+Regulations (Northern Ireland) 2014  are amended in accordance with paragraphs
+(2) to (19).
+
+13.2
+
+In regulation 2(1) (interpretation)—
+
+13.2.a
+
+after the definition of “the 2014 Act”  insert—
+
+    “ the 2021 Act ” means the Pension Schemes Act 2021;
+
+;
+
+13.2.b
+
+after the definition of “accrued rights” insert—
+
+    “ actuarial valuation ”, in relation to a collective money purchase
+scheme, has the meaning given by section 71(2) of the 2021 Act;         “ the
+available assets of the scheme ”, in relation to a collective money purchase
+scheme, has the meaning given by section 53(2) of the 2021 Act;
+
+;
+
+13.2.c
+
+after the definition of “cash balance benefit”  insert—
+
+    “ collective money purchase scheme ” means a scheme or a section of a
+scheme which is a collective money purchase scheme for the purposes of Part 2
+of the 2021 Act (collective money purchase benefits: Northern Ireland);
+
+;
+
+13.2.d
+
+in the definition of “illustration date” after “Schedule 6” insert  “and in
+Schedule 6A ” ;
+
+13.2.e
+
+after the definition of “member” insert—
+
+    “ multi-annual reduction ” has the meaning given by regulation 2 of the
+Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations
+(Northern Ireland) 2022;
+
+.
+
+13.3
+
+In regulation 4 (application of these Regulations)—
+
+13.3.a
+
+for paragraph (1)  substitute—
+
+13.3.a.1
+
+Subject to paragraphs (2), (3), (6) and (9), the trustees or managers of an
+occupational pension scheme that falls within paragraph 1 of Schedule 1 must
+give information in accordance with regulations 6, 8, 9 to 17, 18 to 22, 24
+and 25 and, where the scheme falls within Article 35 of the 1995 Order
+(investment principles) or the scheme is a relevant scheme within the meaning
+of the Occupational Pension Schemes (Scheme Administration) Regulations
+(Northern Ireland) 1997 , regulation 29A .
+
+;
+
+13.3.b
+
+after paragraph (8)  add—
+
+13.3.b.9
+
+Regulations 12A , 17, 18B , 19  and 25  do not apply to a collective money
+purchase scheme.
+
+13.3.b.10
+
+For the purposes of these Regulations, where a pension scheme is divided into
+sections, each section that is a collective money purchase scheme is to be
+treated as a separate scheme.
+
+.
+
+13.4
+
+In regulation 8 (material alterations to basic scheme information) after
+paragraph (5) add—
+
+13.4.6
+
+This regulation does not apply where regulation 8A applies.
+
+.
+
+13.5
+
+After regulation 8 insert—
+
+########## Scheme closure: collective money purchase schemes
+
+13.5.8A
+
+13.5.8A.1
+
+In relation to a collective money purchase scheme, the information specified
+in paragraphs (2) and (3) must be given in accordance with this regulation.
+
+13.5.8A.2
+
+The information listed in paragraphs 30 to 33  of Schedule 2 must be given as
+soon as practicable and in any event no more than one month after a decision
+by the trustees to pursue continuity option 3.
+
+13.5.8A.3
+
+The information listed in paragraphs 34 to 38 of Schedule 2 must be given as
+soon as is practicable and in any event no more than one month after the date
+on which the Regulator notifies the trustees in accordance with section 89(4)
+of the 2021 Act (continuity option 3: conversion to closed scheme).
+
+13.5.8A.4
+
+The information must be given to all members and beneficiaries of the scheme
+except for excluded persons.
+
+13.5.8A.5
+
+In this regulation, and in Schedule 2, “continuity option 3” is the conversion
+of the scheme into a closed scheme in accordance with sections 85 (continuity
+options) and 89 of the 2021 Act and regulations made section 89 of that Act.
+
+.
+
+13.6
+
+After regulation 17 (statements of benefits: money purchase benefits) insert—
+
+########## Statements of benefits: collective money purchase schemes
+
+13.6.17A
+
+13.6.17A.1
+
+The information mentioned in paragraph (2) must be given in accordance with
+this regulation to a member of a collective money purchase scheme who is not—
+
+13.6.17A.1.a
+
+an excluded person, or
+
+13.6.17A.1.b
+
+a member to whom benefits under the scheme have, or are about to, become
+payable.
+
+13.6.17A.2
+
+The information is—
+
+13.6.17A.2.a
+
+for active members, the information listed in Parts 1, 2 and 4 of Schedule 6A;
+
+13.6.17A.2.b
+
+for deferred members, the information listed in Parts 1, 2, 3 and 5 of
+Schedule 6A, and
+
+13.6.17A.2.c
+
+for pension credit members, the information listed in Parts 1 and 3 of
+Schedule 6A.
+
+13.6.17A.3
+
+The information must be given—
+
+13.6.17A.3.a
+
+no more than 12 months after the effective date of the first actuarial
+valuation, and
+
+13.6.17A.3.b
+
+thereafter, no more than 12 months after the end of each scheme year.
+
+13.6.17A.4
+
+In this regulation, “the effective date” is the date by reference to which the
+available assets of the scheme are determined.
+
+13.6.17A.5
+
+A notification need not be given under regulation 27 in relation to the
+information on the website that is also given to the person in accordance with
+paragraphs 15 and 16 of Schedule 6A.
+
+.
+
+13.7
+
+In regulation 18A  (information to be given on request and on a member
+providing certain information) after paragraph (2) insert—
+
+13.7.2A
+
+In relation to a collective money purchase scheme, information given in
+accordance with paragraph (2)(a) must include a statement that—
+
+13.7.2A.a
+
+there is no promise or guarantee as to the rate or amount of benefits provided
+under the scheme, and
+
+13.7.2A.b
+
+the rate or amount of benefits may fluctuate, which may result in—
+
+13.7.2A.b.i
+
+reduced benefits before benefit becomes payable;
+
+13.7.2A.b.ii
+
+reduced benefits after benefit becomes payable.
+
+.
+
+13.8
+
+In regulation 22 (changes to benefits) after paragraph (2) add—
+
+13.8.3
+
+This regulation does not apply where regulation 22B applies.
+
+.
+
+13.9
+
+After regulation 22 insert—
+
+########## Benefit adjustment information: collective money purchase schemes
+
+13.9.22A
+
+13.9.22A.1
+
+Information listed in paragraphs 15 to 20  of Schedule 7 must be provided in
+accordance with this regulation to members and beneficiaries of a collective
+money purchase scheme.
+
+13.9.22A.2
+
+The information must be given each time an actuarial valuation is obtained—
+
+13.9.22A.2.a
+
+as soon as reasonably practicable after the certification of the actuarial
+valuation by the scheme actuary, and
+
+13.9.22A.2.b
+
+no less than 6 weeks before any adjustment to the rate or amount of benefits
+provided under the scheme following the latest actuarial valuation is applied,
+where reasonably practicable.
+
+########## Incorrect benefit adjustments in collective money purchase schemes
+
+13.9.22B
+
+13.9.22B.1
+
+The information listed in paragraphs 21 to 27 of Schedule 7 must be given in
+accordance with this regulation where—
+
+13.9.22B.1.a
+
+the scheme is a collective money purchase scheme, and
+
+13.9.22B.1.b
+
+a benefit adjustment has not been applied in accordance with the scheme rules
+or (as the case may be) the latest actuarial valuation.
+
+13.9.22B.2
+
+The information must be given as soon as reasonably practicable to members and
+beneficiaries who have been or will be affected by the failure to apply the
+benefit adjustment in accordance with the scheme rules or (as the case may be)
+the latest actuarial valuation.
+
+.
+
+13.10
+
+In regulation 24(6) (occupational pension schemes during winding up) before
+sub-paragraph (a) insert—
+
+13.10.za
+
+in relation to a collective money purchase scheme, in accordance with
+paragraph 4 of Schedule 6 to the Occupational Pension Schemes (Collective
+Money Purchase Schemes) Regulations (Northern Ireland) 2022 (continuity option
+1: transfer out and winding up);
+
+.
+
+13.11
+
+In regulation 27(1)  (provision of information on a website) for “regulation
+29A provides” substitute  “regulations 29A and 29B provide” .
+
+13.12
+
+In regulation 29A(2) (publishing charges and transaction costs and other
+relevant information) after sub-paragraph (b) insert—
+
+13.12.ba
+
+paragraph (1)(cza);
+
+.
+
+13.13
+
+After regulation 29A insert—
+
+########## Additional publication requirements for collective money purchase schemes
+
+13.13.29B
+
+13.13.29B.1
+
+In relation to a collective money purchase scheme, the information specified
+in paragraphs (2) to (4) must be published in accordance with this regulation.
+
+13.13.29B.2
+
+The following information must be published no more than one month after the
+date on which the Regulator notifies the applicant of its decision to
+authorise the scheme—
+
+13.13.29B.2.a
+
+a statement explaining the design of the scheme, which must contain the
+information listed in Part 1 of Schedule 9B, and
+
+13.13.29B.2.b
+
+the scheme’s rules.
+
+13.13.29B.3
+
+The information listed in Part 2 of Schedule 9B must be published no more than
+3 months after the latest actuarial valuation is sent to the Regulator.
+
+13.13.29B.4
+
+The model used to calculate information specified in paragraphs 5, 6, 19, 20
+and 23 to 25 of Schedule 6A must be published as soon as reasonably
+practicable after information is first provided in accordance with regulation
+17A.
+
+13.13.29B.5
+
+Where there is a change in relation to the information listed in paragraph 4
+or 5 of Schedule 9B, the statement mentioned in sub-paragraph (2)(a) must be
+altered accordingly, and published before or as soon as practicable after the
+change.
+
+13.13.29B.6
+
+Each time the document specified in sub-paragraph (2)(b) is changed after it
+is first published, the changed version must be published before or as soon as
+possible after (and in any event within 3 months after) the change.
+
+13.13.29B.7
+
+A notification need not be given under regulation 27 in relation to the
+information on the website that is published in accordance with this
+regulation.
+
+13.13.29B.8
+
+Where a person requests the trustees of the scheme to provide the information
+referred to in paragraph (2), (3) or (4) in hard copy form, the trustees of
+the scheme must give that information to the person in hard copy form where,
+but only where, the trustees are satisfied that it would be unreasonable for
+that person to obtain it from the website on which it is published.
+
+13.13.29B.9
+
+Where information is required to be given in hard copy form in accordance with
+paragraph (8), it must be given within 2 months of the date the request is
+made.
+
+13.13.29B.10
+
+In this regulation, “ published ” means made publicly available free of charge
+on a website.
+
+.
+
+13.14
+
+In Schedule 2 (basic information)—
+
+13.14.a
+
+in paragraph 15(d) after “increased” insert  “or decreased” ;
+
+13.14.b
+
+in paragraph 16  after “including” insert  “where appropriate” ;
+
+13.14.c
+
+after paragraph 18 insert—
+
+13.14.c.18A
+
+In respect of a collective money purchase scheme, a statement that—
+
+13.14.c.18A.a
+
+there is no promise or guarantee as to the rate or amount of benefit provided
+under the scheme, and
+
+13.14.c.18A.b
+
+the rate or amount of benefits may fluctuate, which may result in—
+
+13.14.c.18A.b.i
+
+reduced benefits before benefit becomes payable;
+
+13.14.c.18A.b.ii
+
+reduced benefits after benefit becomes payable.
+
+13.14.c.18B
+
+In respect of a collective money purchase scheme, a summary of the rules
+governing how the rate or amount of benefits provided under the scheme is to
+be adjusted from time to time, including—
+
+13.14.c.18B.a
+
+that annual benefit calculations and any adjustments of the rate or amount of
+benefits are applied to all the members of the scheme without variation;
+
+13.14.c.18B.b
+
+where relevant, an explanation of how any multi-annual reduction permitted
+under the scheme rules operates and the effect it may have on the rate or
+amount of benefits provided under the scheme, and
+
+13.14.c.18B.c
+
+the arrangements in place for making any adjustments to the rate or amount of
+benefits provided to pensioner members.
+
+.
+
+13.14.d
+
+after Part 3 (lifestyling) add—
+
+############ Scheme closure: collective money purchase schemes
+
+13.14.d.30
+
+A statement that a decision has been made to pursue continuity option 3.
+
+13.14.d.31
+
+A summary of the reasons for the decision in paragraph 30.
+
+13.14.d.32
+
+An estimate of when information will be provided in accordance with paragraphs
+34 to 38.
+
+13.14.d.33
+
+A statement that the scheme will continue to operate in respect of its current
+members and beneficiaries.
+
+13.14.d.34
+
+A statement confirming that the scheme will be closed, which must include
+whether it will be closed to new contributions or new members (or both).
+
+13.14.d.36
+
+The date the scheme will begin to operate as a closed scheme.
+
+13.14.d.37
+
+A statement explaining any impact that the closure will have in relation to
+accrued rights to benefits under the scheme, including any differences in
+impact for active, deferred and pensioner members.
+
+13.14.d.38
+
+The arrangements for—
+
+13.14.d.38.a
+
+the future operation of the scheme, and
+
+13.14.d.38.b
+
+where the scheme will be closed to new contributions, any scheme or section of
+a scheme to which future contributions may be made.
+
+.
+
+13.15
+
+In Schedule 3 (information to be given on request)—
+
+13.15.a
+
+in paragraph 2 after “rules” insert  “(except where regulation 29B applies)” ;
+
+13.15.b
+
+after paragraph 10 insert—
+
+13.15.b.10A
+
+In respect of a collective money purchase scheme, the latest actuarial
+valuation.
+
+;
+
+13.15.c
+
+in paragraph 22—
+
+13.15.c.i
+
+after “money purchase scheme” insert  “other than a collective money purchase
+scheme” ;
+
+13.15.c.ii
+
+for “increases”, in each place where it occurs, substitute  “increases or
+decreases” .
+
+13.16
+
+After Schedule 6 (statements of benefits: money purchase benefits and cash
+balance benefits ) insert Schedule 6A as set out in Schedule 1 to these
+Regulations.
+
+13.17
+
+In Schedule 7 (information to be given by schemes that relates to accessing
+benefits)—
+
+13.17.a
+
+in the heading after “benefits” insert  “and to benefit adjustments” ;
+
+13.17.b
+
+after paragraph 6 insert—
+
+13.17.b.6A
+
+In relation to a collective money purchase scheme, a statement that—
+
+13.17.b.6A.a
+
+there is no promise or guarantee as to the rate or amount of benefit provided
+under the scheme, and
+
+13.17.b.6A.b
+
+the rate or amount of benefits may fluctuate, which may result in—
+
+13.17.b.6A.b.i
+
+reduced benefits before benefit becomes payable;
+
+13.17.b.6A.b.ii
+
+reduced benefits after benefit becomes payable.
+
+;
+
+13.17.c
+
+in paragraph 10—
+
+13.17.c.i
+
+after “increased” insert  “or decreased” ;
+
+13.17.c.ii
+
+after “increases” insert  “or decreases” ;
+
+13.17.d
+
+after Part 3  (information to be given to members having an opportunity to
+transfer flexible benefits) add—
+
+############ Information to be given by collective money purchase schemes about benefit adjustments
+
+13.17.d.15
+
+Where benefit is not yet payable to the person—
+
+13.17.d.15.a
+
+the amount representing the member’s share of the available assets of the
+scheme;
+
+13.17.d.15.b
+
+the period for which that amount applies;
+
+13.17.d.15.c
+
+except where information under this paragraph is provided to the person for
+the first time—
+
+13.17.d.15.c.i
+
+any adjustment to that amount since the previous year, both in monetary terms
+and as a percentage increase or decrease;
+
+13.17.d.15.c.ii
+
+where applicable, an explanation of why that amount has been adjusted or, as
+the case may be, remained the same, and
+
+13.17.d.15.d
+
+an explanation of when an adjustment in that amount may next occur.
+
+13.17.d.16
+
+Where benefit is payable to the person—
+
+13.17.d.16.a
+
+the amount of benefit that is payable;
+
+13.17.d.16.b
+
+the period for which that amount applies;
+
+13.17.d.16.c
+
+except where information under this paragraph is provided to the person for
+the first time—
+
+13.17.d.16.c.i
+
+any adjustment to the amount of benefit payable from the previous year, both
+in monetary terms and as a percentage increase or decrease;
+
+13.17.d.16.c.ii
+
+an explanation of why the amount of benefit payable has been adjusted or, as
+the case may be, remained the same, and
+
+13.17.d.16.d
+
+an explanation of when an adjustment in the amount of benefit payable may next
+occur.
+
+13.17.d.17
+
+Any rights or options a person may be entitled to exercise in the event of a
+member or beneficiary dying, and any procedures for exercising those rights or
+options.
+
+13.17.d.18
+
+A statement that there is no promise or guarantee as to the amount of benefit
+that may be provided under the scheme, that the rate or amount of benefits may
+fluctuate, and that this may result in reduced benefits.
+
+13.17.d.19
+
+A summary of the method and assumptions used to calculate the benefit
+adjustments.
+
+13.17.d.20
+
+The postal and electronic address to which enquiries relating to the
+information provided in accordance with regulation 22A should be sent.
+
+13.17.d.21
+
+The level of the benefit adjustment that should have been applied in
+accordance with the latest actuarial valuation and the schemes rules.
+
+13.17.d.22
+
+The level of the benefit adjustment that was actually applied.
+
+13.17.d.23
+
+Where the benefit adjustment that was actually applied was not the adjustment
+that should have been applied in accordance with the latest actuarial
+valuation and the schemes rules, any proposed remedial actions.
+
+13.17.d.24
+
+A timetable for implementing any remedial actions.
+
+13.17.d.25
+
+A statement indicating whether the failure to apply the benefit adjustment in
+accordance with the scheme rules or (as the case may be) the latest actuarial
+valuation has resulted in any negative impact on the scheme’s ongoing ability
+to deliver the pension benefits envisaged under the design of the scheme.
+
+13.17.d.26
+
+Where there is a likely negative impact on the scheme’s ongoing ability to
+deliver the pension benefits envisaged, details of any proposed actions to
+address the negative impact.
+
+13.17.d.27
+
+An explanation of what the trustees will do to ensure benefit adjustments are
+applied correctly in future.
+
+.
+
+13.18
+
+In Schedule 8 (information to be given by schemes about winding up) in
+paragraph 7 for “Either” substitute  “Except in the case of a collective money
+purchase scheme, either” .
+
+13.19
+
+After Schedule 9A  (information to be give on the pensions guidance and
+members’ benefits) insert Schedule 9B as set out in Schedule 2 to these
+Regulations.
+
+### Modifications
+
+#### Modifications of treatment of hybrid schemes under the Pensions (Northern Ireland) Order 2005
+
+14
+
+14.1
+
+The Pensions (Northern Ireland) Order 2005  as it applies in relation to
+hybrid schemes is modified in accordance with paragraphs (2) to (4).
+
+14.2
+
+Article 34 (contribution notices where avoidance of employer debt) is to be
+read as if after paragraph (1) there were inserted—
+
+14.2.1A
+
+Where a pension scheme is divided into sections, each section that is a
+collective money purchase scheme for the purposes of Part 2 of the Pension
+Schemes Act 2021 (collective money purchase benefits: Northern Ireland) (see
+section 52(2)(b) of that Act) is to be treated for the purposes of this
+Article and Articles 34A to 38B  as a separate occupational pension scheme
+which is a money purchase scheme.
+
+.
+
+14.3
+
+Each Article of the Pensions (Northern Ireland) Order 2005 referred to in
+paragraph (4) is to be read as if after paragraph (1) of each of those
+Articles there were inserted—
+
+14.3.1A
+
+Where a pension scheme is divided into sections, each section that is a
+collective money purchase scheme for the purposes of Part 2 of the Pension
+Schemes Act 2021 (collective money purchase benefits: Northern Ireland) (see
+section 52(2)(b) of that Act) is to be treated for the purposes of this
+Article as a separate occupational pension scheme which is a money purchase
+scheme.
+
+.
+
+14.4
+
+The Articles are—
+
+14.4.a
+
+Article 39 (financial support directions);
+
+14.4.b
+
+Article 48 (restoration orders where transactions at an undervalue);
+
+14.4.c
+
+Article 54A  (offence of avoidance of employer debt);
+
+14.4.d
+
+Article 54B (offence of conduct risking accrued scheme benefits);
+
+14.4.e
+
+Article 54C  (financial penalty for avoidance of employer debt);
+
+14.4.f
+
+Article 54D (financial penalty for conduct risking accrued scheme benefits).
+
+    Sealed with the Official Seal of the Department for Communities on 1st
+July 2022     (L.S.)   Anne McCleary   A senior officer of the Department for
+Communities
+
+  Schedule to be inserted after Schedule 6 to the Occupational and Personal
+Pension Schemes (Disclosure of Information) Regulations (Northern Ireland)
+2014
+
+Regulation 13(16)
+
+  Statements of benefits: collective money purchase benefits
+
+Regulation 17A(2)
+
+######## Information for active, deferred and pension credit members
+
+1
+
+The date on which the member’s pensionable service started.
+
+2
+
+The member’s retirement date and age used for the purposes of the information
+given under this Schedule.
+
+3
+
+The illustration date.
+
+4
+
+An explanation of how the member may obtain further details about the
+information given under this Schedule.
+
+5
+
+The amount that represents the member’s share of the available assets of the
+scheme at the illustration date.
+
+6
+
+The amount that represented the member’s share of the available assets of the
+scheme at the previous year’s illustration date, where applicable.
+
+7
+
+Details of any deduction from the member’s benefits.
+
+8
+
+Where applicable, a statement that, if the member exercises rights or options
+to access benefits under the scheme before the member’s retirement date, the
+amount of the member’s benefits is likely to be lower.
+
+9
+
+A statement that there may be increases and decreases in the amount that
+represents the value of the member’s share of the available assets of the
+scheme from time to time until the member’s retirement date.
+
+10
+
+A statement that illustrations of the amount of pension that may be payable to
+the member on the member’s retirement date—
+
+10.a
+
+do not represent any promise or guarantee as to the amount of benefits that
+may be receivable by the member under the scheme, and
+
+10.b
+
+are calculated using projections based on actuarial assumptions as to
+uncertain future events, and that the actual amount could be higher or lower.
+
+11
+
+A statement that—
+
+11.a
+
+any future increases or decreases in the rate or amount of benefits provided
+under the scheme will depend on the available assets of the scheme;
+
+11.b
+
+assumptions have been made about the nature of the scheme’s investments and
+their likely performance, and
+
+11.c
+
+those assumptions may not correspond with the investments actually made or
+their actual performance.
+
+12
+
+A statement that the amounts in any illustrations of amount of pension given
+are expressed in today’s prices.
+
+13
+
+Either—
+
+13.a
+
+an explanation of the meaning and basis of “today’s prices”, or
+
+13.b
+
+a statement that such an explanation is—
+
+13.b.i
+
+provided in a specified annex, or
+
+13.b.ii
+
+available on a website, in which case the statement must include the
+information listed in regulation 27(2).
+
+14
+
+Where any illustrations of amount of pension are expressed as a range, an
+explanation of the extent of variability which the range represents.
+
+15
+
+In relation to the information that must be published on a website in
+accordance with regulation 29A(2) and (2A) (publishing charges and transaction
+costs and other relevant information)—
+
+15.a
+
+the information specified in sub-paragraphs (a) to (d) of regulation 27(2),
+and
+
+15.b
+
+a statement explaining the circumstances in which the information will be
+provided on request in hard copy form.
+
+16
+
+Where the trustees are required to publish a report on a website in accordance
+with regulation 5 of the Occupational Pension Schemes (Climate Change
+Governance and Reporting) Regulations (Northern Ireland) 2021  (climate change
+reporting and publication requirements), in relation to the most recent report
+published—
+
+16.a
+
+the information specified in sub-paragraphs (a) to (d) of regulation 27(2) of
+these Regulations, and
+
+16.b
+
+a statement explaining the circumstances in which the report will be provided
+on request in hard copy form.
+
+17
+
+Either—
+
+17.a
+
+a summary of the methods and assumptions used to calculate—
+
+17.a.i
+
+the member’s share of the available assets of the scheme, and
+
+17.a.ii
+
+the member’s future benefit illustrations, or
+
+17.b
+
+a statement that such a summary is—
+
+17.b.i
+
+provided in a specified annex, or
+
+17.b.ii
+
+available on a website, in which case the statement must include the
+information listed in regulation 27(2).
+
+######## Information for active and deferred members
+
+18
+
+Where the member has reached normal minimum pension age on the illustration
+date, a statement explaining that the member may request the following
+information—
+
+18.a
+
+the flexible benefits that may be provided to the member;
+
+18.b
+
+the member’s opportunity to transfer flexible benefits, and
+
+18.c
+
+the options available to the member under the scheme rules.
+
+######## Information for deferred and pension credit members
+
+19
+
+An illustration, having regard to the latest actuarial modelling under the
+scheme, of the amount of any survivor’s benefits, as if these were payable on
+the illustration date.
+
+20
+
+An illustration of the amount of pension, having regard to the latest
+actuarial modelling under the scheme, that may be payable to the member on
+their retirement date.
+
+21
+
+Either—
+
+21.a
+
+a summary of the method used for calculating any survivor’s benefits, or
+
+21.b
+
+a statement that such a summary is—
+
+21.b.i
+
+provided in a specified annex, or
+
+21.b.ii
+
+available on a website, including the information listed in regulation 27(2).
+
+######## Information for active members
+
+22
+
+The difference between the amount that represents the member’s share of the
+available assets of the scheme at the illustration date and the amount that
+represented the member’s share of the available assets of the scheme at the
+previous year’s illustration date.
+
+23
+
+The amount, at the illustration date, of any benefits payable on the death of
+the member.
+
+24
+
+An illustration of the amount of pension, which may be payable to the member
+at their retirement date if pensionable service were to end on the
+illustration date, having regard to the latest actuarial modelling under the
+scheme.
+
+25
+
+An illustration of the amount of pension, which may be payable to the member
+at their retirement date if contributions continue, having regard to the
+latest actuarial modelling under the scheme.
+
+26
+
+A statement that it is assumed the active member will continue to contribute,
+or a contribution will be made on the member’s behalf, to the scheme until
+their retirement date.
+
+27
+
+A statement as to any assumed salary increases taken into account in
+calculating the illustration provided in accordance with paragraph 25.
+
+28
+
+Either—
+
+28.a
+
+a summary of the method used for calculating the member’s death in service
+benefits, or
+
+28.b
+
+a statement that such a summary is—
+
+28.b.i
+
+provided in a specified annex, or
+
+28.b.ii
+
+available on a website, including the information listed in regulation 27(2).
+
+######## Information for deferred members
+
+29
+
+The date on which the member became a deferred member.
+
+30
+
+A statement that no further contributions are expected to be made to the
+scheme by, or in respect of, the member after the illustration date.
+
+  Schedule to be inserted after Schedule 9A to the Occupational and Personal
+Pension Schemes (Disclosure of Information) Regulations (Northern Ireland)
+2014
+
+Regulation 13(19)
+
+  Statements to be published by collective money purchase schemes
+
+Regulation 29B(2) and (3)
+
+######## Scheme design statement
+
+1
+
+A summary of—
+
+1.a
+
+the rate or amount specified in the rules of the scheme by reference to which
+collective money purchase benefits accrue each year under the scheme;
+
+1.b
+
+the rate or amount of contributions paid by the employer;
+
+1.c
+
+the rate or amount of contributions paid by the member;
+
+1.d
+
+the normal pension age as specified in the rules of the scheme.
+
+2
+
+A statement that—
+
+2.a
+
+there is no promise or guarantee as to the rate or amount of benefits provided
+under the scheme, and
+
+2.b
+
+the rate or amount of benefits may fluctuate, which may result in—
+
+2.b.i
+
+reduced benefits before benefit becomes payable;
+
+2.b.ii
+
+reduced benefits after benefit becomes payable.
+
+3
+
+A summary of the rules governing how the rate or amount of benefits provided
+under the scheme is to be adjusted from time to time, including—
+
+3.a
+
+that annual benefit calculations and any adjustments of the rate or amount of
+benefits are applied to all the members of the scheme without variation, and
+
+3.b
+
+where relevant, an explanation of how any multi-annual reduction permitted
+under the scheme rules operates and the effect it may have on the rate or
+amount of benefits provided under the scheme.
+
+4
+
+An explanation of how the trustees of the scheme will monitor risks to the
+scheme including potential negative impacts on the rate or amount of benefits
+provided under the scheme.
+
+5
+
+A summary of the procedure that would be followed in the event of the winding
+up of the scheme.
+
+######## Valuation and benefit adjustment statement
+
+6
+
+The name of the scheme to which the statement relates.
+
+7
+
+A summary of the results of the latest actuarial valuation of the scheme,
+based on the latest actuarial valuation report, including any resulting
+benefit adjustment.
+
+8
+
+An explanation of the methods and assumptions used in the latest actuarial
+valuation.
+
+9
+
+The effective date of the latest actuarial valuation to which the explanation
+in paragraph 8 relates.
+
+10
+
+A description of the model used to calculate benefit illustrations for the
+purpose of annual benefit statements.
+
+11
+
+In the case of the first valuation statement for the scheme, an explanation of
+any changes to the methods and assumptions used in the application for
+authorisation.
+
+12
+
+In the case of all subsequent statements, an explanation of any changes to the
+actuarial valuation or to the methods and assumptions used in the last
+statement.
+
+13
+
+The name and postal or email address of a person to whom enquiries relating to
+the information under this Part should be sent.
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulation make consequential and miscellaneous amendments in relation
+to schemes and sections of schemes providing collective money purchase
+benefits (“collective money purchase schemes”).
+
+Regulation 2 makes amendments to the Occupational Pension Schemes
+(Preservation of Benefit) Regulations (Northern Ireland) 1991 so that bulk
+transfers without consent from a defined benefits scheme to a collective money
+purchase scheme will not be permitted and to allow bulk transfers where a
+collective money purchase scheme is being wound up.
+
+Regulation 3 makes amendments to the Occupational Pension Schemes (Transfer
+Values) Regulations (Northern Ireland) 1996 to provide for a method of
+calculating cash equivalent transfer value for collective money purchase
+schemes.
+
+Regulation 4 makes amendments to the Occupational Pension Schemes (Winding Up)
+Regulations (Northern Ireland) 1996 so that provisions stemming from Article
+73 of the Pensions (Northern Ireland) Order 1995 (“ the 1995 Order ”) do not
+apply to scheme sections providing collective money purchase benefits.
+
+Regulation 5 makes amendments to the Occupational Pension Schemes (Assignment,
+Forfeiture, Bankruptcy etc.) Regulations (Northern Ireland) 1997 to allow the
+periodic payments paid during the winding up of a collective money purchase
+scheme to be offset against the value of the member’s accrued rights.
+
+Regulation 6 makes amendments to the Stakeholder Pension Schemes Regulations
+(Northern Ireland) 2000 to provide that a collective money purchase scheme
+cannot be a stakeholder pension scheme.
+
+Regulation 7 makes amendments to the Occupational Pension Schemes (Employer
+Debt) Regulations (Northern Ireland) 2005 so that employer debt provisions
+stemming from Article 75 of the 1995 1995 do not apply to collective money
+purchase schemes.
+
+Regulation 8 makes amendments to the Occupational Pension Schemes (Winding up,
+etc.) Regulations (Northern Ireland) 2005 so that provisions stemming from
+Article 73 of the 1995 Order do not apply to scheme sections providing
+collective money purchase benefits.
+
+Regulation 9 makes amendments to the Occupational Pension Schemes (Scheme
+Funding) Regulations (Northern Ireland) 2005 so that scheme funding
+requirements do not apply to scheme sections that provide collective money
+purchase benefits.
+
+Regulation 10 makes amendments to the Occupational Pension Schemes
+(Investment) Regulations (Northern Ireland) 2005 to reflect that collective
+money purchase schemes will not have a default arrangement.
+
+Regulation 11 makes amendments to the Occupational and Personal Pension
+Schemes (Consultation by Employers) Regulations (Northern Ireland) 2006 so
+that there will be no requirement to consult in respect of collective money
+purchase benefit adjustments made in accordance with the latest actuarial
+valuation and the scheme rules.
+
+Regulation 12 makes amendments to the Occupational Pension Schemes
+(Modification of Schemes) Regulations (Northern Ireland) 2006 so that the 1995
+Order subsisting rights provisions do not apply to collective money purchase
+schemes in respect of adjustments to benefits nor in respect of
+decollectivisation on winding up.
+
+Regulation 13 makes amendments to the Occupational and Personal Pension
+Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 to
+provide for a disclosure and publication regime for collective money purchase
+schemes.
+
+As these Regulations, in so far as they are made under the 1995 Order and the
+Pensions (Northern Ireland) Order 2005, make in relation to Northern Ireland
+only provision corresponding to provision contained in regulations made by the
+Secretary of State for Work and Pensions in relation to Great Britain, the
+requirement for consultation does not apply by virtue of Article 117(2)(e) of
+the 1995 Order and Article 289(2)(e) of the Pensions (Northern Ireland) Order
+2005.
+
+An assessment of the cost to business of these Regulations is detailed in a
+Regulatory Impact Assessment, a copy of which has been laid in the Business
+Office and the Library of the Northern Ireland Assembly. Copies of the
+Assessment are available from the Department for Communities, Social Security
+Policy, Legislation and Decision Making Services, Level 6, Causeway Exchange,
+1-7 Bedford Street, Belfast BT2 7EG or from the website:
+https://www.communities-ni.gov.uk/articles/pension-information . A copy of the
+Assessment is also annexed to the Explanatory Memorandum which is available
+alongside this Statutory Rule on the website:
+http://www.legislation.gov.uk/nisr .
+

@@ -1,0 +1,6001 @@
+Title: Subsidy Control Act 2022
+Date: 2024-05-20
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ukpga/2022/23
+
+## Subsidy Control Act 2022
+
+      B e it enacted  by the Queen’s most Excellent Majesty, by and with the
+advice and consent of the Lords Spiritual and Temporal, and Commons, in this
+present Parliament assembled, and by the authority of the same, as follows:—
+
+### Overview and key interpretation
+
+#### Overview etc
+
+##### Overview and application of Act
+
+1
+
+1.1
+
+This Part defines “subsidy” and other key terms used in this Act.
+
+1.2
+
+Part 2 imposes requirements that apply to the giving of subsidies or the
+making of subsidy schemes (referred to in this Act as “ the subsidy control
+requirements ”)—
+
+1.2.a
+
+Chapter 1 imposes duties to apply the subsidy control principles and energy
+and environment principles;
+
+1.2.b
+
+Chapter 2 imposes prohibitions and other requirements;
+
+1.2.c
+
+Chapter 3 provides for transparency requirements.
+
+1.3
+
+Part 3 contains exemptions from the subsidy control requirements—
+
+1.3.a
+
+Chapter 2 contains exemptions relating to small amounts of assistance;
+
+1.3.b
+
+Chapter 3 contains exemptions for natural disasters and other exceptional
+circumstances and emergencies;
+
+1.3.c
+
+Chapter 4 contains other miscellaneous exemptions.
+
+1.4
+
+Part 4 provides for the functions of the CMA in relation to the application of
+the subsidy control requirements.
+
+1.5
+
+Part 5 contains provisions relating to the enforcement of the subsidy control
+requirements.
+
+1.6
+
+Part 6 contains miscellaneous and final provisions.
+
+1.7
+
+The exercise of any power conferred by legislation (whenever passed or made)
+is to be read as subject to the subsidy control requirements (except so far as
+a contrary intention appears in the case of an Act of Parliament).
+
+1.8
+
+In subsection (7) “ legislation ” means primary legislation or subordinate
+legislation.
+
+#### “Subsidy”
+
+##### “Subsidy”
+
+2
+
+2.1
+
+In this Act, “ subsidy ” means financial assistance which—
+
+2.1.a
+
+is given, directly or indirectly, from public resources by a public authority,
+
+2.1.b
+
+confers an economic advantage on one or more enterprises,
+
+2.1.c
+
+is specific, that is, is such that it benefits one or more enterprises over
+one or more other enterprises with respect to the production of goods or the
+provision of services, and
+
+2.1.d
+
+has, or is capable of having, an effect on—
+
+2.1.d.i
+
+competition or investment within the United Kingdom,
+
+2.1.d.ii
+
+trade between the United Kingdom and a country or territory outside the United
+Kingdom, or
+
+2.1.d.iii
+
+investment as between the United Kingdom and a country or territory outside
+the United Kingdom.
+
+2.2
+
+For the purposes of this Act, the means by which financial assistance may be
+given include—
+
+2.2.a
+
+a direct transfer of funds (such as grants or loans);
+
+2.2.b
+
+a contingent transfer of funds (such as guarantees);
+
+2.2.c
+
+the forgoing of revenue that is otherwise due;
+
+2.2.d
+
+the provision of goods or services;
+
+2.2.e
+
+the purchase of goods or services.
+
+2.3
+
+Financial assistance given from the person’s resources by a person who is not
+a public authority is to be treated for the purposes of subsection  (1) (a)
+as financial assistance given from public resources by a public authority if
+the involvement of a public authority in the decision to give financial
+assistance is such that the decision is, in substance, the decision of the
+public authority.
+
+2.4
+
+For the purposes of subsection  (3) , the factors which may be taken into
+account when considering the involvement of a public authority in the decision
+of a person to give financial assistance include, in particular, factors
+relating to—
+
+2.4.a
+
+the control exercised over that person by that public authority, or
+
+2.4.b
+
+the relationship between that person and that public authority.
+
+2.5
+
+For the purposes of this Act, financial assistance is to be treated as given
+to an enterprise if the enterprise has an enforceable right to the financial
+assistance.
+
+2.6
+
+For further provision relevant to the interpretation of this section, see—
+
+2.6.a
+
+section 3 (financial assistance which confers an economic advantage);
+
+2.6.b
+
+section 4 (financial assistance which is specific);
+
+2.6.c
+
+section 5 (modification for air carriers);
+
+2.6.d
+
+section 6 (meaning of “ public authority ”);
+
+2.6.e
+
+sections 7 and 8 (meaning of “ enterprise ”).
+
+##### Financial assistance which confers an economic advantage
+
+3
+
+3.1
+
+This section makes provision about determining whether financial assistance
+confers an economic advantage on an enterprise for the purposes of section 2
+(1) (b) .
+
+3.2
+
+Financial assistance is not to be treated as conferring an economic advantage
+on an enterprise unless the benefit to the enterprise is provided on terms
+that are more favourable to the enterprise than the terms that might
+reasonably have been expected to have been available on the market to the
+enterprise.
+
+##### Financial assistance which is specific
+
+4
+
+4.1
+
+This section makes provision about determining whether financial assistance is
+specific for the purposes of section 2 (1) (c) .
+
+4.2
+
+Financial assistance is not to be regarded as being specific if the
+distinction in the treatment of enterprises is justified by principles
+inherent to the design of the arrangements of which that financial assistance
+is part.
+
+4.3
+
+For the purposes of subsection  (2)  as it applies to financial assistance
+given in the form of a tax measure, the following are examples of the
+principles that may be relevant in a particular case—
+
+4.3.a
+
+the need to fight fraud or tax evasion;
+
+4.3.b
+
+administrative manageability;
+
+4.3.c
+
+the avoidance of double taxation;
+
+4.3.d
+
+the principle of tax neutrality;
+
+4.3.e
+
+the progressive nature of income tax and its redistributive purpose;
+
+4.3.f
+
+the need to respect taxpayers’ ability to pay.
+
+4.4
+
+Financial assistance given by a public authority in the form of a tax measure
+is not to be regarded as being specific unless—
+
+4.4.a
+
+one or more enterprises obtain a reduction in the tax liability that it or
+they would otherwise have borne under the normal taxation regime, and
+
+4.4.b
+
+that enterprise or those enterprises are treated more advantageously than one
+or more other enterprises in a comparable position under the normal taxation
+regime.
+
+4.5
+
+For the purposes of subsection  (4) , the normal taxation regime is to be
+identified from—
+
+4.5.a
+
+the internal objective of the regime,
+
+4.5.b
+
+the features of the regime (such as the tax base, the taxable person, the
+taxable event or the tax rate), and
+
+4.5.c
+
+the fact that the public authority whose regime it is—
+
+4.5.c.i
+
+is autonomous institutionally, procedurally, economically and financially as
+regards the regime, and
+
+4.5.c.ii
+
+has the competence to design the features of the regime.
+
+4.6
+
+A special purpose levy is not to be regarded as being specific if—
+
+4.6.a
+
+its design is determined by non-economic public policy objectives (such as the
+need to limit the negative impacts of certain activities or products on the
+environment or human health), and
+
+4.6.b
+
+the public policy objectives are not discriminatory.
+
+4.7
+
+The forgoing of an amount of special purpose levy which is otherwise due is
+not be to regarded as being specific if the provision enabling the forgoing of
+that amount satisfies the conditions in subsection  (6) (a)  and  (b) .
+
+##### Section 2: modification for air carriers
+
+5
+
+5.1
+
+For the purposes of this Act as it applies in relation to enterprises which
+are air carriers providing air transport services, section 2 (1)  is to be
+read as if for paragraph  (d)  there were substituted—
+
+5.1.d
+
+has, or is capable of having, an effect on—
+
+5.1.d.i
+
+competition between air carriers in the provision of air transport services
+within the United Kingdom, or
+
+5.1.d.ii
+
+competition between air carriers of the United Kingdom and air carriers of a
+country or territory outside the United Kingdom in the provision of air
+transport services.
+
+5.2
+
+In this section, “ air transport services ” includes air transport services
+not covered under Title I (Air transport) of Heading Two (Aviation) of Part
+Two of the Trade and Cooperation Agreement.
+
+#### “Public authority”
+
+##### “Public authority”
+
+6
+
+6.1
+
+For the purposes of this Act, “ public authority ” means a person who
+exercises functions of a public nature, but does not include—
+
+6.1.a
+
+either House of Parliament,
+
+6.1.b
+
+the Scottish Parliament,
+
+6.1.c
+
+Senedd Cymru, or
+
+6.1.d
+
+the Northern Ireland Assembly.
+
+6.2
+
+Subsection  (1) (a)  is not to be taken as applying to—
+
+6.2.a
+
+the Corporate Officer of the House of Commons,
+
+6.2.b
+
+the Corporate Officer of the House of Lords,
+
+6.2.c
+
+the House of Commons Commission, or
+
+6.2.d
+
+any other person who acts on behalf of either or both of the Houses of
+Parliament.
+
+6.3
+
+Subsection  (1) (b)  is not to be taken as applying to—
+
+6.3.a
+
+the Scottish Parliamentary Corporate Body, or
+
+6.3.b
+
+any other person who acts on behalf of the Scottish Parliament.
+
+6.4
+
+Subsection  (1) (c)  is not to be taken as applying to—
+
+6.4.a
+
+the Senedd Commission, or
+
+6.4.b
+
+any other person who acts on behalf of Senedd Cymru.
+
+6.5
+
+Subsection  (1) (d)  is not to be taken as applying to—
+
+6.5.a
+
+the Northern Ireland Assembly Commission, or
+
+6.5.b
+
+any other person who acts on behalf of the Northern Ireland Assembly.
+
+#### “Enterprise”
+
+##### “Enterprise”
+
+7
+
+7.1
+
+In this Act, “ enterprise ” means (subject to subsections  (2)  and  (3) )—
+
+7.1.a
+
+a person who is engaged in an economic activity that entails offering goods or
+services on a market, to the extent that the person is engaged in such an
+activity, or
+
+7.1.b
+
+a group of persons under common ownership or common control which is engaged
+in an economic activity that entails offering goods or services on a market,
+to the extent that the group is engaged in such an activity.
+
+7.2
+
+For the purposes of this section, an activity is not to be regarded as an
+economic activity if or to the extent that it is carried out for a purpose
+that is not economic.
+
+7.3
+
+For the purposes of this section, a person or group of persons is not to be
+regarded as an enterprise by virtue only of being a shareholder or
+shareholders in a body corporate which is to any extent an enterprise.
+
+7.4
+
+In this section, “ person ” includes a body corporate, a partnership and an
+unincorporated association.
+
+7.5
+
+For further provision relevant to the interpretation of this section, see
+section 8 (persons under common control).
+
+##### Persons under common control
+
+8
+
+8.1
+
+For the purposes of section 7, a group of persons is to be treated as being
+under common control if the group—
+
+8.1.a
+
+is a group of interconnected bodies corporate,
+
+8.1.b
+
+consists of bodies corporate of which one and the same person or group of
+persons has control, or
+
+8.1.c
+
+consists of one or more bodies corporate and a person who, or a group of
+persons which, has control of that or those bodies corporate.
+
+8.2
+
+A person or group of persons able, directly or indirectly, to control or
+materially to influence the policy of a body corporate as regards carrying on
+an economic activity that entails offering goods or services on a market is to
+be treated as having control of that body corporate for the purposes of
+subsection  (1) (b)  and  (c) , even if the person or group of persons does
+not have a controlling interest in that body.
+
+8.3
+
+For the purposes of this section, “ group of interconnected bodies corporate ”
+means a group consisting of two or more bodies corporate all of which are
+interconnected with each other.
+
+8.4
+
+For the purposes of this section, any two bodies corporate are interconnected
+if—
+
+8.4.a
+
+one of them is a body corporate of which the other is a subsidiary, or
+
+8.4.b
+
+both of them are subsidiaries of one and the same body corporate;
+
+and “ interconnected bodies corporate ” is to be construed accordingly.
+
+8.5
+
+In this section—
+
+      “ person ” includes a body corporate, a partnership and an
+unincorporated association;           “ subsidiary ” has the meaning given by
+section 1159 of the Companies Act 2006.
+
+#### Other key terms
+
+##### The subsidy control principles and the energy and environment principles
+
+9
+
+9.1
+
+Schedule 1 sets out the subsidy control principles.
+
+9.2
+
+Schedule 2 sets out further principles for subsidies in relation to energy and
+environment.
+
+##### Subsidy schemes and streamlined subsidy schemes
+
+10
+
+10.1
+
+In this Act, “ subsidy scheme ” means a scheme made by a public authority
+providing for the giving of subsidies under the scheme.
+
+10.2
+
+A subsidy scheme may be made—
+
+10.2.a
+
+by a public authority that is not a primary public authority only for the
+giving of subsidies by that public authority;
+
+10.2.b
+
+by a public authority that is a primary public authority for the giving of
+subsidies by other public authorities (in addition to the primary public
+authority so far as the scheme may provide).
+
+10.3
+
+In subsection (2), “ primary public authority ” means a public authority of
+any of the following descriptions—
+
+10.3.a
+
+a Minister of the Crown;
+
+10.3.b
+
+the Scottish Ministers;
+
+10.3.c
+
+the Welsh Ministers;
+
+10.3.d
+
+a Northern Ireland department;
+
+10.3.e
+
+any other public authority which, in the exercise of its functions, makes a
+scheme for the giving of subsidies by other public authorities.
+
+10.4
+
+In this Act, “ streamlined subsidy scheme ” means a subsidy scheme which—
+
+10.4.a
+
+is made by a Minister of the Crown, and
+
+10.4.b
+
+specifies it is made for the purposes of this Act as a streamlined subsidy
+scheme.
+
+10.5
+
+A streamlined subsidy scheme must be laid before Parliament after it is made.
+
+10.6
+
+If a streamlined subsidy scheme is modified after it is laid, the scheme as
+modified must also be laid before Parliament.
+
+10.7
+
+If, within the 40-day period, either House of Parliament resolves not to
+approve the scheme, or the scheme as modified, then, with effect from the end
+of the day on which the resolution is passed, the scheme, or the scheme as
+modified, is to be treated as not having been made.
+
+10.8
+
+Nothing in subsection  (7) —
+
+10.8.a
+
+affects any subsidies given under the scheme before the end of the day on
+which the resolution is passed, or
+
+10.8.b
+
+prevents a further scheme being laid before Parliament.
+
+10.9
+
+In this section, “ the 40-day period ” means—
+
+10.9.a
+
+if the scheme is laid before both Houses of Parliament on the same day, the
+period of 40 days beginning with that day, or
+
+10.9.b
+
+if the scheme is laid before the Houses of Parliament on different days, the
+period of 40 days beginning with the later of those days.
+
+10.10
+
+In calculating the 40-day period, no account is to be taken of any period
+during which Parliament is dissolved or prorogued or during which both Houses
+of Parliament are adjourned for more than 4 days.
+
+10.11
+
+A subsidy scheme or streamlined subsidy scheme may provide for the value of a
+subsidy to be determined by reference to its gross cash amount or the gross
+cash equivalent.
+
+##### Subsidies and schemes of interest or particular interest
+
+11
+
+11.1
+
+In this Act—
+
+11.1.a
+
+“subsidy, or subsidy scheme, of interest”, and
+
+11.1.b
+
+“subsidy, or subsidy scheme, of particular interest”,
+
+have the meanings given in regulations made by the Secretary of State.
+
+11.2
+
+Regulations under this section defining “subsidy, or subsidy scheme, of
+interest” or “subsidy, or subsidy scheme, of particular interest” may make
+provision by reference (among other things) to—
+
+11.2.a
+
+the value of the subsidy or the value of the subsidies given under the subsidy
+scheme, and
+
+11.2.b
+
+the sector in which the expected beneficiaries of the subsidy or subsidy
+scheme operate, and any characteristics of that sector.
+
+11.3
+
+Provision under subsection  (2)(a)  may provide for the value of a subsidy to
+be determined by reference to its gross cash amount or the gross cash
+equivalent.
+
+11.4
+
+Regulations under this section are subject to the affirmative procedure.
+
+### Subsidy control requirements
+
+#### Principles
+
+##### Application of the subsidy control principles
+
+12
+
+12.1
+
+A public authority—
+
+12.1.a
+
+must consider the subsidy control principles before deciding to give a
+subsidy, and
+
+12.1.b
+
+must not give the subsidy unless it is of the view that the subsidy is
+consistent with those principles.
+
+12.2
+
+In subsection (1) “ subsidy ” does not include a subsidy given under a subsidy
+scheme.
+
+12.3
+
+A public authority—
+
+12.3.a
+
+must consider the subsidy control principles before making a subsidy scheme,
+and
+
+12.3.b
+
+must not make the scheme unless it is of the view that the subsidies provided
+for by the scheme will be consistent with those principles.
+
+##### Application of the energy and environment principles
+
+13
+
+13.1
+
+A public authority—
+
+13.1.a
+
+must consider the energy and environment principles before deciding to give a
+subsidy in relation to energy and environment, and
+
+13.1.b
+
+must not give the subsidy unless it is of the view that the subsidy is
+consistent with those principles.
+
+13.2
+
+In subsection (1) “ subsidy ” does not include a subsidy given under a subsidy
+scheme.
+
+13.3
+
+A public authority—
+
+13.3.a
+
+must consider the energy and environment principles before making a subsidy
+scheme that provides for the giving of subsidies in relation to energy and
+environment, and
+
+13.3.b
+
+must not make the scheme unless it is of the view that the subsidies provided
+for by the scheme will be consistent with those principles.
+
+13.4
+
+A duty under this section applies in addition to the corresponding duty under
+section 12.
+
+#### Prohibitions and other requirements
+
+##### Introductory
+
+###### Introductory
+
+14
+
+This Chapter—
+
+14.a
+
+prohibits the giving of certain subsidies, and
+
+14.b
+
+imposes other requirements in relation to the giving of certain other
+subsidies.
+
+##### General prohibitions
+
+###### Unlimited guarantees
+
+15
+
+A subsidy in the form of a guarantee of the debts or liabilities of an
+enterprise is prohibited by this section if—
+
+15.a
+
+there is no limit as to the amount of the debts or liabilities that are
+guaranteed, or
+
+15.b
+
+there is no limit as to the duration of the guarantee.
+
+###### Export performance
+
+16
+
+16.1
+
+A subsidy that is contingent in law or in fact, whether solely or as one of
+several other conditions, upon export performance relating to goods or
+services is prohibited by this section.
+
+16.2
+
+But this section does not prohibit a subsidy in the form of—
+
+16.2.a
+
+short-term export credit insurance against risks that are not marketable
+risks, or
+
+16.2.b
+
+an export credit, export credit guarantee or insurance programme that is
+permissible in accordance with the SCM Agreement.
+
+16.3
+
+In this section—
+
+      “ export credit insurance ” means insurance against commercial or
+political risks relating to the payment obligations of public or non-public
+customers in export transactions;           “ marketable risks ” means risks
+relating to the payment obligations of public or non-public customers in
+marketable risk countries;           “ marketable risk country ” means
+(subject to subsection (4))—         the United Kingdom,           a member
+State of the European Union,           Australia,           Canada,
+Iceland,           Japan,           New Zealand,           Norway,
+Switzerland, and           the United States of America;                 “
+short-term export credit insurance ” means export credit insurance with a risk
+period of less than two years;           “ the SCM Agreement ” means the
+Agreement on Subsidies and Countervailing Measures, contained in Annex 1A to
+the Marrakesh Agreement Establishing the World Trade Organization, done at
+Marrakesh on 15 April 1994 (read with any adjustments necessary for context).
+
+16.4
+
+A marketable risk country is to be treated for the purposes of this section as
+not being a marketable risk country if regulations made by the Secretary of
+State provide for the marketable risk country to be so treated.
+
+16.5
+
+The Secretary of State may make regulations under subsection (4) in respect of
+a marketable risk country only if satisfied that there is a lack of sufficient
+private market capacity because of—
+
+16.5.a
+
+a significant contraction of private credit insurance capacity,
+
+16.5.b
+
+a significant deterioration of sovereign sector rating, or
+
+16.5.c
+
+a significant deterioration of corporate sector performance.
+
+16.6
+
+The Secretary of State must by further regulations under subsection (4) revoke
+regulations under that subsection in respect of a marketable risk country if
+the Secretary of State ceases to be satisfied as mentioned in subsection (5).
+
+16.7
+
+Regulations under subsection (4) are subject to the negative procedure.
+
+16.8
+
+For the purposes of this section, a subsidy is contingent in fact upon export
+performance if the giving of the subsidy (without having been made legally
+contingent upon export performance) is in fact tied to actual or anticipated
+exportation or export earnings.
+
+16.9
+
+For the avoidance of doubt, a subsidy is not prohibited by this section by
+reason only of the fact that it is given to an enterprise that is engaged in
+an economic activity that entails exporting goods or services.
+
+###### Use of domestic goods or services
+
+17
+
+17.1
+
+A subsidy that is contingent, whether solely or as one of several other
+conditions, upon the use of domestic over imported goods or services is
+prohibited by this section.
+
+17.2
+
+The prohibition in subsection (1) does not apply so far as relating to
+subsidies given in relation to the audiovisual sector.
+
+17.3
+
+This section is without prejudice to—
+
+17.3.a
+
+Article 132 of the Trade and Cooperation Agreement (investment liberalisation:
+performance requirements), or
+
+17.3.b
+
+Article 133 of that Agreement (investment liberalisation: non-conforming
+measures and exceptions).
+
+###### Relocation of activities
+
+18
+
+18.1
+
+A subsidy is prohibited by this section if—
+
+18.1.a
+
+it is given to an enterprise subject to a condition that the enterprise
+relocates all or part of its existing economic activities, and
+
+18.1.b
+
+the relocation of those activities would not occur but for the giving of the
+subsidy.
+
+18.2
+
+For the purpose of subsection  (1) , an enterprise relocates existing
+activities if—
+
+18.2.a
+
+it is carrying on activities in an area of the United Kingdom before the
+subsidy is given, and
+
+18.2.b
+
+it ceases to carry on those activities in that area after the subsidy is given
+and instead carries them on in another area of the United Kingdom.
+
+18.3
+
+The reference in subsection  (1)  to economic activities is a reference to any
+economic activity that entails offering goods or services on a market.
+
+18.4
+
+The prohibition in subsection  (1)  does not apply if the public authority
+giving the subsidy is satisfied that the conditions in subsections  (5)  to
+(7)  are met.
+
+18.5
+
+The condition in this subsection is that the effect of the subsidy is to
+reduce the social or economic disadvantages of the area that would benefit
+from the giving of the subsidy.
+
+18.6
+
+The condition in this subsection is that the giving of the subsidy results in
+an overall reduction in the social or economic disadvantages within the United
+Kingdom generally.
+
+18.7
+
+The condition in this subsection is that the subsidy is designed to bring
+about a change in the size, scope or nature of the existing economic
+activities referred to in subsection  (1)(a) .
+
+##### Ailing or insolvent enterprises
+
+###### Rescuing
+
+19
+
+19.1
+
+A subsidy for rescuing an ailing or insolvent enterprise is prohibited by this
+section unless the conditions in subsections (2) to (4) are met.
+
+19.2
+
+The condition in this subsection is that the subsidy is given during the
+preparation by the enterprise of a restructuring plan for the purposes of
+section 20(2).
+
+19.3
+
+The condition in this subsection is that the subsidy consists of temporary
+liquidity support in the form of a loan or loan guarantee.
+
+19.4
+
+The condition in this subsection is that the public authority giving the
+subsidy is satisfied that—
+
+19.4.a
+
+the subsidy contributes to an objective of public interest by avoiding social
+hardship or preventing a severe market failure, in particular with regard to
+job losses or disruption of an important service that is difficult to
+replicate, or
+
+19.4.b
+
+there are exceptional circumstances that justify the subsidy being given
+despite its not contributing as mentioned in paragraph (a).
+
+19.5
+
+This section does not apply to a subsidy for rescuing an ailing or insolvent
+enterprise that is a deposit taker or insurance company.
+
+###### Restructuring
+
+20
+
+20.1
+
+A subsidy for restructuring an ailing or insolvent enterprise is prohibited by
+this section unless the conditions in subsections (2) to (6) are met.
+
+20.2
+
+The condition in this subsection is that the enterprise has prepared a
+restructuring plan.
+
+20.3
+
+The condition in this subsection is that the public authority giving the
+subsidy is satisfied that the restructuring plan—
+
+20.3.a
+
+is credible,
+
+20.3.b
+
+is based on realistic assumptions, and
+
+20.3.c
+
+is prepared with a view to ensuring the return to long-term viability of the
+enterprise within a reasonable time period.
+
+20.4
+
+The condition in this subsection is that—
+
+20.4.a
+
+the enterprise is a small or medium-sized enterprise, or
+
+20.4.b
+
+the enterprise or its owners, creditors or new investors—
+
+20.4.b.i
+
+have contributed significant funds or assets to the cost of the restructuring,
+or
+
+20.4.b.ii
+
+have a contractual obligation to do so.
+
+20.5
+
+The condition in this subsection is that the public authority giving the
+subsidy is satisfied that—
+
+20.5.a
+
+the subsidy contributes to an objective of public interest by avoiding social
+hardship or preventing a severe market failure, in particular with regard to
+job losses or disruption of an important service that is difficult to
+replicate, or
+
+20.5.b
+
+there are exceptional circumstances that justify the subsidy being given
+despite its not contributing as mentioned in paragraph (a).
+
+20.6
+
+The condition in this subsection is that—
+
+20.6.a
+
+a subsidy has not previously been given for restructuring the enterprise, or
+
+20.6.b
+
+five years have passed since the last time a subsidy was given for
+restructuring the enterprise.
+
+20.7
+
+But a subsidy is not prohibited by reason only of the condition in subsection
+(6) not being met if the public authority giving the subsidy is satisfied that
+the circumstances that have given rise to the need for the subsidy were—
+
+20.7.a
+
+unforeseeable, and
+
+20.7.b
+
+not caused by the beneficiary of the subsidy.
+
+20.8
+
+This section does not apply to a subsidy for restructuring an ailing or
+insolvent enterprise that is a deposit taker or insurance company.
+
+###### Restructuring deposit takers or insurance companies
+
+21
+
+21.1
+
+A subsidy for restructuring an ailing or insolvent deposit taker or insurance
+company is prohibited by this section unless the conditions in subsections (2)
+to (4) are met.
+
+21.2
+
+The condition in this subsection is that—
+
+21.2.a
+
+the subsidy is given on the basis of a restructuring plan, and
+
+21.2.b
+
+the public authority giving the subsidy is satisfied that the restructuring
+plan—
+
+21.2.b.i
+
+is credible, and
+
+21.2.b.ii
+
+is likely to restore long-term viability.
+
+21.3
+
+The condition in this subsection is that the beneficiary of the subsidy, its
+shareholders, its creditors or the business group to which the beneficiary
+belongs—
+
+21.3.a
+
+have contributed significantly to the restructuring costs from their own
+resources, or
+
+21.3.b
+
+have a contractual obligation to do so.
+
+21.4
+
+The condition in this subsection is that the public authority giving the
+subsidy has been or reasonably expects to be properly remunerated for the
+subsidy.
+
+###### Liquidating deposit takers or insurance companies
+
+22
+
+22.1
+
+A subsidy to an ailing or insolvent deposit taker or insurance company within
+subsection (2) is prohibited by this section unless the conditions in
+subsections (3) to (5) are met.
+
+22.2
+
+A deposit taker or insurance company is within this subsection if it cannot be
+credibly demonstrated that it is capable of being returned to long-term
+viability.
+
+22.3
+
+The condition in this subsection is that the subsidy is given to the deposit
+taker or insurance company for the purpose of ensuring its orderly liquidation
+and exit from the market.
+
+22.4
+
+The condition in this subsection is that the public authority giving the
+subsidy is satisfied that—
+
+22.4.a
+
+the subsidy is limited to what is needed for the purpose mentioned in
+subsection (3), and
+
+22.4.b
+
+the subsidy is limited so as to minimise its negative effect on—
+
+22.4.b.i
+
+competition or investment within the United Kingdom,
+
+22.4.b.ii
+
+trade between the United Kingdom and countries and territories outside the
+United Kingdom, and
+
+22.4.b.iii
+
+investment as between the United Kingdom and countries and territories outside
+the United Kingdom.
+
+22.5
+
+The condition in this subsection is that the beneficiary of the subsidy, its
+shareholders, its creditors or the business group to which the beneficiary
+belongs—
+
+22.5.a
+
+have contributed significantly to the liquidation costs from their own
+resources, or
+
+22.5.b
+
+have a contractual obligation to do so.
+
+###### Liquidity provision for deposit takers or insurance companies
+
+23
+
+23.1
+
+A subsidy to support liquidity provision for an ailing or insolvent deposit
+taker or insurance company is prohibited by this section unless the conditions
+in subsections (2) to (4) are met.
+
+23.2
+
+The condition in this subsection is that the subsidy is temporary.
+
+23.3
+
+The condition in this subsection is that it is a condition of the giving of
+the subsidy that it is not used to absorb losses and does not become capital
+support.
+
+23.4
+
+The condition in this subsection is that the public authority giving the
+subsidy has been or reasonably expects to be properly remunerated for the
+subsidy.
+
+###### Meaning of “ailing or insolvent”
+
+24
+
+24.1
+
+For the purposes of sections 19 to 23, a deposit taker, insurance company or
+other enterprise is “ailing or insolvent” if—
+
+24.1.a
+
+it would almost certainly go out of business in the short to medium term
+without subsidies,
+
+24.1.b
+
+it is unable to pay its debts as they fall due, or
+
+24.1.c
+
+the value of its assets is less than the amount of its liabilities, taking
+into account its contingent and prospective liabilities.
+
+24.2
+
+The Secretary of State may by regulations make provision as to when a deposit
+taker, insurance company or other enterprise is, or is not, to be regarded as
+meeting the condition in paragraph  (a)  of subsection  (1) .
+
+24.3
+
+Regulations under subsection (2) are subject to the affirmative procedure.
+
+###### Meaning of “deposit taker”
+
+25
+
+25.1
+
+In sections 19 to 24, “ deposit taker ” means a person who has permission to
+carry on the regulated activity of accepting deposits under—
+
+25.1.a
+
+Part 4A of the Financial Services and Markets Act 2000 (permission to carry on
+regulated activities), or
+
+25.1.b
+
+paragraph 15 of Schedule 3 to that Act (EEA passport rights), as it has effect
+as a result of section 409 of that Act (Gibraltar).
+
+25.2
+
+But “ deposit taker ” does not include a person who has permission to carry on
+the regulated activity of accepting deposits only for the purposes of, or in
+the course of, carrying on another regulated activity.
+
+25.3
+
+In this section “ regulated activity ” has the meaning given by section 22 of
+the Financial Services and Markets Act 2000, taken with Schedule 2 to that Act
+and any order under that section.
+
+###### Meaning of “insurance company”
+
+26
+
+26.1
+
+In sections 19 to 24, “ insurance company ” means a body corporate that has
+permission to carry on the regulated activity of effecting or carrying out
+contracts of insurance under—
+
+26.1.a
+
+Part 4A of the Financial Services and Markets Act 2000 (permission to carry on
+regulated activities), or
+
+26.1.b
+
+paragraph 15 of Schedule 3 to that Act (EEA passport rights), as it has effect
+as a result of section 409 of that Act (Gibraltar).
+
+26.2
+
+But “ insurance company ” does not include—
+
+26.2.a
+
+a registered society within the meaning of the  Co-operative and Community
+Benefit Societies Act (Northern Ireland) 1969 (c. 24 (N.I.)) ,
+
+26.2.b
+
+a friendly society within the meaning of the Friendly Societies Act 1992,
+
+26.2.c
+
+a registered society within the meaning of the Co-operative and Community
+Benefit Societies Act 2014, or
+
+26.2.d
+
+a member of Lloyd’s that is not a company within the meaning of the Companies
+Acts (see sections 1(1) and 2(1) of the Companies Act 2006).
+
+26.3
+
+In this section “ regulated activity ” has the meaning given by section 22 of
+the Financial Services and Markets Act 2000, taken with Schedule 2 to that Act
+and any order under that section.
+
+##### Other specific prohibitions and requirements
+
+###### Subsidies for insurers that provide export credit insurance
+
+27
+
+27.1
+
+A subsidy to an insurer that provides export credit insurance is prohibited by
+this section unless the subsidy is given subject to a condition that—
+
+27.1.a
+
+any export credit insurance provided by the insurer against marketable risks
+is provided on a commercial basis, and
+
+27.1.b
+
+the subsidy is not used to directly or indirectly benefit so much of the
+insurer’s business as consists of providing export credit insurance against
+marketable risks.
+
+27.2
+
+In this section—
+
+      “ export credit insurance ” has the same meaning as in section 16;
+“ insurer ” means a person who has permission to carry on the regulated
+activity of effecting or carrying out contracts of insurance under—
+Part 4A of the Financial Services and Markets Act 2000 (permission to carry on
+regulated activities), or           paragraph 15 of Schedule 3 to that Act
+(EEA passport rights), as it has effect as a result of section 409 of that Act
+(Gibraltar);                 “ marketable risks ” has the same meaning as in
+section 16;           “ regulated activity ” has the meaning given by section
+22 of the Financial Services and Markets Act 2000, taken with Schedule 2 to
+that Act and any order under that section.
+
+###### Subsidies for air carriers for the operation of routes
+
+28
+
+28.1
+
+A subsidy to an air carrier for the operation of a route is prohibited by this
+section unless the condition in subsection (2), (3) or (4) is met.
+
+28.2
+
+The condition in this subsection is that operating the route is a public
+service obligation of the air carrier imposed under—
+
+28.2.a
+
+Regulation  (EC) No 1008/2008  of the European Parliament and of the Council
+of 24 September 2008 on common rules for the operation of air services in the
+United Kingdom, or
+
+28.2.b
+
+Regulation  (EC) No 1008/2008  of the European Parliament and of the Council
+of 24 September 2008 on common rules for the operation of air services in the
+Community (as it has effect in EU law).
+
+28.3
+
+The condition in this subsection is that the public authority giving the
+subsidy is satisfied that the subsidy will provide benefits for society at
+large.
+
+28.4
+
+The condition in this subsection is that—
+
+28.4.a
+
+the subsidy is a start-up subsidy for opening a new route to a regional
+airport, and
+
+28.4.b
+
+the public authority giving the subsidy is satisfied that the new route will
+increase the mobility of citizens and stimulate regional development.
+
+###### Services of public economic interest
+
+29
+
+29.1
+
+The requirements in subsections (2) and (3) apply in relation to the giving of
+a subsidy to a SPEI enterprise for the purpose of the provision of SPEI
+services.
+
+29.2
+
+The public authority giving the subsidy must be satisfied that the amount of
+the subsidy is limited to what is necessary to deliver the SPEI services,
+having regard to—
+
+29.2.a
+
+costs in delivering the SPEI services, and
+
+29.2.b
+
+reasonable profits to be made in doing so.
+
+29.3
+
+The subsidy must be given in a transparent manner.
+
+29.4
+
+For the purposes of subsection (3), a subsidy is given in a “transparent
+manner” only if—
+
+29.4.a
+
+the subsidy is given in accordance with a written contract or other legally
+enforceable arrangement in writing,
+
+29.4.b
+
+the terms on which the subsidy is given are set out in the contract or
+arrangement, and
+
+29.4.c
+
+the contract or arrangement includes the information in subsection (5).
+
+29.5
+
+The information is—
+
+29.5.a
+
+the SPEI services in respect of which the subsidy is given;
+
+29.5.b
+
+the SPEI enterprise that is tasked with providing the SPEI services;
+
+29.5.c
+
+the period for which the SPEI services are to be provided (“the delivery
+period”);
+
+29.5.d
+
+the geographic area in which the SPEI services are to be provided;
+
+29.5.e
+
+how the amount of subsidy given in respect of the SPEI services is determined;
+
+29.5.f
+
+arrangements for the purposes of subsection (6) in respect of reviews and
+steps that may be taken for recovery.
+
+29.6
+
+Where a subsidy is given to a SPEI enterprise, the public authority giving the
+subsidy—
+
+29.6.a
+
+must, during the delivery period, keep under regular review the use of the
+subsidy to ensure that the condition in subsection (2) continues to be met,
+and
+
+29.6.b
+
+must take steps, in accordance with its rights under the contract or
+arrangement mentioned in subsection (4), to recover a subsidy to the extent
+that the condition in subsection (2) ceases to be met.
+
+29.7
+
+For the purposes of the duty in subsection (6)(a), checks must be carried out
+as to the use of a subsidy—
+
+29.7.a
+
+at least once every 3 years beginning with the day when the delivery period
+begins, and
+
+29.7.b
+
+at the end of the delivery period.
+
+29.8
+
+The duties under section 12(1) apply to the giving of a subsidy in accordance
+with this section to a SPEI enterprise for the provision of SPEI services only
+so far as the carrying out of that duty does not obstruct the carrying out of
+those services.
+
+29.9
+
+In this Act—
+
+      “ SPEI enterprise ” means an enterprise that is assigned with particular
+tasks in the public interest (including public service obligations);
+“ SPEI services ” means services provided in the carrying out of those tasks.
+
+##### Subsidy schemes
+
+###### Effect of prohibitions etc in relation to subsidy schemes
+
+30
+
+30.1
+
+The preceding provisions of this Chapter relating to subsidies do not apply to
+a subsidy given under a subsidy scheme.
+
+30.2
+
+A subsidy scheme is prohibited by this section to the extent that it provides
+for the giving of a subsidy that would, but for subsection (1), be prohibited
+by, or in contravention of, a requirement imposed by any preceding provision
+of this Chapter.
+
+##### Subsidies or schemes subject to mandatory referral
+
+###### Subsidies or schemes subject to mandatory referral
+
+31
+
+31.1
+
+A subsidy, or subsidy scheme, in respect of which a public authority must
+request a report from the CMA under section 52(1), is prohibited if—
+
+31.1.a
+
+a mandatory referral request has not been submitted in relation to it,
+
+31.1.b
+
+a mandatory referral request has been submitted, but the CMA has given a
+notice under section 53(1)(b) that the request does not comply with the
+requirements under section 52,
+
+31.1.c
+
+a mandatory referral request has been submitted, the CMA report has not been
+published but the reporting period has not expired, or
+
+31.1.d
+
+a mandatory referral request has been submitted, the CMA report has been
+published but the cooling off period has not expired.
+
+31.2
+
+References in subsection (1) to publication of the CMA report are references
+to the report required under section 53 to be published by the CMA in response
+to a mandatory referral request.
+
+31.3
+
+In subsection (1)—
+
+      “ cooling off period ” has the meaning given by section 54(2);
+“ mandatory referral request ” means a request made under section 52;
+“ reporting period ” has the meaning given by section 53(3).
+
+#### Transparency
+
+##### Subsidy database
+
+32
+
+32.1
+
+The Secretary of State must make arrangements for the provision of a database
+of subsidies and subsidy schemes for the purposes of this Part (“the subsidy
+database”).
+
+32.2
+
+The Secretary of State must ensure that—
+
+32.2.a
+
+the subsidy database is accessible to the public free of charge,
+
+32.2.b
+
+public authorities are able to edit the subsidy database for the purpose of
+carrying out their duties under section 33, and
+
+32.2.c
+
+the subsidy database is kept under review in such manner and at such intervals
+as the Secretary of State considers appropriate.
+
+32.3
+
+The Secretary of State may direct the CMA to perform on behalf of the
+Secretary of State the duties under this section.
+
+##### Duty to include information in the subsidy database
+
+33
+
+33.1
+
+A public authority must ensure that an entry in the subsidy database is made
+in respect of—
+
+33.1.a
+
+a subsidy given by the authority (subject to subsection (2)), and
+
+33.1.b
+
+a subsidy scheme made by the authority.
+
+33.2
+
+Subsection  (1)(a)  does not apply to a subsidy if—
+
+33.2.a
+
+it is given under a subsidy scheme,
+
+33.2.b
+
+an entry is made in the subsidy database in respect of the scheme, and
+
+33.2.c
+
+the amount of the subsidy is no more than £100,000.
+
+33.3
+
+An entry in the subsidy database must be made in respect of a subsidy or
+scheme—
+
+33.3.a
+
+if given as a subsidy in the form of a tax measure, within one year beginning
+with the date of the tax declaration,
+
+33.3.b
+
+if made as a subsidy scheme in the form of a tax measure, within three months
+of the confirmation of the decision to make the scheme, or
+
+33.3.c
+
+if given or made in any other form, within three months of confirmation of the
+decision to give the subsidy or make the subsidy scheme.
+
+33.4
+
+A public authority must ensure that an entry it makes under this section is
+maintained on the subsidy database for six years beginning with the date on
+which the entry is made, or for the duration of the subsidy or scheme if
+longer.
+
+33.5
+
+Where a subsidy or subsidy scheme is modified, the public authority must
+ensure that the modification is entered in the subsidy database—
+
+33.5.a
+
+within one year of the date of the modification, in respect of a subsidy given
+in the form of a tax measure,
+
+33.5.b
+
+within three months of the date of the modification, in respect of a subsidy
+scheme made in the form of a tax measure, or
+
+33.5.c
+
+within three months of the date of the modification, in respect of a subsidy
+given, or subsidy scheme made, in any other form.
+
+33.6
+
+Subsection  (5)  does not apply to the modification of a subsidy if—
+
+33.6.a
+
+the subsidy is one to which subsection (2) applied, and
+
+33.6.b
+
+the amount of the subsidy as modified is no more than the applicable amount.
+
+33.7
+
+For the purpose of subsection  (6)(b)  “the applicable amount” is—
+
+33.7.a
+
+the amount specified in subsection (2)(c), or
+
+33.7.b
+
+if regulations under subsection  (9)(b)  provide for a different amount in
+relation to the subsidy, that amount.
+
+33.8
+
+For the purpose of subsection  (2)(c) —
+
+33.8.a
+
+if the subsidy is provided in cash, the gross cash amount given is to be used
+in determining the amount of the subsidy;
+
+33.8.b
+
+if the subsidy is provided otherwise than in cash, the amount of the subsidy
+given is to be determined by reference to the gross cash equivalent of the
+subsidy.
+
+33.9
+
+The Secretary of State may by regulations—
+
+33.9.a
+
+substitute a different amount for the amount specified in subsection  (2)(c) ;
+
+33.9.b
+
+provide for a different amount to apply, instead of an amount specified in
+subsection (2)(c), in the case of particular descriptions of subsidy.
+
+33.10
+
+An amount specified in regulations under subsection  (9)  may not exceed
+£500,000.
+
+33.11
+
+The Secretary of State may by regulations—
+
+33.11.a
+
+amend subsection  (3)  or  (5)  so as to substitute a different period of time
+for the period of time specified;
+
+33.11.b
+
+provide for a different period of time to apply, instead of a period of time
+specified in subsection (3) or (5) in the case of particular descriptions of
+subsidy or subsidy scheme.
+
+33.12
+
+A period of time specified in regulations under subsection  (11)  may not
+exceed—
+
+33.12.a
+
+one year in respect of a subsidy given in the form of a tax measure;
+
+33.12.b
+
+one year in respect of a subsidy scheme made in the form of a tax measure;
+
+33.12.c
+
+six months in respect of a subsidy given or scheme made in any other form.
+
+33.13
+
+Regulations under subsection  (9)  or  (11)  are subject to the affirmative
+procedure.
+
+##### Information to be included in the subsidy database
+
+34
+
+34.1
+
+The Secretary of State may by regulations make provision about the information
+that must be included in a public authority’s entry in the subsidy database in
+relation to a subsidy or subsidy scheme.
+
+34.2
+
+The regulations may, in particular, require a public authority’s entry to
+include—
+
+34.2.a
+
+the power under which the subsidy is given;
+
+34.2.b
+
+the policy objective of the subsidy or scheme;
+
+34.2.c
+
+the name of the beneficiary to which the subsidy is given;
+
+34.2.d
+
+the date the public authority confirms the decision to give the subsidy or
+make the scheme;
+
+34.2.e
+
+the duration of the subsidy or scheme;
+
+34.2.f
+
+any time limits or other conditions attached to the use of the subsidy or
+scheme;
+
+34.2.g
+
+the amount of the subsidy or scheme or the amount budgeted for the subsidy or
+scheme;
+
+34.2.h
+
+the location of any of the information mentioned in paragraphs (a) to (g) and
+subsection (3);
+
+34.2.i
+
+the location of any other publicly available information relating to the
+subsidy or scheme.
+
+34.3
+
+In relation to subsidy schemes, the regulations may require a public
+authority’s entry to include—
+
+34.3.a
+
+the categories of beneficiary eligible to receive subsidies under the scheme;
+
+34.3.b
+
+the terms and conditions for subsidy eligibility;
+
+34.3.c
+
+the basis for the calculation of the subsidy including any relevant conditions
+relating to subsidy ratios.
+
+34.4
+
+Regulations under this section are subject to the negative procedure.
+
+### Exemptions
+
+#### Introductory
+
+##### Introductory
+
+35
+
+35.1
+
+This Part provides for cases in which the subsidy control requirements do not
+apply to the giving of a subsidy.
+
+35.2
+
+Where the subsidy control requirements do not apply to the giving of a
+subsidy, those requirements are to be taken as not applying to the making of a
+subsidy scheme so far as it provides for the giving of such a subsidy.
+
+35.3
+
+Subsection (2) is subject to express provision in this Part about the
+application of the subsidy control requirements to subsidy schemes.
+
+#### Minimal or SPEI financial assistance
+
+##### Minimal financial assistance
+
+###### Minimal financial assistance
+
+36
+
+36.1
+
+The subsidy control requirements do not apply to minimal financial assistance
+given to an enterprise if the total amount of minimal or SPEI financial
+assistance given to the enterprise within the applicable period does not
+exceed £315,000.
+
+36.2
+
+The applicable period is the period comprising—
+
+36.2.a
+
+the elapsed part of the current financial year, and
+
+36.2.b
+
+the two financial years immediately preceding the current financial year.
+
+36.3
+
+“ Minimal financial assistance ” means a subsidy given under this section, and
+for this purpose a subsidy is given under this section if the authority that
+is giving the subsidy provides to the enterprise that receives it a minimal
+financial assistance confirmation (see section 37(5)).
+
+36.4
+
+In subsection  (1) , the reference to the subsidy control requirements does
+not include the requirements as to transparency in Chapter 3 of Part 2 except
+in relation to the giving of a subsidy as minimal financial assistance if the
+amount of the subsidy is no more than £100,000.
+
+36.5
+
+For the purposes of this section—
+
+36.5.a
+
+if minimal financial assistance is provided in cash, the gross cash amount
+given is to be used in determining the amount of assistance;
+
+36.5.b
+
+if minimal financial assistance is provided otherwise than in cash, the amount
+of assistance given is to be determined by reference to the gross cash
+equivalent of the assistance.
+
+36.6
+
+This section does not authorise the giving of a subsidy relating to goods that
+is in contravention of section 16 (export performance) or 17 (use of domestic
+goods or services).
+
+36.7
+
+In subsection  (2) —
+
+36.7.a
+
+the “current financial year” is the financial year in which the minimal
+financial assistance is given, and
+
+36.7.b
+
+the “elapsed part” of that year is so much of it as has passed at the time
+when it is given.
+
+###### Section 36: procedural requirements
+
+37
+
+37.1
+
+Before giving minimal financial assistance, a public authority must give to
+the enterprise a minimal financial assistance notification.
+
+37.2
+
+A “ minimal financial assistance notification ” means a written statement—
+
+37.2.a
+
+explaining that the authority is proposing to give to the enterprise a subsidy
+by way of minimal financial assistance,
+
+37.2.b
+
+specifying the gross value amount of the assistance, and
+
+37.2.c
+
+requesting written confirmation from the enterprise that the total amount
+specified in section 36(1) will not be exceeded by the enterprise receiving
+the proposed assistance.
+
+37.3
+
+The public authority may proceed to give the assistance only after it has
+received the confirmation referred to in subsection (2)(c).
+
+37.4
+
+On giving the assistance, the public authority must provide to the enterprise
+a minimal financial assistance confirmation.
+
+37.5
+
+A “ minimal financial assistance confirmation ” means a written statement
+confirming—
+
+37.5.a
+
+that the subsidy is given as minimal financial assistance,
+
+37.5.b
+
+the date on which it is given, and
+
+37.5.c
+
+the gross value amount of the assistance.
+
+37.6
+
+The enterprise must keep a written record detailing—
+
+37.6.a
+
+that it has received a subsidy by way of minimal financial assistance,
+
+37.6.b
+
+the date on which it was given, and
+
+37.6.c
+
+the gross value amount of the assistance.
+
+37.7
+
+The record required by subsection (6) must be kept for at least three years
+beginning with the date mentioned in paragraph (b) of that subsection.
+
+37.8
+
+In this section—
+
+      “ the enterprise ” means the enterprise that receives, or would receive,
+minimal financial assistance;           “gross value amount” of minimal
+financial assistance means the gross cash amount (see subsection (5)(a) of
+section 36) or the gross cash equivalent (see subsection (5)(b) of that
+section).
+
+##### Services of public economic interest assistance
+
+###### Services of public economic interest assistance
+
+38
+
+38.1
+
+The subsidy control requirements do not apply to SPEI assistance given to an
+enterprise if the total amount of minimal or SPEI financial assistance given
+to the enterprise within the applicable period does not exceed £725,000.
+
+38.2
+
+The applicable period is the period comprising—
+
+38.2.a
+
+the elapsed part of the current financial year, and
+
+38.2.b
+
+the two financial years immediately preceding the current financial year.
+
+38.3
+
+“ SPEI assistance ” means a subsidy given under this section, and for this
+purpose a subsidy is given under this section if—
+
+38.3.a
+
+it is given to a SPEI enterprise for the purposes of the provision of SPEI
+services, and
+
+38.3.b
+
+the authority giving the subsidy provides to the enterprise a SPEI assistance
+confirmation (see section 39(5)).
+
+38.4
+
+In subsection (1), the reference to the subsidy control requirements does not
+include the requirements as to transparency in Chapter 3 of Part 2 except in
+relation to the giving of a subsidy as SPEI assistance if the amount of the
+subsidy is no more than £100,000.
+
+38.5
+
+For the purposes of this section—
+
+38.5.a
+
+if SPEI assistance is provided in cash, the gross cash amount given is to be
+used in determining the amount of assistance;
+
+38.5.b
+
+if SPEI assistance is provided otherwise than in cash, the amount of
+assistance given is to be determined by reference to the gross cash equivalent
+of the assistance.
+
+38.6
+
+This section does not authorise the giving of a subsidy relating to goods that
+is in contravention of section 16 (export performance) or 17 (use of domestic
+goods or services).
+
+38.7
+
+In subsection  (2) —
+
+38.7.a
+
+the “current financial year” is the financial year in which the SPEI
+assistance is given, and
+
+38.7.b
+
+the “elapsed part” of that year is so much of it as has passed at the time
+when it is given.
+
+###### Section 38: procedural requirements
+
+39
+
+39.1
+
+Before giving SPEI assistance, a public authority must give to the enterprise
+a SPEI assistance notification.
+
+39.2
+
+A “ SPEI assistance notification ” means a written statement—
+
+39.2.a
+
+explaining that the authority is proposing to give to the enterprise a subsidy
+by way of SPEI assistance,
+
+39.2.b
+
+specifying the gross value amount of the assistance, and
+
+39.2.c
+
+requesting written confirmation from the enterprise that the total amount
+specified in section 38(1) will not be exceeded by the enterprise receiving
+the proposed assistance.
+
+39.3
+
+The public authority may proceed to give the assistance only after it has
+received the confirmation referred to in subsection (2)(c).
+
+39.4
+
+On giving the assistance, the public authority must provide to the enterprise
+a SPEI assistance confirmation.
+
+39.5
+
+A “ SPEI assistance confirmation ” means a written statement confirming—
+
+39.5.a
+
+that the subsidy is given as SPEI assistance,
+
+39.5.b
+
+the date on which it is given, and
+
+39.5.c
+
+the gross value amount of the assistance.
+
+39.6
+
+The enterprise must keep a written record detailing—
+
+39.6.a
+
+that it has received a subsidy by way of SPEI assistance,
+
+39.6.b
+
+the date on which it was given, and
+
+39.6.c
+
+the gross value amount of the assistance.
+
+39.7
+
+The record required by subsection (6) must be kept for at least three years
+beginning with the date mentioned in paragraph (b) of that subsection.
+
+39.8
+
+In this section—
+
+      “ the enterprise ” means the enterprise that receives, or that would
+receive, SPEI assistance;           “gross value amount” of SPEI assistance
+means the gross cash amount (see subsection (5)(a) of section 38) or the gross
+cash equivalent (see subsection (5)(b) of that section).
+
+##### General
+
+###### Mergers and acquisitions
+
+40
+
+40.1
+
+Subsection (2) applies where—
+
+40.1.a
+
+all or part of the undertaking, property and liabilities of an enterprise
+(enterprise A) are transferred to another existing enterprise (enterprise B),
+and
+
+40.1.b
+
+minimal or SPEI financial assistance was given to enterprise A before the
+transfer.
+
+40.2
+
+In determining whether a relevant threshold is exceeded in respect of
+enterprise B—
+
+40.2.a
+
+in a case where all of the undertaking, property and liabilities of enterprise
+A is transferred, any minimal or SPEI financial assistance given to enterprise
+A before the transfer is to be treated, on and after the transfer, as if given
+to enterprise B;
+
+40.2.b
+
+in a case where only part of the undertaking, property and liabilities of
+enterprise A is transferred, the proportionate part of the minimal or SPEI
+financial assistance given to enterprise A before the transfer is to be
+treated, on and after the transfer, as given to enterprise B.
+
+40.3
+
+Subsection (4) applies where—
+
+40.3.a
+
+all or part of the undertaking, property and liabilities of two or more
+enterprises (the predecessor enterprises) are transferred to a new enterprise
+(the successor enterprise), and
+
+40.3.b
+
+minimal or SPEI financial assistance was given to one or more of the
+predecessor enterprises before the transfer.
+
+40.4
+
+In determining whether a relevant threshold is exceeded in respect of the
+successor enterprise—
+
+40.4.a
+
+in a case where all of the undertaking, property and liabilities of the
+predecessor enterprises is transferred, any minimal or SPEI financial
+assistance given to the predecessor enterprises before the transfer is to be
+treated, on and after the transfer, as if given to the successor enterprise;
+
+40.4.b
+
+in a case where only part of the undertaking, property and liabilities of the
+predecessor enterprises is transferred, the proportionate part of the minimal
+or SPEI financial assistance given to the predecessor enterprises before the
+transfer is to be treated, on and after the transfer, as if given to the
+successor enterprise.
+
+40.5
+
+The “proportionate part” of minimal or SPEI financial assistance is—
+
+40.5.a
+
+such part of the assistance as is fairly attributable to the activities
+carried on by the part of the undertaking that is transferred, or
+
+40.5.b
+
+if it is not reasonably practicable to apply paragraph (a), such part of the
+assistance that is proportionate to the value of the part of the undertaking
+that is transferred.
+
+40.6
+
+Any minimal or SPEI financial assistance that is attributed to enterprise B,
+or to a successor enterprise, by virtue of this section is to treated as such
+assistance lawfully given to enterprise B, or the successor enterprise, in
+accordance with this Chapter.
+
+40.7
+
+In this section “ relevant threshold ” means the total amount specified in
+section 36(1) or (as the case may be) section 38(1).
+
+###### Exemption for certain subsidies given to SPEI enterprises
+
+41
+
+41.1
+
+The requirements as to transparency in Chapter 3 of Part 2 do not apply to a
+subsidy given to a SPEI enterprise for the purpose of the provision of SPEI
+services, where the subsidy is no more than £100,000.
+
+41.2
+
+For the purposes of subsection  (1) —
+
+41.2.a
+
+if assistance is provided in cash, the gross cash amount given is to be used
+in determining the amount of the assistance;
+
+41.2.b
+
+if assistance is provided otherwise than in cash, the amount of assistance
+given is to be determined by reference to the gross cash equivalent of the
+assistance.
+
+###### Chapter 2: supplementary and interpretative provision
+
+42
+
+42.1
+
+The Secretary of State may by regulations—
+
+42.1.a
+
+amend section 36(1), 38(1) or 41(1) so as to substitute a different amount for
+the amount specified;
+
+42.1.b
+
+provide for a lower amount to apply, instead of an amount specified in section
+36(1), 38(1) or 41(1), in the case of particular descriptions of subsidy;
+
+42.1.c
+
+amend section 36(4) or 38(4) so as to substitute a different amount for the
+amount specified;
+
+42.1.d
+
+provide for a different amount to apply, instead of an amount specified in
+section 36(4) or 38(4), in the case of particular descriptions of subsidy.
+
+42.2
+
+The power to make regulations under subsection (1)(a) may be exercised so as
+to substitute a higher amount for the purpose of securing that the amount
+specified in sterling is up to an equivalent of—
+
+42.2.a
+
+325,000 special drawing rights, in the case of the amount specified in section
+36(1);
+
+42.2.b
+
+750,000 special drawing rights, in the case of the amount specified in section
+38(1);
+
+42.2.c
+
+15,000,000 special drawing rights, in the case of the amount specified in
+section 41(1).
+
+The amount determined as a result of the currency conversion carried out for
+this purpose may be rounded up or down to such convenient number as the
+Secretary of State thinks appropriate.
+
+42.3
+
+For the purpose of determining the equivalent in sterling on a particular day
+of a sum expressed in special drawing rights, one special drawing right is to
+be treated as such sum in sterling as the International Monetary Fund have
+fixed as being equivalent to one special drawing right—
+
+42.3.a
+
+for that day, or
+
+42.3.b
+
+if no sum has been fixed for that day, the last day before that day for which
+a sum has been so fixed.
+
+42.4
+
+An amount specified in regulations under subsection (1)(c) or (d) which amend
+section 36(4) may not exceed the amount specified in section 36(1).
+
+42.5
+
+An amount specified in regulations under subsection (1)(c) or (d) which amend
+section 38(4) may not exceed the amount specified in section 38(1).
+
+42.6
+
+Regulations under subsection  (1)  are subject to the affirmative procedure.
+
+42.7
+
+The following definitions apply for the purposes of this Chapter.
+
+42.8
+
+“ Minimal or SPEI financial assistance ” means a subsidy given—
+
+42.8.a
+
+as minimal financial assistance,
+
+42.8.b
+
+as SPEI assistance,
+
+42.8.c
+
+before IP completion day under—
+
+42.8.c.i
+
+Commission Regulation (EU) No 360/2012  of 25 April 2012 on the application of
+Articles 107 and 108 of the Treaty on the Functioning of the European Union to
+de minimis  aid granted to undertakings providing services of general economic
+interest,
+
+42.8.c.ii
+
+Commission Regulation (EU) No 1407/2013  of 18 December 2013 on the
+application of Articles 107 and 108 of the Treaty on the Functioning of the
+European Union to  de minimis  aid,
+
+42.8.c.iii
+
+Commission Regulation (EU) No 1408/2013  of 18 December 2013 on the
+application of Articles 107 and 108 of the Treaty on the Functioning of the
+European Union to  de minimis  aid in the agriculture sector, or
+
+42.8.c.iv
+
+Commission Regulation (EU) No 717/2014  of 27 June 2014 on the application of
+Articles 107 and 108 of the Treaty on the Functioning of the European Union to
+de minimis  aid in the fishery and aquaculture sector,
+
+42.8.d
+
+after IP completion day under any of the Regulations mentioned in paragraph
+(c) by virtue of the Northern Ireland Protocol, or
+
+42.8.e
+
+after IP completion day and before the coming into force of this section under
+Article 364(4) or 365(3) of the Trade and Cooperation Agreement.
+
+42.9
+
+“ Financial year ” means a period of 12 months ending with 31 March.
+
+42.10
+
+“ Minimal financial assistance ” has the meaning given by section 36(3).
+
+42.11
+
+“ SPEI assistance ” has the meaning given by section 38(3).
+
+#### Emergencies etc.
+
+##### Natural disasters and other exceptional circumstances
+
+43
+
+43.1
+
+The subsidy control requirements do not apply to a subsidy given to compensate
+the damage caused by—
+
+43.1.a
+
+natural disasters, or
+
+43.1.b
+
+other exceptional occurrences.
+
+43.2
+
+The reference in subsection (1)(b) to other exceptional occurrences does not
+include occurrences having only an economic effect.
+
+43.3
+
+A subsidy may be given in respect of a natural disaster, or another
+exceptional occurrence, in reliance on the exemption under this section only
+if—
+
+43.3.a
+
+a notice is published by the Secretary of State for the purposes of this
+section declaring that the exemption applies in respect of that natural
+disaster or occurrence, and
+
+43.3.b
+
+that notice has not been withdrawn by the publication of a further notice.
+
+43.4
+
+A copy of a notice under this section must be laid before Parliament.
+
+43.5
+
+In this section, the reference to the subsidy control requirements does not
+include the requirements as to transparency in Chapter 3 of Part 2.
+
+##### National or global economic emergencies
+
+44
+
+44.1
+
+The prohibitions and restrictions imposed by sections 15 to 29 do not apply to
+a subsidy given to respond to a national or global economic emergency.
+
+44.2
+
+Subsection (1) applies only if the subsidy is given on a temporary basis.
+
+44.3
+
+A subsidy may be given in respect of a national or global economic emergency
+in reliance on the exemption under this section only if—
+
+44.3.a
+
+a notice is published by the Secretary of State for the purposes of this
+section declaring that the exemption applies in respect of that emergency, and
+
+44.3.b
+
+that notice has not been withdrawn by the publication of a further notice.
+
+44.4
+
+A copy of a notice under this section must be laid before Parliament.
+
+#### Other miscellaneous exemptions
+
+##### National security
+
+45
+
+The subsidy control requirements do not apply to the giving of a subsidy for
+the purpose of safeguarding national security.
+
+##### Bank of England monetary policy
+
+46
+
+The subsidy control requirements do not apply to the giving of a subsidy by or
+on behalf of the Bank of England in pursuit of monetary policy.
+
+##### Financial stability
+
+47
+
+47.1
+
+The subsidy control requirements do not apply to the giving of a subsidy, or
+the making of a subsidy scheme, so far as a financial stability direction so
+provides.
+
+47.2
+
+“ Financial stability direction ” means a direction given by the Treasury
+providing for specified subsidy control requirements not to apply to—
+
+47.2.a
+
+the giving of a specified subsidy or making of a specified subsidy scheme, or
+
+47.2.b
+
+the giving of subsidies, or the making of subsidy schemes, of a specified
+description.
+
+47.3
+
+The Treasury may give a financial stability direction only if it considers it
+appropriate for prudential reasons, for example—
+
+47.3.a
+
+the protection of investors, depositors, policy-holders or persons to whom a
+fiduciary duty is owed by a financial service supplier, or
+
+47.3.b
+
+ensuring the integrity and stability of the financial system of the United
+Kingdom.
+
+47.4
+
+The Treasury must consult the Bank of England before giving a financial
+stability direction.
+
+47.5
+
+The Treasury may give a financial stability direction that relates only to a
+subsidy given, or subsidy scheme made, by the Bank of England only if the Bank
+of England has requested the Treasury to give the direction.
+
+47.6
+
+Subject to subsection  (7) , a financial stability direction must—
+
+47.6.a
+
+be published in whatever manner the Treasury considers appropriate, and
+
+47.6.b
+
+be laid before Parliament.
+
+47.7
+
+If the Treasury considers that the steps required by subsection (6) would have
+the effect of undermining the purpose for which the direction is given, the
+Treasury may delay the carrying out of those steps until such time as it is
+satisfied that to do so would not have that effect.
+
+47.8
+
+In this section—
+
+      “ financial service supplier ” has the meaning given by Article 183 of
+the Trade and Cooperation Agreement;           “ specified ” means specified
+in a financial stability direction.
+
+##### Legacy and withdrawal agreement subsidies
+
+48
+
+48.1
+
+The subsidy control requirements do not apply to the following legacy
+subsidies and schemes—
+
+48.1.a
+
+a subsidy given on or after the day on which this section comes into force,
+under a subsidy scheme made before that day;
+
+48.1.b
+
+a subsidy given in accordance with—
+
+48.1.b.i
+
+Regulation  (EC) No 1370/2007  of the European Parliament and of the Council
+on public passenger transport services by rail and by road,
+
+48.1.b.ii
+
+that Regulation as it has effect by virtue of regulation 28(2) of the Public
+Service Obligations in Transport Regulations 2023, or
+
+48.1.b.iii
+
+the Public Service Obligations in Transport Regulations 2023,
+
+(and any such subsidy is to be treated for the purposes of this Act as if it
+were given in accordance with a subsidy scheme).
+
+48.2
+
+In subsection (1), the reference to the subsidy control requirements, so far
+as it relates to subsection (1)(a), does not include the requirements as to
+transparency in Chapter 3 of Part 2, except in relation to—
+
+48.2.a
+
+subsidies given that are subject to the provisions of Part IV or Annex 2 of
+the Agreement on Agriculture;
+
+48.2.b
+
+subsidies given in relation to trade in fish and fish products;
+
+48.2.c
+
+subsidies given in relation to the audiovisual sector.
+
+48.3
+
+The subsidy control requirements do not apply to the following withdrawal
+agreement subsidies and schemes—
+
+48.3.a
+
+a subsidy given, or a subsidy scheme made, in accordance with Article 10 of
+the Northern Ireland Protocol;
+
+48.3.b
+
+a subsidy or subsidy scheme to which Article 138 of the EU withdrawal
+agreement applies.
+
+48.4
+
+In Regulation  (EC) No 1370/2007  of the European Parliament and of the
+Council on public passenger transport services by rail and by road, omit
+Article 9 (transport sector provisions).
+
+48.5
+
+In this section “ the Agreement on Agriculture ” means the Agreement on
+Agriculture, contained in Annex 1A to the Marrakesh Agreement Establishing the
+World Trade Organization, done at Marrakesh on 15 April 1994 (read with any
+adjustments necessary for context).
+
+##### Tax measures
+
+49
+
+The subsidy control requirements do not apply to the giving of a subsidy where
+the giving of the subsidy is permissible by virtue of Article 413 of the Trade
+and Cooperation Agreement (taxation).
+
+##### Large cross-border or international cooperation projects
+
+50
+
+50.1
+
+Section 12(1) does not apply to a subsidy if—
+
+50.1.a
+
+it is given in the context of a large cross-border or international
+cooperation project, and
+
+50.1.b
+
+the public authority giving the subsidy is satisfied that the project meets
+the condition in subsection (3).
+
+50.2
+
+Section 12(3) does not apply to a subsidy scheme if—
+
+50.2.a
+
+the subsidies provided for by the scheme are to be given in the context of a
+large cross-border or international cooperation project, and
+
+50.2.b
+
+the public authority making the scheme is satisfied that the project meets the
+condition in subsection (3).
+
+50.3
+
+A project meets the condition in this subsection if—
+
+50.3.a
+
+the benefits of the project are not limited to the enterprise or to the sector
+or the States participating, and
+
+50.3.b
+
+the project has wider benefits and relevance through spillover effects that do
+not exclusively accrue to—
+
+50.3.b.i
+
+the United Kingdom,
+
+50.3.b.ii
+
+the relevant sector, and
+
+50.3.b.iii
+
+the beneficiary of the subsidy or subsidies concerned.
+
+50.4
+
+The projects that may be regarded as large cross-border or international
+cooperation projects include—
+
+50.4.a
+
+those for transport, energy, the environment or research and development, and
+
+50.4.b
+
+first development projects to incentivise the emergence and deployment of new
+technologies (excluding manufacturing technologies).
+
+##### Nuclear energy
+
+51
+
+51.1
+
+Section 13(1) does not apply to a subsidy in relation to nuclear energy.
+
+51.2
+
+Section 13(3) does not apply to a subsidy scheme that provides for subsidies
+in relation to nuclear energy.
+
+### CMA: referrals and functions
+
+#### Functions on referrals of subsidies and schemes
+
+##### Mandatory referrals
+
+###### Mandatory referral to CMA
+
+52
+
+52.1
+
+A public authority must request a report from the CMA—
+
+52.1.a
+
+before giving a subsidy, or making a subsidy scheme, of particular interest,
+or
+
+52.1.b
+
+where directed to do so by the Secretary of State under section 55.
+
+52.2
+
+The request must—
+
+52.2.a
+
+include the information in relation to the subsidy or subsidy scheme that
+would be required under section 34, if the subsidy or scheme were to be given
+or made,
+
+52.2.b
+
+provide such other information as is specified in regulations under subsection
+(3)(a),
+
+52.2.c
+
+explain, in the case of a request under subsection (1)(a), why the public
+authority considers that the subsidy or subsidy scheme would meet the criteria
+for being a subsidy, or subsidy scheme, of particular interest,
+
+52.2.d
+
+include an assessment by the public authority as to whether the subsidy or
+scheme would comply with the requirements of Chapters 1 and 2 of Part 2, and
+the reasons for that conclusion, and
+
+52.2.e
+
+include any evidence relevant to that assessment.
+
+52.3
+
+The Secretary of State may by regulations—
+
+52.3.a
+
+specify further information that must be included in a request under this
+section;
+
+52.3.b
+
+make provision as to the form of a request under this section.
+
+52.4
+
+Regulations under subsection (3)(a) and (b) are subject to the negative
+procedure.
+
+###### CMA reporting period for mandatory referral
+
+53
+
+53.1
+
+The CMA must, before the end of five working days beginning with the day on
+which a request is received under section 52(1), give a notice to the public
+authority—
+
+53.1.a
+
+that the request complies with the requirements under section 52, or
+
+53.1.b
+
+providing reasons as to why the request does not comply with those
+requirements.
+
+53.2
+
+Where the CMA gives a notice under subsection (1)(a), the CMA must—
+
+53.2.a
+
+before the end of the reporting period, publish a report on the proposed
+subsidy or subsidy scheme, in such manner as the CMA considers appropriate,
+and
+
+53.2.b
+
+give a copy of the report to the public authority and the Secretary of State
+as soon as reasonably practicable after it is published.
+
+53.3
+
+Subject to subsections (4) and (6), “ reporting period ” means the period of
+30 working days beginning with the day on which the notice under subsection
+(1)(a) is given to the public authority.
+
+53.4
+
+The reporting period may be extended if an extension is agreed in writing
+between the CMA and the public authority before the end of the reporting
+period.
+
+53.5
+
+Where the reporting period is extended under subsection (4), the CMA must
+publish, in such manner as the CMA considers appropriate, a notice stating
+that the reporting period has been extended and by how much, and the reasons
+for the extension.
+
+53.6
+
+The Secretary of State may direct that the reporting period is extended, in
+response to a request from the CMA.
+
+53.7
+
+A request under subsection (6)—
+
+53.7.a
+
+may only be made if the CMA considers that there are exceptional circumstances
+to justify an extension,
+
+53.7.b
+
+must include the reasons for seeking an extension, and
+
+53.7.c
+
+must be published, with those reasons, in such manner as the CMA considers
+appropriate.
+
+53.8
+
+A direction under subsection (6)—
+
+53.8.a
+
+may only be given if the Secretary of State is satisfied that there are
+exceptional circumstances which justify an extension,
+
+53.8.b
+
+may not be given in relation to a subsidy or subsidy scheme given or made by
+the Secretary of State, and
+
+53.8.c
+
+may not be given so as to provide for an extension which exceeds 40 working
+days beginning with the day on which the reporting period would otherwise end.
+
+53.9
+
+As soon as reasonably practicable after receiving a request under subsection
+(6), the Secretary of State must—
+
+53.9.a
+
+send a copy of a direction given under that subsection to the CMA and to the
+public authority, or
+
+53.9.b
+
+give notice to the CMA and the public authority that the request has been
+rejected and provide reasons for that decision.
+
+53.10
+
+Any day falling within the period beginning with the day on which a request is
+published by the CMA under subsection (7) and ending with the day on which a
+direction is given under subsection (6), or a notice is given under subsection
+(9), does not count for the purposes of calculating the reporting period.
+
+53.11
+
+The Secretary of State must publish, in such manner as the Secretary of State
+considers appropriate, a direction given under subsection (6) or a notice
+given under subsection (9).
+
+53.12
+
+The Secretary of State may by regulations amend the periods of time specified
+in subsections (1) and (3).
+
+53.13
+
+Regulations under subsection (12) are subject to the affirmative procedure.
+
+###### Cooling off period following mandatory referral
+
+54
+
+54.1
+
+A public authority may not give a subsidy or make a subsidy scheme, in
+relation to which the CMA has provided a report, before the end of the cooling
+off period.
+
+54.2
+
+“ Cooling off period ” means the period of five working days beginning with
+the day after the day on which the CMA publishes the report under section
+53(2).
+
+54.3
+
+If the CMA does not publish a report before the end of the reporting period,
+the public authority may give the subsidy or make the subsidy scheme after the
+day on which the reporting period expires.
+
+54.4
+
+The Secretary of State may direct that the cooling off period is extended
+where the Secretary of State considers that the CMA’s report has identified
+that there are serious deficiencies in the public authority’s assessment under
+section 52(2)(d).
+
+54.5
+
+The Secretary of State—
+
+54.5.a
+
+must send a copy of a direction given under subsection (4) to the public
+authority, and
+
+54.5.b
+
+must publish the direction in such manner as the Secretary of State considers
+appropriate.
+
+54.6
+
+The power in subsection (4) may not be exercised so as to provide for an
+extension which exceeds 30 working days beginning with the day on which the
+cooling off period would otherwise end under subsection (2).
+
+54.7
+
+The Secretary of State may by regulations—
+
+54.7.a
+
+amend the period of time specified in subsection (2);
+
+54.7.b
+
+amend subsection (4) to reflect any changes made to the content of the CMA’s
+report by regulations made under section 59.
+
+54.8
+
+Regulations under subsection (7)(a) or (b) are subject to the affirmative
+procedure.
+
+###### Call-in direction
+
+55
+
+55.1
+
+The Secretary of State may direct a public authority to request a report from
+the CMA in relation to a proposed subsidy or subsidy scheme.
+
+55.2
+
+A direction under this section may be given in relation to—
+
+55.2.a
+
+a subsidy or subsidy scheme of interest, or
+
+55.2.b
+
+any subsidy or subsidy scheme in respect of which the Secretary of State
+considers—
+
+55.2.b.i
+
+there is a risk of failure to comply with the requirements of Chapters 1 and 2
+of Part 2, or
+
+55.2.b.ii
+
+there is a risk of negative effects on competition or investment within the
+United Kingdom.
+
+55.3
+
+The Secretary of State—
+
+55.3.a
+
+must send a copy of a direction given under this section to the public
+authority and to the CMA, and
+
+55.3.b
+
+must publish the direction in such manner as the Secretary of State considers
+appropriate.
+
+##### Voluntary referrals
+
+###### Voluntary referral to CMA
+
+56
+
+56.1
+
+A public authority may request a report from the CMA before giving a subsidy,
+or making a subsidy scheme, of interest.
+
+56.2
+
+The request must—
+
+56.2.a
+
+include the information in relation to the subsidy or subsidy scheme that
+would be required under section 34, if the subsidy or scheme were to be given
+or made,
+
+56.2.b
+
+provide such other information as is specified in regulations under subsection
+(3)(a),
+
+56.2.c
+
+explain why the public authority considers that the subsidy or subsidy scheme
+would meet the criteria for being a subsidy, or subsidy scheme, of interest,
+
+56.2.d
+
+include an assessment by the public authority as to whether the subsidy or
+scheme would comply with the requirements of Chapters 1 and 2 of Part 2, and
+the reasons for that conclusion, and
+
+56.2.e
+
+include any evidence relevant to that assessment.
+
+56.3
+
+The Secretary of State may by regulations—
+
+56.3.a
+
+specify further information that must be included in a request under this
+section;
+
+56.3.b
+
+make provision as to the form of a request under this section.
+
+56.4
+
+Regulations under subsection (3)(a) and (b) are subject to the negative
+procedure.
+
+###### CMA reporting period for voluntary referral
+
+57
+
+57.1
+
+Where the CMA receives from a public authority a request under section 56(1)
+that complies with the requirements under section 56(2), the CMA must decide
+whether to prepare a report in response to the request.
+
+57.2
+
+The CMA must, before the end of five working days beginning with the day on
+which a request is received under section 56(1), give notice to the public
+authority—
+
+57.2.a
+
+that a report will be prepared in response to the request, or
+
+57.2.b
+
+providing reasons as to why the CMA has decided not to prepare a report.
+
+57.3
+
+Subject to subsection (4), where the CMA gives a notice under subsection
+(2)(a), the CMA must—
+
+57.3.a
+
+before the end of the reporting period, publish a report on the proposed
+subsidy or subsidy scheme, in such manner as the CMA considers appropriate,
+and
+
+57.3.b
+
+give a copy of the report to the public authority and the Secretary of State
+as soon as reasonably practicable after it is published.
+
+57.4
+
+If the proposed subsidy is given, or scheme is made, before the CMA has
+prepared or published its report, the CMA may decide whether or not to prepare
+or publish the report.
+
+57.5
+
+Subject to subsection (6), “ reporting period ” means—
+
+57.5.a
+
+the period of 30 working days beginning with the day on which the notice under
+subsection (2)(a) is given to the public authority, or
+
+57.5.b
+
+such other period as is agreed in writing between the CMA and the public
+authority.
+
+57.6
+
+The reporting period may be extended if an extension is agreed in writing
+between the CMA and the public authority before the end of the reporting
+period.
+
+57.7
+
+Where the reporting period is agreed under subsection (5)(b) or extended under
+subsection (6), the CMA must publish a notice setting out the agreement or
+extension, and the reasons for it, in such manner as the CMA considers
+appropriate.
+
+57.8
+
+The Secretary of State may by regulations amend the periods of time specified
+in subsections (2) and (5)(a).
+
+57.9
+
+Regulations under subsection (8) are subject to the affirmative procedure.
+
+###### Call-in direction following voluntary referral
+
+58
+
+58.1
+
+This section applies where—
+
+58.1.a
+
+the CMA has given a notice under section 57(2)(a) that it will prepare a
+report in response to a voluntary referral request made in relation to a
+subsidy or subsidy scheme, and
+
+58.1.b
+
+the Secretary of State has given a call-in direction under section 55 in
+relation to that subsidy or scheme.
+
+58.2
+
+The voluntary referral request is treated as if it was a mandatory referral
+request (and sections 53 and 54 apply accordingly) where—
+
+58.2.a
+
+the report in response to the voluntary referral request has not been
+published, and
+
+58.2.b
+
+the reporting period for that report has not expired.
+
+58.3
+
+The voluntary referral request is treated as if it was a mandatory referral
+request (and sections 53 and 54 apply accordingly) where—
+
+58.3.a
+
+the report in response to the voluntary referral request has not been
+published, and
+
+58.3.b
+
+the reporting period for that report has expired,
+
+but the reporting period under section 53(3) is to be read as a period of 10
+working days.
+
+58.4
+
+Where the report in response to the voluntary referral request has been
+published, but the subsidy has not been given, or the subsidy scheme has not
+been made, section 54 applies, and the references in that section to the CMA’s
+report are to be read as references to the report published in response to the
+voluntary referral request.
+
+58.5
+
+In this section—
+
+      “ mandatory referral request ” means a request made under section 52;
+“ voluntary referral request ” means a request made under section 56.
+
+##### Mandatory and voluntary referrals: contents of CMA report
+
+###### CMA report following mandatory or voluntary referral
+
+59
+
+59.1
+
+The CMA’s report under section 53 or 57 must include an evaluation of the
+public authority’s assessment under section 52(2)(d) or 56(2)(d).
+
+59.2
+
+The evaluation must take into account any effects of the proposed subsidy or
+scheme on competition or investment within the United Kingdom.
+
+59.3
+
+The report may also include—
+
+59.3.a
+
+advice about how the public authority’s assessment under section 52(2)(d) or
+56(2)(d) might be improved, and
+
+59.3.b
+
+advice about how the proposed subsidy or scheme may be modified to ensure
+compliance with the requirements of Chapters 1 and 2 of Part 2.
+
+59.4
+
+The Secretary of State may by regulations—
+
+59.4.a
+
+amend subsection (1), (2) or (3) to make provision about the content of the
+CMA’s report;
+
+59.4.b
+
+make provision as to the form of the report.
+
+59.5
+
+Regulations under subsection (4)(a) are subject to the affirmative procedure.
+
+59.6
+
+Regulations under subsection (4)(b) are subject to the negative procedure.
+
+##### Post-award referrals
+
+###### Post-award referrals
+
+60
+
+60.1
+
+The Secretary of State may refer a subsidy or subsidy scheme to the CMA after
+the subsidy has been given or the subsidy scheme has been made.
+
+60.2
+
+A referral under subsection (1) may be made in relation to any subsidy or
+subsidy scheme in respect of which the Secretary of State considers—
+
+60.2.a
+
+that there has or may have been a failure to comply with the requirements of
+Chapters 1 and 2 of Part 2, or
+
+60.2.b
+
+that there is a risk of negative effects on competition or investment within
+the United Kingdom.
+
+60.3
+
+The Secretary of State must, at the same time as making a referral under
+subsection (1), direct the public authority to provide to the CMA—
+
+60.3.a
+
+any assessment carried out by the public authority, before the subsidy was
+given or the scheme was made, as to whether the subsidy or scheme would comply
+with the requirements of Chapters 1 and 2 of Part 2, and the reasons for that
+conclusion,
+
+60.3.b
+
+any evidence relevant to that assessment,
+
+60.3.c
+
+in a case where such an assessment is not provided, the reasons for that,
+
+60.3.d
+
+any information that the public authority failed to enter in the subsidy
+database in accordance with Chapter 3 of Part 2, and
+
+60.3.e
+
+such other information as is specified in regulations under subsection (8)(a).
+
+60.4
+
+Where the Secretary of State decides to make a referral under subsection (1),
+the referral, together with a direction given under subsection (3), must be
+made before the end of 20 working days beginning with—
+
+60.4.a
+
+the day on which the entry in respect of the subsidy or scheme is entered into
+the subsidy database, or
+
+60.4.b
+
+the day on which the subsidy is given or the scheme is made, in the case of a
+subsidy or scheme to which section 41 applies.
+
+60.5
+
+The Secretary of State—
+
+60.5.a
+
+must publish a referral made under subsection (1) in such manner as the
+Secretary of State considers appropriate, and
+
+60.5.b
+
+must send a copy of a direction given under subsection (3) to the public
+authority and the CMA.
+
+60.6
+
+The public authority must provide to the CMA the information required under
+subsection (3) before the end of the information period.
+
+60.7
+
+“ Information period ” means the period of 20 working days beginning with the
+day on which the direction is given.
+
+60.8
+
+The Secretary of State may by regulations—
+
+60.8.a
+
+specify further information that must be provided under subsection (3);
+
+60.8.b
+
+prescribe the form in which the information required under subsection (3) is
+to be provided;
+
+60.8.c
+
+amend the periods of time specified in subsections (4) and (7).
+
+60.9
+
+Regulations under subsection (8)(a) or (b) are subject to the negative
+procedure.
+
+60.10
+
+Regulations under subsection (8)(c) are subject to the affirmative procedure.
+
+###### CMA reporting period for post-award referrals
+
+61
+
+61.1
+
+Where the CMA receives from the Secretary of State a referral under section
+60, the CMA must—
+
+61.1.a
+
+before the end of the reporting period, publish a report on the subsidy or
+subsidy scheme to which the referral relates, in such manner as the CMA
+considers appropriate, and
+
+61.1.b
+
+give a copy of the report to the public authority and the Secretary of State
+as soon as reasonably practicable after it is published.
+
+61.2
+
+Subject to subsections  (3)  and  (5) , “ reporting period ” means the period
+of 30 working days beginning with the earlier of—
+
+61.2.a
+
+the day on which the information required under section 60(3) is provided to
+the CMA by the public authority, and
+
+61.2.b
+
+the day after the information period in section 60(7) ends.
+
+61.3
+
+The reporting period may be extended if an extension is agreed in writing
+between the CMA and the public authority before the end of the reporting
+period.
+
+61.4
+
+Where the reporting period is extended under subsection (3), the CMA must
+publish, in such manner as the CMA considers appropriate, a notice that the
+reporting period has been extended and by how much, and the reasons for the
+extension.
+
+61.5
+
+The Secretary of State may direct that the reporting period is extended, in
+response to a request from the CMA.
+
+61.6
+
+A request under subsection (5)—
+
+61.6.a
+
+may only be made if the CMA considers that there are exceptional circumstances
+to justify an extension,
+
+61.6.b
+
+must include the reasons for seeking an extension, and
+
+61.6.c
+
+must be published, with those reasons, in such manner as the CMA considers
+appropriate.
+
+61.7
+
+A direction under subsection (5)—
+
+61.7.a
+
+may only be given if the Secretary of State is satisfied that there are
+exceptional circumstances to justify an extension,
+
+61.7.b
+
+may not be given in relation to a subsidy or subsidy scheme given or made by
+the Secretary of State, and
+
+61.7.c
+
+may not be given so as to provide for an extension which exceeds 40 working
+days beginning with the day on which the reporting period would otherwise end.
+
+61.8
+
+As soon as reasonably practicable after receiving a request under subsection
+(5) the Secretary of State must—
+
+61.8.a
+
+send a copy of a direction given under subsection (5) to the CMA and to the
+public authority, or
+
+61.8.b
+
+give notice to the CMA and the public authority that the request has been
+rejected and provide reasons for that decision.
+
+61.9
+
+Any day falling within the period beginning with the day on which a request is
+published by the CMA under subsection (6) and ending with the day on which a
+direction is given under subsection (5), or a notice is given under section
+(8), does not count for the purposes of calculating the reporting period.
+
+61.10
+
+The Secretary of State must publish, in such manner as the Secretary of State
+considers appropriate, a direction given under subsection (5) or a notice
+given under subsection (8).
+
+61.11
+
+The Secretary of State may by regulations amend the period of time specified
+in subsection (2).
+
+61.12
+
+Regulations under subsection (11) are subject to the affirmative procedure.
+
+###### CMA report following post-award referral
+
+62
+
+62.1
+
+The CMA’s report under section 61 must include an evaluation of the public
+authority’s assessment under section 60(3)(a).
+
+62.2
+
+The evaluation must take into account any effects of the proposed subsidy or
+scheme on competition or investment within the United Kingdom.
+
+62.3
+
+If an assessment was not provided under section 60(3)(a), that fact should be
+stated in the report, along with any reasons provided under section 60(3)(c).
+
+62.4
+
+If the subsidy or subsidy scheme is ongoing, the report may also include
+advice about how the subsidy or scheme may be modified to ensure compliance
+with the requirements of Chapters 1 and 2 of Part 2.
+
+62.5
+
+The Secretary of State may by regulations—
+
+62.5.a
+
+amend subsection (1), (2), (3) or (4) to make provision about the content of
+the CMA’s report under section 61;
+
+62.5.b
+
+make provision as to the form of that report.
+
+62.6
+
+Regulations under subsection (5)(a) are subject to the affirmative procedure.
+
+62.7
+
+Regulations under subsection (5)(b) are subject to the negative procedure.
+
+##### Exemptions
+
+###### Referrals in relation to subsidy schemes
+
+63
+
+The preceding provisions of this Chapter relating to subsidies do not apply to
+a subsidy given under a subsidy scheme.
+
+###### Other exemptions
+
+64
+
+64.1
+
+This Chapter does not apply in relation to subsidies, or subsidy schemes that
+provide only for the giving of such subsidies, as described in the following
+sections—
+
+64.1.a
+
+section 10 (streamlined subsidy schemes);
+
+64.1.b
+
+section 36 (minimal financial assistance);
+
+64.1.c
+
+section 38 (SPEI assistance);
+
+64.1.d
+
+section 43 (natural disasters and other exceptional circumstances);
+
+64.1.e
+
+section 44 (national or global economic emergencies);
+
+64.1.f
+
+section 45 (national security);
+
+64.1.g
+
+section 46 (Bank of England monetary policy);
+
+64.1.h
+
+section 48 (legacy and withdrawal agreement subsidies);
+
+64.1.i
+
+section 49 (tax measures);
+
+64.1.j
+
+section 50 (large cross-border or international cooperation projects).
+
+64.2
+
+This Chapter does not apply in relation to a subsidy, or subsidy scheme—
+
+64.2.a
+
+to which a financial stability direction given under section 47 (financial
+stability) applies, or
+
+64.2.b
+
+which is otherwise given or made by the Treasury or the Bank of England (or by
+both acting jointly) only for the reasons mentioned in subsection (3) of that
+section (prudential reasons).
+
+64.3
+
+The Secretary of State may direct that sections 52, 53, 54 and 55 (mandatory
+referral requirements) do not apply, or cease to apply, in relation to a
+specified subsidy or subsidy scheme.
+
+64.4
+
+A direction under subsection (3) may only be given where the Secretary of
+State is satisfied that there are urgent and exceptional circumstances that
+justify the direction being given in the public interest.
+
+64.5
+
+A direction given under subsection (3) must be laid before Parliament.
+
+64.6
+
+The Secretary of State—
+
+64.6.a
+
+must send a direction given under this section to the public authority giving
+the subsidy or making the subsidy scheme, and
+
+64.6.b
+
+must publish the direction in such manner as the Secretary of State considers
+appropriate.
+
+#### General functions
+
+##### Monitoring and reporting on subsidy control
+
+65
+
+65.1
+
+The CMA must, in relation to each relevant period, undertake a review of—
+
+65.1.a
+
+the effectiveness of the operation of this Act, and
+
+65.1.b
+
+the impact of the operation of this Act on competition and investment within
+the United Kingdom.
+
+65.2
+
+The CMA must prepare a report on the outcome of the review in relation to each
+relevant period.
+
+65.3
+
+Subject to subsection (5), “ relevant period ” means—
+
+65.3.a
+
+the period beginning with the commencement date and ending with 31 March in
+the third year after the year in which the commencement date falls,
+
+65.3.b
+
+the following period of three years, and
+
+65.3.c
+
+each subsequent period of five years.
+
+65.4
+
+The Secretary of State may direct the CMA to prepare a report in relation to a
+specified period.
+
+65.5
+
+The Secretary of State may exercise the power in subsection (4) only after the
+CMA has prepared its reports in relation to the first two relevant periods
+mentioned in subsection (3).
+
+65.6
+
+Where the CMA prepares a report in relation to a specified period, “ relevant
+period ” means—
+
+65.6.a
+
+the period beginning with the day after the last day of the specified period
+and ending with the 31 March in the fifth year after the year in which the day
+after the last day of the specified period falls, and
+
+65.6.b
+
+each subsequent period of five years.
+
+65.7
+
+The CMA must publish a report under this section as soon as practicable after
+the end of the period to which it relates and in such manner as the CMA
+considers appropriate.
+
+65.8
+
+The CMA must arrange for a copy of a report prepared under this section to be
+laid before Parliament.
+
+65.9
+
+In this section, “ commencement date ” means the day on which this section
+comes into force.
+
+##### CMA annual report
+
+66
+
+The annual report prepared by the CMA under section 25(4) of, and paragraph 14
+of Schedule 4 to, the Enterprise and Regulatory Reform Act 2013 must include
+details of—
+
+66.a
+
+the subsidies, and subsidy schemes, in respect of which the CMA prepared
+reports following mandatory referrals under section 52,
+
+66.b
+
+the subsidies, and subsidy schemes, of interest in respect of which the CMA
+prepared reports following voluntary referrals under section 56, and
+
+66.c
+
+the subsidies and subsidy schemes in respect of which the CMA prepared reports
+following post-award referrals under section 60.
+
+##### Information-gathering powers
+
+67
+
+67.1
+
+Sections 41 to 43 of the United Kingdom Internal Market Act 2020 (which make
+provision about information-gathering powers, enforcement and penalties) apply
+for the purpose of assisting the CMA in carrying out any of its functions
+under section 65 of this Act as they apply for the purpose mentioned in
+section 41(1) of that Act.
+
+67.2
+
+In the application of sections 41 to 43 of that Act by virtue of subsection
+(1)—
+
+67.2.a
+
+section 42 has effect as if, in subsection (4), after paragraph (e) there were
+inserted
+
+, or
+
+67.2.a.f
+
+where the penalty is imposed in connection with the exercise of the CMA’s
+functions under section 65 of the Subsidy Control Act 2022 in relation to the
+preparation of a report under that section, the day on which the report is
+published or is laid before Parliament (whichever is the later).
+
+;
+
+67.2.b
+
+section 43 has effect as if, in subsection (10)(b), for “or (e)” there were
+substituted  “, (e) or (f)” .
+
+67.3
+
+The Secretary of State may by regulations make such further modifications as
+the Secretary of State thinks necessary to sections 41 to 43 of the United
+Kingdom Internal Market Act 2020 in the application of those sections by
+virtue of subsection (1).
+
+67.4
+
+But regulations under subsection (3) may not modify the amounts specified in
+section 43(6) of that Act.
+
+67.5
+
+Regulations under subsection (3) are subject to the negative procedure.
+
+#### Subsidy Advice Unit
+
+##### Subsidy Advice Unit
+
+68
+
+68.1
+
+The CMA must establish a committee of the CMA Board to be known as the Subsidy
+Advice Unit.
+
+68.2
+
+The CMA Board may authorise the Subsidy Advice Unit under paragraph 29(1) of
+Schedule 4 to ERRA 2013 to carry out its subsidy control functions (which are
+exercisable by the CMA Board on behalf of the CMA under paragraph 28 of that
+Schedule).
+
+68.3
+
+A subsidy control function that the Subsidy Advice Unit is authorised to carry
+out under subsection (2) may, so far as that Unit authorises (whether
+generally or specifically), be carried out by—
+
+68.3.a
+
+a member or sub-committee of that Unit,
+
+68.3.b
+
+a member of the CMA Board, or
+
+68.3.c
+
+a member of staff of the CMA.
+
+68.4
+
+The Subsidy Advice Unit may consist only of persons who are members of the CMA
+or its staff.
+
+68.5
+
+References in this section to the CMA Board are to the Board constituted under
+Part 2 of Schedule 4 to ERRA 2013.
+
+68.6
+
+In this Chapter—
+
+      “ ERRA 2013 ” means the Enterprise and Regulatory Reform Act 2013;
+“ subsidy control functions ” means—         the functions of the CMA under
+Chapters 1 and 2, and           any other functions that the CMA is required
+or authorised to carry out under or by virtue of this Act.
+
+##### References to subsidy control groups
+
+69
+
+69.1
+
+The Subsidy Advice Unit may make a reference to the CMA chair for the
+constitution of a CMA group under Schedule 4 to ERRA 2013.
+
+69.2
+
+A reference under this section must specify—
+
+69.2.a
+
+the subsidy control functions in respect of which the reference is made (“the
+referred functions”), and
+
+69.2.b
+
+if the reference is made in respect of a particular subsidy or subsidy scheme,
+details of that subsidy or subsidy scheme (“the referred case”).
+
+69.3
+
+A CMA group constituted for the purposes of a reference under this section
+must carry out, on behalf of the Subsidy Advice Unit, the referred functions.
+
+69.4
+
+Where the reference is made in relation to a referred case, the reference in
+subsection (3) to the referred functions is a reference to those functions so
+far as relating to the referred case.
+
+69.5
+
+Paragraph 33 of Schedule 4 to ERRA 2013 does not apply in relation to a
+reference under this section.
+
+69.6
+
+In this section “ CMA chair ” means the person appointed under paragraph
+1(1)(a) of Schedule 4 to ERRA 2013.
+
+### Enforcement
+
+#### Appeals to the Competition Appeal Tribunal
+
+##### Review of subsidy decisions
+
+70
+
+70.1
+
+An interested party who is aggrieved by the making of a subsidy decision may
+apply to the Competition Appeal Tribunal for a review of the decision.
+
+70.2
+
+Where an application for a review of a subsidy decision relates to a subsidy
+given under a subsidy scheme, the application must be made for a review of the
+decision to make the subsidy scheme (and may not be made in respect of a
+decision to give a subsidy under that scheme).
+
+70.3
+
+The means of making an application is by sending the Tribunal a notice of
+appeal in accordance with Tribunal Procedure Rules.
+
+70.4
+
+The notice of appeal must be sent within the period specified, in relation to
+the decision appealed against, in Part 5A of the Tribunal Procedure Rules.
+
+70.5
+
+In determining the application, the Tribunal must apply the same principles as
+would be applied—
+
+70.5.a
+
+in the case of proceedings in England and Wales or Northern Ireland, by the
+High Court in determining proceedings on judicial review;
+
+70.5.b
+
+in the case of proceedings in Scotland, by the Court of Session on an
+application to the supervisory jurisdiction of that Court.
+
+70.6
+
+Except so far as the Tribunal directs otherwise, the effect of a subsidy
+decision is not suspended by reason of the making of an application under this
+section.
+
+70.7
+
+In this Part—
+
+      “ interested party ” means—         a person whose interests may be
+affected by the giving of the subsidy or the making of the subsidy scheme in
+respect of which the application under subsection (1) is made, or
+the Secretary of State;                 “ subsidy decision ” means a decision
+to give a subsidy or make a subsidy scheme;           “ the Tribunal ” means
+the Competition Appeal Tribunal;           “ Tribunal Procedure Rules ” means
+rules made under section 15 of the Enterprise Act 2002.
+
+##### Time limits for applications under section 70
+
+71
+
+71.1
+
+The Competition Appeal Tribunal Rules 2015 ( S.I. 2015/1648 ) are amended as
+follows.
+
+71.2
+
+In rule 3 (application of Rules)—
+
+71.2.a
+
+in paragraph (b) after “5” insert  “, 5A” ;
+
+71.2.b
+
+after paragraph (e) insert—
+
+71.2.b.ea
+
+Part 5A applies to applications under section 70 of the Subsidy Control Act
+2022 for reviews of subsidy decisions (within the meaning of that section);
+
+.
+
+71.3
+
+After rule 98 insert—
+
+########### Applications under section 70 of the Subsidy Control Act 2022
+
+############ Time limits for applications
+
+71.3.98A
+
+71.3.98A.1
+
+An application to the Tribunal under section 70 in respect of a subsidy
+decision must be made by sending a notice of appeal before the end of one
+month beginning with the relevant date in relation to that decision.
+
+71.3.98A.2
+
+The “ relevant date ” in relation to a subsidy decision is—
+
+71.3.98A.2.a
+
+in a case where a pre-action information request in respect of the subsidy or
+scheme concerned is made within one month of the transparency date, the date
+on which the notice under paragraph (8) is given;
+
+71.3.98A.2.b
+
+in a case where a post-award referral is made in respect of the subsidy or
+scheme, the date on which the post-award referral report is published under
+section 62;
+
+71.3.98A.2.c
+
+in any other case, the transparency date for the subsidy or scheme.
+
+71.3.98A.3
+
+If both of sub-paragraphs (a) and (b) of paragraph (2) apply, the relevant
+date is the later of the dates given by those sub-paragraphs.
+
+71.3.98A.4
+
+In paragraph (2)—
+
+71.3.98A.4.a
+
+“ pre-action information request ” means a request for information under
+section 76;
+
+71.3.98A.4.b
+
+“the transparency date” for a subsidy or scheme is—
+
+71.3.98A.4.b.i
+
+in a case where the application relates to a subsidy or scheme in respect of
+which the duty under section 33(1) or (5) does not apply, the date on which
+the interested party first knew or ought to have known of the making of the
+subsidy decision;
+
+71.3.98A.4.b.ii
+
+in any other case, the date on which an entry in respect of the subsidy or
+scheme is made on the subsidy database in accordance with the duty under
+section 33(1) or (5);
+
+71.3.98A.4.c
+
+“ post-award referral ” means a referral made under section 60.
+
+71.3.98A.5
+
+In determining for the purposes of paragraph (4)(b) the date on which an entry
+is made on the subsidy database in accordance with a duty under section 33(1)
+or (5), the Tribunal may direct that a minor omission or error in the making
+of the entry is to be disregarded.
+
+71.3.98A.6
+
+An omission or error is “ minor ” for the purposes of paragraph (5) if it
+appears to the Tribunal that it had no prejudicial impact on the interested
+party in assessing whether to make a pre-action information request.
+
+71.3.98A.7
+
+The Tribunal may not extend the time limits provided for in this rule unless
+it is satisfied that the circumstances are exceptional.
+
+71.3.98A.8
+
+For the purpose of paragraph (2)(a), a public authority must give notice to
+the interested party that the public authority has provided information in
+response to a request made under section 76(1).
+
+71.3.98A.9
+
+In this rule—
+
+71.3.98A.9.a
+
+references to sections are to sections of the Subsidy Control Act 2022;
+
+71.3.98A.9.b
+
+“ public authority ”, “ subsidy ”, “ subsidy database ” and “ subsidy decision
+” have the same meanings as in that Act.
+
+71.4
+
+Nothing in this section affects the power in section 15 of the Enterprise Act
+2002 to revoke or amend the Competition Appeal Tribunal Rules 2015, as those
+Rules are amended by this section.
+
+##### CAT powers on review: England and Wales and Northern Ireland
+
+72
+
+72.1
+
+This section applies to applications under section 70 in England and Wales or
+Northern Ireland.
+
+72.2
+
+The Tribunal must either dismiss the application or grant the following kinds
+of relief—
+
+72.2.a
+
+a mandatory order;
+
+72.2.b
+
+a prohibiting order;
+
+72.2.c
+
+a quashing order;
+
+72.2.d
+
+a declaration;
+
+72.2.e
+
+an injunction.
+
+72.3
+
+Where the Tribunal grants relief under subsection (2)(c), it may refer the
+matter back to the person who made the decision with a direction to reconsider
+and make a new decision in accordance with its ruling.
+
+72.4
+
+In making a reference under subsection (3) the Tribunal may not direct the
+person who made the decision to take any action that the person would not
+otherwise have the power to take in relation to the decision.
+
+72.5
+
+Relief under subsection (2) granted by the Tribunal—
+
+72.5.a
+
+has the same effect as the corresponding relief granted by the High Court on
+the determination of proceedings for judicial review, and
+
+72.5.b
+
+is enforceable as if it were relief granted by the High Court on an
+application for judicial review.
+
+72.6
+
+In deciding whether to grant relief under subsection (2) the Tribunal must
+apply the principles that the High Court would apply in deciding whether to
+grant that relief on an application for judicial review.
+
+72.7
+
+Where the Tribunal grants relief under subsection (2), it may also make a
+recovery order in accordance with section 74.
+
+72.8
+
+The Tribunal may refuse to grant any relief sought on an application if the
+Tribunal considers—
+
+72.8.a
+
+that there has been undue delay in making the application, or
+
+72.8.b
+
+that granting the relief sought on the application would be likely to cause
+substantial hardship to, or substantially prejudice the rights of, any person
+or would be detrimental to good administration.
+
+72.9
+
+In cases arising under the law of England and Wales, subsections (2A) and (2B)
+of section 31 of the Senior Courts Act 1981 apply to the Tribunal in deciding
+whether to grant relief under this section as they apply to the High Court
+when deciding whether to grant relief on an application for judicial review.
+
+72.10
+
+If the Tribunal grants relief in reliance on section 31(2B) of the Senior
+Courts Act 1981 as applied by subsection (9), the Tribunal must certify that
+the condition in section 31(2B) as so applied is satisfied.
+
+72.11
+
+For the purposes of the application of subsection (5)(a) in relation to
+appeals in Northern Ireland—
+
+72.11.a
+
+a mandatory order corresponds to an order of mandamus,
+
+72.11.b
+
+a prohibiting order corresponds to an order of prohibition, and
+
+72.11.c
+
+a quashing order corresponds to an order of certiorari.
+
+##### CAT powers on review: Scotland
+
+73
+
+73.1
+
+This section applies to applications under section 70 in Scotland.
+
+73.2
+
+The powers of the Tribunal in respect of such applications are the same as the
+powers of review of the Court of Session in an application to the supervisory
+jurisdiction of that Court.
+
+73.3
+
+In the exercise of its powers by virtue of subsection (2), the Tribunal may
+also make a recovery order in accordance with section 74.
+
+73.4
+
+In deciding how to exercise its powers, the Tribunal must apply principles
+that the Court of Session would apply in deciding an application to the
+supervisory jurisdiction of that Court.
+
+73.5
+
+An order of the Tribunal by virtue of subsection (2)—
+
+73.5.a
+
+has the same effect as the corresponding order granted by the Court of Session
+on an application to the supervisory jurisdiction of that Court, and
+
+73.5.b
+
+is enforceable as if it were an order so granted by that Court.
+
+##### Recovery orders
+
+74
+
+74.1
+
+The Tribunal may make a recovery order if—
+
+74.1.a
+
+in exercise of its powers under section 72 or 73, it grants relief in respect
+of a decision of a public authority to give a subsidy or make a subsidy
+scheme, and
+
+74.1.b
+
+in granting that relief the Tribunal finds that the decision did not comply
+with a requirement of Chapter 1 or 2 of Part 2.
+
+74.2
+
+A recovery order is an order that—
+
+74.2.a
+
+confers a right on a public authority that has given a subsidy to recover the
+amount of that subsidy from the beneficiary, and
+
+74.2.b
+
+requires the public authority to exercise that right in accordance with the
+order.
+
+74.3
+
+A recovery order may—
+
+74.3.a
+
+provide for how the right to recover a subsidy under the order is to be
+exercised;
+
+74.3.b
+
+require that the right is exercised by such time as the order may specify;
+
+74.3.c
+
+relate to the whole of a subsidy or to such part as the order may provide;
+
+74.3.d
+
+where made in relation to subsidies given under a subsidy scheme, relate to
+all such subsidies or only to those subsidies specified in the order;
+
+74.3.e
+
+require the payment of interest in accordance with the order.
+
+74.4
+
+A recovery order is enforceable as though it were an order made by the High
+Court or, in relation to Scotland, the Court of Session.
+
+##### Appeals against decisions of the CAT
+
+75
+
+75.1
+
+An appeal lies to the appellate court on any point of law arising from a
+decision of the Tribunal under the preceding provisions of this Part.
+
+75.2
+
+An appeal under this section may be brought by—
+
+75.2.a
+
+a party to the proceedings before the Tribunal, or
+
+75.2.b
+
+any other person who has a sufficient interest in the matter.
+
+75.3
+
+An appeal under this section requires the permission of the Tribunal or the
+appellate court.
+
+75.4
+
+In this section “ the appellate court ” means—
+
+75.4.a
+
+in relation to England and Wales and Northern Ireland, the Court of Appeal,
+and
+
+75.4.b
+
+in relation to Scotland, the Court of Session.
+
+#### Pre-action information
+
+##### Duty to provide pre-action information
+
+76
+
+76.1
+
+An interested party may make a request to a public authority for information
+about a subsidy, or subsidy scheme, that the authority has given or made.
+
+76.2
+
+A request under subsection (1)—
+
+76.2.a
+
+must be made in writing, and
+
+76.2.b
+
+must state that it is being made only for the purpose of deciding whether to
+apply for a review of a subsidy decision under section 70, on the ground that
+the decision did not comply with a requirement of Chapter 1 or 2 of Part 2.
+
+76.3
+
+Where a public authority receives a request under subsection (1), the
+authority must provide such information as would enable, or assist in, the
+making of a determination as to whether the subsidy was given, or the scheme
+was made, in accordance with the requirements of Chapters 1 and 2 of Part 2.
+
+76.4
+
+The information must be provided by the public authority—
+
+76.4.a
+
+in writing, and
+
+76.4.b
+
+within 28 days of receiving the request for information.
+
+76.5
+
+In providing information, a public authority may impose such restrictions as
+it considers proportionate in order to protect—
+
+76.5.a
+
+commercially sensitive information,
+
+76.5.b
+
+confidential information,
+
+76.5.c
+
+information subject to legal privilege, or
+
+76.5.d
+
+information, the disclosure of which would be contrary to the public interest.
+
+76.6
+
+Information provided in response to a request made under this section may be
+used only—
+
+76.6.a
+
+for the purpose for which it was requested, and
+
+76.6.b
+
+in accordance with any restrictions imposed by the public authority under
+subsection (5).
+
+#### Misuse
+
+##### Misuse of subsidies
+
+77
+
+77.1
+
+A public authority which has given a subsidy has the right to recover from the
+beneficiary the whole or part of its amount to the extent that the subsidy is
+used for a purpose other than the purpose for which it was given.
+
+77.2
+
+The right conferred by subsection (1) is enforceable as if created by contract
+between the public authority and the beneficiary.
+
+77.3
+
+Nothing in this section affects any other remedy that the public authority may
+have in connection with the giving of the subsidy.
+
+### Miscellaneous and general
+
+#### Miscellaneous
+
+##### Subsidies and schemes in primary legislation
+
+78
+
+78.1
+
+Schedule 3 applies provisions of this Act in the case of financial assistance
+provided, or schemes for the provision of financial assistance made, by means
+of primary legislation.
+
+78.2
+
+Nothing in this Act applies to the giving of any such assistance, or to the
+making of any such schemes, except so far as provided for by that Schedule.
+
+##### Guidance
+
+79
+
+79.1
+
+The Secretary of State may issue guidance about the practical application of—
+
+79.1.a
+
+the subsidy control principles;
+
+79.1.b
+
+the energy and environment principles;
+
+79.1.c
+
+the subsidy control requirements in Chapters 2 and 3 of Part 2;
+
+79.1.d
+
+the exemptions under Part 3 in respect of the subsidy control requirements;
+
+79.1.e
+
+Chapter 1 of Part 4 (including the criteria to be used in determining whether
+a subsidy or subsidy scheme falls within the meaning of a subsidy, or subsidy
+scheme, of interest or particular interest under section 11 when applying that
+Chapter);
+
+79.1.f
+
+section 76 (duty to provide pre-action information);
+
+79.1.g
+
+section 77 (misuse of subsidies);
+
+79.1.h
+
+section 81 (modifications to subsidies and schemes).
+
+79.2
+
+Guidance under subsection  (1)(a)  to  (c)  may, in particular, deal with (or
+with any matter connected with)—
+
+79.2.a
+
+the determination of whether financial assistance constitutes a subsidy for
+the purposes of this Act;
+
+79.2.b
+
+the meaning or effect of the subsidy control principles;
+
+79.2.c
+
+the meaning or effect of the energy and environment principles;
+
+79.2.d
+
+the operation of the duty under section 12 or 13 as it applies to—
+
+79.2.d.i
+
+public authorities generally, or
+
+79.2.d.ii
+
+public authorities of a particular description,
+
+when exercising functions within the scope of the duty.
+
+79.3
+
+The powers conferred by this section include power to give guidance about the
+practical application of principles, requirements and exemptions in different
+descriptions of case (including different descriptions of persons benefiting
+from subsidies).
+
+79.4
+
+The Secretary of State—
+
+79.4.a
+
+must publish guidance issued under this section,
+
+79.4.b
+
+must keep the guidance under review, and
+
+79.4.c
+
+may from time to time revise or replace the guidance.
+
+79.5
+
+Before issuing guidance under this section, the Secretary of State must
+consult such persons as the Secretary of State considers appropriate.
+
+79.6
+
+A public authority must have regard to guidance issued under this section (so
+far as applicable to the authority and the circumstances of the case) when
+giving a subsidy or making a subsidy scheme.
+
+79.7
+
+The requirement in subsection  (5)  may be met by consultation carried out
+before this section comes into force.
+
+##### Disclosure of information
+
+80
+
+80.1
+
+This section applies to a duty or power to disclose or use information where
+the duty or power is imposed or conferred by or under any provision of this
+Act.
+
+80.2
+
+A duty or power to which this section applies does not operate to require or
+authorise the disclosure or use of information if the disclosure or use would
+contravene the data protection legislation (but the duty or power is to be
+taken into account in determining whether the disclosure or use would
+contravene that legislation).
+
+80.3
+
+In Schedule 14 to the Enterprise Act 2002 (disclosure of information:
+specified functions), at the appropriate place insert—
+
+      Subsidy Control Act 2022.
+
+80.4
+
+For the purposes of the law relating to defamation, absolute privilege
+attaches to any advice given, or report made, by the CMA (or a person acting
+on the CMA’s behalf) in the exercise of any functions of the CMA under this
+Act.
+
+80.5
+
+In this section “ data protection legislation ” has the same meaning as in the
+Data Protection Act 2018 (see section 3 of that Act).
+
+##### Modifications to subsidies and schemes
+
+81
+
+81.1
+
+The modification of a subsidy or a subsidy scheme is to be treated for the
+purposes of this Act as the giving of a new subsidy, or the making of a new
+subsidy scheme, for the purposes of the application of the subsidy control
+requirements.
+
+81.2
+
+Subsection (1) does not apply—
+
+81.2.a
+
+for the purposes of section 33(1) and (3) (see instead section 33(5)), or
+
+81.2.b
+
+if the modification is only a permitted modification (but section 33(5)
+applies to a permitted modification as it applies to other modifications).
+
+81.3
+
+A modification to a subsidy or subsidy scheme is a “permitted modification” if
+it is a modification of any of the following kinds—
+
+81.3.a
+
+a legacy subsidy modification;
+
+81.3.b
+
+a withdrawal agreement subsidy modification;
+
+81.3.c
+
+a modification (whether made under section 8 of the European Union
+(Withdrawal) Act 2018 or otherwise) to prevent, remedy or mitigate—
+
+81.3.c.i
+
+any failure of the subsidy or scheme to operate effectively, or
+
+81.3.c.ii
+
+any other deficiency relating to the subsidy or scheme,
+
+arising from the withdrawal of the United Kingdom from the European Union;
+
+81.3.d
+
+the amendment made by section 48(4);
+
+81.3.e
+
+an administrative modification;
+
+81.3.f
+
+an increase of up to 25% of the original budget for the subsidy or subsidy
+scheme;
+
+81.3.g
+
+an extension of a subsidy scheme by up to six years (in total) beginning with
+the date on which the subsidy scheme would otherwise have terminated.
+
+81.4
+
+In subsection  (3)(a) , “ legacy subsidy modification ” means the modification
+of a legacy subsidy, or a legacy scheme, as permitted under the subsidy or
+scheme in accordance with its terms as they had effect before the coming into
+force of this section.
+
+81.5
+
+In subsection  (3)(b) , “ withdrawal agreement subsidy modification ” means
+the modification of a withdrawal agreement subsidy, or a withdrawal agreement
+scheme, as permitted under the subsidy or scheme in accordance with its terms
+as they had effect before the coming into force of this section.
+
+81.6
+
+Where the terms of the subsidy or subsidy scheme provide for changes to the
+original budget, the 25% referred to in subsection  (3)(f)  is to be
+calculated by reference to the financial year in which the permitted
+modification to that subsidy or scheme is made.
+
+81.7
+
+In this section—
+
+      “legacy subsidy” and “legacy scheme” mean the subsidies and schemes
+listed in section 48(1);           “withdrawal agreement subsidy” and
+“withdrawal agreement scheme” mean the subsidies and schemes listed in section
+48(3).
+
+##### Gross cash and gross cash equivalent amount of financial assistance
+
+82
+
+82.1
+
+The Secretary of State may by regulations make provision about how the gross
+cash amount, and the gross cash equivalent amount, is to be determined for the
+purposes of—
+
+82.1.a
+
+section 33(8);
+
+82.1.b
+
+section 36(5);
+
+82.1.c
+
+section 38(5);
+
+82.1.d
+
+section 41(2);
+
+82.1.e
+
+provision in regulations or schemes made under this Act.
+
+82.2
+
+Regulations under this section are subject to the negative procedure.
+
+##### Minor amendment to the Financial Services Act 2021
+
+83
+
+In the Financial Services Act 2021, in Schedule 8 (Gibraltar: minor and
+consequential amendments) at the end insert—
+
+######### Subsidy Control Act 2022
+
+83.20
+
+83.20.1
+
+The Subsidy Control Act 2022 is amended as follows.
+
+83.20.2
+
+In section 25 (meaning of “ deposit taker ”) in subsection (1) omit paragraph
+(b) and the “or” preceding it.
+
+83.20.3
+
+In section 26 (meaning of “ insurance company ”) in subsection (1) omit
+paragraph (b) and the “or” preceding it.
+
+83.20.4
+
+In section 27 (subsidies for insurers that provide export credit insurance) in
+subsection (2), in the definition of “insurer”, omit paragraph (b) and the
+“or” preceding it.
+
+#### General
+
+##### Financial provision
+
+84
+
+There is to be paid out of money provided by Parliament—
+
+84.a
+
+any expenditure incurred by the Secretary of State in connection with the
+establishment and maintenance of the subsidy database, and
+
+84.b
+
+any increase attributable to this Act in sums payable under any other Act out
+of money so provided as a result of the carrying out of functions by the CMA
+under or by virtue of Part 4.
+
+##### Crown application
+
+85
+
+85.1
+
+This Act, and any provisions made under it, bind the Crown.
+
+85.2
+
+The reference to the Crown in subsection (1) does not include—
+
+85.2.a
+
+Her Majesty in Her private capacity,
+
+85.2.b
+
+Her Majesty in right of the Duchy of Lancaster, or
+
+85.2.c
+
+the Duke of Cornwall.
+
+##### Power to make consequential provision
+
+86
+
+86.1
+
+The Secretary of State may by regulations make provision that is consequential
+on this Act.
+
+86.2
+
+Regulations under this section may amend, repeal, revoke or otherwise modify
+any provision of primary legislation,   assimilated direct   legislation or
+subordinate legislation.
+
+86.3
+
+Regulations under this section are subject to the affirmative procedure if
+they amend, repeal or revoke any provision of primary legislation  ....
+
+86.4
+
+Regulations under this section to which subsection (3) does not apply are
+subject to the negative procedure.
+
+##### Regulations
+
+87
+
+87.1
+
+Any power to make regulations under this Act is exercisable by statutory
+instrument.
+
+87.2
+
+Any power to make regulations under this Act includes power—
+
+87.2.a
+
+to make different provision for different purposes;
+
+87.2.b
+
+to make supplementary, incidental, consequential, transitional, transitory or
+saving provision.
+
+87.3
+
+Where regulations under this Act are subject to “the affirmative procedure”,
+the regulations may not be made unless a draft of the statutory instrument
+containing them has been laid before, and approved by a resolution of, each
+House of Parliament.
+
+87.4
+
+Where regulations under this Act are subject to “the negative procedure”, the
+statutory instrument containing them is subject to annulment in pursuance of a
+resolution of either House of Parliament.
+
+87.5
+
+Any provision that may be made by regulations under this Act subject to the
+negative procedure may be made in regulations subject to the affirmative
+procedure.
+
+87.6
+
+Any power to make regulations under Part 4 to amend a provision of this Act
+may not be exercised after the period of one year beginning with the day on
+which the CMA publishes its second report under section 65.
+
+87.7
+
+A power to make regulations under this Act is not to be taken as limiting the
+power to make regulations under section 31 of the European Union (Future
+Relationship) Act 2020 (general implementation power).
+
+87.8
+
+This section does not apply to regulations under section 91.
+
+##### Directions
+
+88
+
+88.1
+
+A direction under this Act must be given in writing.
+
+88.2
+
+A direction under this Act may be varied or revoked by a further direction.
+
+##### Interpretation
+
+89
+
+89.1
+
+In this Act—
+
+“ the CMA ” means the Competition and Markets Authority; “ energy and
+environment principles ” means the principles set out in Schedule 2; “
+enterprise ” has the meaning given by section 7; “ Minister of the Crown ” has
+the same meaning as in the Ministers of the Crown Act 1975; “ Northern Ireland
+Protocol ” means the Protocol on Ireland/Northern Ireland in the EU withdrawal
+agreement; “ primary legislation ” means— an Act of Parliament, an Act of the
+Scottish Parliament, an Act or Measure of Senedd Cymru, or Northern Ireland
+legislation; “ public authority ” has the meaning given by section 6(1); “
+special drawing rights ” means special drawing rights as defined by the
+International Monetary Fund; “SPEI enterprise” and “SPEI services” have the
+meanings given in section 29(9); “ streamlined subsidy scheme ” has the
+meaning given by section 10(4); “ subordinate legislation ” means an
+instrument made under primary legislation or under   assimilated direct
+legislation; “ subsidy ” has the meaning given by section 2(1); “ subsidy
+control principles ” means the principles set out in Schedule 1; “ subsidy
+control requirements ” has the meaning given by section 1(2); “ subsidy
+database ” means the database of subsidies established under section 32; “
+subsidy scheme ” has the meaning given by section 10(1); “subsidy scheme of
+interest” and “subsidy scheme of particular interest” have the meanings given
+by section 11; “ the Trade and Cooperation Agreement ” and “ supplementing
+agreement ” have the same meanings as in the European Union (Future
+Relationship) Act 2020 (see section 37(1) of that Act); “ working day ”, in
+relation to a part of the United Kingdom, means a day other than— a Saturday
+or Sunday, or a day which is a bank holiday under the Banking and Financial
+Dealings Act 1971 in that or any other part of the United Kingdom.
+
+89.2
+
+Section 30 of the European Union (Future Relationship) Act 2020
+(interpretation of agreements: public international law) applies where a court
+or tribunal has regard to the Trade and Cooperation Agreement or a
+supplementing agreement for the purposes of interpreting a provision of this
+Act.
+
+##### Extent
+
+90
+
+90.1
+
+Subject to subsection (2), this Act extends to England and Wales, Scotland and
+Northern Ireland.
+
+90.2
+
+Section 48(4) extends to England and Wales and Scotland only.
+
+##### Commencement
+
+91
+
+91.1
+
+The following come into force on the day on which this Act is passed—
+
+91.1.a
+
+Part 1;
+
+91.1.b
+
+any power to make regulations under Part 2, 3 or 4 or Chapter 1 of this Part;
+
+91.1.c
+
+this Chapter.
+
+91.2
+
+The rest of this Act comes into force on such day as the Secretary of State
+may by regulations appoint.
+
+91.3
+
+Different days may be appointed for different purposes.
+
+91.4
+
+The Secretary of State may by regulations make transitional or saving
+provision in connection with the coming into force of any provision of this
+Act.
+
+91.5
+
+The power to make regulations under subsection (4) includes power to make
+different provision for different purposes.
+
+91.6
+
+Regulations under this section are to be made by statutory instrument.
+
+##### Short title
+
+92
+
+This Act may be cited as the Subsidy Control Act 2022.
+
+## SCHEDULES
+
+  The subsidy control principles
+
+Section 9
+
+##### Common interest
+
+A
+
+Subsidies should pursue a specific policy objective in order to—
+
+A.a
+
+remedy an identified market failure, or
+
+A.b
+
+address an equity rationale (such as local or regional disadvantage, social
+difficulties or distributional concerns).
+
+##### Proportionate and necessary
+
+B
+
+Subsidies should be proportionate to their specific policy objective and
+limited to what is necessary to achieve it.
+
+##### Design to change economic behaviour of beneficiary
+
+C
+
+C.1
+
+Subsidies should be designed to bring about a change of economic behaviour of
+the beneficiary.
+
+C.2
+
+That change, in relation to a subsidy, should be—
+
+C.2.a
+
+conducive to achieving its specific policy objective, and
+
+C.2.b
+
+something that would not happen without the subsidy.
+
+##### Costs that would be funded anyway
+
+D
+
+Subsidies should not normally compensate for the costs the beneficiary would
+have funded in the absence of any subsidy.
+
+##### Least distortive means of achieving policy objective
+
+E
+
+Subsidies should be an appropriate policy instrument for achieving their
+specific policy objective and that objective cannot be achieved through other,
+less distortive, means.
+
+##### Competition and investment within the United Kingdom
+
+F
+
+Subsidies should be designed to achieve their specific policy objective while
+minimising any negative effects on competition or investment within the United
+Kingdom.
+
+##### Beneficial effects to outweigh negative effects
+
+G
+
+Subsidies’ beneficial effects (in terms of achieving their specific policy
+objective) should outweigh any negative effects, including in particular
+negative effects on—
+
+G.a
+
+competition or investment within the United Kingdom;
+
+G.b
+
+international trade or investment.
+
+The energy and environment principles
+
+Section 9
+
+##### Aim of subsidies in relation to energy and environment
+
+A
+
+Subsidies in relation to energy and environment shall be aimed at and
+incentivise the beneficiary in—
+
+A.a
+
+delivering a secure, affordable and sustainable energy system and a well-
+functioning and competitive energy market, or
+
+A.b
+
+increasing the level of environmental protection compared to the level that
+would be achieved in the absence of the subsidy.
+
+##### Subsidies not to relieve beneficiary from liabilities as a polluter
+
+B
+
+Subsidies in relation to energy and environment shall not relieve the
+beneficiary from liabilities arising from its responsibilities as a polluter
+under the law of England and Wales, Scotland or Northern Ireland.
+
+##### Subsidies for electricity generation adequacy, renewable energy or cogeneration
+
+C
+
+C.1
+
+Subsidies for electricity generation adequacy, renewable energy or
+cogeneration—
+
+C.1.a
+
+shall not undermine the ability of the United Kingdom to meet its obligations
+under Article 304 of the Trade and Cooperation Agreement (provisions relating
+to wholesale electricity and gas markets),
+
+C.1.b
+
+shall not unnecessarily affect the efficient use of electricity
+interconnectors provided for under Article 311 of the Trade and Cooperation
+Agreement (efficient use of electricity interconnectors), and
+
+C.1.c
+
+shall be determined by means of a transparent, non-discriminatory and
+effective competitive process.
+
+C.2
+
+But a non-competitive process may be used to determine a subsidy for renewable
+energy or cogeneration if appropriate measures are put in place to prevent
+overcompensation and—
+
+C.2.a
+
+the potential market supply is insufficient to ensure a competitive process,
+
+C.2.b
+
+the eligible capacity is unlikely to have a material effect on any of the
+following—
+
+C.2.b.i
+
+competition or investment within the United Kingdom,
+
+C.2.b.ii
+
+trade between the United Kingdom and any country or territory outside the
+United Kingdom, and
+
+C.2.b.iii
+
+investment as between the United Kingdom and any country or territory outside
+the United Kingdom, or
+
+C.2.c
+
+the subsidy is given for a demonstration project.
+
+C.3
+
+Sub-paragraph (1)(c) is without prejudice to Article 304(3) of the Trade and
+Co-operation Agreement (capacity mechanisms in electricity markets).
+
+C.4
+
+In this paragraph and paragraph D, “ subsidy for electricity generation
+adequacy ” means a subsidy that provides an incentive for a capacity provider
+to be available in times of expected system stress.
+
+D
+
+Subsidies for electricity generation adequacy may be limited to installations
+not exceeding specified CO2 emission limits.
+
+E
+
+Subsidies for renewable energy or cogeneration shall not affect beneficiaries’
+obligations or opportunities to participate in electricity markets.
+
+##### Subsidies in the form of partial exemptions from energy-related taxes and levies
+
+F
+
+F.1
+
+Subsidies in the form of partial exemptions from energy-related taxes and
+levies in favour of energy-intensive users shall not exceed the total amount
+of the tax or levy concerned.
+
+F.2
+
+“ Levy ” does not include network charges.
+
+##### Subsidies in the form of compensation for increases in electricity costs
+
+G
+
+Subsidies in the form of compensation for electricity-intensive users given in
+the event of an increase in electricity costs resulting from climate policy
+instruments shall be restricted to sectors at significant risk of carbon
+leakage due to the cost increase.
+
+##### Subsidies for the decarbonisation of emissions linked to industrial activities
+
+H
+
+Subsidies for the decarbonisation of emissions linked to industrial activities
+in the United Kingdom shall—
+
+H.a
+
+achieve an overall reduction in greenhouse gas emissions, and
+
+H.b
+
+reduce the emissions directly resulting from the industrial activities.
+
+##### Subsidies for improvements of the energy efficiency of industrial activities
+
+I
+
+Subsidies for improvements of the energy efficiency of industrial activities
+in the United Kingdom shall improve energy efficiency by reducing energy
+consumption, either directly or per unit of production.
+
+Subsidies provided by primary legislation
+
+Section 78
+
+##### Introductory
+
+1
+
+This Schedule provides for the application of this Act in the case of
+subsidies provided by means of primary legislation.
+
+2
+
+2.1
+
+In this Schedule—
+
+“ appropriate authority ” means— in relation to a subsidy provided by means of
+an Act of Parliament, a Minister of the Crown or the Commissioners for Her
+Majesty’s Revenue and Customs; in relation to a subsidy provided by means of
+an Act of the Scottish Parliament, the Scottish Ministers; in relation to a
+subsidy provided by means of an Act or Measure of Senedd Cymru, the Welsh
+Ministers; in relation to a subsidy provided by means of an Act of the
+Northern Ireland Assembly, the appropriate Northern Ireland department; “
+appropriate court ” means— in relation to a subsidy provided by means of an
+Act of the Scottish Parliament, the Court of Session; in relation to a subsidy
+provided by means of an Act or Measure of Senedd Cymru, the High Court in
+England and Wales; in relation to a subsidy provided by means of an Act of the
+Northern Ireland Assembly, the High Court in Northern Ireland; “ devolved
+legislature ”, in relation to devolved primary legislation, means— the
+Scottish Parliament, in the case of an Act of that Parliament; Senedd Cymru,
+in the case of an Act or Measure of Senedd Cymru; the Northern Ireland
+Assembly, in the case of an Act of that Assembly; “ devolved primary
+legislation ” means primary legislation that is not an Act of Parliament; “
+promoter ”, in relation to a Bill introduced in Parliament, means (subject to
+sub-paragraph (2)) the member of Parliament in charge of the Bill; “ promoter
+”, in relation to proposed devolved primary legislation, means (subject to
+sub-paragraph (2))— in the case of a Bill introduced in the Scottish
+Parliament— the Scottish Ministers, or where the member of the Scottish
+Parliament in charge of the Bill is not a member of the Scottish Government,
+that member of the Parliament; in the case of a Bill or proposed Assembly
+Measure introduced in Senedd Cymru— the Welsh Ministers, or where the member
+of the Senedd in charge of the Bill or Measure is not a member of the Welsh
+Government, that member of the Senedd; in the case of a Bill introduced in the
+Northern Ireland Assembly, the member of the Assembly in charge of the Bill; “
+proposed devolved primary legislation ” means— in the case of devolved primary
+legislation of the Scottish Parliament, a Bill for an Act of that Parliament;
+in the case of devolved primary legislation of Senedd Cymru, a Bill for an Act
+of the Senedd or, in the case of a proposed Assembly Measure, a Measure of the
+Senedd; in the case of devolved primary legislation of the Northern Ireland
+Assembly, a Bill for an Act of that Assembly; “ proposed primary legislation ”
+means— a Bill introduced in Parliament or proposed devolved primary
+legislation, or a proposal to introduce any such Bill or proposed devolved
+primary legislation; “ subsidy proceedings ” means proceedings before the
+appropriate court in connection with this Act in relation to a subsidy
+provided by means of devolved primary legislation.
+
+2.2
+
+Where a subsidy provided by means of primary legislation resulted from an
+amendment to the proposed primary legislation concerned, the “promoter” of the
+proposed primary legislation for the purposes of this Schedule, so far as
+relating to that subsidy, is the member who tabled or lodged the amendment.
+
+3
+
+3.1
+
+The definition of “subsidy” in section 2 applies for the purposes of this
+Schedule (so far as the context requires) as if the reference in subsection
+(1)(a) of that section to financial assistance given by a public authority
+were a reference to financial assistance provided by means of primary
+legislation.
+
+3.2
+
+Section 4 applies for the purposes of this Schedule as if—
+
+3.2.a
+
+the reference in subsection (4) of that section to financial assistance given
+by a public authority were a reference to financial assistance provided by
+means of primary legislation, and
+
+3.2.b
+
+the reference in subsection (5)(c) of that section to the public authority
+whose normal taxation regime it is were a reference to the legislature
+concerned.
+
+3.3
+
+The definition of “subsidy scheme” in section 10 applies for the purposes of
+this Schedule as if the reference in subsection (1) of that section to a
+scheme made by a public authority were a reference to a scheme made by primary
+legislation.
+
+4
+
+In this Schedule references to a subsidy provided by means of primary
+legislation—
+
+4.a
+
+include references to a subsidy given by a public authority under a duty
+imposed by that legislation;
+
+4.b
+
+do not include references to a subsidy given by a public authority under a
+power conferred by that legislation (but see section 1(7)).
+
+5
+
+In this Schedule—
+
+5.a
+
+references to a subsidy provided by means of primary legislation include
+references to a subsidy scheme made by that legislation;
+
+5.b
+
+references to a subsidy given by a public authority include references to a
+subsidy scheme made by the authority.
+
+##### Application of principles
+
+6
+
+6.1
+
+Chapter 1 of Part 2 (application of principles) applies to subsidies provided
+by means of devolved primary legislation as it applies to subsidies given by
+public authorities.
+
+6.2
+
+For this purpose—
+
+6.2.a
+
+references in that Chapter to a public authority are to be taken as references
+to the devolved legislature in relation to the devolved primary legislation
+concerned;
+
+6.2.b
+
+in subsidy proceedings before the appropriate court in connection with this
+paragraph, the requirements imposed by that Chapter on public authorities to
+consider and form a view are to be assessed by reference to the considerations
+and views of the promoter of the proposed devolved primary legislation.
+
+##### Prohibitions etc and exemptions
+
+7
+
+7.1
+
+Chapter 2 of Part 2 (prohibitions and other requirements), and Part 3
+(exemptions), applies to subsidies provided by means of devolved primary
+legislation as they apply to subsidies given by public authorities.
+
+7.2
+
+For this purpose—
+
+7.2.a
+
+references in Chapter 2 of Part 2, and in Part 3, to a public authority are to
+be taken as references to the devolved legislature in relation to the devolved
+primary legislation concerned;
+
+7.2.b
+
+in subsidy proceedings before the appropriate court in connection with this
+paragraph, the requirements imposed by Chapter 2 of Part 2 on public
+authorities to be satisfied of any matter are to be assessed by reference to
+the promoter of the proposed devolved primary legislation;
+
+7.c
+
+sections 21 and 23 apply as if, for subsection (4) in each of those sections,
+there were substituted—
+
+7.c.4
+
+The condition in this subsection is that there has been, or there is a
+reasonable expectation that there will be, proper remuneration for the
+subsidy.
+
+;
+
+7.d
+
+section 29 applies as if, for subsection (6), there were substituted—
+
+7.d.6
+
+Where a subsidy is given to a SPEI enterprise by means of devolved primary
+legislation, there must be arrangements in place for—
+
+7.d.6.a
+
+regular reviews to take place as to the use of the subsidy to ensure the
+condition that the amount of the subsidy is limited to what is necessary to
+deliver the SPEI services continues to be met, and
+
+7.d.6.b
+
+the taking of steps to recover a subsidy to the extent that the condition
+ceases to be met.
+
+;
+
+7.e
+
+sections 37 and 39 are to be ignored.
+
+##### Transparency
+
+8
+
+8.1
+
+Chapter 3 of Part 2 (which provides for the subsidy database) applies to
+subsidies provided by means of primary legislation as it applies to subsidies
+given by public authorities.
+
+8.2
+
+For this purpose—
+
+8.2.a
+
+references in that Chapter to a public authority are to be taken as references
+to the appropriate authority;
+
+8.2.b
+
+the references in section 33 to a subsidy given, or a subsidy scheme made, by
+the authority are to be taken as references to a subsidy or scheme provided by
+means of primary legislation.
+
+##### CMA referrals
+
+9
+
+9.1
+
+Sections 56, 57 and 59 (voluntary referrals to the CMA) apply to subsidies in
+proposed primary legislation as they apply to subsidies to be given by public
+authorities.
+
+9.2
+
+For this purpose—
+
+9.2.a
+
+references in those sections to a public authority are to be taken as
+references to the appropriate authority and (if different) the promoter of the
+proposed primary legislation concerned;
+
+9.2.b
+
+section 56 is to be read as if—
+
+9.2.b.i
+
+in subsection (1), after “of interest”, there were inserted  “or particular
+interest” ;
+
+9.2.b.ii
+
+in subsection (2)(c), after “of interest”, there were inserted  “or particular
+interest” ;
+
+9.2.c
+
+section 57 is to be read as if—
+
+9.2.c.i
+
+in subsection (1), after “section 56(2)” there were inserted  “in respect of a
+subsidy, or subsidy scheme, of interest” ;
+
+9.2.c.ii
+
+in subsection (2), after “section 56(1)” there were inserted  “in respect of a
+subsidy, or subsidy scheme, of interest” ;
+
+9.2.c.iii
+
+after subsection (2) there were inserted—
+
+9.2.c.iii.2A
+
+The CMA must, before the end of five working days beginning with the day on
+which a request is received under section 56(1) in respect of a subsidy, or
+subsidy scheme, of particular interest, give notice to the appropriate
+authority—
+
+9.2.c.iii.2A.a
+
+that the request complies with the requirements under section 56, or
+
+9.2.c.iii.2A.b
+
+providing reasons as to why the request does not comply with those
+requirements.
+
+;
+
+9.2.c.iv
+
+in subsection (3), after “subsection (2)(a)” there were inserted  “or (2A)(a)”
+;
+
+9.2.c.v
+
+in subsection (5), after “subsection (2)(a)” there were inserted  “or (2A)(a)”
+.
+
+##### Recovery orders
+
+10
+
+10.1
+
+Section 74 applies in subsidy proceedings before the appropriate court as it
+applies to proceedings under Part 5 before the Competition Appeal Tribunal.
+
+10.2
+
+For this purpose—
+
+10.2.a
+
+section 74 is to be read as if, for subsection (1), there were substituted—
+
+10.2.a.1
+
+The appropriate court may make a recovery order if—
+
+10.2.a.1.a
+
+in exercise of its powers, it determines that relief should be granted in
+respect of a subsidy provided by means of devolved primary legislation, and
+
+10.2.a.1.b
+
+in reaching that determination the appropriate court finds that the giving of
+the subsidy, or the making of the subsidy scheme under which it was given, did
+not comply with a requirement of Chapter 1 or 2 of Part 2.
+
+;
+
+10.2.b
+
+subsection (2)(a) of that section is to be read as if, for the words from “a
+public authority” to “that subsidy”, there were substituted  “the appropriate
+authority to recover a subsidy provided by means of devolved primary
+legislation” ;
+
+10.2.c
+
+subsection (2)(b) of that section is to be read as if the reference to the
+public authority were a reference to the appropriate authority;
+
+10.2.d
+
+subsection (4) of that section is to be ignored.
+
+##### Pre-action information
+
+11
+
+11.1
+
+Section 76 (duty to provide pre-action information) applies to subsidies
+provided by means of devolved primary legislation as it applies to subsidies
+given by public authorities.
+
+11.2
+
+For this purpose—
+
+11.2.a
+
+references in that section to a public authority are to be taken as references
+to the appropriate authority;
+
+11.2.b
+
+the reference in subsection (1) of that section to a subsidy or subsidy scheme
+that the authority has given or made is to be taken as a reference to a
+subsidy or subsidy scheme provided by means of devolved primary legislation;
+
+11.2.c
+
+subsection (2)(b) of that section is to be read as if—
+
+11.2.c.i
+
+for the words “a review of a subsidy decision under section 70” there were
+substituted  “relief in subsidy proceedings before the appropriate court” ;
+
+11.2.c.ii
+
+for “the decision” there were substituted  “the subsidy or scheme in question”
+.
+
+##### Time limits
+
+12
+
+The power under section 86 to make consequential provision includes power to
+make provision, in relation to subsidy proceedings before the appropriate
+court, corresponding or similar to provision made by section 71 in relation to
+proceedings under Part 5 before the Competition Appeal Tribunal.
+

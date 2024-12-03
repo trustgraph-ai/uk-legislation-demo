@@ -1,0 +1,309 @@
+Title: The Digital Government (Disclosure of Information) (Identity Verification Services) Regulations 2024
+Date: 2024-10-15
+Description: These Regulations relate to the disclosure of information in relation to public service delivery, pursuant to Chapter 1 of Part 5 of the Digital Economy Act 2017 (c. 30) (“the Act”), and in particular to the creation of the digital identity verification services objective.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2024/64
+
+## The Digital Government (Disclosure of Information) (Identity Verification Services) Regulations 2024
+
+    Disclosure Of Information
+
+  Made   18th January 2024
+
+  Coming into force   8th February 2024
+
+      In exercise of the powers conferred on the appropriate national
+authority (meaning the relevant Minister) by section 35(3) and (7) of the
+Digital Economy Act 2017  (“ the Act ”), the Minister for the Cabinet Office,
+with the consent of the Treasury , makes the following Regulations.       The
+Minister for the Cabinet Office is satisfied that the objective specified
+complies with the conditions in section 35(9), (10) and (12) of the Act, and
+that the entries added to Schedule 4 to the Act comply with the condition in
+section 35(4) of the Act.       The Minister for the Cabinet Office has
+consulted the Information Commissioner, the Commissioners for His Majesty’s
+Revenue and Customs, the Scottish Ministers, the Welsh Ministers, the
+Department of Finance in Northern Ireland, and such other persons as the
+Minister for the Cabinet Office considers appropriate, as required by section
+44(4) of the Act .           In accordance with section 44(7) of the Act , a
+draft of these Regulations was laid before, and approved by a resolution of,
+each House of Parliament.
+
+### Citation, commencement, extent and interpretation
+
+1
+
+1.1
+
+These Regulations may be cited as the Digital Government (Disclosure of
+Information) (Identity Verification Services) Regulations 2024 and come into
+force 21 days after the day on which they are made.
+
+1.2
+
+These Regulations extend to England and Wales and Scotland.
+
+1.3
+
+In these Regulations—
+
+1.3.a
+
+“ the Act ” means the Digital Economy Act 2017;
+
+1.3.b
+
+“ digital identity verification service ” means an electronic process for
+confirming the identity of an individual by checking information provided by
+that individual against information held by another person.
+
+### Amendment of Schedule 4 to the Act
+
+2
+
+In Schedule 4 to the Act, in Part 1, after paragraph 27, insert—
+
+2.27A
+
+The Minister for the Cabinet Office.
+
+2.27B
+
+The Secretary of State for Transport.
+
+2.27C
+
+The Secretary of State for Environment, Food and Rural Affairs.
+
+2.27D
+
+The Disclosure and Barring Service.
+
+.
+
+### Digital identity verification services objective
+
+3
+
+3.1
+
+Paragraph (2) specifies an objective for the purposes of section 35(7) of the
+Act.
+
+3.2
+
+The digital identity verification services objective is to provide assistance
+to individuals who are seeking to access public services digitally by—
+
+3.2.a
+
+enabling those individuals to create a reusable digital identity in a
+convenient, secure and efficient way,
+
+3.2.b
+
+improving their physical, mental, emotional, social or economic well-being,
+and
+
+3.2.c
+
+supporting the administration or delivery of the functions of a person who is
+a specified person in relation to this specified objective.
+
+### Specified persons in relation to the digital identity verification services objective
+
+4
+
+4.1
+
+Paragraph (2) sets out the specified persons from Schedule 4 to the Act who
+are specified persons in relation to the digital identity verification
+services objective (“the specified objective”).
+
+4.2
+
+The specified persons are—
+
+4.2.a
+
+the persons listed in the Schedule to these Regulations, and
+
+4.2.b
+
+a person providing services in connection with the specified objective to a
+person within sub-paragraph (a).
+
+      Alex Burghart   Parliamentary Secretary for the Cabinet Office   Cabinet
+Office     18th January 2024             We consent to these Regulations
+Amanda Milling   Joy Morrisey   Two of the Lords Commissioners of His
+Majesty’s Treasury     16th January 2024
+
+  List of persons within regulation 4(2)(a)
+
+Regulation 4
+
+##### UK and English Bodies
+
+1
+
+The Secretary of State for the Home Department.
+
+2
+
+The Secretary of State for Defence.
+
+3
+
+The Lord Chancellor.
+
+4
+
+The Secretary of State for Justice.
+
+5
+
+The Secretary of State for Education.
+
+6
+
+The Secretary of State for Business and Trade, in relation to the Secretary of
+State’s relevant business functions.
+
+7
+
+The Secretary of State for Energy Security and Net Zero.
+
+8
+
+The Secretary of State for Science, Innovation and Technology.
+
+9
+
+The Secretary of State for Work and Pensions.
+
+10
+
+The Secretary of State for Levelling Up, Housing and Communities.
+
+11
+
+The Secretary of State for Culture, Media and Sport.
+
+12
+
+His Majesty’s Revenue and Customs.
+
+13
+
+A county council in England.
+
+14
+
+A district council in England.
+
+15
+
+A London borough council.
+
+16
+
+A combined authority established under section 103 of the Local Democracy,
+Economic Development and Construction Act 2009 .
+
+17
+
+The Common Council of the City of London in its capacity as a local authority.
+
+18
+
+The Council of the Isles of Scilly.
+
+19
+
+The Greater London Authority.
+
+20
+
+The Chief Land Registrar.
+
+21
+
+The Minister for the Cabinet Office.
+
+22
+
+The Secretary of State for Transport.
+
+23
+
+The Secretary of State for Environment, Food and Rural Affairs.
+
+24
+
+The Disclosure and Barring Service.
+
+##### Welsh Bodies
+
+25
+
+The Welsh Ministers.
+
+26
+
+The Welsh Revenue Authority.
+
+27
+
+A county council in Wales.
+
+28
+
+A community council in Wales.
+
+##### Scottish Bodies
+
+29
+
+The Scottish Ministers.
+
+30
+
+A council constituted under section 2 of the Local Government etc. (Scotland)
+Act 1994 .
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations relate to the disclosure of information in relation to
+public service delivery, pursuant to Chapter 1 of Part 5 of the Digital
+Economy Act  2017 (c. 30)  (“ the Act ”), and in particular to the creation of
+the digital identity verification services objective.
+
+  Regulation 2 amends Part 1 of Schedule 4 to the Act (UK and English Bodies),
+so as to add four further persons to the list of specified persons already
+contained in that Part. This is done because these four persons are to be
+amongst those specified persons from Schedule 4 who are specified in relation
+to the digital identity verification services objective.
+
+  Regulation 3 specifies the digital identity verification services objective
+as an objective for the purposes of section 35 of the Act (disclosure of
+information to improve public service delivery).
+
+  Regulation 4 specifies the persons from Schedule 4 to the Act that are
+specified persons in relation to the digital identity verification services
+objective. Regulation 4(2)(a) introduces the Schedule, Parts 1 to 3 of which
+list UK and English bodies, Welsh bodies and Scottish bodies respectively. By
+virtue of section 35(1) of the Act, a specified person in relation to a
+specified objective may disclose information held by the person in connection
+with any of the person’s functions to another person who is a specified person
+for the purposes of the same objective.
+
+  The effect of these Regulations is to expressly permit the disclosure of
+information between a number of Government Departments and other public
+bodies, with a view to making it easier and safer for people to prove their
+identity when seeking to access public services digitally.
+
+  A full impact assessment has not been produced for this instrument as no, or
+no significant, impact on the private, voluntary or public sectors is
+foreseen.
+

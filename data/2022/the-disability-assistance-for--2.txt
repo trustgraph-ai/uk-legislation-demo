@@ -1,0 +1,5422 @@
+Title: The Disability Assistance for Working Age People (Scotland) Regulations 2022
+Date: 2024-11-13
+Description: These Regulations make provision for Adult Disability Payment which is a type of disability assistance given by the Scottish Ministers under section 31 of the Social Security (Scotland) Act 2018.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ssi/2022/54
+
+## The Disability Assistance for Working Age People (Scotland) Regulations 2022
+
+Social Security
+
+Made 9th February 2022
+
+Coming into force 21st March 2022
+
+The Scottish Ministers make the following Regulations in exercise of the
+powers conferred by sections 13(3), 31(2), 36(2), 41(4)(a), 43(5), 51(1), 52
+and 95 of the Social Security (Scotland) Act 2018 , and all other powers
+enabling them to do so. In accordance with section 96(2) of that Act, a draft
+of these Regulations has been laid before and approved by resolution of the
+Scottish Parliament. In accordance with section 97(2) of that Act, the
+Scottish Ministers have informed the Scottish Commission on Social Security of
+their proposals, notified the Scottish Parliament that they have done so and
+made their proposals publicly available by such means as they consider
+appropriate.
+
+### Introductory and interpretation
+
+#### Citation and commencement
+
+1
+
+These Regulations may be cited as the Disability Assistance for Working Age
+People (Scotland) Regulations 2022 and come into force on 21 March 2022.
+
+#### Interpretation
+
+2
+
+In these Regulations—
+
+“ the 2018 Act ” means the Social Security (Scotland) Act 2018, “ Adult
+Disability Payment ” means disability assistance for adults given in
+accordance with these Regulations, “aid or appliance”— means any object or
+device which— the individual needs to be able to perform an activity, and
+improves, provides or replaces the individual’s impaired physical or mental
+function, includes an object or device which a person without a disability
+might choose to use for the same function, in relation to managing toilet
+needs includes the use of incontinence pads, and includes a prosthesis, “
+armed forces independence payment ” means the disability benefit paid in
+accordance with article 24A of the Armed Forces and Reserve Forces
+(Compensation Scheme) Order 2011 , “ assessment ” means an assessment as
+described in section 13(2) of the 2018 Act, “ Attendance Allowance ” means an
+attendance allowance under section 64 of the Social Security Contributions and
+Benefits Act 1992 , “ authorised provider of vehicles ” means a supplier of
+vehicles for persons with disabilities approved under an accreditation scheme
+run by the Scottish Ministers, “ award ” means that a determination has been
+made that an individual is entitled to be given assistance under section 24 of
+the 2018 Act in accordance with these Regulations, and cognate expressions are
+to be construed accordingly, “ care home ” means an establishment which
+provides a care home service as defined in paragraph 2 of schedule 12 of the
+Public Services Reform (Scotland) Act 2010  and includes a residential
+educational establishment, “ Child Disability Payment ” means disability
+assistance for children and young people given in accordance with the
+Disability Assistance for Children and Young People (Scotland) Regulations
+2021 , “ daily living component ” means the daily living component of Adult
+Disability Payment within the meaning of regulation 5, “ descriptor ” means a
+descriptor in column 2 of the tables in Parts 2 and 3 of schedule 1,
+“determination” and “determination of entitlement” have the meaning of
+“determination of entitlement” in section 25 of the 2018 Act, “ Disability
+Living Allowance ” means a disability living allowance under— section 71 of
+the Social Security Contributions and Benefits Act 1992 , or section 71 of the
+Social Security Contributions and Benefits (Northern Ireland) Act 1992 , ... “
+immigration rules ” means the rules laid before the United Kingdom Parliament
+under section 3(2) of the Immigration Act 1971 , “ legal detention ” means
+detention in legal custody within the meaning of section 295 of the Criminal
+Procedure (Scotland) Act 1995 , ... “ mobility component ” means the mobility
+component of Adult Disability Payment within the meaning of regulation 6,
+“needs” where used in relation to an aid or appliance, or supervision,
+prompting or assistance from another person, means that it is reasonably
+required, though it may not have been available or provided,   “ Pension Age
+Disability Payment ” means disability assistance for older people given in
+accordance with the Disability Assistance for Older People (Scotland)
+Regulations 2024,   “Personal Independence Payment”— means personal
+independence payment under— Part 4 of the Welfare Reform Act 2012 , or article
+82 of the Welfare Reform (Northern Ireland) Order 2015 , and includes a
+concessionary payment made in lieu of personal independence payment under
+arrangements by the Secretary of State with the consent of the Treasury, “
+previous award ” means an award of either or both components of Adult
+Disability Payment to which an individual has ceased to be entitled,   “
+qualifying services ” means accommodation, board and personal care,   “
+relevant date ” means the date referred to in regulation 13 or, where
+applicable, regulation 14 or 23, “ relevant EU Regulation ” means— one of the
+following Regulations— Council Regulation  (EC) No 1408/71  of 14 June 1971
+on the application of social security schemes to employed persons, to self-
+employed persons and to members of their families moving within the Community,
+Regulation  (EC) No 883/2004  of the European Parliament and of the Council of
+29 April 2004  on the coordination of social security systems, or in relation
+to an individual to whom the agreement constituted by the exchange of letters
+set out in the schedule of the Family Allowances, National Insurance and
+Industrial Injuries (Gibraltar) Order 1974  applies, a Regulation mentioned in
+paragraph (a) of this definition as it forms part of domestic law by virtue of
+section 3 of the European Union (Withdrawal) Act 2018 , “ residential
+educational establishment ” means a care home which provides education or
+training except for one where the costs of any qualifying services are borne
+wholly or partly out of public or local funds by virtue of— section 485 of the
+Education Act 1996  or section 14 of the Education Act 2002  (which relate to
+grants in aid of educational services), sections 49 or 73 of the Education
+(Scotland) Act 1980  (which relate respectively to the power of education
+authorities to assist persons to take advantage of educational facilities and
+the powers of the Secretary of State to make grants to education authorities
+and others), section 65 of the Further and Higher Education Act 1992 ,
+sections 39 or 40 of the Higher Education and Research Act 2017  or sections 4
+or 11 of the Further and Higher Education (Scotland) Act 2005  (which relate
+respectively to the funding of further education and the administration of
+funds), or section 22 of the Teaching and Higher Education Act 1998  (new
+arrangements for giving financial support to students), “ short-term
+assistance ” means short-term assistance given in accordance with Part 1 of
+schedule 2 of these Regulations, and “ week ” means a period of 7 days.
+
+### Disability Assistance for Working Age People
+
+#### Overview
+
+3
+
+3.1
+
+An individual is entitled to Adult Disability Payment in accordance with these
+Regulations if the individual meets the eligibility rules in—
+
+3.1.a
+
+regulation 4 (entitlement to other benefits),
+
+3.1.b
+
+regulations 15 to 21 (residence and presence conditions),
+
+3.1.c
+
+regulation 22 (age criteria), and
+
+3.1.d
+
+one or more of the following—
+
+3.1.d.i
+
+regulation 5 (daily living component),
+
+3.1.d.ii
+
+regulation 6 (mobility component),
+
+3.1.d.iii
+
+regulation 26 (entitlement under special rules for terminal illness).
+
+3.2
+
+Adult Disability Payment is to consist of a daily living component and a
+mobility component.
+
+3.3
+
+There are 2 weekly rates of the daily living component and 2 weekly rates of
+the mobility component and those rates are specified in regulation 34 (amount
+and form of Adult Disability Payment).
+
+#### Entitlement to other benefits
+
+4
+
+An individual is not entitled to Adult Disability Payment while they are
+entitled to—
+
+4.a
+
+armed forces independence payment,
+
+4.b
+
+Attendance Allowance,
+
+4.ba
+
+Pension Age Disability Payment,
+
+4.c
+
+Child Disability Payment,
+
+4.d
+
+Disability Living Allowance, or
+
+4.e
+
+Personal Independence Payment.
+
+### Eligibility: Daily Living Component and Mobility Component
+
+#### Daily Living Component
+
+5
+
+5.1
+
+An individual may be awarded the daily living component at either the standard
+rate or the enhanced rate.
+
+5.2
+
+An individual is entitled to the daily living component at the standard rate
+if—
+
+5.2.a
+
+the individual’s ability to carry out daily living activities is limited by
+the individual’s physical or mental condition or conditions, and
+
+5.2.b
+
+the individual meets the required period condition in accordance with
+regulation 11.
+
+5.3
+
+An individual is entitled to the daily living component at the enhanced rate
+if—
+
+5.3.a
+
+the individual’s ability to carry out daily living activities is severely
+limited by the individual’s physical or mental condition or conditions, and
+
+5.3.b
+
+the individual meets the required period condition in accordance with
+regulation 11.
+
+5.4
+
+For the purpose of these Regulations—
+
+5.4.a
+
+“daily living activities” are the activities set out in column 1 of the table
+in Part 2 of schedule 1, and “ a daily living activity ” is to be construed
+accordingly,
+
+5.4.b
+
+“ the standard rate ” in relation to the daily living component means the
+weekly rate of the daily living component set in regulation 34(1)(a),
+
+5.4.c
+
+“ the enhanced rate ” in relation to the daily living component means the
+weekly rate of the daily living component set in regulation 34(1)(b),
+
+5.5
+
+Whether a person has limited or severely limited ability to carry out daily
+living activities is to be determined in accordance with regulation 8 (scoring
+for daily living activities).
+
+#### Mobility Component
+
+6
+
+6.1
+
+An individual may be awarded the mobility component at either the standard
+rate or the enhanced rate.
+
+6.2
+
+An individual is entitled to the mobility component at the standard rate if—
+
+6.2.a
+
+the individual’s ability to carry out mobility activities is limited by the
+individual’s physical or mental condition or conditions, and
+
+6.2.b
+
+the individual meets the required period condition in accordance with
+regulation 12.
+
+6.3
+
+A individual is entitled to the mobility component at the enhanced rate if—
+
+6.3.a
+
+the individual’s ability to carry out mobility activities is severely limited
+by the individual’s physical or mental condition or conditions, and
+
+6.3.b
+
+the individual meets the required period condition in accordance with
+regulation 12.
+
+6.4
+
+For the purpose of these Regulations—
+
+6.4.a
+
+“mobility activities” are the activities set out in column 1 of the table in
+Part 3 of schedule 1, and “ a mobility activity ” is to be construed
+accordingly,
+
+6.4.b
+
+“ the standard rate ” in relation to the mobility component means the weekly
+rate of the mobility component set in regulation 34(2)(a),
+
+6.4.c
+
+“ the enhanced rate ” in relation to the mobility component means the weekly
+rate of the mobility component set in regulation 34(2)(b),
+
+6.5
+
+Whether a person has limited or severely limited ability to carry out mobility
+activities is to be determined in accordance with regulation 9 (scoring for
+mobility activities).
+
+#### Determination of ability to carry out activities
+
+7
+
+7.1
+
+An individual’s ability to carry out a daily living activity or mobility
+activity is to be determined—
+
+7.1.a
+
+on the basis of the individual’s ability whilst wearing or using any aid or
+appliance which the individual normally wears or uses, or
+
+7.1.b
+
+as if the individual were wearing or using any aid or appliance which the
+individual could reasonably be expected to wear or use.
+
+7.2
+
+An individual’s ability to carry out an activity is to be determined—
+
+7.2.a
+
+by reference to the descriptors for the activity set out in column 2 of the
+table in Part 2 of schedule 1  or, as the case may be, column 2 of the table
+in Part 3 of schedule 1 , and
+
+7.2.b
+
+on the basis of which descriptor applies for the individual to be able to
+carry out the activity—
+
+7.2.b.i
+
+safely,
+
+7.2.b.ii
+
+to an acceptable standard,
+
+7.2.b.iii
+
+repeatedly, and
+
+7.2.b.iv
+
+within a reasonable time period.
+
+7.3
+
+In this regulation—
+
+7.3.a
+
+“ safely ” means in a manner unlikely to cause harm to the individual or to
+another person, either during or after completion of the activity, with
+consideration given to—
+
+7.3.a.i
+
+the likelihood of harm, and
+
+7.3.a.ii
+
+the severity of the consequences of that harm,
+
+7.3.b
+
+“ to an acceptable standard ” means to a reasonable standard for the activity,
+taking account of the impact on the individual of carrying out the activity to
+that standard,
+
+7.3.c
+
+“ repeatedly ” means as often as the activity is reasonably required to be
+completed, and
+
+7.3.d
+
+“ reasonable time period ” means no more than twice as long as the maximum
+period that an individual without a physical or mental condition or conditions
+which limits that individual’s ability to carry out the activity in question
+would normally take to complete that activity.
+
+#### Scoring for daily living activities
+
+8
+
+8.1
+
+The score an individual obtains in relation to daily living activities is
+determined by adding together the number of points (if any) awarded for each
+activity listed in column 1 of the table in Part 2 of schedule 1.
+
+8.2
+
+For the purpose of paragraph (1), the number of points awarded to an
+individual for each activity listed in column 1 of the table is the number
+shown in column 3 of the table against whichever of the descriptors set out in
+column 2 of the table for the activity applies to the individual by virtue of
+regulation 10.
+
+8.3
+
+For the purposes of regulation 5, an individual has—
+
+8.3.a
+
+limited ability to carry out daily living activities where the individual
+obtains a score of at least 8 points and no more than 11 points in relation to
+daily living activities,
+
+8.3.b
+
+severely limited ability to carry out daily living activities where the
+individual obtains a score of at least 12 points in relation to daily living
+activities.
+
+#### Scoring for mobility activities
+
+9
+
+9.1
+
+The score an individual obtains in relation to mobility activities is
+determined by adding together the number of points (if any) awarded for each
+activity listed in column 1 of the table in Part 3 of schedule 1.
+
+9.2
+
+For the purpose of paragraph (1), the number of points awarded to an
+individual for each activity listed in column 1 of the table is the number
+shown in column 3 of the table against whichever of the descriptors set out in
+column 2 of the table for the activity applies to the individual by virtue of
+regulation 10.
+
+9.3
+
+For the purposes of regulation 6, an individual has—
+
+9.3.a
+
+limited ability to carry out mobility activities where the individual obtains
+a score of at least 8 points and no more than 11 points in relation to
+mobility activities,
+
+9.3.b
+
+severely limited ability to carry out mobility activities where the individual
+obtains a score of at least 12 points in relation to mobility activities.
+
+#### Scoring: further provision
+
+10
+
+10.1
+
+The descriptor which applies to an individual in relation to each activity in
+the tables referred to in regulations 8(2) and 9(2) is—
+
+10.1.a
+
+where one descriptor is satisfied on over 50% of the days of the required
+period, that descriptor,
+
+10.1.b
+
+where two or more descriptors are each satisfied on over 50% of the days of
+the required period, the descriptor which scores the higher or highest number
+of points, and
+
+10.1.c
+
+where no descriptor is satisfied on over 50% of the days of the required
+period but two or more descriptors (other than a descriptor which scores 0
+points) are satisfied for periods which, when added together, amount to over
+50% of the days of the required period—
+
+10.1.c.i
+
+the descriptor which is satisfied for the greater or greatest proportion of
+days of the required period, or
+
+10.1.c.ii
+
+where both or all descriptors are satisfied for the same proportion, the
+descriptor which scores the higher or highest number of points.
+
+10.2
+
+For the purposes of paragraph (1), a descriptor is satisfied on a day in the
+required period if the descriptor has been satisfied for any part of the day
+which is not minimal or fleeting.
+
+10.3
+
+In these Regulations, “ required period ” means—
+
+10.3.a
+
+where an individual’s entitlement to Adult Disability Payment falls to be
+determined, the period of 13 weeks ending with the relevant date together
+with—
+
+10.3.a.i
+
+in relation to an application after an interval (see regulations 14 and 23),
+the period of 39 weeks beginning with the date on which that application is
+made,
+
+10.3.a.ii
+
+in relation to any other application, the period of 39 weeks beginning with
+the day after the relevant date.
+
+10.3.b
+
+where Adult Disability Payment has been awarded to an individual—
+
+10.3.b.i
+
+during the period of 13 weeks following a determination of entitlement in the
+circumstances where regulation 14 or 23 applies, the period of 13 weeks ending
+with the relevant date together with, for each day of the award, the period of
+39 weeks beginning with the day after each day of the award,
+
+10.3.b.ii
+
+in any other case, for each day of the award, the period of 13 weeks ending
+with that day of the award together with the period of 39 weeks beginning with
+the day after that date.
+
+### Required Period Condition
+
+#### Required Period Condition: daily living component
+
+11
+
+An individual meets the required period condition for the purposes of
+regulation 5 where, if the individual’s ability to carry out the daily living
+activities were determined every day in the required period, it is likely that
+the Scottish Ministers would determine on all of those days that the
+individual had limited or, as the case may be, severely limited ability to
+carry out the daily living activities.
+
+#### Required Period Condition: mobility component
+
+12
+
+An individual meets the required period condition for the purposes of
+regulation 6 where, if the individual’s ability to carry out the mobility
+activities were determined every day in the required period, it is likely that
+the Scottish Ministers would determine on all of those days that the
+individual had limited or, as the case may be, severely limited ability to
+carry out the mobility activities.
+
+#### The relevant date
+
+13
+
+Except where regulation 14 or 23 applies, in these Regulations, the “relevant
+date” is—
+
+13.a
+
+where the individual has made an application for Adult Disability Payment
+which has not been determined—
+
+13.a.i
+
+the date of that application, or
+
+13.a.ii
+
+if later, the earliest date in relation to which, if the individual’s ability
+to carry out daily living activities or, as the case may be, mobility
+activities, had been determined on every day in the previous 13 weeks, it is
+likely that the Scottish Ministers would have determined on all of those days
+that the individual has limited ability or, as the case may be, severely
+limited ability to carry out those activities, and
+
+13.b
+
+where the individual has an award of either or both components, each day of
+that award.
+
+#### The relevant date: Adult Disability Payment after an interval
+
+14
+
+14.1
+
+This regulation does not apply where regulation 23 (Adult Disability Payment
+after an interval and after reaching the relevant age) applies.
+
+14.2
+
+Paragraphs (3) and (4) apply where—
+
+14.2.a
+
+an individual makes an application for Adult Disability Payment (“ the
+application ”),
+
+14.2.b
+
+that individual had a previous award of—
+
+14.2.b.i
+
+Adult Disability Payment,
+
+14.2.b.ii
+
+Child Disability Payment,
+
+14.2.b.iii
+
+Disability Living Allowance, or
+
+14.2.b.iv
+
+Personal Independence Payment,
+
+which ended not more than two years before the date on which the application
+is made,
+
+14.2.c
+
+the previous award referred to in sub-paragraph (b) consisted of the same
+component as the one to which the individual is entitled (or would be entitled
+if the individual met the required period condition) under the application,
+and
+
+14.2.d
+
+the Scottish Ministers determine that the entitlement under the application
+results from—
+
+14.2.d.i
+
+substantially the same physical or mental condition or conditions for which
+the previous award was made, or
+
+14.2.d.ii
+
+a new physical or mental condition or conditions which developed as a result
+of a condition for which the previous award was made.
+
+14.3
+
+In relation to determination of entitlement under the application, the
+relevant date for the purpose of regulation 10(3) is the date on which the
+previous award ended.
+
+14.4
+
+Where an individual is awarded either or both components under the
+application, in relation to continued entitlement to that component or, as the
+case may be, those components, the relevant date for the purpose of regulation
+10(3) is—
+
+14.4.a
+
+during the period of 13 weeks following the date of the application, the date
+on which the previous award ended,
+
+14.4.b
+
+in any other case, each day of the award.
+
+14.5
+
+For the purposes of this regulation—
+
+14.5.a
+
+an award of any of the following is to be treated as though it were an award
+of the daily living component of Adult Disability Payment—
+
+14.5.a.i
+
+the care component of Child Disability Payment,
+
+14.5.a.ii
+
+the care component of Disability Living Allowance, or
+
+14.5.a.iii
+
+the daily living component of Personal Independence Payment,
+
+14.5.b
+
+an award of any of the following is to be treated as though it were an award
+of the mobility component of Adult Disability Payment—
+
+14.5.b.i
+
+the mobility component of Child Disability Payment,
+
+14.5.b.ii
+
+the mobility component of Disability Living Allowance, or
+
+14.5.b.iii
+
+the mobility component of Personal Independence Payment.
+
+### Residence and Presence Conditions
+
+#### Residence and presence conditions
+
+15
+
+15.1
+
+An individual satisfies the residence and presence conditions where on any day
+that individual—
+
+15.1.a
+
+is ordinarily resident in Scotland,
+
+15.1.b
+
+is habitually resident in the common travel area,
+
+15.1.c
+
+is not a person subject to immigration control within the meaning of section
+115(9) of the Immigration and Asylum Act 1999 ,
+
+15.1.d
+
+is present in the common travel area, and
+
+15.1.e
+
+has been present in the common travel area for a period of, or for periods
+amounting in the aggregate to, not less than 26 weeks out of the 52 weeks
+immediately preceding that day.
+
+15.2
+
+In this Part, “ common travel area ” has the meaning given in section 1(3) of
+the Immigration Act 1971 .
+
+15.3
+
+The residence condition set out in paragraph (1)(a) does not apply in relation
+to the daily living component where on any day the individual—
+
+15.3.a
+
+is habitually resident in Ireland,
+
+15.3.b
+
+has a genuine and sufficient link to Scotland, and
+
+15.3.c
+
+is an individual—
+
+15.3.c.i
+
+to whom the Convention on Social Security between the Government of the United
+Kingdom of Great Britain and Northern Ireland and the Government of Ireland
+signed at Dublin on 1 February 2019 , as modified from time to time in
+accordance with any provision of it, applies, and
+
+15.3.c.ii
+
+in respect of whom the United Kingdom is, as a result, competent for payment
+of long term care benefits.
+
+15.4
+
+The reference in paragraph (3)(b) to an individual’s link to Scotland being
+sufficient is to it being sufficiently close that if the individual were not
+entitled to Adult Disability Payment, paragraph (3) would be incompatible with
+the Convention on Social Security between the Government of the United Kingdom
+of Great Britain and Northern Ireland and the Government of Ireland signed at
+Dublin on 1 February 2019.
+
+15.5
+
+Paragraph (1)(c) does not apply to a person subject to immigration control
+within the meaning of section 115(9) of the Immigration and Asylum Act 1999
+where the person—
+
+15.5.a
+
+is lawfully working in United Kingdom and is a national of a state with which
+the United Kingdom has concluded an agreement which replaces in whole or in
+part an agreement under Article 217 of the Treaty on the Functioning of the
+European Union  which has ceased to apply to, and in, the United Kingdom,
+providing, in the field of social security, for the equal treatment of workers
+who are nationals of the signatory state and their families,
+
+15.5.b
+
+is a member of the family of, and living with, a person specified in sub-
+paragraph (a), or
+
+15.5.c
+
+has been given leave to enter, or remain in, the United Kingdom by the
+Secretary of State upon an undertaking by another person or persons pursuant
+to the immigration rules, to be responsible for their maintenance and
+accommodation.
+
+15.6
+
+The past presence condition in paragraph (1)(e) does not apply where an
+individual has a terminal illness within the meaning of regulation 26.
+
+15.7
+
+The residence and presence conditions set out in paragraphs (1)(b) and (1)(e)
+do not apply where an individual is a person who—
+
+15.7.a
+
+has leave to enter or remain in the United Kingdom granted under the
+immigration rules by virtue of—
+
+15.7.a.i
+
+the Afghan Relocations and Assistance Policy, or
+
+15.7.a.ii
+
+the previous scheme for locally-employed staff in Afghanistan (sometimes
+referred to as the ex-gratia scheme),
+
+15.7.b
+
+has been granted discretionary leave outside the immigration rules as a
+dependant of a person referred to in sub-paragraph (a),  ...
+
+15.7.c
+
+has leave granted under the Afghan Citizens Resettlement Scheme,  ...
+
+15.7.d
+
+has leave to enter or remain in the United Kingdom granted under or outside
+the immigration rules,   has a right   of abode in the United Kingdom within
+the meaning given in section 2 of the Immigration Act 1971    or does not
+require leave to enter or remain in the United Kingdom in accordance with
+section 3ZA of that Act , where the individual—
+
+15.7.d.i
+
+was residing in Ukraine immediately before 1 January 2022, and
+
+15.7.d.ii
+
+left Ukraine in connection with the Russian invasion which took place on 24
+February 2022  ,  ...
+
+15.7.e
+
+has leave to enter or remain in the United Kingdom granted under or outside
+the immigration rules, has a right of abode in the United Kingdom within the
+meaning given in section 2 of the Immigration Act 1971 or does not require
+leave to enter or remain in the United Kingdom in accordance with section 3ZA
+of that Act, where the individual—
+
+15.7.e.i
+
+was residing in Sudan before 15 April 2023, and
+
+15.7.e.ii
+
+left Sudan in connection with the violence which rapidly escalated on 15 April
+2023 in Khartoum and across Sudan , or
+
+15.7.f
+
+has leave to enter or remain in the United Kingdom granted under or outside
+the immigration rules, has a right of abode in the United Kingdom within the
+meaning given in section 2 of the Immigration Act 1971 or does not require
+leave to enter or remain in the United Kingdom in accordance with section 3ZA
+of that Act, where the individual—
+
+15.7.f.i
+
+was residing in Israel, the West Bank, the Gaza Strip, East Jerusalem, the
+Golan Heights or Lebanon immediately before 7 October 2023, and
+
+15.7.f.ii
+
+left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights
+or Lebanon in connection with the Hamas terrorist attack in Israel on 7
+October 2023 or the violence which rapidly escalated in the region following
+the attack
+
+15.8
+
+For the purposes of paragraph (7), “ the Afghan Citizens Resettlement Scheme ”
+means the scheme announced by the United Kingdom Government on 18 August 2021
+.
+
+#### Temporary absence from the common travel area
+
+16
+
+16.1
+
+Where an individual is temporarily absent from the common travel area, the
+individual is to be treated as present in the common travel area for—
+
+16.1.a
+
+the first 13 weeks of that absence for any reason, or
+
+16.1.b
+
+the first 26 weeks of that absence where—
+
+16.1.b.i
+
+after the first 13 weeks, the absence is in connection with arrangements made
+for the medical treatment of the individual for a disease or bodily or mental
+disablement which commenced before leaving the common travel area, and
+
+16.1.b.ii
+
+the arrangements relate to medical treatment—
+
+16.1.b.ii.aa
+
+outside the common travel area,
+
+16.1.b.ii.bb
+
+during the period when the individual is temporarily absent from the common
+travel area, and
+
+16.1.b.ii.cc
+
+by, or under the supervision of, a person appropriately qualified to carry out
+that treatment.
+
+16.2
+
+For the purposes of paragraph (1)—
+
+16.2.a
+
+an individual is “temporarily absent” if, at the beginning of the period of
+absence, that absence is unlikely to exceed 52 weeks, and
+
+16.2.b
+
+“ medical treatment ” means medical, surgical, psychological or rehabilitative
+treatment (including any course or diet regimen).
+
+#### Serving members of Her Majesty’s forces, civil servants and their family members
+
+17
+
+17.1
+
+A relevant individual is treated as meeting the residence and presence
+conditions set out in regulations 15(1)(a), (b) and (d) where on any day that
+individual is outside the common travel area—
+
+17.1.a
+
+by reason of their capacity mentioned in paragraph (3)(a) provided that the
+individual satisfied the residence and presence conditions set out in
+regulation 15(1)(a), (b) and (d) immediately prior to the start of their
+employment mentioned in paragraph (3)(a), or
+
+17.1.b
+
+by reason of being a person mentioned in paragraph (3)(b) living with an
+individual to whom paragraph (3)(a) applies.
+
+17.2
+
+The past presence condition set out in regulation 15(1)(e) does not apply to a
+relevant individual.
+
+17.3
+
+A “relevant individual” in paragraph (1) and (2) means an individual who is—
+
+17.3.a
+
+outside of the common travel area in their capacity as a—
+
+17.3.a.i
+
+serving member of Her Majesty’s forces, or
+
+17.3.a.ii
+
+civil servant, or
+
+17.3.b
+
+living with a person mentioned in sub-paragraph (a) and—
+
+17.3.b.i
+
+is the child, step-child or child in care of that person,
+
+17.3.b.ii
+
+is the parent, step-parent or parent-in-law of that person, or
+
+17.3.b.iii
+
+is married to or in a civil partnership with that person, or is living
+together with that person as if they were married or in a civil partnership.
+
+17.4
+
+In this regulation—
+
+“ child in care ” means— under the law of Scotland, a child in respect of whom
+a relevant individual listed in paragraph (3)(a)— is a foster carer within the
+meaning of regulation 2 of the Looked After Children (Scotland) Regulations
+2009 , is a kinship carer within the meaning of regulation 2 of the Looked
+After Children (Scotland) Regulations 2009, has a kinship care order within
+the meaning of section 72 of the Children and Young People (Scotland) Act 2014
+, or under the law of England and Wales and Northern Ireland, a child in
+respect of whom a person listed in paragraph (3)(a) has a relationship
+equivalent to those listed under the law of Scotland, ... “ civil servant ”
+has the meaning given by section 1(4) of the Constitutional Reform and
+Governance Act 2010 , ... “ serving member of Her Majesty’s forces ” means a
+member of a regular force or a reserve force (“ M ”) as defined, in each case,
+by section 374 (definitions applying for purposes of the whole Act) of the
+Armed Forces Act 2006 , unless— M is under the age of 16, M is committing an
+offence under section 8 of the Armed Forces Act 2006 (desertion), the force
+concerned is one of Her Majesty’s naval forces which M locally entered at an
+overseas base without— previously being an insured person under the National
+Insurance Act 1965 , or paying or having previously paid one or more of the
+following classes of contributions under the Social Security Act 1975  or the
+Social Security Contributions and Benefits Act 1992 — primary Class 1, Class
+2, or Class 3, or the force concerned is one of Her Majesty’s military forces
+or Her Majesty’s air forces which M entered, or was recruited for, outside the
+United Kingdom and— where that force is one of Her Majesty’s military forces,
+the depot for M’s unit is outside the United Kingdom, or where that force is
+one of Her Majesty’s air forces, M is liable under the terms of M’s engagement
+to serve only in a specified area outside the United Kingdom.
+
+#### Aircraft workers, mariners and continental shelf operations
+
+18
+
+18.1
+
+An individual is to be treated as meeting the presence conditions set out in
+regulation 15(1)(d) and (e) for any period where that individual is—
+
+18.1.a
+
+outside the common travel area in their capacity as an aircraft worker or a
+mariner, or
+
+18.1.b
+
+in employment prescribed for the purposes of section 120 (employment at sea
+(continental shelf operations)) of the Social Security Contributions and
+Benefits Act 1992  in connection with continental shelf operations.
+
+18.2
+
+In this regulation—
+
+“ aircraft worker ” means a person who is, or has been, employed under a
+contract of service either as a pilot, commander, navigator or other member of
+the crew of any aircraft, or in any other capacity on board any aircraft
+where— the employment in that other capacity is for the purposes of the
+aircraft or its crew or of any passengers or cargo or mail carried on that
+aircraft, and the contract is entered into in the United Kingdom with a view
+to its performance (in whole or in part) while the aircraft is in flight,
+
+but does not include a person so far as that employment is as a serving member
+of Her Majesty’s forces, and
+
+“ mariner ” means a person who is, or has been, in employment under a contract
+of service either as a master or member of the crew of any ship or vessel, or
+in any other capacity on board any ship or vessel where— the employment in
+that other capacity is for the purposes of that ship or vessel or its crew or
+any passengers or cargo or mail carried by the ship or vessel, and the
+contract is entered into in the United Kingdom with a view to its performance
+(in whole or in part) while the ship or vessel is on voyage,
+
+but does not include a person in so far as that employment is as a serving
+member of Her Majesty’s forces.
+
+#### Persons residing in the United Kingdom to whom a relevant EU regulation applies
+
+19
+
+The past presence condition set out in regulation 15(1)(e) does not apply
+where on any day the individual is—
+
+19.a
+
+ordinarily resident in Scotland,
+
+19.b
+
+habitually resident in the United Kingdom,
+
+19.c
+
+an individual—
+
+19.c.i
+
+to whom the rules set out in a relevant EU regulation apply by virtue of—
+
+19.c.i.aa
+
+Title III of Part 2 of the EU withdrawal agreement,
+
+19.c.i.bb
+
+Part 3 or Article 23(4) of the Swiss citizens’ rights agreement (as defined in
+section 39(1) of the European Union (Withdrawal Agreement) Act 2020 (“ the
+2020 Act ”) ,
+
+19.c.i.cc
+
+Title III of the EEA EFTA separation agreement (as defined in section 39(1) of
+the 2020 Act), or
+
+19.c.i.dd
+
+the agreement constituted by the exchange of letters set out in the schedule
+of the Family Allowances, National Insurance and Industrial Injuries
+(Gibraltar) Order 1974 , and
+
+19.c.ii
+
+in respect of whom the United Kingdom is, as a result, competent for payment
+of sickness benefits in cash.
+
+#### Persons residing outside the United Kingdom to whom a relevant EU regulation applies
+
+20
+
+20.1
+
+The residence and presence conditions set out in regulation 15(1) do not apply
+in relation to the daily living component where on any day the individual
+satisfies the conditions in paragraph (2).
+
+20.2
+
+The conditions referred to in paragraph (1) are that the individual must—
+
+20.2.a
+
+be an individual—
+
+20.2.a.i
+
+to whom the rules set out in a relevant EU regulation apply by virtue of—
+
+20.2.a.i.aa
+
+Title III of Part 2 of the EU withdrawal agreement,
+
+20.2.a.i.bb
+
+Part 3 or Article 23(4) of the Swiss citizens’ rights agreement (as defined in
+section 39(1) of the European Union (Withdrawal Agreement) Act 2020 (“ the
+2020 Act ”)),
+
+20.2.a.i.cc
+
+Title III of the EEA EFTA separation agreement (as defined in section 39(1) of
+the 2020 Act), or
+
+20.2.a.i.dd
+
+the agreement constituted by the exchange of letters set out in the schedule
+of the Family Allowances, National Insurance and Industrial Injuries
+(Gibraltar) Order 1974, and
+
+20.2.a.ii
+
+in respect of whom the United Kingdom is, as a result, competent for payment
+of sickness benefits in cash,
+
+20.2.b
+
+be habitually resident in—
+
+20.2.b.i
+
+Switzerland,
+
+20.2.b.ii
+
+an EEA state, or
+
+20.2.b.iii
+
+Gibraltar, and
+
+20.2.c
+
+have a genuine and sufficient link to Scotland.
+
+20.3
+
+The reference in paragraph (2)(c) to an individual’s link to Scotland being
+sufficient is to it being sufficiently close that if the individual were not
+entitled to Adult Disability Payment, paragraph (2) would be incompatible with
+the applicable agreement mentioned in sub-paragraph (a)(i) of that paragraph.
+
+20.4
+
+In this regulation, “ EEA State ” means—
+
+20.4.a
+
+any member state of the European Union, or
+
+20.4.b
+
+any other state that is party to the agreement on the European Economic Area
+signed at Oporto on 2 May 1992 , together with the Protocol adjusting that
+Agreement signed at Brussels on 17 March 1993 , as modified or supplemented
+from time to time.
+
+#### No entitlement to daily living component where UK is not competent state
+
+20A
+
+An individual to whom a relevant EU Regulation applies is not entitled to the
+daily living component for a period unless during that period the United
+Kingdom is competent for payment of sickness benefits in cash to the
+individual for the purposes of the relevant EU Regulation in question.
+
+#### Refugees
+
+21
+
+The residence and presence conditions set out in regulations 15(1)(b) and (e)
+do not apply where an individual has—
+
+21.a
+
+been granted refugee status or humanitarian protection under the immigration
+rules, or
+
+21.b
+
+leave to enter or remain in the United Kingdom as the dependant of a person
+granted refugee status or humanitarian protection under the immigration rules.
+
+### Entitlement under rules relating to age
+
+#### Age Criteria
+
+22
+
+22.1
+
+Adult Disability Payment may be paid in respect of an individual who—
+
+22.1.a
+
+is at least 16 years of age, and
+
+22.1.b
+
+has not reached the relevant age.
+
+22.2
+
+In this Part, “ the relevant age ” means—
+
+22.2.a
+
+pensionable age (within the meaning given by the rules in paragraph 1 of
+schedule 4 to the Pensions Act 1995 ), or
+
+22.2.b
+
+if higher, 65.
+
+22.3
+
+Where an individual was born on 29 February, their birthday is to be taken to
+fall on 28 February in a year which is not a leap year.
+
+22.4
+
+Paragraph (1)(b) is subject to the exceptions provided in regulations 23 and
+24.
+
+#### Exceptions: Adult Disability Payment after an interval and after reaching the relevant age
+
+23
+
+23.1
+
+This regulation applies where—
+
+23.1.a
+
+an individual has reached the relevant age,
+
+23.1.b
+
+the individual makes an application for Adult Disability Payment and—
+
+23.1.b.i
+
+they had a previous award of Adult Disability Payment which ended not more
+than one year before the day the new application is made, or
+
+23.1.b.ii
+
+they had a previous award of Personal Independence Payment or Disability
+Living Allowance which ended not more than one year before the day the new
+application is made,
+
+23.1.c
+
+the previous award referred to in sub-paragraph (b) consisted of the same
+component as the one to which the individual is entitled (or would be entitled
+if they met the required period condition) under the new application, and
+
+23.1.d
+
+the Scottish Ministers determine that the entitlement under the new
+application results from—
+
+23.1.d.i
+
+substantially the same physical or mental condition or conditions for which
+the previous award was made, or
+
+23.1.d.ii
+
+a new physical or mental condition or conditions which developed as a result
+of a condition for which the previous award was made.
+
+23.2
+
+Where an application for Adult Disability Payment is made in terms of
+paragraph (1)—
+
+23.2.a
+
+regulation 22(1)(b) does not apply, and
+
+23.2.b
+
+paragraphs (5) and (6) apply to the determination of entitlement under the new
+application.
+
+23.3
+
+In relation to determination of entitlement under the new application, the
+relevant date for the purpose of regulation 10(3) is the date on which the
+previous award ended.
+
+23.4
+
+Where an individual is awarded either or both components under the new
+application, in relation to continued entitlement to that component or, as the
+case may be, those components, the relevant date for the purpose of regulation
+10(3) is—
+
+23.4.a
+
+during the period of 13 weeks following the date of the new application, the
+date on which the previous award ended,
+
+23.4.b
+
+in any other case, each day of the award.
+
+23.5
+
+Where the Scottish Ministers determine that the individual has severely
+limited ability to carry out mobility activities—
+
+23.5.a
+
+the individual is entitled to the enhanced rate of the mobility component only
+if they were entitled to that rate of that component under the previous award,
+and
+
+23.5.b
+
+where the individual is not entitled to the enhanced rate of that component
+because of sub-paragraph (a), they are entitled to the standard rate of that
+component provided that they were entitled to that rate of that component
+under the previous award.
+
+23.6
+
+Where the Scottish Ministers determine that the individual has limited ability
+to carry out mobility activities, the individual is entitled to the standard
+rate of the mobility component only if they were entitled to that component,
+at either rate, under the previous award.
+
+23.7
+
+For the purposes of this regulation—
+
+23.7.a
+
+an award of either of the following is to be treated as though it were an
+award of the daily living component of Adult Disability Payment—
+
+23.7.a.i
+
+the care component of Disability Living Allowance, or
+
+23.7.a.ii
+
+the daily living component of Personal Independence Payment, and
+
+23.7.b
+
+an award of either of the following is to be treated as though it were an
+award of the mobility component of Adult Disability Payment—
+
+23.7.b.i
+
+the mobility component of Daily Living Allowance, or
+
+23.7.b.ii
+
+the mobility component of Personal Independence Payment.
+
+#### Persons who have reached the relevant age: other exceptions
+
+24
+
+Regulation 22(1)(b) does not apply where the individual has reached the
+relevant age, including for the purposes of any determination of their
+entitlement to Adult Disability Payment made after they have reached the
+relevant age, if they—
+
+24.a
+
+were entitled to an award of either or both components of Adult Disability
+Payment on the day preceding the day on which they reached the relevant age,
+
+24.b
+
+made an application for Adult Disability Payment before reaching the relevant
+age and that application was not determined before they reached that age, but
+an award of either or both components would be made in respect of the
+individual but for regulation 22(1)(b),  ...
+
+24.c
+
+are a transferring individual in terms of Part 3 of schedule 2  , or
+
+24.d
+
+are a transferring individual in terms of the Disability Assistance for
+Working Age People (Transitional Provisions and Miscellaneous Amendment)
+(Scotland) Regulations 2022.
+
+#### Determination of an award after the person has reached the relevant age
+
+25
+
+25.1
+
+This regulation applies where—
+
+25.1.a
+
+the individual—
+
+25.1.a.i
+
+has reached the relevant age, and
+
+25.1.a.ii
+
+is entitled to an award (“ the original award ”)  ... of Adult Disability
+Payment, pursuant to an exception in regulation 23 or 24, and
+
+25.1.b
+
+the Scottish Ministers are under a duty to make a subsequent determination of
+their entitlement by way of a determination without an application under
+regulation 48(a).
+
+25.2
+
+The restrictions in paragraph (3) apply in relation to a determination
+referred to in paragraph (1)(b) where—
+
+25.2.a
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+25.2.b
+
+the determination is being made under regulation 48(a) in relation to—
+
+25.2.b.i
+
+a change of circumstances which occurred after the person reached the relevant
+age, or
+
+25.2.b.ii
+
+a material fact which the Scottish Ministers were not previously aware of, or
+medical evidence received from a healthcare professional or other person
+approved by the Scottish Ministers, where the Scottish Ministers become aware
+of the material fact or medical evidence after the individual reached the
+relevant age.
+
+25.3
+
+The restrictions referred to in paragraph (2) are—
+
+25.3.a
+
+where the original mobility component award is for the standard rate then,
+regardless of whether the award would otherwise have been for the enhanced
+rate, the Scottish Ministers—
+
+25.3.a.i
+
+may only make an award for the standard rate of that component, and
+
+25.3.a.ii
+
+may only make such an award where entitlement results from substantially the
+same condition or conditions in respect of which the mobility component in the
+original award was given,
+
+25.3.b
+
+where the original mobility component award is for the enhanced rate, the
+Scottish Ministers may only award that rate of that component where
+entitlement results from substantially the same condition or conditions in
+respect of which the mobility component in the original award was given.
+
+25.3.c
+
+where the original award did not include an award of the mobility component,
+the Scottish Ministers may not award that component at either the standard or
+enhanced rate.
+
+25.4
+
+Where the original award does not include an award of the mobility component
+but the individual had—
+
+25.4.a
+
+a previous award of—
+
+25.4.a.i
+
+the mobility component of Adult Disability Payment,
+
+25.4.a.ii
+
+the mobility component of Personal Independence Payment, or
+
+25.4.a.iii
+
+the mobility component of Disability Living Allowance, and
+
+25.4.b
+
+the previous award of the component under sub-paragraph (a) ceased no more
+than 1 year prior to the date on which the determination referred to in
+paragraph (1)(b) takes or would take effect,
+
+for the purpose of this regulation, entitlement under that previous award is
+to be treated as if it were under the original award.
+
+25.5
+
+Paragraph (2)(b)(ii) does not include medical evidence in the form of a
+clinical judgement which was made in accordance with regulation 26(7) and (8)
+before the individual reached the relevant age.
+
+25.6
+
+In this regulation, “ healthcare professional ” means a—
+
+25.6.a
+
+registered medical practitioner,
+
+25.6.b
+
+registered nurse, or
+
+25.6.c
+
+healthcare professional who is registered by the Health and Care Professions
+Council.
+
+### Entitlement under special rules for terminal illness
+
+#### Entitlement under special rules for terminal illness
+
+26
+
+26.1
+
+An individual who has a terminal illness is to be treated as satisfying the
+conditions for the enhanced rate of both the daily living component and the
+mobility component of Adult Disability Payment.
+
+26.2
+
+Paragraph (1) applies regardless of the period of time for which the
+individual has had the terminal illness.
+
+26.3
+
+An individual to whom this regulation applies is to be treated as though—
+
+26.3.a
+
+they have obtained the maximum points for each activity listed in column 1 of
+the tables in Part 2 and Part 3 of schedule 1, and
+
+26.3.b
+
+they have satisfied regulations 5(3) and 6(3).
+
+26.4
+
+Subject to paragraphs (5) and (6), the individual’s entitlement to the rates
+referred to in paragraph (1) begins on the date on which—
+
+26.4.a
+
+the individual’s application for Adult Disability Payment was made, where the
+application included information about the individual’s terminal illness,
+
+26.4.b
+
+the Scottish Ministers became aware of the individual’s terminal illness
+(whether as a result of the individual notifying a change in circumstances or
+otherwise), where the individual was previously awarded, and has an ongoing
+entitlement to, Adult Disability Payment, on the basis of a determination that
+the individual was entitled to the daily living component or the mobility
+component or both in relation to a condition other than terminal illness, or
+
+26.4.c
+
+the clinical judgement was made in accordance with paragraphs (7) and (8)
+(“the judgement”),
+
+whichever is the earlier.
+
+26.5
+
+Where the judgement mentioned in paragraph (4)(c) is dated not more than 26
+weeks earlier than whichever date in paragraph (4)(a) or (b) applies (“the
+applicable date”), the Scottish Ministers have the power, when making their
+determination, to specify that an individual’s entitlement begins—
+
+26.5.a
+
+up to a maximum of 26 weeks prior to the applicable date, and
+
+26.5.b
+
+on or after the day these Regulations come into force.
+
+26.6
+
+Where the judgement mentioned in paragraph (4)(c)—
+
+26.6.a
+
+is dated more than 26 weeks earlier than whichever date in paragraph (4)(a) or
+(b) applies (“the applicable date”), and
+
+26.6.b
+
+an appropriate healthcare professional confirms that the judgement is still
+accurate by making a judgement in accordance with paragraphs (7) and (8),
+
+an individual’s entitlement can only begin—
+
+26.6.c
+
+up to a maximum of 26 weeks prior to the applicable date, and
+
+26.6.d
+
+on or after the day these Regulations come into force.
+
+26.7
+
+For the purposes of these Regulations an individual is to be regarded as
+having a terminal illness for the purpose of determining entitlement to Adult
+Disability Payment if it is the clinical judgement of an appropriate
+healthcare professional that the individual has a progressive disease that can
+reasonably be expected to cause the individual’s death.
+
+26.8
+
+Subject to paragraph (9), an appropriate healthcare professional exercising
+the judgement described in paragraph (7) must have regard to the guidance
+prepared and made publically available by the Chief Medical Officer of the
+Scottish Administration in accordance with paragraph 1(3) of schedule 5 of the
+2018 Act .
+
+26.9
+
+Where regulation 20 (persons residing outside the United Kingdom to whom a
+relevant EU regulation applies) applies to the individual, an appropriate
+healthcare professional mentioned in paragraph 10(b) need not have regard to
+the guidance mentioned in paragraph (8) where it would not be reasonable in
+the circumstances to insist on the judgement being formed with regard to that
+guidance.
+
+26.10
+
+In this regulation, “ an appropriate healthcare professional ” means—
+
+26.10.a
+
+a registered medical practitioner or a registered nurse who is—
+
+26.10.a.i
+
+involved in the diagnosis or care of the individual, and
+
+26.10.a.ii
+
+acting in their professional capacity, or
+
+26.10.b
+
+where regulation 20 applies to the individual, a person who—
+
+26.10.b.i
+
+has equivalent qualifications to a registered medical practitioner or a
+registered nurse in an EEA state, Gibraltar or Switzerland,
+
+26.10.b.ii
+
+is a member of the professional body equivalent to the General Medical Council
+or Nursing and Midwifery Council in that EEA state, Gibraltar or Switzerland,
+and
+
+26.10.b.iii
+
+meets the requirements of sub-paragraph (a)(i) and (ii).
+
+26.11
+
+Where an individual has previously received Adult Disability Payment or a
+benefit listed in paragraph 12(a) for a period and a determination is
+subsequently made that the individual is entitled to Adult Disability Payment
+at a higher rate for that period by virtue of this regulation, that individual
+will be entitled to the difference between the value of entitlement to Adult
+Disability Payment under the subsequent determination and the value of Adult
+Disability Payment or the benefit listed in paragraph 12(a) to which that
+individual was previously entitled for that period.
+
+26.12
+
+For the purpose of paragraph 11—
+
+26.12.a
+
+the benefits are—
+
+26.12.a.i
+
+armed forces independence payment,
+
+26.12.a.ii
+
+Attendance Allowance,
+
+26.12.a.iia
+
+Pension Age Disability Payment,
+
+26.12.a.iii
+
+Child Disability Payment,
+
+26.12.a.iv
+
+Disability Living Allowance, or
+
+26.12.a.v
+
+Personal Independence Payment, and
+
+26.12.b
+
+regulation 4 (entitlement to other benefits) is treated as omitted.
+
+### Effect of time spent in care homes, hospital and legal detention
+
+#### Effect of admission to a care home on ongoing entitlement to daily living component
+
+27
+
+27.1
+
+This regulation applies where an individual who has an ongoing entitlement to
+the daily living component of Adult Disability Payment becomes a resident of a
+care home.
+
+27.2
+
+Subject to paragraphs (4) and (5) and regulation 29, on the day after the day
+on which the individual has been resident in a care home for 28 days, and for
+so long as the individual continues to reside in such a home, the value of the
+daily living component of Adult Disability Payment that is to be given to the
+individual is to be £0 instead of the values set out in regulation 34 (amount
+and form of Adult Disability Payment).
+
+27.3
+
+The 28 days referred to in paragraph (2) may comprise two or more separate
+periods, provided that there is no more than 28 days between each period.
+
+27.4
+
+Paragraph (2) does not apply to a resident in a care home, where the full
+costs of any qualifying services are met—
+
+27.4.a
+
+entirely out of the resources of the individual for whom the qualifying
+services are provided,
+
+27.4.b
+
+partly out of the resources of the individual for whom the qualifying services
+are provided and partly out of the resources of another person (other than a
+local authority) or assistance from a charity, or
+
+27.4.c
+
+entirely out of the resources of another person (other than a local authority)
+or assistance from a charity.
+
+27.5
+
+For the purposes of this regulation, an individual is not resident in a care
+home during any period when the individual is being looked after by a local
+authority and—
+
+27.5.a
+
+has been placed temporarily in a private dwelling with a family, relative or
+some other suitable person while aged between 16 and 18 and receiving services
+under Part II of the Children (Scotland) Act 1995  by virtue of being a child
+in need within the meaning of section 93(4)(a)(ii) (impairment of health), or
+93(4)(a)(iii) (disability) of that Act, or
+
+27.5.b
+
+is accommodated in a care home outside the United Kingdom, where the costs of
+any qualifying services are met wholly or partly by a local authority
+exercising its powers under section 25 of the Education (Additional Support
+for Learning) (Scotland) Act 2004 (attendance at establishments outwith the
+United Kingdom) .
+
+27.6
+
+For the purposes of this regulation and regulation 32 (entitlement beginning
+while in alternative accommodation), reference to an individual being “ looked
+after by a local authority ” is to be construed, as the case may be, in
+accordance with—
+
+27.6.a
+
+section 17(6) of the Children (Scotland) Act 1995 ,
+
+27.6.b
+
+section 105(4) of the Children Act 1989 , or
+
+27.6.c
+
+article 25 of the Children (Northern Ireland) Order 1995 .
+
+#### Effect of admission to hospital on ongoing entitlement to Adult Disability Payment
+
+28
+
+28.1
+
+This regulation applies where an individual who is aged 18 years or older and
+has an ongoing entitlement to either component of Adult Disability Payment—
+
+28.1.a
+
+is undergoing medical or other treatment as an in-patient at a hospital or
+similar institution, and
+
+28.1.b
+
+any of the costs of the treatment, accommodation and any related services
+provided for them are borne out of public funds.
+
+28.2
+
+Subject to regulation 29, on the day after the day on which the individual has
+been an in-patient in a hospital or similar institution for 28 days, and for
+so long as the individual continues to be an in-patient in such an
+institution, the value of each component of Adult Disability Payment that is
+to be given to the individual is £0 instead of the values set out in
+regulation 34 (amount and form of Adult Disability Payment).
+
+28.3
+
+The 28 days referred to in paragraph (2) may comprise two or more separate
+periods, provided that there is no more than 28 days between each period.
+
+28.4
+
+For the purposes of paragraph (1), the costs of treatment, accommodation or
+any related services are borne out of public funds if the individual is
+undergoing medical or other treatment as an in-patient in—
+
+28.4.a
+
+a hospital or similar institution under—
+
+28.4.a.i
+
+the National Health Service Act 2006 ,
+
+28.4.a.ii
+
+the National Health Service (Wales) Act 2006 ,  ...
+
+28.4.a.iii
+
+the National Health Service (Scotland) Act 1978 , or
+
+28.4.a.iv
+
+a hospital or similar institution under the Health and Personal Social
+Services (Northern Ireland) Order 1972 or the Health and Personal Social
+Services (Northern Ireland) Order 1991,
+
+28.4.b
+
+a hospital or similar institution maintained or administered by the Defence
+Council .
+
+28.5
+
+This regulation does not apply where an individual was under the age of 18 on
+the day on which they began their current period undergoing medical or other
+treatment as an in-patient at a hospital or similar institution.
+
+#### Exception: Hospices
+
+29
+
+29.1
+
+Regulations 27(2) and 28(2) do not apply where the individual is residing in a
+hospice and has a terminal illness.
+
+29.2
+
+In this regulation, “ hospice ” means a hospital or other institution whose
+primary function is to provide palliative care for persons resident there who
+are suffering from a progressive disease in its final stages, other than—
+
+29.2.a
+
+a health service hospital (within the meaning of section 108(1) of the
+National Health Service (Scotland) Act 1978 ) in Scotland,
+
+29.2.b
+
+a health service hospital (within the meaning of section 275(1) of the
+National Health Service Act 2006 ) in England,
+
+29.2.c
+
+a hospital in Wales vested in—
+
+29.2.c.i
+
+an NHS trust,
+
+29.2.c.ii
+
+a Local Health Board, or
+
+29.2.c.iii
+
+the Welsh Ministers,
+
+for the purpose of functions under the National Health Service (Wales) Act
+2006 ,
+
+29.2.ca
+
+a hospital or similar institution under the Health and Personal Social
+Services (Northern Ireland) Order 1972 or the Health and Personal Social
+Services (Northern Ireland) Order 1991,
+
+29.2.d
+
+a hospital maintained or administered by the Defence Council, or
+
+29.2.e
+
+an institution similar to a hospital mentioned in any of the preceding sub-
+paragraphs.
+
+29.3
+
+In this regulation—
+
+“ NHS trust ” means a body established under section 18 of the National Health
+Service (Wales) Act 2006, and “ Local Health Board ” means a body established
+under section 11 of that Act.
+
+#### Effect of legal detention on ongoing entitlement to Adult Disability Payment
+
+30
+
+30.1
+
+This regulation applies where an individual who has an ongoing entitlement to
+Adult Disability Payment begins a period of legal detention.
+
+30.2
+
+For the purposes of this regulation, an individual is to be treated as though
+they are not in legal detention on any day on which they are an in-patient in
+a hospital or in a hospice.
+
+30.3
+
+On the day after the day on which the individual has been in legal detention
+for 28 days, and for so long as the individual continues to be in legal
+detention, instead of the values set out in regulation 34 (amount and form of
+Adult Disability Payment)—
+
+30.3.a
+
+where the individual is aged 18 or over, the value of each component of Adult
+Disability Payment that is to be given to the individual is to be £0, or
+
+30.3.b
+
+where the individual is aged 16 or 17, the value of the daily living component
+of Adult Disability Payment that is to be given to the individual is to be £0.
+
+30.4
+
+The 28 days referred to in paragraph (3) may comprise two or more separate
+periods, provided there is no more than one year between each period.
+
+30.5
+
+Paragraph (3) of this regulation does not apply to an individual where—
+
+30.5.a
+
+the individual is undergoing legal detention outside the United Kingdom, and
+
+30.5.b
+
+in similar circumstances in Scotland, the individual would have been excepted
+from the application of that paragraph by virtue of the operation of any
+provision of this regulation.
+
+#### Calculation of periods of time spent in a care home, hospital or legal detention
+
+31
+
+31.1
+
+Subject to paragraphs (3) to (6), a period during which an individual is—
+
+31.1.a
+
+resident in a care home for the purpose of regulation 27,
+
+31.1.b
+
+an in-patient in hospital or similar institution for the purpose of regulation
+28,
+
+31.1.c
+
+in legal detention for the purpose of regulation 30, or
+
+31.1.d
+
+resident in a care home, an in-patient in a hospital or similar institution,
+or in legal detention for the purposes of regulation 32,
+
+is to be determined in accordance with this regulation.
+
+31.2
+
+Such a period is to be taken to—
+
+31.2.a
+
+begin on the day after the day on which the individual enters the place, and
+
+31.2.b
+
+end on the day before the day on which the individual leaves the place.
+
+31.3
+
+Where an individual takes a period of leave from a place mentioned in
+paragraph (1), the days on which the individual begins and returns from leave
+are not to be counted as days of residence in that place.
+
+31.4
+
+Days constituting a period of leave are not to be counted as days of residence
+in a place.
+
+31.5
+
+Where an individual enters a place (“the second place”) under paragraph (1) as
+a result of transfer from another place (“the first place”) under that
+paragraph—
+
+31.5.a
+
+the day of transfer is to be counted as a day of residence in the second
+place, and
+
+31.5.b
+
+for the purposes of calculating when the individual has been in the second
+place for 28 days for the purposes of regulations 27(2), 28(2) and 30(3)—
+
+31.5.b.i
+
+the days that they were resident in the first place are to be treated as days
+of residence in the second place,
+
+31.5.b.ii
+
+if they were resident in the first place for more than 28 days, the individual
+is to be treated as though they have been resident in the second place for 28
+days on the day before the day of transfer, and
+
+31.5.c
+
+the period of residence in the first place is deemed to end on the day on
+which the period of residence in the second place ends.
+
+31.6
+
+For the purposes of this regulation, ‘days of residence’ means—
+
+31.6.a
+
+days resident in a care home in terms of regulation 27 or 32,
+
+31.6.b
+
+days as an in-patient in hospital or similar institution in terms of
+regulation 28 or 32, and
+
+31.6.c
+
+days in legal detention in terms of regulation 30 or 32.
+
+#### Entitlement beginning while in alternative accommodation
+
+32
+
+32.1
+
+This regulation applies where an individual is resident in a care home, an in-
+patient in a hospital or similar institution, or in legal detention on the day
+on which their entitlement to Adult Disability Payment begins.
+
+32.2
+
+On and after that day, and for so long as the individual continues to reside
+in a place mentioned in paragraph (1), instead of the values set out in
+regulation 34 (amount and form of Adult Disability Payment), the individual is
+to be given the value of £0—
+
+32.2.a
+
+where the individual is resident in a care home, in respect of the daily
+living component of Adult Disability Payment,
+
+32.2.b
+
+where the individual is—
+
+32.2.b.i
+
+aged 18 or over,
+
+32.2.b.ii
+
+undergoing medical or other treatment as an in-patient in a hospital or
+similar institution, and
+
+32.2.b.iii
+
+any of the costs of the treatment, accommodation and any related services
+provided for them are borne out of public funds within the meaning of
+regulation 28(4),
+
+in respect of each component of Adult Disability Payment, or
+
+32.2.c
+
+where the individual is in legal detention and—
+
+32.2.c.i
+
+aged 18 or over, in respect of either component of Adult Disability Payment,
+
+32.2.c.ii
+
+aged 16 or 17, in respect of the daily living component of Adult Disability
+Payment.
+
+32.3
+
+Paragraphs (1) and (2) do not apply where the individual is a resident in a
+care home, and the full costs of any qualifying services are met—
+
+32.3.a
+
+entirely out of the resources of the individual for whom the qualifying
+services are provided,
+
+32.3.b
+
+partly out of the resources of the individual for whom the qualifying services
+are provided and partly out of the resources of another person (other than a
+local authority) or assistance from a charity, or
+
+32.3.c
+
+entirely out of the resources of another person (other than a local authority)
+or assistance from a charity.
+
+32.4
+
+For the purposes of this regulation, an individual is not resident in a care
+home during any period when the individual is being looked after by a local
+authority and—
+
+32.4.a
+
+has been placed temporarily in a private dwelling with a family, relative or
+some other suitable person while aged between 16 and 18 and receiving services
+under Part II of the Children (Scotland) Act 1995  by virtue of being a child
+in need within the meaning of section 93(4)(a)(ii) (impairment of health), or
+93(4)(a)(iii) (disability) of that Act, or
+
+32.4.b
+
+is accommodated in a care home outside the United Kingdom, where the costs of
+any qualifying services are met wholly or partly by a local authority pursuant
+to their powers under section 25 of the Education (Additional Support for
+Learning) (Scotland) Act 2004 (attendance at establishments outwith the United
+Kingdom) .
+
+### Making of applications and payments and duration of eligibility
+
+#### Making Payments
+
+33
+
+33.1
+
+Where Adult Disability Payment is payable in respect of an individual, the
+Scottish Ministers may, where they consider it appropriate, make the payment
+to another person to be used for the benefit of the individual.
+
+33.2
+
+Where the Scottish Ministers consider, for any reason, that it is no longer
+appropriate for a particular person who falls within paragraph (1) to continue
+to receive the payment, they may cease making payment to that person.
+
+#### Amount and form of Adult Disability Payment
+
+34
+
+34.1
+
+The weekly rate of payment of the daily living component is, where the
+individual is entitled to—
+
+34.1.a
+
+the standard rate,  £72.65 , or
+
+34.1.b
+
+the enhanced rate,  £108.55 .
+
+34.2
+
+The weekly rate of the mobility component is, where the individual is entitled
+to—
+
+34.2.a
+
+the standard rate,  £28.70 , or
+
+34.2.b
+
+the enhanced rate,  £75.75 .
+
+34.3
+
+Where an individual is entitled to payment of the daily living component or
+the mobility component for a period shorter than one week, payment of that
+component is to be made at one-seventh of the relevant weekly rate, for each
+day of entitlement.
+
+34.4
+
+For any week where an individual is entitled to—
+
+34.4.a
+
+the daily living component of Adult Disability Payment, and
+
+34.4.b
+
+payment of an amount in respect of constant attendance under section 104 of
+the Social Security Contributions and Benefits Act 1992 ,
+
+the amount of the daily living component of Adult Disability Payment that is
+to be given to the individual is to be reduced by the amount paid under that
+section.
+
+34.5
+
+For the purpose of calculating the amount of the daily living component that
+is to be given to the individual, in accordance with paragraph (3), where the
+amount in respect of constant attendance is equal to or greater than the
+amount of the daily living component of Adult Disability Payment, the value of
+the daily living component of Adult Disability Payment that is to be given to
+the individual is to be £0.
+
+34.6
+
+For any week where an individual is entitled to—
+
+34.6.a
+
+the mobility component of Adult Disability Payment, and
+
+34.6.b
+
+payment of War Pensioners’ Mobility Supplement within the meaning of—
+
+34.6.b.i
+
+the Naval, Military and Air Forces etc. (Disablement and Death) Service
+Pensions Order 1983 (“ 1983 Order ”) ,
+
+34.6.b.ii
+
+the Personal Injuries (Civilians) Scheme 1983 ,
+
+34.6.b.iii
+
+the 1983 Order by virtue of the War Pensions (Naval Auxiliary Personnel)
+Scheme 1964 ,
+
+34.6.b.iv
+
+the Pensions (Polish Forces) Scheme 1964 ,
+
+34.6.b.v
+
+the War Pensions (Mercantile Marine) Scheme 1964 , or
+
+34.6.b.vi
+
+an Order of Her Majesty in relation to the Home Guard dated 21 December 1964
+or 22 December 1964, or in relation to the Ulster Defence Regiment dated 4
+January 1971,
+
+the amount of the mobility component of Adult Disability Payment that is to be
+given to the individual is to be £0.
+
+34.7
+
+Adult Disability Payment is only to be given in the form of money, except as
+provided for by regulation 44 (Form of payment – giving Adult Disability
+Payment by way of deduction).
+
+#### When an application is to be treated as made and beginning of entitlement to assistance
+
+35
+
+35.1
+
+An application for Adult Disability Payment is to be treated as made—
+
+35.1.a
+
+on the day it is received by the Scottish Ministers, or
+
+35.1.b
+
+if applicable, on the day identified by the Scottish Ministers in accordance
+with paragraph (2).
+
+35.2
+
+If, before making a determination on the basis of an application, the Scottish
+Ministers consider that the individual in respect of whom the application is
+made—
+
+35.2.a
+
+would not satisfy a requirement in—
+
+35.2.a.i
+
+regulation 5 (daily living component),
+
+35.2.a.ii
+
+regulation 6 (mobility component),
+
+35.2.a.iii
+
+regulation 11 (required period condition: daily living component),
+
+35.2.a.iv
+
+regulation 12 (required period condition: mobility component),
+
+35.2.a.v
+
+Part 5 (residence and presence conditions), or
+
+35.2.a.vi
+
+regulation 22 (age criteria),
+
+if the application were treated as made on the day it was received, and
+
+35.2.b
+
+would likely be entitled to receive Adult Disability Payment if those
+requirements were satisfied within a 13-week period beginning on the day it
+was received,
+
+the Scottish Ministers may choose the date within that 13 week period on which
+the application is to be treated as made.
+
+35.3
+
+Where, on the basis of an application (other than where regulation 58(1)
+applies), a determination is made that an individual is entitled to Adult
+Disability Payment, the date on which entitlement begins is to be identified
+in accordance with paragraphs (4) to (6).
+
+35.4
+
+Where an application is made within 8 weeks of the day on which the full name
+and date of birth of an individual (“the required data”) is submitted by, or
+on behalf of, the individual to the Scottish Ministers for the purpose of an
+application for Adult Disability Payment, entitlement begins on whichever is
+the later of the day—
+
+35.4.a
+
+on which the required data was submitted, or
+
+35.4.b
+
+identified in accordance with paragraph (2).
+
+35.5
+
+Subject to paragraph (6), where an application is made after the 8 week period
+described in paragraph (4), entitlement begins on the day on which the
+application is treated as made in accordance with paragraph (1).
+
+35.6
+
+Where the Scottish Ministers are satisfied that there is a good reason why an
+application was made after the 8 week period described in paragraph (4), they
+may treat the application as having been made within that period.
+
+35.7
+
+For the purposes of section 38(3) of the 2018 Act, the period covered by an
+application for Adult Disability Payment—
+
+35.7.a
+
+under paragraph (1)(a)—
+
+35.7.a.i
+
+begins on the day on which the application is treated as having been made, and
+
+35.7.a.ii
+
+ends on the day on which the determination of entitlement is made, and
+
+35.7.b
+
+under paragraph (1)(b)—
+
+35.7.b.i
+
+is deemed to begin on the day before the determination of entitlement is made
+provided that the requirements are satisfied, and
+
+35.7.b.ii
+
+ends on the day on which the determination of entitlement is made.
+
+#### Time of Payment
+
+36
+
+Where an award of Adult Disability Payment is made, the Scottish Ministers are
+to make—
+
+36.a
+
+the first payment of assistance on a date specified in the notice of
+determination, and
+
+36.b
+
+any subsequent payment—
+
+36.b.i
+
+4 weekly in arrears, or
+
+36.b.ii
+
+where regulation 26 (entitlement under special rules for terminal illness)
+applies, weekly in advance.
+
+#### Continuing Eligibility
+
+37
+
+37.1
+
+Subject to paragraphs (3) and (4), a determination that an individual is
+entitled to Adult Disability Payment in respect of a period is to be made on
+the basis that the individual has an ongoing entitlement to Adult Disability
+Payment after the end of that period, except where paragraph (2) applies.
+
+37.2
+
+This paragraph applies where, after the end of the period mentioned in
+paragraph (1), the individual no longer satisfies the eligibility rules.
+
+37.3
+
+A determination of ongoing entitlement is made on the basis that—
+
+37.3.a
+
+the individual will continue to be entitled to Adult Disability Payment for a
+fixed or indefinite period as specified in the notice of determination, and
+
+37.3.b
+
+the decision that the individual is entitled to Adult Disability Payment for
+each subsequent 4-week period is to be taken in accordance with these
+Regulations, on the strength of the assumptions set out in paragraph (4).
+
+37.4
+
+The assumptions are that—
+
+37.4.a
+
+the individual continues to satisfy the eligibility criteria which were
+satisfied to be entitled to Adult Disability Payment under the determination
+mentioned in paragraph (1),
+
+37.4.b
+
+the information on which the determination mentioned in paragraph (1) was made
+still applies and is relevant in the individual’s case, and
+
+37.4.c
+
+there is no change in circumstances of the individual which would require to
+be notified under section 56 (duty to notify change of circumstances) of the
+2018 Act.
+
+#### Circumstances in which assistance may be suspended
+
+38
+
+38.1
+
+The Scottish Ministers may decide that an individual who has an ongoing
+entitlement to Adult Disability Payment in respect of a period by virtue of
+regulation 37 (continuing eligibility) is not to become entitled to be given
+some or all of either component or both components of that assistance at the
+time at which the individual otherwise would in accordance with that
+regulation, as read with regulation 36 (time of payment) (referred to in these
+Regulations as a decision to suspend the individual’s Adult Disability
+Payment).
+
+38.2
+
+Where such a decision is made in respect of an individual, payments of Adult
+Disability Payment to that individual are to be suspended until such a time as
+the Scottish Ministers decide that the individual is once again to become
+entitled to be given Adult Disability Payment.
+
+38.3
+
+The Scottish Ministers may decide to suspend an individual’s Adult Disability
+Payment only in the circumstances where—
+
+38.3.a
+
+section 54(1A) of the 2018 Act  applies, or
+
+38.3.b
+
+the Scottish Ministers have made arrangements (whether under section 85A of
+the 2018 Act, section 85B of the 2018 Act  or otherwise) for a person to
+receive the Adult Disability Payment on the individual’s behalf, and the
+Scottish Ministers consider that it is necessary to suspend the Adult
+Disability Payment—
+
+38.3.b.i
+
+in order to protect the individual from the risk of financial abuse, or
+
+38.3.b.ii
+
+because the person with whom the Scottish Ministers have made arrangements is
+unable to continue to receive the Adult Disability Payment.
+
+38.4
+
+In this regulation, “ financial abuse ” includes—
+
+38.4.a
+
+having money or other property stolen,
+
+38.4.b
+
+being defrauded,
+
+38.4.c
+
+being put under pressure in relation to money or other property,
+
+38.4.d
+
+having money or other property misused.
+
+#### Having regard to financial circumstances
+
+39
+
+The Scottish Ministers must have regard to an individual’s financial
+circumstances prior to making a decision to suspend payment to the individual
+of some or all of either component or both components of Adult Disability
+Payment.
+
+#### Information to be given following suspension
+
+40
+
+40.1
+
+Having made a decision to suspend an individual’s Adult Disability Payment,
+the Scottish Ministers must inform the individual of—
+
+40.1.a
+
+their decision to suspend the individual’s Adult Disability Payment,
+
+40.1.b
+
+the reasons for their decision,
+
+40.1.c
+
+any steps which might be taken by the individual in order for the Scottish
+Ministers to consider ending the suspension, and
+
+40.1.d
+
+the individual’s right under regulation 41 to require the Scottish Ministers
+to review their decision to suspend the individual’s Adult Disability Payment.
+
+40.2
+
+The Scottish Ministers must fulfil their duty under paragraph (1) in a way
+that leaves the individual with a record of the information which the
+individual can show to, or otherwise share with, others.
+
+#### Right to review suspension
+
+41
+
+41.1
+
+An individual may require the Scottish Ministers to review their decision to
+suspend that individual’s Adult Disability Payment.
+
+41.2
+
+The Scottish Ministers must—
+
+41.2.a
+
+complete a review mentioned in paragraph (1) within 31 days beginning with the
+day when they received notice from the individual requiring them to review
+their decision,
+
+41.2.b
+
+inform the individual of the outcome of the review including reasons for their
+decision.
+
+41.3
+
+The Scottish Ministers must fulfil their duty under paragraph (2)(b) in a way
+that leaves the individual with a record of the information which the
+individual can show to, or otherwise share with, others.
+
+#### Ending a suspension
+
+42
+
+The Scottish Ministers are to make a decision to end a suspension where—
+
+42.a
+
+the individual provides the information requested under section 54(1) of the
+2018 Act  and the Scottish Ministers consider that they do not require to make
+a determination without application,
+
+42.b
+
+regulation 38(3)(a) applies and the Scottish Ministers make a determination
+without application under regulation 47 (consideration of entitlement after
+specified period), 48 (determination following change of circumstances, etc.),
+49 (determination following official error – underpayments), 50 (determination
+following error – overpayments) or 51 (determination to effect a deduction
+decision),
+
+42.c
+
+the Scottish Ministers make a determination under section 54(2) of the 2018
+Act ,
+
+42.d
+
+the circumstances mentioned in regulation 38(3)(b) no longer apply, or
+
+42.e
+
+the Scottish Ministers consider it appropriate in the circumstances, including
+having regard to the financial circumstances of the individual.
+
+#### Effect of suspension ending
+
+43
+
+When—
+
+43.a
+
+the suspension of an individual’s Adult Disability Payment ends, and
+
+43.b
+
+under the latest determination of the individual’s entitlement to Adult
+Disability Payment relating to the period of the suspension the individual
+would have become entitled to be given Adult Disability Payment during that
+period,
+
+the individual is immediately to be given the Adult Disability Payment that
+the individual would have become entitled to be given under the determination
+during the period of suspension.
+
+#### Form of payment – giving Adult Disability Payment by way of deduction
+
+44
+
+44.1
+
+Where an individual has a liability to the Scottish Ministers under section 63
+of the 2018 Act (liability for assistance given in error), the individual’s
+payment of Adult Disability Payment may be given (in whole or in part) by way
+of deduction, at a reasonable level, from that liability either—
+
+44.1.a
+
+with the agreement of the individual, or
+
+44.1.b
+
+without the individual’s agreement, where the individual has unreasonably
+refused to agree to the assistance being given in that form.
+
+44.2
+
+For the purpose of paragraph (1), “ reasonable level ” means a level that is
+reasonable having regard to the financial circumstances of the individual.
+
+#### When an increase in level of entitlement takes effect
+
+45
+
+45.1
+
+Where, as a result of a determination without an application, the amount of
+Adult Disability Payment payable in respect of an individual is increased or
+their entitlement to a component is awarded, the change takes effect—
+
+45.1.a
+
+in the case of an increase pursuant to a determination made under regulation
+48(c), 48(d) or 48(e)   (determination following change of circumstances etc.)
+on the day after the day on which Personal Independence Payment  or Disability
+Living Allowance   ceased to be paid in respect of the individual,
+
+45.1.b
+
+in the case of an award of entitlement to a component or an increase pursuant
+to a determination made in accordance with regulation 48(a) that affects their
+eligibility under regulation 5 (daily living component) or regulation 6
+(mobility component), on the date when—
+
+45.1.b.i
+
+if as a result of the individual reporting the change—
+
+45.1.b.i.aa
+
+if the individual reports the change within one month of the change occurring,
+the individual first satisfies the requirements for a higher rate of the daily
+living or mobility component,
+
+45.1.b.i.bb
+
+if the individual reports the change within more than one month but not more
+than 13 months of the change occurring, the individual first satisfies the
+requirements for a higher rate of the   daily living   or mobility component,
+but only if the Scottish Ministers consider that the individual had good
+reason for not notifying the change within one month, or
+
+45.1.b.i.cc
+
+in any other case, the individual reports the change.
+
+45.1.b.ii
+
+if as a result of the Scottish Ministers becoming aware that a determination
+of an individual’s entitlement was made in ignorance of a material fact, on
+the date when the Scottish Ministers make the determination.
+
+45.1.c
+
+in the case of an earlier determination which was based on official error  ...
+within the meaning of regulation 49 (determination following official error –
+underpayments) or on error within the meaning of regulation 50 (determination
+following error – overpayments),  ... on the date when the earlier
+determination took effect,  ...
+
+45.1.ca
+
+in the case of a determination made in accordance with regulation 48(a), where
+the period that an individual has been—
+
+45.1.ca.i
+
+resident in a care home for the purpose of regulation 27,
+
+45.1.ca.ii
+
+an in-patient in hospital or similar institution for the purpose of regulation
+28,
+
+45.1.ca.iii
+
+in legal detention for the purpose of regulation 30, or
+
+45.1.ca.iv
+
+resident in a care home, an in-patient in a hospital or similar institution,
+or in legal detention for the purposes of regulation 32,
+
+has come to an end, on the day on which the individual leaves the place, or
+
+45.1.d
+
+in any other case, on the date when the Scottish Ministers make the
+determination.
+
+45.2
+
+Where the Scottish Ministers consider that in all the circumstances it would
+be unjust not to do so, they may, when making their determination, set an
+earlier date for the purposes of paragraph (1)(b), (c) or (d).
+
+45.3
+
+This regulation does not apply to an individual to whom regulation 26
+(entitlement under special rules for terminal illness) applies.
+
+45.4
+
+Where an individual has previously received Adult Disability Payment for a
+period and a determination without application has subsequently been made that
+the same individual is entitled to Adult Disability Payment at a higher rate
+for that period, that individual will be entitled to the difference between
+the value of entitlement to Adult Disability Payment under the subsequent
+determination and the value of Adult Disability Payment to which that
+individual was previously entitled for that period.
+
+#### When a decrease in level or cessation of entitlement takes effect
+
+46
+
+46.1
+
+Where, as a result of determination without an application, the amount of
+Adult Disability Payment payable in respect of an individual is decreased or
+their entitlement to a component is ceased, the change takes effect—
+
+46.1.a
+
+in the case of a decrease pursuant to a determination made under regulation
+48(c), 48(d) or 48(e)   (determination following change of circumstances etc.)
+on the day after the day on which Personal Independence Payment  or Disability
+Living Allowance   ceased to be paid in respect of the individual,
+
+46.1.aa
+
+in the case of a determination without application under regulation 48(b), on
+the date of the individual’s death,
+
+46.1.b
+
+in the case of a determination without application under regulation 47 or
+48(a), on the date—
+
+46.1.b.i
+
+where the individual was required to notify a change under section 56 of the
+2018 Act, if the individual—
+
+46.1.b.i.aa
+
+knowingly fails to notify a change, or
+
+46.1.b.i.bb
+
+fails to notify the change as soon as reasonably practicable after it
+occurred,
+
+the individual should have notified the Scottish Ministers of the change, or
+
+46.1.b.ii
+
+in any other case, the Scottish Ministers make the determination,
+
+46.1.c
+
+in the case of an earlier determination which was based on official error  ...
+within the meaning of regulation 49 (determination following official error –
+underpayments) or on error within the meaning of regulation 50 (determination
+following error – overpayments), on the date when the earlier determination
+took effect,
+
+46.1.d
+
+in any other case, on the date when the Scottish Ministers make the
+determination.
+
+46.2
+
+Where the Scottish Ministers consider that in all the circumstances it would
+be unjust not to do so, they may, when making their determination, set a later
+date for the purposes of paragraph (1)(b), (c) or (d).
+
+### Determination of entitlement to Adult Disability Payment without application
+
+#### Consideration of entitlement after specified period
+
+47
+
+The Scottish Ministers must make a determination of an individual’s
+entitlement to Adult Disability Payment, without receiving an application,
+after the end of the period specified (if any) in—
+
+47.a
+
+the individual’s notice of determination under section 40 or notice of re-
+determination under section 44 (as the case may be), or
+
+47.b
+
+a determination made by the First-tier Tribunal for Scotland under section 49,
+
+of the 2018 Act .
+
+#### Determination following change of circumstances etc.
+
+48
+
+The Scottish Ministers must make a determination of an individual’s
+entitlement to Adult Disability Payment, without receiving an application,
+where the individual has an ongoing entitlement to Adult Disability Payment
+and they become aware—
+
+48.a
+
+of a change of circumstances, whether or not notified by the individual in
+accordance with section 56 of the 2018 Act, or where the Scottish Ministers
+become aware that a determination of an individual’s entitlement was made in
+ignorance of a material fact, which would possibly result in an alteration to
+the component or rate of Adult Disability Payment payable to the individual or
+which is likely to mean that the individual is no longer entitled to Adult
+Disability Payment,
+
+48.b
+
+that the individual has died,
+
+48.c
+
+of an alteration of the component or rate of award of Personal Independence
+Payment which the individual was entitled to immediately before the date of
+transfer to Adult Disability Payment in accordance with Part 3 of schedule 2
+(transitional provisions) as a result of a decision made pursuant to—
+
+48.c.i
+
+a revision under Part 2 of the Universal Credit, Personal Independence
+Payment, Jobseeker’s Allowance and Employment and Support Allowance (Decisions
+and Appeals) Regulations 2013 ,
+
+48.c.ii
+
+a supersession under Part 3 of those Regulations,
+
+48.c.iii
+
+an appeal under section 12 of the Social Security Act 1998 (“ the 1998 Act ”)
+,
+
+48.c.iv
+
+a re-consideration under section 13 of the 1998 Act , or
+
+48.c.v
+
+an appeal to the Upper Tribunal under section 14 of the 1998 Act ,
+
+48.c.vi
+
+a revision under article 10 of the Social Security (Northern Ireland) Order
+1998  (“ the 1998 Order ”),
+
+48.c.vii
+
+a supersession under article 11 of the 1998 Order ,
+
+48.c.viii
+
+an appeal under article 13 of the 1998 Order , or
+
+48.c.ix
+
+an appeal to the Commissioner under article 15 of the 1998 Order ,
+
+48.d
+
+of an alteration of the component or rate of award of Personal Independence
+Payment which the individual was entitled to immediately before moving to
+Scotland in circumstances in which regulation 52 (individuals in respect of
+whom Personal Independence Payment is paid in another part of the United
+Kingdom immediately before moving to Scotland) applies, as a result of a
+decision made pursuant to—
+
+48.d.i
+
+a revision under Part 2 of the Universal Credit, Personal Independence
+Payment, Jobseeker’s Allowance and Employment and Support Allowance (Decisions
+and Appeals) Regulations 2013,
+
+48.d.ii
+
+a supersession under Part 3 of those Regulations,
+
+48.d.iii
+
+an appeal under section 12 of the Social Security Act 1998 (“ the 1998 Act ”),
+
+48.d.iv
+
+a re-consideration under section 13 of the 1998 Act,
+
+48.d.v
+
+an appeal to the Upper Tribunal under section 14 of the 1998 Act,
+
+48.d.vi
+
+a revision under article 10 of the Social Security (Northern Ireland) Order
+1998 (“ the 1998 Order ”),
+
+48.d.vii
+
+a supersession under article 11 of the 1998 Order,
+
+48.d.viii
+
+an appeal under article 13 of the 1998 Order, or
+
+48.d.ix
+
+an appeal to the Commissioner under article 15 of the 1998 Order.
+
+48.e
+
+of an alteration of the component or rate of award of Disability Living
+Allowance which the individual was entitled to immediately before the date of
+transfer to Adult Disability Payment in accordance with regulation 4
+(determination without application of entitlement to Adult Disability Payment)
+of the Disability Assistance for Working Age People (Transitional Provisions
+and Miscellaneous Amendment) (Scotland) Regulations 2022, as a result of a
+decision made pursuant to—
+
+48.e.i
+
+revision under regulation 3 of the Social Security and Child Support
+(Decisions and Appeals) Regulations 1999 (“ the 1999 Regulations ”),
+
+48.e.ii
+
+a supersession under regulation 6 of the 1999 Regulations,
+
+48.e.iii
+
+an appeal under section 12 of the Social Security Act 1998 (“ the 1998 Act ”),
+
+48.e.iv
+
+a re-consideration under section 13 of the 1998 Act ,
+
+48.e.v
+
+an appeal to the Upper Tribunal under section 14 of the 1998 Act,
+
+48.e.vi
+
+a revision under article 10 of the Social Security (Northern Ireland) Order
+1998 (“ the 1998 Order ”),
+
+48.e.vii
+
+a supersession under article 11 of the 1998 Order,
+
+48.e.viii
+
+an appeal under article 13 of the 1998 Order, or
+
+48.e.ix
+
+an appeal to the Commissioner under article 15 of the 1998 Order.
+
+#### Determination following official error – underpayments
+
+49
+
+49.1
+
+The Scottish Ministers are to make a determination of an individual’s
+entitlement to Adult Disability Payment, without receiving an application,
+where—
+
+49.1.a
+
+they have previously made a determination of the individual’s entitlement to
+Adult Disability Payment (“the original determination”),
+
+49.1.b
+
+they establish that, due to an official error, the original determination was
+incorrect resulting in the individual—
+
+49.1.b.i
+
+not being given an award of Adult Disability Payment, or
+
+49.1.b.ii
+
+being given a lower award than that,
+
+to which the individual was entitled,
+
+49.1.c
+
+the Scottish Ministers are not considering a request for a re-determination of
+the individual’s entitlement to the Payment, and
+
+49.1.d
+
+the individual has not appealed to the First-tier Tribunal for Scotland
+against the Scottish Ministers’ determination of the individual’s entitlement
+to Adult Disability Payment.
+
+49.2
+
+In making a determination required by paragraph (1) the Scottish Ministers are
+to use—
+
+49.2.a
+
+the information—
+
+49.2.a.i
+
+provided in the application that led to the original determination,
+
+49.2.a.ii
+
+any other information they have obtained in connection with that application,
+and
+
+49.2.b
+
+any other information they have obtained in connection with the individual’s
+entitlement to Adult Disability Payment.
+
+49.3
+
+In this regulation, “ official error ” means an error made by someone acting
+on behalf of the Scottish Ministers or on behalf of a Minister of the Crown
+that was not materially contributed to by anyone else.
+
+#### Determination following error – overpayments
+
+50
+
+50.1
+
+The Scottish Ministers are to make a determination of an individual’s
+entitlement to Adult Disability Payment, without receiving an application,
+where—
+
+50.1.a
+
+they have previously made a determination of the individual’s entitlement to
+Adult Disability Payment (“the original determination”),
+
+50.1.b
+
+they establish that, due to an error, the original determination was incorrect
+resulting in the individual being given—
+
+50.1.b.i
+
+an award of Adult Disability Payment to which the individual was not entitled,
+or
+
+50.1.b.ii
+
+a higher award than that to which the individual was entitled,
+
+50.1.c
+
+the Scottish Ministers are not considering a request for a re-determination of
+the individual’s entitlement to the Payment, and
+
+50.1.d
+
+the individual has not made an appeal to the First-tier Tribunal for Scotland
+or Upper Tribunal against the Scottish Ministers’ determination off the
+individual’s entitlement to Adult Disability Payment, that has not yet been
+determined.
+
+50.2
+
+In making a determination required by paragraph (1) the Scottish Ministers are
+to use—
+
+50.2.a
+
+the information—
+
+50.2.a.i
+
+provided in the application that led to the original determination, and
+
+50.2.a.ii
+
+any other information they have obtained in connection with that application,
+
+50.2.b
+
+any other information they have obtained in connection with the individual’s
+entitlement to Adult Disability Payment, and
+
+50.2.c
+
+any other information available to them that is relevant to their
+consideration of whether the individual is entitled to Adult Disability
+Payment.
+
+50.3
+
+In this regulation references to an “error” are to—
+
+50.3.a
+
+an error in the performance of a function conferred by these Regulations or
+the 2018 Act, including a determination being made—
+
+50.3.a.i
+
+wrongly, or
+
+50.3.a.ii
+
+correctly but on the basis of—
+
+50.3.a.ii.aa
+
+incorrect information, or
+
+50.3.a.ii.bb
+
+an assumption which proves to be wrong, or
+
+50.3.b
+
+a new determination having not been made after an assumption on the basis of
+which an earlier determination was made has proven to be wrong.
+
+#### Determination to effect a deduction decision
+
+51
+
+51.1
+
+The Scottish Ministers are to make a determination of an individual’s
+entitlement to Adult Disability Payment, without receiving an application,
+where the circumstances in paragraphs (2) and (3) apply.
+
+51.2
+
+This paragraph applies where—
+
+51.2.a
+
+regulation 44 (form of payment – giving Adult Disability Payment by way of
+deduction) allows Adult Disability Payment to be given to the individual by
+way of deduction, or
+
+51.2.b
+
+Adult Disability Payment is being given to the individual by way of deduction,
+and the Scottish Ministers consider that may no longer be appropriate.
+
+51.3
+
+This paragraph applies where the Scottish Ministers have decided to—
+
+51.3.a
+
+vary the amount of Adult Disability Payment to be given by way of deduction
+(including introducing a deduction, where the full amount of Adult Disability
+Payment was previously given as money),
+
+51.3.b
+
+vary any period for which the individual’s Adult Disability Payment is to be
+given by way of deduction, that may have been specified in a previous
+determination of the individual’s entitlement, or
+
+51.3.c
+
+cease making deductions, and instead give the individual’s Adult Disability
+Payment in the form of money.
+
+51.4
+
+The Scottish Ministers are to make a determination, without receiving an
+application, where an individual who is receiving Adult Disability Payment by
+way of deduction under a previous determination of entitlement notifies the
+Scottish Ministers that the individual—
+
+51.4.a
+
+withdraws their agreement to their Adult Disability Payment being given by way
+of deduction,
+
+51.4.b
+
+wishes the Scottish Ministers to increase the amount of their Adult Disability
+Payment that is given by way of deduction,
+
+51.4.c
+
+wishes the Scottish Ministers to decrease the amount of their Adult Disability
+Payment that is given by way of deduction (including ceasing the deduction),
+or
+
+51.4.d
+
+wishes the Scottish Ministers to amend the length of any period referred to in
+paragraph (3)(b).
+
+### Movement of individuals between Scotland and the rest of the United Kingdom
+
+#### Individuals in respect of whom Personal Independence Payment is paid in another part of the United Kingdom immediately before moving to Scotland
+
+52
+
+52.1
+
+Where an individual—
+
+52.1.a
+
+becomes resident in Scotland,
+
+52.1.b
+
+was resident in another part of the United Kingdom, and
+
+52.1.c
+
+was entitled to Personal Independence Payment immediately before the date of
+the move,
+
+the Scottish Ministers are to make a determination without application of the
+individual’s entitlement to Adult Disability Payment.
+
+52.2
+
+Entitlement to Adult Disability Payment under paragraph (1) begins on the day
+after the day on which the individual’s entitlement to Personal Independence
+Payment ends.
+
+52.3
+
+In this regulation, “the date of the move” is the date when the individual
+becomes resident in Scotland, as notified by the individual or otherwise
+communicated to the Scottish Ministers (whether the notification takes place
+before or after the date of the move).
+
+#### Individuals in respect of whom Adult Disability Payment is paid at the time of moving to another part of the United Kingdom
+
+53
+
+53.1
+
+Where the Scottish Ministers become aware that an individual who is entitled
+to Adult Disability Payment has moved or is to move to become resident in
+another part of the United Kingdom, the individual is to be treated as though
+the individual meets the condition under regulation 15(1)(a) of being
+ordinarily resident in Scotland for a period of 13 weeks beginning in
+accordance with paragraph (4).
+
+53.2
+
+Subject to Part 8 (effect of time spent in care homes, hospital and legal
+detention), where the Scottish Ministers become aware that an individual has
+moved or is to move to another part of the United Kingdom mentioned in
+paragraph (1), they are to make a determination without application at the end
+of the 13 week period mentioned in paragraph (1) that the individual’s
+entitlement to Adult Disability Payment is to terminate.
+
+53.3
+
+Where before the end of the 13-week period, the Scottish Ministers become
+aware that the individual is no longer to move to become resident in another
+part of the United Kingdom, the duty in paragraph (2) does not apply.
+
+53.4
+
+The 13-week period mentioned in paragraph (1) begins on the date the
+individual ceases to be ordinarily resident in Scotland.
+
+53.5
+
+On the day after the 13-week period specified in paragraph (4) ends—
+
+53.5.a
+
+entitlement to Adult Disability Payment ceases, and
+
+53.5.b
+
+regulation 50 (determination following error – overpayments) applies to any
+Adult Disability Payment paid to an individual in relation to a period after
+the end of that 13-week period.
+
+### Periods in respect of a re-determination request
+
+#### Periods in respect of a re-determination request
+
+54
+
+54.1
+
+The period for requesting a re-determination of entitlement to Adult
+Disability Payment under section 41 of the 2018 Act (right to request re-
+determination) is 42 days beginning with the day that the individual is
+informed, in accordance with section 40 of the 2018 Act (notice of
+determination), of the right to make the request.
+
+54.2
+
+In relation to determining entitlement to Adult Disability Payment, the period
+allowed for re-determination (within the meaning of section 43 of the 2018 Act
+(duty to re-determine)) is 56 days beginning with—
+
+54.2.a
+
+the day that the request for a re-determination is received by the Scottish
+Ministers,
+
+54.2.b
+
+in a case where the request for a re-determination is received by the Scottish
+Ministers outwith the period prescribed in paragraph (1), the day on which it
+is decided by the Scottish Ministers or (as the case may be) the First-tier
+Tribunal for Scotland that the individual in question has a good reason for
+not requesting a re-determination sooner, or
+
+54.2.c
+
+in a case where the Scottish Ministers have informed the individual of their
+decision that the request for re-determination was not made in such form as
+the Scottish Ministers require, the day on which it is subsequently decided by
+the First-Tier Tribunal for Scotland that the individual in question has made
+the request in such form as the Scottish Ministers require.
+
+### Provision of vehicles
+
+#### Payment of mobility component to authorised providers of vehicles for individuals with disabilities
+
+55
+
+55.1
+
+Where—
+
+55.1.a
+
+an individual is entitled to the enhanced rate of the mobility component of
+Adult Disability Payment, and
+
+55.1.b
+
+the individual has entered into an agreement with an authorised provider of
+vehicles for persons with disabilities for the hire or hire-purchase of a
+vehicle,
+
+the Scottish Ministers may, with the consent of the individual, pay that
+component (in whole or in part) to the provider to be used to meet, or
+contribute towards meeting, the individual’s liability under the agreement.
+
+55.2
+
+The Scottish Ministers must cease to make payments in accordance with
+paragraph (1) in the event that—
+
+55.2.a
+
+the agreement is brought to an end in accordance with the terms of the
+agreement, or
+
+55.2.b
+
+the individual withdraws their consent.
+
+#### Vehicles for persons with disabilities – powers of appointees
+
+56
+
+56.1
+
+Where a person (“an appointee”) is appointed by the Scottish Ministers under
+the 2018 Act to act on an individual’s behalf in connection with the
+determination of the individual’s entitlement to assistance under section 24
+(duty to give assistance) of the 2018 Act, in addition to the powers conferred
+on the appointee by that Act the appointee can, on behalf of the individual—
+
+56.1.a
+
+enter into an agreement with an authorised provider of vehicles for the hire
+or hire-purchase of a vehicle,
+
+56.1.b
+
+terminate any such agreement,
+
+56.1.c
+
+for the purpose of regulation 55(1), give consent to the Scottish Ministers to
+pay (in whole or in part) the mobility component to which the individual is
+entitled to the provider, and
+
+56.1.d
+
+withdraw any such consent.
+
+56.2
+
+An appointee may exercise the powers conferred by paragraphs (1)(b) and (d)
+whether the agreement was entered into, or the consent given, by the appointee
+or by any other person.
+
+### Initial period for applications
+
+#### Initial period for applications
+
+57
+
+Part 2 of schedule 2 makes provision about the initial period for
+applications.
+
+### Applications for Adult Disability Payment by individuals entitled to Child Disability Payment
+
+#### Applications by individuals entitled to Child Disability Payment
+
+58
+
+58.1
+
+This regulation applies where an individual who is entitled to Child
+Disability Payment submits the required data in terms of regulation 35(4) on a
+day on which the individual is still entitled to Child Disability Payment and
+makes an application for Adult Disability Payment—
+
+58.1.a
+
+on a day on which the individual is still entitled to Child Disability
+Payment,
+
+58.1.b
+
+on a day on which the individual is no longer entitled to Child Disability
+Payment, where that day falls within the period of 8 weeks starting on the day
+on which the individual submitted the required data, or
+
+58.1.c
+
+on a day on which the individual is no longer entitled to Child Disability
+Payment, where that day is after the expiry of the 8 week period mentioned in
+sub-paragraph (b) and the Scottish Ministers are satisfied that there is good
+reason why the application was not made sooner.
+
+58.2
+
+Where, on the basis of that application, the Scottish Ministers make a
+determination of the individual’s entitlement to Adult Disability Payment
+(“Adult Disability Payment determination”), and on the date of that
+determination—
+
+58.2.a
+
+the individual is still entitled to Child Disability Payment, the date on
+which their entitlement to Adult Disability Payment begins is to be—
+
+58.2.a.i
+
+the day after the first day on which the individual is to be paid Child
+Disability Payment after the date of the Adult Disability Payment
+determination in accordance with regulation 25(b)(i) of the Disability
+Assistance for Children and Young People (Scotland) Regulations 2021, or
+
+58.2.a.ii
+
+7 days after the first day on which the individual is to be paid Child
+Disability Payment after the date of the Adult Disability Payment
+determination in accordance with regulation 25(b)(ii) of the Disability
+Assistance for Children and Young People (Scotland) Regulations 2021,
+
+58.2.b
+
+the individual is no longer entitled to Child Disability Payment, the date on
+which their entitlement to Adult Disability Payment begins is to be the date
+on which the Scottish Ministers make the Adult Disability Payment
+determination.
+
+58.3
+
+Where an individual receives a determination that they are entitled to a rate
+of Adult Disability Payment which is higher than the rate of Child Disability
+Payment they were entitled to immediately before their entitlement to Adult
+Disability Payment begins, paragraph (4) applies.
+
+58.4
+
+The individual is to receive a payment equal to the value of Adult Disability
+Payment they would have received for the period specified in paragraph (5),
+reduced by the amount of Child Disability Payment that they were entitled to
+for the same period.
+
+58.5
+
+The period specified for the purposes of paragraph (4) is the period between
+the date—
+
+58.5.a
+
+their entitlement to Adult Disability Payment would have begun if this
+regulation did not apply to the individual, in terms of regulation 35(4) to
+(6), and
+
+58.5.b
+
+their entitlement to Adult Disability Payment begins in terms of paragraph
+(2).
+
+#### Determination without an application - terminal illness
+
+59
+
+59.1
+
+Where an individual is entitled to Child Disability Payment and has a terminal
+illness in terms of regulation 15 of the Disability Assistance for Children
+and Young People (Scotland) Regulations 2021 , the Scottish Ministers are to
+make a determination of the individual’s entitlement to Adult Disability
+Payment, without receiving an application, where—
+
+59.1.a
+
+the individual—
+
+59.1.a.i
+
+has reached the age of 16, and
+
+59.1.a.ii
+
+makes a request that the Scottish Ministers make a determination of their
+entitlement to Adult Disability Payment, or
+
+59.1.b
+
+the individual—
+
+59.1.b.i
+
+has reached the age of 18, and
+
+59.1.b.ii
+
+has not informed the Scottish Ministers that they do not want to receive Adult
+Disability Payment.
+
+59.2
+
+Where the Scottish Ministers make a determination under paragraph (1)—
+
+59.2.a
+
+no judgement will be required in terms of regulation 26(7) and (8)
+(entitlement under special rules for terminal illness), and
+
+59.2.b
+
+regulation 26 applies with the following modifications—
+
+59.2.b.i
+
+for paragraph (4), read “The individual’s entitlement to the rates referred to
+in paragraph (1) begins on the date on which the Scottish Ministers make the
+determination in terms of regulation 58(1).”, and
+
+59.2.b.ii
+
+paragraph (5) and (6) are omitted.
+
+### Transfer from Personal Independence Payment to Adult Disability Payment
+
+#### Transfer from Personal Independence Payment to Adult Disability Payment
+
+60
+
+Part 3 of schedule 2 makes provision about transferring from Personal
+Independence Payment to Adult Disability Payment.
+
+### Qualifications and experience necessary to carry out assessments
+
+#### Qualifications and experience necessary to carry out assessments
+
+61
+
+61.1
+
+A person is to be regarded as a suitably qualified person, within the meaning
+of section 13(1) of the 2018 Act, for the purpose of carrying out assessments
+if they satisfy the requirements specified in paragraph (2) or (4).
+
+61.2
+
+A person is a suitably qualified person for the purpose of carrying out
+assessments under this paragraph if—
+
+61.2.a
+
+the person meets one of the conditions under paragraph (3),
+
+61.2.b
+
+the person has been employed in a capacity described in paragraph (3) in the
+provision to individuals of health care or social care services,
+
+61.2.c
+
+where the assessment will involve consideration of the individual’s mental
+condition or conditions, the person’s employment in the provision of health
+care or social care services under paragraph (2)(b) included the provision of
+health care or social care services to individuals with mental conditions, and
+
+61.2.d
+
+where the assessment will involve consideration of the individual’s learning
+disability or disabilities, the person’s employment in the provision of health
+care or social care services under paragraph (2)(b) included the provision of
+health care or social care services to individuals with learning disabilities.
+
+61.3
+
+The conditions referred to in paragraph (2)(a) are that the person, at the
+time of carrying out the assessment—
+
+61.3.a
+
+is an allied health professional with valid registration in the register
+maintained by the Health and Care Professions Council under article 5 of the
+Health Professions Order 2001 ,
+
+61.3.b
+
+is an adult, learning disability, or mental health nurse with valid
+registration in the register maintained by the Nursing and Midwifery Council
+under article 5 of the Nursing and Midwifery Order 2001 , or
+
+61.3.c
+
+is a social worker with valid registration in the register maintained by the
+Scottish Social Services Council under section 44 of the Regulation of Care
+(Scotland) Act 2001 .
+
+61.4
+
+A person is a suitably qualified person for the purpose of carrying out
+assessments under this paragraph if—
+
+61.4.a
+
+the person has achieved a social care qualification to a minimum of Level 9 of
+the Scottish Credit and Qualifications Framework ,
+
+61.4.b
+
+immediately prior to their employment for the purpose of carrying out
+assessments, the person was registered as a social service worker in the
+register maintained by the Scottish Social Services Council under section 44
+of the Regulation of Care (Scotland) Act 2001,
+
+61.4.c
+
+the person has been employed, in the provision to individuals of health care
+or social care services, as a social service worker with valid registration in
+the register maintained by the Scottish Social Services Council under section
+44 of the Regulation of Care (Scotland) Act 2001,
+
+61.4.d
+
+where the assessment will involve consideration of the individual’s mental
+condition or conditions, the person’s employment in the provision of health
+care or social care services under paragraph (4)(c) included the provision of
+health care or social care services to individuals with mental conditions, and
+
+61.4.e
+
+where the assessment will involve consideration of the individual’s learning
+disability or disabilities, the person’s employment in the provision of health
+care or social care services under paragraph (4)(c) included the provision of
+health care or social care services to individuals with learning disabilities.
+
+61.5
+
+In this regulation, “ health and social care services ” means services which
+require to be provided by an individual meeting the conditions under paragraph
+(3) or (4)(c).
+
+### Short-term assistance
+
+#### Entitlement to short-term assistance
+
+62
+
+Part 1 of schedule 2 makes provision about short-term assistance.
+
+### Consequential amendment
+
+#### Consequential amendment
+
+63
+
+The amendment specified in Part 4 of schedule 2 has effect.
+
+### Transitory provision
+
+#### Transitory provision – initial period for applications
+
+64
+
+64.1
+
+During the initial period for applications, in addition to meeting the
+residence and presence conditions in Part 5, an individual must be resident in
+one of the local authority areas specified in relation to the relevant phase
+of that period in paragraph 6 of Part 2 of schedule 2 on the date their
+application is received by the Scottish Ministers.
+
+64.2
+
+In this regulation and in Part 2 of schedule 2, “ initial period for
+applications ” means the period beginning with 21 March 2022 and ending with
+29 August 2022.
+
+64.3
+
+The initial period for applications comprises three phases—
+
+64.3.a
+
+phase 1, beginning with 21 March 2022 and ending with 19 June 2022,
+
+64.3.b
+
+phase 2, beginning with 20 June 2022 and ending with 24 July 2022, and
+
+64.3.c
+
+phase 3, beginning with 25 July 2022 and ending with 29 August 2022.
+
+#### Exclusion to transitory provision
+
+65
+
+65.1
+
+An individual who has made a claim for Personal Independence Payment prior to
+21 March 2022 which has not yet been decided is not entitled to be paid Adult
+Disability Payment during the initial period for applications.
+
+65.2
+
+In paragraph (1) a claim for Personal Independence Payment is decided if it
+has—
+
+65.2.a
+
+been decided by the Secretary of State under section 8 (decisions by Secretary
+of State) of the Social Security Act 1998 ,
+
+65.2.b
+
+been withdrawn in accordance with regulation 31 (withdrawal of claim) of the
+Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and
+Employment and Support Allowance (Claims and Payments) Regulations 2013 , or
+
+65.2.c
+
+otherwise is no longer to be decided by the Secretary of State as mentioned in
+sub-paragraph (a).
+
+      BEN MACPHERSON   Authorised to sign by the Scottish Ministers     St
+Andrew’s House,   Edinburgh
+
+  ADULT DISABILITY PAYMENT DETERMINATION
+
+Regulation 2
+
+##### Interpretation
+
+1
+
+In this schedule—
+
+    “ aided ” means with—       the use of an aid or appliance, or
+supervision, prompting or assistance,             “ assistance ” means
+physical intervention by another person and does not include speech,         “
+assistance dog ” means a dog trained to guide or assist a person with a
+sensory impairment,         “ basic verbal information ” means information in
+the individual’s native language conveyed verbally in a simple sentence and
+excludes information that is not communicated orally or received aurally,
+“ basic written information ” means signs, symbols and dates written or
+printed in standard size text in the individual’s native language,         “
+bathe ” includes get into or out of an unadapted bath or shower,         “
+communication support ” means support from a person trained or experienced in
+communicating with people in general, or the individual in particular, with
+specific communication needs, including interpreting verbal information into a
+non-verbal form and vice versa,         “ complex budgeting decisions ” means
+decisions involving—       calculating household and personal budgets,
+managing and paying bills, and       planning future purchases,             “
+complex verbal information ” means information in the individual’s native
+language conveyed verbally in either more than one sentence or one complicated
+sentence and excludes information that is not communicated orally or received
+aurally,         “ complex written information ” means more than one sentence
+of written or printed standard size text in the individual’s native language,
+“ cook ” means heat food at or above waist height,         “ dress ” includes
+put on socks and shoes,         “ engage socially ” means—       interact with
+others in a contextually and socially appropriate manner,       understand
+body language, and       establish relationships,             “ follow the
+route of a journey ” means for an individual to navigate and make their way
+along a planned route to a planned destination,         “ manage incontinence
+” means manage involuntary evacuation of the bowel or bladder, including using
+a collecting device or self-catheterisation, and clean oneself afterwards,
+“ manage medication ” means take medication which improves the individual’s
+symptoms or health, or, take medication where failure to do so is likely to
+result in a deterioration in the individual’s health,         “ manage therapy
+” means undertake therapy which improves the individual’s symptoms or health,
+or, undertake therapy where a failure to do so is likely to result in a
+deterioration in the individual’s health,         “ medication ” means
+medication to be taken at home which is prescribed or recommended by a—
+registered—     medical practitioner,       nurse,       pharmacist, or
+health professional who is registered by the Health and Care Professions
+Council,             “ monitor a health condition ” means—       detect
+significant changes in the individual’s health condition which are likely to
+lead to a deterioration in the individual’s health, and       take action
+advised by a—     registered medical practitioner,       registered nurse, or
+health professional who is registered by the Health and Care Professions
+Council,       without which the individual’s health is likely to deteriorate,
+“ orientation aid ” means a specialist aid designed to assist disabled people
+to follow a route safely,         “prepare”, in the context of food, means
+make food ready for cooking or eating,         “ prompting ” means reminding,
+encouraging or explaining by another person,         “ psychological distress
+” means distress related to an enduring mental condition or an intellectual or
+cognitive impairment,         “ read ” includes read signs, symbols and words
+but does not include read Braille,         “ simple budgeting decisions ”
+means decisions involving—       calculating the cost of goods, and
+calculating change required after a purchase,             “ simple meal ”
+means a cooked one-course meal for one using fresh ingredients,         “
+social support ” means support from a person trained or experienced in
+assisting people in general, or the individual in particular, to engage in
+social situations,         “ stand ” means stand upright with at least one
+biological foot on the ground,         “ supervision ” means the continuous
+presence of another person for the purpose of ensuring an individual’s safety,
+“ take nutrition ” means—       cut food into pieces, convey food and drink to
+one’s mouth and chew and swallow food and drink, or       ingest nutrition by
+using a therapeutic source,             “ therapeutic source ” means
+parenteral or enteral tube feeding, using a rate-limiting device such as a
+delivery system or feed pump,         “ therapy ” means therapy to be
+undertaken at home which is prescribed or recommended by a—       registered—
+medical practitioner,       nurse, or       pharmacist, or             health
+professional regulated by Health and Care Professions Council,       but does
+not include taking or applying, or otherwise receiving or administering,
+medication (whether orally, topically or by any other means), or any action
+which, in the individual’s case, falls within the definition of “monitor a
+health condition”,         “ toilet needs ” means—       getting on and off an
+unadapted toilet,       evacuating the bladder and bowel, and       cleaning
+oneself afterwards,             “ unaided ” means without—       the use or
+aid of an appliance, or       supervision, prompting or assistance,
+“ undress ” includes take off socks and shoes.
+
+##### Daily Living Activities
+
+      Column 1   Activity   Column 2   Descriptors   Column 3   Points     1.
+Preparing food. a. Can prepare and cook a simple meal unaided. 0 b. Needs to
+use an aid or appliance to be able to either prepare or cook a simple meal. 2
+c. Cannot cook a simple meal using a conventional cooker but is able to do so
+using a microwave. 2 d. Needs prompting to be able to either prepare or cook a
+simple meal. 2 e. Needs supervision or assistance to either prepare or cook a
+simple meal. 4 f. Cannot prepare and cook food. 8 2. Taking nutrition. a. Can
+take nutrition unaided. 0 b. Needs—   (i) to use an aid or appliance to be
+able to take nutrition, or   (ii) supervision to be able to take nutrition, or
+(iii) assistance to be able to cut up food.   2 c. Needs a therapeutic source
+to be able to take nutrition. 2 d. Needs prompting to be able to take
+nutrition. 4 e. Needs assistance to be able to manage a therapeutic source to
+take nutrition. 6 f. Cannot convey food and drink to their mouth and needs
+another person to do so. 10 3. Managing therapy or monitoring a health
+condition. a. Either—   (i) does not receive medication or therapy or need to
+monitor a health condition, or   (ii) can manage medication or therapy or
+monitor a health condition unaided.   0 b. Needs any one or more of the
+following—   (i) to use an aid or appliance to be able to manage medication,
+(ii) supervision, prompting or assistance to be able to manage medication,
+(iii) supervision, prompting or assistance to be able to monitor a health
+condition.   1 c. Needs supervision, prompting or assistance to be able to
+manage therapy that takes no more than 3.5 hours a week. 2 d. Needs
+supervision, prompting or assistance to be able to manage therapy that takes
+more than 3.5 but no more than 7 hours a week. 4 e. Needs supervision,
+prompting or assistance to be able to manage therapy that takes more than 7
+but no more than 14 hours a week. 6 f. Needs supervision, prompting or
+assistance to be able to manage therapy that takes more than 14 hours a week.
+8 4. Washing and bathing. a. Can wash and bathe unaided. 0 b. Needs to use an
+aid or appliance to be able to wash or bathe. 2 c. Needs supervision or
+prompting to be able to wash or bathe. 2 d. Needs assistance to be able to
+wash either their hair or body below the waist. 2 e. Needs assistance to be
+able to get in or out of an unadapted bath or shower. 3 f. Needs assistance to
+be able to wash their body between the shoulders and waist. 4 g. Cannot wash
+and bathe at all and needs another person to wash their entire body. 8 5.
+Managing toilet needs or incontinence. a. Can manage toilet needs or
+incontinence unaided. 0 b. Needs to use an aid or appliance to be able to
+manage toilet needs or incontinence. 2 c. Needs supervision or prompting to be
+able to manage toilet needs. 2 d. Needs assistance to be able to manage toilet
+needs. 4 e. Needs assistance to be able to manage incontinence of either
+bladder or bowel. 6 f. Needs assistance to be able to manage incontinence of
+both bladder and bowel. 8 6. Dressing and undressing. a. Can dress and undress
+unaided. 0 b. Needs to use an aid or appliance to be able to dress or undress.
+2 c. Needs either—   (i) prompting to be able to dress, undress or determine
+appropriate circumstances for remaining clothed, or   (ii) prompting or
+assistance to be able to select appropriate clothing.   2 d. Needs assistance
+to be able to dress or undress their lower body. 2 e. Needs assistance to be
+able to dress or undress their upper body. 4 f. Cannot dress or undress at
+all. 8 7. Communicating verbally. a. Can express and understand basic and
+complex verbal information unaided. 0 b. Needs to use an aid or appliance to
+be able to speak or hear. 2 c. Needs communication support to be able to
+express or understand complex verbal information. 4 d. Needs communication
+support to be able to express or understand basic verbal information. 8 e.
+Cannot express or understand verbal information at all even with communication
+support. 12 8. Reading and understanding signs, symbols and words. a. Can read
+and understand basic and complex written information either unaided or using
+spectacles or contact lenses. 0 b. Needs to use an aid or appliance, other
+than spectacles or contact lenses, to be able to read or understand either
+basic or complex written information. 2 c. Needs prompting to be able to read
+or understand complex written information. 2 d. Needs prompting to be able to
+read or understand basic written information. 4 e. Cannot read or understand
+signs, symbols or words at all. 8 9. Engaging socially with other people face
+to face. a. Can engage socially with other people unaided. 0 b. Needs
+prompting to be able to engage socially with other people. 2 c. Needs social
+support to be able to engage socially with other people. 4 d. Cannot engage
+socially with other people due to such engagement causing either—   (i)
+overwhelming psychological distress to the individual, or   (ii) the
+individual to exhibit behaviour which would result in substantial risk of harm
+to the individual or another person.   8 10. Making budgeting decisions. a.
+Can manage complex budgeting decisions unaided. 0 b. Needs prompting or
+assistance to be able to make complex budgeting decisions. 2 c. Needs
+prompting or assistance to be able to make simple budgeting decisions. 4 d.
+Cannot make any budgeting decisions at all. 6
+
+##### Mobility Activities
+
+      Column 1   Activity   Column 2   Descriptors   Column 3   Points     1.
+Planning and following journeys. a. Can plan and follow the route of a journey
+unaided. 0 b. Needs the prompting of another person to be able to undertake
+any journey to avoid overwhelming psychological distress to the individual. 4
+c. Cannot plan the route of a journey. 8 d. Cannot follow the route of an
+unfamiliar journey without another person, assistance dog or orientation aid.
+10 e. Cannot undertake any journey because it would cause overwhelming
+psychological distress to the individual. 10 f. Cannot follow the route of a
+familiar journey without another person, an assistance dog or an orientation
+aid. 12 2. Moving around. a. Can stand and then move more than 200 metres,
+either aided or unaided. 0 b. Can stand and then move more than 50 metres but
+no more than 200 metres, either aided or unaided. 4 c. Can stand and then move
+unaided more than 20 metres but no more than 50 metres either aided or
+unaided. 8 d. Can stand and then move using an aid or appliance more than 20
+metres but no more than 50 metres, either aided or unaided. 10 e. Can stand
+and then move more than 1 metre but no more than 20 metres, either aided or
+unaided. 12 f. Cannot, either aided or unaided,—   (i) stand, or   (ii) move
+more than 1 metre.   12
+
+##### Short-term assistance
+
+Regulation 2
+
+###### Entitlement to short-term assistance
+
+1
+
+1.1
+
+Subject to sub-paragraph (5) and (6), an individual who is, or was, entitled
+to Disability Payment under a determination made on the basis that the
+individual has ongoing entitlement is entitled to short-term assistance where—
+
+1.1.a
+
+that determination of the individual’s entitlement to Adult Disability Payment
+(“ the earlier determination ”) has been superseded by—
+
+1.1.a.i
+
+a determination under section 37 of the 2018 Act, or
+
+1.1.a.ii
+
+if the earlier determination is a determination—
+
+1.1.a.ii.aa
+
+of an application for Adult Disability Payment,
+
+1.1.a.ii.bb
+
+without application of an individual’s entitlement to Adult Disability Payment
+under paragraph 9 of this schedule (determination without application of
+entitlement to Adult Disability Payment),
+
+1.1.a.ii.cc
+
+without application of an individual’s entitlement to Adult Disability Payment
+under regulation 52 (individuals in respect of whom Personal Independence
+Payment is paid in another part of the United Kingdom immediately before
+moving to Scotland),
+
+1.1.a.ii.dd
+
+without application of an individual’s entitlement to Adult Disability payment
+under regulation 4 (transfer determination without application of entitlement
+to Adult Disability Payment) of the Disability Assistance for Working Age
+People (Transitional Provisions and Miscellaneous Amendment) (Scotland)
+Regulations 2022,
+
+a determination under section 43 (Scottish Ministers’ duty to re-determine) or
+section 49 (First-tier Tribunal’s power to determine entitlement on appeal) of
+the 2018 Act,
+
+1.1.b
+
+as a result of—
+
+1.1.b.i
+
+the earlier determination being superseded as mentioned in sub-paragraph
+(1)(a), or
+
+1.1.b.ii
+
+a later determination under section 43 or section 49 of the 2018 Act in
+relation to the individual’s entitlement to Adult Disability Payment for the
+period to which the determination mentioned in sub-paragraph (1)(a)(i) or the
+earlier determination mentioned in sub-paragraph (1)(a)(ii) relates,
+
+the individual—
+
+1.1.b.iii
+
+is no longer entitled to Adult Disability Payment, or
+
+1.1.b.iv
+
+is entitled to less Adult Disability Payment than they were under the earlier
+determination,
+
+1.1.c
+
+the individual’s entitlement to Adult Disability Payment is under review
+within the meaning of—
+
+1.1.c.i
+
+paragraph 1(2) of schedule 10 of the 2018 Act, or
+
+1.1.c.ii
+
+sub-paragraph (2), and
+
+1.1.d
+
+the individual—
+
+1.1.d.i
+
+continues to meet the conditions as to residence and presence set out in Part
+5, or
+
+1.1.d.ii
+
+has transferred to become resident in another part of the United Kingdom, and
+the matter under review is the determination of entitlement for the 13-week
+period beginning in accordance with regulation 53 (individuals in respect of
+whom Adult Disability Payment is paid at the time of moving to another part of
+the United Kingdom).
+
+1.2
+
+An individual’s entitlement to Adult Disability Payment is under review in
+terms of sub-paragraph   (1)(c)(ii)   if—
+
+1.2.a
+
+a decision of the First-tier Tribunal for Scotland under section 49 of the
+2018 Act, in relation to the   individual’s entitlement to Adult Disability
+Payment for the period to which the determination mentioned in sub-paragraph
+(1)(a)(i) or the earlier determination mentioned in sub-paragraph (1)(a)(ii)
+relates , is set aside after a review under section 43(2) of the Tribunals
+(Scotland) Act 2014  (“ the 2014 Act ”), and
+
+1.2.b
+
+the First-tier Tribunal for Scotland decide not to uphold a determination of
+an individual’s entitlement to Adult Disability Payment in an appeal under
+section 46 of the 2018 Act and the First-tier Tribunal for Scotland are to
+make a determination of the individual’s entitlement to Adult Disability
+Payment under section 49 of the 2018 Act.
+
+1.3
+
+Where—
+
+1.3.a
+
+an individual’s entitlement to Adult Disability Payment is set aside after a
+review in terms of sub-paragraph (2)(a), and
+
+1.3.b
+
+the individual had previously been awarded short-term assistance on the basis
+that their entitlement to Adult Disability Payment was under review by the
+First-tier Tribunal prior to it making the decision that has been set aside,
+
+the Scottish Ministers are to make a determination without application of the
+individual’s entitlement to short-term assistance.
+
+1.4
+
+Where—
+
+1.4.a
+
+the First-tier Tribunal for Scotland set aside a decision by the Scottish
+Ministers not to accept a request for a re-determination of the individual’s
+entitlement to Adult Disability Payment mentioned in sub-paragraph (1)(a) (i)
+, and
+
+1.4.b
+
+the Scottish Ministers had previously determined, pursuant to an application
+made by the individual, that the individual was not entitled to short-term
+assistance on the basis that the   determination mentioned in sub-paragraph
+(1)(a)(i)   was not under review,
+
+the Scottish Ministers are to make a determination without application of the
+individual’s entitlement to short-term assistance.
+
+1.5
+
+An individual is not entitled to short-term assistance where the individual is
+no longer entitled to Adult Disability Payment as a result of a subsequent
+determination made under regulation 48(b) (determination following change of
+circumstances etc.).
+
+1.6
+
+In this part of the schedule “ the earlier determination ” has the meaning
+given in sub-paragraph (1)(a).
+
+1.6
+
+An individual to whom regulation 27(2) (effect of admission to a care home on
+ongoing entitlement to daily living component), regulation 28(2) (effect of
+admission to hospital on ongoing entitlement to Adult Disability Payment),
+regulation 30(3) (effect of legal detention on ongoing entitlement to daily
+living component), or regulation 32(2) (entitlement beginning while in
+alternative accommodation) applies is not entitled to short-term assistance in
+respect of the component or components for which the value is to be £0 under
+those regulations.
+
+1.7
+
+Where the Scottish Ministers have made a determination under section 37 of the
+2018 Act (duty to make determination) that an individual is entitled to short-
+term assistance, entitlement to short-term assistance begins—
+
+1.7.a
+
+where a request is made under section 41 of the 2018 Act (right to request re-
+determination) for a re-determination of the individual’s entitlement to Adult
+Disability Payment   for the period to which the determination  mentioned in
+sub-paragraph (1)(a) (i) relates , on the day that request is made,
+
+1.7.b
+
+where a notice of appeal is submitted under section 47 of the 2018 Act
+(initiating an appeal) against   a determination   of the individual’s
+entitlement to Adult Disability Payment   for the period to which the
+determination  mentioned in sub-paragraph (1)(a) (i) or the earlier
+determination mentioned in sub-paragraph (1)(a)(ii) relates , on the day that
+request is made,
+
+1.7.c
+
+where a decision of the Scottish Ministers is made not to accept a request for
+a re-determination of the individual’s entitlement to Adult Disability Payment
+for the period to which the determination  mentioned in sub-paragraph (1)(a)
+(i) relates , on the day that decision is set aside by the First-tier Tribunal
+for Scotland,
+
+1.7.d
+
+where a request is made under section 48(1)(b) of the 2018 Act (deadline for
+appealing) for permission to appeal   a determination   of the individual’s
+entitlement to Adult Disability Payment   for the period to which the
+determination  mentioned in sub-paragraph (1)(a) (i) or the earlier
+determination mentioned in sub-paragraph (1)(a)(ii) relates , on the day that
+request is made, or
+
+1.7.e
+
+where a decision of the First-tier Tribunal for Scotland under section 49 of
+the 2018 Act, in relation to   a   determination of the individual’s
+entitlement to Adult Disability Payment   for the period to which the
+determination  mentioned in sub-paragraph (1)(a) (i) or the earlier
+determination mentioned in sub-paragraph (1)(a)(ii) relates , is set aside
+after a review under section 43(2) of the 2014 Act (review of decisions) and
+the First-tier Tribunal for Scotland are to   make a decision about   the
+individual’s entitlement to Adult Disability Payment   for the period to which
+the determination  under section 49 of the 2018 Act, on the day that the
+decision is set aside.
+
+1.8
+
+Regulation 54 (periods in respect of a re-determination request) applies to
+short-term assistance in the same way as it applies to Adult Disability
+Payment.
+
+###### Value and form
+
+2
+
+2.1
+
+The value of short-term assistance payable for any period is equal to V1-V2
+where—
+
+2.1.a
+
+V1 is the value of the Adult Disability Payment the individual would have been
+given in respect of the period under the earlier determination had the earlier
+determination not been superseded, and
+
+2.1.b
+
+V2 is the value of the Adult Disability Payment that the individual is to be
+given in respect of the period under what is, at the time the individual
+becomes eligible for short-term assistance in respect of the period, the most
+recent determination of the individual’s entitlement to Adult Disability
+Payment.
+
+2.2
+
+The form in which the short-term assistance is to be given is to be the same
+as the form in which Adult Disability Payment was given under the earlier
+determination.
+
+2.3
+
+Where the mobility component was being paid by the Scottish Ministers to an
+authorised provider of vehicles for persons with disabilities in accordance
+with regulation 55(1) (payment of mobility component to authorised provider of
+vehicles for individuals with disabilities) on the day before an individual’s
+entitlement to the mobility component ended as a result of a subsequent
+determination mentioned in paragraph 1(1)(a)—
+
+2.3.a
+
+the amount of short-term assistance that is payable in respect of the mobility
+component may be paid by the Scottish Ministers to the authorised provider,
+and
+
+2.3.b
+
+paragraphs (1) and (2) of regulation 55 apply to the payment of short-term
+assistance as they had applied to the payment of mobility component prior to
+the individual’s entitlement ending.
+
+2.4
+
+Regulations 44 (form of payment - giving Adult Disability Payment by way of
+deduction), 49 (determination following official error – underpayments), 50
+(determination following error – overpayments) and 51 (determination to effect
+a deduction decision) apply to short-term assistance in the same way as they
+apply to Adult Disability Payment.
+
+###### End of entitlement
+
+3
+
+3.1
+
+When an individual’s entitlement to short-term assistance is to end under sub-
+paragraph (2), the Scottish Ministers are to make a determination without
+application.
+
+3.2
+
+Entitlement to short-term assistance ends on the day—
+
+3.2.a
+
+a determination of an individual’s entitlement to short-term assistance is
+cancelled under section 26(2) of the 2018 Act (individual’s right to stop
+receiving assistance),
+
+3.2.b
+
+a re-determination of an individual’s entitlement to Adult Disability Payment
+is made by the Scottish Ministers under section 43 of the 2018 Act (duty to
+re-determine),
+
+3.2.c
+
+the First-tier Tribunal for Scotland makes a determination under section 49 of
+the 2018 Act (First-tier Tribunal’s power to determine entitlement) in
+relation to  ... the individual’s entitlement to Adult Disability Payment
+for the period to which the determination  mentioned in paragraph 1(1)(a) (i)
+or the earlier determination mentioned in paragraph 1(1)(a)(ii) relates ,
+
+3.2.d
+
+that the First-tier Tribunal for Scotland makes a determination to refuse
+permission under section 48(1)(b) of the 2018 Act (deadline for appealing) to
+bring an appeal against the  ... determination of the individual’s entitlement
+to Adult Disability Payment   for the period to which the determination
+mentioned in paragraph 1(1)(a) (i) or the earlier determination mentioned in
+paragraph 1(1)(a)(ii) relates , or
+
+3.2.e
+
+where the individual withdraws their application to bring an appeal against
+the  ... determination of the individual’s entitlement to Adult Disability
+Payment   for the period to which the determination  mentioned in paragraph
+1(1)(a) (i) or the earlier determination mentioned in paragraph 1(1)(a)(ii)
+relates , on that day.
+
+###### Reduction of Adult Disability Payment where short-term assistance is paid
+
+4
+
+Where an individual has received short-term assistance for a period and a
+determination is subsequently made that the individual is entitled to Adult
+Disability Payment for the same period, any payment of Adult Disability
+Payment to be made as a result of the subsequent determination for that
+period—
+
+4.a
+
+where the individual is to be paid Adult Disability Payment at the same rate
+as or a lower rate than any short-term assistance and any Adult Disability
+Payment already paid to that individual for that period, is to be reduced to
+£0, and
+
+4.b
+
+in any other case, is to be reduced by any short-term assistance and any Adult
+Disability Payment already paid to that individual for that period.
+
+##### Initial period for applications
+
+Regulation 57
+
+###### Initial period for applications
+
+5
+
+5.1
+
+These Regulations apply to an individual who is resident in one of the local
+authority areas mentioned in paragraph 6 when the individual makes an
+application for Adult Disability Payment during the initial period for
+applications.
+
+5.2
+
+An individual who is awarded Adult Disability Payment pursuant to an
+application made during the initial period for applications will continue to
+be entitled if that person moves to another local authority area in Scotland.
+
+###### Local authority areas for initial period for applications
+
+6
+
+The local authority areas specified for the purposes of regulation 64 are—
+
+6.a
+
+in phase 1, Perthshire and Kinross, City of Dundee and Western Isles,
+
+6.b
+
+in phase 2, Perthshire and Kinross, City of Dundee, Western Isles, Angus,
+North Lanarkshire and South Lanarkshire,
+
+6.c
+
+in phase 3, Perthshire and Kinross, City of Dundee, Western Isles, Angus,
+North Lanarkshire, South Lanarkshire, Fife, City of Aberdeen, Aberdeenshire,
+Moray, North Ayrshire, East Ayrshire and South Ayrshire.
+
+##### Transfer from Personal Independence Payment to Adult Disability Payment
+
+Regulation 60
+
+###### Interpretation
+
+7
+
+In this Part of the schedule—
+
+“ date of transfer ” means the date when a transferring individual’s
+entitlement to Adult Disability Payment begins by virtue of a determination
+made under paragraph 9(1), “ relevant individual ” means an individual— who
+has an award of Personal Independence Payment who appears to the Scottish
+Ministers to be likely to be eligible for Adult Disability Payment, and who
+is— ordinarily resident in Scotland, or someone to whom regulation 15(3)
+(residence and presence conditions) or 20(2) (persons residing outside the
+United Kingdom to whom a relevant EU regulation applies) applies, “ sufficient
+” means a link to Scotland that is sufficiently close that regulations 15(3)
+or 20(2) would be incompatible with the applicable agreement mentioned in that
+regulation, if the relevant individual were not entitled to Adult Disability
+Payment, “ transfer notice ” means the notice required by paragraph 8, and “
+transferring individual ” means   an individual   on whom the Scottish
+Ministers have served a notice of intention to transfer in accordance with
+paragraph 8.
+
+###### Notice of intention to transfer to Adult Disability Payment
+
+8
+
+8.1
+
+The Scottish Ministers are to notify each relevant individual of their
+intention to transfer that individual’s entitlement to disability assistance
+from an entitlement to Personal Independence Payment to an entitlement to
+Adult Disability Payment.
+
+8.2
+
+Notice under sub-paragraph (1) must—
+
+8.2.a
+
+be given in a way that leaves the relevant individual with a record of the
+information which they can show to, or otherwise share with, others,
+
+8.2.b
+
+inform the relevant individual that—
+
+8.2.b.i
+
+they have been identified as a relevant individual for the purposes of
+transfer to Adult Disability Payment,
+
+8.2.b.ii
+
+the Scottish Ministers will make a determination, without receiving an
+application, to transfer the individual’s entitlement to Personal Independence
+Payment to an entitlement to Adult Disability Payment within a period to be
+specified within the notice (the individual will be notified when the
+determination is made and informed about their award and start date of Adult
+Disability Payment), and
+
+8.2.b.iii
+
+the individual’s award of Personal Independence Payment will cease immediately
+before the award of Adult Disability Payment begins.
+
+8.3
+
+                        Where a notice under sub-paragraph (1) is given—
+
+8.3.a
+
+to a transferring individual who, before a determination is made under
+paragraph 9(1), ceases to be ordinarily resident in Scotland, or
+
+8.3.b
+
+in error where the individual is neither—
+
+8.3.b.i
+
+ordinarily resident in Scotland, nor
+
+8.3.b.ii
+
+an individual who is habitually resident in an EEA state, Gibraltar or
+Switzerland and has a genuine and sufficient link to Scotland,
+
+the duty on the Scottish Ministers in paragraph 9(1) does not apply.
+
+8.4
+
+Where sub-paragraph (3) applies in respect of an individual and a
+determination under paragraph 9(1) has not been made, the Scottish Ministers
+are to notify the individual that the duty on the Scottish Ministers in
+paragraph 9(1) does not apply.
+
+###### Determination without application of entitlement to Adult Disability Payment
+
+9
+
+9.1
+
+The Scottish Ministers are to make a determination in respect of a
+transferring individual, without receiving an application, of that
+individual’s entitlement to Adult Disability Payment.
+
+9.2
+
+Entitlement to Adult Disability Payment under a determination under sub-
+paragraph (1) begins on the date specified in the notice of determination
+given to the transferring individual in accordance with section 40 of the 2018
+Act .
+
+9.3
+
+Subject to sub-paragraph (4), the determination under sub-paragraph (1) is to
+be made on the basis of—
+
+9.3.a
+
+such information as the Scottish Ministers have received from the Secretary of
+State for Work and Pensions in respect of the transferring individual’s
+entitlement to Personal Independence Payment, and
+
+9.3.b
+
+any other information available to the Scottish Ministers that appears to them
+to be relevant.
+
+9.4
+
+The determination under sub-paragraph (1) does not need to be made on the
+basis of the information mentioned in sub-paragraph (3)(b) where—
+
+9.4.a
+
+the individual—
+
+9.4.a.i
+
+before receiving a notice under paragraph 8(1), reported a change of
+circumstances to the Secretary of State for Work and Pensions, which has not
+been taken into account for the individual’s entitlement to Personal
+Independence Payment, or
+
+9.4.a.ii
+
+has, since receiving a notice under paragraph 8(1), notified a change of
+circumstances to the Scottish Ministers, and
+
+9.4.b
+
+following the determination under sub-paragraph (1) a further determination is
+to be made under paragraph 12.
+
+9.5
+
+Subject to paragraph 11, a determination under sub-paragraph (1) must be made
+on the basis that the transferring individual is entitled to the components
+and rates of Adult Disability Payment that are equivalent to those components
+and rates of Personal Independence Payment to which the individual was
+entitled immediately before the date of transfer.
+
+9.6
+
+A determination under sub-paragraph (1)—
+
+9.6.a
+
+may be made on the assumption that whatever can be discerned about the
+transferring individual’s circumstances from the information mentioned in sub-
+paragraph (3) remains accurate on the date on which the determination is made,
+
+9.6.b
+
+notwithstanding the generality of head (a), is to be made on the assumption
+that the conditions relating to residence and presence set out in regulations
+15 to 21 (residence and presence conditions etc.) are satisfied in the
+individual’s case, and
+
+9.6.c
+
+must be made not later than the end of the period specified within the notice
+under paragraph 8(1) unless the Scottish Ministers have—
+
+9.6.c.i
+
+good reason to extend that period,
+
+9.6.c.ii
+
+agreed the period for extension with the Secretary of State for Work and
+Pensions, and
+
+9.6.c.iii
+
+notified the transferring individual of the extension and the reason for it.
+
+###### Effect of determination on entitlement to Personal Independence Payment
+
+10
+
+10.1
+
+Where a determination is made under paragraph 9(1) that the transferring
+individual is entitled to Adult Disability Payment, the transferring
+individual’s entitlement to Personal Independence Payment will cease on—
+
+10.1.a
+
+the date their entitlement to Adult Disability Payment begins,
+
+10.1.b
+
+where a transferring individual was paid Personal Independence Payment one
+week in advance and 3 weekly in arrears, the date one week after the date
+their entitlement to Adult Disability Payment begins, or
+
+10.1.c
+
+where paragraph 11 applies, the date their entitlement to Adult Disability
+Payment would have begun had paragraph 11(2) not applied to set an earlier
+date of entitlement.
+
+10.2
+
+Where paragraph (1)(b) applies—
+
+10.2.a
+
+section 77(4) (personal independence payment) of the Welfare Reform Act 2012 ,
+and
+
+10.2.b
+
+regulation 4(e) of these Regulations (entitlement to other benefits),
+
+do not apply in respect of the first week of entitlement to Adult Disability
+Payment.
+
+###### Exceptions to paragraph 9(5)
+
+11
+
+11.1
+
+Where the Scottish Ministers have—
+
+11.1.a
+
+received information from the Secretary of State for Work and Pensions that
+the transferring individual is terminally ill in terms of section 82 of the
+Welfare Reform Act 2012  immediately before the date of transfer, or
+
+11.1.b
+
+not received information from the Secretary of State for Work and Pensions
+that the transferring individual is terminally ill in terms of section 82 of
+the Welfare Reform Act 2012, but become aware, before they have made a
+determination under paragraph 9(1), that a transferring individual has a
+terminal illness in terms of regulation 26(7),
+
+  except where sub-paragraph (1A) applies,  the determination made under
+paragraph 9(1) must be made on the basis that the transferring individual
+satisfies the conditions for the enhanced rate of both the daily living
+component and the mobility component of Adult Disability Payment.
+
+11.1A
+
+Where the transferring individual reached the relevant age as defined in
+regulation 22(2) when they became terminally ill under section 82 of the
+Welfare Reform Act 2012  or in terms of regulation 26(7), the restrictions in
+sub-paragraph (1B) apply in relation to the determination under paragraph
+9(1).
+
+11.1B
+
+The restrictions referred to in sub-paragraph (1A) are—
+
+11.1B.a
+
+where the transferring individual was entitled to the mobility component of
+Personal Independence Payment at the standard rate immediately before the date
+of transfer, then regardless of whether the award would otherwise have been
+for the enhanced rate, the Scottish Ministers—
+
+11.1B.a.i
+
+may only make an award for the standard rate of that component, and
+
+11.1B.a.ii
+
+may only make such an award where the entitlement results from substantially
+the same condition or conditions in respect of which the mobility component of
+Personal Independence payment was given,
+
+11.1B.b
+
+where the transferring individual was entitled to the mobility component of
+Personal Independence Payment at the enhanced rate immediately before the date
+of transfer, the Scottish Ministers may only award that rate of that component
+where entitlement results from substantially the same condition or conditions
+in respect of which the mobility component of Personal Independence Payment
+was given,
+
+11.1B.c
+
+where the transferring individual was not entitled to the mobility component
+of Personal Independence Payment immediately before the date of transfer, the
+Scottish Ministers may not award that component at either the standard or
+enhanced rate.
+
+11.2
+
+Where sub-paragraph (1)  or (1A)   applies—
+
+11.2.a
+
+paragraphs (4) to (6) of regulation 26 do not apply, and
+
+11.2.b
+
+the transferring individual’s entitlement to Adult Disability Payment will
+commence on whichever is the later of—
+
+11.2.b.i
+
+the date that these Regulations come into force,
+
+11.2.b.ii
+
+the day that the clinical judgement was made in accordance with regulation
+26(7), or
+
+11.2.b.iii
+
+the day one year before the determination was made in accordance with
+paragraph 9(1).
+
+###### Change of Circumstances
+
+12
+
+12.1
+
+The Scottish Ministers must make a determination of an individual’s
+entitlement to Adult Disability Payment (the “review determination”), without
+receiving an application, where—
+
+12.1.a
+
+the individual, before a determination under paragraph 9(1) (the “transfer
+determination”) is made, reported a change of circumstances to the Secretary
+of State for Work and Pensions, which had not been taken into account for the
+individual’s entitlement to Personal Independence Payment,
+
+12.1.b
+
+the Scottish Ministers have made a transfer determination, and
+
+12.1.c
+
+the individual has not requested a re-determination under section 41 of the
+2018 Act, or appealed under section 46 of the 2018 Act, in relation to the
+transfer determination.
+
+12.2
+
+The review determination is to be made as soon as reasonably practicable after
+the transfer determination.
+
+12.3
+
+The change of circumstance notified under sub-paragraph (1)—
+
+12.3.a
+
+is not to be regarded as relating to the individual’s entitlement to Personal
+Independence Payment, and
+
+12.3.b
+
+is to be taken into consideration by the Scottish Ministers in making the
+review determination.
+
+12.4
+
+Where a transferring individual’s entitlement to Adult Disability Payment is
+determined in the review determination to be at a higher rate than the
+transfer determination, entitlement will begin—
+
+12.4.a
+
+if the individual notifies the change—
+
+12.4.a.i
+
+within one month of the change occurring, the date when the individual first
+satisfies the requirements for a higher rate of the   daily living   or
+mobility component,
+
+12.4.a.ii
+
+within more than one month but not more than 13 months of the change
+occurring, the date when the individual first satisfies the requirements for a
+higher rate of the   daily living   or mobility component, but only if the
+Scottish Ministers consider that the individual had good reason for not
+notifying the change within one month,
+
+12.4.a.iii
+
+in any other case, from the date of notification of the change, or
+
+12.4.b
+
+if the date under sub-paragraph 4(a) is before these Regulations come into
+force, the date that these Regulations come into force.
+
+12.5
+
+Where a transferring individual’s entitlement to Adult Disability Payment is
+determined in the review determination to be at a lower rate than or at the
+same rate as awarded by the transfer determination, entitlement under the
+review determination will take effect on the day that the Scottish Ministers
+make the review determination.
+
+12.6
+
+Where an individual has previously received Personal Independence Payment or
+Adult Disability Payment for a period and a review determination is
+subsequently made that the same individual is entitled to Adult Disability
+Payment at a higher rate for that period by virtue of this paragraph, that
+individual will be entitled to the difference between the value of entitlement
+to Adult Disability Payment under the review determination and the value of
+Personal Independence Payment or Adult Disability Payment to which that
+individual was previously entitled for that period.
+
+12.7
+
+Where the change of circumstance notified under sub-paragraph (1) occurred
+after the person had reached the relevant age as defined in regulation 22(2),
+the restrictions in sub-paragraph (8) will apply in relation to the
+determination under sub-paragraph (1).
+
+12.8
+
+The restrictions referred to in sub-paragraph (7) are—
+
+12.8.a
+
+where the transfer determination awarded the mobility component at the
+standard rate then, regardless of whether the award would have otherwise been
+for the enhanced rate, the Scottish Ministers—
+
+12.8.a.i
+
+may only make an award for the standard rate of that component, and
+
+12.8.a.ii
+
+may only make such an award where entitlement results from substantially the
+same condition or conditions in respect of which the mobility component in the
+transfer determination was given,
+
+12.8.b
+
+where the transfer determination awarded the mobility component at the
+enhanced rate, the Scottish Ministers may only award that rate of that
+component where entitlement results from substantially the same condition or
+conditions in respect of which the mobility component in the transfer
+determination was given,
+
+12.8.c
+
+where the transfer determination did not include an award of the mobility
+component, the Scottish Ministers may not award that component at either the
+standard or enhanced rate.
+
+###### Effect of legal detention on payment of the mobility component: 16 and 17 year olds
+
+13
+
+13.1
+
+Sub-paragraph (2) and (3) apply where a transferring individual—
+
+13.1.a
+
+is aged 16 or 17 on the date of transfer,
+
+13.1.b
+
+was in legal detention immediately before the date of transfer, and
+
+13.1.c
+
+was entitled to the mobility component of Personal Independence Payment
+immediately before the date of transfer.
+
+13.2
+
+Entitlement to the mobility component of Adult Disability Payment of a
+transferring individual mentioned in sub-paragraph (1) is to begin before the
+date of the determination under paragraph 9(1) but not before 13 June 2022.
+
+13.3
+
+Where the transferring individual has received payment of the mobility
+component of Personal Independence Payment for any period after the date on
+which their entitlement to the mobility component of Adult Disability Payment
+commences under sub-paragraph (2), any payment of Adult Disability Payment to
+be made for that period is to be reduced by the amount already paid to the
+transferring individual for the mobility component of Personal Independence
+Payment for that period.
+
+###### Modification of these Regulations: transferring individuals
+
+14
+
+These Regulations apply to a transferring individual on and after the date of
+transfer with the following modifications—
+
+14.a
+
+regulation 32 (entitlement beginning while in alternative accommodation) is to
+be read as if—
+
+14.a.i
+
+in paragraph (1) after “begins” there are the words “in terms of Part 3 of
+schedule 2”, and
+
+14.a.ii
+
+in paragraph (2) for “that day” reads “the day on which the individual has
+been entitled to Adult Disability Payment for 28 days”,
+
+14.b
+
+regulation 35 (when an application is to be treated as made and beginning of
+entitlement to assistance) is treated as omitted,
+
+14.ba
+
+in regulation 36, for sub-paragraph (b), substitute—
+
+14.ba.b
+
+any subsequent payment—
+
+14.ba.b.i
+
+4 weekly in arrears,
+
+14.ba.b.ii
+
+weekly in advance, or
+
+14.ba.b.iii
+
+where the Scottish Ministers consider that it would be unjust not to do so, at
+such intervals as may be specified in the notice of determination.
+
+,
+
+14.c
+
+in regulation 45—
+
+14.c.i
+
+for paragraph (4) substitute—
+
+14.c.i.4
+
+Where an individual has previously received Adult Disability Payment or
+Personal Independence Payment for a period and a determination without
+application has subsequently been made that the individual is entitled to
+Adult Disability Payment at a higher rate for that period, the individual will
+be entitled to the difference between the value of entitlement to Adult
+Disability Payment under the subsequent determination and the value of Adult
+Disability Payment or Personal Independence Payment to which that individual
+was previously entitled for that period.
+
+,
+
+14.c.ii
+
+where regulation 45(4) as substituted by sub-paragraph (1) applies, for the
+period between the date when the individual’s entitlement to a higher rate of
+Adult Disability Payment begins and the date of the determination under
+regulation 46, regulation 4 (entitlement to other benefits) is treated as
+omitted, and
+
+14.d
+
+where paragraph 11, 12(6) or 13(3) applies, for the period between the date
+when entitlement to Adult Disability Payment begins and the date of the
+determination under paragraph 9(1), regulation 4 (entitlement to other
+benefits) is treated as omitted.
+
+###### Appointees
+
+15
+
+15.1
+
+A person appointed by the Secretary of State for Work and Pensions under
+regulation 57 of the Universal Credit, Personal Independence Payment,
+Jobseeker’s Allowance and Employment and Support Allowance (Claims and
+Payments) Regulations 2013  to receive Personal Independence Payment on behalf
+of a transferring individual is to be treated on and after the date of
+transfer as though appointed by the Scottish Ministers to act on behalf of
+that transferring individual under section 85B of the 2018 Act .
+
+15.2
+
+As soon as reasonably practicable after the date of transfer, the Scottish
+Ministers must—
+
+15.2.a
+
+consider whether the conditions for making an appointment in respect of the
+transferring individual are met (having regard to section 85B(3) of the 2018
+Act),
+
+15.2.b
+
+consider whether to terminate the appointment that is treated as having been
+made by virtue of sub-paragraph (1) and terminate it if they consider it
+appropriate, and
+
+15.2.c
+
+if they have terminated an appointment in pursuance of head (b), appoint under
+section 85B of the 2018 Act another person to act on the transferring
+individual’s behalf if they consider it appropriate to do so.
+
+15.3
+
+                        The duty in sub-paragraph (2) does not apply where the
+Scottish Ministers have already appointed the person mentioned in sub-
+paragraph (1) to act on behalf of that transferring individual under section
+85B of the 2018 Act.
+
+##### Consequential amendments
+
+Regulation 63
+
+16
+
+16.1
+
+The Social Security Contributions and Benefits Act 1992  is amended in
+accordance with paragraph (2).
+
+16.2
+
+In section 70(2)  (invalid care allowance), for “disability assistance by
+virtue of entitlement to the care component at the middle or highest rate
+under regulations made under section 31 of the Social Security (Scotland) Act
+2018” substitute  “adult disability payment by virtue of entitlement to the
+daily living component at the standard or enhanced rate or child disability
+payment by virtue of entitlement to the care component at the middle or
+highest rate” .
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations make provision for Adult Disability Payment which is a type
+of disability assistance given by the Scottish Ministers under section 31 of
+the Social Security (Scotland) Act 2018.
+
+Part 2 provides an overview of arrangements for payment of disability
+assistance for working age people (“Adult Disability Payment”).
+
+Part 3 sets out the eligibility criteria for the daily living component and
+the mobility component of Adult Disability Payment.
+
+Part 4 sets out the required period condition for entitlement to the daily
+living component and mobility component.
+
+Part 5 sets out the residence and presence conditions for entitlement to the
+assistance.
+
+Part 6 sets out the entitlement rules relating to age.
+
+Part 7 sets out the rules for entitlement to the assistance on account of
+having a terminal illness.
+
+Part 8 sets out the effects on payment of the assistance when an individual is
+resident in a care home, hospital or legal detention.
+
+Part 9 deals with the making of applications, payments, the amount and form of
+Adult Disability Payment and ongoing eligibility. It also provides for
+circumstances in which assistance may be suspended, when increases or
+decreases of entitlement take effect, and giving assistance by way of
+deduction.
+
+Part 10 deals with reconsideration of entitlement, where an award of
+assistance has already been made and is being revisited. It provides for
+determinations without application to be made where a specified period has
+elapsed, there is a change in circumstances, to address error resulting in
+overpayments, official errors resulting in underpayments, or to effect a
+deduction decision.
+
+Part 11 provides for the situation where people in Scotland in receipt of
+Adult Disability Payment move to another part of the United Kingdom, or people
+in another part of the United Kingdom in receipt of the equivalent assistance,
+Personal Independence Payment, move to Scotland.
+
+Part 12 provides for time periods for dealing with requests for re-
+determination of entitlement.
+
+Part 13 makes provision for the Scottish Ministers to make payment to
+suppliers of adapted vehicles, with whom recipients of the assistance have
+entered agreements for hire or hire purchase. These suppliers must be
+accredited according to a scheme operated by the Scottish Ministers.
+
+Part 14 and Part 2 of schedule 2 make provision for an initial period for
+applications to take place before the full rollout of the assistance.
+
+Part 15 deals with applications for Adult Disability Payment made by
+individuals who are in receipt of Child Disability Payment . It also provides
+for a determination of entitlement to Adult Disability Payment without an
+application where an individual is in receipt of Child Disability Payment and
+is terminally ill.
+
+Part 16 and Part 3 of schedule 2 make provision to transfer individuals who
+meet the residence and presence conditions and are awarded Personal
+Independence Payment to become entitled to Adult Disability Payment.
+
+Part 17 sets out the qualifications and experience necessary to carry out
+assessments, where these are required to determine an individual’s entitlement
+to receive the assistance.
+
+Part 18 and Part 1 of schedule 2 deal with entitlement to short-term
+assistance, to bridge the gap, in the event that entitlement to the assistance
+is reduced or removed. This is payable, in certain circumstances, during the
+time when the change in entitlement is being challenged but the outcome is not
+yet known.
+
+Part 19 and Part 4 of schedule 2 make provision for a consequential amendment
+to the Social Security Contributions and Benefits Act 1992.
+
+Part 20 makes further provision for the initial period for applications by way
+of transitory provisions.
+
+Schedule 1 sets out the activities, descriptors and points to be applied when
+determining an individual’s entitlement to the daily living component and
+mobility component of the assistance.
+

@@ -1,0 +1,933 @@
+Title: The Education in Multiple Settings (Wales) Regulations 2022
+Date: 2024-09-23
+Description: The Curriculum and Assessment (Wales) Act 2021 (“the 2021 Act”) establishes a new framework for a curriculum and makes provision about assessment for pupils and children in Wales. This is the Curriculum for Wales (“CfW”).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/wsi/2022/676
+
+## The Education in Multiple Settings (Wales) Regulations 2022
+
+    Education, Wales
+
+  Made   15 June 2022
+
+  Laid before Senedd Cymru   17 June 2022
+
+  Coming into force in accordance with regulation 1(2) to (6)
+
+      The Welsh Ministers, in exercise of the powers conferred on them by
+sections 69(1), (6) and (7) and 75(1) of the Curriculum and Assessment (Wales)
+Act 2021 , make the following Regulations:
+
+### Title and commencement
+
+1
+
+1.1
+
+The title of these Regulations is the Education in Multiple Settings (Wales)
+Regulations 2022.
+
+1.2
+
+These Regulations come into force on 1 September 2022—
+
+1.2.a
+
+for pupils in a reception year  at a maintained school,
+
+1.2.b
+
+for pupils  in years 1 to 6 at a maintained school ,
+
+1.2.c
+
+for pupils in year 7 at a maintained school where the head teacher and
+governing body have adopted a curriculum under Part 2 of the 2021 Act ,
+
+1.2.d
+
+for pupils in years 1 to 6 at a pupil referral unit ,
+
+1.2.e
+
+for children  in years 1 to 6 who are provided with a non-PRU EOTAS curriculum
+where the local authority  has made arrangements to provide a curriculum which
+meets the requirements of section 53 of the 2021 Act,
+
+1.2.f
+
+for pupils in year 7 at a pupil referral unit where the local authority, the
+management committee (if any) and the teacher in charge have a curriculum for
+that unit which meets the requirements of section 50 of the 2021 Act, and
+
+1.2.g
+
+for children in year 7 who are provided with a non-PRU EOTAS curriculum where
+the local authority has made arrangements to provide a curriculum which meets
+the requirements of section 53 of the 2021 Act.
+
+1.3
+
+These Regulations come into force on 1 September 2023—
+
+1.3.a
+
+for pupils in years 7 and 8 at a maintained school,
+
+1.3.b
+
+for pupils in years 7 and 8 at a pupil referral unit, and
+
+1.3.c
+
+for children in years 7 and 8 who are provided with a non-PRU EOTAS
+curriculum.
+
+1.4
+
+These Regulations come into force on 1 September 2024—
+
+1.4.a
+
+for pupils in year 9 at a maintained school,
+
+1.4.b
+
+for pupils in year 9 at a pupil referral unit, and
+
+1.4.c
+
+for children in year 9 who are provided with a non-PRU EOTAS curriculum.
+
+1.5
+
+These Regulations come into force on 1 September 2025—
+
+1.5.a
+
+for pupils in year 10 at a maintained school,
+
+1.5.b
+
+for pupils in year 10 at a pupil referral unit, and
+
+1.5.c
+
+for children in year 10 who are provided with a non-PRU EOTAS curriculum.
+
+1.6
+
+These Regulations come into force on 1 September 2026—
+
+1.6.a
+
+for pupils in year 11 at a maintained school,
+
+1.6.b
+
+for pupils in year 11 at a pupil referral unit, and
+
+1.6.c
+
+for children in year 11 who are provided with a non-PRU EOTAS curriculum.
+
+### Interpretation
+
+2
+
+2.1
+
+In these Regulations—
+
+    “ the 1996 Act ” (“ Deddf 1996 ”) means the Education Act 1996 ;         “
+the 2021 Act ” (“ Deddf 2021 ”) means the Curriculum and Assessment (Wales)
+Act 2021;         “ assessment arrangements ” (“ trefniadau asesu ”) means the
+assessment arrangements made under section 56 of the 2021 Act;         “ child
+” (“ plentyn ”) has the meaning given to it in section 579(1) of the 1996 Act;
+“ in the area ” (“ yn ardal ”) of a local authority has the same meaning as in
+section 579(3B)  of the 1996 Act;         “ independent school ” (“ ysgol
+annibynnol ”) has the meaning given to it in section 463 of the 1996 Act ;
+“ local authority ” (“ awdurdod lleol ”) means a county council in Wales, and
+a county borough council in Wales;         “ looked after child ” (“ plentyn
+sy’n derbyn gofal ”) has the same meaning as a child looked after by a local
+authority in section 15(1) of the Additional Learning Needs and Education
+Tribunal (Wales) Act 2018 ;         “ maintained school ” (“ ysgol a gynhelir
+”) means a maintained school within the meaning of section 79(1)(a) of the
+2021 Act;         “ maintained school curriculum ” (“ cwricwlwm ysgol a
+gynhelir ”) means the curriculum adopted under section 11 of the 2021 Act by
+the head teacher and governing body of the school (and if that curriculum is
+revised under section 12 of the 2021 Act, means that curriculum as revised);
+“ non-PRU EOTAS curriculum ” (“ cwricwlwm addysg ac eithrio yn yr ysgol nad yw
+mewn UCD ”) means the curriculum provided by a local authority under section
+19A of the 1996 Act for a child otherwise than at a pupil referral unit and
+which meets the requirements of section 53 of the 2021 Act (and if that
+curriculum is revised under section 54 of the 2021 Act, means that curriculum
+as revised);         “ parent ” (“ rhiant ”) has the meaning given to it in
+section 576 of the 1996 Act;         “ pupil ” (“ disgybl ”) has the meaning
+given to it in section 3 of the 1996 Act ;         “ pupil referral unit ” (“
+uned cyfeirio disgyblion ”) has the meaning given to it in section 81(1) of
+the 2021 Act;         “ pupil referral unit curriculum ” (“ cwricwlwm uned
+cyfeirio disgyblion ”) means the curriculum for the pupil referral unit
+referred to in section 50 of the 2021 Act (and if that curriculum is revised
+under section 51 of the 2021 Act, means that curriculum as revised);         “
+reception year ” (“ blwyddyn derbyn ”) means a year group in which the
+majority of the pupils attain the age of 5;         “ registered pupil ” (“
+disgybl cofrestredig ”) has the same meaning as in section 434(5) of the 1996
+Act ;         “ school year ” (“ blwyddyn ysgol ”) has the same meaning as in
+section 579(1) of the 1996 Act ;         “ year 1 ” (“ blwyddyn 1 ”) means a
+year group in which the majority of pupils attain the age of 6;         “ year
+2 ” (“ blwyddyn 2 ”) means a year group in which the majority of pupils attain
+the age of 7;         “ year 3 ” (“ blwyddyn 3 ”) means a year group in which
+the majority of pupils attain the age of 8;         “ year 4 ” (“ blwyddyn 4
+”) means a year group in which the majority of pupils attain the age of 9;
+“ year 5 ” (“ blwyddyn 5 ”) means a year group in which the majority of pupils
+attain the age of 10;         “ year 6 ” (“ blwyddyn 6 ”) means a year group
+in which the majority of pupils attain the age of 11;         “ year 7 ” (“
+blwyddyn 7 ”) means a year group in which the majority of pupils attain the
+age of 12;         “ year 8 ” (“ blwyddyn 8 ”) means a year group in which the
+majority of pupils attain the age of 13;         “ year 9 ” (“ blwyddyn 9 ”)
+means a year group in which the majority of pupils attain the age of 14;
+“ year 10 ” (“ blwyddyn 10 ”) means a year group in which the majority of
+pupils attain the age of 15;         “ year 11 ” (“ blwyddyn 11 ”) means a
+year group in which the majority of pupils attain the age of 16;         “
+year group ” (“ grŵp blwyddyn ”) means a group of children at a school the
+majority of whom will, in a particular school year, attain the same age.
+
+2.2
+
+For the purposes of these Regulations, a local authority is responsible for a
+child if that child is in the area of the authority.
+
+2.3
+
+For the purposes of these Regulations, where a child is—
+
+2.3.a
+
+a looked after child, the appropriate local authority is the local authority
+that looks after the child;
+
+2.3.b
+
+not a looked after child, the appropriate local authority is the local
+authority responsible for the child.
+
+### Pupils registered at more than 1 maintained school
+
+3
+
+3.1
+
+This regulation applies where a pupil is a registered pupil at more than 1
+maintained school.
+
+3.2
+
+The appropriate local authority must prepare a plan which sets out—
+
+3.2.a
+
+how it will secure the teaching and learning to be provided for the pupil in
+the maintained school curriculum at each school,
+
+3.2.b
+
+how the assessment arrangements will apply to the pupil at each school, and
+
+3.2.c
+
+the arrangements for reporting pursuant to the Provision of Information by
+Head Teachers to Parents and Adult Pupils (Wales) Regulations 2022 .
+
+3.3
+
+In preparing the plan, or the revised plan, the appropriate local authority
+must consult with—
+
+3.3.a
+
+the head teacher and governing body of each maintained school, and
+
+3.3.b
+
+any other local authority that maintains a school at which the pupil is
+registered.
+
+3.4
+
+The plan is to begin on the date the pupil becomes a registered pupil at more
+than 1 maintained school or as soon as possible after that date.
+
+3.5
+
+The duration of the first plan and of any subsequent plan must be no more than
+1 school year.
+
+3.6
+
+When a curriculum is revised following a review under section 12 of the 2021
+Act the head teacher of the school must provide a summary of the revised
+curriculum to the appropriate local authority as soon as possible following
+the completion of that review.
+
+3.7
+
+The appropriate local authority must keep the plan under review and revise it—
+
+3.7.a
+
+if the curriculum is reviewed and revised under section 12 of the 2021 Act, or
+
+3.7.b
+
+if it considers it appropriate to do so at any time.
+
+3.8
+
+The appropriate local authority must ensure a copy of the plan is provided to—
+
+3.8.a
+
+the pupil on request by the pupil, and
+
+3.8.b
+
+the parents of the pupil on request by the parents.
+
+3.9
+
+Paragraph (8)(a) does not apply if the appropriate local authority considers
+that the pupil in question does not have the capacity to understand the
+information that would be given.
+
+3.10
+
+Before determining the pupil in question does not have the capacity to
+understand the information that would be given under paragraph (8)(a) the
+appropriate local authority must consult with—
+
+3.10.a
+
+the head teacher and governing body of each of the maintained schools, and
+
+3.10.b
+
+any other local authority that maintains a school at which the pupil is
+registered.
+
+### Pupils registered at more than 1 pupil referral unit
+
+4
+
+4.1
+
+This regulation applies where a pupil is a registered pupil at more than 1
+pupil referral unit.
+
+4.2
+
+The appropriate local authority must prepare a plan which sets out—
+
+4.2.a
+
+how it will secure the teaching and learning to be provided for the pupil in
+the pupil referral unit curriculum at each pupil referral unit,
+
+4.2.b
+
+how the assessment arrangements will apply to the pupil at each pupil referral
+unit, and
+
+4.2.c
+
+the arrangements for reporting pursuant to the Provision of Information by
+Head Teachers to Parents and Adult Pupils (Wales) Regulations 2022.
+
+4.3
+
+In preparing the plan, or the revised plan, the appropriate local authority
+must consult with—
+
+4.3.a
+
+the teacher in charge and the management committee (if there is one) of each
+pupil referral unit, and
+
+4.3.b
+
+any other local authority that maintains 1 of the pupil referral units.
+
+4.4
+
+The plan is to begin on the date the pupil becomes a registered pupil at more
+than 1 pupil referral unit or as soon as possible after that date.
+
+4.5
+
+The duration of the first plan and of any subsequent plan must be no more than
+1 school year.
+
+4.6
+
+The appropriate local authority must keep the plan under review and revise it—
+
+4.6.a
+
+if the curriculum is reviewed and revised under section 51 of the 2021 Act, or
+
+4.6.b
+
+if it considers it appropriate to do so at any time.
+
+4.7
+
+When a curriculum is revised following a review under section 51 of the 2021
+Act the teacher in charge of the pupil referral unit must provide a summary of
+the revised curriculum to the appropriate local authority as soon as possible
+following completion of that review.
+
+4.8
+
+The appropriate local authority must ensure a copy of the plan (or revised
+plan) is provided to—
+
+4.8.a
+
+the pupil on request by the pupil, and
+
+4.8.b
+
+the parents of the pupil on request by the parents.
+
+4.9
+
+Paragraph (8)(a) does not apply if the appropriate local authority considers
+that the pupil in question does not have the capacity to understand the
+information that would be given.
+
+4.10
+
+Before determining the pupil in question does not have the capacity to
+understand the information that would be given under paragraph (8)(a) the
+appropriate local authority must consult with—
+
+4.10.a
+
+the teacher in charge and the management committee (if there is one) of each
+of the pupil referral units, and
+
+4.10.b
+
+any other local authority that maintains a pupil referral unit at which the
+pupil is registered.
+
+### Pupils registered in at least 1 maintained school and in at least 1 pupil referral unit
+
+5
+
+5.1
+
+This regulation applies where a pupil is a registered pupil in at least 1
+maintained school and in at least 1 pupil referral unit.
+
+5.2
+
+The appropriate local authority must prepare a plan which sets out—
+
+5.2.a
+
+how it will secure the teaching and learning to be provided for the pupil in
+the pupil referral unit curriculum at the school and the pupil referral unit,
+
+5.2.b
+
+how the assessment arrangements will apply to the pupil at the school and the
+pupil referral unit, and
+
+5.2.c
+
+the arrangements for reporting pursuant to the Provision of Information by
+Head Teachers to Parents and Adult Pupils (Wales) Regulations 2022.
+
+5.3
+
+In preparing the plan, or the revised plan, the appropriate local authority
+must consult with—
+
+5.3.a
+
+in relation to a maintained school, the head teacher and the governing body of
+each of the maintained schools,
+
+5.3.b
+
+any other local authority that maintains a school or pupil referral unit at
+which the pupil is registered, and
+
+5.3.c
+
+in relation to a pupil referral unit, the teacher in charge and the management
+committee (if there is one) of each of the pupil referral units.
+
+5.4
+
+The plan is to begin on the date the pupil becomes a registered pupil at a
+maintained school and at a pupil referral unit or as soon as possible after
+that date.
+
+5.5
+
+The duration of the first plan and of any subsequent plan must be no more than
+1 school year.
+
+5.6
+
+The appropriate local authority must keep the plan under review and revise it—
+
+5.6.a
+
+if the curriculum is reviewed under section 12 or 51 of the 2021 Act, or
+
+5.6.b
+
+if it considers it appropriate to do so at any time.
+
+5.7
+
+The appropriate local authority must ensure a copy of the plan (or revised
+plan) is provided to—
+
+5.7.a
+
+the pupil on request by the pupil, and
+
+5.7.b
+
+the parents of the pupil on request by the parents.
+
+5.8
+
+When a curriculum is revised following a review under section 12 of the 2021
+Act the head teacher of the school must provide a summary of the revised
+curriculum to the appropriate local authority as soon as possible following
+completion of that review.
+
+5.9
+
+When a curriculum is revised following a review under section 51 of the 2021
+Act the teacher in charge of the pupil referral unit must provide a summary of
+the revised curriculum to the appropriate local authority as soon as possible
+following completion of that review.
+
+5.10
+
+Paragraph (7)(a) does not apply if the appropriate local authority considers
+that the pupil in question does not have the capacity to understand the
+information that would be given.
+
+5.11
+
+Before determining the pupil in question does not have the capacity to
+understand the information that would be given under paragraph (7)(a) the
+appropriate local authority must consult with—
+
+5.11.a
+
+the head teacher and governing body of each of the maintained schools,
+
+5.11.b
+
+the teacher in charge and the management committee (if there is one) of each
+of the pupil referral units, and
+
+5.11.c
+
+any other local authority that maintains a school at which the pupil is
+registered.
+
+### Pupils registered in at least 1 maintained school and in at least 1 independent school
+
+6
+
+6.1
+
+This regulation applies where a pupil is a registered pupil in at least 1
+maintained school and in at least 1 independent school.
+
+6.2
+
+The appropriate local authority must prepare a plan which sets out—
+
+6.2.a
+
+how it will secure the teaching and learning to be provided for the pupil in
+the non-PRU EOTAS curriculum at the schools, and
+
+6.2.b
+
+how the assessment arrangements will apply to the pupil at each school.
+
+6.3
+
+In preparing the plan, or the revised plan, the appropriate local authority
+must consult with—
+
+6.3.a
+
+the head teacher and the governing body of each of the maintained schools,
+
+6.3.b
+
+the proprietors of the independent schools, and
+
+6.3.c
+
+any other local authority in which 1 of the schools is situated.
+
+6.4
+
+The plan is to begin on the date the pupil becomes a registered pupil at a
+maintained school and at an independent school or as soon as possible after
+that date.
+
+6.5
+
+The duration of the first plan and of any subsequent plan must be no more than
+1 school year.
+
+6.6
+
+The appropriate local authority must keep the plan under review and revise it—
+
+6.6.a
+
+if it reviews the curriculum under section 54 of the 2021 Act, or
+
+6.6.b
+
+if it considers it appropriate to do so at any time.
+
+6.7
+
+The appropriate local authority must ensure a copy of the plan is provided to—
+
+6.7.a
+
+the pupil on request by the pupil, and
+
+6.7.b
+
+the parents of the pupil on request by the parents.
+
+6.8
+
+Paragraph (7)(a) does not apply if the appropriate local authority considers
+that the pupil in question does not have the capacity to understand the
+information that would be given.
+
+6.9
+
+Before determining the pupil in question does not have the capacity to
+understand the information that would be given under paragraph (7)(a) the
+appropriate local authority must consult with—
+
+6.9.a
+
+the head teacher and governing body of each of the maintained schools,
+
+6.9.b
+
+the proprietor of each of the independent schools,
+
+6.9.c
+
+in relation to a pupil referral unit the teacher in charge and the management
+committee (if there is one) of each of the pupil referral units, and
+
+6.9.d
+
+any other local authority that maintains a school at which the pupil is
+registered.
+
+### Pupils registered in at least 1 pupil referral unit and in at least 1 independent school
+
+7
+
+7.1
+
+This regulation applies where a pupil is a registered pupil in at least 1
+pupil referral unit and in at least 1 independent school.
+
+7.2
+
+The appropriate local authority must prepare a plan which sets out—
+
+7.2.a
+
+how it will secure the teaching and learning to be provided for the pupil in
+the non-PRU EOTAS curriculum at the pupil referral unit and the school, and
+
+7.2.b
+
+how the assessment arrangements will apply to the pupil at the pupil referral
+unit and the school.
+
+7.3
+
+In preparing the plan, or the revised plan, the appropriate local authority
+must consult with—
+
+7.3.a
+
+the teacher in charge and the management committee (if there is one) of each
+of the pupil referral units,
+
+7.3.b
+
+any other local authority that maintains 1 of the pupil referral units,
+
+7.3.c
+
+the proprietors of the independent schools, and
+
+7.3.d
+
+any other local authority in which 1 of the independent schools is situated.
+
+7.4
+
+The plan is to begin on the date the pupil becomes a registered pupil at a
+pupil referral unit and at an independent school or as soon as possible after
+that date.
+
+7.5
+
+The duration of the first plan and of any subsequent plan must be no more than
+1 school year.
+
+7.6
+
+The appropriate local authority must keep the plan under review and revise it—
+
+7.6.a
+
+if it reviews the curriculum under section 54 of the 2021 Act, or
+
+7.6.b
+
+if it considers it appropriate to do so at any time.
+
+7.7
+
+The appropriate local authority must ensure a copy of the plan is provided to—
+
+7.7.a
+
+the pupil on request by the pupil, and
+
+7.7.b
+
+the parents of the pupil on request by the parents.
+
+7.8
+
+Paragraph (7)(a) does not apply if the appropriate local authority considers
+that the pupil in question does not have the capacity to understand the
+information that would be given.
+
+7.9
+
+Before determining the pupil in question does not have the capacity to
+understand the information that would be given under paragraph (7)(a) the
+appropriate local authority must consult with—
+
+7.9.a
+
+the teacher in charge and the management committee (if there is one) of each
+of the pupil referral units,
+
+7.9.b
+
+the proprietor of each of the independent schools,
+
+7.9.c
+
+in relation to a pupil referral unit the teacher in charge and the management
+committee (if there is one) of each of the pupil referral units, and
+
+7.9.d
+
+any other local authority that maintains a school at which the pupil is
+registered.
+
+### Pupils registered at more than 1 independent school
+
+8
+
+8.1
+
+This regulation applies where a pupil is a registered pupil at more than 1
+independent school.
+
+8.2
+
+The appropriate local authority must prepare a plan which sets out—
+
+8.2.a
+
+how it will secure the teaching and learning to be provided for the pupil in
+the non-PRU EOTAS curriculum at each independent school, and
+
+8.2.b
+
+how the assessment arrangements will apply to the pupil at the schools.
+
+8.3
+
+In preparing the plan, or the revised plan, the appropriate local authority
+must consult with—
+
+8.3.a
+
+the proprietor of each of the independent schools, and
+
+8.3.b
+
+any other local authority in which 1 of the independent schools is situated.
+
+8.4
+
+The plan is to begin on the date the pupil becomes a registered pupil at more
+than 1 independent school or as soon as possible after that date.
+
+8.5
+
+The duration of the first plan and of any subsequent plan must be no more than
+1 school year.
+
+8.6
+
+The appropriate local authority must keep the plan under review and revise it—
+
+8.6.a
+
+if it reviews the curriculum under section 54 of the 2021 Act, or
+
+8.6.b
+
+if it considers it appropriate to do so at any time.
+
+8.7
+
+The appropriate local authority must ensure a copy of the plan is provided to—
+
+8.7.a
+
+the pupil on request by the pupil, and
+
+8.7.b
+
+the parents of the pupil on request by the parents.
+
+8.8
+
+Paragraph (7)(a) does not apply if the appropriate local authority considers
+that the pupil in question does not have the capacity to understand the
+information that would be given.
+
+8.9
+
+Before determining the pupil in question does not have the capacity to
+understand the information that would be given under paragraph (7)(a) the
+appropriate local authority must consult with—
+
+8.9.a
+
+the proprietor of each of the independent schools, and
+
+8.9.b
+
+any other local authority that maintains a school at which the pupil is
+registered.
+
+      Jeremy Miles   Minister for Education and Welsh Language, one of the
+Welsh Ministers   15 June 2022
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+The Curriculum and Assessment (Wales) Act 2021 (“ the 2021 Act ”) establishes
+a new framework for a curriculum and makes provision about assessment for
+pupils and children in Wales. This is the Curriculum for Wales (“CfW”).
+
+Many children and pupils are educated in more than 1 setting. These
+Regulations make provision for the persons set out in these Regulations to
+prepare and review a plan as to the teaching and learning to be provided for
+the child or pupil in the CfW and to set out what assessment arrangements will
+apply to the child or pupil.
+
+Regulation 1 of these Regulations provides for the commencement of these
+Regulations by year group. This will mirror the planned roll out of the CfW
+which will also be phased in over a period of time by year group.
+
+The CfW and these Regulations will become mandatory as follows—   a     on 1
+September 2022 for pupils in a reception year at a maintained school,       b
+on 1 September 2022 for children and pupils in years 1 to 6,       c     on 1
+September 2022 for children and pupils in year 7 in those maintained schools,
+pupil referral units and for those children provided with non-PRU EOTAS where
+there is a curriculum adopted or otherwise provided in accordance with the
+2021 Act,       d     on 1 September 2023 for children and pupils in years 7
+and 8,       e     on 1 September 2024 for children and pupils in year 9,
+f     on 1 September 2025 for children and pupils in year 10, and       g
+on 1 September 2026 for children and pupils in year 11.
+
+These Regulations will apply to the following—   a     maintained schools,
+b     pupil referral units, and       c     the provision of teaching and
+learning for a child otherwise than at a pupil referral unit by virtue of
+arrangements made under section 19A of the Education Act 1996.
+
+These Regulations require the appropriate local authority to make and review a
+plan for those children and pupils who are educated in more than 1 setting.
+The plan must set out the teaching and learning to be provided for the child
+or pupil at each setting, and the assessment arrangements that will apply to
+the child or pupil at each setting.
+
+In respect of those settings within regulations 3 to 5 of these Regulations
+the plan must also set out the arrangements for reporting pursuant to the
+Provision of Information by Head Teachers to Parents and Adult Pupils (Wales)
+Regulations 2022 (“ the 2022 Regulations ”). The reporting requirements in the
+2022 Regulations apply only to maintained schools and pupil referral units. It
+is intended that the arrangements will specify which setting will take the
+lead in providing the report pursuant to the 2022 Regulations. This provision
+is not needed for those settings within regulations 6 to 8 as independent
+schools are not subject to the 2022 Regulations.
+
+Regulation 3 makes provision in respect of pupils registered at more than 1
+maintained school.
+
+Regulation 4 makes provision in respect of pupils registered at more than 1
+pupil referral unit.
+
+Regulation 5 makes provision in respect of pupils registered in at least 1
+maintained school and in at least 1 pupil referral unit.
+
+Regulation 6 makes provision in respect of pupils registered in at least 1
+maintained school and in at least 1 independent school. A pupil may be
+receiving education at an independent school pursuant to section 19A of the
+Education Act 1996. Such a pupil would be provided with a curriculum that met
+the requirements of section 53 of the 2021 Act.
+
+Regulation 7 makes provision in respect of pupils registered in at least 1
+pupil referral unit and in at least 1 independent school.
+
+Regulation 8 makes provision in respect of pupils registered at more than 1
+independent school.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
+Assessments was considered in relation to these Regulations. As a result, a
+regulatory impact assessment has been prepared as to the likely costs and
+benefits of complying with these Regulations. A copy can be obtained from the
+Welsh Government at Cathays Park, Cardiff CF10 3NQ and on the Welsh Government
+website at  www.gov.wales .
+

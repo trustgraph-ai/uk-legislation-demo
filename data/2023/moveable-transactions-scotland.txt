@@ -1,0 +1,6775 @@
+Title: Moveable Transactions (Scotland) Act 2023
+Date: 2023-08-09
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/asp/2023/3
+
+## Moveable Transactions (Scotland) Act 2023
+
+### Assignation
+
+#### Assignation of claims, protection of debtors and related matters
+
+##### Assignation of claims
+
+###### Assignation of claims: general
+
+1
+
+1.1
+
+The assignation of a claim requires the execution or authentication of a
+document assigning the claim (an “assignation document”) by the person
+assigning it.
+
+1.2
+
+The assignation document must identify the claim.
+
+1.3
+
+But an assignation document which assigns a number of claims need not identify
+each claim separately provided that the document identifies the claims in
+terms of their constituting an identifiable class.
+
+1.4
+
+It is competent to assign a claim which, at the time the assignation document
+is granted, is not held by the assignor (whether or not the claim yet exists
+at that time).
+
+1.5
+
+For the purposes of subsection (2), the ways in which the claim can be
+identified in the assignation document include by making reference in the
+assignation document to another document, the terms of which are not
+reproduced.
+
+1.6
+
+Nothing in  this Part  applies to the assignation of a claim as part of a
+financial collateral arrangement, within the meaning of regulation 3(1) of the
+Financial Collateral Arrangements (No.2) Regulations 2003 ( S.I. 2003/3226 ).
+
+###### Assignation of claim subject to a condition
+
+2
+
+2.1
+
+The assignation of a claim may be subject to a condition which must be
+satisfied before the claim is transferred.
+
+2.2
+
+Any such condition must be specified in the assignation document.
+
+2.3
+
+The condition may, for example—
+
+2.3.a
+
+be the occurrence of a particular date,
+
+2.3.b
+
+depend on something happening (whether or not it is certain that the thing
+will happen), or
+
+2.3.c
+
+depend on a period of time elapsing during which something must not happen
+(whether or not it is certain that the thing will happen at some time).
+
+2.4
+
+For the purposes of  subsection (2) , the ways in which the condition can be
+specified in the assignation document include by making reference in the
+assignation document to another document, the terms of which are not
+reproduced.
+
+###### Transfer of claims
+
+3
+
+3.1
+
+A claim in respect of which an assignation document is granted is transferred
+on the requirements mentioned in  subsection (2)  all being met.
+
+3.2
+
+Those requirements are that—
+
+3.2.a
+
+the assignor is the holder of the claim,
+
+3.2.b
+
+either—
+
+3.2.b.i
+
+intimation of the assignation is effected under  section 8 (1) , or
+
+3.2.b.ii
+
+the assignation document is registered,
+
+3.2.c
+
+the claim is identifiable as a claim to which the assignation document
+relates, and
+
+3.2.d
+
+if the assignation is subject to a condition which must be satisfied before
+the claim is transferred, the condition is satisfied.
+
+3.3
+
+For the purposes of  subsection (1) , if the claim is a claim such as is
+mentioned in  section 1 (4) —
+
+3.3.a
+
+the requirement mentioned in  subsection (2) (a)  is met when the assignor
+becomes the holder of the claim, and
+
+3.3.b
+
+any rule of law as to accretion does not apply in relation to the claim.
+
+3.4
+
+Subsection (2) (b) (ii)  is subject to  section 27  (effective registration of
+assignation document) and, accordingly, the requirement of that subsection—
+
+3.4.a
+
+is not met if the registration of the assignation document is ineffective in
+accordance with  section 27 (1) , and
+
+3.4.b
+
+is met if and when that registration becomes effective in accordance with
+section 27 (3) .
+
+3.5
+
+Subsection (6)  applies where—
+
+3.5.a
+
+an assignor grants more than one assignation document in respect of the same
+claim,
+
+3.5.b
+
+each of the purported assignations of the claim is to a different person, and
+
+3.5.c
+
+the requirements of  subsection (2)  are all met in relation to each of the
+purported assignations at the same time by virtue of—
+
+3.5.c.i
+
+the assignor becoming the holder of the claim,
+
+3.5.c.ii
+
+the claim becoming identifiable as a claim to which the assignation document
+relates, or
+
+3.5.c.iii
+
+where each of the purported assignations is subject to a condition which must
+be satisfied before the claim is transferred, those conditions being satisfied
+at the same time.
+
+3.6
+
+The claim transfers under  subsection (1)  to the person to whom it is
+assigned by whichever of the purported assignations of the claim first met the
+requirement of  subsection (2) (b) .
+
+3.7
+
+This section  is subject to  section 4  (assignation of claims: insolvency).
+
+3.8
+
+The Scottish Ministers may by regulations prescribe types of claim in relation
+to which  sub-paragraph (i)  of  subsection (2) (b)  is to be disregarded.
+
+###### Assignation of claims: insolvency
+
+4
+
+4.1
+
+This section  applies where—
+
+4.1.a
+
+an assignation document is granted in respect of a claim such as is mentioned
+in  section 1 (4) , and
+
+4.1.b
+
+after the document is granted, the assignor becomes insolvent.
+
+4.2
+
+The assignation is ineffective in relation to the claim if the assignor
+becomes the holder of the claim after becoming insolvent.
+
+4.3
+
+But  subsection (2)  does not apply in relation to a claim in respect of
+income from property in so far as that claim—
+
+4.3.a
+
+is not attributable to anything agreed to by, or done by, the assignor after
+the assignor became insolvent, and
+
+4.3.b
+
+relates to the use of property in existence at the time the assignor became
+insolvent.
+
+4.4
+
+Subsection  (5)  applies where—
+
+4.4.a
+
+but for  subsection (3) , the assignation would be ineffective by virtue of
+subsection (2) , and
+
+4.4.b
+
+the assignor is discharged—
+
+4.4.b.i
+
+under section 137, 138 or 140 of the Bankruptcy (Scotland) Act 2016, or
+
+4.4.b.ii
+
+by virtue of section 184(3) of that Act.
+
+4.5
+
+The assignation is ineffective, in relation to the claim, if by the time of
+discharge the assignor has not become the holder of the claim.
+
+4.6
+
+For the purposes of  this section —
+
+4.6.a
+
+an assignor who is an individual, or the estate of which may be sequestrated
+by virtue of section 6 of the Bankruptcy (Scotland) Act 2016, becomes
+insolvent when—
+
+4.6.a.i
+
+the assignor’s estate is sequestrated,
+
+4.6.a.ii
+
+the assignor grants a trust deed for creditors or makes a composition or
+arrangement with creditors,
+
+4.6.a.iii
+
+the assignor is adjudged bankrupt,
+
+4.6.a.iv
+
+a voluntary arrangement proposed by the assignor is approved,
+
+4.6.a.v
+
+the assignor’s application for a debt payment programme is approved under
+section 2 of the Debt Arrangement and Attachment (Scotland) Act 2002, or
+
+4.6.a.vi
+
+the assignor becomes subject to any other order or arrangement analogous to
+any of those mentioned in  sub-paragraphs (i)  to  (v)  anywhere in the world,
+and
+
+4.6.b
+
+an assignor other than is mentioned in  paragraph (a)  becomes insolvent when—
+
+4.6.b.i
+
+a decision approving a voluntary arrangement entered into by the assignor has
+effect under section 4A of the Insolvency Act 1986 (the “ 1986 Act ”),
+
+4.6.b.ii
+
+the assignor is wound up under Part 4 or 5 of the 1986 Act or under section
+367 of the Financial Services and Markets Act 2000,
+
+4.6.b.iii
+
+an administrative receiver, as defined in section 251 of the 1986 Act, is
+appointed over all or part (being a part which includes the claim) of the
+property of the assignor,
+
+4.6.b.iv
+
+the assignor enters administration (“enters administration” being construed in
+accordance with paragraph 1(2) of schedule B1 of the 1986 Act),
+
+4.6.b.v
+
+an order under section 901F of the Companies Act 2006 sanctioning a compromise
+or arrangement entered into by the assignor comes into effect over all or part
+of the property of the assignor, or
+
+4.6.b.vi
+
+the assignor becomes subject to any other order, appointment or arrangement
+analogous to any of those mentioned in sub-paragraphs (i) to (v) anywhere in
+the world.
+
+4.7
+
+The Scottish Ministers may by regulations modify—
+
+4.7.a
+
+subsection (4) ,
+
+4.7.b
+
+subsection (5) ,
+
+4.7.c
+
+subsection (6) .
+
+###### Assignation in part
+
+5
+
+5.1
+
+A claim may be assigned in whole or in part.
+
+5.2
+
+But if the claim is not a monetary claim, the claim may be assigned in part
+only if the claim is divisible and either—
+
+5.2.a
+
+the debtor consents, or
+
+5.2.b
+
+the assignation is not likely to result in the obligation to which it relates
+becoming significantly more burdensome for the debtor.
+
+5.3
+
+Except in so far as the debtor agrees otherwise with the assignor, or agreed
+otherwise with a person who was previously the holder of the claim (when that
+person was the holder), the assignor is liable to the debtor for any expense
+incurred by the debtor which is attributable to the claim’s being assigned in
+part rather than in whole.
+
+###### Limitations as to assignability: general
+
+6
+
+6.1
+
+Nothing in  this Part  affects any other enactment, or any rule of law, by
+virtue of which the assignation of a claim is of no effect.
+
+6.2
+
+But such an enactment or rule of law does not apply to an assignation if the
+grounds on which the assignation would be of no effect by virtue of that
+enactment or rule are grounds which  this Part  provides do not make the
+assignation of no effect.
+
+6.3
+
+The assignation, in whole or in part, of a claim is of no effect if and in so
+far as, before the assignation document in respect of the claim was granted—
+
+6.3.a
+
+the debtor and the holder of the claim had agreed that the claim was not to be
+so assigned, or
+
+6.3.b
+
+the person whose unilateral undertaking gives rise to the claim had stated
+that the claim was not to be so assigned.
+
+6.4
+
+For the purposes of  subsection (3) (a) , it does not matter whether the
+holder of the claim became the holder of the claim after the agreement was
+made.
+
+6.5
+
+Nothing in  subsection (3)  affects the operation of any other enactment
+concerning the effect of an agreement or statement such as is mentioned in
+that subsection.
+
+###### Claim in respect of wages or salary
+
+7
+
+7.1
+
+It is not competent for an individual to assign a claim in respect of wages or
+salary payable to the individual.
+
+7.2
+
+For the purposes of  subsection (1) , “wages” and “salary” include—
+
+7.2.a
+
+any of the following which is referable to the individual’s employment
+(whether or not payable under the individual’s contract of employment)—
+
+7.2.a.i
+
+a fee,
+
+7.2.a.ii
+
+a bonus,
+
+7.2.a.iii
+
+commission,
+
+7.2.a.iv
+
+holiday pay, or
+
+7.2.a.v
+
+any other emolument,
+
+7.2.b
+
+any payment in respect of expenses incurred by the individual in carrying out
+that employment, and
+
+7.2.c
+
+if the individual is dismissed from that employment by reason of redundancy,
+any payment referable to the redundancy.
+
+7.3
+
+Nothing in  subsection (1)  affects the operation of any other enactment
+allowing the assignation of a claim such as is mentioned in that subsection in
+particular circumstances.
+
+###### Intimation of the assignation of a claim
+
+8
+
+8.1
+
+For the purposes of  section 3 (2) (b) (i) , intimation is effected only—
+
+8.1.a
+
+by the assignor or the assignee serving notice of the assignation on the
+debtor, or
+
+8.1.b
+
+on the occurrence either—
+
+8.1.b.i
+
+of the debtor acknowledging to the assignee that the claim is assigned, or
+
+8.1.b.ii
+
+of intimation to the debtor, in judicial proceedings to which the debtor is a
+party, that the assignation is founded on in the proceedings.
+
+8.2
+
+Where there are co-debtors in respect of a claim, intimation as respects any
+one or more of them is, for the purposes of  section 3 (2) (b) (i) ,
+intimation to them all.
+
+8.3
+
+A notice served under  subsection (1) (a) —
+
+8.3.a
+
+must—
+
+8.3.a.i
+
+set out the name and address of both the assignor and the assignee,
+
+8.3.a.ii
+
+provide details of the claim assigned, and
+
+8.3.a.iii
+
+in the case of a claim assigned in part, provide details of the part assigned,
+
+8.3.b
+
+must be in writing and consist of, or be contained within, one or more
+documents,
+
+8.3.c
+
+need not be executed or authenticated, and
+
+8.3.d
+
+if the claim is a monetary claim, may (but need not) be in such form (if any)
+as is prescribed for the purposes of  this paragraph .
+
+8.4
+
+Where a notice is served as mentioned in  subsection (5) (c) ,  paragraph (a)
+of  subsection (3)  may be satisfied by providing an electronic link to a
+website, or to a portal, in which the information mentioned in that paragraph
+is set out.
+
+8.5
+
+For the purposes of  subsection (1) (a) , service of a notice must be by—
+
+8.5.a
+
+delivering the notice personally to the debtor,
+
+8.5.b
+
+sending it—
+
+8.5.b.i
+
+by postal services, or
+
+8.5.b.ii
+
+by any other service which conveys postal packets from one place to another,
+
+either to the proper address of the debtor or to an address for postal
+communication provided to the assignor by the debtor, or
+
+8.5.c
+
+transmitting it to an address for electronic communication so provided.
+
+8.6
+
+But a determination (a “determination as to method of service”) may be made in
+accordance with  subsection (7)  that, as respects the claim (either or both)—
+
+8.6.a
+
+only certain paragraphs and sub-paragraphs of  subsection (5) , as specified
+in the determination, are to apply for the purposes of  section 3 (2) (b) (i)
+,
+
+8.6.b
+
+subsection (5)  is to apply as if for the closing words of  paragraph (b)
+there were substituted a reference to a particular address as specified in the
+determination.
+
+8.7
+
+A determination as to method of service is made in accordance with  this
+subsection  where it is made—
+
+8.7.a
+
+by written agreement between the debtor and the holder of the claim, or
+
+8.7.b
+
+where a unilateral undertaking gives rise to the claim, by a written statement
+(whether or not comprised within the undertaking) of the person whose
+undertaking it was. 
+
+8.8
+
+Where a determination as to method of service specifies an address as
+mentioned in  subsection (6) (b) —
+
+8.8.a
+
+the debtor may notify the holder of the claim of a different address to
+replace—
+
+8.8.a.i
+
+the address so specified, or
+
+8.8.a.ii
+
+an address previously notified under  this paragraph , and
+
+8.8.b
+
+an address notified under  paragraph (a)  is, until a further address is so
+notified, to be treated for the purposes of  subsection (6) (b)  as if it were
+specified in the determination.
+
+8.9
+
+Where a notice is served—
+
+8.9.a
+
+as mentioned in  subsection (5) (b)  (including, where relevant, as modified
+by  subsection (6) (b) ), and
+
+8.9.b
+
+by being sent to an address in the United Kingdom,
+
+it is to be taken to have been received 48 hours after it is sent unless it is
+shown to have been received earlier.
+
+8.10
+
+Where a notice is served as mentioned in  subsection (5) (c) , it is to be
+taken to have been received 24 hours after it is transmitted unless it is
+shown to have been received earlier.
+
+8.11
+
+In  this section —
+
+      “ holder of the claim ” includes a person who becomes the holder of the
+claim after a determination is made,           “ postal packet” and “postal
+services ” have the meanings given by section 27(1) and (2) of the Postal
+Services Act 2011,           “ proper address of the debtor ” means—
+in the case of a body corporate, the address of the registered or principal
+office of the body,           in the case of a partnership, the address of the
+principal office of the partnership, and           in any other case, the last
+known address of the debtor.
+
+8.12
+
+Any reference in  this section  to—
+
+8.12.a
+
+a notice being served on the debtor is to be construed as including a
+reference to its being served on a person authorised to receive such a notice
+on behalf of the debtor,
+
+8.12.b
+
+the proper address of the debtor is, where a notice is served on a person so
+authorised, to be construed as a reference to the proper address of that
+person.
+
+###### Warrandice implied in the assignation of a claim
+
+9
+
+9.1
+
+Subsections (2)  to  (5)  apply except in so far as the assignor and the
+assignee agree otherwise.
+
+9.2
+
+In granting, for value, an assignation document in respect of a claim, the
+assignor is taken to warrant to the assignee that—
+
+9.2.a
+
+the assignor is entitled to, or (in the case of any such claim as is mentioned
+in  section 1 (4) ) will be entitled to, transfer the claim to the assignee,
+
+9.2.b
+
+the debtor is obliged to, or (when performance becomes due) will be obliged
+to, perform in full to the assignor, and
+
+9.2.c
+
+the assignor has done nothing, and will do nothing, to prejudice the
+assignation.
+
+9.3
+
+In granting, other than for value, an assignation document in respect of a
+claim, the assignor is taken to warrant to the assignee that the assignor will
+do nothing to prejudice the assignation.
+
+9.4
+
+In granting an assignation document in respect of a claim (whether or not for
+value), the assignor is not taken to warrant to the assignee that the debtor
+will perform to the assignee.
+
+9.5
+
+Subsections (2)  to  (4)  apply in relation to providing, in a contract or
+unilateral undertaking, for the assignation of a claim as they apply in
+relation to the granting of an assignation document in respect of a claim.
+
+##### Protection of debtors
+
+###### Protection of debtor who performs in good faith
+
+10
+
+10.1
+
+Subsection (2)  applies where, after a claim is transferred, the debtor, or
+any co-debtor, performs in good faith to the person last known to the debtor,
+or that co-debtor, to be the holder of the claim.
+
+10.2
+
+The debtor, or (where there are two or more co-debtors) each of the co-
+debtors, is discharged from the claim to the extent of the performance.
+
+10.3
+
+For the purpose of  subsection (2) , it is not to be taken that a debtor, or
+any co-debtor, has performed other than in good faith by reason only of (any
+or all of)—
+
+10.3.a
+
+an assignation document’s having been registered,
+
+10.3.b
+
+the application of  section 8 (9) ,
+
+10.3.c
+
+the application of  section 8 (10) .
+
+###### Further provision as to protection of debtor
+
+11
+
+11.1
+
+Subsection (2)  applies where—
+
+11.1.a
+
+the holder of a claim purports to assign the claim (or the same part of the
+claim) by means of more than one assignation document, each in favour of a
+different person,
+
+11.1.b
+
+the claim (or part) is transferred to one of those persons,
+
+11.1.c
+
+the debtor, or any co-debtor, receives notice of the purported assignation to
+the other (or, as the case may be, another) of those persons (the “purported
+assignee”), from the person who granted the purported assignation or from the
+purported assignee, in the manner mentioned in  section 8 (1) (a)  or  (b)
+(ii) , and
+
+11.1.d
+
+by virtue of that notice, the debtor, or any co-debtor, performs in good faith
+to the purported assignee.
+
+11.2
+
+The debtor, or (where there are two or more co-debtors) each of the co-
+debtors, is discharged from the claim (or part) to the extent of the
+performance.
+
+11.3
+
+Section 10 (3)  applies for the purposes of  subsection (2)  as it applies for
+the purposes of  section 10 (2) .
+
+###### Performance in good faith where claim assigned cannot be transferred by intimation
+
+12
+
+12.1
+
+Subsection (2)  applies where—
+
+12.1.a
+
+by virtue only of being of a type prescribed under  section 3 (8) , a claim in
+respect of which an assignation document is granted is not transferred, and
+
+12.1.b
+
+the debtor, or any co-debtor, performs in good faith to the assignee.
+
+12.2
+
+The debtor, or (where there are two or more co-debtors) each of the co-
+debtors, is discharged from the claim to the extent of the performance.
+
+12.3
+
+For the purposes of  subsection (1) (b) , a debtor, or co-debtor, is not to be
+taken to perform in good faith where that debtor or co-debtor knows—
+
+12.3.a
+
+that the assignation document has not been registered, and
+
+12.3.b
+
+that transfer of the claim requires registration.
+
+###### Performance in good faith where claim assigned subject to condition
+
+13
+
+13.1
+
+Subsection (2) applies where—
+
+13.1.a
+
+a claim in respect of which an assignation document is granted is subject to a
+condition which must be satisfied before the claim is transferred,
+
+13.1.b
+
+the claim has not yet been transferred by virtue only of the condition not yet
+being satisfied, and
+
+13.1.c
+
+the debtor, or any co-debtor, performs in good faith to the assignee.
+
+13.2
+
+The debtor, or (where there are two or more co-debtors) each of the co-
+debtors, is discharged from the claim to the extent of the performance.
+
+13.3
+
+Section 10(3) applies for the purposes of subsection (2) as it applies for the
+purposes of section 10(2).
+
+###### Asserting defence or right of compensation
+
+14
+
+14.1
+
+Except in so far as the debtor and the assignor agree otherwise before an
+assignation document is granted in respect of the claim, the debtor, or any
+co-debtor, may assert against the assignee any defence which the debtor, or
+co-debtor, would have had the right to assert against the assignor.
+
+14.2
+
+Nothing in  subsection (1)  affects the operation of any other enactment which
+restricts or prevents the making of such an agreement.
+
+14.3
+
+For the purposes of any enactment or rule of law concerning compensation, set-
+off, retention, balancing of accounts or counterclaims, a debtor is not to be
+treated as receiving notice of the assignation of a claim only because an
+assignation document is registered in respect of the claim.
+
+###### Right to withhold performance until information as to assignation is provided
+
+15
+
+15.1
+
+A debtor on whom a notice of assignation of a claim is served under  section 8
+(1) (a)  by an assignee may request from the assignee reasonable evidence of
+the granting of an assignation document in respect of the claim.
+
+15.2
+
+For the purposes of  subsection (1) , “ reasonable evidence ” includes, for
+example, the written confirmation of an assignor that the assignor granted the
+document.
+
+15.3
+
+Subsection (1)  applies to a purported notice of assignation as it applies to
+a notice of assignation, and a reference in that subsection to an assignee
+includes a reference to a purported assignee.
+
+15.4
+
+If evidence is requested under  subsection (1) , the debtor may withhold
+performance until—
+
+15.4.a
+
+that evidence is received, or
+
+15.4.b
+
+the debtor receives notification in writing from the purported assignee or the
+purported assignor that an assignation document has not been granted in
+respect of the claim.
+
+15.5
+
+A debtor who, other than by virtue of  section 8 (1) , has reasonable grounds
+to believe that an assignation document has been granted in respect of a claim
+may state those grounds to the supposed assignor and request that person to
+provide a written statement as to whether the document has been granted.
+
+15.6
+
+If a written statement provided by virtue of  subsection (5)  is to the effect
+that the document has been granted, that statement must include the name and
+last known address of the assignee.
+
+15.7
+
+If a written statement is requested under  subsection (5) , the debtor may
+withhold performance until that statement (conforming, where it is a statement
+to the effect mentioned in  subsection (6) , with the requirements of that
+subsection) is received.
+
+15.8
+
+A debtor who knows that an assignation document has been granted in respect of
+a claim may request the assignor or the assignee to provide a written
+statement as to whether (either or both)—
+
+15.8.a
+
+the assignation of the claim is subject to a condition,
+
+15.8.b
+
+any such condition has been satisfied.
+
+15.9
+
+If a written statement is requested under  subsection (8) , the debtor may
+withhold performance until that statement is received.
+
+15.10
+
+Where a debtor who makes a request under subsection (1), (5) or (8) is a co-
+debtor, the reference in subsection (4) or (as the case may be) (7) or (9) to
+the debtor is to the debtor who made the request and does not include a
+reference to any co-debtor of that debtor.
+
+##### Accessory security rights
+
+###### Accessory security rights
+
+16
+
+16.1
+
+Subsections (2)  and  (3) —
+
+16.1.a
+
+apply, and apply only, in relation to any claim assigned in whole, but
+
+16.1.b
+
+are subject to any express provision to the contrary in the assignation
+document.
+
+16.2
+
+Subject to anything which requires to be done under  subsection (3) , the
+assignee acquires, by virtue of the transfer of the claim, any security (in so
+far as the security is transferable) which relates to, and only to, the claim
+transferred.
+
+16.3
+
+Where the performance of some act by the assignor is necessary for the
+security to transfer to the assignee, the assignor must—
+
+16.3.a
+
+perform that act, and
+
+16.3.b
+
+do so as soon as reasonably practicable after the claim is transferred.
+
+16.4
+
+In  this section , “ security ” means both—
+
+16.4.a
+
+a right in security, and
+
+16.4.b
+
+the correlative right in respect of a cautionary obligation.
+
+##### Abolition of certain rules of law
+
+###### Abolition of certain rules of law
+
+17
+
+17.1
+
+The following rules of law are abolished insofar as they apply to an
+assignation of a claim to which  this Part  applies—
+
+17.1.a
+
+any rule whereby a mandate may operate as an assignation of a claim,
+
+17.1.b
+
+any rule whereby an assignation is rendered ineffective by an instruction to
+the debtor by an assignee of a claim that the debtor perform to the assignor,
+
+17.1.c
+
+any rule whereby an assignee of a claim may sue in the name of an assignor,
+and
+
+17.1.d
+
+any rule as to warrandice to be implied—
+
+17.1.d.i
+
+in assigning a claim, or
+
+17.1.d.ii
+
+in providing, in a contract or unilateral undertaking, for the assignation of
+a claim.
+
+17.2
+
+But  subsection (1) (c)  does not affect the application of any enactment, or
+any rule of law, as respects subrogation.
+
+##### Saving
+
+###### Saving as respects International Interests in Aircraft Equipment (Cape Town Convention) Regulations 2015
+
+18
+
+18.1
+
+This Part  is without prejudice to the application, as respects the assignment
+and acquisition of associated rights, of the International Interests in
+Aircraft Equipment (Cape Town Convention) Regulations 2015 ( S.I. 2015/912 ).
+
+18.2
+
+In  subsection (1) —
+
+      “ assignment ” has the meaning given by regulation 5, as read with
+regulation 35, of those regulations, and           “ associated rights ” has
+the meaning given by regulation 5 of those regulations.
+
+#### Register of Assignations
+
+##### Register of Assignations
+
+###### The Register of Assignations
+
+19
+
+19.1
+
+There is to be a public register known as the Register of Assignations.
+
+19.2
+
+The register is to be under the management and control of the Keeper.
+
+19.3
+
+Subject to the provisions of this Act, the register is to be in such form as
+the Keeper thinks fit.
+
+19.4
+
+The Keeper must take such steps as appear reasonable to the Keeper to protect
+the register from—
+
+19.4.a
+
+interference,
+
+19.4.b
+
+unauthorised access, and
+
+19.4.c
+
+damage.
+
+##### Structure and contents of the register
+
+###### The parts of the register
+
+20
+
+The Keeper must make up and maintain, as parts of the register—
+
+20.a
+
+the assignations record, and
+
+20.b
+
+the archive record.
+
+###### The assignations record
+
+21
+
+21.1
+
+An entry in the assignations record is to comprise—
+
+21.1.a
+
+the assignor’s name and address,
+
+21.1.b
+
+where the assignor is an individual, the assignor’s date of birth,
+
+21.1.c
+
+any identifying number which the assignor has and which, by virtue of RoA
+Rules, must be included in the entry,
+
+21.1.d
+
+the assignee’s name and address,
+
+21.1.e
+
+any identifying number which the assignee has and which, by virtue of RoA
+Rules, must be included in the entry,
+
+21.1.f
+
+where the assignee is not an individual, an address (which may be an email
+address) to which any request for information regarding the assignation may be
+sent,
+
+21.1.g
+
+such description of the claim as is required, or permitted, for the purposes
+of  this subsection  by RoA Rules,
+
+21.1.h
+
+a copy of the assignation document,
+
+21.1.i
+
+the registration number allocated under  section 25 (1) (b)  to the entry,
+
+21.1.j
+
+the date and time of registration of the assignation document,
+
+21.1.k
+
+any other information that is required under any other section of this Act,
+and
+
+21.1.l
+
+any other information that is specified for the purposes of  this subsection
+by RoA Rules.
+
+21.2
+
+The assignations record is the totality of all such entries.
+
+###### The archive record
+
+22
+
+The archive record is the totality of—
+
+22.a
+
+all entries and copy documents transferred from the assignations record under
+section 30 (1) (a)  or  (2) (c) ,
+
+22.b
+
+all copy documents included in the archive record under  section 30 (1) (c)
+or  (2) (b) ,
+
+22.c
+
+all copies of such other documents as the Keeper considers it appropriate to
+include in the archive record, and
+
+22.d
+
+any other information that is specified for the purposes of  this section  by
+RoA Rules.
+
+##### Registration process
+
+###### Application for registration
+
+23
+
+23.1
+
+An assignee may apply to the Keeper for registration of an assignation
+document.
+
+23.2
+
+The Keeper must deal with applications in the order in which they are
+received.
+
+23.3
+
+The Keeper must accept the application if—
+
+23.3.a
+
+it is submitted with a copy of the assignation document,
+
+23.3.b
+
+it contains all the information the Keeper requires in accordance with
+section 21  to be able to make up an entry for the assignation document under
+section 25 (1) ,
+
+23.3.c
+
+it conforms to such RoA Rules as relate to the application, and
+
+23.3.d
+
+either—
+
+23.3.d.i
+
+such fee as is payable for the registration is paid, or
+
+23.3.d.ii
+
+arrangements satisfactory to the Keeper are made for payment of that fee.
+
+23.4
+
+If the requirements of  subsection (3)  are not satisfied, the Keeper must
+reject the application and inform the applicant accordingly.
+
+###### Application for registration where claims assigned to different assignees
+
+24
+
+24.1
+
+Where an assignation document assigns different claims to different assignees,
+each assignee may apply to the Keeper for registration of the document only in
+so far as it assigns a claim to that assignee (“ the applicant ”).
+
+24.2
+
+A reference in this Part, in relation to an assignation document in respect of
+which such an application has been accepted by the Keeper, to—
+
+24.2.a
+
+the registration of the document is a reference to the registration of the
+document in so far as it assigns a claim to the applicant,
+
+24.2.b
+
+the assignee under the document is a reference to the applicant,
+
+24.2.c
+
+a claim assigned by the document is a reference to a claim assigned by the
+document to the applicant.
+
+###### Registration
+
+25
+
+25.1
+
+On accepting an application made under  section 23 , the Keeper must—
+
+25.1.a
+
+make up an entry for the assignation document (from the assignation document,
+the information provided in the application and the circumstances of
+registration),
+
+25.1.b
+
+allocate a registration number to the entry (based on the order in which
+applications are dealt with), and
+
+25.1.c
+
+maintain the entry in the assignations record.
+
+25.2
+
+An assignation document is taken to be registered on the date and at the time
+entered for it for the purpose of  section 21 (1) (j) .
+
+###### Verification statement
+
+26
+
+26.1
+
+After the registration of an assignation document under  section 25 , the
+Keeper must issue a written statement verifying the registration to—
+
+26.1.a
+
+the assignor, and
+
+26.1.b
+
+the assignee,
+
+but only if and to the extent that the application made under  section 23
+contains an email address for those persons.
+
+26.2
+
+That statement must—
+
+26.2.a
+
+include—
+
+26.2.a.i
+
+the date and time of the registration, and
+
+26.2.a.ii
+
+the registration number allocated to the entry made up for the assignation
+document, and
+
+26.2.b
+
+conform to such RoA Rules as relate to the statement.
+
+26.3
+
+Where a statement is issued under  subsection (1)  and is received by the
+assignee but not the assignor, the assignor may request a copy of it from the
+assignee.
+
+26.4
+
+Within 21 days beginning with the day a request is made under  subsection (3)
+, the assignee must supply the assignor with the copy requested.
+
+##### Effective registration
+
+###### Effective registration of assignation document
+
+27
+
+27.1
+
+The registration of an assignation document is ineffective if—
+
+27.1.a
+
+the entry made up for the assignation document in the assignations record—
+
+27.1.a.i
+
+does not include a copy of the assignation document, or
+
+27.1.a.ii
+
+is, at the time of registration, seriously misleading as a result of an
+inaccuracy or inaccuracies in it, or
+
+27.1.b
+
+the assignation document is invalid.
+
+27.2
+
+But  subsection (1) (a) (ii)  is subject to  section 28 (1) (c)  and  (d) .
+
+27.3
+
+Where the registration of an assignation document is ineffective by virtue of
+subsection (1) , it becomes effective if and when the entry is corrected.
+
+###### Seriously misleading inaccuracies in the assignations record
+
+28
+
+28.1
+
+In determining for the purpose of  section 27 (1) (a) (ii)  whether an entry
+in the assignations record is seriously misleading as a result of an
+inaccuracy or inaccuracies in it—
+
+28.1.a
+
+the entry is seriously misleading where—
+
+28.1.a.i
+
+any of  subsections (2)  to  (5)  apply, or
+
+28.1.a.ii
+
+despite  sub-paragraph (i)  not being satisfied, the inaccuracy or
+inaccuracies are such that a reasonable person would be seriously misled by
+the entry,
+
+28.1.b
+
+any inaccuracy is to be disregarded to the extent that it appears in the
+assignation document but is not replicated elsewhere in the entry,
+
+28.1.c
+
+where the entry is seriously misleading in respect of only part of the
+assigned claim, that is not to be taken to affect the entry in its application
+to the rest of the claim,
+
+28.1.d
+
+where the entry is seriously misleading in respect of a co-assignor or co-
+assignee but not in respect of both (or all) co-assignors or co-assignees,
+that is not to be taken to affect the entry in its application to a co-
+assignor or co-assignee in respect of whom the entry is not seriously
+misleading.
+
+28.2
+
+This subsection  applies where—
+
+28.2.a
+
+the assignor is a person required by RoA Rules to be identified in the
+assignations record by an identifying number, and
+
+28.2.b
+
+if a search of the record were to be carried out for that number, using the
+search facility provided under  section 33 , it would not disclose the entry.
+
+28.3
+
+This subsection  applies where—
+
+28.3.a
+
+the assignor is not a person required by RoA Rules to be identified in the
+assignations record by an identifying number, and
+
+28.3.b
+
+if a search of the record were to be carried out, using the search facility
+provided under  section 33 , for—
+
+28.3.b.i
+
+the assignor’s proper name at the date the application for registration was
+made, or
+
+28.3.b.ii
+
+the assignor’s proper name at that date together with the assignor’s month and
+year of birth,
+
+it would not disclose the entry.
+
+28.4
+
+This subsection  applies where the entry inaccurately reflects the assignee’s
+proper name at the date the application for registration was made in such a
+way that a reasonable person would be seriously misled.
+
+28.5
+
+This subsection  applies where—
+
+28.5.a
+
+there is a requirement, by virtue of  section 21 (1) (g) , for an entry in the
+assignations record to specify the type of claim assigned, and
+
+28.5.b
+
+the entry—
+
+28.5.b.i
+
+describes the claim as being of a type that it is not, or
+
+28.5.b.ii
+
+fails to allocate a type to the claim.
+
+28.6
+
+In the application of  this section  to co-assignors and co-assignees—
+
+28.6.a
+
+subsections  (2)  and  (3)  apply in relation to a co-assignor as they apply
+in relation to an assignor,
+
+28.6.b
+
+subsection  (4)  applies in relation to a co-assignee as it applies in
+relation to an assignee.
+
+28.7
+
+The Scottish Ministers may by regulations modify  this section  to make
+provision about what does, and what does not, make an entry seriously
+misleading for the purpose of  section 27 (1) (a) (ii)  and how that is to be
+determined.
+
+28.8
+
+In  this section , the “proper name” of an assignor or assignee means the
+person’s name in the form determined in accordance with RoA Rules.
+
+##### Corrections
+
+###### Correction of the assignations record
+
+29
+
+29.1
+
+Where a court determines in any proceedings that the assignations record is
+inaccurate, the court—
+
+29.1.a
+
+must direct the Keeper to correct the record, and
+
+29.1.b
+
+may give the Keeper any further direction it considers necessary in connection
+with the correction.
+
+29.2
+
+Where the Keeper becomes aware of a manifest inaccuracy in the assignations
+record, other than as a result of a direction under  subsection (1) —
+
+29.2.a
+
+the Keeper must correct the record if what is needed to correct it is
+manifest,
+
+29.2.b
+
+otherwise, the Keeper must note the inaccuracy on the entry in question.
+
+29.3
+
+There is an “inaccuracy” in the assignations record where—
+
+29.3.a
+
+the information included, by virtue of  section 21 (1) , in an entry in the
+record is inaccurate or incomplete,
+
+29.3.b
+
+an entry in the record—
+
+29.3.b.i
+
+does not include a copy of the assignation document as required by  paragraph
+(h)  of that section, or
+
+29.3.b.ii
+
+includes such a copy but the document copied is invalid, or
+
+29.3.c
+
+an entry has incorrectly been removed from the record.
+
+29.4
+
+A correction of the assignations record may involve—
+
+29.4.a
+
+the removal of an entry,
+
+29.4.b
+
+the removal of information included in an entry,
+
+29.4.c
+
+the amendment of, or an addition to, the information, or replacement of a copy
+document, included in an entry,
+
+29.4.d
+
+the restoration of information, or of a copy document, to an entry,
+
+29.4.e
+
+the restoration of an entry (whether or not by transferring it from the
+archive record to the assignations record).
+
+29.5
+
+A correction is taken to be made on the date and at the time entered for it in
+the register in pursuance of a provision of  this Part .
+
+###### Correction of the assignations record: procedure
+
+30
+
+30.1
+
+Where the Keeper corrects the assignations record by removing an entry from
+the assignations record, the Keeper must—
+
+30.1.a
+
+transfer the entry to the archive record,
+
+30.1.b
+
+note on the transferred entry—
+
+30.1.b.i
+
+the subsection of  section 29  by virtue of which the transfer is made, and
+
+30.1.b.ii
+
+the details of the correction (including the date and time of the removal),
+and
+
+30.1.c
+
+include in the archive record a copy of any document which discloses, or
+contributes to disclosing, the inaccuracy which is the subject of the
+correction.
+
+30.2
+
+Where the Keeper corrects the record by restoring an entry, by restoring,
+removing or amending information included in an entry or by restoring or
+replacing a copy document, the Keeper must—
+
+30.2.a
+
+note on the entry that it has been corrected and the details of the correction
+(including the date and time of the correction),
+
+30.2.b
+
+include in the archive record a copy of any document which discloses, or
+contributes to disclosing, the inaccuracy which is the subject of the
+correction, and
+
+30.2.c
+
+in the case of the replacement of the copy document, transfer the replaced
+copy to the archive record.
+
+30.3
+
+Having corrected the record, the Keeper must notify the following persons (in
+so far as it is reasonable and practicable to do so) that the correction has
+been made—
+
+30.3.a
+
+every person specified for the purposes of  this subsection  by RoA Rules, and
+
+30.3.b
+
+any other person who appears to the Keeper to be affected by it materially.
+
+30.4
+
+A failure to comply with  subsection (1) (c) ,  (2) (b)  or  (3)  does not
+affect the validity of the correction of the record.
+
+###### Proceedings involving the accuracy of the assignations record
+
+31
+
+The Keeper is entitled to appear and be heard in any civil proceedings,
+whether before a court or tribunal, in which—
+
+31.a
+
+the accuracy of the assignations record, or
+
+31.b
+
+what is needed to correct an inaccuracy in the record,
+
+is put in question.
+
+###### Power to make provision about applications for corrections
+
+32
+
+32.1
+
+The Scottish Ministers may by regulations modify  this Part  to make provision
+for or about applications to the Keeper for the correction of an entry in the
+assignations record.
+
+32.2
+
+Regulations under  subsection (1)  may, in particular—
+
+32.2.a
+
+make provision about—
+
+32.2.a.i
+
+the persons, or descriptions of persons, who are entitled to make an
+application,
+
+32.2.a.ii
+
+the circumstances in which an application is to be accepted (which may include
+consideration of whether there has been payment of a fee), and
+
+32.2.a.iii
+
+the steps to be taken where an application is accepted,
+
+32.2.b
+
+modify the Keeper’s duty to act on becoming aware of a manifest inaccuracy in
+the assignations record to take account of the application process, and
+
+32.2.c
+
+allow RoA Rules to make provision about the procedure in relation to
+applications for corrections.
+
+##### Searches and extracts
+
+###### Searching the assignations record
+
+33
+
+33.1
+
+The Keeper must provide a facility by which the assignations record may be
+searched.
+
+33.2
+
+That search facility must allow the assignations record to be searched by
+reference to, and only by reference to—
+
+33.2.a
+
+any of the following information in the entries contained in that record—
+
+33.2.a.i
+
+the names of assignors, which must be capable of being searched with and
+without the months and years of birth of assignors who are individuals,
+
+33.2.a.ii
+
+the identifying numbers of assignors required by RoA Rules to be identified in
+the assignations record by such a number,
+
+33.2.b
+
+registration numbers allocated, under  section 25 (1) (b) , to entries in that
+record, or
+
+33.2.c
+
+any other factor, or characteristic, specified for the purposes of  this
+paragraph  by RoA Rules.
+
+33.3
+
+Subject to any restrictions imposed under RoA Rules, a person may search the
+assignations record using the search facility provided under  subsection (1)
+provided that either—
+
+33.3.a
+
+such fee as is payable for the search is paid, or
+
+33.3.b
+
+arrangements satisfactory to the Keeper are made for payment of that fee.
+
+33.4
+
+But no fee is payable for a search of the assignations record which is carried
+out on behalf of an individual by a not-for-profit money adviser (being an
+adviser who does not charge individuals for the adviser’s services).
+
+33.5
+
+The Scottish Ministers may, by regulations, make further provision about the
+meaning of “ not-for-profit money adviser ” for the purposes of subsection
+(4).
+
+###### Admissibility and evidential status of search results
+
+34
+
+34.1
+
+A copy of a search result (in printed or electronic form) which relates to a
+search carried out by means of a search facility provided by the Keeper is
+admissible in evidence.
+
+34.2
+
+In the absence of evidence to the contrary—
+
+34.2.a
+
+where such a search result purports to show an entry in the assignations
+record, it is sufficient proof of—
+
+34.2.a.i
+
+the registration of the assignation document to which the result relates,
+
+34.2.a.ii
+
+where applicable, a correction of the entry in the assignations record to
+which the result relates, and
+
+34.2.a.iii
+
+the date and time of such registration or, as the case may be, correction, and
+
+34.2.b
+
+where such a search result purports not to show an entry in the assignations
+record, it is sufficient proof of an entry in the assignations record not
+being disclosed at the date and time of such search by means of the search
+carried out.
+
+###### Extracts and their evidential status
+
+35
+
+35.1
+
+A person may apply to the Keeper for an extract of an entry in the register.
+
+35.2
+
+The Keeper must issue the extract if—
+
+35.2.a
+
+such fee as is payable for issuing it is paid, or
+
+35.2.b
+
+arrangements satisfactory to the Keeper are made for payment of that fee.
+
+35.3
+
+But if, on application under subsection (1), the applicant requests an extract
+as at a specific date and time, the Keeper need comply with the request only
+to the extent that it is reasonably practicable to do so.
+
+35.4
+
+The Keeper may validate the extract as the Keeper considers appropriate.
+
+35.5
+
+The Keeper may issue the extract as an electronic document unless the
+applicant requests that it be issued as a traditional document.
+
+35.6
+
+The extract is to be accepted for all purposes as sufficient evidence of the
+contents of the entry as at—
+
+35.6.a
+
+in the case of an extract requested as mentioned in subsection (3), the date
+and time to which the extract relates (being a date and time specified in the
+extract), and
+
+35.6.b
+
+in any other case, the date on which and the time at which the extract is
+issued (being a date and time specified in the extract).
+
+##### Requests for information
+
+###### Assignee’s duty to respond to request for information
+
+36
+
+36.1
+
+An entitled person may ask the person identified in an entry in the
+assignations record as the assignee (the “registered assignee”) to provide the
+entitled person with a written statement as to whether—
+
+36.1.a
+
+a claim specified by the entitled person is assigned by the assignation
+document,
+
+36.1.b
+
+the registered assignee has granted a further assignation document in respect
+of the claim, or
+
+36.1.c
+
+a condition specified by the entitled person and to which the assignation is
+subject has been satisfied.
+
+36.2
+
+The following are entitled persons for the purposes of  this section —
+
+36.2.a
+
+in relation to a request under  subsection (1) , a person who (depending on
+who holds the claim) may have a right to execute diligence against the claim,
+or
+
+36.2.b
+
+a person not mentioned in  paragraph (a)  but who has the consent of the
+person identified in the entry as the assignor to make a request under
+subsection (1) .
+
+36.3
+
+For the purposes of  subsection (2) (a) , a person who may have a right to
+execute diligence against the claim includes a person authorised to execute a
+charge for payment who (depending on who holds the claim) may have a right to
+execute diligence against the claim if and when the days of charge expire
+without payment.
+
+36.4
+
+The registered assignee must, within 21 days beginning with the day of
+receiving a request under  subsection (1) , comply with it unless—
+
+36.4.a
+
+it is manifest that the registration is ineffective in relation to the
+assignation of the claim to which the request relates,
+
+36.4.b
+
+in the case of a request made under  subsection (1) (a) , it is manifest from
+the entry for the assignation that the claim specified is not assigned by the
+assignation document,
+
+36.4.c
+
+both—
+
+36.4.c.i
+
+the registered assignee has, within the period of 3 months ending with the day
+of receipt of the request, complied with a request under the same paragraph of
+subsection (1)  from the same person and in relation to the same claim, and
+
+36.4.c.ii
+
+the information contained in the statement issued in relation to the earlier
+request remains correct.
+
+36.5
+
+The registered assignee may recover from the entitled person any costs
+reasonably incurred in complying with the request.
+
+36.6
+
+On the application of the registered assignee, the court may by order—
+
+36.6.a
+
+exempt the registered assignee from complying with a request under  subsection
+(1)  or such part of the request as it specifies in the order, or
+
+36.6.b
+
+extend the period within which the registered assignee must comply with the
+request by such number of days as it specifies in the order,
+
+if satisfied that in all the circumstances it would be reasonable to do so.
+
+36.7
+
+If, on the application of the entitled person, the court is satisfied that the
+registered assignee has, without reasonable excuse, failed to comply with
+subsection (4) , it may by order require the registered assignee to comply
+with the request within 14 days or such other period (which may be longer or
+shorter than 14 days) as the court considers appropriate.
+
+36.8
+
+The Scottish Ministers may by regulations modify  this section  so as to
+specify further persons, or descriptions of persons, who are entitled persons
+for the purposes of  this section .
+
+##### Entitlement to compensation
+
+###### Liability of Keeper
+
+37
+
+37.1
+
+A person is entitled to be compensated by the Keeper for loss suffered in
+consequence of—
+
+37.1.a
+
+an inaccuracy in the assignations record to the extent that it is attributable
+to the making up, maintenance or operation of the register (including an
+attempted correction of it),
+
+37.1.b
+
+the issue, under  section 26 (1) , of a written statement which is incorrect,
+
+37.1.c
+
+the service, under  section 30 (3) , of a notification which is incorrect,
+
+37.1.d
+
+a search result which—
+
+37.1.d.i
+
+relates to a search of the assignations record carried out by means of a
+search facility provided by the Keeper,
+
+37.1.d.ii
+
+ought (as a result of the search terms used) to reflect accurately the
+contents of the assignations record at the time the search was made, and
+
+37.1.d.iii
+
+does not accurately reflect those contents,
+
+37.1.e
+
+the issue, under  section 35 , of an extract which is not a true extract,
+
+37.1.f
+
+an application being accepted or rejected in error,
+
+37.1.g
+
+an attempt to make an application, which the Keeper would otherwise have
+accepted, failing as a result of an error in the system the Keeper has for
+accepting applications, or
+
+37.1.h
+
+applications being dealt with otherwise than in the order in which they are
+received.
+
+37.2
+
+But the Keeper has no liability under  subsection (1) —
+
+37.2.a
+
+in so far as the person’s loss could have been avoided had the person taken
+measures which it would have been reasonable for the person to take,
+
+37.2.b
+
+in so far as the person’s loss was not reasonably foreseeable, or
+
+37.2.c
+
+for non-patrimonial loss.
+
+37.3
+
+For the avoidance of doubt, an inaccuracy in information included in an entry
+in the assignations record when that entry is made up under  section 25 (1)
+(a)  or corrected under  section 29  does not fall within  subsection (1) (a)
+to the extent that the Keeper—
+
+37.3.a
+
+has been misled into making the inaccuracy, and
+
+37.3.b
+
+reasonably believed the information to be accurate.
+
+37.4
+
+For the purposes of  subsection (3) , the circumstances where the Keeper is
+entitled to reasonably believe information to be accurate include those where
+it is provided—
+
+37.4.a
+
+in connection with an application to which the entry relates, or
+
+37.4.b
+
+by the court.
+
+###### Liability of certain other persons
+
+38
+
+38.1
+
+A person (“ P ”) is entitled to be compensated in the following circumstances—
+
+38.1.a
+
+where P suffers loss in consequence of an inaccuracy in an entry in the
+assignations record then, to the extent that it is not attributable to the
+Keeper, P is entitled to be compensated for that loss by—
+
+38.1.a.i
+
+the person who made the application for registration which gave rise to the
+inaccurate entry if that person failed to take reasonable care in making it,
+or
+
+38.1.a.ii
+
+where the inaccurate entry arises from the attempted correction of an apparent
+inaccuracy, the person who notified the Keeper of the apparent inaccuracy if
+that person failed to take reasonable care in doing so,
+
+38.1.b
+
+where P suffers loss in consequence of an inaccuracy in information supplied
+in response to a request under  section 36 (1) , P is entitled to be
+compensated for that loss by the person who supplied the information if that
+person failed to take reasonable care in supplying it, or
+
+38.1.c
+
+where P suffers loss in consequence of a failure, without reasonable excuse,
+to comply with a request in accordance with  section 36 (4) , P is entitled to
+be compensated for that loss by the person whose failure it was.
+
+38.2
+
+But a person has no liability under  subsection (1) —
+
+38.2.a
+
+in so far as P’s loss could have been avoided had P taken measures which it
+would have been reasonable for P to take,
+
+38.2.b
+
+in so far as P’s loss was not reasonably foreseeable, or
+
+38.2.c
+
+for non-patrimonial loss.
+
+##### Rules
+
+###### Rules
+
+39
+
+39.1
+
+The Scottish Ministers may by regulations make rules (“RoA Rules”)—
+
+39.1.a
+
+about the making up and keeping of the register,
+
+39.1.b
+
+about the procedure in relation to applications for registration under
+section 23 (1) ,
+
+39.1.c
+
+about searches in the register and the results of those searches,
+
+39.1.d
+
+about the required form and content of any document or information to be used
+in relation to the register,
+
+39.1.e
+
+requiring there to be entered in the assignations record or the archive record
+such information as is specified in the rules, or
+
+39.1.f
+
+regarding other matters in relation to registration under  this Part , being
+matters for which the Scottish Ministers consider it necessary or expedient to
+provide in order to give full effect to the purposes of  this Part .
+
+39.2
+
+RoA Rules under  subsection (1)  may, in particular, include provision—
+
+39.2.a
+
+about the identification, in any application and in the register, of any
+person or claim, including—
+
+39.2.a.i
+
+how the proper form of a person’s name is to be determined, and
+
+39.2.a.ii
+
+where the person has an identifying number (whether of numerals or of letters
+and numerals) allocated to the person, whether that number must be used in
+identifying the person,
+
+39.2.b
+
+about the nature of the address of the assignor or the assignee to be included
+in an entry in the register,
+
+39.2.c
+
+about the degree of precision with which time is to be recorded in the
+register,
+
+39.2.d
+
+about information which, though contained in an assignation document, need not
+be included in a copy of that document submitted with an application under
+section 23 (1) ,
+
+39.2.e
+
+about whether a signature contained in an assignation document need be
+included in a copy of that document so submitted,
+
+39.2.f
+
+about information which, though contained in the register, is not to be—
+
+39.2.f.i
+
+available to persons searching it, or
+
+39.2.f.ii
+
+included in any extract issued under  section 35 ,
+
+39.2.g
+
+about when the register is open for—
+
+39.2.g.i
+
+registration,
+
+39.2.g.ii
+
+searches.
+
+39.3
+
+Before laying a draft of a Scottish statutory instrument containing
+regulations under  subsection (1)  before the Scottish Parliament, the
+Scottish Ministers must consult the Keeper.
+
+#### Miscellaneous and interpretation of 
+
+##### Miscellaneous
+
+###### Repeal of Transmission of Moveable Property (Scotland) Act 1862
+
+40
+
+The Transmission of Moveable Property (Scotland) Act 1862 is repealed.
+
+##### Interpretation of 
+
+###### Interpretation of 
+
+41
+
+41.1
+
+In  this Part  (except where the context requires otherwise)—
+
+      “ the archive record ” is to be construed in accordance with  section 22
+,           “ assignation ” means assignation of a claim,           “
+assignation document ” has the meaning given by  section 1 (1) ,           “
+the assignations record ” is to be construed in accordance with  section 21
+(2) ,           “ assignee ” means the person to whom a claim is assigned,
+“ assignor ” means the person by whom a claim is assigned,           “ claim
+”—         means a right to the performance of an obligation (including an
+obligation not to do something), but           does not include a non-monetary
+right relating to land or a negotiable instrument,                 “
+correction ”, in relation to the assignations record, is to be construed in
+accordance with  section 29 (4) ,           “ debtor ” means the person
+against whom a claim may be enforced,           “ holder ”, in relation to a
+claim, means the person who has the right to performance of an obligation
+under the claim,           “ inaccuracy ”, in relation to the assignations
+record, is to be construed in accordance with  section 29 (3) ,           “
+the register ” means the Register of Assignations,           “ right in
+security ”—         means a right in security over property (including a
+floating charge), but           does not include a right to execute diligence,
+“ RoA Rules ” has the meaning given by  section 39 (1) .
+
+41.2
+
+Where two or more persons are co-assignors or co-assignees in relation to a
+claim, any reference in this Act to the assignor or assignee (as the case may
+be) is, unless the context requires otherwise, a reference to all of those
+persons.
+
+41.3
+
+A reference (however expressed) in  this Part  to—
+
+41.3.a
+
+an assignation document having been granted in respect of a claim is to be
+construed as a reference to the document having been executed or
+authenticated,
+
+41.3.b
+
+an assignation document being registered is to be construed as a reference to
+the Keeper’s carrying out, in respect of the document, the duties imposed on
+the Keeper by  section 25 (1) (a)  and  (b) .
+
+### Security over Moveable Property
+
+#### Pledge
+
+##### Pledge, secured obligation and encumbered property
+
+###### Pledge
+
+42
+
+42.1
+
+A pledge is created in accordance with  this section .
+
+42.2
+
+Where a pledge is to be created over moveable property which is corporeal
+only, the pledge is created—
+
+42.2.a
+
+by delivery of the property to the secured creditor, provided that the
+property is the provider’s at the time of delivery,
+
+42.2.b
+
+in a case where the property is not the provider’s at the time of such
+delivery, on the property becoming the provider’s subsequent to such delivery,
+or
+
+42.2.c
+
+by registration in accordance with  section 48  or  49 .
+
+42.3
+
+Where a pledge is to be created over moveable property which is—
+
+42.3.a
+
+incorporeal only, or
+
+42.3.b
+
+both corporeal and incorporeal,
+
+the pledge is created by registration in accordance with  section 48  or  49 .
+
+42.4
+
+A pledge created by registration in accordance with  section 48  or  49  is to
+be known as a “statutory pledge”.
+
+42.5
+
+Nothing in  this section  affects any rule of law which existed prior to the
+commencement of this section whereby a pledge may be created over a negotiable
+instrument, and nothing in  this Part  applies in relation to any pledge
+created in accordance with such a rule.
+
+###### Secured obligation and encumbered property
+
+43
+
+43.1
+
+The obligation secured by a pledge (“the secured obligation”)—
+
+43.1.a
+
+may be any obligation owed, or which will or may become owed, to or by any
+person, and
+
+43.1.b
+
+includes ancillary obligations owed (for example, to pay interest, damages and
+the reasonable expense of extra-judicial recovery of interest or damages).
+
+43.2
+
+The property over which a pledge is created and in respect of which the pledge
+subsists (“the encumbered property”) includes, except in so far as the
+provider and the secured creditor agree otherwise, the natural fruits of the
+property but not its incorporeal fruits.
+
+43.3
+
+At the time the pledge is created, the property which is to be the encumbered
+property must be transferable (whether or not its transferability is
+restricted in some way).
+
+##### Possessory pledge
+
+###### Delivery
+
+44
+
+44.1
+
+For the purposes of  section 42 (2) (a)  and  (b) , delivery must be carried
+out—
+
+44.1.a
+
+by physically handing over, or giving control of, the property to the relevant
+person,
+
+44.1.b
+
+by giving control of the premises in which the property is located to the
+relevant person,
+
+44.1.c
+
+by instructing another person who has direct possession or custody of the
+property to hold the property on behalf of the relevant person, or
+
+44.1.d
+
+by delivering a bill of lading representing the property to the relevant
+person (and where that bill is to the order of a particular person, by
+procuring the endorsement of the bill in favour of the secured creditor).
+
+44.2
+
+Property which, at the time agreement is reached on the creation of the
+pledge, is already in the direct possession or custody of the relevant person
+is deemed to have been delivered to the secured creditor for the purposes of
+section 42 (2) (a)  or, as the case may be,  (b) .
+
+44.3
+
+In  this section , “ relevant person ” means—
+
+44.3.a
+
+the secured creditor, or
+
+44.3.b
+
+a person authorised to accept delivery on behalf of the secured creditor or,
+where  subsection (2)  applies, authorised to hold the property on behalf of
+the secured creditor.
+
+44.4
+
+This section  is without prejudice to section 2 of the Factors Act 1889.
+
+##### Statutory pledge
+
+###### Constitutive document
+
+45
+
+45.1
+
+A statutory pledge requires a constitutive document.
+
+45.2
+
+The constitutive document must—
+
+45.2.a
+
+be executed or authenticated by the provider,
+
+45.2.b
+
+identify the property which is to be the encumbered property, and
+
+45.2.c
+
+identify the obligation which is to be the secured obligation.
+
+45.3
+
+If the encumbered property is to consist of more than one item, the
+constitutive document must—
+
+45.3.a
+
+identify each item separately, or
+
+45.3.b
+
+identify the items in terms of their constituting an identifiable class.
+
+45.4
+
+The property identified (whether separately or as a class) as the property
+which is to be the encumbered property may be either property of, or property
+to be acquired by, the provider.
+
+45.5
+
+For the purposes of subsections (2) and (3), the ways in which the encumbered
+property or the secured obligation can be identified in the constitutive
+document include by making reference in the constitutive document to another
+document, the terms of which are not reproduced.
+
+###### Competence of individual acting as provider of a statutory pledge
+
+46
+
+46.1
+
+It is not competent for an individual to be the provider of a statutory pledge
+unless—
+
+46.1.a
+
+the individual is acting in the course of—
+
+46.1.a.i
+
+the individual’s business,
+
+46.1.a.ii
+
+the activities of a charity of which the individual is a trustee, or
+
+46.1.a.iii
+
+the activities of an unincorporated association (other than a charity) of
+which the individual is a member, and
+
+46.1.b
+
+the encumbered property is a permitted asset, or consists only of permitted
+assets.
+
+46.2
+
+For the purpose of subsection (1)(b), an asset is a “permitted asset” if—
+
+46.2.a
+
+it is (as the case may be)—
+
+46.2.a.i
+
+used, or to be used, wholly or mainly for the purposes of the individual’s
+business,
+
+46.2.a.ii
+
+an asset of the charity, or
+
+46.2.a.iii
+
+owned by the individual on behalf of, or jointly with the other members of,
+the association, and
+
+46.2.b
+
+in the case of corporeal property, it has a monetary value exceeding £3,000
+immediately before the document under which it will become encumbered property
+is granted.
+
+46.3
+
+The Scottish Ministers may by regulations—
+
+46.3.a
+
+modify subsection (2)(b) so as to modify the amount for the time being
+specified there,
+
+46.3.b
+
+modify this section so as to specify types of property which are or are not
+permitted assets.
+
+46.4
+
+For the purposes of this section—
+
+46.4.a
+
+“ charity ” means—
+
+46.4.a.i
+
+a charity within the meaning of section 106 of the Charities and Trustee
+Investment (Scotland) Act 2005, or
+
+46.4.a.ii
+
+an organisation managed or controlled wholly or mainly outwith Scotland and
+which is registered in a register equivalent to the Scottish Charity Register
+(kept under section 3 of that Act) for the purposes of the country in which it
+operates,
+
+46.4.b
+
+a trustee of a charity is one of the persons having the general control and
+management of the administration of the charity.
+
+###### Competence of creating statutory pledge over certain kinds of property
+
+47
+
+47.1
+
+It is not competent to create a statutory pledge over corporeal property which
+is—
+
+47.1.a
+
+an aircraft in respect of which it is competent to register a mortgage in the
+register of aircraft mortgages kept by the Civil Aviation Authority,
+
+47.1.b
+
+an aircraft object (as defined in regulation 5 of the International Interests
+in Aircraft Equipment (Cape Town Convention) Regulations 2015 ( S.I. 2015/912
+)), or
+
+47.1.c
+
+a ship (or a share in a ship) in respect of which it is competent to register
+a mortgage in the register of British ships maintained for the United Kingdom
+under section 8 of the Merchant Shipping Act 1995.
+
+47.2
+
+It is not competent to create a statutory pledge over incorporeal property
+unless that property is—
+
+47.2.a
+
+intellectual property, or
+
+47.2.b
+
+an application for, or licence over, intellectual property.
+
+47.3
+
+The Scottish Ministers may by regulations modify  this section  so as to
+specify further kinds of incorporeal property over which it is competent to
+create a statutory pledge.
+
+###### Creation of statutory pledge by registration: general
+
+48
+
+48.1
+
+A statutory pledge is created over property which is identified in a
+constitutive document in accordance with  section 45  on the requirements
+mentioned in  subsection (2)  all being met.
+
+48.2
+
+Those requirements are that—
+
+48.2.a
+
+the property is the provider’s,
+
+48.2.b
+
+the statutory pledge is registered, and
+
+48.2.c
+
+the property is identifiable as property to which the constitutive document
+relates.
+
+48.3
+
+Subsection  (2) (b)  is subject to  section 91  (effective registration of
+statutory pledge) and, accordingly, the requirement of that subsection—
+
+48.3.a
+
+is not met if the registration of the constitutive document is ineffective in
+accordance with  section 91 (1) , and
+
+48.3.b
+
+is met if and when that registration becomes effective in accordance with
+section 91 (3) .
+
+48.4
+
+This section  is subject to  section 50  (creation of statutory pledge:
+insolvency).
+
+###### Creation of statutory pledge over added property
+
+49
+
+49.1
+
+Where a statutory pledge is amended so as to add property to the encumbered
+property by means of an amendment document under  section 58 , a statutory
+pledge is created over the added property on the requirements mentioned in
+subsection (2)  all being met.
+
+49.2
+
+Those requirements are that—
+
+49.2.a
+
+the added property is the provider’s,
+
+49.2.b
+
+the amendment is registered, and
+
+49.2.c
+
+the added property is identifiable as property to which the amendment document
+relates.
+
+49.3
+
+Subsection  (2) (b)  is subject to  section 92  (effective registration of
+amendment to statutory pledge) and, accordingly, the requirement of that
+subsection—
+
+49.3.a
+
+is not met if the registration of the amendment document is ineffective in
+accordance with  section 92 (1) , and
+
+49.3.b
+
+is met if and when that registration becomes effective in accordance with
+section 92 (3) .
+
+49.4
+
+This section  is subject to  section 50  (creation of statutory pledge:
+insolvency).
+
+###### Creation of statutory pledge: insolvency
+
+50
+
+50.1
+
+This section  applies where—
+
+50.1.a
+
+the property identified (whether separately or as a class) as the property
+which is to be the encumbered property under a statutory pledge is or includes
+property to be acquired by the provider, and
+
+50.1.b
+
+after the pledge is granted, the provider becomes insolvent.
+
+50.2
+
+The statutory pledge is not created over any property which, though identified
+by the constitutive document or by an amendment document as property to be
+encumbered, is acquired by the provider after becoming insolvent.
+
+50.3
+
+For the purposes of  subsection (2) —
+
+50.3.a
+
+a provider who is an individual, or the estate of which may be sequestrated by
+virtue of section 6 of the Bankruptcy (Scotland) Act 2016, becomes insolvent
+when—
+
+50.3.a.i
+
+the provider’s estate is sequestrated,
+
+50.3.a.ii
+
+the provider grants a trust deed for creditors or makes a composition or
+arrangement with creditors,
+
+50.3.a.iii
+
+the provider is adjudged bankrupt,
+
+50.3.a.iv
+
+a voluntary arrangement proposed by the provider is approved,
+
+50.3.a.v
+
+the provider’s application for a debt payment programme is approved under
+section 2 of the Debt Arrangement and Attachment (Scotland) Act 2002, or
+
+50.3.a.vi
+
+the provider becomes subject to any other order or arrangement analogous to
+any of those mentioned in sub-paragraphs  (i)  to  (v)  anywhere in the world,
+and
+
+50.3.b
+
+a provider other than is mentioned in  paragraph (a)  becomes insolvent when—
+
+50.3.b.i
+
+a decision approving a voluntary arrangement entered into by the provider has
+effect under section 4A of the Insolvency Act 1986 (“ the 1986 Act ”),
+
+50.3.b.ii
+
+the provider is wound up under Part 4 or 5 of the 1986 Act or under section
+367 of the Financial Services and Markets Act 2000,
+
+50.3.b.iii
+
+an administrative receiver, as defined in section 251 of the 1986 Act, is
+appointed over all or part (being a part to which the constitutive document or
+any amendment document relates) of the property of the provider,
+
+50.3.b.iv
+
+the provider enters administration (“enters administration” being construed in
+accordance with paragraph 1(2) of schedule B1 of the 1986 Act),
+
+50.3.b.v
+
+an order under section 901F of the Companies Act 2006 sanctioning a compromise
+or arrangement entered into by the provider comes into effect over all or part
+of the property of the provider, or
+
+50.3.b.vi
+
+the provider becomes subject to any other order, appointment or arrangement
+analogous to any of those mentioned in sub-paragraphs (i) to (v) anywhere in
+the world.
+
+50.4
+
+The Scottish Ministers may by regulations modify  subsection (3) .
+
+##### Property encumbered by statutory pledge: effect of transfer by provider
+
+###### Property encumbered by statutory pledge: transfer by provider
+
+51
+
+51.1
+
+If the provider of a statutory pledge transfers the encumbered property (or
+any part of it) to a third party, the transferred property remains encumbered
+by the pledge unless—
+
+51.1.a
+
+the consent mentioned in  subsection (2)  is obtained,
+
+51.1.b
+
+the third party acquires the property unencumbered under any of sections  53
+to  55 , or
+
+51.1.c
+
+the pledge is otherwise extinguished by the transfer, in whole or in relation
+to the transferred property, under section  52 ,  93  or  108 .
+
+51.2
+
+The consent referred to in  subsection (1) (a) —
+
+51.2.a
+
+is the prior written consent of the secured creditor—
+
+51.2.a.i
+
+to the particular transfer, and
+
+51.2.a.ii
+
+to the property in question being transferred unencumbered by the pledge, and
+
+51.2.b
+
+does not include consent granted more than 14 days before the day of the
+particular transfer.
+
+51.3
+
+Whether to grant or withhold the consent mentioned in  subsection (2)  must
+remain at the discretion of the secured creditor (that is, the secured
+creditor may not agree in advance how that discretion will be exercised).
+
+51.4
+
+The Scottish Ministers may by regulations—
+
+51.4.a
+
+modify  subsection (2)  (including by specifying further descriptions of
+consent by reference to which  subsection (1)  is to apply),
+
+51.4.b
+
+modify  this section  so as to specify further matters relevant to the
+granting or withholding of consent.
+
+###### Extinction of statutory pledge where dealings inconsistent with a fixed security
+
+52
+
+If a secured creditor acquiesces, expressly or impliedly, in a provider’s
+transfer of encumbered property (or any part of it) to a third party, other
+than by means of granting the consent mentioned in  section 51 (2) , the
+statutory pledge under which the property (or part) was encumbered is
+extinguished.
+
+###### Acquisition in good faith from seller acting in ordinary course of business
+
+53
+
+53.1
+
+A purchaser of corporeal property which is encumbered property under a
+statutory pledge acquires it unencumbered by the statutory pledge, despite the
+consent mentioned in  section 51 (2)  not having been obtained, if—
+
+53.1.a
+
+the person from whom the property is acquired is acting in the ordinary course
+of that person’s business, and
+
+53.1.b
+
+at the time of acquisition, the purchaser is in good faith.
+
+53.2
+
+For the purposes of  subsection (1) (b) , a purchaser is not to be taken to be
+other than in good faith by reason only of the statutory pledge having been
+registered.
+
+###### Acquisition in good faith for personal, domestic or household purposes
+
+54
+
+54.1
+
+An individual who acquires corporeal property which is encumbered property
+under a statutory pledge acquires it unencumbered by the statutory pledge,
+despite the consent mentioned in  section 51 (2)  not having been obtained,
+if—
+
+54.1.a
+
+the property is wholly or mainly acquired for personal, domestic or household
+purposes,
+
+54.1.b
+
+the acquirer gives value for the property acquired, and
+
+54.1.c
+
+at the time of acquisition, the acquirer is in good faith.
+
+54.2
+
+For the purposes of  subsection (1) (c) , an acquirer is not to be taken to be
+other than in good faith by reason only of the statutory pledge having been
+registered.
+
+54.3
+
+The Scottish Ministers may by regulations modify  subsection (1)  so as to—
+
+54.3.a
+
+limit its application to cases where the value of all that is acquired does
+not, at the time of acquisition, exceed a specified amount, and
+
+54.3.b
+
+modify the amount for the time being specified there by virtue of  paragraph
+(a) .
+
+###### Acquisition in good faith of motor vehicles
+
+55
+
+55.1
+
+Subsections (2)  to  (4)  apply where—
+
+55.1.a
+
+there is a sale agreement (including a conditional sale agreement) or a hire-
+purchase agreement in respect of a motor vehicle,
+
+55.1.b
+
+the motor vehicle is encumbered property under a statutory pledge,
+
+55.1.c
+
+at the time of entering into the agreement, the purchaser or hirer is not a
+person carrying on a business described in section 29(2) of the Hire-Purchase
+Act 1964, and
+
+55.1.d
+
+the purchaser or hirer is, at that time, in good faith.
+
+55.2
+
+On the motor vehicle being transferred to the purchaser or hirer in accordance
+with the agreement, that person acquires it unencumbered by the statutory
+pledge despite the consent mentioned in  section 51 (2)  not having been
+obtained.
+
+55.3
+
+And the statutory pledge is not to be enforced against the motor vehicle
+before the motor vehicle is transferred to the purchaser or hirer in
+accordance with the agreement.
+
+55.4
+
+But if the transferor is, at the time the agreement is entered into, a person
+carrying on a business described in section 29(2) of the Hire-Purchase Act
+1964, the secured creditor is entitled to receive from the transferor the
+lesser of—
+
+55.4.a
+
+the amount outstanding in respect of the secured obligation, and
+
+55.4.b
+
+the amount received, or to be received, by the transferor in respect of the
+acquisition.
+
+55.5
+
+Where the secured creditor receives a sum under  subsection (4) —
+
+55.5.a
+
+the provider’s liability to the secured creditor under the secured obligation
+is reduced by the same amount, but
+
+55.5.b
+
+the transferor has a right of relief against the provider in respect of the
+sum.
+
+55.6
+
+For the purposes of  subsection (1) (d) , a purchaser or hirer is not to be
+taken to be other than in good faith by reason only of the statutory pledge
+having been registered.
+
+55.7
+
+In  this section , “ conditional sale agreement ”, “ hire-purchase agreement ”
+and “ motor vehicle ” have the meanings given by section 29(1) of the Hire-
+Purchase Act 1964.
+
+55.8
+
+The Scottish Ministers may by regulations specify classes of motor vehicles to
+which  subsections (1)  to  (7)  do not apply.
+
+55.9
+
+Regulations under  subsection (8)  may modify sections  53  and  54  to
+provide that either or both of those sections do not apply to some or all of
+the classes of motor vehicle specified under  subsection (8) .
+
+##### Rights relating to matrimonial or family home where relevant to a statutory pledge
+
+###### Occupancy and other rights in family home following grant of statutory pledge
+
+56
+
+56.1
+
+The Matrimonial Homes (Family Protection) (Scotland) Act 1981 (“ the 1981 Act
+”) and the Civil Partnership Act 2004 (“ the 2004 Act ”) are amended in
+accordance with  this section .
+
+56.2
+
+After section 2(8) of the 1981 Act and section 102(8) of the 2004 Act, insert—
+
+56.2.8A
+
+In subsection (1)(a), “ secured loan ” includes secured obligation (construed
+in accordance with  section 43 (1)  of the Moveable Transactions (Scotland)
+Act 2023).
+
+.
+
+56.3
+
+In section 3 of the 1981 Act and section 103 of the 2004 Act, at the end of
+subsection (2) insert  “or the rights of any secured creditor in relation to
+the non-performance of a secured obligation.” .
+
+56.4
+
+After section 3(8) of the 1981 Act, insert—
+
+56.4.9
+
+In subsection (2)—
+
+      “ secured creditor ” has the meaning given by  section 113 (1)  of the
+Moveable Transactions (Scotland) Act 2023, and           “ secured obligation
+” is to be construed in accordance with  section 43 (1)  of the Moveable
+Transactions (Scotland) Act 2023.
+
+.
+
+56.5
+
+After section 103(9) of the 2004 Act, insert—
+
+56.5.10
+
+In subsection (2)—
+
+      “ secured creditor ” has the meaning given by  section 113 (1)  of the
+Moveable Transactions (Scotland) Act 2023, and           “ secured obligation
+” is to be construed in accordance with  section 43 (1)  of the Moveable
+Transactions (Scotland) Act 2023.
+
+.
+
+56.6
+
+In section 6(2) of the 1981 Act and section 106(2) of the 2004 Act, in the
+definition of “dealing”, after the words “heritable security” insert  “, the
+grant of a statutory pledge” .
+
+56.7
+
+In section 8 of the 1981 Act, after subsection (2B) insert—
+
+56.7.2C
+
+For the purposes of subsection (2A) above, the time of granting a security, in
+the case of a statutory pledge, is—
+
+56.7.2C.a
+
+the date of delivery of the constitutive document of the statutory pledge, or
+
+56.7.2C.b
+
+where the statutory pledge is granted in an amendment document, the date of
+delivery of that document.
+
+.
+
+56.8
+
+In section 108 of the 2004 Act, after subsection (4) insert—
+
+56.8.5
+
+For the purposes of subsection (3), the time of granting a security, in the
+case of a statutory pledge, is—
+
+56.8.5.a
+
+the date of delivery of the constitutive document of the statutory pledge, or
+
+56.8.5.b
+
+where the statutory pledge is granted in an amendment document, the date of
+delivery of that document.
+
+.
+
+56.9
+
+The title of section 8 of the 1981 Act and section 108 of the 2004 Act becomes
+“ Interests of creditors ” .
+
+##### Assignation, amendment, restriction or extinction of statutory pledge
+
+###### Assignation of statutory pledge
+
+57
+
+57.1
+
+Except in so far as the provider and the secured creditor agree otherwise, a
+statutory pledge may be assigned.
+
+57.2
+
+A statutory pledge is assigned only by the secured creditor executing or
+authenticating a document assigning the pledge.
+
+57.3
+
+Subject to the provisions of that document, the assignation conveys to the
+assignee entitlement to the benefit of any notice served, or enforcement
+procedure commenced, by the assignor in respect of the statutory pledge before
+the assignation (to the effect that the assignee may proceed as if the
+assignee served that notice or commenced those procedures).
+
+###### Amendment of statutory pledge
+
+58
+
+58.1
+
+Subject to  section 59 (a) , a statutory pledge may be amended only by means
+of a document (an “amendment document”) executed or authenticated by the
+secured creditor and the provider.
+
+58.2
+
+But an amendment document which relates only to the addition of property to
+the encumbered property need not be executed or authenticated by the secured
+creditor.
+
+58.3
+
+An amendment document which relates to the addition of property to the
+encumbered property must identify the property to be added.
+
+58.4
+
+If the property to be added consists of more than one item, the amendment
+document must—
+
+58.4.a
+
+identify each item separately, or
+
+58.4.b
+
+identify the items in terms of their constituting an identifiable class.
+
+58.5
+
+The property identified (whether separately or as a class) as the property
+which is to be the added property may be either property of, or property to be
+acquired by, the provider.
+
+58.6
+
+Where an amendment increases the extent of the statutory pledge—
+
+58.6.a
+
+the statutory pledge is amended to give effect to the increase only when the
+amendment is registered effectively (see section 92), and
+
+58.6.b
+
+subject to any agreement to the contrary by the parties to the amendment
+document, any other amendments to the statutory pledge made by the amendment
+document also take effect at the time mentioned in paragraph (a).
+
+58.7
+
+For the purposes of subsection (6), an amendment increases the extent of the
+statutory pledge where—
+
+58.7.a
+
+the amendment adds property to the encumbered property, or
+
+58.7.b
+
+both—
+
+58.7.b.i
+
+the extent of the secured obligation is determinable from the terms alone of
+the entry for it in the statutory pledges record, and
+
+58.7.b.ii
+
+the amendment increases that extent.
+
+58.8
+
+For the purposes of subsections (3) and (4), the ways in which property added
+can be identified in the amendment document include by making reference in the
+amendment document to another document, the terms of which are not reproduced.
+
+###### Restriction or discharge of statutory pledge
+
+59
+
+A statutory pledge may be—
+
+59.a
+
+restricted to only part of the encumbered property, or
+
+59.b
+
+discharged,
+
+by means of a written statement by the secured creditor.
+
+##### Ranking of pledges etc.
+
+###### Ranking
+
+60
+
+60.1
+
+Subject to the provisions of  this section  and of any other enactment, the
+priority in ranking of—
+
+60.1.a
+
+any two pledges, or
+
+60.1.b
+
+a pledge and a right in security other than a pledge,
+
+is determined according to their creation, the earlier created having priority
+over the later.
+
+60.2
+
+Where a provider grants two or more statutory pledges over property which is
+not the property of the provider at the time the pledges are granted, the
+priority in ranking of the pledges is determined according to the dates on
+which and times at which they are registered effectively (see sections  91
+and  92 ), the earlier having priority over the later.
+
+60.3
+
+Where property is subject both to a pledge and to a security arising by
+operation of law, the security arising by operation of law has priority over
+the pledge.
+
+60.4
+
+The priority in ranking of a pledge is the same irrespective of whether the
+secured obligation is an obligation owed or is an obligation which will or may
+become owed.
+
+60.5
+
+As between any two pledges, or as between a pledge and a right in security
+other than a pledge, the secured creditors or (as the case may be) the secured
+creditor and the holder of that other right may set out in a written
+agreement—
+
+60.5.a
+
+that there is no priority in ranking, or
+
+60.5.b
+
+that any priority in ranking is to be determined in a way other than would be
+the case in the absence of such an agreement.
+
+60.6
+
+An agreement under  subsection (5) —
+
+60.6.a
+
+has effect only as between the parties to it and their successors, and
+
+60.6.b
+
+is not registrable in the register.
+
+###### Amendment of Companies Act 1985 and Insolvency Act 1986
+
+61
+
+Both in section 486(1) of the Companies Act 1985 and in section 70(1) of the
+Insolvency Act 1986, in the definition of “fixed security”—
+
+61.a
+
+the words from “a heritable security” to “1970” become paragraph (a) of the
+definition, and
+
+61.b
+
+after that paragraph insert
+
+; or
+
+61.b.b
+
+a statutory pledge within the meaning given by  section 113 (1)  of the
+Moveable Transactions (Scotland) Act 2023;
+
+.
+
+###### Effect of diligence on pledge
+
+62
+
+62.1
+
+Subsection (2)  applies where diligence is executed in respect of property
+which is, or any part of which is, encumbered by a pledge.
+
+62.2
+
+The pledge has, in respect of the property or (as the case may be) the part,
+priority in ranking over the diligence except in relation to any part of the
+secured obligation which consists of a sum—
+
+62.2.a
+
+advanced after execution of the diligence, and
+
+62.2.b
+
+not required to be advanced by—
+
+62.2.b.i
+
+a contractual agreement entered into before execution of the diligence, or
+
+62.2.b.ii
+
+an undertaking entered into before execution of the diligence.
+
+62.3
+
+Subsection (4)  applies where a pledge is created over property in respect of
+which, or in respect of part of which, diligence has been executed.
+
+62.4
+
+The diligence has, in respect of the property or (as the case may be) the
+part, priority in ranking over the pledge.
+
+##### Enforcement of pledge
+
+###### The expression “pledge” in 
+
+63
+
+In  sections 64  to  77 , the expression “ pledge ” does not include a pledge
+as defined in section 189(1) of the Consumer Credit Act 1974 (that is to say,
+does not include a pawnee’s rights over an article taken in pawn).
+
+###### Enforcement of pledge: general
+
+64
+
+64.1
+
+A pledge is enforceable only in accordance with the provisions of  this Part .
+
+64.2
+
+A pledge may be enforced—
+
+64.2.a
+
+in such circumstances as are agreed between the provider and the secured
+creditor, or
+
+64.2.b
+
+subject to any such agreement, where there has been a failure to perform the
+secured obligation.
+
+64.3
+
+Any agreement under  subsection (2) (a)  must be in writing.
+
+64.4
+
+In enforcing a pledge, a secured creditor must conform to reasonable standards
+of commercial practice.
+
+64.5
+
+Subsection (2)  is subject to sections  55 (3) ,  65  and  66 .
+
+###### Pledge enforcement notice
+
+65
+
+65.1
+
+Before taking any other steps to enforce a pledge, the secured creditor must
+serve a notice in, or as nearly as may be in, the form prescribed for the
+purposes of  this subsection  (to be known as a “ pledge enforcement notice ”)
+on—
+
+65.1.a
+
+the provider,
+
+65.1.b
+
+the debtor in the secured obligation (if a person other than the provider),
+
+65.1.c
+
+the holder of any other right in security over all or part of the encumbered
+property,
+
+65.1.d
+
+any creditor who has executed diligence against all or part of the encumbered
+property, and
+
+65.1.e
+
+in the case of a statutory pledge over property which is capable of being
+occupied, any occupier of all or part of the property (if a person other than
+the provider).
+
+65.2
+
+But—
+
+65.2.a
+
+paragraph (c)  of  subsection (1)  is to be disregarded if the secured
+creditor does not know, and cannot reasonably be expected to know, of the
+right in security mentioned in that paragraph, and
+
+65.2.b
+
+paragraph (d)  of that subsection is to be disregarded if the secured creditor
+does not know, and cannot reasonably be expected to know, of the diligence
+executed as mentioned in that paragraph.
+
+65.3
+
+If, by virtue of subsection (1)(e) of section 87 of the Consumer Credit Act
+1974, a default notice must be served on the provider, the requirements of
+that section and of section 88 of that Act must be satisfied before a pledge
+enforcement notice is served.
+
+65.4
+
+The Scottish Ministers may by regulations modify  this section  so as to
+specify—
+
+65.4.a
+
+further persons, or descriptions of persons, on whom the secured creditor must
+serve a pledge enforcement notice (being persons who have statutory duties in
+relation to the provider’s estate),
+
+65.4.b
+
+cases when the requirement to serve a notice on a person specified by virtue
+of  paragraph (a)  is to be disregarded.
+
+###### Whether court order required for enforcement
+
+66
+
+66.1
+
+A court order is required for enforcing a pledge only—
+
+66.1.a
+
+as mentioned in  subsections (2)  and  (3) ,
+
+66.1.b
+
+where taking possession of, or steps in relation to, encumbered property in
+accordance with section  67 (3)  or  (4) .
+
+66.2
+
+In a case where the provider of a pledge is an individual, a court order is
+required for enforcing the pledge if the provider is a sole trader and
+enforcement is against property used wholly or mainly for the purposes of the
+provider’s business.
+
+66.3
+
+A court order is required for enforcing a statutory pledge in respect of
+property which is the sole or main residence of an individual unless, after
+the pledge becomes enforceable by virtue of  section 64 (2) , the following
+persons agree in writing to its being enforced without such an order—
+
+66.3.a
+
+the secured creditor,
+
+66.3.b
+
+the provider, and
+
+66.3.c
+
+the individual whose sole or main residence is the property in question (if a
+person other than the provider).
+
+66.4
+
+The court is not to grant an order required by  subsection (3)  unless
+satisfied that enforcement is reasonable having had regard to all the
+circumstances of the case.
+
+66.5
+
+Those circumstances include—
+
+66.5.a
+
+the nature of, and reason for, the default by virtue of which authority to
+enforce is sought,
+
+66.5.b
+
+whether the person in default has the ability to remedy the default within a
+reasonable time,
+
+66.5.c
+
+whether the secured creditor has done anything to help the person in default
+remedy the default,
+
+66.5.d
+
+where it is, or was, appropriate for the person in default to take part in a
+debt payment programme approved under Part 1 of the Debt Arrangement and
+Attachment (Scotland) Act 2002, whether that person is taking part, or has
+taken part, in such a programme, and
+
+66.5.e
+
+whether reasonable alternative accommodation is available for (or can be
+expected to be available for) the individual whose sole or main residence is
+the property in question.
+
+###### Secured creditor’s right to take possession of, or steps in relation to, corporeal property
+
+67
+
+67.1
+
+This section  applies in relation to corporeal property in respect of which a
+secured creditor in a statutory pledge has served a pledge enforcement notice.
+
+67.2
+
+Subject to any court order that is required under  section 66 , the secured
+creditor is entitled to—
+
+67.2.a
+
+take possession of the property, and
+
+67.2.b
+
+take any reasonable steps necessary to ensure, whether or not by immobilising
+the property, that it is not disposed of or used in an unauthorised way,
+
+but only in accordance with  subsection (3)  or, as the case may be,
+subsection (4) .
+
+67.3
+
+Where the property is in the possession of a relevant person, the secured
+creditor may take possession or steps under  subsection (2) —
+
+67.3.a
+
+with the consent of the relevant person,
+
+67.3.b
+
+with the consent of the court, through the agency of an authorised person, or
+
+67.3.c
+
+personally, if authorised to do so by the court.
+
+67.4
+
+Where the property is not in the possession of a relevant person, the secured
+creditor may take possession or steps under  subsection (2) —
+
+67.4.a
+
+with the consent of—
+
+67.4.a.i
+
+the provider, given after the pledge becomes enforceable, and
+
+67.4.a.ii
+
+any third party who for the time being either is in direct possession, or has
+custody, of the property,
+
+67.4.b
+
+through the agency of an authorised person, or
+
+67.4.c
+
+personally, if authorised to do so by the court.
+
+67.5
+
+For the purposes of  subsections (3)  and  (4) , a “relevant person” is a
+person who, in respect of the property or of any part of it—
+
+67.5.a
+
+has a right in security which has priority in ranking over, or ranks equally
+with, the pledge to which the pledge enforcement notice relates, or
+
+67.5.b
+
+has executed diligence which has priority in ranking over, or ranks equally
+with, that pledge.
+
+67.6
+
+In taking possession of the property under  subsection (2) (a) , the secured
+creditor is entitled to remove any individual from that property, but only
+through the agency of an authorised person.
+
+67.7
+
+In  this section , “ authorised person ” means a messenger-at-arms or sheriff
+officer.
+
+67.8
+
+The Scottish Ministers may by regulations modify  this section  so as to
+specify further persons, or descriptions of persons, who are authorised
+persons for the purposes of  this section .
+
+###### Secured creditor’s right to sell
+
+68
+
+68.1
+
+Where a pledge enforcement notice has been served in respect of property, the
+secured creditor is, subject to any court order that is required under
+section 66 , entitled to sell all or any of that property.
+
+68.2
+
+In selling property by virtue of  subsection (1) , the secured creditor must
+take all reasonable steps to ensure that the price obtained is the best
+reasonably obtainable.
+
+68.3
+
+The secured creditor is entitled to purchase all or any of the property but
+only—
+
+68.3.a
+
+in a sale by public auction, and
+
+68.3.b
+
+for a price no lower than one which bears a reasonable relationship to market
+value.
+
+68.4
+
+Any proceeds obtained by virtue of  subsection (1)  are to be held in trust by
+the secured creditor until applied under  section 77 .
+
+###### Sale: unencumbered acquisition
+
+69
+
+69.1
+
+This section  applies where a secured creditor sells property by virtue of
+section 68 (1)  and transfers the property to the purchaser.
+
+69.2
+
+The purchaser acquires the property unencumbered by—
+
+69.2.a
+
+the pledge which was the subject of the pledge enforcement notice, and
+
+69.2.b
+
+any right in security, or any diligence, ranking equally with or postponed to
+the pledge.
+
+69.3
+
+The purchaser acquires the property unencumbered by—
+
+69.3.a
+
+any right in security which has priority in ranking over the pledge, or
+
+69.3.b
+
+any diligence which has priority in ranking over the pledge,
+
+only if the holder of the right in security or, as the case may be, the
+creditor who executed the diligence consented to the sale.
+
+###### Secured creditor’s right to let
+
+70
+
+70.1
+
+A secured creditor who, by virtue of  section 68 (1) , is entitled to sell
+corporeal property is entitled to let all or any of that property.
+
+70.2
+
+In letting property by virtue of  subsection (1) , the secured creditor must
+take all reasonable steps to ensure that the income obtained is the best
+reasonably obtainable.
+
+70.3
+
+Any rental income obtained by virtue of  subsection (1)  is to be held in
+trust by the secured creditor until applied under  section 77 .
+
+70.4
+
+The provider and the secured creditor may agree, whether before or after the
+pledge becomes enforceable by virtue of  section 64 (2) , that  subsection (1)
+is not to apply in relation to the corporeal property or some part of it.
+
+70.5
+
+Any such agreement must be in writing.
+
+###### Secured creditor’s right to grant licence over intellectual property
+
+71
+
+71.1
+
+A secured creditor who, by virtue of  section 68 (1) , is entitled to sell
+intellectual property is entitled to grant a licence over all or any of that
+property, but only if and to the extent that the provider is entitled to grant
+such a licence.
+
+71.2
+
+In granting a licence by virtue of  subsection (1) , the secured creditor must
+take all reasonable steps to ensure that the income obtained is the best
+reasonably obtainable.
+
+71.3
+
+Any income obtained by virtue of  subsection (1)  is to be held in trust by
+the secured creditor until applied under  section 77 .
+
+71.4
+
+The provider and the secured creditor may agree, whether before or after the
+pledge becomes enforceable by virtue of  section 64 (2) , that  subsection (1)
+is not to apply in relation to the intellectual property or some part of it.
+
+71.5
+
+Any such agreement must be in writing.
+
+###### Secured creditor’s right to protect and manage the property
+
+72
+
+72.1
+
+A secured creditor who, by virtue of  section 68 (1) , is entitled to sell
+property is entitled to take reasonable steps to—
+
+72.1.a
+
+protect, maintain and manage it, and
+
+72.1.b
+
+preserve its value.
+
+72.2
+
+The right under  subsection (1)  includes, for example, the right of the
+secured creditor to—
+
+72.2.a
+
+effect or maintain an insurance policy in relation to the property,
+
+72.2.b
+
+settle any liability in relation to the property,
+
+72.2.c
+
+bring, defend or continue legal proceedings in relation to the property,
+
+72.2.d
+
+take such other steps as the provider has agreed (whether before or after the
+pledge becomes enforceable by virtue of  section 64 (2) ) may be taken by the
+secured creditor.
+
+72.3
+
+Subsection (1)  is without prejudice to  section 67 (2) (b) .
+
+###### Secured creditor’s right to appropriate
+
+73
+
+73.1
+
+Where a pledge enforcement notice has been served, the secured creditor is
+entitled to appropriate any or all of the encumbered property in accordance
+with  section 74  or (as the case may be)  75  in satisfaction, in whole or in
+part, of the secured obligation.
+
+73.2
+
+But it is not competent to appropriate by virtue of  subsection (1) —
+
+73.2.a
+
+corporeal property, unless that property is in the possession of the secured
+creditor, or
+
+73.2.b
+
+property with a value which exceeds the total of—
+
+73.2.b.i
+
+the amount for the time being remaining due under the secured obligation, and
+
+73.2.b.ii
+
+such expenses as have reasonably been incurred by the secured creditor in
+enforcing the pledge,
+
+unless a sum of money equivalent to the amount by which that total is exceeded
+is set aside by the secured creditor and held in trust until applied under
+section 77 .
+
+###### Appropriation with prior agreement
+
+74
+
+74.1
+
+A provider and a secured creditor may, before a pledge becomes enforceable by
+virtue of  section 64 (2) , agree that the secured creditor is entitled to
+appropriate by virtue of  section 73 (1) —
+
+74.1.a
+
+the encumbered property, or
+
+74.1.b
+
+any part of that property.
+
+74.2
+
+Any agreement under  subsection (1)  must be in writing.
+
+74.3
+
+Property may only be appropriated in accordance with that agreement if it is
+property in relation to which the provider and the secured creditor have, in
+the agreement, set out a method of readily determining a reasonable market
+price.
+
+74.4
+
+Property appropriated in accordance with that agreement is appropriated only
+for the value, at the date of appropriation, of the property’s market price as
+determined as mentioned in  subsection (3) .
+
+74.5
+
+Before exercising a right to appropriate property by virtue of  subsection (1)
+, the secured creditor must serve a notice on—
+
+74.5.a
+
+the provider,
+
+74.5.b
+
+the debtor in the secured obligation (if a person other than the provider),
+
+74.5.c
+
+the holder of any other right in security over all or part of the property,
+and
+
+74.5.d
+
+any creditor who has executed diligence against all or part of the property.
+
+74.6
+
+But—
+
+74.6.a
+
+paragraph (c)  of  subsection (5)  is to be disregarded if the secured
+creditor does not know, and cannot reasonably be expected to know, of the
+right in security mentioned in that paragraph, and
+
+74.6.b
+
+paragraph (d)  of that subsection is to be disregarded if the secured creditor
+does not know, and cannot reasonably be expected to know, of the diligence
+executed as mentioned in that paragraph.
+
+74.7
+
+A notice under  subsection (5)  must—
+
+74.7.a
+
+identify the property to be appropriated,
+
+74.7.b
+
+specify the amount for the time being remaining due under the secured
+obligation,
+
+74.7.c
+
+specify the amount expected to be obtained by the appropriation, and
+
+74.7.d
+
+state that—
+
+74.7.d.i
+
+the recipient (if a person other than the provider or the debtor) may give a
+written statement to the secured creditor objecting to the appropriation, and
+
+74.7.d.ii
+
+if such a statement is received by the secured creditor within 14 days
+beginning with the day that the person objecting received the notice, the
+appropriation is not to proceed.
+
+74.8
+
+If, within the period specified in  sub-paragraph (ii)  of  subsection (7) (d)
+, the secured creditor receives a written statement as mentioned in that
+subsection from a recipient of a notice other than the provider or the debtor—
+
+74.8.a
+
+the appropriation is not to proceed, and
+
+74.8.b
+
+the secured creditor must, by written statement and without delay, inform each
+of the other recipients of the notice that the appropriation is not
+proceeding.
+
+74.9
+
+The Scottish Ministers may by regulations modify  this section  so as to—
+
+74.9.a
+
+specify—
+
+74.9.a.i
+
+further persons, or descriptions of persons, on whom the secured creditor must
+serve a notice (being persons who have statutory duties in relation to the
+provider’s estate),
+
+74.9.a.ii
+
+cases when the requirement to serve a notice on a person specified by virtue
+of  sub-paragraph (i)  is to be disregarded,
+
+74.9.b
+
+require a notice under  subsection (5)  to be in, or as nearly as may be in,
+such form as is for the time being prescribed (and may in consequence remove
+any requirements in  this section  as to what such a notice must contain).
+
+###### Appropriation without prior agreement
+
+75
+
+75.1
+
+This section  applies in respect of property in relation to which the provider
+and the secured creditor have not reached agreement under  section 74 (1) .
+
+75.2
+
+Property may only be appropriated by virtue of  section 73 (1)  if the amount
+obtained by the appropriation bears a reasonable relationship to the market
+value of the property appropriated on the date of the appropriation.
+
+75.3
+
+Before exercising a right to appropriate property by virtue of  section 73 (1)
+, the secured creditor must serve a notice on—
+
+75.3.a
+
+the provider,
+
+75.3.b
+
+the debtor in the secured obligation (if a person other than the provider),
+
+75.3.c
+
+the holder of any other right in security over all or part of the property,
+and
+
+75.3.d
+
+any creditor who has executed diligence against all or part of the property.
+
+75.4
+
+But—
+
+75.4.a
+
+paragraph (c)  of  subsection (3)  is to be disregarded if the secured
+creditor does not know, and cannot reasonably be expected to know, of the
+right in security mentioned in that paragraph, and
+
+75.4.b
+
+paragraph (d)  of that subsection is to be disregarded if the secured creditor
+does not know, and cannot reasonably be expected to know, of the diligence
+executed as mentioned in that paragraph.
+
+75.5
+
+Any notice served under  subsection (3)  must—
+
+75.5.a
+
+identify the property to be appropriated,
+
+75.5.b
+
+specify the amount for the time being remaining due under the secured
+obligation,
+
+75.5.c
+
+specify the amount expected to be obtained by the appropriation, and
+
+75.5.d
+
+state that—
+
+75.5.d.i
+
+the recipient may give a written statement to the secured creditor objecting
+to the appropriation, and
+
+75.5.d.ii
+
+if such a statement is received by the secured creditor within 14 days
+beginning with the day that the person objecting received the notice, the
+appropriation is not to proceed.
+
+75.6
+
+If, within the period specified in  sub-paragraph (ii)  of  subsection (5) (d)
+, the secured creditor receives a written statement as mentioned in that
+subsection from a recipient of a notice—
+
+75.6.a
+
+the appropriation is not to proceed, and
+
+75.6.b
+
+the secured creditor must, by written statement and without delay, inform each
+of the other recipients of the notice that the appropriation is not
+proceeding.
+
+75.7
+
+The Scottish Ministers may by regulations modify  this section  so as to—
+
+75.7.a
+
+specify—
+
+75.7.a.i
+
+further persons, or descriptions of persons, on whom the secured creditor must
+serve a notice (being persons who have statutory duties in relation to the
+provider’s estate),
+
+75.7.a.ii
+
+cases when the requirement to serve a notice on a person specified by virtue
+of  sub-paragraph (i)  is to be disregarded,
+
+75.7.b
+
+require a notice under  subsection (3)  to be in, or as nearly as may be in,
+such form as is for the time being prescribed (and may in consequence remove
+any requirements in  this section  as to what such a notice must contain).
+
+###### Appropriation: unencumbered acquisition
+
+76
+
+Where a secured creditor appropriates property by virtue of  section 73 (1) ,
+the secured creditor acquires the property unencumbered by any right in
+security or any diligence.
+
+###### Application of proceeds from enforcement of pledge
+
+77
+
+77.1
+
+Any proceeds arising from the enforcement of a pledge are to be applied—
+
+77.1.a
+
+firstly, in payment of all expenses reasonably incurred by the secured
+creditor in connection with the enforcement (including any incurred under
+section 67 (2)  or  72 ), and
+
+77.1.b
+
+secondly, in payment of the amount due to—
+
+77.1.b.i
+
+the holder of any right in security over the property from which the proceeds
+arose, and
+
+77.1.b.ii
+
+any creditor who has executed diligence against that property, and
+
+77.1.c
+
+with the residue (if any) from the proceeds being paid to the provider.
+
+77.2
+
+Any payment made by virtue of  subsection (1) (b)  is to be made in conformity
+with the ranking of the right in security or, as the case may be, of the
+diligence.
+
+77.3
+
+But no such payment is to be made to—
+
+77.3.a
+
+the holder of a right in security which has priority in ranking over the
+pledge enforced, or
+
+77.3.b
+
+any creditor who has executed diligence which has such priority,
+
+unless that holder or creditor consented to the enforcement in question.
+
+77.4
+
+Where payment falls to be made, by virtue of  subsection (1) (b) , to more
+than one person with the same ranking but the proceeds are inadequate to
+enable those persons to be paid in full, their payments are to abate in equal
+proportions.
+
+77.5
+
+Where a question arises regarding to whom a payment under  this section  is to
+be made, the secured creditor must—
+
+77.5.a
+
+consign the amount of the payment (so far as ascertainable) in court for the
+person appearing to have the best right to that payment, and
+
+77.5.b
+
+lodge in court a statement of the amount consigned.
+
+77.6
+
+Where a consignation is made in pursuance of  subsection (5) (a) —
+
+77.6.a
+
+it operates as a payment of the amount due, and
+
+77.6.b
+
+a certificate of the court is sufficient evidence of that payment.
+
+77.7
+
+The secured creditor must, as soon as reasonably practicable after applying
+the proceeds arising from the enforcement, issue the persons mentioned in
+subsection (8)  with a written statement of how the proceeds have been applied
+under  this section .
+
+77.8
+
+The persons referred to in  subsection (7)  are—
+
+77.8.a
+
+the provider,
+
+77.8.b
+
+the debtor in the secured obligation (if a person other than the provider),
+and
+
+77.8.c
+
+any person who both—
+
+77.8.c.i
+
+is mentioned in  subsection (1) (b) , and
+
+77.8.c.ii
+
+has consented to the enforcement in question.
+
+77.9
+
+In a case where—
+
+77.9.a
+
+all or any of the property is let by the secured creditor by virtue of section
+70 (1) , or
+
+77.9.b
+
+the secured creditor grants a licence over all or any of it by virtue of
+section  71 (1) ,
+
+subsection (7)  applies in relation to any proceeds of the letting or
+licensing as if, for the words “as soon as reasonably practicable after
+applying the proceeds arising from the enforcement”, there were substituted
+“every month beginning with the month after the first proceeds arising from
+the enforcement are received” .
+
+77.10
+
+The Scottish Ministers may by regulations modify  this section  so as to
+specify further persons, or descriptions of persons, to whom the secured
+creditor must issue a written statement (being persons who have statutory
+duties in relation to the provider’s estate).
+
+###### Mandatory application for removal of an entry from the statutory pledges record
+
+78
+
+78.1
+
+This section  applies where a statutory pledge which has been registered is
+extinguished by virtue of—
+
+78.1.a
+
+the enforcement of the statutory pledge,
+
+78.1.b
+
+the enforcement of another right in security over the encumbered property of
+the statutory pledge, or
+
+78.1.c
+
+the enforcement of diligence against the encumbered property of the statutory
+pledge.
+
+78.2
+
+The secured creditor must, as soon as reasonably practicable after the
+enforcement of the statutory pledge or, as the case may be, becoming aware of
+the event mentioned in  paragraph (b)  or  (c)  of  subsection (1) , make an
+application under  section 96 (1)  for removal of the entry for the statutory
+pledge from the statutory pledges record.
+
+##### Liability for loss due to enforcement
+
+###### Liability for loss suffered by virtue of enforcement
+
+79
+
+79.1
+
+A person (“ P ”) is entitled to be compensated by a secured creditor for loss
+suffered in consequence of the secured creditor’s failure to comply with any
+obligation imposed on the secured creditor by any provision of  sections 64
+to  78 .
+
+79.2
+
+But the secured creditor has no liability under  subsection (1) —
+
+79.2.a
+
+in so far as P’s loss could have been avoided had P taken measures which it
+would have been reasonable for P to take, or
+
+79.2.b
+
+in so far as P’s loss was not reasonably foreseeable.
+
+##### Service of documents for purposes of 
+
+###### Service of documents for purposes of 
+
+80
+
+80.1
+
+In relation to the service of documents for the purposes of  this Chapter ,
+the provider and the secured creditor may agree (either or both)—
+
+80.1.a
+
+that the document may or must be served on a person by being sent to an
+address specified in the agreement (being an address other than is mentioned
+in subsection (4) of section 26 of the Interpretation and Legislative Reform
+(Scotland) Act 2010),
+
+80.1.b
+
+that service is to be by a method mentioned in subsection (2) of that section
+and specified in the agreement.
+
+80.2
+
+The agreement need not refer expressly to that section or to any provision of
+that section.
+
+80.3
+
+Any such agreement must be in writing.
+
+80.4
+
+Where there is such an agreement but service cannot be effected in accordance
+with it, the agreement is to be disregarded in applying section 26 of that Act
+of 2010 for the purposes of  this Chapter .
+
+#### Register of Statutory Pledges
+
+##### Register of Statutory Pledges
+
+###### The Register of Statutory Pledges
+
+81
+
+81.1
+
+There is to be a public register known as the Register of Statutory Pledges.
+
+81.2
+
+The register is to be under the management and control of the Keeper.
+
+81.3
+
+Subject to the provisions of this Act, the register is to be in such form as
+the Keeper thinks fit.
+
+81.4
+
+The Keeper must take such steps as appear reasonable to the Keeper to protect
+the register from—
+
+81.4.a
+
+interference,
+
+81.4.b
+
+unauthorised access, and
+
+81.4.c
+
+damage.
+
+##### Structure and contents of the register
+
+###### The parts of the register
+
+82
+
+The Keeper must make up and maintain, as parts of the register—
+
+82.a
+
+the statutory pledges record, and
+
+82.b
+
+the archive record.
+
+###### The statutory pledges record
+
+83
+
+83.1
+
+An entry in the statutory pledges record is to comprise—
+
+83.1.a
+
+the provider’s name and address,
+
+83.1.b
+
+where the provider is an individual, the provider’s date of birth,
+
+83.1.c
+
+any identifying number which the provider has and which, by virtue of RSP
+Rules, must be included in the entry,
+
+83.1.d
+
+the secured creditor’s name and address,
+
+83.1.e
+
+any identifying number which the secured creditor has and which, by virtue of
+RSP Rules, must be included in the entry,
+
+83.1.f
+
+where the secured creditor is not an individual, an address (which may be an
+email address) to which any request for information regarding the statutory
+pledge may be sent,
+
+83.1.g
+
+such description of the encumbered property as is required, or permitted, for
+the purposes of  this subsection  by RSP Rules,
+
+83.1.h
+
+a copy of the constitutive document of the statutory pledge,
+
+83.1.i
+
+the registration number allocated under  section 87 (1) (b)  to the entry,
+
+83.1.j
+
+where the statutory pledge has been amended in pursuance of  section 58 (6) ,
+a copy of the amendment document,
+
+83.1.k
+
+the date and time of registration of—
+
+83.1.k.i
+
+the statutory pledge, and
+
+83.1.k.ii
+
+any amendment to the statutory pledge,
+
+83.1.l
+
+any other information that is required under any other section of this Act,
+and
+
+83.1.m
+
+any other information that is specified for the purposes of  this subsection
+by RSP Rules.
+
+83.2
+
+The statutory pledges record is the totality of all such entries.
+
+###### The archive record
+
+84
+
+The archive record is the totality of—
+
+84.a
+
+all entries and copy documents transferred from the statutory pledges record
+under section  102 (2) (a)  or  (3) (c)  or by virtue of  section 95 (1) (a) ,
+
+84.b
+
+all copy documents included in the archive record under  section 102 (2) (c)
+or  (3) (b) ,
+
+84.c
+
+all copies of such other documents as the Keeper considers it appropriate to
+include in the archive record, and
+
+84.d
+
+any other information that is specified for the purposes of  this section  by
+RSP Rules.
+
+##### Registration process
+
+###### Order in which applications are to be dealt with
+
+85
+
+The Keeper must deal with—
+
+85.a
+
+applications for registration of a statutory pledge under  section 86 , and
+
+85.b
+
+applications for registration of an amendment to a statutory pledge under
+section 88 ,
+
+in the order in which they are received.
+
+###### Application for registration of statutory pledge
+
+86
+
+86.1
+
+A secured creditor may apply to the Keeper for registration of a statutory
+pledge.
+
+86.2
+
+The Keeper must accept the application if—
+
+86.2.a
+
+it is submitted with a copy of the constitutive document,
+
+86.2.b
+
+it contains all the information the Keeper requires in accordance with
+section 83  to be able to make up an entry for the statutory pledge under
+section 87 (1) ,
+
+86.2.c
+
+it conforms to such RSP Rules as relate to the application, and
+
+86.2.d
+
+either—
+
+86.2.d.i
+
+such fee as is payable for the registration is paid, or
+
+86.2.d.ii
+
+arrangements satisfactory to the Keeper are made for payment of that fee.
+
+86.3
+
+If the requirements of  subsection (2)  are not satisfied, the Keeper must
+reject the application and inform the applicant accordingly.
+
+###### Registration of statutory pledge
+
+87
+
+87.1
+
+On accepting an application made under  section 86 , the Keeper must—
+
+87.1.a
+
+make up an entry for the statutory pledge (from the constitutive document, the
+information provided in the application and the circumstances of
+registration),
+
+87.1.b
+
+allocate a registration number to the entry (based on the order in which
+applications are dealt with), and
+
+87.1.c
+
+maintain the entry in the statutory pledges record.
+
+87.2
+
+A statutory pledge is taken to be registered on the date and at the time
+entered for it for the purposes of  section 83 (1) (k) (i) .
+
+###### Application for registration of amendment
+
+88
+
+88.1
+
+A secured creditor may apply to the Keeper for registration of an amendment to
+a statutory pledge to increase the extent of the statutory pledge within the
+meaning of section 58(7).
+
+88.2
+
+The Keeper must accept the application if—
+
+88.2.a
+
+it is submitted with a copy of the amendment document,
+
+88.2.b
+
+it contains all the information the Keeper requires in accordance with
+section 83  to be able to revise the entry to which the application relates,
+
+88.2.c
+
+it conforms to such RSP Rules as relate to the application, and
+
+88.2.d
+
+either—
+
+88.2.d.i
+
+such fee as is payable for the registration is paid, or
+
+88.2.d.ii
+
+arrangements satisfactory to the Keeper are made for payment of that fee.
+
+88.3
+
+If the requirements of  subsection (2)  are not satisfied, the Keeper must
+reject the application and inform the applicant accordingly.
+
+###### Registration of amendment
+
+89
+
+89.1
+
+On accepting an application made under  section 88 , the Keeper must revise
+the entry for the statutory pledge to which the application relates in
+accordance with the application.
+
+89.2
+
+An amendment to a statutory pledge is taken to be registered on the date and
+at the time entered for the amendment for the purposes of  section 83 (1) (k)
+(ii) .
+
+###### Verification statement as to registration of statutory pledge or amendment
+
+90
+
+90.1
+
+After the registration of a statutory pledge under  section 87  or an
+amendment to a statutory pledge under  section 89 , the Keeper must issue a
+written statement verifying the registration to—
+
+90.1.a
+
+the secured creditor, and
+
+90.1.b
+
+the provider,
+
+but only if and to the extent that the application made under  section 86  or
+(as the case may be)  section 88  contains an email address for those persons.
+
+90.2
+
+That statement must—
+
+90.2.a
+
+include—
+
+90.2.a.i
+
+the date and time of the registration, and
+
+90.2.a.ii
+
+the registration number allocated to the entry to which the application
+relates, and
+
+90.2.b
+
+conform to such RSP Rules as relate to the statement.
+
+90.3
+
+Where a statement is issued under  subsection (1)  and is received by the
+secured creditor but not the provider, the provider may request a copy of it
+from the secured creditor.
+
+90.4
+
+Within 21 days beginning with the day a request is made under  subsection (3)
+, the secured creditor must supply the provider with the copy requested.
+
+##### Effective registration
+
+###### Effective registration of statutory pledge
+
+91
+
+91.1
+
+The registration of a statutory pledge is ineffective if—
+
+91.1.a
+
+the entry made up for the statutory pledge in the statutory pledges record—
+
+91.1.a.i
+
+does not include a copy of the constitutive document, or
+
+91.1.a.ii
+
+is, at the time of registration, seriously misleading as a result of an
+inaccuracy or inaccuracies in it, or
+
+91.1.b
+
+the constitutive document is invalid.
+
+91.2
+
+But  subsection (1) (a) (ii)  is subject to  section 94 (1) (c)  and  (d) .
+
+91.3
+
+Where the registration of a statutory pledge is ineffective by virtue of
+subsection (1) , it becomes effective if and when the entry is corrected.
+
+###### Effective registration of amendment to statutory pledge
+
+92
+
+92.1
+
+The registration of an amendment to a statutory pledge is ineffective if—
+
+92.1.a
+
+the entry for the statutory pledge in the statutory pledges record—
+
+92.1.a.i
+
+does not include a copy of the amendment document, or
+
+92.1.a.ii
+
+is, in consequence of the amendment, seriously misleading as a result of an
+inaccuracy or inaccuracies in it, or
+
+92.1.b
+
+the amendment document is invalid.
+
+92.2
+
+But  subsection (1) (a) (ii)  is subject to  section 94 (1) (c)  and  (d) .
+
+92.3
+
+Where the registration of an amendment to a statutory pledge is ineffective by
+virtue of  subsection (1) , it becomes effective if and when the entry as
+amended is corrected.
+
+###### Supervening inaccuracies: protection of third parties
+
+93
+
+93.1
+
+Subsection (5) applies where, at some time after a statutory pledge is
+registered effectively—
+
+93.1.a
+
+a person acquires, for value, in good faith and exercising reasonable care—
+
+93.1.a.i
+
+property which is encumbered under the pledge, or
+
+93.1.a.ii
+
+a right in such property, and
+
+93.1.b
+
+at the time the person acquires that property or right (“the acquired
+property”), any one of condition A, condition B or condition C is met.
+
+93.2
+
+Condition A is that the entry for the pledge in the statutory pledges record
+has been incorrectly removed from the statutory pledges record (whether or not
+on transfer of that entry to the archive record) and remains incorrectly
+absent from the record.
+
+93.3
+
+Condition B is that—
+
+93.3.a
+
+the acquired property does not have an identifying number which, by virtue of
+RSP Rules, must be used in identifying it, and
+
+93.3.b
+
+the entry for the pledge in the statutory pledges record is seriously
+misleading in respect of the acquired property.
+
+93.4
+
+Condition C is that—
+
+93.4.a
+
+the acquired property has an identifying number which, by virtue of RSP Rules,
+must be used in identifying it, and
+
+93.4.b
+
+if a search of the statutory pledges record were to be carried out for that
+number using the search facility provided under section 104, it would not
+disclose the entry.
+
+93.5
+
+On the acquisition, the statutory pledge is extinguished in relation to the
+acquired property.
+
+93.6
+
+For the purposes of  subsection (1) (a) , the circumstances in which a person
+will not be taken to be in good faith and exercising reasonable care include
+where the person fails to carry out a search of the statutory pledges record
+in respect of the acquisition.
+
+###### Seriously misleading inaccuracies in the statutory pledges record
+
+94
+
+94.1
+
+In determining for the purposes of sections  91 (1) (a) (ii) ,  92 (1) (a)
+(ii)  and  93 (3)  whether an entry in the statutory pledges record is
+seriously misleading as a result of an inaccuracy or inaccuracies in it—
+
+94.1.a
+
+the entry is seriously misleading where—
+
+94.1.a.i
+
+any of subsections  (2)  to  (6)  apply, or
+
+94.1.a.ii
+
+despite  sub-paragraph (i)  not being satisfied, the inaccuracy or
+inaccuracies are such that a reasonable person would be seriously misled by
+the entry,
+
+94.1.b
+
+any inaccuracy is to be disregarded to the extent that it appears in the
+constitutive document, or in any amendment document, but is not replicated
+elsewhere in the entry,
+
+94.1.c
+
+where the entry is seriously misleading in respect of only part of the
+encumbered property, that is not to be taken to affect the entry in its
+application to the rest of the property,
+
+94.1.d
+
+where the entry is seriously misleading in respect of a co-provider or co-
+secured creditor but not in respect of both (or all) co-providers or co-
+secured creditors, that is not to be taken to affect the entry in its
+application to a co-provider or co-secured creditor in respect of whom the
+entry is not seriously misleading.
+
+94.2
+
+This subsection  applies where—
+
+94.2.a
+
+the provider is a person required by RSP Rules to be identified in the
+statutory pledges record by an identifying number, and
+
+94.2.b
+
+if a search of the record were to be carried out for that number, using the
+search facility provided under  section 104 , it would not disclose the entry.
+
+94.3
+
+This subsection  applies where—
+
+94.3.a
+
+the provider is not a person required by RSP Rules to be identified in the
+statutory pledges record by an identifying number, and
+
+94.3.b
+
+if a search of the record were to be carried out, using the search facility
+provided under  section 104 , for—
+
+94.3.b.i
+
+the provider’s proper name, or
+
+94.3.b.ii
+
+the provider’s proper name together with the provider’s month and year of
+birth,
+
+it would not disclose the entry.
+
+94.4
+
+This subsection  applies—
+
+94.4.a
+
+for the purposes of  sections 91 (1) (a) (ii)  and  92 (1) (a) (ii)  only, and
+
+94.4.b
+
+where the entry inaccurately reflects the secured creditor’s proper name at
+the date the application for registration was made in such a way that a
+reasonable person would be seriously misled.
+
+94.5
+
+This subsection  applies where—
+
+94.5.a
+
+the encumbered property is or includes property required by RSP Rules to be
+identified in the statutory pledges record by an identifying number, and
+
+94.5.b
+
+if a search of the record were to be carried out for that number, using the
+search facility provided under  section 104 , it would not disclose the entry.
+
+94.6
+
+This subsection  applies where—
+
+94.6.a
+
+there is a requirement, by virtue of  section 83 (1) (g) , for an entry in the
+statutory pledges record to specify the type of property encumbered, and
+
+94.6.b
+
+the entry—
+
+94.6.b.i
+
+does not describe the property as being of a type that it is, or
+
+94.6.b.ii
+
+fails to allocate a type to the property.
+
+94.7
+
+In the application of  this section  to co-providers and co-secured creditors—
+
+94.7.a
+
+subsections  (2)  and  (3)  apply in relation to a co-provider as they apply
+in relation to a provider,
+
+94.7.b
+
+subsection (4)  applies in relation to a co-secured creditor as it applies in
+relation to a secured creditor.
+
+94.8
+
+The Scottish Ministers may by regulations modify  this section  to make
+provision about what does, and what does not, make an entry seriously
+misleading for the purposes of sections  91 (1) (a) (ii) ,  92 (1) (a) (ii)
+and  93 (3)  and how that is to be determined.
+
+94.9
+
+In  this section , the “proper name” of a provider or secured creditor means
+the person’s name in the form determined in accordance with RSP Rules.
+
+##### Duration
+
+###### Power of Scottish Ministers in relation to duration of statutory pledge
+
+95
+
+95.1
+
+The Scottish Ministers may by regulations—
+
+95.1.a
+
+specify a period from the creation or renewal of an entry in the statutory
+pledges record at the end of which the statutory pledge to which the entry
+relates will be extinguished and the entry removed, unless during that period
+the entry has been—
+
+95.1.a.i
+
+renewed by virtue of paragraph  (b) , or
+
+95.1.a.ii
+
+removed, and
+
+95.1.b
+
+enable an application to be made by the secured creditor for the renewal of an
+entry which would otherwise fall to be removed by virtue of  paragraph (a) .
+
+95.2
+
+Before laying a draft of a Scottish statutory instrument containing
+regulations under  subsection (1)  before the Scottish Parliament, the
+Scottish Ministers must consult the Keeper.
+
+##### Corrections
+
+###### Application by secured creditor for correction of statutory pledges record
+
+96
+
+96.1
+
+A relevant person may apply to the Keeper for an entry in the statutory
+pledges record to be corrected.
+
+96.2
+
+The Keeper must accept the application if—
+
+96.2.a
+
+it conforms to such RSP Rules as relate to the application, and
+
+96.2.b
+
+either—
+
+96.2.b.i
+
+such fee as is payable for the correction is paid, or
+
+96.2.b.ii
+
+arrangements satisfactory to the Keeper are made for payment of that fee.
+
+96.3
+
+If the requirements of  subsection (2)  are not satisfied, the Keeper must
+reject the application and inform the applicant accordingly.
+
+96.4
+
+For the purposes of  subsection (1) , “relevant person”—
+
+96.4.a
+
+means the person who is the secured creditor in relation to the entry (whether
+or not identified as such in the entry), and
+
+96.4.b
+
+where the statutory pledge has been assigned, also includes the person who was
+the secured creditor before the assignation.
+
+###### Correction of record in response to application under 
+
+97
+
+97.1
+
+On accepting an application made under  section 96 , the Keeper must correct
+the entry in the statutory pledges record accordingly.
+
+97.2
+
+After the correction of an entry under  subsection (1) , the Keeper must issue
+a written statement verifying the correction to—
+
+97.2.a
+
+the applicant, and
+
+97.2.b
+
+the provider,
+
+but only if and to the extent that the application contains an email address
+for those persons.
+
+97.3
+
+That statement must—
+
+97.3.a
+
+include—
+
+97.3.a.i
+
+the date and time of the correction, and
+
+97.3.a.ii
+
+the registration number allocated to the entry to which the correction
+relates, and
+
+97.3.b
+
+conform to such RSP Rules as relate to the statement.
+
+97.4
+
+Where a statement is issued under  subsection (2)  and is received by the
+applicant but not the provider, the provider may request a copy of it from the
+applicant.
+
+97.5
+
+Within 21 days beginning with the day a request is made under  subsection (4)
+, the applicant must supply the provider with the copy requested.
+
+###### Demand that application for correction be made under 
+
+98
+
+98.1
+
+A person may, where the conditions in  subsection (2)  or  (3)  are met, issue
+a demand to the person identified in an entry in the statutory pledges record
+as the secured creditor (the “registered creditor”) that the registered
+creditor apply to the Keeper under  section 96  for the entry to be corrected.
+
+98.2
+
+The conditions in  this subsection  are that the person—
+
+98.2.a
+
+is identified as the provider, or as a co-provider, of the statutory pledge in
+the entry, and
+
+98.2.b
+
+either—
+
+98.2.b.i
+
+claims not to be either the provider, or a co-provider, of the statutory
+pledge, or
+
+98.2.b.ii
+
+considers that all or part of the property identified as the encumbered
+property in the entry is not encumbered property.
+
+98.3
+
+The conditions in  this subsection  are that the person—
+
+98.3.a
+
+has a right in property identified as the encumbered property in the entry,
+and
+
+98.3.b
+
+considers that all or part of the property is not encumbered property.
+
+98.4
+
+A demand issued under  subsection (1)  must—
+
+98.4.a
+
+be in a prescribed form, and
+
+98.4.b
+
+specify a period (being a period of not less than 21 days after it is
+received) within which compliance with it is sought.
+
+98.5
+
+A registered creditor may not charge a fee for compliance with a demand under
+subsection (1) .
+
+98.6
+
+If the registered creditor fails to comply with the demand within the period
+specified by virtue of  subsection (4) (b) , the person who made the demand
+may apply to the Keeper for the statutory pledges record to be corrected.
+
+###### Response to application for correction under 
+
+99
+
+99.1
+
+The Keeper must accept an application made under  section 98 (6)  if—
+
+99.1.a
+
+it conforms to such RSP Rules as relate to the application, and
+
+99.1.b
+
+either—
+
+99.1.b.i
+
+such fee as is payable for the application is paid, or
+
+99.1.b.ii
+
+arrangements satisfactory to the Keeper are made for payment of that fee.
+
+99.2
+
+If the requirements of  subsection (1)  are not satisfied, the Keeper must
+reject the application and inform the applicant accordingly.
+
+99.3
+
+On accepting an application made under  section 98 (6) , the Keeper must—
+
+99.3.a
+
+serve a notice on the registered creditor stating that the Keeper intends to
+correct the statutory pledges record on a date specified in the notice (being
+a date no fewer than 21 days after the date of the notice),
+
+99.3.b
+
+note on the entry to which the application relates that the application has
+been received and include in that note—
+
+99.3.b.i
+
+the details of the correction sought, and
+
+99.3.b.ii
+
+the date on which the application was received,
+
+99.3.c
+
+issue a written statement to the applicant verifying that the application has
+been received, and
+
+99.3.d
+
+notify the person identified in the entry as the provider (if a different
+person from the applicant) that the notice mentioned in  paragraph (a)  has
+been served on the registered creditor.
+
+99.4
+
+The registered creditor—
+
+99.4.a
+
+may, before the date specified under  subsection (3) (a) , apply to the court
+opposing the making of the correction, and
+
+99.4.b
+
+on making any such application, must notify the Keeper accordingly.
+
+99.5
+
+Where the registered creditor is not the secured creditor in relation to the
+statutory pledge in the entry—
+
+99.5.a
+
+the registered creditor must, in so far as it is reasonable and practicable to
+do so, promptly notify the secured creditor of the notice received under
+subsection (3)(a), and
+
+99.5.b
+
+subsection (4) applies to the secured creditor as it applies to the registered
+creditor.
+
+99.6
+
+On an application under  subsection (4) (a) , the court may—
+
+99.6.a
+
+if satisfied that the correction is not justified, direct that no change be
+made to the record in consequence of the application under  section 98 (6) ,
+or
+
+99.6.b
+
+if satisfied that the correction is justified in whole or in part, direct that
+the record be corrected accordingly.
+
+99.7
+
+But the court is not to make a direction under  subsection (6)  unless
+satisfied that, before the date specified by virtue of  subsection (3) (a) ,
+the Keeper received notification under  subsection (4) (b)  of the application
+to the court.
+
+99.8
+
+If the Keeper does not receive, before the date specified by virtue of
+subsection (3) (a) , notification under  subsection (4) (b)  of an application
+to the court, the Keeper is on that date to make the correction.
+
+99.9
+
+In  this section , “ registered creditor ” has the same meaning as in  section
+98 .
+
+###### Correction of the statutory pledges record at instance of the court or the Keeper
+
+100
+
+100.1
+
+Where a court determines in any proceedings that the statutory pledges record
+is inaccurate, the court—
+
+100.1.a
+
+must direct the Keeper to correct the record, and
+
+100.1.b
+
+may give the Keeper any further direction it considers necessary in connection
+with the correction.
+
+100.2
+
+Subsection (3)  applies where the Keeper becomes aware of a manifest
+inaccuracy in the statutory pledges record other than—
+
+100.2.a
+
+as a result of a direction under  subsection (1) ,
+
+100.2.b
+
+where an application has been made under section  96 (1)  or  98 (6)  in
+respect of the inaccuracy, or
+
+100.2.c
+
+where the Keeper considers that—
+
+100.2.c.i
+
+such an application could reasonably be made in respect of the inaccuracy, and
+
+100.2.c.ii
+
+the inaccuracy is not attributable to the Keeper.
+
+100.3
+
+The Keeper must—
+
+100.3.a
+
+correct the record if what is needed to correct it is manifest,
+
+100.3.b
+
+if what is needed to correct it is not manifest, note the inaccuracy on the
+entry in question.
+
+###### Meaning of “inaccuracy” and how a correction is made
+
+101
+
+101.1
+
+There is an “inaccuracy” in the statutory pledges record where the record
+misstates what the position is, in law or in fact, in relation to a statutory
+pledge.
+
+101.2
+
+A correction of the statutory pledges record—
+
+101.2.a
+
+may relate to an inaccuracy—
+
+101.2.a.i
+
+which has existed since an entry in the record was made up, or
+
+101.2.a.ii
+
+which has arisen due to circumstances that have occurred since the submission
+of the application in respect of which the entry was made up, and
+
+101.2.b
+
+may involve—
+
+101.2.b.i
+
+the removal of an entry,
+
+101.2.b.ii
+
+the removal of information included in an entry,
+
+101.2.b.iii
+
+the amendment of, or an addition to, the information, or replacement of a copy
+document, included in an entry,
+
+101.2.b.iv
+
+the restoration of information, or of a copy document, to an entry,
+
+101.2.b.v
+
+the restoration of an entry (whether or not by transferring it from the
+archive record to the statutory pledges record).
+
+101.3
+
+A correction is taken to be made on the date and at the time entered for it in
+the register in pursuance of a provision of  this Part .
+
+###### Correction of the statutory pledges record: procedure
+
+102
+
+102.1
+
+This section  applies where the Keeper corrects the statutory pledges record
+by virtue of section  97 (1) ,  99 (6) (b)  or  (8)  or  100 (1) (a)  or  (3)
+(a) .
+
+102.2
+
+Where the Keeper corrects the statutory pledges record by removing an entry
+from the statutory pledges record, the Keeper must—
+
+102.2.a
+
+transfer the entry to the archive record,
+
+102.2.b
+
+note on the transferred entry—
+
+102.2.b.i
+
+the section by virtue of which the transfer is made, and
+
+102.2.b.ii
+
+the details of the correction (including the date and time of the removal),
+and
+
+102.2.c
+
+include in the archive record a copy of any document which discloses, or
+contributes to disclosing, the inaccuracy which is the subject of the
+correction.
+
+102.3
+
+Where the Keeper corrects the record by restoring an entry, by restoring,
+removing or amending information included in an entry or by restoring or
+replacing a copy document, the Keeper must—
+
+102.3.a
+
+note on the entry that it has been corrected and the details of the correction
+(including the date and time of the correction),
+
+102.3.b
+
+include in the archive record a copy of any document which discloses, or
+contributes to disclosing, the inaccuracy which is the subject of the
+correction, and
+
+102.3.c
+
+in the case of the replacement of the copy document, transfer the replaced
+copy to the archive record.
+
+102.4
+
+Having corrected the record other than by virtue of section  97 (1) , the
+Keeper must notify the following persons (in so far as it is reasonable and
+practicable to do so) that the correction has been made—
+
+102.4.a
+
+every person specified for the purposes of  this subsection  by RSP Rules, and
+
+102.4.b
+
+any other person who appears to the Keeper to be affected by it materially.
+
+102.5
+
+A failure to comply with  subsection (2) (c) ,  (3) (b)  or  (4)  does not
+affect the validity of the correction of the record.
+
+###### Proceedings involving the accuracy of the statutory pledges record
+
+103
+
+The Keeper is entitled to appear and be heard in any civil proceedings,
+whether before a court or tribunal, in which—
+
+103.a
+
+the accuracy of the statutory pledges record, or
+
+103.b
+
+what is needed to correct an inaccuracy in the record,
+
+is put in question.
+
+##### Searches and extracts
+
+###### Searching the statutory pledges record
+
+104
+
+104.1
+
+The Keeper must provide a facility by which the statutory pledges record may
+be searched.
+
+104.2
+
+That search facility must allow the statutory pledges record to be searched by
+reference to, and only by reference to—
+
+104.2.a
+
+any of the following information in the entries contained in that record—
+
+104.2.a.i
+
+the names of providers, which must be capable of being searched with and
+without the months and years of birth of providers who are individuals,
+
+104.2.a.ii
+
+the identifying numbers of providers required by RSP Rules to be identified in
+the statutory pledges record by such a number,
+
+104.2.a.iii
+
+if RSP Rules require the encumbered property to be identified (whether by an
+identifying number or in some other way), by reference to such identification,
+
+104.2.b
+
+registration numbers allocated, under  section 87 (1) (b) , to entries in that
+record, or
+
+104.2.c
+
+any other factor, or characteristic, specified for the purposes of  this
+paragraph  by RSP Rules.
+
+104.3
+
+Subject to any restrictions imposed under RSP Rules, a person may search the
+statutory pledges record using the search facility provided under  subsection
+(1)  provided that either—
+
+104.3.a
+
+such fee as is payable for the search is paid, or
+
+104.3.b
+
+arrangements satisfactory to the Keeper are made for payment of that fee. 
+
+104.4
+
+But no fee is payable for a search of the statutory pledges record which is
+carried out on behalf of an individual by a not-for-profit money adviser
+(being an adviser who does not charge individuals for the adviser’s services).
+
+104.5
+
+The Scottish Ministers may, by regulations, make further provision about the
+meaning of “ not-for-profit money adviser ” for the purposes of subsection
+(4).
+
+###### Admissibility and evidential status of search results
+
+105
+
+105.1
+
+A copy of a search result (in printed or electronic form) which relates to a
+search carried out by means of a search facility provided by the Keeper is
+admissible in evidence.
+
+105.2
+
+In the absence of evidence to the contrary—
+
+105.2.a
+
+where such a search result purports to show an entry in the statutory pledges
+record, it is sufficient proof of—
+
+105.2.a.i
+
+the registration of the statutory pledge, or an amendment to the entry in the
+statutory pledges record, to which the result relates,
+
+105.2.a.ii
+
+where applicable, a correction of the entry in the statutory pledges record to
+which the result relates, and
+
+105.2.a.iii
+
+the date and time of such registration or, as the case may be, correction, and
+
+105.2.b
+
+where such a search result purports not to show an entry in the statutory
+pledges record, it is sufficient proof of an entry in the statutory pledges
+record not being disclosed at the date and time of such search by means of the
+search carried out.
+
+###### Extracts and their evidential status
+
+106
+
+106.1
+
+A person may apply to the Keeper for an extract of an entry in the register.
+
+106.2
+
+The Keeper must issue the extract if—
+
+106.2.a
+
+such fee as is payable for issuing it is paid, or
+
+106.2.b
+
+arrangements satisfactory to the Keeper are made for payment of that fee.
+
+106.3
+
+But if, on application under subsection (1), the applicant requests an extract
+as at a specific date and time, the Keeper need comply with the request only
+to the extent that it is reasonably practicable to do so.
+
+106.4
+
+The Keeper may validate the extract as the Keeper considers appropriate.
+
+106.5
+
+The Keeper may issue the extract as an electronic document unless the
+applicant requests that it be issued as a traditional document.
+
+106.6
+
+The extract is to be accepted for all purposes as sufficient evidence of the
+contents of the entry as at—
+
+106.6.a
+
+in the case of an extract requested as mentioned in subsection (3), the date
+and time to which the extract relates (being a date and time specified in the
+extract), and
+
+106.6.b
+
+in any other case, the date on which and the time at which the extract is
+issued (being a date and time specified in the extract).
+
+##### Requests for information
+
+###### Secured creditor’s duty to respond to request for information
+
+107
+
+107.1
+
+An entitled person may ask the person identified in an entry in the statutory
+pledges record as the secured creditor (the “registered creditor”) to provide
+the entitled person with the following—
+
+107.1.a
+
+if the registered creditor is the secured creditor, with a written statement
+as to whether or not property specified by the entitled person is, or is part
+of, the encumbered property,
+
+107.1.b
+
+if the registered creditor is no longer the secured creditor, with—
+
+107.1.b.i
+
+information to that effect,
+
+107.1.b.ii
+
+the name and address of the person to whom the registered creditor assigned
+the statutory pledge, and
+
+107.1.b.iii
+
+where relevant and in so far as known, the names and addresses of subsequent
+assignees, or
+
+107.1.c
+
+if the registered creditor has never been the secured creditor, with
+information to that effect.
+
+107.2
+
+The following are entitled persons for the purposes of  this section —
+
+107.2.a
+
+a person who has a right in the property so specified,
+
+107.2.b
+
+a person who has a right to execute diligence against the property so
+specified (or who is authorised to execute a charge for payment and will have
+the right to execute diligence against that property if and when the days of
+charge expire without payment), and
+
+107.2.c
+
+a person who is not mentioned in  paragraph (a)  or  (b)  but who has the
+consent of the person identified in the entry as the provider to make a
+request under  subsection (1) .
+
+107.3
+
+The registered creditor must, within 21 days beginning with the day of
+receiving a request under  subsection (1) , comply with it unless—
+
+107.3.a
+
+it is manifest that the registration is ineffective in relation to the
+statutory pledge to which the request relates,
+
+107.3.b
+
+it is manifest from the entry for the statutory pledge that the property
+specified under  subsection (1)  by the entitled person is not encumbered by
+the pledge, or
+
+107.3.c
+
+both—
+
+107.3.c.i
+
+the registered creditor has, within the period of 3 months ending with the day
+of receipt of the request, complied with a request under  subsection (1)  from
+the same person and in relation to the same property, and
+
+107.3.c.ii
+
+the information contained in the statement issued in relation to the earlier
+request remains correct.
+
+107.4
+
+The registered creditor may recover from the entitled person any costs
+reasonably incurred in complying with the request.
+
+107.5
+
+On the application of the registered creditor, the court may by order—
+
+107.5.a
+
+exempt the registered creditor from complying with a request under  subsection
+(1)  or such part of the request as it specifies in the order, or
+
+107.5.b
+
+extend the period within which the registered creditor must comply with the
+request by such number of days as it specifies in the order,
+
+if satisfied that in all the circumstances it would be reasonable to do so.
+
+107.6
+
+If, on the application of the entitled person, the court is satisfied that the
+registered creditor has, without reasonable excuse, failed to comply with
+subsection (3) , it may by order require the registered creditor to comply
+with the request within 14 days or such other period (which may be longer or
+shorter than 14 days) as the court considers appropriate.
+
+107.7
+
+This section  applies in relation to any person whose name and address have
+been provided to an entitled person by virtue of  subsection (1) (b)  as it
+applies to the registered creditor.
+
+107.8
+
+The Scottish Ministers may by regulations modify  this section  so as to
+specify further persons, or descriptions of persons, who are entitled persons
+for the purposes of  this section .
+
+###### Acquisition of property confirmed by creditor not to be encumbered property
+
+108
+
+108.1
+
+Subsection  (2)  applies where a person who is an entitled person for the
+purposes of  section 107 —
+
+108.1.a
+
+makes a request under  subsection (1)  of that section,
+
+108.1.b
+
+receives a response from the person of whom the request was made, in the form
+of a statement of the type mentioned in  paragraph (a)  of that subsection,
+advising that the property specified under that subsection by the entitled
+person is neither the encumbered property nor part of that property, and
+
+108.1.c
+
+within 3 months beginning with the date of being so advised acquires in good
+faith—
+
+108.1.c.i
+
+the property so specified (or any part of it), or
+
+108.1.c.ii
+
+a right in that property (or part).
+
+108.2
+
+On that acquisition, the statutory pledge is extinguished in relation to the
+property (or part).
+
+##### Entitlement to compensation
+
+###### Liability of Keeper
+
+109
+
+109.1
+
+A person is entitled to be compensated by the Keeper for loss suffered in
+consequence of—
+
+109.1.a
+
+an inaccuracy in the statutory pledges record to the extent that it is
+attributable to the making up, maintenance or operation of the register
+(including an attempted correction of it),
+
+109.1.b
+
+the issue, under  section 90 (1)  or  97 (2) , of a written statement which is
+incorrect,
+
+109.1.c
+
+the service, under  section 102 (4) , of a notification which is incorrect,
+
+109.1.d
+
+a search result which—
+
+109.1.d.i
+
+relates to a search of the statutory pledges record carried out by means of a
+search facility provided by the Keeper,
+
+109.1.d.ii
+
+ought (as a result of the search terms used) to reflect accurately the
+contents of the statutory pledges record at the time the search was made, and
+
+109.1.d.iii
+
+does not accurately reflect those contents,
+
+109.1.e
+
+the issue, under  section 106 , of an extract which is not a true extract,
+
+109.1.f
+
+an application being accepted or rejected in error,
+
+109.1.g
+
+an attempt to make an application, which the Keeper would otherwise have
+accepted, failing as a result of an error in the system the Keeper has for
+accepting applications, or
+
+109.1.h
+
+applications being dealt with otherwise than in the order in which they are
+received.
+
+109.2
+
+But the Keeper has no liability under  subsection (1) —
+
+109.2.a
+
+in so far as the person’s loss could have been avoided had the person taken
+measures which it would have been reasonable for the person to take,
+
+109.2.b
+
+in so far as the person’s loss was not reasonably foreseeable, or
+
+109.2.c
+
+for non-patrimonial loss.
+
+109.3
+
+For the avoidance of doubt, an inaccuracy in information included in an entry
+in the statutory pledges record when that entry is made up under  section 87
+(1) (a) , revised under  section 89 (1)  or corrected by virtue of  section 97
+(1) ,  99 (6) (b)  or  (8)  or  100 (1) (a)  or  (3) (a)  does not fall within
+subsection (1) (a)  to the extent that the Keeper—
+
+109.3.a
+
+has been misled into making the inaccuracy, and
+
+109.3.b
+
+reasonably believed the information to be accurate.
+
+109.4
+
+For the purposes of  subsection (3) , the circumstances where the Keeper is
+entitled to reasonably believe information to be accurate include those where
+it is provided—
+
+109.4.a
+
+in connection with an application to which the entry relates, or
+
+109.4.b
+
+by the court.
+
+###### Liability of certain other persons
+
+110
+
+110.1
+
+A person (“ P ”) is entitled to be compensated in the following circumstances—
+
+110.1.a
+
+where P suffers loss in consequence of an inaccuracy in an entry in the
+statutory pledges record then, to the extent that it is not attributable to
+the Keeper, P is entitled to be compensated for that loss by—
+
+110.1.a.i
+
+the person who made the application for registration which gave rise to the
+inaccurate entry if that person failed to take reasonable care in making it,
+or
+
+110.1.a.ii
+
+where the inaccurate entry arises from the attempted correction of an apparent
+inaccuracy, the person who notified the Keeper of the apparent inaccuracy if
+that person failed to take reasonable care in doing so,
+
+110.1.b
+
+where P suffers loss in consequence of an inaccuracy in information supplied
+in response to a request under  section 107 (1) , P is entitled to be
+compensated for that loss by the person who supplied the information if that
+person failed to take reasonable care in supplying it, or
+
+110.1.c
+
+where P suffers loss in consequence of a failure, without reasonable excuse,
+to comply with a request in accordance with  section 107 (3) , P is entitled
+to be compensated for that loss by the person whose failure it was.
+
+110.2
+
+But a person has no liability under  subsection (1) —
+
+110.2.a
+
+in so far as P’s loss could have been avoided had P taken measures which it
+would have been reasonable for P to take,
+
+110.2.b
+
+in so far as P’s loss was not reasonably foreseeable, or
+
+110.2.c
+
+for non-patrimonial loss.
+
+##### Rules
+
+###### Rules
+
+111
+
+111.1
+
+The Scottish Ministers may by regulations make rules (“RSP Rules”)—
+
+111.1.a
+
+about the making up and keeping of the register,
+
+111.1.b
+
+about the procedure in relation to—
+
+111.1.b.i
+
+applications for registration under  section 86 (1)  or  88 (1) , or
+
+111.1.b.ii
+
+applications for corrections under  section 96 (1)  or  98 (6) ,
+
+111.1.c
+
+about searches in the register and the results of those searches,
+
+111.1.d
+
+about the required form and content of any document or information to be used
+in relation to the register,
+
+111.1.e
+
+requiring there to be entered in the statutory pledges record or the archive
+record such information as is specified in the rules, or
+
+111.1.f
+
+regarding other matters in relation to registration under  this Part , being
+matters for which the Scottish Ministers consider it necessary or expedient to
+provide in order to give full effect to the purposes of  this Part .
+
+111.2
+
+RSP Rules under  subsection (1)  may, in particular, include provision—
+
+111.2.a
+
+about the identification, in any application and in the register, of any
+person or property, including—
+
+111.2.a.i
+
+how the proper form of a person’s name is to be determined, and
+
+111.2.a.ii
+
+where the person or property has an identifying number (whether of numerals or
+of letters and numerals) allocated to the person or property, whether that
+number must be used in identifying the person or property,
+
+111.2.b
+
+about the nature of the address of the provider or the secured creditor to be
+included in an entry in the register,
+
+111.2.c
+
+about the degree of precision with which time is to be recorded in the
+register, 
+
+111.2.d
+
+about information which, though contained in a constitutive document or
+amendment document, need not be included in a copy of that document submitted
+with an application under section  86 (1)  or  88 (1) ,
+
+111.2.e
+
+about whether a signature contained in a constitutive document or amendment
+document need be included in a copy of that document so submitted,
+
+111.2.f
+
+about information which, though contained in the register, is not to be—
+
+111.2.f.i
+
+available to persons searching it, or
+
+111.2.f.ii
+
+included in any extract issued under  section 106 ,
+
+111.2.g
+
+about when the register is open for—
+
+111.2.g.i
+
+registration,
+
+111.2.g.ii
+
+searches.
+
+111.3
+
+Before laying a draft of a Scottish statutory instrument containing
+regulations under  subsection (1)  before the Scottish Parliament, the
+Scottish Ministers must consult the Keeper.
+
+#### Miscellaneous and Interpretation of 
+
+##### Miscellaneous
+
+###### Competence of creating an agricultural charge
+
+112
+
+On the coming into force of  this section , it ceases to be competent to
+create an agricultural charge (“agricultural charge” having the meaning given
+by section 5 of the Agricultural Credits (Scotland) Act 1929).
+
+##### Interpretation of 
+
+###### Interpretation of 
+
+113
+
+113.1
+
+In  this Part  (except where the context requires otherwise)—
+
+      “ amendment document ” has the meaning given by  section 58 (1) ,
+“ the archive record ” is to be construed in accordance with  section 84 ,
+“ corporeal moveable property ” does not include money,           “ correction
+”, in relation to the statutory pledges record, is to be construed in
+accordance with  section 101 (2) ,           “ encumbered property ” has the
+meaning given by  section 43 (2) ,           “ inaccuracy ”, in relation to
+the statutory pledges record, is to be construed in accordance with  section
+101 (1) ,           “ money ” has the meaning given by section 175(1) of the
+Bankruptcy and Diligence etc. (Scotland) Act 2007,           “ pledge ”, in
+sections  64  to  77 , is to be construed in accordance with  section 63 ,
+“ pledge enforcement notice ” has the meaning given by  section 65 (1) ,
+“ provider ”—         means the person who grants a pledge, and
+includes or, as the case may be, consists of any successor in title, or
+representative, of a provider (unless the successor or representative is a
+person who, by virtue of  Chapter 1 , had acquired the encumbered property
+unencumbered by the statutory pledge in question),                 “ the
+register ” means the Register of Statutory Pledges,           “ right in
+security ”—         means a right in security over property (including a
+floating charge), but           does not include a right to execute diligence,
+“ RSP Rules ” has the meaning given by  section 111 (1) ,           “ secured
+creditor ”—         means the person in whose favour a pledge is granted, and
+includes or, as the case may be, consists of any successor in title, or
+representative, of a secured creditor,                 “ secured obligation ”
+is to be construed in accordance with  section 43 (1) ,           “ statutory
+pledge ” has the meaning given by  section 42 (4) , and           “ the
+statutory pledges record ” is to be construed in accordance with  section 83
+(2) .
+
+113.2
+
+Where two or more persons are co-providers or co-secured creditors in relation
+to a statutory pledge, any reference in this Act to the provider or secured
+creditor (as the case may be) is, unless the context requires otherwise, a
+reference to all of those persons.
+
+113.3
+
+A reference in  this Part —
+
+113.3.a
+
+to a statutory pledge being registered (however expressed) is to be construed
+as a reference to the Keeper’s carrying out, in respect of the pledge, the
+duties imposed on the Keeper by  section 87 (1) (a)  and  (b) ,
+
+113.3.b
+
+to an amendment to a statutory pledge being registered (however expressed) is
+to be construed as a reference to the Keeper’s carrying out, in respect of the
+amendment, the duty imposed on the Keeper by  section 89 (1) .
+
+### Miscellaneous and General
+
+#### Computer system
+
+##### Automated computer system
+
+114
+
+114.1
+
+The Keeper may, by means of an automated computer system under the Keeper’s
+management and control, carry out the duties imposed on the Keeper under
+Chapter 2  of  Part 1  and  Chapter 2  of  Part 2 .
+
+114.2
+
+The power under  subsection (1)  includes, for example, the power to enable—
+
+114.2.a
+
+the electronic generation and communication of applications under this Act,
+
+114.2.b
+
+automated registration under this Act, and
+
+114.2.c
+
+the creation of electronic documents.
+
+114.3
+
+The Keeper may impose reasonable conditions for using any computer system
+provided for the purposes of  subsection (1) .
+
+#### Registration of electronic documents
+
+##### Competence of registration of electronic documents
+
+115
+
+Section 9G(1)(d) of the Requirements of Writing (Scotland) Act 1995
+(registration and recording of electronic documents) does not apply in
+relation to the registration of a document by the Keeper under this Act.
+
+#### Good faith
+
+##### Good faith
+
+116
+
+116.1
+
+This section  applies in relation to any provision made in this Act as
+respects good faith.
+
+116.2
+
+If there is a dispute as to whether a person was in (or acted in) good faith,
+the burden of proof lies on whoever asserts that the person was not in (or did
+not act in) good faith.
+
+#### Review of the Act
+
+##### Review of Act
+
+117
+
+117.1
+
+The Scottish Ministers must, as soon as reasonably practicable after the end
+of the review period—
+
+117.1.a
+
+undertake a review of the operation of this Act, and
+
+117.1.b
+
+prepare a report on that review.
+
+117.2
+
+The report must, in particular, set out—
+
+117.2.a
+
+an assessment of—
+
+117.2.a.i
+
+the impact of allowing the debtor to waive the right to assert defences as
+provided for in section 14(1), and
+
+117.2.a.ii
+
+how well the provisions regarding statutory pledges are working in relation to
+sole traders and small businesses, and
+
+117.2.b
+
+the steps (if any) that the Scottish Ministers propose to take as a result of
+the findings of the review.
+
+117.3
+
+The Scottish Ministers must, as soon as reasonably practicable after preparing
+the report—
+
+117.3.a
+
+publish the report, and
+
+117.3.b
+
+lay the report before the Scottish Parliament.
+
+117.4
+
+For the purposes of this section, “the review period” is the period of 5 years
+beginning with the day on which sections 1 and 42 come into force or, if they
+come into force on different days, the earlier of those days.
+
+#### General
+
+##### Regulations
+
+118
+
+118.1
+
+Any power of the Scottish Ministers to make regulations under this Act
+includes the power to make—
+
+118.1.a
+
+incidental, supplementary, consequential, transitional, transitory or saving
+provision,
+
+118.1.b
+
+different provision for different purposes.
+
+118.2
+
+Regulations under any of the following sections are subject to the affirmative
+procedure:  section 3 (8) ,  4 (7) ,  28 (7) ,  32 (1) ,  36 (8) ,  46 (3) ,
+47 (3) ,  50 (4) ,  51 (4) ,  54 (3) ,  55 (8) ,  65 (4) ,  67 (8) ,  74 (9)
+(a) ,  75 (7) (a) ,  77 (10) ,  94 (8) ,  95 (1) ,  107 (8)  or  120 (3) .
+
+118.3
+
+Regulations under section  74 (9) (b) ,  75 (7) (b)  or  119  which add to,
+replace or omit any part of the text of an Act are subject to the affirmative
+procedure.
+
+118.4
+
+Any other regulations under this Act are subject to the negative procedure.
+
+118.5
+
+This section  does not apply to regulations under  section 121 .
+
+##### Ancillary provision
+
+119
+
+119.1
+
+The Scottish Ministers may by regulations make any incidental, supplementary,
+consequential, transitional, transitory or saving provision they consider
+appropriate for the purposes of, in connection with or for giving full effect
+to this Act or any provision made under it.
+
+119.2
+
+Regulations under  this section  may modify any enactment (including this
+Act).
+
+##### Interpretation of Act
+
+120
+
+120.1
+
+In this Act (except where the context requires otherwise)—
+
+      “ court ” means Court of Session or sheriff,           “ electronic
+document ” has the meaning given by section 9A of the Requirements of Writing
+(Scotland) Act 1995,           “ electronic signature ” has the meaning given
+by section 12(1) of the Requirements of Writing (Scotland) Act 1995,
+“ the Keeper ” means the Keeper of the Registers of Scotland,           “
+prescribed ” means prescribed by regulations made by the Scottish Ministers,
+“ registration number ” means a unique identifier consisting of numerals or of
+letters and numerals, and           “ traditional document ” has the meaning
+given by section 1A of the Requirements of Writing (Scotland) Act 1995.
+
+120.2
+
+In this Act, a reference (however expressed) to—
+
+120.2.a
+
+the authentication of a document by a person is a reference to the electronic
+signature of that person—
+
+120.2.a.i
+
+being incorporated into, or logically associated with, the electronic
+document, and
+
+120.2.a.ii
+
+having been created by that person,
+
+120.2.b
+
+the execution of a document is a reference to the document’s being subscribed
+as a traditional document in compliance with section 2(1) of the Requirements
+of Writing (Scotland) Act 1995.
+
+120.3
+
+The Scottish Ministers may by regulations modify (either or both) paragraph
+(a) or paragraph (b) of subsection (2).
+
+120.4
+
+Where, under or by virtue of a provision of this Act, however expressed, a
+person (“ P ”) is required or permitted to proceed in some way, the provision
+is to be construed as if any reference in it to P includes a reference to any
+person authorised by P to proceed in such a way on P’s behalf.
+
+##### Commencement
+
+121
+
+121.1
+
+This section  and sections  118 ,  119  and  122  come into force on the day
+after Royal Assent.
+
+121.2
+
+The other provisions of this Act come into force on such day as the Scottish
+Ministers may by regulations appoint.
+
+121.3
+
+Regulations under  this section  may—
+
+121.3.a
+
+include transitional, transitory or saving provision,
+
+121.3.b
+
+make different provision for different purposes.
+
+##### Short title
+
+122
+
+The short title of this Act is the Moveable Transactions (Scotland) Act 2023.
+

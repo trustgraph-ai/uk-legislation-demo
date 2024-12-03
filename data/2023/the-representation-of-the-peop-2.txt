@@ -1,0 +1,2448 @@
+Title: The Representation of the People (Franchise Amendment and Eligibility Review) Regulations 2023
+Date: 2024-06-29
+Description: These Regulations make provision related to the change in franchise for citizens of the European Union for local government elections in England, and for Police and Crime Commissioner (“PCC”) elections in England and Wales.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2023/1150
+
+## The Representation of the People (Franchise Amendment and Eligibility Review) Regulations 2023
+
+    Local Government, England       Police, England And Wales
+Representation Of The People, England And Wales       Town And Country
+Planning, England
+
+  Made   25th October 2023
+
+  Coming into force in accordance with regulation 1(2)
+
+      The Secretary of State makes these Regulations in exercise of the powers
+conferred by sections 10ZC(3), 10ZE(4), 13(1), 53(1) and (3), and 201(3) of,
+and paragraphs 1(2) and (2A) and 3ZA(1) and (2) of Schedule 2 to, the
+Representation of the People Act 1983 , by paragraph 16 of Schedule 4B to the
+Town and Country Planning Act 1990 , and by sections 58(1), (5) and (6) and
+154(5) (as extended by section 26(3) of the Welsh Language Act 1993 ) of the
+Police Reform and Social Responsibility Act 2011 .       The Secretary of
+State has consulted the Electoral Commission, in accordance with paragraph
+16(5) of Schedule 4B to the Town and Country Planning Act 1990, and section
+7(1) and (2)(e) and (hc) of the Political Parties, Elections and Referendums
+Act 2000 .           A draft of these Regulations has been laid before and
+approved by a resolution of each House of Parliament in accordance with
+section 201(2) of the Representation of the People Act 1983 , section 333(3A)
+of the Town and Country Planning Act 1990 , and section 154(2) of the Police
+Reform and Social Responsibility Act 2011.
+
+### Introduction
+
+
+#### Citation, commencement, extent and savings
+
+
+1
+
+1.1
+
+These Regulations may be cited as the Representation of the People (Franchise
+Amendment and Eligibility Review) Regulations 2023.
+
+1.2
+
+This regulation and regulation  38(3)  come into force on the day after the
+day on which they are made, and the remainder of these Regulations comes into
+force on 7th May 2024.
+
+1.3
+
+These Regulations extend to England and Wales.
+
+1.4
+
+The amendments made by—
+
+1.4.a
+
+regulations  32(a)  and  35  do not apply to an application under section
+10ZC(1)(a) of the 1983 Act made before 7th May 2024;
+
+1.4.b
+
+regulation  38(3)  do not apply to a business referendum for which the date of
+poll, as stated in the notice published in accordance with rule 6 of Schedule
+7 to the Neighbourhood Planning (Referendums) Regulations 2012 , is on or
+before 6th May 2024.
+
+#### Interpretation
+
+
+2
+
+In these Regulations—
+
+      “ 1983 Act ” means the Representation of the People Act 1983;
+“ 2001 Regulations ” means the Representation of the People (England and
+Wales) Regulations 2001 ;           “ 2011 Act ” means the Police Reform and
+Social Responsibility Act 2011;           “ 2012 Order ” means the Police and
+Crime Commissioner Elections Order 2012 ;           “ PCC election ” means an
+election of a police and crime commissioner in accordance with Chapter 6 of
+Part 1 of the Police Reform and Social Responsibility Act 2011 ;           “
+PCC elections rules ” means the rules set out at Parts 1 to 7 of Schedule 3 to
+the 2012 Order.
+
+### Review of registration entitlement of relevant citizens of the Union in England and of eligibility of relevant citizens of the Union to vote in PCC elections in Wales
+
+
+#### Interpretation
+
+
+##### Interpretation
+
+
+3
+
+In this Part—
+
+“ eligibility criteria ” means the criteria for eligibility to vote set out in
+section 52(1C) of the 2011 Act ;   “ notice of alteration ” means a notice
+under section 13A(2), 13AB(2), 13B(3), (3B) or (3D) or 13BC(3) or (6) of the
+1983 Act;   “ registration criteria ” means the criteria for registration set
+out in section 4(3)(c) of the 1983 Act ; “ relevant citizen of the Union ” has
+the same meaning as in section 202(1) of the 1983 Act ; “ relevant person ”
+means a person who— is a relevant citizen of the Union, and either— on the
+coming into force of this Part— is registered in a register of local
+government electors in England  or Wales , or the registration officer is
+required to enter the applicant in such a register in accordance with section
+10ZC(1) of the 1983 Act, or has submitted an application under section 10ZC of
+the 1983 Act before the coming into force of this Part, and that application
+is granted on or after the coming into force of this Part.
+
+##### Meaning of “address” in specified circumstances
+
+
+4
+
+4.1
+
+This regulation applies where a relevant person is registered pursuant to—
+
+4.1.a
+
+a declaration of local connection under section 7B of the 1983 Act ,
+
+4.1.b
+
+an application for anonymous entry under section 9B of the 1983 Act , or
+
+4.1.c
+
+a service declaration .
+
+4.2
+
+Where this regulation applies, references in this Part to the relevant
+person’s address are to—
+
+4.2.a
+
+for a person who has made a declaration of local connection, the address
+stated by the person in that declaration pursuant to section 7B(3)(a)(i) of
+the 1983 Act, or the address of the registration officer’s office (as the case
+may be);
+
+4.2.b
+
+for a person who is registered pursuant to an application for anonymous entry,
+the address given pursuant to regulation 26(1)(b) or 31G(6) of the 2001
+Regulations (as the case may be);
+
+4.2.c
+
+for a person who is registered pursuant to a service declaration, the person’s
+correspondence address or British Forces Post Office Number.
+
+#### Review of registration entitlement of relevant citizens of the Union in England
+
+
+##### Duty to determine whether relevant citizens of the Union continue to satisfy the registration criteria
+
+
+5
+
+5.1
+
+A registration officer appointed for an area in England must determine in
+accordance with regulations  6  to  13  whether a relevant person in the
+registration officer’s area continues to satisfy the registration criteria.
+
+5.2
+
+Subject to paragraphs (3) and (4), a registration officer must make the
+determination specified in paragraph (1) by the end of 31st January 2025.
+
+5.3
+
+Paragraph (2) does not apply where at the end of 31st January 2025—
+
+5.3.a
+
+the registration officer has requested information from a relevant person
+under regulation  10 , and the date for response specified in that request has
+not yet passed,
+
+5.3.b
+
+the 14 day period within which the relevant person may request a review
+hearing, following notification from the registration officer pursuant to
+regulation  12 , has not yet passed, or
+
+5.3.c
+
+the relevant person has requested a hearing pursuant to regulation  12(2)(d) ,
+and
+
+5.3.c.i
+
+the review has not yet been heard, or
+
+5.3.c.ii
+
+the review has been heard but the subject of the review has not been notified
+of the outcome of the review,
+
+and in consequence the registration officer has not made a determination.
+
+5.4
+
+Where paragraph (3) applies, the registration officer must make the
+determination specified in paragraph (1) as soon as reasonably practicable
+after 31st January 2025.
+
+5.5
+
+Nothing in this Chapter prevents a registration officer from reviewing the
+eligibility of a relevant person to be or to remain registered in accordance
+with section 10ZE of the 1983 Act for reasons other than that they are a
+relevant person.
+
+##### Procedure for reviewing entitlement to registration – data-based review
+
+
+6
+
+6.1
+
+A registration officer appointed for an area in England must conduct a review
+in respect of a relevant person, to determine whether that person continues to
+satisfy the registration criteria.
+
+6.2
+
+As part of a review under paragraph (1), the registration officer may consider
+(amongst other things) any information provided in accordance with regulation
+26(1)(fa) of the 2001 Regulations  as part of an application received from a
+relevant person pursuant to section 10ZC(1)(a) of the 1983 Act.
+
+##### Procedure for reviewing entitlement to registration – correspondence-based review
+
+
+7
+
+7.1
+
+Subject to paragraph (2), where a registration officer is not satisfied
+following a review under regulation  6  that a relevant person continues to
+satisfy the registration criteria, the registration officer must—
+
+7.1.a
+
+give notice to that person containing information specified at paragraph (3)
+(a “first review notice”), and
+
+7.1.b
+
+enter the review in the list kept pursuant to regulation 31E of the 2001
+Regulations.
+
+7.2
+
+Where the relevant person is registered pursuant to—
+
+7.2.a
+
+a declaration of local connection under section 7B of the 1983 Act,
+
+7.2.b
+
+an application for anonymous entry under section 9B of the 1983 Act, or
+
+7.2.c
+
+a service declaration,
+
+and the date on which the relevant person’s entitlement to remain registered
+under (as the case may be) section 7C, 9C or 15 of the 1983 Act  expires is
+before the end of 31st January 2025, paragraph (1) is to be read as if for
+“must” there were substituted  “may” .
+
+7.3
+
+A first review notice must—
+
+7.3.a
+
+explain that the criteria under section 4 of the 1983 Act by which a citizen
+of a member State is eligible to be registered in the register of local
+government electors have changed,
+
+7.3.b
+
+state that the registration officer is not certain that the relevant person
+remains entitled to be registered, and the grounds for the registration
+officer’s opinion,
+
+7.3.c
+
+require that the relevant person provide such further information as specified
+in the notice relating to whether that person meets the registration criteria,
+
+7.3.d
+
+provide information on how the relevant person may respond to the request for
+information, and
+
+7.3.e
+
+state that it is an offence to provide false information to the registration
+officer, and the maximum penalty for that offence.
+
+7.4
+
+Paragraph (5) applies where—
+
+7.4.a
+
+the registration officer sends a first review notice to a relevant person, and
+
+7.4.b
+
+that person does not respond within a reasonable time from the date on which
+that notice is sent.
+
+7.5
+
+Where this paragraph applies, the registration officer must give a further
+notice to the relevant person, setting out the same information as at
+paragraph (3) (a “second review notice”).
+
+7.6
+
+Subject to paragraph (7), a first or second review notice may be given to a
+relevant person either—
+
+7.6.a
+
+by sending it to the person’s address, or
+
+7.6.b
+
+by electronic means.
+
+7.7
+
+Where the first review notice was given to a relevant person by electronic
+means, the second review notice must be sent to the person’s address.
+
+7.8
+
+The registration officer may contact the relevant person, either by telephone
+or by visiting the address to which a first or second review notice was
+delivered, to—
+
+7.8.a
+
+obtain information requested in the notice, or
+
+7.8.b
+
+encourage the relevant person to provide the information requested.
+
+##### Notification of possible removal in the event of non-response
+
+
+8
+
+8.1
+
+This regulation applies where—
+
+8.1.a
+
+the registration officer has given first and second review notices to a
+relevant person, and
+
+8.1.b
+
+the relevant person has not responded within a reasonable time from the date
+of the second review notice.
+
+8.2
+
+Where this regulation applies, the registration officer must send a notice to
+the relevant person (a “notification of possible removal”) which must—
+
+8.2.a
+
+include the information set out in regulation  7(3) ,
+
+8.2.b
+
+state the date of issue of the notice, and
+
+8.2.c
+
+state that if within 14 days beginning with the date of issue the registration
+officer has not received the information requested—
+
+8.2.c.i
+
+the registration officer may determine the review and remove the person’s
+entry from the register, and
+
+8.2.c.ii
+
+the relevant person would not be entitled to appeal against the registration
+officer’s determination in those circumstances.
+
+8.3
+
+A notification of possible removal must be delivered to the relevant person by
+paper communication to the person’s address, accompanied by a pre-addressed
+reply envelope, return postage of which must be prepaid.
+
+##### Requirement to attempt personal contact with relevant person
+
+
+9
+
+9.1
+
+This regulation applies where—
+
+9.1.a
+
+a registration officer has issued a notification of possible removal to a
+relevant person,
+
+9.1.b
+
+the relevant person is not registered pursuant to—
+
+9.1.b.i
+
+a declaration of local connection under section 7B of the 1983 Act,
+
+9.1.b.ii
+
+an application for anonymous entry under section 9B of the 1983 Act, or
+
+9.1.b.iii
+
+a service declaration,
+
+9.1.c
+
+the relevant person has not responded to the notification of possible removal,
+and
+
+9.1.d
+
+the registration officer has not previously attempted to contact the relevant
+person by telephone or by visiting the address.
+
+9.2
+
+Where this regulation applies, within 7 days beginning with the date of issue
+of the notification of possible removal, the registration officer must attempt
+to contact the relevant person, either by telephone or by visiting the
+address, to—
+
+9.2.a
+
+obtain information requested in the notification, or
+
+9.2.b
+
+encourage the relevant person to provide the information requested.
+
+9.3
+
+Where this regulation applies, a registration officer must not determine that
+the relevant person has ceased to satisfy the registration criteria before the
+registration officer has attempted to contact the relevant person in
+accordance with paragraph (2).
+
+9.4
+
+In this regulation, the “ address ” means the address to which the first or
+second review notice under regulation  7(1)  or (5) was delivered.
+
+##### Request for further information
+
+
+10
+
+10.1
+
+The registration officer may request further information from a relevant
+person, including information that may be requested of an applicant for
+registration under regulation 26B(10A) to 26B(10C), and regulation 26BB, of
+the 2001 Regulations , where—
+
+10.1.a
+
+the registration officer has sent a first or second review notice or
+notification of possible removal to the relevant person, and
+
+10.1.b
+
+the relevant person has responded but the registration officer considers
+further information is necessary for the officer to be satisfied that the
+relevant person satisfies the registration criteria.
+
+10.2
+
+A request for further information pursuant to paragraph (1) may be given to
+the relevant person by sending it to the person’s address, or by electronic
+means, and must state that if by a specified date that is a reasonable time
+after the request was issued the registration officer has not received the
+information requested—
+
+10.2.a
+
+the registration officer may determine the review and remove the person’s
+entry from the register, and
+
+10.2.b
+
+the relevant person would not be entitled to appeal against the registration
+officer’s determination in those circumstances.
+
+##### Confirmation of continued registration following review
+
+
+11
+
+11.1
+
+Where, in accordance with this Chapter, a registration officer determines that
+the relevant person continues to satisfy the registration criteria, the
+registration officer must—
+
+11.1.a
+
+send a confirmation notice to that person in accordance with paragraph (2),
+and
+
+11.1.b
+
+mark that person’s name in accordance with regulation 42(3C) of the 2001
+Regulations .
+
+11.2
+
+A confirmation notice under paragraph (1) must—
+
+11.2.a
+
+be sent to the person’s address, or by electronic means,
+
+11.2.b
+
+state that the criteria under section 4 of the 1983 Act by which a citizen of
+a member State is eligible to be registered in the register of local
+government electors have changed, and
+
+11.2.c
+
+state that the registration officer has determined that the relevant person
+continues to satisfy those criteria.
+
+11.3
+
+The requirement under regulation 36(2)(b) of the 2001 Regulations for the
+registration officer to send a copy of a notice of alteration to any person
+affected by its contents does not apply in respect of a notice of alteration
+resulting from the determination mentioned in paragraph (1).
+
+##### Procedure for removal following response to communications
+
+
+12
+
+12.1
+
+This regulation applies where—
+
+12.1.a
+
+a relevant person has responded to a notice, notification or request under
+regulations  7  to  10  or has provided requested information in response to
+the registration officer making contact with that person, and
+
+12.1.b
+
+the registration officer is not satisfied that the relevant person continues
+to satisfy the registration criteria.
+
+12.2
+
+The registration officer must send a notice to the relevant person’s address,
+which must—
+
+12.2.a
+
+state the date of issue of the notice,
+
+12.2.b
+
+advise that the criteria under section 4 of the 1983 Act by which a citizen of
+a member State is eligible to be registered in the register of local
+government electors have changed,
+
+12.2.c
+
+state that the registration officer is of the opinion that the relevant person
+has ceased to satisfy the registration criteria, and the grounds for the
+registration officer’s opinion,
+
+12.2.d
+
+state that if the relevant person does not notify the registration officer
+within 14 days beginning with the date of issue that the relevant person
+requires the review to be heard—
+
+12.2.d.i
+
+the registration officer may determine the review and remove the relevant
+person’s entry from the register, and
+
+12.2.d.ii
+
+the relevant person would not be entitled to appeal against the registration
+officer’s determination in those circumstances, and
+
+12.2.e
+
+state that after 14 days beginning with the date of issue, the relevant person
+can contact the registration officer to find out if the registration officer
+has removed the relevant person’s entry from the register.
+
+12.3
+
+The relevant person is entitled to require the review to be heard by notifying
+the registration officer within 14 days beginning with the date of issue of
+the notice sent under paragraph (2), and where the relevant person does so the
+following provisions of the 2001 Regulations apply—
+
+12.3.a
+
+regulation 31F(2) to (7), and
+
+12.3.b
+
+regulation 31FZA(1), which applies as if the reference to regulation 31D(2)
+were a reference to a notice under paragraph (2).
+
+12.4
+
+Where—
+
+12.4.a
+
+the registration officer has delivered the notice under paragraph (2), and
+
+12.4.b
+
+the relevant person has not requested a hearing within 14 days beginning with
+the date of issue of the notice,
+
+the registration officer may determine that the relevant person has ceased to
+satisfy the registration criteria and, if so, remove the relevant person’s
+entry from the register.
+
+12.5
+
+The requirement under regulation 36(2)(b) of the 2001 Regulations for the
+registration officer to send a copy of a notice of alteration to any person
+affected by its contents does not apply in respect of a notice of alteration
+resulting from the determination mentioned in paragraph (4).
+
+##### Confirmation of ceased registration following non-response to communications
+
+
+13
+
+13.1
+
+This regulation applies where a relevant person does not respond—
+
+13.1.a
+
+to a notification of possible removal, within the period of 14 days beginning
+with the date of issue of that notification, or
+
+13.1.b
+
+to a request for further information following a notification of possible
+removal, by the specified date in that request.
+
+13.2
+
+Where this regulation applies—
+
+13.2.a
+
+the registration officer may determine that the relevant person has ceased to
+satisfy the registration criteria, and
+
+13.2.b
+
+if the registration officer does so, the registration officer must—
+
+13.2.b.i
+
+send a notification to the relevant person’s address, containing the
+information set out in paragraph (3), and
+
+13.2.b.ii
+
+remove the relevant person’s entry from the register.
+
+13.3
+
+A notification under paragraph (2) must—
+
+13.3.a
+
+advise that the criteria under section 4 of the 1983 Act by which a citizen of
+a member State is eligible to be registered in the register of local
+government electors have changed,
+
+13.3.b
+
+state that the registration officer has determined that the relevant person
+does not satisfy those criteria, and the registration officer’s reasoning for
+that determination,
+
+13.3.c
+
+state that there is no right of appeal against that determination,
+
+13.3.d
+
+state that the relevant person may apply to register again if they consider
+they are eligible to do so, and
+
+13.3.e
+
+be accompanied by an electoral registration application form under regulation
+26(3) of the 2001 Regulations and by a pre-addressed reply envelope the
+postage of which has been pre-paid.
+
+13.4
+
+The requirement under regulation 36(2)(b) of the 2001 Regulations for the
+registration officer to send a copy of a notice of alteration to any person
+affected by its contents does not apply in respect of a notice of alteration
+resulting from the determination mentioned in paragraph (2)(a).
+
+#### Review of eligibility of relevant citizens of the Union to vote in a PCC election in Wales
+
+
+##### Duty to determine whether relevant citizens of the Union continue to satisfy eligibility criteria
+
+
+14
+
+14.1
+
+A registration officer appointed for an area in Wales must determine in
+accordance with this Chapter whether a relevant person continues to satisfy
+the eligibility criteria.
+
+14.2
+
+Subject to paragraph  (3) , a registration officer must make the determination
+specified in paragraph (1) by the end of 31st January 2025.
+
+14.3
+
+Paragraph (2) does not apply when at the end of 31st January 2025—
+
+14.3.a
+
+a registration officer has requested information from a relevant person under
+regulation  19(1) , and the date for response specified in that request has
+not yet passed, or
+
+14.3.b
+
+the 14 day period within which the relevant person may request a review
+hearing, following notification from the registration officer pursuant to
+regulation  21(2) , has not yet passed,
+
+14.3.c
+
+the relevant person has requested a hearing pursuant to regulation  21(2) (e),
+and
+
+14.3.c.i
+
+the review has not been heard, or
+
+14.3.c.ii
+
+the review has been heard but the subject of the review has not been notified
+of the outcome of the review,
+
+and in consequence the registration officer has not made a determination.
+
+14.4
+
+Where paragraph  (3)  applies, the registration officer must discharge the
+functions specified in paragraph  (1)  as soon as reasonably practicable after
+31st January 2025.
+
+##### Procedure for reviewing eligibility to vote in a PCC election – data-based review
+
+
+15
+
+15.1
+
+A registration officer in Wales must conduct a review in respect of a relevant
+person, to determine whether that person continues to satisfy the eligibility
+criteria.
+
+15.2
+
+As part of a review under paragraph  (1) , the registration officer may
+consider (amongst other things) any information provided in accordance with
+regulation 26(1)(fa) of the 2001 Regulations as part of an application
+received from a relevant person pursuant to section 10ZC(1)(a) of the 1983
+Act.
+
+##### Procedure for reviewing eligibility to vote in a PCC election – correspondence-based review
+
+
+16
+
+16.1
+
+Subject to paragraph (2), where a registration officer is not satisfied
+following a review under regulation  15(1)  that the relevant person continues
+to satisfy the eligibility criteria, the registration officer must—
+
+16.1.a
+
+give notice to that person containing information specified at paragraph  (2)
+(a “first review notice”), and
+
+16.1.b
+
+enter the review in the list kept pursuant to regulation 31E of the 2001
+Regulations.
+
+16.2
+
+Where the relevant person is registered pursuant to an application for
+anonymous entry under section 9B of the 1983 Act and the date on which the
+relevant person’s entitlement to remain registered under section 9C of the
+1983 Act expires is before the end of 31st January 2025, paragraph (1) is to
+be read as if for “must” there were substituted  “may” .
+
+16.3
+
+A first review notice must—
+
+16.3.a
+
+explain that the criteria under section 52 of the 2011 Act by which a citizen
+of a member State is eligible to vote in a PCC election have changed,
+
+16.3.b
+
+state that eligibility to vote in PCC elections in Wales is unrelated to
+eligibility to register and vote in local government elections in Wales,
+
+16.3.c
+
+state that the registration officer is not certain that the relevant person
+remains eligible to vote in a PCC election, and the grounds for the
+registration officer’s opinion,
+
+16.3.d
+
+require that the relevant person provide such further information as specified
+in the notice relating to whether that person meets the eligibility criteria,
+
+16.3.e
+
+provide information on how the relevant person may respond to the request for
+information, and
+
+16.3.f
+
+state that it is an offence to provide false information to the registration
+officer, and the maximum penalty for that offence.
+
+16.4
+
+Paragraph  (5)  applies where—
+
+16.4.a
+
+the registration officer sends to a relevant person a first review notice, and
+
+16.4.b
+
+that person does not respond within a reasonable time from the date on which
+that notice is sent.
+
+16.5
+
+Where this paragraph applies, the registration officer must give a further
+notice to the relevant person, setting out the same information as at
+paragraph  (2)  (a “second review notice”).
+
+16.6
+
+Subject to paragraph (7), a first or second review notice may be given to a
+relevant person either—
+
+16.6.a
+
+by sending it to the person’s address, or
+
+16.6.b
+
+by electronic means.
+
+16.7
+
+Where the first review notice was given to a relevant person by electronic
+means, the second review notice must be sent to the person’s address.
+
+16.8
+
+The registration officer may contact the relevant person, either by telephone
+or by visiting the address to which a first or second review notice was
+delivered, to—
+
+16.8.a
+
+obtain information requested in the notice, or
+
+16.8.b
+
+encourage the relevant person to provide the information requested.
+
+##### Notification of possible ineligibility in the event of non-response
+
+
+17
+
+17.1
+
+This regulation applies where—
+
+17.1.a
+
+the registration officer has given first and second review notices to a
+relevant person, and
+
+17.1.b
+
+the relevant person has not responded within a reasonable time from the date
+of the second review notice.
+
+17.2
+
+Where this regulation applies, the registration officer must send a notice to
+a relevant person (a “notification of possible ineligibility”) which must—
+
+17.2.a
+
+include the information set out in regulation  16(3) ,
+
+17.2.b
+
+state the date of issue of the notice, and
+
+17.2.c
+
+state that if within 14 days beginning with the date of issue the registration
+officer has not received the information requested—
+
+17.2.c.i
+
+the registration officer may determine that the person is no longer eligible
+to vote in a PCC election, and
+
+17.2.c.ii
+
+the relevant person would not be entitled to appeal against the registration
+officer’s determination in those circumstances.
+
+17.3
+
+A notification of possible ineligibility must be delivered to the relevant
+person by paper communication to the person’s address, accompanied by a pre-
+addressed reply envelope, return postage of which must be prepaid.
+
+##### Requirement to attempt personal contact with relevant person
+
+
+18
+
+18.1
+
+This regulation applies where—
+
+18.1.a
+
+a registration officer has issued a notification of possible ineligibility to
+a relevant person,
+
+18.1.b
+
+the relevant person is not registered pursuant to—
+
+18.1.b.i
+
+a declaration of local connection under section 7B of the 1983 Act,
+
+18.1.b.ii
+
+an application for anonymous entry under section 9B of the 1983 Act, or
+
+18.1.b.iii
+
+a service declaration,
+
+18.1.c
+
+the relevant person is aged 16 or over,
+
+18.1.d
+
+the relevant person has not responded to the notification of possible
+ineligibility, and
+
+18.1.e
+
+the registration officer has not previously attempted to contact the relevant
+person by telephone or by visiting the address.
+
+18.2
+
+Where this regulation applies, within 7 days beginning with the date of issue
+of a notification of possible ineligibility the registration officer must
+attempt to contact the relevant person either by telephone or by visiting the
+address, to—
+
+18.2.a
+
+obtain information requested in the notification, or
+
+18.2.b
+
+encourage the relevant person to provide the information requested.
+
+18.3
+
+Where this regulation applies, a registration officer must not determine that
+the relevant person has ceased to satisfy the eligibility criteria before the
+registration officer has attempted to contact the relevant person in
+accordance with paragraph (2).
+
+18.4
+
+In this regulation, the “ address ” means the address to which the first or
+second review notice under regulation  16(1)  or (5) was delivered.
+
+##### Request for further information
+
+
+19
+
+19.1
+
+The registration officer may request further information from a relevant
+person, including information that may be requested of an applicant for
+registration under regulation 26BA and 26BB of the 2001 Regulations , where—
+
+19.1.a
+
+the registration officer has sent a first or second review notice or
+notification of possible ineligibility to the relevant person, and
+
+19.1.b
+
+the relevant person has responded but the registration officer considers
+further information is necessary for the officer to be satisfied that the
+relevant person satisfies the eligibility criteria.
+
+19.2
+
+A request for further information pursuant to paragraph (1) may be given to
+the relevant person by sending it to the person’s address, or by electronic
+means, and must—
+
+19.2.a
+
+state that eligibility to vote in PCC elections in Wales is unrelated to
+eligibility to register and vote in local government elections in Wales,
+
+19.2.b
+
+state that if by a specified date that is a reasonable time after the request
+was issued the registration officer has not received the information
+requested—
+
+19.2.b.i
+
+the registration officer may determine that the relevant person has ceased to
+satisfy the eligibility criteria, and
+
+19.2.b.ii
+
+the relevant person would not be entitled to appeal against the registration
+officer’s determination in those circumstances.
+
+##### Confirmation of continued eligibility following review
+
+
+20
+
+20.1
+
+Where, in accordance with this Chapter, a registration officer determines that
+the relevant person continues to satisfy the eligibility criteria, the
+registration officer must—
+
+20.1.a
+
+send a confirmation notice to that person in accordance with paragraph (2),
+and
+
+20.1.b
+
+mark the person’s name in accordance with regulation 42(3B) of the 2001
+Regulations .
+
+20.2
+
+A confirmation notice under paragraph (1) must—
+
+20.2.a
+
+be sent to the person’s address, or by electronic means,
+
+20.2.b
+
+state that eligibility criteria under section 52(1C) of the 2011 Act for a
+citizen of a member State to vote in PCC elections have changed,
+
+20.2.c
+
+state that eligibility to vote in PCC elections in Wales is unrelated to
+eligibility to register and vote in local government elections in Wales, and
+
+20.2.d
+
+state that the registration officer has determined that the relevant person
+continues to satisfy those criteria.
+
+20.3
+
+The requirement under regulation 36(2)(b) of the 2001 Regulations for the
+registration officer to send a copy of a notice of alteration to any person
+affected by its contents does not apply in respect of a notice of alteration
+resulting from the determination mentioned in paragraph (1).
+
+##### Procedure for determination of ineligibility following response to communications
+
+
+21
+
+21.1
+
+This regulation applies where—
+
+21.1.a
+
+a relevant person has responded to a notice, notification or request under
+regulations  16  to  19  or has provided requested information in response to
+the registration officer making contact with that person, and
+
+21.1.b
+
+the registration officer is not satisfied that the relevant person continues
+to satisfy the eligibility criteria.
+
+21.2
+
+The registration officer must send a notice to the relevant person’s address,
+which must—
+
+21.2.a
+
+state the date of issue of the notice,
+
+21.2.b
+
+advise that eligibility criteria under section 52 of the 2011 Act for a
+citizen of a member State to vote in PCC elections have changed,
+
+21.2.c
+
+state that the registration officer is of the opinion that the relevant person
+has ceased to satisfy the eligibility criteria, and the grounds for the
+registration officer’s opinion,
+
+21.2.d
+
+state that eligibility to vote in PCC elections in Wales is unrelated to
+eligibility to register and vote in local government elections in Wales,
+
+21.2.e
+
+state that if the relevant person does not notify the registration officer
+within 14 days beginning with the date of issue that the relevant person
+requires the review to be heard—
+
+21.2.e.i
+
+the registration officer may determine that the relevant person is not
+eligible to vote in a PCC election, and
+
+21.2.e.ii
+
+the relevant person would not be entitled to appeal against the registration
+officer’s determination in those circumstances.
+
+21.3
+
+The relevant person is entitled to require the review to be heard by notifying
+the registration officer within 14 days beginning with the date of issue of
+the notice sent under paragraph (2), and where the relevant person does so the
+following provisions of the 2001 Regulations apply—
+
+21.3.a
+
+regulation 31F(2) to (7), and
+
+21.3.b
+
+regulation 31FZA(1), which applies as if the reference to regulation 31D(2)
+were a reference to a notice under paragraph  (2) .
+
+21.4
+
+The registration officer may determine that the relevant person has ceased to
+satisfy the eligibility criteria where—
+
+21.4.a
+
+the registration officer has delivered the notice under paragraph  (2) , and
+
+21.4.b
+
+the relevant person has not requested a hearing within 14 days beginning with
+the date of that notice.
+
+##### Confirmation of ceased eligibility following non-response to communications
+
+
+22
+
+22.1
+
+This regulation applies where a relevant person does not respond—
+
+22.1.a
+
+to a notification of possible ineligibility within the period of 14 days
+beginning with the date of issue of that notification, or
+
+22.1.b
+
+to a request for further information by the specified date in that request.
+
+22.2
+
+Where this regulation applies, the registration officer—
+
+22.2.a
+
+may determine that the relevant person has ceased to satisfy the eligibility
+criteria, and
+
+22.2.b
+
+if the registration officer does so, must send a notification to the relevant
+person’s address, containing the information set out in paragraph (3).
+
+22.3
+
+A notification under paragraph (2) must—
+
+22.3.a
+
+advise that eligibility criteria under section 52 of the 2011 Act for a
+citizen of a member State to vote in PCC elections have changed,
+
+22.3.b
+
+state that eligibility to vote in PCC elections in Wales is unrelated to
+eligibility to register and vote in local government elections in Wales,
+
+22.3.c
+
+state that the registration officer has determined that the relevant person
+does not satisfy those criteria, and the registration officer’s reasoning for
+that determination,
+
+22.3.d
+
+state that there is no right of appeal against that determination.
+
+##### Eligibility appeals
+
+
+23
+
+Paragraph 4 of Schedule A1 to the 2012 Order (eligibility appeals)  applies in
+respect of a determination under this Chapter that a relevant person has
+ceased to satisfy the eligibility criteria as it applies to such a
+determination under that Schedule.
+
+#### Supplementary provisions for Chapters 2 and 3
+
+
+##### Applications to register during correspondence-based review
+
+
+24
+
+24.1
+
+This regulation applies where a registration officer receives an application
+from a relevant person pursuant to section 10ZC(1)(a) of the 1983 Act —
+
+24.1.a
+
+following the sending of a first or second review notice, notification of
+possible removal or request for further information to that relevant person in
+accordance with Chapter 2, and
+
+24.1.b
+
+before the registration officer has—
+
+24.1.b.i
+
+issued a notice pursuant to regulation  11(1)  or  13(2) , or
+
+24.1.b.ii
+
+made a determination pursuant to regulation 12(4).
+
+24.2
+
+This regulation also applies where a registration officer receives an
+application from a relevant person pursuant to section 10ZC(1)(a) of the 1983
+Act—
+
+24.2.a
+
+following the sending of a first or second notice of review, notification of
+possible ineligibility, or request for further information to that relevant
+person in accordance with Chapter 3, and
+
+24.2.b
+
+before the registration officer has—
+
+24.2.b.i
+
+issued a notice pursuant to regulation  20(1) , or  22(2) , or
+
+24.2.b.ii
+
+made a determination pursuant to regulation 21(4).
+
+24.3
+
+The registration officer must treat information provided within the
+application in relation to regulation 26(1)(fa) of the 2001 Regulations as a
+response to a review notice, notification of possible removal or ineligibility
+or request for information (as the case may be).
+
+##### Information about operation of procedures for reviewing entitlement to registration
+
+
+25
+
+25.1
+
+As soon as practicable after 31st January 2025, a registration officer in
+England must supply to the Electoral Commission the information required by
+paragraph (2).
+
+25.2
+
+The information referred to in paragraph (1) must be contained in a document
+which must state the name of the area in respect of which the registration
+officer has been appointed, and must list the following in respect of that
+area—
+
+25.2.a
+
+the number of relevant persons reviewed pursuant to regulation  6 ,
+
+25.2.b
+
+the number of relevant persons to whom a confirmation notice was sent pursuant
+to regulation  11  following the review pursuant to regulation  6 , and of
+those—
+
+25.2.b.i
+
+the number of qualifying EU citizens , and
+
+25.2.b.ii
+
+the number of EU citizens with retained rights ,
+
+25.2.c
+
+the respective numbers of relevant persons who received—
+
+25.2.c.i
+
+a first review notice pursuant to regulation  7(1) ,
+
+25.2.c.ii
+
+a second review notice pursuant to regulation  7(5) , or
+
+25.2.c.iii
+
+a notification of possible removal pursuant to regulation  8(2) ,
+
+25.2.d
+
+the number of relevant persons who received a request for further information
+pursuant to regulation  10 ,
+
+25.2.e
+
+the number of relevant persons treated as having responded to a first or
+second review notice, notification of possible removal, or request for further
+information by way of application to register, in accordance with regulation
+24 ,
+
+25.2.f
+
+the number of relevant persons to whom a confirmation notice was sent pursuant
+to regulation  11  following a notice, notification or request under
+regulations  7  to  10 ,
+
+25.2.g
+
+the number of relevant persons to whom regulation  7(2)  applies and whose
+eligibility to remain registered was determined by the registration officer in
+accordance with Chapter 2, and of those—
+
+25.2.g.i
+
+the number of qualifying EU citizens, and
+
+25.2.g.ii
+
+the number of EU citizens with retained rights,
+
+25.2.h
+
+the number of relevant persons to whom a notice was delivered pursuant to
+regulation  12(2) ,
+
+25.2.i
+
+the number of relevant persons who requested a review hearing pursuant to
+regulation  12(2)(d) ,
+
+25.2.j
+
+the number of relevant persons to whom a notification was delivered pursuant
+to regulation  13(2)(b)(i) ,
+
+25.2.k
+
+the number of relevant persons whose eligibility to remain registered was
+reviewed other than in accordance with these Regulations, between the coming
+into force of this regulation and the end of 31st January 2025, and
+
+25.2.l
+
+the number of persons registered as qualifying EU citizens or as EU citizens
+with retained rights as at the end of 31st January 2025.
+
+##### Information about operation of procedures for reviewing eligibility to vote in PCC elections
+
+
+26
+
+26.1
+
+As soon as practicable after 31st January 2025, a registration officer in
+Wales must supply to the Electoral Commission the information required by sub-
+paragraph (2).
+
+26.2
+
+The information referred to in paragraph (1) must be contained in a document
+which must state the name of the area in respect of which the registration
+officer has been appointed, and must list the following in respect of that
+area—
+
+26.2.a
+
+the number of relevant persons reviewed pursuant to regulation  15(1) ,
+
+26.2.b
+
+the number of relevant persons to whom a confirmation notice was sent pursuant
+to regulation  20(1) , following the review pursuant to regulation  15(1) ,
+and of those—
+
+26.2.b.i
+
+the number of qualifying EU citizens, and
+
+26.2.b.ii
+
+the number of EU citizens with retained rights,
+
+26.2.c
+
+the respective number of persons who, in the course of a correspondence-based
+review pursuant to these Regulations, received—
+
+26.2.c.i
+
+first review notice pursuant to regulation  16(1) ,
+
+26.2.c.ii
+
+second review notice pursuant to regulation  16(5) , or
+
+26.2.c.iii
+
+notification of possible ineligibility pursuant to regulation  17(2) ,
+
+26.2.d
+
+the number of relevant persons who received a request for further information
+pursuant to regulation  19(1) ,
+
+26.2.e
+
+the number of relevant persons treated as having responded to a first or
+second review notice, notification of possible ineligibility, or request for
+further information by way of application to register, in accordance with
+regulation  24 ,
+
+26.2.f
+
+the number of relevant persons to whom a confirmation notice was sent pursuant
+to regulation  20(1)  following a notice, notification or request under
+regulations  16  to  19 ,
+
+26.2.g
+
+the number of relevant persons to whom   regulation 16(2)   applies and whose
+eligibility to remain registered was determined by the registration officer in
+accordance with Chapter 3, and of those—
+
+26.2.g.i
+
+the number of qualifying EU citizens, and
+
+26.2.g.ii
+
+the number of EU citizens with retained rights,
+
+26.2.h
+
+the number of relevant persons to whom a notice was delivered pursuant to
+regulation  21(1) ,
+
+26.2.i
+
+the number of relevant persons who requested a review hearing pursuant to
+regulation  21(2) (e),
+
+26.2.j
+
+the number of persons to whom a notification was delivered pursuant to
+regulation  22(2) , and
+
+26.2.k
+
+the number of persons registered as qualifying EU citizens or as EU citizens
+with retained rights as at the end of 31st January 2025.
+
+##### Electoral Commission requirements
+
+
+27
+
+27.1
+
+The Electoral Commission must—
+
+27.1.a
+
+design communications and notices to be used by registration officers under—
+
+27.1.a.i
+
+regulations  7(1)(a) ,  8(2) ,  11(1)(a) ,  12(2)  and  13(2)(b)(i) , and
+
+27.1.a.ii
+
+regulations  16(1)(a) ,  17(2) ,  20(1)(a) ,  21(2) , and  22(2) ,
+
+27.1.b
+
+obtain the approval of the Secretary of State to the communications and
+notices, and
+
+27.1.c
+
+having obtained that approval, make the communications and notices available
+to registration officers.
+
+27.2
+
+Before giving approval in respect of the design of any communication or notice
+referred to in paragraph (1)(a)(ii), the Secretary of State must consult the
+Welsh Ministers.
+
+### Additional provision related to the franchise change for EU citizens
+
+
+#### Date for publication of revised registers for 2024
+
+
+28
+
+28.1
+
+This regulation applies to the requirement under section 13(1)(a) of the 1983
+Act for registration officers to publish, for 2024, revised versions of—
+
+28.1.a
+
+the registers maintained in respect of areas in England under section 9(1)(a)
+and (b) of the 1983 Act ;
+
+28.1.b
+
+the registers maintained in respect of areas in Wales under section 9(1)(a) of
+that Act.
+
+28.2
+
+The date for the end of the period described in section 13(1) of the 1983 Act,
+being the period during which the revised registers must be published, is 1st
+February 2025.
+
+#### Eligibility to vote in election to fill vacancy in office of commissioner: transitional provision
+
+
+29
+
+29.1
+
+This paragraph applies in respect of a PCC election held in a police area in
+Wales under section 51 of the 2011 Act (election to fill vacancy in office of
+commissioner)  for which notice of election pursuant to the PCC elections
+rules  is published on or before the end of 31st January 2025.
+
+29.2
+
+For the purposes of that election, article 2(1) of the 2012 Order applies as
+if—
+
+29.2.a
+
+in the definition of “register of electors”, for sub-paragraph (b)(ii) there
+were substituted—
+
+29.2.a.ii
+
+in the case of peers disqualified from voting as an elector at parliamentary
+elections and relevant citizens of the Union, qualifying EU citizens and EU
+citizens with retained rights  who will have attained the age of 18 on the
+date of the poll, the register of local government electors;
+
+;
+
+29.2.b
+
+after the definition of “registration officer” there were inserted—
+
+      “ relevant citizen of the Union ” means a citizen of a member State—
+who is a relevant person for the purposes of Part 2 of the Representation of
+the People (Franchise Amendment and Eligibility Review) Regulations 2023, and
+on the date on which notice of election is published, a review of eligibility
+under Chapter 3 of that Part has not been completed;
+
+.
+
+### Amendments relating to applications to register by qualifying EU citizens and EU citizens with retained rights
+
+
+#### Amendment of the 2001 Regulations
+
+
+30
+
+The 2001 Regulations are amended in accordance with this Part.
+
+#### Amendment of regulation 3 (interpretation)
+
+
+31
+
+In regulation 3 (interpretation), in paragraph (1)—
+
+31.a
+
+after the definition of “overseas elector” insert—
+
+      “ PCC election ” means an election of a police and crime commissioner in
+accordance with Chapter 6 of Part 1 of the Police Reform and Social
+Responsibility Act 2011;
+
+;
+
+31.b
+
+after the definition of “relevant contact details” insert—
+
+      “ relevant EU applicant ” means an applicant who is a citizen of a
+member State that is not listed in Schedule 6A to the 1983 Act , other than a
+citizen of Cyprus, Malta or the Republic of Ireland;
+
+.
+
+#### Amendment of regulation 26 (applications for registration)
+
+
+32
+
+In regulation 26 (applications for registration)—
+
+32.a
+
+in paragraph (1), after sub-paragraph (f), insert—
+
+32.a.fa
+
+in the case of a relevant EU applicant, an indication as to whether the
+applicant meets the requirements set out in section 203B of the 1983 Act ;
+
+;
+
+32.b
+
+in paragraph (3), for sub-paragraphs (b) and (ba) substitute—
+
+32.b.b
+
+a statement that persons without lawful immigration status are ineligible to
+register to vote, that registration officers may request checks in relation to
+an applicant’s immigration status against Home Office records, and that, for
+persons applying to register as EU citizens with retained rights only, this
+may include checks in relation to historical immigration status;
+
+32.b.ba
+
+a statement that the following are ineligible to register to vote as local
+government electors—
+
+32.b.ba.i
+
+in relation to registration in England, persons who are not Commonwealth
+citizens, citizens of the Republic of Ireland, qualifying EU citizens or EU
+citizen with retained rights, or
+
+32.b.ba.ii
+
+in relation to registration in Wales, persons who are not Commonwealth
+citizens, citizens of the Republic of Ireland, relevant citizens of the Union
+or qualifying foreign citizens;
+
+32.b.bb
+
+a statement that registration officers may require the applicant to provide
+additional information in relation to nationality, may carry out checks
+against Government records, and that, for persons applying to register as EU
+citizens with retained rights only, this may include checks in relation to
+historical nationality;
+
+32.b.bc
+
+a statement that, for applicants in Wales, the application requirement under
+paragraph (1)(fa) is relevant only in relation to eligibility to vote in PCC
+elections and not in relation to entitlement to register under section 4 of
+the 1983 Act;
+
+.
+
+#### Amendment of regulation 26B (power to request additional evidence where certain information is unavailable or where the registration officer considers it necessary)
+
+
+33
+
+In regulation 26B (power to request additional evidence where certain
+information is unavailable or where the registration officer considers it
+necessary), before paragraph (11) insert—
+
+33.10A
+
+In relation to the registration of local government electors in England, where
+a registration officer considers that additional evidence is necessary in
+order to determine whether the applicant is a qualifying EU citizen or an EU
+citizen with retained rights, the registration officer may require that the
+applicant provide them with one or both of the following—
+
+33.10A.a
+
+information enabling the registration officer to verify the applicant’s
+current or historical immigration status by electronic means, or
+
+33.10A.b
+
+a letter or document issued by the Home Office which indicates the current or
+historical immigration status of the applicant.
+
+33.10B
+
+Where a registration officer has requested additional evidence under paragraph
+(10A) to determine whether a relevant EU applicant is an EU citizen with
+retained rights and either—
+
+33.10B.a
+
+the applicant is not able to provide the requested information, or
+
+33.10B.b
+
+otherwise, the registration officer considers it appropriate,
+
+the registration officer may request a statement of eligibility from the
+applicant.
+
+33.10C
+
+A statement of eligibility under paragraph (10B) must be in writing and—
+
+33.10C.a
+
+must include—
+
+33.10C.a.i
+
+the applicant’s full name, date of birth, and the address in respect of which
+the applicant applies to be registered,
+
+33.10C.a.ii
+
+the applicant’s full name as at IP completion day and, if different from the
+name provided under paragraph (i), an explanation for that difference,
+
+33.10C.a.iii
+
+confirmation that the applicant is aware that it is an offence to provide
+false information to the registration officer, and of the maximum penalty for
+that offence, and
+
+33.10C.a.iv
+
+the date on which it was made;
+
+33.10C.b
+
+must, where required by the registration officer, also include any or all of
+the following—
+
+33.10C.b.i
+
+the date on which the applicant initially resided in the United Kingdom,
+
+33.10C.b.ii
+
+the nationality of the applicant as at IP completion day,
+
+33.10C.b.iii
+
+the immigration status held by the applicant as at IP completion day,
+
+33.10C.b.iv
+
+the applicant’s current immigration status,
+
+33.10C.b.v
+
+details of any other forms of immigration status held by the applicant since
+IP completion day,
+
+33.10C.b.vi
+
+details of any addresses in the United Kingdom at which the applicant has
+resided since IP completion day, and
+
+33.10C.c
+
+may include any other information or be accompanied by any documentary
+evidence relating to the applicant’s status as an EU citizen with retained
+rights.
+
+.
+
+#### New regulations 26BA (EU citizens: power to request additional evidence of immigration status or historical residency for purposes of determining eligibility to vote in a PCC election in Wales) and 26BB (EU citizens: power to request additional evidence as to change of name)
+
+
+34
+
+After regulation 26B insert—
+
+######## EU citizens: power to request additional evidence of immigration status or historical residency for purposes of determining eligibility to vote in a PCC election in Wales
+
+
+34.26BA
+
+34.26BA.1
+
+Where a registration officer considers that additional evidence is necessary
+in order to determine whether a person who is a citizen of a member State and
+who makes an application under section 10ZC of the 1983 Act in Wales is
+eligible to vote in a PCC election, the registration officer may require that
+person to provide the registration officer with one or both of the following—
+
+34.26BA.1.a
+
+information enabling the registration officer to verify the person’s current
+or historical immigration status by electronic means;
+
+34.26BA.1.b
+
+a letter or document issued by the Home Office which indicates the current or
+historical immigration status of the person.
+
+34.26BA.2
+
+Paragraphs (10B) and (10C) of regulation 26B apply following a request under
+paragraph (1) as they apply following a request under paragraph (10A) of that
+regulation.
+
+######## EU citizens: power to request additional evidence as to change of name
+
+
+34.26BB
+
+34.26BB.1
+
+Paragraph (2) applies where—
+
+34.26BB.1.a
+
+a person has made an application under section 10ZC of the 1983 Act to
+register as a local government elector, and
+
+34.26BB.1.b
+
+the applicant’s name on an electronic certificate or document provided in
+accordance with regulation 26B(10A) to (10C) or 26BA is different from the
+name provided in accordance with regulation 26(1)(a).
+
+34.26BB.2
+
+Where this paragraph applies, the registration officer may require the
+applicant to provide—
+
+34.26BB.2.a
+
+an explanation as to the difference in name, and
+
+34.26BB.2.b
+
+such other evidence as the officer considers appropriate that confirms the
+change of the applicant’s name.
+
+.
+
+#### Amendment of regulation 42 (marking of names)
+
+
+35
+
+In regulation 42 (marking of names)—
+
+35.a
+
+in paragraph (3)—
+
+35.a.i
+
+for “To” substitute  “Subject to paragraph (3B), to” ;
+
+35.a.ii
+
+after “electors” insert  “in Wales” ;
+
+35.b
+
+after paragraph (3A), insert—
+
+35.b.3B
+
+To indicate that a relevant citizen of the Union who is registered only in the
+register of local government electors in Wales is also a qualifying EU citizen
+or an EU citizen with retained rights, the letter “B” shall be placed against
+the person’s entry.
+
+35.b.3C
+
+To indicate that a qualifying EU citizen or an EU citizen with retained rights
+is registered only in the register of local government electors in England,
+the letter “B” shall be placed against the person’s entry.
+
+.
+
+### Amendments relating to Police and Crime Commissioner elections
+
+
+#### Amendment of the 2012 Order
+
+
+36
+
+36.1
+
+The 2012 Order is amended as follows.
+
+36.2
+
+In article 2 (interpretation), in the definition of “register of electors”, in
+sub-paragraph (b), for “relevant citizens of the Union” substitute
+“qualifying EU citizens and EU citizens with retained rights” .
+
+36.3
+
+Before article 4 (effect of register of electors) insert—
+
+########## Procedure for reviewing voter eligibility in PCC election in Wales
+
+
+36.3.3A
+
+Schedule A1 (procedure for reviewing voter eligibility to vote in PCC
+elections in Wales) has effect in relation to PCC elections in Wales.
+
+.
+
+36.4
+
+In article 4 for paragraph (4)(b)(iii) substitute—
+
+36.4.iii
+
+a qualifying EU citizen or an EU citizen with retained rights;
+
+.
+
+36.5
+
+Before Schedule 1 (supply of register) insert the new Schedule A1 as set out
+in Schedule 1 to these Regulations.
+
+36.6
+
+In Schedule 2 (absent voting in PCC elections), in Part 4 (forms referred to
+in Parts 1 to 3 of this Schedule), for form 1 (proxy paper at particular PCC
+election) substitute the corresponding form in Schedule 2 to these
+Regulations.
+
+#### Amendment of the Police and Crime Commissioner (Welsh Forms) Order 2021
+
+
+37
+
+In Schedule 3 to the Police and Crime Commissioner Elections (Welsh Forms)
+Order 2021 (Welsh and English versions of prescribed forms) , for form 1
+(proxy paper) substitute the corresponding form in Schedule 3 to these
+Regulations.
+
+### Amendments relating to business referendums
+
+
+#### Amendment of the Neighbourhood Planning (Referendums) Regulations 2012
+
+
+38
+
+38.1
+
+Schedule 6 to the Neighbourhood Planning (Referendums) is amended as follows.
+
+38.2
+
+In paragraph 1 (interpretation)—
+
+38.2.a
+
+omit the definitions of “citizen of the European Union” and “qualifying
+Commonwealth citizen”;
+
+38.2.b
+
+for the definition of “qualifying citizen” substitute—
+
+      “ qualifying citizen ” means a person who is—         a qualifying
+Commonwealth citizen within the meaning given by section 4 of the 1983 Act,
+a citizen of the Republic of Ireland,           a qualifying EU citizen within
+the meaning given by section 203A of the 1983 Act, or           an EU citizen
+with retained rights within the meaning given by section 203B of the 1983 Act;
+
+.
+
+38.3
+
+In Part 11 (appendix of forms), for form A (non-domestic rate-payer
+registration form) and form B (voting choices form) substitute the
+corresponding forms in Schedule 4 to these Regulations.
+
+      Signed by authority of the Secretary of State for Levelling Up, Housing
+and Communities       Jacob Young   Parliamentary Under Secretary of State
+Department for Levelling Up, Housing and Communities     25th October 2023
+
+  Police and Crime Commissioner Elections Order 2012: New Schedule A1
+
+Regulation 36(5)
+
+  Procedure for reviewing voter eligibility in PCC election in Wales
+
+Article 3A
+
+######## Interpretation
+
+
+1
+
+In this Schedule—
+
+      “ eligibility criteria ” means the criteria for eligibility to vote in a
+PCC election set out in section 52(1C) of the 2011 Act;           “ relevant
+person ” means a person who is registered in a register of local government
+electors in Wales with a letter “B” against their entry.
+
+######## Procedure for reviewing eligibility of relevant persons to vote in PCC elections in Wales
+
+
+2
+
+2.1
+
+A registration officer in Wales must determine whether a relevant person has
+ceased to satisfy the eligibility criteria in accordance with this paragraph
+if the officer receives information that causes the officer to suspect that
+the relevant person does not satisfy the eligibility criteria.
+
+2.2
+
+The registration officer must conduct a review in respect of the relevant
+person, and where the registration officer is not satisfied that the relevant
+person meets the eligibility criteria, the registration officer must—
+
+2.2.a
+
+send a notice to that person—
+
+2.2.a.i
+
+stating the date of issue of the notice,
+
+2.2.a.ii
+
+stating that the registration officer is not satisfied that the relevant
+person is eligible to vote in a PCC election, and the grounds for his opinion,
+
+2.2.a.iii
+
+stating that eligibility to vote in PCC elections in Wales is unrelated to
+eligibility to register and vote in local government elections in Wales, and
+
+2.2.a.iv
+
+requiring the relevant person to provide such further information as may be
+requested of an applicant for registration under regulation 26BA of the 2001
+Regulations, and
+
+2.2.b
+
+enter the review in the list kept pursuant to regulation 31E of the 2001
+Regulations.
+
+2.3
+
+Sub-paragraph (4) applies where—
+
+2.3.a
+
+the registration officer sends to a relevant person a notice in the form
+specified in sub-paragraph (2), and
+
+2.3.b
+
+that person does not respond to the registration officer’s satisfaction, or at
+all, within the period of 28 days beginning with the date of issue of that
+notice.
+
+2.4
+
+The registration officer must send a further notice to the relevant person
+which states—
+
+2.4.a
+
+the date of issue of the notice,
+
+2.4.b
+
+that the registration officer is not satisfied that the relevant person is or
+was eligible to vote in a PCC election, and the grounds for the registration
+officer’s opinion,
+
+2.4.c
+
+that if within 14 days beginning with the date of issue of the notice, the
+relevant person does not require the review to be heard—
+
+2.4.c.i
+
+the registration officer may determine that the relevant person is not
+eligible to vote in a PCC election, and
+
+2.4.c.ii
+
+if so, the relevant person would not be entitled to appeal against the
+registration officer’s determination in those circumstances, and
+
+2.4.d
+
+that after 14 days beginning with the date of issue of the notice, the
+relevant person can contact the registration officer to find out if the
+registration officer has determined the relevant person’s eligibility to vote
+in a PCC election.
+
+2.5
+
+Where—
+
+2.5.a
+
+the registration officer sends to a relevant person a further notice pursuant
+to sub-paragraph (4), and
+
+2.5.b
+
+the relevant person does not, within the period of 14 days beginning with the
+date of issue of that notice, notify the registration officer that the
+relevant person requires the review to be heard,
+
+the registration officer may determine, without a hearing, that the relevant
+person does not or has ceased to satisfy the eligibility criteria and, if so,
+must update the person’s register entry in accordance with regulation 42 of
+the 2001 Regulations.
+
+######## Hearings of reviews
+
+
+3
+
+3.1
+
+The relevant person is entitled to require the review to be heard by notifying
+the registration officer within 14 days beginning with the date of issue of
+the notice sent under paragraph 2(4), and where the relevant person does so
+regulation 31F(2) to (7) and 31FZA(1) of the 2001 Regulations apply to that
+requirement as they apply to a requirement in respect to a review under
+regulation 31D of the 2001 Regulations, subject to the following
+modifications.
+
+3.2
+
+Regulation 31F(6) applies as if, for the words from “was not entitled” to
+“1983 Act” there were substituted  “does not or has ceased to satisfy the
+eligibility criteria” .
+
+3.3
+
+Regulation 31FZA(1) applies as if—
+
+3.3.a
+
+the reference to regulation 31D(2) were a reference to paragraph 2(4) of this
+Schedule;
+
+3.3.b
+
+in sub-paragraph (a), the reference to section 56(1)(azd) or (aa) of the 1983
+Act  were a reference to paragraph 4 of this Schedule.
+
+######## Eligibility appeals
+
+
+4
+
+4.1
+
+Subject to sub-paragraph (2), an appeal lies to the County Court from a
+determination by a registration officer under this Schedule that a person does
+not meet the eligibility criteria.
+
+4.2
+
+An appeal does not lie where the person desiring to appeal has not availed
+themselves of an opportunity in this Schedule to be heard by or make
+representations to the registration officer as to their eligibility or has not
+given notice of appeal within the time prescribed in sub-paragraph (3)(a).
+
+4.3
+
+A person desiring to appeal must—
+
+4.3.a
+
+give notice of appeal to the registration officer when the determination is
+made, or within 14 days thereafter, and
+
+4.3.b
+
+specify the grounds of appeal.
+
+4.4
+
+The registration officer must forward any such notice to the appropriate
+county court in accordance with rules of court together with—
+
+4.4.a
+
+a statement of the material facts which in the registration officer’s opinion
+have been established in the case, and
+
+4.4.b
+
+the registration officer’s decision upon the whole case and on any point which
+may be specified as a ground of appeal.
+
+4.5
+
+Where it appears to the registration officer that any notices of appeal given
+to them are based on similar grounds, the registration officer must inform the
+appropriate county court of this to enable the court (if it thinks fit) to
+consolidate the appeals or to select a case as a test case.
+
+  Police and Crime Commissioner Elections Order 2012: New Form
+
+Regulation 36(6)
+
+  Form 1: Proxy form
+
+  Police and Crime Commissioner Elections (Welsh Forms) Order 2021: New Form
+
+Regulation 37
+
+  Form 1: Proxy form
+
+  Neighbourhood Planning (Referendums) Regulations 2012: New Forms
+
+Regulation 38(3)
+
+  Form A: non-domestic rate-payer registration form
+
+  Form B: voting choices form
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations make provision related to the change in franchise for
+citizens of the European Union for local government elections in England, and
+for Police and Crime Commissioner (“ PCC ”) elections in England and Wales.
+
+  Part 2 provides, at Chapter 2, a process for the review of the entitlement
+of citizens of member States of the European Union to remain registered on the
+register of local government electors in England following the change in
+registration criteria in section 4 of the Representation of the People Act
+1983 (c. 2)  (“ the 1983 Act ”). Chapter 3 of that Part provides a similar
+process for the review of the eligibility of registered citizens of member
+States of the European Union to vote in PCC elections in Wales following the
+change in eligibility criteria in section 52(1C) of the Police Reform and
+Social Responsibility Act  2011 (c. 13) .
+
+  Chapter 4 of Part 2 also provides for registration officers to supply
+anonymised information to the Electoral Commission on steps taken in each of
+the review processes, which (with limited exceptions) is to be concluded by
+the end of 31st January 2025. Regulation 28 requires the Electoral Commission
+to create designs of some of the communications and notices to be used by
+registration officers in these review processes.
+
+  Part 3 provides for a revised date for the end of which revised versions of
+certain electoral registers for 2024 must be published by electoral
+registration officers under section 13 of the 1983 Act. Part 3 also contains
+transitional provisions relating to PCC elections conducted prior to the end
+of the review process under Chapter 3 of Part 2.
+
+  Part 4 makes amendments to the Representation of the People (England and
+Wales) Regulations 2001 ( S.I. 2001/341 ) as to the content of applications
+for registration on the register of local government electors in England and
+Wales, due to the changes to registration entitlement and PCC election voting
+eligibility. The amendments also give a power to registration officers to seek
+further evidence from applicants where necessary to determine eligibility to
+vote in PCC elections in Wales.
+
+  Part 5 makes amendments to the Police and Crime Commissioner Elections Order
+2012 ( S.I. 2012/1917 ) (“ the 2012 Order ”) and the Police and Crime
+Commissioner (Welsh Forms) Order 2021 ( S.I. 2021/291 ). Amendments to the
+2012 Order in relation to England reflect the change in franchise of citizens
+of the European Union to register on the register of local government
+electors, and to act as proxies in PCC elections; and amendments in relation
+to Wales introduce a procedure to review from time to time the eligibility of
+registered EU citizens to vote in PCC elections in Wales.
+
+  Part 6 makes amendments to the Neighbourhood Planning (Referendums)
+Regulations 2012 ( S.I. 2012/2031 ) in relation to business referendums, to
+reflect the revised eligibility of citizens of the European Union to vote on
+behalf of a business at such a business referendum.
+
+  A full impact assessment of the effect that this instrument will have on the
+costs of businesses, the voluntary sector and the public sector is available
+from the Department for Levelling Up, Housing and Communities at 2 Marsham
+Street, London, SW1P 4DF and published with the Explanatory Memorandum
+alongside this instrument on  www.legislation.gov.uk .
+

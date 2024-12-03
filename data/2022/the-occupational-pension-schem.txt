@@ -1,0 +1,6821 @@
+Title: The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022
+Date: 2024-11-11
+Description: These Regulations implement the new authorisation and supervisory regime for collective money purchase schemes under Part 1 of the Pension Schemes Act 2021 (c. 1) (“the Act”). They also make provision for amendments to secondary legislation in relation to schemes providing collective money purchase benefits.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/255
+
+## The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022
+
+    Pensions
+
+  Made   8th March 2022
+
+  Coming into force   1st August 2022
+
+      The Secretary of State for Work and Pensions makes the following
+Regulations in exercise of the powers conferred by sections 28 and 144(2) and
+(4) of the Pensions Act 2008 , sections 43 and 54(5) and (6) of, and
+paragraphs 1 and 2 of Schedule 18 to, the Pensions Act 2014  and sections
+3(8), 5(2), 8(4)(a) and (b), 11(2)(e) and (3)(a), 12(2)(b), 13(3), 14(3),
+15(4)(a), 16(2), 17(4), (5) and (8), 18(4), 19(2), 20(5), 22(3)(b), 23(3)(c),
+27(2), 28(3) and (4), 29(7)(a) and (10)(a) and (b), 33(4)(b) and (10),
+36(1)(c), (2)(b) and (c), (5), (6) and (10), 37(3)(b), 38(3), 39(1)(b), 40(4)
+and (6), 41(2), 43(2) and (4)(b) and (c), 45(3) and (6), 49(2)(b) and (4) and
+51(2) and (3) of, and paragraph 1(6) of Schedule 2 to, the Pension Schemes Act
+2021 .     The Secretary of State has consulted such persons as the Secretary
+of State considers appropriate, in accordance with paragraph 8 of Schedule 18
+to the Pensions Act 2014.     A draft of these Regulations has been laid
+before and approved by a resolution of each House of Parliament in accordance
+with section 143(4) and (5)(a) of the Pensions Act 2008 , section 54(2)(e) and
+(g) of the Pensions Act 2014  and section 51(5) of the Pension Schemes Act
+2021 .         The Secretary of State has exercised her discretion under
+section 51(6) of the Pension Schemes Act 2021 to make regulations subject to
+affirmative resolution procedure which would otherwise be subject to negative
+resolution procedure.
+
+### Preliminary provisions
+
+#### Citation, extent and commencement
+
+1
+
+1.1
+
+These Regulations may be cited as the Occupational Pension Schemes (Collective
+Money Purchase Schemes) Regulations 2022.
+
+1.2
+
+These Regulations extend to England and Wales and Scotland.
+
+1.3
+
+These Regulations come into force on 1st August 2022.
+
+#### Interpretation and notices
+
+2
+
+2.1
+
+In these Regulations—
+
+    “ the 1993 Act ” means the Pension Schemes Act 1993 ;         “ the 1995
+Act ” means the Pensions Act 1995 ;         “ the 2004 Act ” means the
+Pensions Act 2004 ;         “ the Act ” means the Pension Schemes Act 2021;
+“ active member ” has the meaning given in section 124(1) of the 1995 Act;
+“ additional charge ” means an administration charge for advice, information
+or a service provided to a member, including where the member requests a
+transfer to another pension scheme;         “ body corporate ” has the meaning
+given in section 1173(1) of the Companies Act 2006 ;         “ central
+estimate ” means an estimate that is not deliberately either optimistic or
+pessimistic, does not include any margin for prudence and does not incorporate
+adjustments to reflect the desired outcome;         “ Code ” means a code of
+practice issued by the Regulator;         “ continuity option ” means one of
+the continuity options listed in section 34(2) of the Act;         “
+continuity strategy ” has the meaning given in section 17(2) of the Act;
+“ deferred member ” has the meaning given in section 124(1) of the 1995 Act;
+“ discounted level ” means a lower level of an administration charge which
+applies in particular circumstances, including—       a lower level which
+applies to members from a particular employer; or       a lower level which
+applies to a member according to the value of the member’s rights in the
+scheme;             “ effective date ” has the meaning given in section
+20(6)(a) of the Act;         “ multi-annual reduction ” means an arrangement
+permitted under the scheme rules under which the trustees apply a reduction to
+the rate or amount of benefits provided under the scheme over multiple years
+following an actuarial valuation ;         “ pensionable service ” has the
+meaning given in section 124(1) of the 1995 Act;         “ pensioner member ”
+has the meaning given in section 124(1) of the 1995 Act ;         “ relevant
+person ” means a person falling within section 15(3) of the Act;         “ the
+Regulator ” means the Pensions Regulator;         “ scheme year ” means—
+a year specified for the purposes of the scheme in any document comprising the
+scheme; or       if no such year is specified, a period of 12 months beginning
+on 1st April or on such other date as the trustees select;             “
+service provider ” means a person providing advisory, administration,
+investment or other services in respect of the scheme;         “ survivor ”
+has the meaning given in section 67A(10)(a) of the 1995 Act ;         “ third-
+party charge ” means any administration charge imposed on or in respect of a
+member by a person other than the trustees;         “ viability certificate ”
+has the meaning given in section 13(1)(b) of the Act;         “ viability
+report ” has the meaning given in section 13(1)(a) of the Act.
+
+2.2
+
+Except where paragraph 1 of Schedule 6 provides otherwise, sections 303
+(service of notifications and other documents) and 304 (notification and
+documents in electronic form) of the 2004 Act are treated as applying to
+notices and notifications issued in accordance with these Regulations.
+
+#### Connected employers
+
+3
+
+3.1
+
+For the purposes of section 49(2)(b) of the Act (interpretation of Part 1), an
+employer (“ A ”) is connected with another employer (“ B ”), and an employer
+which is a group undertaking of A is connected with an employer which is a
+group undertaking of B where A and B have separate legal identities but are
+structured so that the economic position of the shareholders of each is, as
+far as practicable, the same as if they held shares in a single company
+comprising the combined businesses of A and B.
+
+3.2
+
+In paragraph (1) “ group undertaking ” has the meaning given in section
+1161(5) of the Companies Act 2006 (meaning of “ undertaking ” and related
+expressions).
+
+### Schemes divided into sections
+
+#### Qualifying schemes
+
+4
+
+4.1
+
+For the purposes of section 3(8) of the Act (qualifying schemes), the
+characteristics prescribed are—
+
+4.1.a
+
+the rate or amount specified in the rules of the scheme by reference to which
+qualifying benefits are provided each year under the scheme;
+
+4.1.b
+
+the rate or amount of contributions paid by the employer;
+
+4.1.c
+
+the rate or amount of contributions paid by the employee;
+
+4.1.d
+
+the normal pension age as specified in the rules of the scheme.
+
+4.2
+
+In this regulation, “ normal pension age ” has the meaning given in section
+76(1) of the Pension Schemes Act 2015  (interpretation of Part 4).
+
+#### Schemes divided into sections
+
+5
+
+5.1
+
+Where an undivided scheme becomes a collective money purchase scheme that is
+divided into sections (a “divided scheme”), an authorisation previously
+granted in respect of the undivided scheme (the  “existing authorisation” )
+applies to a section if—
+
+5.1.a
+
+that section of the divided scheme is a collective money purchase scheme by
+reason of section 1(2)(b) of the Act (collective money purchase benefits and
+schemes); and
+
+5.1.b
+
+the qualifying benefits provided under that section of the divided scheme have
+the same characteristics set out in regulation 4(1) as those provided under
+the undivided scheme.
+
+5.2
+
+Where an undivided scheme becomes a divided scheme and there are two or more
+sections providing benefits with the same characteristics set out in
+regulation 4(1), the trustees of the undivided scheme must determine which
+section within the divided scheme the existing authorisation will apply to.
+
+5.3
+
+Where paragraph (2) applies, the trustees of the undivided scheme must, as
+soon as reasonably practicable, provide the Regulator with the following
+information —
+
+5.3.a
+
+the date from which the existing authorisation will apply to the section
+within the divided scheme; and
+
+5.3.b
+
+the name of the section within the divided scheme to which the existing
+authorisation will apply.
+
+5.4
+
+In this regulation, “ undivided scheme ” has the meaning given in section 5(2)
+of the Act (schemes divided into sections).
+
+### Authorisation
+
+#### Authorisation: contents
+
+6
+
+6.1
+
+This regulation applies for the purposes of section 8(4)(a) of the Act
+(application for authorisation).
+
+6.2
+
+The other information to be included in an application, in relation to each
+person acting in a capacity mentioned in section 11(2) of the Act (fit and
+proper persons requirement), is—
+
+6.2.a
+
+in the case of an individual—
+
+6.2.a.i
+
+the person’s full name;
+
+6.2.a.ii
+
+the person’s date of birth;
+
+6.2.a.iii
+
+the title and description of the person’s role in relation to the scheme;
+
+6.2.a.iv
+
+6.2.a.iv.aa
+
+the person’s residential address and address for correspondence, if different,
+and
+
+6.2.a.iv.bb
+
+if there has been a change to the person’s residential address at any time in
+the period of five years before the date of the application for authorisation,
+their other residential addresses falling within that period;
+
+6.2.a.v
+
+a criminal conviction certificate obtained by means of an application in
+accordance with section 112(1) of the Police Act 1997  (criminal conviction
+certificates) or, in relation to the law of a country outside the United
+Kingdom, any equivalent document;
+
+6.2.b
+
+where that person is acting in a capacity mentioned in section 11(2)(a) to (d)
+and that person is a body corporate—
+
+6.2.b.i
+
+the full name of each individual who is performing, or who will be performing,
+the functions of that person in relation to the scheme in the exercise of a
+management or executive role in relation to that person;
+
+6.2.b.ii
+
+the date of birth of each such individual;
+
+6.2.b.iii
+
+6.2.b.iii.aa
+
+the residential address of each such individual and their address for
+correspondence, if different, and
+
+6.2.b.iii.bb
+
+if there has been a change to each such individual’s residential address at
+any time in the period of five years before the date of the application for
+authorisation, their other residential addresses falling within that period;
+
+6.2.c
+
+in the case of any person, responses to a list of questions that may be asked
+by the Regulator, as part of an application for authorisation, to assess
+whether the person is a fit and proper person.
+
+6.3
+
+The other information to be included in an application, in relation to whether
+the scheme is financially sustainable, is the information set out in Part 1 of
+Schedule 3.
+
+6.4
+
+The other information to be included in an application, in relation to whether
+the systems and processes used for communicating with members and others are
+adequate, is details of the systems and processes used, or intended to be
+used, for the purposes of communicating with relevant persons, including
+details of the matters set out in Schedule 4.
+
+6.5
+
+The other information to be included in an application, in relation to whether
+the systems and processes used in running the scheme are sufficient, is—
+
+6.5.a
+
+details of the systems and processes used, or intended to be used, in the
+running of the scheme, including details of the matters set out in Schedule 5;
+
+6.5.b
+
+whether the systems and processes used, or intended to be used, in the running
+of the scheme have been devised, applied or maintained by the scheme or a
+service provider.
+
+6.6
+
+The other information to be included in an application is—
+
+6.6.a
+
+the name of the scheme;
+
+6.6.b
+
+the name of each employer in relation to the scheme;
+
+6.6.c
+
+the date on which it is proposed that the scheme will begin operating, subject
+to the Regulator’s decision under section 9(1) of the Act (decision on
+application);
+
+6.6.d
+
+the contact details of the trustees making the application;
+
+6.6.e
+
+a copy of the rules of the scheme;
+
+6.6.f
+
+a copy of the scheme’s trust deed.
+
+6.7
+
+For the purposes of paragraph (6), the date on which it is proposed that the
+scheme will begin operating is the date proposed as the date on which, in
+relation to the scheme, a person is to first accept money as described in
+section 7(5)(a) or (b) of the Act.
+
+#### Application for authorisation: fee
+
+7
+
+7.1
+
+Subject to paragraphs (2) and (3), an application for authorisation of a
+collective money purchase scheme must be accompanied by a fee of £77,000.
+
+7.2
+
+If an application for authorisation is made in respect of a section of a
+pension scheme and, at the time when the application is made another section
+of that pension scheme is an authorised collective money purchase scheme, the
+application must be accompanied by such fee as the Regulator may specify (but
+see paragraph (4)).
+
+7.3
+
+If applications for authorisation are made in respect of two or more sections
+of the same pension scheme at the same time and, at the time when the
+applications are made no other section of that pension scheme is an authorised
+collective money purchase scheme—
+
+7.3.a
+
+one of the applications for authorisation must be accompanied by a fee of
+£77,000; and
+
+7.3.b
+
+all the other applications for authorisation must each be accompanied by such
+fee as the Regulator may specify (but see paragraph (4)).
+
+7.4
+
+A fee specified under paragraphs (2) or (3)(b)—
+
+7.4.a
+
+must not exceed £77,000; and
+
+7.4.b
+
+must be calculated on a cost recovery basis.
+
+7.5
+
+The Regulator must pay fees received under this regulation to the Secretary of
+State, unless the Secretary of State with the consent of the Treasury directs
+otherwise.
+
+#### Fit and proper persons requirement
+
+8
+
+8.1
+
+Schedule 1 sets out the matters that the Regulator must take into account in
+assessing, for the purposes of section 11 of the Act (fit and proper persons
+requirement), whether a person is fit and proper to act in a capacity
+mentioned in section 11(2) of the Act.
+
+8.2
+
+For the purposes of section 11(2)(e) of the Act, where a person in a capacity
+mentioned in paragraphs (a) to (d) of section 11(2) is a body corporate, the
+Regulator must assess whether each individual performing the functions of that
+person in relation to the scheme, in the exercise of a management or executive
+role, is a fit and proper person to act in relation to the scheme in that
+capacity.
+
+#### Scheme design requirement
+
+9
+
+Part 1 of Schedule 2 sets out the matters that the Regulator must take into
+account in deciding, for the purposes of section 12 of the Act (scheme design
+requirement), whether it is satisfied that the design of a collective money
+purchase scheme is sound.
+
+#### Viability report
+
+10
+
+10.1
+
+A viability report must include the information specified in Part 2 of
+Schedule 2.
+
+10.2
+
+A viability report must be submitted—
+
+10.2.a
+
+in writing;
+
+10.2.b
+
+in the format set out in a Code.
+
+10.3
+
+The following must be prepared or obtained in connection with a viability
+report—
+
+10.3.a
+
+a copy of the rules of the scheme concerning how the rate or amount of
+benefits provided under the scheme is to be determined;
+
+10.3.b
+
+a document prepared by the scheme actuary to inform the trustee’s
+consideration as to whether the design of the scheme is sound for the purposes
+of preparing or reviewing the viability report;
+
+10.3.c
+
+a document prepared by the trustees, having taken advice from an authorised
+person, setting out the strategy for investing the assets that arise or derive
+from the payments made by or in respect of members of the scheme; and
+
+10.3.d
+
+any other information or documents as requested by the Regulator.
+
+10.4
+
+The document described at paragraph (3)(b) must include an explanation of—
+
+10.4.a
+
+the assumptions used by the scheme actuary in carrying out the tests in
+regulation 11(2)(c) or (d) (as the case may be) and how the use of those
+assumptions is justified;
+
+10.4.b
+
+the conclusions reached by the scheme actuary on the matters contained in
+regulation 11(2); and
+
+10.4.c
+
+the testing or modelling being considered by the trustees including the
+results of such testing or modelling.
+
+10.5
+
+A viability report must be prepared—
+
+10.5.a
+
+in the case of the scheme’s first viability report, by reference to
+information as at a date, chosen by the trustees, which must not be earlier
+than ten months before the date when the trustees apply to the Regulator for
+authorisation;
+
+10.5.b
+
+in the case of any subsequent viability report, by reference to information as
+at a date, chosen by the trustees, which must not be earlier than ten months
+before the date when the trustees provide the report to the Regulator.
+
+10.6
+
+If a revised viability report is submitted in accordance with section 13(6)(b)
+of the Act (viability report), the viability report must indicate which parts
+of it have been revised and why.
+
+10.7
+
+In this regulation, “ authorised person ” means a person who is reasonably
+believed by the trustees of a collective money purchase scheme to be qualified
+by their ability in and practical experience of financial matters and to have
+the appropriate knowledge and experience of the management of the investments
+of such schemes.
+
+#### Viability certificate
+
+11
+
+11.1
+
+A viability certificate must contain the information specified in Part 3 of
+Schedule 2.
+
+11.2
+
+The scheme actuary must have regard to the following matters when providing a
+viability certificate and considering whether the design of the scheme is
+sound—
+
+11.2.a
+
+whether the rules of the scheme meet—
+
+11.2.a.i
+
+the requirements of section 18 of the Act (calculation of benefits); and
+
+11.2.a.ii
+
+the requirements of regulation 17;
+
+11.2.b
+
+whether, in the opinion of the scheme actuary, the trustees have, in the
+member booklet, the statement of scheme design and the wording used in the
+most recent statements of benefits—
+
+11.2.b.i
+
+accurately described the methods by which the scheme determines the rate or
+amount of benefits provided under the scheme;
+
+11.2.b.ii
+
+accurately described estimates of the rate or amount of any future pension
+benefits payable under the design of the scheme;
+
+11.2.b.iii
+
+accurately explained that the future pension benefits payable under the scheme
+are subject to annual adjustment in accordance with the scheme rules;
+
+11.2.c
+
+in a case where the certificate is being provided in respect of a collective
+money purchase scheme the trustees of which are applying for authorisation
+under section 8 of the Act (application for authorisation), whether the scheme
+actuary is satisfied that—
+
+11.2.c.i
+
+the first gateway test is met; and
+
+11.2.c.ii
+
+the second gateway test is met;
+
+11.2.d
+
+in a case where a collective money purchase scheme has begun operating and has
+at least one active member, whether the scheme actuary is satisfied that—
+
+11.2.d.i
+
+the first live running test is met; and
+
+11.2.d.ii
+
+the second live running test is met.
+
+11.3
+
+In a case where a final version of the member booklet, the statement of scheme
+design or the wording to be used in the statements of benefits has not been
+prepared, the reference to that document or wording, as the case may be, in
+sub-paragraph (2)(b) is to the latest draft of that document or wording, as
+the case may be.
+
+11.4
+
+The first gateway test is met if the estimate of the projected average annual
+increase in the first ten years’ benefits, calculated on a central estimate
+basis—
+
+11.4.a
+
+by reference to the contributions to be made into the scheme over the first
+ten years by or on behalf of or in respect of the expected active members into
+the scheme;
+
+11.4.b
+
+by reference to the returns expected to be achieved on the available assets of
+the scheme during the remaining lives of the first ten years’ beneficiaries,
+calculated on a central estimate basis; and
+
+11.4.c
+
+based on the premise that such projected annual increase is to be applied over
+the remaining lives of the first ten years’ beneficiaries,
+
+is no less than the estimate of the projected average annual increase in the
+prices for goods and services as measured by the consumer prices index,
+calculated on a central estimate basis.
+
+11.5
+
+For the purposes of the first gateway test—
+
+11.5.a
+
+the “ first ten years ” means the period of ten years beginning with the date
+on which the scheme is expected to begin operating;
+
+11.5.b
+
+the “ first ten years’ beneficiaries ” means—
+
+11.5.b.i
+
+the expected active members of the scheme during the first ten years; and
+
+11.5.b.ii
+
+the expected survivors in relation to the expected active members of the
+scheme during the first ten years;
+
+11.5.c
+
+the “ first ten years’ benefits ” means the estimated rate or amount of future
+pension benefits payable under the scheme which relate to the rights to
+benefits to be accrued under the scheme over a period of ten years beginning
+with the date on which the scheme is expected to begin operating.
+
+11.6
+
+The second gateway test is met if the expected value of the rights to benefits
+of each active member which are expected to accrue under the scheme during the
+relevant period is at least equal in value to the amount of the contributions
+expected to be made by or on behalf of the member into the scheme in that
+period (not including contributions made by or on behalf of the employers
+other than any contributions made as a result of a salary sacrifice
+arrangement).
+
+11.7
+
+The first live running test is met if the expected value of the rights to
+benefits of each active member which are expected to accrue under the scheme
+during the relevant period is at least equal in value to the amount of the
+contributions expected to be made by or on behalf of the member into the
+scheme in that period (not including contributions made by or on behalf of the
+employers other than any contributions made as a result of a salary sacrifice
+arrangement).
+
+11.8
+
+For the purposes of paragraphs (6) and (7)—
+
+11.8.a
+
+the expected value of the rights to benefits which are expected to accrue is
+to be calculated using the methods and assumptions that would be expected to
+be used for an actuarial valuation of the scheme;
+
+11.8.b
+
+the “relevant period” is—
+
+11.8.b.i
+
+in paragraph (6), a period of five years beginning with the date on which the
+scheme is expected to begin operating;
+
+11.8.b.ii
+
+in paragraph (7), a period of five years beginning with the date which has
+been agreed in accordance with paragraph (11) in respect of the viability
+certificate that is being provided.
+
+11.9
+
+The second live running test is met if the weighted average of the EVs during
+the test period is not less than half, but not more than twice, the rate of
+contributions (expressed as a percentage of pensionable salary) made by or on
+behalf of or in respect of all active members into the scheme (including
+contributions made by or on behalf of the employers).
+
+11.10
+
+For the purposes of the second live running test—
+
+11.10.a
+
+an EV in relation to an actuarial valuation is the expected value of the
+rights to benefits which are expected to accrue in the year following the
+effective date of that actuarial valuation (the “reference period”);
+
+11.10.b
+
+an EV is to be calculated in relation to each actuarial valuation—
+
+11.10.b.i
+
+by reference to the effective date of that valuation;
+
+11.10.b.ii
+
+using the methods and assumptions that were used for that actuarial valuation;
+
+11.10.c
+
+the EV for the period starting on the day the scheme began operating and
+ending the day before the effective date of the first actuarial valuation is
+the value that would have been calculated for an EV if an actuarial valuation
+with an effective date of the date that the scheme began operating had been
+obtained by the trustees, calculated using the methods and assumptions that
+would be expected to have been used for such an actuarial valuation;
+
+11.10.d
+
+an EV is expressed as a percentage of the pensionable salary on the effective
+date of the actuarial valuation to which it relates (or in the case of the EV
+referred to in sub-paragraph (c), on the date that the scheme began operating)
+of all active members on that date;
+
+11.10.e
+
+the EVs are weighted according to the proportion of the test period to which
+they relate;
+
+11.10.f
+
+where an EV (“EV2”) is calculated in relation to a period to which a prior EV
+(“EV1”) relates, the period to which EV1 relates for the purposes of sub-
+paragraph (e) is the period—
+
+11.10.f.i
+
+starting the day following the effective date by reference to which EV1 was
+calculated; and
+
+11.10.f.ii
+
+ending the day before the period to which EV2 relates;
+
+11.10.g
+
+subject to sub-paragraph (h), the test period is the period of five years
+ending with the last day of the reference period for the EV that has most
+recently been calculated;
+
+11.10.h
+
+where any of the period referred to in sub-paragraph (g) falls before the
+scheme began operating, the test period is the period—
+
+11.10.h.i
+
+starting on the date on which the scheme began operating; and
+
+11.10.h.ii
+
+ending with the last day of the reference period for the most recent EV that
+has been calculated.
+
+11.11
+
+A viability certificate must be prepared—
+
+11.11.a
+
+in respect of the scheme’s first viability certificate, by reference to
+information as at a date to be agreed between the trustees and the scheme
+actuary, but not earlier than ten months before the date when the trustees
+apply to the Regulator for authorisation;
+
+11.11.b
+
+in respect of any subsequent viability certificate, by reference to
+information as at a date to be agreed between the trustees and the scheme
+actuary, but not earlier than ten months before the date when the certificate
+is provided to the trustees.
+
+11.12
+
+In this regulation—
+
+    “ consumer prices index ” means the consumer prices index calculated and
+published by the Office for National Statistics;         “ member booklet ”
+means a document containing, in relation to a collective money purchase
+scheme, any basic information about the scheme that regulations made under
+section 113 of the 1993 Act  (disclosure of information about schemes to
+members etc) require the trustees of the scheme to provide to members and, if
+it is practicable to do so, prospective members (each as defined for the
+purposes of those regulations);         “ relevant pension provision ” has the
+meaning given in section 228ZA(7) of the Finance Act 2004 .         “ salary
+sacrifice arrangement ” has the meaning given to “relevant salary sacrifice
+arrangements” in section 228ZA(6) of the Finance Act 2004;         “ statement
+of benefits ” means a document containing, in relation to a member of a
+collective money purchase scheme, any of the following information that
+regulations made under section 113 of the 1993 Act require the trustees of the
+scheme to provide to the members (as defined for the purposes of those
+regulations) of the scheme specified by those regulations—         an
+illustration of the amount of pension that may be payable to that member on
+their retirement date;       the amount that represents the member’s share of
+the available assets of the scheme on a specific date; and       other
+information related to that illustration;               “ statement of scheme
+design ” means information explaining the design of a collective money
+purchase scheme that regulations made under section 46(1) of the Act
+(publication of information) require the trustees to publish.
+
+11.13
+
+For the purposes of this regulation a collective money purchase scheme begins
+operating where, in relation to the scheme, a person first accepts money as
+described in section 7(5)(a) or (b) of the Act.
+
+#### Financial sustainability requirement
+
+12
+
+12.1
+
+Part 2 of Schedule 3 sets out the matters that the Regulator must take into
+account in deciding, for the purposes of section 14 of the Act (financial
+sustainability requirement), whether it is satisfied that a collective money
+purchase scheme is financially sustainable.
+
+12.2
+
+Part 3 of Schedule 3 sets out for the purposes of section 14(4)(b) of the Act
+the requirements to be met by a collective money purchase scheme in relation
+to its financing.
+
+#### Communication requirement
+
+13
+
+Schedule 4 sets out the matters that the Regulator must take into account in
+deciding, for the purposes of section 15 of the Act (communication
+requirement), whether it is satisfied that a collective money purchase scheme
+has adequate systems and processes for communicating with members and others.
+
+#### Systems and processes requirement
+
+14
+
+Schedule 5 sets out the matters that the Regulator must take into account in
+deciding, for the purposes of section 16 of the Act (systems and processes
+requirements), whether it is satisfied that the systems and processes used in
+running a collective money purchase scheme are sufficient to ensure that the
+scheme is run effectively.
+
+#### Continuity strategy: contents
+
+15
+
+15.1
+
+The following information is specified for the purposes of section 17(5)(a) of
+the Act (continuity strategy requirement)—
+
+15.1.a
+
+the steps the trustees would take to decide which continuity option to pursue
+(if applicable) and the timescales for taking those steps;
+
+15.1.b
+
+details of—
+
+15.1.b.i
+
+the main decisions and actions that would need to be taken to protect members’
+interests during a triggering event period;
+
+15.1.b.ii
+
+the person responsible for taking them; and
+
+15.1.b.iii
+
+the timescales for taking them;
+
+15.1.c
+
+details of strategies for communicating with employers and beneficiaries,
+including—
+
+15.1.c.i
+
+the information to be provided; and
+
+15.1.c.ii
+
+the stages at which communication would take place;
+
+15.1.d
+
+details of strategies for communicating with the Regulator;
+
+15.1.e
+
+details of how the trustees would choose a receiving scheme, if applicable;
+
+15.1.f
+
+details of how the trustees would choose the policy or policies mentioned in
+paragraph 2(2) of Schedule 6, if applicable;
+
+15.1.g
+
+details of how any periodic income to be paid in accordance with paragraph 7
+of Schedule 6 would be calculated and paid, if continuity option 1 were to be
+pursued;
+
+15.1.h
+
+details of how the value of beneficiaries’ accrued rights to benefits would be
+transferred to a receiving scheme, if applicable;
+
+15.1.i
+
+details of how beneficiaries’ personal data would be transferred to a
+receiving scheme, if applicable;
+
+15.1.j
+
+details of how the payment of benefits would be secured in accordance with
+paragraph 2(2) of Schedule 6, if applicable;
+
+15.1.k
+
+details of how beneficiaries’ personal data would be transferred to an
+insurer, or insurers, mentioned in paragraph 2(2) of Schedule 6, if
+applicable;
+
+15.1.l
+
+details of how members’ records are to be maintained during a triggering event
+period;
+
+15.1.m
+
+details of how the quantification of the value of each beneficiary’s accrued
+rights to benefits under the scheme would be carried out;
+
+15.1.n
+
+details of how the trustees would comply with any legal requirements and meet
+any legal costs arising from a triggering event;
+
+15.1.o
+
+details of how the trustees would comply with any actuarial requirements and
+meet any actuarial costs arising from a triggering event;
+
+15.1.p
+
+a plan for making decisions concerning the scheme’s investment strategy, when
+a triggering event occurs, and for dealing with scheme investments during a
+triggering event period;
+
+15.1.q
+
+a plan for dealing with any contributions due from employers and members;
+
+15.1.r
+
+details of how the scheme’s administration services would continue after a
+triggering event;
+
+15.1.s
+
+details of how service providers would be retained and paid during a
+triggering event period;
+
+15.1.t
+
+details of how implementation of the continuity strategy would be funded;
+
+15.1.u
+
+an estimate of the costs of carrying out the actions set out in the continuity
+strategy.
+
+15.2
+
+In deciding, for the purposes of section 17 of the Act (continuity strategy
+requirement), whether it is satisfied that a collective money purchase scheme
+has an adequate continuity strategy, the Regulator must take into account the
+robustness of any assumptions referred to in the following information which
+have been used for the purposes of estimating figures included in that
+information—
+
+15.2.a
+
+the plan mentioned at paragraph (1)(p); and
+
+15.2.b
+
+the details mentioned at paragraph (1)(n), (o), (s) and (t).
+
+15.3
+
+A continuity strategy must be prepared—
+
+15.3.a
+
+in writing;
+
+15.3.b
+
+in the format set out in a Code; and
+
+15.3.c
+
+in accordance with any further requirements set out in a Code.
+
+15.4
+
+In this regulation—
+
+    “ beneficiary ” has the meaning given in section 36(8) of the Act
+(continuity option 1: discharge of liabilities and winding up);         “
+receiving scheme ” means a pension scheme to which the value of a
+beneficiary’s accrued rights to benefits under the scheme may be transferred
+in accordance with Schedule 6.
+
+#### Continuity strategy: administration charges
+
+16
+
+16.1
+
+For the purposes of section 17(4) of the Act (continuity strategy
+requirement), with the exception of those administration charges mentioned in
+regulation 34(1), the section of the continuity strategy setting out the
+levels of administration charges must set them out as follows.
+
+16.2
+
+The section must set out for each charge structure all levels of
+administration charges in the current scheme year including—
+
+16.2.a
+
+for any additional charges, and the reason for imposing them;
+
+16.2.b
+
+for any third-party charges, and the reason for imposing them;
+
+16.2.c
+
+for any other type of administration charge in the scheme, and the reason for
+imposing it.
+
+16.3
+
+The levels must be set out on an annualised basis.
+
+### Valuation and benefit adjustment
+
+#### Calculation of benefits
+
+17
+
+17.1
+
+For the purposes of section 18(4) of the Act (calculation of benefits), the
+rules of a collective money purchase scheme must contain the provisions set
+out in paragraphs (2) to (4).
+
+17.2
+
+In relation to the determination of the value of the available assets of the
+scheme, the assets to be taken into account are the available assets of the
+scheme attributed to the scheme in the relevant accounts, excluding any
+resources invested in contravention of section 40(1) of the 1995 Act
+(restriction on employer-related investments).
+
+17.3
+
+In relation to the determination of the required amount—
+
+17.3.a
+
+that the trustees must apply the methods set out in the scheme rules;
+
+17.3.b
+
+that the mortality tables used and the demographic assumptions made, having
+regard to the main characteristics of the members as a group, must be based on
+a central estimate basis;
+
+17.3.c
+
+that the discount rate must be determined using a central estimate of the
+estimated future returns on assets held by the scheme or expected to be held
+in the future;
+
+17.3.d
+
+that the inflation assumptions used must be based on a central estimate basis.
+
+17.4
+
+In relation to the adjustment of the rate or amount of benefits provided under
+the scheme—
+
+17.4.a
+
+that the trustees must apply the methods set out in the scheme rules;
+
+17.4.b
+
+that any such adjustment must be based on the actuarial valuation calculated
+by reference to the most recent effective date;
+
+17.4.c
+
+that any such adjustment must be applied to all the members of the scheme
+without variation;
+
+17.4.d
+
+that any such adjustment must be applied on the benefit adjustment date;
+
+17.4.e
+
+that  , except where there is a multi-annual reduction in effect,   where an
+increase is required to the rate or amount of benefits provided under the
+scheme, before that increase can be applied the trustees must determine—
+
+17.4.e.i
+
+the cost of funding that increase for the remaining lives of—
+
+17.4.e.i.aa
+
+the beneficiaries of the scheme on the effective date;
+
+17.4.e.i.bb
+
+the expected survivors in relation to the members of the scheme on the
+effective date;
+
+17.4.e.ii
+
+that the value of the available assets of the scheme, as determined for the
+purposes of the actuarial valuation calculated by reference to the most recent
+effective date, is sufficient to meet the cost of funding that increase for
+the remaining lives of—
+
+17.4.e.ii.aa
+
+the beneficiaries of the scheme on the effective date;
+
+17.4.e.ii.bb
+
+the expected survivors in relation to the members of the scheme on the
+effective date.
+
+17.5
+
+For the purposes of paragraph (4)(e) the cost of funding an increase must—
+
+17.5.a
+
+be calculated on the basis that the increase will be applied each year;
+
+17.5.b
+
+include the projected change in inflation.
+
+17.6
+
+Subject to paragraphs (3) and (4), it is for the trustees of a collective
+money purchase scheme to determine, having obtained advice from the scheme
+actuary, which assumptions are to be used for the purposes of determining the
+required amount on which the adjustment to the rate or amount of benefits
+provided under the scheme is based.
+
+17.7
+
+Paragraphs (8) to (13) apply where the scheme rules of a collective money
+purchase scheme permit the trustees to apply a multi-annual reduction.
+
+17.8
+
+The trustees of a collective money purchase scheme may apply a multi-annual
+reduction to the rate or amount of benefits provided under the scheme provided
+that—
+
+17.8.a
+
+the multi-annual reduction is to be applied in full on or before the third
+benefit adjustment date beginning with the benefit adjustment date which
+relates to the actuarial valuation as a result of which the multi-annual
+reduction is to be applied;
+
+17.8.b
+
+the reduction applied in any year of the multi-annual reduction must not be
+greater than the reduction applied in the previous year of the multi-annual
+reduction.
+
+17.9
+
+  Except as provided by paragraph (10), the trustees   of a collective money
+purchase scheme must not vary any planned adjustments under a multi-annual
+reduction after the first benefit adjustment date which relates to the
+actuarial valuation as a result of which the multi-annual reduction is to be
+applied.
+
+17.10
+
+Where there is one or more multi-annual reduction or reductions in effect and
+a subsequent actuarial valuation results in an increase in the rate or amount
+of benefits provided under the scheme, the trustees, having obtained the
+advice of the scheme actuary, must vary one or more multi-annual reduction or
+reductions then in effect, by applying that increase to offset the planned
+reduction or reductions under the multi-annual reduction or reductions, which
+take effect on or after the benefit adjustment date following that valuation.
+
+17.10A
+
+Paragraph (8)(b) does not apply to a multi-annual reduction that has been
+varied in accordance with paragraph (10).
+
+17.10B
+
+Any offsetting increase pursuant to paragraph (10) must be applied to the
+remaining years of the multi-annual reduction or reductions so that the total
+reduction applied in any year of the multi-annual reduction or reductions must
+not be greater than the total reduction applied in the previous year of the
+multi-annual reduction or reductions.
+
+17.10C
+
+If an offsetting increase has been applied pursuant to paragraphs (10) and
+(10B) so that a multi-annual reduction has been offset in full, such multi-
+annual reduction will cease to have effect and, if all multi-annual reductions
+cease to have effect, any remaining increase must be applied in accordance
+with the scheme rules made pursuant to paragraph (4)(e).
+
+17.11
+
+Where there is a multi-annual reduction in effect and a subsequent actuarial
+valuation results in a further reduction in the rate or amount of benefits
+provided under the scheme, that further reduction is to be applied by the
+trustees, having obtained the advice of the scheme actuary, in addition to the
+multi-annual reduction which is in effect.
+
+17.12
+
+Where there is a single multi-annual reduction in effect and a subsequent
+actuarial valuation results in a further reduction in the rate or amount of
+benefits provided under the scheme which is to be applied as a multi-annual
+reduction (the “second multi-annual reduction”)—
+
+17.12.a
+
+paragraph (8)(b) does not apply to the second multi-annual reduction;
+
+17.12.b
+
+the total reduction applied in any year of the second multi-annual reduction
+must not be greater than the total reduction applied in the previous year of
+the second multi-annual reduction.
+
+17.13
+
+Where there are two (but not more than two) multi-annual reductions in effect
+and a subsequent actuarial valuation results in a further reduction in the
+rate or amount of benefits provided under the scheme which is to be applied as
+a multi-annual reduction (the “third multi-annual reduction”)—
+
+17.13.a
+
+paragraph (8)(b) does not apply to the third multi-annual reduction;
+
+17.13.b
+
+the total reduction applied in any year of the third multi-annual reduction
+must not be greater than the total reduction applied in the previous year of
+the third multi-annual reduction.
+
+17.14
+
+In this regulation—
+
+“ beneficiary ” has the meaning given in section 36(8) of the Act (continuity
+option 1: discharge of liabilities and winding up); “ benefit adjustment date
+” means the date set out in the scheme rules on which an adjustment to the
+rate or amount of benefits provided under the scheme following an actuarial
+valuation must be applied each year; “ relevant accounts ”, in relation to an
+actuarial valuation, are the audited accounts for the scheme which are
+prepared in respect of the period ending with the effective date of the
+actuarial valuation.
+
+#### Advice of scheme actuary
+
+18
+
+When advising the trustees of a collective money purchase scheme in accordance
+with section 19(1) of the Act (advice of scheme actuary), the scheme actuary
+must have regard to any guidance which is relevant to determining the matters
+mentioned in section 18(1) and (2) of the Act (calculation of benefits)
+published, and from time to time revised, by—
+
+18.a
+
+the Institute and Faculty of Actuaries (or its successor);
+
+18.b
+
+the Regulator.
+
+#### Actuarial valuations
+
+19
+
+19.1
+
+The trustees of a collective money purchase scheme must obtain—
+
+19.1.a
+
+an actuarial valuation in which the effective date falls within the period of
+one year beginning with the day on which the scheme begins operating; and
+
+19.1.b
+
+subsequent actuarial valuations in which the effective date is not more than
+one year after the effective date of the previous actuarial valuation.
+
+19.2
+
+At any time prior to the certification of the actuarial valuation by the
+scheme actuary , the trustees of a collective money purchase scheme may, where
+the scheme rules so permit, instruct the scheme actuary—
+
+19.2.a
+
+to adjust the value of the available assets of the scheme to account for
+changes in asset values since the effective date;
+
+19.2.b
+
+to adjust the value of the required amount to account for changes to the
+scheme membership or other relevant matters since the effective date.
+
+19.3
+
+Before instructing the scheme actuary to make an adjustment described in
+paragraph (2) the trustees of a collective money purchase scheme must obtain
+written advice from the scheme actuary.
+
+19.4
+
+An actuarial valuation prepared in accordance with section 20(1) of the Act
+(actuarial valuations) must contain the following—
+
+19.4.a
+
+the methods and assumptions used for the actuarial valuation and how these
+have been derived;
+
+19.4.b
+
+the scheme actuary’s certification that the matters mentioned in section 20(2)
+of the Act have been determined in accordance with the scheme rules;
+
+19.4.c
+
+the total number of members enrolled in the scheme as at the effective date,
+including a breakdown of the number of active members, deferred members,
+pensioner members and survivors entitled to the payment of benefits under the
+scheme;
+
+19.4.d
+
+the average age of the active members, deferred members and pensioner members
+in the scheme as at the effective date;
+
+19.4.e
+
+the amount of all benefits in payment as at the effective date;
+
+19.4.f
+
+the effective date of the previous actuarial valuation;
+
+19.4.g
+
+the value of the available assets of the scheme and the required amount set
+out in the previous actuarial valuation;
+
+19.4.h
+
+whether an adjustment to the rate or amount of the benefits provided under the
+scheme was required following the previous actuarial valuation;
+
+19.4.i
+
+where an adjustment to the rate or amount of the benefits provided under the
+scheme was required following the previous actuarial valuation, the details of
+the adjustment and the date the adjustment was applied;
+
+19.4.j
+
+a statement as to whether any multi-annual reduction is in effect as at the
+effective date;
+
+19.4.k
+
+where a multi-annual reduction is in effect, the details of the arrangement
+including—
+
+19.4.k.i
+
+the duration of the multi-annual reduction;
+
+19.4.k.ii
+
+the rate of reduction for each year of the arrangement;
+
+19.4.k.iii
+
+confirmation that previous reductions have been applied in accordance with the
+details of the arrangement;
+
+19.4.k.iv
+
+the number of years remaining until the multi-annual reduction is applied in
+full;
+
+19.4.k.v
+
+any variation to the multi-annual reduction as a result of applying an
+increase to offset the planned reduction under the multi-annual reduction in
+accordance with regulation 17(10), including the effect of that offsetting
+increase on the planned reduction in the remaining years of the multi-annual
+reduction;
+
+19.4.ka
+
+where a multi-annual reduction would have been in effect as at the effective
+date but has ceased to have effect in accordance with regulation 17(10C), the
+details of—
+
+19.4.ka.i
+
+when such multi-annual reduction ceased to have effect;
+
+19.4.ka.ii
+
+any remaining increase that has been applied in accordance with regulation
+17(10C);
+
+19.4.l
+
+in relation to the methods and assumptions used for the actuarial valuation—
+
+19.4.l.i
+
+where there has been no change compared to the methods and assumptions used
+for the previous actuarial valuation, a statement setting out why the methods
+and assumptions continue to be appropriate for the scheme; or
+
+19.4.l.ii
+
+where there has been a change compared to the methods and assumptions used for
+the previous actuarial valuation, a statement setting out the justification
+for any changes to the methods or assumptions used.
+
+19.5
+
+The requirements set out at paragraph (4)(f) to (l) do not apply to an
+actuarial valuation prepared in accordance with paragraph (1)(a).
+
+19.6
+
+The trustees of a collective money purchase scheme must obtain an actuarial
+valuation within a period of ten months beginning with the effective date of
+the valuation.
+
+19.7
+
+The trustees of a collective money purchase scheme must secure that any
+actuarial valuation obtained by them is made available to the Regulator before
+the end of ten days beginning with the date on which they obtain it.
+
+19.8
+
+In this regulation, the day on which a scheme begins operating is the day on
+which, in relation to the scheme, a person first accepts money as described in
+section 7(5)(a) or (b) of the Act.
+
+#### Reporting requirements relating to benefit adjustments
+
+20
+
+A report under section 22(2) of the Act (benefits adjustments) must, in
+addition to an explanation of why the adjustment was not made in accordance
+with the most recent actuarial valuation or (as the case may be) does not take
+effect in accordance with the scheme rules, contain the following information—
+
+20.a
+
+the level of any adjustments applied;
+
+20.b
+
+the level of the benefit adjustment that should have been applied in
+accordance with the most recent actuarial valuation or (as the case may be)
+the scheme rules;
+
+20.c
+
+any proposed remedial actions;
+
+20.d
+
+a timetable for implementing any remedial actions;
+
+20.e
+
+a statement as to whether the failure to apply the benefit adjustment in
+accordance with the most recent actuarial valuation or (as the case may be)
+the scheme rules will or is likely to result in any negative impact on the
+scheme’s ongoing ability to provide the pension benefits under the design of
+the scheme;
+
+20.f
+
+where there is or is likely to be a negative impact on the scheme’s ongoing
+ability to provide the pension benefits, details of any proposed actions to
+address this.
+
+#### Powers of the Regulator
+
+21
+
+21.1
+
+A direction issued by the Regulator under section 23(2)(a) of the Act (powers
+of the Pensions Regulator) must set out the matters that the Regulator has
+considered in determining to issue the direction.
+
+21.2
+
+A direction issued by the Regulator under section 23(2)(b) of the Act must set
+out the following—
+
+21.2.a
+
+the relevant matters that the Regulator has considered in determining to issue
+the direction;
+
+21.2.b
+
+a timetable for implementing any steps or actions specified by the Regulator.
+
+### Ongoing supervision
+
+#### Supervisory return: contents
+
+22
+
+For the purposes of section 27(2) of the Act (requirement to submit
+supervisory return), the Regulator may require the following information to be
+included in a supervisory return, to the extent that it has not already been
+provided to the Regulator—
+
+22.a
+
+details of how trustees’ competence is being maintained, with particular
+reference to their compliance with the knowledge and understanding
+requirements in sections 247 (requirement for knowledge and understanding:
+individual trustees), 248 (requirement for knowledge and understanding:
+corporate trustees) and 249 (requirement for knowledge and understanding:
+supplementary) of the 2004 Act  as applicable;
+
+22.b
+
+any other information that is relevant to the authorisation criteria listed in
+section 9(3) of the Act (decision on application).
+
+#### Significant events
+
+23
+
+23.1
+
+The following are significant events for the purposes of section 28 of the Act
+(duty to notify the Pensions Regulator of significant events)—
+
+23.1.a
+
+a proposal to change or add to the persons involved in the scheme in the
+capacities mentioned in section 11(2) of the Act (fit and proper persons
+requirement);
+
+23.1.b
+
+an individual who is involved with the scheme in a capacity mentioned in
+section 11(2) of the Act, or whose involvement in the scheme in that capacity
+has been suspended while the individual’s appointment is being considered—
+
+23.1.b.i
+
+is convicted of an offence;
+
+23.1.b.ii
+
+enters bankruptcy;
+
+23.1.b.iii
+
+has a County Court judgment registered, or in Scotland a decree of the Sheriff
+Court issued, against him or her;
+
+23.1.b.iv
+
+is sanctioned by a regulator other than the Regulator;
+
+23.1.b.v
+
+is disqualified as a company director;
+
+23.1.b.vi
+
+has been the subject of an adverse judgment or has reached a settlement in
+civil proceedings, including in connection with investment or other financial
+business, misconduct, fraud or the formation or management of a body
+corporate;
+
+23.1.b.vii
+
+has contravened any of the requirements or standards of a regulator, including
+the Regulator;
+
+23.1.b.viii
+
+has a change of circumstances, through ill health or otherwise, which
+materially impairs the individual’s ability to operate in a capacity mentioned
+in section 11(2) of the Act;
+
+23.1.b.ix
+
+has any other change of circumstances which the person required to give notice
+considers likely to affect the Regulator’s assessment under section 11 of the
+Act of whether the individual is a fit and proper person;
+
+23.1.c
+
+a significant change to the scheme’s investment strategy;
+
+23.1.d
+
+a proposal to change the design of the scheme including, but not limited to,
+the following—
+
+23.1.d.i
+
+a proposal that the scheme should become a closed scheme;
+
+23.1.d.ii
+
+where the scheme is a collective money purchase scheme for the purposes of
+section 1(2)(a) of the Act (collective money purchase benefits and schemes)
+and the scheme is not divided into sections, a proposal for the scheme to
+become a scheme that is divided into sections;
+
+23.1.e
+
+where the scheme is a collective money purchase scheme for the purposes of
+section 1(2)(b) of the Act, a proposal to provide qualifying benefits, or
+other benefits, under a new section of the qualifying scheme;
+
+23.1.f
+
+a failure to obtain a viability certificate in accordance with section 13(4)
+or (5) of the Act (viability report);
+
+23.1.g
+
+an event which, in the opinion of a person mentioned in section 28(2) of the
+Act (duty to notify the Pensions Regulator of significant events), undermines,
+or is likely to undermine, the soundness of the design of the scheme;
+
+23.1.h
+
+an event which has resulted or, in the opinion of a person mentioned in
+section 28(2) of the Act, is likely to result in the scheme being unable to
+meet the requirements of Part 3 of Schedule 3;
+
+23.1.i
+
+the scheme is unable or, in the opinion of a person mentioned in section 28(2)
+of the Act, is unlikely to be able to meet its running costs;
+
+23.1.j
+
+in the opinion of a person mentioned in section 28(2) of the Act, the scheme
+will be unable or is unlikely to be able, to meet the costs mentioned in
+section 14(2)(b) of the Act (financial sustainability requirement);
+
+23.1.k
+
+a failure of the systems or processes used in running the scheme which has a
+significant adverse effect on the security or quality of data or on service
+delivery;
+
+23.1.l
+
+a failure of the systems and processes for communicating with relevant persons
+which has a significant adverse effect on communications with relevant
+persons;
+
+23.1.m
+
+a proposal to make a significant change to the systems and processes used in
+running the scheme (including the systems and processes for communicating with
+relevant persons), including a change in who the persons are that are
+responsible for delivering key services to the scheme;
+
+23.1.n
+
+an investigation of the scheme, or of a person involved in the scheme, by a
+regulator or other competent authority inside or outside the United Kingdom.
+
+23.2
+
+In this regulation, the significant events listed in paragraph (1)(a), (c) to
+(e), (g), (h) and (k) to (n) are specified significant events.
+
+23.3
+
+For the purposes of section 28(4) of the Act, a person who is required to give
+notice of a specified significant event and who is aware of the specified
+further information relating to that event set out in paragraphs (4) to (8) as
+applicable, must provide the specified further information, in writing, to the
+Regulator, as soon as reasonably practicable.
+
+23.4
+
+Where the specified significant event is a proposal or a change mentioned in
+paragraph (1)(a), (c) to (e), or (m), the specified further information
+relating to that event is—
+
+23.4.a
+
+details of the proposal or change;
+
+23.4.b
+
+the reasons for the proposal or change;
+
+23.4.c
+
+the objectives of the proposal or change;
+
+23.4.d
+
+how the interests of members of the scheme have been taken into account.
+
+23.5
+
+Where the specified significant event is that an event mentioned in paragraph
+(1)(g) has occurred, the specified further information relating to that event
+is—
+
+23.5.a
+
+the nature of the event;
+
+23.5.b
+
+the reasons why the person mentioned in paragraph (1)(g) is of the opinion
+that the event undermines, or is likely to undermine, the soundness of the
+design of the scheme.
+
+23.6
+
+Where the specified significant event is that an event mentioned in paragraph
+(1)(h) has occurred, the specified further information relating to that event
+is—
+
+23.6.a
+
+the nature of the event;
+
+23.6.b
+
+if the person mentioned in paragraph (1)(h) is of the opinion that the event
+is likely to result in the scheme being unable to meet the requirements of
+Part 3 of Schedule 3, the reasons for this opinion.
+
+23.7
+
+Where the specified significant event is that a failure mentioned in paragraph
+(1)(k) or (l) has occurred, the specified further information relating to that
+event is—
+
+23.7.a
+
+the nature of the failure;
+
+23.7.b
+
+the contact details of the person with responsibility for addressing the
+effect of the failure.
+
+23.8
+
+Where the specified significant event is an investigation of the scheme, or of
+a person involved in the scheme, by a regulator or other competent authority
+inside or outside the United Kingdom, the specified further information
+relating to that event is—
+
+23.8.a
+
+the nature of the investigation;
+
+23.8.b
+
+the contact details of the regulator or other competent authority.
+
+23.9
+
+In this regulation, “ closed ”, in relation to a collective money purchase
+scheme, means closed to new contributions or new members (or both).
+
+#### Risk notices
+
+24
+
+24.1
+
+The date referred to in section 29(3)(b) of the Act (risk notices) must fall
+before the end of 14 days beginning with the date on which the risk notice was
+issued.
+
+24.2
+
+The date referred to in section 29(4) of the Act must fall before the end of 7
+days beginning with the date on which the further notice was issued.
+
+24.3
+
+For the purposes of section 29(7)(a) of the Act, the first progress report
+must be submitted before the end of 14 days beginning with the date on which
+the Regulator notifies the trustees that it is satisfied that the proposals in
+the resolution plan are likely to be adequate to resolve the issue of concern.
+
+24.4
+
+A risk notice must—
+
+24.4.a
+
+state that the Regulator considers—
+
+24.4.a.i
+
+that the issue identified in the notice is an issue of concern in relation to
+the scheme; and
+
+24.4.a.ii
+
+that the scheme will breach the authorisation criteria, or is likely to breach
+them, if the issue is not resolved;
+
+24.4.b
+
+contain a statement of the Regulator’s grounds for its consideration and of
+the evidence on which its consideration is based; and
+
+24.4.c
+
+explain that section 10 of the 1995 Act  (civil penalties) applies to a
+trustee who fails to comply with the notice.
+
+### Triggering events and continuity options
+
+#### Triggering events: notification requirements
+
+25
+
+25.1
+
+For the purposes of section 33(4)(b) of the Act (notification of triggering
+events), a trustee who is required to give a required notification under
+section 33(3) of the Act must notify each employer and any relevant former
+employer of the following matters—
+
+25.1.a
+
+that the trustees—
+
+25.1.a.i
+
+have submitted an implementation strategy to the Regulator and the date on
+which they did so, or
+
+25.1.a.ii
+
+will submit an implementation strategy to the Regulator before the end of the
+period specified in regulation 26; and
+
+25.1.a.iii
+
+in either case, will make the implementation strategy available to each
+employer and any relevant former employer after it has been approved by the
+Regulator;
+
+25.1.b
+
+the timetable for future communications with each employer and any relevant
+former employer.
+
+25.2
+
+Notifications under section 33 of the Act must be given before the end of—
+
+25.2.a
+
+seven days (in the case of notifications to the Regulator);
+
+25.2.b
+
+fourteen days (in the case of notifications to an employer or any relevant
+former employer); or
+
+25.2.c
+
+two days (in the case of notifications to trustees),
+
+beginning with the date specified in paragraph (3).
+
+25.3
+
+The specified date is—
+
+25.3.a
+
+the date on which the triggering event occurred, in the case of—
+
+25.3.a.i
+
+notifications given under section 33(1) of the Act—
+
+25.3.a.i.aa
+
+by the employer or relevant former employer, in respect of an item 4
+triggering event;
+
+25.3.a.i.bb
+
+by the person who made the decision, in respect of an item 6 or 8 triggering
+event;
+
+25.3.a.ii
+
+notifications given under section 33(7) or (8) of the Act;
+
+25.3.b
+
+the date on which the employer or relevant former employer becomes aware that
+they are unlikely to continue as a going concern, in the case of notifications
+given under section 33(1) of the Act by the employer or relevant former
+employer in respect of an item 5 triggering event;
+
+25.3.c
+
+the date on which the person under the duty to notify became aware that the
+event had occurred, in the case of—
+
+25.3.c.i
+
+notifications given under section 33(1) of the Act which are not mentioned in
+sub-paragraph (a)(i);
+
+25.3.c.ii
+
+notifications given under section 33(3) or (9) of the Act.
+
+#### Implementation strategy: approval
+
+26
+
+Where the trustees of a collective money purchase scheme are required to
+submit an implementation strategy to the Regulator for approval, it must be
+submitted before the end of 28 days beginning with the date on which—
+
+26.a
+
+the decision to withdraw authorisation becomes final, in relation to an item 1
+or 2 triggering event; or
+
+26.b
+
+the triggering event occurred, in relation to an item 3 to 9 triggering event.
+
+#### Implementation strategy: charges
+
+27
+
+27.1
+
+The information to be included in the implementation strategy about the levels
+of administration charges in relation to members of the scheme—
+
+27.1.a
+
+must relate to the levels of administration charges for the scheme years
+specified in paragraph (2); and
+
+27.1.b
+
+with the exception of those administration charges mentioned in regulation
+34(1) (administration charges during a triggering event period), must be set
+out in accordance with paragraphs (3) and (4).
+
+27.2
+
+The specified scheme years are—
+
+27.2.a
+
+the scheme year in which the triggering event occurred; and
+
+27.2.b
+
+the scheme year preceding the one in which the triggering event occurred.
+
+27.3
+
+The trustees must set out for each charge structure all levels of
+administration charges including—
+
+27.3.a
+
+for any additional charges, and the reason for imposing them;
+
+27.3.b
+
+for any third-party charges, and the reason for imposing them;
+
+27.3.c
+
+for any other type of administration charge in the scheme, including the
+reason for imposing it.
+
+27.4
+
+The levels in paragraph (3) must be set out on an annualised basis.
+
+27.5
+
+For the purposes of section 45(3)(b) of the Act (prohibition on increasing
+charges etc during triggering event period), during a triggering event period
+for a collective money purchase scheme, the trustees must not impose
+administration charges on or in respect of members at levels above the fixed
+charge level.
+
+27.6
+
+For the purposes of paragraph (5) the fixed charge level is calculated as
+follows—
+
+27.6.a
+
+the trustees must compare each level from the levels set out in the
+implementation strategy for the scheme year in paragraph (2)(a) with the
+corresponding level from the levels set out for the scheme year in paragraph
+(2)(b), and take the lower of the two levels as the fixed charge level; and
+
+27.6.b
+
+where the triggering event period is more or less than a full year, the levels
+in sub-paragraph (a) must be applied on a pro rata basis.
+
+#### Implementation strategy: content
+
+28
+
+28.1
+
+An implementation strategy must contain—
+
+28.1.a
+
+details of—
+
+28.1.a.i
+
+the main decisions and actions that will be taken, in relation to the
+continuity option being pursued, to address the triggering event that has
+occurred;
+
+28.1.a.ii
+
+the person responsible for taking them; and
+
+28.1.a.iii
+
+the timescales for taking them;
+
+28.1.b
+
+a communications plan setting out what information will be communicated to
+employers and beneficiaries and when, including information about—
+
+28.1.b.i
+
+the continuity option being pursued, and
+
+28.1.b.ii
+
+key milestones and when they are to be (or were) achieved;
+
+28.1.c
+
+if continuity option 1 is being pursued, a plan setting out how the scheme’s
+liability to each beneficiary in respect of the value of their accrued rights
+to benefits under the scheme is to be discharged under the proposal formulated
+by the trustees in accordance with section 36(1)(b) of the Act (continuity
+option 1: discharge of liabilities and winding up);
+
+28.1.d
+
+if continuity option 1 is being pursued, details of how any periodic income to
+be paid in accordance with paragraph 7 of Schedule 6 would be calculated and
+paid;
+
+28.1.e
+
+a plan setting out how the integrity of members’ records will be maintained
+during the triggering event period;
+
+28.1.f
+
+details of how assets held by the scheme would be converted into a cash
+equivalent of the value of each beneficiary’s accrued rights to benefits under
+the scheme, if applicable;
+
+28.1.g
+
+details of how the trustees will comply with any legal requirements and meet
+any legal costs arising from the triggering event that has occurred and the
+continuity option being pursued;
+
+28.1.h
+
+details of how the trustees will comply with any actuarial requirements and
+meet any actuarial costs arising from the triggering event that has occurred
+and the continuity option being pursued;
+
+28.1.i
+
+details of how scheme investments will be managed during the triggering event
+period;
+
+28.1.j
+
+a plan for dealing with any outstanding contributions due from employers and
+members;
+
+28.1.k
+
+details of how the scheme’s administration services will continue during the
+triggering event period;
+
+28.1.l
+
+details of how service providers are to be retained and paid during the
+triggering event period;
+
+28.1.m
+
+details of how carrying out the steps identified in the implementation
+strategy, including steps relating to the continuity option being pursued, is
+to be funded;
+
+28.1.n
+
+details of when and how the process of determining the rate or amount of
+benefits provided under the scheme is to be carried out in accordance with
+section 18 of the Act (calculation of benefits), if applicable.
+
+28.2
+
+An implementation strategy must be prepared—
+
+28.2.a
+
+in writing;
+
+28.2.b
+
+in the format set out in a Code; and
+
+28.2.c
+
+in accordance with any further requirements set out in a Code.
+
+28.3
+
+After approval by the Regulator, the implementation strategy must be made
+available to the employers and any relevant former employer in relation to the
+scheme before the end of seven days beginning with the date on which the
+Regulator notifies the trustees that the implementation strategy is approved.
+
+#### Continuity option 1: discharge of liabilities and winding up
+
+29
+
+Schedule 6 applies when the trustees of a collective money purchase scheme are
+required, or decide, to pursue continuity option 1.
+
+#### Continuity option 2: resolving the triggering event
+
+30
+
+For the purposes of section 37(3)(b) of the Act (continuity option 2:
+resolving triggering event), the notification to the Regulator setting out how
+the trustees consider that a triggering event (“ the relevant event ”) has
+been resolved must be given before the end of 14 days beginning with the later
+of—
+
+30.a
+
+the date on which the relevant event was, in the trustees’ opinion, resolved;
+and
+
+30.b
+
+if any other event within the second column of the triggering events table has
+occurred in relation to the scheme since the occurrence of the relevant event,
+the date on which such other events have, in the trustees’ opinion, been
+resolved.
+
+#### Continuity option 3: conversion to closed scheme
+
+31
+
+31.1
+
+For the purposes of section 38(3) of the Act (continuity option 3: conversion
+to closed scheme), the notification to the Regulator under section 38(2) of
+the Act must be given before the end of 28 days beginning with the date on
+which the trustees consider that preparations for the conversion of the scheme
+into a closed scheme are complete.
+
+31.2
+
+Preparations for the conversion of the scheme into a closed scheme are not
+complete unless the steps identified in the implementation strategy, in order
+to carry out continuity option 3, are complete.
+
+#### Periodic reporting requirement
+
+32
+
+32.1
+
+For the purposes of section 43(2) of the Act (periodic reporting requirements)
+the first report must be submitted to the Regulator before the end of 14 days
+beginning with the date on which the Regulator notifies the trustees that the
+implementation strategy is approved.
+
+32.2
+
+For the purposes of section 43(4)(b) of the Act, the reports must record—
+
+32.2.a
+
+decisions made by the trustees and employers concerning the continuity option
+being pursued;
+
+32.2.b
+
+where continuity option 1 is being pursued, decisions made by the trustees and
+employers in relation to the proposal formulated in accordance with section
+36(1)(b) of the Act (continuity option 1: discharge of liabilities and winding
+up) for discharging the scheme’s liability to each beneficiary.
+
+32.3
+
+The following information is specified for the purposes of section 43(4)(c) of
+the Act—
+
+32.3.a
+
+if the person preparing the report is not an independent trustee appointed
+pursuant to section 23(1) of the 1995 Act  (power to appoint independent
+trustees), the name and address of that person;
+
+32.3.b
+
+the name and address of the scheme actuary;
+
+32.3.c
+
+a statement as to whether any of the scheme’s administration services are
+being carried out by a person other than a trustee, and if so the name and
+address of that person;
+
+32.3.d
+
+the timescales for completing the steps identified in the implementation
+strategy;
+
+32.3.e
+
+details of whether any particular issues are affecting the trustees’ ability
+to pursue or complete the steps identified in the implementation strategy.
+
+#### Pause orders
+
+33
+
+Where a pause order containing a direction under section 44(5)(e) of the Act
+(pause orders) has effect in respect of a scheme, section 99 of the 1993 Act
+(trustees’ duties after exercise of option) has effect in relation to that
+scheme as if for subsection (2)(c) of section 99 there were substituted—
+
+33.c
+
+in the case of an application which relates to money purchase benefits that
+are collective money purchase benefits, by the later of—
+
+33.c.i
+
+the last day of the period of six months beginning with the date of the
+application or such longer period beginning with that date as may be
+prescribed; or
+
+33.c.ii
+
+where a pause order made under section 44(2) of the Pension Schemes Act 2021
+and containing a direction under section 44(5)(e) of that Act has effect in
+relation to that scheme before the last day of the period referred to in sub-
+paragraph (i), the last day of the period of three months beginning with the
+date on which the pause order ceases to have effect.
+
+.
+
+#### Administration charges during a triggering event period
+
+34
+
+34.1
+
+Section 45(1) and (2) of the Act (prohibition on increasing charges etc during
+triggering event period) do not apply in relation to the following
+administration charges—
+
+34.1.a
+
+costs incurred as a result of the buying, selling, lending or borrowing of
+investments;
+
+34.1.b
+
+where a court order provides for the recovery by the trustees of costs
+incurred in complying with the order, the amount of those costs;
+
+34.1.c
+
+charges permitted by regulations made under section 24 (charges by pension
+arrangements in relation to earmarking orders) or 41 (charges in respect of
+pension sharing costs) of the Welfare Reform and Pensions Act 1999 ;
+
+34.1.d
+
+costs solely associated with the provision of death benefits;
+
+34.1.e
+
+costs solely attributable to holding physical assets.
+
+34.2
+
+Section 45(2) of the Act does not apply, in respect of a receiving scheme that
+is a Master Trust scheme, in relation to any administration charges imposed on
+or in respect of a member of the scheme in relation to a member’s flexi-access
+drawdown fund.
+
+34.3
+
+For the purposes of section 45(6) of the Act, section 45 of the Act, with the
+exception of subsection (1), applies to a relevant alternative receiving
+scheme in the same way as it applies to a receiving scheme that is a Master
+Trust scheme.
+
+34.4
+
+For the purposes of paragraph (3), a relevant alternative receiving scheme is
+a receiving scheme that—
+
+34.4.a
+
+has the characteristics mentioned in paragraph 2(1)(a) of Schedule 6; and
+
+34.4.b
+
+is not a collective money purchase scheme or a Master Trust scheme.
+
+34.5
+
+For the purposes of paragraph (1)(e), the costs solely attributable to holding
+a physical asset include—
+
+34.5.a
+
+the costs of managing and maintaining the asset;
+
+34.5.b
+
+fees for valuing the asset;
+
+34.5.c
+
+the cost of insuring the asset;
+
+34.5.d
+
+ground rent, charges, rates, taxes and utilities bills incurred in relation to
+the asset.
+
+34.6
+
+In this regulation—
+
+    “ commodity ” means any goods of a fungible nature that are capable of
+being delivered, including metals and their ores and alloys, agricultural
+products and energy such as electricity, but not including cash or financial
+instruments (within the meaning of article 3 of the Financial Services and
+Markets Act 2000 (Regulated Activities) Order 2001 );         “ member’s
+flexi-access drawdown fund ” has the meaning given in paragraph 1(1) of
+Schedule 6;         “ physical asset ” means an asset whose value depends on
+its physical form, including—       land,       buildings and other structures
+on land or sea,       vehicles, ships, aircraft or rolling stock, and
+commodities;             “ receiving scheme ” has the meaning given in section
+45(8) of the Act.
+
+### Collective money purchase benefits – amendments to secondary legislation
+
+#### Collective money purchase benefits – amendments to secondary legislation
+
+35
+
+Schedule 7 contains amendments to secondary legislation in relation to pension
+schemes providing collective money purchase benefits.
+
+    Signed by authority of the Secretary of State for Work and Pensions
+Guy Opperman   Parliamentary Under Secretary of State   Department for Work
+and Pensions   8th March 2022
+
+  Fit and proper persons requirement
+
+Regulation 8
+
+1
+
+1.1
+
+In this Schedule—
+
+    “ arrangement ” means a voluntary arrangement entered into by an
+individual with their creditors;         “ the Bankruptcy Act ” means the
+Bankruptcy (Scotland) Act 2016 ;         “ the Insolvency Act ” means the
+Insolvency Act 1986 ;         “ the Insolvency Order ” means the Insolvency
+(Northern Ireland) Order 1989 ;         “ the registrar of companies ” has the
+meaning given by section 1060(3) of the Companies Act 2006.
+
+1.2
+
+In paragraph 2(a)—
+
+    “ adjudicator ” has the meaning given by section 385(1) of the Insolvency
+Act ;         “ creditor ” has the meaning given by section 383(1) of the
+Insolvency Act .
+
+1.3
+
+In paragraph 2(b)—
+
+    “ the Accountant in Bankruptcy ” has the meaning given by section 199(1)
+of the Bankruptcy Act;         “ creditor ” has the meaning given by section
+383(1) of the Insolvency Act;         “ debtor application ” has the meaning
+given by section 228(1) of the Bankruptcy Act;         “ sequestration ” has
+the meaning given by section 1 of the Bankruptcy Act.
+
+1.4
+
+In paragraph 2(c)—
+
+    “ bankrupt ”, “ bankruptcy order ” and “ bankruptcy petition ” have the
+meanings given in Article 9(1) of the Insolvency Order;         “the court” is
+defined in rule 0.2 of the Insolvency Rules (Northern Ireland) 1991 ;
+“ creditor ” has the meaning given in Article 9(1) of the Insolvency Order.
+
+2
+
+For the purposes of section 11(3)(a) of the Act (fit and proper persons
+requirement), the Regulator must take into account the following matters when
+assessing whether a person is fit and proper to act in a capacity mentioned in
+section 11(2) of the Act—
+
+2.a
+
+whether, in England and Wales, the person has—
+
+2.a.i
+
+made any arrangement with the person’s creditors;
+
+2.a.ii
+
+applied to an adjudicator under section 263H of the Insolvency Act
+(bankruptcy applications to an adjudicator) for a bankruptcy order within the
+meaning given by section 381(2) of the Insolvency Act  (“bankrupt” and
+associated terminology);
+
+2.a.iii
+
+been served with a bankruptcy petition within the meaning given by section
+381(3) of the Insolvency Act;
+
+2.a.iv
+
+been made bankrupt within the meaning given by section 381(1) of the
+Insolvency Act ;
+
+2.a.v
+
+been the subject of a bankruptcy restrictions order made under paragraph 1
+(bankruptcy restrictions order) of Schedule 4A to the Insolvency Act
+(including an interim bankruptcy restrictions order made under paragraph 5
+(interim bankruptcy restrictions order) of that Schedule); or
+
+2.a.vi
+
+offered a bankruptcy restrictions undertaking made under paragraph 7
+(bankruptcy restrictions undertaking) of Schedule 4A to the Insolvency Act;
+
+2.b
+
+whether, in Scotland, the person has—
+
+2.b.i
+
+made any arrangement with the person’s creditors;
+
+2.b.ii
+
+made a debtor application to the Accountant in Bankruptcy for sequestration;
+
+2.b.iii
+
+been served with a petition for sequestration;
+
+2.b.iv
+
+been the subject of an award of sequestration in accordance with section 22 of
+the Bankruptcy Act (when sequestration is awarded); or
+
+2.b.v
+
+been the subject of a bankruptcy restrictions order within the meaning given
+by section 155(1) (bankruptcy restrictions order) of the Bankruptcy Act
+(including an interim bankruptcy restrictions order within the meaning given
+by section 160 (interim bankruptcy restrictions orders) of that Act);
+
+2.c
+
+whether, in Northern Ireland, the person has—
+
+2.c.i
+
+made any arrangement with the person’s creditors;
+
+2.c.ii
+
+petitioned the court for a bankruptcy order;
+
+2.c.iii
+
+been served with a bankruptcy petition;
+
+2.c.iv
+
+been adjudged bankrupt;
+
+2.c.v
+
+been the subject of a bankruptcy restrictions order made under paragraph 1
+(bankruptcy restrictions order) of Schedule 2A to the Insolvency Order
+(including an interim bankruptcy restrictions order made under paragraph 5
+(interim bankruptcy restrictions order) of that Schedule); or
+
+2.c.vi
+
+offered a bankruptcy restrictions undertaking made under paragraph 7
+(bankruptcy restrictions undertaking) of Schedule 2A to the Insolvency Order;
+
+2.d
+
+whether the person has been a director  or partner of, or otherwise concerned
+in the management of, a business that has gone into insolvency, liquidation or
+administration while the person was concerned with that business or within one
+year of their being so concerned;
+
+2.e
+
+whether—
+
+2.e.i
+
+in Great Britain, the person has been convicted of any criminal offence,
+excluding convictions that are spent within the meaning of the Rehabilitation
+of Offenders Act 1974 ; or
+
+2.e.ii
+
+in Northern Ireland, the person has been convicted of any criminal offence,
+excluding convictions that are spent within the meaning of the Rehabilitation
+of Offenders (Northern Ireland) Order 1978 ;
+
+2.f
+
+whether there has been a judgment against the person or the person has reached
+a settlement in civil proceedings, particularly in connection with investment
+or other financial business, misconduct, fraud or the formation or management
+of a body corporate;
+
+2.g
+
+whether—
+
+2.g.i
+
+in Great Britain, the person has been subject to a disqualification order
+under section 1(1) (disqualification orders: general), or a disqualification
+undertaking under section 1A(1) (disqualification undertakings: general) of
+the Company Directors Disqualification Act 1986 ; or
+
+2.g.ii
+
+in Northern Ireland, the person has been subject to a disqualification order
+under Article 3(1) (disqualification orders: general), or a disqualification
+undertaking under Article 4(1) (disqualification undertakings: general) of the
+Company Directors Disqualification (Northern Ireland) Order 2002 ;
+
+2.h
+
+whether the person has contravened any of the requirements or standards of—
+
+2.h.i
+
+a regulator, including the Regulator; or
+
+2.h.ii
+
+the registrar of companies ;
+
+2.i
+
+any information received from—
+
+2.i.i
+
+a regulator; or
+
+2.i.ii
+
+the registrar of companies;
+
+2.j
+
+the person’s conduct in relation to, or arising out of or in connection with,
+any work the person has carried out in one or more of the capacities mentioned
+in section 11(2) of the Act—
+
+2.j.i
+
+in the period of five years ending with the date of the application for
+authorisation of the scheme; and
+
+2.j.ii
+
+at any time since the date of the application for authorisation of the scheme;
+
+2.k
+
+whether—
+
+2.k.i
+
+in Great Britain, the person has been prohibited from being a trustee of any
+trust, including any trust scheme within the meaning of section 124(1) of the
+1995 Act (interpretation of Part 1), under—
+
+2.k.i.aa
+
+section 3 of the 1995 Act  (prohibition orders), or
+
+2.k.i.bb
+
+any other legislation; or
+
+2.k.ii
+
+in Northern Ireland, the person has been prohibited from being a trustee of
+any trust, including any trust scheme within the meaning of Article 121(1) of
+the Pensions (Northern Ireland) Order 1995  (interpretation of Part 2), under—
+
+2.k.ii.aa
+
+Article 3 of the Pensions (Northern Ireland) Order 1995  (prohibition orders),
+or
+
+2.k.ii.bb
+
+any other legislation;
+
+2.l
+
+whether—
+
+2.l.i
+
+in Great Britain, the person has been disqualified from being a trustee of any
+trust, including any trust scheme within the meaning of section 124(1) of the
+1995 Act, under—
+
+2.l.i.aa
+
+section 29 of the 1995 Act  (persons disqualified from being trustees), or
+
+2.l.i.bb
+
+any other legislation; or
+
+2.l.ii
+
+in Northern Ireland, the person has been disqualified from being a trustee of
+any trust, including any trust scheme within the meaning of Article 121(1) of
+the Pensions (Northern Ireland) Order 1995, under—
+
+2.l.ii.aa
+
+Article 29 of the Pensions (Northern Ireland) Order 1995  (persons
+disqualified for being trustees), or
+
+2.l.ii.bb
+
+any other legislation.
+
+3
+
+For the purposes of section 11(3)(a) of the Act, the Regulator must take into
+account—
+
+3.a
+
+the knowledge and skills gained from a person’s significant experience as a
+trustee, in assessing whether the person is fit and proper to act in that
+capacity;
+
+3.b
+
+whether a person has successfully completed such relevant training as may be
+set out in a Code, in assessing whether the person is fit and proper to act in
+the capacity of a trustee of the scheme;
+
+3.c
+
+the collective expertise and experience of persons acting together in the
+capacity of trustees, in assessing whether they are fit and proper to act in
+that capacity.
+
+  Scheme design requirement
+
+Regulations 9, 10 and 11
+
+##### Matters that the Regulator must take into account
+
+1
+
+The Regulator must take into account the following matters in deciding whether
+it is satisfied that the design of a collective money purchase scheme is
+sound—
+
+1.a
+
+the information or documents mentioned in regulation 10(3) that are provided
+to the Regulator in accordance with section 13(6) of the Act (viability
+report);
+
+1.b
+
+whether the Regulator is satisfied that the scheme is a collective money
+purchase scheme within the meaning of section 1(2) of the Act (collective
+money purchase benefits and schemes);
+
+1.c
+
+whether the Regulator is satisfied that the rules of the scheme meet—
+
+1.c.i
+
+the requirements of section 18 of the Act (calculation of benefits); and
+
+1.c.ii
+
+the requirements of regulation 17;
+
+1.d
+
+whether the Regulator is satisfied that the conclusions reached by—
+
+1.d.i
+
+the trustees as provided for in paragraph 8(1)(b);
+
+1.d.ii
+
+the scheme actuary on the matters in regulation 11(2),
+
+as set out in the viability report and viability certificate, are justified;
+
+1.e
+
+whether the Regulator considers that—
+
+1.e.i
+
+the contents of the viability report;
+
+1.e.ii
+
+the contents of the viability certificate; and
+
+1.e.iii
+
+the information provided to the Regulator concerning the testing or modelling
+used for the purposes of determining whether the design of the scheme is
+sound,
+
+are sufficiently comprehensive in order to enable the Regulator to decide
+whether it is satisfied that the design of the scheme is sound.
+
+##### Viability report
+
+###### Preliminary
+
+2
+
+A viability report must include the information set out in paragraphs 3 to 9.
+
+###### General
+
+3
+
+The date which has been chosen in respect of the viability report in
+accordance with regulation 10(5).
+
+4
+
+The name and contact details of the person to be contacted in respect of the
+viability report.
+
+5
+
+A statement, signed by the trustees confirming that—
+
+5.a
+
+in their opinion, the design of the scheme is sound;
+
+5.b
+
+the viability report has been approved by the trustees.
+
+6
+
+A statement, signed by the scheme actuary, confirming that, to the extent that
+the viability report refers to actuarial matters, the scheme actuary is
+satisfied that those references accurately reflect those matters in respect of
+the scheme.
+
+7
+
+The name of the scheme in respect of which the viability report has been
+prepared.
+
+###### Information about the design of the scheme
+
+8
+
+8.1
+
+An explanation of—
+
+8.1.a
+
+the design of the scheme;
+
+8.1.b
+
+the reasons why the trustees consider the design of the scheme to be sound and
+the evidence on which this consideration is based.
+
+8.2
+
+The evidence referred to in sub-paragraph (1)(b) must include the documents
+prepared by—
+
+8.2.a
+
+the scheme actuary for the purposes of regulation 10(3)(b);
+
+8.2.b
+
+the trustees for the purposes of regulation 10(3)(c).
+
+9
+
+The explanation required by paragraph 8(1) must include—
+
+9.a
+
+an explanation of how the scheme satisfies the definition of a collective
+money purchase scheme under section 1(2) of the Act (collective money purchase
+benefits and schemes), including—
+
+9.a.i
+
+an explanation of how the requirements of section 3 of the Act (qualifying
+schemes) are met in respect of the scheme; and
+
+9.a.ii
+
+where the scheme is a section of a qualifying scheme, an explanation of how
+the requirements of section 3 of the Act are met in respect of that section;
+
+9.b
+
+an explanation as to why the trustees are satisfied that the rules of the
+scheme meet—
+
+9.b.i
+
+the requirements of section 18 of the Act (calculation of benefits);
+
+9.b.ii
+
+the requirements of regulation 17.
+
+##### Viability certificate
+
+10
+
+The viability certificate must contain the information set out in paragraphs
+11 to 14.
+
+11
+
+The date which has been agreed in respect of the viability certificate in
+accordance with regulation 11(11).
+
+12
+
+The name and contact details of the scheme actuary.
+
+13
+
+The name of the scheme in respect of which the viability certificate is being
+obtained.
+
+14
+
+A statement, signed by the scheme actuary, confirming that—
+
+14.a
+
+in the scheme actuary’s opinion, the design of the scheme is sound;
+
+14.b
+
+when providing the viability certificate, the scheme actuary has had regard to
+the matters specified in regulation 11(2), as applicable.
+
+  Financial sustainability requirement
+
+Regulations 6 and 12
+
+##### Information required on application for authorisation
+
+1
+
+The other information to be included in an application, in relation to whether
+the scheme is financially sustainable, is—
+
+1.a
+
+in relation to whether the scheme has sufficient financial resources to meet
+the costs mentioned in section 14(2)(a) of the Act (financial sustainability
+requirement)—
+
+1.a.i
+
+an estimate of the cost of setting up the scheme;
+
+1.a.ii
+
+an estimate of the cost of running the scheme, in accordance with any
+requirements set out in a Code;
+
+1.a.iii
+
+details of the scheme’s sources of income including estimates of the amount of
+income from each source, in accordance with any requirements set out in a
+Code;
+
+1.a.iv
+
+the trustees’ strategy for meeting any shortfall between the scheme’s income
+and the costs mentioned in section 14(2)(a) of the Act;
+
+1.a.v
+
+an explanation of how any estimates provided have been calculated and of the
+assumptions used in reaching those estimates;
+
+1.a.vi
+
+an explanation of the circumstances in which, and the extent to which, the
+scheme’s actual costs and income may vary from the estimates provided and any
+measures in place to address such variations;
+
+1.a.vii
+
+where one or more employers in relation to the scheme has agreed to fund any
+of the costs mentioned in section 14(2)(a) of the Act, the following financial
+information in respect of each such employer to the extent it is available—
+
+1.a.vii.aa
+
+a cash flow statement for the previous 12 months, including any undrawn
+overdraft facility or revolving credit facility;
+
+1.a.vii.bb
+
+forecast and actual profit and loss for the previous 12 months;
+
+1.a.vii.cc
+
+budget for the year to date and any variation from that budget;
+
+1.a.vii.dd
+
+cash resources;
+
+1.a.vii.ee
+
+cash flow forecast for each of the following four quarters;
+
+1.a.vii.ff
+
+operating costs;
+
+1.a.vii.gg
+
+inter-company loans and other forms of funding;
+
+1.a.vii.hh
+
+the employer’s most recent accounts;
+
+1.a.vii.ii
+
+such further information, concerning the financial position of the employer,
+as is set out in a Code;
+
+1.a.viii
+
+details of any financing arrangements entered into by the trustees in respect
+of the costs mentioned in section 14(2)(a) of the Act;
+
+1.a.ix
+
+details of the security and enforceability of any loans or other funding
+commitments provided to the trustees in respect of the scheme, including the
+reasons why the trustees consider these commitments to be secure and
+enforceable;
+
+1.a.x
+
+where the scheme has any arrangements with service providers that meet the
+description in paragraph 2(i), details of the matters set out in that
+paragraph in respect of each arrangement;
+
+1.a.xi
+
+details of any insurance held in respect of the scheme, in respect of the
+costs mentioned in section 14(2)(a) of the Act, including details of the
+matters set out in paragraph 2(j);
+
+1.b
+
+in relation to whether the scheme has sufficient financial resources to meet
+the costs mentioned in section 14(2)(b) of the Act—
+
+1.b.i
+
+an estimate of the costs mentioned in section 14(2)(b)(i) of the Act;
+
+1.b.ii
+
+an estimate of the costs mentioned in section 14(2)(b)(ii) of the Act;
+
+1.b.iii
+
+the trustees’ strategy for meeting the costs mentioned in section 14(2)(b) of
+the Act;
+
+1.b.iv
+
+the amount and classes of assets held by, or that will be available to, the
+trustees to meet those costs;
+
+1.b.v
+
+an explanation of how any estimates provided have been calculated and of the
+assumptions used in reaching those estimates;
+
+1.b.vi
+
+where one or more employers in relation to the scheme has agreed to fund any
+of the costs mentioned in section 14(2)(b) of the Act, the following financial
+information in respect of each employer to the extent it is available—
+
+1.b.vi.aa
+
+a cash flow statement for the previous 12 months, including any undrawn
+overdraft facility or revolving credit facility;
+
+1.b.vi.bb
+
+forecast and actual profit and loss for the previous 12 months;
+
+1.b.vi.cc
+
+budget for the year to date and any variation from that budget;
+
+1.b.vi.dd
+
+cash resources;
+
+1.b.vi.ee
+
+cash flow forecast for each of the following four quarters;
+
+1.b.vi.ff
+
+operating costs;
+
+1.b.vi.gg
+
+inter-company loans and other forms of funding;
+
+1.b.vi.hh
+
+the employer’s most recent accounts;
+
+1.b.vi.ii
+
+such further information, concerning the financial position of the employer,
+as is set out in a Code;
+
+1.b.vii
+
+details of the security and enforceability of any loans or other funding
+commitments provided to the trustees in respect of the scheme, including the
+reasons why the trustees consider these commitments to be secure and
+enforceable;
+
+1.b.viii
+
+details of any insurance held in respect of the scheme in respect of the costs
+mentioned in section 14(2)(b) of the Act, including details of the matters set
+out in paragraph 3(i);
+
+1.b.ix
+
+details of any compensation for which members are eligible in the event of a
+scheme failure, including details of the matters set out in paragraph 3(k) of
+this Schedule.
+
+##### Matters which the Regulator must take into account
+
+2
+
+The Regulator must take account of the following matters in deciding whether
+it is satisfied that a collective money purchase scheme has sufficient
+financial resources to meet the costs mentioned in section 14(2)(a) of the Act
+(financial sustainability requirement)—
+
+2.a
+
+the scheme’s sources of income, including the estimated amount of income from
+each source;
+
+2.b
+
+the estimated cost of setting up the scheme;
+
+2.c
+
+the estimated cost of running the scheme;
+
+2.d
+
+the trustees’ strategy for meeting any shortfall between the scheme’s income
+and the costs mentioned in section 14(2)(a) of the Act;
+
+2.e
+
+the robustness of any estimates provided to the Regulator in relation to the
+costs mentioned in section 14(2)(a) of the Act, and the robustness of the
+strategy mentioned in sub-paragraph (d);
+
+2.f
+
+where one or more employers in relation to the scheme has agreed to fund any
+of the costs mentioned in section 14(2)(a) of the Act, the financial position
+of each of those employers that the Regulator considers relevant;
+
+2.g
+
+the scheme financing arrangements entered into by the trustees in respect of
+the costs mentioned in section 14(2)(a) of the Act;
+
+2.h
+
+the security and enforceability of loans and other funding commitments
+provided to the trustees in respect of the scheme;
+
+2.i
+
+where the scheme has an arrangement with a service provider under which the
+service provider accepts the risk that its costs will exceed any fee paid to
+it, the provisions made to secure this service and any limitation on the
+service provider’s liability for those costs;
+
+2.j
+
+any insurance held in respect of the costs mentioned in section 14(2)(a) of
+the Act, including details of—
+
+2.j.i
+
+the insurance provider;
+
+2.j.ii
+
+the policy holder;
+
+2.j.iii
+
+the beneficiary of the policy;
+
+2.j.iv
+
+any limitations on the insurer’s liability.
+
+3
+
+The Regulator must take account of the following matters in deciding whether
+it is satisfied that a collective money purchase scheme has sufficient
+financial resources to meet the costs mentioned in section 14(2)(b) of the
+Act—
+
+3.a
+
+the most recent estimates of the costs mentioned in section 14(2)(b) of the
+Act provided in respect of the scheme;
+
+3.b
+
+the extent and manner in which the trustees have made provision to meet those
+costs;
+
+3.c
+
+the amount and classes of assets held by, or available to, the trustees to
+meet those costs;
+
+3.d
+
+the robustness of any estimates provided to the Regulator in relation to the
+costs mentioned in section 14(2)(b) of the Act, and the robustness of the
+strategy for meeting those costs;
+
+3.e
+
+where one or more employers in relation to the scheme has agreed to fund the
+costs mentioned in section 14(2)(b) of the Act, the financial position of each
+of those employers that the Regulator considers relevant;
+
+3.f
+
+the security and enforceability of loans and other funding commitments
+provided to the trustees in respect of the scheme;
+
+3.g
+
+whether the scheme rules impose liability on any person for the following
+costs and, if so the identity of those liable—
+
+3.g.i
+
+the costs of winding up the scheme;
+
+3.g.ii
+
+the costs of converting the scheme into a closed scheme;
+
+3.h
+
+the alignment between the actions set out in the scheme’s continuity strategy
+and the estimate in the strategy of the costs of carrying out those actions;
+
+3.i
+
+any insurance held in respect of the costs mentioned in section 14(2)(b) of
+the Act, including details of—
+
+3.i.i
+
+the insurance provider;
+
+3.i.ii
+
+the policy holder;
+
+3.i.iii
+
+the beneficiary of the policy;
+
+3.i.iv
+
+any limitations on the insurer’s liability;
+
+3.j
+
+the quality of the scheme’s records and data;
+
+3.k
+
+whether the members are eligible for compensation in the event of a scheme
+failure and, if so, details of—
+
+3.k.i
+
+the compensation provider;
+
+3.k.ii
+
+the basis on which the compensation is payable;
+
+3.k.iii
+
+any limits on the amount of compensation payable;
+
+3.l
+
+the scheme’s most recent continuity strategy.
+
+##### Requirements to be met by the collective money purchase scheme
+
+4
+
+A collective money purchase scheme must meet the following requirements
+relating to its financing—
+
+4.a
+
+any assets held by or available to the trustees to meet the costs mentioned in
+section 14(2) of the Act (financial sustainability requirement) must be—
+
+4.a.i
+
+of the classes and in the proportions set out in a Code;
+
+4.a.ii
+
+valued in accordance with any discounted rates set out in a Code;
+
+4.a.iii
+
+available to be used when the relevant costs fall due;
+
+4.b
+
+the scheme’s trustees must have first call on the assets referred to in sub-
+paragraph (a);
+
+4.c
+
+any funding commitment made to the scheme in respect of the costs mentioned in
+section 14(2) of the Act must be given in writing and duly executed by the
+party making the commitment.
+
+  Communication requirement
+
+Regulations 6 and 13
+
+##### Interpretation
+
+1
+
+In this Schedule—
+
+    “ scheme communication ” means a notification, notice, document, statement
+or other communication relating to the scheme which is provided, or made
+available, to a relevant person by or on behalf of the scheme;
+“relevant functions” are—       the development, production, provision or
+review of scheme communications;       record-keeping in respect of scheme
+communications;       quality assurance activities in respect of scheme
+communications; and       any other functions, in respect of scheme
+communications, set out in a Code.
+
+##### Preliminary
+
+2
+
+The matters that the Regulator must take into account in deciding, for the
+purposes of section 15 of the Act (communication requirement), whether it is
+satisfied that a collective money purchase scheme has adequate systems and
+processes for communicating with members and others, are set out in paragraphs
+3 to 6.
+
+##### Functionality, quality and maintenance of IT systems
+
+3
+
+Whether the IT systems used for the purposes of carrying out relevant
+functions—
+
+3.a
+
+have the necessary capacity and capability to enable relevant functions to be
+carried out by or on behalf of the scheme in accordance with—
+
+3.a.i
+
+any legal requirement in relation to scheme communications; and
+
+3.a.ii
+
+the scheme’s systems and processes concerning scheme communications;
+
+3.b
+
+are monitored to ensure that they continue to have the necessary capacity and
+capability;
+
+3.c
+
+are capable of being upgraded or updated to reflect changes in legal
+requirements relating to scheme communications;
+
+3.d
+
+have a back-up system which allows data concerning scheme communications to be
+recovered if the main system fails;
+
+3.e
+
+have restricted physical and electronic access, with firewalls and other
+appropriate protection against viruses and other threats;
+
+3.f
+
+are maintained at regular intervals, either automatically or by a person with
+the appropriate skills and experience;
+
+3.g
+
+are backed up and updated regularly, including the maintenance of firewalls
+and other preventative systems.
+
+##### Resource planning
+
+4
+
+Whether there are systems and processes for ensuring that there are sufficient
+human resources, with the relevant skills, qualifications and capacity
+necessary to enable relevant functions to be carried out by or on behalf of
+the scheme in accordance with—
+
+4.a
+
+any legal requirement in relation to scheme communications; and
+
+4.b
+
+the scheme’s systems and processes concerning scheme communications.
+
+##### Quality assurance
+
+5
+
+Whether there are systems and processes—
+
+5.a
+
+for assessing and improving the effectiveness of scheme communications and for
+updating scheme communications to take into account these assessments;
+
+5.b
+
+for ensuring that the information contained in scheme communications is
+accurate and is not misleading;
+
+5.c
+
+for ensuring that any legal requirement in relation to scheme communications
+is complied with;
+
+5.d
+
+for ensuring that scheme communications are provided or made available in a
+timely manner;
+
+5.e
+
+for scheme communications to be reviewed by such persons as the trustees
+consider appropriate before being provided or made available and for scheme
+communications to be kept under review as appropriate.
+
+##### Member engagement
+
+6
+
+Whether there are systems and processes—
+
+6.a
+
+for gathering feedback from members concerning scheme communications;
+
+6.b
+
+for evaluating feedback from members concerning scheme communications and
+sharing this feedback with trustees;
+
+6.c
+
+for taking into account feedback from members concerning scheme communications
+in the design of scheme communications;
+
+6.d
+
+for reporting to the trustees, and members, as to how feedback from members
+has been taken into account in the design of scheme communications.
+
+  Systems and processes requirement
+
+Regulations 6 and 14
+
+##### Preliminary
+
+1
+
+The matters that the Regulator must take into account in deciding, for the
+purposes of section 16 of the Act (systems and processes requirements),
+whether it is satisfied that the systems and processes used in running a
+collective money purchase scheme are sufficient to ensure that the scheme is
+run effectively are set out in paragraphs 2 to 14.
+
+##### Features and functionality of IT systems
+
+2
+
+Whether the IT systems have the capacity and capability—
+
+2.a
+
+to process financial transactions securely, accurately and by automated means,
+including the core transactions described in regulation 24(2) of the
+Occupational Pension Schemes (Scheme Administration) Regulations 1996
+(requirements for processing financial transactions);
+
+2.b
+
+to make and receive electronic payments;
+
+2.c
+
+to accept contributions from multiple sources;
+
+2.d
+
+to exchange data with other IT systems, including those used by employers and
+service providers;
+
+2.e
+
+to process information securely, accurately and by automated means for the
+purposes of calculating the rate or amount of benefits to be provided under
+the scheme, in accordance with the scheme rules;
+
+2.f
+
+to reconcile data on transactions and produce reports so that those activities
+can be monitored and transaction errors rectified promptly;
+
+2.g
+
+to identify and categorise transactions and payments for authorisation and
+countersigning at an appropriate level of authority;
+
+2.h
+
+to be updated to reflect changes in the legal requirements affecting
+transactions, payments and records, including changes in tax thresholds, the
+annual allowance and the lifetime allowance.
+
+##### Standards required of IT systems
+
+3
+
+Whether the IT systems—
+
+3.a
+
+are capable of being upgraded to reflect changes in required transactions and
+capacity;
+
+3.b
+
+have restricted physical and electronic access, with firewalls and other
+appropriate protection against viruses and other threats;
+
+3.c
+
+have a back-up system which allows data to be recovered if the main system
+fails.
+
+##### Maintenance of IT systems
+
+4
+
+Whether the IT systems—
+
+4.a
+
+are maintained at regular intervals, either automatically or by a person with
+the appropriate skills and experience;
+
+4.b
+
+are backed up and updated regularly, including the maintenance of firewalls
+and other preventative systems;
+
+4.c
+
+are monitored to ensure that their capacity is sufficient for the size of the
+scheme.
+
+##### Member records
+
+5
+
+Whether the scheme’s systems and processes ensure that—
+
+5.a
+
+there is an accurate record on the relevant IT system of each member’s
+details, including the member’s pensionable service and pensionable salary
+and, on an annual basis, the amount that represents the member’s share of the
+available assets of the scheme;
+
+5.b
+
+any unpaid contributions by or in respect of active members can be explained
+to the Regulator and remedied;
+
+5.c
+
+members’ records are reviewed regularly for completeness and accuracy and
+updated promptly with changes of information;
+
+5.d
+
+errors in member’s records can be identified and addressed, and any financial
+impact of such errors on members can be rectified;
+
+5.e
+
+for each financial year, records are maintained—
+
+5.e.i
+
+in respect of each person receiving payment of a pension or other benefits
+under the scheme, including the amount of benefits received during the year;
+
+5.e.ii
+
+in respect of each person receiving payment of a periodic income in accordance
+with paragraph 7 of Schedule 6, including the amount of income received during
+the year;
+
+5.f
+
+for each financial year, there is an accurate record of the amount that
+represents the value of accrued rights to benefits under the scheme that has
+been transferred out of the scheme during the financial year.
+
+##### Trustees and others
+
+6
+
+Whether there are systems and processes—
+
+6.a
+
+for the fair and transparent recruitment, appointment, resignation and removal
+of trustees;
+
+6.b
+
+for the fair and transparent recruitment, appointment, resignation and removal
+of the scheme actuary;
+
+6.c
+
+for determining and recording that persons involved in the scheme in the
+capacities mentioned in section 11(2) of the Act (fit and proper persons
+requirement) are, and remain, fit and proper;
+
+6.d
+
+for monitoring and recording trustees’ learning and development, and for
+ensuring that it is appropriate for the scheme’s activities;
+
+6.e
+
+in relation to meetings of trustees, including—
+
+6.e.i
+
+the intervals at which meetings of trustees are to take place;
+
+6.e.ii
+
+the number of trustees required to authorise decisions on risk management,
+resource planning and investments;
+
+6.e.iii
+
+the process for managing the scheme’s business between meetings of the
+trustees;
+
+6.f
+
+for recording, maintaining and managing all documents relating to the trustees
+in an accessible medium;
+
+6.g
+
+for managing the scheme’s business if one or more trustees are absent.
+
+##### Contracts and service providers
+
+7
+
+Whether there are systems and processes—
+
+7.a
+
+for establishing that service providers have the necessary qualifications,
+experience or approval, as applicable;
+
+7.b
+
+for establishing that service providers have the capability to provide their
+services in respect of the scheme—
+
+7.b.i
+
+in accordance with any scheme rules that relate to those services;
+
+7.b.ii
+
+in accordance with any statutory requirement in relation to those services to
+which the trustees are subject in respect of the scheme, to the extent that
+the services are provided on behalf of the trustees;
+
+7.c
+
+for ensuring that trustees are appropriately engaged in overseeing service
+providers and in decisions concerning them, including their appointment;
+
+7.d
+
+for informing the trustees of—
+
+7.d.i
+
+any failure by service providers to deliver services;
+
+7.d.ii
+
+any actions or omissions by service providers which may prejudice the
+effective running of the scheme;
+
+7.e
+
+for recording, maintaining and managing all documents relating to service
+providers in an accessible medium.
+
+##### Governance
+
+8
+
+Whether there are systems and processes—
+
+8.a
+
+for the identification of roles and responsibilities in respect of the
+governance of the scheme;
+
+8.b
+
+for the appointment of persons with sufficient skills, knowledge and
+experience to carry out those roles and responsibilities;
+
+8.c
+
+for setting clear objectives concerning the governance of the scheme and for
+monitoring whether those objectives are being met within the relevant
+timescales;
+
+8.d
+
+for documenting and reporting matters relating to the governance of the
+scheme;
+
+8.e
+
+for identifying and addressing any failures in the governance of the scheme.
+
+##### Risk management
+
+9
+
+Whether there are systems and processes—
+
+9.a
+
+for identifying, managing and monitoring operational, financial, regulatory
+and compliance risks;
+
+9.b
+
+for identifying, managing and monitoring risks in respect of the soundness of
+the design of the scheme;
+
+9.c
+
+for recording and documenting risks in an appropriate and durable format;
+
+9.d
+
+for ensuring that risks are managed in a timely manner by persons with the
+appropriate skills, knowledge and resources;
+
+9.e
+
+for informing the trustees about risks that have arisen and the steps being
+taken to manage them.
+
+##### Security
+
+10
+
+Whether there are systems and processes—
+
+10.a
+
+for preventing unauthorised access to sensitive records and infrastructure,
+including those containing member information, financial details or investment
+information;
+
+10.b
+
+for monitoring and recording electronic and physical access to sensitive
+records and infrastructure;
+
+10.c
+
+for ensuring the secure transfer of physical and electronic data and the
+secure conduct of transactions.
+
+##### Resource planning
+
+11
+
+Whether there are systems and processes for ensuring that there are sufficient
+human resources with the skills, qualifications and capacity necessary to
+comply with the requirements of Part 1 of the Act (collective money purchase
+benefits) and, in particular—
+
+11.a
+
+to run and maintain the scheme’s systems and processes;
+
+11.b
+
+to provide for the effective running of the scheme; and
+
+11.c
+
+to send appropriate and timely notifications, information and documents to the
+Regulator, including information about the scheme’s systems and processes.
+
+##### Investments
+
+12
+
+Whether there are systems and processes—
+
+12.a
+
+for investing contributions in a timely manner in accordance with the scheme’s
+investment policy;
+
+12.b
+
+for recording investment decisions;
+
+12.c
+
+for managing the scheme’s interaction with investment managers, and recording
+key decisions;
+
+12.d
+
+for recording, managing and reviewing the risks associated with investment
+decisions; and
+
+12.e
+
+for informing trustees about questions, decisions and risks relating to
+investments.
+
+##### Valuation and benefit adjustment
+
+13
+
+Whether there are systems and processes—
+
+13.a
+
+for ensuring that the rules of the scheme meet the requirements of section 18
+of the Act (calculation of benefits) and regulation 17;
+
+13.b
+
+for ensuring that the trustees comply with section 19(1) of the Act (advice of
+scheme actuary);
+
+13.c
+
+for establishing that the scheme actuary has complied with regulation 18;
+
+13.d
+
+for ensuring that the trustees obtain actuarial valuations in accordance with
+section 20 of the Act (actuarial valuations) and regulation 19;
+
+13.e
+
+for establishing that the scheme actuary has complied with section 21 of the
+Act (certificate that actuarial valuation prepared in accordance with scheme
+rules);
+
+13.f
+
+for complying with the requirements of section 22 of the Act (benefits
+adjustments), where applicable;
+
+13.g
+
+for responding to a direction given under section 23(2) of the Act (powers of
+the Pensions Regulator).
+
+##### Member engagement
+
+14
+
+Whether there are systems and processes—
+
+14.a
+
+for facilitating members’ engagement with the scheme;
+
+14.b
+
+for bringing members’ views to the attention of the trustees;
+
+14.c
+
+for directing members’ complaints to the correct channels for resolution.
+
+  Continuity Option 1: transfer out and winding up
+
+Regulation 29
+
+##### Definitions
+
+1
+
+1.1
+
+In this Schedule—
+
+“ arrangement ” has the meaning given in section 152 of the Finance Act 2004 ;
+“ beneficiary ” in relation to the collective money purchase scheme means— a
+member of the scheme, or a person who has survived a member of the scheme and
+has an entitlement to benefits, or a right to future benefits, under the
+scheme rules in respect of the member; “ default arrangement ” has the meaning
+given in regulation 3 of the Occupational Pension Schemes (Charges and
+Governance) Regulations 2015 ; “ default discharge option ” means the way the
+trustees propose to discharge the scheme’s liability to a beneficiary in
+respect of the beneficiary’s accrued rights to benefits under the scheme,
+unless the beneficiary specifies otherwise in accordance with paragraph 14;
+“ dependant ” has the meaning given in paragraph 15 of Schedule 28 to the
+Finance Act 2004;     “ dependants’ income withdrawal ” has the meaning given
+in paragraph 21 of Schedule 28 to the Finance Act 2004;     “ dependant’s
+flexi-access drawdown fund ” has the meaning given in paragraph 22A of
+Schedule 28 to the Finance Act 2004;   “ discharge time ” in relation to a
+beneficiary under the scheme means the time that the scheme’s liability to the
+beneficiary in respect of the value of the beneficiary’s accrued rights to
+benefits under the scheme is discharged; “ final quantification ” means the
+final quantification carried out immediately prior to the discharge time, in
+accordance with paragraph 5(1)(f); “ income withdrawal ” has the meaning given
+in paragraph 7 of Schedule 28 to the Finance Act 2004 ; “ initial
+quantification ” means the initial quantification carried out in accordance
+with paragraph 5(1)(c); “ member’s flexi-access drawdown fund ” has the
+meaning given in paragraph 8A of Schedule 28 to the Finance Act 2004 ;   “
+nominee ” has the meaning given in paragraph 27A of Schedule 28 to the Finance
+Act 2004;     “ nominees’ income withdrawal ” has the meaning given in
+paragraph 27D of Schedule 28 to the Finance Act 2004;     “ nominee’s flexi-
+access drawdown fund ” has the meaning given in paragraph 27E of Schedule 28
+to the Finance Act 2004;   “ pensioner beneficiary ”, in relation to the
+collective money purchase scheme, means a person who is entitled to the
+present payment of pension or other benefits under the scheme; “ penultimate
+quantification ” means the quantification carried out not less than one month
+before the proposed discharge time, in accordance with paragraph 5(1)(e); “
+periodic income ” means a payment made by a scheme under paragraph 7, which is
+not the payment of a benefit (including pension) under the scheme; “
+quantification ” means the quantification of the amount that represents the
+value of each beneficiary’s accrued rights to benefits under the scheme;   “
+successor ” has the meaning given in paragraph 27F of Schedule 28 to the
+Finance Act 2004;     “ successors’ income withdrawal ” has the meaning given
+in paragraph 27J of Schedule 28 to the Finance Act 2004;     “ successor’s
+flexi-access drawdown fund ” has the meaning given in paragraph 27K of
+Schedule 28 to the Finance Act 2004;   “ winding-up commencement time ” means
+the time, determined in accordance with these Regulations and the scheme
+rules, that winding-up is taken to begin for the purposes of continuity option
+1; “ winding-up period ” means the period beginning with the winding-up
+commencement time and ending when the winding-up of the scheme is completed; “
+winding-up quantification ” means the quantification carried out after the
+Regulator notifies the trustees that the implementation strategy is approved,
+in accordance with paragraph 5(1)(d).
+
+1.2
+
+Notices given under this Schedule must be sent—
+
+1.2.a
+
+in writing, by post or email;
+
+1.2.b
+
+to the addressee’s last known address; and
+
+1.2.c
+
+in accordance with any further requirements set out in a Code.
+
+1.3
+
+For the purposes of sub-paragraph (2), a person’s email address is—
+
+1.3.a
+
+any email address provided for the time being by that person as an address for
+contacting that person; or
+
+1.3.b
+
+if no such address has been provided, any email address by means of which the
+sender reasonably believes that the notice will come to the attention of that
+person or (where that person is a body corporate) any director or other
+officer of that body corporate.
+
+1.4
+
+A notice under this Schedule sent to a person by email is taken to have been
+received by that person 48 hours after it is sent.
+
+##### Alternative ways of discharging the scheme’s liability
+
+2
+
+2.1
+
+For the purposes of section 36(2)(b) of the Act (continuity option 1:
+discharge of liabilities and winding up), the ways of discharging a collective
+money purchase scheme’s liability to each beneficiary in respect of the
+beneficiary’s accrued rights to benefits under the scheme (the “transferring
+scheme”) are—
+
+2.1.a
+
+transferring the value of those rights to an occupational pension scheme (the
+“receiving scheme”) where an employer in relation to the transferring scheme
+is or is connected with a controlling employer or a principal employer of the
+receiving scheme;
+
+2.1.b
+
+transferring the value of those rights to a member’s flexi-access drawdown
+fund in respect of an arrangement for the purposes of entitlement by the
+beneficiary to income withdrawal which is an authorised member payment for the
+purposes of Part 4 of the Finance Act 2004 (pension schemes etc.).
+
+2.1.c
+
+transferring the value of those rights to a dependant’s flexi-access drawdown
+fund in respect of an arrangement for the purposes of entitlement by the
+dependant to dependants’ income withdrawal which is an authorised member
+payment for the purposes of Part 4 of the Finance Act 2004 (pension schemes
+etc.);
+
+2.1.d
+
+transferring the value of those rights to a nominee’s flexi-access drawdown
+fund in respect of an arrangement for the purposes of entitlement by the
+nominee to nominees’ income withdrawal which is an authorised member payment
+for the purposes of Part 4 of the Finance Act 2004 (pension schemes etc.);
+
+2.1.e
+
+transferring the value of those rights to a successor’s flexi-access drawdown
+fund in respect of an arrangement for the purposes of entitlement by the
+successor to successors’ income withdrawal which is an authorised member
+payment for the purposes of Part 4 of the Finance Act 2004 (pension schemes
+etc.).
+
+2.2
+
+For the purposes of section 36(2)(c) of the Act, the way of discharging a
+collective money purchase scheme’s liability to each beneficiary in respect of
+the beneficiary’s accrued rights to benefits under the scheme is securing the
+payment of benefits by the purchase of one or more policies from one or more
+insurers authorised by the Financial Conduct Authority for carrying on long-
+term insurance business in the United Kingdom.
+
+2.3
+
+In this paragraph—
+
+“ controlling employer ” in relation to a scheme is the employer that has the
+power to act on behalf of all employers in the scheme in relation to the
+scheme rules; “ principal employer ” in relation to a scheme is the principal
+employer for the purposes of the scheme in accordance with the scheme rules.
+
+##### Requirements of rules of scheme
+
+3
+
+3.1
+
+The rules of a collective money purchase scheme must make provision about how
+continuity option 1 is to be given effect in the event that the trustees are
+required or decide to pursue continuity option 1.
+
+3.2
+
+The rules must include the following—
+
+3.2.a
+
+the time when the winding-up is to be taken to begin for the purposes of
+continuity option 1, taking account of the requirements of paragraph 4;
+
+3.2.b
+
+how the value of the available assets of the scheme is to be determined;
+
+3.2.c
+
+how the amount that represents the value of each beneficiary’s accrued rights
+to benefits under the scheme is to be quantified for the purposes of the
+initial quantification, the winding-up quantification and any subsequent
+quantification (including the penultimate quantification) carried out prior to
+the final quantification;
+
+3.2.d
+
+how the amount that represents the value of each beneficiary’s accrued rights
+to benefits under the scheme is to be quantified for the purposes of the final
+quantification;
+
+3.2.e
+
+how the amount or rate of periodic income payable during the winding-up period
+is to be calculated and adjusted from time to time.
+
+3.3
+
+Rules for determining how the amount that represents the value of each
+beneficiary’s accrued rights to benefits under the scheme is to be quantified
+must apply to all beneficiaries of the scheme without variation.
+
+##### Winding-up commencement time
+
+4
+
+4.1
+
+Where the trustees of a collective money purchase scheme are required to
+pursue continuity option 1 because a triggering event which is an item 1 or 2
+triggering event has occurred in relation to the scheme, the winding-up
+commencement time must be on the date the decision to withdraw authorisation
+becomes final for the purposes of Part 1 of the Act (collective money purchase
+benefits).
+
+4.2
+
+Where the trustees of a collective money purchase scheme are required to
+pursue continuity option 1 because a triggering event which is an item 3
+triggering event has occurred in relation to the scheme, the winding-up
+commencement time must be on the date on which the Regulator gives a
+notification under section 7(3) of the Act (authorisation of collective money
+purchase schemes).
+
+4.3
+
+Subject to sub-paragraphs (1) and (2), the winding-up commencement time shall
+be determined in accordance with subsections (3A) to (3D) of section 124 of
+the 1995 Act  (Interpretation of Part 1).
+
+##### Quantification of the value of beneficiaries’ accrued rights to benefits
+
+5
+
+5.1
+
+The quantification of the value of each beneficiary’s accrued rights to
+benefits under the scheme must be carried out—
+
+5.1.a
+
+in accordance with these Regulations and with the scheme rules;
+
+5.1.b
+
+on an actuarial basis;
+
+5.1.c
+
+as an initial estimate before the end of 28 days beginning with the date of
+the winding-up commencement time;
+
+5.1.d
+
+as a subsequent estimate within the period of six months beginning with the
+date on which the Regulator notifies the trustees that the implementation
+strategy is approved;
+
+5.1.e
+
+as a final estimate not less than one month before the proposed discharge
+time; and
+
+5.1.f
+
+as a final figure immediately prior to the discharge time in relation to the
+beneficiary.
+
+5.2
+
+The quantification must be carried out by reference to the realisable value of
+the available assets of the scheme.
+
+5.3
+
+The amount that represents the value of a beneficiary’s accrued rights to
+benefits under the scheme for the purposes of the final quantification must be
+reduced to take account of any periodic income received by that beneficiary in
+accordance with paragraph 7.
+
+##### Winding-up period
+
+6
+
+6.1
+
+Subject to sub-paragraph (5), no new members may be admitted to the scheme
+during the winding-up period.
+
+6.2
+
+No further contributions by or on behalf or in respect of members of the
+scheme may be paid towards the scheme (other than those due to be paid before
+the beginning of the winding-up period) during the winding-up period.
+
+6.3
+
+No benefits may accrue to or in respect of members of the scheme during the
+winding-up period.
+
+6.4
+
+Subject to sub-paragraph (6), no pension or other benefits may be paid by the
+scheme to or in respect of beneficiaries during the winding-up period.
+
+6.5
+
+Where a person is entitled to a pension credit derived from another person’s
+shareable rights under the scheme nothing in this Schedule prevents the
+trustees of the scheme discharging their liability in respect of the credit
+under Chapter 1 of Part 4 of the Welfare Reform and Pensions Act 1999
+(sharing of rights under pension arrangements) by conferring appropriate
+rights under the scheme on that person.
+
+6.6
+
+Nothing in this Schedule prevents the exercise of any right or power conferred
+by Chapter 2 of Part 4ZA of the 1993 Act  (early leavers: cash transfer sums
+and contribution refunds) or the discharge of any duty imposed by that
+Chapter.
+
+6.7
+
+The requirements mentioned in sub-paragraph (8) cease to apply during the
+winding-up period and the trustees are discharged from any liability to carry
+out these requirements in respect of the winding-up period.
+
+6.8
+
+The requirements are—
+
+6.8.a
+
+obtaining actuarial valuations in accordance with section 20 of the Act
+(actuarial valuations);
+
+6.8.b
+
+determining the rate or amount of benefits under the scheme, under scheme
+rules in accordance with section 18 of the Act (calculation of benefits); and
+
+6.8.c
+
+providing qualifying benefits including the payment of a pension or other
+benefits under the scheme, as provided for in section 3 of the Act (qualifying
+schemes).
+
+6.9
+
+In sub-paragraph (5)—
+
+    “ appropriate rights ” has the same meaning as in paragraph 5 of Schedule
+5 to the Welfare Reform and Pensions Act 1999 (pension credits: mode of
+discharge);         “ shareable rights ” has the meaning given in section
+27(2) of that Act (scope of mechanism).
+
+##### Periodic income
+
+7
+
+7.1
+
+Where a person was a pensioner beneficiary of the scheme immediately prior to
+the beginning of the winding-up period, or would have become a pensioner
+beneficiary of the scheme during the winding-up period but for the provisions
+of this Schedule, the trustees must pay that person a periodic income under
+and in accordance with this paragraph.
+
+7.2
+
+A payment of periodic income by a scheme under this paragraph is not a payment
+of benefits (including pension) under the scheme.
+
+7.3
+
+The periodic income is payable to a person who was a pensioner beneficiary of
+the scheme immediately prior to the beginning of the winding–up period during
+the period beginning with the date of the winding-up commencement time and
+continuing until the earlier of the date of the discharge time in relation to
+that person or the date that person would otherwise have ceased to be a
+pensioner beneficiary.
+
+7.4
+
+The periodic income is payable to a person who would have become a pensioner
+beneficiary of the scheme during the winding-up period but for the provisions
+of this Schedule during the period beginning with the date that person would
+have become a pensioner beneficiary and continuing until the earlier of the
+date of the discharge time in relation to that person or the date that person
+would otherwise have ceased to be a pensioner beneficiary.
+
+7.5
+
+In the case of a person who was a pensioner beneficiary immediately prior to
+the beginning of the winding-up period, payments of periodic income before the
+initial quantification has been carried out must be made—
+
+7.5.a
+
+on the same date that a payment of pension would have been due to be made to
+that person had the winding-up of the scheme not commenced; and
+
+7.5.b
+
+at the same rate or amount as the last payment of pension made to that person
+before the beginning of the winding-up period.
+
+7.6
+
+In the case of a person who would have become a pensioner beneficiary of the
+scheme during the winding-up period but for the provisions of this Schedule,
+payments of periodic income before the initial quantification has been carried
+out must—
+
+7.6.a
+
+be made on the same date that a payment of pension would have been due to be
+made to that person had the winding-up of the scheme not commenced; and
+
+7.6.b
+
+be calculated by reference to the last actuarial valuation carried out before
+the beginning of the winding-up period.
+
+7.7
+
+After the initial quantification has been carried out, the amount or rate of
+the periodic income payable to a person must—
+
+7.7.a
+
+be calculated by reference to the amount that represents the value of the
+person’s accrued rights to benefits under the scheme;
+
+7.7.b
+
+until the winding-up quantification has been carried out, be calculated and
+paid on the basis of the initial estimate;
+
+7.7.c
+
+after the winding-up quantification has been carried out, be calculated and
+paid on the basis of the latest of the winding-up quantification or any
+subsequent quantification;
+
+7.7.d
+
+be adjusted from time to time to take account of any subsequent quantification
+carried out up to and including the penultimate quantification.
+
+##### Information about periodic income
+
+8
+
+8.1
+
+The information mentioned in sub-paragraph (2) must be given in accordance
+with the provisions of this paragraph to each person who was a pensioner
+beneficiary of the scheme immediately prior to the beginning of the winding-up
+period and to each person who would have become a pensioner beneficiary of the
+scheme during the winding-up period but for the provisions of this Schedule.
+
+8.2
+
+The information is—
+
+8.2.a
+
+that during the winding-up period pensions and other benefits cease to be
+payable under the scheme and instead the scheme must make payments of periodic
+income to persons who were and to persons who would have become pensioner
+beneficiaries;
+
+8.2.b
+
+when payment of the periodic income to the person will commence or, if a
+payment of periodic income has already been made, when the payments commenced;
+
+8.2.c
+
+an explanation that payment of the periodic income from the scheme will cease
+at the earlier of the date of the discharge time in relation to the person or
+the date the person would otherwise have ceased to be a pensioner beneficiary;
+
+8.2.d
+
+details of when and how the periodic income is to be or is being paid;
+
+8.2.e
+
+the amount that the person’s periodic income will be following the initial
+quantification, where this is known;
+
+8.2.f
+
+an explanation of how the amount of the periodic income is calculated;
+
+8.2.g
+
+that the amount may be adjusted during the winding-up period, and that the
+amount may reduce following an adjustment;
+
+8.2.h
+
+how and when notice of any adjustment will be given to the person;
+
+8.2.i
+
+that the value of the person’s accrued rights to benefits under the scheme at
+the discharge time will be reduced to take account of the periodic income
+payments made to the person during the winding-up period.
+
+8.3
+
+In the case of a person who was a pensioner beneficiary under the scheme
+immediately prior to the beginning of the winding-up period, the information
+must be given as soon as practical and in any event no more than one month
+after the date of the winding-up commencement time.
+
+8.4
+
+In the case of a person who would have become a pensioner beneficiary under
+the scheme during the winding-up period but for the provisions of this
+Schedule, the information must be given as soon as practical and in any event
+no more than one month after the date the person would have become a pensioner
+beneficiary.
+
+##### Scheme to continue to be a CMPS during winding-up
+
+9
+
+9.1
+
+A “ collective money purchase scheme ” for the purposes of Part 1 of the Act
+(collective money purchase benefits) includes a scheme or section of a scheme
+during the winding-up period where the scheme or section was a collective
+money purchase scheme immediately before the winding-up commencement time.
+
+9.2
+
+Sub-paragraph (1) applies irrespective of the fact that in accordance with the
+requirements of this Schedule the scheme or section has, during the winding-up
+period—
+
+9.2.a
+
+ceased to make payments of benefits including payments of pension under the
+scheme; and
+
+9.2.b
+
+commenced payments of periodic income under paragraph 7(1).
+
+##### Trustees’ notice to employers
+
+10
+
+10.1
+
+The trustees of a collective money purchase scheme that is pursuing continuity
+option 1 must send a notice to each employer and relevant former employer in
+relation to the scheme containing the information mentioned in sub-paragraph
+(2), in accordance with sub-paragraph (3).
+
+10.2
+
+The information is—
+
+10.2.a
+
+details of the default discharge options identified in respect of
+beneficiaries and details of which option will apply to different descriptions
+of beneficiary including the name of any scheme which has been identified as a
+default discharge option for beneficiaries of the scheme;
+
+10.2.b
+
+that if a beneficiary does not specify an alternative in accordance with the
+requirements of this Schedule, the scheme’s liability to the beneficiary will
+be discharged in accordance with the relevant default discharge option;
+
+10.2.c
+
+the beneficiary’s rights under Chapter 2 of Part 4ZA of the 1993 Act (early
+leavers: cash transfer sums and contribution refunds);
+
+10.2.d
+
+the timetable for future communication with beneficiaries and employers;
+
+10.2.e
+
+that the notice is for information only.
+
+10.3
+
+A notice under this paragraph must be sent before the end of 14 days beginning
+with—
+
+10.3.a
+
+the date on which the trustees identify the default discharge options; or
+
+10.3.b
+
+if later, the date on which the Regulator notifies the trustees that the
+implementation strategy is approved.
+
+##### Notification to receiving scheme
+
+11
+
+11.1
+
+The trustees of a collective money purchase scheme that is pursuing continuity
+option 1 must send a notice to the trustees or managers of any occupational
+pension scheme to which they propose to transfer the value of beneficiaries’
+accrued rights to benefits under the scheme under a default discharge option,
+the trustees or managers of which are able and willing to accept the transfer.
+
+11.2
+
+The notice sent under this paragraph must state that the scheme has been
+selected as a default discharge option for the purposes of section 36 of the
+Act (continuity option 1: discharge of liabilities and winding up), for the
+transfer of the value of beneficiaries’ accrued rights to benefits.
+
+11.3
+
+The notice must be sent before the end of 14 days beginning with—
+
+11.3.a
+
+the date on which the trustees identify the scheme as a default discharge
+option for those purposes; or
+
+11.3.b
+
+if later, the date on which the Regulator notifies the trustees that the
+implementation strategy is approved.
+
+##### Trustees’ first notice to beneficiaries in respect of discharge options
+
+12
+
+12.1
+
+The trustees of a collective money purchase scheme that is pursuing continuity
+option 1 must send a notice to each beneficiary of the scheme containing the
+information mentioned in sub-paragraph (2), in accordance with sub-paragraph
+(3).
+
+12.2
+
+The information is—
+
+12.2.a
+
+details of the default discharge option for the beneficiary;
+
+12.2.b
+
+where the beneficiary can obtain information and guidance about the default
+discharge option;
+
+12.2.c
+
+details of the beneficiary’s right to choose whether the value of the
+beneficiary’s accrued rights to benefits under the scheme are discharged by—
+
+12.2.c.i
+
+the default discharge option proposed by the trustees; or
+
+12.2.c.ii
+
+an alternative option specified by the beneficiary;
+
+12.2.d
+
+details of the alternative options available to the beneficiary in accordance
+with paragraph 14(2);
+
+12.2.e
+
+details of the beneficiary’s rights under Chapter 2 of Part 4ZA of the 1993
+Act (early leavers: cash transfer sums and contribution refunds);
+
+12.2.f
+
+next steps and the timetable for future communications with the beneficiary.
+
+12.3
+
+A notice under this paragraph must be sent before the end of 14 days beginning
+with—
+
+12.3.a
+
+the date on which the trustees identify the default discharge option in
+relation to the beneficiary; or
+
+12.3.b
+
+if later, the date on which the Regulator notifies the trustees that the
+implementation strategy is approved.
+
+##### Trustees’ second notice to beneficiaries in respect of discharge options
+
+13
+
+13.1
+
+The trustees of a collective money purchase scheme that is pursuing continuity
+option 1 must send a second notice to each beneficiary of the scheme
+containing the information mentioned in sub-paragraph (2), in accordance with
+sub-paragraph (3).
+
+13.2
+
+The information is—
+
+13.2.a
+
+the proposed discharge time;
+
+13.2.b
+
+an estimate of the amount that represents the value of the beneficiary’s
+accrued rights to benefits under the scheme based on the latest quantification
+in relation to the beneficiary;
+
+13.2.c
+
+details of the default discharge option for the beneficiary including the
+nature of the arrangement it is proposed will be used to discharge the
+scheme’s liability to the beneficiary and the name of the scheme or insurers
+the trustees propose to use;
+
+13.2.d
+
+that the scheme’s liability to the beneficiary in respect of the value of the
+beneficiary’s accrued rights to benefits under the scheme will be discharged
+by the default discharge option unless the beneficiary specifies otherwise;
+
+13.2.e
+
+where the beneficiary can obtain information and guidance about the default
+discharge option;
+
+13.2.f
+
+details of the beneficiary’s right to choose whether the value of the
+beneficiary’s accrued rights to benefits under the scheme are discharged by—
+
+13.2.f.i
+
+the default discharge option proposed by the trustees; or
+
+13.2.f.ii
+
+an alternative option specified by the beneficiary;
+
+13.2.g
+
+the requirement for a beneficiary who wishes to specify an alternative option
+to send the trustees of the collective money purchase scheme a notice in
+accordance with paragraph 14;
+
+13.2.h
+
+details of the alternative options available to the beneficiary in accordance
+with paragraph 14(2);
+
+13.2.i
+
+details of the beneficiary’s rights under Chapter 2 of Part 4ZA of the 1993
+Act (early leavers: cash transfer sums and contribution refunds);
+
+13.2.j
+
+details of where the beneficiary can obtain information and guidance about the
+alternative options available to the beneficiary;
+
+13.2.k
+
+next steps and the timetable for future communications with beneficiaries.
+
+13.3
+
+A notice under this paragraph must be sent before the end of the period of one
+month beginning with the date on which the winding-up quantification was
+completed.
+
+##### Beneficiaries’ response to trustees
+
+14
+
+14.1
+
+A beneficiary who has received notice from the trustees under paragraph 13 may
+give notice to the trustees requiring them to discharge the scheme’s liability
+to the beneficiary in respect of the value of the beneficiary’s accrued rights
+to benefits under the scheme—
+
+14.1.a
+
+in the way set out in the default discharge option; or
+
+14.1.b
+
+in an alternative way specified by the beneficiary.
+
+14.2
+
+The alternative ways which may be specified by the beneficiary are—
+
+14.2.a
+
+transferring the value of the beneficiaries’ accrued rights to benefits under
+the scheme to an authorised collective money purchase scheme or an authorised
+Master Trust scheme;
+
+14.2.b
+
+transferring the value of those rights to a personal pension scheme or an
+occupational pension scheme which is registered under Chapter 2 of Part 4 of
+the Finance Act 2004 (registration of pension schemes);
+
+14.2.c
+
+transferring the value of those rights to a member’s flexi-access drawdown
+fund in respect of an arrangement for the purposes of entitlement by the
+beneficiary to income withdrawal which is an authorised member payment for the
+purposes of Part 4 of the Finance Act 2004 (pension schemes etc);
+
+14.2.ca
+
+transferring the value of those rights to a dependant’s flexi-access drawdown
+fund in respect of an arrangement for the purposes of entitlement by the
+dependant to dependants’ income withdrawal which is an authorised member
+payment for the purposes of Part 4 of the Finance Act 2004 (pension schemes
+etc.);
+
+14.2.cb
+
+transferring the value of those rights to a nominee’s flexi-access drawdown
+fund in respect of an arrangement for the purposes of entitlement by the
+nominee to nominees’ income withdrawal which is an authorised member payment
+for the purposes of Part 4 of the Finance Act 2004 (pension schemes etc.);
+
+14.2.cc
+
+transferring the value of those rights to a successor’s flexi-access drawdown
+fund in respect of an arrangement for the purposes of entitlement by the
+successor to successors’ income withdrawal which is an authorised member
+payment for the purposes of Part 4 of the Finance Act 2004 (pension schemes
+etc.);
+
+14.2.d
+
+securing the payment of benefits by the purchase of one or more policies from
+one or more insurers authorised by the Financial Conduct Authority for
+carrying on long-term insurance business in the United Kingdom.
+
+14.3
+
+Where the alternative way specified by the beneficiary is that the value of
+the beneficiary’s accrued rights to benefits should be transferred to an
+alternative pension scheme, the scheme must be one which is able and willing
+to accept the transfer.
+
+14.4
+
+A notice under this paragraph—
+
+14.4.a
+
+must be sent before the end of the period of three months beginning with the
+day when the beneficiary received notice from the trustees under paragraph 13;
+and
+
+14.4.b
+
+must contain sufficient information about the alternative way specified by the
+beneficiary, including bank account details, to enable the trustees to comply
+with paragraph 15.
+
+##### Notice of expected discharge time
+
+15
+
+Not less than one month before the date of the expected discharge time, the
+trustees of a collective money purchase scheme that is pursuing continuity
+option 1 must send a notice of the expected discharge time to—
+
+15.a
+
+each beneficiary of the scheme; and
+
+15.b
+
+the employers in relation to the scheme.
+
+##### Trustees’ powers
+
+16
+
+16.1
+
+This paragraph applies where the trustees of a collective money purchase
+scheme that is pursuing continuity option 1 do not receive a notice from a
+beneficiary in accordance with paragraph 14.
+
+16.2
+
+The trustees may discharge the scheme’s liability to a beneficiary in respect
+of the beneficiary’s accrued rights to benefits under the scheme in the way
+set out in the default discharge option for the beneficiary without the
+consent of the beneficiary.
+
+16.3
+
+Where the default discharge option for a beneficiary is the way referred to in
+paragraph 2(2) and the scheme discharges its liability to the beneficiary in
+this way without the beneficiary’s consent, the beneficiary is deemed to have
+entered into an agreement with the insurer.
+
+##### Trustees’ duty to transfer
+
+17
+
+17.1
+
+If the trustees of a collective money purchase scheme that is pursuing
+continuity option 1 receive notice from a beneficiary in accordance with
+paragraph 14, they must arrange for the scheme’s liability to the beneficiary
+in respect of the beneficiary’s accrued rights to benefits under the scheme to
+be discharged as specified in the notice.
+
+17.2
+
+If the trustees do not receive notice from a beneficiary in accordance with
+paragraph 14, they must arrange for the scheme’s liability to the beneficiary
+in respect of the beneficiary’s accrued rights to benefits under the scheme to
+be discharged in accordance with the default discharge option.
+
+17.3
+
+When the trustees have arranged for the scheme’s liability to a beneficiary to
+be discharged in accordance with sub-paragraph (1) or (2) they must notify the
+beneficiary of—
+
+17.3.a
+
+the value of the beneficiary’s accrued rights to benefits under the scheme;
+
+17.3.b
+
+any reductions made in accordance with paragraph 5(3); and
+
+17.3.c
+
+who has or will become liable for the payment of benefits to the beneficiary
+when the scheme’s liability to the beneficiary in respect of the value of the
+beneficiary’s accrued rights to benefits under the scheme is discharged.
+
+##### Administration charges
+
+18
+
+18.1
+
+This paragraph applies to the trustees or managers of any occupational pension
+scheme (the “proposed receiving scheme”) to which the trustees of a collective
+money purchase scheme that is pursuing continuity option 1 (the “transferring
+scheme”) propose to transfer the value of beneficiaries’ accrued rights to
+benefits under the scheme, under a default discharge option.
+
+18.2
+
+The trustees of the proposed receiving scheme must provide to the Regulator,
+in accordance with this paragraph, a document setting out the level of
+administration charges that applies in relation to members of the proposed
+receiving scheme.
+
+18.3
+
+The document must be provided before the end of 28 days beginning with the
+date on which the trustees of the proposed receiving scheme receive the notice
+under paragraph 11.
+
+18.4
+
+The document must set out for each charge structure all levels of
+administration charges (including any discounted levels)—
+
+18.4.a
+
+for each arrangement, including a default arrangement, and any different
+levels in relation to any one arrangement;
+
+18.4.b
+
+for any additional charges, and the reason for imposing them;
+
+18.4.c
+
+for any third-party charges, and the reason for imposing them; and
+
+18.4.d
+
+for any other type of administration charge in the scheme, and the reason for
+imposing it.
+
+18.5
+
+Where the proposed receiving scheme is a Master Trust scheme the charges must
+be set out as at the most recent date, not falling within a triggering event
+period in relation to the transferring scheme, on which the receiving scheme
+submitted a continuity strategy to the Regulator.
+
+18.6
+
+In all other cases the charges must be set out as at the date the triggering
+event occurred in relation to the transferring scheme as a result of which
+continuity option 1 is being pursued.
+
+18.7
+
+The levels must be set out on an annualised basis.
+
+18.8
+
+Where there is a discounted level, the reason for charging the lower level
+must also be set out.
+
+18.9
+
+The document must include a statement explaining—
+
+18.9.a
+
+how the scheme will be in compliance with section 45(2) of the Act
+(prohibition on increasing charges etc during triggering event period);
+
+18.9.b
+
+whether the scheme is to be liable for the costs mentioned in section 45(4) of
+the Act; and
+
+18.9.c
+
+if the scheme is to be liable for those costs, how it is to meet them.
+
+##### Trustee discharge
+
+19
+
+Where the trustees of a collective money purchase scheme that is pursuing
+continuity option 1 have discharged the scheme’s liability in respect of a
+beneficiary’s accrued rights to benefits under the scheme in accordance with
+the requirements of section 36 of the Act (continuity option 1: discharge of
+liabilities and winding up), the trustees cease to have any further obligation
+to provide benefits in relation to those rights.
+
+##### Winding up
+
+20
+
+As soon as practicable after the trustees of a collective money purchase
+scheme that is pursuing continuity option 1 have, in accordance with section
+36 of the Act, discharged the scheme’s liability in respect of beneficiaries’
+accrued rights to benefits under the scheme, they must wind up the scheme.
+
+##### Regulator’s power to direct
+
+21
+
+21.1
+
+The Regulator may direct the trustees of a collective money purchase scheme to
+do anything they are permitted or required to do by this Schedule where
+continuity option 1 is being pursued.
+
+21.2
+
+The trustees of a collective money purchase scheme must comply with a
+direction issued by the Regulator requiring them to do anything permitted or
+required by this Schedule.
+
+##### Civil penalties
+
+22
+
+Section 10 of the 1995 Act (civil penalties) applies to a person who fails to
+comply with a requirement imposed by this Schedule, including where the
+requirement is contained in a direction made under it.
+
+Collective money purchase benefits: amendments to secondary legislation
+
+Regulation 35
+
+##### Amendments to the Occupational Pension Schemes (Scheme Administration) Regulations 1996
+
+1
+
+1.1
+
+The Occupational Pension Schemes (Scheme Administration) Regulations 1996  are
+amended as follows.
+
+1.2
+
+In regulation 1(2) (citation, commencement and interpretation) , in the
+appropriate place insert—
+
+“ collective money purchase scheme ” means a scheme or a section of a scheme
+which is a collective money purchase scheme for the purposes of Part 1 of the
+Pension Schemes Act 2021;
+
+.
+
+1.3
+
+In regulation 3 (exemptions from the professional advisers requirements) —
+
+1.3.a
+
+in paragraph (2)(a), after “schemes” insert  “other than to the extent to
+which they provide collective money purchase benefits” ;
+
+1.3.b
+
+after paragraph (2) insert—
+
+1.3.b.2A
+
+In paragraph (2), “collective money purchase benefits” are benefits which are
+collective money purchase benefits for the purposes of Part 1 of the Pension
+Schemes Act 2021.
+
+.
+
+1.4
+
+In regulation 23 (annual statement regarding governance) , in paragraph (1)—
+
+1.4.a
+
+in sub-paragraph (a), after “default arrangement” insert  “(if any)” ;
+
+1.4.b
+
+in sub-paragraph (aa)(i), after “default arrangement” insert  “(if any)” ;
+
+1.4.c
+
+in sub-paragraph (aa)(ii), after “fund” insert  “(if any)” ;
+
+1.4.d
+
+in sub-paragraph (c)(i), after “default arrangement” insert  “(if any)” ;
+
+1.4.e
+
+in sub-paragraph (c)(ii), after “fund” insert  “(if any)” ;
+
+1.4.f
+
+after sub-paragraph (c) insert—
+
+1.4.f.cza
+
+for a collective money purchase scheme, state—
+
+1.4.f.cza.i
+
+the charges and transaction costs applicable to the scheme; and
+
+1.4.f.cza.ii
+
+the return on investments, after deduction of any charges or transaction costs
+relating to those investments, relating to the fund, having regard to guidance
+issued by the Secretary of State under section 113(2A) of the Pension Schemes
+Act 1993;
+
+.
+
+1.5
+
+In regulation 25 (assessment of charges and transaction costs) —
+
+1.5.a
+
+in paragraph (1A), after “specified scheme” insert  “other than a collective
+money purchase scheme” ;
+
+1.5.b
+
+after paragraph (1A) insert—
+
+1.5.b.1ZA
+
+As part of the assessment referred to in paragraph (1)(b), the trustees of a
+collective money purchase scheme must assess how the administrative and
+governance criteria set out in paragraph (1C) are met by the scheme.
+
+;
+
+1.5.c
+
+in paragraph (1C)—
+
+1.5.c.i
+
+in sub-paragraph (c), after “strategy” insert  “(if any)” ;
+
+1.5.c.ii
+
+after sub-paragraph (c) insert—
+
+1.5.c.ii.ca
+
+for a collective money purchase scheme, the appropriateness of the investment
+principles governing decisions about investments for the purposes of the
+scheme, as set out in the latest statement prepared in accordance with
+regulation 2 (statement of investment principles) of the Occupational Pension
+Schemes (Investment) Regulations 2005;
+
+.
+
+##### Amendment of the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations 2010
+
+2
+
+2.1
+
+The Occupational and Personal Pension Schemes (Automatic Enrolment)
+Regulations 2010  are amended as follows.
+
+2.2
+
+In regulation 32E  (alternative requirements for a money purchase scheme)—
+
+2.2.a
+
+at the beginning of paragraph (1), insert  “Subject to paragraph (1A),” ; and
+
+2.2.b
+
+after paragraph (1) insert—
+
+2.2.b.1A
+
+In relation to a money purchase scheme—
+
+2.2.b.1A.a
+
+to which section 20 of the Act applies; and
+
+2.2.b.1A.b
+
+which provides collective money purchase benefits,
+
+the prescribed alternative requirement is the first, second or third set of
+requirements below or, in respect of any jobholders accruing rights to
+benefits under a collective money purchase scheme, the requirements set out in
+regulation 32EA.
+
+.
+
+2.3
+
+After regulation 32E insert—
+
+########### Alternative quality requirements for a collective money purchase scheme
+
+2.3.32EA
+
+2.3.32EA.1
+
+In relation to—
+
+2.3.32EA.1.a
+
+a money purchase scheme to which section 20 of the Act applies, under which
+all the benefits that may be provided are collective money purchase benefits;
+
+2.3.32EA.1.b
+
+a money purchase scheme to which section 20 of the Act applies, in respect of
+any jobholders accruing rights to benefits under a collective money purchase
+scheme; and
+
+2.3.32EA.1.c
+
+a hybrid scheme—
+
+2.3.32EA.1.c.i
+
+to the extent that requirements within section 24(1)(a) of the Act apply; and
+
+2.3.32EA.1.c.ii
+
+in respect of any jobholders accruing rights to benefits under a collective
+money purchase scheme,
+
+the prescribed alternative requirement is set out in paragraph (2).
+
+2.3.32EA.2
+
+The requirement is, subject to paragraphs (3) and (4), that taking all
+relevant jobholders together, the contributions by, or on behalf of, or in
+respect of, those relevant jobholders over the certification period are of a
+total amount equal to at least the prescribed percentage (specified in
+paragraph (7)) of the applicable category of total relevant earnings for those
+jobholders (specified in paragraph (6)) over that period.
+
+2.3.32EA.3
+
+Where there is or was, as the case may be, a difference in the rights to
+benefits accruing under a collective money purchase scheme for different
+groups of relevant jobholders over the certification period as regards all or
+any of the criteria set out in paragraph (4)(a), and that difference (or those
+differences taken together) mean that there is or was as the case may be a
+material difference in the cost of providing those rights, the relevant
+jobholders for the purposes of paragraph (2) are the relevant jobholders in
+each such group.
+
+2.3.32EA.4
+
+For the purposes of paragraph (3)—
+
+2.3.32EA.4.a
+
+the criteria are—
+
+2.3.32EA.4.a.i
+
+the rate at which rights to benefits under a collective money purchase scheme
+accrue or accrued;
+
+2.3.32EA.4.a.ii
+
+the provision of survivor’s benefits;
+
+2.3.32EA.4.a.iii
+
+the normal pension age;
+
+2.3.32EA.4.a.iv
+
+the definition of ‘pensionable earnings’ used by the scheme;
+
+2.3.32EA.4.a.v
+
+differences in the calculation or methodology applying to the revaluation and
+indexation of benefits;
+
+2.3.32EA.4.a.vi
+
+the calculation of service; and
+
+2.3.32EA.4.a.vii
+
+the terms for retirement before normal pension age; and
+
+2.3.32EA.4.b
+
+whether a difference in cost is a material difference is to be determined by
+the actuary.
+
+2.3.32EA.5
+
+Where, after the certification period begins (whether or not it has ended), a
+change is made to the benefits provided to the relevant jobholders under a
+collective money purchase scheme, the certification period is a period of 18
+months commencing with the day on which that change takes effect.
+
+2.3.32EA.6
+
+For the purposes of paragraph (2), the relevant earnings are the earnings
+which the scheme uses to determine pensionable earnings for the purposes of
+providing collective money purchase benefits to the relevant jobholders,
+provided that they must be equal to or more than those relevant jobholders’
+earnings in one of the following categories—
+
+2.3.32EA.6.a
+
+qualifying earnings;
+
+2.3.32EA.6.b
+
+basic pay;
+
+2.3.32EA.6.c
+
+basic pay in circumstances where, taking all the relevant jobholders together,
+the pensionable earnings of those jobholders constitute at least 85% of the
+earnings of those jobholders in the certification period;
+
+2.3.32EA.6.d
+
+earnings; or
+
+2.3.32EA.6.e
+
+basic pay above—
+
+2.3.32EA.6.e.i
+
+the amount of the lower earnings limit specified for the purposes of section
+5(1)(a)(i) of the Social Security Contributions and Benefits Act 1992
+(earnings limits and thresholds for Class 1 contributions); or
+
+2.3.32EA.6.e.ii
+
+the amount of the basic state pension specified in the first figure in section
+44(4) of that Act (category A retirement pension).
+
+2.3.32EA.7
+
+For the purposes of this regulation, the prescribed percentage is, in relation
+to the category of earnings described in—
+
+2.3.32EA.7.a
+
+paragraph (6)(a) and (c), 10%;
+
+2.3.32EA.7.b
+
+paragraph (6)(b), 11%;
+
+2.3.32EA.7.c
+
+paragraph (6)(d), 9%; and
+
+2.3.32EA.7.d
+
+paragraph (6)(e), 13%.
+
+2.3.32EA.8
+
+Where the scheme does not provide pension benefits payable on the death of a
+relevant jobholder, the respective percentages mentioned in paragraph (7) are
+to be reduced by 1%.
+
+.
+
+2.4
+
+In regulation 32G  (alternative requirements for a hybrid scheme), in
+paragraph (1) at the end add  “or, in respect of any jobholders accruing
+rights to benefits under a collective money purchase scheme, the set of
+requirements set out in regulation 32EA” .
+
+2.5
+
+In regulation 32H  (scheme not to be treated as satisfying the relevant
+quality requirement in certain circumstances)—
+
+2.5.a
+
+after paragraph (1) insert—
+
+2.5.a.1A
+
+Where—
+
+2.5.a.1A.a
+
+a certificate has been given in relation to an employer and its relevant
+jobholders with respect to an alternative quality requirement under regulation
+32EA;
+
+2.5.a.1A.b
+
+the Regulator is of the view that, when the certificate was given, there were
+not reasonable grounds for a person to be of the opinion that the scheme was
+able to satisfy the requirement referred to in regulation 32EA(2); and
+
+2.5.a.1A.c
+
+in relation to all or any part of the certification period, the requirement
+referred to in regulation 32EA(2) was not met,
+
+the Regulator may give to the employer a notice as referred to in paragraph
+(8A).
+
+;
+
+2.5.b
+
+in paragraph (2), after “paragraph (5)” insert  “or paragraph (8A)” ;
+
+2.5.c
+
+after paragraph (8) insert—
+
+2.5.c.8A
+
+The notice referred to is a notice requiring the employer, within the period
+specified in the notice, to pay to the trustees or managers of the scheme the
+shortfall between the contributions that are required to be paid by the
+employer and the relevant jobholders under the scheme, and the contributions
+that were required to be paid to meet the requirement in regulation 32EA(2)
+during the certification period.
+
+2.5.c.8B
+
+A notice as referred to in paragraph (8A) may also require the employer,
+within a period specified in the notice, to amend the certificate, under
+regulation 32B, so that the certification period ends on a specified day,
+being a day before the last day of the certification period but not before the
+last day of the relevant payment period.
+
+2.5.c.8C
+
+A notice as referred to in paragraph (8A) must be copied to the trustees or
+manager of the scheme.
+
+2.5.c.8D
+
+Where a notice as referred to in paragraph (8A) has been given and the
+employer amends the certificate under regulation 32B(5) so that the
+certification period ends before the last day of the relevant payment period—
+
+2.5.c.8D.a
+
+the relevant payment period shall be treated as though it ended on the last
+day of the new certification period;
+
+2.5.c.8D.b
+
+the employer must, within a period of two weeks beginning with the day on
+which the certificate was amended, notify the Regulator in writing of the
+amendment; and
+
+2.5.c.8D.c
+
+the Regulator may decide to alter the period, as set out in the notice as
+referred to in paragraph (8A), within which the employer must pay a shortfall
+of contributions as referred to in that paragraph.
+
+;
+
+2.5.d
+
+in paragraph (9), after “paragraph (8)(c)” insert  “or paragraph (8D)(c)” ;
+and
+
+2.5.e
+
+in paragraph (10)(a), after “paragraph (5)” insert  “or paragraph (8A)” .
+
+2.6
+
+Regulation 32K  (definitions) is amended as follows—
+
+2.6.a
+
+in the appropriate places insert—
+
+“ actuary ” means an actuary appointed by the scheme or the employer;
+
+;
+
+“ collective money purchase scheme ” has the meaning set out in section 1(2)
+of the Pension Schemes Act 2021 ;
+
+; and
+
+2.6.b
+
+in the definition of “alternative requirement”, after “by regulation 32E,”
+insert  “32EA,” .
+
+##### Amendments to the Occupational Pension Schemes (Charges and Governance) Regulations 2015
+
+3
+
+The Occupational Pension Schemes (Charges and Governance) Regulations 2015
+are amended in accordance with paragraphs 4 to 22.
+
+4
+
+4.1
+
+Regulation 2 (interpretation)  is amended as follows.
+
+4.2
+
+In paragraph (1)—
+
+4.2.a
+
+in the appropriate places insert—
+
+“ the 2021 Act ” means the Pension Schemes Act 2021 ;
+
+;
+
+“ collective contribution percentage charge ” has the meaning given in
+regulation 5A(3);
+
+;
+
+“ collective flat fee charge ” has the meaning given in regulation 5A(3);
+
+;
+
+“ collective existing rights charge ” has the meaning given in regulation
+5A(3);
+
+;
+
+“ collective money purchase benefit ” has the meaning given in section 1(1) of
+the 2021 Act;
+
+;
+
+“ collective money purchase scheme ” has the meaning given in section 1(2) of
+the 2021 Act;
+
+;
+
+“ collective single charge structure ” has the meaning given in regulation
+5A(2);
+
+;
+
+“ qualifying collective money purchase scheme ” has the meaning given in
+regulation 3A;
+
+;
+
+“ qualifying section employer ” means an employer in relation to whom a
+section of a pension scheme, which is a collective money purchase scheme for
+the purposes of section 1(2)(b) of the 2021 Act, is being used by a qualifying
+scheme in relation to at least one of its jobholders;
+
+;
+
+“ specified section ” means a relevant scheme that is a collective money
+purchase scheme for the purposes of section 1(2)(b) of the 2021 Act in which
+at least one qualifying section employer participates;
+
+;
+
+4.2.b
+
+in the definition of “contributing member”—
+
+4.2.b.i
+
+after “relevant scheme” insert  “, that is not a collective money purchase
+scheme,” ; and
+
+4.2.b.ii
+
+after “money purchase benefits” insert  “(other than collective money purchase
+benefits)” ;
+
+4.2.c
+
+in the definition of “performance fee” —
+
+4.2.c.i
+
+at the beginning of sub-paragraph (b) insert  “in the case of a relevant
+scheme that is not a collective money purchase scheme,” ;
+
+4.2.c.ii
+
+at the end of sub-paragraph (b) insert  “or” ; and
+
+4.2.c.iii
+
+after sub-paragraph (b) insert—
+
+4.2.c.iii.c
+
+in the case of a relevant scheme that is a collective money purchase scheme,
+is not calculated by reference to the value of members’ rights under the
+scheme;
+
+;
+
+4.2.d
+
+in the definition of “specified scheme” after “relevant scheme” insert  “,
+that is not a collective money purchase scheme for the purposes of section
+1(2)(b) of the 2021 Act,” .
+
+4.3
+
+In paragraph (2)—
+
+4.3.a
+
+in sub-paragraph (a), after “money purchase benefits” insert  “other than
+collective money purchase benefits” ;
+
+4.3.b
+
+omit “or” at the end of sub-paragraph (a);
+
+4.3.c
+
+in sub-paragraph (b), after “money purchase benefits,” insert  “other than
+collective money purchase benefits,” ;
+
+4.3.d
+
+at the end of sub-paragraph (b), omit the comma and insert  “; or” ; and
+
+4.3.e
+
+after sub-paragraph (b) insert—
+
+4.3.e.c
+
+a collective money purchase scheme,
+
+.
+
+4.4
+
+After paragraph (2), insert—
+
+4.4.2A
+
+Where a pension scheme is divided into sections, each section that is a
+collective money purchase scheme for the purposes of Part 1 of the 2021 Act
+(see section 1(2)(b)) is to be treated for the purposes of these Regulations
+as a separate scheme.
+
+.
+
+4.5
+
+After paragraph (3), insert—
+
+4.5.3A
+
+Where, in these Regulations, a collective flat fee charge is to be calculated
+and these Regulations have applied to a member of a qualifying collective
+money purchase scheme for a period of less than a charges year, the charge
+associated with that member for the purposes of calculating the collective
+flat fee charge (see regulation 6A(4)(a)) must be calculated on a pro rata
+basis.
+
+.
+
+4.6
+
+At the end of paragraph (4), omit the full-stop and insert—
+
+;
+
+4.6.d
+
+a charge under a collective single charge structure;
+
+4.6.e
+
+a collective existing rights charge.
+
+.
+
+4.7
+
+In paragraph (5)  for “When a charge under a single charge structure is”
+substitute  “When the charges in paragraph (5A) are” .
+
+4.8
+
+After paragraph (5), insert—
+
+4.8.5A
+
+For the purposes of paragraph (5), the charges are—
+
+4.8.5A.a
+
+a charge under a single charge structure;
+
+4.8.5A.b
+
+a charge under a collective single charge structure.
+
+.
+
+5
+
+In regulation 3 (default arrangement) , in paragraph (9), at the appropriate
+place insert—
+
+“ relevant scheme ” does not include a collective money purchase scheme;
+
+.
+
+6
+
+After regulation 3, insert—
+
+######### Qualifying collective money purchase schemes
+
+6.3A
+
+6.3A.1
+
+A relevant scheme is a “qualifying collective money purchase scheme” if—
+
+6.3A.1.a
+
+it is a collective money purchase scheme; and
+
+6.3A.1.b
+
+it is being used—
+
+6.3A.1.b.i
+
+as a qualifying scheme in relation to one or more relevant jobholders; or
+
+6.3A.1.b.ii
+
+by a qualifying scheme in relation to one or more relevant jobholders.
+
+6.3A.2
+
+Where a scheme is a qualifying collective money purchase scheme, it continues
+to be such a scheme regardless of whether it continues to satisfy paragraph
+(1)(b).
+
+6.3A.3
+
+Where a qualifying collective money purchase scheme that is not divided into
+sections (an “undivided scheme”) becomes a scheme that is divided into
+sections, any section of that scheme that is a collective money purchase
+scheme (for the purposes of section 1(2) of the 2021 Act) under which
+collective money purchase benefits may be provided to persons who were members
+of the undivided scheme (to whom such benefits were payable under that
+scheme), is a qualifying collective money purchase scheme regardless of
+whether it satisfies paragraph (1)(b).
+
+6.3A.4
+
+In this regulation, “ relevant jobholder ” means a jobholder of one or more of
+the employers that is using the qualifying collective money purchase scheme.
+
+.
+
+7
+
+In the heading to Chapter 1 of Part 2 (default arrangements, non-contributing
+members and payments to advisers) , after “default arrangements,” insert
+“qualifying collective money purchase schemes,” .
+
+8
+
+8.1
+
+Regulation 4 (restrictions on charges)  is amended as follows.
+
+8.2
+
+In paragraph (1)—
+
+8.2.a
+
+after “relevant scheme” insert  “, that is not a collective money purchase
+scheme,” ;
+
+8.2.b
+
+in sub-paragraph (a), after “this Chapter” insert  “, with the exception of
+regulation 6A” ;
+
+8.2.c
+
+in sub-paragraph (b), for “regulation” substitute  “regulations 5A and” .
+
+8.3
+
+After paragraph (1), insert—
+
+8.3.1ZA
+
+Subject to regulation 9, the trustees of a relevant scheme that is a
+qualifying collective money purchase scheme must not impose or permit to be
+imposed on the members of that scheme, in respect of members’ rights under the
+scheme, charges which—
+
+8.3.1ZA.a
+
+exceed the limits specified in this Chapter, with the exception of regulation
+6; or
+
+8.3.1ZA.b
+
+are of a description prohibited by this Chapter, with the exception of
+regulations 5, 11 and 11A.
+
+.
+
+8.4
+
+In paragraph (2)—
+
+8.4.a
+
+after “regulations” insert  “5A, 6A, 7A, 8A,” ;
+
+8.4.b
+
+in sub-paragraph (a), after “relevant scheme” insert  “, that is not a
+collective money purchase scheme,” .
+
+8.5
+
+In paragraph (3)—
+
+8.5.a
+
+at the beginning of the paragraph omit “The” and insert  “For the purposes of
+paragraph (2), the” ;
+
+8.5.b
+
+for “5 to 9” substitute  “5, 6, 7, 8 and 9” ;
+
+8.5.c
+
+in sub-paragraph (a), after “another” insert  “(unless the receiving scheme is
+a qualifying collective money purchase scheme)” .
+
+8.6
+
+After paragraph (3), insert—
+
+8.6.3A
+
+If the receiving scheme referred to in paragraph (3) is a collective money
+purchase scheme (other than a qualifying collective money purchase scheme),
+this regulation and regulations 5, 6, 7, 8 and 9 apply in respect of the value
+of a member’s rights, following any such transfer, as if the person was a
+member of a relevant scheme within the meaning of regulation 2(2)(a) or (b) to
+whom this Chapter applies in accordance with paragraph (2) (unless the person
+is a pensioner member of the receiving scheme, including a person who has
+become a pensioner member of the receiving scheme after the transfer).
+
+8.6.3B
+
+Subject to paragraph (3C), the application of this regulation and regulations
+5A, 6A, 7A, 8A and 9 in respect of a member of a relevant scheme that is a
+qualifying collective money purchase scheme is not affected by a transfer of
+the member’s rights to a relevant scheme, where the member has not given
+consent to the transfer.
+
+8.6.3C
+
+Paragraph (3B) does not apply in respect of the transfer of a member’s rights
+from a qualifying collective money purchase scheme to a relevant scheme
+(within the meaning of regulation 2(2)(a) or (b))—
+
+8.6.3C.a
+
+if this Chapter (with the exception of regulations 5A, 6A, 7A, 8A, 11 and 11A)
+would otherwise apply to the member by virtue of paragraph (2) upon their
+rights being transferred; or
+
+8.6.3C.b
+
+if the member is a pensioner member of the qualifying collective money
+purchase scheme.
+
+8.6.3D
+
+If a member’s rights are transferred from a relevant scheme that is a
+qualifying collective money purchase scheme to a relevant scheme that is not a
+qualifying collective money purchase scheme (and paragraph (3B) applies in
+respect of the transfer of that member’s rights)—
+
+8.6.3D.a
+
+this regulation and regulations 5A, 6A, 7A, 8A and 9 apply in respect of that
+member (and any other members whose rights have been transferred at the same
+time) as if the person was a member, or as if the persons were members, of a
+qualifying collective money purchase scheme (unless the relevant scheme to
+which the rights are transferred is not a collective money purchase scheme and
+any such person is a pensioner member of the scheme, including a person who
+has become a pensioner member of the scheme after the transfer); and
+
+8.6.3D.b
+
+references in this regulation and in regulations 5A, 6A, 7A, 8A and 9 to
+members of a qualifying collective money purchase scheme are to be read as
+references to those members subject to the transfer.
+
+.
+
+8.7
+
+In paragraph (4), for “This Chapter does not apply to a member of a relevant
+scheme” substitute  “This Chapter does not apply to a member of a relevant
+scheme that is not a collective money purchase scheme” .
+
+8.8
+
+After paragraph (4), insert—
+
+8.8.5
+
+In this regulation, “ pensioner member ” has the meaning given in section
+124(1) of the 1995 Act .
+
+.
+
+9
+
+In the heading to regulation 5 (prohibited charge structures), after
+“prohibited charge structures” insert  “- default arrangements” .
+
+10
+
+After regulation 5 (prohibited charge structures), insert—
+
+######### Prohibited charge structures – qualifying collective money purchase schemes
+
+10.5A
+
+10.5A.1
+
+The description of the charges which are prohibited under regulation 4(1ZA)(b)
+are charges under a charge structure other than—
+
+10.5A.1.a
+
+a collective single charge structure; or
+
+10.5A.1.b
+
+a collective combination charge structure.
+
+10.5A.2
+
+In these Regulations, a collective single charge structure is one under which
+charges are calculated solely by reference to the value of members’ rights
+under the scheme.
+
+10.5A.3
+
+In these Regulations, a collective combination charge structure is one under
+which charges are calculated by reference to the value of members’ rights
+under the scheme (‘a collective existing rights charge’) and either—
+
+10.5A.3.a
+
+calculated as a percentage of the value of contributions made by or on behalf
+or in respect of members of the scheme towards the scheme (‘a collective
+contribution percentage charge’); or
+
+10.5A.3.b
+
+calculated by reference to a period of time and not by reference to
+contributions made by or on behalf or in respect of members of the scheme
+towards the scheme or to the value of members’ rights under the scheme (‘a
+collective flat fee charge’).
+
+10.5A.4
+
+For the purposes of regulation 4(1ZA)(b), neither the charge structure, nor
+the type of collective combination charge structure, that applies to the
+members may be changed during a charges year.
+
+.
+
+11
+
+In the heading to regulation 6 (limits on charges), after “limits on charges”
+insert  “- default arrangements” .
+
+12
+
+After regulation 6 (limits on charges) insert—
+
+######### Limits on charges – qualifying collective money purchase schemes
+
+12.6A
+
+12.6A.1
+
+The limits on charges for the purposes of regulation 4(1ZA)(a) are the limits
+specified in this regulation and the trustees must choose whether to assess
+them in accordance with regulation 7A or 8A (but see regulation 8A(7)).
+
+12.6A.2
+
+The limit in the case of a collective single charge structure is 0.75%
+annually of the value of members’ rights under the scheme.
+
+12.6A.3
+
+The limit in the case of a collective combination charge structure whose
+charges fall within regulation 5A(3)(a) is—
+
+12.6A.3.a
+
+in relation to the collective contribution percentage charge, 2.5% of
+contributions made by or on behalf or in respect of members allocated under
+the scheme—
+
+12.6A.3.a.i
+
+annually, or
+
+12.6A.3.a.ii
+
+where, in relation to a charges year, regulation 4 does not apply in respect
+of members for the whole of the year, in the period for which that regulation
+applies; and
+
+12.6A.3.b
+
+in relation to the collective existing rights charge, the percentage annually
+of the value of members’ rights under the scheme which is the figure in Column
+2 of the following table which corresponds to the collective contribution
+percentage charge rate in Column 1 of that table which is imposed on the
+members.
+
+Column 1 Collective contribution percentage charge rate (%) Column 2
+Collective existing rights charge rate (%) 1 or lower 0.6 Higher than 1 but no
+higher than 2 0.5 Higher than 2 but no higher than 2.5 0.4
+
+12.6A.4
+
+The limit in the case of a collective combination charge structure whose
+charges fall within regulation 5A(3)(b) is—
+
+12.6A.4.a
+
+in relation to the collective flat fee charge, £25 annually per member; and
+
+12.6A.4.b
+
+in relation to the collective existing rights charge, the percentage annually
+of the value of members’ rights under the scheme which is the figure in Column
+2 of the following table which corresponds to the annual collective flat fee
+charge per member in Column 1 of that table which is imposed on the members.
+
+Column 1 Collective flat fee charge (£ per member) Column 2 Collective
+existing rights charge rate (%) 10 or less 0.6 More than 10 but no more than
+20 0.5 More than 20 but no more than 25 0.4
+
+.
+
+13
+
+In the heading to regulation 7 (assessment of charges), after “assessment of
+charges” insert  “- default arrangements” .
+
+14
+
+After regulation 7 (assessment of charges) insert—
+
+######### Assessment of charges – qualifying collective money purchase schemes
+
+14.7A
+
+14.7A.1
+
+If the trustees make the choice under regulation 6A(1) to assess charges in
+accordance with this regulation, the following provisions apply.
+
+14.7A.2
+
+Trustees must calculate the value of members’ rights under the scheme at
+reference points set at equal intervals during the charges year of no more
+than 3 months (but see paragraphs (3), (6) and (7)).
+
+14.7A.3
+
+Where trustees change the intervals between reference points chosen for the
+purposes of paragraph (2) during the charges year, the start of the first new
+interval must commence on the day following the reference point at the end of
+the previous interval.
+
+14.7A.4
+
+The limit of permitted charges under—
+
+14.7A.4.a
+
+a collective single charge structure; or
+
+14.7A.4.b
+
+a collective existing rights charge in a collective combination charge
+structure,
+
+is exceeded if the charges imposed on the members annually exceed the average
+of the reference point values multiplied by the applicable percentage.
+
+14.7A.5
+
+The applicable percentage is—
+
+14.7A.5.a
+
+in the case of a collective single charge structure, 0.75%; and
+
+14.7A.5.b
+
+in the case of a collective existing rights charge in a collective combination
+charge structure, the percentage in Column 2 of the table—
+
+14.7A.5.b.i
+
+in regulation 6A(3), where a collective contribution percentage charge is
+imposed; and
+
+14.7A.5.b.ii
+
+in regulation 6A(4), where a collective flat fee is imposed.
+
+14.7A.6
+
+Where members have rights under the scheme at only one reference point
+referred to in paragraph (2), paragraph (4) is to be read as if the words
+“average of the reference point values” read “value at the reference point”.
+
+14.7A.7
+
+Where members have no rights under the scheme at a reference point referred to
+in paragraph (2), paragraph (4) is to be read as if the words “average of the
+reference point values” read “value of members’ rights under the scheme on the
+final day of the charges year or, if there are no members who have such rights
+on that day, on the final day on which there are members who have such
+rights,”.
+
+14.7A.8
+
+In this regulation monthly, 2 monthly and 3 monthly intervals are to be
+treated as equal intervals.
+
+14.7A.9
+
+Paragraph (10) applies where the charges imposed on the members include a
+performance fee payable at the end of the investment period.
+
+14.7A.10
+
+For the purposes of paragraph (4), the charge imposed annually on the members
+in relation to the performance fee may be treated as X divided by Y, where—
+
+14.7A.10.a
+
+X is the sum of the performance fees accrued in relation to the return earned
+by the assets in the scheme (“the relevant assets”) during the relevant
+charges year and each of the preceding charges years, up to a maximum of four
+preceding charges years, and
+
+14.7A.10.b
+
+Y is—
+
+14.7A.10.b.i
+
+5, or
+
+14.7A.10.b.ii
+
+where the investment period is less than 5 charges years, the number of
+charges years in the relevant period.
+
+14.7A.11
+
+Where the trustees choose to calculate the charge imposed annually on the
+members in accordance with paragraph (10), the trustees must, at the end of
+each charges year during the investment period, calculate—
+
+14.7A.11.a
+
+the return earned by the relevant assets during that charges year;
+
+14.7A.11.b
+
+the performance fee which has accrued in relation to that return.
+
+14.7A.12
+
+In this regulation, “ investment period ” means the total period for which the
+assets in the scheme are invested in an investment for which a performance fee
+is payable at the end of the investment period.
+
+.
+
+15
+
+In the heading to regulation 8 (alternative assessment of charges) after
+“charges” insert  “- default arrangements” .
+
+16
+
+After regulation 8 (alternative assessment of charges) insert—
+
+######### Alternative assessment of charges – qualifying collective money purchase schemes
+
+16.8A
+
+16.8A.1
+
+If the trustees make the choice under regulation 6A(1) to assess charges in
+accordance with this regulation, the limit of permitted charges under—
+
+16.8A.1.a
+
+a collective single charge structure; or
+
+16.8A.1.b
+
+a collective existing rights charge in a collective combination charge
+structure,
+
+is not exceeded if, on the first day of the charges year, the charges regime
+to be applied to members’ rights under the scheme meets the requirement in
+paragraph (2) and that charges regime is applied to members’ rights throughout
+that charges year.
+
+16.8A.2
+
+The requirement referred to in paragraph (1) is that the charges regime would
+not result in charges being imposed on the members exceeding the limit of
+permitted charges when calculated in accordance with regulation 7A, if the
+assumptions in paragraph (3) and, if the trustees so choose, the assumption in
+paragraph (4) are made for the purposes of those calculations.
+
+16.8A.3
+
+The assumptions to be made for the purposes of paragraph (2) are—
+
+16.8A.3.a
+
+the value of members’ rights under the scheme will not increase or decrease
+during the charges year when compared to the value on the first day of the
+charges year, other than as a result of charges imposed on the members; and
+
+16.8A.3.b
+
+all the members may leave the scheme at any time during that charges year.
+
+16.8A.4
+
+The assumption which may be made for the purposes of paragraph (2) is that,
+where the charges include a performance fee to which regulation 7A(10)
+applies, the charge to be imposed on the members in relation to the
+forthcoming charges year will be X divided by Y, where—
+
+16.8A.4.a
+
+X is the sum of the performance fees accrued in relation to the return earned
+by the assets in the scheme during each of the years preceding the charges
+year in question, up to a maximum of five preceding charges years, and
+
+16.8A.4.b
+
+Y is—
+
+16.8A.4.b.i
+
+5, or
+
+16.8A.4.b.ii
+
+where the investment period is less than 5 charges years, the number of
+charges years in the relevant period.
+
+16.8A.5
+
+In this regulation, “ charges regime ” means—
+
+16.8A.5.a
+
+the charges to be imposed, and any rebates of charges to be applied, as a
+percentage of the value of members’ rights under the scheme;
+
+16.8A.5.b
+
+when they are to be deducted from, or added to, the value of members’ rights
+throughout the charges year;
+
+16.8A.5.c
+
+how the value of members’ rights will be calculated for the purposes of
+imposing or rebating charges.
+
+16.8A.6
+
+Where the first contribution made by or on behalf or in respect of members to
+the scheme is made after the first day of the charges year, paragraphs (1) and
+(3)(a) are to be read as if “on the first day of the charges year” read “on
+the date on which the first contribution is made in a charges year”.
+
+16.8A.7
+
+Where the trustees make the choice under regulation 6A(1) to assess charges in
+accordance with this regulation but, during the charges year the charges
+regime fails to meet the requirement in paragraph (2), the trustees must
+assess charges for the whole charges year in accordance with regulation 7A.
+
+.
+
+17
+
+17.1
+
+Regulation 9 (member agreement for services)  is amended as follows.
+
+17.2
+
+In paragraph (1), after “Subject to paragraph (3),” insert  “in the case of a
+member of a relevant scheme (that is not a collective money purchase scheme),”
+.
+
+17.3
+
+After paragraph (1), insert—
+
+17.3.1A
+
+Subject to paragraph (3), in the case of the members of a relevant scheme
+(that is a qualifying collective money purchase scheme), the restrictions in
+regulation 4 (with the exception of regulation 4(1A)) do not apply in relation
+to advice or a service for which a member has entered into an agreement with a
+person for the provision of that advice or service, provided the conditions in
+paragraph (2) are satisfied.
+
+.
+
+17.4
+
+In paragraph (2)—
+
+17.4.a
+
+for “paragraph (1)” substitute  “paragraphs (1) and (1A)” ;
+
+17.4.b
+
+in sub-paragraph (b)(ii), after “default arrangement” insert  “or under a
+qualifying collective money purchase scheme, as applicable” .
+
+17.5
+
+In paragraph (4), at the end of sub-paragraph (e), omit the full-stop and
+insert—
+
+;
+
+17.5.f
+
+a transfer out of a qualifying collective money purchase scheme into a
+different scheme;
+
+17.5.g
+
+a transfer into a qualifying collective money purchase scheme.
+
+.
+
+18
+
+In paragraph (1) of regulation 10 (charge limits adjustment), after “relevant
+scheme” insert  “, that is not a collective money purchase scheme,” .
+
+19
+
+In paragraph (5) of regulation 11 (non-contributing members), in the
+definition of “relevant scheme”, for “regulation 2(2)” substitute  “regulation
+2(2)(a) or (b)” .
+
+20
+
+20.1
+
+Regulation 11A (payments to advisers)  is amended as follows.
+
+20.2
+
+In paragraph (1), the existing text after “applies” becomes sub-paragraph (a).
+
+20.3
+
+At the end of that sub-paragraph, insert  “; or” .
+
+20.4
+
+After that sub-paragraph, insert—
+
+20.4.b
+
+to a member of a specified section, if the member is, or was, a worker of a
+qualifying section employer who participates or has participated in the
+section.
+
+.
+
+20.5
+
+In paragraph (3), after “specified scheme” in both places that it occurs,
+insert  “or specified section, as applicable” .
+
+21
+
+In regulation 11B (relevant information) , after paragraph (7) insert—
+
+21.8
+
+In this regulation, in relation to a specified section, references to a
+“specified scheme” are to be read as references to a “specified section”.
+
+.
+
+22
+
+For paragraph (5) of regulation 11C (member agreement for payments to
+advisers)  substitute—
+
+22.5
+
+In this regulation—
+
+“ charge limits ” has the meaning given in regulation 10(10); and “ specified
+scheme ” does not include a relevant scheme that is a collective money
+purchase scheme.
+
+.
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations implement the new authorisation and supervisory regime for
+collective money purchase schemes under Part 1 of the Pension Schemes Act
+2021 (c. 1)  (“ the Act ”). They also make provision for amendments to
+secondary legislation in relation to schemes providing collective money
+purchase benefits.
+
+Part 1 of these Regulations contains introductory provisions. In particular,
+regulation 3 sets out when one employer is treated as connected with another
+employer for the purposes of Part 1 of the Act.
+
+Part 2 of these Regulations makes provision relating to sections of qualifying
+schemes. In particular, regulation 4 sets out certain characteristics of
+qualifying benefits. If a scheme provides a combination of qualifying benefits
+where these characteristics are different, those benefits must be provided
+under different sections. Regulation 5 makes provision about where an
+authorisation granted in respect of an undivided collective money purchase
+scheme will apply to a section following the division of the scheme into
+sections.
+
+Part 3 of these Regulations makes provision relating to the authorisation of a
+collective money purchase scheme. Regulation 6 sets out the information to be
+included in an application to the Pensions Regulator (“the Regulator”) for
+authorisation (in addition to the information specified in the Act).
+Regulation 6 also introduces Part 1 of Schedule 3, which sets out the
+information to be included in an application in relation to whether a scheme
+is financially sustainable.
+
+Regulation 7 requires an application for authorisation to be accompanied by a
+fee payable to the Regulator, which is either a set amount or in certain
+circumstances an amount to be determined by the Regulator.
+
+Regulation 8 introduces Schedule 1, which sets out the matters that the
+Regulator must take into account in assessing whether a person involved in a
+collective money purchase scheme is a fit and proper person. Regulation 8 also
+makes provision for this assessment in cases where a person involved in a
+collective money purchase scheme is a body corporate.
+
+Regulation 9 relates to the scheme design requirement. It introduces Part 1 of
+Schedule 2, which sets out the matters that the Regulator must take into
+account in deciding whether the design of a collective money purchase scheme
+is sound.
+
+Regulation 10 introduces Part 2 of Schedule 2, which sets out the information
+that must be contained in a viability report prepared by the trustees of a
+collective money purchase scheme. Regulation 10 also sets out more detail
+relating to the preparation of the viability report.
+
+Regulation 11 introduces Part 3 of Schedule 2 which sets out the information
+that must be included in a viability certificate provided by the scheme
+actuary. Regulation 11 also sets out the matters the scheme actuary must have
+regard to when providing a viability certificate and considering whether the
+design of the scheme is sound.
+
+Regulation 12 introduces Part 2 of Schedule 3, which sets out the matters that
+the Regulator must take into account in deciding whether it is satisfied that
+a collective money purchase scheme is financially sustainable, and Part 3 of
+Schedule 3 which sets out requirements to be met by a collective money
+purchase scheme in relation to its financing.
+
+Regulation 13 introduces Schedule 4 which sets out the matters that the
+Regulator must take into account in deciding whether it is satisfied that a
+collective money purchase scheme has adequate systems and processes for
+communicating with members and others.
+
+Regulation 14 introduces Schedule 5 which sets out the matters that the
+Regulator must take into account in deciding whether the systems and processes
+used in running a collective money purchase scheme are sufficient to ensure
+that the scheme is run effectively.
+
+Regulation 15 contains requirements about a collective money purchase scheme’s
+continuity strategy and sets out information that must be included in the
+strategy. A continuity strategy is a document setting out how the interests of
+members of the scheme are to be protected if a triggering event occurs in
+relation to the scheme. Regulation 16 contains requirements about how the
+continuity strategy must set out levels of administration charges that apply
+in relation to members of the scheme.
+
+Part 4 of these Regulations relates to valuation and benefit adjustments.
+Regulation 17 sets out provisions that the rules of a collective money
+purchase scheme must contain relating to the determination of the value of the
+available assets of the scheme, the determination of the required amount and
+the adjustment of the rate or amount of benefits provided under the scheme.
+Regulation 17 also makes provision for where trustees of a collective money
+purchase scheme apply a multi-annual reduction to the rate or amount of
+benefits provided under the scheme.
+
+Regulation 18 makes provision regarding guidance to which the scheme actuary
+must have regard when advising the trustees of a collective money purchase
+scheme.
+
+Regulation 19 makes provision regarding actuarial valuations of the scheme
+including when the trustees of a collective money purchase scheme must obtain
+an actuarial valuation and what the valuation must contain.
+
+Regulation 20 sets out the information that must be included in a report given
+by the trustees of a collective money purchase scheme to the Regulator if a
+benefit adjustment is not made in accordance with the most recent actuarial
+valuation or does not take effect in accordance with scheme rules.
+
+Regulation 21 makes provision regarding what must be included in a direction
+issued by the Regulator under section 23 of the Act (powers of the Pensions
+Regulator).
+
+Part 5 of these Regulations makes provision about the ongoing supervision by
+the Regulator of a collective money purchase scheme. Regulation 22 sets out
+the information which the Regulator may require to be included in the
+supervisory return (a document which the Regulator may require schemes to
+submit to it).
+
+Regulation 23 lists the significant events in relation to the scheme, which
+are events which must be notified to the Regulator by persons specified in the
+Act. Regulation 23 also sets out further information that must be provided to
+the Regulator by a person who is required to give notice of a significant
+event.
+
+Regulation 24 makes provision about risk notices including what must be
+contained in a risk notice. Risk notices are notices given by the Regulator to
+the trustees of a collective money purchase scheme under section 29 of the Act
+(risk notices).
+
+Part 6 of these Regulations makes provision about triggering events and
+continuity options. Regulation 25 sets out the matters which must be notified
+by a trustee to employers and relevant former employers if a triggering event
+occurs in relation to a collective money purchase scheme; and when
+notifications under section 33 of the Act (notification of triggering events)
+must be given.
+
+Regulation 26 sets out when an implementation strategy must be submitted to
+the Regulator for approval. An implementation strategy is a document setting
+out how the interests of members of a collective money purchase scheme are to
+be protected following the occurrence of a triggering event.
+
+Regulation 27 sets out the information to be included in an implementation
+strategy about levels of administration charges in relation to members of the
+scheme. Regulation 28 sets out other information that an implementation
+strategy must contain.
+
+Regulation 29 introduces Schedule 6 which sets out the procedure to be
+followed when a triggering event has occurred and the trustees of a collective
+money purchase scheme are required, or decide, to pursue continuity option 1
+(under which the scheme’s liabilities to each beneficiary are discharged by
+transfer out of the scheme, or securing the payment of benefits by some other
+means, and the scheme is wound up).
+
+Regulation 30 applies where a triggering event has occurred and the trustees
+of a collective money purchase scheme are pursuing continuity option 2
+(resolving triggering event). It prescribes the deadline for a scheme’s
+trustees to notify the Regulator when they believe that a triggering event has
+been resolved.
+
+Regulation 31 applies where a triggering event has occurred and the trustees
+of a collective money purchase scheme are pursuing continuity option 3
+(conversion to closed scheme). It prescribes the deadline for a scheme’s
+trustees to notify the Regulator when they consider that preparations for the
+conversion of the scheme into a closed scheme are complete.
+
+Regulation 32 prescribes the deadline for a scheme’s trustees to submit their
+first periodic report to the Regulator during a triggering event period, and
+specifies the information which reports must contain in addition to that
+required by the Act.
+
+Regulation 33 modifies section 99 of the Pension Schemes Act  1993 (c. 48)
+(trustees’ duties) as it applies to a collective money purchase scheme in
+respect of which the Regulator has made a pause order under section 44 of the
+Act (pause orders).
+
+Regulation 34 sets out the administration charges that are not included in the
+prohibition on increasing charges during a triggering event period for a
+collective money purchase scheme in section 45 of the Act (prohibition on
+increasing charges etc during triggering event period). It also applies the
+provisions of section 45 of the Act to certain receiving schemes.
+
+Part 7 of these Regulations makes provision for amendments to secondary
+legislation in relation to schemes providing collective money purchase
+benefits. In particular, regulation 35 introduces Schedule 7 which contains
+amendments to the Occupational Pension Schemes (Scheme Administration)
+Regulations 1996 ( S.I. 1996/1715 ), the Occupational and Personal Pension
+Schemes (Automatic Enrolment) Regulations 2010 ( S.I. 2010/772 ) and the
+Occupational Pension Schemes (Charges and Governance) Regulations 2015 ( S.I.
+2015/879 ) in relation to collective money purchase schemes.
+
+An impact assessment of the effect that this instrument will have on the costs
+of business is published with the Explanatory Memorandum alongside this
+instrument on the UK legislation website  www.legislation.gov.uk . A hard copy
+of the impact assessment may be obtained from the Department for Work and
+Pensions, Caxton House, Tothill Street, London SW1H 9NA.
+

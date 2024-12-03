@@ -1,0 +1,686 @@
+Title: Post Office (Horizon System) Offences Act 2024
+Date: 2024-07-30
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ukpga/2024/14
+
+## Post Office (Horizon System) Offences Act 2024
+
+      B e it enacted  by the King’s most Excellent Majesty, by and with the
+advice and consent of the Lords Spiritual and Temporal, and Commons, in this
+present Parliament assembled, and by the authority of the same, as follows:—
+
+### Quashing of convictions
+
+#### Quashing of convictions for relevant offences
+
+1
+
+1.1
+
+Every conviction to which this Act applies is quashed on the coming into force
+of this Act.
+
+1.2
+
+This Act applies to a conviction in England and Wales for a relevant offence
+where—
+
+1.2.a
+
+the conviction took place before the coming into force of this Act,
+
+1.2.b
+
+the offence was prosecuted by the Post Office or the Crown Prosecution
+Service, and
+
+1.2.c
+
+the conviction has not been considered by the Court of Appeal in England and
+Wales.
+
+1.3
+
+This Act also applies to a conviction in Northern Ireland for a relevant
+offence where—
+
+1.3.a
+
+the conviction took place before the coming into force of this Act,
+
+1.3.b
+
+the offence was prosecuted by the Police Service of Northern Ireland, the
+Director of Public Prosecutions for Northern Ireland or the Public Prosecution
+Service for Northern Ireland, and
+
+1.3.c
+
+the conviction has not been considered by the Court of Appeal in Northern
+Ireland.
+
+1.4
+
+Section  2  contains the meaning of “relevant offence”.
+
+1.5
+
+Section  3  contains provision for determining when a conviction has been
+considered by the Court of Appeal in England and Wales or in Northern Ireland.
+
+1.6
+
+Section  4  contains provision about—
+
+1.6.a
+
+identifying quashed convictions, and
+
+1.6.b
+
+notifying people that their convictions have been quashed.
+
+#### Meaning of “relevant offence”
+
+2
+
+2.1
+
+For the purposes of this Act, an offence alleged to have been committed by a
+person is a “relevant offence” if conditions A to E are met.
+
+2.2
+
+Condition A is that the offence was alleged to have been committed—
+
+2.2.a
+
+on a date or dates falling within the period that begins with 23 September
+1996 and ends with 31 December 2018, or
+
+2.2.b
+
+at any time during a period that falls wholly or partly within the period
+mentioned in paragraph  (a) .
+
+2.3
+
+Condition B is that the offence is one of the following—
+
+2.3.a
+
+false accounting;
+
+2.3.b
+
+fraud;
+
+2.3.c
+
+handling stolen goods;
+
+2.3.d
+
+money laundering;
+
+2.3.e
+
+theft;
+
+2.3.f
+
+an ancillary offence relating to any of those offences (see subsection  (7) ).
+
+2.4
+
+Condition C is that, at the time of the alleged offence, the person—
+
+2.4.a
+
+was carrying on a post office business, or
+
+2.4.b
+
+was working in a post office (whether under a contract of employment or
+otherwise) for the purposes of a post office business.
+
+2.5
+
+Condition D is that the person was alleged to have committed the offence in
+connection with carrying on, or working for the purposes of, the post office
+business.
+
+2.6
+
+Condition E is that—
+
+2.6.a
+
+at the time of the alleged offence, the Horizon system was being used for the
+purposes of the post office business, or
+
+2.6.b
+
+where the offence was alleged to have been committed at any time during a
+period as mentioned in subsection  (2) (b) , the Horizon system was being used
+for the purposes of the post office business for the whole or part of that
+period.
+
+2.7
+
+In this section—
+
+      “ ancillary offence ” means—         an offence of attempting or
+conspiring to commit an offence specified in any of paragraphs  (a)  to  (e)
+of subsection  (3)  (a “specified offence”),           an offence under Part 2
+of the Serious Crime Act 2007 in relation to a specified offence,           an
+offence of inciting a person to commit a specified offence, or           an
+offence of aiding, abetting, counselling or procuring the commission of a
+specified offence;                 “ false accounting ” means an offence of
+false accounting under section 17 of the Theft Act 1968 or section 17 of the
+Theft Act (Northern Ireland) 1969;           “ fraud ” means—         an
+offence of fraud under section 1(1) of the Fraud Act 2006,           an
+offence under section 15 or 15A of the Theft Act 1968 or section 15 or 15A of
+the Theft Act (Northern Ireland) 1969 (obtaining property, etc by deception),
+an offence under section 20(1) or (2) of the Theft Act 1968 or section 19(1)
+or (2) of the Theft Act (Northern Ireland) 1969 (suppression, etc of
+documents), or           conspiracy to defraud;                 “ handling
+stolen goods ” means an offence of handling stolen goods under section 22 of
+the Theft Act 1968 or section 21 of the Theft Act (Northern Ireland) 1969;
+“ money laundering ” means an offence under section 327(1), 328(1) or 329(1)
+of the Proceeds of Crime Act 2002 (concealing or acquiring, etc criminal
+property);           “ theft ” means an offence of theft under section 1(1) of
+the Theft Act 1968 or section 1(1) of the Theft Act (Northern Ireland) 1969.
+
+#### Determining when a conviction has been considered by Court of Appeal
+
+3
+
+3.1
+
+For the purposes of this Act, a conviction has been considered by the Court of
+Appeal only if one of the cases in subsections  (2)  to  (4)  applies.
+
+3.2
+
+The first case is where the Court of Appeal has dismissed an appeal against
+the conviction.
+
+3.3
+
+The second case is where the Court of Appeal has refused to give leave to
+appeal against the conviction.
+
+3.4
+
+The third case is where—
+
+3.4.a
+
+a single judge of the Court of Appeal has refused to give leave to appeal
+against the conviction, and
+
+3.4.b
+
+the Court of Appeal has not subsequently given leave to appeal against the
+conviction.
+
+3.5
+
+Nothing in this Act prevents a further appeal against a conviction that has
+been considered by the Court of Appeal.
+
+3.6
+
+In this section “ the Court of Appeal ” means—
+
+3.6.a
+
+in the case of a conviction in England and Wales, the Court of Appeal in
+England and Wales;
+
+3.6.b
+
+in the case of a conviction in Northern Ireland, the Court of Appeal in
+Northern Ireland.
+
+#### Identification and notification of quashed convictions
+
+4
+
+4.1
+
+The appropriate authority must take all reasonable steps to identify the
+convictions quashed by section  1 (1) .
+
+4.2
+
+In this section “ the appropriate authority ” means—
+
+4.2.a
+
+in the case of convictions in England and Wales, the Secretary of State;
+
+4.2.b
+
+in the case of convictions in Northern Ireland, the Department of Justice in
+Northern Ireland.
+
+4.3
+
+Where the appropriate authority identifies that a person’s conviction has been
+quashed by section  1 (1) , the authority must notify the convicting court of
+the details of the conviction.
+
+4.4
+
+As soon as is reasonably practicable after receiving notification under
+subsection  (3) , the convicting court must enter, instead of the record of
+conviction, a record that the conviction was quashed by this Act.
+
+4.5
+
+Where the appropriate authority identifies that a person’s conviction has been
+quashed by section  1 (1) , the authority—
+
+4.5.a
+
+must take all reasonable steps to notify the person, or, if the person is no
+longer alive, the person’s personal representatives, that the conviction has
+been quashed, or
+
+4.5.b
+
+if it is not reasonably practicable to give a notification under paragraph
+(a), must take all reasonable steps to—
+
+4.5.b.i
+
+identify some other person whom the authority considers it is appropriate to
+notify, and
+
+4.5.b.ii
+
+notify that person that the conviction has been quashed.
+
+4.6
+
+For the purpose of identifying convictions quashed by section  1 (1) , the
+appropriate authority must, in particular, consider any representations made
+to the authority which claim that a person has been convicted of a relevant
+offence, whether or not made by that person.
+
+4.7
+
+In this section “ the convicting court ”, in relation to a person’s
+conviction, means the court by or before which the person was convicted.
+
+### Deletion of cautions
+
+#### Deletion of cautions for relevant offences: England and Wales
+
+5
+
+5.1
+
+If it appears to the Secretary of State that a person has before the coming
+into force of this Act been cautioned in England and Wales for a relevant
+offence, the Secretary of State must direct the appropriate chief officer of
+police to delete details, contained in the UK criminal records database, of
+the caution.
+
+5.2
+
+As soon as is reasonably practicable after receiving a direction under
+subsection  (1) , the appropriate chief officer of police must delete the
+details of the caution.
+
+5.3
+
+Where the Secretary of State gives a direction under subsection  (1)  in
+relation to a person’s caution, the Secretary of State—
+
+5.3.a
+
+must take all reasonable steps to notify the person, or, if the person is no
+longer alive, the person’s personal representatives, that the direction has
+been given, or
+
+5.3.b
+
+if it is not reasonably practicable to give a notification under paragraph
+(a) , must take all reasonable steps to—
+
+5.3.b.i
+
+identify some other person whom the Secretary of State considers it is
+appropriate to notify, and
+
+5.3.b.ii
+
+notify that person that the direction has been given.
+
+5.4
+
+For the purposes of this section, the Secretary of State must, in particular,
+consider any representations made to the Secretary of State which claim that a
+person has been cautioned in England and Wales for a relevant offence, whether
+or not made by that person.
+
+5.5
+
+In this section—
+
+      “ appropriate chief officer of police ”, in relation to a caution, means
+any chief officer of police of a police force in England and Wales who is a
+data controller in relation to the details of the caution;           “ the UK
+criminal records database ” means the names database held by the Secretary of
+State for the use of constables.
+
+#### Deletion of cautions for relevant offences: Northern Ireland
+
+6
+
+6.1
+
+If it appears to the Department of Justice in Northern Ireland (“ the
+Department ”) that a person has before the coming into force of this Act been
+cautioned in Northern Ireland for a relevant offence, the Department must
+direct the Chief Constable to delete details, contained in relevant criminal
+records, of the caution.
+
+6.2
+
+As soon as is reasonably practicable after receiving a direction under
+subsection (1), the Chief Constable must delete the details of the caution.
+
+6.3
+
+Where the Department gives a direction under subsection  (1)  in relation to a
+person’s caution, the Department—
+
+6.3.a
+
+must take all reasonable steps to notify the person, or, if the person is no
+longer alive, the person’s personal representatives, that the direction has
+been given, or
+
+6.3.b
+
+if it is not reasonably practicable to give a notification under paragraph
+(a) , must take all reasonable steps to—
+
+6.3.b.i
+
+identify some other person whom the Department considers it is appropriate to
+notify, and
+
+6.3.b.ii
+
+notify that person that the direction has been given.
+
+6.4
+
+For the purposes of this section, the Department must, in particular, consider
+any representations made to it which claim that a person has been cautioned in
+Northern Ireland for a relevant offence, whether or not made by that person.
+
+6.5
+
+In this section—
+
+      “ the Chief Constable ” means the Chief Constable of the Police Service
+of Northern Ireland;           “ the Northern Ireland criminal records
+database ” means the names database maintained by the Department for the
+purpose of recording convictions and cautions;           “ relevant criminal
+records ” means—         the Northern Ireland criminal records database, and
+the UK criminal records database;                 “ the UK criminal records
+database ” means the names database held by the Secretary of State for the use
+of constables.
+
+### Supplementary and final provision
+
+#### Consequential provision
+
+7
+
+7.1
+
+Except as otherwise provided by section  4  or this section, a person whose
+conviction is quashed by section  1 (1)  is to be treated as if, on the coming
+into force of this Act, the conviction had been quashed by a court on an
+appeal.
+
+7.2
+
+Subsection  (1)  does not apply for the purposes of paragraph 6(9) of Schedule
+3 to the Crime and Disorder Act 1998 (which provides for the setting aside of
+convictions of summary offences where the Court of Appeal allows an appeal
+against a conviction of a related indictable offence).
+
+7.3
+
+In section 133 of the Criminal Justice Act 1988 (compensation for miscarriages
+of justice), the reference in subsection (5) to a conviction having been
+quashed on an appeal out of time includes a reference to a conviction having
+been quashed by section  1 (1) .
+
+#### Power of Secretary of State to make further consequential provision
+
+8
+
+8.1
+
+The Secretary of State may by regulations make provision that is consequential
+on any provision made by this Act.
+
+8.2
+
+The power to make regulations under this section may, in particular, be
+exercised by amending or modifying any provision made by or under primary
+legislation passed or made before, or in the same session of Parliament as,
+this Act.
+
+8.3
+
+But regulations under this section may not make any provision which is
+transferred Northern Ireland provision for the purposes of section  9 .
+
+8.4
+
+Regulations under this section—
+
+8.4.a
+
+are to be made by statutory instrument;
+
+8.4.b
+
+may make different provision for different purposes;
+
+8.4.c
+
+may contain supplementary, incidental, consequential, transitional or saving
+provision.
+
+8.5
+
+A statutory instrument that contains (with or without other provision)
+regulations under this section that amend any provision of primary legislation
+may not be made unless a draft of the instrument has been laid before, and
+approved by a resolution of, each House of Parliament.
+
+8.6
+
+Any other statutory instrument containing regulations under this section is
+subject to annulment in pursuance of a resolution of either House of
+Parliament.
+
+8.7
+
+In this section “ primary legislation ” means—
+
+8.7.a
+
+an Act of Parliament, or
+
+8.7.b
+
+Northern Ireland legislation.
+
+#### Power of Department of Justice to make further consequential provision
+
+9
+
+9.1
+
+The Department of Justice in Northern Ireland may by regulations make
+provision that—
+
+9.1.a
+
+is consequential on any provision made by this Act, and
+
+9.1.b
+
+is transferred Northern Ireland provision.
+
+9.2
+
+For the purposes of this section “ transferred Northern Ireland provision ”
+means provision that—
+
+9.2.a
+
+would be within the legislative competence of the Northern Ireland Assembly if
+it were contained in an Act of that Assembly, and
+
+9.2.b
+
+would not, if it were contained in a Bill in the Northern Ireland Assembly,
+result in the Bill requiring the consent of the Secretary of State under
+section 8 of the Northern Ireland Act 1998.
+
+9.3
+
+The power to make regulations under this section may, in particular, be
+exercised by amending or modifying any provision made by or under primary
+legislation passed or made before, or in the same session of Parliament as,
+this Act.
+
+9.4
+
+Regulations under this section—
+
+9.4.a
+
+may make different provision for different purposes;
+
+9.4.b
+
+may contain supplementary, incidental, consequential, transitional or saving
+provision.
+
+9.5
+
+The power to make regulations under this section is exercisable by statutory
+rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (
+S.I. 1979/1573 (N.I. 12)) .
+
+9.6
+
+Regulations under this section that amend any provision of primary legislation
+may not be made unless a draft of the regulations has been laid before, and
+approved by a resolution of, the Northern Ireland Assembly.
+
+9.7
+
+Any other regulations under this section are subject to negative resolution
+within the meaning given by section 41(6) of the Interpretation Act (Northern
+Ireland) 1954.
+
+9.8
+
+In this section “ primary legislation ” has the same meaning as in section  8
+.
+
+#### Interpretation
+
+10
+
+10.1
+
+In this Act—
+
+      “ caution ” means—         in the case of England and Wales—         a
+conditional caution given under section 22 of the Criminal Justice Act 2003,
+a youth conditional caution given under section 66A of the Crime and Disorder
+Act 1998, or           any other caution given to a person in England and
+Wales in respect of an offence which, at the time the caution is given, the
+person has admitted;                 in the case of Northern Ireland, any
+caution (including a restorative caution) given to a person in Northern
+Ireland in respect of an offence which, at the time the caution is given, the
+person has admitted;         and “cautioned” is to be read accordingly;
+“ conviction ” means—         a conviction by or before a court, or
+a finding in any criminal proceedings (including a finding linked with a
+finding of insanity) that a person has committed an offence or done the act or
+made the omission charged,         and “convicted” is to be read accordingly;
+“ the Horizon system ” means any version of the computer system known as
+Horizon (and sometimes referred to as Legacy Horizon, Horizon Online or HNG-X)
+used by the Post Office, other than the version referred to as HNG-A;
+“ postal services ” has the same meaning as in the Postal Services Act 2011
+(see section 27 of that Act);           “ the Post Office ” means any of the
+following—         the Post Office;           Post Office Limited or Post
+Office Counters Limited (registered number 02154540);           Royal Mail
+Group Limited, Consignia Public Limited Company or Royal Mail Group Plc
+(registered number 04138203);                 “ post office ” means any
+premises or vehicle in England and Wales or Northern Ireland from which postal
+services are provided (whether alone or with other services) directly to the
+public;           “ post office business ” means the business of providing
+postal services (whether alone or with other services) from a post office;
+“ quashed conviction ” means a conviction quashed by section  1 (1);
+“ relevant offence ” has the meaning given by section  2 .
+
+10.2
+
+The following provisions (which deem a conviction of a person discharged not
+to be a conviction) do not apply for the purposes of this Act to a conviction
+of a person for an offence in respect of which an order has been made
+discharging the person absolutely or conditionally—
+
+10.2.a
+
+section 14 of the Powers of Criminal Courts (Sentencing) Act 2000;
+
+10.2.b
+
+section 82 of the Sentencing Code;
+
+10.2.c
+
+Article 6 of the Criminal Justice (Northern Ireland) Order 1996 (
+S.I.‌‌ 1996/3160 (N.I. 24) ).
+
+10.3
+
+Nothing in this Act affects any power of a court to quash a conviction to
+which this Act does not apply.
+
+#### Extent and commencement
+
+11
+
+11.1
+
+This Act extends to England and Wales and Northern Ireland.
+
+11.2
+
+This Act comes into force on the day on which it is passed.
+
+#### Short title
+
+12
+
+This Act may be cited as the Post Office (Horizon System) Offences Act 2024.
+

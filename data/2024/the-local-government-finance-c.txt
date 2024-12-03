@@ -1,0 +1,675 @@
+Title: The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024
+Date: 2024-11-04
+Description: These Regulations make amendments to secondary legislation in consequence to amendments made by the Local Government Finance (Wales) Act 2024 (“the 2024 Act”) to the Local Government Finance Act 1988 (“the 1988 Act”) and the Local Government Finance Act 1992 (“the 1992 Act”). They also make other amendments which are not consequential to the 2024 Act and revoke statutory instruments or omit provisions which no longer have effect.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/wsi/2024/998
+
+## The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024
+
+    Council Tax, Wales       Rating And Valuation, Wales
+
+  Made   4 October 2024
+
+  Laid before Senedd Cymru   7 October 2024
+
+  Coming into force in accordance with regulation 1(3) and (4)
+
+      The Welsh Ministers make the following Regulations in exercise of the
+powers conferred on the Secretary of State by sections 47(8), and 50(1) and
+(3) of, and paragraph 1 of Schedule 9 to, the Local Government Finance Act
+1988 , paragraphs 1(1) and 2(4)(e) of Schedule 2 to the Local Government
+Finance Act 1992  and section 54(1) of the Local Government (Wales) Act 1994 ,
+and now vested in them , and in exercise of the powers conferred on them by
+section 173(1)(a) of the Local Government and Elections (Wales) Act 2021 ,
+section 17(2) of the Non-Domestic Rating Act 2023  and section 22(1)(a) of the
+Local Government Finance (Wales) Act 2024 .
+
+### Introduction
+
+#### Title, application and coming into force
+
+1
+
+1.1
+
+The title of these Regulations is the Local Government Finance (Consequential
+and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales)
+Regulations 2024.
+
+1.2
+
+These Regulations apply in relation to Wales.
+
+1.3
+
+Parts 1 and 2 come into force on 16 November 2024.
+
+1.4
+
+Part 3 comes into force on 1 April 2025.
+
+### Amendments to secondary legislation coming into force on 16 November 2024
+
+#### Amendment to the Income Support (General) Regulations 1987
+
+2
+
+In paragraph 5(4) of Schedule 3 (apportionment of housing costs) to the Income
+Support (General) Regulations 1987 , for the definition of “local non-domestic
+rating list” substitute—
+
+      “ local non-domestic rating list ” means—         as respects England, a
+list compiled and maintained under section 41(1) of the Act of 1988 ;
+as respects Wales, a list compiled and maintained under section 41ZA of the
+Act of 1988 ;
+
+.
+
+#### Amendments to the Non-Domestic Rating (Collection and Enforcement) (Central Lists) Regulations 1989
+
+3
+
+3.1
+
+The Non-Domestic Rating (Collection and Enforcement) (Central Lists)
+Regulations 1989  are amended as follows.
+
+3.2
+
+In regulation 5(2) (time of service of demand notices), after “section 52(5)”
+insert  “or 52ZA(6) ” .
+
+3.3
+
+In regulation 6(1) (payments under demand notices), after “section 52(5)”
+insert  “or 52ZA(6)” .
+
+#### Amendments to the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989
+
+4
+
+4.1
+
+The Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations
+1989  are amended as follows.
+
+4.2
+
+In regulation 5(2) (service of demand notices), after “section 41(5)” insert
+“or 41ZA(6)” .
+
+4.3
+
+In regulation 6(1) (payments under demand notices), after “section 41(5)”
+insert  “or 41ZA(6)” .
+
+4.4
+
+In paragraph 6(1) of Part 2 of Schedule 1 (cessation and adjustment of non-
+domestic rate instalments), after “section 41(5)” insert  “or 41ZA(6)” .
+
+#### Amendments to the Non-Domestic Rating (Miscellaneous Provisions) (No. 2) Regulations 1989
+
+5
+
+In regulation 6 (alteration of rating lists) of the Non-Domestic Rating
+(Miscellaneous Provisions) (No. 2) Regulations 1989 —
+
+5.a
+
+the existing provision becomes paragraph (1);
+
+5.b
+
+in that paragraph, after “billing authority” insert  “in England” ;
+
+5.c
+
+after that paragraph insert—
+
+5.c.2
+
+Where a copy of a local or central rating list has been sent to a billing
+authority in Wales or the Welsh Ministers under section 41ZA(6) (local lists)
+or 52ZA(6) (central lists) of the Act and the valuation officer alters the
+list before it comes into force—
+
+5.c.2.a
+
+the officer shall inform the billing authority or the Welsh Ministers, as the
+case may be, and
+
+5.c.2.b
+
+the authority or the Welsh Ministers, as the case may be, must alter the copy
+accordingly.
+
+#### Amendments to the Council Tax (Situation and Valuation of Dwellings) Regulations 1992
+
+6
+
+6.1
+
+Regulation 6 (valuation of dwellings: general) of the Council Tax (Situation
+and Valuation of Dwellings) Regulations 1992  is amended as follows.
+
+6.2
+
+In paragraph (1), for sub-paragraph (b) substitute—
+
+6.2.b
+
+in relation to a list compiled for a billing authority in Wales under section
+22B of the Act, on the date determined under section 21(2A)(b) of the Act as
+the appropriate date for the list in question.
+
+6.3
+
+In paragraph (3)(b)(v), for sub-paragraph (b) substitute—
+
+6.3.b
+
+in relation to a list compiled for a billing authority in Wales under section
+22B of the Act, on the date on which the list was compiled.
+
+6.4
+
+In paragraph (5A)(a), for sub-paragraph (ii) substitute—
+
+6.4.ii
+
+a valuation list compiled for a billing authority in Wales under section 22B
+of the Act, on the date on which the list was compiled.
+
+6.5
+
+In paragraph (5A)(d), for sub-paragraph (ii) substitute—
+
+6.5.ii
+
+in relation to a list compiled for a billing authority in Wales under section
+22B of the Act, on the date on which the list was compiled.
+
+#### Amendments to the Council Tax (Contents of Valuation Lists) Regulations 1992
+
+7
+
+In regulation 1(2) (interpretation) of the Council Tax (Contents of Valuation
+Lists) Regulations 1992  for the definition of “list” substitute—
+
+      “ list ” means —         a valuation list compiled for a billing
+authority in England under section 22 of the Act;           a valuation list
+compiled for a billing authority in Wales under sections 22, 22A or 22B of the
+Act.
+
+#### Amendments to the Non-Domestic Rating Contributions (Wales) Regulations 1992
+
+8
+
+8.1
+
+The Non-Domestic Rating Contributions (Wales) Regulations 1992  are amended as
+follows.
+
+8.2
+
+In Schedule 1 (rules for calculating non-domestic rating contributions), in
+paragraph 4(2)—
+
+8.2.a
+
+for “section 41(1)” substitute  “section 41ZA(1)” ;
+
+8.2.b
+
+for “section 41(5)” substitute  “section 41ZA(6)” .
+
+8.3
+
+In Part 1 of Schedule 2 (assumptions relating to provisional amounts)—
+
+8.3.a
+
+in paragraph 2(4)—
+
+8.3.a.i
+
+for “section 41(1)” substitute  “section 41ZA(1)” ;
+
+8.3.a.ii
+
+for “section 41(5)” substitute  “section 41ZA(6)” ;
+
+8.3.b
+
+in paragraph 2(5), for “section 41(5)” substitute  “section 41ZA(6)” ;
+
+8.3.c
+
+in paragraph 2(6), for “section 41(5)” substitute  “section 41ZA(6)” .
+
+#### Amendments to the Council Tax (Demand Notices) (Wales) Regulations 1993
+
+9
+
+In regulation 2(2)(b) (interpretation) of the Council Tax (Demand Notices)
+(Wales) Regulations 1993 —
+
+9.a
+
+for “or (3)(b)” substitute  “, (3) or (3A) ” ;
+
+9.b
+
+in paragraph (i), after “section 22B(7)” insert  “or (7A) ” .
+
+#### Amendment to the Local Authorities (Calculation of Council Tax Base) (Wales) Regulations 1995
+
+10
+
+In regulation 1(3) (interpretation) of the Local Authorities (Calculation of
+Council Tax Base) (Wales) Regulations 1995 , in the definition of “the
+authority’s list”, after “22B(10)” insert  “or 22B(10A)(a), or kept by it
+electronically under section 22B(10A)(b) ” .
+
+#### Amendment to the Local Government Reorganisation (Wales) (Finance) (Miscellaneous Amendments and Transitional Provisions) Order 1996
+
+11
+
+11.1
+
+The Local Government Reorganisation (Wales) (Finance) (Miscellaneous
+Amendments and Transitional Provisions) Order 1996  is amended as follows.
+
+11.2
+
+Omit article 5 (Non-Domestic Rating (Alteration of Lists and Appeals)
+Regulations 1993).
+
+11.3
+
+In article 6(8) (definitions in the context of valuation officers), for the
+words from ““old billing authority”” to “the 1988 Act” substitute—
+
+      “old authority” has the same meaning as in the Local Government (Wales)
+Act 1994 ;           “ old billing authority ” means a billing authority which
+is an old authority;           “ new billing authority ” means a billing
+authority which is a new principal council;           “ new principal council
+”  has the same meaning as in the Local Government (Wales) Act 1994;
+“ valuation officer ”  means a valuation officer for an old billing authority;
+“ new valuation officer ” means a valuation officer for a new billing
+authority
+
+.
+
+11.4
+
+Omit article 10 (recoupment of subsidy in certain cases).
+
+#### Amendment to the Jobseeker’s Allowance Regulations 1996
+
+12
+
+In paragraph 5(4) of Schedule 2 (apportionment of housing costs) to the
+Jobseeker’s Allowance Regulations 1996 , for the definition of “local non-
+domestic rating list” substitute—
+
+      “ local non-domestic rating list ” means—         as respects England, a
+list compiled and maintained under section 41(1) of the Act of 1988;
+as respects Wales, a list compiled and maintained under section 41ZA of the
+Act of 1988;
+
+.
+
+#### Amendment to the Valuation for Rating (Plant and Machinery) (Wales) Regulations 2000
+
+13
+
+In regulation 2A(2)(b)(ii)(aa) (prescribed assumptions: valuation from 1 April
+2010) of the Valuation for Rating (Plant and Machinery) (Wales) Regulations
+2000(() , for “sections 41(2) and 52(2)” substitute  “sections 41ZA(2) and
+52ZA(2)” .
+
+#### Amendment to the State Pension Credit Regulations 2002
+
+14
+
+In paragraph 6(4) of Schedule 2 (apportionment of housing costs) to the State
+Pension Credit Regulations 2002 , for the definition of “local non-domestic
+rating list” substitute—
+
+      “ local non-domestic rating list ” means—         as respects England, a
+list compiled and maintained under section 41(1) of the Act of 1988;
+as respects Wales, a list compiled and maintained under section 41ZA of the
+Act of 1988;
+
+.
+
+#### Amendment to the Employment and Support Allowance Regulations 2008
+
+15
+
+In paragraph 7(4) of Schedule 6 (apportionment of housing costs) to the
+Employment and Support Allowance Regulations 2008 , for the definition of
+“local non-domestic rating list” substitute—
+
+      “ local non-domestic rating list ” means—         as respects England, a
+list compiled and maintained under section 41(1) of the Act of 1988;
+as respects Wales, a list compiled and maintained under section 41ZA of the
+Act of 1988;
+
+.
+
+#### Amendment to the Energy Performance of Buildings (England and Wales) Regulations 2012
+
+16
+
+In regulation 38(5) (penalty amount) of the Energy Performance of Buildings
+(England and Wales) Regulations 2012 , for the definition of “local non-
+domestic rating list” substitute—
+
+      “ local non-domestic rating list ” means—         in relation to
+England, a list compiled and maintained under section 41 of the Local
+Government Finance Act 1988;           in relation to Wales, a list compiled
+and maintained under section 41ZA of the Local Government Finance Act 1988;
+
+.
+
+#### Amendment to the Energy Efficiency (Private Rented Property) (England and Wales) Regulations 2015
+
+17
+
+In regulation 41(5) (breaches in relation to non-domestic PR property) of the
+Energy Efficiency (Private Rented Property) (England and Wales) Regulations
+2015 , for the definition of “local non-domestic rating list” substitute—
+
+      “ local non-domestic rating list ” means—         in relation to
+England, a list maintained under section 41 of the Local Government Finance
+Act 1988;           in relation to Wales, a list compiled and maintained under
+section 41ZA of the Local Government Finance Act 1988;
+
+.
+
+#### Amendment to the Non-Domestic Rating (Miscellaneous Provisions) (Wales) Regulations 2017
+
+18
+
+In regulation 1(3) (interpretation) of the Non-Domestic Rating (Miscellaneous
+Provisions) (Wales) Regulations 2017 , in the definition of “list”, for
+“section 41 or 41A” substitute  “section 41ZA” .
+
+#### Amendments to the Non-Domestic Rating (Chargeable Amounts) (Wales) Regulations 2022
+
+19
+
+In regulation 2 (interpretation) of the Non-Domestic Rating (Chargeable
+Amounts) (Wales) Regulations 2022 —
+
+19.a
+
+in the definition of “central list”, for “compiled and maintained in
+accordance with section 52” substitute  “maintained in accordance with section
+52ZA(10)” ;
+
+19.b
+
+in the definition of “local list”, for “compiled and maintained in accordance
+with section 41” substitute  “maintained in accordance with section 41ZA(10)”
+.
+
+#### Amendments to the Non-Domestic Rating (Alteration of Lists and Appeals) (Wales) Regulations 2023
+
+20
+
+20.1
+
+The Non-Domestic Rating (Alteration of Lists and Appeals) (Wales) Regulations
+2023  are amended as follows.
+
+20.2
+
+In regulation 2(1) (interpretation: general)—
+
+20.2.a
+
+in the definition of “central list”, for “sections 52 and 54A” substitute
+“section 52ZA” ;
+
+20.2.b
+
+in the definition of “local list”, for “sections 41 and 54A” substitute
+“section 41ZA” .
+
+20.3
+
+In regulation 30(1) (notification of alteration), omit “deposited at its
+principal office under section 41(6B) of the Act ”.
+
+#### Amendments to the Non-Domestic Rating (Improvement Relief) (Wales) Regulations 2023
+
+21
+
+In regulation 2 (interpretation) of the Non-Domestic Rating (Improvement
+Relief) (Wales) Regulations 2023 —
+
+21.a
+
+in the definition of “central list”, for “section 52” substitute  “section
+52ZA” ;
+
+21.b
+
+in the definition of “local list”, for “section 41” substitute  “section 41ZA”
+.
+
+#### Revocations
+
+22
+
+The following statutory instruments are revoked—
+
+22.a
+
+the Non-Domestic Rating (Discretionary Relief) Regulations 1989 ;
+
+22.b
+
+the Non-Domestic Rating (Demand Notices and Discretionary Relief) (Wales)
+(Amendment) Regulations 2006 ;
+
+22.c
+
+the Rating Lists (Postponement of Compilation) (Wales) Order 2014 .
+
+### Amendments to secondary legislation coming into force on 1 April 2025
+
+#### Amendments to the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989
+
+23
+
+The amendments made to regulation 3(2) of the Non-Domestic Rating (Collection
+and Enforcement) (Local Lists) Regulations 1989  by paragraph 1(b) of Schedule
+1 to the Local Government (Non-Domestic Rating) (Consequential Amendments)
+(England) Order 2008  and regulation 2(b) of the Non-Domestic Rating
+(Consequential and Other Amendments etc.) (England) Regulations 2023  apply in
+relation to hereditaments in Wales.
+
+#### Amendments to the Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990
+
+24
+
+24.1
+
+The Non-Domestic Rating (Collection and Enforcement) (Miscellaneous
+Provisions) Regulations 1990  are amended as follows.
+
+24.2
+
+In regulation 3(7) (joint owners and occupiers), at the beginning insert  “In
+relation to England,” .
+
+24.3
+
+After regulation 3(7), insert—
+
+24.3.7A
+
+In relation to Wales, for the purposes of any time to which paragraph (2)(b)
+applies—
+
+24.3.7A.a
+
+the requirement in paragraph 2(2)(a) of Schedule 4ZA and paragraph 2(3) of
+Schedule 4ZB to the Act that the ratepayer should be a charity or trustees for
+a charity is met if one or more of the owners or occupiers jointly and
+severally liable is a charity or (as the case may be) some or all of them are
+trustees for a charity; and
+
+24.3.7A.b
+
+the requirement in paragraph 2(2)(b) of Schedule 4ZA and paragraph 2(8) of
+Schedule 4ZB to the Act that the ratepayer should be a registered club for the
+purposes of Chapter 9 of Part 13 of the Corporation Tax Act 2010  (community
+amateur sports clubs) is met if one or more of the owners or occupiers jointly
+and severally liable is such a club.
+
+#### Amendment to the Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007
+
+25
+
+In the Government of Wales Act 2006 (Consequential Modifications and
+Transitional Provisions) Order 2007 , in Schedule 1, omit paragraph 39
+(modification of Schedule 7 to the Local Government Finance Act 1988).
+
+#### Amendments to the Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017
+
+26
+
+26.1
+
+Schedule 1 of the Non-Domestic Rating (Demand Notices) (Wales) Regulations
+2017  (matters to be contained in demand notices) are amended as follows.
+
+26.2
+
+For paragraph 3 substitute—
+
+26.2.3
+
+The non-domestic rating multiplier calculated for the relevant year in
+accordance with paragraph A15 or, as the case may be, paragraph A14 of Part A2
+of Schedule 7 to the 1988 Act .
+
+26.3
+
+In paragraph 5 for “paragraph 1(1)(b)” substitute  “paragraph 1(1)” .
+
+#### Amendment to the Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024
+
+27
+
+In the Non-Domestic Rating (Miscellaneous and Consequential Amendments to
+Secondary Legislation) (Wales) Regulations 2024 , omit regulation 7 (amendment
+to the Non-Domestic Rating (Collection and Enforcement) (Miscellaneous
+Provisions) Regulations 1990).
+
+      Mark Drakeford   Cabinet Secretary for Finance and Welsh Language, one
+of the Welsh Ministers     4 October 2024
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations make amendments to secondary legislation in consequence to
+amendments made by the Local Government Finance (Wales) Act 2024 (“ the 2024
+Act ”) to the Local Government Finance Act 1988 (“ the 1988 Act ”) and the
+Local Government Finance Act 1992 (“ the 1992 Act ”). They also make other
+amendments which are not consequential to the 2024 Act and revoke statutory
+instruments or omit provisions which no longer have effect.
+
+  These Regulations comprise three Parts.
+
+  Part 1 sets out the title, application and coming into force provisions.
+
+  Part 2 (which consists of regulations 2 to 22) comes into force on 16
+November 2024, to coincide with the coming into force of the provisions in the
+2024 Act to which they relate, or in the case of provisions which no longer
+have effect, to remove them from the statute book at the earliest convenience.
+
+  Regulations 2 to 5, 8 and 12 to 21 ensure that the relevant statutory
+instruments make reference to new sections 41ZA and 52ZA of the 1988 Act (as
+appropriate), which deal with the compilation and maintenance of local and
+central non-domestic rating lists in relation to Wales.
+
+  Regulations 6, 7, 9 and 10 relate to council tax valuation lists. Regulation
+6 amends regulation 6 of the Council Tax (Situation and Valuation of
+Dwellings) Regulations 1992 to ensure that dwellings in Wales will continue to
+be valued by reference to the correct dates when new valuation lists are
+compiled. Regulation 7 ensures that the provisions in the Council Tax
+(Contents of Valuation Lists) Regulations 1992 apply to valuation lists
+compiled under the new provisions in section 22B of the 1992 Act (as inserted
+by the 2024 Act) in addition to valuation lists compiled under sections 22 and
+22A of the 1992 Act in relation to Wales. Regulation 9 amends the Council Tax
+(Demand Notices) (Wales) Regulations 1993 to ensure that the appropriate
+provisions of the 1992 Act are referred to. Regulation 10 amends the Local
+Authorities (Calculation of Council Tax Base) (Wales) Regulations 1995 in
+consequence of the new duties on billing authorities introduced by the 2024
+Act in relation to depositing and keeping council tax valuation lists.
+
+  Regulation 11 omits articles 5 and 10 of the Local Government Reorganisation
+(Wales) (Finance) (Miscellaneous Amendments and Transitional Provisions) Order
+1996 (“ the 1996 Order ”) as they no longer have effect. Regulation 11 also
+amends article 6(8) of the 1996 Order by restating definitions for terms used
+in that provision previously contained in section 41A of the 1988 Act, which
+can no longer be applied as this section has been repealed by the 2024 Act.
+
+  Regulation 22 revokes the Non-Domestic Rating (Discretionary Relief)
+Regulations 1989 to remove constraints on the powers for billing authorities
+to award discretionary relief. It also revokes the Non-Domestic Rating (Demand
+Notices and Discretionary Relief) (Wales) (Amendment) Regulations 2006 and the
+Rating Lists (Postponement of Compilation) (Wales) Order 2014 as they no
+longer have effect.
+
+  Part 3 (which consists of regulations 23 to 27) comes into force on 1 April
+2025, to coincide with the coming into force of the provisions relating to
+charitable relief in section 6 and the multiplier in section 10 of the 2024
+Act.
+
+  Regulation 23 amends regulation 3(2) of the Non-Domestic Rating (Collection
+and Enforcement) (Local Lists) Regulations 1989 to clarify that for the
+purposes of Part 2 of those Regulations, the conditions in section 43(1) or
+45(1) of the 1988 Act will not be treated as fulfilled where the chargeable
+amount in respect of a hereditament is zero in accordance with paragraph 2 of
+Schedule 4ZB to the 1988 Act.
+
+  Regulation 24 amends the Non-Domestic Rating (Collection and Enforcement)
+(Miscellaneous Provisions) Regulations 1990 (“ the 1990 Regulations ”) to
+provide that, where there is more than one owner or occupier of a
+hereditament, the condition in paragraph 2(3) of Schedule 4ZB to the 1988 Act
+will be considered fulfilled even where only one of those joint owners or
+occupiers is a registered community amateur sports club. This aligns the
+position with that of charity or charity trustee ratepayers.
+
+  Regulation 25 omits paragraph 39 of Schedule 1 to the Government of Wales
+Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007,
+which amended Part 1 of Schedule 7 to the 1988 Act. As Part 1 of Schedule 7 is
+omitted from the 1988 Act by the 2024 Act, the previous amendments made by
+paragraph 39 no longer have effect.
+
+  Regulation 26 amends the Non-Domestic Rating (Demand Notices) (Wales)
+Regulations 2017 to reflect the multiplier provisions in Schedule 7 to the
+1988 Act as amended by the 2024 Act.
+
+  Regulation 27 omits regulation 7 of the Non-Domestic Rating (Miscellaneous
+and Consequential Amendments to Secondary Legislation) (Wales) Regulations
+2024 to expressly revoke the amendment that regulation made to regulation 3(7)
+of the 1990 Regulations. The purpose of the amendment is to ensure that the
+provisions in regulation 3(7) of the 1990 Regulations only include amendments
+made in relation to England.
+
+  The Welsh Ministers’ Code of Practice on the carrying out of Regulatory
+Impact Assessments was considered in relation to these Regulations. As a
+result, it was not considered necessary to carry out a regulatory impact
+assessment as to the likely costs and benefits of complying with these
+Regulations.
+

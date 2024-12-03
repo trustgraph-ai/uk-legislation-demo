@@ -1,0 +1,767 @@
+Title: The Building Safety (Registration of Higher-Risk Buildings and Review of Decisions) (England) Regulations 2023
+Date: 2024-04-19
+Description: These Regulations make provision about the register of higher-risk buildings held by the building safety regulator (“the regulator”). These Regulations make provision about making an application for registration of a higher-risk building including the associated fee and withdrawing that application. They also set out further provisions about decisions of the regulator that may be subject to a review under section 25 of the Building Safety Act 2022 (“the 2022 Act”).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2023/315
+
+## The Building Safety (Registration of Higher-Risk Buildings and Review of Decisions) (England) Regulations 2023
+
+    Building And Buildings, England
+
+  Made   9th March 2023
+
+  Laid before Parliament   14th March 2023
+
+  Coming into force   6th April 2023
+
+      The Secretary of State makes the following Regulations in exercise of
+the powers conferred by sections 25(1) to (3) and (7), 28(1), (2) and (4),
+78(4) and (5), and 168(2) and (4) of the Building Safety Act 2022 .       In
+accordance with section 7(4) of the Building Safety Act 2022, the Secretary of
+State has consulted the regulator  and such other persons as the Secretary of
+State considers appropriate.           No consultation by the Secretary of
+State is required in relation to regulations 20 and 21 of these Regulations
+because the regulator made proposals for them to the Secretary of State, under
+section 7(2) of the Building Safety Act 2022.
+
+### General
+
+#### Citation, commencement, extent, application and interpretation
+
+1
+
+1.1
+
+These Regulations may be cited as the Building Safety (Registration of Higher-
+Risk Buildings and Review of Decisions) (England) Regulations 2023 and come
+into force on 6th April 2023.
+
+1.2
+
+These Regulations extend to England and Wales and apply to England only.
+
+1.3
+
+In these Regulations—
+
+“ the 2022 Act ” means the Building Safety Act 2022; “ AP ” means accountable
+person ;   “ building certificate ” means a completion certificate or, as the
+case may be, a final certificate in relation to a building;   “ building
+control body ” means— where the certificate is a completion certificate, the
+building control authority for the building; where the certificate is a final
+certificate, the approved inspector   or, as the case may be, registered
+building control approver  who gave the initial notice to which the final
+certificate relates;   “ change of use ” has the same meaning as in The Town
+and Country Planning (Use Classes) Order 1987 ; “ completed ” in relation to a
+building means— in the case of a newly built higher-risk building , when the
+construction of that building is completed; in the case of a building which
+was not a higher-risk building when built and which becomes a higher-risk
+building following a change of use, when the change of use occurs that causes
+that building to become a higher-risk building; in the case of a building
+which was not a higher-risk building when built and which becomes a higher-
+risk building following works which cause it to become a higher-risk building,
+when those works are completed; “ completion certificate ” means— a
+certificate issued in accordance with regulation 17 (completion certificates)
+of the Building Regulations 2010 ,   a certificate issued in accordance with
+regulation 44 (completion certificate applications: decisions) of the Building
+(Higher-Risk Buildings Procedures) (England) Regulations 2023; where paragraph
+5, 10 or 11 of Schedule 3 to the Building (Higher-Risk Buildings Procedures)
+(England) Regulations 2023 applies in relation to a building, a transfer and
+completion certificate provided for by virtue of modifications set out in
+paragraph 5(9), 10(4), or, as the case may be, 11(4) of Schedule 3 to those
+Regulations;   a certificate issued in accordance with the equivalent
+provision of earlier regulations made under section 1 of the Building Act 1984
+or section 4 of the Public Health Act 1961 , or a certificate issued under an
+equivalent provision of byelaws made under section 61 of the Public Health Act
+1936 ; “ final certificate ” has the same meaning as in section 51 of the
+Building Act 1984 ; “ leaseholder ” means a tenant under a lease of a dwelling
+in a building; “ PAP ” means principal accountable person ; “ the register ”
+means the register of higher-risk buildings ; “ registration information ”
+means the information described in regulations 11 to 17, 18(1)(a) to (c) and
+(2) and 19; “ relevant day ” means any day other than Christmas Day, Good
+Friday or a day which is a bank holiday under the Banking and Financial
+Dealings Act 1971 in England and Wales ; “ start date ” means the day on which
+section 32 of the 2022 Act (building control authorities) comes into force in
+relation to England, ignoring any commencement of that section for the purpose
+only of making regulations; “ transitional building ” means a higher-risk
+building in relation to which section 91ZA(1) of the Building Act 1984  does
+not apply (by virtue of regulations made under paragraph 10 of Schedule 1 to
+the Building Act 1984) on the day the application for registration of that
+building is submitted.
+
+#### Direction to be made by regulator
+
+2
+
+2.1
+
+The regulator  may make a direction as to the way in which any of the
+following must be given to it—
+
+2.1.a
+
+information with regard to a change to registration information or copy
+certificate in accordance with regulation 4;
+
+2.1.b
+
+a request made in accordance with regulation 7 to remove a building from the
+register;
+
+2.1.c
+
+an application under section 78(1) of the 2022 Act to register a higher-risk
+building;
+
+2.1.d
+
+a request made in accordance with regulation 22 to withdraw an application for
+registration;
+
+2.1.e
+
+a notice given in accordance with regulation 23 to review a decision by the
+regulator.
+
+2.2
+
+The direction may include a requirement to give the information via a website
+address provided for that purpose by the regulator.
+
+2.3
+
+The regulator must publish any direction under this regulation on its website
+and make it available for inspection at its principal offices during normal
+office hours.
+
+2.4
+
+The regulator may, by a further direction, amend or revoke a direction made
+under this regulation.
+
+### The Register of Higher-Risk Buildings
+
+#### Content
+
+3
+
+The register must contain the following information in relation to each
+higher-risk building on the register—
+
+3.a
+
+the registration information,
+
+3.b
+
+any copy certificate required in regulation 18(1)(d),
+
+3.c
+
+the date of issue of any building assessment certificate , and
+
+3.d
+
+where applicable, the date that any special measures order  is made or
+discharged.
+
+#### Updating information
+
+4
+
+The PAP must provide to the regulator, within the period of 14 relevant days
+beginning with the day that the PAP becomes aware of a change—
+
+4.a
+
+any change to the registration information provided to the regulator,
+
+4.b
+
+any copy certificate required in regulation 18(1)(d)  ..., where a certificate
+becomes available that is more recent than the one provided to the regulator.
+
+5
+
+The regulator must update the register, as it considers necessary, within the
+period of 14 relevant days beginning with the relevant day that—
+
+5.a
+
+the regulator receives information or   a  copy certificate pursuant   to
+regulation 4;
+
+5.b
+
+the regulator gives a building assessment certificate;
+
+5.c
+
+the regulator receives any information pursuant to regulations made under
+section 90(4) (provision of information etc on change in accountable person)
+of the 2022 Act;
+
+5.d
+
+a special measures order is made or discharged.
+
+#### Circumstances for removing a building entry
+
+6
+
+The regulator may remove a higher-risk building from the register where—
+
+6.a
+
+a PAP makes a written request to the regulator in accordance with regulation
+7, or
+
+6.b
+
+there is no request, on the regulator’s own initiative.
+
+#### Request of PAP to remove a building entry
+
+7
+
+7.1
+
+Where a PAP for a building considers that the building is or will not be
+occupied or the building is or will not be a higher-risk building, the PAP
+must make a request to the regulator to remove the building from the register.
+
+7.2
+
+With regard to any request that the PAP makes in accordance with paragraph (1)
+the PAP must include—
+
+7.2.a
+
+their name, address and contact details,
+
+7.2.b
+
+an explanation of why the PAP considers that the building is not or will not
+be occupied or the building is or will not be a higher-risk building, and
+
+7.2.c
+
+where there is more than one AP for the building, a declaration confirming
+that all other APs for the building have been sent a copy of the request .
+
+#### Notice of removal of building entry
+
+8
+
+8.1
+
+Where the regulator makes a decision to remove a building from the register,
+or to refuse a request to remove a building from the register (“a removal
+decision”), the regulator must give a notice of the removal decision to all
+the APs for the building.
+
+8.2
+
+A notice under paragraph (1) may be in electronic form and must—
+
+8.2.a
+
+be in writing,
+
+8.2.b
+
+give a summary of the reasons for the removal  decision , and
+
+8.2.c
+
+inform the recipient of the notice of the right to a review of and appeal
+against the removal decision .
+
+8.3
+
+A notice under paragraph (2) must be served as soon as reasonably practicable
+after a removal decision is made, and in any event before effecting any
+removal.
+
+#### Duty-holders
+
+9
+
+9.1
+
+In relation to regulations 6 and 7, “ PAP ” includes a person who would be a
+PAP for the building if the building were a higher-risk building.
+
+9.2
+
+In relation to regulation 8  ..., “ AP ” includes a person who would be an AP
+for the building if the building were a higher-risk building.
+
+### Applications for Registration
+
+#### Applications for registration
+
+10
+
+An application to register a higher-risk building must—
+
+10.a
+
+contain the information set out in regulations 11 to 17, 18(1)(a) to (c) and
+(2), and 19,
+
+10.b
+
+be accompanied by any document required by regulation 18(1)(d).
+
+#### AP details where there is one AP for the building
+
+11
+
+Where there is only one AP for the building, the details relating to the AP of
+the building as follows—
+
+11.a
+
+their name;
+
+11.b
+
+an address in England and Wales at which notices (including notices in
+proceedings) may be served on them;
+
+11.c
+
+their email address;
+
+11.d
+
+their telephone number.
+
+#### AP details where there is more than one AP for the building
+
+12
+
+Where there is more than one AP for the building—
+
+12.a
+
+confirmation of who is the PAP,
+
+12.b
+
+details for which part of the building each AP is responsible , and
+
+12.c
+
+the details relating to each AP of the building as follows—
+
+12.c.i
+
+their name;
+
+12.c.ii
+
+an address in England and Wales at which notices (including notices in
+proceedings) may be served on them;
+
+12.c.iii
+
+their email address;
+
+12.c.iv
+
+their telephone number.
+
+#### PAP organisation type
+
+13
+
+13.1
+
+For a PAP that is not an individual, whether the PAP is—
+
+13.1.a
+
+a local authority within the meaning set out in section 1 of the Local
+Government Act 2000 ,
+
+13.1.b
+
+a private registered provider of social housing ,
+
+13.1.c
+
+a registered provider of social housing ,
+
+13.1.d
+
+a commonhold association as defined by section 1 of the Commonhold and
+Leasehold Reform Act 2002 ,
+
+13.1.e
+
+a resident management company,
+
+13.1.f
+
+a right to manage company as defined by section 73  of the Commonhold and
+Leasehold Reform Act 2002, or
+
+13.1.g
+
+where the PAP is not an authority or body of a type listed in sub-paragraphs
+(a) to (f), details of the type of organisation that it is.
+
+13.2
+
+For the purpose of this regulation, “ resident management company ” means a
+body corporate which is party to a lease of a building where—
+
+13.2.a
+
+the body corporate is limited by guarantee and the members of that body are
+leaseholders , or
+
+13.2.b
+
+the majority of the shares of the body corporate are held by leaseholders.
+
+#### Details of person making application on behalf of PAP
+
+14
+
+If the PAP authorises a person to make the registration application on their
+behalf—
+
+14.a
+
+confirmation from that person that they are authorised by that PAP, to act on
+that PAP’s behalf, and
+
+14.b
+
+the name and address of that person.
+
+#### Details of single point of contact
+
+15
+
+If the PAP or person making the application on behalf of the PAP is not an
+individual, the name and address of the individual who will act as a single
+point of contact for the PAP for the purposes of the registration application.
+
+#### Description of building
+
+16
+
+With regard to the higher-risk building—
+
+16.a
+
+the address, postcode and, if applicable, name of the building,
+
+16.b
+
+the number of residential units  it contains,
+
+16.c
+
+the height, in metres, of the building as determined in accordance with
+regulations made under section 65(2) of the 2022 Act,
+
+16.d
+
+the number of storeys on or above ground level as determined in accordance
+with regulations made under section 65(2) of the 2022 Act, and
+
+16.e
+
+the year in which the building was completed.
+
+#### Building control: for a building completed before start date
+
+17
+
+17.1
+
+In relation to a building which was completed before the start date—
+
+17.1.a
+
+the date of the building certificate for the completed building,
+
+17.1.b
+
+the reference number of the certificate, and
+
+17.1.c
+
+the name of the building control body who gave the certificate.
+
+17.2
+
+Where the PAP does not hold any of the information in a paragraph (1) they
+must provide an explanation to the regulator setting out the steps that the
+PAP has taken to obtain the information.
+
+#### Building control: for a building completed on or after start date and a transitional building
+
+18
+
+18.1
+
+In relation to a building which was completed on or after the start date and
+is a transitional building—
+
+18.1.a
+
+the date of the building certificate issued in relation to the building,
+
+18.1.b
+
+the reference number of the certificate,
+
+18.1.c
+
+the name of the building control body who gave certificate, and
+
+18.1.d
+
+a copy of the certificate.
+
+18.2
+
+It is sufficient to provide the most recent building certificate where more
+than one building certificate has been issued for the same part of the
+building.
+
+#### Building control: for a building completed on or after start date and not a transitional building
+
+19
+
+In relation to a building which was completed on or after the start date but
+is not a transitional building—
+
+19.a
+
+the reference number for the building, issued by the regulator, and
+
+19.b
+
+the date that the building certificate was issued.
+
+#### Prescribed fee
+
+20
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Effect of failure to pay fee
+
+21
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Withdrawing an application
+
+22
+
+22.1
+
+The circumstance in which an application for registration of a higher-risk
+building may be withdrawn is where—
+
+22.1.a
+
+the PAP makes a request to the regulator to withdraw the application regarding
+the building for which they are the PAP, and
+
+22.1.b
+
+that request is made in writing and sets out the reason for the request.
+
+22.2
+
+In this regulation the PAP includes the person who would be the PAP if the
+building were a higher-risk building.
+
+### Review of Decisions of the Regulator
+
+#### Regulator decision: review
+
+23
+
+23.1
+
+The following decisions of the regulator are prescribed for the purposes of
+section 25(1)  of the 2022 Act—
+
+23.1.a
+
+a decision not to register a higher-risk building further to an application;
+
+23.1.b
+
+a decision to remove a building from the register ;
+
+23.1.c
+
+a decision to refuse   a request  to remove a building from the register;
+
+23.1.d
+
+a decision to refuse an application for a building assessment certificate ;
+
+23.1.e
+
+a decision to give a direction for assessment of building safety risks
+pursuant to section 83(2)(c) of the 2022 Act.
+
+23.2
+
+The persons prescribed for the purposes of section 25(2) of the 2022 Act are—
+
+23.2.a
+
+in relation to a decision   of the regulator mentioned in   paragraph (1)(a),
+(b), (d) or (e) an affected person within the meaning in section 104(4) of the
+2022 Act;
+
+23.2.b
+
+in relation to a decision   of the regulator mentioned in   paragraph (1)(c),
+an AP for the higher-risk building (or person who would be an AP for the
+building if the building were a higher-risk building).
+
+23.3
+
+The prescribed period   for the purposes of section 25(2) of the 2022 Act  for
+giving a notice to the regulator is within 21 relevant days beginning with the
+day on which the decision is made.
+
+23.4
+
+The prescribed information   for the purposes of section 25(3)(a) of the 2022
+Act  to be contained in a notice (“ the notice ”) is—
+
+23.4.a
+
+details for the person giving the notice as follows—
+
+23.4.a.i
+
+their name;
+
+23.4.a.ii
+
+an address in England and Wales at which notices (including notices in
+proceedings) may be served on them;
+
+23.4.a.iii
+
+their email address;
+
+23.4.a.iv
+
+their telephone number;
+
+23.4.b
+
+the name and address of any person authorised to give the notice on behalf of
+a person set out at paragraph (3);
+
+23.4.c
+
+the address, postcode, and if applicable, the name of the building to which
+the relevant decision relates;
+
+23.4.d
+
+a summary of the review being sought that—
+
+23.4.d.i
+
+identifies the decision for review, and
+
+23.4.d.ii
+
+sets out the reason for the review;
+
+23.4.e
+
+any new information that is available to the person giving the notice, that
+may have been relevant to the regulator’s original decision and was not
+available at the time the original decision was made;
+
+23.4.f
+
+confirmation that any other AP for the same building to which the decision
+relates has been given a copy of the notice.
+
+23.5
+
+The period prescribed for the purposes of section 25(7) of the 2022 Act, is
+within 28 relevant days beginning with the day that the regulator receives the
+notice.
+
+Signed by authority of the Secretary of State for Levelling Up, Housing and
+Communities Lee Rowley Parliamentary Under Secretary of State Department for
+Levelling Up, Housing and Communities 9th March 2023
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations make provision about the register of higher-risk buildings
+held by the building safety regulator (“the regulator”). These Regulations
+make provision about making an application for registration of a higher-risk
+building including the associated fee and withdrawing that application. They
+also set out further provisions about decisions of the regulator that may be
+subject to a review under section 25 of the Building Safety Act 2022 (“ the
+2022 Act ”).
+
+  Regulation 2 in Part 1 sets out how a direction by the regulator may
+determine how information is given to the regulator with respect to making or
+withdrawing a registration application, provision of information updating the
+register, requesting to remove a higher-risk building from the register or
+requiring the regulator to carry out a review of its own decision. The
+direction may require information to be submitted electronically and may be
+revoked and amended.
+
+  Part 2 of the Regulations makes provision about the register of higher-risk
+buildings. Regulation 3 makes provision for the content of the regulator’s
+register of higher-risk buildings. Regulations 4 and 5 set out the
+requirements on the principal accountable person (“ PAP ”) and regulator in
+relation to keeping that register up to date. Regulations 6 to 8 set out the
+procedure for removing a building entry from the register.
+
+  Part 3 of the Regulations makes provision about the application for
+registration of a higher-risk building. Regulations 10 to 17, 18(1)(a) to (c)
+and (2) and 19 set out the ‘registration information’ to be contained in the
+application and regulation 18(1)(d) sets out any copy certificate that must
+accompany an application. The registration information requirements include
+details about contact information for each accountable person (“ AP ”) for
+that building, a description of the building, and information in relation to
+building control approvals for that building.
+
+  Regulations 20 and 21 make provision for the regulator to charge a
+registration fee to the PAP at the time the application for registration is
+made, otherwise the regulator will not register the higher-risk building.
+Regulation 20 also provides that any refund of the registration fee upon a
+withdrawal of application, will be at the regulator’s discretion.
+
+  Regulation 22 provides for the circumstance in which a registration
+application may be withdrawn and the procedure for requesting a withdrawal.
+
+  In Part 4, regulation 23 supplements section 25 of the 2022 Act. It sets
+out, among other things, which regulator decisions may be the subject of a
+review, the persons who can give notice to the regulator requiring the review,
+the period of time in which the person must send that notice and by when the
+regulator must notify the outcome of the review. It also sets out what must be
+contained in the notice sent to the regulator requesting the review.
+
+  A full impact assessment of the effect that this instrument will have on the
+costs to business and is published with an Explanatory Memorandum alongside
+the instrument on  www.legislation.gov.uk .
+

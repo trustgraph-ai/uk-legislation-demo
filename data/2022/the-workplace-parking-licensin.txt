@@ -1,0 +1,1850 @@
+Title: The Workplace Parking Licensing (Scotland) Regulations 2022
+Date: 2024-05-20
+Description: These Regulations make provision in relation to workplace parking licensing schemes made under Part 7 of the Transport (Scotland) Act 2019 (“the Act”).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ssi/2022/4
+
+## The Workplace Parking Licensing (Scotland) Regulations 2022
+
+Transport
+
+Made 10th January 2022
+
+Laid before the Scottish Parliament 12th January 2022
+
+Coming into force 4th March 2022
+
+The Scottish Ministers make the following Regulations in exercise of the
+powers conferred by sections 74, 75(6), 76(5), 80(1)(b), 82(1) and 83(1) of
+the Transport (Scotland) Act 2019  and all other powers enabling them to do
+so. In accordance with sections 74, 76(5), 80(1)(b) and 83(1) of that Act, the
+Scottish Ministers have consulted with such persons as they consider
+appropriate.
+
+### Preliminary
+
+#### Citation, commencement and interpretation
+
+1
+
+1.1
+
+These Regulations may be cited as the Workplace Parking Licensing (Scotland)
+Regulations 2022 and come into force on 4 March 2022.
+
+1.2
+
+In these Regulations—
+
+    “ the Act ” means the Transport (Scotland) Act 2019,         “First-tier
+Tribunal” and “Upper Tribunal” mean (respectively) the First-tier Tribunal for
+Scotland and the Upper Tribunal for Scotland (see section 1 (establishment of
+the tribunals) of the Tribunals (Scotland) Act 2014 ),         “ local
+authority ” includes local authorities jointly making or operating a scheme,
+“ scheme ” means a workplace parking licensing scheme,         “writing” and
+“written” include electronic communications within the meaning of section 15
+(general interpretation) of the Electronic Communications Act 2000 .
+
+### Consultation, reporting and publication requirements
+
+#### Publication of proposal
+
+2
+
+Before making a scheme, a local authority must—
+
+2.a
+
+publish, at least once in a local newspaper circulating in the area to which
+the proposed scheme relates, notice of the proposal containing the information
+specified in Part 1 of schedule 1,
+
+2.b
+
+publish on the local authority’s website a copy of the documents required
+under section 73(1)(a) of the Act and the notice mentioned in paragraph (a),
+
+2.c
+
+make a copy of those documents and that notice available for inspection at
+their offices during normal office hours, and (if the local authority thinks
+fit) at such other places within its area and during such times at those
+places as it may determine,
+
+2.d
+
+send to the Scottish Ministers a copy of the documents and the notice
+mentioned in paragraph (b),
+
+2.e
+
+take such other steps as it considers appropriate for ensuring that adequate
+publicity about the proposal to make the scheme is given to persons likely to
+be affected by it.
+
+#### Consultation
+
+3
+
+A local authority must send to any person it intends to consult under section
+73(1)(b) of the Act—
+
+3.a
+
+a copy of the documents required under section 73(1)(a) of the Act,
+
+3.b
+
+notice of the time period for consultation responses to be submitted,
+
+3.c
+
+notice of where such responses are to be sent.
+
+#### Report following consultation
+
+4
+
+The report required under section 73(1)(c) of the Act must be—
+
+4.a
+
+published on the local authority’s website,
+
+4.b
+
+sent to such persons consulted under section 73(1)(b) of the Act as the local
+authority considers appropriate,
+
+4.c
+
+sent to the Scottish Ministers.
+
+#### Notice of making a scheme
+
+5
+
+Within 14 days of making a scheme under section 72 of the Act a local
+authority must—
+
+5.a
+
+publish—
+
+5.a.i
+
+at least once in a local newspaper circulating in the area to which the scheme
+relates, and
+
+5.a.ii
+
+on the local authority’s website,
+
+notice of the making of the scheme containing the information specified in
+Part 2 of schedule 1,
+
+5.b
+
+make available for inspection at their offices during normal office hours, and
+(if the local authority think fit) at such other places within its area and
+during such times at those places as it may determine—
+
+5.b.i
+
+a copy of the scheme as made together with a statement of the date on which it
+comes into effect,
+
+5.b.ii
+
+in the case of a scheme made after the holding of an examination under section
+75 of the Act, a copy of the report following that examination,
+
+5.c
+
+publish the scheme and, where applicable, the report following the holding of
+an examination under section 75 of the Act on the local authority’s website,
+
+5.d
+
+take such other steps as it considers appropriate for ensuring that adequate
+publicity about the making of the scheme is given to persons likely to be
+affected by it.
+
+### Examinations
+
+#### Examination of proposals
+
+6
+
+6.1
+
+Where an initiating party intends to appoint a reporter to carry out an
+examination under section 75(2) of the Act in relation to a proposal to make a
+scheme, that party must give notice in writing of its intention to—
+
+6.1.a
+
+the Scottish Ministers, if the initiating party is the local authority
+proposing to make the scheme,
+
+6.1.b
+
+the local authority, if the initiating party is the Scottish Ministers,
+
+6.1.c
+
+any person who responded to the consultation carried out under section
+73(1)(b) of the Act.
+
+6.2
+
+A notice of intention under paragraph (1) must be accompanied by—
+
+6.2.a
+
+a statement setting out full details of the matters the initiating party
+considers require to be taken into account by the reporter in examining the
+proposal to make the scheme,
+
+6.2.b
+
+a statement as to which of the procedures specified in section 75(3) of the
+Act the initiating party considers is appropriate in the circumstances,
+
+6.2.c
+
+all documents, materials and evidence upon which the initiating party intends
+to rely in the examination,
+
+6.2.d
+
+copies of the documents required under section 73(1)(a) of the Act, and the
+report required under section 73(1)(c) of the Act,
+
+6.2.e
+
+where the statement referred to in sub-paragraph (b) indicates that—
+
+6.2.e.i
+
+a hearing under section 75(3)(b) of the Act is sought, a list of any persons
+whom the initiating party wishes to provide a written statement for the
+purposes of the hearing, or
+
+6.2.e.ii
+
+an inquiry under section 75(3)(c) of the Act is sought, a list of any persons
+whom the initiating party wishes to give evidence at the inquiry, any matters
+which those persons are particularly to address,
+
+and any relevant qualifications those persons have to do so.
+
+6.3
+
+Where the initiating party is the Scottish Ministers, the local authority
+must, as soon as reasonably practicable after a request to do so by the
+Scottish Ministers, send a copy of the notice and accompanying information
+mentioned in this regulation to any person who responded to the consultation
+carried out under section 73(1)(b) of the Act.
+
+6.4
+
+All matters which the initiating party intends to raise in the examination
+must be set out in the statement referred to in paragraph (2)(a), or in the
+documents which accompany that statement.
+
+#### Appointment of reporter
+
+7
+
+7.1
+
+A reporter appointed under section 75(2) of the Act must be—
+
+7.1.a
+
+a member of the staff of the Scottish Ministers, or
+
+7.1.b
+
+selected from a panel provided by the Scottish Ministers.
+
+7.2
+
+When appointing a reporter to carry out an examination under section 75(2) of
+the Act the initiating party must send to the reporter—
+
+7.2.a
+
+copies of notices sent in accordance with regulation 6(1),
+
+7.2.b
+
+copies of everything referred to in regulation 6(2).
+
+#### Responses to notice of intention to cause an examination to be held
+
+8
+
+8.1
+
+The persons referred to in regulation 6(1) may respond in writing to the
+initiating party’s notice within the scope of the examination as set in
+accordance with regulation 9.
+
+8.2
+
+Responses must include—
+
+8.2.a
+
+representations setting out full details of the matters which the respondent
+considers require to be taken into account by the reporter in examining the
+proposal,
+
+8.2.b
+
+a statement as to which of the procedures specified in section 75(3) of the
+Act the respondent considers is appropriate in the circumstances,
+
+8.2.c
+
+where the respondent intends to rely on documents, materials and evidence in
+addition to the items referred to in regulation 6(2)(c) and (d), copies of the
+documents, materials and evidence,
+
+8.2.d
+
+where the respondent intends to rely only on the documents, materials,
+evidence, and the statement and report already provided by the initiating
+party under regulation 6(2)(a), (c) and (d), a list of those items upon which
+the person intends to rely,
+
+8.2.e
+
+where the statement referred to in sub-paragraph (b) indicates that—
+
+8.2.e.i
+
+a hearing under section 75(3)(b) of the Act is sought, a list of any persons
+whom the respondent wishes to provide a written statement for the purposes of
+the hearing, or
+
+8.2.e.ii
+
+an inquiry under section 75(3)(c) of the Act is sought, a list of any persons
+whom the respondent wishes to give evidence at the inquiry, any matters which
+those persons are particularly to address,
+
+and any relevant qualifications those persons have to do so.
+
+8.3
+
+All matters which the respondent intends to raise in the examination must be
+set out in the representations referred to in paragraph (2)(a), or in the
+documents which accompany those representations.
+
+#### Scope of examinations
+
+9
+
+9.1
+
+The scope of the examination is to include only—
+
+9.1.a
+
+the matters identified in the statement referred to in regulation 6(2)(a),
+
+9.1.b
+
+any further matters which both the local authority proposing to make the
+scheme and the Scottish Ministers agree should be within the scope of the
+examination.
+
+9.2
+
+Matters outwith the scope of the examination that are raised in any response
+referred to in regulation 8 must be disregarded by the reporter.
+
+#### Procedure and timetable for examinations
+
+10
+
+10.1
+
+On appointment the reporter must in writing invite the local authority
+proposing to make the scheme and the Scottish Ministers to identify and agree
+any further matters as referred to in regulation 9(1)(b) for the purpose of
+setting the scope of the examination.
+
+10.2
+
+The invitation referred to in paragraph (1) must confirm the period within
+which responses are to be sent to the reporter for the purpose of that
+paragraph.
+
+10.3
+
+The reporter must establish the procedure and timetable for the examination
+and give written notice to the persons specified in regulation 6(1) of—
+
+10.3.a
+
+the scope of the examination as set in accordance with regulation 9,
+
+10.3.b
+
+the fact that responses must—
+
+10.3.b.i
+
+be within the scope of the examination,
+
+10.3.b.ii
+
+comply with the requirements set out in regulation 8,
+
+10.3.b.iii
+
+be sent to the reporter and to all other persons specified in regulation 6(1)
+within the period specified in the notice,
+
+10.3.c
+
+how responses may be sent,
+
+10.3.d
+
+the fact that persons given notice under this paragraph may send comments on
+any matters raised in the responses to the reporter and to all other persons
+given notice under this paragraph,
+
+10.3.e
+
+the period within which any such comments are to be sent.
+
+#### Opt-in procedure
+
+11
+
+11.1
+
+The reporter may invite, by notice in writing given in accordance with this
+regulation, the persons specified in regulation 6(1) to confirm if they wish
+to participate in any further procedure.
+
+11.2
+
+The notice given under paragraph (1) is to—
+
+11.2.a
+
+state that if the person wishes to participate in any further procedure
+conducted in relation to the examination they must send a notice (an “opt-in
+notice”) to the reporter to that effect,
+
+11.2.b
+
+include information as to how the opt-in notice may be given and specify the
+date (being not less than 14 days after the date on which the notice under
+paragraph (1) is given) on or before which the opt-in notice must be given to
+the reporter, and
+
+11.2.c
+
+inform the person that if they do not give an opt-in notice to the reporter
+before that date they may lose the opportunity to participate in any further
+procedure.
+
+#### Further submissions and information
+
+12
+
+12.1
+
+Before holding an examination the reporter may determine that further written
+submissions should be made, or further information should be provided, within
+the scope of the examination.
+
+12.2
+
+Where paragraph (1) applies, the reporter may request such further submissions
+or information and is to do so by giving written notice to that effect to the
+parties (a “procedure notice”).
+
+12.3
+
+A procedure notice is to—
+
+12.3.a
+
+set out the matters on which additional representations or information is
+requested,
+
+12.3.b
+
+specify the date by which such further representations or information are to
+be sent to the reporter,
+
+12.3.c
+
+confirm the means by which any party to whom the procedure notice was given
+may be contacted.
+
+12.4
+
+A party who receives a procedure notice must, by the date specified in that
+notice in accordance with paragraph (3)(b)—
+
+12.4.a
+
+provide the additional representations or information requested to the
+reporter,
+
+12.4.b
+
+provide a copy of that response to the parties.
+
+12.5
+
+Within 14 days of receipt of a copy of the response under paragraph (4)(b) any
+party—
+
+12.5.a
+
+may send comments in writing to the reporter in reply to that response, and
+
+12.5.b
+
+must, when doing so, send a copy of such comments to the other parties.
+
+#### Pre-examination meetings
+
+13
+
+13.1
+
+The reporter may hold a meeting (a “pre-examination meeting”) to consider the
+manner in which the examination is to be conducted with a view to securing the
+efficient and expeditious conduct of the examination.
+
+13.2
+
+The reporter must give to the parties such written notice of the holding of a
+pre-examination meeting and of the date, time and manner in which it is to be
+held, including its location if appropriate, (and any subsequent variation
+thereof) as may appear to the reporter to be reasonable in the circumstances.
+
+13.3
+
+The reporter is to determine the matters to be discussed and the procedure to
+be followed at the pre-examination meeting.
+
+#### Determination without further procedure
+
+14
+
+Where the reporter has received the information specified in regulations 6(2),
+8(2), and (as the case may be) 10(3)(d) and 12(4) and (5), and considers that
+no further representations are, or information is, required to enable the
+examination to be carried out, the reporter may carry out the examination and
+prepare a report on it without further procedure in accordance with section
+75(3)(a) of the Act.
+
+#### Conclusion on further procedure
+
+15
+
+Where the reporter decides not to carry out the examination in accordance with
+regulation 14 the reporter must (following any pre-examination meeting
+conducted in accordance with regulation 13)—
+
+15.a
+
+determine whether to carry out the examination by means of a hearing in
+accordance with section 75(3)(b) of the Act or by means of an inquiry in
+accordance with section 75(3)(c) of the Act,
+
+15.b
+
+inform the parties in writing of that determination.
+
+#### Inspections
+
+16
+
+16.1
+
+The reporter may at any time make—
+
+16.1.a
+
+an unaccompanied inspection of the area to which the proposal to make a scheme
+relates, or
+
+16.1.b
+
+an inspection of the area accompanied by any party notified under paragraph
+(3).
+
+16.2
+
+Where the reporter intends to make an unaccompanied inspection, the reporter
+must inform the parties of such intention.
+
+16.3
+
+Where the reporter intends to make an inspection accompanied by any party, the
+reporter must give notice of the date and time of the proposed inspection to
+the parties.
+
+16.4
+
+The reporter is not required to defer an inspection if any party referred to
+in paragraph (3) to whom notice was given is not present at the time of the
+inspection.
+
+#### Hearings and inquiries procedure
+
+17
+
+17.1
+
+Schedule 2 specifies the procedure for the conduct of a hearing into an
+examination under section 75 of the Act.
+
+17.2
+
+Schedule 3 specifies the procedure for the conduct of an inquiry into an
+examination under section 75 of the Act.
+
+#### Expenses
+
+18
+
+18.1
+
+The reporter may make orders as to the expenses incurred by the parties to the
+examination.
+
+18.2
+
+Orders under paragraph (1) in favour of the Scottish Ministers may include
+expenses in relation to the administration of the examination, in particular
+such reasonable sum as the reporter determines in respect of the Scottish
+Ministers’ general staff expenses and overheads.
+
+#### Report
+
+19
+
+The reporter must—
+
+19.a
+
+provide the parties with a copy of the report prepared under section 75(2) of
+the Act,
+
+19.b
+
+arrange for publication of the report on the Scottish Ministers’ website.
+
+#### Interpretation of Part 3
+
+20
+
+In this Part and schedules 2 and 3—
+
+    “ initiating party ” means whichever of the parties referred to in section
+75(2) of the Act that appoints a reporter in terms of that section,         “
+party ” means—       the local authority proposing to make the scheme,
+the Scottish Ministers,       any person who submitted an opt-in notice under
+regulation 11.
+
+### Liability to pay licence charge
+
+#### Liability to pay licence charge
+
+21
+
+21.1
+
+This paragraph applies where the occupier of premises has—
+
+21.1.a
+
+entered into arrangements with another person (P) for the provision by P of a
+parking place at those premises (whether or not for P’s own use), and
+
+21.1.b
+
+provided the local authority with such evidence of those arrangements as that
+authority may reasonably require.
+
+21.2
+
+Where paragraph (1) applies, the charge payable under a licence in respect of
+those premises must be paid by P.
+
+### Reviews and appeals of licensing decisions
+
+#### Application for review of decision by local authority
+
+22
+
+22.1
+
+A scheme must make provision allowing for the recipient of a decision to make
+an application to the local authority for a review of the decision.
+
+22.2
+
+An application for review—
+
+22.2.a
+
+must be made in writing within 28 days beginning with the date that notice of
+a decision is served on the applicant,
+
+22.2.b
+
+must include a statement in support of the application for review,
+
+22.2.c
+
+may be supported by such evidence as the applicant considers to be
+appropriate.
+
+22.3
+
+The local authority may consider whether it is appropriate to take account of
+an application made under this regulation which is received by them after the
+end of the period mentioned in paragraph (2)(a).
+
+22.4
+
+A decision which is the subject of an application for review does not have
+effect until the date of determination of that application.
+
+22.5
+
+In this regulation and, as the case may be, regulations 23 and 24—
+
+    “ applicant ” means a person applying for a review of a decision of a
+local authority,         “ decision ” means—       a determination of an
+application for a licence or for renewal or variation of a licence,       a
+decision to attach a condition to a licence,       a decision to revoke,
+suspend or vary a licence.
+
+#### Determination of application for review
+
+23
+
+23.1
+
+Where an application for review of a decision is made to a local authority
+under regulation 22(1) within the period mentioned in regulation 22(2)(a) or
+taken account of by the local authority under regulation 22(3), it must
+consider the application and any supporting evidence provided.
+
+23.2
+
+Following its consideration the local authority must determine the review by—
+
+23.2.a
+
+confirming the decision, or
+
+23.2.b
+
+revising the decision in such manner as it considers appropriate.
+
+23.3
+
+The local authority must give the applicant notice of its determination under
+paragraph (2).
+
+23.4
+
+The notice must—
+
+23.4.a
+
+state the reasons for the local authority’s determination,
+
+23.4.b
+
+state that an appeal against that determination may be made to the sheriff
+within 21 days beginning with the date on which the notice is sent, or such
+longer period as the sheriff may allow,
+
+23.4.c
+
+describe in general terms the manner and form for making an appeal,
+
+23.4.d
+
+state that the sheriff has the power to make an award of expenses.
+
+#### Appeals against determination of local authority
+
+24
+
+24.1
+
+An applicant may by summary application appeal to the sheriff against a
+determination made by a local authority under regulation 23(2).
+
+24.2
+
+On determining an appeal under this regulation, the sheriff may—
+
+24.2.a
+
+dismiss the appeal, or
+
+24.2.b
+
+allow the appeal and quash the determination under regulation 23(2) in whole
+or in part.
+
+24.3
+
+Where the appeal is allowed, the sheriff must remit the case with the reasons
+for the sheriff’s decision to the local authority for reconsideration of the
+determination under regulation 23(2).
+
+24.4
+
+The sheriff may include in the decision on an appeal under this regulation
+such order as to the expenses of the appeal as the sheriff thinks proper.
+
+24.5
+
+A determination under regulation 23(2) which is the subject of an appeal under
+this regulation does not have effect until the date of final disposal of the
+appeal.
+
+### Penalty charges and enforcement
+
+#### Imposition of penalty charges
+
+25
+
+25.1
+
+A scheme may provide for the imposition of a penalty charge in any of the
+following circumstances—
+
+25.1.a
+
+where a person is providing a workplace parking place at any premises in
+respect of which a licence is required under a scheme and there is no licence
+in force in respect of those premises,
+
+25.1.b
+
+where a person is providing a workplace parking place at any premises in
+respect of which a licence under a scheme is in force in circumstances where
+the number of vehicles occupying workplace parking places at those premises
+exceeds the maximum number of workplace parking places covered by the licence,
+
+25.1.c
+
+where a condition in a licence under a scheme (other than a condition as to
+the number of vehicles which may occupy workplace parking places at the
+premises to which the licence relates) has been contravened.
+
+25.2
+
+Where a scheme provides for the imposition of a penalty charge it must specify
+the period within which the charge must be paid and may specify different
+periods for different circumstances.
+
+25.3
+
+A scheme may not specify under paragraph (2) a period of less than 28 days
+beginning with the date on which the penalty charge notice is served.
+
+#### Rates of penalty charges
+
+26
+
+26.1
+
+A scheme which provides for penalty charges must specify the amount of the
+penalty charge and may specify different amounts in different circumstances.
+
+26.2
+
+A scheme may provide for the amount of the penalty charge to be reduced by a
+specified percentage if it is paid before the expiry of a specified period.
+
+26.3
+
+A scheme may provide for the amount of the penalty charge to be increased by a
+specified percentage if—
+
+26.3.a
+
+it is not paid before the expiry of the relevant period,
+
+26.3.b
+
+representations in respect of the penalty charge are not made in accordance
+with regulation 30.
+
+26.4
+
+Where a scheme makes provision as described in paragraph (3), it may specify
+different percentages for different purposes.
+
+26.5
+
+In this regulation “ relevant period ” has the same meaning as in regulation
+29(3).
+
+#### Liability to pay penalty charges by persons other than the occupier of premises
+
+27
+
+27.1
+
+This paragraph applies where the occupier of any premises has—
+
+27.1.a
+
+entered into arrangements with another person (P) for the provision by P of a
+parking place at those premises (whether or not for P’s own use), and
+
+27.1.b
+
+provided the local authority with such evidence of those arrangements as that
+authority may reasonably require.
+
+27.2
+
+Where paragraph (1) applies, any penalty charge imposed in respect of those
+premises must be paid by P.
+
+#### Penalty charge notices
+
+28
+
+28.1
+
+Where a local authority has reason to believe that a penalty charge is payable
+under provision made in a scheme, it may serve a notice (a “penalty charge
+notice”) on the person liable to pay the charge.
+
+28.2
+
+A penalty charge notice must state—
+
+28.2.a
+
+the amount of the penalty charge to which it relates,
+
+28.2.b
+
+the circumstances giving rise to the local authority’s belief that a penalty
+charge is payable by the recipient of the notice,
+
+28.2.c
+
+the period specified in the scheme within which the penalty charge must be
+paid,
+
+28.2.d
+
+the manner in which the penalty charge must be paid,
+
+28.2.e
+
+where the scheme so provides, the amount of the reduced penalty charge if it
+is duly paid before the expiry of any period specified for that purpose in the
+penalty charge notice,
+
+28.2.f
+
+the grounds on which the person on whom the penalty charge notice is served
+may make representations under regulation 30 and details of where such
+representations are to be sent, and
+
+28.2.g
+
+the amount of the increased penalty charge which may be payable if, before the
+end of the relevant period determined under regulation 29(3)—
+
+28.2.g.i
+
+the penalty charge is not paid, or
+
+28.2.g.ii
+
+no representations are made in accordance with regulation 30.
+
+#### Charge certificates
+
+29
+
+29.1
+
+This regulation applies where a scheme makes provision as described in
+regulation 26(3) and—
+
+29.1.a
+
+a penalty charge notice is served on a person, and
+
+29.1.b
+
+the penalty charge to which it relates is not paid before the end of the
+relevant period.
+
+29.2
+
+Where this regulation applies the local authority that served the penalty
+charge notice may serve on that person a statement (a “charge certificate”) to
+the effect that the penalty charge is increased by such percentage as is
+specified under the scheme.
+
+29.3
+
+The ”relevant period” for the purposes of paragraph (1) means—
+
+29.3.a
+
+where a notice of rejection is served under regulation 31 but no appeal is
+made under regulation 32, the period of 28 days beginning with the date of
+service of the notice of rejection,
+
+29.3.b
+
+where there has been an unsuccessful appeal against the imposition of the
+charge to the First-tier Tribunal and no subsequent application for review, or
+review, of the First-tier Tribunal’s decision or appeal to the Upper Tribunal,
+the period of 28 days beginning with the date on which the decision of the
+First-tier Tribunal is sent to the appellant,
+
+29.3.c
+
+where an application for review of the decision of the First-tier tribunal in
+an appeal against the imposition of the charge has been rejected and there has
+been no subsequent appeal to the Upper Tribunal, the period of 28 days
+beginning with the date on which the decision rejecting the application for
+review is sent to the applicant,
+
+29.3.d
+
+where there has been an unsuccessful review of the decision of the First-tier
+tribunal in an appeal against the imposition of the charge and no subsequent
+appeal to the Upper Tribunal, the period of 28 days beginning with the date on
+which the decision refusing the review is sent to the applicant,
+
+29.3.e
+
+where there has been an unsuccessful appeal against the imposition of the
+charge to the Upper Tribunal, the period of 28 days beginning with the date on
+which the decision of the Upper Tribunal is sent to the appellant,
+
+29.3.f
+
+where an appeal to either the First-tier Tribunal or Upper Tribunal is
+withdrawn, the period of 14 days beginning with the date on which it is
+withdrawn, and
+
+29.3.g
+
+where no representations are made under regulation 30(1) within the payment
+period, that period.
+
+29.4
+
+If representations are received by a local authority after the payment period
+and taken account of under regulation 30(3), the local authority must cancel a
+charge certificate served under paragraph (2).
+
+29.5
+
+Where in relation to a penalty charge notice—
+
+29.5.a
+
+the relevant period for the purposes of paragraph (1) has expired, and
+
+29.5.b
+
+the increased charge for which the charge certificate provides is not paid
+before the end of the period of 14 days beginning with the date on which the
+certificate is served,
+
+the local authority may recover the increased charge as if it were payable
+under an extract registered decree arbitral bearing a warrant for execution
+issued by the sheriff for any sheriffdom.
+
+#### Representations in respect of penalty charges
+
+30
+
+30.1
+
+The recipient of a penalty charge notice may make written representations
+within the payment period to the local authority against the decision to serve
+a penalty charge notice on any of the grounds specified in paragraph (4).
+
+30.2
+
+Where representations are made under paragraph (1), the recipient of the
+penalty charge notice must include evidence relevant to the specified ground
+relied upon.
+
+30.3
+
+The local authority may consider whether it is appropriate to take account of
+representations made under paragraph (1) which are received by them after the
+end of the payment period.
+
+30.4
+
+The specified grounds are—
+
+30.4.a
+
+that the alleged circumstances giving rise to liability to pay the penalty
+charge did not occur,
+
+30.4.b
+
+that the penalty charge, including any increased charge, exceeds the amount
+payable in the circumstances of the case,
+
+30.4.c
+
+that the penalty charge is payable by a different person.
+
+30.5
+
+Where the ground mentioned in paragraph (4)(c) is relied on in any
+representations made under paragraph (1), those representations must include a
+statement of the name and address (if known) of the person who is considered
+by the recipient of the penalty charge notice to be responsible for payment of
+the penalty charge.
+
+#### Response to representations
+
+31
+
+31.1
+
+Where representations are made to a local authority under regulation 30(1)
+within the payment period, or taken account of by the local authority under
+regulation 30(3), it must—
+
+31.1.a
+
+consider those representations and any supporting evidence provided,
+
+31.1.b
+
+serve on the person by whom the representations were made a notice under
+paragraph (2) or, as the case may be, paragraph (3).
+
+31.2
+
+Where a local authority accepts that at least one of the grounds specified in
+regulation 30(4) is established, it must—
+
+31.2.a
+
+cancel the penalty charge notice,
+
+31.2.b
+
+serve a notice on the person by whom the representations were made—
+
+31.2.b.i
+
+stating that the penalty charge notice has been cancelled,
+
+31.2.b.ii
+
+explaining the local authority’s decision, and its reasons for that decision,
+on each of the grounds on which representations were made,
+
+31.2.c
+
+refund any penalty charge paid in relation to the cancelled penalty charge
+notice.
+
+31.3
+
+Where a local authority is satisfied that none of the grounds on which
+representations are made is established, it must serve on the person by whom
+those representations were made a notice of rejection.
+
+31.4
+
+The notice of rejection must—
+
+31.4.a
+
+state the reasons for the local authority’s decision on each ground on which
+representations were made,
+
+31.4.b
+
+state that an appeal against the imposition of the penalty charge may be made
+to the First-tier Tribunal within the appeal period, or such longer period as
+the First-tier Tribunal may allow,
+
+31.4.c
+
+state the grounds upon which an appeal may be made (being the same grounds as
+are specified in regulation 30(4)),
+
+31.4.d
+
+describe in general terms the manner and form for making an appeal,
+
+31.4.e
+
+state that the First-tier Tribunal has power to make an award of expenses,
+
+31.4.f
+
+where the scheme allows for it, state that if the penalty charge is paid
+before the end of such period as may be specified in the scheme, the penalty
+charge will be reduced by a percentage specified in that scheme, and
+
+31.4.g
+
+where the scheme allows for it, state that unless, before the end of the
+appeal period—
+
+31.4.g.i
+
+the penalty charge is paid, or
+
+31.4.g.ii
+
+an appeal is made to the First-tier Tribunal against the imposition of the
+charge,
+
+the local authority may issue a charge certificate under regulation 29 (and
+describe the effect of that regulation were it to do so).
+
+#### Appeal to the First-tier Tribunal
+
+32
+
+A person on whom a penalty charge notice has been served may, on any of the
+grounds set out in regulation 30(4) and before the end of the appeal period or
+such longer period as the First-tier Tribunal may allow, appeal to the First-
+tier Tribunal against the imposition of the penalty charge if—
+
+32.a
+
+that person has made representations to the local authority under regulation
+30(1), and
+
+32.b
+
+that person has received from the local authority a notice of rejection under
+regulation 31(3).
+
+#### Interpretation of Part 6
+
+33
+
+In this Part—
+
+    “ the appeal period ” means the period of 28 days beginning with the date
+of service of the notice of rejection,         “ increased charge ” means the
+penalty charge payable in respect of a penalty charge notice in accordance
+with a charge certificate served in relation to that notice under regulation
+29(2),         “ notice of rejection ” means the notice served on a person by
+a local authority under regulation 31,         “ the payment period ”, in
+relation to a penalty charge notice, means the period of 28 days beginning
+with the date of service of the notice.
+
+### General
+
+#### Accounts
+
+34
+
+34.1
+
+A local authority operating a scheme must for the duration of the scheme—
+
+34.1.a
+
+keep adequate accounting records for that scheme showing for each financial
+year—
+
+34.1.a.i
+
+how the net proceeds of the scheme have been calculated,
+
+34.1.a.ii
+
+how the net proceeds of the scheme have been applied,
+
+34.1.a.iii
+
+the value of the net proceeds of the scheme unspent at each financial year
+end,
+
+34.1.b
+
+prepare, in respect of each financial year, a statement of account based on
+the accounting records referred to in paragraph (1)(a) and, if applicable,
+paragraph (2) in such form as is required by proper accounting practices,
+
+34.1.c
+
+publish the statement of account, in such manner as is required by proper
+accounting practices, in the annual accounts of the authority for the
+financial year.
+
+34.2
+
+Where a scheme is operated by two or more local authorities acting jointly
+those local authorities must, in addition to the requirement specified in
+paragraph (1)(a), keep adequate accounting records—
+
+34.2.a
+
+showing each authority’s share of net proceeds of the scheme, and
+
+34.2.b
+
+how the gross and net revenue of each authority’s share of the net proceeds of
+the scheme is calculated in accordance with the apportionment of any monies
+received from licence charges and penalty charges.
+
+34.3
+
+In this regulation—
+
+    “ adequate accounting records ” has the meaning given in regulation 6 of
+the Local Authority Accounts (Scotland) Regulations 2014 ,         “ proper
+accounting practices ” has the meaning given in section 12 of the Local
+Government in Scotland Act 2003 .
+
+#### Amending and revoking schemes
+
+35
+
+The requirements of regulations 2 to 20 and schedule 1 apply to proposals to
+amend or revoke a scheme as they do to proposals to make a scheme.
+
+      GRAEME DEY   Authorised to sign by the Scottish Ministers     St
+Andrew’s House,   Edinburgh     10th January 2022
+
+INFORMATION TO BE INCLUDED IN PRESS NOTICES
+
+Regulations 2, 5 and 35
+
+##### PARTICULARS TO BE INCLUDED IN THE NOTICE OF PROPOSAL
+
+1
+
+The name of the local authority.
+
+2
+
+A description of the scheme proposal and its general nature and effect.
+
+3
+
+Each address at which a copy of the information referred to in regulation 2(b)
+can be inspected, and the times when inspection can take place at each such
+address.
+
+4
+
+The fact that the information referred to in regulation 2(b) is available on
+the local authority’s website.
+
+##### INFORMATION TO BE INCLUDED IN THE NOTICE OF MAKING THE SCHEME
+
+1
+
+The name of the local authority.
+
+2
+
+A description of the scheme as made.
+
+3
+
+The date of the making of the scheme and the date on which it comes into
+effect.
+
+4
+
+Each address at which a copy of the scheme, as made, can be inspected, and the
+times when inspection can take place at each such address.
+
+5
+
+The fact that a copy of the scheme as made is available on the local
+authority’s website.
+
+  PROCEDURE FOR HEARINGS
+
+Regulations 17 and 20
+
+##### Notice of hearing
+
+1
+
+1.1
+
+Where the reporter determines that a hearing is to be held the reporter must
+give notice in writing to that effect to—
+
+1.1.a
+
+the parties,
+
+1.1.b
+
+any other person from whom the reporter wishes to hear in relation to
+specified matters at the hearing.
+
+1.2
+
+Within 14 days of the date of receiving a notice under sub-paragraph (1)
+anyone intending to appear at the hearing must inform the reporter of that
+intention in writing.
+
+1.3
+
+A notice sent under paragraph 1(1)(b) must include—
+
+1.3.a
+
+confirmation that if those persons do not reply to the reporter in terms of
+sub-paragraph (2) they will not be entitled to appear at the hearing,
+
+1.3.b
+
+details of a website where copies of documents and information submitted to
+the reporter under these regulations can be inspected.
+
+##### Appearances at hearing
+
+2
+
+The parties entitled to appear at a hearing are those who have informed the
+reporter of their intention to appear under paragraph 1(2).
+
+##### Date and notification of hearing
+
+3
+
+3.1
+
+The reporter must fix the date and time for the holding of the hearing and the
+manner in which the hearing will be conducted, including its location (if
+appropriate), all or any of which may subsequently be varied by the reporter.
+
+3.2
+
+The reporter must give those entitled to appear at the hearing written notice
+of—
+
+3.2.a
+
+the date and time fixed for the holding of the hearing,
+
+3.2.b
+
+the manner of the holding of the hearing, including its location, if
+appropriate,
+
+and any subsequent variation thereof.
+
+##### Written statement
+
+4
+
+4.1
+
+Where required to do so by notice in writing given by the reporter the
+initiating party or any party who submitted a response under regulation 8
+must, by the date specified in the notice, send to—
+
+4.1.a
+
+the reporter,
+
+4.1.b
+
+any person the reporter specifies in the notice,
+
+a written statement to be given to the hearing by a person included in the
+list of persons referred to in regulation 6(2)(e)(i) or regulation 8(2)(e)(i).
+
+4.2
+
+The local authority proposing to make the scheme is, until such time as the
+hearing is concluded, to afford to any person who so requests a reasonable
+opportunity to inspect and, where practicable, take copies of—
+
+4.2.a
+
+any document or information referred to in regulations 6, 8, 10(3)(d) and 12,
+
+4.2.b
+
+any written statement referred to in sub-paragraph (1).
+
+4.3
+
+A written statement must not, unless the reporter agrees, contain more than
+2000 words.
+
+##### Procedure at hearing
+
+5
+
+5.1
+
+Except as otherwise provided in this schedule, the procedure at a hearing is
+as the reporter determines.
+
+5.2
+
+The reporter is, having considered any submission by the parties entitled to
+appear at the hearing, to state at the commencement of the hearing the
+procedure the reporter proposes to adopt.
+
+5.3
+
+Any party entitled to appear at the hearing may do so on their own behalf or
+be represented by another person.
+
+5.4
+
+Where there are two or more parties having a similar interest in the issues
+being considered at the hearing, the reporter may allow one or more party to
+appear on behalf of some or all of those parties.
+
+5.5
+
+A hearing is to take the form of a discussion led by the reporter and
+cross‑examination is not permitted.
+
+5.6
+
+The reporter may from time to time adjourn the hearing and, if the date, time
+and place of the adjourned hearing are announced before the adjournment, no
+further notice is required. Otherwise, paragraph 3 applies as it applies to
+the variation of the date, time or place at which a hearing session is to be
+held.
+
+  PROCEDURE FOR INQUIRIES
+
+Regulations 17 and 20
+
+##### Notice of inquiry session and specified matters
+
+1
+
+1.1
+
+Where the reporter determines that an inquiry is to be held the reporter must
+give notice in writing to that effect to—
+
+1.1.a
+
+the parties,
+
+1.1.b
+
+any other person from whom the reporter wishes to hear in relation to
+specified matters at the inquiry.
+
+1.2
+
+Within 14 days of the date of receiving a notice under sub-paragraph (1)
+anyone intending to appear at the inquiry must inform the reporter of that
+intention in writing.
+
+1.3
+
+A notice sent under paragraph 1(1)(b) must include—
+
+1.3.a
+
+confirmation that if parties do not reply to the reporter in terms of sub-
+paragraph (2) they will not be entitled to appear at the inquiry,
+
+1.3.b
+
+details of a website where documents and information submitted to the reporter
+under these regulations can be inspected.
+
+##### Appearances at inquiry
+
+2
+
+The parties entitled to appear at an inquiry are those who have informed the
+reporter of their intention to appear under paragraph 1(2).
+
+##### Date and notification of inquiry
+
+3
+
+3.1
+
+The reporter must fix the date and time for the holding of the inquiry and the
+manner in which the inquiry will be conducted, including its location (if
+appropriate), all or any of which may subsequently be varied by the reporter.
+
+3.2
+
+The reporter must give those entitled to appear at the inquiry written notice
+of—
+
+3.2.a
+
+the date and time fixed for the holding of the inquiry,
+
+3.2.b
+
+the manner of the holding of the inquiry, including its location, if
+appropriate,
+
+and any subsequent variation thereof.
+
+##### Precognitions
+
+4
+
+4.1
+
+Where required to do so by notice in writing given by the reporter, the
+initiating party or any party who submitted a response under regulation 8
+must, by the date specified in the notice, send to—
+
+4.1.a
+
+the reporter,
+
+4.1.b
+
+any person the reporter specifies in the notice,
+
+a precognition in respect of any evidence to be given to the inquiry by a
+person included in the list of witnesses referred to in regulation 6(2)(e)(ii)
+or regulation 8(2)(e)(ii).
+
+4.2
+
+The local authority proposing to make the scheme is, until such time as the
+inquiry is concluded, to afford to any person who so requests a reasonable
+opportunity to inspect and, where practicable, take copies of—
+
+4.2.a
+
+any document referred to in regulations 6, 8, 10(3)(d) and 12,
+
+4.2.b
+
+any precognition referred to in sub-paragraph (1).
+
+4.3
+
+A precognition must not, unless the reporter agrees, contain more than 2000
+words.
+
+4.4
+
+In this paragraph “ precognition ” means a written statement of the evidence
+which it is proposed that a witness will give to the inquiry.
+
+##### Procedure at inquiry
+
+5
+
+5.1
+
+Except as otherwise provided in this schedule, the procedure at an inquiry is
+as the reporter determines.
+
+5.2
+
+The reporter is, having considered any submission by the parties entitled to
+appear at the inquiry, to state at or before the commencement of the inquiry
+the procedure which the reporter proposes to adopt and in particular is to
+state—
+
+5.2.a
+
+the order in which the matters within the scope of the examination are to be
+considered at the inquiry, and
+
+5.2.b
+
+the order in which the persons entitled to appear at the inquiry session are
+to be heard in relation to a matter within the scope of the examination (a
+different order may be chosen for different matters).
+
+5.3
+
+Any party entitled to appear at an inquiry may do so on their own behalf or be
+represented by another person.
+
+5.4
+
+Where there are two or more parties having a similar interest in the matter
+under inquiry, the reporter may allow one or more parties to appear on behalf
+of some or all of those parties.
+
+5.5
+
+Any party entitled to appear at the inquiry is entitled to call evidence, to
+cross‑examine persons giving evidence and to make closing statements.
+
+5.6
+
+But the reporter may refuse to permit—
+
+5.6.a
+
+the giving or production of evidence,
+
+5.6.b
+
+the cross‑examination of persons giving evidence, or
+
+5.6.c
+
+the presentation of any other matter,
+
+which the reporter considers to be irrelevant or repetitious.
+
+5.7
+
+The reporter may proceed with an inquiry session in the absence of any party
+entitled to appear at the inquiry.
+
+5.8
+
+The reporter may from time to time adjourn the inquiry and, if the date, time
+and place of the adjourned inquiry are announced before the adjournment, no
+further notice is required. Otherwise, paragraph 3 applies as it applies to
+the variation of the date, time or place at which an inquiry session is to be
+held.
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations make provision in relation to workplace parking licensing
+schemes made under Part 7 of the Transport (Scotland) Act 2019 (“ the Act ”).
+
+Part 2 of the Regulations makes provision about consultation, reporting and
+publication requirements relating to scheme proposals and schemes.
+
+Regulation 2 specifies the steps which are to be taken by a local authority in
+relation to the publication of scheme proposals. Regulations 3 and 4 make
+provision about the information to be provided to consultees, and about
+publication of the report which is required to be prepared under the Act
+following consultation. Regulation 5 specifies the procedure to be followed in
+relation to giving notice of making a scheme. Schedule 1 contains associated
+provision with regard to information which is to be included in the notices of
+proposals and making of schemes.
+
+Part 3 sets out the process for how an examination of proposals relating to a
+scheme may take place.
+
+Regulation 7 allows for the appointment of a reporter to carry out the
+examination. Regulation 8 specifies the requirements for responses to the
+initiating party’s notice seeking an examination. Regulation 9 makes provision
+for setting the scope of examinations. Regulation 10 sets out the reporter’s
+obligation to initiate the procedure and establish the timetable for the
+examination. Under regulation 11 the reporter can ask all parties to confirm
+whether they want to take part in any further procedure. Notices under this
+regulation must refer to the fact that if a party fails to respond to the
+notice they may not be allowed to take part in further procedure.
+
+Regulation 12 allows the reporter to ask for further submissions or
+information, within the scope of the examination, from the parties. The
+reporter may hold a pre-examination meeting for the purpose of considering the
+manner in which the examination is to be conducted in accordance with
+regulation 13. Regulation 14 allows the reporter to carry out the examination
+and prepare a report on it without further procedure where the reporter
+considers that no further representations or information is required.
+Regulation 15 requires the reporter to tell the parties if the examination
+will be by way of hearing or inquiry in the event that the reporter decides to
+carry out the examination by way of either of those procedures. The reporter
+may also undertake an inspection of the area to which a proposal about a
+scheme relates by virtue of regulation 16.
+
+Regulation 17(1) introduces schedule 2 which specifies the procedure for
+hearings into an examination under section 75 of the Act. Regulation 17(2)
+introduces schedule 3 regarding the procedure for conducting inquiries into
+such an examination. Regulation 18 makes provision for the awards of expenses
+to be made in relation to examinations. Regulation 19 requires the reporter to
+send the report prepared under section 75 of the Act to the parties to the
+examination, and to arrange for the report to be made available on the
+Scottish Government website.
+
+Part 4 makes provision about who is liable to pay the licence charge.
+
+Part 5 makes provision in connection with reviews and appeals of licensing
+decisions. Regulation 22 provides that a scheme must make provision allowing
+for an application to be made to the local authority for a review of a
+decision. Regulation 23 provides a process for responding to such an
+application, and regulation 24 provides for a right of appeal to the sheriff
+against a determination of the local authority in relation to an application
+for review.
+
+Part 6 makes provision in connection with penalty charges and enforcement,
+including reviews and appeals against penalty charges. Regulation 27
+establishes the circumstances under which a person other than the registered
+keeper of a vehicle is to be held liable for a penalty charge.
+
+Regulation 28 provides that penalty charge notices may be served by local
+authorities. Regulation 28(2) sets out the required content of a penalty
+charge notice.
+
+Regulation 29 allows a local authority to serve a “charge certificate”, which
+has the effect of increasing the charge in question by such percentage as is
+specified under the scheme, on a person who has failed to pay a penalty charge
+within the timeframe specified in regulation 29(3).
+
+Regulation 30 sets out the manner in which representations may be made against
+a penalty charge notice served under regulation 28, and the grounds on which
+such representations can be made.
+
+Regulation 31 specifies the procedure and consideration that a local authority
+must afford to any representations received under regulation 30. This requires
+a local authority to provide notice of its decision in response to
+representations, addressing each ground on which the representations are made
+and stating whether it is accepted or refused by the local authority.
+Regulation 31(2) allows a local authority to cancel a penalty charge notice
+upon acceptance of a representation made under regulation 30(4). Regulation
+31(3) and (4) provide that where a local authority does not accept any
+representations made under regulation 30 it must serve a notice of rejection
+which contains information as to how an appeal against that rejection may be
+made.
+
+An appeal to the First-tier Tribunal against the imposition of a penalty
+charge may be made under regulation 32.
+
+Part 7 makes provision in relation to accounts which must be kept in
+connection with schemes. It also extends the application of the requirements
+set out in Parts 2 and 3 to proposals to amend or revoke a scheme.
+
+Impact assessments have been prepared in relation to these Regulations, copies
+of which can be obtained from Transport Scotland, Buchanan House, 58 Port
+Dundas Rd, Glasgow G4 0HF or online at  www.gov.scot .
+

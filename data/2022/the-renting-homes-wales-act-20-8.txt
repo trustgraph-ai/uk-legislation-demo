@@ -1,0 +1,285 @@
+Title: The Renting Homes (Wales) Act 2016 (Housing Association Tenancies: Fundamental Provisions) Regulations 2022
+Date: 2024-05-15
+Description: Chapter 3 of Part 2 of the Renting Homes (Wales) Act 2016 (anaw 1) (“the 2016 Act”) introduces the concept of fundamental provisions which are:provisions of the 2016 Act; andother provisions which are fundamental provisions by virtue of section 22(1)(a) of the 2016 Act,
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/wsi/2022/799
+
+## The Renting Homes (Wales) Act 2016 (Housing Association Tenancies: Fundamental Provisions) Regulations 2022
+
+    Housing, Wales
+
+  Made   13 July 2022
+
+  Coming into force in accordance with regulation 1
+
+      The Welsh Ministers make the following Regulations in exercise of the
+powers conferred on them by sections 22(1)(b)  and 256(1) and (2)  of the
+Renting Homes (Wales) Act 2016 .         In accordance with sections 256(3)
+and 256(4)(b)  of that Act, a draft of these Regulations has been laid before
+and approved by a resolution of Senedd Cymru.
+
+### Title and commencement
+
+1
+
+The title of these Regulations is the Renting Homes (Wales) Act 2016 (Housing
+Association Tenancies: Fundamental Provisions) Regulations 2022 and they come
+into force on   1 December 2022 (the day on which section 239 of the Act comes
+into force)  .
+
+### Interpretation
+
+2
+
+2.1
+
+Words and expressions used in these Regulations have the same meaning as they
+have in the Act.
+
+2.2
+
+In these Regulations—
+
+    “the Act” (“ y Ddeddf ”) means the Renting Homes (Wales) Act 2016;
+“housing association tenancy” (“ tenantiaeth cymdeithas dai ”) has the same
+meaning as in Part 6 of the Rent Act 1977  (see section 86  of that Act).
+
+### Sections 104 and 123 of the Act not fundamental provisions of occupation contracts that are housing association tenancies
+
+3
+
+Section 104 of the Act (secure contracts: variation of rent) is not a
+fundamental provision applicable to a secure contract which is a housing
+association tenancy.
+
+4
+
+Section 123 of the Act (periodic standard contracts: variation of rent) is not
+a fundamental provision applicable to a periodic standard contract which is a
+housing association tenancy.
+
+### Consequential amendments to the Act
+
+5
+
+5.1
+
+The Act is amended as follows.
+
+5.2
+
+In section 104, at the end of subsection (4) insert  “, except a secure
+contract which is a housing association tenancy” .
+
+5.3
+
+In section 123, at the end of subsection (4) insert  “, except a periodic
+standard contract which is a housing association tenancy” .
+
+5.4
+
+In section 252 (minor definitions), in the appropriate place insert—
+
+    “housing association tenancy” (“ tenantiaeth cymdeithas dai ”) has the
+same meaning as in Part 6 of the Rent Act  1977 (c. 42)  (see section 86 of
+that Act);
+
+.
+
+5.5
+
+In section 253 (index of terms), in table 2, after the entry for “housing
+association”, in the left hand column insert  “housing association tenancy”
+and in the right hand column, insert  “section 252” .
+
+5.6
+
+In Schedule 1 (overview of fundamental provisions incorporated as terms of
+occupation contracts)—
+
+5.6.a
+
+in Part 1 (secure contracts), in the entry in table 3 for sections 103 to 109,
+in the third column (notes), after “rent is payable”, in the first place where
+it appears, insert  “and which are not housing association tenancies (as to
+which, see section 93 of the Rent Act  1977 (c. 42) )” ;
+
+5.6.b
+
+in Part 2 (periodic standard contracts), in the entry in table 4 for sections
+122 to 128, in the third column (notes) after “rent is payable”, in the first
+place where it appears, insert  “and which are not housing association
+tenancies (as to which, see section 93 of the Rent Act  1977 (c. 42) )” .
+
+5.7
+
+In Schedule 12 (conversion of tenancies and licences existing before
+commencement of Chapter 3 of Part 10), in paragraph 14(2)—
+
+5.7.a
+
+after “does not apply to”, insert
+
+—
+
+5.7.a.a
+
+
+
+;
+
+5.7.b
+
+after “rent)” insert
+
+, or
+
+5.7.b.b
+
+an increase in rent under section 93 of the Rent Act  1977 (c. 42) .
+
+.
+
+### Consequential amendments to section 93 of the Rent Act 1977
+
+6
+
+6.1
+
+Section 93  of the Rent Act 1977 (increase in rent without notice to quit) is
+amended as follows.
+
+6.2
+
+In subsection (1)—
+
+6.2.a
+
+after “weekly or other periodical tenancy”, insert  “but not an occupation
+contract” ;
+
+6.2.b
+
+for “in this section”, substitute  “in this subsection and subsection (2)” .
+
+6.3
+
+After subsection (2) insert—
+
+6.3.2A
+
+Where a housing association tenancy is a secure contract or a periodic
+standard contract, the rent payable to the housing association or, as the case
+may be, the housing trust or the Welsh Ministers (in this subsection called
+“the landlord”), may be increased with effect from the beginning of any rental
+period by a written notice of increase specifying the date on which the
+increase is to take effect, and given by the landlord to the contract-holder
+not later than four weeks before that date.
+
+6.3.2B
+
+A notice of increase given under subsection (2A) does not take effect if,
+before the date specified in that notice, the contract-holder gives a notice
+to end the contract.
+
+6.3.2C
+
+But the notice of increase does take effect if, before the date specified in
+that notice, the notice to end the contract ceases to have effect (see section
+167(3) or 172(3) of the Renting Homes (Wales) Act  2016 (anaw 1) ).
+
+.
+
+6.4
+
+After subsection (5) insert—
+
+6.4.6
+
+In this section, the following terms have the same meaning as in the Renting
+Homes (Wales)  2016 (anaw 1)  (see sections 7 and 8 of that Act)—
+
+6.4.6.a
+
+contract-holder;
+
+6.4.6.b
+
+occupation contract;
+
+6.4.6.c
+
+periodic standard contract;
+
+6.4.6.d
+
+secure contract,
+
+and “notice to end the contract” means a notice under section 163 or 168 of
+that Act.
+
+.
+
+      Julie James   Minister for Climate Change, one of the Welsh Ministers
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+Chapter 3 of Part 2 of the Renting Homes (Wales) Act 2016 (anaw 1) (“the 2016
+Act”) introduces the concept of fundamental provisions which are:   a
+provisions of the 2016 Act; and       b     other provisions which are
+fundamental provisions by virtue of section 22(1)(a) of the 2016 Act,
+
+that are incorporated as terms of occupation contracts or particular kinds or
+descriptions of occupation contract (subject to sections 20(1) and (2) and 21
+of the 2016 Act) and so form part of the contract between a contract-holder
+and a landlord.
+
+Once a fundamental provision is included in an occupation contract, it is
+referred to as a “fundamental term” of the contract.
+
+Section 20 of the 2016 Act allows landlords and contract-holders to agree not
+to incorporate fundamental provisions into an occupation contract (subject to
+certain exceptions). However, this is subject to the test that non-
+incorporation of the term would improve the position of the contract-holder.
+Landlords and contract-holders are also able, by agreement, to modify
+fundamental provisions, provided that the modification would improve the
+position of the contract-holder (again, subject to certain exceptions).
+
+Section 22(1) of the 2016 Act enables the Welsh Ministers to make regulations
+which specify that any provision of any enactment is, or is not, a fundamental
+provision applicable to an occupation contract.
+
+Regulations 3 and 4 of these Regulations provide that sections 104 (secure
+contracts: variation of rent) and 123 (periodic standard contracts: variations
+of rent) of the 2016 Act are not fundamental provisions of occupation
+contracts that are housing association tenancies (within the meaning given by
+Part 6 of the Rent Act 1977 (“the 1977 Act”)).
+
+Regulation 5 makes consequential amendments to sections 104, 123, 252 (minor
+definitions) and 253 (index of terms) of and Schedule 1 (overview of
+fundamental provisions incorporated as terms of occupation contracts) and
+Schedule 12 (conversion of tenancies and licences existing before commencement
+of Chapter 3 of Part 10) to the 2016 Act.
+
+Regulation 6 makes consequential amendments to section 93 of the 1977 Act
+(increase in rent without notice to quit) and inserts a new subsections (2A),
+(2B) and (2C). Subsection (2A) provides that where a housing association
+tenancy is a secure or periodic standard contract, the rent payable to the
+landlord (meaning a housing association, housing trust or the Welsh Ministers)
+may be increased, from the beginning of any rental period, by a written notice
+specifying the date on which the increase is to take effect and given by the
+landlord to the contract-holder not later than four weeks before that date.
+New sub-section (2B) provides that a notice of increase does not take effect
+if, before the date specified in the notice, the contract-holder gives notice
+to end the contract. New subsection (2C) further provides that the notice of
+increase will take effect if, before the date specified in that notice, the
+notice to end the contract ceases to have effect under section 167(3) or
+172(3) of the 2016 Act.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
+Assessments was considered in relation to these Regulations. As a result, it
+was not considered necessary to carry out a regulatory impact assessment as to
+the likely costs and benefits of complying with these Regulations.
+

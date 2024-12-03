@@ -1,0 +1,1813 @@
+Title: The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations (Northern Ireland) 2024
+Date: 2024-05-20
+Description: These Regulations revoke and re-enact the Occupational Pension Schemes (Governance and Registration) (Amendment No. 2) Regulations (Northern Ireland) 2023 (“the Governance and Registration Regulations”) which would otherwise cease to have effect by virtue of section 51(3)(b) of the Pensions Act (Northern Ireland) 2015. Like the Governance and Registration Regulations, the Regulations amend the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997 (“the 1997 Regulations”) and the Register of Occupational and Personal Pension Schemes Regulations (Northern Ireland) 2005 (“the 2005 Regulations”). The amendments are made to transpose, into pensions legislation, Parts 3 and 7, and related provisions of Parts 9 to 11, of the Investment Consultancy and Fiduciary Management Market Investigation Order 2019 made by the Competition and Markets Authority on 10th June 2019.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2024/74
+
+## The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations (Northern Ireland) 2024
+
+  Regulations made by the Department for Communities and laid before the
+Assembly under section 51(3) and (4)(e) of the Pensions Act (Northern Ireland)
+2015 for approval of the Assembly before the expiration of six months from the
+date of their coming into operation
+
+    Pensions
+
+  Made   25th March 2024
+
+  Coming into operation   26th March 2024
+
+      The Department for Communities  makes the following Regulations in
+exercise of the powers conferred by Articles 55(2)(h) and (3) and 287(3) of
+the Pensions (Northern Ireland) Order 2005  and section 51(6) of, and
+paragraphs 2(1), (2), (3) and (5) and 3 of Schedule 18 to, the Pensions Act
+(Northern Ireland) 2015 .
+
+### Introductory provisions
+
+#### Citation and commencement
+
+1
+
+These Regulations may be cited as the Occupational Pension Schemes (Governance
+and Registration) (Amendment) Regulations (Northern Ireland) 2024 and shall
+come into operation on 26th March 2024.
+
+### Use of fiduciary management services and investment consultancy services
+
+#### Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations
+
+2
+
+2.1
+
+The Occupational Pension Schemes (Scheme Administration) Regulations (Northern
+Ireland) 1997  are amended in accordance with paragraphs (2) and (3).
+
+2.2
+
+After regulation 29  (representation of members) add—
+
+########## Governance of relevant trust schemes
+
+########### Introductory
+
+############ Scope of Part 6
+
+2.2.30
+
+2.2.30.1
+
+This Part applies in relation to relevant trust schemes.
+
+2.2.30.2
+
+A “relevant trust scheme” is an occupational pension scheme established under
+a trust other than—
+
+2.2.30.2.a
+
+a scheme which is not a registrable scheme (within the meaning given by
+section 59(2) of the Pensions Act 2004 );
+
+2.2.30.2.b
+
+an executive pension scheme;
+
+2.2.30.2.c
+
+a relevant small scheme; or
+
+2.2.30.2.d
+
+a scheme to which regulation 2(c) of the Occupational Pension Schemes (Trust
+and Retirement Benefits Exemption) Regulations (Northern Ireland) 2005
+(exemption from trust requirement) applies.
+
+2.2.30.3
+
+For the purposes of this regulation, “executive pension scheme” and “relevant
+small scheme” have the meanings they have for the purposes of the definition
+of “ relevant scheme ” (see regulation 1(2ZB) ).
+
+############ General interpretation
+
+2.2.31
+
+2.2.31.1
+
+In this Part—
+
+      “ the 2019 Order ” means the Investment Consultancy and Fiduciary
+Management Market Investigation Order 2019 ;           “ actuarial valuation ”
+has the meaning it has for the purposes of Part 4 of the 2005 Order (scheme
+funding) (see Article 203 of that Order);           “ the commencement date ”
+means 1st October 2022;           “ company ” has the meaning given in section
+1 of the Companies Act 2006 ;           “ existing IC provider ” has the
+meaning given in regulation 34(5);           “ fund manager ” has the meaning
+given in Article 121;           “ IC provider ” has the meaning given in
+regulation 34(2);           “ relevant trust scheme ” has the meaning given in
+regulation 30(2);           “ statement of investment principles ” has the
+meaning given in Article 35 ;           “ the statutory funding objective ”
+has the meaning given for the purposes of Part 4 of the 2005 Order (see
+Article 201 of that Order);           “ trustee owned company ” has the
+meaning given in paragraph (2).
+
+2.2.31.2
+
+“ Trustee owned company ”, in relation to a relevant trust scheme (“scheme
+1”), means—
+
+2.2.31.2.a
+
+a company limited by shares in which—
+
+2.2.31.2.a.i
+
+a scheme 1 person holds voting shares; and
+
+2.2.31.2.a.ii
+
+no one other than a relevant person also holds shares; or
+
+2.2.31.2.b
+
+a company limited by guarantee of which—
+
+2.2.31.2.b.i
+
+a scheme 1 person is a member; and
+
+2.2.31.2.b.ii
+
+no one other than a relevant person is also a member.
+
+2.2.31.3
+
+For the purposes of paragraph (2)—
+
+      “ relevant person ” means—         a trustee of any occupational pension
+scheme; or           any company which is itself a trustee owned company;
+“ scheme 1 person ” means—         a trustee of scheme 1; or           a
+company which is itself a trustee owned company in relation to scheme 1;
+“ voting shares ” means shares which carry rights to vote at general meetings
+of the company in question.
+
+2.2.31.4
+
+For the purposes of this Part, a person (“ A ”) is connected to another person
+(“ B ”) if A is a group undertaking in relation to B (within the meaning of
+section 1161(5) of the Companies Act 2006).
+
+2.2.31.5
+
+For the purposes of this Part, a reference to the appointment of a person in
+any capacity includes a reference to—
+
+2.2.31.5.a
+
+the reappointment of that person; and
+
+2.2.31.5.b
+
+the extension of that person’s term of appointment.
+
+2.2.31.6
+
+For the purposes of this Part, it does not matter whether any advice is given—
+
+2.2.31.6.a
+
+for the purposes of Article 36  (choosing investments) or otherwise; or
+
+2.2.31.6.b
+
+in a recommendation or in guidance or otherwise.
+
+############ Time at which services are provided
+
+2.2.32
+
+For the purposes of this Part, a person is to be taken to provide services at
+any time if, at that time, arrangements are in place for the provision of
+those services.
+
+########### Use of fiduciary management services
+
+############ Duties of trustees to carry out tender process in connection with the provision of fiduciary management services by FM providers
+
+2.2.33
+
+The Schedule—
+
+2.2.33.a
+
+defines “fiduciary management services”, “FM provider” and related terms (see
+Part 1 of the Schedule); and
+
+2.2.33.b
+
+sets out the duties of trustees of relevant trust schemes in connection with
+the provision of fiduciary management services by FM providers (see Parts 2
+and 3 of the Schedule).
+
+########### Use of investment consultancy services
+
+############ Meaning of “IC provider”, “existing IC provider” and related expressions
+
+2.2.34
+
+2.2.34.1
+
+This regulation defines “IC provider”, “existing IC provider” and related
+expressions for the purposes of this Part.
+
+2.2.34.2
+
+“ IC provider ”, in relation to a relevant trust scheme, means a person who
+provides investment consultancy services to the trustees of the scheme and is
+not—
+
+2.2.34.2.a
+
+a trustee of the scheme; or
+
+2.2.34.2.b
+
+a trustee owned company.
+
+2.2.34.3
+
+A person (“ P ”) provides investment consultancy services to the trustees of a
+relevant trust scheme if—
+
+2.2.34.3.a
+
+P gives advice to the trustees of the scheme on or in connection with any of
+the following—
+
+2.2.34.3.a.i
+
+the merits of—
+
+2.2.34.3.a.i.aa
+
+the exercise of any of the trustees’ powers of investment in any particular
+case (including the making or retaining of any investment);
+
+2.2.34.3.a.i.bb
+
+the appointment of a particular fund manager;
+
+2.2.34.3.a.i.cc
+
+strategic asset allocation;
+
+2.2.34.3.a.i.dd
+
+adopting a particular investment strategy; or
+
+2.2.34.3.a.ii
+
+the preparation or revision of the statement of investment principles; and
+
+2.2.34.3.b
+
+P gives that advice otherwise than in P’s capacity as a legal adviser
+appointed by the trustees.
+
+2.2.34.4
+
+Where P is an actuary, any high-level commentary given by P in, or in relation
+to, an actuarial valuation on the link between the statutory funding objective
+and the investment strategy, is not to be treated as advice for the purposes
+of this regulation.
+
+2.2.34.5
+
+“ Existing IC provider ”, in relation to a relevant trust scheme, means an IC
+provider who—
+
+2.2.34.5.a
+
+was appointed by the trustees of the scheme before the commencement date; and
+
+2.2.34.5.b
+
+continues to provide investment consultancy services to those trustees on and
+after that date in accordance with the terms of that appointment.
+
+2.2.34.6
+
+References in this Part to investment consultancy services are to be read in
+accordance with this regulation.
+
+############ Duty to set objectives for IC providers
+
+2.2.35
+
+2.2.35.1
+
+The trustees of a relevant trust scheme must set objectives for each IC
+provider.
+
+2.2.35.2
+
+The trustees must—
+
+2.2.35.2.a
+
+when setting objectives for an IC provider, have regard to the statement of
+investment principles, in so far as it is relevant to services provided, or to
+be provided, by that provider;
+
+2.2.35.2.b
+
+where the IC provider is appointed on or after the commencement date, ensure
+that the IC provider’s objectives are set by the end of the day on which the
+IC provider’s appointment takes effect.
+
+2.2.35.3
+
+The trustees must review and, if appropriate, revise an IC provider’s
+objectives—
+
+2.2.35.3.a
+
+at least every 3 years; and
+
+2.2.35.3.b
+
+without delay after any significant change in investment policy.
+
+2.2.35.4
+
+Where an existing IC provider has strategic objectives which were set, before
+the commencement date, under Article 12 of the 2019 Order (“the existing
+objectives”)—
+
+2.2.35.4.a
+
+the existing objectives are to be treated as if they had been set by the
+trustees under paragraph (1); and
+
+2.2.35.4.b
+
+the trustees must complete the first review of the existing objectives for the
+purposes of paragraph (3)(a) before the end of the period of 3 years beginning
+with the date on which those objectives were set under Article 12 of the 2019
+Order.
+
+############ Duty to review performance of IC providers
+
+2.2.36
+
+The trustees of a relevant trust scheme must, at least every 12 months, review
+the performance of each IC provider against the objectives set under
+regulation 35.
+
+########### Compliance
+
+############ Compliance notices
+
+############# Compliance notice
+
+2.2.37
+
+2.2.37.1
+
+The Regulator  may issue a compliance notice  to a person with a view to
+ensuring that person’s compliance with a listed provision.
+
+2.2.37.2
+
+The Regulator may issue a notice under paragraph (1) if it is of the opinion
+that the person is not complying, or has not complied, with that provision.
+
+2.2.37.3
+
+For the purposes of this Chapter, the listed provisions are the following
+provisions of this Part—
+
+2.2.37.3.a
+
+regulation 35(1) or (3);
+
+2.2.37.3.b
+
+regulation 36;
+
+2.2.37.3.c
+
+paragraph 7(1) of the Schedule;
+
+2.2.37.3.d
+
+paragraph 8(1) of the Schedule;
+
+2.2.37.3.e
+
+paragraph 9(3) of the Schedule;
+
+2.2.37.3.f
+
+paragraph 10(1) or (2) of the Schedule.
+
+2.2.37.4
+
+A compliance notice must—
+
+2.2.37.4.a
+
+state the listed provision which the Regulator is of the opinion was not, or
+is not being, complied with;
+
+2.2.37.4.b
+
+state the evidence on which that opinion is based; and
+
+2.2.37.4.c
+
+specify the steps that the Regulator requires the person to whom it is issued
+to take to remedy the non-compliance with that provision and, where
+appropriate, ensure that it is not repeated.
+
+2.2.37.5
+
+A step specified for the purposes of paragraph (4)(c) may be expressed to be
+conditional on compliance by a third party with a specified direction
+contained in a third party compliance notice under regulation 38.
+
+2.2.37.6
+
+A compliance notice may also—
+
+2.2.37.6.a
+
+specify the period within which any step must be taken;
+
+2.2.37.6.b
+
+require the person to whom it is issued to provide the Regulator within a
+specified period specified information relating to the non-compliance;
+
+2.2.37.6.c
+
+require the person to whom it is issued to inform the Regulator, within a
+specified period, of how they have complied with or are complying with the
+notice;
+
+2.2.37.6.d
+
+state that, if the Regulator is of the opinion that the person to whom it is
+issued has failed to comply with the notice, the Regulator may issue a penalty
+notice to them under regulation 39;
+
+2.2.37.6.e
+
+give the person to whom it is issued a choice between different ways of
+remedying, or preventing the recurrence of, the non-compliance.
+
+2.2.37.7
+
+In this regulation “ specified ” means specified in a compliance notice.
+
+############# Third party compliance notice
+
+2.2.38
+
+2.2.38.1
+
+The Regulator may issue a third party compliance notice  to a person (“ A ”)
+with a view to ensuring another person (“ B ”)’s compliance with a listed
+provision if—
+
+2.2.38.1.a
+
+the Regulator is of the opinion that—
+
+2.2.38.1.a.i
+
+B is not complying, or has not complied, with that provision; and
+
+2.2.38.1.a.ii
+
+that non-compliance is, or was, wholly or partly, a result of the failure of
+A; and
+
+2.2.38.1.b
+
+A’s failure is not itself a contravention of any listed provision.
+
+2.2.38.2
+
+A third party compliance notice must—
+
+2.2.38.2.a
+
+state the listed provision which the Regulator is of the opinion was not, or
+is not being, complied with;
+
+2.2.38.2.b
+
+state the evidence on which that opinion is based; and
+
+2.2.38.2.c
+
+specify the steps that the Regulator requires A to take, or refrain from
+taking, with a view to remedying and, where appropriate, preventing a
+recurrence of the failure mentioned in paragraph (1)(a)(ii).
+
+2.2.38.3
+
+A compliance notice may also—
+
+2.2.38.3.a
+
+specify the period within which any step must be taken;
+
+2.2.38.3.b
+
+require A to provide the Regulator within a specified period specified
+information relating to the non-compliance;
+
+2.2.38.3.c
+
+require A to inform the Regulator, within a specified period, of how they have
+complied with or are complying with the notice;
+
+2.2.38.3.d
+
+state that, if the Regulator is of the opinion that A has failed to comply
+with the notice, the Regulator may issue a penalty notice to A under
+regulation 39;
+
+2.2.38.3.e
+
+give A a choice between different ways of remedying, or preventing the
+recurrence of, the non-compliance.
+
+2.2.38.4
+
+In this regulation “ specified ” means specified in a third party compliance
+notice.
+
+############ Penalty notices
+
+############# Penalty notices
+
+2.2.39
+
+2.2.39.1
+
+The Regulator may issue a penalty notice  imposing a penalty on a person where
+the Regulator is of the opinion that the person—
+
+2.2.39.1.a
+
+has failed to comply with a compliance notice,
+
+2.2.39.1.b
+
+has failed to comply with a third party compliance notice; or
+
+2.2.39.1.c
+
+has contravened a listed provision.
+
+2.2.39.2
+
+The Regulator may determine the amount of the penalty to be imposed on a
+person.
+
+2.2.39.3
+
+But the amount of the penalty imposed on a person must not—
+
+2.2.39.3.a
+
+if the person is an individual, exceed £5,000;
+
+2.2.39.3.b
+
+in any other case, exceed £50,000.
+
+2.2.39.4
+
+A penalty notice must—
+
+2.2.39.4.a
+
+if it is issued to the trustees of a trust scheme, be issued to all the
+trustees of the scheme and specify their joint and several liability for the
+penalty;
+
+2.2.39.4.b
+
+state the Regulator’s decision to impose a penalty;
+
+2.2.39.4.c
+
+state the reasons for that decision including—
+
+2.2.39.4.c.i
+
+if the notice is issued under paragraph (1)(a) or (b), the failure to which
+the notice relates;
+
+2.2.39.4.c.ii
+
+if the notice is issued under paragraph (1)(c), the provision which has been
+contravened;
+
+2.2.39.4.d
+
+state the amount of the penalty;
+
+2.2.39.4.e
+
+state the date by which the penalty must be paid;
+
+2.2.39.4.f
+
+state the period (if any) to which the penalty relates;
+
+2.2.39.4.g
+
+notify the person to whom the notice is issued of the right to a review under
+regulation 43 and the right of referral under regulation 44.
+
+2.2.39.5
+
+The date specified under paragraph (4)(e) must be at least 4 weeks after the
+date on which the notice is issued.
+
+2.2.39.6
+
+See also regulation 41.
+
+############# Penalty notices: recovery of penalty
+
+2.2.40
+
+2.2.40.1
+
+Any penalty required by a penalty notice is recoverable by the Regulator.
+
+2.2.40.2
+
+Article 10(8A)  (civil penalties) applies to a penalty recoverable under these
+Regulations as it applies to a penalty recoverable under that Article.
+
+2.2.40.3
+
+The Regulator must pay into the Consolidated Fund any penalty recovered under
+this regulation.
+
+############# Penalty notices: recovery of penalty from bodies corporate and Scottish partnerships
+
+2.2.41
+
+2.2.41.1
+
+This regulation applies where—
+
+2.2.41.1.a
+
+a penalty under regulation 39 is recoverable from a body corporate or a
+Scottish partnership by reason of any act or omission of the body or
+partnership; and
+
+2.2.41.1.b
+
+the act or omission was done with the consent or connivance of, or is
+attributable to any neglect on the part of, any specified person.
+
+2.2.41.2
+
+Where this regulation applies, the Regulator may impose a penalty on each
+specified person who has consented to, or connived in, the act or omission or
+to whose neglect the act or omission was attributable.
+
+2.2.41.3
+
+In this regulation “ specified person ” means—
+
+2.2.41.3.a
+
+in relation to a body corporate, means—
+
+2.2.41.3.a.i
+
+director, manager, secretary or other similar officer of the body, or a person
+purporting to act in any such capacity; or
+
+2.2.41.3.a.ii
+
+where the affairs of the body are managed by its members, a member who has
+management functions;
+
+2.2.41.3.b
+
+in relation to a Scottish partnership, means a partner of the partnership.
+
+2.2.41.4
+
+If the Regulator imposes a penalty on one or more specified persons, the
+Regulator—
+
+2.2.41.4.a
+
+may not also impose a penalty on the body corporate or Scottish partnership
+(as the case may be) in respect of the same act or omission; and
+
+2.2.41.4.b
+
+must issue the penalty notice to each specified person on whom a penalty is
+imposed.
+
+2.2.41.5
+
+The Regulator may notify the relevant body corporate or Scottish partnership
+of the Regulator’s decision under this regulation to impose a penalty on one
+or more specified persons.
+
+############ Service of notices
+
+############# Service of notices
+
+2.2.42
+
+Articles 2(7)(a), 277 and 278 of the 2005 Order (service of documents and
+electronic working) apply to notices issued under this Chapter as they apply
+to a notification given under any provision of that Order.
+
+############ Review of notices
+
+############# Review of notices
+
+2.2.43
+
+2.2.43.1
+
+The Regulator may review a specified notice issued under these Regulations—
+
+2.2.43.1.a
+
+on an application, in writing, from the person to whom the notice was issued
+(“ the applicant ”); or
+
+2.2.43.1.b
+
+otherwise, if the Regulator considers it appropriate to do so.
+
+2.2.43.2
+
+In this regulation “ specified notice ” means—
+
+2.2.43.2.a
+
+a compliance notice;
+
+2.2.43.2.b
+
+a third party compliance notice; or
+
+2.2.43.2.c
+
+a penalty notice.
+
+2.2.43.3
+
+An application for a review of a specified notice must be made by the
+applicant before the end of the period of 28 days beginning with the day on
+which the notice was issued to the applicant.
+
+2.2.43.4
+
+The Regulator may review a notice under paragraph (1)(b) at any time before
+the end of the period of 18 months beginning with the day on which the notice
+was issued to the applicant.
+
+2.2.43.5
+
+On a review of a notice, the effect of the penalty notice is suspended for the
+period—
+
+2.2.43.5.a
+
+beginning with the day on which the Regulator determines to carry out the
+review; and
+
+2.2.43.5.b
+
+ending with the day on which the review is completed.
+
+2.2.43.6
+
+In carrying out the review, the Regulator must consider any representations
+made by the applicant.
+
+2.2.43.7
+
+On a review under this regulation, the Regulator may—
+
+2.2.43.7.a
+
+confirm the notice;
+
+2.2.43.7.b
+
+vary the notice;
+
+2.2.43.7.c
+
+revoke the notice; or
+
+2.2.43.7.d
+
+substitute a different notice.
+
+############ References to the Upper Tribunal
+
+############# Reference to the Upper Tribunal
+
+2.2.44
+
+2.2.44.1
+
+A person to whom a penalty notice is issued (“ the applicant ”) may, if one of
+the conditions in paragraph (2) is satisfied, make a reference to the Upper
+Tribunal (“ the Tribunal ”) in respect of—
+
+2.2.44.1.a
+
+the issue of the notice;
+
+2.2.44.1.b
+
+the amount of the penalty imposed under the notice.
+
+2.2.44.2
+
+The conditions are—
+
+2.2.44.2.a
+
+the Regulator has completed a review of the notice under regulation 43;
+
+2.2.44.2.b
+
+the applicant made an application for a review under regulation 43(1)(a) but
+the Regulator determined not to carry out such a review.
+
+2.2.44.3
+
+On a reference under this regulation, the effect of the notice is suspended
+for the period—
+
+2.2.44.3.a
+
+beginning with the day on which the Tribunal receives the notice of the
+reference; and
+
+2.2.44.3.b
+
+ending with the relevant day.
+
+2.2.44.4
+
+For the purposes of paragraph (3), “the relevant day” is—
+
+2.2.44.4.a
+
+if the applicant withdraws the reference, the day on which it is withdrawn;
+
+2.2.44.4.b
+
+if the reference is made out of time and the Tribunal determines not to allow
+the reference to proceed, the day on which that determination is made;
+
+2.2.44.4.c
+
+otherwise, the day on which the reference is completed.
+
+2.2.44.5
+
+A reference is completed when—
+
+2.2.44.5.a
+
+the reference has been determined; and
+
+2.2.44.5.b
+
+the Tribunal has remitted the matter to the Regulator.
+
+.
+
+2.3
+
+At the end add the Schedule as set out in the Schedule to these Regulations.
+
+### Registrable information
+
+#### Amendment of the Register of Occupational and Personal Pension Schemes Regulations
+
+3
+
+In regulation 3 of the Register of Occupational and Personal Pension Schemes
+Regulations (Northern Ireland) 2005  (registrable information)—
+
+3.a
+
+in paragraph (1)—
+
+3.a.i
+
+in sub-paragraph (a) omit heads (ii) and (iii);
+
+3.a.ii
+
+omit sub-paragraph (e) ;
+
+3.a.iii
+
+in sub-paragraph (l)  for “published.” substitute  “published;” ;
+
+3.a.iv
+
+after sub-paragraph (l) add—
+
+3.a.iv.m
+
+in the case of an occupational pension scheme which is a relevant trust
+scheme—
+
+3.a.iv.m.i
+
+the information mentioned in paragraph (3C) in respect of each in-scope FM
+provider for the time being appointed in relation to the scheme;
+
+3.a.iv.m.ii
+
+the information mentioned in paragraph (3D) in respect of each IC provider for
+the time being appointed in relation to the scheme.
+
+;
+
+3.b
+
+after paragraph (3A)  insert—
+
+3.b.3B
+
+For the purposes of this regulation, “ IC provider ”, “ in-scope FM provider ”
+and “ relevant trust scheme ” have the meanings given in Part 6 of the
+Occupational Pension Schemes (Scheme Administration) Regulations (Northern
+Ireland) 1997 (governance of relevant trust schemes).
+
+3.b.3C
+
+The information referred to in paragraph (1)(m)(i) is—
+
+3.b.3C.a
+
+the name and address of the in-scope FM provider;
+
+3.b.3C.b
+
+the date on which the in-scope FM provider was appointed or last appointed (as
+the case may be);
+
+3.b.3C.c
+
+whether the trustees carried out a qualifying tender process under paragraph
+7(1), 8(1) or 9(3) (as the case may be) of the Schedule to the Occupational
+Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997
+(duties of trustees of relevant trust schemes in connection with provision of
+FM services) in connection with the in-scope FM provider’s appointment or
+arrangements with the in-scope FM provider, and
+
+3.b.3C.d
+
+if no such tender was carried out, why it was not carried out.
+
+3.b.3D
+
+The information referred to in paragraph (1)(m)(ii) is—
+
+3.b.3D.a
+
+the name and address of the IC provider;
+
+3.b.3D.b
+
+the date on which the IC provider was appointed or last appointed (as the case
+may be);
+
+3.b.3D.c
+
+whether the trustees have set objectives for the IC provider in accordance
+with regulation 35(1) of the Occupational Pension Schemes (Scheme
+Administration) Regulations (Northern Ireland) 1997 and if no such objectives
+have been set, the reasons why they have not been set;
+
+3.b.3D.d
+
+whether the trustees have reviewed the objectives set for the IC provider in
+accordance with regulation 35(3) of the Occupational Pension Schemes (Scheme
+Administration) Regulations (Northern Ireland) 1997, and if no such review has
+been carried out, why that is the case, and
+
+3.b.3D.e
+
+whether the trustees have reviewed the performance of the IC provider in
+accordance with regulation 36 of the Occupational Pension Schemes (Scheme
+Administration) Regulations (Northern Ireland) 1997, and if no such review has
+been carried out, why that is the case.
+
+3.b.3E
+
+For the purposes of paragraphs (3C) and (3D), “ appoint ”, in relation to an
+in-scope FM provider or an IC provider, includes—
+
+3.b.3E.a
+
+the reappointment of the provider;
+
+3.b.3E.b
+
+the extension of the provider’s term of appointment.
+
+.
+
+### Revocation
+
+#### Revocation
+
+4
+
+The Occupational Pension Schemes (Governance and Registration) (Amendment No.
+2) Regulations (Northern Ireland) 2023  are revoked.
+
+      Sealed with the Official Seal of the Department for Communities on 25th
+March 2024       (L.S.)   Patrick Rooney   A senior officer of the Department
+for Communities
+
+  Schedule to be added to the Occupational Pension Schemes (Scheme
+Administration) Regulations (Northern Ireland) 1997
+
+Regulation 2(3)
+
+  Duties of trustees of relevant trust schemes in connection with provision of
+FM services
+
+Regulation 33
+
+######## Introductory
+
+######### Scope
+
+1
+
+This Schedule sets out the duties of the trustees of a relevant trust scheme
+in respect of the carrying out of qualifying tender processes in connection
+with the provision of fiduciary management services.
+
+######### General interpretation
+
+2
+
+In this Schedule—
+
+      “ the AMT ” means the asset management threshold (see paragraph 4);
+“ competitive tender process ” has the meaning given in Article 2.1 of the
+2019 Order, as it had effect immediately before the commencement date;
+“ continuing in-scope FM provider ” has the meaning given in paragraph 3(12);
+“ excepted person ”, in relation to a relevant trust scheme, means—         a
+trustee of the scheme;           a trustee owned company;           the
+employer that has the power to act on behalf of all employers in the scheme in
+relation to the scheme rules;           the principal employer for the
+purposes of the scheme in accordance with the scheme rules;           if the
+scheme is a Master Trust scheme (within the meaning given in section 1 of the
+Pension Schemes Act (Northern Ireland) 2021 )—         the scheme funder (as
+defined by section 39 of that Act), if that person is an IC-FM firm or a body
+corporate connected to an IC-FM firm; or           the scheme strategist (as
+defined by section 39 of that Act), if that person is an IC-FM firm or a body
+corporate connected to an IC-FM firm; or                 a person who is
+connected to any of the persons mentioned in paragraph (c), (d) or (e);
+“ FM provider ” has the meaning given in paragraph 3(2);           “ IC-FM
+firm ” means a person who provides both investment consultancy services and
+fiduciary management services to the trustees of a relevant trust scheme;
+“ in-scope assets ” has the meaning given in paragraph 4(3);           “ in-
+scope FM provider ” is to be read in accordance with paragraph 3(11);
+“ manageable assets ” has the meaning given in paragraph 3(5);           “ NRP
+FM provider ” has the meaning given in paragraph 9(2);           “ out-of-
+scope FM provider ” has the meaning given in paragraph 3(13);           “
+qualifying tender process ” has the meaning given in paragraph 5;           “
+relevant tender process ” means—         a qualifying tender process;
+a competitive tender process; or           where the trustees are a
+contracting authority for the purposes of the Public Contracts Regulations
+2015 , a procurement carried out in accordance with those Regulations.
+
+######### Meaning of “FM provider”, “in-scope FM provider”, “continuing in-scope FM provider”, “out-of-scope FM provider”, “manageable assets” and related expressions
+
+3
+
+3.1
+
+This paragraph defines “FM provider”, “in-scope FM provider”, “continuing in-
+scope FM provider”, “out-of-scope FM provider”, “manageable assets” and
+related expressions for the purposes of this Schedule.
+
+3.2
+
+“ FM provider ”, in relation to a relevant trust scheme, means a person who
+provides fiduciary management services to the trustees of the scheme.
+
+3.3
+
+A person (“ P ”) provides fiduciary management services to the trustees of a
+relevant trust scheme if the conditions in sub-paragraphs (4) and (8) are met.
+
+3.4
+
+The condition in this sub-paragraph is that P is appointed to manage any of
+the manageable assets of the scheme.
+
+3.5
+
+The manageable assets of a relevant trust scheme are the assets of the scheme
+which could be managed by a person who has a relevant delegated authority
+(irrespective of whether they are in fact so managed).
+
+3.6
+
+A person manages manageable assets of a relevant trust scheme if—
+
+3.6.a
+
+they have a relevant delegated authority in relation to the scheme; and
+
+3.6.b
+
+that authority was not given to them solely for the purpose of restructuring a
+portfolio of investments to facilitate the removal or replacement of any
+person (including the person themselves) who has a delegated authority.
+
+3.7
+
+A person has a relevant delegated authority in relation to a relevant trust
+scheme if they—
+
+3.7.a
+
+are a fund manager to whom a discretion has been delegated under Article 34
+(power of investment and delegation); or
+
+3.7.b
+
+are not such a fund manager but can make decisions about investments
+(including decisions about, or in connection with, the appointment of a fund
+manager) in exercise of any discretion of the trustees which has been
+delegated to them by, or on behalf of, the trustees.
+
+3.8
+
+The condition in this sub-paragraph is that—
+
+3.8.a
+
+P, or a person who is, or was, connected to P—
+
+3.8.a.i
+
+is, on the date on which P is appointed as mentioned in sub-paragraph (4)
+(“the appointment date”), providing relevant services to the trustees of the
+scheme;
+
+3.8.a.ii
+
+has provided such services at any time within the period of 12 months ending
+immediately before the appointment date; or
+
+3.8.a.iii
+
+provides such services at any time during P’s appointment as mentioned in sub-
+paragraph (4); or
+
+3.8.b
+
+P is, or was, a party to a joint venture with any person which—
+
+3.8.b.i
+
+is, on the appointment date, providing relevant services to the trustees of
+the scheme;
+
+3.8.b.ii
+
+has provided such services at any time within the period of 12 months ending
+immediately before the appointment date; or
+
+3.8.b.iii
+
+provides such services at any time during P’s appointment as mentioned in sub-
+paragraph (4).
+
+3.9
+
+For the purposes of this paragraph, a person provides relevant services to the
+trustees of a relevant trust scheme if they—
+
+3.9.a
+
+give advice to the trustees of the scheme on, or in connection with—
+
+3.9.a.i
+
+the merits of any of the following—
+
+3.9.a.i.aa
+
+the exercise of any of the trustee’s powers of investment in any particular
+case (including, but not limited to, the making or retaining of any investment
+or the selection of a fund);
+
+3.9.a.i.bb
+
+the appointment of a particular fund manager;
+
+3.9.a.i.cc
+
+the delegation of authority under Article 34 to a fund manager;
+
+3.9.a.i.dd
+
+asset allocation; or
+
+3.9.a.ii
+
+investment strategy; and
+
+3.9.b
+
+give that advice otherwise than in their capacity as a legal adviser appointed
+by the trustees.
+
+3.10
+
+Where P is an actuary, any high-level commentary given by P in, or in relation
+to, an actuarial valuation on the link between the statutory funding objective
+and the investment strategy, is not to be treated as advice for the purposes
+of this paragraph.
+
+3.11
+
+An FM provider (“ F ”) is an in-scope FM provider in relation to a relevant
+trust scheme if—
+
+3.11.a
+
+F is not an excepted person; and
+
+3.11.b
+
+where F is an FM provider because F is or was connected to a person (“ C ”)
+who, or F is or was party to a joint venture which, provides or has provided
+relevant services to the trustees of the scheme—
+
+3.11.b.i
+
+C is not an excepted person; or
+
+3.11.b.ii
+
+one or more of the other persons who are, or were, also parties to the joint
+venture are not excepted persons.
+
+3.12
+
+“ Continuing in-scope FM provider ”, in relation to a relevant trust scheme,
+means an in-scope FM provider who—
+
+3.12.a
+
+was appointed by the trustees of the scheme before the commencement date; and
+
+3.12.b
+
+continues to provide fiduciary management services to those trustees on and
+after that date in accordance with the terms of that appointment.
+
+3.13
+
+“ Out-of-scope FM provider ” means an FM provider who is not an in-scope FM
+provider.
+
+3.14
+
+References in this Schedule to fiduciary management services are to be read in
+accordance with this paragraph.
+
+######### The asset management threshold
+
+4
+
+4.1
+
+This paragraph makes provision about the AMT, and related matters, for the
+purposes of this Schedule.
+
+4.2
+
+A relevant trust scheme meets the AMT if 20% or more of the in-scope assets of
+the scheme are managed by one or more in-scope FM providers.
+
+4.3
+
+The in-scope assets of a relevant trust scheme are the manageable assets of
+the scheme other than any of those assets which are managed by an out-of-scope
+FM provider.
+
+4.4
+
+For the purposes of determining whether a relevant trust scheme meets, would
+meet or falls below the AMT, no account is to be taken of any change in the
+amount of the assets being managed by any FM provider which arises otherwise
+than from a change in the arrangements made with that FM provider for the
+provision of fiduciary management services.
+
+4.5
+
+For the purposes of determining whether a relevant trust scheme would meet the
+AMT were an in-scope FM provider to be appointed, or an increase to be made in
+the amount of assets managed by any such provider—
+
+4.5.a
+
+where it is proposed to appoint an out-of-scope FM provider to manage any of
+the manageable assets of the scheme, or increase the amount of manageable
+assets managed by an out-of-scope FM provider, at the same time as making the
+relevant appointment or relevant increase, the assets which will be managed by
+the out-of-scope FM provider as a result of that appointment or increase are
+to be treated as if they were already being managed by that provider (and so
+are not in-scope assets);
+
+4.5.b
+
+where it is proposed to appoint any other in-scope FM provider to manage any
+of the assets of the scheme, or increase the amount of assets managed by any
+such provider, at the same time as making the relevant appointment or relevant
+increase, the manageable assets which will be managed by the other in-scope FM
+provider are to be treated as assets which are already being managed by an in-
+scope FM provider.
+
+######### Meaning of “qualifying tender process”
+
+5
+
+5.1
+
+In this Schedule “ qualifying tender process ” means the process of—
+
+5.1.a
+
+inviting, and using reasonable endeavours to obtain, bids for the provision of
+the relevant FM services from at least 3 persons who are not excepted persons
+and are not—
+
+5.1.a.i
+
+connected to each other; or
+
+5.1.a.ii
+
+party to any joint venture with each other; and
+
+5.1.b
+
+evaluating the bids which are obtained.
+
+5.2
+
+In this paragraph—
+
+      “ bid ” means an offer in writing to provide the relevant FM services at
+a stated price;           “the relevant FM services”—         where the
+trustees propose to appoint a person as an in-scope FM provider to manage any
+of the manageable assets of the relevant trust scheme, are fiduciary
+management services involving the management of those assets;           where—
+the trustees propose to increase the amount of assets managed by an in-scope
+FM provider (“ F ”); and           F was not appointed following a relevant
+tender process,         are fiduciary management services involving the
+management of the additional amount of assets that F would manage were the
+proposed increase to be made;           where—         the trustees propose to
+increase the amount of assets managed by an in-scope FM provider (“ F ”); and
+F was appointed following a relevant tender process,         are fiduciary
+management services involving the management of the additional amount of
+assets that F would manage were the proposed increase to be made;
+where the duty in paragraph 7(1) or 9(3) applies, are fiduciary management
+services involving the management of the total amount of assets currently
+managed under the existing arrangements with the continuing in-scope FM
+providers or NRP FM providers (as the case may be).
+
+######## Duties of trustees of relevant trust schemes which met the asset management threshold before the commencement date
+
+######### Application of Part 2
+
+6
+
+6.1
+
+This Part applies in relation to a relevant trust scheme if the scheme has one
+or more continuing in-scope FM providers and—
+
+6.1.a
+
+immediately before the commencement date, the scheme meets the AMT; or
+
+6.1.b
+
+the scheme meets the condition in sub-paragraph (2) or (3) (regardless of
+whether paragraph (a) also applies to the scheme).
+
+6.2
+
+A relevant trust scheme meets the condition in this sub-paragraph if—
+
+6.2.a
+
+the scheme is one to which Article 4.2 or 4.3 of the 2019 Order applied at any
+time before the commencement date;
+
+6.2.b
+
+the scheme met the AMT immediately before the end of the period specified in
+Article 4.2 or, as the case may be, 4.3 of the 2019 Order; and
+
+6.2.c
+
+one or more of the scheme’s continuing in-scope FM providers were first
+appointed on or before 9th June 2019.
+
+6.3
+
+A relevant trust scheme meets the condition in this sub-paragraph if—
+
+6.3.a
+
+the scheme did not meet the AMT immediately before 11th June 2019, but met the
+AMT at any time during the period beginning with 11th June 2019 and ending
+immediately before 10th December 2019; and
+
+6.3.b
+
+one or more of the scheme’s continuing in-scope FM providers were first
+appointed on or before 9th December 2019.
+
+######### Duty of trustees to carry out a qualifying tender process in connection with continued use of continuing in-scope FM providers
+
+7
+
+7.1
+
+The trustees of a relevant trust scheme to which this Part applies must, by
+the end of the relevant day, have carried out, or have had carried out on
+their behalf, a qualifying tender process in respect of the fiduciary
+management services provided under the arrangements with each of their
+continuing in-scope FM providers.
+
+7.2
+
+But the duty in sub-paragraph (1) does not apply—
+
+7.2.a
+
+in respect of any of those arrangements if the scheme—
+
+7.2.a.i
+
+does not meet the AMT immediately before the commencement date or falls below
+the AMT on or after that date; and
+
+7.2.a.ii
+
+will not meet the AMT at the end of the relevant day;
+
+7.2.b
+
+where paragraph (a) does not apply, in respect of—
+
+7.2.b.i
+
+any arrangements in relation to which a competitive tender process was carried
+out before the commencement date;
+
+7.2.b.ii
+
+where the trustees are a contracting authority for the purposes of the Public
+Contracts Regulations 2015, any arrangements made with an FM provider who was
+appointed as a result of a procurement carried out in accordance with those
+Regulations;
+
+7.2.b.iii
+
+where a continuing in-scope FM provider will cease to provide fiduciary
+management services to the trustees on or before the relevant day, the
+arrangements made with that provider.
+
+7.3
+
+For the avoidance of doubt, where the trustees of the scheme—
+
+7.3.a
+
+have, before the commencement date, started but not completed a competitive
+tender process in relation to any arrangements with a continuing FM provider;
+and
+
+7.3.b
+
+complete that competitive tender process before the end of the relevant day,
+
+they are to be treated as having complied with the duty in paragraph (1).
+
+7.4
+
+In this paragraph “ the relevant day ” means—
+
+7.4.a
+
+where the scheme meets the condition in sub-paragraph (2) of paragraph 6
+(regardless of whether the scheme also meets the AMT immediately before the
+commencement date)—
+
+7.4.a.i
+
+if the period specified in Article 4.2 or 4.3 of the 2019 Order ended before
+the commencement date, the commencement date;
+
+7.4.a.ii
+
+otherwise, the last day of the period of 5 years beginning with the day on
+which the earliest of the arrangements with any of the continuing in-scope FM
+providers to be reviewed under this paragraph was entered into;
+
+7.4.b
+
+in any other case—
+
+7.4.b.i
+
+the last day of the period of 5 years beginning with the day on which the
+earliest of the arrangements with any of the continuing in-scope FM providers
+to be reviewed under this paragraph was entered into; or
+
+7.4.b.ii
+
+if that period ended before the commencement date or will expire on or before
+the last day of the period of 2 years beginning with the commencement date
+(“the transition period”), the last day of the transition period.
+
+######## Duties of trustees of relevant trust schemes which meet the asset management threshold on or after the commencement date
+
+######### Duty of trustees of a relevant scheme to carry out a qualifying tender process in connection with appointment, or change to the mandate, of an in-scope FM provider
+
+8
+
+8.1
+
+The trustees of a relevant trust scheme must carry out, or have had carried
+out on their behalf, a qualifying tender process before—
+
+8.1.a
+
+appointing a person as an in-scope FM provider; or
+
+8.1.b
+
+increasing the amount of manageable assets managed by an in-scope FM provider.
+
+8.2
+
+But the duty in sub-paragraph (1) applies only if sub-paragraph (3) or (4)
+applies.
+
+8.3
+
+This sub-paragraph applies where—
+
+8.3.a
+
+the scheme does not already meet the AMT but would meet the AMT if the
+appointment or increase were made; and
+
+8.3.b
+
+the trustees are not a contracting authority for the purposes of the Public
+Contracts Regulations 2015 (“ the PC Regulations ”).
+
+8.4
+
+This sub-paragraph applies where—
+
+8.4.a
+
+the trustees are a contracting authority for the purposes of the PC
+Regulations;
+
+8.4.b
+
+the relevant FM provider will not be, or was not, appointed following a
+procurement carried out in accordance with the PC Regulations; and
+
+8.4.c
+
+either—
+
+8.4.c.i
+
+the scheme does not already meet the AMT but would meet the AMT if the
+appointment or increase were made; or
+
+8.4.c.ii
+
+if the scheme already meets the AMT, the appointment or increase would be the
+first to be made since the AMT was last met following the appointment of an FM
+provider, or an increase in the amount of assets managed by an FM provider,
+who was appointed as a result of a procurement carried out in accordance with
+the PC Regulations.
+
+8.5
+
+For the purposes of sub-paragraph (4)(c)(ii), where any other appointment or
+increase is proposed to be made at the same time as the relevant appointment
+or increase, those appointments or increases (or both) are to be treated as a
+single appointment for the purposes of determining whether the requirement
+that the appointment or increase (as the case may be) would be the first to be
+made since the AMT was last met.
+
+######### Duty of the trustees to carry out a qualifying tender process in respect of arrangements with existing FM providers not appointed following a relevant tender process
+
+9
+
+9.1
+
+This paragraph applies where—
+
+9.1.a
+
+a relevant trust scheme has one or more NRP FM providers; and
+
+9.1.b
+
+the duty in paragraph 8(1) is triggered by the proposed appointment of another
+in-scope FM provider or increase in the amount of assets managed by another
+in-scope FM provider.
+
+9.2
+
+In this Schedule “ NRP FM provider ” means an in-scope FM provider who was not
+appointed following a relevant tender process.
+
+9.3
+
+The trustees must carry out a qualifying tender process, or arrange for such a
+process to be carried out on their behalf, in respect of the relevant services
+provided under the existing arrangements with each of their NRP FM providers
+at the same time as the tender under paragraph 8(1) is carried out by them or
+on their behalf.
+
+9.4
+
+But the duty in sub-paragraph (3) does not apply in respect of any
+arrangements in relation to which the duty in paragraph 7(1) applies.
+
+######### Notification to FM providers
+
+10
+
+10.1
+
+The trustees of a relevant trust scheme must give a tender completion notice
+to any in-scope FM provider who is—
+
+10.1.a
+
+appointed on or after the commencement date; or
+
+10.1.b
+
+given authority to manage additional manageable assets on or after that date.
+
+10.2
+
+The trustees of a relevant trust scheme must also give a tender completion
+notice to any NRP FM provider who is to continue to provide fiduciary
+management services under their existing arrangements with the trustees
+following a qualifying tender process under paragraph 9(3) in respect of those
+services.
+
+10.3
+
+A “tender completion notice” is a notice in writing which states that—
+
+10.3.a
+
+where sub-paragraph (1) applies, either—
+
+10.3.a.i
+
+the appointment or increase is made following the carrying out of a qualifying
+tender process under paragraph 8; or
+
+10.3.a.ii
+
+no such tender was required before the appointment or increase was made;
+
+10.3.b
+
+where sub-paragraph (2) applies, a qualifying tender process has been carried
+out under paragraph 9 in respect of the fiduciary management services provided
+under the existing arrangements with the relevant FM provider.
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations revoke and re-enact the Occupational Pension Schemes
+(Governance and Registration) (Amendment No. 2) Regulations (Northern Ireland)
+2023 (“ the Governance and Registration Regulations ”) which would otherwise
+cease to have effect by virtue of section 51(3)(b) of the Pensions Act
+(Northern Ireland) 2015. Like the Governance and Registration Regulations, the
+Regulations amend the Occupational Pension Schemes (Scheme Administration)
+Regulations (Northern Ireland) 1997 (“ the 1997 Regulations ”) and the
+Register of Occupational and Personal Pension Schemes Regulations (Northern
+Ireland) 2005 (“ the 2005 Regulations ”). The amendments are made to
+transpose, into pensions legislation, Parts 3 and 7, and related provisions of
+Parts 9 to 11, of the Investment Consultancy and Fiduciary Management Market
+Investigation Order 2019 made by the Competition and Markets Authority on 10th
+June 2019.
+
+  Part 2 of these Regulations inserts Part 6 into the 1997 Regulations. Part
+6—         sets out the duties of the trustees of occupational pension schemes
+which are relevant trust schemes in connection with the provision of fiduciary
+management services and investment consultancy services (Chapters 2 and 3 of
+Part 6), and           makes provision for enforcement of those duties by the
+Pensions Regulator (Chapter 4 of Part 6).
+
+  For those purposes “ relevant trust scheme ” has the meaning given in
+regulation 30 of the 1997 Regulations, “ investment consultancy services ” has
+the meaning given in regulation 34 of the 1997 Regulations, and “ fiduciary
+management services ” has the meaning given in paragraph 3 of the Schedule to
+the 1997 Regulations. Such services do not include high-level commentary
+provided by an actuary or certain advice given to the trustees of a relevant
+trust scheme by the scheme’s legal adviser acting in that capacity.
+
+  The trustees of relevant trust schemes will be required to set objectives
+for persons who provide them with investment consultancy services, and review
+the performance of those providers against those objectives annually
+(regulations 35 and 36 of the 1997 Regulations).
+
+  The trustees of relevant trust schemes will also be required to carry out a
+qualifying tender process in respect of arrangements they have made, or make
+in future, for a person to provide them with fiduciary management services or
+for such a person to manage an additional amount of the scheme’s assets which
+such a person manages.
+
+  Part 3 of these Regulations amends regulation 3 of the 2005 Regulations so
+that information concerning persons who provide fiduciary management services
+or investment consultancy services to the trustees of a relevant trust scheme
+is “registrable information”. “Registrable information” is information which
+must be entered in the register of occupational and personal pension schemes
+compiled and maintained under section 59 of the Pensions Act 2004.
+
+  Part 3 of these Regulations also makes minor amendments to regulation 3 of
+the 2005 Regulations to remove from the registrable information requirements
+certain information which is no longer needed by the Pensions Regulator.
+
+  Part 4 of these Regulations revokes the Governance and Registration
+Regulations.
+
+  As these Regulations make in relation to Northern Ireland only provision
+corresponding to provision contained in regulations made by the Secretary of
+State for Work and Pensions in relation to Great Britain, the requirement for
+consultation does not apply by virtue of Article 289(2)(e) of the Pensions
+(Northern Ireland) Order 2005 and paragraph 8 of Schedule 18 to the Pensions
+Act (Northern Ireland) 2015.
+
+  An assessment of the cost to business of these Regulations is detailed in a
+Regulatory Impact Assessment which accompanied the Occupational Pension
+Schemes (Governance and Registration) (Amendment) Regulations (Northern
+Ireland) 2022 ( S.R. 2022 No. 216 ), a copy of which was laid in the Business
+Office and the Library of the Northern Ireland Assembly. Copies of the
+Assessment are available from the Department for Communities, Social Security
+Policy, Legislation and Decision Making Services, Level 8, Causeway Exchange,
+1-7 Bedford Street, Belfast BT2 7EG or from the website:
+https://www.communities-ni.gov.uk/articles/pension-information . A copy of the
+Assessment is also annexed to the Explanatory Memorandum which is available
+alongside this Statutory Rule on the website:
+http://www.legislation.gov.uk/nisr .
+

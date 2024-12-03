@@ -1,0 +1,568 @@
+Title: The Higher-Risk Buildings (Key Building Information etc.) (England) Regulations 2023
+Date: 2024-02-02
+Description: These Regulations set out what constitutes ‘key building information’ in respect of higher-risk buildings; the duties and provisions in relation to submitting key building information; and sets out how to determine for which parts of a higher-risk building an accountable person (“AP”) is responsible under Part 4 of the Building Safety Act 2022 (“the 2022 Act”).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2023/396
+
+## The Higher-Risk Buildings (Key Building Information etc.) (England) Regulations 2023
+
+    Building And Buildings, England
+
+  Made   26th March 2023
+
+  Coming into force   6th April 2023
+
+      The Secretary of State makes the following Regulations in exercise of
+the powers conferred by sections 74, 89(1) and (2) and 168(2) and (4) of the
+Building Safety Act 2022 .       In accordance with section 7(4) of the
+Building Safety Act 2022, the Secretary of State has consulted the building
+safety regulator and such other persons as the Secretary of State considers
+appropriate.           A draft of this instrument has been laid before
+Parliament and approved by a resolution of each House of Parliament.
+
+### Citation, commencement, extent, application and interpretation
+
+1
+
+1.1
+
+These Regulations may be cited as the Higher-Risk Buildings (Key Building
+Information etc.) (England) Regulations 2023 and come into force on 6th April
+2023.
+
+1.2
+
+These Regulations extend to England and Wales and apply to England only.
+
+1.3
+
+In these Regulations—
+
+“ the 2022 Act ” means the Building Safety Act 2022; “ ancillary building ” in
+relation to a higher-risk building means any structure or section that is
+attached to but does not form part of that higher-risk building; “ AP ” means
+accountable person ; “ external wall ” has the meaning in regulation 2(6) of
+the Building Regulations 2010 ; “ ground level ” means— where the level of the
+surface of the ground on which the building is situated is uniform, the level
+of the surface of the ground immediately adjacent to the building, or where
+the level of the surface of the ground on which the building is situated is
+not uniform, the level of the lowest part of the surface of the ground
+adjacent to the building; “ PAP ” means principal accountable person ; “
+storey ” includes any gallery floor that is a floor open to the storey below
+and whose internal floor area is at least 50% of the internal floor area of
+the largest storey vertically above or below it (excluding any floor below
+ground level); “ storey below ground level ” means a storey where any part of
+the finished surface of the ceiling of the storey is below the ground level
+immediately adjacent to that part of the building.
+
+### Key building information as prescribed information
+
+2
+
+The prescribed information (“key building information”) is information as set
+out in regulations 3 to 18.
+
+### Key building information: ancillary building
+
+3
+
+Whether the higher-risk building has any ancillary building and whether that
+ancillary building is a higher-risk building .
+
+### Key building information: use
+
+4
+
+4.1
+
+The principal use of—
+
+4.1.a
+
+the higher-risk building,
+
+4.1.b
+
+any ancillary building,
+
+4.1.c
+
+any outbuilding,
+
+4.1.d
+
+any storey below ground level in the higher-risk building.
+
+4.2
+
+“ Outbuilding ” in relation to a higher-risk building means any permanent or
+temporary building, whether or not attached to the higher-risk building but
+not forming part of it, that is used for purposes incidental to the enjoyment
+of the higher-risk building.
+
+### 
+
+5
+
+5.1
+
+The subordinate use of—
+
+5.1.a
+
+the higher-risk building, save in respect of a residential unit in that
+higher-risk building,
+
+5.1.b
+
+any ancillary building,
+
+5.1.c
+
+any storey below ground level in the higher-risk building.
+
+5.2
+
+“ Subordinate use ” means any use other than the principal use.
+
+### 
+
+6
+
+Whether since its construction there has been a change to the principal use of
+the higher-risk building.
+
+### 
+
+7
+
+7.1
+
+“Use” must be described using the following categories—
+
+7.1.a
+
+residential (dwellings),
+
+7.1.b
+
+residential (institutional),
+
+7.1.c
+
+residential (other),
+
+7.1.d
+
+office,
+
+7.1.e
+
+shop and commercial,
+
+7.1.f
+
+assembly and recreation,
+
+7.1.g
+
+industrial, or
+
+7.1.h
+
+storage and other non-residential
+
+7.2
+
+For the purposes of interpreting the categories in paragraph (1) regard must
+be had to Table 0.1 “Classification of purpose groups” of Approved Document B
+(Fire safety) volume 1: Dwellings (2019 edition incorporating 2020 and 2022
+amendments) that came into force on 1 December 2022.
+
+### Key building information: materials
+
+8
+
+With regard to the external wall of the higher-risk building—
+
+8.a
+
+a description of the material used in its composition, and
+
+8.b
+
+if there is more than one material, what percentage of the whole does each
+material constitute.
+
+9
+
+If there is insulation of the external wall—
+
+9.a
+
+a description of the material used in the composition of that insulation, and
+
+9.b
+
+if there is more than one material, what percentage of the whole does each
+material constitute.
+
+10
+
+With regard to the roof of the higher-risk building—
+
+10.a
+
+the main material used in the composition of the part of the roof that
+provides a waterproof covering,
+
+10.b
+
+whether there is a separate layer of insulation, and
+
+10.c
+
+whether the roof plane is pitched or flat or a combination of both.
+
+### Key building information: fixture on external wall
+
+11
+
+With regard to any fixture attached to the external wall or roof of the
+higher-risk building—
+
+11.a
+
+the type of fixture, and
+
+11.b
+
+the main material from which the fixture is composed.
+
+### Key building information: structure
+
+12
+
+With regard to the structure of the higher-risk building—
+
+12.a
+
+the main material used, and
+
+12.b
+
+the type of structural design the building has in order to comply with Part A
+(Structure) of Schedule 1 to the Building Regulations 2010 .
+
+### Key building information: storeys and staircases
+
+13
+
+The number of storeys below ground level that are in the higher-risk building.
+
+14
+
+In relation to staircases—
+
+14.a
+
+the number of staircases that the higher-risk building has, and
+
+14.b
+
+how many of those staircases serve, as part of the same flight of stairs, the
+storey at ground level and every storey above it.
+
+### Key building information: energy
+
+15
+
+The type of energy supply to the higher-risk building.
+
+16
+
+The type of energy storage system of the higher-risk building.
+
+### Key building information: emergency planning
+
+17
+
+A description of the type of evacuation strategy that is in place for the
+higher-risk building.
+
+18
+
+18.1
+
+A list of the fire and smoke control equipment within the higher-risk
+building, save for that provided by a resident for their own use.
+
+18.2
+
+Where in the building the equipment is located.
+
+### Key building information duties
+
+19
+
+The PAP must provide to the regulator  key building information for each
+higher-risk building for which they are the PAP.
+
+20
+
+The key building information for a higher-risk building must be submitted
+within 28 days of the PAP submitting an application for registration of that
+higher-risk building .
+
+21
+
+The PAP must notify the regulator of any change to the key building
+information within 28 days of the PAP becoming aware of the change.
+
+22
+
+If there is more than one AP for a higher-risk building each AP must, for the
+part of the building for which they are responsible , provide the PAP with—
+
+22.a
+
+notice and details of any change to the key building information within 28
+days of the AP becoming aware of the change,
+
+22.b
+
+if requested by the PAP, key building information as soon as reasonably
+practicable from the date of request from the PAP.
+
+23
+
+A submission of, or notification about, key building information to the
+regulator may be made by a person authorised on behalf of the PAP for that
+building.
+
+### Provision of key building information to the regulator
+
+24
+
+The key building information to be provided to the regulator must be in
+electronic form.
+
+### Direction by regulator
+
+25
+
+25.1
+
+The regulator may make a direction as to the way in which key building
+information must be given.
+
+25.2
+
+The direction may include a requirement to give the information via a website
+address provided for that purpose by the regulator.
+
+25.3
+
+The regulator must publish any direction under this regulation on its website
+and make it available for inspection at its principal offices during normal
+office hours.
+
+25.4
+
+The regulator may, by a further direction, amend or revoke a direction made
+under this regulation.
+
+### Part of the building for which an AP is responsible: buildings with only one AP
+
+26
+
+26.1
+
+If a higher-risk building has only one AP and the AP is a commonhold
+association, the AP is responsible for the following parts of the building—
+
+26.1.a
+
+the common parts of the building,
+
+26.1.b
+
+any commonhold unit,
+
+26.1.c
+
+any balcony, and
+
+26.1.d
+
+any other part of the building to which the Regulatory Reform (Fire Safety
+Order) 2005  does not apply.
+
+26.2
+
+If a higher-risk building has only one AP and the AP is not a commonhold
+association, the AP is responsible for the following parts of the building—
+
+26.2.a
+
+the common parts of a building,
+
+26.2.b
+
+any residential unit,
+
+26.2.c
+
+any balcony, and
+
+26.2.d
+
+any other part of the building to which the Regulatory Reform (Fire Safety
+Order) 2005 does not apply.
+
+26.3
+
+The common parts of the building are defined by—
+
+26.3.a
+
+section 25(1) (definition) of the Commonhold and Leasehold Reform Act 2002  in
+relation to paragraph (1), and
+
+26.3.b
+
+section 72(6) of the 2022 Act in relation to paragraph (2)
+
+26.4
+
+In this regulation “ commonhold association ” means as defined under Part 1 of
+the Commonhold and Leasehold Reform Act 2002.
+
+### Buildings with more than one AP
+
+27
+
+If a higher-risk building has more than one AP, the parts of the building for
+which an AP is responsible is determined by reference to regulations 28 to
+31 .
+
+28
+
+An AP is responsible for the part of the common parts of the building for
+which they hold a legal estate in possession or a repairing obligation.
+
+29
+
+An AP who holds a legal estate in possession in or a repairing obligation in
+relation to any part of the exterior of the building, is responsible for any
+balcony attached to that part of the exterior.
+
+30
+
+30.1
+
+If an AP has the right to let or (excluding a residential unit let on a long
+lease ) lets a residential unit in the building, the AP is responsible for
+that unit.
+
+30.2
+
+If a residential unit is let under a long lease, the AP responsible for the
+unit is—
+
+30.2.a
+
+the lessor in relation to the long lease, or
+
+30.2.b
+
+where, by virtue of section 72 of the 2022 Act, the lessor in relation to the
+long lease is not an AP, the AP responsible for the part of the common parts
+that adjoins or is nearest to the main entrance door of the unit.
+
+30.3
+
+For this regulation, the residential unit is treated as including any garden,
+yard, garage, outhouse, or other appurtenance that is—
+
+30.3.a
+
+within the higher-risk building,
+
+30.3.b
+
+for the use, benefit and enjoyment of a resident of that unit, and
+
+30.3.c
+
+not a part subject to regulations 28 and 29.
+
+31
+
+An AP for a higher-risk building who is the PAP for that building is
+responsible for any part of that higher-risk building—
+
+31.a
+
+which is not the responsibility of another AP by virtue of regulations 28 to
+30, and
+
+31.b
+
+to which the Regulatory Reform (Fire Safety Order) 2005 does not apply.
+
+Signed by authority of the Secretary of State for Levelling Up, Housing and
+Communities Lee Rowley Parliamentary Under Secretary of State Department for
+Levelling Up, Housing and Communities 26th March 2023
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations set out what constitutes ‘key building information’ in
+respect of higher-risk buildings; the duties and provisions in relation to
+submitting key building information; and sets out how to determine for which
+parts of a higher-risk building an accountable person (“ AP ”) is responsible
+under Part 4 of the Building Safety Act 2022 (“ the 2022 Act ”).
+
+  Regulation 2 sets out what information is prescribed under section 89(1) of
+the 2022 Act as ‘key building information’.
+
+  Regulations 3 to 18 set out what information is ‘key building information’.
+Amongst other things, it clarifies information that is required in relation to
+structures that do not form part of the higher-risk building but are attached
+or an outbuilding of it; information that is required in relation to the use
+of the building; information in relation to materials used and fixtures in
+certain parts; and information relating to structure and staircases.
+
+  Regulations 21 to 23 set out the duties on a principal accountable person (“
+PAP ”) and AP. These duties include providing or enabling key building
+information to be submitted to the regulator and keeping information up to
+date. These regulations also provide a time frame for carrying out the duties
+by reference to an application for registration or upon the AP or PAP becoming
+aware of any changes to the information.
+
+  Regulations 24 and 27 make provision about the form and way key building
+information is given to the regulator. Regulation 24 mandates that the
+information should be submitted in electronic form. Regulation 25 includes
+provision for the regulator to make a direction specifying in further detail
+how the information is to be submitted.
+
+  Regulation 26 sets out what parts of a higher-risk building an AP is
+responsible for, for the purposes of section 74 of the 2022 Act, where there
+the building has only one AP.
+
+  Regulations 29 to 30 set out what parts of a higher-risk building an AP is
+responsible, for the purposes of section 74 of the 2022 Act, where the
+building has more than one AP. Regulation 28 provides that an AP who holds a
+legal estate in possession in or a repairing obligation in relation to common
+part as defined by section 72 of the 2022 Act is responsible for that part of
+the common parts. Regulation 29 provides which AP is responsible for a balcony
+on the exterior wall. Regulation 30 makes provision in relation to residential
+units that are let, or the AP has a right to let, under a long lease as
+defined by section 115 of the 2022 Act.
+
+  A full impact assessment has not been produced for this instrument as no
+significant impact on the private, voluntary sector or public sector is
+foreseen.
+

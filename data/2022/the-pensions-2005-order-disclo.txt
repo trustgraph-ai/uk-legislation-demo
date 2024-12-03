@@ -1,0 +1,73 @@
+Title: The Pensions (2005 Order) (Disclosure of Restricted Information by the Pensions Regulator) (Amendment of Specified Persons) Order (Northern Ireland) 2022
+Date: 2023-01-30
+Description: This Order amends Schedule 3 to the Pensions (Northern Ireland) Order 2005 to enable the Pensions Regulator to disclose restricted information to the Money and Pensions Service (“MaPS”) to facilitate the exercise by MaPS of certain functions. These are MaPS functions under—Articles 215A to 215G of the Pensions (Northern Ireland) Order 2005 in respect of which the Pensions Dashboards Regulations (Northern Ireland) 2022 have been made, andthe Financial Guidance and Claims Act 2018 in relation to the dashboards ecosystem and pensions dashboard services.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2022/301
+
+## The Pensions (2005 Order) (Disclosure of Restricted Information by the Pensions Regulator) (Amendment of Specified Persons) Order (Northern Ireland) 2022
+
+    Pensions
+
+  Made   7th December 2022
+
+  Coming into operation   28th December 2022
+
+      The Department for Communities  makes the following Order in exercise of
+the powers conferred by Article 81(2)(a)(i) of the Pensions (Northern Ireland)
+Order 2005 .           In accordance with Article 81(2) of that Order it has
+consulted with the Pensions Regulator.
+
+### Citation and commencement
+
+1
+
+This Order may be cited as the Pensions (2005 Order) (Disclosure of Restricted
+Information by the Pensions Regulator) (Amendment of Specified Persons) Order
+(Northern Ireland) 2022 and shall come into operation on 28th December 2022.
+
+### Amendment of Schedule 3 to the Pensions (Northern Ireland) Order 2005
+
+2
+
+In Schedule 3 to the Pensions (Northern Ireland) Order 2005 (restricted
+information held by the Regulator: certain permitted disclosure to facilitate
+exercise of functions) after the entry relating to “The Charity Commission for
+Northern Ireland”  add—
+
+      The Money and Pensions Service . Functions under—         Articles 215A
+to 215G , or           section 3(1)(a) of the Financial Guidance and Claims
+Act  2018 (c. 10)  in relation to the dashboards ecosystem (as defined in
+Schedule 1 to the Pensions Dashboards Regulations (Northern Ireland) 2022 (
+S.R. 2022 No. 296 )) or a pensions dashboard service.
+
+.
+
+      Sealed with the Official Seal of the Department for Communities on 7th
+December 2022       (L.S.)   Anne McCleary   A senior officer of the
+Department for Communities
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Order)
+
+  This Order amends Schedule 3 to the Pensions (Northern Ireland) Order 2005
+to enable the Pensions Regulator to disclose restricted information to the
+Money and Pensions Service (“MaPS”) to facilitate the exercise by MaPS of
+certain functions. These are MaPS functions under—         Articles 215A to
+215G of the Pensions (Northern Ireland) Order 2005 in respect of which the
+Pensions Dashboards Regulations (Northern Ireland) 2022 have been made, and
+the Financial Guidance and Claims Act 2018 in relation to the dashboards
+ecosystem and pensions dashboard services.
+
+  A pensions dashboard service is an electronic communications service
+intended to enable individuals (or other authorised persons) to request and
+view information relating to an individual’s pension entitlements
+electronically. The dashboards ecosystem is a term used and defined in the
+Pensions Dashboards Regulations (Northern Ireland) 2022 for the interconnected
+system that enables pensions dashboard services to work in accordance with
+those Regulations.
+
+  The functions exercised by MaPS include setting standards on matters such as
+connection and security and the provision of the dashboards ecosystem
+including the connection and disconnection of pension schemes to it.
+

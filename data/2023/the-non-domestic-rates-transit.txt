@@ -1,0 +1,772 @@
+Title: The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023
+Date: 2024-06-24
+Description: These Regulations make provision as to the amount payable in certain circumstances as non-domestic rates in respect of non-domestic properties in Scotland. They apply to the financial year 2023-24. The Regulations cease to apply where a non-domestic property is shown in a merged, split or reorganised entry in the valuation roll which takes effect during the financial year 2023-24.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ssi/2023/31
+
+## The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2023
+
+    Rating And Valuation
+
+  Made   7th February 2023
+
+  Laid before the Scottish Parliament   9th February 2023
+
+  Coming into force   1st April 2023
+
+      The Scottish Ministers make the following Regulations in exercise of the
+powers conferred by section 153 of the Local Government etc. (Scotland) Act
+1994  and all other powers enabling them to do so.
+
+### Introductory
+
+#### Citation and commencement
+
+1
+
+These Regulations may be cited as the Non-Domestic Rates (Transitional Relief)
+(Scotland) Regulations 2023 and come into force on 1 April 2023.
+
+#### Interpretation – general
+
+2
+
+In these Regulations—
+
+      “ the 1962 Act ” means the Local Government (Financial Provisions etc.)
+(Scotland) Act 1962 ,           “ the 1966 Act ” means the Local Government
+(Scotland) Act 1966 ,           “ the 1975 Act ” means the Local Government
+(Scotland) Act 1975 ,           “ the 1978 Act ” means the Rating (Disabled
+Persons) Act 1978 ,           “ the 1992 Act ” means the Local Government
+Finance Act 1992 ,           “ the 1997 Act ” means the Local Government and
+Rating Act 1997 ,           “ the 2022 Regulations ” means the Non-Domestic
+Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 ,
+“ the 2023 Regulations ” means the Non-Domestic Rates (Levying and
+Miscellaneous Amendment) (Scotland) Regulations 2023 ,           “ electronic
+communication ” has the meaning given in section 15(1) of the Electronic
+Communications Act 2000 ,           “ new entry ”, in relation to a split,
+merged or reorganised entry, means an entry in the roll taking effect from the
+day on which the merged, split or reorganised entry takes effect,           “
+new and improved property relief Regulations ” means the Non-Domestic Rates
+(Relief for New and Improved Properties) (Scotland) Regulations 2022 ,
+“ old entry ”, in relation to a merged, split or reorganised entry, means an
+entry in the roll for the day immediately prior to the day from which the
+merged, split or reorganised entry takes effect,           “ part residential
+subjects ” has the meaning given in section 99(1) of the 1992 Act,           “
+rateable value ”, in relation to lands and heritages at a particular date,
+means—         in the case of part residential subjects, the rateable value
+entered in the roll for that date and apportioned to the non-residential use
+of those subjects,           in any other case, the rateable value entered in
+the roll for that date in respect of those lands and heritages,   and includes
+a rateable value so entered with retrospective effect,                 “ rates
+” means non-domestic rates levied under section 7B of the 1975 Act ,
+“ the relevant year ” means the period of 12 months beginning with 1 April
+2023,           “ the roll ” means a valuation roll made up under section 1(1)
+of the 1975 Act, and           “ revaluation ” means the calculation of the
+rateable value of lands and heritages in connection with the making up of a
+valuation roll under section 1(1) of the 1975 Act.
+
+#### Interpretation – mergers
+
+3
+
+In these Regulations—
+
+      “ merged entry ” means any entry in the roll taking effect on a day in
+the relevant year as a result of the lands and heritages shown in two or more
+old entries being shown in a single new entry where—         none of the lands
+and heritages shown in the relevant old entries are shown in a new entry,
+other than in the merged entry, and           the merged entry does not show
+any lands and heritages shown in an old entry, other than in the relevant old
+entries,                 “ the relevant old entries ”, in relation to a merged
+entry, means the old entries which showed the lands and heritages shown in the
+merged entry.
+
+#### Interpretation - splits
+
+4
+
+In these Regulations—
+
+      “ split entry ” means any entry in the roll taking effect on a day in
+the relevant year as a result of lands and heritages shown in a single old
+entry being shown in two or more new entries, where—         none of those new
+entries show lands and heritages shown in an old entry, other than in the
+relevant old entry, and           no lands and heritages shown in the relevant
+old entry are shown in a new entry, other than in those new entries, and
+“ the relevant old entry ”, in relation to a split entry, means the old entry
+which showed the lands and heritages shown in the split entry.
+
+#### Interpretation – reorganisations
+
+5
+
+In these Regulations—
+
+      “ reorganised entry ” means any entry in the roll taking effect on a day
+in the relevant year which is not a split or a merged entry and which shows
+lands and heritages—           which were to any extent shown in two or more
+old entries, or           which are part only of lands and heritages shown in
+a single old entry and the other part of which is shown to any extent in one
+or more other new entries,                   “ the relevant old entries ”, in
+relation to a reorganised entry, means the old entries affected by the
+reorganisation which gave rise to that entry,           “ reorganisation ”
+means a situation where, with effect from a day in the relevant year, lands
+and heritages shown immediately before that day in two or more old entries are
+shown in two or more new entries, each of which is a reorganised entry.
+
+### Lands and heritages in the roll on 1 April 2023
+
+#### Application of Parts 2 and 4
+
+6
+
+6.1
+
+Subject to paragraphs (2) and (3), this Part and Part 4 apply to lands and
+heritages—
+
+6.1.a
+
+which are shown in the roll on 1 April 2023, and
+
+6.1.b
+
+in respect of all or any part of which there was an entry, or were entries, in
+the roll on 31 March 2023.
+
+6.2
+
+This Part does not apply to lands and heritages shown in an entry in the roll
+on 1 April 2023 if—
+
+6.2.a
+
+that entry shows a nil rateable value, or
+
+6.2.b
+
+the only lands and heritages shown in that entry which were to any extent
+shown in the roll on 31 March 2023 have a nil rateable value on 1 April 2023.
+
+6.3
+
+Where a merged, split or reorganised entry takes effect on a date subsequent
+to 1 April 2023, this Part and Part 4 cease to apply to the lands and
+heritages shown in that entry, as from the date on which the merged, split or
+reorganised entry takes effect.
+
+#### Amount payable as rates
+
+7
+
+Where the notional liability in respect of any lands and heritages to which
+this Part applies on any day in the relevant year is more than the
+transitional limit in respect of those lands and heritages on that day, the
+amount payable as rates in respect of those lands and heritages on that day
+is, subject to Part 3, that transitional limit, calculated in accordance with
+regulation 9.
+
+#### Notional liability
+
+8
+
+The notional liability of any lands and heritages to which this Part applies
+on any day is to be calculated in accordance with the formula—
+
+RV × PF 366 where— RV is the rateable value of those lands and heritages on
+that day, and   PF is the poundage figure of—  0.524 where the lands and
+heritages have a rateable value exceeding £100,000, 0.511 where the lands and
+heritages have a rateable value exceeding £51,000 but not exceeding £100,000,
+or 0.498 in any other case.
+
+#### Transitional limit
+
+9
+
+9.1
+
+Subject to paragraph (3), in respect of lands and heritages to which this Part
+applies on any day—
+
+9.1.a
+
+where the rateable value for that day exceeds the rateable value on 1 April
+2023, the transitional limit is calculated in accordance with the formula—
+
+BL × X + CRV - RV × PF 366
+
+9.1.b
+
+in any other case the transitional limit is calculated in accordance with the
+formula—
+
+BL × X + CRV 366 × RV
+
+9.2
+
+For the purposes of paragraph (1)—
+
+BL is the base liability of the lands and heritages, calculated in accordance
+with regulation 10, CRV is the rateable value of the lands and heritages on
+the day with reference to which the transitional limit is calculated, RV is
+the rateable value of the lands and heritages entered in the roll at
+revaluation on 1 April 2023,   PF is the poundage figure of—  0.524 where the
+lands and heritages have a rateable value exceeding £100,000, 0.511 where the
+lands and heritages have a rateable value exceeding £51,000 but not exceeding
+£100, 000, or 0.498 in any other case,   X is—  1.125 where at revaluation on
+1 April 2023 the lands and heritages have a rateable value of £20,000 or less,
+1.250 where at revaluation on 1 April 2023 the lands and heritages have a
+rateable value between £20,001 and £100,000, or 1.375 where at revaluation on
+1 April 2023 the lands and heritages have a rateable value of more than
+£100,000.
+
+9.3
+
+Where relief is granted under regulation 10 (relief granted – lands and
+heritages in respect of which a relevant increase has been made within the
+previous 12 months) of the new and improved property relief Regulations the
+transitional limit is calculated in accordance with paragraph (5) of that
+regulation.
+
+#### Base liability
+
+10
+
+10.1
+
+The base liability in respect of any lands and heritages is—
+
+10.1.a
+
+in the case of lands and heritages shown in a split or reorganised entry
+taking effect on 1 April 2023, to be calculated in accordance with the
+formula—
+
+        NL × 366 X               where—         NL is the notional liability
+of those lands and heritages, calculated in accordance with regulation 8, and
+X is—         1.2 where at revaluation on 1 April 2023 the lands and heritages
+have a rateable value of £20,000 or less,           1.25 where at revaluation
+on 1 April 2023 the lands and heritages have a rateable value of between
+£20,001 and £100,000, and           1.4 where at revaluation on 1 April 2023
+the lands and heritages have a rateable value of more than £100,000,
+
+10.1.b
+
+in any other case, the deemed amount (or, in the case of a merged entry taking
+effect on 1 April 2023, the total deemed amount) in respect of those lands and
+heritages calculated in accordance with paragraph (2).
+
+10.2
+
+In paragraph (1)(b), the deemed amount in respect of any lands and heritages
+is the amount which would have been payable as rates in respect of those lands
+and heritages for the financial year ending 31 March 2023, had that amount
+been calculated on the basis of the rateable value of the lands and heritages
+on 31 March 2023, including any additional amounts of rates payable in terms
+of regulation 4 (amount payable as rates – lands and heritages with rateable
+value exceeding £51, 000 but not exceeding £95,000) or 5 (amount payable as
+rates – lands and heritages with rateable value exceeding £95, 000) of the
+2022 Regulations, but before applying any reliefs.
+
+### Reductions, remissions and exemptions
+
+#### Charitable and other reductions
+
+11
+
+11.1
+
+This regulation has effect for determining the amount payable as rates in
+respect of land and heritages on a day in the relevant year where—
+
+11.1.a
+
+that amount falls to be reduced by virtue of one or more of the following
+enactments—
+
+11.1.a.i
+
+section 4(2) of the 1962 Act ,
+
+11.1.a.ii
+
+section 24(3) of the 1966 Act ,
+
+11.1.a.iii
+
+section 4 or 5 of the 1978 Act ,
+
+11.1.a.iv
+
+paragraph 3 of schedule 2 of the 1997 Act ,
+
+11.1.a.v
+
+regulation 3 ( amount payable as rates – lands and heritages with rateable
+value of less than £20,000 (single entries)) of the 2023 Regulations ,
+
+11.1.a.vi
+
+regulation 4(1) (relief granted - new building entered in the valuation roll
+under section 2(1)(b) of the 1975 Act), 6(1) (relief granted – new building
+resulting in an alteration to the valuation roll under section 2(1)(d) of the
+1975 Act) or 11(1) ( additional relief granted - lands and heritages in
+respect of which a relevant increase has been made within the previous 12
+months) of the new and improved property relief Regulations,
+
+11.1.b
+
+regulation 7 has effect as regards those lands and heritages on that day, and
+
+11.1.c
+
+regulation 12 does not have effect as regards those lands and heritages on
+that day.
+
+11.2
+
+The amount payable is to be determined by applying the enactment referred to
+in paragraph (1)(a) by which the amount in question is reduced to the amount
+determined under regulation 7, in the same manner as that enactment would be
+applied to the full amount payable as rates in a case where the only relief
+applicable was the relief under that enactment.
+
+#### Partially unoccupied lands and heritages
+
+12
+
+12.1
+
+This regulation has effect for determining the amount payable as rates in
+respect of lands and heritages on a day in the relevant year where—
+
+12.1.a
+
+on that day those lands and heritages are subject to an apportionment under
+section 24A of the 1966 Act , and
+
+12.1.b
+
+regulation 7 has effect as regards those lands and heritages on that day.
+
+12.2
+
+The amount payable is, subject to paragraph (3), to be calculated in
+accordance with the formula—
+
+A × ARV RV where— A is the amount payable for the day determined under
+regulation 7, ARV is the applicable rateable value, being the rateable value
+treated for rating purposes as the rateable value of the lands and heritages
+in terms of section 24A(2) of the 1966 Act, and RV is the rateable value shown
+in the roll for those lands and heritages.
+
+12.3
+
+Where—
+
+12.3.a
+
+this regulation has effect as regards lands and heritages on a day, and
+
+12.3.b
+
+the amount payable as rates in respect of those lands and heritages on that
+day falls to be reduced by virtue of an enactment referred to in regulation 11
+(1)(a)(i), (iii), (iv), (v) or (vi),
+
+   the amount payable is to be determined in accordance with regulation 11(2)
+but as though for “regulation 7” there were substituted “regulation 12(2).”
+
+12.3.c
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+12.4
+
+This regulation ceases to apply where a merged entry takes effect on or after
+1 April 2023, unless relief under regulation 11 was in place in respect of the
+lands and heritages in each of the entries which forms part of the merged
+entry, immediately before the merged entry took effect.
+
+#### Exemptions and discretionary reductions and remissions
+
+13
+
+Nothing in these Regulations—
+
+13.a
+
+requires rates to be paid in respect of lands and heritages for a day where
+those lands and heritages are entirely exempt from rates for that day under
+any enactment, or
+
+13.b
+
+prejudices the power of a rating authority to grant a reduction or remission
+of rates under section 3A or 4(5) of the 1962 Act , section 25A of the 1966
+Act  or paragraph 4 of schedule 2 of the 1997 Act .
+
+### Cases involving small business bonus scheme relief or rural property relief as at 31 March 2023
+
+#### Cap for properties with small business bonus scheme relief or rural property relief
+
+14
+
+14.1
+
+This regulation applies in relation to lands and heritages where the amount of
+rates payable in respect of the lands and heritages is reduced by any of the
+following as at 31 March 2023—
+
+14.1.a
+
+regulation 3 (amount payable as rates – lands and heritages with a rateable
+value of £18, 000 or less) of the 2022 Regulations,
+
+14.1.b
+
+paragraph 3 or 4  of schedule 2 of the 1997 Act (relief from non-domestic
+rates for general stores etc. in rural settlements: Scotland), where
+entitlement to the reduction is lost on 1 April 2023 as a result of an
+increase in rateable value of the lands and heritages above the limit provided
+for in—
+
+14.1.b.i
+
+article 3(1)(a) or, as the case may be, article 3(1)(b) of the 2005 Order, or
+
+14.1.b.ii
+
+article 3(2) of the 2005 Order.
+
+14.2
+
+Subject to paragraph (3), where the net notional liability in respect of any
+lands and heritages to which this regulation applies on any day in the
+relevant year is more than the transitional limit in respect of those lands
+and heritages on that day, calculated in accordance with paragraph (4), the
+amount payable as rates in respect of those lands and heritages on that day is
+the limit calculated in accordance with paragraph (4).
+
+14.3
+
+The net notional liability of any lands and heritages to which this regulation
+applies on any day is equal to the notional liability calculated in accordance
+with regulation 8, after any reliefs have been applied, including under
+regulation 7.
+
+14.4
+
+In respect of lands and heritages to which this regulation applies on any day—
+
+14.4.a
+
+where the rateable value for that day exceeds the rateable value on 1 April
+2023, the transitional limit is calculated in accordance with the formula—
+
+DA + 600 + CRV - RV × PF - A × 100% - Z 366
+
+14.4.b
+
+in any other case the transitional limit is calculated in accordance with the
+formula—
+
+DA + 600 × CRV 366 × RV where— A is the amount of relief granted under
+regulation 10 of the new and improved property relief Regulations   in respect
+of the day with reference to which the transitional limit is calculated,
+multiplied by 366 , CRV is the rateable value of the lands and heritages on
+the day with reference to which the transitional limit is calculated, DA is
+the deemed amount within the meaning given in paragraph (5), PF is the
+poundage figure of— 0.524 where the lands and heritages have a rateable value
+exceeding £100,000, 0.511 where the lands and heritages have a rateable value
+exceeding £51,000 but not exceeding £100,000, or 0.498 in any other case, RV
+is the rateable value of the lands and heritages on 1 April 2023, and Z is the
+percentage of relief other than relief under regulation 10 of the new and
+improved property relief Regulations granted in respect of   the day with
+reference to which the transitional limit is calculated .
+
+14.5
+
+For the purposes of this regulation the deemed amount in respect of any lands
+and heritages is the amount which would have been payable as rates in respect
+of those lands and heritages for the financial year ending 31 March 2023, had
+that amount been calculated on the basis of the rateable value of the lands
+and heritages on 31 March 2023, including any additional amounts of rates
+payable in terms of regulation 4 (amount payable as rates – lands and
+heritages with rateable value exceeding £51,000 but not exceeding £95,000) or
+5 (lands and heritages with rateable value exceeding £95,000) of the 2022
+Regulations, and after applying any reliefs.
+
+14.6
+
+Where there is an entitlement to relief under both this regulation and
+regulation 7,   relief under this regulation is to be applied to the amount of
+rates payable after regulation 7 is applied .
+
+14.7
+
+Relief under this regulation may only be granted where an application is made
+in accordance with regulation 16.
+
+14.8
+
+In this regulation “ the 2005 Order ” means the Non-Domestic Rating (Rural
+Areas and Rateable Value Limits)(Scotland) Order 2005 .
+
+### Parks
+
+#### Relief for parks or parts of parks previously exempt from rating and becoming rateable on 1 April 2023
+
+15
+
+15.1
+
+  In relation to the relevant year, this  regulation grants relief in relation
+lands and heritages where the lands and heritages were entered in the roll on
+1 April 2023, in terms of section 19(1ZA) of the Local Government (Financial
+Provisions) (Scotland) Act 1963 , together with section 19(1ZB) or, as the
+case may be, section 19(1ZC) of that Act.
+
+15.2
+
+Subject to paragraphs (3) and (4), the relief granted is that the rates
+payable in respect of a day are reduced by 67% of the gross rates payable in
+respect of the lands and heritages at revaluation on 1 April 2023.
+
+15.3
+
+Where the entry in a roll in relation to lands and heritages is split or
+reorganised on or after 1 April 2023, the gross rates liability of each part
+of the lands and heritages which is the subject of an entry is reduced by 67%.
+
+15.4
+
+Relief may only be granted under this regulation where an application is made
+in accordance with regulation 16.
+
+### General
+
+#### Applications for relief
+
+16
+
+16.1
+
+An application for relief under these Regulations must be signed by the
+ratepayer, or a person authorised to sign on behalf of the ratepayer, and—
+
+16.1.a
+
+“ person authorised to sign on behalf of the ratepayer ” means, where the
+ratepayer is—
+
+16.1.a.i
+
+a partnership, a partner of that partnership or any other person authorised by
+it,
+
+16.1.a.ii
+
+a trust, a trustee of that trust or any other person authorised by it,
+
+16.1.a.iii
+
+a body corporate, a director of that body, and
+
+16.1.b
+
+“sign” or “ signed ” in relation to an application made by electronic
+communication means an electronic signature, as defined in section 7(2) of the
+Electronic Communications Act 2000 .
+
+16.2
+
+An application under paragraph (1) must be made to the local authority by—
+
+16.2.a
+
+addressing it to the authority, and
+
+16.2.b
+
+delivering or sending it to the authority’s office by post or electronic
+communication.
+
+#### Amendment of the new and improved property relief Regulations
+
+17
+
+17.1
+
+Regulation 10 of the new and improved property relief Regulations is amended
+in accordance with paragraphs (2), (3) and (4).
+
+17.2
+
+In paragraph (2), in sub-paragraph (a), for “2017” substitute  “2023” ,
+
+17.3
+
+In paragraph (5)—
+
+17.3.a
+
+for the words from “Where regulation 7” to “in that regulation” substitute
+“Where regulation 7 of the 2023 Regulations applies, the amount of non-
+domestic rates payable is the transitional limit calculated in accordance with
+regulation 9 of those Regulations” ,
+
+17.3.b
+
+in sub-paragraph (a)—
+
+17.3.b.i
+
+for “1 April 2017” substitute  “1 April 2023” ,
+
+17.3.b.ii
+
+in the formula—
+
+17.3.b.ii.aa
+
+for “2.247” substitute  “X” , and
+
+17.3.b.ii.bb
+
+for “365” substitute  “366” ,
+
+17.3.b.iii
+
+for the description of BL substitute—
+
+BL is the base liability of the lands and heritages calculated in accordance
+with regulation 10 of the of the 2023 Regulations,
+
+,
+
+17.3.b.iv
+
+for the description of RV substitute—
+
+RV is the rateable value of the lands and heritages on 1 April 2023,
+
+,
+
+17.3.b.v
+
+for the description of PF substitute—
+
+PF is the poundage figure of— 0.524 where the lands and heritages have a
+rateable value exceeding £100, 000, ... ...   0.511 where the lands and
+heritages have a rateable value exceeding £51,000 but not exceeding £100,000,
+or  0.498 in any other case, and
+
+,
+
+17.3.b.vi
+
+after the description of PF insert—
+
+X is— 1.125 where at revaluation on 1 April 2023 the lands and heritages have
+a rateable value of £20,000 or less, 1.250 where at revaluation on 1 April
+2023 the lands and heritages have a rateable value between £20,001 and
+£100,000, and 1.375 where at revaluation on 1 April 2023 the lands and
+heritages have a rateable value of more than £100, 000, or
+
+.
+
+17.4
+
+For paragraph (6) substitute—
+
+17.4.6
+
+In this regulation, “ the 2023 Regulations ” means the Non-Domestic Rates
+(Transitional Relief) (Scotland) Regulations 2023 .
+
+.
+
+      TOM ARTHUR   Authorised to sign by the Scottish Ministers     St
+Andrew’s House,   Edinburgh       7th February 2023
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations make provision as to the amount payable in certain
+circumstances as non-domestic rates in respect of non-domestic properties in
+Scotland. They apply to the financial year 2023-24. The Regulations cease to
+apply where a non-domestic property is shown in a merged, split or reorganised
+entry in the valuation roll which takes effect during the financial year
+2023-24.
+
+  Part 1 makes provision as to citation, commencement and interpretation.
+
+  Part 2 deals with amounts payable in respect of lands and heritages which
+are shown in the valuation roll as at 31 March 2023 and 1 April 2023. For
+every day of the relevant year, the notional rates liability for a non-
+domestic property (that is, the gross amount ordinarily payable as rates
+before any reliefs are applied) must be compared against that property’s
+transitional limit. If the notional liability, calculated in accordance with
+regulation 9, is more than the transitional limit, the amount payable will be
+equal to the transitional limit. This is provided for by regulation 7. The
+transitional limit is calculated by multiplying the lands and heritages’ base
+liability, calculated under regulation 10, by whichever is the appropriate
+factor as provided for by regulation 9.
+
+  Part 3 deals with reductions, remissions and exemptions. Regulation 11
+provides for reductions under other enactments to apply in cases where the
+amount of rates payable is determined under regulation 7 of these Regulations
+in the same way as they apply in cases where these Regulations do not have
+effect.
+
+  Regulation 12 provides for calculation of rates liability in respect of
+lands and heritages which are partially unoccupied, and to which regulation 7
+applies, where there is an apportionment between the rateable value of the
+parts of the lands and heritages which are occupied, and those which are
+unoccupied. In determining liability, the rateable value is taken to be the
+figure attributed only to the part of the property which is occupied.
+
+  In terms of regulation 13, nothing in the Regulations requires the payment
+of rates on property on a day on which it is entirely exempt from rates under
+any other enactment, or prejudices the power of a rating authority to grant
+discretionary reductions or remissions.
+
+  Part 4 (regulation 14) provides for a cap on increase in rates liability on
+certain lands and heritages in respect of which there is entitlement to small
+business bonus scheme relief under regulation 3 of the Non-Domestic Rates
+(Levying and Miscellaneous Amendment) (Scotland) Regulations 2022 or rural
+property relief under schedule 2 of the Local Government and Rating Act 1997,
+as at 31 March 2023. In relation to rural property relief, the cap applies
+only where entitlement to the relief is lost on 1 April 2023 as a result of an
+increase in rateable value taking it above whichever limit as set down by
+article 3(1) of the Non-Domestic Rating (Rural Areas and Rateable Value
+Limits) (Scotland) Order 2005 applies (in relation to mandatory relief) or
+article 3(2), in the case of discretionary relief. The cap can be relied upon
+as an alternative to reliance on regulation 7, where reliance on this Part
+provides a more favourable result in relation to entitlement to relief than
+application of the transitional limit calculated in accordance with regulation
+9.
+
+  Part 5 (regulation 15) provides for relief for lands and heritages
+consisting of certain types of parks or parts of parks which become rateable
+on 1 April 2023 as a result of the taking effect of amendments to section 19
+of the Local Government (Financial Provisions) (Scotland) Act 1963. The relief
+granted is 67% relief on the rateable value of the lands and heritages as it
+applied when the park was added to the valuation roll at revaluation on 1
+April 2023. Where the entry in a valuation roll is split or reorganised on or
+after 1 April 2023, a 67% reduction is made on the gross rates liability on
+each part of the lands and heritages which is the subject of an entry in the
+valuation roll.
+
+  Part 6 deals with general matters. Regulation 16 provides the process for
+making an application for relief. An application is required for relief under
+regulations 14 and 15.
+
+  Regulation 17 makes amendments to regulation 10 of the Non-Domestic Rates
+(Relief for New and Improved Properties) (Scotland) Regulations 2022, to
+replace references to the Non-Domestic Rates (Transitional Relief)(Scotland)
+Regulations 2017 ( S.S.I. 2017/85 ) with references to these Regulations.
+

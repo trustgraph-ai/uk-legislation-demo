@@ -1,0 +1,1002 @@
+Title: The Building Safety (Leaseholder Protections) (England) Regulations 2022
+Date: 2024-05-20
+Description: Sections 116 to 125 of, and Schedule 8 to, the Building Safety Act 2022 (c. 30) (“the Act”) make provision in relation to remediation of certain defects in buildings over 11 metres in height (or of at least 5 storeys). In particular, those provisions include protections from liability for leaseholders in specific circumstances.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/711
+
+## The Building Safety (Leaseholder Protections) (England) Regulations 2022
+
+    Building And Buildings, England       Landlord And Tenant, England
+
+  Made   28th June 2022
+
+  Laid before Parliament   29th June 2022
+
+  Coming into force   20th July 2022
+
+      The Secretary of State makes the following Regulations in exercise of
+the powers conferred by sections 117(3)(c), 121(12), 124(6) and 132(1) of, and
+paragraphs 3(4)(b) and (6)(c), 6(6) and (7), 10(4), 14(1) and (2) and 16 of
+Schedule 8 to, the Building Safety Act 2022 .
+
+### Citation, commencement, extent and application, and interpretation
+
+1
+
+1.1
+
+These Regulations may be cited as the Building Safety (Leaseholder
+Protections) (England) Regulations 2022 and come into force on 20th July 2022.
+
+1.2
+
+These Regulations extend to England and Wales and apply in England only.
+
+1.3
+
+In these Regulations—
+
+“ the Act ” means the Building Safety Act 2022;   “ current landlord ” means a
+person who is the landlord under a lease of premises in a relevant building;
+“ landlord group ” has the meaning given in paragraph 3(4) of Schedule 8 to
+the Act;   “ leaseholder ” means a tenant under a lease of a dwelling in a
+building;   “ named manager ” means, in relation to a building, a person who
+is named in a lease as being the party with managing and repairing obligations
+in relation to the building or part of the building and who is a separate
+legal person from the freeholder of the building and the landlord of the
+building or part of the building;   “ remediation service charge ” means a
+service charge  which includes a charge in respect of a relevant measure
+relating to any relevant defect ;   “ RMC ” means a body corporate which is
+party to a lease of a building where—  the body corporate is limited by
+guarantee and the members of that body are tenants under leases of dwellings
+in the building (“leaseholders”), or the majority of the shares of the body
+corporate are held by leaseholders; and “ RTM company ” has the same meaning
+as in the Commonhold and Leasehold Reform Act 2002 .
+
+### Buildings which are not relevant buildings: leaseholder owned buildings
+
+2
+
+For the purposes of section 117(3)(c) of the Act the freehold estate in the
+building or part of the building is leaseholder owned where—
+
+2.a
+
+the freehold estate is solely owned by tenants in the building, whether
+through a corporate structure or otherwise; and
+
+2.b
+
+paragraphs (a), (b) and (d) of section 117(3) of the Act do not apply in
+relation to the building.
+
+### Modification of section 121(2) to (5) of the Act for certain associated persons
+
+3
+
+3.1
+
+In the definition of “the landlord group” in paragraph 3(4)(a) of Schedule 8
+to the Act, the reference to a person associated with the relevant landlord is
+modified in accordance with paragraph (2).
+
+3.2
+
+For the purposes of paragraph 3 of Schedule 8 to the Act, a person is not to
+be considered associated with the relevant landlord where they would only be
+associated by virtue of section   121(4) or (5)(a)   of the Act.
+
+### Application of section 124 of the Act (remediation contribution orders) to other buildings
+
+4
+
+4.1
+
+Section 124 of the Act applies in relation to a building that would, but for
+section 117(3) of the Act, be a relevant building , with the modifications set
+out in paragraphs (2) and (3).
+
+4.2
+
+The following may not be specified as a body corporate or partnership for the
+purposes of section 124(3) —
+
+4.2.a
+
+a landlord under a lease of the relevant building or any part of it where that
+landlord is a company owned in part or in full by a majority of residential
+leaseholders of the building;
+
+4.2.b
+
+a person who was such a landlord at the qualifying time; or
+
+4.2.c
+
+a commonhold association, within the meaning of section 34 of the Commonhold
+and Leasehold Reform Act 2002.
+
+4.3
+
+Section 124(5) applies as if, in the definition of “interested person”, after
+sub-paragraph (d) there were inserted—
+
+4.3.da
+
+a special measures manager, within the meaning of paragraph 4(2) of Schedule
+7;
+
+.
+
+### Determination of net worth of landlord group
+
+5
+
+5.1
+
+For the purposes of paragraph 3 of Schedule 8 to the Act, the net worth of the
+landlord group at the qualifying time is determined in accordance with this
+regulation.
+
+5.2
+
+Where the relevant landlord  is a private or public limited company  the net
+worth is calculated according to the following formula—
+
+Net Worth = Total Assets – Total Liabilities – Intangible Assets
+
+5.3
+
+In determining net worth of a landlord group  in accordance with paragraph
+(2)—
+
+5.3.a
+
+the “total assets”, “total liabilities” and “intangible assets” of the
+relevant landlord and landlord group are to be determined from the most recent
+audited or filed accounts for that group audited or filed after 14 February
+2017 but before 14 February 2022;
+
+5.3.b
+
+subject to paragraph (3)(c) below, a copy of the accounts as set out in
+paragraph (3)(a) above must be provided to the leaseholder under regulation
+6(5)(b);
+
+5.3.c
+
+where audited accounts are not available, the landlord may produce as evidence
+for the landlord’s certificate according to regulation 6 the accounts which
+have most recently been filed at the relevant companies’ registry for the
+country in which the company is registered;
+
+5.3.d
+
+where the accounts referred to in this paragraph are not prepared in pounds
+sterling, the value of any asset or liabilities must be converted using the
+Bank of England daily spot rate for the respective currency on 14 February
+2022;
+
+5.4
+
+Where the relevant landlord itself comprises more than one person—
+
+5.4.i
+
+Those persons jointly shall be the relevant landlord;
+
+5.4.ii
+
+The total net worth of the relevant landlord should be taken as the sum of the
+net worth of each person and their associates; and
+
+5.4.iii
+
+The number of relevant buildings  is the total number of relevant buildings
+owned either leasehold or freehold by each person and their associates.
+
+5.5
+
+Where the relevant landlord is an individual, the net worth is calculated
+according to the following formula—
+
+Net worth = Assets - Liabilities
+
+5.6
+
+In determining the net worth of a landlord group in accordance with paragraph
+(5), the “assets” and “liabilities” of a landlord includes those of the
+landlord’s spouse or civil partner at the qualifying time .
+
+### Landlord’s certificate
+
+6
+
+6.1
+
+A current landlord must provide a certificate (a “landlord’s certificate”) to
+a leaseholder in each of the following circumstances—
+
+6.1.a
+
+when the current landlord makes a demand to a leaseholder for the payment of a
+remediation service charge;
+
+6.1.b
+
+within four weeks of receipt of notification from the leaseholder that the
+leasehold interest is to be sold;
+
+6.1.c
+
+within four weeks of becoming aware (either themselves or by notification from
+another person) of a relevant defect not covered by a previous landlord’s
+certificate; or
+
+6.1.d
+
+within four weeks of being requested to do so by the leaseholder.
+
+6.1.e
+
+within four weeks of becoming aware of a new leaseholder deed of certificate
+(as defined in regulation 6 of the Building Safety (Leaseholder Protections)
+(Information etc.) (England) Regulations 2022) which is in relation to a lease
+of a dwelling in the building of which the current landlord is the landlord
+and which contained information that was not included in a previous landlord’s
+certificate.
+
+6.2
+
+The landlord’s certificate under paragraph (1) must—
+
+6.2.a
+
+be in the form set out in Schedule 1,
+
+6.2.b
+
+confirm whether or not the relevant landlord (as defined in paragraph 3(1) to
+Schedule 8 of the Act) met the contribution condition under paragraph 3 of
+that Schedule,
+
+6.2.c
+
+confirm whether or not the relevant landlord (as defined in paragraph 2(4) to
+Schedule 8 of the Act), met the condition in paragraph 2(2) of that Schedule 8
+and was responsible for  the relevant defect or was associated with a person
+responsible for a relevant defect,
+
+6.2.d
+
+contain the information referred to in paragraph (3),
+
+6.2.e
+
+be accompanied by the evidence set out in paragraph (4),
+
+6.2.f
+
+be signed by the person who is the current landlord on the date the
+certificate is completed.
+
+6.2A
+
+But the requirement in paragraph (2) that the landlord’s certificate contain
+the information referred to in paragraph (3) and be accompanied by the
+evidence set out in paragraph (4) is modified as set out in paragraphs (2B) to
+(2G).
+
+6.2B
+
+Where the landlord’s certificate confirms that—
+
+6.2B.a
+
+either the relevant landlord (as defined in paragraph 3(1) of Schedule 8 to
+the Act) met the contribution condition under paragraph 3 of that Schedule or
+the leaseholder’s lease is not a qualifying lease as defined in section 119 of
+the Act, and
+
+6.2B.b
+
+the relevant landlord (as defined in paragraph 2(4) of Schedule 8 to the Act)—
+
+6.2B.b.i
+
+met the condition in paragraph 2(2) of that Schedule, or
+
+6.2B.b.ii
+
+did not believe at the time of completing the certificate that there was a
+relevant defect,
+
+it does not have to contain the information referred to in paragraph (3) nor
+be accompanied by the evidence set out in paragraph (4).
+
+6.2C
+
+Where the landlord’s certificate confirms that—
+
+6.2C.a
+
+the relevant landlord (as defined in paragraph 2(4) of Schedule 8 to the Act)—
+
+6.2C.a.i
+
+met the condition in paragraph 2(2) of that Schedule, or
+
+6.2C.a.ii
+
+did not believe at the time of completing the certificate that there was a
+relevant defect, and
+
+6.2C.b
+
+the relevant landlord (as defined in paragraph 3(1) of Schedule 8 to the Act)
+did not meet the contribution condition under paragraph 3 of that Schedule,
+
+it does not have to contain the information referred to in paragraphs (3)(a)
+and (b) nor be accompanied by the evidence set out in paragraph (4)(d).
+
+6.2D
+
+Where the landlord’s certificate confirms that—
+
+6.2D.a
+
+the relevant landlord (as defined in paragraph 2(4) of Schedule 8 to the Act)
+did not meet the condition in paragraph 2(2) of that Schedule, and
+
+6.2D.b
+
+either the relevant landlord (as defined in paragraph 3(1) of Schedule 8 to
+the Act) met the contribution condition under paragraph 3 of that Schedule, or
+the leaseholder’s lease is not a qualifying lease as defined in section 119 of
+the Act,
+
+it does not have to contain the information referred to in paragraphs (3)(a)
+and (c) nor be accompanied by the evidence set out in paragraphs (4)(a), (b),
+(e) and (f).
+
+6.2E
+
+Where the landlord’s certificate confirms that—
+
+6.2E.a
+
+the relevant landlord (as defined in paragraph 2(4) of Schedule 8 to the Act)
+did not meet the condition in paragraph 2(2) of that Schedule, and
+
+6.2E.b
+
+the relevant landlord (as defined in paragraph 3(1) of Schedule 8 to the Act)
+is exempt from the contribution condition under paragraph 3(6) of that
+Schedule,
+
+it does not have to contain the information referred to in paragraph (3)(c)
+nor be accompanied by the evidence set out in paragraphs (4)(a) and (b).
+
+6.2F
+
+Where the landlord’s certificate confirms that—
+
+6.2F.a
+
+the relevant landlord (as defined in paragraph 2(4) of Schedule 8 to the Act)—
+
+6.2F.a.i
+
+met the condition in paragraph 2(2) of that Schedule, or
+
+6.2F.a.ii
+
+did not believe at the time of completing the certificate that there was a
+relevant defect, and
+
+6.2F.b
+
+the relevant landlord (as defined in paragraph 3(1) of Schedule 8 to the Act)
+is exempt from the contribution condition under paragraph 3(6) of that
+Schedule,
+
+it does not have to contain the information referred to in paragraph (3) nor
+be accompanied by the evidence set out in paragraphs (4)(a), (b) and (d).
+
+6.2G
+
+Where the landlord’s certificate confirms that—
+
+6.2G.a
+
+the relevant landlord (as defined in paragraph 2(4) of Schedule 8 to the Act)
+did not meet the condition in paragraph 2(2) of that Schedule,
+
+6.2G.b
+
+the relevant landlord (as defined in paragraph 3(1) of Schedule 8 to the Act)
+did not meet the contribution condition under paragraph 3 of that Schedule,
+and
+
+6.2G.c
+
+the value of the qualifying lease on 14th February 2022 was below £325,000 in
+Greater London or £175,000 elsewhere in England,
+
+it does not have to be accompanied by the evidence set out in paragraphs
+(4)(e) and (f).
+
+6.3
+
+The information is—
+
+6.3.a
+
+the percentage of the storeys in the relevant building for which each relevant
+landlord was the landlord at the qualifying time;
+
+6.3.b
+
+in relation to the condition in paragraph 2 of Schedule 8 to the Act, where a
+relevant landlord was part of a landlord group at the qualifying time, details
+of the corporate structure of the relevant landlord and any person associated
+with the relevant landlord and including—
+
+6.3.b.i
+
+the names of all the directors of each company in that group and directors of
+each corporate trustee, including in each case nominee and shadow directors or
+any person occupying the position of director by whatever name called;
+
+6.3.b.ii
+
+the name of any other person or persons who has the right to exercise or does
+exercise significant control or influence directly or indirectly over the
+group;
+
+6.3.b.iii
+
+details of the type of trust if any, the law to which it is subject and where
+it is tax resident; and
+
+6.3.b.iv
+
+in relation to trusts with an interest in the shares of any company comprised
+in the group, details of the economic settlor, the named beneficiaries or
+class of beneficiaries and protector and any other person who has the right to
+exercise or does exercise significant influence or control directly or
+indirectly over the trust;
+
+6.3.c
+
+in relation to the condition in paragraph 3 of Schedule 8 to the Act, where
+the relevant landlord (as defined in paragraph 3(1) of Schedule 8 to the Act)
+was part of a landlord group at the qualifying time—
+
+6.3.c.i
+
+details of the corporate structure of the group, setting out—
+
+6.3.c.i.aa
+
+the companies which make up the landlord group,
+
+6.3.c.i.bb
+
+the beneficial owner of each company in the group, and
+
+6.3.c.i.cc
+
+if the beneficial owner of the group or any company comprised in the group is,
+or includes, a trust foundation or arrangement of a similar character, details
+of the trust and the trustees;
+
+6.3.c.ii
+
+the name of any other person who has the right to exercise or does exercise
+significant control or influence directly or indirectly over the group;
+
+6.3.c.iii
+
+details of the type of trust if any, the law to which it is subject and where
+it is tax resident; and
+
+6.3.c.iv
+
+in relation to trusts with an interest in the shares of any company comprised
+in the group—
+
+6.3.c.iv.aa
+
+details of the economic settlor;
+
+6.3.c.iv.bb
+
+the named beneficiaries or class of beneficiaries and protector, and
+
+6.3.c.iv.cc
+
+any other person who has the right to exercise or does exercise significant
+influence or control directly or indirectly over the trust.
+
+6.4
+
+The landlord certificate must be accompanied by—
+
+6.4.a
+
+the set of company accounts for the relevant landlord (in accordance with
+regulation 5) and, where the relevant landlord is part of a landlord group,
+for each company in the landlord group;
+
+6.4.b
+
+a statement from a chartered accountant or finance director of the landlord
+company—
+
+6.4.b.i
+
+setting out the net worth of the relevant landlord and, where the relevant
+landlord is part of a landlord group, of each company in the landlord group;
+
+6.4.b.ii
+
+confirming the net worth is calculated in accordance with regulation 5 and
+paragraph 3 of Schedule 8 to the Act (the “net worth calculation”);
+
+6.4.b.iii
+
+confirming the net worth calculations accurately represents the net worth of
+the relevant landlord (and, where the relevant landlord is part of a landlord
+group, of each of the companies in the landlord group);
+
+6.4.c
+
+documents or receipts that demonstrate that the relevant building was
+constructed or converted before the relevant period  and details of any
+relevant works  which were carried out in the relevant period;
+
+6.4.d
+
+evidence (where applicable) that—
+
+6.4.d.i
+
+the person who undertook works relating to the relevant defect or commissioned
+those works was not the relevant landlord and was not associated with the
+relevant landlord (as defined in paragraph 2(4) of Schedule 8 to the Act)
+together with confirmation of the identity of the person who did undertake
+such works, and
+
+6.4.d.ii
+
+where those works were commissioned or undertaken by a joint venture, proof
+the relevant landlord was not party to that joint venture, together with
+details of the persons who were parties to the joint venture;
+
+6.4.e
+
+details of any relevant defects and   any relevant measures (as defined in
+paragraph 1 of Schedule 8 to the Act) taken in relation to those relevant
+defects since 28th June 2017 ; and
+
+6.4.f
+
+details of any costs paid or due to be paid in relation to   any relevant
+measures taken in relation to   any relevant defects in the relevant building
+since 28 June 2017, including—
+
+6.4.f.i
+
+the total sum of any such costs;
+
+6.4.f.ii
+
+details of the number of flats between which the costs should be divided; and
+
+6.4.f.iii
+
+the leaseholder’s maximum remaining liability.
+
+6.5
+
+In paragraph (4)(f)(iii), the “leaseholder’s maximum remaining liability” is
+the maximum capped amount payable by the leaseholder in respect of a relevant
+measure  deducting any payments made by the leaseholder in respect of any
+relevant measure since 28 June 2017.
+
+6.6
+
+Where the current landlord is unable to provide any of the information
+required for the landlord’s certificate in paragraphs (3) and (4) the current
+landlord must apply to other persons who are relevant landlords requesting the
+information in accordance with regulation 7 which those persons must provide
+within 3 weeks of having been asked.
+
+6.7
+
+  If a current landlord   does not provide a certificate which complies with
+this regulation in the form outlined in   Schedule 1   to the leaseholder, the
+condition in paragraph 2(2) of Schedule 8 to the Act is to be treated as met
+in accordance with paragraph 14(2) of Schedule 8 to the Act.
+
+6.8
+
+In this regulation, “relevant landlord”—
+
+6.8.a
+
+in paragraphs (2)(b)   , (2B)(a), (2C)(b), (2D)(b), (2E)(b), (2F)(b), (2G)(b),
+(3)(c)  and (4)(a) and (b), has the meaning given in paragraph 3(1) of
+Schedule 8 to the Act;
+
+6.8.b
+
+otherwise, has the meaning given in paragraph 2(4) of Schedule 8 to the Act.
+
+6.9
+
+Where a current landlord has provided a landlord’s certificate to a
+leaseholder they must provide a copy of that certificate to any other
+landlords of premises in the building, the RMC, RTM company or named manager
+within one week of providing the certificate to the leaseholder.
+
+6.10
+
+Where a current landlord fails to comply with the requirement in paragraph (9)
+the costs of a relevant measure relating to a relevant defect in the building
+to which the certificate relates are prescribed costs under paragraph 16(4) of
+Schedule 8 to the Act and so are not to be regarded as relevant costs to be
+taken into account in determining the amount of a service charge payable under
+a relevant lease of premises in that building and must not be met from a
+relevant reserve fund as defined in paragraph 10 of Schedule 8 to the Act.
+
+### Landlord’s certificate to other landlords in the building
+
+7
+
+A relevant landlord within the meaning of paragraph 2(4) of Schedule 8 to the
+Act must, within 3 weeks of a request from the current landlord, provide the
+current landlord with the following information—
+
+7.a
+
+the percentage of the storeys in the relevant building for which they were the
+relevant landlord at the qualifying time;
+
+7.b
+
+where the relevant landlord was part of a landlord group at the qualifying
+time, details of the corporate structure of that landlord’s group  and
+including—
+
+7.b.i
+
+the names of all the directors of each company in that group and directors of
+each corporate trustee, including in each case nominee and shadow directors or
+any person occupying the position of director by whatever name called;
+
+7.b.ii
+
+the name of any other person or persons who has the right to exercise or does
+exercise significant control or influence directly or indirectly over the
+group;
+
+7.b.iii
+
+details of the type of trust if any, the law to which it is subject and where
+it is tax resident; and
+
+7.b.iv
+
+in relation to trusts with an interest in the shares of any company comprised
+in the group, details of the economic settlor, the named beneficiaries or
+class of beneficiaries and protector and any other person who has the right to
+exercise or does exercise significant influence or control directly or
+indirectly over the trust.
+
+### Disapplication of paragraph 3 of Schedule 8 to the Act
+
+8
+
+The following persons are prescribed for the purposes of paragraph 3(6)(c) of
+Schedule 8 to the Act—
+
+8.a
+
+government departments and any arm’s length bodies;
+
+8.b
+
+the Crown;
+
+8.c
+
+NHS Foundation trusts.
+
+### Determination of the value of a qualifying lease
+
+9
+
+9.1
+
+Subject to paragraph (2), for the purposes of paragraph 4 and/or paragraph
+6(6) of Schedule 8 to the Act the value of a qualifying lease is—
+
+9.1.a
+
+where the leasehold interest of the dwelling (“ D ”) to which the qualifying
+lease relates was most recently disposed of after 31 December 2020, the price
+paid at completion (in pounds sterling to the nearest pound) for that
+leasehold interest;
+
+9.1.b
+
+where the most recent disposal of D took place on the open market on or before
+31 December 2020, to be determined by applying the following formula—
+
+V y  × M y
+
+where—
+
+      V y  is the price paid at completion (in pounds sterling to the nearest
+pound) for D;           M y  is the multiplier for the year in which that
+disposal took place, as set out in the table in Schedule 2.
+
+9.2
+
+Where it is not possible to identify the price paid on completion of the most
+recent disposal of D then the value of the qualifying leasehold interest is to
+be treated as equal to the value of the substitute qualifying lease.
+
+9.3
+
+In this regulation—
+
+9.3.a
+
+“ substitute qualifying lease ” means a qualifying lease of the most recently
+disposed of dwelling in the same building, ignoring any dwellings which had an
+internal floorspace which is more than 15% larger or 15% smaller than D; and
+
+9.3.b
+
+any reference to a disposal means a disposal on the open market.
+
+### Application of service charge restrictions to non-residential leases
+
+10
+
+10.1
+
+The reference in paragraph 2 of Schedule 8 to the Act which states that no
+service charge is payable under a  ... lease in a relevant building in respect
+of a relevant measure relating to a relevant defect is modified in accordance
+with   paragraph (2) .
+
+10.2
+
+For the purposes of paragraph 2 of Schedule 8 to the Act—
+
+10.2.a
+
+no service charge is payable under a non-residential lease in a relevant
+building where the conditions set out in paragraph 2(2) of the Act are met;
+and
+
+10.2.b
+
+the reference in paragraph 10(2) of Schedule 8 to the Act applies to non-
+residential leases.
+
+### Application to First-tier Tribunal
+
+11
+
+11.1
+
+This regulation applies where a leaseholder or relevant landlord (the
+“applicant”) wishes to apply to the First-tier Tribunal for an order under
+paragraph 16(5) of Schedule 8 to the Act.
+
+11.2
+
+The applicant can make an application under paragraph (1) above where—
+
+11.2.a
+
+the applicant believes that a relevant landlord has made a false claim in the
+landlord’s certificate provided under regulation 6, including but not limited
+to—
+
+11.2.a.i
+
+stating that the relevant landlord is not the developer  of the relevant
+building or is not associated with the developer; or
+
+11.2.a.ii
+
+stating the relevant landlord does not meet the contribution condition;
+
+11.2.b
+
+the relevant landlord or current landlord has not given the leaseholder
+sufficient time  to provide information to prove they have a qualifying lease
+.
+
+11.3
+
+In this regulation, “ relevant landlord ” has the meaning given in paragraph
+16(8) of Schedule 8 to the Act.
+
+### Persons entitled to apply to the High Court for an information order in connection with a building liability order
+
+12
+
+For the purposes of section 132 of the Act, any person making, or intending to
+make, an application for a building liability order under section 130 of the
+Act may apply to the High Court for an information order.
+
+### Review
+
+13
+
+13.1
+
+The Secretary of State must from time to time—
+
+13.1.a
+
+carry out a review of the regulatory provision contained in these Regulations,
+and
+
+13.1.b
+
+publish a report settling out the conclusions of the review.
+
+13.2
+
+The first report must be published before the end of the period of five years
+beginning with the date on which these Regulations come into force.
+
+13.3
+
+Subsequent reports must be published at intervals not exceeding five years.
+
+13.4
+
+Section 30(4) of the Small Business, Enterprise and Employment Act 2015
+requires that a report published under this regulation must, in particular—
+
+13.4.a
+
+set out the objectives intended to be achieved by the regulatory provision
+referred to in paragraph (1)(a),
+
+13.4.b
+
+assess the extent to which those objectives are achieved,
+
+13.4.c
+
+assess whether those objectives remain appropriate, and
+
+13.4.d
+
+if those objectives remain appropriate, assess the extent to which they could
+be achieved in another way which involved less onerous regulatory provision.
+
+    Signed by the authority of the Secretary of State for Levelling Up,
+Housing and Communities     Greenhalgh   Minister for Building Safety and Fire
+Department for Levelling Up, Housing and Communities   28th June 2022
+
+Regulation 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Uprating values
+
+Regulation 9
+
+      Year M y   1970 or earlier 72.14 1971 64.15 1972 47.16 1973 34.53 1974
+32.22 1975 30.58 1976 28.29 1977 26.38 1978 22.65 1979 17.45 1980 14.39 1981
+13.61 1982 13.34 1983 11.95 1984 10.86 1985 9.97 1986 8.70 1987 7.38 1988 5.71
+1989 4.80 1990 4.89 1991 5.00 1992 5.25 1993 5.36 1994 5.22 1995 5.21 1996
+5.11 1997 4.63 1998 4.17 1999 3.72 2000 3.10 2001 2.72 2002 2.25 2003 1.92
+2004 1.69 2005 1.61 2006 1.51 2007 1.37 2008 1.43 2009 1.59 2010 1.51 2011
+1.52 2012 1.49 2013 1.43 2014 1.28 2015 1.19 2016 1.10 2017 1.04 2018 1.04
+2019 1.05 2020 1.04
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+Sections 116 to 125 of, and Schedule 8 to, the Building Safety Act  2022 (c.
+30)  (“ the Act ”) make provision in relation to remediation of certain
+defects in buildings over 11 metres in height (or of at least 5 storeys). In
+particular, those provisions include protections from liability for
+leaseholders in specific circumstances.
+
+These Regulations support those leaseholder protection provisions.
+
+Regulation 2 defines “leaseholder owned” for the purpose of the definition of
+“relevant building” in section 117 of the Act, as leaseholder owned buildings
+are not ‘relevant buildings’ for the purposes of these provisions.
+
+Regulation 3 modifies the definition of ‘associated’ in section 121 of the Act
+in relation that term as used in paragraph 3 of Schedule 8 to the Act, to
+limit the circumstances in which companies are considered to be associated
+when calculating the value of the company group.
+
+Regulation 4 expands the list of people who can apply for a remediation
+contribution order under section 124 of the Act to include leaseholder owned
+buildings, but does not permit a remediation contribution order to be sought
+against the landlord of a leaseholder owned building or a commonhold
+association.
+
+Regulation 5 sets out how a landlord or a landlord’s group should prove their
+net worth and, therefore, whether or not they fulfil the contribution
+condition in paragraph 3 of Schedule 8 to the Act. The regulation contains
+information on what the landlord needs to put into their certificate to
+demonstrate their worth to the leaseholder, whether the landlord is a company
+or an individual.
+
+Regulation 6 sets out the further information (including details of the
+landlord’s net worth) which should be included in a certificate provided to
+the tenants known as the Landlord’s certificate. This certificate will also
+have details of the group structure of all the landlords at the relevant
+building, dates of when the building was built, converted or had works carried
+out on it, the cost of any remediation works, how much the tenant has already
+contributed to those works, and the maximum amount for which the tenant might
+still be liable.
+
+Regulation 7 sets out the information which other landlords in the building
+must provide to the current landlord in order for the current landlord to be
+able to provide the Landlord’s certificate to the tenant.
+
+Regulation 8 stipulates that government departments and any arms’ length
+bodies, the Crown, and NHS foundation trusts will not have to provide details
+of their net worth and do not fall within in the scope of paragraph 3 of
+Schedule 8 to the Act.
+
+Regulation 9 sets out how the value of a leasehold interest is determined, as
+if a tenant has a lease under a certain value (see paragraph 4 of Schedule 8
+to the Act) they will not pay any service charge and if the lease is over a
+certain value (paragraph 6 of Schedule 8 to the Act) they will pay more than
+the permitted maximum. It also sets out how to ascertain the value when the
+leasehold interest has not been sold on the open market recently.
+
+Regulation 10 states that where the landlord is the developer and therefore,
+under paragraph 2 of Schedule 8 to the Act, has to pay for remediation of all
+of the building with no payments by any leaseholders whether qualifying or
+not, the landlord cannot take the monies to pay for the remediation out of any
+commercial service charge reserve fund.
+
+Regulation 11 provides that tenants and other landlords in a building can
+apply to the First-tier Tribunal to appeal where they believe that any
+landlord in the building has not provided all the information required under
+these regulations.
+
+Regulation 12 allows anyone applying to the High Court for a building
+liability order (see section 130 of the Act) to also be able to apply for
+information on the corporate structure of person against whom they are
+applying for the order.
+
+Regulation 13 provides for a periodic review of regulatory provisions of these
+Regulations.
+
+An impact assessment is available with the explanatory memorandum for these
+Regulations at  www.legislation.gov.uk . A copy may be inspected at the
+Department for Levelling Up, Housing and Communities, 2 Marsham Street, London
+SW1P 4DF.
+

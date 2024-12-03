@@ -1,0 +1,414 @@
+Title: The Occupational Pension Schemes (Investment) (Employer-related Investments by Master Trusts) (Amendment) Regulations (Northern Ireland) 2022
+Date: 2024-05-20
+Description: These Regulations narrow the scope of investments that come within the definition of “employer-related investments” for large Master Trust schemes with 500 or more participating employers.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2022/210
+
+## The Occupational Pension Schemes (Investment) (Employer-related Investments by Master Trusts) (Amendment) Regulations (Northern Ireland) 2022
+
+    Pensions
+
+  Made   7th September 2022
+
+  Coming into operation   1st October 2022
+
+      The Department for Communities makes the following Regulations in
+exercise of the powers conferred by sections 109(1)(d) and (3) and 177(2) to
+(4) of the Pension Schemes (Northern Ireland) Act 1993  and Articles 40(1) and
+(2), 41(1) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995 ,
+and now vested in it .
+
+### Citation, commencement and interpretation
+
+1
+
+1.1
+
+These Regulations may be cited as the Occupational Pension Schemes
+(Investment) (Employer-related Investments by Master Trusts) (Amendment)
+Regulations (Northern Ireland) 2022 and shall come into operation on 1st
+October 2022.
+
+1.2
+
+The Interpretation Act (Northern Ireland) 1954  shall apply to these
+Regulations as it applies to an Act of the Assembly.
+
+### Amendment of the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations
+
+2
+
+In regulation 3A of the Occupational Pension Schemes (Requirement to obtain
+Audited Accounts and a Statement from the Auditor) Regulations (Northern
+Ireland) 1997  (information to be included in the accounts audited by the
+auditor)—
+
+2.a
+
+in paragraph (7) for “In paragraph (4),” substitute  “Subject to paragraph
+(8), in paragraph (4),” ;
+
+2.b
+
+after paragraph (7) add—
+
+2.b.8
+
+Where regulation 16A of the Occupational Pension Schemes (Investment)
+Regulations (Northern Ireland) 2005  (authorised Master Trust schemes) applies
+to a scheme that is a trust scheme, then for the purposes of the statement
+required by paragraph (4), any employer-related investments which do not meet
+the definition in regulation 16A(4) of those Regulations may be disregarded.
+
+.
+
+### Amendment of the Occupational Pension Schemes (Investment) Regulations
+
+3
+
+3.1
+
+The Occupational Pension Schemes (Investment) Regulations (Northern Ireland)
+2005 are amended in accordance with paragraphs (2) to (6).
+
+3.2
+
+In regulation 1(5) (interpretation) after “In these Regulations,” insert
+“save in relation to regulation 16A,” .
+
+3.3
+
+In regulation 12  (restrictions on employer-related investments)—
+
+3.3.a
+
+in paragraph (2) for “13 and 16” substitute  “13, 16, 16A and 16B” ;
+
+3.3.b
+
+in paragraph (2A) for “15A and 16” substitute  “15A, 16, 16A and 16B” ;
+
+3.3.c
+
+in paragraph (2B)—
+
+3.3.c.i
+
+for “regulation 16” substitute  “regulations 16 and 16A” ;
+
+3.3.c.ii
+
+for “15 and 15A” substitute  “15, 15A, 16A(9) and 16B” ;
+
+3.3.d
+
+in paragraph (3) for “None of the resources” substitute  “Subject to
+regulations 16A and 16B, none of the resources” .
+
+3.4
+
+In regulation 15A(1)  (deposits) after “employer-related loan” insert
+“mentioned in regulation 12(4) or 16A(5)” .
+
+3.5
+
+In regulation 16(5)  (multi-employer schemes) for “Where there is” substitute
+“Subject to regulations 16A and 16B, where there is” .
+
+3.6
+
+After regulation 16 insert—
+
+######### Authorised Master Trust schemes
+
+3.6.16A
+
+3.6.16A.1
+
+Subject to paragraphs (2) and (3), this regulation applies to a scheme which
+is—
+
+3.6.16A.1.a
+
+a Master Trust scheme to which Part 1 of the 2021 Act applies (and where that
+scheme provides money purchase benefits in conjunction with other benefits,
+references to that scheme are to the scheme only to the extent that it
+provides money purchase benefits);
+
+3.6.16A.1.b
+
+authorised in accordance with section 5(4)(a) of the 2021 Act (decision on
+application), and
+
+3.6.16A.1.c
+
+used by 500 or more employers.
+
+3.6.16A.2
+
+This regulation continues to apply to a scheme during any period of less than
+two years in which the number of employers using the scheme falls below 500.
+
+3.6.16A.3
+
+If a scheme to which this regulation applies ceases to be authorised in
+accordance with section 5(4)(a) of the 2021 Act, this regulation continues to
+apply to the scheme until the date which is two years after the date on which
+a decision to withdraw authorisation from the scheme becomes final in
+accordance with section 35 of the 2021 Act.
+
+3.6.16A.4
+
+For the purposes of determining whether the scheme complies with regulation
+12(2), “ employer-related investments ” means—
+
+3.6.16A.4.a
+
+shares or other securities issued by a relevant person;
+
+3.6.16A.4.b
+
+land which is occupied or used by, or subject to a lease in favour of, a
+relevant person;
+
+3.6.16A.4.c
+
+property (other than land) which is used for the purposes of any business
+carried on by a relevant person;
+
+3.6.16A.4.d
+
+loans to a relevant person;
+
+3.6.16A.4.e
+
+any guarantee of, or security given to secure, obligations of a relevant
+person, and for the purposes of Article 40 and these Regulations a guarantee
+or security given by the trustees or managers shall be regarded as an
+investment of resources of the scheme equal to the amount of the obligations
+guaranteed or secured;
+
+3.6.16A.4.f
+
+any loan arrangement entered into with any person whereby the trustees’ or
+managers’ right to or expectation of repayment depends on the actions or
+situation of a relevant person, unless it was not the trustees’ or managers’
+purpose in entering into the arrangement to provide financial assistance to
+the relevant person;
+
+3.6.16A.4.g
+
+the proportion attributable to the scheme’s resources (whether directly or
+through any intervening collective investment scheme) of any investments
+which—
+
+3.6.16A.4.g.i
+
+have been made by the operator of any collective investment scheme, and
+
+3.6.16A.4.g.ii
+
+would, if they had been made by the scheme, have met any of the descriptions
+set out in sub-paragraphs (a) to (f);
+
+3.6.16A.4.h
+
+where any of a scheme’s resources are invested in an insurance policy that
+meets the description set out in regulation 11(d), the proportion of the
+scheme’s resources invested in that policy which is the same proportion as B
+is of A where—
+
+      A represents all the assets of the insurer held in the fund, and
+B represents that part of A which would, if invested by the scheme, have met
+any of the descriptions set out in sub-paragraphs (a) to (f), and
+
+3.6.16A.4.i
+
+where any of a scheme’s resources are invested in an insurance policy that
+meets the description set out in regulation 11(e), any investments made by the
+insurer from the premiums or other consideration or monies described in
+regulation 11(e), which would have met any of the descriptions set out in sub-
+paragraphs (a) to (f) if they had been made by the scheme.
+
+3.6.16A.5
+
+For the purposes of determining whether the scheme complies with regulation
+12(2A) and for the purposes of regulation 12(2B), “ employer-related loan ”
+means—
+
+3.6.16A.5.a
+
+a loan to a relevant person (including one which falls within this description
+by virtue of Article 40(3));
+
+3.6.16A.5.b
+
+a security described in paragraph (4)(a) which is an instrument creating or
+acknowledging indebtedness, except any such security which is listed on a
+recognised stock exchange;
+
+3.6.16A.5.c
+
+an employer-related investment prescribed as such by regulation 11(b), which
+meets the description set out in paragraph (4)(e), and
+
+3.6.16A.5.d
+
+an employer-related investment prescribed as such by regulation 11(c), which
+meets the description set out in paragraph (4)(f).
+
+3.6.16A.6
+
+For the purposes of regulation 12(3), “ employer-related investment ” has the
+meaning set out in paragraph (4).
+
+3.6.16A.7
+
+In regulation 13(10), “ employer-related investments ” has the meaning set out
+in paragraph (4).
+
+3.6.16A.8
+
+Regulation 16(5)(a) applies with the omission of “and in any event must not
+exceed 20 per cent. of the current market value of the scheme”.
+
+3.6.16A.9
+
+If an investment falls within the definition of “employer-related investments”
+set out in paragraph (4) or the definition of “employer-related loan” set out
+in paragraph (5) on or after 1st October 2022, other than as a result of new
+investment by the scheme, the investment may be retained, or left
+undischarged, until whichever is the later of—
+
+3.6.16A.9.a
+
+the date falling two years after the date on which it first fell within the
+definition set out in paragraph (4) or (5), and
+
+3.6.16A.9.b
+
+where repayment cannot by virtue of contractual or other legal obligations be
+required, or where disinvestment cannot be effected before the date mentioned
+in sub-paragraph (a), the earliest date on which repayment can be enforced or
+disinvestment effected.
+
+3.6.16A.10
+
+Paragraph (9) does not apply in respect of any sum regarded as a loan under
+Article 40(3).
+
+3.6.16A.11
+
+For the purposes of this regulation—
+
+      “ the 2021 Act ” means the Pension Schemes Act (Northern Ireland) 2021 ;
+“ active member ” has the meaning set out in Article 121(1);           “
+employer ” means a person who employs or engages persons who are, or are
+entitled to become, members of the scheme, including at least one active
+member of the scheme;           “ money purchase benefits ” has the meaning
+set out in section 176(1)  of the Pension Schemes Act;           “ relevant
+person ” means a scheme funder, a scheme strategist or any person who is
+connected with, or an associate of, a scheme funder or a scheme strategist;
+“scheme funder” and “scheme strategist” have the meanings set out in section
+39 of the 2021 Act;           “ securities ” has the meaning set out in
+Article 40(2A)  (restriction on employer-related investments) and must be read
+in accordance with Article 40(2B).
+
+######### Schemes to which regulation 16A ceases to apply
+
+3.6.16B
+
+To the extent that—
+
+3.6.16B.a
+
+an investment becomes an employer-related loan or an employer-related
+investment as a result of regulation 16A ceasing to apply to a scheme, and
+
+3.6.16B.b
+
+repayment or disinvestment cannot be effected immediately by virtue of
+contractual or other legal obligations,
+
+the investment may be retained until the earliest date on which, having regard
+to contractual and other legal obligations, repayment or disinvestment can be
+effected.
+
+.
+
+### Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations
+
+4
+
+In paragraph 33 of Schedule 3 to the Occupational and Personal Pension Schemes
+(Disclosure of Information) Regulations (Northern Ireland) 2014  (information
+to be given on request)—
+
+4.a
+
+in sub-paragraph (2) for “In sub-paragraph (1)” substitute  “Subject to sub-
+paragraph (3), in sub-paragraph (1)” ;
+
+4.b
+
+after sub-paragraph (2) add—
+
+4.b.3
+
+Where regulation 16A of the Occupational Pension Schemes (Investment)
+Regulations (Northern Ireland) 2005 (authorised Master Trust schemes) applies
+to a scheme that is a trust scheme, then for the purposes of the statement
+required by sub-paragraph (1), any employer-related investments which do not
+meet the definition in regulation 16A(4) of those Regulations may be
+disregarded.
+
+.
+
+      Sealed with the Official Seal of the Department for Communities on 7th
+September 2022       (L.S.)   Anne McCleary   A senior officer of the
+Department for Communities
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations narrow the scope of investments that come within the
+definition of “employer-related investments” for large Master Trust schemes
+with 500 or more participating employers.
+
+  Regulation 2 amends the Occupational Pension Schemes (Requirement to obtain
+Audited Accounts and a Statement from the Auditor) Regulations (Northern
+Ireland) 1997 so that the accounting requirements for large Master Trust
+schemes reflect the updated provisions on employer-related investments that
+apply in respect of those schemes.
+
+  Regulation 3 amends the Occupational Pension Schemes (Investment)
+Regulations (Northern Ireland) 2005 so that the restrictions on employer-
+related investments by large Master Trusts only apply to investments relating
+to a scheme funder, a scheme strategist and persons connected or associated
+with a scheme funder or a scheme strategist.
+
+  Regulation 4 amends the Occupational and Personal Pension Schemes
+(Disclosure of Information) Regulations (Northern Ireland) 2014 so that the
+information that must be disclosed on request to members of large Master Trust
+schemes reflects the updated provisions on employer-related investments that
+apply in respect of those schemes.
+
+  As these Regulations, in so far as they are made under the Pensions
+(Northern Ireland) Order 1995, make in relation to Northern Ireland only
+provision corresponding to provision contained in regulations made by the
+Secretary of State for Work and Pensions in relation to Great Britain, the
+requirement to consult under Article 117(1) of that Order does not apply by
+virtue of paragraph (2)(e) of that Article.
+
+  An assessment of the cost to business of these Regulations is detailed in a
+Regulatory Impact Assessment, a copy of which has been laid in the Business
+Office and the Library of the Northern Ireland Assembly. Copies of the
+Assessment are available from the Department for Communities, Social Security
+Policy, Legislation and Decision Making Services, Level 6, Causeway Exchange,
+1-7 Bedford Street, Belfast BT2 7EG or from the website:
+https://www.communities-ni.gov.uk/articles/pension-information . A copy of the
+Assessment is also annexed to the Explanatory Memorandum which is available
+alongside this Statutory Rule on the website:
+http://www.legislation.gov.uk/nisr .
+

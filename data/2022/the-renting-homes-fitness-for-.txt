@@ -1,0 +1,126 @@
+Title: The Renting Homes (Fitness for Human Habitation) (Wales) (Amendment) Regulations 2022
+Date: 2022-12-01
+Description: These Regulations amend the Renting Homes (Fitness for Human Habitation) (Wales) Regulations 2022 (S.I. 2022/6 (W. 4)) (“the 2022 Regulations”) which prescribe the matters and circumstances to which regard must be had when determining whether a dwelling is fit for human habitation.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/wsi/2022/1076
+
+## The Renting Homes (Fitness for Human Habitation) (Wales) (Amendment) Regulations 2022
+
+    Housing, Wales
+
+  Made   24 October 2022
+
+  Laid before Senedd Cymru   25 October 2022
+
+  Coming into force   30 November 2022
+
+      The Welsh Ministers make the following Regulations in exercise of the
+powers conferred on them by sections 94(3) and 256(1) of the Renting Homes
+(Wales) Act 2016 .
+
+### Title and commencement
+
+1
+
+1.1
+
+The title of these Regulations is the Renting Homes (Fitness for Human
+Habitation) (Wales) (Amendment) Regulations 2022.
+
+1.2
+
+These Regulations come into force on 30 November 2022.
+
+### Amendment to the Renting Homes (Fitness for Human Habitation) (Wales) Regulations 2022
+
+2
+
+2.1
+
+The Renting Homes (Fitness for Human Habitation) (Wales) Regulations 2022  are
+amended as follows.
+
+2.2
+
+In regulation 6 (electrical safety)—
+
+2.2.a
+
+in paragraph (3), in the words before paragraph (a), for “7 days”, substitute
+“14 days” ;
+
+2.2.b
+
+in paragraph (4), for “7 days”, substitute  “14 days” ;
+
+2.2.c
+
+in paragraph (5), for “7 days”, substitute  “14 days” ;
+
+2.2.d
+
+in paragraph (8), in the definition of “electrical safety standards”, for “BS
+7671:2018+A1:2020”, substitute  “BS 7671:2018+A2:2022 ” .
+
+2.3
+
+In regulation 7 (application to converted contracts), in paragraph (5), in the
+substituted paragraph (4), for  “7 days” , substitute “14 days”.
+
+      Julie James   Minister for Climate Change, one of the Welsh Ministers
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations amend the Renting Homes (Fitness for Human Habitation)
+(Wales) Regulations 2022 ( S.I. 2022/6 (W. 4) ) (“ the 2022 Regulations ”)
+which prescribe the matters and circumstances to which regard must be had when
+determining whether a dwelling is fit for human habitation.
+
+  Regulation 2(2)(a) of these Regulations amends regulation 6(3) of the 2022
+Regulations so that the landlord has 14 days, starting with the occupation
+date, to give the contract-holder a copy of the most recent electrical
+condition report and written confirmation of any investigatory or remedial
+work carried out on or in relation to an electrical service installation in
+the dwelling after the electrical safety inspection to which the electrical
+condition report relates.
+
+  Regulation 2(2)(b) of these Regulations amends regulation 6(4) of the 2022
+Regulations so that, where an electrical safety inspection is carried out
+after the occupation date, the landlord has 14 days, starting with the day on
+which that electrical safety inspection was completed, to give the contract-
+holder a copy of the electrical condition report relating to that inspection.
+
+  Regulation 2(2)(c) of these Regulations amends regulation 6(5) of the 2022
+Regulations so that, where investigatory or remedial work is carried out on or
+in relation to an electrical service installation in the dwelling after the
+occupation date, the landlord must give the contract-holder written
+confirmation of that work within 14 days starting with the day on which the
+landlord received the confirmation.
+
+  Regulation 6(8) of the 2022 Regulations includes a definition of “electrical
+safety standards” which makes reference to the standards for electrical
+service installations set out in the eighteenth edition of the Wiring
+Regulations, published by the Institution of Engineering and Technology and
+the British Standards Institution as BS 7671:2018+A1:2020. Regulation 2(2)(d)
+of these Regulations update that reference to the most recent version
+published in 2022 by the British Standards Institution.
+
+  Regulation 7 of the 2022 Regulations deals with the application of those
+Regulations in relation to converted contracts and paragraph (5) of that
+regulation substitutes regulation 6(4) of the 2022 Regulations in relation to
+those contracts. Regulation 2(3) of these Regulations amends that substituted
+regulation 6(4) so that where an electrical safety inspection is carried out
+after the contract-holder has been given a report under regulation 6(3)(a) (as
+modified by regulation 7(4) of the 2022 Regulations), the landlord has 14
+days, starting with the day on which that electrical safety inspection was
+completed, to give the contract-holder a copy of the electrical condition
+report relating to that inspection.
+
+  The Welsh Ministers’ Code of Practice on the carrying out of Regulatory
+Impact Assessments was considered in relation to these Regulations. As a
+result, it was not considered necessary to carry out a regulatory impact
+assessment as to the likely costs and benefits of complying with these
+Regulations.
+

@@ -1,0 +1,368 @@
+Title: The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022
+Date: 2022-10-31
+Description: These Rules amend the Magistrates’ Courts Rules (Northern Ireland) 1984 (S.R. 1984 No. 225) in consequence of amendments made to the Magistrates’ Courts (Northern Ireland) Order 1981 (1981 No. 1675 (N.I. 26)) by the Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c.4) to abolish preliminary investigations and mixed committals.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2022/218
+
+## The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022
+
+    Magistrates’ Courts   Procedure
+
+  Made   14th September 2022
+
+  Coming into operation in accordance with Rule 1
+
+      The Magistrates’ Courts Rules Committee makes and the Department of
+Justice, after consultation with the Lady Chief Justice, allows the following
+Rules in exercise of the powers conferred by Article 13 of the Magistrates’
+Courts (Northern Ireland) Order 1981 .
+
+### Citation, commencement and transitional provisions
+
+1
+
+These Rules may be cited as the Magistrates’ Courts (Amendment) Rules
+(Northern Ireland) 2022 and shall come into operation on the same day as
+section 1 of the Criminal Justice (Committal Reform) Act (Northern Ireland)
+2022 .
+
+2
+
+2.1
+
+These Rules do not apply to proceedings instituted before the coming into
+operation of section 1 of the Criminal Justice (Committal Reform) Act
+(Northern Ireland) 2022.
+
+2.2
+
+For the purposes of this Rule, proceedings are taken to be instituted—
+
+2.2.a
+
+where—
+
+2.2.a.i
+
+a summons or warrant is issued under Article 20 of the Magistrates’ Courts
+(Northern Ireland) Order 1981; or
+
+2.2.a.ii
+
+a summons is issued under section 93;
+
+when the complaint for the offence is made;
+
+2.2.b
+
+where a person is charged with the offence after being taken into custody
+without a warrant, when that person is informed of the particulars of the
+charge;
+
+2.2.c
+
+where an indictment is presented under the authority of section 2(2)(c), (d),
+(e) or (f) of the Grand Jury (Abolition) Act (Northern Ireland) 1969 , when
+the indictment is presented to the court;
+
+and where the application of this paragraph would result in there being more
+than one time for the institution of the proceedings, they shall be taken to
+have been instituted at the earliest of those times.
+
+### Amendment to the Magistrates’ Courts Rules (Northern Ireland) 1984
+
+3
+
+The Magistrates’ Courts Rules (Northern Ireland) 1984  are amended as follows—
+
+3.1
+
+Omit Rules 25 to 31.
+
+3.2
+
+In Rule 32,
+
+3.2.a
+
+for the heading substitute  “Notice of preliminary inquiry” ;
+
+3.2.b
+
+for paragraph (1) substitute  “(1) A notice of a preliminary inquiry shall be
+in Form 20A.” ;
+
+3.2.c
+
+omit paragraphs (2) and (3);
+
+3.2.d
+
+in paragraph (4), for “Forms 20, 21 and 22”, substitute  “Form 20A” ;
+
+3.2.e
+
+in paragraph (5), for “32(1)(i)” substitute  “32(1)(b)(i)” ;
+
+3.2.f
+
+in paragraph (7)—
+
+3.2.f.i
+
+after “notice”, insert  “together with the” ; and
+
+3.2.f.ii
+
+omit “in accordance with Article 32(1) of the Order”.
+
+3.3
+
+In Rule 33, for “The copy of the said notice” substitute  “A copy of the said
+notice together with” .
+
+3.4
+
+For Rule 34, substitute—
+
+######### Conduct of preliminary inquiry
+
+3.4.34
+
+3.4.34.1
+
+Without prejudice to Article 32(4) of the Order, the court shall ascertain
+that the accused or each of them has received a copy of the notice and of the
+documents required to be served on him under Article 32(1) thereof and Rule
+33.
+
+3.4.34.2
+
+The court shall cause the charge to be read to the accused and shall, if
+necessary, explain its nature in ordinary language.
+
+3.4.34.3
+
+Where there is more than one charge against an accused, instead of all the
+charges being read to that accused, if the court is satisfied that the accused
+is able to read and will not be prejudiced, the court may proceed as follows—
+
+3.4.34.3.a
+
+the clerk shall make public the nature of the charges by reading aloud and in
+full at least one charge in each category of the offence charged;
+
+3.4.34.3.b
+
+each of the other charges relating to the same category of offence may then be
+put to the accused by referring to the number of the charge and adding such
+other particulars as, without a full reading, may enable the accused to
+understand the charge and follow it on the copy of the statement of complaint.
+
+3.4.34.4
+
+The district judge (magistrates’ court) or lay magistrate may at any time
+cause any charge to be read or read again to the accused.
+
+.
+
+3.5
+
+In Rule 35—
+
+3.5.a
+
+omit the heading;
+
+3.5.b
+
+in paragraph (1), omit “(other than submissions under Rule 34)”;
+
+3.5.c
+
+omit paragraphs (3), (7), (9) and (10);
+
+3.5.d
+
+in paragraph (4), omit “to give evidence on his own behalf and to require the
+attendance of witnesses and to call witnesses and”;
+
+3.5.e
+
+in paragraph (6), for “25” substitute  “25A” ;
+
+3.5.f
+
+for paragraph (8) substitute—
+
+3.5.f.8
+
+Immediately after complying with the requirements of this Rule relating to the
+statement of the accused, and whether or not the accused has made a statement,
+the court shall ask the accused whether he wishes to tender any written
+statement of evidence on his behalf which complies with Article 33 of the
+Order.
+
+.
+
+3.6
+
+In Rule 41, for “the depositions” substitute  “any depositions” .
+
+3.7
+
+In Rule 42—
+
+3.7.a
+
+in sub-paragraph (1)(c), for “Rule 34(3), (4) or (5)” substitute  “Rule 34(2)”
+; and
+
+3.7.b
+
+for sub-paragraph (1)(d) substitute  “(d) the written statements and any
+depositions admitted in evidence at the preliminary inquiry;” .
+
+3.8
+
+After Rule 42, insert—
+
+######### Procedure for binding witnesses and prosecutor over to attend trial
+
+3.8.42A
+
+3.8.42A.1
+
+Every recognizance under Article 39 of the Order shall be acknowledged and
+signed by the person entering into the recognizance and signed by the district
+judge (magistrates’ court) or lay magistrate.
+
+3.8.42A.2
+
+The recognizance may be on a separate form or at the foot of the deposition at
+the discretion of the court.
+
+######### Supply of depositions and complaint to the accused
+
+3.8.42B
+
+The person having custody of depositions on which any person has been
+committed for trial shall, as soon as practicable after the application is
+made to him by or on behalf of the accused, supply to the accused one copy of
+the depositions and, if the complaint is in writing, of the complaint.
+
+.
+
+3.9
+
+In Rule 43—
+
+3.9.a
+
+in the heading, omit “investigation or”;
+
+3.9.b
+
+omit “preliminary investigation or”.
+
+3.10
+
+In Rule 44(3), omit “preliminary investigation or”.
+
+3.11
+
+In Rule 47, after “taken” insert  “or admitted” .
+
+3.12
+
+In Rule 149AA—
+
+3.12.a
+
+in sub-paragraph (3)(a), omit “Subject to sub-paragraph (b)”;
+
+3.12.b
+
+omit sub-paragraph (3)(b).
+
+3.13
+
+In Rules 149AR and 149AS, omit “preliminary investigation or” in each place
+that it occurs.
+
+3.14
+
+In Rules 149F, 149H and 149O—
+
+3.14.a
+
+in sub-paragraph (2)(a), omit “Subject to sub-paragraph (b)”;
+
+3.14.b
+
+omit sub-paragraph (2)(b).
+
+3.15
+
+In Schedule 1—
+
+3.15.a
+
+in Form 15, in the title omit “25 and”;
+
+3.15.b
+
+in Form 15B, for the words from “An application shall be made” to “the remand
+of the defendant” substitute  “An application shall be made not less than 14
+days before the day fixed for the commencement of the proceedings to which the
+application relates” ;
+
+3.15.c
+
+in Form 15I, omit “[preliminary investigation]”;
+
+3.15.d
+
+after Form 19 insert Form 20A as set out in Schedule 1 to these Rules;
+
+3.15.e
+
+omit Forms 20, 21 and 22;
+
+3.15.f
+
+for Form 25 substitute Form 25A as set out in Schedule 2 to these Rules;
+
+3.15.g
+
+in Form 88A, omit “a preliminary investigation or a”; and
+
+3.15.h
+
+in Forms 88B, 88C, 88E, 88F, 88G and 88H, omit “preliminary investigation or”
+in each place it occurs.
+
+      Nigel Broderick   C McQuillan   T McCloskey   E McKenna     Dated 17th
+August 2022.             In exercise of the powers conferred by Article 13 of
+the Magistrates’ Courts (Northern Ireland) Order 1981, I allow these Rules.
+Sealed with the Official Seal of the Department of Justice on 14th September
+2022.         Naomi Long   Minister of Justice
+
+Rule 3(15)(d)
+
+
+
+Rule 3(15)(f)
+
+
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Rules)
+
+  These Rules amend the Magistrates’ Courts Rules (Northern Ireland) 1984 (
+S.R. 1984 No. 225 ) in consequence of amendments made to the Magistrates’
+Courts (Northern Ireland) Order 1981 ( 1981 No. 1675 (N.I. 26) ) by the
+Criminal Justice (Committal Reform) Act (Northern Ireland)  2022 (c.4)  to
+abolish preliminary investigations and mixed committals.
+

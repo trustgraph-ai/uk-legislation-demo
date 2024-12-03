@@ -1,0 +1,3632 @@
+Title: The Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022
+Date: 2024-06-06
+Description: These Regulations, together with the Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/XXXX), provide for the civil enforcement of—parking contraventions in England, andbus lane contraventions, and moving traffic contraventions, in England but outside Greater London.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/71
+
+## The Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022
+
+This Statutory Instrument has been printed in substitution of the S.I. of the
+same number to correct an error in the signature block on page 28. It is being
+issued free of charge to all known recipients of that Statutory Instrument.
+
+Road Traffic, England
+
+Made 22nd January 2022
+
+Laid before Parliament 27th January 2022
+
+Coming into force 31st May 2022
+
+These Regulations are made by— a the Secretary of State in exercise of the
+powers in section 4(19) of the London Local Authorities and Transport for
+London Act 2003 and sections 72, 73(3), 79, 88, 89 and 92 of, and paragraph 10
+of Schedule 7 to and paragraphs 6 and 8 of Schedule 9 to, the Traffic
+Management Act 2004 (“the TMA 2004”), and  b the Lord Chancellor, in exercise
+of the powers conferred by sections 78, 78A, 81, 82 and 89 of the TMA 2004. In
+accordance with paragraph 10(3) of Schedule 7 to the TMA 2004, the Secretary
+of State has, in relation to the amendments made by regulation  43  of these
+Regulations, consulted such representatives of chief officers of police, and
+such associations of local authorities, as the Secretary of State considered
+appropriate.
+
+### Preliminary
+
+#### Citation, commencement, extent and application
+
+1
+
+1.1
+
+These Regulations may be cited as the Civil Enforcement of Road Traffic
+Contraventions (Approved Devices, Charging Guidelines and General Provisions)
+(England) Regulations 2022.
+
+1.2
+
+These Regulations come into force on 31st May 2022.
+
+1.3
+
+These Regulations extend to England and Wales.
+
+1.4
+
+These Regulations apply in England only.
+
+1.5
+
+Nothing in this Part or Parts 2 to 7 applies in relation to—
+
+1.5.a
+
+a bus lane contravention within paragraph 6 of Schedule 7 to the TMA 2004 in
+Greater London,
+
+1.5.b
+
+a London lorry ban contravention , or
+
+1.5.c
+
+a moving traffic contravention within paragraph 8 of Schedule 7 to the TMA
+2004 in a civil enforcement area  in Greater London.
+
+#### Interpretation
+
+2
+
+In these Regulations—
+
+    “ the LGA 1972 ” means the Local Government Act 1972         “ the RTRA
+1984 ” means the Road Traffic Regulation Act 1984 ;         “ the TMA 2004 ”
+means the Traffic Management Act 2004;         “ the 2007 General Regulations
+” means the Civil Enforcement of Parking (England) General Regulations 2007 ;
+“ the 2022 Appeals Regulations ” means the Civil Enforcement of Road Traffic
+Contraventions (Representations and Appeals) (England) Regulations 2022 ;
+“adjudicator”, other than in regulation  36 , means an adjudicator appointed,
+or treated as appointed, under regulation  16 ;         “ the applicable date
+” means—       in the case of a penalty charge notice served by virtue of
+regulation  10(2)(a) , the last day of the period of 21 days beginning with
+the date on which the notice is served;       in the case of any other notice,
+the last day of the period of 14 days beginning with the date on which the
+notice is served;             “ applicable discount ”, in relation to a
+penalty charge, means the amount, set in accordance with Schedule 9 to the TMA
+2004, by which the charge is reduced if it is paid early ;         “
+applicable surcharge ”, in relation to a penalty charge, means the amount, set
+in accordance with Schedule 9 to the TMA 2004, by which the charge is
+increased if it is not paid before a charge certificate is issued ;         “
+approved device ” has the meaning given in regulation  4 ;         “ charge
+certificate ” means a statement to the effect that a penalty charge is
+increased by the amount of the applicable surcharge;         “ civil
+enforcement officer ”, in relation to a relevant road traffic contravention,
+means a civil enforcement officer  provided by the authority which is the
+enforcement authority  in relation to that contravention;         “ the
+commencement date ” means the day on which these Regulations come into force;
+“enforcement notice”, other than in regulation 35, means—       a regulation
+10  penalty charge notice, or       a notice to owner;             “
+immobilisation notice ” has the meaning given in regulation  13(2) ;
+“notice to owner”, other than in regulation  35 , has the meaning given in
+regulation  20 ;         “ notice of rejection ” means a decision notice
+served by an enforcement authority under regulation 6(4)(b) of the Appeals
+Regulations which states that the enforcement authority does not accept the
+representations made under regulation 5 of those Regulations by the recipient
+of the enforcement notice to which those representations relate;         “ OGL
+bus lane contravention ” means a bus lane contravention within paragraph 6 of
+Schedule 7 to the TMA 2004 in a civil enforcement area outside Greater London;
+“ OGL moving traffic contravention ” means a moving traffic contravention
+within paragraph 8 of Schedule 7 in a civil enforcement area outside Greater
+London;         “ OGL parking contravention ” means a parking contravention
+within paragraph 4 of Schedule 7 to the TMA 2004 (parking contraventions
+outside Greater London) in a civil enforcement area outside Greater London;
+“ owner ”, in relation to a vehicle, includes a person who is to be treated as
+the owner of the vehicle by virtue of regulation  6 ;         “penalty
+charge”, other than in regulation 35, means a penalty charge relating to a
+relevant road traffic contravention and payable in accordance with regulation
+6 ;         “penalty charge notice”, other than in regulation  35 , means
+notice of a penalty charge;         “regulation  10  penalty charge notice”
+means a penalty charge notice served under regulation  10 ;         “ relevant
+road traffic contravention ” means—       a parking contravention within
+paragraph 2 of Schedule 7 to the TMA 2004 (parking contraventions relating to
+parking places in Greater London) in Greater London,       a parking
+contravention within paragraph 3 of that Schedule (other parking
+contraventions in Greater London) in a civil enforcement area in Greater
+London,       an OGL bus lane contravention,       an OGL moving traffic
+contravention, or       an OGL parking contravention;             “ vehicle-
+hire firm ” has the meaning given in section 66(8) of the Road Traffic
+Offenders Act 1988 (hired vehicles) .
+
+#### Service by post or electronically
+
+3
+
+3.1
+
+This regulation makes provision about the service of documents under these
+Regulations, other than notices or orders made by a county court.
+
+3.2
+
+A notice or charge certificate which is required by these Regulations to be
+served by post—
+
+3.2.a
+
+may be served by first class (but not second class) post, and
+
+3.2.b
+
+where the person on whom it is to be served or to whom it is to be given is a
+body corporate, is duly served or given if it is sent by first class post to
+the secretary or clerk of that body.
+
+3.3
+
+Service of such a notice or charge certificate contained in a letter sent by
+first class post which has been properly addressed, pre-paid and posted is to
+be taken to have been effected on the second working day after the day of
+posting.
+
+3.4
+
+For the purposes of paragraph (3) “ working day ” means any day except—
+
+3.4.a
+
+a Saturday or a Sunday,
+
+3.4.b
+
+New Year’s Day,
+
+3.4.c
+
+Good Friday,
+
+3.4.d
+
+Christmas Day, or
+
+3.4.e
+
+any other day which is a bank holiday in England and Wales under the Banking
+and Financial Dealings Act 1971 .
+
+3.5
+
+A document may be transmitted to a vehicle-hire firm by means of electronic
+data transmission where—
+
+3.5.a
+
+the vehicle-hire firm has indicated in writing to the person sending the
+document that it is willing to regard a document as having been duly sent to
+it if it is transmitted to a specified electronic address, and
+
+3.5.b
+
+the document is transmitted to that address.
+
+#### Approved Devices
+
+4
+
+A device is an approved device for the purposes of these Regulations if it is
+of a type which has been certified by the Secretary of State as one which
+meets requirements specified in Schedule 1.
+
+### Penalty charges for relevant road traffic contraventions
+
+#### Imposition of penalty charges for relevant road traffic contraventions
+
+5
+
+5.1
+
+A penalty charge may be imposed with respect to a vehicle where that vehicle
+is involved in a relevant road traffic contravention which is committed on or
+after the commencement date.
+
+5.2
+
+But no penalty charge may be imposed under paragraph (1) in relation to a
+parking contravention where—
+
+5.2.a
+
+the vehicle is stationary in a designated parking place and is left beyond the
+permitted parking period, and
+
+5.2.b
+
+the period for which it is left beyond the permitted parking period does not
+exceed 10 minutes.
+
+5.3
+
+In this regulation—
+
+    “ designated parking place ” means a parking place established by virtue
+of an order made under section 1, 6, 9, 32(1)(b), 35 or 45 of the RTRA 1984;
+“ permitted parking period ” means a period of parking—       that has been
+paid for as authorised by or under any order made relating to the designated
+parking place, or       for which no charge is payable as authorised by or
+under any order made relating to the designated parking place.
+
+5.4
+
+This regulation is subject to regulations  7  and  8 .
+
+#### Person by whom a penalty charge is to be paid
+
+6
+
+6.1
+
+Where a relevant road traffic contravention occurs, the person by whom the
+penalty charge is to be paid is to be determined in accordance with this
+regulation.
+
+6.2
+
+Where—
+
+6.2.a
+
+the vehicle is a mechanically propelled vehicle which was, at the material
+time, hired from a vehicle-hire firm under a hiring agreement,
+
+6.2.b
+
+the person (“ P ”) hiring it had signed a statement of liability acknowledging
+P’s liability in respect of any penalty charge notice served in respect of any
+road traffic contravention involving the vehicle during the currency of the
+hiring agreement, and
+
+6.2.c
+
+in response to a notice to owner served on the owner of the vehicle, the owner
+made representations on the ground specified in regulation 5(4)(d) of the 2022
+Appeals Regulations and the enforcement authority accepted those
+representations,
+
+the penalty charge is payable by P.
+
+6.3
+
+Where the penalty charge is payable by P, P is to be treated as if they were
+the owner of the vehicle at the material time for the purposes of these
+Regulations.
+
+6.4
+
+In a case not falling within paragraph (2), the penalty charge is payable by
+the person who was the owner of the vehicle involved in the contravention at
+the material time.
+
+6.5
+
+In this regulation—
+
+    “ hiring agreement ” has the meaning given in section 66(8) of the Road
+Traffic Offenders Act 1988 (hired vehicles) ;         “ the material time ”
+means the time when the contravention giving rise to the penalty charge is
+said to have been committed.
+
+#### Evidence of contravention
+
+7
+
+7.1
+
+A penalty charge may only be imposed in respect of a parking contravention on
+the basis of—
+
+7.1.a
+
+a record produced by an approved device, or
+
+7.1.b
+
+information given by a civil enforcement officer as to conduct observed by
+that officer.
+
+7.2
+
+A penalty charge may only be imposed in respect of an OGL bus lane
+contravention or an OGL moving traffic contravention on the basis of a record
+produced by an approved device.
+
+#### Criminal proceedings for relevant road traffic contraventions
+
+8
+
+8.1
+
+No criminal proceedings may be instituted, and no fixed penalty notice  may be
+issued, in respect of conduct constituting a parking contravention, except a
+pedestrian crossing contravention.
+
+8.2
+
+No penalty charge is payable in relation to a pedestrian crossing
+contravention, an OGL bus lane contravention or an OGL moving traffic
+contravention where—
+
+8.2.a
+
+the conduct constituting the contravention is the subject of criminal
+proceedings, or
+
+8.2.b
+
+a fixed penalty notice is given in respect of that conduct.
+
+8.3
+
+Where, despite paragraph (2)—
+
+8.3.a
+
+a penalty charge is paid in respect of a contravention, and
+
+8.3.b
+
+the circumstances are as mentioned in paragraph (2)(a) or (b),
+
+the enforcement authority must, as soon as reasonably practicable after those
+circumstances come to its notice, refund the amount of the penalty charge.
+
+8.4
+
+In this regulation “ pedestrian crossing contravention ” means a parking
+contravention consisting of an offence referred to in paragraph 3(2)(c) or
+paragraph 4(2)(ba) of Schedule 7 to the TMA 2004 (prohibition on stopping of
+vehicles on or near pedestrian crossings).
+
+#### Penalty charge notices for parking contraventions: service by civil enforcement officers
+
+9
+
+9.1
+
+This regulation applies in relation to the notification, by a civil
+enforcement officer, of a penalty charge payable in respect of a parking
+contravention.
+
+9.2
+
+Where a civil enforcement officer has reason to believe that a penalty charge
+is payable in respect of a parking contravention otherwise than on a road, the
+civil enforcement officer may give notification of that charge by—
+
+9.2.a
+
+fixing a penalty charge notice to the vehicle, or
+
+9.2.b
+
+giving a penalty charge notice to the person appearing to the civil
+enforcement officer to be in charge of the vehicle.
+
+9.3
+
+Except as provided for in paragraphs (4) to (6) and regulation  10 ,
+notification of a penalty charge in respect of a parking contravention on a
+road may only be given by a civil enforcement officer by fixing a penalty
+charge notice to the vehicle.
+
+9.4
+
+The requirement in paragraph (3) that notification be given by the fixing of a
+penalty charge notice to the vehicle does not apply—
+
+9.4.a
+
+where the civil enforcement officer is able to give the penalty charge notice
+to the person appearing to the officer to be in charge of the vehicle, or
+
+9.4.b
+
+in the circumstances specified in regulation  11 .
+
+9.5
+
+Where the circumstances in paragraph (4)(a) apply, the civil enforcement
+officer may, instead of fixing the penalty charge notice to the vehicle, give
+it to the person appearing to the civil enforcement officer to be in charge of
+the vehicle.
+
+9.6
+
+Where the circumstances in paragraph (4)(b) apply, the civil enforcement
+officer may—
+
+9.6.a
+
+fix the penalty charge notice to the vehicle, or
+
+9.6.b
+
+give it to the person appearing to the civil enforcement officer to be in
+charge of the vehicle.
+
+9.7
+
+A penalty charge notice given under this regulation must include the
+information set out in—
+
+9.7.a
+
+Schedule 2, and
+
+9.7.b
+
+regulation 3(1) of the 2022 Appeals Regulations.
+
+#### Penalty charge notices for relevant road traffic contraventions: enforcement authority
+
+10
+
+10.1
+
+This regulation applies in relation to the notification, by an enforcement
+authority, of a penalty charge payable in respect of a relevant road traffic
+contravention.
+
+10.2
+
+An enforcement authority may give notification of the penalty charge by
+serving a penalty charge notice by post where—
+
+10.2.a
+
+on the basis of a record produced by an approved device, the authority has
+reason to believe that a penalty charge is payable with respect to—
+
+10.2.a.i
+
+a regulation 11 parking contravention,
+
+10.2.a.ii
+
+an OGL bus lane contravention, or
+
+10.2.a.iii
+
+an OGL moving traffic contravention;
+
+10.2.b
+
+a civil enforcement officer attempted to give a penalty charge notice in
+accordance with regulation  9 , but was prevented from doing so by any person;
+
+10.2.c
+
+a civil enforcement officer had begun to prepare a penalty charge notice to be
+given in accordance with regulation  9 , but the vehicle concerned was driven
+away from the place in which it was stationary before the civil enforcement
+officer had finished preparing the penalty charge notice or had given it in
+accordance with regulation  9 .
+
+10.3
+
+For the purposes of this regulation “ regulation 11 parking contravention ”
+means a parking contravention—
+
+10.3.a
+
+otherwise than on a road, or
+
+10.3.b
+
+on a road in the circumstances specified in regulation  11 .
+
+10.4
+
+For the purposes of paragraph (2)(c), a civil enforcement officer who observes
+conduct which appears to constitute a parking contravention is not because of
+that observation to be taken to have begun to prepare a penalty charge notice.
+
+10.5
+
+The penalty charge notice—
+
+10.5.a
+
+must be served on the person appearing to the enforcement authority to be the
+owner of the vehicle involved in the contravention in consequence of which the
+penalty charge is payable, and
+
+10.5.b
+
+must include the information set out—
+
+10.5.b.i
+
+in Schedule 2, and
+
+10.5.b.ii
+
+in regulation 3(2) of the 2022 Appeals Regulations.
+
+10.6
+
+Subject to paragraph (8), an enforcement authority may not give a penalty
+charge notice under this regulation after the end of the period of 28 days
+beginning with the contravention date (“the 28-day period”).
+
+10.7
+
+Paragraph (8) applies—
+
+10.7.a
+
+where—
+
+10.7.a.i
+
+within the period of 14 days beginning with the contravention date, the
+enforcement authority has requested the Secretary of State to supply the
+relevant particulars in respect of the vehicle involved in the contravention,
+and
+
+10.7.a.ii
+
+those particulars have not been supplied before the end of the 28-day period;
+
+10.7.b
+
+where an earlier penalty charge notice given under this regulation and
+relating to the same contravention is deemed to have been cancelled under
+regulation  23(5)(c) ;
+
+10.7.c
+
+where an earlier penalty charge notice relating to the same contravention has
+been cancelled under regulation 6 of the 2022 Appeals Regulations.
+
+10.8
+
+Where this paragraph applies, the enforcement authority is entitled to give a
+penalty charge notice under this regulation—
+
+10.8.a
+
+in a case falling within paragraph (7)(a), for a period of six months
+beginning with the contravention date;
+
+10.8.b
+
+in a case falling within paragraph (7)(b), for a period of 4 weeks beginning
+with the date on which the district judge serves notice in accordance with
+regulation  23(5)(d) ;
+
+10.8.c
+
+in a case falling within paragraph (7)(c), for a period of 4 weeks beginning
+with the date on which the earlier penalty charge notice given under this
+regulation was cancelled.
+
+10.9
+
+For the purposes of this regulation—
+
+    “ the contravention date ”, in relation to a relevant road traffic
+contravention in respect of which a penalty charge is payable, is the date on
+which, according to a record produced by an approved device or information
+given by a civil enforcement officer, the contravention occurred;         “
+relevant particulars ” means particulars relating to the identity of the
+keeper of the vehicle contained in the register of mechanically propelled
+vehicles maintained by the Secretary of State under the Vehicle Excise and
+Registration Act 1994 .
+
+#### Circumstances in which notification of a penalty charge for a parking contravention on a road in a civil enforcement area may be given otherwise than by fixing a notice to the vehicle
+
+11
+
+11.1
+
+The circumstances specified for the purposes of regulations  9(4)(b)  and
+10(3)(b)  are circumstances where the relevant vehicle is stationary on—
+
+11.1.a
+
+a bus lane,
+
+11.1.b
+
+a bus stop clearway or bus stand clearway,
+
+11.1.c
+
+a carriageway outside a school entrance which is marked in accordance with
+diagram 1027.1 at item 10 in Part 4 of Schedule 7 to the Traffic Signs
+Regulations and indicated by the upright sign at item 10 in Part 3 of Schedule
+4 to those Regulations,
+
+11.1.d
+
+a red route, or
+
+11.1.e
+
+a mandatory cycle lane which is additionally marked in accordance with any of
+the following diagrams referred to in Part 4 of Schedule 7 to the Traffic
+Signs Regulations—
+
+11.1.e.i
+
+diagram 1018.1 at item 1;
+
+11.1.e.ii
+
+diagram 1017 at item 2;
+
+11.1.e.iii
+
+diagram 1020.1 at item 3;
+
+11.1.e.iv
+
+diagram 1019 at item 4.
+
+11.2
+
+In this regulation—
+
+    “ bus lane ” means a traffic lane marked in accordance with—       diagram
+1049A at item 11 in Part 6 of Schedule 9 to the Traffic Signs Regulations, and
+the upright sign at diagram 959B at item 10 in Part 4 of Schedule 9 to those
+Regulations;             “ bus stop clearway or bus stand clearway ” means a
+clearway marked in accordance with diagram 1025.1 at item 9 in Part 4 of
+Schedule 7 to the Traffic Signs Regulations;         “ mandatory cycle lane ”
+means a cycle lane which is marked in accordance with diagram 1049B at item 7
+in Part 6 of Schedule 9 to the Traffic Signs Regulations;         “ red route
+” means a road marked in accordance with—       diagram 1018.2 at item 11 or
+diagram 1017.1 at item 12 in Part 4 of Schedule 7 to the Traffic Signs
+Regulations, and       the upright sign at Part 1 of Schedule 6 to those
+Regulations;             “ the Traffic Signs Regulations ” means the Traffic
+Signs Regulations and General Directions 2016 .
+
+#### Removal of, or interference with, a penalty charge notice
+
+12
+
+12.1
+
+A penalty charge notice fixed to a vehicle in accordance with regulation
+9(2)(a)  or  (3)  must not be removed or interfered with except by or under
+the authority of—
+
+12.1.a
+
+the owner or person in charge of the vehicle, or
+
+12.1.b
+
+the enforcement authority.
+
+12.2
+
+A person contravening paragraph (1) is—
+
+12.2.a
+
+guilty of an offence, and
+
+12.2.b
+
+liable on summary conviction to a fine not exceeding level 2 on the standard
+scale.
+
+### Immobilisation of vehicles for parking contraventions
+
+#### Power to immobilise vehicles
+
+13
+
+13.1
+
+Where a penalty charge notice has been given under regulation  9 , a civil
+enforcement officer, or a person acting under the direction of a civil
+enforcement officer, may fix an immobilisation device to the vehicle while it
+remains in the place where it was found.
+
+13.2
+
+Where a person fixes an immobilisation device to a vehicle in accordance with
+this regulation, they must also fix a notice (an “immobilisation notice”) to
+the vehicle.
+
+13.3
+
+An immobilisation notice must—
+
+13.3.a
+
+indicate that such a device has been fixed to the vehicle,
+
+13.3.b
+
+warn that no attempt should be made to drive the vehicle or otherwise put it
+in motion until it has been released from that device,
+
+13.3.c
+
+specify the steps to be taken in order to secure the vehicle’s release, and
+
+13.3.d
+
+warn that unlawful removal of the immobilisation device is an offence.
+
+13.4
+
+An immobilisation notice must not be removed or interfered with except by, or
+under the authority of—
+
+13.4.a
+
+the owner, or person in charge of, the vehicle, or
+
+13.4.b
+
+the enforcement authority.
+
+13.5
+
+A person contravening paragraph (4) is—
+
+13.5.a
+
+guilty of an offence, and
+
+13.5.b
+
+liable on summary conviction to a fine not exceeding level 2 on the standard
+scale.
+
+13.6
+
+Any person who, without being authorised to do so in accordance with these
+Regulations, removes, or attempts to remove, an immobilisation device fixed to
+a vehicle in accordance with this regulation is—
+
+13.6.a
+
+guilty of an offence, and
+
+13.6.b
+
+liable on summary conviction to a fine not exceeding level 3 on the standard
+scale.
+
+13.7
+
+This regulation is subject to regulation  14 .
+
+#### Limitations on the power to immobilise vehicles
+
+14
+
+14.1
+
+An immobilisation device must not be fixed to a vehicle if there is displayed
+on the vehicle—
+
+14.1.a
+
+a current disabled person’s badge , or
+
+14.1.b
+
+a current recognised badge.
+
+14.2
+
+If, in a case in which an immobilisation device would have been fixed to a
+vehicle but for paragraph (1)(a), the vehicle was not being used—
+
+14.2.a
+
+in accordance with regulations under section 21 of the Chronically Sick and
+Disabled Persons Act 1970 , and
+
+14.2.b
+
+in circumstances falling within section 117(1)(b) of the RTRA 1984  (use where
+a disabled persons’ concession would be available),
+
+the person in charge of the vehicle is guilty of an offence and liable on
+summary conviction to a fine not exceeding level 3 on the standard scale.
+
+14.3
+
+If, in a case in which an immobilisation device would have been fixed to a
+vehicle but for paragraph (1)(b), the vehicle was not being used—
+
+14.3.a
+
+in accordance with regulations under section 21A of the Chronically Sick and
+Disabled Persons Act 1970 , and
+
+14.3.b
+
+in circumstances falling within section 117(1A)(b) of the RTRA 1984  (use
+where a disabled person’s concession would be available by virtue of
+displaying a non-GB badge),
+
+the person in charge of the vehicle is guilty of an offence and liable on
+summary conviction to a fine not exceeding level 3 on the standard scale.
+
+14.4
+
+An immobilisation device must not be fixed to a vehicle which is in a parking
+place  in respect of a contravention consisting of, or arising out of, a
+failure—
+
+14.4.a
+
+to pay a parking charge with respect to the vehicle,
+
+14.4.b
+
+properly to display a ticket or parking device, or
+
+14.4.c
+
+to remove the vehicle from a parking place by the end of the period for which
+the appropriate charge was paid,
+
+until   15 minutes have   elapsed since the penalty charge notice was given
+under regulation  9  in respect of the contravention.
+
+14.5
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+14.6
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+14.7
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Release of immobilised vehicles
+
+15
+
+15.1
+
+A vehicle to which an immobilisation device has been fixed in accordance with
+regulation  13  must be released from the device on payment in any manner
+specified in the immobilisation notice of—
+
+15.1.a
+
+the penalty charge payable in respect of the parking contravention, and
+
+15.1.b
+
+such charge in respect of the release as may be required by the enforcement
+authority.
+
+15.2
+
+A vehicle may only be released from an immobilisation device by, or under the
+direction of, a person authorised by the enforcement authority to give such a
+direction.
+
+### Adjudicators
+
+#### Appointment etc of adjudicators
+
+16
+
+16.1
+
+The relevant enforcement authorities  must appoint such number of adjudicators
+for the purposes of Part 6 of the TMA 2004 on such terms as they may decide.
+
+16.2
+
+A decision by those authorities to appoint a person as an adjudicator does not
+have effect without the consent of the Lord Chancellor.
+
+16.3
+
+A decision of the authorities—
+
+16.3.a
+
+not to re-appoint a person as an adjudicator, or
+
+16.3.b
+
+to remove a person from office as an adjudicator,
+
+does not have effect without the consent of the Lord Chancellor and of the
+Lord Chief Justice.
+
+16.4
+
+The Lord Chief Justice may nominate a judicial office holder (as defined in
+section 109(4) of the Constitutional Reform Act 2005 ) to exercise the Lord
+Chief Justice’s functions under paragraph (3).
+
+16.5
+
+An adjudicator who—
+
+16.5.a
+
+was appointed under regulation 11 of the Bus Lane Contraventions (Penalty
+Charges, Adjudication and Enforcement) (England) Regulations 2005  or
+regulation 17 of the 2007 General Regulations, and
+
+16.5.b
+
+held office immediately before the commencement date,
+
+is to be treated as having been appointed under this regulation on the same
+terms as those on which they held office at that time.
+
+16.6
+
+Each adjudicator must make an annual report to the relevant enforcement
+authorities which appointed the adjudicator in accordance with such
+requirements as may be imposed by those authorities.
+
+16.7
+
+The relevant enforcement authorities must make and publish an annual report to
+the Secretary of State on the discharge by the adjudicators of their
+functions.
+
+16.8
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Adjudication process and remuneration of adjudicators: expenses of the relevant enforcement authorities
+
+17
+
+17.1
+
+In default of a decision by the relevant enforcement authorities under
+subsection (9)(a) of section 81 of the TMA 2004 as to the proportions in which
+their expenses under that section are to be defrayed, the authorities must
+refer the issue to be determined by an arbitrator nominated by the Chartered
+Institute of Arbitrators for the arbitrator to determine.
+
+17.2
+
+Where the Secretary of State is satisfied that there has been a failure by the
+relevant enforcement authorities to agree those proportions, the Secretary of
+State may give to the relevant joint committee such directions as are, in the
+Secretary of State’s opinion, necessary to secure that the issue is referred
+to arbitration in accordance with paragraph (1).
+
+17.3
+
+In this regulation “ the relevant joint committee ” means the joint committee
+constituted, or treated as constituted, under regulation  18  or  19  of which
+the enforcement authorities in default are constituent authorities.
+
+#### Discharge of functions of enforcement authorities relating to adjudicators: in Greater London
+
+18
+
+18.1
+
+The functions of the London authorities  under section 81 of the TMA 2004
+(adjudicators) and under regulation  16  are to be discharged jointly, under
+arrangements made under section 101(5) of the LGA 1972 (arrangements for
+discharge of functions by local authorities) by a single joint committee
+appointed by those authorities under section 102(1)(b) of that Act.
+
+18.2
+
+Any relevant arrangements for the discharge of functions by a single joint
+committee—
+
+18.2.a
+
+continue in force and have effect as if made for the purposes of this
+regulation, until such time as they are replaced by arrangements made for the
+purposes of this regulation;
+
+18.2.b
+
+may, whilst they continue to have effect by virtue of sub-paragraph (a), be
+varied by arrangements made under section 101(5) of the LGA1972.
+
+18.3
+
+For the purposes of paragraph (2) “ relevant arrangements for the discharge of
+functions by a single joint committee ” means any arrangements—
+
+18.3.a
+
+which were made, or treated as if made, for the purposes of regulation 15 the
+2007 General Regulations, and
+
+18.3.b
+
+subsisting immediately before the commencement date.
+
+#### Discharge of functions of enforcement authorities relating to adjudicators: outside Greater London
+
+19
+
+19.1
+
+The functions of the non-London enforcement authorities under section 81 of
+the TMA 2004 (adjudicators) and under regulation  16  are to be discharged
+jointly, under arrangements made under section 101(5) of the LGA 1972
+(arrangements for discharge of functions by local authorities), by a joint
+committee or joint committees appointed under section 102(1)(b) of that Act of
+which at least three of the non-London enforcement authorities are constituent
+authorities.
+
+19.2
+
+The constituent authorities of a joint committee may include county or county
+borough councils in Wales.
+
+19.3
+
+Any relevant arrangements for the discharge of functions by joint committee—
+
+19.3.a
+
+continue in force and have effect as if made for the purposes of this
+regulation, until such time as they are replaced by arrangements made for the
+purposes of this regulation;
+
+19.3.b
+
+may, whilst they continue to have effect by virtue of sub-paragraph (a), be
+varied by arrangements made under section 101(5) of the LGA1972.
+
+19.4
+
+For the purposes of paragraph (3) “ relevant arrangements for the discharge of
+functions by joint committee ” means any arrangements—
+
+19.4.a
+
+which were made, or treated as if made, for the purposes of regulation 16 of
+the 2007 General Regulations, and
+
+19.4.b
+
+subsisting immediately before the commencement date.
+
+19.5
+
+For the purposes of this regulation “ non-London enforcement authority ” means
+an enforcement authority which is a local authority in England other than a
+London authority.
+
+### Enforcement of penalty charges
+
+#### Notice to owner
+
+20
+
+20.1
+
+Where—
+
+20.1.a
+
+a penalty charge notice has been given with respect to a vehicle under
+regulation  9 , and
+
+20.1.b
+
+the period of 28 days specified in the penalty charge notice as the period
+within which the penalty charge is to be paid has expired without that charge
+being paid,
+
+the enforcement authority concerned may serve a notice (a “notice to owner”)
+on the person who appears to it to have been the owner of the vehicle when the
+alleged contravention occurred.
+
+20.2
+
+A notice to owner may not be served after the expiry of the period of 6 months
+beginning with the relevant date.
+
+20.3
+
+A notice to owner must, in addition to the matters required to be included in
+it under regulation 3(2) of the 2022 Appeals Regulations, state—
+
+20.3.a
+
+the date of the notice, which must be the date on which the notice is posted,
+
+20.3.b
+
+the name of the enforcement authority serving the notice,
+
+20.3.c
+
+the amount of the penalty charge payable,
+
+20.3.d
+
+the date on which the penalty charge notice was served,
+
+20.3.e
+
+the grounds on which the civil enforcement officer who served the penalty
+charge notice under regulation  9  believed that a penalty charge was payable
+with respect to the vehicle,
+
+20.3.f
+
+that the penalty charge, if not already paid, must be paid within “ the
+payment period ” as defined by regulation 3(2)(a) of the 2022 Appeals
+Regulations,
+
+20.3.g
+
+that if, after the payment period has expired, no representations have been
+made under regulation 5 of the 2022 Appeals Regulations and the penalty charge
+has not been paid, the enforcement authority may increase the penalty charge
+by the applicable surcharge, and
+
+20.3.h
+
+the amount of the increased penalty charge.
+
+20.4
+
+For the purposes of this regulation, the relevant date—
+
+20.4.a
+
+in a case where a notice to owner is deemed to have been cancelled under
+regulation  23(5)(c) , is the date on which the district judge serves notice
+in accordance with regulation  23(5)(d) ;
+
+20.4.b
+
+in a case where a notice to owner has been cancelled under regulation 6 of the
+2022 Appeals Regulations (duties of enforcement authority which receives
+representations against an enforcement notice), is the date on which the
+notice is cancelled;
+
+20.4.c
+
+in a case where payment of the penalty charge was made, or had purportedly
+been made, before the expiry of the period mentioned in paragraph (2) but the
+payment or purported payment had been cancelled or withdrawn, is the date on
+which the enforcement authority is notified that the payment or purported
+payment has been cancelled or withdrawn;
+
+20.4.d
+
+in any other case, is the date on which the relevant penalty charge notice was
+served under regulation  9 .
+
+#### Charge certificate
+
+21
+
+21.1
+
+Where—
+
+21.1.a
+
+an enforcement notice is served on or given to a person (“ P ”), and
+
+21.1.b
+
+the penalty charge to which it relates is not paid before the end of the
+relevant period,
+
+the enforcement authority which served the notice may serve a charge
+certificate on P.
+
+21.2
+
+For the purposes of this regulation, the relevant period is—
+
+21.2.a
+
+where P—
+
+21.2.a.i
+
+makes an appeal to an adjudicator under regulation 7 of the 2022 Appeals
+Regulations (appeal against a decision to reject representations against an
+enforcement notice), but
+
+21.2.a.ii
+
+withdraws the appeal before the adjudicator serves notice of their decision,
+
+the period of 14 days beginning with the day on which P withdraws the appeal;
+
+21.2.b
+
+in any other case, the period of 28 days beginning with the specified date.
+
+21.3
+
+For the purposes of paragraph (2)(b) “ specified date ” means—
+
+21.3.a
+
+where P does not make any representations under regulation 5 of the 2022
+Appeals Regulations, the date on which the enforcement notice is served or
+given;
+
+21.3.b
+
+where—
+
+21.3.b.i
+
+P makes representations under regulation 5 of the 2022 Appeals Regulations,
+
+21.3.b.ii
+
+a notice of rejection is served by the authority concerned, and
+
+21.3.b.iii
+
+no appeal against the notice of rejection is made by P under regulation 7 of
+those Regulations,
+
+the date on which the notice of rejection is served;
+
+21.3.c
+
+where an adjudicator has, under regulation 7(8) of the 2022 Appeals
+Regulations, recommended the enforcement authority to cancel the relevant
+notice, the date on which the enforcement authority notifies P under
+regulation 7(9) of those Regulations that it does not accept the
+recommendation;
+
+21.3.d
+
+where P has made an unsuccessful appeal to an adjudicator under the 2022
+Appeals Regulations against a notice of rejection and sub-paragraph (c) does
+not apply, the date on which the adjudicator’s decision is served on P.
+
+#### Enforcement of charge certificate
+
+22
+
+Where—
+
+22.a
+
+a charge certificate has been served on a person, and
+
+22.b
+
+that person has not paid the increased penalty charge provided for in the
+certificate within the period of 14 days beginning with the date on which the
+certificate is served,
+
+the enforcement authority may, if a county court so orders, recover the
+increased charge as if it were payable under a county court order.
+
+#### Invalid notices
+
+23
+
+23.1
+
+This regulation applies where—
+
+23.1.a
+
+a county court makes an order under regulation  22 ,
+
+23.1.b
+
+the person against whom it is made (“ P ”) makes a witness statement complying
+with paragraph (2), and
+
+23.1.c
+
+that statement is served on the county court which made the order, before the
+end of—
+
+23.1.c.i
+
+the period of 21 days, beginning with the date on which notice of the county
+court’s order is served on P, or
+
+23.1.c.ii
+
+such longer period as may be allowed under paragraph (4).
+
+23.2
+
+A witness statement must state one and only one of the following—
+
+23.2.a
+
+that P did not receive the enforcement notice;
+
+23.2.b
+
+that P made representations to the enforcement authority under regulation 5 of
+the 2022 Appeals Regulations but a notice of rejection was not received from
+that authority in accordance with regulation 6 of those Regulations;
+
+23.2.c
+
+that P appealed to an adjudicator under regulation 7 of those Regulations
+against the rejection by the enforcement authority of representations made
+under regulation 5 of those Regulations but—
+
+23.2.c.i
+
+P did not receive a response to the appeal,
+
+23.2.c.ii
+
+the appeal had not been determined by the time the charge certificate was
+served, or
+
+23.2.c.iii
+
+the appeal was determined in P’s favour;
+
+23.2.d
+
+that P has paid the penalty charge to which the charge certificate relates.
+
+23.3
+
+Paragraph (4) applies where it appears to a district judge, on the application
+of P, that it would be unreasonable in the circumstances of the case to insist
+on P serving a witness statement within the period of 21 days allowed for by
+paragraph (1).
+
+23.4
+
+Where this paragraph applies, the district judge may allow such longer period
+for service of the witness statement as the judge considers appropriate.
+
+23.5
+
+Where this regulation applies—
+
+23.5.a
+
+the order made under regulation  22  is deemed to have been revoked,
+
+23.5.b
+
+the charge certificate is deemed to have been cancelled,
+
+23.5.c
+
+in the case of a witness statement including a statement under paragraph
+(2)(a), the enforcement notice to which the charge certificate relates is
+deemed to have been cancelled, and
+
+23.5.d
+
+the district judge must serve written notice of the effect of this regulation
+on P and on the enforcement authority concerned.
+
+23.6
+
+Service of a witness statement including a statement under paragraph (2)(a)
+does not prevent the enforcement authority from serving a fresh enforcement
+notice.
+
+23.7
+
+Where a witness statement is served including a statement under paragraph
+(2)(b), (c) or (d), the enforcement authority must refer the case to the
+adjudicator.
+
+23.8
+
+Where a case is referred to the adjudicator—
+
+23.8.a
+
+the adjudicator may give P and the enforcement authority (“ the parties ”)
+such directions as the adjudicator considers appropriate in the circumstances,
+and
+
+23.8.b
+
+the parties must comply with those directions.
+
+23.9
+
+A witness statement under this regulation may be served on the county court by
+email in accordance with Practice Direction 5B made under rule 5.5 of the
+Civil Procedure Rules 1998 .
+
+23.10
+
+In this regulation “ witness statement ” means a statement which is—
+
+23.10.a
+
+a witness statement for the purposes of the Civil Procedure Rules 1998, and
+
+23.10.b
+
+supported by a statement of truth in accordance with Part 22 of those Rules.
+
+### Financial provisions
+
+#### Greater London
+
+##### Setting the levels of charges applicable in Greater London
+
+24
+
+24.1
+
+The functions conferred on the London local authorities by Part 2 of Schedule
+9 to the TMA 2004 (charges applicable in Greater London) in relation to
+parking contraventions committed on or after the commencement date are to be
+exercised by those authorities jointly by means of the single joint committee
+set up in pursuance of regulation  18  (“ the Joint Committee ”).
+
+24.2
+
+No person who represents Transport for London on the Joint Committee may take
+any part in any proceedings of the Joint Committee so far as they relate to
+the discharge by the Joint Committee of functions conferred on the London
+local authorities by Part 2 of Schedule 9 to the TMA 2004.
+
+24.3
+
+Any relevant arrangements in force immediately before the commencement date
+are to continue in force and have effect as if made under this regulation,
+until such time as they are replaced by arrangements made under this
+regulation.
+
+24.4
+
+Any relevant arrangements may, whilst they continue to have effect by virtue
+of paragraph (3), be varied by arrangements made under this regulation.
+
+24.5
+
+In this regulation “ relevant arrangements ” means any arrangements which were
+made, or treated as made, for the purposes of regulation 15 of the 2007
+General Regulations.
+
+##### Modification of section 55 of the RTRA 1984: London authorities
+
+25
+
+25.1
+
+Section 55 of the RTRA 1984  (financial provisions relating to income and
+expenditure from parking places) applies to a London authority which is also
+an enforcement authority in relation to parking contraventions within
+paragraph 2 or 3 of Schedule 7 to the TMA 2004 but as if it were modified as
+follows.
+
+25.2
+
+For subsection (1) substitute—
+
+25.2.1
+
+A London authority which is also an enforcement authority (an “LE authority”)
+must keep—
+
+25.2.1.a
+
+an account of their income and expenditure under this Part of this Act in
+respect of designated parking places,
+
+25.2.1.b
+
+an account of their income and expenditure as an enforcement authority in
+relation to parking contraventions within paragraph 2 of Schedule 7 to the
+Traffic Management Act 2004 (contraventions in relation to parking places in
+Greater London), and
+
+25.2.1.c
+
+an account of their income and expenditure as an enforcement authority in
+relation to parking contraventions within paragraph 3 of that Schedule (other
+parking contraventions in Greater London).
+
+25.2.1A
+
+An LE authority must, after each financial year, send a copy of each of the
+accounts kept by them under subsection (1) to the Mayor of London.
+
+25.2.1B
+
+The copies of the accounts required to be sent under subsection (1A) must be
+sent as soon as is reasonably possible after the conclusion of the audit of
+the authority’s accounts for the financial year in question.
+
+.
+
+25.3
+
+In subsection (2)—
+
+25.3.a
+
+for “the account” substitute  “any of the accounts” ;
+
+25.3.b
+
+omit the words “or, in Wales, council fund”.
+
+25.4
+
+In subsection (3)—
+
+25.4.a
+
+for “local authority” substitute  “LE authority” ;
+
+25.4.b
+
+for “the account” substitute  “the relevant account” .
+
+25.5
+
+In subsection (3A)—
+
+25.5.a
+
+for the words from “Transport for London” to “City of London”, substitute
+“The LE authority” ;
+
+25.5.b
+
+for “their account” substitute  “any of their accounts” .
+
+25.6
+
+In subsection (4)—
+
+25.6.a
+
+in paragraph (a), omit the words “or, in Wales, council fund”;
+
+25.6.b
+
+in paragraph (b), for “local authority” substitute  “LE authority” ;
+
+25.6.c
+
+in paragraph (d), in the words before sub-paragraph (i), for “local authority”
+substitute, “LE authority”;
+
+25.6.d
+
+in paragraph (d)(i), for “local authority” substitute  “LE authority” ;
+
+25.6.e
+
+in paragraph (d)(ii)—
+
+25.6.e.i
+
+omit the words “or road improvement project”;
+
+25.6.e.ii
+
+for “local authority’s” substitute  “LE authority’s” ;
+
+25.6.f
+
+in paragraph (d)(iii)—
+
+25.6.f.i
+
+omit the words “in the case of a London authority,”;
+
+25.6.f.ii
+
+for “the authority” substitute  “the LE authority” ;
+
+25.6.g
+
+in paragraph (d)(iv), for “local authority’s” substitute  “LE authority’s” ;
+
+25.6.h
+
+in paragraph (e), in the words before sub-paragraph (i)—
+
+25.6.h.i
+
+omit the words “in the case of a London authority,”;
+
+25.6.h.ii
+
+for “the authority” substitute  “the LE authority” ;
+
+25.6.i
+
+in paragraph (f), in the words before sub-paragraph (i)—
+
+25.6.i.i
+
+omit the words “in the case of a London authority,”;
+
+25.6.i.ii
+
+for “any other London authority” substitute  “any London authority (other than
+the LE authority)” ;
+
+25.6.i.iii
+
+for “other authority” substitute  “London authority” ;
+
+25.6.i.iv
+
+for “the authority” substitute  “the LE authority;
+
+25.6.j
+
+in paragraph (f)(i), for “the account” substitute  “any of the accounts” ;
+
+25.6.k
+
+in paragraph (f)(ii), for “that account” substitute  “any of those accounts” .
+
+25.7
+
+In subsection (4A)—
+
+25.7.a
+
+in paragraph (a), for “the local authority” substitute  “the LE authority” ;
+
+25.7.b
+
+omit paragraph (b).
+
+25.8
+
+In subsection (10), before the definition of “London authority” insert—
+
+    “ enforcement authority ” means an enforcement authority for the purposes
+of Part 6 of the Traffic Management Act 2004 (civil enforcement) pursuant to
+paragraph 1(2) or 2(5) of Schedule 8 to that Act;
+
+.
+
+25.9
+
+After subsection (10) insert—
+
+25.9.11
+
+A reference in this section to the income and expenditure of an LE authority
+as an enforcement authority is to their income and expenditure in connection
+with their functions under Part 6 of the Traffic Management Act 2004.
+
+.
+
+#### Outside Greater London
+
+##### Guidelines for the level of charges applicable outside Greater London
+
+26
+
+The guidelines given by the Secretary of State for the setting under Part 3 of
+Schedule 9 to the TMA 2004 of the level of charges mentioned in paragraph 1(1)
+of that Schedule (charges applicable outside Greater London) are set out in
+Schedule 3.
+
+##### Modification of section 55 of the RTRA 1984: parking contraventions outside Greater London
+
+27
+
+27.1
+
+Section 55 of the RTRA 1984 (financial provisions relating to income and
+expenditure from parking places) applies to a local authority (other than a
+London authority) which is also an enforcement authority in relation to OGL
+parking contraventions but as if it were modified as follows.
+
+27.2
+
+For subsection (1) substitute—
+
+27.2.1
+
+A local authority (other than a London authority) which is also an enforcement
+authority (an “OGL authority”) must keep—
+
+27.2.1.a
+
+an account of their income and expenditure under this Part of this Act in
+respect of designated parking places in their area which are not in a civil
+enforcement area for parking contraventions,
+
+27.2.1.b
+
+an account of their income and expenditure under this Part of this Act in
+respect of designated parking places in their area which are in a civil
+enforcement area for parking contraventions, and
+
+27.2.1.c
+
+an account of their income and expenditure in connection with their functions
+as an enforcement authority in relation to parking contraventions within
+paragraph 4 of Schedule 7 to the Traffic Management Act 2004 (parking
+contraventions outside Greater London).
+
+.
+
+27.3
+
+In subsection (2)—
+
+27.3.a
+
+for “the account” substitute  “any of the accounts” ;
+
+27.3.b
+
+omit the words “or, in Wales, council fund”.
+
+27.4
+
+In subsection (3)—
+
+27.4.a
+
+for “local authority” substitute  “OGL authority” ;
+
+27.4.b
+
+for “the account” substitute  “the relevant account” .
+
+27.5
+
+Omit subsections (3A) and (3B).
+
+27.6
+
+In subsection (4)—
+
+27.6.a
+
+in paragraph (a), omit the words “or, in Wales, council fund”;
+
+27.6.b
+
+in paragraph (b), for “local authority” substitute  “OGL authority” ;
+
+27.6.c
+
+in paragraph (d), in the words before sub-paragraph (i), for “local authority”
+substitute, “OGL authority”;
+
+27.6.d
+
+in paragraph (d)(i), for “local authority” substitute  “OGL authority” ;
+
+27.6.e
+
+in paragraph (d)(ii)—
+
+27.6.e.i
+
+omit the words “or road improvement project”;
+
+27.6.e.ii
+
+for “local authority’s” substitute  “OGL authority’s” ;
+
+27.6.f
+
+omit paragraph (d)(iii);
+
+27.6.g
+
+in paragraph (d)(iv), for “local authority’s” substitute  “OGL authority’s” ;
+
+27.6.h
+
+omit paragraphs (e) and (f).
+
+27.7
+
+In subsection (4A)—
+
+27.7.a
+
+for “the local authority” substitute  “the OGL authority” ;
+
+27.7.b
+
+omit paragraph (b).
+
+27.8
+
+Omit subsections (8) and (9).
+
+27.9
+
+For subsection (10) substitute—
+
+27.9.10
+
+In this section—
+
+27.9.10.a
+
+“ enforcement authority ” means an enforcement authority for the purposes of
+Part 6 of the Traffic Management Act 2004 (civil enforcement) pursuant to
+paragraph 8(5) of Schedule 8 to that Act;
+
+27.9.10.b
+
+a reference to the income and expenditure of an OGL authority as an
+enforcement authority is to their income and expenditure in connection with
+their functions under Part 6 of the Traffic Management Act 2004;
+
+27.9.10.c
+
+a reference to a civil enforcement area for parking contraventions is to be
+construed in accordance with paragraph 8 of Schedule 8 to that Act
+(designation of civil enforcement areas for parking contraventions outside
+Greater London).
+
+.
+
+##### Income and expenditure in connection with OGL bus lane contraventions
+
+28
+
+28.1
+
+An enforcement authority must keep—
+
+28.1.a
+
+an account of their income and expenditure, on or after the commencement date,
+in connection with any functions which the authority has in connection with
+existing contraventions under the Bus Lane Contraventions (Penalty Charges,
+Adjudication and Enforcement) (England) Regulations 2005 , in consequence of
+article 3 of the Traffic Management Act 2004 (Commencement No.10 and Savings
+and Transitional Provisions) (England) Order 2022 , and
+
+28.1.b
+
+an account of their income and expenditure in connection with their functions
+under Part 6 of the TMA 2004 in relation to OGL bus lane contraventions.
+
+28.2
+
+As soon as reasonably practicable after the end of each financial year, the
+authority must forward to the Secretary of State a copy of the account for
+that year.
+
+28.3
+
+At the end of each financial year, any deficit in the account must be made
+good out of the authority’s general fund.
+
+##### Income and expenditure in connection with OGL moving traffic contraventions
+
+29
+
+29.1
+
+An enforcement authority must keep an account of their income and expenditure
+in connection with their functions under Part 6 of the TMA 2004 in relation to
+OGL moving traffic contraventions.
+
+29.2
+
+At the end of each financial year, any deficit in the account must be made
+good out of the authority’s general fund.
+
+##### Surpluses to be carried forward
+
+30
+
+30.1
+
+Where, immediately before the coming into force of these Regulations there is
+a surplus on an account kept under regulation 36 of the Bus Lane
+Contraventions (Penalty Charges, Adjudication and Enforcement) (England)
+Regulations 2005, the surplus on that account is to be carried forward.
+
+30.2
+
+Any surplus carried forward under paragraph (1) is to be treated as a surplus
+arising in an account kept under regulation  28 .
+
+##### Use of surpluses
+
+31
+
+31.1
+
+Any surplus arising in an account kept by an enforcement authority under
+regulation  28  or  29 —
+
+31.1.a
+
+must be applied for all or any of the purposes specified in paragraph (2), and
+
+31.1.b
+
+insofar as it is not so applied, must be appropriated to the carrying out of
+some specific project falling within those purposes and carried forward until
+applied to that project.
+
+31.2
+
+The purposes are—
+
+31.2.a
+
+the making good to the enforcement authority’s general fund of any amount
+charged to that fund under regulation 28(3) or 29(2) in respect of any deficit
+in the four years preceding the financial year in question;
+
+31.2.b
+
+the purposes of environmental improvement in the enforcement authority’s area;
+
+31.2.c
+
+meeting costs incurred, whether by the enforcement authority or by some other
+person, in the provision or operation of, or of facilities for, public
+passenger transport services;
+
+31.2.d
+
+the purposes of a highway improvement project in the enforcement authority’s
+area.
+
+31.3
+
+For the purposes of paragraph (2)(b) “ environmental improvement ” includes—
+
+31.3.a
+
+the reduction of environmental pollution as defined in the Pollution
+Prevention and Control Act 1999  (see section 1(2) and (3) of that Act);
+
+31.3.b
+
+improving or maintaining the appearance or amenity of—
+
+31.3.b.i
+
+a road or land in the vicinity of a road, or
+
+31.3.b.ii
+
+open land or water to which the general public has access;
+
+31.3.c
+
+the provision of outdoor recreational facilities available to the public
+without charge.
+
+31.4
+
+For the purposes of paragraph (2)(d) “ a highway improvement project ” means a
+project connected with the carrying out by the appropriate highway authority
+of any operation which constitutes the improvement (within the meaning of the
+Highways Act 1980 ) of a highway in the area of a local authority in England.
+
+### Consequential, Transitional and Savings Provisions
+
+#### Revocations
+
+32
+
+32.1
+
+The following instruments are revoked—
+
+32.1.a
+
+the 2007 General Regulations;
+
+32.1.b
+
+the Civil Enforcement of Parking Contraventions (Approved Devices) (England)
+Order 2007 ;
+
+32.1.c
+
+the Civil Enforcement of Parking Contraventions (Guidelines on Levels of
+Charges) (England) Order 2007 .
+
+32.2
+
+This regulation is subject to regulations  34  to  41 .
+
+#### Transitional provisions and savings: general
+
+33
+
+Regulations  34  to  41  are without prejudice to section 16 of the
+Interpretation Act 1978 .
+
+#### Transitional provisions and savings in connection with the revocation of the 2007 General Regulations: existing contraventions, existing offences and related matters
+
+34
+
+34.1
+
+The 2007 General Regulations continue to have effect in relation to—
+
+34.1.a
+
+an existing contravention,
+
+34.1.b
+
+an existing offence,
+
+34.1.c
+
+a vehicle—
+
+34.1.c.i
+
+to which an immobilisation device was fixed in accordance with regulation 12
+of the 2007 General Regulations before the commencement date, but
+
+34.1.c.ii
+
+which had not been released from that device immediately before the
+commencement date,
+
+as they had effect immediately before the commencement date.
+
+34.2
+
+Regulation 11 of the 2007 General Regulations continues to apply on and after
+the commencement date in relation to a penalty charge notice fixed to a
+vehicle under regulation 9 or 9A of the 2007 General Regulations before that
+date.
+
+34.3
+
+Regulations 12 and 13 of the 2007 General Regulations continue to apply on and
+after the commencement date in relation to a relevant vehicle while that
+vehicle remains in the place where it was found by a civil enforcement
+officer.
+
+34.4
+
+For the purposes of paragraph (3), a relevant vehicle is a vehicle to which a
+penalty charge notice—
+
+34.4.a
+
+was fixed under regulation 9 or 9A of the 2007 General Regulations before the
+commencement date, and
+
+34.4.b
+
+which had not been removed or cancelled in accordance with those Regulations
+immediately before that date.
+
+34.5
+
+In this regulation—
+
+“ existing contravention ” means a parking contravention which was committed
+in a civil enforcement area before the commencement date; “ existing offence ”
+means an offence under any of the following provisions of the 2007 General
+Regulations which was committed before the commencement date— regulation
+11(2) ; regulation 12(4); regulation 12(5); regulation 13(2); regulation
+13(3).
+
+#### Transitional provisions and savings: outstanding penalty charges
+
+35
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Transitional provisions and savings in connection with the revocation of the 2007 General Regulations: adjudicators and related reports
+
+36
+
+36.1
+
+Regulation 17(6) of the 2007 General Regulations and the relevant requirements
+continue to have effect in relation to any period which—
+
+36.1.a
+
+ended immediately before the commencement date, and
+
+36.1.b
+
+in respect of which a relevant adjudicator would have been required to submit
+an annual report to the relevant enforcement authorities if the 2007 General
+Regulations had not been revoked by these Regulations.
+
+36.2
+
+Paragraph (3) applies where a period in respect of which a relevant
+adjudicator would have been required to submit an annual report under
+regulation 17(6) of the 2007 General Regulations (a “reporting period”)—
+
+36.2.a
+
+began before the commencement date, but
+
+36.2.b
+
+had not ended immediately before that date.
+
+36.3
+
+Where this paragraph applies—
+
+36.3.a
+
+the adjudicator must submit a report to the relevant enforcement authorities
+in respect of the period which—
+
+36.3.a.i
+
+begins with the first day of the reporting period, and
+
+36.3.a.ii
+
+ends immediately before the commencement date, and
+
+36.3.b
+
+the relevant requirements continue to have effect for that purpose as they had
+effect for the purposes of regulation 17(6) immediately before the
+commencement date.
+
+36.4
+
+Regulation 17(7) of the 2007 General Regulations continues to have effect in
+relation to any period which—
+
+36.4.a
+
+ended immediately before the commencement date, and
+
+36.4.b
+
+in respect of which the relevant enforcement authorities would have been
+required to make an annual report to the Secretary of State if the 2007
+General Regulations had not been revoked by these Regulations.
+
+36.5
+
+Paragraph (6) applies where a period in respect of which the relevant
+enforcement authorities would have been required to submit an annual report to
+the Secretary of State under regulation 17(7) of the 2007 General Regulations
+(an “RA reporting period”)—
+
+36.5.a
+
+began before the commencement date, but
+
+36.5.b
+
+had not ended immediately before that date.
+
+36.6
+
+Where this paragraph applies, the relevant authorities must submit and publish
+a report to the Secretary of State on the discharge by the relevant
+adjudicators of their functions during the period which—
+
+36.6.a
+
+begins with the first day of the RA reporting period, and
+
+36.6.b
+
+ends immediately before the commencement date.
+
+36.7
+
+In this regulation—
+
+    “ relevant adjudicator ” means an adjudicator who—       was appointed
+under regulation 17 of the 2007 General Regulations, and       held office
+immediately before the commencement date;             “ the relevant
+requirements ” means the requirements imposed by the relevant authorities for
+the purposes of regulation 17(6) of the 2007 General Regulations, as they had
+effect immediately before the commencement date.
+
+#### Transitional provisions and savings in connection with the revocation of the 2007 General Regulations: arbitration
+
+37
+
+37.1
+
+Where—
+
+37.1.a
+
+an issue is referred to arbitration under paragraph (1) of regulation 18 of
+the 2007 General Regulations before the commencement date, and
+
+37.1.b
+
+that arbitration is not completed before that date,
+
+the arbitration may be continued on and after that date as if regulation 18 of
+the 2007 General Regulations continued to have effect.
+
+37.2
+
+Where—
+
+37.2.a
+
+the Secretary of State gives any relevant joint committee a direction under
+regulation 18(2) of the 2007 General Regulations before the commencement date,
+but
+
+37.2.b
+
+the relevant issue has not been referred to arbitration in accordance with
+regulation 18(1) of those Regulations before that date,
+
+the relevant direction is to be treated as if it had been given to the
+relevant committee under regulation  17(2)  of these Regulations.
+
+37.3
+
+For the purposes of paragraph (2) “ the relevant committee ” means the joint
+committee constituted, or treated as constituted, under regulation  18  or  19
+of these Regulations of which the enforcement authorities in default for the
+purposes of regulation 18 of the 2007 General Regulations are members.
+
+37.4
+
+Paragraph (5) applies where, on or after the commencement date, any of the
+relevant enforcement authorities (the “defaulting authorities”) fail to agree
+the proportions in which any transitional expenses are to be defrayed.
+
+37.5
+
+Where this paragraph applies—
+
+37.5.a
+
+the authorities concerned must refer the issue to an arbitrator in accordance
+with regulation  17(1) , and
+
+37.5.b
+
+the Secretary of State may give the relevant committee such directions as the
+Secretary of State considers necessary to secure that the issue is so
+referred.
+
+37.6
+
+For the purposes of paragraph (5)—
+
+    “ relevant committee ” means the joint committee constituted, or treated
+as constituted, under regulation  18  or  19  of these Regulations of which
+the defaulting authorities are members;         “ transitional expenses ”
+means expenses under section 81 of the TMA 2004 which—       were incurred
+before the commencement date, or       are incurred on or after that date in
+respect of, or in connection with, any existing contravention.
+
+#### Transitional provisions and savings in connection with the revocation of the 2007 General Regulations: accounts kept by a London authority
+
+38
+
+38.1
+
+Section 55 of the RTRA 1984, as modified by regulation 25 of the 2007 General
+Regulations immediately before the commencement date, continues to have effect
+in relation to an existing London enforcement authority in respect of any
+completed financial year as if the 2007 General Regulations had not been
+revoked by these Regulations.
+
+38.2
+
+For the purposes of paragraph (1) “ completed financial year ” means a
+financial year ending before the commencement date.
+
+38.3
+
+An existing London enforcement authority’s current section 55 account is to be
+treated, on and after the commencement date, as forming part of the account
+which the authority is required to keep under section 55(1) of the RTRA 1984,
+as modified by regulation  25  of these Regulations, in respect of any part of
+the relevant financial year falling on and after the commencement date.
+
+38.4
+
+For the purposes of paragraph (3), an authority’s current section 55 account
+is the account kept by it in respect of the part of the relevant financial
+year falling before the commencement date under section 55(1) of the RTRA
+1984, as modified by regulation 25 of the 2007 General Regulations.
+
+38.5
+
+In this regulation—
+
+    “ existing London enforcement authority ” means an enforcement authority
+(within the meaning of section 55 of the RTRA 1984, as modified by regulation
+25 of the 2007 General Regulations immediately before the commencement date)
+which is a London authority;         “ the relevant financial year ” means the
+financial year which—       began before the commencement date, and       had
+not ended immediately before that date.
+
+#### Transitional provisions and savings in connection with the revocation of the 2007 General Regulations: accounts kept by enforcement authorities outside Greater London
+
+39
+
+39.1
+
+Section 55 of the RTRA 1984, as modified by regulation 25 of the 2007 General
+Regulations immediately before the commencement date, continues to have effect
+in relation to an existing enforcement authority in respect of any completed
+financial year as if the 2007 General Regulations had not been revoked by
+these Regulations.
+
+39.2
+
+For the purposes of paragraph (1) “ completed financial year ” means a
+financial year ending before the commencement date.
+
+39.3
+
+An existing enforcement authority’s current section 55 account is to be
+treated, on and after the commencement date, as forming part of the account
+which the authority is required to keep under section 55(1) of the RTRA 1984,
+as modified by regulation  27  of these Regulations, in respect of any part of
+the relevant financial year falling on and after the commencement date.
+
+39.4
+
+For the purposes of paragraph (3), an authority’s current section 55 account
+is the account kept by it in respect of the part of the relevant financial
+year falling before the commencement date under section 55(1) of the RTRA
+1984, as modified by regulation 25 of the 2007 General Regulations.
+
+39.5
+
+In this regulation—
+
+    “ existing enforcement authority ” means an enforcement authority (within
+the meaning of section 55 of the RTRA 1984, as modified by regulation 25 of
+the 2007 General Regulations immediately before the commencement date) which
+is not a London authority;         “ the relevant financial year ” means the
+financial year which—       began before the commencement date, and       had
+not ended immediately before that date.
+
+#### Transitional provisions and savings: approved devices
+
+40
+
+40.1
+
+A device which is an existing approved device is to be treated, on and after
+the commencement date, as an approved device for the purposes of these
+Regulations as they apply in relation to—
+
+40.1.a
+
+a parking contravention, or
+
+40.1.b
+
+an OGL bus lane contravention.
+
+40.2
+
+For the purposes of this regulation “ existing approved device ” means a
+device approved by virtue of—
+
+40.2.a
+
+article 2 of the Civil Enforcement of Parking Contraventions (Approved
+Devices) (England) Order 2007, or
+
+40.2.b
+
+article 2 of the Bus Lanes (Approved Devices) (England) Order 2005 ,
+
+immediately before the commencement date.
+
+#### Transitional provisions and savings: charging guidelines
+
+41
+
+41.1
+
+The existing charging guidelines continue to have effect in relation to any
+existing contravention outside Greater London.
+
+41.2
+
+For the purposes of this regulation—
+
+    “ existing contravention ” has the meaning given in regulation  34 ;
+“ the existing charging guidelines ” means guidelines set out in the Schedule
+to the Civil Enforcement of Parking Contraventions (Guidelines on Levels of
+Charges) (England) Order 2007, as they had effect immediately before the
+commencement date.
+
+#### Consequential amendments
+
+42
+
+Schedule 4 contains amendments to secondary legislation in consequence of
+Parts 1 to 6 of these Regulations and related transitional and savings
+provisions.
+
+### Amendments related to traffic signs that are subject to civil enforcement
+
+#### Traffic signs that are subject to civil enforcement
+
+43
+
+Schedule 5 contains amendments to—
+
+43.a
+
+Schedule 3 to the London Local Authorities and Transport for London Act 2003
+(scheduled traffic signs for the purposes of section 4 of that Act);
+
+43.b
+
+Part 4 of Schedule 7 to the TMA 2004 (moving traffic contraventions: traffic
+signs that are subject to civil enforcement in England).
+
+    Signed by authority of the Secretary of State for Transport     Vere
+Parliamentary Under Secretary of State   Department for Transport
+Wolfson   Parliamentary Under Secretary of State for Justice   Ministry of
+Justice
+
+  Specified requirements for approved devices
+
+Regulation 4
+
+1
+
+The device must include a camera which is—
+
+1.a
+
+securely mounted on a vehicle, a building, a post or other structure,
+
+1.b
+
+mounted in such a position that vehicles in relation to which relevant road
+traffic contraventions are being committed can be surveyed by it,
+
+1.c
+
+connected by secure data links to a recording system, and
+
+1.d
+
+capable of producing in one or more pictures, a legible image or images of the
+vehicle in relation to which a relevant road traffic contravention was
+committed which show its registration mark and enough of its location to show
+the circumstances of the contravention.
+
+2
+
+The device must include a recording system in which—
+
+2.a
+
+recordings are made automatically of the output from the camera or cameras
+surveying the vehicle and the place where a contravention is occurring,
+
+2.b
+
+there is used a secure and reliable recording method that records at a minimum
+rate of 5 frames per second,
+
+2.c
+
+each frame of all captured images is timed (in hours, minutes and seconds),
+dated and sequentially numbered automatically by means of a visual counter,
+and
+
+2.d
+
+where the device does not occupy a fixed location, it records the location
+from which it is being operated.
+
+3
+
+The device and visual counter must—
+
+3.a
+
+be synchronised with a suitably independent national standard clock; and
+
+3.b
+
+be accurate within plus or minus 10 seconds over a 14-day period and re-
+synchronised to the suitably independent national standard clock at least once
+during that period.
+
+4
+
+Where the device includes a facility to print a still image, that image when
+printed must be endorsed with the time and date when the frame was captured
+and its unique number.
+
+5
+
+Where the device can record spoken words or other audio data simultaneously
+with visual images, the device must include a means of verifying that, in any
+recording produced by it, the sound track is correctly synchronised with the
+visual image.
+
+  Penalty charge notices
+
+Regulations 9 and 10
+
+##### Meaning of “regulatory matters”
+
+1
+
+In this Schedule “ the regulatory matters ”, in relation to an alleged
+relevant road traffic contravention, means—
+
+1.a
+
+the name of the enforcement authority,
+
+1.b
+
+the registration mark of the vehicle involved in the alleged contravention,
+
+1.c
+
+the date on and the time at which the alleged contravention occurred,
+
+1.d
+
+the amount of the penalty charge, and
+
+1.e
+
+the manner in which the penalty charge must be paid.
+
+##### Particulars to be included in a penalty charge notice given under regulation 
+
+2
+
+The information to be included in a penalty charge notice served under
+regulation  9  is—
+
+2.a
+
+the date on which the notice is served,
+
+2.b
+
+the regulatory matters,
+
+2.c
+
+the grounds on which the civil enforcement officer issuing the notice believes
+that a penalty charge is payable,
+
+2.d
+
+that the penalty charge must be paid within the period of 28 days beginning
+with the date on which the alleged contravention occurred,
+
+2.e
+
+that if the penalty charge is paid no later than the applicable date, the
+penalty charge will be reduced by the amount of any applicable discount, and
+
+2.f
+
+that if the penalty charge is not paid within the period of 28 days referred
+to in sub-paragraph (d), a notice to owner may be served by the enforcement
+authority on the owner of the vehicle.
+
+##### Particulars to be included in a regulation 
+
+3
+
+3.1
+
+The information to be included in a regulation  10  penalty charge notice is—
+
+3.1.a
+
+the date of the notice, which must be the date on which it is posted,
+
+3.1.b
+
+the regulatory matters,
+
+3.1.c
+
+the grounds on which the enforcement authority believes that a penalty charge
+is payable;
+
+3.1.d
+
+that the penalty charge must be paid within the period of 28 days beginning
+with the date on which the penalty charge notice is served,
+
+3.1.e
+
+that if the penalty charge is paid no later than the applicable date, the
+penalty charge will be reduced by the amount of any applicable discount,
+
+3.1.f
+
+that if after the last day of the period referred to in sub-paragraph (d)—
+
+3.1.f.i
+
+no representations have been made in accordance with regulation 5 of the 2022
+Appeals Regulations, and
+
+3.1.f.ii
+
+the penalty charge has not been paid,
+
+the enforcement authority may increase the penalty charge by the amount of any
+applicable surcharge and take steps to enforce payment of the charge as so
+increased,
+
+3.1.g
+
+the amount of the increased penalty charge, and
+
+3.1.h
+
+that the penalty charge notice is being served by post for whichever of the
+following reasons applies—
+
+3.1.h.i
+
+on the basis of a record produced by an approved device;
+
+3.1.h.ii
+
+because a civil enforcement officer attempted to serve a penalty charge notice
+by affixing it to the vehicle or giving it to the person in charge of the
+vehicle but was prevented from doing so by some person;
+
+3.1.h.iii
+
+because a civil enforcement officer had begun to prepare a penalty charge
+notice for service in accordance with regulation  9  but the vehicle was
+driven away from the place in which it was stationary before the civil
+enforcement officer had finished preparing the penalty charge notice or had
+served it in accordance with regulation  9 .
+
+  Guidelines for the setting by enforcement authorities of charges for
+relevant road traffic contraventions etc outside Greater London
+
+Regulation 26
+
+##### Guidelines for relevant road traffic contraventions
+
+###### Penalty charges for relevant road traffic contraventions
+
+1
+
+1.1
+
+Penalty charges for relevant road traffic contraventions  must be set—
+
+1.1.a
+
+for higher level contraventions, at the level specified in column (2) of one
+of the bands in Table 1, and
+
+1.1.b
+
+for all other contraventions, at the level specified in column (3) of the band
+selected for higher level contraventions.
+
+1.2
+
+The discounted level for a penalty charge which is paid early must be set—
+
+1.2.a
+
+for higher level contraventions, at the level specified in column (4) of the
+band specifying the levels of the penalty charges;
+
+1.2.b
+
+for all other contraventions, at the level specified in column (5) of the band
+specifying the levels of the penalty charges.
+
+1.3
+
+For the purposes of sub-paragraph (2), a penalty charge is paid early if it is
+paid by the applicable date.
+
+1.4
+
+The surcharged level for payment of a penalty charge after a charge
+certificate has been issued must be set—
+
+1.4.a
+
+for higher level contraventions, at the level specified in column (6) of the
+band specifying the levels of the penalty charges;
+
+1.4.b
+
+for all other contraventions, at the level specified in column (7) of the band
+specifying the levels of the penalty charges.
+
+1.5
+
+An enforcement authority may set penalty charges in accordance with different
+bands in the table in different parts of its area, provided that all the
+charges set in any part are set in accordance with the same band.
+
+  Table 1       (1) Band (2) Higher level penalty charge (3) Lower level
+penalty charge (4) Higher level penalty charge paid early (5) Lower level
+penalty charge paid early (6) Higher level penalty charge paid after service
+of charge certificate (7) Lower level penalty charge paid after service of
+charge certificate   1. £60 £40 £30 £20 £90 £60 2. £70 £50 £35 £25 £105 £75
+
+###### Meaning of “higher level contraventions”
+
+2
+
+2.1
+
+For the purposes of this Part of this Schedule “higher level contraventions”
+are those road traffic contraventions listed in sub-paragraph (2).
+
+2.2
+
+The contraventions are—
+
+2.2.a
+
+an OGL parking contravention involving the commission of an offence of the
+kind referred to in paragraph 4(2)(b) of Schedule 7 to the TMA 2004
+(contravention of waiting, loading or unloading restrictions or prohibitions);
+
+2.2.b
+
+an OGL parking contravention involving the leaving of a vehicle in an on-
+street parking place otherwise than as authorised by or under any order
+relating to the parking place in any of the following cases—
+
+2.2.b.i
+
+without displaying a permit, voucher or pay and display ticket;
+
+2.2.b.ii
+
+in a place where parking has been suspended;
+
+2.2.b.iii
+
+where the vehicle is used in connection with the sale of goods or the offering
+or exposure of goods for sale;
+
+2.2.b.iv
+
+where the vehicle does not fall within the class of vehicle permitted to park
+there;
+
+2.2.c
+
+a contravention of the prohibition imposed by section 85 of the TMA 2004
+(double parking etc.);
+
+2.2.d
+
+a contravention of the prohibition imposed by section 86 of the TMA 2004
+(dropped footways);
+
+2.2.e
+
+an OGL parking contravention consisting of an offence referred to in paragraph
+4(2)(ba) of Schedule 7 to the TMA 2004 (pedestrian crossing contraventions);
+
+2.2.f
+
+a OGL parking contravention involving an offence of the kind referred to in
+paragraph 4(2)(d) of Schedule 7 to the TMA 2004 (offence in connection with
+parking places) relating to an off-street parking place and consisting of any
+of the following where prohibited by an order relating to the parking place—
+
+2.2.f.i
+
+using a vehicle in connection with the sale of goods or the offering or
+exposure of goods for sale;
+
+2.2.f.ii
+
+parking in a restricted area;
+
+2.2.f.iii
+
+parking in a permit bay without displaying a permit;
+
+2.2.f.iv
+
+parking in a disabled person’s parking place without correctly displaying a
+valid disabled person’s badge;
+
+2.2.f.v
+
+parking a vehicle in a place where the vehicle does not fall within the class
+of vehicle permitted to park in that place;
+
+2.2.g
+
+an OGL parking contravention consisting of an offence of the kind referred to
+in paragraph 4(2)(e) of Schedule 7 to the TMA 2004 (parking in loading areas);
+
+2.2.h
+
+an OGL parking contravention consisting of an offence of the kind referred to
+in paragraph 4(2)(g) of Schedule 7 to the TMA 2004 (parking of HGVs on verges,
+central reservations or footways);
+
+2.2.i
+
+an OGL parking contravention consisting of the commission of an offence of the
+kind referred to in paragraph 4(2)(h) of Schedule 7 to the TMA 2004 (offences
+relating to cycle tracks);
+
+2.2.j
+
+an OGL parking contravention consisting of an offence of the kind referred to
+in paragraph 4(2)(ha) of Schedule 7 to the TMA 2004 (bus stop or bus stand
+markings);
+
+2.2.k
+
+an OGL bus lane contravention;
+
+2.2.l
+
+an OGL moving traffic contravention.
+
+##### Guidelines for charges for removal, storage or disposal or release from an immobilisation device
+
+###### Charges for the removal, storage and disposal of vehicles
+
+3
+
+Charges, made under section 102 of the RTRA 1984 , for the removal, storage
+and disposal of vehicles found in an area that is a civil enforcement area for
+... parking contraventions must be those in Table 2.
+
+Table 2 (1) Item (2) Type of charge (3) Amount of charge 1. Vehicle removal
+charge £105 2. Vehicle storage charge £12 for each day, or part of day, during
+which the vehicle is impounded 3. Vehicle disposal charge £50
+
+###### Release of vehicle from an immobilisation device under section 79 of the TMA 2004
+
+4
+
+The charge payable under regulation  15(1)(b)  for the release of a vehicle
+from an immobilisation device must be £40.
+
+##### General
+
+###### Saving for powers of the Secretary of State
+
+5
+
+Nothing in these guidelines prejudices or affects the power of the Secretary
+of State, under paragraph 8(3) of Schedule 9 to the TMA 2004, to permit an
+enforcement authority to depart from these guidelines.
+
+  Consequential Amendments
+
+Regulation 42
+
+##### Amendment of regulation 5C of the Removal and Disposal of Vehicles Regulations 1986
+
+1
+
+1.1
+
+Regulation 5C of the Removal and Disposal of Vehicles Regulations 1986  (power
+of civil enforcement officers to remove vehicles in a civil enforcement area
+for parking contraventions in England) is amended as follows.
+
+1.2
+
+In paragraph (1), in sub-paragraph (b), for “regulation 9A of the Civil
+Enforcement of Parking Contraventions (England) General Regulations 2007”,
+substitute  “regulation  9  of the Civil Enforcement of Road Traffic
+Contraventions (Approved Devices, Charging Guidelines and General Provisions)
+(England) Regulations 2022” .
+
+1.3
+
+In paragraph (4)—
+
+1.3.a
+
+in the definition of “outstanding”, for “Civil Enforcement of Parking
+Contraventions (England) General Regulations 2007 (see regulation 2(2), (3)
+and (4) of those Regulations)” substitute  “regulation 15(6) of the Civil
+Enforcement of Road Traffic Contraventions (Approved Devices, Charging
+Guidelines and General Provisions) (England) Regulations 2022” ;
+
+1.3.b
+
+in the definition of “penalty charge”, for “Civil Enforcement of Parking
+Contraventions (England) General Regulations 2007” substitute  “Civil
+Enforcement of Road Traffic Contraventions (Approved Devices, Charging
+Guidelines and General Provisions) (England) Regulations 2022” ; and
+
+1.3.c
+
+in the definition of “penalty charge notice”, for “Civil Enforcement of
+Parking Contraventions (England) General Regulations 2007 (see regulation 8(1)
+of those Regulations)”, substitute  “Civil Enforcement of Road Traffic
+Contraventions (Approved Devices, Charging Guidelines and General Provisions)
+(England) Regulations 2022 (see regulation  2  of those Regulations)” .
+
+##### Amendment of article 8A of the High Court and County Courts Jurisdiction Order 1991
+
+2
+
+In article 8A of the High Court and County Courts Jurisdiction Order 1991
+(enforcement of traffic penalties), in paragraph (1)(a)(iv), for “Civil
+Enforcement of Parking Contraventions (England) General Regulations 2007”,
+substitute  “Civil Enforcement of Road Traffic Contraventions (Approved
+Devices, Charging Guidelines and General Provisions) (England) Regulations
+2022” .
+
+##### Amendment of the Traffic Management Act 2004 (Commencement No. 5 and Transitional Provisions) (England) Order 2007
+
+3
+
+3.1
+
+The Traffic Management Act 2004 (Commencement No. 5 and Transitional
+Provisions) (England) Order 2007  is amended as follows.
+
+3.2
+
+In article 5 (transitional modifications of the London Local Authorities Act
+1996)—
+
+3.2.a
+
+in paragraph (2) (modification of section 3(1)), for paragraph (b) substitute—
+
+3.2.a.b
+
+for the definition of “Joint Committee” there is substituted—
+
+“ Joint Committee ” means the joint committee appointed pursuant to section
+102(1)(b) of the Local Government Act 1972 to discharge the functions
+described in regulation  18  of the Civil Enforcement of Road Traffic
+Contraventions (Approved Devices, Charging Guidelines and General Provisions)
+(England) Regulations 2022;
+
+;
+
+;
+
+3.2.b
+
+in paragraph (3)(a) (modification of section 6(1)) for “regulation 17 of the
+Civil Enforcement of Parking Contraventions (England) General Regulations
+2007” substitute  “regulation  16  of the Civil Enforcement of Road Traffic
+Contraventions (Approved Devices, Charging Guidelines and General Provisions)
+(England) Regulations 2022”  (“ the RTC Regulations ”);
+
+3.2.c
+
+in paragraph (3)(c), in the substituted section 6(3)—
+
+3.2.c.i
+
+for the words from “Regulations 12(6)” to “committee),” substitute
+“Regulation  16(6)  and  (7)  (reports by adjudicators and to the Secretary of
+State) of the RTC Regulations and” ;
+
+3.2.c.ii
+
+in paragraph (a), for “those Regulations” substitute  “the RTC Regulations” ;
+
+3.2.c.iii
+
+for paragraph (b) substitute—
+
+3.2.c.iii.b
+
+to the persons who exercise the functions of the enforcing authority for the
+purposes of Schedule 1 to this Act as they apply to the relevant enforcement
+authorities which are London authorities,
+
+;
+
+3.2.d
+
+in paragraph (3), after sub-paragraph (c), insert—
+
+3.2.d.d
+
+after subsection (3) there is inserted—
+
+3.2.d.d.3A
+
+For the purposes of subsection (3)—
+
+3.2.d.d.3A.a
+
+“ the relevant enforcement authorities ” has the same meaning as in section 81
+of the Traffic Management Act 2004;
+
+3.2.d.d.3A.b
+
+“ London authority ” has the same meaning as in Part 6 of that Act (see
+section 92 of that Act).
+
+;
+
+;
+
+3.2.e
+
+in paragraph (4), in the substituted section 8, for  “regulation 24 of the
+Civil Enforcement of Parking Contraventions (England) General Regulations
+2007”  substitute “regulation  24  of the Civil Enforcement of Road Traffic
+Contraventions (Approved Devices, Charging Guidelines and General Provisions)
+(England) Regulations 2022”.
+
+3.3
+
+In article 7 (transitional modifications of the London Local Authorities Act
+2000)—
+
+3.3.a
+
+in paragraph (2)(b) (modification of section 3(1): definition of “ the
+Parking General Regulations ”), for “Civil Enforcement of Parking
+Contraventions (England) General Regulations 2007” substitute  “Civil
+Enforcement of Road Traffic Contraventions (Approved Devices, Charging
+Guidelines and General Provisions) (England) Regulations 2022” ;
+
+3.3.b
+
+in paragraph (3) (modification of section 9)—
+
+3.3.b.i
+
+in sub-paragraph (a), for “12(1)” substitute  “ 13(1) ” ;
+
+3.3.b.ii
+
+in sub-paragraph (b), for “14(2)(a) or (b)” substitute  “ 15(1)(a)  or (b)” .
+
+3.4
+
+In article 8 (transitional modifications of the London Local Authorities and
+Transport for London Act 2003)—
+
+3.4.a
+
+in paragraph (2) (modification of section 4)—
+
+3.4.a.i
+
+in sub-paragraph (a) (modification of subsection (6)(b)), for “regulation 4(b)
+of the Civil Enforcement of Parking Contraventions (England) General
+Regulations 2007” substitute  “regulation 6 of the Civil Enforcement of Road
+Traffic Contraventions (Approved Devices, Charging Guidelines and General
+Provisions) (England) Regulations 2022 (“ the RTC Regulations ”) by reason of
+being a parking contravention within paragraph 3 of Schedule 7 to the Traffic
+Management Act 2004 in a civil enforcement area in Greater London,” ;
+
+3.4.a.ii
+
+for sub-paragraph (d) substitute—
+
+3.4.a.ii.d
+
+in subsection (16), for the definition of “Joint Committee” there is
+substituted—
+
+“ Joint Committee ” means the joint committee appointed pursuant to section
+102(1)(b) of the Local Government Act 1972 to discharge the functions
+described in regulation  18  of the RTC Regulations;
+
+.
+
+;
+
+3.4.b
+
+in paragraph (4)(b), in paragraph (i) (modification of paragraph 10(1) of
+Schedule 1), for “regulation 17 of the Civil Enforcement of Parking
+Contraventions (England) General Regulations 2007 ( S.I. 2007/3483 )”
+substitute  “regulation  16  of the Civil Enforcement of Road Traffic
+Contraventions (Approved Devices, Charging Guidelines and General Provisions)
+(England) Regulations 2022 (“ the RTC Regulations ”)” ;
+
+3.4.c
+
+in paragraph (4)(b), in paragraph (ii) (modification of paragraph 10(2) and
+(3) of Schedule 1), in the substituted sub-paragraph (3)—
+
+3.4.c.i
+
+for the words from “Regulations 12(6)” to “committee),” substitute
+“Regulation  16(6)  and  (7)  of the RTC Regulations and;” ;
+
+3.4.c.ii
+
+in paragraph (a) for “those Regulations” substitute  “the RTC Regulations” ;
+
+3.4.c.iii
+
+for paragraph (b) substitute—
+
+3.4.c.iii.b
+
+to the persons who exercise the functions of the enforcing authority as they
+apply to the relevant enforcement authorities which are London authorities,
+
+;
+
+3.4.d
+
+after paragraph (4)(b) insert—
+
+3.4.d.c
+
+after sub-paragraph (3) there is inserted—
+
+3.4.d.c.3A
+
+For the purposes of sub-paragraph (3)—
+
+3.4.d.c.3A.a
+
+“ the relevant enforcement authorities ” has the same meaning as in section 81
+of the Traffic Management Act 2004;
+
+3.4.d.c.3A.b
+
+“ London authority ” has the same meaning as in Part 6 of that Act (see
+section 92 of that Act).
+
+.
+
+.
+
+##### Amendment of Schedule 1 to the Judicial Appointments Order 2008
+
+4
+
+In Part 1 of Schedule 1 to the Judicial Appointments Order 2008  (officers for
+a fellow of the Institute of Legal Executives holds a relevant qualification)
+for “Adjudicators appointed under regulation 17 of the Civil Enforcement of
+Parking Contraventions (England) General Regulations 2007”, substitute
+“Adjudicators appointed under regulation  16  of the Civil Enforcement of Road
+Traffic Contraventions (Approved Devices, Charging Guidelines and General
+Provisions) (England) Regulations 2022” .
+
+##### Amendment of the Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement) (England) Regulations 2013
+
+5
+
+5.1
+
+The Road User Charging Schemes (Penalty Charges, Adjudication and Enforcement)
+(England) Regulations 2013  are amended as follows.
+
+5.2
+
+In regulation 2(1) (interpretation), in the definition of “joint committee”,
+for “regulation 16 of the Civil Enforcement of Parking Contraventions
+(England) General Regulations 2007”, substitute  “regulation  19  of the Civil
+Enforcement of Road Traffic Contraventions (Approved Devices, Charging
+Guidelines and General Provisions) (England) Regulations 2022” .
+
+5.3
+
+In regulation 12(2) (appointment etc. of adjudicators), after “2007
+Regulations”, insert  “, or under regulation  16  of the Civil Enforcement of
+Road Traffic Contraventions (Approved Devices, Charging Guidelines and General
+Provisions) (England) Regulations 2022,” .
+
+##### Amendment of the West Midlands Combined Authority (Functions and Amendment) Order 2017
+
+6
+
+6.1
+
+Article 6 of the West Midlands Combined Authority (Functions and Amendment)
+Order 2017  (bus lane contraventions) is amended as follows.
+
+6.2
+
+For paragraph (3) substitute—
+
+6.2.3
+
+For the purposes of this article, the Combined Authority is to be treated as
+an enforcement authority for the Enforcement Area in relation to bus lane
+contraventions, and references in the General Provisions Regulations to an
+enforcement authority or a civil enforcement area are to be construed
+accordingly.
+
+.
+
+6.3
+
+In paragraph (4), for sub-paragraph (a) substitute—
+
+6.3.a
+
+“ the General Provisions Regulations ” means the Civil Enforcement of Road
+Traffic Contraventions (Approved Devices, Charging Guidelines and General
+Provisions) (England) Regulations 2022;
+
+6.3.aa
+
+“ bus lane contravention ” has the meaning given in the Transport Management
+Act 2004 (see section 93 of and Schedule 7 to that Act);
+
+.
+
+##### Amendment of regulation 18 of the Littering From Vehicles Outside London (Keepers: Civil Penalties) Regulations 2018
+
+7
+
+7.1
+
+Regulation 18 of the Littering From Vehicles Outside London (Keepers: Civil
+penalties) Regulations 2018  (adjudicators) is amended as follows.
+
+7.2
+
+In paragraph (1), for “regulation 17 of the Civil Enforcement of Parking
+Contraventions (England) General Regulations 2007” substitute  “regulation  16
+of the Civil Enforcement of Road Traffic Contraventions (Approved Devices,
+Charging Guidelines and General Provisions) (England) Regulations 2022” .
+
+7.3
+
+In paragraph (3), for “regulation 16(1) of the Civil Enforcement of Parking
+Contraventions (England) General Regulations 2007” substitute  “regulation
+19(1)  of the Civil Enforcement of Road Traffic Contraventions (Approved
+Devices, Charging Guidelines and General Provisions) (England) Regulations
+2022” .
+
+##### Amendment of the West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021
+
+8
+
+8.1
+
+Article 24 of the West Yorkshire Combined Authority (Election of Mayor and
+Functions) Order 2021  (bus lane contraventions) is amended as follows.
+
+8.2
+
+For paragraph (3) substitute—
+
+8.2.3
+
+For the purposes of this article, the Combined Authority is to be treated as
+an enforcement authority for the Enforcement Area in relation to bus lane
+contraventions, and references in the General Provisions Regulations to an
+enforcement authority or a civil enforcement area are to be construed
+accordingly.
+
+.
+
+8.3
+
+In paragraph (4), for sub-paragraph (a) substitute—
+
+8.3.a
+
+“ the General Provisions Regulations ” means the Civil Enforcement of Road
+Traffic Contraventions (Approved Devices, Charging Guidelines and General
+Provisions) (England) Regulations 2022;
+
+8.3.aa
+
+“ bus lane contravention ” has the meaning given in the Transport Management
+Act 2004 (see section 92 of and Schedule 7 to that Act);
+
+.
+
+  Amendments relating to traffic signs
+
+Regulation 43
+
+##### Amendment of Schedule 3 to the London Local Authorities and Transport for London Act 2003
+
+1
+
+1.1
+
+Schedule 3 to the London Local Authorities and Transport for London Act 2003
+(scheduled traffic signs for the purposes of section 4 of that Act) is amended
+in accordance with this paragraph.
+
+1.2
+
+In paragraph 1, after “table” insert  “in paragraph 4” .
+
+1.3
+
+In paragraph 2, after “table” insert  “in paragraph 4 below” .
+
+1.4
+
+In paragraph 4—
+
+1.4.a
+
+the existing text becomes sub-paragraph (1);
+
+1.4.b
+
+in that sub-paragraph, after “table” insert  “in this paragraph” ;
+
+1.4.c
+
+after that sub-paragraph insert—
+
+1.4.c.2
+
+The marking with diagram number 1027.1 is a scheduled traffic sign for the
+purposes of section 4 (penalty charges for road traffic contraventions) of
+this Act only if it is placed in conjunction with an upright sign (within the
+meaning given in the 2016 Regulations) which includes the symbol at item 10 in
+Part 3 of Schedule 4 to the 2016 Regulations.
+
+.
+
+1.5
+
+In the table—
+
+1.5.a
+
+after the entry for “One way traffic” insert—
+
+      Buses prohibited 952 (Schedule 3, Part 2, item 17)
+
+;
+
+1.5.b
+
+after the entry for “Route for use by buses, pedal cycles and taxis only”
+insert—
+
+      Route for use by pedal cycles only 955 (Schedule 3, Part 2, item 28)
+Route for use by pedal cycles and pedestrians only 956 (Schedule 3, Part 2,
+item 29) Route comprising two ways, for use by pedal cycles only and by
+pedestrians only 957 (Schedule 3, Part 2, item 32) With-flow cycle lane 959.1
+(Schedule 9, Part 4, item 9) Contra-flow cycle lane 960.1 (Schedule 9, Part 4,
+item 6)
+
+.
+
+1.6
+
+After paragraph 4 insert—
+
+1.6.5
+
+Column 1 of the table in paragraph 7 below sets out the description of the
+sign, which corresponds with the description as set out in the Traffic Signs
+Regulations and General Directions 2002  (“ the 2002 Regulations ”) of the
+requirement, restriction or prohibition conveyed by the relevant traffic sign.
+
+1.6.6
+
+Column 2 of the table in paragraph 7 below sets out the corresponding number
+given to the diagram illustrating the relevant traffic sign in the 2002
+Regulations.
+
+1.6.7
+
+The signs include permitted variants of the signs as described in the 2002
+Regulations.
+
+      (1) Description (2) Diagram number (with location in the Traffic Signs
+Regulations and General Directions 2002)   Entry to pedestrian zone restricted
+618.2 (Schedule 2) Entry to and waiting in pedestrian zone restricted 618.3
+(Schedule 2) Entry to and waiting in pedestrian zone restricted (variable
+message sign) 618.3A (Schedule 2)
+
+.
+
+##### Amendment of Part 4 of Schedule 7 to the TMA 2004
+
+2
+
+2.1
+
+Part 4 of Schedule 7 to the TMA 2004 (moving traffic contraventions) is
+amended as follows.
+
+2.2
+
+In paragraph 8(1)(a) (definition), for “paragraph” substitute  “paragraphs 8A
+and” .
+
+2.3
+
+In paragraph 8A (traffic signs subject to civil enforcement in England) —
+
+2.3.a
+
+in sub-paragraph (2), after “( SI 2016/362 )” insert  “(“ the 2016 Regulations
+”)” ;
+
+2.3.b
+
+after sub-paragraph (2) insert—
+
+2.3.b.2A
+
+The marking with diagram number 1027.1 is subject to civil enforcement in
+England only if it is placed in conjunction with an upright sign (within the
+meaning given in the 2016 Regulations) which includes the symbol at item 10 in
+Part 3 of Schedule 4 to the 2016 Regulations.
+
+.
+
+2.3.c
+
+in Table A in sub-paragraph (5), after the entry for “Contra-flow cycle lane”
+insert—
+
+      Part of the carriageway outside an entrance where vehicles should, or
+must not, stop 1027.1 (Schedule 7, Part 4, item 10)
+
+.
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations, together with the Civil Enforcement of Road Traffic
+Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I.
+2022/XXXX), provide for the civil enforcement of—   d     parking
+contraventions in England, and       e     bus lane contraventions, and moving
+traffic contraventions, in England but outside Greater London.
+
+(“relevant road traffic contraventions”) in accordance with Part 6 of the
+Traffic Management Act 2004 (“the TMA 2004”). These Regulations apply in
+England only.
+
+Part 1 of these Regulations make introductory provisions. In particular,
+regulation 4 makes provision about “approved devices”. That regulation
+specifies a description of device which is an approved device for the purposes
+of these Regulations The devices, traffic cameras, are approved devices if
+they are of a type which is certified by the Secretary of State as meeting the
+requirements set out in the Schedule 1 to these Regulations.
+
+Part 2 of these Regulations makes provision about the imposition of penalty
+charges in respect of relevant road traffic contraventions. Regulation 6
+enables penalty charges to be imposed for relevant road traffic
+contraventions. The penalty charge is payable by the owner of the vehicle,
+expect in certain cases where a vehicle is hired (regulation 6). Regulation 7,
+in accordance with section 72(4)(a) of the TMA 2004, prohibits the imposition
+of a penalty charge—   a     for a parking contravention except on the basis
+of a record produced by an approved device or information given by a civil
+enforcement officer as to conduct observed by that officer;       b     for a
+bus lane contravention or moving traffic contravention except on the basis of
+a record produced by an approved device.
+
+Regulation 8 prohibits criminal proceedings and fixed penalty notices under
+the Road Traffic Offenders Act 1988 in respect of parking contraventions in
+civil enforcement areas; but an exception is made for pedestrian crossing
+contraventions. Where such a contravention is the subject of criminal
+proceedings or of a fixed penalty notice, the issue of a penalty charge notice
+under the Regulations is prohibited and any penalty charge which has been paid
+must be refunded.
+
+Regulation 9 enables a civil enforcement officer, with reason to believe that
+a penalty charge is payable for a parking contravention to serve a penalty
+charge notice. Such notices must be served either by fixing them to the
+relevant vehicle or giving them to the person appearing to the civil
+enforcement officer to be the owner of the vehicle. Regulation 10 enables an
+enforcement authority to serve a penalty charge notice by post. Such notices
+can be served in respect of bus lane or moving traffic contraventions, or in
+cases where a civil enforcement officer has been unable to serve a notice
+under regulation 10. Schedule 2 makes provision about the matters to be
+included in a notice served under regulation 9 or 10.
+
+Regulation 12 makes it an offence to interfere with a penalty charge notice
+served by its being fixed to a vehicle, except by or under the authority of
+the owner or person in charge of the vehicle or the enforcement authority.
+
+Part 3 makes provision regarding the immobilisation of vehicles. Regulation 13
+defines the circumstances in which an immobilisation device may be fixed to a
+vehicle, requires a notice to be fixed to the vehicle at the time of
+immobilisation and creates the offences of interfering with the notice or the
+immobilisation device. Regulation 14 specifies exceptions to the general power
+to immobilise and regulation 15 specifies the pre-requisites for the release
+of a vehicle from an immobilisation device.
+
+Part 4 provides for the appointment of adjudicators by enforcement authorities
+and for the functions of those authorities relating to adjudicators to be
+discharged through joint committees. Enforcement authorities are required by
+regulation 16 to appoint a sufficient number of adjudicators. Regulation 17
+makes provision in respect of expenses.
+
+The London authorities are required to discharge these functions through a
+single joint committee (regulation 18). Regulation 29 requires the non-London
+enforcement authorities to act through one or more joint committees (with a
+minimum membership of 3 authorities each).
+
+Part 5 makes provision in relation to the enforcement of penalty charges.
+Regulation 20 provides for the service of a notice to owner by an enforcement
+authority in respect of an unpaid penalty charge. Regulations 21 to 23 make
+provision in respect of charge certificates, which may be served in respect of
+unpaid penalty charges where a notice to owner or penalty charge notice under
+regulation 11 has been served and the avenues of appeal have not been pursued
+or have been pursued unsuccessfully. Charge certificates may be enforced
+through the county court but such orders are to be set aside where the
+respondent serves a witness statement stating one of the matters mentioned in
+regulation 23(2).
+
+Part 6 makes provision about the setting of levels of charges for
+contraventions in Greater London (regulation 24) and sets out the charging
+guidelines for various contraventions and related matters outside Greater
+London (regulation 26 and Schedule 3). This Part also makes provision about
+income and expenditure accounts in respect of an enforcement authorities
+functions in connection with parking contraventions (regulations 25 and 27).
+Regulations 28 to 31 make corresponding provisions in respect of functions in
+connection with bus lane and moving traffic contraventions, including
+provision about surpluses in accounts.
+
+Part 7 revokes the 2007 General Regulations, the Civil Enforcement of Parking
+Contraventions (Approved Devices) (England) Order 2007 and the Civil
+Enforcement of Parking Contraventions (Guidelines on Levels of Charges)
+(England) Order 2007. That Part also makes related transitional provisions and
+savings, and consequential amendments to secondary legislation.
+
+In addition these Regulations amend Schedule 3 to the London Local Authorities
+and Transport for London Act 2003 and Schedule 7 to the TMA 2004 to amend the
+list of traffic signs that are subject to civil enforcement under those Acts
+(regulation 43 and Schedule 5).
+
+A de minimis impact assessment has been produced for the instrument and is
+available at  www.legislation.gov.uk .
+
+An Explanatory Memorandum has been published alongside this instrument at
+www.legislation.gov.uk .
+

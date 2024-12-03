@@ -1,0 +1,119 @@
+Title: The Universal Credit (Administrative Earnings Threshold) (Amendment) Regulations (Northern Ireland) 2023
+Date: 2024-05-31
+Description: These Regulations amend regulation 97 of the Universal Credit Regulations (Northern Ireland) 2016 (S.R. 2016 No. 216), which sets out the circumstances in which work search and availability requirements may not be imposed on a universal credit claimant.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2023/3
+
+## The Universal Credit (Administrative Earnings Threshold) (Amendment) Regulations (Northern Ireland) 2023
+
+    Social Security
+
+  Made   9th January 2023
+
+  Coming into operation   30th January 2023
+
+      The Department for Communities  makes the following Regulations in
+exercise of the powers conferred by Articles 29(1)(a), 48(1) and 48(2) of and
+paragraphs 1(1), 4(1)(b), 4(2)(d) and 4(3)(a) of schedule 6 to the Welfare
+Reform (Northern Ireland) Order 2015 .           The powers are exercisable by
+the Department for Communities by virtue of Article 2 of the Welfare Reform
+(Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020 .
+
+### Citation and commencement
+
+1
+
+These Regulations may be cited as the Universal Credit (Administrative
+Earnings Threshold) (Amendment) Regulations (Northern Ireland) 2023 and come
+into operation on 30th January 2023.
+
+### Amendment of the Universal Credit Regulations (Northern Ireland) 2016
+
+2
+
+In paragraph (14) of regulation 97 of the Universal Credit Regulations
+(Northern Ireland) 2016  (circumstances in which requirements must not be
+imposed)—
+
+2.a
+
+in sub-paragraph (a), for “12 hours” substitute  “15 hours” ;
+
+2.b
+
+in sub-paragraph (b), for “19 hours” substitute  “24 hours” .
+
+### Consequential amendment – transitional protection
+
+3
+
+For paragraph (3) of regulation 57 of the Universal Credit (Transitional
+Provisions) Regulations (Northern Ireland) 2016 (circumstances in which
+transitional protection ceases)  substitute—
+
+3.3
+
+For the purposes of paragraph (2)—
+
+3.3.a
+
+references to the amount specified in regulation 97(14)(a) and 97(14)(b)
+respectively of the Universal Credit Regulations (Northern Ireland) 2016 are
+to the amount that was applicable on the first day of the award; and
+
+3.3.b
+
+a claimant is to be treated as having earned income that is equal to or more
+than the single administrative threshold and the couple administrative
+threshold respectively in any assessment period in respect of which regulation
+63 (minimum income floor) of the Universal Credit Regulations (Northern
+Ireland) 2016 applies to that claimant or would apply but for regulation 63(6)
+of those Regulations (minimum income floor not to apply in a start-up period).
+
+.
+
+      Sealed with the Official Seal of the Department for Communities on 9th
+January 2023       (L.S.)   Anne McCleary   A senior officer of the Department
+for Communities
+
+## EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations amend regulation 97 of the Universal Credit Regulations
+(Northern Ireland) 2016 ( S.R. 2016 No. 216 ), which sets out the
+circumstances in which work search and availability requirements may not be
+imposed on a universal credit claimant.
+
+Regulation 2 amends paragraph (14) of regulation 97 so that work search and
+work availability requirements may not be imposed where a claimant has monthly
+earnings from employment that are equal to, or more than, 15 hours per week at
+the national minimum wage rate set out in regulation 4 of the National Minimum
+Wage Regulations 2015 (“the national living wage”) or, where the claimant is a
+member of a couple, their combined earnings from employment are equal to, or
+more that, 24 hours per week at the national living wage rate, in both cases
+convert to a monthly amount by multiplying by 52 and dividing by 12.
+
+Regulation 3 makes a consequential amendment to regulation 57 of the Universal
+Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 ( S.R.
+2016 No. 226 ). Regulation 57 provides for transitional protection to cease
+where a claimant has earnings above or equal to the threshold in regulation
+97(14) of the Universal Credit Regulations (Northern Ireland) 2016 when they
+first claim universal credit, and these subsequently fall below that threshold
+for three consecutive assessment periods. The amendment provides for the
+amount of the threshold to remain at the amount that was applicable at the
+beginning of the claimant’s universal credit award, ensuring that an existing
+claimant will not lose transitional protection as a consequence of the
+amendments to regulation 97(14) by regulation 2 of these Regulations.
+
+These Regulations make in relation to Northern Ireland only provision
+corresponding to provision contained in Regulations made by the Secretary of
+State for Work and Pensions in relation to Great Britain and accordingly, by
+virtue of section 149(3) of, and paragraph 10 of schedule 5 to, the Social
+Security Administration (Northern Ireland) Act  1992 (c.8)  and are not
+subject to the requirement of section 149(2) of that Act for prior reference
+to the Social Security Advisory Committee.
+
+A full impact assessment has not been produced for these Regulations as no, or
+no significant impact on the private, public or voluntary sectors is foreseen.
+

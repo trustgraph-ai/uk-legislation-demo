@@ -1,0 +1,409 @@
+Title: The Rate Relief (Amendment) Regulations (Northern Ireland) 2023
+Date: 2023-05-25
+Description: These Regulations bring the Rate Relief Regulations (Northern Ireland) 2017 in line with universal credit rules in preparation for the managed migration of legacy benefit claimants to universal credit to ensure compatibility. The policy in relation to the impact of migration to UC on rate rebate has not changed. They also update cross-referencing within the regulations.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2023/39
+
+## The Rate Relief (Amendment) Regulations (Northern Ireland) 2023
+
+    Rates
+
+  Made   15th March 2023
+
+  Coming into operation   1st April 2023
+
+      The Department of Finance  makes the following Regulations in exercise
+of the powers conferred by Article 30A of the Rates (Northern Ireland) Order
+1977 .
+
+### Citation and commencement
+
+1
+
+These Regulations may be cited as the Rate Relief (Amendment) Regulations
+(Northern Ireland) 2023 and shall come into operation on 1st April 2023.
+
+### Amendment of the Rate Relief Regulations (Northern Ireland) 2017
+
+2
+
+2.1
+
+The Rate Relief Regulations (Northern Ireland) 2017  are amended in accordance
+with paragraphs (2) to (11).
+
+2.2
+
+In regulation 2 (Interpretation)—
+
+2.2.a
+
+after the definition of “the 2003 Order” insert—
+
+      “ the Universal Credit (Claims and Payments) Regulations ” means the
+Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and
+Employment and Support Allowance (Claims and Payments) Regulations (Northern
+Ireland) 2016
+
+;
+
+2.2.b
+
+after the definition of “the Universal Credit Regulations” insert—
+
+      “ the Universal Credit (Transitional Provisions) Regulations ” means the
+Universal Credit (Transitional Provisions) Regulations (Northern Ireland)
+2016;
+
+;
+
+2.2.c
+
+in the definition of “income” substitute “10(6)” with “10(7)”;
+
+2.2.d
+
+in the definition of “maximum amount” after “Welfare Reform Order” insert
+“with the exception of any transitional element provided for in regulations 53
+to 58, and 64 of and schedule 2 to the Universal Credit (Transitional
+Provisions) Regulations” ;
+
+2.2.e
+
+in the definition of “universal credit” after “The Welfare Reform Order
+(Northern Ireland) 2015” insert  “including any modification made to that
+Order or regulations prescribed by that Order by the Universal Credit
+(Transitional Provisions) Regulations unless otherwise stated” .
+
+2.3
+
+In regulation 4(2) and regulation 10(6)(b)(vi) substitute  “Universal Credit,
+Personal Independence Payment, Jobseeker’s Allowance and Employment and
+Support Allowance (Claims and Payments) Regulations (Northern Ireland) 2016”
+with “Universal Credit (Claims and Payments) Regulations”.
+
+2.4
+
+In regulation 5—
+
+2.4.a
+
+after paragraph (1) insert—
+
+2.4.a.1A
+
+Subject to the provisions of these regulations where a revision in accordance
+with regulation 13 results in a disallowance of rate relief and the claimant
+would have been entitled to rate relief at any time between the effective date
+of that decision and the date that decision is made if a new claim had been
+made—
+
+2.4.a.1A.a
+
+where the relevant authority is aware that there is such entitlement at the
+time that decision is made, a claim may be treated as made in accordance with
+paragraph (1) for any such period;
+
+2.4.a.1A.b
+
+where the relevant authority is not aware of such entitlement the three month
+period referred to in paragraph (1) for any claim in that period shall start
+from the date the decision to revise is issued.
+
+2.4.a.1B
+
+Subject to the provisions of these regulations where a revision in accordance
+with regulations 13(1)(h) and 14(7) results in a disallowance of rate relief
+and the claimant would be entitled to rate relief if a new claim was made from
+the day following the last day of entitlement a claim may be treated as made
+in accordance with paragraph (1) from that date.
+
+;
+
+2.4.b
+
+after paragraph (11) insert—
+
+2.4.b.11A
+
+For the purposes of these regulations where a new award of universal credit is
+made to a claimant couple in accordance with regulation 22(5) of the Universal
+Credit Regulations any award of universal credit for a claimant that subsisted
+on the day before that new award is effective from shall be treated as ending
+on that day.
+
+.
+
+2.5
+
+In regulation 10—
+
+2.5.a
+
+for paragraph (1)(d) substitute—
+
+2.5.a.d
+
+he has an award of universal credit and that award continues; and
+
+;
+
+2.5.b
+
+after paragraph (2A) insert—
+
+2.5.b.2B
+
+Where regulation 47(1)(a) of the Universal Credit (Transitional Provisions)
+Regulations applies, rate relief shall be calculated as if the award of
+housing benefit in the form of a rent rebate terminated on the day before the
+deadline day as determined in accordance with regulation 45 of the Universal
+Credit (Transitional Provisions) Regulations.
+
+;
+
+2.5.c
+
+in paragraph (6)—
+
+2.5.c.i
+
+substitute “For the purposes of this regulation” with “For the purposes of
+these regulations”;
+
+2.5.c.ii
+
+in subparagraph (a)—
+
+2.5.c.ii.aa
+
+in head (i) for “(budgeting advances)” substitute  “or regulation 17 of the
+Universal Credit (Transitional Provisions) Regulations (advances)” ;
+
+2.5.c.ii.bb
+
+substitute head (ii) with—
+
+2.5.c.ii.bb.ii
+
+regulations 53 to 58, and 64 of and schedule 2 to the Universal Credit
+(Transitional Provisions) Regulations (transitional protection element);
+
+;
+
+2.5.c.iii
+
+in subparagraph (b)—
+
+2.5.c.iii.aa
+
+in head (iii) after 1988 add  “, regulations 96 to 104 of the Housing Benefit
+Regulations (Northern Ireland) 2006 and regulations 77 to 85 of the Housing
+Benefit (Persons who have attained the qualifying age for state pension
+credit) Regulations (Northern Ireland) 2006” ;
+
+2.5.c.iii.bb
+
+in head (iv) omit “(Northern Ireland) 2016”;
+
+2.5.c.iii.cc
+
+in head (vi) omit “, Personal Independence Payment, Jobseeker’s Allowance and
+Employment and Support Allowance” and “(Northern Ireland) 2016” and after
+“(deduction from benefit and direct payment to third parties and in respect of
+child support maintenance and payment to persons with care)” insert  “as
+modified by regulation 18 of the Universal Credit (Transitional Provisions)
+Regulations” ;
+
+2.5.c.iv
+
+in subparagraph (c) after “(the benefit cap)” insert  “as modified by
+regulations 6B(a) and 7 of the Universal Credit (Transitional Provisions)” ;
+
+2.5.d
+
+in paragraph (7)—
+
+2.5.d.i
+
+substitute “for the purposes of this regulation” with “for the purposes of
+these regulations”;
+
+2.5.d.ii
+
+in sub-paragraph (a) after “of those regulations” insert  “and as modified by
+regulation 6B of the Universal Credit (Transitional Provision) Regulations” ;
+and
+
+2.5.d.iii
+
+in head (i) after “Universal Credit Regulations” insert  “as modified by
+regulation 3A of the Universal Credit (Transitional Provisions) Regulations” .
+
+2.6
+
+In regulation 13—
+
+2.6.a
+
+substitute paragraph (1)(c) with—
+
+2.6.a.c
+
+liability for eligible rates ends;
+
+;
+
+2.6.b
+
+substitute paragraph (1)(d) with—
+
+2.6.b.d
+
+entitlement to universal credit—
+
+2.6.b.d.i
+
+ends;
+
+2.6.b.d.ii
+
+would have ended if any transitional element provided for in regulations 53 to
+58, and 64 of and schedule 2 to the Universal Credit (Transitional Provisions)
+Regulations was not included, or
+
+2.6.b.d.iii
+
+is treated as ending in accordance with regulation 5(11A);
+
+;
+
+2.6.c
+
+after paragraph (1) insert—
+
+2.6.c.1A
+
+Where paragraph (1)(c),(d) or (e) applies the award of rate relief will end on
+the effective date of the decision as determined by regulation 14.
+
+;
+
+2.6.d
+
+in paragraph (2) after “determined” insert  “in accordance with regulation 10”
+.
+
+2.7
+
+In regulation 14—
+
+2.7.a
+
+in paragraph (2) omit “and (c)”;
+
+2.7.b
+
+in paragraph (5) for “regulation 13(1)(e)” substitute  “regulation 13(1)(c),
+(e)” .
+
+2.8
+
+In regulation 18 substitute paragraph (2) with—
+
+2.8.2
+
+This paragraph applies to decisions made in accordance with—
+
+2.8.2.a
+
+regulation 28 (the occupation condition) except where regulation 28(4) has
+been applied;
+
+2.8.2.b
+
+regulation 29 (claimant living in another hereditament during essential
+repairs) except where regulation 29(3) has been applied;
+
+2.8.2.c
+
+regulation 30 (claimant housed in two dwellings by a provider of social
+housing) except where regulation 30(3) has been applied;
+
+2.8.2.d
+
+regulation 31 (moving home: adaptations to new home for disabled person)
+except where regulation 31(4) has been applied;
+
+2.8.2.e
+
+regulation 32 (claimant living in another hereditament because of reasonable
+fear of violence) except where regulation 32(5) has been applied;
+
+2.8.2.f
+
+regulations 33 (moving in delayed by adaptations to a hereditament to meet
+disablement needs) except where regulation 33(3) has been applied;
+
+2.8.2.g
+
+regulation 34(1) (moving into a hereditament following stay in hospital or
+care home) except where regulation 34(3) has been applied;
+
+2.8.2.h
+
+regulation 35 (periods of temporary absence exceeding 6 months) except where
+regulation 35(4) has been applied.
+
+.
+
+2.9
+
+In regulation 25, in paragraph (2)(d) substitute  “one or more partners”  with
+“a partner”.
+
+2.10
+
+In regulation 29, in paragraph (2) substitute  “regulation 29”  with
+“regulation 28”.
+
+2.11
+
+In regulation 38—
+
+2.11.a
+
+in paragraph (2) omit “in accordance with the Rate Relief (General)
+Regulations (Northern Ireland) 2007 or the Rate Relief (Qualifying Age)
+Regulations (Northern Ireland) 2007” and omit “in accordance with the
+Universal Credit Regulations”;
+
+2.11.b
+
+in paragraph (3) after “specified accommodation” insert  “and temporary
+accommodation” .
+
+      Sealed with the Official Seal of the Department of Finance on 15th March
+2023         Sharon Magee   A senior officer of the Department of Finance
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations bring the Rate Relief Regulations (Northern Ireland) 2017
+in line with universal credit rules in preparation for the managed migration
+of legacy benefit claimants to universal credit to ensure compatibility. The
+policy in relation to the impact of migration to UC on rate rebate has not
+changed. They also update cross-referencing within the regulations.
+
+  The regulations also provide that the relevant authority may treat claims to
+rate rebate as made without the need to submit a new claim when it is aware
+that there would be entitlement to rate rebate for periods between the
+effective date of a decision to disallow a rate rebate award and the date that
+decision is made. Where the relevant authority is not aware of entitlement the
+regulations now allow claimants 3 months from the date the decision is issued
+in which to claim rate rebate to prevent them being out of time to make such
+claims. They also allow a claim to be treated as made in circumstances where
+an award of rate rebate is disallowed but there would be entitlement the next
+day if a new claim was to be made.
+

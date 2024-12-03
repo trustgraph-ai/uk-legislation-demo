@@ -1,0 +1,1000 @@
+Title: The Alcoholic Products (Excise Duty) Regulations 2023
+Date: 2024-05-20
+Description: These Regulations provide for a single excise duty system for alcoholic products generally, consolidating and replacing the various systems used for individual alcoholic products. Duty is based on the volume and strength of the finished product. These Regulations also make provision for reliefs from excise duty.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2023/806
+
+## The Alcoholic Products (Excise Duty) Regulations 2023
+
+Excise
+
+Made 14th July 2023
+
+Laid before the House of Commons 17th July 2023
+
+Coming into force 1st August 2023
+
+The Commissioners for His Majesty’s Revenue and Customs make these Regulations
+in exercise of the powers conferred by sections 45(3) and (4), 55(1)(d),
+88(1), (c), (d), (e), (f), (g), (j), (k) and (m) and (2)(c) to (e), 92(1)(d)
+and 118(1) to (3) of the Finance (No. 2) Act 2023 .
+
+### Introduction
+
+#### Citation, commencement and interpretation
+
+1
+
+1.1
+
+These Regulations may be cited as the Alcoholic Products (Excise Duty)
+Regulations 2023 and come into force on 1st August 2023.
+
+1.2
+
+In these Regulations—
+
+      “ the Act ” means the Finance (No. 2) Act 2023;           “ actual
+strength method ” means ascertaining the strength of an alcoholic product in
+accordance with Schedule 2;           “ large pack ” means a container  that
+is intended to contain a volume of more than 10 litres but not more than 400
+litres;           “ volume production limit condition ” has the meaning given
+in regulation 9.
+
+### Alcoholic strength
+
+#### The volume of alcoholic product in any container
+
+2
+
+2.1
+
+For the purposes of Part 2 of the Act, except where paragraph (4) applies, the
+volume of alcoholic product in any container is to be ascertained in
+accordance with paragraphs (2) and (3).
+
+2.2
+
+Subject to paragraph (3), the volume of alcoholic product in any container is
+to be ascertained by reference to—
+
+2.2.a
+
+the label of the container of the alcoholic product,
+
+2.2.b
+
+any invoice issued in relation to the alcoholic product,
+
+2.2.c
+
+any delivery note issued in relation to the alcoholic product, and
+
+2.2.d
+
+any document similar to an invoice or delivery note issued in relation to the
+alcoholic product.
+
+2.3
+
+Where the volumes ascertained by reference to the sources described in
+paragraph (2)(a) to (d) differ, the volume of alcoholic product in any
+container is to be taken to be the greater of those volumes.
+
+2.4
+
+Where—
+
+2.4.a
+
+a large pack does not meet the tolerance requirements set out in Schedule 1,
+or
+
+2.4.b
+
+due care has not been taken to ensure that the volume of an alcoholic product
+ascertained in accordance with paragraphs (2) and (3) accurately represents
+its actual volume,
+
+the volume of alcoholic product in the container is to be taken to be the
+actual volume of alcoholic product with which the container is filled.
+
+2.5
+
+The Commissioners  must publish a notice making provision for the purposes of
+paragraph (4)(b) about the meaning of “due care”.
+
+2.6
+
+Whether due care has been taken for the purposes of paragraph (4)(b) is to be
+ascertained in accordance with a notice published under paragraph (5).
+
+#### The strength of alcoholic product
+
+3
+
+3.1
+
+For the purposes of Part 2 of the Act, except where paragraph (6) applies, the
+strength of an alcoholic product is to be ascertained in accordance with
+paragraphs to (2) to (5).
+
+3.2
+
+Paragraphs (3) and (4) apply to cask-conditioned alcoholic products or any
+unfinished alcoholic products.
+
+3.3
+
+Subject to paragraph (4), the strength of a cask-conditioned alcoholic product
+or any unfinished alcoholic product is to be—
+
+3.3.a
+
+the strength the producer of the alcoholic product reasonably expects it to
+have when sold by retail or otherwise supplied for consumption,
+
+3.3.b
+
+ascertained by reference to the label of the container of the alcoholic
+product,
+
+3.3.c
+
+ascertained by reference to any invoice issued in relation to the alcoholic
+product,
+
+3.3.d
+
+ascertained by reference to any delivery note issued in relation to the
+alcoholic product, and
+
+3.3.e
+
+ascertained by reference to any document similar to an invoice or delivery
+note issued in relation to the alcoholic product.
+
+3.4
+
+Where the strengths ascertained by reference to the sources described in
+paragraph (3)(a) to (e) differ, the strength of a cask-conditioned alcoholic
+product or any unfinished alcoholic product is to be taken to be the greater
+of those strengths.
+
+3.5
+
+In the case of any alcoholic product to which paragraphs (3) and (4) do not
+apply, its strength is to be ascertained—
+
+3.5.a
+
+by reference to the label of the container of the alcoholic product,
+
+3.5.b
+
+if there is no label on the container of the alcoholic product, by reference
+to any other document relating to the container, or
+
+3.5.c
+
+if there is no label on the container of the alcoholic product and it is not
+possible to ascertain the strength by reference to a document relating to the
+container, using the actual strength method.
+
+3.6
+
+Where due care has not been taken to ensure that the strength of an alcoholic
+product ascertained in accordance with paragraphs (3) to (5)(b) accurately
+represents its actual strength, the strength of the alcoholic product is to be
+ascertained using the actual strength method.
+
+3.7
+
+The Commissioners must publish a notice making provision for the purposes of
+paragraph (6) about the meaning of “due care”.
+
+3.8
+
+Whether due care has been taken for the purposes of paragraph (6) is to be
+ascertained in accordance with a notice published under paragraph (7).
+
+3.9
+
+A notice published under paragraph (7) may make provision by reference to
+specified factors or documentation.
+
+3.10
+
+In this regulation—
+
+      “ cask-conditioned alcoholic product ” means any alcoholic product which
+undergoes fermentation in the container from which it is served for
+consumption, but does not include alcoholic product served for consumption
+from containers of such type as may be specified in a notice published by the
+Commissioners;           “ producer ” means a person approved under section 82
+of the Act (approval requirement: producers);           “ unfinished alcoholic
+product ” means any alcoholic product in any stage of production before it has
+reached the state of maturity at which it is fit for consumption.
+
+#### Assessments where incorrectly low rate of alcohol duty applied
+
+4
+
+4.1
+
+This regulation applies if—
+
+4.1.a
+
+alcohol duty  is charged on alcoholic products,
+
+4.1.b
+
+the duty is charged on the basis of strength ascertained in accordance with
+regulation 3(3) to 3(5)(b), and
+
+4.1.c
+
+the strength is to be ascertained using the actual strength method.
+
+4.2
+
+The Commissioners—
+
+4.2.a
+
+may assess as being alcohol duty due from the liable person an amount equal to
+any duty shortfall, and
+
+4.2.b
+
+must notify that person or that person’s representative of any assessment
+under sub-paragraph (a).
+
+4.3
+
+In this regulation “ duty shortfall ” means any difference between—
+
+4.3.a
+
+the actual amount of alcohol duty chargeable on the alcoholic product, and
+
+4.3.b
+
+the lower amount that, at the excise duty point , was charged as a result of
+ascertaining strength in accordance with regulation 3(3) to 3(5)(b).
+
+4.4
+
+The reference in paragraph (2) to the “ liable person ” is a reference to the
+person liable to pay the alcohol duty on the alcoholic products.
+
+### Reliefs
+
+#### Relief from duty for undrinkable sediment
+
+5
+
+5.1
+
+This regulation applies to undrinkable sediment.
+
+5.2
+
+Undrinkable sediment is relieved at the excise duty point from alcohol duty.
+
+5.3
+
+Relief given under this regulation is subject to any conditions specified in a
+notice published by the Commissioners.
+
+5.4
+
+In this regulation—
+
+“ cask-conditioned alcoholic product ” means alcoholic product which undergoes
+fermentation in the cask from which it is served for consumption; “
+undrinkable sediment ” means such part of a cask-conditioned alcoholic product
+as cannot be consumed.
+
+#### Grower’s domestic consumption relief
+
+6
+
+6.1
+
+Wine  and other fermented product  may without payment of alcohol duty be sent
+out from an alcoholic product production premises for the domestic consumption
+of the grower of the ingredients from which the wine or other fermented
+product is produced.
+
+6.2
+
+Cider  made from fruit grown by the producer may without payment of alcohol
+duty be sent out from the producer’s alcoholic product production premises for
+consumption—
+
+6.2.a
+
+domestically, by the producer, or
+
+6.2.b
+
+free of charge by agricultural workers employed by the producer.
+
+6.3
+
+Relief given under this regulation is subject to any conditions specified in a
+notice published by the Commissioners.
+
+6.4
+
+In this regulation—
+
+“ alcoholic product production premises ” means any premises, rooms, places
+and vessels on or in which cider, wine or other fermented product is made by a
+producer for use in their trade as producer; “ fruit ” includes honey produced
+by bees; “ grower ” includes beekeeper and “ grown ” is to be construed
+accordingly; “ producer ” means a producer of cider, wine or other fermented
+product who is approved under section 82 of the Act (approval requirement:
+producers).
+
+#### Draught relief – information to be provided
+
+7
+
+7.1
+
+This regulation applies if—
+
+7.1.a
+
+a person liable to pay alcohol duty on qualifying draught products  has
+elected for duty to be charged at the full rates , and
+
+7.1.b
+
+there has been a supply by one person (a “supplier”) to another person (a
+“recipient”) of those qualifying draught products.
+
+7.2
+
+Information or documents evidencing that duty has been charged at the full
+rates must be provided by the supplier to the recipient at or before the time
+of the supply described in paragraph (1)(b).
+
+7.3
+
+The Commissioners may specify in a notice information or documents they
+consider sufficient evidence for the purposes of paragraph (2).
+
+7.4
+
+If the Commissioners publish a notice under paragraph (3), they must determine
+whether evidence is sufficient for the purposes of paragraph (2) in accordance
+with that notice.
+
+#### Small producer relief – the volume production limit condition
+
+8
+
+8.1
+
+This regulation applies where alcoholic products produced in, or imported
+into, Northern Ireland are chargeable to alcohol duty.
+
+8.2
+
+Alcoholic products are not small producer alcoholic products  unless they are
+produced on production premises  that meet the volume production limit
+condition relevant to that category of products.
+
+9
+
+9.1
+
+The “volume production limit condition” relevant to a category of products is
+met in relation to non-group premises  if, in relation to those premises,
+neither of the following volumes exceeds the volume production limit specified
+for that category of products in paragraph (3)—
+
+9.1.a
+
+the total production volume of that category of products for the previous year
+;
+
+9.1.b
+
+the estimated total production volume of that category of products for the
+current year .
+
+9.2
+
+The “volume production limit condition” relevant to a category of products is
+met in relation to group premises  if neither of the following volumes exceeds
+the volume production limit specified for that category of products in
+paragraph (3)—
+
+9.2.a
+
+the aggregate of the total production volume of that category of products, in
+relation to every set of premises in the production group , for the previous
+year;
+
+9.2.b
+
+the aggregate of the estimated total production volume of that category of
+products, in relation to every set of premises in the production group, for
+the current year.
+
+9.3
+
+The “volume production limit” is, in the case of—
+
+9.3.a
+
+beer, 200,000 hectolitres,
+
+9.3.b
+
+cider or other fermented product, 15,000 hectolitres,
+
+9.3.c
+
+wine, 1,000 hectolitres, and
+
+9.3.d
+
+alcohol contained in spirits, 10 hectolitres.
+
+9.4
+
+In relation to production premises—
+
+9.4.a
+
+the “total production volume” for a production year  is (as the case may be)
+the volume of—
+
+9.4.a.i
+
+beer,
+
+9.4.a.ii
+
+cider or other fermented product,
+
+9.4.a.iii
+
+wine, or
+
+9.4.a.iv
+
+alcohol contained in spirits,
+
+produced on those premises in that year, and
+
+9.4.b
+
+the “estimated total production volume” for a production year is the
+producer’s reasonable estimate of the total production volume of the relevant
+category of products for those premises in that year.
+
+9.5
+
+The references in paragraph (4) to the volume of beer, cider or other
+fermented product, wine and alcohol contained in spirits produced on a set of
+premises do not include references to volumes that are spoilt or destroyed
+before the excise duty point.
+
+9.6
+
+Paragraph (7) applies where premises are in use for the purposes of the
+production of alcoholic products for part only (the “relevant part”) of a
+production year (including where premises begin to be used for those purposes
+part-way through a production year).
+
+9.7
+
+The total production volume or (as the case may be) the estimated total
+production volume of a category of products is treated, for the purposes of
+this Part, as being the volume given by—
+
+9.7.a
+
+dividing the actual total production volume of that category of products, or
+(as the case may be) the estimate of that volume, by the number of days in the
+relevant part of the production year, and
+
+9.7.b
+
+multiplying the volume amount given by paragraph (a) by the number of days in
+the production year.
+
+9.8
+
+An officer of Revenue and Customs may, if satisfied that the circumstances are
+exceptional, agree with a producer that certain alcoholic products, or a
+certain volume of alcoholic products, may be disregarded for the purposes of
+determining—
+
+9.8.a
+
+the total production volume, or
+
+9.8.b
+
+the estimated total production volume,
+
+in relation to production premises for any production year.
+
+#### Small producer relief – certain removals within the United Kingdom
+
+10
+
+10.1
+
+This regulation applies where—
+
+10.1.a
+
+a person (P) is liable for the payment of alcohol duty chargeable at the
+discounted rate  on an alcoholic product produced in, or imported into, Great
+Britain,
+
+10.1.b
+
+P intends, and intended from the time the product became so chargeable, to
+remove the product to Northern Ireland from Great Britain, and
+
+10.1.c
+
+the product was produced on production premises that did not meet, at the time
+of production, the volume production limit condition.
+
+10.2
+
+P may pay duty charged at the standard rate  on the product.
+
+10.3
+
+If P elects to pay alcohol duty in accordance with paragraph (2), P must pay
+such amount on or before the date that the payment arising under paragraph
+(1)(a) would otherwise become due.
+
+11
+
+11.1
+
+This regulation applies where—
+
+11.1.a
+
+a person (P) is liable for the payment of alcohol duty chargeable at the
+standard rate on an alcoholic product produced in, or imported into, Northern
+Ireland,
+
+11.1.b
+
+P intends, and intended from the time the product became so chargeable, to
+remove the product to Great Britain from Northern Ireland, and
+
+11.1.c
+
+but for the volume production limit condition, alcohol duty would have been
+chargeable on the product at the discounted rate.
+
+11.2
+
+P may pay duty charged at the discounted rate on the product.
+
+11.3
+
+If P elects to pay alcohol duty in accordance with paragraph (2), P must pay
+such amount on or before the date that the payment arising under paragraph
+(1)(a) would otherwise become due.
+
+#### Small producer relief – certificates required for imported alcoholic products
+
+12
+
+12.1
+
+This regulation applies if—
+
+12.1.a
+
+an alcoholic product is imported into the United Kingdom,
+
+12.1.b
+
+alcohol duty is chargeable on that product, and
+
+12.1.c
+
+the importer indicates to the Commissioners that the product is a small
+producer alcoholic product on which alcohol duty is charged at the discounted
+rate.
+
+12.2
+
+An alcoholic product is not a small producer alcoholic product unless the
+importer produces, on request by an officer of Revenue and Customs, a
+certificate endorsed by or on behalf of the relevant tax authorities of the
+country or territory in which the alcoholic product was produced certifying
+whether the product was, at the time of production, eligible to be charged at
+the discounted rate in Great Britain and Northern Ireland.
+
+#### Small producer relief – documentation to be provided
+
+13
+
+13.1
+
+Subject to paragraph (3), this regulation applies where—
+
+13.1.a
+
+a person (P) has paid, or is liable for the payment of, alcohol duty at the
+discounted rate on an alcoholic product produced in, or imported into, Great
+Britain.
+
+13.1.b
+
+any person (the “supplier”) intends to supply the product to any other person
+(the “recipient”) in Great Britain,
+
+13.1.c
+
+the supplier does not know whether the product is intended to be consumed in
+Great Britain, and
+
+13.1.d
+
+the product was produced on production premises that did not meet, at the time
+of production, the volume production limit condition.
+
+13.2
+
+The supplier must provide to the recipient, at or before the time of supply,
+documentation confirming—
+
+13.2.a
+
+the amount of alcohol duty that was paid, and rate at which such duty was
+paid, on the product, and
+
+13.2.b
+
+that the product was produced on production premises that did not meet, at the
+time of production, the volume production limit condition.
+
+13.3
+
+Paragraph (2) does not apply to any supplier other than P where that supplier
+has not been provided with the documentation described in paragraph (2).
+
+#### Small producer relief – record-keeping
+
+14
+
+14.1
+
+This regulation applies where a person (P) has paid, or is liable for the
+payment of, alcohol duty at the discounted rate on alcoholic products produced
+in, or imported into, the United Kingdom.
+
+14.2
+
+P must keep, and make available for inspection by an officer of Revenue and
+Customs, records for a period of six years, commencing with the date on which
+the products became chargeable to alcohol duty, for the purposes of
+determining whether the products were, at the time of production, eligible to
+be charged at the discounted rate in Great Britain and Northern Ireland
+respectively.
+
+14.3
+
+The Commissioners may publish a notice specifying the records to be kept, and
+made available for inspection, for the purposes of paragraph (2).
+
+### Denatured alcohol
+
+#### Denatured alcohol
+
+15
+
+15.1
+
+This regulation applies where a person deals wholesale in denatured alcohol .
+
+15.2
+
+A person may deal wholesale in completely denatured alcohol without an excise
+licence.
+
+15.3
+
+In this regulation “ completely denatured alcohol ” has the meaning given in
+regulation 4 of the Denatured Alcohol Regulations 2005 .
+
+### Travellers’ allowances
+
+#### Amendment of the Travellers’ Allowances Order 1994
+
+16
+
+In Schedule 2 to the Travellers’ Allowances Order 1994 , in the entry relating
+to—
+
+16.a
+
+beer, for “£0.80” substitute  “£0.88” ;
+
+16.b
+
+still wine, for “£2.97” substitute  “£3.28” ;
+
+16.c
+
+sparkling wine, for “£3.81” substitute  “£3.28” ;
+
+16.d
+
+cider, for “£0.40” substitute  “£0.44” ;
+
+16.e
+
+sparkling cider of an alcoholic strength not exceeding 5.5% by volume, for
+“£0.40” substitute  “£0.44” ;
+
+16.f
+
+sparkling cider of an alcoholic strength exceeding 5.5% but less than 8.5% by
+volume, for “£2.88” substitute  “£1.73” ;
+
+16.g
+
+made-wine, for—
+
+16.g.i
+
+“made-wine” substitute “other fermented products”, and
+
+16.g.ii
+
+“£2.97” substitute “£3.28”;
+
+16.h
+
+spirits, for “£10.77” substitute  “£11.88” .
+
+      Myrtle Lloyd   Joanna Rowland   Two of the Commissioners for His
+Majesty’s Revenue and Customs     14th July 2023
+
+  THE TOLERANCE REQUIREMENTS
+
+Regulation 2
+
+1
+
+1.1
+
+This paragraph applies to large packs filled with a metered or weighed volume
+of alcoholic product.
+
+1.2
+
+The tolerance requirement is that the volume of alcoholic product does not
+exceed the volume ascertained by reference to the label of that large pack and
+any invoice, delivery note or similar document issued in relation to it by
+more than the amount set out in sub-paragraph (3).
+
+1.3
+
+The amount referred to in sub-paragraph (2) is—
+
+1.3.a
+
+in the case of a pack intended to contain a volume exceeding 100 litres, 0.5
+per cent of that volume, or
+
+1.3.b
+
+in any other case, 0.5 litres.
+
+1.4
+
+Where the sources described in sub-paragraph (2) indicate different volumes,
+the volume to be used for the purposes of this paragraph is the greater of
+those volumes.
+
+2
+
+2.1
+
+This paragraph applies to large packs filled with a volume of alcoholic
+product that is not metered or weighed.
+
+2.2
+
+The tolerance requirement is that the volume of alcoholic product in a large
+pack does not exceed the volume ascertained by reference to the label of that
+pack and any invoice, delivery note or similar document issued in relation to
+it by more than the amount set out in sub-paragraph (3).
+
+2.3
+
+The amount referred to in sub-paragraph (2) is—
+
+2.3.a
+
+in the case of a pack intended to contain a volume exceeding 200 litres, 3
+litres,
+
+2.3.b
+
+in the case of a pack intended to contain a volume exceeding 100 litres but
+not exceeding 200 litres, 2 litres, or
+
+2.3.c
+
+in any other case, 1 litre.
+
+2.4
+
+Where the sources described in sub-paragraph (2) indicate different volumes,
+the volume to be used for the purposes of this paragraph is the greater of
+those volumes.
+
+  METHOD OF DETERMINING THE STRENGTH OF ALCOHOLIC PRODUCT
+
+Regulation 1(2)
+
+1
+
+1.1
+
+Except where sub-paragraph (2) applies, the strength of spirits is to be
+determined—
+
+1.1.a
+
+by determining the density of the spirits in air at 20 degrees Celsius and
+taking the strength of the spirits to be the percentage of alcohol by volume
+corresponding to that density in the Laboratory Alcohol Table, provided that
+where the density of any spirits determined as mentioned falls between any two
+consecutive numbers in that table the strength shall be determined by linear
+interpolation, or
+
+1.1.b
+
+using any method that measures the strength of spirits to a level of accuracy
+equivalent to, or greater than, that measured by a method set out in sub-
+paragraph (a).
+
+1.2
+
+Where spirits contain any substance other than alcohol and water the
+Commissioners may either—
+
+1.2.a
+
+require that the strength of the spirits be ascertained by any of the means
+prescribed by sub-paragraph (1) after removing from the spirits any such
+substance to the extent which they consider necessary by distillation or such
+other process as they direct and adding water to replace the volume so
+removed, or
+
+1.2.b
+
+allow the strength of the spirits to be ascertained, as though they contained
+alcohol and water only, by either of the means prescribed by sub-paragraph
+(1).
+
+2
+
+2.1
+
+Except where sub-paragraph (2) applies, the strength of any alcoholic product
+other than spirits is to be determined—
+
+2.1.a
+
+in the following manner—
+
+2.1.a.i
+
+a representative sample is to be taken and, after first being cleared of
+sediment and gas by filtration, at the temperature of 20 degrees Celsius is to
+be distilled,
+
+2.1.a.ii
+
+the distillate is to be made up at the temperature of 20 degrees Celsius with
+distilled water to the original measure of the quantity before distillation,
+
+2.1.a.iii
+
+the strength of the distillate made up in accordance with sub-paragraph (ii)
+is to be ascertained by determining its density in air at the temperature of
+20 degrees Celsius by means of a pycnometer, and
+
+2.1.a.iv
+
+the strength of alcoholic product is to be taken to be the percentage of
+alcohol by volume in the Laboratory Alcohol Table which corresponds to the
+density determined in accordance with paragraph (iii) except that where the
+density so determined is between two consecutive numbers in the table
+aforesaid the strength is to be determined by linear interpolation, or
+
+2.1.b
+
+using any method that measures the strength of alcoholic product to a level of
+accuracy equivalent to, or greater than, that measured by the method set out
+in sub-paragraph (a).
+
+2.2
+
+Where the result ascertained by a method specified in sub-paragraph (1) is
+rendered inaccurate by the presence of substances other than alcohol, that
+method is to be adjusted for the purpose of producing an accurate result until
+such result is produced.
+
+3
+
+In this Schedule “ Laboratory Alcohol Table ” means a table, published on 11th
+July 2023, entitled “Laboratory Alcohol Table” showing the relation between
+density at 20 degrees Celsius and alcoholic strength of mixtures of ethanol
+and water expressed as percentage by volume at 20 degrees Celsius and
+percentage by mass .
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations provide for a single excise duty system for alcoholic
+products generally, consolidating and replacing the various systems used for
+individual alcoholic products. Duty is based on the volume and strength of the
+finished product. These Regulations also make provision for reliefs from
+excise duty.
+
+  Part 1 of these Regulations provides for citation, commencement and
+interpretation.
+
+  Part 2 provides for a new system for measuring alcoholic strength.
+Regulations 2 and 3 set out the methods for ascertaining the volume and
+strength of alcoholic products respectively. Regulation 4 sets out the
+circumstances in which and the means by which HMRC may carry out assessments
+where an incorrectly low amount of duty has been applied.
+
+  Part 3 makes provision in relation to reliefs from duty. Regulation 5 does
+so for undrinkable sediment, regulation 6 for grower’s domestic consumption
+relief and regulation 7 for draught relief. Regulations 8 to 14 do so for
+small producer relief (specifically as to what constitutes a small producer
+alcoholic product in Northern Ireland, how payments of duty may be made where
+products are moved between Great Britain and Northern Ireland, documentation
+to be provided, and record-keeping.
+
+  Part 4, in regulation 15, makes provision in relation to denatured alcohol.
+
+  Part 5, in regulation 16, makes provision in relation to travellers’
+allowances (specifically in relation to rates).
+
+  Schedule 1 provides for the tolerance requirements for large packs filled
+with metered or weighed volumes of alcoholic product. Schedule 2 provides for
+the method of determining the strength of alcoholic product where due care has
+not been taken to ensure that the strength ascertained in accordance with any
+of the deeming methods set out in regulation 3 accurately represents the
+actual strength of the alcoholic product.
+
+  Any notices referred to in these Regulations will be published at
+https://www.gov.uk/government/collections/alcohols-notices . A person unable
+to access the notices electronically may access them in hard copy by post free
+of charge on application to Alcohol Policy, Indirect Tax, HM Revenue &
+Customs, Trinity Bridge House, 2 Dearmans Place, Salford, M3 5BS.
+
+  A Tax Information and Impact Note covering this instrument will be published
+on the HMRC website at  https://www.gov.uk/government/collections/tax-
+information-and-impact-notes-tiins .
+

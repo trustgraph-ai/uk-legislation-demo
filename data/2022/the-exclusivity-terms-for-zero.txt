@@ -1,0 +1,443 @@
+Title: The Exclusivity Terms for Zero Hours Workers (Unenforceability and Redress) Regulations 2022
+Date: 2023-02-23
+Description: These Regulations make provisions for the purpose of securing that workers, other than those working under a zero hours contract, working under a contract which entitles them to net average weekly wages of not more than the lower earnings limit (a specified contract), are not restricted from doing any work otherwise than under that contract.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/1145
+
+## The Exclusivity Terms for Zero Hours Workers (Unenforceability and Redress) Regulations 2022
+
+    Terms And Conditions Of Employment
+
+Approved by both Houses of Parliament
+
+  Made   7th November 2022
+
+  Coming into force   5th December 2022
+
+      The Secretary of State makes the following Regulations in exercise of
+the powers conferred by sections 27B(1), (2)(c), (3) and (5) and 209(1) of the
+Employment Rights Act 1996 .           A draft of these Regulations was laid
+before Parliament in accordance with section 236(3) of the Employment Rights
+Act 1996  and approved by resolution of each House of Parliament.
+
+### Preliminary
+
+#### Citation, commencement and extent
+
+1
+
+1.1
+
+These Regulations may be cited as the Exclusivity Terms for Zero Hours Workers
+(Unenforceability and Redress) Regulations 2022.
+
+1.2
+
+These Regulations come into force at the end of the period of 28 days
+beginning with the day on which they are made.
+
+1.3
+
+These Regulations extend to England and Wales and Scotland.
+
+#### Interpretation
+
+2
+
+In these Regulations—
+
+      “ the 1996 Act ” means the Employment Rights Act 1996;           “
+exclusivity term ” means any provision or purported provision of a contract
+which—         prohibits the worker from doing work or performing services
+under another contract or under any other arrangement; or           prohibits
+the worker from doing so without the employer’s consent;                 “the
+lower earnings limit” is the amount specified for the purpose of section
+5(1)(a) of the Social Security Contributions and Benefits Act 1992 ;
+“ specified contract ” has the meaning given in regulation 3(2);           “
+wages ” has the same meaning as in section 27 of the 1996 Act ;           “
+zero hours contract ” has the same meaning as in section 27A of the 1996 Act.
+
+### Unenforceability
+
+#### Unenforceability
+
+3
+
+3.1
+
+Any provision of a specified contract which contains an exclusivity term is
+unenforceable against a worker.
+
+3.2
+
+In these Regulations, a “specified contract” is a contract of employment or
+other worker’s contract which is not a zero hours contract and entitles a
+worker to be paid under that contract, net average weekly wages that do not
+exceed the lower earnings limit.
+
+3.3
+
+A specified contract is specified for the purpose of section 27B(2)(c) of the
+1996 Act.
+
+### Calculation of net average weekly wages
+
+#### Permanent contracts of employment or other worker’s contracts
+
+4
+
+Where the contract of employment or other worker’s contract is permanent, the
+average weekly wages are calculated by dividing by 52 the total remuneration
+to which the worker is entitled under that contract in respect of a period of
+52 weeks.
+
+#### All other contracts of employment or other worker’s contracts
+
+5
+
+Where regulation 4 does not apply, the average weekly wages are calculated by
+dividing the total remuneration to which the worker is entitled under their
+contract by the number of weeks during which their contract is expected to
+continue.
+
+#### Net average weekly wages
+
+6
+
+The net average weekly wages are calculated by subtracting all deductions of
+whatever nature from the average weekly wages.
+
+### Redress and Remedies
+
+#### Unfair dismissal and the right not to be subjected to a detriment
+
+7
+
+7.1
+
+An employee who works under a specified contract is to be regarded for the
+purpose of Part 10 of the 1996 Act as unfairly dismissed if the reason (or, if
+more than one, the principal reason) for the dismissal is the reason specified
+in paragraph (3).
+
+7.2
+
+A worker who works under a specified contract has the right not to be
+subjected to any detriment by, or as a result of, any act, or any deliberate
+failure to act, of an employer done for the reason specified in paragraph (3).
+
+7.3
+
+The reason is that the worker breached an exclusivity term of their specified
+contract.
+
+7.4
+
+Paragraph (2) does not apply where the detriment in question amounts to a
+dismissal of an employee within the meaning of Part 10 of the 1996 Act.
+
+7.5
+
+Section 108 of the 1996 Act (qualifying period of employment) does not apply
+in relation to a dismissal to which paragraph (1) applies.
+
+#### Complaints to employment tribunals
+
+8
+
+8.1
+
+Subject to regulation 7(4), a worker may present a complaint to an employment
+tribunal that an employer has infringed the right conferred on the worker by
+regulation 7(2).
+
+8.2
+
+Subject to paragraph (3), an employment tribunal must not consider a complaint
+under this regulation unless it is presented before the end of the period of
+three months beginning with the date of the act or failure to act to which the
+complaint relates, or where that act or failure is part of a series of similar
+acts or failures, the last of them.
+
+8.2A
+
+Regulation 8A (extension of time limit to facilitate conciliation before
+institution of proceedings) applies for the purposes of paragraph (2).
+
+8.3
+
+A tribunal may consider any such complaint which is out of time if, in all the
+circumstances of the case, it considers that it is just and equitable to do
+so.
+
+8.4
+
+For the purposes of paragraph (2)—
+
+8.4.a
+
+where an act extends over a period, the “ date of the act ” means the last day
+of that period; and
+
+8.4.b
+
+failure to do something is to be treated as occurring when the person in
+question decided on it.
+
+8.5
+
+In the absence of evidence to the contrary, a person (P) is to be taken to
+decide on failure to do something—
+
+8.5.a
+
+when P does an act inconsistent with doing it, or
+
+8.5.b
+
+if P does no inconsistent act, on the expiry of the period in which P might
+reasonably have been expected to do it.
+
+8.6
+
+Where a worker presents a complaint under this regulation it is for the
+employer to identify the ground on which any act, or deliberate failure to
+act, was done.
+
+#### Extension of time limit to facilitate conciliation before institution of proceedings
+
+8A
+
+8A.1
+
+In this regulation—
+
+8A.1.a
+
+Day A is the day on which the worker concerned complies with the requirement
+in subsection (1) of section 18A of the Employment Tribunals Act 1996
+(requirement to contact ACAS before instituting proceedings) in relation to
+the matter in respect of which the proceedings are brought, and
+
+8A.1.b
+
+Day B is the day on which the worker concerned receives or, if earlier, is
+treated as receiving (by virtue of regulations made under subsection (11) of
+that section) the certificate issued under subsection (4) of that section.
+
+8A.2
+
+In working out when the time limit set by regulation 8(2) expires the period
+beginning with the day after Day A and ending with Day B is not to be counted.
+
+8A.3
+
+If the time limit set by regulation 8(2) would (if not extended by this
+paragraph) expire during the period beginning with Day A and ending one month
+after Day B, the time limit expires instead at the end of that period.
+
+8A.4
+
+The power conferred on the employment tribunal by regulation 8(3) to extend
+the time limit set by paragraph (2) of that regulation is exercisable in
+relation to that time limit as extended by this regulation.
+
+#### Remedies
+
+9
+
+9.1
+
+Where an employment tribunal finds that a complaint presented to it under
+regulation 8 is well founded, it must take such of the following steps as it
+considers just and equitable—
+
+9.1.a
+
+making a declaration as to the rights of the complainant and the employer in
+relation to the matters to which the complaint relates; and
+
+9.1.b
+
+ordering the employer to pay compensation to the complainant.
+
+9.2
+
+Subject to paragraphs (5) and (6), where a tribunal orders compensation under
+paragraph (1)(b), the amount of compensation awarded must be such as the
+tribunal considers just and equitable in all the circumstances having regard
+to—
+
+9.2.a
+
+the infringement to which the complaint relates; and
+
+9.2.b
+
+any loss which is attributable to the act, or failure to act, which infringed
+the complainant’s right.
+
+9.3
+
+The loss must be taken to include—
+
+9.3.a
+
+any expenses reasonably incurred by the complainant in consequence of the act,
+or failure to act, to which the complaint relates; and
+
+9.3.b
+
+loss of any benefit which the complainant might reasonably be expected to have
+had but for that act or failure to act.
+
+9.4
+
+In ascertaining the loss the tribunal must apply the same rule concerning the
+duty of a person to mitigate loss as applies to damages recoverable under the
+common law of England and Wales or (as the case may be) the law of Scotland.
+
+9.5
+
+Where—
+
+9.5.a
+
+the detriment to which the worker is subjected is the termination of their
+specified contract, but
+
+9.5.b
+
+that contract is not a contract of employment,
+
+any compensation awarded under paragraph (1)(b) must not exceed the limit
+specified in paragraph (6).
+
+9.6
+
+The limit is the total of—
+
+9.6.a
+
+the sum which would be the basic award for unfair dismissal, calculated in
+accordance with section 119 of the 1996 Act, if the zero hours worker had been
+an employee and the specified contract terminated had been a contract of
+employment; and
+
+9.6.b
+
+the sum for the time being specified in section 124(1ZA)  of the 1996 Act
+which is the limit for a compensatory award to a person calculated in
+accordance with section 123 of the 1996 Act.
+
+9.7
+
+Where the tribunal finds that the act, or failure to act, to which the
+complaint relates was to any extent caused or contributed to by action of the
+complainant, it must reduce the amount of the compensation by such proportion
+as it considers just and equitable having regard to that finding.
+
+### Review
+
+#### Review
+
+10
+
+10.1
+
+The Secretary of State must from time to time—
+
+10.1.a
+
+carry out a review of regulations 3 to 9;
+
+10.1.b
+
+set out the conclusions of the review in a report; and
+
+10.1.c
+
+publish the report.
+
+10.2
+
+Section 30(4) of the Small Business, Enterprise and Employment Act 2015
+requires that a report published under this regulation must, in particular—
+
+10.2.a
+
+set out the objectives intended to be achieved by the regulatory system
+established by those regulations referred to in paragraph (1)(a);
+
+10.2.b
+
+assess the extent to which those objectives are achieved;
+
+10.2.c
+
+assess whether those objectives remain appropriate; and
+
+10.2.d
+
+if those objectives remain appropriate, assess the extent to which they could
+be achieved in another way which involves less regulation.
+
+10.3
+
+The first report under this regulation must be published before the end of the
+period of five years beginning with the day on which regulations 3 to 9 come
+into force.
+
+10.4
+
+Reports under this regulation are afterwards to be published at intervals not
+exceeding five years.
+
+      Kevin Hollinrake   Parliamentary Under Secretary of State   Department
+for Business, Energy and Industrial Strategy
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations make provisions for the purpose of securing that workers,
+other than those working under a zero hours contract, working under a contract
+which entitles them to net average weekly wages of not more than the lower
+earnings limit (a specified contract), are not restricted from doing any work
+otherwise than under that contract.
+
+  An exclusivity term is defined at regulation 2 in similar terms to section
+27A(3) of the Employment Rights Act 1996.
+
+  Regulation 3 makes provisions to render unenforceable any exclusivity terms
+set out in a specified contract.
+
+  Regulation 4 relates to the calculation of average weekly wages in relation
+to contracts of employment or other worker’s contracts which are permanent.
+
+  Regulation 5 relates to the calculation of average weekly wages in relation
+to contracts of employment or other worker’s contracts in relation to all
+other contracts of employment or other worker’s contract, where the provisions
+of regulation 4 do not apply.
+
+  Regulation 6 relates to the calculation of net average weekly wages.
+
+  Regulation 7 makes provision making it automatically unfair for employees to
+be dismissed for a reason relating to a breach of an exclusivity term of their
+specified contract and creating a right for workers not to be subjected to a
+detriment for a reason relating to a breach of an exclusivity term of their
+specified contract.
+
+  Regulations 8 and 9 provide remedies, including compensation, for
+individuals, by way of proceedings in employment tribunals.
+
+  Regulation 10 requires the Secretary of State to review the operation and
+effect of these Regulations and publish a report within five years after they
+come into force and within every five years after that. Following a review, it
+will fall to the Secretary of State to consider whether the Regulations should
+remain as they are, or be revoked or be amended. A further instrument would be
+needed to revoke these Regulations or to amend them.
+
+  A full impact assessment has not been produced for this instrument as no, or
+no significant, impact on the private, voluntary or public sector is foreseen.
+

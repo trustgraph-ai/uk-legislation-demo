@@ -1,0 +1,4703 @@
+Title: The Judicial Pensions (Remediable Service etc.) Regulations 2023
+Date: 2024-05-20
+Description: The Public Service Pensions Act 2013 (c. 25) (“PSPA 2013”) makes provision, and confers powers to make further provision (in the form of “scheme regulations” as defined in section 1 of PSPA 2013), about the establishment of public service pension schemes. The Judicial Pensions Regulations 2015 (S.I. 2015/182) (“the 2015 Regulations”) are the scheme regulations establishing the successor judicial pension scheme (“the 2015 scheme”) to the judicial legacy schemes (as defined in section 70(3) of the Public Service Pensions and Judicial Offices Act 2022 (c. 7) (“PSPJOA 2022”)). The 2015 Regulations provided for transitional protection for certain cohorts of judicial legacy scheme members. This transitional protection was subsequently found to unlawfully discriminate between judicial pension scheme members on the basis of age.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2023/766
+
+## The Judicial Pensions (Remediable Service etc.) Regulations 2023
+
+    Public Service Pensions
+
+  Made   4th July 2023
+
+  Coming into force in accordance with regulation 1(b)
+
+      The Lord Chancellor makes these Regulations in exercise of the powers
+conferred by section 18A of the Judicial Pensions and Retirement Act 1993 ,
+sections 1(1) and (2)(b), 2(1) (as read with paragraph 2(1) of Schedule 2) and
+3(1), (2)(a) (as read with paragraphs 2, 9, 12 and 13 of Schedule 3) and (c),
+(3) and (4A) of the Public Service Pensions Act 2013  (“ the 2013 Act ”) and
+sections 55(1) and (2), 56(1) to (3), 57(1), (4) and (5), 58(1) to (4), 61(1)
+and (2), 67(2) and (3), 74(2) and 103(1) and (2) of the Public Service
+Pensions and Judicial Offices Act 2022  (“the PSPJOA 2022”).       In
+accordance with section 21 of, and paragraph 2(2) of Schedule 2 to, the 2013
+Act, the Lord Chancellor has consulted the Secretary of State and such
+persons, and the representatives of such persons, as appear to the Lord
+Chancellor likely to be affected by these Regulations.       In accordance
+with section 3(5) of the 2013 Act, the Lord Chancellor has obtained the
+consent of the Treasury before making these Regulations.       The Lord
+Chancellor has had regard to the matters referred to in section 5(3) of the
+2013 Act.       These Regulations are made in accordance with Treasury
+directions made under section 62 of PSPJOA 2022.           A draft of this
+instrument has been laid before Parliament and approved by a resolution of
+each House of Parliament in accordance with section 29(2A)  of the Judicial
+Pensions and Retirement Act 1993 and section 24(1)(c) of the 2013 Act.
+
+### Preliminary
+
+#### Citation, commencement and extent
+
+1
+
+These Regulations—
+
+1.a
+
+may be cited as the Judicial Pensions (Remediable Service etc.) Regulations
+2023;
+
+1.b
+
+come into force on the day after the day on which they are made;
+
+1.c
+
+extend to England and Wales, Scotland and Northern Ireland.
+
+#### Interpretation
+
+2
+
+2.1
+
+In these Regulations—
+
+“ PSPJOA 2022 ” means the Public Service Pensions and Judicial Offices Act
+2022; “ the 2015 Regulations ” means the Judicial Pensions Regulations 2015 ;
+“ the 2015 scheme ” means the scheme established by the 2015 Regulations; “
+FPJR 2017 ” means the Judicial Pensions (Fee-Paid Judges) Regulations 2017 ; “
+the PSP Directions 2022 ” means the Public Service Pensions (Exercise of
+Powers, Compensation and Information) Directions 2022 ; “ appropriate Minister
+” has the meaning given in regulation 2 (interpretation) of the 2015
+Regulations; “ appropriate person ” means— for the purposes of Part 4, R or,
+if R is deceased, R’s personal representatives; for all other purposes, P or,
+if P is deceased, P’s personal representatives; “ Judicial Pension Board ”
+means the Judicial Pension Board established by regulation 6(1) of the 2015
+Regulations;   “ purported added pension payment ” has the meaning given in
+paragraph 1 of Schedule 1 to the 2015 Regulations; “ purported effective
+pension age payment ” means a payment— which was made by either— a person “P”
+who has remediable service in a judicial office, or a relevant fee-paid judge
+who has relevant service in a judicial office, which was intended to be an
+effective pension age payment under Part 3 of Schedule 1 to the 2015
+Regulations, and which was not in fact an effective pension age payment under
+Part 3 of Schedule 1 to the 2015 Regulations due to— a determination by a
+court or tribunal that, as a result of a non-discrimination rule, any person
+has rights under a judicial legacy scheme in respect of P’s remediable
+service, an agreement between the scheme manager of a judicial legacy scheme
+and any person that, as a result of a non-discrimination rule, the person has
+any rights under the scheme in respect of P’s remediable service, or the
+payment being made in relation to a relevant fee-paid judge; “ purported
+special payment ” means a payment— which was made by either— a person “P” who
+has remediable service in a judicial office, or a relevant fee-paid judge who
+has relevant service in a judicial office, which was intended to be a special
+payment under regulation 74(3)(a) or (c) of the 2015 Regulations, and which
+was not in fact a special payment under regulation 74(3)(a) or (c) due to— a
+determination by a court or tribunal that, as a result of a non-discrimination
+rule, any person has rights under a judicial legacy scheme in respect of P’s
+remediable service, an agreement between the scheme manager of a judicial
+legacy scheme and any person that, as a result of a non-discrimination rule,
+the person has any rights under the scheme in respect of P’s remediable
+service, or the payment being made in relation to a relevant fee-paid judge; “
+relevant service ” has the meaning given in regulation 29(2); “ scheme actuary
+” has the meaning given in regulation 2 (interpretation) of the 2015
+Regulations; “ scheme manager ” has the meaning given in regulation 4 of the
+2015 Regulations; “ transfer value payment ” has the meaning given in
+regulation 2 of the 2015 Regulations.
+
+2.2
+
+Except as provided for in these Regulations, expressions used in these
+Regulations have the same meaning as in Chapter 2 of Part 1 of PSPJOA 2022.
+
+2.3
+
+A reference in these Regulations to a provision of the PSP Directions 2022 is
+a reference to that provision as amended from time to time.
+
+#### Scheme manager
+
+3
+
+3.1
+
+Before exercising any discretion under these Regulations, the scheme manager
+must obtain a recommendation from the Judicial Pension Board.
+
+3.2
+
+If the scheme manager exercises any discretion under these Regulations
+contrary to a recommendation made by the Judicial Pension Board, the scheme
+manager must provide written reasons for doing so to the Judicial Pension
+Board and to any member to whom the discretion relates.
+
+3.3
+
+The scheme manager and the Judicial Pension Board may agree that paragraphs
+(1) and (2) do not apply to specific discretions or in specific circumstances.
+
+#### Delegation
+
+4
+
+4.1
+
+The scheme manager may delegate any functions under these Regulations,
+including this power.
+
+4.2
+
+The Judicial Pension Board may delegate any functions under these Regulations.
+
+#### Right of appeal
+
+5
+
+The scheme manager must, in consultation with the Judicial Pension Board,
+establish a procedure for the consideration of appeals against decisions taken
+under these Regulations.
+
+### Provision about special cases where a member has remediable service
+
+#### Application of Part
+
+##### Application of Part
+
+6
+
+This Part applies where—
+
+6.a
+
+a person (“ P ”) has remediable service  in a judicial office , and
+
+6.b
+
+an immediate detriment remedy  has not been obtained in relation to that
+service.
+
+#### Member options
+
+##### Compensation for special payments to buy out early payment reduction
+
+7
+
+7.1
+
+This regulation applies where—
+
+7.1.a
+
+P has, during the period of remediable service, made any special payments
+under regulation 74(3)(a) or (c) of the 2015 Regulations, and
+
+7.1.b
+
+a legacy scheme election  is made in respect of P.
+
+7.2
+
+The rights that would otherwise have been secured by the special payments are
+extinguished.
+
+7.3
+
+The scheme manager must pay to the appropriate person an amount by way of
+compensation equal to—
+
+7.3.a
+
+the aggregate of the special payments made by P, less
+
+7.3.b
+
+an amount determined by the scheme manager in respect of the value of the tax
+relief under section 188 of FA 2004  (member contributions) to which P was
+entitled in respect of those payments.
+
+7.4
+
+Where determining the tax relief amount under paragraph (3)(b), the scheme
+manager may adopt an approach which is reasonable in all the circumstances to
+approximate those amounts.
+
+7.5
+
+The following provisions of the PSP Directions 2022 apply in relation to a
+determination under paragraph (3)(b) of this regulation as they apply in
+relation to a determination under direction 23(2)—
+
+7.5.a
+
+direction 23(4) (provision of explanation);
+
+7.5.b
+
+direction 23(5) and (6) (appeals).
+
+##### Compensation for payments for added pension
+
+8
+
+8.1
+
+This regulation applies where—
+
+8.1.a
+
+P has, during the period of remediable service, made any added pension
+payments under Part 2 of Schedule 1 to the 2015 Regulations,
+
+8.1.b
+
+regulation 129(1)(b) of the 2015 Regulations does not apply in respect of
+those added pension payments, and
+
+8.1.c
+
+a legacy scheme election is made in respect of P.
+
+8.2
+
+Where the appropriate person makes a request for compensation in respect of
+the added pension payments—
+
+8.2.a
+
+the rights that would otherwise have been secured by the added pension
+payments are extinguished, and
+
+8.2.b
+
+the scheme manager must pay to the appropriate person an amount by way of
+compensation equal to—
+
+8.2.b.i
+
+the aggregate of the added pension payments paid by P, less
+
+8.2.b.ii
+
+an amount, determined in accordance with direction 23 of the PSP Directions
+2022, in respect of the value of the tax relief under section 188 of FA 2004
+(member contributions) to which P was entitled in respect of those payments.
+
+8.3
+
+The following apply in relation to a determination in accordance with
+direction 23(2)—
+
+8.3.a
+
+direction 23(4) (provision of explanation);
+
+8.3.b
+
+direction 23(5) and (6) (appeals).
+
+8.4
+
+A request under paragraph (2) is irrevocable and must be—
+
+8.4.a
+
+made by notice to the scheme manager,
+
+8.4.b
+
+in a form required by the scheme manager, and
+
+8.4.c
+
+received by the scheme manager before the end of the election period .
+
+##### Transfers out of the 2015 scheme
+
+9
+
+9.1
+
+This regulation applies where a transfer value payment has been made during
+the period of remediable service under regulation 133 of the 2015 Regulations
+in respect of P’s accrued rights under the 2015 scheme (disregarding any
+provision of Chapter 2 of Part 1 of PSPJOA 2022).
+
+9.2
+
+Nothing in sections 40 to 66 of PSPJOA 2022 applies in relation to P’s
+remediable service.
+
+9.3
+
+The scheme manager must provide the appropriate person with a statement of the
+cash equivalent to which P would have been entitled, had—
+
+9.3.a
+
+sections 40 to 66 of PSPJOA 2022 applied in respect of P’s accrued rights on
+the guarantee date in relation to the period of remediable service, and
+
+9.3.b
+
+a legacy scheme election been made in respect of P.
+
+9.4
+
+Where—
+
+9.4.a
+
+the value of the cash equivalent in respect of the sum specified in regulation
+137(3)(a) of the 2015 Regulations, is less than
+
+9.4.b
+
+the value of the cash equivalent to which P would have been entitled under
+paragraph (3) in respect of that sum,
+
+the scheme manager must pay to the appropriate person an amount equal to the
+value of the difference.
+
+9.5
+
+The scheme manager is discharged from any further obligation to provide
+benefits in relation to the cash equivalent if—
+
+9.5.a
+
+the scheme manager makes any payment required to be made by paragraph (4), or
+
+9.5.b
+
+the amount mentioned in paragraph (4)(a) is greater than the amount mentioned
+in paragraph (4)(b).
+
+9.6
+
+In this regulation, the “guarantee date” is the date specified in the
+statement of entitlement that was provided to P under regulation 135(1) of the
+2015 Regulations in respect of the transfer value payment.
+
+#### Partial retirement
+
+##### Partial retirement notice
+
+10
+
+10.1
+
+Paragraph (2) applies where—
+
+10.1.a
+
+P exercised a partial retirement option under regulation 60(2) of the 2015
+Regulations in respect of any fee-paid judicial office ,
+
+10.1.b
+
+a legacy scheme election is made in respect of P, and
+
+10.1.c
+
+the conditions set out in regulation 27(1) of FPJR 2017 are met in respect of
+P.
+
+10.2
+
+A notice in respect of P that complies with the requirement in regulation
+27(3)(a) of FPJR 2017 is treated as having been given in accordance with sub-
+paragraph (3)(b) of that regulation if it is received by the appropriate
+Minister before the end of the election period.
+
+10.3
+
+A notice under paragraph (2) has effect on the date agreed by the member and
+the scheme manager under regulation 61(1)(b) of the 2015 Regulations in
+relation to the exercise of the partial retirement option referred to in
+paragraph (1)(a).
+
+10.4
+
+Paragraph (5) applies where—
+
+10.4.a
+
+P gave notice to take partial retirement under regulation 27(2) of FPJR 2017,
+
+10.4.b
+
+a 2015 scheme election is made, or is treated as having been made, in respect
+of P, and
+
+10.4.c
+
+the conditions set out in regulation 60(1) of the 2015 Regulations are met in
+respect of P.
+
+10.5
+
+A partial retirement option in respect of P is treated as having been
+exercised in accordance with regulation 61(1)(b) of the 2015 Regulations if a
+partial retirement option notice that complies with the requirements of
+regulation 61(1)(a) and (2) of those Regulations is received by the scheme
+manager before the end of the election period.
+
+10.6
+
+An option under paragraph (5) has effect on the day the notice mentioned in
+paragraph (4)(a) was received by the appropriate Minister.
+
+##### Corrections for pension benefits and lump sum benefits on partial retirement
+
+11
+
+Where paragraph (2) or (5) of regulation 10 applies, section 51 of PSPJOA 2022
+applies in relation to P as if for subsection (1) there were substituted—
+
+11.1
+
+This section applies in relation to a member (“ M ”) of a judicial scheme
+who—
+
+11.1.a
+
+at the end of the election period has remediable service in a judicial office
+that is pensionable service under the scheme, and
+
+11.1.b
+
+during the period of remediable service has—
+
+11.1.b.i
+
+exercised a partial retirement option under regulation 60(2) of the 2015
+Regulations, or
+
+11.1.b.ii
+
+given notice to take partial retirement under regulation 27(2) of FPJR 2017.
+
+.
+
+#### Annual allowance tax charges
+
+##### Payment of annual allowance tax charges and provision of information
+
+12
+
+Where P is unable to give an effective notice to the scheme administrator
+under section 237B(3)  of FA 2004 in relation to an in-scope tax year (within
+the meaning of direction 24(7) of the PSP Directions 2022) because the time
+limit in section 237BA  has passed, direction 24(2) to (6) of the PSP
+Directions 2022 applies in relation to P.
+
+### Provision where an immediate detriment remedy has been obtained
+
+#### Application and Interpretation
+
+##### Application of Part
+
+13
+
+13.1
+
+This Part applies where—
+
+13.1.a
+
+a person (“ P ”) has remediable service in a judicial office, and
+
+13.1.b
+
+an immediate detriment remedy has been obtained in relation to that service.
+
+13.2
+
+This Part does not apply in relation to any payment or transfer of assets and
+liabilities that would otherwise be payable or required to be made under this
+Part to the extent that a corresponding payment or a corresponding transfer of
+assets and liabilities has been made.
+
+13.3
+
+In this regulation—
+
+13.3.a
+
+a “corresponding payment” is a payment that has been made in accordance with—
+
+13.3.a.i
+
+a determination described in section 68(2) of PSPJOA 2022, or
+
+13.3.a.ii
+
+an agreement described in section 68(3) of PSPJOA 2022,
+
+that relates to the same period of remediable service as a payment that is
+payable or required to be made under this Part;
+
+13.3.b
+
+a “corresponding transfer of assets and liabilities” is a transfer of assets
+and liabilities that has been made in accordance with a determination
+described in section 68(2) of PSPJOA 2022 that relates to the same period of
+remediable service as a transfer of assets and liabilities that is required to
+be made under this Part.
+
+13.4
+
+Regulations 17 to 28 do not apply in relation to P where P is a person
+described in—
+
+13.4.a
+
+regulation 16(1) and the steps mentioned in regulation 16(2) have not been
+taken in relation to P;
+
+13.4.b
+
+regulation 16(3) and the steps mentioned in regulation 16(4) have not been
+taken in relation to P.
+
+##### Interpretation of Part
+
+14
+
+14.1
+
+In this Part—
+
+      “ adult survivor ” means a surviving spouse or surviving civil partner
+who is entitled under the relevant judicial legacy scheme to a pension
+determined (to any extent) by reference to P’s remediable service;           “
+relevant judicial legacy scheme ” means—         in the case of—         a
+determination described in section 68(2) of PSPJOA 2022, or           an
+agreement described in section 68(3) of PSPJOA 2022,         that P has rights
+under a judicial legacy salaried scheme , that scheme;           in the case
+of—         a determination described in section 68(2) of PSPJOA 2022, or
+an agreement described in section 68(3) of PSPJOA 2022,         that P has
+rights under the judicial legacy fee-paid scheme , that scheme.
+
+14.2
+
+Subject to paragraph (3), for the purposes of this Part, the “ notification
+period ”, in relation to a person who has obtained an immediate detriment
+remedy, is the period of three months beginning with the date on which the
+statement mentioned in regulation 15 is sent.
+
+14.3
+
+The relevant authority  may extend the period mentioned in paragraph (2) in
+relation to P if the relevant authority considers it just and equitable to do
+so.
+
+#### Information statements
+
+##### Information statements
+
+15
+
+15.1
+
+The relevant authority must, as soon as reasonably practicable—
+
+15.1.a
+
+prepare a statement in relation to P, and
+
+15.1.b
+
+send it to the appropriate person.
+
+15.2
+
+The statement must contain such information as the relevant authority
+considers relevant to P’s rights and liabilities under Chapter 2 of Part 1 of
+PSPJOA 2022 or these Regulations in respect of the immediate detriment remedy.
+
+#### Partnership pension account where an immediate detriment remedy has been obtained
+
+##### Partnership pension account: requirement to transfer and surrender rights
+
+16
+
+16.1
+
+Paragraph (2) applies where—
+
+16.1.a
+
+P has remediable service in a salaried judicial office , and
+
+16.1.b
+
+any of the remediable service is PPA opted-out service .
+
+16.2
+
+The relevant person must, before the end of the notification period, take the
+steps specified in section 41(3) of PSPJOA 2022 and, for the purpose of this
+paragraph, section 41(3) is to be read as if—
+
+16.2.a
+
+references to the relevant judicial legacy salaried scheme were references to
+the scheme mentioned in sub-paragraph (a) of the definition of “relevant
+judicial legacy scheme” in regulation 14(1);
+
+16.2.b
+
+the reference in section 41(3)(c) to the appropriate person were a reference
+to the relevant person.
+
+16.3
+
+Paragraph (4) applies where—
+
+16.3.a
+
+P has remediable service in a fee-paid judicial office, and
+
+16.3.b
+
+any of the remediable service is PPA opted-out service.
+
+16.4
+
+The relevant person must, before the end of the notification period, take the
+steps specified in section 41(6) of PSPJOA 2022 and, for the purpose of this
+paragraph, section 41(6) is to be read as if the reference in section 41(6)(c)
+to the appropriate person were a reference to the relevant person.
+
+16.5
+
+For the purposes of this regulation, “ relevant person ” means P or, if P is
+deceased—
+
+16.5.a
+
+the adult survivor, or
+
+16.5.b
+
+if there is no adult survivor, P’s personal representatives.
+
+#### Benefits for children where an immediate detriment remedy has been obtained
+
+##### Benefits for children
+
+17
+
+17.1
+
+This regulation applies where—
+
+17.1.a
+
+P died before the immediate detriment remedy was obtained,
+
+17.1.b
+
+the immediate detriment remedy was obtained by an adult survivor of P,
+
+17.1.c
+
+P is survived by a child who is not living in the same household as the adult
+survivor,
+
+17.1.d
+
+the child would have received benefits in respect of P under the 2015 scheme
+if—
+
+17.1.d.i
+
+an immediate detriment remedy had not been obtained in relation to P’s
+remediable service, and
+
+17.1.d.ii
+
+a 2015 scheme election had been made in respect of P, and
+
+17.1.e
+
+the benefits payable under the relevant judicial legacy scheme in respect of
+the child are, in the opinion of the scheme manager of the scheme, less
+valuable (looked at in the round) than those that would have been payable in
+respect of the child if—
+
+17.1.e.i
+
+an immediate detriment remedy had not been obtained in relation to P’s
+remediable service, and
+
+17.1.e.ii
+
+a 2015 scheme election had been made in respect of P.
+
+17.2
+
+The benefits payable in respect of the child under the relevant judicial
+legacy scheme, so far as they are determined by reference to P’s remediable
+service, are such benefits as would have been payable in respect of the child,
+so far as they are determined by reference to P’s remediable service, if—
+
+17.2.a
+
+an immediate detriment remedy had not been obtained in relation to P’s
+remediable service, and
+
+17.2.b
+
+a 2015 scheme election had been made in respect of P.
+
+17.3
+
+Paragraph (2) applies in relation to benefits that were payable in respect of
+the child before, as well as after, the immediate detriment remedy was
+obtained.
+
+#### Partial retirement where an immediate detriment remedy has been obtained
+
+##### Partial retirement notice
+
+18
+
+18.1
+
+Paragraph (2) applies where—
+
+18.1.a
+
+P   purported to exercise   a partial retirement option under regulation 60(2)
+of the 2015 Regulations in respect of any fee-paid judicial office, and
+
+18.1.b
+
+the conditions set out in regulation 27(1) of FPJR 2017 are met in respect of
+P.
+
+18.2
+
+A notice in respect of P that complies with the requirement in regulation
+27(3)(a) of FPJR 2017 is treated as having been given in accordance with sub-
+paragraph (3)(b) of that regulation if it is received by the appropriate
+Minister before the end of the notification period.
+
+18.3
+
+A notice under paragraph (2) has effect on the date agreed by the member and
+the scheme manager under regulation 61(1)(b) of the 2015 Regulations in
+relation to the   purported  exercise of the partial retirement option
+referred to in paragraph (1)(a).
+
+#### Benefits and contributions previously paid or payable
+
+##### Effect of immediate detriment remedy on benefits previously paid or payable
+
+19
+
+19.1
+
+Paragraph (2) applies in relation to any   payments purporting to be benefits
+that the 2015 scheme has at any time paid (“the purported benefits”)   to a
+person so far as—
+
+19.1.a
+
+they are calculated by reference to P’s remediable service in a salaried
+judicial office, and
+
+19.1.b
+
+they are   payments   that, as a result of any immediate detriment remedy that
+has been obtained in relation to that service, a person was not entitled to
+receive  as benefits   from the 2015 scheme.
+
+19.2
+
+  The purported benefits   are to be treated for all purposes—
+
+19.2.a
+
+as not having been paid to the person by the 2015 scheme, but
+
+19.2.b
+
+as having been paid to the person instead by the scheme mentioned in sub-
+paragraph (a) of the definition of “relevant judicial legacy scheme” in
+regulation 14(1).
+
+19.3
+
+Paragraph (4) applies in relation to any   payments purporting to be benefits
+that the 2015 scheme has at any time paid (“the purported benefits”)   to a
+person so far as—
+
+19.3.a
+
+they are calculated by reference to P’s remediable service in a fee-paid
+judicial office, and
+
+19.3.b
+
+they are   payments   that, as a result of any immediate detriment remedy that
+has been obtained in relation to that service, a person was not entitled to
+receive  as benefits   from the 2015 scheme.
+
+19.4
+
+  The purported benefits   are to be treated for all purposes—
+
+19.4.a
+
+as not having been paid to the person by the 2015 scheme, but
+
+19.4.b
+
+as having been paid to the person instead by the judicial legacy fee-paid
+scheme.
+
+19.5
+
+Where, as a result of any immediate detriment remedy that has been obtained
+(and after taking into account the effect of paragraphs (2) and (4))—
+
+19.5.a
+
+a judicial legacy scheme  owes a person an amount in respect of benefits which
+are calculated by reference to P’s remediable service, or
+
+19.5.b
+
+a person owes a judicial legacy scheme an amount in respect of such benefit,
+
+such amount must be paid in accordance with regulation 21.
+
+##### Effect of immediate detriment remedy on pension contributions previously paid or payable
+
+20
+
+20.1
+
+Paragraph (2) applies where P has   made any payments purporting to be pension
+contributions under the 2015 scheme (“the purported contributions”)   which—
+
+20.1.a
+
+are calculated by reference to P’s remediable service in a salaried judicial
+office, and
+
+20.1.b
+
+as a result of any immediate detriment remedy that has been obtained in
+relation to that service,   were not payments that P was required to make
+under the 2015 scheme .
+
+20.2
+
+  The purported contributions   are to be treated for all purposes—
+
+20.2.a
+
+as not having been paid by P to the 2015 scheme, but
+
+20.2.b
+
+as having been paid by P instead to the scheme mentioned in sub-paragraph (a)
+of the definition of “relevant judicial legacy scheme” in regulation 14(1).
+
+20.3
+
+Paragraph (4) applies where P has   made any payments purporting to be pension
+contributions under the 2015 scheme (“the purported contributions”)   which—
+
+20.3.a
+
+are calculated by reference to P’s remediable service in a fee-paid judicial
+office, and
+
+20.3.b
+
+as a result of any immediate detriment remedy that has been obtained in
+relation to that service,   were not payments that P was required to make
+under the 2015 scheme .
+
+20.4
+
+  The purported contributions   are to be treated for all purposes—
+
+20.4.a
+
+as not having been paid by P to the 2015 scheme, but
+
+20.4.b
+
+as having been paid by P instead to the judicial legacy fee-paid scheme.
+
+20.5
+
+Where, as a result of any immediate detriment remedy that has been obtained
+(and after taking into account the effect of paragraphs (2) and (4))—
+
+20.5.a
+
+a judicial legacy scheme owes a person an amount in respect of pension
+contributions which are calculated by reference to P’s remediable service, or
+
+20.5.b
+
+a person owes a judicial legacy scheme an amount in respect of such
+contributions,
+
+such amount must be paid only in accordance with regulation 22.
+
+#### Corrections for benefits and contributions where an immediate detriment remedy has been obtained
+
+##### Pension benefits and lump sum benefits
+
+21
+
+21.1
+
+This regulation applies where—
+
+21.1.a
+
+a notice in respect of an option to take partial retirement is treated as
+having been given in relation to P by virtue of regulation 18(2),
+
+21.1.b
+
+P is a pensioner member in relation to the judicial office, or
+
+21.1.c
+
+P is deceased.
+
+21.2
+
+Where—
+
+21.2.a
+
+the aggregate of the pension benefits that (after taking into account the
+effect, if any, of regulation 19(2) or (4)) have been paid under a judicial
+legacy scheme to any person (“ the beneficiary ”) in respect of P’s remediable
+service, exceeds
+
+21.2.b
+
+the aggregate of the pension benefits to which (after taking into account the
+effect, if any, of any immediate detriment remedy that has been obtained in
+relation to P’s remediable service) the beneficiary was entitled under the
+scheme in respect of the service,
+
+the beneficiary must pay the difference to the scheme.
+
+21.3
+
+Where—
+
+21.3.a
+
+the amount mentioned in sub-paragraph (2)(a), is less than
+
+21.3.b
+
+the amount mentioned in sub-paragraph (2)(b),
+
+the scheme manager must pay the difference to the beneficiary.
+
+21.4
+
+Where—
+
+21.4.a
+
+the aggregate of the lump sum benefits that (after taking into account the
+effect, if any, of regulation 19(2) or (4)) have been paid under a judicial
+legacy scheme to any person (“ the beneficiary ”) in respect of P’s remediable
+service, exceeds
+
+21.4.b
+
+the aggregate of the lump sum benefits to which (after taking into account the
+effect, if any, of any immediate detriment remedy that has been obtained in
+relation to P’s remediable service) the beneficiary was entitled under the
+scheme in respect of the service,
+
+the beneficiary must pay the difference to the scheme.
+
+21.5
+
+Where—
+
+21.5.a
+
+the amount mentioned in sub-paragraph (4)(a), is less than
+
+21.5.b
+
+the amount mentioned in sub-paragraph (4)(b),
+
+the scheme manager must pay the difference to the beneficiary.
+
+##### Pension contributions
+
+22
+
+22.1
+
+This regulation applies in relation to P after taking into account the effect,
+if any, of any immediate detriment remedy that has been obtained in respect of
+P’s remediable service.
+
+22.2
+
+Where—
+
+22.2.a
+
+the paid contributions amount for an in-scope tax year in respect of P’s
+remediable service, exceeds
+
+22.2.b
+
+the payable contributions amount for that tax year in respect of that service,
+
+the scheme manager must (directly or indirectly) pay an amount in respect of
+the difference to the appropriate person.
+
+22.3
+
+Where—
+
+22.3.a
+
+the paid contributions amount for an out-of-scope tax year in respect of P’s
+remediable service, exceeds
+
+22.3.b
+
+the payable contributions amount for that tax year in respect of that service,
+
+no amount is to be paid by the scheme manager in respect of the difference to
+the appropriate person.
+
+22.4
+
+Where—
+
+22.4.a
+
+the paid contributions amount for an in-scope or out-of-scope tax year in
+respect of P’s remediable service, is less than
+
+22.4.b
+
+the payable contributions amount for that tax year in respect of that service,
+
+the appropriate person must pay pension contributions in respect of the
+difference to the scheme.
+
+22.5
+
+A reference in this regulation to “the paid contributions amount” for a tax
+year in respect of P’s remediable service in a judicial office is a reference
+to the sum of—
+
+22.5.a
+
+the aggregate of the pension contributions that (after taking into account the
+effect, if any, of regulation 20(2) and (4)) have been paid under the scheme
+by P in the tax year in respect of so much of the service as was not PPA
+opted-out service, and
+
+22.5.b
+
+where any of the remediable service was PPA opted-out service—
+
+22.5.b.i
+
+the aggregate of the pension contributions and any voluntary contributions
+that have been paid by P under the partnership pension account in the tax year
+in respect of the PPA opted-out service, or
+
+22.5.b.ii
+
+if lower, the aggregate of the pension contributions that (after taking into
+account the effect, if any, of regulation 22(2) and (4)) were payable under
+the scheme by P for that tax year in respect of the PPA opted-out service.
+
+22.6
+
+A reference in this regulation to “the payable contributions amount” for a tax
+year in respect of P’s remediable service means the aggregate of the pension
+contributions that (after taking into account the effect, if any, of
+regulation 22(2) and (4)) were payable under the scheme by P for that tax year
+in respect of the service.
+
+22.7
+
+For the purposes of this regulation—
+
+22.7.a
+
+a tax year is “ in-scope ” in relation to P if any necessary adjustment to the
+amount of income tax paid by P in respect of PAYE income for the tax year is
+capable of being enforced by HMRC under PAYE regulations;
+
+22.7.b
+
+a tax year is “ out-of-scope ” in relation to P if it is not in-scope in
+relation to P.
+
+22.8
+
+A reference in this regulation to pension contributions or voluntary
+contributions paid by a person under a partnership pension account is a
+reference to the amount of the contributions paid, net of any tax relief under
+section 188 of FA 2004 (relief for contributions) to which the person was
+entitled in respect of them.
+
+#### Compensation for voluntary payments where an immediate detriment remedy has been obtained
+
+##### Compensation for  
+
+23
+
+23.1
+
+This regulation applies where P has, during the period of remediable service,
+made any   purported  special payments  ....
+
+23.2
+
+  For the avoidance of doubt, any rights   that would otherwise have been
+secured by the   purported  special payments  , had P been entitled to make
+them,   are extinguished.
+
+23.3
+
+The scheme manager must pay to the appropriate person an amount by way of
+compensation equal to—
+
+23.3.a
+
+the aggregate of the  purported special payments made by P, less
+
+23.3.b
+
+an amount determined by the scheme manager in respect of the value of the tax
+relief under section 188 of FA 2004 (member contributions) to which P   would
+have been   entitled in respect of those payments  had P been entitled to make
+them .
+
+23.4
+
+Where determining the tax relief amount under paragraph (3)(b), the scheme
+manager may adopt an approach which is reasonable in all the circumstances to
+approximate those amounts.
+
+23.5
+
+The following provisions of the PSP Directions 2022 apply in relation to a
+determination under paragraph (3)(b) as they apply in relation to a
+determination under direction 23(2)—
+
+23.5.a
+
+direction 23(4) (provision of explanation);
+
+23.5.b
+
+direction 23(5) and (6) (appeals).
+
+##### Compensation for payments for  
+
+24
+
+24.1
+
+This regulation applies where—
+
+24.1.a
+
+P has, during the period of remediable service, made any   purported  added
+pension payments  ..., and
+
+24.1.b
+
+regulation 129(1)(b) of the 2015 Regulations does not apply in respect of
+those payments.
+
+24.2
+
+Where the appropriate person makes a request for compensation in respect of
+the  purported  added pension payments—
+
+24.2.a
+
+  for the avoidance of doubt, any rights   that would otherwise have been
+secured by the purported  added pension payments  , had P been entitled to
+make them,   are extinguished, and
+
+24.2.b
+
+the scheme manager must pay to the appropriate person an amount by way of
+compensation equal to—
+
+24.2.b.i
+
+the aggregate of the purported  added pension payments paid by P, less
+
+24.2.b.ii
+
+an amount determined by the scheme manager in respect of the value of the tax
+relief under section 188 of FA 2004 (member contributions) to which P   would
+have been   entitled in respect of those payments  had P been entitled to make
+them .
+
+24.3
+
+Where determining the tax relief amount under paragraph (2)(b), the scheme
+manager may adopt an approach which is reasonable in all the circumstances to
+approximate those amounts.
+
+24.4
+
+The following provisions of the PSP Directions 2022 apply in relation to a
+determination under paragraph (2)(b) of this regulation as they apply in
+relation to a determination under direction 23(2)—
+
+24.4.a
+
+direction 23(4) (provision of explanation);
+
+24.4.b
+
+direction 23(5) and (6) (appeals).
+
+24.5
+
+A request under paragraph (2) is irrevocable and must be—
+
+24.5.a
+
+made by notice to the scheme manager,
+
+24.5.b
+
+in a form required by the scheme manager, and
+
+24.5.c
+
+received by the scheme manager before the end of the notification period.
+
+##### Compensation for  
+
+25
+
+25.1
+
+This regulation applies where P has, during the period of remediable service,
+made any   purported  effective pension age payments  ....
+
+25.2
+
+  For the avoidance of doubt, any rights   that would otherwise have been
+secured by the purported  effective pension age payments  , had P been
+entitled to make them,   are extinguished.
+
+25.3
+
+The scheme manager must pay to the appropriate person an amount by way of
+compensation equal to—
+
+25.3.a
+
+the aggregate of the  purported  effective pension age payments made by P,
+less
+
+25.3.b
+
+an amount determined by the scheme manager in respect of the value of the tax
+relief under section 188 of FA 2004 (member contributions) to which P   would
+have been   entitled in respect of those payments  had P been entitled to make
+them .
+
+25.4
+
+Where determining the tax relief amount under paragraph (3)(b), the scheme
+manager may adopt an approach which is reasonable in all the circumstances to
+approximate those amounts.
+
+25.5
+
+The following provisions of the PSP Directions 2022 apply in relation to a
+determination under paragraph (3)(b) as they apply in relation to a
+determination under direction 23(2)—
+
+25.5.a
+
+direction 23(4) (provision of explanation);
+
+25.5.b
+
+direction 23(5) and (6) (appeals).
+
+#### Transitional protection allowance where an immediate detriment remedy has been obtained
+
+##### Transitional protection allowance
+
+26
+
+26.1
+
+This regulation applies where P’s employer  has paid P a transitional
+protection allowance .
+
+26.2
+
+The appropriate person must pay to P’s employer an amount equal to—
+
+26.2.a
+
+the amount of the transitional protection allowance, less
+
+26.2.b
+
+an amount in respect of the income tax suffered by P that is attributable to
+the transitional protection allowance.
+
+#### Compensation for compensatable losses where an immediate detriment remedy has been obtained
+
+##### Power to pay compensation in respect of compensatable losses
+
+27
+
+27.1
+
+The scheme manager for a judicial scheme may pay amounts by way of
+compensation in respect of compensatable losses incurred by the appropriate
+person.
+
+27.2
+
+For the purposes of this regulation a loss incurred by the appropriate person
+is “compensatable” if and to the extent that—
+
+27.2.a
+
+the first condition is met (see paragraph (5)) and the loss is—
+
+27.2.a.i
+
+a direct financial loss, or
+
+27.2.a.ii
+
+a specified Part 4 tax loss, or
+
+27.2.b
+
+the second condition is met (see paragraph (6)) and the loss is—
+
+27.2.b.i
+
+a direct financial loss which is directly related to the member’s remediable
+service in an employment or office which is mixed service , or
+
+27.2.b.ii
+
+a specified Part 4 tax loss.
+
+27.3
+
+For the purposes of paragraph (2)(a)(ii) and (b)(ii), a Part 4 tax loss is a
+“specified Part 4 tax loss” if and to the extent that it falls within one of
+the descriptions listed in direction 26(4) of the PSP Directions 2022.
+
+27.4
+
+For the purposes of paragraph (3), direction 26(4) is to be read as if—
+
+27.4.a
+
+references to a legacy scheme election being made by virtue of section 40(1)
+of PSPJOA 2022 were references to an immediate detriment remedy being obtained
+by virtue of—
+
+27.4.a.i
+
+a determination mentioned in section 68(2)(a) of PSPJOA 2022, or
+
+27.4.a.ii
+
+an agreement mentioned in section 68(3)(a) of PSPJOA 2022;
+
+27.4.b
+
+the reference in direction 26(4)(e) to section 52(3) of PSPJOA 2022 were a
+reference to regulation 22(3);
+
+27.4.c
+
+in direction 26(4)(f)—
+
+27.4.c.i
+
+the reference to provision made by virtue of section 56(2) of PSPJOA 2022 were
+a reference to regulation 63(2);
+
+27.4.c.ii
+
+the reference to section 52(4) of PSPJOA 2022 were a reference to regulation
+22(4).
+
+27.5
+
+The first condition is that the loss is attributable to, or is reasonably
+regarded as attributable to, a relevant breach of a non-discrimination rule .
+
+27.6
+
+The second condition is that the loss is attributable to the application of
+any provision of this Part.
+
+27.7
+
+Paragraph (1) does not confer power to pay amounts by way of compensation in
+respect of compensatable losses so far as—
+
+27.7.a
+
+the appropriate person has already received amounts by way of compensation in
+respect of them, or
+
+27.7.b
+
+amounts that any person has paid to the scheme have been reduced by amounts in
+respect of them,
+
+whether pursuant to a court or tribunal order or otherwise.
+
+27.8
+
+For the purpose of this regulation, a breach of a non-discrimination rule is
+“relevant” if section 59(10) of PSPJOA 2022 applies to it.
+
+27.9
+
+In this regulation, “loss”—
+
+27.9.a
+
+has the meaning given in section 59(6) and (7) of PSPJOA 2022;
+
+27.9.b
+
+does not include an amount that is payable under this Part.
+
+#### Unauthorised payments where an immediate detriment remedy has been obtained
+
+##### Scheme rules that prohibit unauthorised payments
+
+28
+
+28.1
+
+This regulation applies where—
+
+28.1.a
+
+a payment from a judicial scheme is permitted or required to be made under
+this Part,
+
+28.1.b
+
+the payment, if made, would be an unauthorised payment , and
+
+28.1.c
+
+a rule of the scheme prohibits the scheme from making unauthorised payments.
+
+28.2
+
+The payment may be made only if it falls within a description of payments that
+correspond to a description of payments specified for the purposes of section
+63 of PSPJOA 2022 in Treasury directions.
+
+28.3
+
+Paragraph (4) applies where—
+
+28.3.a
+
+in the course of taking the steps mentioned in regulation 16 (requirement to
+transfer assets held in a partnership pension account) a payment is made from
+a partnership pension account,
+
+28.3.b
+
+the payment, if made, would be an unauthorised payment, and
+
+28.3.c
+
+a rule of the scheme prohibits the scheme from making unauthorised payments.
+
+28.4
+
+The payment may be made notwithstanding the rule mentioned in paragraph
+(3)(c).
+
+### Provision in relation to certain fee-paid judges
+
+#### Application and Interpretation
+
+##### Application of Part
+
+29
+
+29.1
+
+This Part applies where a relevant fee-paid judge  (“ R ”) has relevant
+service in a judicial office.
+
+29.2
+
+“Relevant service” is any continuous period of service that meets the
+following conditions.
+
+29.3
+
+The first condition is that the service in question took place in the period
+beginning with 1st April 2015 and ending with 31st March 2022.
+
+29.4
+
+The second condition is that the service—
+
+29.4.a
+
+is pensionable service under a judicial legacy scheme, or
+
+29.4.b
+
+would have been pensionable service under a judicial scheme but for the fact
+that the person, in accordance with the scheme, opted that it should not be
+(or failed to opt that it should be) pensionable service under the scheme.
+
+29.5
+
+The second condition is met if all of the service in question falls within
+paragraph (4)(a) and (b) (even if it does not fall within only one of those
+paragraphs).
+
+29.6
+
+The third condition is that there is no disqualifying gap in service  falling
+within the period—
+
+29.6.a
+
+beginning with the day after the most recent day in relation to which section
+103(3)(c) PSPJOA 2022 applies in relation to R, and
+
+29.6.b
+
+ending with the day before the first day of the relevant service.
+
+29.7
+
+For the purposes of paragraph (4)(b), a person is treated as having opted in
+accordance with the scheme that service should not be pensionable service
+under a judicial scheme if the service would have been pensionable service
+under that scheme (or would have been if the person had opted that it should
+be) but for the fact that the person had a partnership pension account.
+
+29.8
+
+This Part does not apply in relation to any payment or transfer of assets and
+liabilities that would otherwise be payable or required to be made under this
+Part where a corresponding payment or a corresponding transfer of assets and
+liabilities has been made.
+
+29.9
+
+In paragraph (8)—
+
+      a “corresponding payment” is a payment that has been made in relation to
+R’s relevant service that corresponds to a payment that is payable or required
+to be made under this Part;           a “corresponding transfer of assets and
+liabilities” is a transfer of assets and liabilities that has been made in
+relation to R’s relevant service that corresponds to a transfer of assets and
+liabilities that is required to be made under this Part.
+
+29.10
+
+Regulations 33 to 45 do not apply in relation to R where R is a person
+described in—
+
+29.10.a
+
+regulation 32(1) and the steps mentioned in regulation 32(2) have not been
+taken in relation to R;
+
+29.10.b
+
+regulation 32(3) and the steps mentioned in regulation 32(4) have not been
+taken in relation to R.
+
+##### Interpretation of Part
+
+30
+
+30.1
+
+In this Part—
+
+      “ adult survivor ” means a surviving spouse or surviving civil partner
+who is entitled under a judicial legacy scheme to a pension determined (to any
+extent) by reference to R’s relevant service;           “ Part 4 judicial
+legacy salaried scheme ”, in relation to a member’s relevant service in a
+salaried judicial office, means the judicial legacy salaried scheme under
+which the member most recently accrued pensionable service in the office.
+
+30.2
+
+For the purposes of this Part—
+
+30.2.a
+
+R’s relevant service is “PPA opted-out relevant service” if and to the extent
+that R made contributions to a partnership pension account in respect of it;
+
+30.2.b
+
+the “ notification period ”, in relation to R, is (subject to sub-paragraph
+(c)) the period of three months beginning with the date on which the statement
+mentioned in regulation 31 is sent;
+
+30.2.c
+
+the relevant authority may extend the period mentioned in sub-paragraph (b) in
+relation to R if the relevant authority considers it just and equitable to do
+so.
+
+#### Information statements
+
+##### Information statements
+
+31
+
+31.1
+
+The relevant authority must, as soon as reasonably practicable—
+
+31.1.a
+
+prepare a statement in relation to R, and
+
+31.1.b
+
+send it to the appropriate person.
+
+31.2
+
+The statement must contain such information as the relevant authority
+considers relevant to R’s rights and liabilities under these Regulations.
+
+#### Partnership pension account where a person has relevant service
+
+##### Partnership pension account: requirement to transfer and surrender rights
+
+32
+
+32.1
+
+Paragraph (2) applies where—
+
+32.1.a
+
+R has relevant service in a salaried judicial office, and
+
+32.1.b
+
+any of the relevant service is PPA opted-out relevant service.
+
+32.2
+
+The relevant person must, before the end of the notification period, take the
+steps specified in section 41(3) of PSPJOA 2022 and for these purposes section
+41(3) is to be read as if—
+
+32.2.a
+
+references to the relevant judicial legacy salaried scheme were references to
+the Part 4 judicial legacy salaried scheme;
+
+32.2.b
+
+the reference in section 41(3)(c) to the appropriate person were a reference
+to the relevant person.
+
+32.3
+
+Paragraph (4) applies where—
+
+32.3.a
+
+R has relevant service in a fee-paid judicial office, and
+
+32.3.b
+
+any of the relevant service is PPA opted-out relevant service.
+
+32.4
+
+The relevant person must, before the end of the notification period, take the
+steps specified in section 41(6) of PSPJOA 2022, and for these purposes the
+reference in section 41(6)(c) to the appropriate person is to be read as a
+reference to the relevant person.
+
+32.5
+
+In this regulation, “ relevant person ” means “R” or, if R is deceased—
+
+32.5.a
+
+the adult survivor, or
+
+32.5.b
+
+if there is no adult survivor, R’s personal representatives.
+
+#### Benefits for children
+
+##### Benefits for children
+
+33
+
+33.1
+
+This regulation applies where—
+
+33.1.a
+
+R is deceased,
+
+33.1.b
+
+R is survived by a child who—
+
+33.1.b.i
+
+is not living in the same household as an adult survivor of R, and
+
+33.1.b.ii
+
+is entitled to benefits in respect of R under a judicial legacy scheme, and
+
+33.1.c
+
+the benefits payable under the judicial legacy scheme in respect of the child
+are, in the opinion of the scheme manager of the scheme, less valuable (looked
+at in the round) than those that would have been payable in respect of the
+child under the 2015 scheme.
+
+33.2
+
+The benefits payable in respect of the child under the judicial legacy scheme,
+so far as they are determined by reference to R’s relevant service, are such
+benefits as would have been payable in respect of the child, so far as they
+are determined by reference to R’s relevant service, if R had been a member of
+the 2015 scheme.
+
+#### Partial retirement
+
+##### Partial retirement notice
+
+34
+
+34.1
+
+Paragraph (2) applies where—
+
+34.1.a
+
+R exercised a partial retirement option under regulation 60(2) of the 2015
+Regulations in respect of any fee-paid judicial office, and
+
+34.1.b
+
+the conditions set out in regulation 27(1) of FPJR 2017 are met in respect of
+R.
+
+34.2
+
+A notice in respect of R that complies with the requirement in regulation
+27(3)(a) of FPJR 2017 is treated as having been given in accordance with sub-
+paragraph (3)(b) of that regulation if it is received by the appropriate
+Minister before the end of the notification period.
+
+34.3
+
+A notice under paragraph (2) has effect on the date agreed by the member and
+the scheme manager under regulation 61(1)(b) of the 2015 Regulations in
+relation to the exercise of the partial retirement option referred to in
+paragraph (1)(a).
+
+#### Benefits and contributions previously paid or payable
+
+##### Benefits previously paid or payable
+
+35
+
+35.1
+
+Paragraph (2) applies in relation to any   payments purporting to be benefits
+that the 2015 scheme has at any time paid (“the purported benefits”)   to a
+person so far as—
+
+35.1.a
+
+they are calculated by reference to R’s relevant service in a salaried
+judicial office, and
+
+35.1.b
+
+they are   payments   that a person was not entitled to receive  as benefits
+from the 2015 scheme.
+
+35.2
+
+  The purported benefits   are to be treated for all purposes—
+
+35.2.a
+
+as not having been paid to the person by the 2015 scheme, but
+
+35.2.b
+
+as having been paid to the person instead by the Part 4 judicial legacy
+salaried scheme.
+
+35.3
+
+Paragraph (4) applies in relation to any   payments purporting to be benefits
+that the 2015 scheme has at any time paid (“the purported benefits”)   to a
+person so far as—
+
+35.3.a
+
+they are calculated by reference to R’s relevant service in a fee-paid
+judicial office, and
+
+35.3.b
+
+they are   payments   that a person was not entitled to receive  as benefits
+from the 2015 scheme.
+
+35.4
+
+  The purported benefits   are to be treated for all purposes—
+
+35.4.a
+
+as not having been paid to the person by the 2015 scheme, but
+
+35.4.b
+
+as having been paid to the person instead by the judicial legacy fee-paid
+scheme.
+
+35.5
+
+Where, after taking into account the effect of paragraphs (2) and (4)—
+
+35.5.a
+
+a judicial legacy scheme owes a person an amount in respect of benefits which
+are calculated by reference to R’s relevant service in a judicial office, or
+
+35.5.b
+
+a person owes a judicial legacy scheme an amount in respect of such benefits,
+
+such amount must be paid in accordance with regulation 37.
+
+##### Pension contributions previously paid or payable
+
+36
+
+36.1
+
+Paragraph (2) applies where R has   made any payments purporting to be pension
+contributions under the 2015 scheme (“the purported contributions”)   which—
+
+36.1.a
+
+are calculated by reference to R’s relevant service in a salaried judicial
+office, and
+
+36.1.b
+
+  were payments which,  had R been recognised as a full protection member  of
+a judicial legacy scheme in relation to that service, R would not have been
+required to pay to the 2015 scheme.
+
+36.2
+
+  The purported contributions   are to be treated for all purposes—
+
+36.2.a
+
+as not having been paid by R to the 2015 scheme, but
+
+36.2.b
+
+as having been paid by R instead to the Part 4 judicial legacy salaried
+scheme.
+
+36.3
+
+Paragraph (4) applies where R has   made any payments purporting to be pension
+contributions under the 2015 scheme (“the purported contributions”)   which—
+
+36.3.a
+
+are calculated by reference to R’s relevant service in a fee-paid judicial
+office, and
+
+36.3.b
+
+  were payments which,  had R been recognised as a full protection member of a
+judicial legacy scheme in relation to that service, R would not have been
+required to pay to the 2015 scheme.
+
+36.4
+
+  The purported contributions   are to be treated for all purposes—
+
+36.4.a
+
+as not having been paid by R to the 2015 scheme, but
+
+36.4.b
+
+as having been paid by R instead to the judicial legacy fee-paid scheme.
+
+36.5
+
+Where, after taking into account the effect of paragraphs (2) and (4)—
+
+36.5.a
+
+a judicial legacy scheme owes a person an amount in respect of pension
+contributions which are calculated by reference to R’s relevant service, or
+
+36.5.b
+
+a person owes a judicial legacy scheme an amount in respect of such
+contributions,
+
+such amount must be paid in accordance with regulation 38.
+
+#### Corrections for pension benefits and contributions
+
+##### Pension benefits and lump sum benefits
+
+37
+
+37.1
+
+This regulation applies where—
+
+37.1.a
+
+a notice in respect of an option to take partial retirement is treated as
+having been given in relation to R by virtue of regulation 34(2),
+
+37.1.b
+
+R is a pensioner member in relation to a judicial office, or
+
+37.1.c
+
+R is deceased.
+
+37.2
+
+Where—
+
+37.2.a
+
+the aggregate of the pension benefits that (after taking into account the
+effect, if any, of regulation 35(2) or (4)) have been paid under a judicial
+legacy scheme to any person (“ the beneficiary ”) in respect of R’s relevant
+service in a judicial office, exceeds
+
+37.2.b
+
+the aggregate of the pension benefits to which the beneficiary was entitled
+under the scheme in respect of the service,
+
+the beneficiary must pay the difference to the scheme.
+
+37.3
+
+Where—
+
+37.3.a
+
+the amount mentioned in sub-paragraph (2)(a), is less than
+
+37.3.b
+
+the amount mentioned in sub-paragraph (2)(b),
+
+the scheme manager must pay the difference to the beneficiary.
+
+37.4
+
+Where—
+
+37.4.a
+
+the aggregate of the lump sum benefits that (after taking into account the
+effect, if any, of regulation 35(2) or (4)) have been paid under a judicial
+legacy scheme to any person (“ the beneficiary ”) in respect of R’s relevant
+service in a judicial office, exceeds
+
+37.4.b
+
+the aggregate of the lump sum benefits to which the beneficiary was entitled
+under the scheme in respect of the service,
+
+the beneficiary must pay the difference to the scheme.
+
+37.5
+
+Where—
+
+37.5.a
+
+the amount mentioned in sub-paragraph (4)(a), is less than
+
+37.5.b
+
+the amount mentioned in sub-paragraph (4)(b),
+
+the scheme manager must pay the difference to the beneficiary.
+
+##### Pension contributions
+
+38
+
+38.1
+
+Where—
+
+38.1.a
+
+the paid contributions amount for an in-scope tax year in respect of R’s
+relevant service in a judicial office, exceeds
+
+38.1.b
+
+the payable contributions amount for that tax year in respect of that service,
+
+the scheme manager must (directly or indirectly) pay an amount in respect of
+the difference to the appropriate person.
+
+38.2
+
+Where—
+
+38.2.a
+
+the paid contributions amount for an out-of-scope tax year in respect of R’s
+relevant service in a judicial office, exceeds
+
+38.2.b
+
+the payable contributions amount for that tax year in respect of that service,
+
+no amount is to be paid by the scheme manager in respect of the difference to
+the appropriate person.
+
+38.3
+
+Where—
+
+38.3.a
+
+the paid contributions amount for an in-scope or out-of-scope tax year in
+respect of R’s relevant service in a judicial office, is less than
+
+38.3.b
+
+the payable contributions amount for that tax year in respect of that service,
+
+the appropriate person must pay pension contributions to the scheme in respect
+of the difference.
+
+38.4
+
+A reference in this regulation to “the paid contributions amount” for a tax
+year in respect of R’s relevant service in a judicial office is a reference to
+the sum of—
+
+38.4.a
+
+the aggregate of the pension contributions that (after taking into account the
+effect, if any, of regulation 36(2) and (4)), have been paid under the scheme
+by R in the tax year in respect of so much of the service as was not PPA
+opted-out service, and
+
+38.4.b
+
+where any of the relevant service was PPA opted-out service—
+
+38.4.b.i
+
+the aggregate of the pension contributions and any voluntary contributions
+that (after taking into account the effect, if any, of regulation 36(2) and
+(4)) have been paid by R under the partnership pension account in the tax year
+in respect of the PPA opted-out service, or
+
+38.4.b.ii
+
+if lower, the aggregate of the pension contributions that were payable under
+the scheme by R for that tax year in respect of the PPA opted-out service.
+
+38.5
+
+A reference in this regulation to “the payable contributions amount” for a tax
+year in respect of R’s relevant service in a judicial office means the
+aggregate of the pension contributions that were payable under the relevant
+judicial legacy scheme by R for that tax year in respect of the service.
+
+38.6
+
+For the purposes of this regulation—
+
+38.6.a
+
+a tax year is “ in-scope ” in relation to R if any necessary adjustment to the
+amount of income tax paid by R in respect of PAYE income for the tax year is
+capable of being enforced by HMRC under PAYE regulations;
+
+38.6.b
+
+a tax year is “ out-of-scope ” in relation to R if it is not in-scope in
+relation to R.
+
+38.7
+
+A reference in this regulation to pension contributions or voluntary
+contributions paid by a person under a partnership pension account is a
+reference to the amount of the contributions paid, net of any tax relief under
+section 188 of FA 2004 (relief for contributions) to which the person was
+entitled in respect of them.
+
+#### Compensation for voluntary payments
+
+##### Compensation for  
+
+39
+
+39.1
+
+This regulation applies where R has, during the period of relevant service,
+made any  purported   special payments  ....
+
+39.2
+
+  For the avoidance of doubt, any rights   that would otherwise have been
+secured by the  purported  special payments  , had R been entitled to make
+them,   are extinguished.
+
+39.3
+
+The scheme manager must pay to the appropriate person an amount by way of
+compensation equal to—
+
+39.3.a
+
+the aggregate of the  purported  special payments made by R, less
+
+39.3.b
+
+an amount determined by the scheme manager in respect of the value of the tax
+relief under section 188 of FA 2004 (member contributions) to which P   would
+have been   entitled in respect of those payments  had R been entitled to make
+them .
+
+39.4
+
+Where determining the tax relief amount under paragraph (3)(b), the scheme
+manager may adopt an approach which is reasonable in all the circumstances to
+approximate that amount.
+
+39.5
+
+The following provisions of the PSP Directions 2022 apply in relation to a
+determination under paragraph (3)(b) as they apply in relation to a
+determination under direction 23(2)—
+
+39.5.a
+
+direction 23(4) (provision of explanation);
+
+39.5.b
+
+direction 23(5) and (6) (appeals).
+
+##### Compensation for payments for 
+
+40
+
+40.1
+
+This regulation applies where—
+
+40.1.a
+
+R has, during the period of relevant service, made any   purported  added
+pension payments  ..., and
+
+40.1.b
+
+regulation 129(1)(b) of the 2015 Regulations does not apply in respect of
+those payments.
+
+40.2
+
+Where the appropriate person makes a request for compensation in respect of
+the purported  added pension payments—
+
+40.2.a
+
+  for the avoidance of doubt, any rights   that would otherwise have been
+secured by the  purported  added pension payments  , had R been entitled to
+make them,   are extinguished, and
+
+40.2.b
+
+the scheme manager must pay to the appropriate person an amount by way of
+compensation equal to—
+
+40.2.b.i
+
+the aggregate of the  purported  added pension payments paid by R, less
+
+40.2.b.ii
+
+an amount determined by the scheme manager in respect of the value of the tax
+relief under section 188 of FA 2004 (member contributions) to which R   would
+have been   entitled in respect of those payments  had R been entitled to make
+them .
+
+40.3
+
+Where determining the tax relief amount under paragraph (2)(b), the scheme
+manager may adopt an approach which is reasonable in all the circumstances to
+approximate that amount.
+
+40.4
+
+The following provisions of the PSP Directions 2022 apply in relation to a
+determination under paragraph (2)(b) of this regulation as they apply in
+relation to a determination under direction 23(2)—
+
+40.4.a
+
+direction 23(4) (provision of explanation);
+
+40.4.b
+
+direction 23(5) and (6) (appeals).
+
+40.5
+
+A request under paragraph (2) is irrevocable and must be—
+
+40.5.a
+
+made by notice to the scheme manager,
+
+40.5.b
+
+in a form required by the scheme manager, and
+
+40.5.c
+
+received by the scheme manager before the end of the notification period.
+
+##### Compensation for 
+
+41
+
+41.1
+
+This regulation applies where R has, during the period of relevant service,
+made any   purported  effective pension age payments  ....
+
+41.2
+
+  For the avoidance of doubt, any rights   that would otherwise have been
+secured by the  purported  effective pension age payments  , had R been
+entitled to make them,   are extinguished.
+
+41.3
+
+The scheme manager must pay to the appropriate person an amount by way of
+compensation equal to—
+
+41.3.a
+
+the aggregate of the purported  effective pension age payments made by R, less
+
+41.3.b
+
+an amount determined by the scheme manager in respect of the value of the tax
+relief under section 188 of FA 2004 (member contributions) to which R   would
+have been   entitled in respect of those payments  had R been entitled to make
+them .
+
+41.4
+
+Where determining the tax relief amount under paragraph (3)(b), the scheme
+manager may adopt an approach which is reasonable in all the circumstances to
+approximate that amount.
+
+41.5
+
+The following provisions of the PSP Directions 2022 apply in relation to a
+determination under paragraph (3)(b) as they apply in relation to a
+determination under direction 23(2)—
+
+41.5.a
+
+direction 23(4) (provision of explanation);
+
+41.5.b
+
+direction 23(5) and (6) (appeals).
+
+##### Transfers out of the 2015 scheme
+
+42
+
+42.1
+
+This regulation applies where a transfer value payment has, during the period
+of relevant service, been made under regulation 133 of the 2015 Regulations in
+respect of R’s accrued rights under the 2015 scheme.
+
+42.2
+
+The scheme manager must provide the appropriate person with a statement of the
+cash equivalent to which R was entitled, under a judicial legacy scheme, in
+respect of R’s accrued rights on the guarantee date in relation to the period
+of relevant service.
+
+42.3
+
+Where—
+
+42.3.a
+
+the value of the cash equivalent in respect of the sum specified in regulation
+137(3)(a) of the 2015 Regulations, is less than
+
+42.3.b
+
+the value of the cash equivalent to which R was entitled under paragraph (2)
+in respect of that sum,
+
+the scheme manager must pay to the appropriate person an amount equal to the
+value of the difference.
+
+42.4
+
+The scheme manager is discharged from any further obligation to provide
+benefits to which the cash equivalent related.
+
+42.5
+
+In this regulation the “guarantee date” is the date specified in the statement
+of entitlement that was provided to R under regulation 135(1) of the 2015
+Regulations in respect of the transfer value payment.
+
+#### Transitional protection allowance
+
+##### Transitional protection allowance
+
+43
+
+43.1
+
+This regulation applies where R’s employer has paid R a transitional
+protection allowance.
+
+43.2
+
+The appropriate person must pay to R’s employer an amount equal to—
+
+43.2.a
+
+the amount of the transitional protection allowance, less
+
+43.2.b
+
+an amount in respect of the income tax suffered by R that is attributable to
+the transitional protection allowance.
+
+#### Compensation for compensatable losses
+
+##### Power to pay compensation in respect of compensatable losses
+
+44
+
+44.1
+
+The scheme manager for a judicial scheme may pay amounts by way of
+compensation in respect of compensatable losses incurred by the appropriate
+person.
+
+44.2
+
+For the purposes of this regulation a loss incurred by the appropriate person
+is “compensatable” if and to the extent that—
+
+44.2.a
+
+the first condition is met (see paragraph (5)) and the loss is—
+
+44.2.a.i
+
+a direct financial loss, or
+
+44.2.a.ii
+
+a specified Part 4 tax loss, or
+
+44.2.b
+
+the second condition is met (see paragraph (6)) and the loss is—
+
+44.2.b.i
+
+a direct financial loss which is directly related to the member’s remediable
+service in an employment or office which is mixed service, or
+
+44.2.b.ii
+
+a specified Part 4 tax loss.
+
+44.3
+
+For the purposes of paragraph (2)(a)(ii) and (b)(ii), a Part 4 tax loss is a
+“specified Part 4 tax loss” if and to the extent that it falls within one of
+the descriptions listed in direction 26(4) of the PSP Directions 2022.
+
+44.4
+
+For the purposes of paragraph (3), direction 26(4) is to be read as if—
+
+44.4.a
+
+references to a legacy scheme election being made by virtue of section 40(1)
+of PSPJOA 2022 were references to the operation of this Part;
+
+44.4.b
+
+the reference in direction 26(4)(e) to section 52(3) of PSPJOA 2022 were a
+reference to regulation 38(2);
+
+44.4.c
+
+in direction 26(4)(f)—
+
+44.4.c.i
+
+the reference to provision made by virtue of section 56(2) of PSPJOA 2022 were
+a reference to regulation 63(2);
+
+44.4.c.ii
+
+the reference to section 52(4) of PSPJOA 2022 were a reference to regulation
+38(3).
+
+44.5
+
+The first condition is that the loss is attributable to, or is reasonably
+regarded as attributable to, the fact that R was not recognised as a full
+protection member of a judicial legacy scheme.
+
+44.6
+
+The second condition is that the loss is attributable to the application of
+any provision of this Part.
+
+44.7
+
+Paragraph (1) does not confer power to pay amounts by way of compensation in
+respect of compensatable losses so far as—
+
+44.7.a
+
+the appropriate person has already received amounts by way of compensation in
+respect of them, or
+
+44.7.b
+
+amounts that any person has paid to the scheme have been reduced by amounts in
+respect of them,
+
+whether pursuant to a court or tribunal order or otherwise.
+
+44.8
+
+In this regulation, “loss”—
+
+44.8.a
+
+has the meaning given in section 59(6) to (8) of PSPJOA 2022;
+
+44.8.b
+
+does not include an amount that is payable under this Part.
+
+#### Unauthorised payments
+
+##### Scheme rules that prohibit unauthorised payments
+
+45
+
+45.1
+
+Paragraph (2) applies where—
+
+45.1.a
+
+a payment from a judicial scheme is permitted or required to be made under
+this Part,
+
+45.1.b
+
+the payment, if made, would be an unauthorised payment, and
+
+45.1.c
+
+a rule of the scheme prohibits the scheme from making unauthorised payments.
+
+45.2
+
+The payment may be made only if it falls within a description of payments that
+correspond to a description of payments specified for the purposes of section
+63 of PSPJOA 2022 in Treasury directions.
+
+45.3
+
+Paragraph (4) applies where—
+
+45.3.a
+
+in the course of taking the steps mentioned in regulation 32 (requirement to
+transfer assets held in a partnership pension account) a payment is made from
+a partnership pension account,
+
+45.3.b
+
+the payment, if made, would be an unauthorised payment, and
+
+45.3.c
+
+a rule of the scheme prohibits the scheme from making unauthorised payments.
+
+45.4
+
+The payment may be made notwithstanding the rule mentioned in paragraph
+(3)(c).
+
+### Pension Credit Members
+
+#### Preliminary
+
+##### Application of Part
+
+46
+
+46.1
+
+This Part applies where—
+
+46.1.a
+
+a person (“ P ”) has remediable service in a judicial office,
+
+46.1.b
+
+a pension sharing order is made in respect of P, and
+
+46.1.c
+
+the transfer day of the pension sharing order is in the period beginning with
+1st April 2015 and ending with the day before the day on which—
+
+46.1.c.i
+
+the legacy scheme election or 2015 scheme election takes effect in respect of
+P, or
+
+46.1.c.ii
+
+either of the conditions under section 68(2) or (3) of PSPJOA 2022 is
+satisfied in relation to P’s remediable service.
+
+46.2
+
+This Part also applies where—
+
+46.2.a
+
+a person (“ P ”) has relevant service in a judicial office,
+
+46.2.b
+
+a pension sharing order is made in respect of P, and
+
+46.2.c
+
+the transfer day of the pension sharing order is in the period beginning with
+1st April 2015 and ending on the day before the day on which Part 4 takes
+effect in respect of P.
+
+##### Interpretation of Part
+
+47
+
+47.1
+
+In this Part—
+
+      “ amount of credited pension ” has the meaning given in regulation 2 of
+the 2015 Regulations;           “ appropriate amount ” means the amount
+calculated under section 29(2) and (3) of WRPA 1999  in respect of a pension
+sharing order;           “ cash equivalent ” means a value calculated by
+virtue of section 30 of WRPA 1999;           “ corresponding pension debit
+member ”, in relation to a relevant pension credit member, means the person
+mentioned in paragraph (b) of the definition of “relevant pension credit
+member”;           “pension credit” and “pension debit” have the meanings
+given in section 57(7) of PSPJOA 2022;           “ pension sharing order ”
+means an order or provision by virtue of which section 29 of WRPA 1999 applies
+to a relevant pension credit member and the corresponding pension debit
+member;           “ relevant benefits ” means—         where P was in
+pensionable service on the transfer day, the benefits or future benefits to
+which P was entitled under a judicial scheme by virtue of P’s shareable rights
+in the scheme in respect of P’s service beginning on 1st April 2015 and ending
+on the day before the transfer day;           otherwise, the benefits or
+future benefits to which P was entitled under a judicial scheme by virtue of
+P’s shareable rights in the scheme in respect of P’s service beginning on 1st
+April 2015 and ending on the last day of P’s service;                 “
+relevant pension credit member ”, in relation to a judicial scheme, means a
+person who has rights under the scheme—         which are attributable
+(directly or indirectly) to a pension credit, and           the value of which
+was determined (to any extent) by reference to the value of benefits payable
+in respect of the remediable service or relevant service in a judicial office
+of another person;                 “ relevant period ” means—         where P
+has remediable service and an immediate detriment remedy has not been obtained
+in relation to that service, the election period in relation to P, and
+otherwise, the notification period in relation to P;                 “
+shareable rights ” has the meaning given in section 27(2) of WRPA 1999;
+“ transfer day ”, in relation to a pension sharing order, means the day on
+which the relevant pension sharing order takes effect;           “ valuation
+day ” has the meaning given in section 29(7) of WRPA 1999 in respect of a
+pension credit member and the corresponding debit member.
+
+47.2
+
+For the purposes of this Part, the “ notification period ”, in relation to P,
+has the meaning given—
+
+47.2.a
+
+where P has remediable service and an immediate detriment remedy has been
+obtained in relation to that service, in regulation 14(2) and (3);
+
+47.2.b
+
+where P has relevant service, in regulation 30(2)(b) and (c).
+
+#### Provision where all remediable or relevant service was in the 2015 scheme
+
+##### Application of Chapter
+
+48
+
+48.1
+
+This Chapter applies where the following three conditions are met.
+
+48.2
+
+The first condition is that a relevant pension credit member (“ C ”) has
+rights in respect of a pension credit under the 2015 scheme.
+
+48.3
+
+The second condition is that the corresponding pension debit member in
+relation to C (“ P ”) is subject to a pension debit in the 2015 scheme.
+
+48.4
+
+The third condition is that—
+
+48.4.a
+
+this Part applies by virtue of regulation 46(1), but only if none of P’s
+remediable service is pensionable service in a judicial legacy scheme
+(disregarding any legacy scheme election or 2015 scheme election made in
+respect of P, or any immediate detriment remedy obtained in relation to P’s
+remediable service), or
+
+48.4.b
+
+this Part applies by virtue of regulation 46(2).
+
+##### Adjustments for pension credit members
+
+49
+
+49.1
+
+The scheme manager must, after consultation with the scheme actuary, provide C
+with a statement of C’s remediable pension amount and remediable pension
+credit before the beginning of the relevant period.
+
+49.2
+
+Where—
+
+49.2.a
+
+C’s remediable pension amount exceeds the appropriate amount in respect of the
+pension sharing order in the 2015 scheme, and
+
+49.2.b
+
+C requests that C’s remediable pension credit is added to C’s rights under—
+
+49.2.b.i
+
+the 2015 scheme, or
+
+49.2.b.ii
+
+a judicial legacy scheme (if any),
+
+at the end of the relevant period, C becomes entitled to a remediable pension
+credit in accordance with the request, such credit to take effect as if it had
+been added to C’s rights with effect from the transfer day.
+
+49.3
+
+A request under paragraph (2)(b)—
+
+49.3.a
+
+must be—
+
+49.3.a.i
+
+made by notice to the scheme manager,
+
+49.3.a.ii
+
+in a form required by the scheme manager, and
+
+49.3.a.iii
+
+received by the scheme manager before the end of the relevant period, and
+
+49.3.b
+
+is irrevocable.
+
+49.4
+
+Where no request is made in accordance with paragraph (3), at the end of the
+relevant period C becomes entitled to a remediable pension credit in the 2015
+scheme, such credit to take effect as if it had been added to C’s rights with
+effect from the transfer day.
+
+49.5
+
+Where C becomes entitled to a remediable pension credit under this regulation,
+C is entitled to rights under paragraph 1 of Schedule 2A  to JUPRA 1993  in
+respect of that remediable pension credit.
+
+49.6
+
+In this regulation—
+
+      “ remediable pension amount ” means—         where the pension sharing
+order specified a percentage value to be transferred from the 2015 scheme, the
+specified percentage of the cash equivalent of P’s relevant benefits on the
+valuation day calculated as if the relevant benefits were in P’s judicial
+legacy scheme;           where the pension sharing order specified an amount
+to be transferred from the 2015 scheme, the percentage which this amount
+represented of the cash equivalent of P’s relevant benefits in the 2015 scheme
+on the valuation day disregarding any—         legacy scheme election made in
+respect of P,           immediate detriment remedy obtained in relation to P’s
+remediable service, or           where this Part applies in respect of P by
+virtue of the application of regulation 46(2), the effect of Part 2 of
+Schedule 2 to the 2015 Regulations in relation to P,         calculated
+instead as if P’s relevant benefits were in P’s judicial legacy scheme;
+“ remediable pension credit ” means the greater of—         zero, and
+the remediable pension amount minus the appropriate amount.
+
+##### Adjustments for pension debit members where a legacy scheme election is made
+
+50
+
+50.1
+
+This regulation applies where—
+
+50.1.a
+
+a legacy scheme election is made in respect of P,
+
+50.1.b
+
+an immediate detriment remedy is obtained in relation to P’s remediable
+service, or
+
+50.1.c
+
+this Part applies by virtue of regulation 46(2).
+
+50.2
+
+At the end of the relevant period, the scheme manager must adjust the value of
+P’s shareable rights in P’s judicial legacy scheme as the scheme manager,
+after consultation with the scheme actuary, considers appropriate having
+regard to—
+
+50.2.a
+
+the cash equivalent of P’s shareable rights in P’s judicial legacy scheme in
+respect of P’s remediable service or relevant service from 1st April 2015 to
+the day before the transfer day,
+
+50.2.b
+
+the percentage value or the amount to be transferred specified in the pension
+sharing order in respect of the 2015 scheme, and
+
+50.2.c
+
+the provisions of sections 29 (creation of pension credits and debits) and 31
+(reduction of benefit) of WRPA 1999.
+
+50.3
+
+The adjustment made under paragraph (2) has effect from the transfer day.
+
+#### Provision where all remediable service subject to a relevant pension sharing order was in a judicial legacy scheme
+
+##### Application of Chapter
+
+51
+
+This Chapter applies where—
+
+51.a
+
+a relevant pension credit member (“ C ”) has rights in respect of a pension
+credit in a judicial legacy scheme,
+
+51.b
+
+the corresponding debit member in relation to C (“ P ”) is subject to a
+pension debit in a judicial legacy scheme, and
+
+51.c
+
+all of P’s remediable service beginning on 1st April 2015 and ending on the
+day before the transfer day is, disregarding any legacy scheme election or
+2015 scheme election made in respect of P, pensionable service in a judicial
+legacy scheme.
+
+##### Adjustments for pension credit members
+
+52
+
+52.1
+
+The scheme manager must, after consultation with the scheme actuary and before
+the beginning of the relevant period, provide C with a statement of—
+
+52.1.a
+
+C’s 2015 scheme remediable pension amount,
+
+52.1.b
+
+C’s legacy scheme remediable pension amount, and
+
+52.1.c
+
+C’s remediable pension credit.
+
+52.2
+
+Where the value of C’s 2015 scheme remediable pension amount exceeds the value
+of C’s legacy scheme remediable pension amount, both calculated on the
+valuation day at the end of the relevant period, C becomes entitled to a
+remediable pension credit, such credit to take effect as if it had been added
+to C’s rights in C’s judicial legacy scheme on the transfer day.
+
+52.3
+
+Where C becomes entitled to a remediable pension credit under this regulation,
+C is entitled to rights under paragraph 1 of Schedule 2A to JUPRA 1993 in
+respect of that remediable pension credit.
+
+52.4
+
+In this regulation—
+
+      “ 2015 scheme remediable pension amount ” means—         where the
+pension sharing order specified a percentage value to be transferred from P’s
+judicial legacy scheme, the specified percentage of the cash equivalent of P’s
+relevant benefits on the valuation day calculated as if the relevant benefits
+were in the 2015 scheme;           where the pension sharing order specified
+an amount to be transferred from P’s judicial legacy scheme, the percentage
+which this amount represented of the cash equivalent of P’s relevant benefits
+in P’s judicial legacy scheme on the valuation day (disregarding any 2015
+scheme election), calculated instead as if P’s relevant benefits were in the
+2015 scheme;                 “ legacy scheme remediable pension amount ”
+means—         where the pension sharing order specified a percentage value to
+be transferred from P’s judicial legacy scheme, the specified percentage of
+the cash equivalent of P’s relevant benefits on the valuation day calculated
+as if the relevant benefits were in P’s judicial legacy scheme;
+where the pension sharing order specified an amount to be transferred from P’s
+judicial legacy scheme, the percentage which this amount represented of the
+cash equivalent of P’s relevant benefits in P’s judicial legacy scheme on the
+valuation day (disregarding any 2015 scheme election) calculated as if the
+relevant benefits were in P’s judicial legacy scheme;                 “
+remediable pension credit ” means the greater of—         zero, and
+the 2015 scheme remediable pension amount minus the legacy scheme remediable
+pension amount.
+
+##### Adjustments for pension debit members where a 2015 scheme election is made
+
+53
+
+53.1
+
+This regulation applies where a 2015 scheme election is made in respect of P.
+
+53.2
+
+At the end of the relevant period, the scheme manager must adjust the value of
+P’s shareable rights in P’s judicial legacy scheme and the 2015 scheme as the
+scheme manager, after consultation with the scheme actuary, considers
+appropriate having regard to—
+
+53.2.a
+
+the cash equivalent of P’s shareable rights in P’s judicial legacy scheme in
+respect of P’s service up to and including 31 March 2015,
+
+53.2.b
+
+the cash equivalent of P’s shareable rights in the 2015 scheme in respect of
+P’s remediable service from 1 April 2015 to the day before the transfer day,
+
+53.2.c
+
+the percentage value or the amount to be transferred specified in the pension
+sharing order in respect of a judicial legacy scheme, and
+
+53.2.d
+
+the provisions of sections 29 (creation of pension credits and debits) and 31
+(reduction of benefit) of WRPA 1999.
+
+53.3
+
+The adjustment made under paragraph (2) has effect from the transfer day.
+
+#### Provision where the relevant pension sharing order is in respect of mixed service
+
+##### Application of Chapter
+
+54
+
+This Chapter applies where—
+
+54.a
+
+a relevant pension credit member (“ C ”) has rights in the 2015 scheme and a
+judicial legacy scheme, and
+
+54.b
+
+the corresponding debit member (“ P ”) has remediable service which is mixed
+service.
+
+##### Interpretation of Chapter
+
+55
+
+In this Chapter—
+
+      “ mixed service ” means remediable service of P in a judicial office
+where, disregarding any legacy scheme election or 2015 scheme election made in
+respect of P or any immediate detriment remedy obtained in relation to the
+service—         some of the service on or before transfer day is pensionable
+service under a judicial legacy scheme, and           some of the service on
+or before transfer day is pensionable service under the 2015 scheme;
+“ relevant legacy scheme order or provision ” means the order or provision by
+virtue of which section 29 of WRPA 1999 applied to the relevant pension credit
+member and corresponding debit member in respect of a judicial legacy scheme;
+“ relevant 2015 scheme order or provision ” means the order or provision by
+virtue of which section 29 of WRPA 1999 applied to the relevant pension credit
+member and corresponding debit member in respect of the 2015 scheme.
+
+##### Adjustments for pension credit members where there is mixed service
+
+56
+
+56.1
+
+The scheme manager must, after consultation with the scheme actuary, calculate
+the value of C’s—
+
+56.1.a
+
+legacy scheme remediable pension amount, and
+
+56.1.b
+
+2015 scheme remediable pension amount.
+
+56.2
+
+The scheme manager must, before the beginning of the relevant period, provide
+C with a statement of C’s—
+
+56.2.a
+
+amount of credited pension in the 2015 scheme,
+
+56.2.b
+
+rights in respect of a pension credit in a judicial legacy scheme,
+
+56.2.c
+
+higher remediable pension amount, and
+
+56.2.d
+
+remediable pension credit and remediable pension reduction.
+
+56.3
+
+Paragraphs (4) to (6) apply where C has a remediable pension credit that is
+greater than zero.
+
+56.4
+
+Where C requests that the remediable pension credit is added to C’s rights in
+the 2015 scheme or a judicial legacy scheme, at the end of the relevant
+period, C becomes entitled to a remediable pension credit in accordance with
+the request, such credit to take effect as if it had been added to C’s rights
+in the judicial scheme with effect from the transfer day.
+
+56.5
+
+A request under paragraph (4)—
+
+56.5.a
+
+must be—
+
+56.5.a.i
+
+made by notice to the scheme manager,
+
+56.5.a.ii
+
+in a form required by the scheme manager, and
+
+56.5.a.iii
+
+received by the scheme manager before the end of the relevant period, and
+
+56.5.b
+
+is irrevocable.
+
+56.6
+
+Where no request is made in accordance with paragraph (5), at the end of the
+relevant period C becomes entitled to a remediable pension credit in the 2015
+scheme, such credit to take effect as if it had been added to C’s rights in
+the 2015 scheme on the transfer day.
+
+56.7
+
+Paragraphs (8) to (10) apply where C is subject to a remediable pension
+reduction that is less than zero.
+
+56.8
+
+Where C requests that the remediable pension reduction is applied to C’s
+rights in the 2015 scheme or judicial legacy scheme, at the end of the
+relevant period C becomes subject to a remediable pension reduction in
+accordance with the request, such reduction to take effect as if it had
+reduced C’s rights in the judicial scheme on the transfer day.
+
+56.9
+
+A request under paragraph (8)—
+
+56.9.a
+
+must be—
+
+56.9.a.i
+
+made by notice to the scheme manager,
+
+56.9.a.ii
+
+in a form required by the scheme manager, and
+
+56.9.a.iii
+
+received by the scheme manager before the end of the relevant period, and
+
+56.9.b
+
+is irrevocable.
+
+56.10
+
+Where no request is made in accordance with paragraph (9), at the end of the
+relevant period C becomes subject to a remediable pension reduction from the
+2015 scheme, such reduction to take effect as if it had reduced C’s rights in
+the 2015 scheme on the transfer day.
+
+56.11
+
+Where, under this regulation, C becomes—
+
+56.11.a
+
+entitled to a remediable pension credit, C is entitled to rights under
+paragraph 1 of Schedule 2A to JUPRA 1993 in respect of that remediable pension
+credit;
+
+56.11.b
+
+subject to a remediable pension reduction, C’s rights under that paragraph are
+reduced by the amount of that remediable pension reduction.
+
+56.12
+
+In this regulation—
+
+      “ 2015 scheme remediable pension amount ” means—         where the
+relevant orders or provisions specified a percentage value to be transferred,
+the sum of—         the specified percentage in the relevant legacy scheme
+order or provision of the cash equivalent of P’s pre-taper date relevant
+benefits on the valuation day calculated as if the pre-taper date relevant
+benefits were in the 2015 scheme, and           the specified percentage in
+the relevant 2015 scheme order or provision of the cash equivalent of P’s
+post-taper date relevant benefits on the valuation day, calculated as if the
+post-taper date relevant benefits were in the 2015 scheme;
+where the pension sharing order specified an amount to be transferred, the sum
+of—         the percentage which the amount in the relevant legacy scheme
+order or provision represented of the cash equivalent of P’s pre-taper date
+relevant benefits in P’s judicial legacy scheme on the valuation day
+(disregarding any 2015 scheme election), calculated instead as if P’s pre-
+taper date relevant benefits were in the 2015 scheme, and           the
+percentage which the amount in the relevant 2015 scheme order or provision
+represented of the cash equivalent of P’s post-taper date relevant benefits in
+the 2015 scheme on the valuation day (disregarding any 2015 scheme election);
+“ higher remediable pension amount ” means the greater of—         the legacy
+scheme remediable pension amount, and           the 2015 scheme remediable
+pension amount;                 “ legacy scheme remediable pension amount ”
+means—         where the relevant orders or provisions specified a percentage
+value to be transferred, the sum of—         the specified percentage in the
+relevant legacy scheme order or provision of the cash equivalent of P’s pre-
+taper date relevant benefits on the valuation day calculated as if the pre-
+taper date relevant benefits were in P’s judicial legacy scheme, and
+the specified percentage in the relevant 2015 scheme order or provision of the
+cash equivalent of P’s post-taper date relevant benefits on the valuation day,
+calculated as if the post-taper date relevant benefits were in P’s judicial
+legacy scheme;                 where the pension sharing order specified an
+amount to be transferred, the sum of—         the percentage which the amount
+in the relevant legacy scheme order or provision represented of the cash
+equivalent of P’s pre-taper date relevant benefits in P’s judicial legacy
+scheme on the valuation day (disregarding any 2015 scheme election made in
+respect of P or immediate detriment remedy obtained in relation to P’s
+remediable service), and           the percentage which the amount in the
+relevant 2015 scheme order or provision represented of the cash equivalent of
+P’s post-taper date relevant benefits in the 2015 scheme on the valuation day
+(disregarding any legacy scheme election made in respect of P or immediate
+detriment remedy obtained in relation to P’s remediable service), calculated
+instead as if P’s post-taper date relevant benefits were in P’s judicial
+legacy scheme;                       “ pre-taper date relevant benefits ”
+means the benefits or future benefits to which P was entitled under a judicial
+scheme by virtue of P’s shareable rights in the scheme in respect of P’s
+service beginning on 1 April 2015 and ending on the day before P’s taper date;
+“ post-taper date relevant benefits ” means—         where P was in
+pensionable service on the transfer day, the benefits or future benefits to
+which P was entitled under a judicial scheme by virtue of P’s shareable rights
+in the scheme in respect of P’s service beginning on P’s taper date and ending
+on the day before the transfer day;           otherwise, the benefits or
+future benefits to which P was entitled under a judicial scheme by virtue of
+P’s shareable rights in the scheme in respect of P’s service beginning on P’s
+taper date and ending on the last day of P’s service;                 “
+remediable pension credit ” means the greater of—         zero, and
+the higher remediable pension amount minus the remediable service appropriate
+amount;                 “ remediable pension reduction ” means the lesser of—
+zero, and           the higher remediable pension amount minus the remediable
+service appropriate amount;                 “ remediable service appropriate
+amount ” means the pension credit, calculated in accordance with section 29(2)
+and (3) of WRPA 1999, for the period of remediable service;           “ taper
+date ” means (disregarding any legacy scheme election or 2015 scheme election
+made in respect of P or immediate detriment remedy obtained in relation to P’s
+remediable service) the day after the tapered protection closing date for P;
+“ tapered protection closing date ” has the meaning given in paragraph 3 of
+Schedule 2 to the 2015 Regulations.
+
+##### Adjustments for pension debit members
+
+57
+
+57.1
+
+Paragraph (2) applies where a legacy scheme election is made in respect of P.
+
+57.2
+
+At the end of the relevant period, the scheme manager must adjust the value of
+P’s shareable rights in P’s judicial legacy scheme as the scheme manager,
+after consultation with the scheme actuary, considers appropriate having
+regard to—
+
+57.2.a
+
+the cash equivalent of P’s shareable rights in P’s judicial legacy scheme in
+respect of P’s remediable service from 1 April 2015 to the day before the
+transfer day,
+
+57.2.b
+
+the percentage value to be transferred or the amount to be transferred
+specified in the relevant legacy scheme order or provision and the relevant
+2015 scheme order or provision, and
+
+57.2.c
+
+the provisions of sections 29 (creation of pension credits and debits) and 31
+(reduction of benefit) of WRPA 1999.
+
+57.3
+
+Paragraph (4) applies where a 2015 scheme election is made in respect of P.
+
+57.4
+
+At the end of the relevant period, the scheme manager must adjust the value of
+P’s shareable rights in P’s judicial legacy scheme and the 2015 scheme as the
+scheme manager, after consultation with the scheme actuary, considers
+appropriate having regard to—
+
+57.4.a
+
+the cash equivalent of P’s shareable rights in P’s judicial legacy scheme in
+respect of P’s service up to and including 31 March 2015,
+
+57.4.b
+
+the cash equivalent of P’s shareable rights in the 2015 scheme in respect of
+P’s remediable service from 1 April 2015 to the day before the transfer day,
+
+57.4.c
+
+the percentage value to be transferred or the amount to be transferred
+specified in the relevant legacy scheme order or provision and the relevant
+2015 scheme order or provision, and
+
+57.4.d
+
+the provisions of sections 29 (creation of pension credits and debits) and 31
+(reduction of benefit) of WRPA 1999.
+
+57.5
+
+The adjustments made under paragraphs (2) and (4) have effect from the
+transfer day.
+
+#### Correction of pension benefits and lump sum benefits
+
+##### Correction of pension benefits and lump sum benefits where underpayment
+
+58
+
+58.1
+
+This regulation applies in relation to a relevant pension credit member (“ C
+”) who, at the end of the relevant period—
+
+58.1.a
+
+has a remediable pension credit in a judicial scheme by virtue of this Part,
+and
+
+58.1.b
+
+is a pensioner member  of that scheme.
+
+58.2
+
+The scheme manager must pay to C the aggregate of the pension benefits and
+lump sum benefits (if any) to which C was entitled by virtue of their
+remediable pension credit.
+
+##### Correction of pension benefits and lump sum benefits where overpayment
+
+59
+
+59.1
+
+This regulation applies in relation to a pension credit member (“ C ”) who, at
+the end of the relevant period—
+
+59.1.a
+
+is subject to a remediable pension reduction from a judicial scheme by virtue
+of this Part, and
+
+59.1.b
+
+is a pensioner member of that scheme.
+
+59.2
+
+C must pay to the scheme manager the difference between—
+
+59.2.a
+
+the aggregate of the pension benefits and lump sum benefits, if any, that have
+been paid under a judicial scheme to C, and
+
+59.2.b
+
+the aggregate of the pension benefits and lump sum benefits to which (after
+taking into account the remediable pension reduction) C was entitled under any
+judicial scheme.
+
+### Liabilities and amounts owed
+
+#### Interest
+
+##### Interest
+
+60
+
+60.1
+
+This regulation applies to—
+
+60.1.a
+
+relevant amounts , and
+
+60.1.b
+
+amounts payable by way of benefits or compensation described in section
+68(2)(b)(i) or (3)(b)(i) (whether an “immediate detriment remedy” has been
+obtained) of PSPJOA 2022.
+
+60.2
+
+The scheme manager must calculate interest on an amount described in direction
+28 of the PSP Directions 2022 in accordance with the provisions of directions
+28 and 29 which apply to that description of amount.
+
+60.3
+
+For the purposes of this regulation—
+
+60.3.a
+
+the references in direction 28(1) and (6) to section 59(1) of PSPJOA 2022 are
+to be read as including references to regulations 27(1) and 44(1);
+
+60.3.b
+
+direction 29 is to be read as if—
+
+60.3.b.i
+
+the reference in paragraph (1) to section 51(2) of PSPJOA 2022 includes a
+reference to regulations 21(2) and 37(2);
+
+60.3.b.ii
+
+the reference in paragraph (3) to section 51(3) of PSPJOA 2022 includes a
+reference to regulations 21(3) and 37(3);
+
+60.3.b.iii
+
+the reference in paragraph (5) to section 51(4) of PSPJOA 2022 includes a
+reference to regulations 21(4) and 37(4);
+
+60.3.b.iv
+
+the reference in paragraph (6) to section 51(5) of PSPJOA 2022 includes a
+reference to regulations 21(5) and 37(5);
+
+60.3.b.v
+
+the reference in paragraph (7) to section 52(2) of PSPJOA 2022 includes a
+reference to regulations 22(2) and 38(1);
+
+60.3.b.vi
+
+the reference in paragraph (9) to section 52(4) of PSPJOA 2022 includes a
+reference to regulations 22(4) and 38(3);
+
+60.3.b.vii
+
+the reference in paragraph (11) to section 53(3) of PSPJOA 2022 includes a
+reference to regulations 25(3) and 41(3);
+
+60.3.b.viii
+
+the reference in paragraph (13) to section 54(2) of PSPJOA 2022 includes a
+reference to regulations 26(2) and 43(2);
+
+60.3.b.ix
+
+the reference in paragraph (14) to scheme regulations made by virtue of
+section 58(2)(a) of PSPJOA 2022 which make provision as mentioned in section
+58(3) of PSPJOA 2022 were a reference to regulation 8(2)(b);
+
+60.3.b.x
+
+the reference in paragraph (16) to section 59(1) of PSPJOA 2022 includes a
+reference to regulations 27(1) and 44(1).
+
+60.4
+
+In relation to an amount not described in direction 28 of the PSP Directions
+2022, the scheme manager must determine whether interest is paid and, if so,
+what rate of interest applies and how it is calculated.
+
+60.5
+
+The following provisions of the PSP Directions 2022 apply in relation to a
+determination under paragraph (4) as if it were a determination under
+direction 30(1) of those Directions—
+
+60.5.a
+
+direction 30(2) (provision of explanation);
+
+60.5.b
+
+direction 30(3) and (4) (appeals).
+
+#### Reduction or waiver of liabilities owed to a judicial scheme
+
+##### Application of Chapter
+
+61
+
+This Chapter applies after taking into account the effect of regulation 60
+(interest) in respect of an amount.
+
+##### Reduction of liability to pay pension contributions by tax relief amounts
+
+62
+
+62.1
+
+This regulation applies where the appropriate person has a liability to pay
+pension contributions to the 2015 scheme under regulations 22(4) or 38(3) or
+section 52(4) of PSPJOA 2022.
+
+62.2
+
+The scheme manager must reduce the liability for the appropriate person to pay
+the pension contributions by tax relief amounts  determined in accordance with
+direction 22(5) and (6) of the PSP Directions 2022.
+
+62.3
+
+The scheme manager must make the reduction mentioned in paragraph (2) before
+the liability is netted off in accordance with regulation 64.
+
+62.4
+
+The following provisions of the PSP Directions 2022 apply where the scheme
+manager makes a determination in accordance with direction 22(5)—
+
+62.4.a
+
+direction 22(7) (provision of explanation);
+
+62.4.b
+
+direction 22(8) and (9) (appeals).
+
+##### Reduction or waiver of liability to repay overpaid pension benefits
+
+63
+
+63.1
+
+This regulation applies where a person (“ Y ”) owes a liability to a judicial
+scheme under—
+
+63.1.a
+
+regulation 21(2) or (4) or 37(2) or (4), or
+
+63.1.b
+
+section 51(2) or (4) of PSPJOA 2022 (corrections for pension benefits and lump
+sum benefits in relation to persons with remediable service).
+
+63.2
+
+The scheme manager may reduce or waive the liability where—
+
+63.2.a
+
+Y makes an application under paragraph (3), and
+
+63.2.b
+
+the scheme manager complies with the requirements set out in direction
+22(1)(a) to (c) of the PSP Directions 2022 (and the reference in direction
+22(1)(c) to “any scheme regulations made by virtue of section 61(1)(b) of
+PSPJOA 2022” is to be read as a reference to regulation 66).
+
+63.3
+
+An application must be—
+
+63.3.a
+
+in writing,
+
+63.3.b
+
+in a form required by the scheme manager,
+
+63.3.c
+
+accompanied by such information and documents as the scheme manager may
+require as evidence of Y’s circumstances, and
+
+63.3.d
+
+received by the scheme manager before the end of the period of six months
+beginning with the date on which Y is notified of the liability.
+
+63.4
+
+The scheme manager may extend the period mentioned in paragraph (3)(d) in
+relation to Y if the scheme manager considers it just and equitable to do so.
+
+#### Netting off
+
+##### Netting off
+
+64
+
+64.1
+
+This regulation applies where—
+
+64.1.a
+
+amounts mentioned in regulation 60(1) owed by and to a person (“ P ”) fall to
+be paid at the same or approximately the same times, and
+
+64.1.b
+
+the scheme manager has—
+
+64.1.b.i
+
+determined the interest (if any) that is to be paid on the relevant amounts in
+accordance with regulation 60, and
+
+64.1.b.ii
+
+where regulation 62 applies in relation to any of the amounts, reduced such
+amounts by tax relief amounts in accordance with that regulation.
+
+64.2
+
+The scheme manager may determine, in accordance with direction 31(3) to (6) of
+the PSP Directions 2022, that the amounts (and interest on them) must be
+aggregated and that the difference must be paid by P to the scheme or (as the
+case may be) by the scheme to P.
+
+64.3
+
+The following provisions of the PSP Directions 2022 apply in relation to a
+determination under paragraph (2) as if it were a determination under
+direction 31(2) of those Directions—
+
+64.3.a
+
+direction 31(7) (provision of explanation);
+
+64.3.b
+
+direction 31(8) and (9) (appeals).
+
+#### Amounts owed to a judicial scheme or employer or to a person
+
+##### Application
+
+65
+
+This Chapter applies after taking into account the effect, if any, of
+regulations 60 to 64.
+
+##### Amounts owed to a judicial scheme
+
+66
+
+66.1
+
+This regulation applies where a person (“ Y ”) owes an amount to the scheme
+under these Regulations or Chapter 2 of PSPJOA 2022.
+
+66.2
+
+Except where paragraph (3) applies, Y must pay the amount to the scheme before
+the end of the period of six months beginning with the day on which Y is
+notified that the amount must be paid.
+
+66.3
+
+Where the scheme manager considers it reasonable in the circumstances the
+amount may be reduced (including to zero) by payments made in one or more of
+the following ways—
+
+66.3.a
+
+instalments as may be specified in an agreement between Y and the scheme
+manager, or
+
+66.3.b
+
+deductions from—
+
+66.3.b.i
+
+where Y is in judicial office, any salary or fees payable in respect of Y’s
+judicial office as may be specified in an agreement between Y and the
+employer;
+
+66.3.b.ii
+
+any lump sum payable in accordance with section 4 of JUPRA 1993 or regulation
+25 of FPJR 2017 as may be specified in an agreement between Y and the scheme
+manager;
+
+66.3.b.iii
+
+the pension entitlements mentioned in paragraph (4) as may be specified in an
+agreement between Y and the scheme manager.
+
+66.4
+
+The pension entitlements are—
+
+66.4.a
+
+where Y is a member of a judicial scheme, any pension to which Y is entitled
+under section 2 of JUPRA 1993, Part 6 of the 2015 Regulations or Parts 3 (with
+the exception of regulation 25) and 4 of FPJR 2017;
+
+66.4.b
+
+where the member in relation to whose service the amount is owed is deceased,
+any pension to which Y is entitled under sections 5 or 6 of JUPRA 1993, Part 8
+of the 2015 Regulations or Part 6 of FPJR 2017;
+
+66.4.c
+
+where Y is a member of a judicial scheme by virtue of another person’s
+pensionable service in a judicial office, any pension to which Y is entitled
+under Schedule 2A to JUPRA 1993, Part 7 of the 2015 Regulations or Part 5 of
+FPJR 2017.
+
+66.5
+
+The deductions from the payments specified in paragraph (3)(b)(i)—
+
+66.5.a
+
+may be of fixed monetary amounts, or
+
+66.5.b
+
+may be calculated as a percentage of the salary or fees payable.
+
+66.6
+
+Where—
+
+66.6.a
+
+an agreement between Y and the employer specifies deductions from payments
+specified in paragraph (3)(b)(i), and
+
+66.6.b
+
+Y ceases to be in service in any judicial office before all of the specified
+deductions have been made,
+
+Y must pay the outstanding amount to the scheme within a period of six months
+beginning with the last day of Y’s service.
+
+66.7
+
+The scheme manager may extend the period mentioned in paragraph (6) if the
+scheme manager considers it just and equitable to do so.
+
+66.8
+
+For the purpose of paragraph (6) the “outstanding amount” is—
+
+66.8.a
+
+an amount equal to the amount of the specified deductions that have not been
+made on the last day of Y’s service, plus
+
+66.8.b
+
+any interest which has accrued on that amount under regulation 60.
+
+##### Amounts owed to a person’s employer
+
+67
+
+67.1
+
+Paragraph (2) applies where a person (“ Y ”) owes an amount to a person’s
+employer under section 54 of PSPJOA 2022 or regulation 26 or 43 (transitional
+protection allowance).
+
+67.2
+
+Paragraphs (2) to (8) of regulation 66 apply in respect of the amount as if
+the reference to the “ scheme ” or the “scheme manager” in the following
+provisions of that regulation were to Y’s employer—
+
+67.2.a
+
+paragraph (2);
+
+67.2.b
+
+in paragraph (3)—
+
+67.2.b.i
+
+the opening words;
+
+67.2.b.ii
+
+sub-paragraph (a);
+
+67.2.c
+
+the closing words of paragraph (6);
+
+67.2.d
+
+paragraph (7).
+
+##### Amounts owed to a person
+
+68
+
+68.1
+
+This regulation applies where an amount is payable by a judicial scheme to a
+person (“ Y ”) under these Regulations or Chapter 2 of PSPJOA 2022.
+
+68.2
+
+The scheme manager may require Y to make an application for payment of the
+amount.
+
+68.3
+
+Where the scheme manager requires Y to make an application the scheme manager
+may pay the amount on receipt of an application that meets the requirements of
+paragraph (4).
+
+68.4
+
+An application must be—
+
+68.4.a
+
+in writing,
+
+68.4.b
+
+in a form required by the scheme manager,
+
+68.4.c
+
+accompanied by such information and documents as the scheme manager may
+require, and
+
+68.4.d
+
+received by the scheme manager before the end of the period of three months
+starting with the day on which Y receives notification that an application for
+payment of the amount must be made.
+
+### Miscellaneous amendments
+
+#### Miscellaneous amendments
+
+69
+
+69.1
+
+Part 1 of the Schedule contains miscellaneous amendments by virtue of, and in
+consequence of, PSPJOA 2022.
+
+69.2
+
+Part 2 of the Schedule contains unrelated amendments.
+
+      Alex Chalk   Lord Chancellor   Ministry of Justice     4th July 2023
+We consent to the making of these Regulations       Steve Double   Andrew
+Stephenson   Two of the Lords Commissioners of His Majesty’s Treasury     27th
+June 2023
+
+  Miscellaneous amendments
+
+Regulation 69
+
+##### Amendments by virtue of, and in consequence of, PSPJOA 2022
+
+###### Amendment of the Judicial Pensions Regulations 2015
+
+1
+
+1.1
+
+The 2015 Regulations are amended as follows.
+
+1.2
+
+In regulation 2 (interpretation)—
+
+1.2.a
+
+after the opening words insert—
+
+      “ 2023 Regulations ” means the Judicial Pensions (Remediable Service
+etc.) Regulations 2023;
+
+;
+
+1.2.b
+
+for the definition of “active member” substitute—
+
+      “ active member ”, in relation to this scheme, means a person who is—
+in pensionable service under this scheme; or           deemed to have been an
+active member of this scheme by virtue of regulations 38A(2) or 38B(2) or
+paragraphs 23A(2) or 23B(2) of Schedule 1;
+
+;
+
+1.2.c
+
+for the definition of “amount of credited pension” substitute—
+
+      “ amount of credited pension ” means the sum of the pension credit
+calculated in accordance with regulations made under paragraph 5(b) of
+Schedule 5 (pension credits: mode of discharge) to WRPA 1999 and any
+remediable pension credit or remediable pension reduction, where—
+“remediable pension credit”, in the circumstances mentioned in—
+regulation 48 of the 2023 Regulations, has the meaning given in regulation
+49(6) of those Regulations;           regulation 51 of the 2023 Regulations,
+has the meaning given in regulation 52(4) of those Regulations;
+regulation 55 of the 2023 Regulations, has the meaning given in regulation
+56(12) of those Regulations;                 “ remediable pension reduction ”
+has the meaning given in regulation 56(12) of the 2023 Regulations;
+
+;
+
+1.2.d
+
+after the definition of “PA 1995” insert—
+
+      “ PSPJOA 2022 ” means the Public Service Pensions and Judicial Offices
+Act 2022;
+
+;
+
+1.2.e
+
+after the definition of “registered” insert—
+
+      “ relevant fee-paid judge ” has the meaning given in section 103 of
+PSPJOA 2022;
+
+;
+
+1.2.f
+
+after the definition of “relevant scheme” insert—
+
+      “ relevant service ” has the meaning given in regulation 29(2) of the
+2023 Regulations;
+
+.
+
+1.3
+
+After regulation 38 (receipt of transfer value payment) insert—
+
+############ Accrued earned pension attributable to a transfer value payment where a legacy scheme election is made
+
+1.3.38A
+
+1.3.38A.1
+
+Paragraph (2) applies where—
+
+1.3.38A.1.a
+
+a person “P” has remediable service in a judicial office;
+
+1.3.38A.1.b
+
+a transfer value payment has been received by this scheme in relation to P
+during the period of remediable service; and
+
+1.3.38A.1.c
+
+either—
+
+1.3.38A.1.c.i
+
+a legacy scheme election under section 40 of PSPJOA 2022 is made in respect of
+P; or
+
+1.3.38A.1.c.ii
+
+an immediate detriment remedy has been obtained in relation to the period of
+remediable service.
+
+1.3.38A.2
+
+P is deemed to have been an active member of this scheme for all purposes in
+connection with the transfer value payment.
+
+############ Accrued earned pension attributable to a transfer value payment in respect of relevant fee-paid judges
+
+1.3.38B
+
+1.3.38B.1
+
+Paragraph (2) applies where—
+
+1.3.38B.1.a
+
+a relevant fee-paid judge “R” has relevant service in a judicial office; and
+
+1.3.38B.1.b
+
+a transfer value payment has been received by this scheme in relation to R
+during the period of relevant service.
+
+1.3.38B.2
+
+R is deemed to have been an active member of this scheme for all purposes in
+connection with the transfer value payment.
+
+.
+
+1.4
+
+In regulation 52(5) (establishment of pension credit member’s account)—
+
+1.4.a
+
+omit the “and” immediately after sub-paragraph (a);
+
+1.4.b
+
+at the end of (b) insert—
+
+; and
+
+1.4.b.c
+
+any adjustment required by Part 5 of the 2023 Regulations other than a
+remediable pension credit to which the pension credit member has become
+entitled under that Part
+
+.
+
+1.5
+
+After regulation 126(1) (payment of member contributions) insert—
+
+1.5.1A
+
+Member contributions that must be paid under section 52(4) of PSPJOA 2022 are
+to be paid in accordance with regulation 66 of the 2023 Regulations.
+
+.
+
+1.6
+
+In Schedule 1, after paragraph 23 insert—
+
+############ Deemed membership for added pension payments
+
+############# Added pension where a legacy scheme election is made
+
+1.6.23A
+
+1.6.23A.1
+
+This paragraph applies where—
+
+1.6.23A.1.a
+
+a person “P” has remediable service in a judicial office;
+
+1.6.23A.1.b
+
+P has, during the period of remediable service, made an added pension payment
+under this Part;
+
+1.6.23A.1.c
+
+either—
+
+1.6.23A.1.c.i
+
+a legacy scheme election is made in respect of P under section 40 of PSPJOA
+2022; or
+
+1.6.23A.1.c.ii
+
+an immediate detriment remedy has been obtained in relation to the period of
+remediable service; and
+
+1.6.23A.1.d
+
+a request has not been made in respect of P under regulations 8 or 24 of the
+2023 Regulations.
+
+1.6.23A.2
+
+P is deemed to have been an active member of this scheme for all purposes in
+connection with the added pension payments.
+
+############# Added pension in respect of relevant fee-paid judges
+
+1.6.23B
+
+1.6.23B.1
+
+This paragraph applies where—
+
+1.6.23B.1.a
+
+a relevant fee-paid judge “R” has relevant service in a judicial office;
+
+1.6.23B.1.b
+
+R has, during the period of relevant service, made any added pension payments
+under this Part; and
+
+1.6.23B.1.c
+
+a request has not been made in respect of R under regulation 40 of the 2023
+Regulations.
+
+1.6.23B.2
+
+R is deemed to have been an active member of this scheme for all purposes in
+connection with the added pension payments.
+
+.
+
+###### Amendment of the Judicial Pensions (Additional Voluntary Contributions) Regulations 2017
+
+2
+
+2.1
+
+The Judicial Pensions (Additional Voluntary Contributions) Regulations 2017
+are amended as follows.
+
+2.2
+
+In regulation 2  (interpretation)—
+
+2.2.a
+
+the existing text is numbered as paragraph (1);
+
+2.2.b
+
+in paragraph (1) (as mentioned in paragraph (a) above), for the definition of
+“active member” substitute—
+
+      “ active member ” has the meaning given in paragraph (2);
+
+;
+
+2.2.c
+
+after paragraph (1) (as mentioned in paragraph (a) above) insert—
+
+2.2.c.2
+
+In these Regulations, “ active member ” means a person who—
+
+2.2.c.2.a
+
+is in pensionable service under the 2015 Scheme or the 2022 Scheme;
+
+2.2.c.2.b
+
+would have been in pensionable service under the 2015 Scheme in the period
+beginning with 1st April 2015 and ending with 31st March 2022 if—
+
+2.2.c.2.b.i
+
+a legacy scheme election had not been made in respect of the person under
+section 40 of the Public Service Pensions and Judicial Offices Act 2022
+(“PSPJOA 2022”); or
+
+2.2.c.2.b.ii
+
+an immediate detriment remedy had not been obtained in relation to the
+person’s remediable service in a judicial office; or
+
+2.2.c.2.c
+
+is a relevant fee-paid judge with relevant service.
+
+2.2.c.3
+
+A person who satisfies—
+
+2.2.c.3.a
+
+paragraph (2)(b) is an “active member” for the period of their remediable
+service;
+
+2.2.c.3.b
+
+paragraph (2)(c) is an “active member” for the period of their relevant
+service.
+
+2.2.c.4
+
+For the purpose of paragraph (2)(b), an “immediate detriment remedy” has been
+obtained in relation to a person’s remediable service if either of the
+conditions in section 68(2) or (3) of PSPJOA 2022 is met.
+
+2.2.c.5
+
+In paragraph (2)—
+
+      “ a legacy scheme election ” has the meaning given in section 40 of
+PSPJOA 2022;           “ relevant fee-paid judge ” has the meaning given in
+section 103 of PSPJOA 2022;           “ relevant service ” has the meaning
+given in regulation 29(2) of the Judicial Pensions (Remediable Service etc.)
+Regulations 2023;           “ remediable service ” has the meaning given in
+section 39 of PSPJOA 2022.
+
+.
+
+###### Amendment of the Judicial Pensions (Fee-Paid Judges) Regulations 2017
+
+3
+
+3.1
+
+The FPJR 2017 are amended as follows.
+
+3.2
+
+In regulation 2(1) (interpretation)—
+
+3.2.a
+
+after the opening words insert—
+
+      “ PSPJOA 2022 ” means the Public Service Pensions and Judicial Offices
+Act 2022;
+
+;
+
+3.2.b
+
+after the definition of “the 1995 Regulations” insert—
+
+      “ the 2023 Regulations ” means the Judicial Pensions (Remediable Service
+etc.) Regulations 2023;
+
+;
+
+3.2.c
+
+after the definition of “the post-1995 provisions” insert—
+
+      “ a 2015 scheme election ” has the meaning given in section 44 of PSPJOA
+2022;
+
+;
+
+3.2.d
+
+after the definition of “registered pension scheme” insert—
+
+      “ remediable service ” has the meaning given in section 39 of PSPJOA
+2022;
+
+.
+
+3.3
+
+In the closing words of regulation 31(2) (annual rate of pension under
+regulation 30), for “amount of the pension credit” substitute  “sum of the
+amount of the pension credit and the amount of any remediable pension credit
+or remediable pension reduction under Part 5 of the 2023 Regulations” .
+
+3.4
+
+After regulation 31(2) insert—
+
+3.4.2A
+
+In paragraph (2)—
+
+3.4.2A.a
+
+“remediable pension credit”, in the circumstances mentioned in—
+
+3.4.2A.a.i
+
+regulation 48 of the 2023 Regulations, has the meaning given in regulation
+49(5) of those Regulations;
+
+3.4.2A.a.ii
+
+regulation 51 of the 2023 Regulations, has the meaning given in regulation
+52(3) of those Regulations;
+
+3.4.2A.a.iii
+
+regulation 55 of the 2023 Regulations, has the meaning given in regulation
+56(12) of those Regulations;
+
+3.4.2A.b
+
+“ remediable pension reduction ” has the meaning given in regulation 56(12) of
+the 2023 Regulations.
+
+.
+
+3.5
+
+In regulation 64 (payment of contribution)—
+
+3.5.a
+
+the existing text is numbered as paragraph (1);
+
+3.5.b
+
+after that paragraph (1) insert—
+
+3.5.b.2
+
+A contribution payable under section 52(4) of PSPJOA 2022 is to be paid in
+accordance with regulation 66 of the 2023 Regulations.
+
+.
+
+3.6
+
+After regulation 104 (membership) insert—
+
+############ Deemed FPJAYS membership where a 2015 scheme election is made
+
+3.6.104A
+
+3.6.104A.1
+
+This regulation applies where—
+
+3.6.104A.1.a
+
+a person (“ P ”) has remediable service in an eligible fee-paid judicial
+office;
+
+3.6.104A.1.b
+
+P has, during the period of remediable service, paid contributions to purchase
+added years under this Part; and
+
+3.6.104A.1.c
+
+a 2015 scheme election is made in respect of P.
+
+3.6.104A.2
+
+P is deemed to have been an active FPJAYS member in respect of the
+contributions.
+
+.
+
+3.7
+
+After regulation 117 (membership) insert—
+
+############ Deemed JASAPS membership where a 2015 scheme election is made
+
+3.7.117A
+
+3.7.117A.1
+
+This regulation applies where—
+
+3.7.117A.1.a
+
+a person (“ P ”) has remediable service in an eligible fee-paid judicial
+office;
+
+3.7.117A.1.b
+
+P has, during the period of remediable service, paid contributions to purchase
+added surviving adult’s pension under this Part; and
+
+3.7.117A.1.c
+
+a 2015 scheme election is made in respect of P.
+
+3.7.117A.2
+
+P is deemed to have been an active JASAPS member in respect of the
+contributions.
+
+.
+
+###### Amendment of the Judicial Pensions Regulations 2022
+
+4
+
+In Schedule 1 to the Judicial Pensions Regulations 2022 , for paragraph 14(1)
+substitute—
+
+4.1
+
+This paragraph applies to a transition member with continuity of service (T)
+who—
+
+4.1.a
+
+is a member of the 2015 scheme by virtue of T’s pensionable service under that
+scheme before the transition date; or
+
+4.1.b
+
+is deemed to have been an active member of the 2015 scheme by virtue of
+regulations 38A(2) or 38B(2) of, or paragraphs 23A(2) or 23B(2) of Schedule 1
+to, the 2015 Regulations.
+
+.
+
+##### Amendments for other purposes
+
+###### Amendment of the Judicial Pensions (Contributions) Regulations 1998
+
+5
+
+5.1
+
+In regulation 6(1) of the Judicial Pensions (Contributions) Regulations 1998 ,
+for “office holder’s pension-capped” substitute  “first £150,000 of the office
+holder’s” .
+
+5.2
+
+The amendment made by sub-paragraph (1) has effect on and after 1st April
+2016.
+
+###### Amendment of the Judicial Pensions (Fee-Paid Judges) Regulations 2017
+
+6
+
+6.1
+
+In Table 3 in Schedule 3 to FPJR 2017 , in the entry in the fourth column of
+the last row (the first column of which contains the entry “150,001 and
+above”), for “1.80” substitute  “0.00” .
+
+6.2
+
+The amendment made by sub-paragraph (1) has effect on and after 1st April
+2016.
+
+###### Amendment of the Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2021
+
+7
+
+7.1
+
+In regulation 10(1) of the Judicial Pensions (Fee-Paid Judges) (Amendment)
+Regulations 2021 , for sub-paragraph (a) substitute—
+
+7.1.a
+
+by way of a lump sum—
+
+7.1.a.i
+
+at any time during the period beginning on 1st April 2021 and ending at the
+end of 31st March 2025, or
+
+7.1.a.ii
+
+at such later time as the administrators consider reasonable in all the
+circumstances;
+
+.
+
+7.2
+
+The amendment made by sub-paragraph (1) has effect on and after 1st April
+2021.
+
+###### Amendment of the Judicial Pensions Regulations 2022
+
+8
+
+8.1
+
+The Judicial Pensions Regulations 2022 are amended as follows with effect from
+1st April 2022.
+
+8.2
+
+In regulation 21 (calculation of “retirement index adjustment”)—
+
+8.2.a
+
+for paragraph (1) substitute—
+
+8.2.a.1
+
+The retirement index adjustment for an amount of accrued pension is—
+
+
+
+      where—         “ amount of accrued pension ” means an amount of any
+description of accrued pension;           “ retirement index percentage ”
+means the retirement index percentage calculated under paragraph (2).
+
+;
+
+8.2.b
+
+in paragraph (2), in the definition of “A”, for “index adjustment” substitute
+“in-service revaluation index” ;
+
+8.2.c
+
+after paragraph (2) insert—
+
+8.2.c.3
+
+In paragraph (2), “ in-service revaluation index ”, in relation to a pension
+scheme, means the percentage increase or decrease by which the pensionable
+earnings of a person, or a proportion of those earnings accrued as a pension,
+are revalued whilst the person is in pensionable service in that pension
+scheme.
+
+.
+
+8.3
+
+In regulation 24(2)(a) (calculation of amount of accrued standard earned
+pension), omit “retirement”.
+
+8.4
+
+In regulation 39(2) (amount of full retirement pension)—
+
+8.4.a
+
+omit the “and” immediately after sub-paragraph (a);
+
+8.4.b
+
+at the end of sub-paragraph (b) insert—
+
+; and
+
+8.4.b.c
+
+the retirement index adjustment for the accrued amount
+
+.
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  The Public Service Pensions Act  2013 (c. 25)  (“PSPA 2013”) makes
+provision, and confers powers to make further provision (in the form of “
+scheme regulations ” as defined in section 1 of PSPA 2013), about the
+establishment of public service pension schemes. The Judicial Pensions
+Regulations 2015 ( S.I. 2015/182 ) (“ the 2015 Regulations ”) are the scheme
+regulations establishing the successor judicial pension scheme (“ the 2015
+scheme ”) to the judicial legacy schemes (as defined in section 70(3) of the
+Public Service Pensions and Judicial Offices Act  2022 (c. 7)  (“PSPJOA
+2022”)). The 2015 Regulations provided for transitional protection for certain
+cohorts of judicial legacy scheme members. This transitional protection was
+subsequently found to unlawfully discriminate between judicial pension scheme
+members on the basis of age.
+
+  The PSPJOA 2022, at Chapter 2, makes provision, and confers powers for
+scheme regulations under PSPA 2013 to make further provision, in relation to
+specified service (“ remediable service ” as defined in section 39 of PSPJOA
+2022) of members who benefitted from transitional protection, and of members
+who did not benefit from transitional protection only by reason of their age.
+Section 62 of PSPJOA 2022 requires certain powers to make scheme regulations
+to be exercised in accordance with Treasury directions.
+
+  These Regulations are scheme regulations under PSPA 2013 and in accordance
+with PSPJOA 2022 in relation to a member’s remediable service in the judicial
+legacy schemes and in the 2015 scheme. They are, to the extent required by
+section 62 of PSPJOA 2022, made in accordance with Treasury directions under
+that section (in the form of the Public Service Pensions (Exercise of Powers,
+Compensation and Information) Directions 2022). These Regulations have
+retrospective effect, which is authorised by section 3(3)(b) of PSPA 2013.
+
+  Part 1 of these Regulations contains provision about, among other things,
+governance, including the delegation of functions, a requirement to establish
+a procedure for consideration of appeals, and the relationship between the
+scheme manager and the Judicial Pension Board when exercising a discretion.
+
+  Part 2 of these Regulations makes provision about special cases where a
+member has remediable service and an immediate detriment remedy (within the
+meaning of section 68 of PSPJOA 2022) has not been obtained in relation to
+that service—     a     Chapter 2 makes provision about cases where a member
+makes an election for legacy scheme benefits and they have previously
+exercised, in relation to their remediable service, options to purchase
+additional rights in the 2015 scheme, or to transfer rights out of the 2015
+scheme;         b     Chapter 3 makes provision about cases where a member has
+previously exercised a partial retirement option under either the 2015 scheme
+or the judicial legacy fee-paid scheme (as defined in section 70(5) of PSPJOA
+2022), and the member makes an election for benefits in the other scheme;
+c     Chapter 4 makes provision about the payment by a judicial scheme of
+annual allowance charges.
+
+  Part 3 makes provision about cases where an immediate detriment remedy has
+been obtained in relation to a member’s remediable service—     a     Chapter
+2 makes provision about the provision of information in relation to a member’s
+rights and liabilities under PSPJOA 2022 and these Regulations;         b
+Chapter 3 makes provision about a requirement to transfer and surrender rights
+in relation to any remediable service that is PPA opted-out service (as
+defined in section 73(2) of PSPJOA 2022);         c     Chapter 4 makes
+provision about the benefits payable to a child survivor of a member who died
+before the immediate detriment remedy was obtained;         d     Chapter 5
+makes provision about a partial retirement option exercised in respect of a
+fee-paid judicial office;         e     Chapters 6 and 7 make provision about
+the treatment, including the correction, of benefits and contributions
+previously paid or payable;         f     Chapter 8 makes provision about the
+payment of compensation for voluntary contributions paid to purchase
+additional pension rights;         g     Chapter 9 makes provision about the
+repayment of a transitional protection allowance (as defined in section 54(4)
+of PSPJOA 2022);         h     Chapter 10 makes provision about the payment of
+compensation;         i     Chapter 11 makes provision about unauthorised
+payments (within the meaning of section 63(5) of PSPJOA 2022).
+
+  Part 4 makes provision in relation to certain fee-paid judges which is
+similar to the provision made by Part 3 in relation to cases where an
+immediate detriment remedy has been obtained.
+
+  Part 5 makes provision about cases in which the value of pension rights
+secured by virtue of a member’s remediable service are to be shared under a
+pension sharing order in accordance with section 29 of the Welfare Reform and
+Pensions Act  1999 (c. 30) . It provides, in particular, for the calculation
+or, where appropriate, the re-calculation of the value of a pension debit and
+a pension credit in relation to the rights.
+
+  Part 6 makes provision about any amounts owed to or by a person as a result
+of PSPJOA 2022, these Regulations or an immediate detriment remedy—     a
+Chapter 1 makes provision about the calculation of interest;         b
+Chapter 2 makes provision about the reduction and waiver of an amount owed, in
+particular a requirement for the scheme manager to reduce some amounts by tax
+relief amounts and the discretion of the scheme manager to reduce or waive
+relevant amounts owed by a person to a scheme in certain circumstances;
+c     Chapter 3 makes provision about netting off amounts owed to and by a
+person;         d     Chapter 4 makes provision about when and how relevant
+amounts must be paid.
+
+  Part 7, together with the Schedule, makes provision amending other
+legislation—     a     Part 1 of the Schedule amends various instruments by
+virtue of, and in consequence of, PSPJOA 2022 and in consequence of these
+Regulations;         b     Part 2—     i     at paragraphs 5 and 6, amends the
+Judicial Pensions (Contributions) Regulations 1998 ( S.I. 1998/1219 ) and the
+Judicial Pensions (Fee-Paid Judges) Regulations 2017 ( S.I. 2017/522 ) to
+adjust the rate payable in relation to dependants contributions with effect
+from 1st April 2016;         ii     at paragraph 7, amends the Judicial
+Pensions (Fee-Paid Judges) (Amendment) Regulations 2021 ( S.I. 2021/444 ) to
+expand the window during which a previous service contributions amount owed
+under those Regulations may be paid by way of a lump sum;         iii     at
+paragraph 8, amends the Judicial Pensions Regulations 2022 ( S.I. 2022/319 )
+in relation to the calculation of the retirement adjustment index with effect
+from 1st April 2022.
+
+  A full impact assessment has not been produced for this instrument as no, or
+no significant, impact on the private, voluntary or public sector is foreseen.
+An Explanatory Memorandum has been published alongside these Regulations on
+http://www.legislation.gov.uk .
+

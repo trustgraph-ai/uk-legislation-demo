@@ -1,0 +1,155 @@
+Title: The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023
+Date: 2024-01-29
+Description: This Order amends the Specified Diseases (Notification) Order (Northern Ireland) 2004 by adding a number of diseases of animals to the list of specified diseases in Schedule 1. It also extends the definition of disease in the Diseases of Poultry Order (Northern Ireland) 1995 to include avian mycoplasmosis and avian chlamydiosis. The effect is to make these additional diseases subject to the controls specified in the 2004 and 1995 Orders.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2023/179
+
+## The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023
+
+    Animals
+
+  Made   18th October 2023
+
+  Coming into operation   08th November 2023
+
+      The Department of Agriculture, Environment and Rural Affairs  makes the
+following Order in exercise of the powers conferred by Articles 10(6), 12(1),
+16(2) and 60(1) of the Diseases of Animals (Northern Ireland) Order 1981 .
+
+### Citation and commencement
+
+
+1
+
+This Order may be cited as the Specified Diseases (Notification) (Amendment)
+Order (Northern Ireland) 2023 and comes into operation on 08th November 2023.
+
+### Amendment of the Specified Diseases (Notification) Order (Northern Ireland) 2004
+
+
+2
+
+2.1
+
+The Specified Diseases (Notification) Order (Northern Ireland) 2004  is
+amended as follows.
+
+2.2
+
+In the Schedule (specified diseases), in the table, after item 17 insert—
+
+      18 Bovine viral diarrhoea Bison ssp., Bos ssp., Bubalus ssp.   19
+Trichomonosis Bison ssp., Bos ssp., Bubalus ssp.   20 Bovine genital
+campylobacteriosis Bison ssp., Bos ssp., Bubalus ssp. 21 Surra ( Trypanosoma
+evansi ) Equidae, Artiodactyla 22 Ebola virus disease Non-human primates
+(apes) 23 Japanese encephalitis Equidae 24 West Nile fever Equidae, Aves 25
+Venezuelan equine encephalomyelitis Equidae 26 Infection with
+Batrachochytrium salamandrivorans Caudata
+
+### Amendment of the Diseases of Poultry Order (Northern Ireland) 1995
+
+
+3
+
+In article 2 of the Diseases of Poultry Order (Northern Ireland) 1995 , in the
+definition of “disease”, after “avian influenza,” insert  “avian mycoplasmosis
+(infection with  Mycoplasma gallisepticum  and  M melegridis ), avian
+chlamydiosis,” .
+
+### Amendment of the Diseases of Animals (Northern Ireland) Order 1981
+
+
+4
+
+4.1
+
+The Diseases of Animals (Northern Ireland) Order 1981 is amended as follows.
+
+4.2
+
+In Part 1 of Schedule 2—
+
+4.2.a
+
+in paragraph 2—
+
+4.2.a.i
+
+in sub-paragraphs (1) and (2) for “cattle”, in each place it occurs,
+substitute  “susceptible animals” ;
+
+4.2.a.ii
+
+in sub-paragraph (3) for “head of cattle”, in each place it occurs, substitute
+“susceptible animal” ;
+
+4.2.a.iii
+
+after sub-paragraph (3) insert—
+
+4.2.a.iii.4
+
+In this paragraph, “ susceptible animal ” means animal of the genus  Ovis,
+Capra, Gazella, Bison, Bos or Bubalus,  or of the species   Syncerus cafer .
+
+;
+
+4.2.b
+
+in paragraph 8—
+
+4.2.b.i
+
+the existing text becomes sub-paragraph (1);
+
+4.2.b.ii
+
+in that sub-paragraph for “horse”, in each place it occurs, substitute
+“susceptible animal” ;
+
+4.2.b.iii
+
+in that sub-paragraph for “horses” substitute  “susceptible animals” ;
+
+4.2.b.iv
+
+after that sub-paragraph insert—
+
+4.2.b.iv.2
+
+In this paragraph, “ susceptible animal ” means animal of the family  Equidae
+or Camelidae, or of the genus  Capra.
+
+.
+
+4.3
+
+In Part 2 of Schedule 2, in paragraph 8, for “horse”, in each place it occurs,
+substitute  “animal” .
+
+      Sealed with the Official Seal of the Department of Agriculture and Rural
+Affairs on 18th October 2023         Robert Huey   A senior officer of the
+Department of Agriculture, Environment and Rural Affairs
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Order)
+
+  This Order amends the Specified Diseases (Notification) Order (Northern
+Ireland) 2004 by adding a number of diseases of animals to the list of
+specified diseases in Schedule 1. It also extends the definition of disease in
+the Diseases of Poultry Order (Northern Ireland) 1995 to include avian
+mycoplasmosis and avian chlamydiosis. The effect is to make these additional
+diseases subject to the controls specified in the 2004 and 1995 Orders.
+
+  This Order also amends Schedule 2 to the Diseases of Animals (Northern
+Ireland) Order 1981 (power to slaughter animals and pay compensation) by
+extending the powers of the Department to provide for the slaughter of animals
+and payment of compensation in relation to outbreaks or suspected outbreaks of
+Pleuro-pneumonia and Glanders. This Order extends the species for both these
+diseases, which the Department can cause to be slaughtered and for which
+compensation is payable.
+
+  An impact assessment has not been produced for this Order as no, or no
+significant, impact on the private or voluntary sector is foreseen.
+

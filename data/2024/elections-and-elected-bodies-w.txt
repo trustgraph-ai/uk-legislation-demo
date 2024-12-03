@@ -1,0 +1,6367 @@
+Title: Elections and Elected Bodies (Wales) Act 2024
+Date: 2024-11-11
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/asc/2024/5
+
+## Elections and Elected Bodies (Wales) Act 2024
+
+      Having been passed by Senedd Cymru and having received the assent of His
+Majesty, it is enacted as follows:
+
+### ELECTORAL ADMINISTRATION AND REGISTRATION
+
+#### CO-ORDINATION OF ELECTORAL ADMINISTRATION
+
+##### Electoral Management Board of Democracy and Boundary Commission Cymru
+
+1
+
+1.1
+
+The  Democracy and Boundary Commission Cymru etc. Act 2013 (anaw 4)  (“ the
+2013 Act ”) is amended as follows.
+
+1.2
+
+After Part 2 insert—
+
+########### CO-ORDINATION OF ELECTORAL ADMINISTRATION
+
+############ General functions
+
+############# Electoral administration functions
+
+1.2.20A
+
+1.2.20A.1
+
+The Commission has the general function of co-ordinating the administration of
+Welsh elections and referendums.
+
+1.2.20A.2
+
+The general function in subsection (1) includes—
+
+1.2.20A.2.a
+
+assisting returning officers, local authorities and other persons in carrying
+out their functions in relation to Welsh elections and referendums;
+
+1.2.20A.2.b
+
+promoting best practice in the administration of Welsh elections and
+referendums by providing information, advice or training (or otherwise).
+
+1.2.20A.3
+
+The Commission may provide information, advice or other assistance to the
+Welsh Ministers about the administration of Welsh elections and referendums.
+
+1.2.20A.4
+
+In this Part “ Welsh elections and referendums ” means—
+
+1.2.20A.4.a
+
+Senedd Cymru elections;
+
+1.2.20A.4.b
+
+local government elections in Wales;
+
+1.2.20A.4.c
+
+devolved referendums.
+
+############ Directions
+
+############# Directions to returning officers
+
+1.2.20B
+
+1.2.20B.1
+
+The Commission may give directions in writing to returning officers about the
+exercise of the officers’ functions in relation to—
+
+1.2.20B.1.a
+
+Senedd Cymru elections generally,
+
+1.2.20B.1.b
+
+a particular Senedd Cymru election,
+
+1.2.20B.1.c
+
+local government elections in Wales generally,
+
+1.2.20B.1.d
+
+a particular local government election in Wales,
+
+1.2.20B.1.e
+
+devolved referendums generally, or
+
+1.2.20B.1.f
+
+a particular devolved referendum.
+
+1.2.20B.2
+
+A direction under subsection (1) may require a returning officer to provide
+the Commission with information.
+
+1.2.20B.3
+
+A direction under subsection (1) may require a returning officer—
+
+1.2.20B.3.a
+
+to exercise any discretion the officer has in performing the officer’s
+functions, or
+
+1.2.20B.3.b
+
+to exercise the discretion in a particular way.
+
+1.2.20B.4
+
+A returning officer to whom a direction under subsection (1) is given must
+comply with the direction in so far as it directs the officer—
+
+1.2.20B.4.a
+
+to exercise any discretion the officer would otherwise have in performing the
+officer’s functions (or exercise it in a particular way), or
+
+1.2.20B.4.b
+
+to provide information to the Commission.
+
+1.2.20B.5
+
+A returning officer is not required to comply with a direction under
+subsection (1)—
+
+1.2.20B.5.a
+
+if compliance with the direction would be inconsistent with a duty of the
+officer under any enactment,
+
+1.2.20B.5.b
+
+in so far as exercise of the officer’s functions subject to the direction
+relates to a reserved election in a poll combined with a Welsh election or
+referendum, or
+
+1.2.20B.5.c
+
+in so far as exercise of the officer’s functions subject to the direction
+relates to the combination of—
+
+1.2.20B.5.c.i
+
+a poll at a reserved election with the poll at a Welsh election or referendum;
+
+1.2.20B.5.c.ii
+
+a poll at a Senedd Cymru election with the poll at an ordinary local
+government election in Wales.
+
+1.2.20B.6
+
+The Commission must publish each direction it gives under subsection (1).
+
+############# Directions to electoral registration officers
+
+1.2.20C
+
+1.2.20C.1
+
+The Commission may give directions in writing to electoral registration
+officers about the exercise of the officers’ functions in relation to—
+
+1.2.20C.1.a
+
+a particular Senedd Cymru election,
+
+1.2.20C.1.b
+
+a particular local government election in Wales, or
+
+1.2.20C.1.c
+
+a particular devolved referendum.
+
+1.2.20C.2
+
+A direction under subsection (1) may require an electoral registration
+officer—
+
+1.2.20C.2.a
+
+to exercise any discretion the officer has in performing the officer’s
+functions, or
+
+1.2.20C.2.b
+
+to exercise the discretion in a particular way.
+
+1.2.20C.3
+
+A direction under subsection (1) may require an electoral registration officer
+to provide the Commission with information.
+
+1.2.20C.4
+
+An electoral registration officer to whom a direction under subsection (1) is
+given must comply with the direction in so far as it directs the officer—
+
+1.2.20C.4.a
+
+to exercise any discretion the officer would otherwise have in performing the
+officer’s functions (or exercise it in a particular way), or
+
+1.2.20C.4.b
+
+to provide information to the Commission.
+
+1.2.20C.5
+
+An electoral registration officer is not required to comply with a direction
+under subsection (1)—
+
+1.2.20C.5.a
+
+if it is inconsistent with—
+
+1.2.20C.5.a.i
+
+a duty of the officer under any enactment, or
+
+1.2.20C.5.a.ii
+
+a direction given under section 52 of the 1983 Act;
+
+1.2.20C.5.b
+
+in so far as exercise of the officer’s functions relates to a poll in a
+reserved election combined with a poll in a Welsh election or referendum.
+
+1.2.20C.6
+
+The Commission must publish each direction it gives under subsection (1).
+
+############# Consultation with the Electoral Commission
+
+1.2.20D
+
+1.2.20D.1
+
+Before giving a direction under section 20B or 20C, the Commission must
+consult the Electoral Commission.
+
+1.2.20D.2
+
+The Electoral Commission must give a response in writing to the Commission to
+the matters on which it is consulted.
+
+############ The Board
+
+############# Electoral Management Board
+
+1.2.20E
+
+1.2.20E.1
+
+The Commission must establish a board to be known as the Electoral Management
+Board (“ the Board ”).
+
+1.2.20E.2
+
+The functions of the Commission under the provisions specified in subsection
+(3) are delegated to the Board and must only be exercised by the Board.
+
+1.2.20E.3
+
+The provisions are—
+
+1.2.20E.3.a
+
+sections 20A to 20D;
+
+1.2.20E.3.b
+
+chapter 3 of Part 1 of the Elections and Elected Bodies (Wales) Act 2024
+(Welsh elections piloting and reform);
+
+1.2.20E.3.c
+
+provision specified in regulations made by the Welsh Ministers.
+
+1.2.20E.4
+
+The powers in section 12 may be exercised by the Board or the Commission in
+relation to the functions delegated by subsection (2).
+
+1.2.20E.5
+
+Subsection (2) does not affect the Commission’s responsibility for exercise of
+the delegated functions.
+
+############# Board membership
+
+1.2.20F
+
+1.2.20F.1
+
+The Board is to consist of—
+
+1.2.20F.1.a
+
+a member of the Commission to chair the Board who is a former elections
+officer,
+
+1.2.20F.1.b
+
+one other member of the Commission, and
+
+1.2.20F.1.c
+
+members who are elections officers or former elections officers (one of whom
+is to be the deputy chair of the Board).
+
+1.2.20F.2
+
+The members of the Board are to be appointed by the Commission.
+
+1.2.20F.3
+
+The Commission must appoint at least four members to the Board of the kind
+described in subsection (1)(c).
+
+1.2.20F.4
+
+The chair is to be chosen by the Commission and the deputy chair is to be
+chosen by the Board.
+
+1.2.20F.5
+
+Members of the Board who are also members of the Commission are to be
+appointed on terms and conditions determined by the Welsh Ministers.
+
+1.2.20F.6
+
+The other members of the Board are to be appointed on terms and conditions
+determined by the Commission after consultation with the Welsh Ministers.
+
+1.2.20F.7
+
+The terms and conditions that may be determined under subsections (5) and (6)
+include conditions as to remuneration, allowances and expenses.
+
+1.2.20F.8
+
+A person appointed under subsection (1)(c) must not be—
+
+1.2.20F.8.a
+
+a member of‍ a UK legislature;‍
+
+1.2.20F.8.b
+
+a member of the staff of‍ the Senedd (within the meaning of the Government of
+Wales Act  2006 (c. 32) );
+
+1.2.20F.8.c
+
+a person‍ engaged by a member of a UK legislature, under a contract of service
+or a contract for services, in connection with the carrying out of the
+member’s functions;
+
+1.2.20F.8.d
+
+a member of a local authority;
+
+1.2.20F.8.e
+
+a member of a National Park authority for a National Park in Wales;
+
+1.2.20F.8.f
+
+a police and crime commissioner for a police area in Wales;
+
+1.2.20F.8.g
+
+a Commissioner or Assistant Commissioner;
+
+1.2.20F.8.h
+
+a member of the Commission’s staff;
+
+1.2.20F.8.i
+
+a person employed in the civil service of the state.
+
+1.2.20F.9
+
+In this section “ elections officer ” means—
+
+1.2.20F.9.a
+
+a returning officer, or
+
+1.2.20F.9.b
+
+an electoral registration officer.
+
+############# Tenure
+
+1.2.20G
+
+Members of the Board hold and vacate office in accordance with their terms and
+conditions of appointment.
+
+############# Board proceedings
+
+1.2.20H
+
+1.2.20H.1
+
+The members of the Board must have votes of equal weight to each other for the
+purpose of the Board’s decisions, but the chair (or deputy chair if the chair
+is absent) has the casting vote in the event of a tied vote.
+
+1.2.20H.2
+
+The Board may otherwise regulate its own procedure (including quorum).
+
+1.2.20H.3
+
+The validity of anything done by the Board in exercise of the Commission’s
+functions is not affected by any defect in the appointment of a member.
+
+1.2.20H.4
+
+The chair or deputy chair may (with the agreement of the other members of the
+Board) invite a person to attend a meeting of the Board for the purpose of
+providing advice or otherwise assisting the Board.
+
+############ General
+
+############# Interpretation of this Part
+
+1.2.20I
+
+In this Part—
+
+      “ the 1983 Act ” (“ Deddf 1983 ”) means the Representation of the People
+Act  1983 (c. 2) ;           “devolved referendums”(“ refferenda datganoledig
+”) means referendums held under—         section 27 of the Local Government
+Act  2000 (c. 22)  or by virtue of regulations or an order made under Part 2
+of that Act;           section 40 of the 2011 Measure;           any other
+enactment (whenever passed or made) that would be within the legislative
+competence of Senedd Cymru if it were in a provision of an Act of the Senedd
+(whether the provision would require the consent of a Minister of the Crown or
+not);                 “ electoral registration officer ” (“ swyddog cofrestru
+etholiadol ”) means an officer appointed under section 8(2A) of the 1983 Act
+or any person who may exercise the functions of the officer;           “ local
+government elections ” (“ etholiadau llywodraeth leol ”) means the election
+of—         councillors for an electoral ward of a county or county borough,
+councillors for a community ward or, in the case of a community where there
+are no wards, for the community, or           an elected mayor or elected
+executive member under regulations made by virtue of section 44 of the Local
+Government Act  2000 (c. 22) ;                 “ reserved election ” (”
+etholiad a gedwir yn ôl ”) means—         an election for membership of the
+House of Commons;           an election for the office of police and crime
+commissioner;                 “ returning officer ” (“ swyddog canlyniadau ”)
+means—         a returning officer (however described)—         appointed
+under section 35(1A) of the 1983 Act,           designated in accordance with
+an order made under section 13 of the Government of Wales Act  2006 (c. 32)
+(“ the 2006 Act ”), or           appointed under regulations made by virtue of
+section 44 or 45 of the Local Government Act  2000 (c. 22) ;
+any person who may exercise the functions of a returning officer falling
+within paragraph (a).
+
+##### Minor and consequential amendments
+
+2
+
+Part 1 of Schedule 1 makes minor and consequential amendments relating to this
+Chapter.
+
+#### ELECTORAL REGISTRATION WITHOUT APPLICATIONS
+
+##### Duty to register local government electors
+
+3
+
+3.1
+
+Section 18 (registration of local government electors without application) of
+the  Local Government and Elections (Wales) Act 2021 (asc 1)  is omitted.
+
+3.2
+
+After section 9 of the Representation of the People Act  1983 (c. 2)  (“ the
+1983 Act ”) (registers of electors), insert—
+
+########### Duty to register eligible local government electors in Wales
+
+3.2.9ZA
+
+3.2.9ZA.1
+
+This section applies to the registration of local government electors for an
+area in Wales.
+
+3.2.9ZA.2
+
+The duty in subsection (3) applies if—
+
+3.2.9ZA.2.a
+
+a registration officer is aware of a person’s name and address,
+
+3.2.9ZA.2.b
+
+the person is not registered in the register of local government electors
+maintained by the officer, and
+
+3.2.9ZA.2.c
+
+the officer is satisfied that the person is entitled to be registered in that
+register.
+
+3.2.9ZA.3
+
+The registration officer must notify the person in writing of—
+
+3.2.9ZA.3.a
+
+the officer’s duty under subsection (5) to register the person after the end
+of the notice period,
+
+3.2.9ZA.3.b
+
+the exceptions to the duty under subsection (5) in paragraphs (a) to (c) of
+that subsection,
+
+3.2.9ZA.3.c
+
+the person’s right to request exclusion from the edited register of local
+government electors, if provision is made for an edited register in
+regulations under section 53,
+
+3.2.9ZA.3.d
+
+the person’s right to apply for anonymous registration,
+
+3.2.9ZA.3.e
+
+the type of elections in which the person will be entitled to vote following
+registration under this section, and
+
+3.2.9ZA.3.f
+
+the type of elections in which the person will not be entitled to vote
+following registration under this section unless an application for
+registration is made.
+
+3.2.9ZA.4
+
+In this section “the notice period” is the period of‍ 60 days beginning with
+the day on which the notice under subsection (3) is given.
+
+3.2.9ZA.5
+
+After the end of the notice period the registration officer must register the
+person in the register of local government electors, unless—
+
+3.2.9ZA.5.a
+
+the person has notified the officer in writing that the person does not wish
+to be registered,
+
+3.2.9ZA.5.b
+
+the officer is no longer satisfied that the person is entitled to be
+registered in the register of local government electors (whether because of
+information provided by the person or otherwise), or
+
+3.2.9ZA.5.c
+
+the person has notified the officer that the person wishes to make an
+application for an anonymous entry in the local government register under
+section 9B in conjunction with an application for registration in that
+register under section 10ZC or the person has made such an application.
+
+3.2.9ZA.6
+
+The Welsh Ministers may by regulations make provision about giving notice for
+the purpose of this section, including (but not limited to) provision—
+
+3.2.9ZA.6.a
+
+about the form of the notice;
+
+3.2.9ZA.6.b
+
+about how the notice is given;
+
+3.2.9ZA.6.c
+
+requiring or authorising the registration officer to give a copy of the notice
+to a person other than the person to be registered.
+
+3.2.9ZA.7
+
+The registration officer must keep a separate list of the persons registered
+under this section.
+
+3.2.9ZA.8
+
+The power to make regulations under this section is exercisable by statutory
+instrument.
+
+3.2.9ZA.9
+
+A statutory instrument containing regulations under this section is subject to
+annulment in pursuance of a resolution of Senedd Cymru.
+
+##### Provision connected to the duty to register eligible local government electors
+
+4
+
+4.1
+
+The 1983 Act is amended as follows.
+
+4.2
+
+In section 9 (registers of electors), after subsection (2) insert—
+
+4.2.2A
+
+Subject to any other provision of this Act, each register of local government
+electors for an area in Wales must also contain the names of persons who are
+registered in accordance with section 9ZA(5) along with the information
+mentioned in paragraphs (b) and (c) of subsection (2) relating to those
+persons.
+
+4.3
+
+In section 9E (maintenance of registers: invitations to register in Great
+Britain), after subsection (1) insert—
+
+4.3.1A
+
+The duty of a registration officer under subsection (1) does not apply in
+relation to the registration of a person in a register of local government
+electors for an area in Wales if—
+
+4.3.1A.a
+
+the registration officer has yet to complete any steps prescribed under
+section 53 in connection with the duty in section 9ZA(3) as it relates to the
+person or is otherwise yet to decide whether the duty in section 9ZA applies
+to the person,
+
+4.3.1A.b
+
+the duty in section 9ZA(3) applies in relation to the person and the notice
+period under that section has not ended, or
+
+4.3.1A.c
+
+the duty in section 9ZA(5) applies in relation to the person.
+
+4.4
+
+In section 13A(1) (alteration of registers), after paragraph (zb) insert—
+
+4.4.zc
+
+in the case of a registration officer for a local government area in Wales, is
+required by section 9ZA(5) to enter a person in the register;
+
+.
+
+4.5
+
+In section 13AB(1) (alteration of registers: interim publication dates), in
+paragraph (a) after “(zb),” insert  “(zc),” .
+
+4.6
+
+In section 13B(2) (alteration of registers: pending elections), in paragraph
+(a) after “(zb),” insert  “(zc),” .
+
+4.7
+
+In section 53 (power to make regulations as to registration etc.), after
+subsection (8) insert—
+
+4.7.8A
+
+Provision made by regulations relating to the matters specified in paragraph
+1A(1)(aa) of Schedule 2—
+
+4.7.8A.a
+
+may only be made by the Welsh Ministers;
+
+4.7.8A.b
+
+may not include provision that would require the consent of the appropriate
+Minister under paragraph 8(1)(a) or (c), 10 or 11 of Schedule 7B to the
+Government of Wales Act  2006 (c. 32)  if the provision were included in an
+Act of Senedd Cymru;
+
+4.7.8A.c
+
+may not include provision that would require consultation of the appropriate
+Minister under paragraph 11(2) of Schedule 7B to that Act if the provision
+were included in an Act of Senedd Cymru.
+
+4.8
+
+In section 56(1) (registration appeals: England and Wales), after paragraph
+(aa) insert—
+
+4.8.azaa
+
+from any decision of a registration officer for a local government area in
+Wales to register a person under section 9ZA(5);
+
+.
+
+4.9
+
+In Schedule 2 (provisions which may be contained in regulations as to
+registration etc.)—
+
+4.9.a
+
+in paragraph 1A(1), after paragraph (a) insert—
+
+4.9.a.aa
+
+to decide whether a person is eligible to be included in the register for the
+purpose of section 9ZA,
+
+;
+
+4.9.b
+
+after paragraph 1B insert—
+
+4.9.b.1C
+
+Provision authorising or requiring a registration officer maintaining a
+register of local government electors for an area in Wales to take specified
+steps for the purpose of deciding whether a person is eligible to be included
+in the register for the purpose of section 9ZA.
+
+4.9.c
+
+in paragraph 10, after sub-paragraph (2) insert—
+
+4.9.c.3
+
+This paragraph does not apply to a register of local government electors for
+an area in Wales.
+
+4.9.d
+
+in paragraph 10B, after sub-paragraph (3) insert—
+
+4.9.d.4
+
+Paragraph (b) of sub-paragraph (1) does not apply to a register of local
+government electors for an area in Wales.
+
+#### WELSH ELECTIONS PILOTING AND REFORM
+
+##### Welsh election pilots
+
+###### Pilot regulations: powers
+
+5
+
+5.1
+
+The Welsh Ministers may by regulations make Welsh election pilot provision (“
+pilot regulations ”).
+
+5.2
+
+Welsh election pilot provision is provision that—
+
+5.2.a
+
+relates to one or more relevant electoral matters,
+
+5.2.b
+
+has effect for a specified period or a specified Welsh election,
+
+5.2.c
+
+applies in relation to an electoral area or two or more electoral areas, and
+
+5.2.d
+
+is either—
+
+5.2.d.i
+
+not in elections legislation,
+
+5.2.d.ii
+
+different from provision in elections legislation, or
+
+5.2.d.iii
+
+connected to provision of the kind specified in sub-paragraph (i) or (ii).
+
+5.3
+
+The relevant electoral matters are—
+
+5.3.a
+
+registration of persons eligible to vote in a Welsh election, including (among
+other things)—
+
+5.3.a.i
+
+the rights and duties of individuals as regards registration,
+
+5.3.a.ii
+
+the administration of registration and the register of electors,
+
+5.3.a.iii
+
+access to and publication of the register of electors,
+
+but it does not include any condition of eligibility for registration provided
+for in primary legislation;
+
+5.3.b
+
+when, where and how voting at a Welsh election is to take place;
+
+5.3.c
+
+how the votes cast at a Welsh election are to be counted;
+
+5.3.d
+
+communication with voters about a Welsh election;
+
+5.3.e
+
+processes and procedures before, on or after polling in a Welsh election.
+
+5.4
+
+Welsh election pilot provision also includes provision made for the purpose of
+testing how the changes made by‍ sections 3 and 4work in practice—
+
+5.4.a
+
+that has effect for a specified period or a specified Welsh election,
+
+5.4.b
+
+that applies in relation to an electoral area or two or more electoral areas,
+and
+
+5.4.c
+
+the effect of which corresponds to the effect of the amendments made by‍
+sections 3 and 4 (or the subordinate legislation that may be made by virtue of
+those sections).
+
+5.5
+
+Pilot regulations may implement proposals for pilot regulations made under
+this Act with or without modifications to the proposal.
+
+5.6
+
+Pilot regulations may create, remove or modify offences.
+
+5.7
+
+Pilot regulations must not create an offence that is punishable (or modify an
+offence so that it becomes punishable)—
+
+5.7.a
+
+on conviction on indictment, with imprisonment for a term exceeding one year;
+
+5.7.b
+
+on summary conviction, with imprisonment for a term exceeding the applicable
+limit for a summary offence or an either way offence (as the case may be)
+under section 224(1A) of the Sentencing Code (as it has effect from time to
+time).
+
+5.8
+
+In this section—
+
+      “ electoral area ” (“ ardal etholiadol ”) means—         in relation to
+the return of a member of Senedd Cymru, a Senedd constituency;           in
+relation to a local government election, the area of a council to which the
+election applies or any part of its area;                 “ elections
+legislation ” (“ deddfwriaeth etholiadau ”) means an enactment (whenever
+passed or made) that applies in relation to—         a Welsh election, or
+registration of persons eligible to vote in a Welsh election;
+“primary legislation”(“ deddfwriaeth sylfaenol ”) means provision contained in
+an Act of Senedd Cymru or an Act of the Parliament of the United Kingdom;
+“ specified ” (“ penodedig ”  ac  “ a bennir ”) means specified in pilot
+regulations;           “ Welsh election ” (“ etholiad Cymreig ”) means an
+election for the return of a member of—         Senedd Cymru;           the
+council of a county or county borough in Wales;           the council of a
+community in Wales.
+
+###### Pilot regulations: requirements
+
+6
+
+6.1
+
+Pilot regulations must specify—
+
+6.1.a
+
+the objective of the pilot for which they make provision;
+
+6.1.b
+
+the day before which the Electoral Commission must send its report under
+section 17.
+
+6.2
+
+Pilot regulations must not make provision applying to the area of a principal
+council (or any part of it) unless—
+
+6.2.a
+
+the principal council consents, or
+
+6.2.b
+
+if the council does not consent, the Welsh Ministers have had regard to any
+recommendations made by the Democracy and Boundary Commission Cymru on whether
+the regulations should be made without the principal council’s consent.
+
+6.3
+
+Subsection (2) does not apply to pilot regulations that only contain provision
+of the kind specified in section 5(4) if they are made before the end of the
+period of 12 months beginning with the day on which this Act receives Royal
+Assent.
+
+6.4
+
+Pilot regulations must not modify section 9D of the 1983 Act (annual canvass)
+or any other provision relating to a canvass under that section unless the
+regulations implement a proposal (with or without modification) from a
+registration officer under section 11.
+
+6.5
+
+Before making any pilot regulations under section 5 which relate to electoral
+registration without application, the Welsh Ministers must undertake
+consultation with such stakeholders as they consider appropriate, but in
+particular, with those that they deem to represent vulnerable groups.
+
+###### Pilot regulations: procedure
+
+7
+
+7.1
+
+The power to make pilot regulations is exercisable by statutory instrument.
+
+7.2
+
+When a statutory instrument or a draft statutory instrument containing pilot
+regulations is laid before Senedd Cymru for the purposes of this section, the
+Welsh Ministers must also lay before the Senedd a copy of the report on the
+regulations prepared by the Democracy and Boundary Commission Cymru under
+section 14.
+
+7.3
+
+If a statutory instrument or a draft statutory instrument containing pilot
+regulations laid before Senedd Cymru makes provision applying to the area of a
+principal council (or any part of it) to which the council has not given its
+consent, the Welsh Ministers must also lay a statement before the Senedd
+explaining why they consider the provision should be made without the
+council’s consent.
+
+7.4
+
+A statutory instrument to which this subsection applies may not be made unless
+a draft of the instrument has been laid before and approved by a resolution of
+Senedd Cymru.
+
+7.5
+
+Subsection (4) applies to a statutory instrument containing pilot regulations
+that make provision—
+
+7.5.a
+
+applying to the area of a principal council (or any part of it) and the
+council has not given its consent,
+
+7.5.b
+
+for a Welsh election pilot falling within section 5(4), or
+
+7.5.c
+
+creating, or widening the scope of, a criminal offence.
+
+7.6
+
+A statutory instrument containing pilot regulations to which subsection (5)
+does not apply is subject to annulment in pursuance of a resolution of Senedd
+Cymru.‍‍
+
+##### Proposals for pilots
+
+###### Proposals for pilots made by the Welsh Ministers
+
+8
+
+8.1
+
+Before making pilot regulations that have not been the subject of a proposal
+under sections 9 to 11, the Welsh Ministers must consult each returning
+officer for an area to which the regulations will apply about their proposals
+for the pilot to be provided for in the regulations.
+
+8.2
+
+After consulting in accordance with subsection (1) and before making pilot
+regulations relating to any relevant electoral matter, the Welsh Ministers
+must—
+
+8.2.a
+
+submit proposals for the pilot to be provided for in regulations to the
+Democracy and Boundary Commission Cymru, and
+
+8.2.b
+
+have regard to the Commission’s report on the proposals under section 14.
+
+8.3
+
+This section does not apply to pilot regulations that only contain provision
+of the kind specified in section 5(4) if they are made before the end of the
+period of 12 months beginning with the day on which this Act receives Royal
+Assent.
+
+###### Proposals for pilots made by principal councils
+
+9
+
+9.1
+
+A principal council may propose to the Welsh Ministers that pilot regulations
+are made in relation to any relevant electoral matter in so far as it relates
+to local government elections.
+
+9.2
+
+Before making a proposal under subsection (1), the principal council must
+consult the Welsh Ministers.
+
+9.3
+
+After consulting in accordance with subsection (2) and before making a
+proposal under subsection (1), the principal council must—
+
+9.3.a
+
+submit the proposal for the pilot to be provided for in regulations to the
+Democracy and Boundary Commission Cymru, and
+
+9.3.b
+
+have regard to the Commission’s report on the proposal under section 14.
+
+9.4
+
+If a principal council makes a proposal under subsection (1), it must send a
+copy of the Democracy and Boundary Commission Cymru report on the proposals
+under section 14 to the Welsh Ministers.
+
+###### Proposals for pilots made jointly by the Electoral Commission and principal councils
+
+10
+
+10.1
+
+The Electoral Commission and one or more principal councils (“relevant
+councils”) may, acting jointly, propose to the Welsh Ministers that pilot
+regulations are made in relation to any relevant electoral matter in so far as
+it relates to local government elections.
+
+10.2
+
+Before making a proposal under subsection (1), the Electoral Commission and
+each relevant council acting jointly must consult the Welsh Ministers.
+
+10.3
+
+After consulting in accordance with subsection (2) and before making a
+proposal under subsection (1), the Electoral Commission and each relevant
+council acting jointly must—
+
+10.3.a
+
+submit the proposal for the pilot to be provided for in regulations to the
+Democracy and Boundary Commission Cymru, and
+
+10.3.b
+
+have regard to the Commission’s report on the proposal under section 14.
+
+10.4
+
+If the Electoral Commission and each relevant council acting jointly makes a
+proposal under subsection (1), they must send a copy of the Democracy and
+Boundary Commission Cymru report on the proposal under section 14 to the Welsh
+Ministers.
+
+###### Proposals for pilots made by electoral registration officers
+
+11
+
+11.1
+
+An electoral registration officer may propose to the Welsh Ministers that
+pilot regulations are made in relation to ascertaining—
+
+11.1.a
+
+the names and addresses of persons who are not registered in a register but
+who are entitled to be registered;
+
+11.1.b
+
+those persons who are registered in a register but who are not entitled to be
+registered.
+
+11.2
+
+Before making a proposal under subsection (1), an electoral registration
+officer must consult the Welsh Ministers.
+
+11.3
+
+After consulting in accordance with subsection (2) and before making a
+proposal under subsection (1), the electoral registration officer must—
+
+11.3.a
+
+submit the proposal for the pilot to be provided for in regulations to the
+Democracy and Boundary Commission Cymru, and
+
+11.3.b
+
+have regard to the Commission’s report on the proposal under section 14.
+
+11.4
+
+If an electoral registration officer makes a proposal under subsection (1),
+the officer must send a copy of the Democracy and Boundary Commission Cymru
+report on the proposal under section 14 to the Welsh Ministers.
+
+###### Joint proposals for pilots
+
+12
+
+12.1
+
+A person who may make a proposal under any of sections 9 to 11 may make the
+proposal jointly with one or more other persons making a proposal under any of
+those sections.
+
+12.2
+
+Any duty to consult a person with whom the person makes a joint proposal does
+not apply.
+
+12.3
+
+If the joint proposal relates to matters that the person does not have the
+power to propose, the person may still make the proposal in so far as the
+person does have the power to do so.
+
+###### Electoral Commission recommendations
+
+13
+
+The Electoral Commission may recommend proposals for pilot regulations to a
+person that may make a proposal under any of sections 9 to 11.
+
+##### Evaluation of pilot proposals
+
+###### Evaluation of pilot proposals
+
+14
+
+14.1
+
+When proposals for pilot regulations are submitted to the Democracy and
+Boundary Commission Cymru under sections 8 to 11, the Commission must prepare
+a report on the proposals.
+
+14.2
+
+The report must contain an assessment of—
+
+14.2.a
+
+whether the objective of the proposed pilot is desirable;
+
+14.2.b
+
+the likely costs and feasibility of the proposed pilot.
+
+14.3
+
+In making its assessment for the purposes of the report, the Democracy and
+Boundary Commission Cymru must have regard to any relevant factors specified
+in regulations made by the Welsh Ministers.
+
+14.4
+
+The report may contain recommendations on any matter the Democracy and
+Boundary Commission Cymru considers relevant to the proposed pilot.
+
+14.5
+
+A public authority that submits proposals to the Democracy and Boundary
+Commission Cymru under any of sections 8 to 11 must give the Commission such
+assistance as the Commission may reasonably require in connection with the
+preparation of the report.
+
+14.6
+
+The Democracy and Boundary Commission Cymru must send its report to the person
+who submitted the proposal before the end of a period of 6 weeks beginning
+with the day it receives the proposals.
+
+14.7
+
+The Welsh Ministers must publish a report sent to them under this section or
+sections 9 to 11 when they make the pilot regulations.
+
+14.8
+
+The power to make regulations in subsection (3) is exercisable by statutory
+instrument.
+
+14.9
+
+A statutory instrument containing regulations under subsection (3) is subject
+to annulment in pursuance of a resolution of Senedd Cymru.
+
+###### Welsh election pilot forums
+
+15
+
+15.1
+
+This section applies if—
+
+15.1.a
+
+the Democracy and Boundary Commission Cymru has prepared a report on one or
+more proposals for pilot regulations under section 14,
+
+15.1.b
+
+the proposals are for—
+
+15.1.b.i
+
+a pilot in the area of more than one principal council, or
+
+15.1.b.ii
+
+different pilots in the areas of different principal councils to take place at
+the same Senedd Cymru general election or the same ordinary elections of
+councillors, and
+
+15.1.c
+
+the Commission considers it likely that the pilot or pilots will take place.
+
+15.2
+
+The Democracy and Boundary Commission Cymru must establish a forum for
+discussion of issues relating to the pilot or pilots with a view to providing
+persons implementing the pilot or pilots with information and advice.
+
+15.3
+
+A forum established under subsection (2) must include—
+
+15.3.a
+
+the returning officers of each principal council participating in the pilot or
+pilots;
+
+15.3.b
+
+representation of electoral administrators from each principal council
+participating in the pilot or pilots;
+
+15.3.c
+
+one or more members of the Democracy and Boundary Commission Cymru with
+relevant experience.
+
+15.4
+
+The Democracy and Boundary Commission Cymru may invite any person they
+consider appropriate to participate in a forum.
+
+##### Guidance on pilots
+
+###### Guidance on pilots
+
+16
+
+16.1
+
+In relation to each instrument containing pilot regulations, the Democracy and
+Boundary Commission Cymru must give guidance in writing to persons responsible
+for implementing the regulations.
+
+16.2
+
+The guidance must include advice on—
+
+16.2.a
+
+the arrangements needed for the pilot;
+
+16.2.b
+
+the staff training required for the pilot;
+
+16.2.c
+
+running the pilot in accordance with the pilot regulations.
+
+16.3
+
+The guidance may include information or advice on any other matter the
+Democracy and Boundary Commission Cymru considers relevant to the pilot.
+
+16.4
+
+The Welsh Ministers may by regulations specify further matters that the
+Democracy and Boundary Commission Cymru must include in the guidance.
+
+16.5
+
+The power to make regulations in subsection (4) is exercisable by statutory
+instrument.
+
+16.6
+
+A statutory instrument containing regulations under subsection (4) is subject
+to annulment in pursuance of a resolution of Senedd Cymru.
+
+##### Evaluation of pilots
+
+###### Evaluation of pilot regulations
+
+17
+
+17.1
+
+The Electoral Commission must prepare a report on the operation of the pilot
+regulations before the day specified under section 6(1)(b).
+
+17.2
+
+The report must contain, in particular—
+
+17.2.a
+
+a description of—
+
+17.2.a.i
+
+the way in which the provision made by the pilot regulations differed from the
+provisions which would otherwise have applied, or
+
+17.2.a.ii
+
+in the case of pilot regulations containing provision of the kind specified in
+section 5(4), the provisions being tested;
+
+17.2.b
+
+a copy of the pilot regulations;
+
+17.2.c
+
+an assessment of the success or otherwise of the pilot regulations in
+achieving the objective specified in the pilot regulations;
+
+17.2.d
+
+an assessment of whether provision similar to that made by the pilot
+regulations should apply generally, and on a permanent basis, in relation to
+Welsh elections or any type of Welsh election.
+
+17.3
+
+The principal council for any area or part of an area to which pilot
+regulations apply must give the Commission such assistance as the Commission
+may reasonably require in connection with the preparation of the report.
+
+17.4
+
+The assistance may include—
+
+17.4.a
+
+making arrangements for ascertaining the views of electors about the operation
+of the provisions of the pilot regulations;
+
+17.4.b
+
+reporting to the Commission allegations of electoral offences or other
+malpractice.
+
+17.5
+
+The Commission must send a copy of the report to—
+
+17.5.a
+
+the Welsh Ministers,
+
+17.5.b
+
+each returning officer for the election to which the pilot regulations
+applied, unless the report only relates to proposals made under section 11,
+and
+
+17.5.c
+
+if the report relates to proposals made under section 11, each electoral
+registration officer for an area to which the pilot regulations applied,
+
+before the day specified in the pilot regulations.
+
+17.6
+
+A returning officer who receives a report under subsection (5) must publish
+the report before the end of the period of one month beginning with the day
+the officer receives the report from the Commission, unless the report only
+relates to proposals made under section 11.
+
+17.7
+
+An electoral registration officer who receives a report under subsection (5)
+must publish the report before the end of the period of one month beginning
+with the day the officer receives the report from the Commission.
+
+##### Reform following pilots
+
+###### Electoral reform regulations
+
+18
+
+18.1
+
+The power in subsection (3) applies if—
+
+18.1.a
+
+the Welsh Ministers consider, in the light of a report made under section 17
+on the operation of pilot regulations, that it would be desirable to achieve
+the reform outcome in subsection (2) (“the reform outcome”), and
+
+18.1.b
+
+the Electoral Commission recommends making regulations under this section to
+achieve the reform outcome.
+
+18.2
+
+The reform outcome is for provision similar to that made by the pilot
+regulations to apply generally, and on a permanent basis, in relation to Welsh
+elections or any type of Welsh election.
+
+18.3
+
+The Welsh Ministers may by regulations make provision for or in connection
+with relevant electoral matters to achieve the reform outcome (“ electoral
+reform regulations ”).
+
+18.4
+
+Nothing in this section affects the other powers of the Welsh Ministers to
+make provision for or in connection with relevant electoral matters to achieve
+the reform outcome.
+
+18.5
+
+Electoral reform regulations may create, remove or modify offences.
+
+18.6
+
+Electoral reform regulations must not create an offence that is punishable (or
+modify an offence so that it becomes punishable)—
+
+18.6.a
+
+on conviction on indictment, with imprisonment for a term exceeding one year;
+
+18.6.b
+
+on summary conviction, with imprisonment for a term exceeding the applicable
+limit for a summary offence or an either way offence (as the case may be)
+under section 224(1A) of the Sentencing Code (as it has effect from time to
+time).
+
+18.7
+
+Electoral reform regulations may confer, remove or modify power to make
+subordinate legislation.
+
+18.8
+
+If electoral reform regulations create a power to make subordinate
+legislation, the regulations must provide—
+
+18.8.a
+
+that the subordinate legislation is to be made by statutory instrument, and
+
+18.8.b
+
+that the instrument may not be made unless a draft of it has been laid before
+and approved by a resolution of Senedd Cymru.
+
+###### Electoral reform regulations: procedure
+
+19
+
+19.1
+
+The power to make electoral reform regulations is exercisable by statutory
+instrument.
+
+19.2
+
+When a statutory instrument or a draft statutory instrument containing
+electoral reform regulations is laid before Senedd Cymru for the purposes of
+this section, the Welsh Ministers must also lay before the Senedd a copy of
+the report on the regulations prepared by the Electoral Commission under
+section 17.
+
+19.3
+
+A statutory instrument to which this subsection applies may not be made unless
+a draft of the instrument has been laid before and approved by a resolution of
+Senedd Cymru.
+
+19.4
+
+Subsection (3) applies to a statutory instrument containing electoral reform
+regulations that make provision—
+
+19.4.a
+
+modifying primary legislation,
+
+19.4.b
+
+creating, or widening the scope of, a criminal offence, or
+
+19.4.c
+
+creating or amending a power to legislate.
+
+19.5
+
+Any other statutory instrument containing electoral reform regulations is
+subject to annulment in pursuance of a resolution of Senedd Cymru, unless a
+draft of the instrument has been laid before, and approved by a resolution of,
+the Senedd.
+
+19.6
+
+Subsection (7) applies if the Welsh Ministers are of the opinion that the
+appropriate procedure for a statutory instrument containing electoral reform
+regulations is for it to be subject to annulment in pursuance of a resolution
+of Senedd Cymru.
+
+19.7
+
+The Welsh Ministers may not make the instrument so that it is subject to that
+procedure unless—
+
+19.7.a
+
+condition 1 is met, and
+
+19.7.b
+
+either condition 2 or 3 is met.
+
+19.8
+
+Condition 1 is that the Welsh Ministers—
+
+19.8.a
+
+have made a statement in writing to the effect that in their opinion the
+instrument should be subject to annulment in pursuance of a resolution of
+Senedd Cymru, and
+
+19.8.b
+
+have laid before the Senedd—
+
+19.8.b.i
+
+a draft of the instrument, and
+
+19.8.b.ii
+
+a memorandum setting out the statement and the reasons for the Welsh
+Ministers’ opinion.
+
+19.9
+
+Condition 2 is that a committee of Senedd Cymru charged with doing so has made
+a recommendation as to the appropriate procedure for the instrument.
+
+19.10
+
+Condition 3 is that the period of 14 days beginning with the first day after
+the day on which the draft instrument was laid before Senedd Cymru as
+mentioned in subsection (8) has ended without any recommendation being made as
+mentioned in subsection (9).
+
+19.11
+
+Nothing in this section prevents the Welsh Ministers from deciding at any time
+before a statutory instrument to which subsection (5) applies is made that
+another procedure should apply to the instrument.
+
+19.12
+
+If after the expiry of the 40-day period the draft regulations laid under this
+section are approved by a resolution of Senedd Cymru, the Welsh Ministers may
+make regulations in the terms of the draft regulations, subject to subsection
+(13).
+
+19.13
+
+The procedure in subsections (14) to (19) applies to the draft regulations
+instead of the procedure in subsection (12) if—
+
+19.13.a
+
+either Senedd Cymru so resolves within the 30-day period, or
+
+19.13.b
+
+a committee of Senedd Cymru charged with reporting on the draft regulations so
+recommends within the 30-day period and Senedd Cymru does not by resolution
+reject the recommendation within that period.
+
+19.14
+
+The Welsh Ministers must have regard to—
+
+19.14.a
+
+any representations,
+
+19.14.b
+
+any resolution of Senedd Cymru, and
+
+19.14.c
+
+any recommendations of a committee of Senedd Cymru charged with reporting on
+the draft regulations,
+
+made during the 60-day period with regard to the draft regulations.
+
+19.15
+
+If after the expiry of the 60-day period the Welsh Ministers wish to proceed
+with the draft regulations without material changes where material changes are
+recommended by a committee of Senedd Cymru charged with reporting on the draft
+regulations—
+
+19.15.a
+
+the Welsh Ministers must lay before Senedd Cymru a statement explaining their
+reasons for not accepting the committee’s recommendations (whether wholly or
+partly), and
+
+19.15.b
+
+if the draft regulations are subsequently approved by a resolution of Senedd
+Cymru, the Welsh Ministers may make regulations in the terms of the draft
+regulations.
+
+19.16
+
+If after the expiry of the 60-day period the Welsh Ministers wish to proceed
+with the draft regulations without material changes where no material changes
+are recommended by a committee of Senedd Cymru charged with reporting on the
+draft regulations and the draft regulations are approved by a resolution of
+Senedd Cymru, the Welsh Ministers may make regulations in the terms of the
+draft regulations.
+
+19.17
+
+If after the expiry of the 60-day period the Welsh Ministers wish to proceed
+with the draft regulations but with material changes, the Welsh Ministers must
+lay before Senedd Cymru—
+
+19.17.a
+
+revised draft regulations, and
+
+19.17.b
+
+a statement giving a summary of the changes proposed and, if subsection (18)
+applies, explaining the Welsh Ministers’ reasons for not accepting (whether
+wholly or partly) recommendations of a committee of Senedd Cymru charged with
+reporting on the draft regulations.
+
+19.18
+
+This subsection applies if—
+
+19.18.a
+
+the material changes in the revised draft regulations are materially different
+from changes recommended by the committee, or
+
+19.18.b
+
+the revised draft regulations do not contain material changes recommended by
+the committee.
+
+19.19
+
+If the revised draft regulations are approved by a resolution of Senedd Cymru,
+the Welsh Ministers may make regulations in the terms of the revised draft
+regulations.
+
+19.20
+
+For the purposes of this section regulations are made in the terms of draft
+regulations or revised draft regulations if they contain no material changes
+to their provisions.
+
+19.21
+
+In this section references to the “ 30-day ”, “40-day” and “60-day” periods in
+relation to any draft regulations are to the periods of 30, 40 and 60 days
+beginning with the day on which the draft regulations were laid before Senedd
+Cymru.
+
+19.22
+
+For the purposes of subsections (10) and (21) no account is to be taken of any
+time during which Senedd Cymru is dissolved or is in recess for more than 4
+days.
+
+19.23
+
+Section 6(1) of the Statutory Instruments Act  1946 (c. 36)  as applied by
+section 11A of that Act (alternative procedure for certain instruments laid in
+draft before Senedd Cymru) does not apply in relation to any statutory
+instrument to which this section applies.
+
+##### General
+
+###### Publication
+
+20
+
+20.1
+
+Where this Chapter imposes a duty to publish anything, it must be published—
+
+20.1.a
+
+electronically, and
+
+20.1.b
+
+in such other manner as the person subject to the duty considers appropriate.
+
+20.2
+
+The duty to publish electronically is—
+
+20.2.a
+
+a duty to provide access free of charge, and
+
+20.2.b
+
+a duty to publish on the person’s own website, if the person has one.
+
+20.3
+
+Copies of anything published under subsection (1) may be supplied free of
+charge or on payment of such fee, not exceeding the cost of supplying the
+copy, as the person subject to the duty to publish may determine.
+
+###### Regulations: ancillary provision
+
+21
+
+Pilot regulations and electoral reform regulations may—
+
+21.a
+
+make consequential, supplementary, incidental, transitional or saving
+provision;
+
+21.b
+
+modify any enactment (whenever passed or made);
+
+21.c
+
+make different provision for different purposes or different areas.
+
+###### Interpretation of this Chapter
+
+22
+
+In this Chapter—
+
+      “electoral registration officer”  ( “ swyddog cofrestru etholiadol ” )
+means an officer appointed under section 8(2A) of the 1983 Act;           “
+modify ” (“ addasu ”) includes repeal, revoke and amend;           “pilot
+regulations”  ( “ rheoliadau peilot ”) means regulations made under section 5;
+“ electoral reform regulations ” (“ rheoliadau diwygio etholiadol ”) means
+regulations made under section 18;           “ returning officer ” (“ swyddog
+canlyniadau ”)   means a returning officer (however described)—
+appointed under section 35(1A) of the 1983 Act,           designated in
+accordance with an order made under section 13 of the Government of Wales Act
+2006 (c. 32) , or           appointed under regulations made by virtue of
+section 44 or 45 of the Local Government Act  2000 (c. 22) ;                 “
+relevant electoral matter ” (“ mater etholiadol perthnasol ”)   has the
+meaning given by section 5.
+
+###### Consequential amendments
+
+23
+
+Part 2 of Schedule 1 makes consequential amendments relating to this Chapter.
+
+#### ACCESSIBILITY AND DIVERSITY: WELSH ELECTIONS
+
+##### Reports on assistance for disabled voters
+
+###### Reports by the Electoral Commission
+
+24
+
+24.1
+
+The Political Parties, Elections and Referendums Act  2000 (c. 41)  (“ the
+2000 Act ”) is amended as follows.
+
+24.2
+
+After section 5, insert—
+
+############ Further provision about reports on Welsh elections
+
+24.2.5A
+
+24.2.5A.1
+
+After an ordinary election of councillors for counties and county boroughs in
+Wales or communities in Wales, the Electoral Commission must prepare and
+publish (in such manner as the Commission may determine) a report on the
+administration of the election.
+
+24.2.5A.2
+
+Subsection (3) applies to—
+
+24.2.5A.2.a
+
+a report under section 5 relating to a Senedd Cymru general election;
+
+24.2.5A.2.b
+
+a report under subsection (1).
+
+24.2.5A.3
+
+The report must include a description of the steps taken by returning officers
+to assist persons with disabilities that would otherwise adversely affect
+their right to vote at the election.
+
+24.2.5A.4
+
+In subsection (3)—
+
+      “ disability ”, in relation to doing a thing, includes a short term
+inability to do it;           “returning officer”—         in the case of a
+Senedd Cymru general election, means a returning officer (however described)
+designated in accordance with an order made under section 13 of the Government
+of Wales Act  2006 (c. 32) ;           in the case of an ordinary election of
+councillors for local government areas, means an officer who is appointed
+under section 35(1A) of the Representation of the People Act  1983 (c. 2) .
+
+24.3
+
+Until the coming into force of sections 8 (Senedd general elections) and 9
+(vacant seats) of the  Senedd Cymru (Members and Elections) Act 2024 (asc 4) ,
+section 5A(3) of the 2000 Act also applies to a report under section 5 of that
+Act relating to an election held under section 10 of the Government of Wales
+Act  2006 (c. 32)  (election for Senedd Cymru in the case of a constituency
+vacancy).
+
+##### Candidate survey: local government elections
+
+###### Survey of councillors and unsuccessful candidates in local elections
+
+25
+
+25.1
+
+The  Local Government (Wales) Measure 2011 (nawm 4)  is amended as follows.
+
+25.2
+
+In section 1 (duty to conduct a survey)—
+
+25.2.a
+
+in subsection (1), for “regulations” substitute  “a direction” ;
+
+25.2.b
+
+for subsection (3) substitute—
+
+25.2.b.3
+
+The Welsh Ministers may give a direction to local authorities that—
+
+25.2.b.3.a
+
+specifies the questions that must be asked in a survey;
+
+25.2.b.3.b
+
+specifies requirements about—
+
+25.2.b.3.b.i
+
+the form of the survey;
+
+25.2.b.3.b.ii
+
+how the survey is to be conducted;
+
+25.2.b.3.b.iii
+
+the collation of information from the survey.
+
+;
+
+25.2.c
+
+in subsection (3A), for “answer the prescribed questions” substitute  “respond
+to the survey” ;
+
+25.2.d
+
+after subsection (3A), insert—
+
+25.2.d.3B
+
+A local authority may include questions in a survey, or arrange for the
+inclusion of questions in a survey, in addition to the questions required by a
+direction of the Welsh Ministers under this section.
+
+;
+
+25.2.e
+
+in subsection (4), for “prescribed” substitute  “specified in a direction” .
+
+25.3
+
+In section 2 (completion of a survey and publication of information), in
+subsection (2), for “any prescribed form or manner” substitute  “in such form
+or manner as the Welsh Ministers may direct” .
+
+25.4
+
+After section 3 (guidance about surveys), insert—
+
+############ Publication of directions about surveys
+
+25.4.3A
+
+The Welsh Ministers must publish any direction given under section 1(3) or
+2(2).
+
+##### Welsh elections information platform
+
+###### Welsh elections information platform
+
+26
+
+26.1
+
+The Welsh Ministers must by regulations provide for the establishment and
+operation of a Welsh elections information platform.
+
+26.2
+
+A Welsh elections information platform is an electronic facility (such as a
+website, part of a website or a software application) to provide electors with
+up-to-date information, or access to up-to-date information from other
+electronic sources, about specified elections.
+
+26.3
+
+For the purpose of subsection (2), regulations under subsection (1)—
+
+26.3.a
+
+must specify—
+
+26.3.a.i
+
+elections to Senedd Cymru;
+
+26.3.a.ii
+
+ordinary elections to principal councils in Wales;
+
+26.3.b
+
+may specify other local government elections in Wales.
+
+26.4
+
+Regulations under subsection (1) may (among other things) make provision—
+
+26.4.a
+
+conferring functions on persons or categories of person specified in the
+regulations;
+
+26.4.b
+
+about the publication of information on the platform, including—
+
+26.4.b.i
+
+the publication of candidate statements and other information about candidates
+and registered political parties;
+
+26.4.b.ii
+
+information about accessibility arrangements that are in place at polling
+stations;
+
+26.4.c
+
+conferring exemption from civil and criminal liability in connection with the
+publication of candidate statements and other‍ information about candidates
+and registered political parties;
+
+26.4.d
+
+making the information on the platform available other than by electronic
+means.
+
+26.5
+
+Regulations under subsection (1) must require—
+
+26.5.a
+
+a report to be published about the exercise of functions conferred by the
+regulations—
+
+26.5.a.i
+
+in the case of functions exercised in respect of Senedd Cymru elections,
+before the end of a period of 12 months beginning with the day of the poll for
+that election;
+
+26.5.a.ii
+
+in the case of functions exercised in respect of ordinary elections of
+principal councils, before the end of a period of 12 months beginning with the
+day of the poll for those elections;
+
+26.5.b
+
+the reports to be laid before Senedd Cymru.
+
+26.6
+
+The power to make regulations under this section is exercisable by statutory
+instrument.
+
+26.7
+
+A statutory instrument containing provision in regulations of the kind
+described in subsection (4)(c) may not be made unless a draft of the
+instrument has been laid before and approved by a resolution of Senedd Cymru.
+
+26.8
+
+A statutory instrument containing any other provision in regulations under
+this section is subject to annulment in pursuance of a resolution of Senedd
+Cymru.
+
+26.9
+
+In this section—
+
+      “ local government elections ” (“ etholiadau llywodraeth leol ”) means
+elections of—         councillors for an electoral ward of a county or county
+borough,           councillors for a community ward or, in the case of a
+community where there are no wards, for the community, or           an elected
+mayor or elected executive member under regulations made by virtue of section
+44 of the Local Government Act  2000 (c. 22) ;                 “ specified ”
+(“ penodedig ”  ac  “ a bennir ”) means specified in regulations under
+subsection (1).
+
+##### Diversity in persons seeking elected office
+
+###### Services to promote diversity in persons seeking elected office
+
+27
+
+27.1
+
+The Welsh Ministers must make arrangements for the provision of services to
+promote diversity in the protected characteristics and socio-economic
+circumstances of persons seeking to be elected as members of Senedd Cymru and
+the councils of counties, county boroughs and communities in Wales.
+
+27.2
+
+The Welsh Ministers must, in discharging their duty under subsection (1), have
+regard to—
+
+27.2.a
+
+whether there are groups of persons with the same protected characteristics
+that are under-represented in the membership of Senedd Cymru or the councils
+of counties, county boroughs and communities in Wales;
+
+27.2.b
+
+the desirability of reducing the inequalities of outcome that result from
+socio-economic disadvantage;
+
+27.2.c
+
+the desirability of services being available to persons regardless of their
+membership (or otherwise) of a registered political party.
+
+27.3
+
+The question of whether a group is under-represented in the membership of a
+body must be considered, for the purposes of subsection (2)(a), by reference
+to the population served by the body.
+
+27.4
+
+Subsection (1) does not require the provision of services in respect of every
+under-represented group that may be identified for the purposes of subsection
+(2)(a).
+
+27.5
+
+The services that may be provided under subsection (1) are the provision of—
+
+27.5.a
+
+information;
+
+27.5.b
+
+advice;
+
+27.5.c
+
+training;
+
+27.5.d
+
+coaching and mentoring;
+
+27.5.e
+
+work experience;
+
+27.5.f
+
+equipment;
+
+27.5.g
+
+assistance with tasks.
+
+27.6
+
+The arrangements under subsection (1) must ensure that the Welsh Ministers do
+not make decisions in particular cases as to whether an individual is to
+receive a service under the arrangements.
+
+27.7
+
+The arrangements under subsection (1) may include (among other things)—
+
+27.7.a
+
+the provision of financial assistance to individuals who may benefit from
+services for the purpose of the individuals buying the services themselves;
+
+27.7.b
+
+the provision of financial assistance to persons who provide services;
+
+27.7.c
+
+financial assistance schemes for which provision is made by regulations under
+section 28.
+
+27.8
+
+The Welsh Ministers may by regulations—
+
+27.8.a
+
+add further services to subsection (5);
+
+27.8.b
+
+amend services added under paragraph (a);
+
+27.8.c
+
+remove services added under paragraph (a).
+
+27.9
+
+The power to make regulations in subsection (8) is exercisable by statutory
+instrument.
+
+27.10
+
+A statutory instrument containing regulations under subsection (8) may not be
+made unless a draft of the instrument has been laid before and approved by a
+resolution of Senedd Cymru.
+
+27.11
+
+In this section “ protected characteristics ” has the meaning given by section
+4 of the Equality Act  2010 (c. 15) .
+
+27.12
+
+Nothing in this section limits any other power of the Welsh Ministers.
+
+###### Financial assistance schemes to promote diversity in persons seeking elected office
+
+28
+
+28.1
+
+The Welsh Ministers may by regulations provide for schemes of financial
+assistance (of any specified kind) to help candidates in a Welsh election
+having specified characteristics or specified circumstances overcome barriers
+to their participation in the election connected to those characteristics or
+circumstances.
+
+28.2
+
+The Welsh Ministers must by regulations provide for a scheme of financial
+assistance (of any specified kind) to help disabled candidates in a Welsh
+election overcome barriers to their participation in the election connected to
+their disability.
+
+28.3
+
+The regulations under subsection (2) may provide that only specified kinds of
+disabled candidate may be given financial assistance under the scheme.
+
+28.4
+
+Before making regulations under subsection (1) or (2) the Welsh Ministers must
+consult such persons as they consider appropriate.
+
+28.5
+
+The Welsh Ministers may make payments to a person operating a scheme
+established by regulations under this section, subject to terms and conditions
+determined by the Welsh Ministers, for the purpose of funding—
+
+28.5.a
+
+financial assistance made under the scheme, and
+
+28.5.b
+
+the costs of operating the scheme.
+
+28.6
+
+Regulations under this section must appoint or provide for the appointment of
+a person to operate the scheme for which they provide.‍
+
+28.7
+
+The scheme must not be operated by excluded persons (see section 29).
+
+28.8
+
+Regulations under this section may—
+
+28.8.a
+
+confer functions (including functions involving the exercise of a discretion)
+on a person;
+
+28.8.b
+
+provide for the delegation of a person’s functions under the scheme—
+
+28.8.b.i
+
+to the person’s staff;
+
+28.8.b.ii
+
+where the person is a body, to members or a committee of the body;
+
+28.8.c
+
+require a person on whom functions are conferred to keep, and make available
+for inspection, accounts and other records;
+
+28.8.d
+
+require the person operating the scheme to publish specified information about
+financial assistance given in accordance with the scheme.
+
+28.9
+
+Regulations under this section may not impose a duty to publish information
+where its publication would (taking the duty into account) contravene the data
+protection legislation (within the meaning of the Data Protection Act  2018
+(c. 12) ).
+
+28.10
+
+Regulations under this section may include provision under which—
+
+28.10.a
+
+financial assistance is given subject to conditions specified by, or in
+accordance with, the scheme;
+
+28.10.b
+
+financial assistance is required to be repaid in circumstances specified by,
+or in accordance with, the scheme.
+
+28.11
+
+The power to make regulations under this section is exercisable by statutory
+instrument.
+
+28.12
+
+A statutory instrument containing regulations under this section may not be
+made unless a draft of the instrument has been laid before and approved by a
+resolution of Senedd Cymru.
+
+28.13
+
+In this section—
+
+      “ disabled ” (“ anabl ”), in relation to a person, means having a
+physical, mental, intellectual or sensory impairment (including a temporary
+impairment) that, in interaction with any barrier, may hinder the person’s
+full and effective participation in society on an equal basis with others;
+“ specified ” (“ penodedig ”  ac  “ a bennir ”) means specified in regulations
+made under this section.
+
+28.14
+
+Nothing in this section limits any other power of the Welsh Ministers.
+
+###### Excluded persons
+
+29
+
+The excluded persons for the purposes of section 28 are—
+
+29.a
+
+a member of the Welsh Government;‍
+
+29.b
+
+a United Kingdom government department;
+
+29.c
+
+a‍ person employed in the civil service of the state;
+
+29.d
+
+a member of the House of Commons;
+
+29.e
+
+a member of the House of Lords;
+
+29.f
+
+a Member of the Senedd;
+
+29.g
+
+the Senedd Commission;
+
+29.h
+
+a member of the staff of the Senedd (within the meaning of the Government of
+Wales Act  2006 (c. 32) );
+
+29.i
+
+the council of a county, county borough or community in Wales;
+
+29.j
+
+a corporate joint committee established by regulations made under Part 5 of
+the  Local Government and Elections (Wales) Act 2021 (asc 1) ;
+
+29.k
+
+a National Park authority for a National Park in Wales;
+
+29.l
+
+a fire and rescue authority constituted by a scheme under section 2 of the
+Fire and Rescue Services Act  2004 (c. 21) , or a scheme to which section 4 of
+that Act applies;
+
+29.m
+
+a police and crime commissioner;
+
+29.n
+
+a company in respect of which a person mentioned in paragraphs (a) to (m) (or
+two or more of those persons together)—
+
+29.n.i
+
+wholly owns the company,
+
+29.n.ii
+
+owns a simple majority of shares in the company, or
+
+29.n.iii
+
+owns more shares in the company than any other shareholder;
+
+29.o
+
+a member of a body mentioned in paragraphs (i) to‍ (l);
+
+29.p
+
+a member of the staff of a person mentioned in paragraphs‍ (i) to (m);
+
+29.q
+
+a registered political party.
+
+###### Guidance for political parties to promote diversity in persons seeking elected office
+
+30
+
+30.1
+
+The Welsh Ministers must issue guidance for registered political parties
+about—
+
+30.1.a
+
+collecting, collating and publishing diversity information about candidates
+representing registered political parties at elections for the return of
+members of Senedd Cymru;
+
+30.1.b
+
+developing, publishing, implementing and reviewing strategies for—
+
+30.1.b.i
+
+promoting diversity in the specified characteristics and specified
+circumstances of candidates representing registered political parties at Welsh
+elections, and
+
+30.1.b.ii
+
+helping candidates representing registered political parties at Welsh
+elections overcome barriers to their participation in the elections connected
+to having those characteristics or circumstances.
+
+30.2
+
+The Welsh Ministers—
+
+30.2.a
+
+must publish guidance under this section;
+
+30.2.b
+
+must publish the first guidance under this section before 1 May 2025;
+
+30.2.c
+
+must review published guidance from time to time, having regard to the cycle
+of ordinary general elections for membership of Senedd Cymru and, in relation
+to guidance under subsection (1)(b), the cycle of ordinary elections for
+membership of the councils of counties, county boroughs and communities in
+Wales and elected mayors;
+
+30.2.d
+
+may revise published guidance at any time.
+
+30.3
+
+In this section—
+
+      “ diversity information ” (“ gwybodaeth am amrywiaeth ”) means specified
+information relating to a person’s personal characteristics or personal
+circumstances;           “ elected mayor ” (“ maer etholedig ”) means an
+elected mayor of a council of a county or county borough in Wales;           “
+specified ” (“ penodedig ”) means specified in guidance under this section;
+“ Welsh election ” (“ etholiad Cymreig ”) means an election for the return of—
+a member of Senedd Cymru;           a member of the council of a county or
+county borough in Wales;           a member of the council of a community in
+Wales;           an elected mayor.
+
+##### General
+
+###### Interpretation of this Chapter
+
+31
+
+In this Chapter—
+
+      “ financial assistance ” (“ cymorth ariannol ”) means grants, loans or
+guarantees;           “ registered political party ” (” plaid wleidyddol
+gofrestredig ”) means a party registered under Part 2 of the 2000 Act.
+
+#### CAMPAIGN FINANCE
+
+##### Expenditure in respect of local government elections
+
+###### Notional expenditure: candidates in local government elections
+
+32
+
+In section 90C(1A) of the 1983 Act (making use of property etc. on behalf of a
+candidate), omit “or Wales”.
+
+##### Expenditure in respect of Senedd Cymru elections
+
+###### Notional and third party expenditure: Senedd Cymru elections
+
+33
+
+33.1
+
+The 2000 Act is amended as follows.
+
+33.2
+
+In section 73(1A) (notional campaign expenditure: use of property etc. on
+behalf of registered party)—
+
+33.2.a
+
+after “paragraph 3,” insert  “6,” ;
+
+33.2.b
+
+after “parliamentary general elections” insert  “, ordinary or extraordinary
+general elections to Senedd Cymru,” .
+
+33.3
+
+In section 86(1A) (notional controlled expenditure: use of property etc. on
+behalf of third party)—
+
+33.3.a
+
+after “paragraph 3,” insert  “6,” ;
+
+33.3.b
+
+after “parliamentary general elections” insert  “, ordinary or extraordinary
+general elections to Senedd Cymru,” .
+
+33.4
+
+In section 94(8A) (limits on controlled expenditure: use of property etc. on
+behalf of third party)—
+
+33.4.a
+
+after “paragraph 3,” insert  “6,” ;
+
+33.4.b
+
+after “parliamentary general elections” insert  “, ordinary or extraordinary
+general elections to Senedd Cymru,” .
+
+33.5
+
+In Schedule 8A (controlled expenditure: qualifying expenses), in paragraph
+3(11)—
+
+33.5.a
+
+after “paragraph 3,” insert  “6,” ;
+
+33.5.b
+
+after “parliamentary general elections” insert  “, ordinary or extraordinary
+general elections to Senedd Cymru,” .
+
+###### Codes of practice on expenses
+
+34
+
+34.1
+
+In paragraph 14A of Schedule 4A to the 1983 Act (election expenses: Electoral
+Commission guidance)—
+
+34.1.a
+
+in sub-paragraph (1), after paragraph (b) insert—
+
+34.1.a.c
+
+guidance relating to the application of Part 2 of this Act in relation to
+expenses incurred for the purposes of a candidate’s election (whether or not
+election expenses).
+
+;
+
+34.1.b
+
+in sub-paragraph (7)(b), after “order” insert  “made by statutory instrument”
+.
+
+34.2
+
+In section 156 of the 2000 Act (orders and regulations)—
+
+34.2.a
+
+in subsection (1) after “State” insert  “or the Welsh Ministers” ;
+
+34.2.b
+
+in subsection (2)—
+
+34.2.b.i
+
+the words from “a statutory instrument” to the end become paragraph (a);
+
+34.2.b.ii
+
+after “Parliament” insert—
+
+34.2.b.ii.b
+
+a statutory instrument containing any order or regulations made under this Act
+by the Welsh Ministers shall be subject to annulment in pursuance of a
+resolution of Senedd Cymru.
+
+;
+
+34.2.c
+
+in subsection (3), in paragraph (aa), omit “, other than an order of the Welsh
+Ministers”;
+
+34.2.d
+
+in subsection (4), after “Parliament” insert  “(in the case of an order made
+by the Secretary of State) or (in the case of an order made by the Welsh
+Ministers) a draft of the statutory instrument containing the order has been
+laid before, and approved by a resolution of, Senedd Cymru” ;
+
+34.2.e
+
+in subsection (4A) after “Parliament” insert  “(in the case of an order made
+by the Secretary of State) or (in the case of an order made by the Welsh
+Ministers) a draft of the statutory instrument containing the order has been
+laid before, and approved by a resolution of, Senedd Cymru” ;
+
+34.2.f
+
+in subsection (5)—
+
+34.2.f.i
+
+in the opening words, after “State” insert  “, the Welsh Ministers,” ;
+
+34.2.f.ii
+
+in paragraph (a), after “State” insert  “, the Welsh Ministers,” .
+
+###### Authorised persons not required to pay through election agent
+
+35
+
+In section 73(5) of the 1983 Act (payment of expenses through election agent),
+in paragraph (ca), omit “, otherwise than in relation to an election in Wales
+under the local government Act,”.
+
+###### Restriction on which third parties may incur controlled expenditure
+
+36
+
+36.1
+
+The 2000 Act is amended as follows.
+
+36.2
+
+After section 89A insert—
+
+############ Restriction on which third parties may incur controlled expenditure: Senedd Cymru elections
+
+36.2.89B
+
+36.2.89B.1
+
+No amount of controlled expenditure may be incurred by or on behalf of a third
+party during a Welsh devolved regulated period unless the third party falls
+within any paragraph of section 88(2) (third parties eligible to give
+notification).
+
+36.2.89B.2
+
+Subsection (1) does not apply to any expenses incurred by or on behalf of a
+third party during a Welsh devolved regulated period which do not in total
+exceed £700.
+
+36.2.89B.3
+
+Subsections (4) and (5) apply where expenses are incurred by or on behalf of a
+third party in contravention of subsection (1).
+
+36.2.89B.4
+
+If the third party is not an individual—
+
+36.2.89B.4.a
+
+any person who authorised the expenses to be incurred by or on behalf of the
+third party is guilty of an offence if the person knew or ought reasonably to
+have known that the expenses would be incurred in contravention of subsection
+(1), and
+
+36.2.89B.4.b
+
+the third party is also guilty of an offence.
+
+36.2.89B.5
+
+If the third party is an individual, the individual is guilty of an offence if
+they knew or ought reasonably to have known that the expenses would be
+incurred in contravention of subsection (1).
+
+36.2.89B.6
+
+A “Welsh devolved regulated period means a period in relation to which any
+limit is imposed by paragraph 6 of Schedule 10 (periods involving general
+elections to Senedd Cymru).
+
+36.3
+
+In Schedule 20 (penalties), at the appropriate place in the table insert—
+
+    Section 89B(4) and (5) (incurring controlled expenditure in contravention
+of section 89AA(1)) On summary conviction in England and Wales: fine On
+indictment: fine
+
+.
+
+###### Third parties capable of giving notification
+
+37
+
+37.1
+
+The 2000 Act is amended as follows.
+
+37.2
+
+In section 88 (third parties recognised for the purposes of Part 6), after
+subsection (10) insert—
+
+37.2.11
+
+The Welsh Ministers may by order amend subsection (2), as it applies for the
+purposes of a period in relation to which any limit is imposed by paragraph 6
+of Schedule 10 (periods involving general elections to Senedd Cymru), by—
+
+37.2.11.a
+
+adding a description of third party to the list in that subsection,
+
+37.2.11.b
+
+removing a description of third party from that list, or
+
+37.2.11.c
+
+varying the description of a third party in that list.
+
+37.2.12
+
+An order under subsection (11)(b) or (c) may be made only where the order
+gives effect to a recommendation of the Commission.
+
+37.3
+
+In section 156 (orders and regulations), in subsection (4), after paragraph
+(de) insert—
+
+37.3.df
+
+section 88(11),
+
+.
+
+###### Code of practice on controls relating to third parties
+
+38
+
+38.1
+
+The 2000 Act is amended as follows.
+
+38.2
+
+In section 100A (code of practice on controlled expenditure)—
+
+38.2.a
+
+after subsection (1) insert—
+
+38.2.a.1A
+
+The Commission must prepare a code of practice about the operation of this
+Part in relation to a Welsh devolved regulated period.
+
+;
+
+38.2.b
+
+in subsection (2), for “The code” substitute  “A code” ;
+
+38.2.c
+
+in subsection (3), for “the code” substitute  “a code” ;
+
+38.2.d
+
+in subsection (4), for “the code” substitute  “a code” ;
+
+38.2.e
+
+after subsection (5) insert—
+
+38.2.e.5A
+
+It is a defence for a third party charged with an offence under any provision
+of this Part, where the offence relates to expenditure incurred or treated as
+incurred by a third party during a Welsh devolved regulated period to show—
+
+38.2.e.5A.a
+
+that the code, in the form for the time being issued under section 100C, was
+complied with by the third party in determining whether the expenditure is
+controlled expenditure for the purposes of this Part, and
+
+38.2.e.5A.b
+
+that the offence would not have been committed on the basis of the controlled
+expenditure as determined in accordance with the code.
+
+;
+
+38.2.f
+
+after subsection (6) insert—
+
+38.2.f.6A
+
+In this section “Welsh devolved regulated period means a period in relation to
+which any limit is imposed by paragraph 6 of Schedule 10 (regulated period for
+general elections to Senedd Cymru).
+
+;
+
+38.2.g
+
+in subsection (7), after “revised code” insert  “under subsection (1)” ;
+
+38.2.h
+
+after subsection (7) insert—
+
+38.2.h.8
+
+Section 100C sets out consultation and procedural requirements relating to the
+code or any revised code under subsection (1A).
+
+38.3
+
+In section 100B (code of practice: consultation and procedural requirements),
+in subsection (1), after “100A” insert  “(1)” .
+
+38.4
+
+After section 100B insert—
+
+############ Code of Practice: consultation and procedural requirements on controlled expenditure in Senedd Cymru elections
+
+38.4.100C
+
+38.4.100C.1
+
+The Commission must consult the following on a draft of a code under section
+100A(1A)—‍
+
+38.4.100C.1.a
+
+Senedd Cymru (“ the Senedd ”);
+
+38.4.100C.1.b
+
+such other persons as the Commission consider appropriate.
+
+38.4.100C.2
+
+After the Commission have carried out the consultation required by subsection
+(1), the Commission must—
+
+38.4.100C.2.a
+
+make whatever modifications to the draft code the Commission consider
+necessary in light of responses to the consultation, and
+
+38.4.100C.2.b
+
+submit the draft to the Welsh Ministers for approval by the Welsh Ministers.
+
+38.4.100C.3
+
+The Welsh Ministers may approve a draft code either without modifications or
+with such modifications as the Welsh Ministers may determine.
+
+38.4.100C.4
+
+Once the Welsh Ministers have approved a draft code, they must lay a copy of
+the draft before‍ the Senedd, whether—
+
+38.4.100C.4.a
+
+in its original form, or
+
+38.4.100C.4.b
+
+in a form which incorporates any modifications determined under subsection
+(3).
+
+38.4.100C.5
+
+If the draft code incorporates modifications, the Welsh Ministers must at the
+same time lay before the Senedd a statement of their reasons for making them.
+
+38.4.100C.6
+
+If, within the 40-day period, the Senedd resolves not to approve the draft
+code, the Welsh Ministers must take no further steps in relation to it.
+
+38.4.100C.7
+
+Subsection (6) does not prevent a new draft code from being laid before the
+Senedd.
+
+38.4.100C.8
+
+If no resolution of the kind mentioned in subsection (6) is made within the
+40-day period—
+
+38.4.100C.8.a
+
+the Welsh Ministers must issue the code in the form of the draft laid before
+the Senedd,
+
+38.4.100C.8.b
+
+the code comes into force on the date appointed by the Welsh Ministers by
+order, and
+
+38.4.100C.8.c
+
+the Commission must arrange for the code to be published in such manner as the
+Commission consider appropriate.
+
+38.4.100C.9
+
+References in this section (other than in subsection (1)) to a code or draft
+code include a revised code or draft revised code.
+
+38.4.100C.10
+
+In this section “ the 40-day period ”, in relation to a draft code, means the
+period of 40 days beginning with the day on which the draft is laid before the
+Senedd, no account being taken of any period during which the Senedd is
+dissolved or is in recess for more than four days.
+
+38.5
+
+In section 156 (orders and regulations), in subsection (3), after paragraph
+(za) insert—
+
+38.5.zb
+
+an order under section 100C(8);
+
+.
+
+38.6
+
+In Schedule 8A (controlled expenditure: qualifying expenses), in paragraph
+3(11) for “and 100B” substitute  “, 100B and 100C” .
+
+##### General
+
+###### Minor and consequential amendments
+
+39
+
+Part 3 of Schedule 1 makes minor and consequential amendments relating to this
+Chapter.
+
+### ELECTED BODIES AND THEIR MEMBERS
+
+#### ARRANGEMENTS FOR LOCAL GOVERNMENT
+
+##### Electoral arrangements reviews: principal councils
+
+###### Considerations for a review of principal area electoral arrangements
+
+40
+
+40.1
+
+The 2013 Act is amended as follows.
+
+40.2
+
+In section 30 (considerations for a review of principal area electoral
+arrangements), for subsection (1) substitute—
+
+40.2.1
+
+When considering whether to make recommendations for changes to the electoral
+arrangements of a principal area, the Commission must have regard to the
+following factors—
+
+40.2.1.a
+
+the desirability of having a ratio of local government electors to the number
+of members of the council to be elected that is the same, or nearly the same,
+in every electoral ward of the principal area;
+
+40.2.1.b
+
+special geographical considerations, including in particular the size, shape
+and accessibility of an electoral ward;
+
+40.2.1.c
+
+any local ties (including local ties connected to the use of the Welsh
+language) that would be broken by such changes.
+
+###### Review period for principal area reviews
+
+41
+
+41.1
+
+The 2013 Act is amended as follows.
+
+41.2
+
+In section 29 (review of electoral arrangements for principal area)—
+
+41.2.a
+
+in subsection (3)—
+
+41.2.a.i
+
+for paragraph (a) substitute—
+
+41.2.a.i.a
+
+the period of 12 years beginning on 30 September 2023, and
+
+;
+
+41.2.a.ii
+
+in paragraph (b), for “10” substitute  “12” ;
+
+41.2.b
+
+after subsection (3), insert—
+
+41.2.b.3A
+
+The Welsh Ministers may by regulations amend subsection (3).
+
+41.3
+
+In section 71(2) (orders and regulations), after paragraph (ba) (inserted by
+paragraph 1(4)(b) of Part 1 of Schedule 1 to this Act) insert—
+
+41.3.bb
+
+regulations under section 29(3A),
+
+.
+
+41.4
+
+In the  Local Government and Elections (Wales) Act 2021 (asc 1) , in section
+138 (reviews of electoral arrangements), omit subsection (6).
+
+##### Reviews of seaward boundaries
+
+###### Review of seaward boundaries
+
+42
+
+In section 28 of the 2013 Act (review of seaward boundaries), after subsection
+(2) insert—
+
+42.3
+
+A review under this section may review the boundary of more than one local
+government area.
+
+##### Consultation and consideration of representations
+
+###### Electoral review recommendations and decisions: duty to have regard to representations
+
+43
+
+43.1
+
+The 2013 Act is amended as follows.
+
+43.2
+
+In section 37 (implementation by the Welsh Ministers), for subsection (3)
+substitute—
+
+43.2.3A
+
+The Welsh Ministers must not exercise their functions under subsection (1)
+before the end of the period of 6 weeks beginning with the day on which the
+Welsh Ministers receive the recommendations.
+
+43.2.3B
+
+In exercising their functions under subsection (1), the Welsh Ministers must
+have regard to any representations made by any person on the recommendations
+and received by the Welsh Ministers during the period of 6 weeks beginning
+with the day on which the Welsh Ministers receive the recommendations.
+
+43.3
+
+In section 38 (implementation of community boundary change), for subsection
+(2) substitute—
+
+43.3.2A
+
+The Commission must not exercise its functions under subsection (1) before the
+end of the period of 6 weeks beginning with the day on which the Commission
+receives the recommendations.
+
+43.3.2B
+
+In exercising its functions under subsection (1), the Commission must have
+regard to any representations made by any person on the recommendations and
+received by the Commission during the period of 6 weeks beginning with the day
+on which the Commission receive the recommendations.
+
+43.4
+
+In section 39 (implementation of community electoral arrangements change), for
+subsection (4) substitute—
+
+43.4.4A
+
+The Council must not exercise its functions under subsection (3) before the
+end of the period of 6 weeks beginning with the day on which the Council
+receives the recommendations.
+
+43.4.4B
+
+In exercising its functions under subsection (1) or (3), the Council must have
+regard to any representations made by any person on the recommendations and
+received by the Council during the period of 6 weeks beginning with the date
+on which the Council publishes the report (for functions in subsection (1)) or
+receives the recommendations (for functions under subsection (3)).
+
+###### Names of electoral wards
+
+44
+
+44.1
+
+The 2013 Act is amended as follows.
+
+44.2
+
+After section 36 (reporting on review) insert—
+
+############ Names of electoral ward‍s
+
+44.2.36A
+
+44.2.36A.1
+
+Subsection (2) applies to a review report under this Part so far as it relates
+to—
+
+44.2.36A.1.a
+
+an electoral ward that has different names (in any respect) for the purposes
+of identifying the ward in communication through Welsh and English;
+
+44.2.36A.1.b
+
+a proposal for an electoral ward to have different names in any respect for
+the purposes of identifying the ward in communication through Welsh and
+English.
+
+44.2.36A.2
+
+The Commission or the principal council (as the case may be) must specify both
+names or proposed names for the electoral ward in each language version of a
+report under section 35(2), 36(3) or 36(4).
+
+44.2.36A.3
+
+Before making a report under section 35(2), 36(3) or 36(4), the Commission or
+a principal council (as the case may be) must have regard, in particular, to
+any representations received from the Welsh Language Commissioner on the
+orthography of the name or proposed name of an electoral ward to which the
+report relates.
+
+44.2.36A.4
+
+In this section “each language version means the Welsh version and the English
+version.
+
+###### Consultation on reviews
+
+45
+
+45.1
+
+The 2013 Act is amended as follows.
+
+45.2
+
+In section 34 (pre-review procedure), in subsection (1)(a), after “attention
+of” insert  “members of the public affected by the review,” .
+
+45.3
+
+In section 35 (consultation and investigation)—
+
+45.3.a
+
+in subsection (1), after “must—” insert—
+
+45.3.a.za
+
+consult members of the public in the area affected by the review,
+
+;
+
+45.3.b
+
+in subsection (3)—
+
+45.3.b.i
+
+after paragraph (a) insert—
+
+45.3.b.i.aa
+
+publicise the fact that representations relating to the review may be made to
+the reviewing body during the public consultation period,
+
+45.3.b.i.ab
+
+indicate in the publicity when the public consultation period begins and ends,
+
+;
+
+45.3.b.ii
+
+in paragraph (b) for “period for representations” substitute  “public
+consultation period” ;‍
+
+45.3.b.iii
+
+in paragraph (d) omit “, and”;
+
+45.3.b.iv
+
+omit paragraph (e);
+
+45.3.b.v
+
+for subsection (4) substitute—
+
+45.3.b.v.4
+
+In subsection (3), the “public consultation period means a period of at least
+6 weeks and no more than 12 weeks determined by the reviewing body, which may
+not begin before the end of a period of 7 days beginning with the day on which
+the report is published.
+
+45.4
+
+In section 36 (reporting on review), in subsection (1), for “period‍ for
+representations” substitute  “public consultation period” .
+
+###### Meaning of “mandatory consultees” in Part 3 of the 2013 Act
+
+46
+
+46.1
+
+The 2013 Act is amended as follows.
+
+46.2
+
+In section 34(3) (pre-review procedure), after paragraph (c) insert—
+
+46.2.ca
+
+the National Park authority for a National Park in an area affected by the
+review,
+
+46.2.cb
+
+the Port Health authority constituted under section 2 of the Public Health
+(Control of Disease) Act  1984 (c. 22)  for a port health district in an area
+affected by the review,
+
+46.2.cc
+
+the Welsh Language Commissioner,
+
+.
+
+##### Timing of reviews and implementation
+
+###### Electoral review recommendations and decisions: period before a local election
+
+47
+
+47.1
+
+The 2013 Act is amended as follows.
+
+47.2
+
+In section 29(8) (review of electoral arrangements for principal area), for
+“9” substitute  “12” .
+
+47.3
+
+In section 37 (implementation by the Welsh Ministers), after subsection (2)
+insert—
+
+47.3.2A
+
+The Welsh Ministers must not, in any period of 6 months preceding the day of
+an ordinary council election under section 26 of the 1972 Act (elections of
+councillors), exercise their functions under subsection (1).
+
+###### Deadline for completion of reviews
+
+48
+
+48.1
+
+The 2013 Act is amended as follows.
+
+48.2
+
+After section 36A (proposals for names of electoral wards: review reports)
+(inserted by section 44) insert—
+
+############ Deadline for completion of reviews
+
+48.2.36B
+
+48.2.36B.1
+
+Before conducting a review under this Part, the Commission or, as the case may
+be, a principal council must publish a statement specifying the day on which
+the review begins.
+
+48.2.36B.2
+
+The Commission must, in relation to a review it conducts under section 23, 27
+or 29, use its best endeavours to publish its further report on the review in
+accordance with section 36(5)(b) before the end of a period of 12 months
+beginning with the day specified under subsection (1).
+
+48.2.36B.3
+
+The Commission must, in relation to a review it conducts under section 28, use
+its best endeavours to publish its further report on the review in accordance
+with section 36(5)(b) before the end of a period of 18 months beginning with
+the day specified under subsection (1).
+
+48.2.36B.4
+
+The Commission must, in relation to a review it conducts under section 2‍6 or
+32, use its best endeavours to publish its further report on the review in
+accordance with section 36(5)(b) before the end of a period of 24 months
+beginning with the day specified under subsection (1).
+
+48.2.36B.5
+
+A principal council must, in relation to a review it conducts under section 25
+or 31, use its best endeavours to publish its further report on the review in
+accordance with section 36(5)(b) before the end of a period of 24 months
+beginning with the day specified under subsection (1).
+
+48.2.36B.6
+
+If a reviewing body fails to comply with a duty imposed by this section in
+relation to a review, the body’s failure to comply does not affect the
+validity of the review for the purposes of this Act.
+
+###### Deadline for completion of implementation
+
+49
+
+49.1
+
+The 2013 Act is amended as follows.
+
+49.2
+
+In section 37 (implementation by the Welsh Ministers)—
+
+49.2.a
+
+in subsection (1)(b), after “action” insert  “on any recommendation” ;
+
+49.2.b
+
+after subsection (4) insert—
+
+49.2.b.5
+
+The Welsh Ministers must use their best endeavours to make a decision on each
+recommendation received by them, of the kind described in subsection (1),
+before the end of a period of 3 months beginning at the end of the period
+specified by subsection (3A).
+
+49.2.b.6
+
+The Welsh Ministers must publish a statement setting out their decision in
+respect of each recommendation; and the date on which the statement is
+published is to be treated as the date of the decision for the purposes of
+subsection (5).
+
+49.2.b.7
+
+If the Welsh Ministers fail to comply with the duty in subsection (5), the
+failure to comply does not affect the validity of any order under subsection
+(1)(a) or any decision to take no action under subsection (1)(b).
+
+49.3
+
+In section 38 (implementation of community boundary change), after subsection
+(4) insert—
+
+49.3.5
+
+The Commission must use its best endeavours to make a decision on each
+recommendation received by it, of the kind described in subsection (1), before
+the end of a period of 3 months beginning at the end of the period specified
+by subsection (2A).
+
+49.3.6
+
+The Commission must publish a statement setting out its decision in respect of
+each recommendation; and the date on which the statement is published is to be
+treated as the date of the decision.
+
+49.3.7
+
+If the Commission fails to comply with the duty in subsection (5), the failure
+to comply does not affect the validity of any order under subsection (1)(a) or
+(b) or any review under subsection (1)(c).
+
+49.4
+
+In section 39 (implementation of community electoral arrangements change)—
+
+49.4.a
+
+after subsection (4B) (inserted by section 43(4)) insert—
+
+49.4.a.4C
+
+The principal council must use its best endeavours to make a decision on each
+recommendation received by it, of the kind described in subsection (3), before
+the end of a period of 3 months beginning at the end of the period specified
+by subsection (4A).
+
+49.4.a.4D
+
+The principal council must publish a statement setting out its decision in
+respect of each recommendation; and the date on which the statement is
+published is to be treated as the date of the decision.
+
+49.4.a.4E
+
+If a principal council fails to comply with the duty in subsection (4C), the
+failure to comply does not affect the validity of any order under subsection
+(3)(a) or (b) or any decision or notification under subsection (3)(c).
+
+49.4.b
+
+in subsection (6), in paragraph (b), for “6 months beginning with the date on
+which the council received the Commission’s recommendations” substitute  “3
+months beginning with the end of period specified by subsection (4C)” .
+
+###### Directions to pause reviews
+
+50
+
+50.1
+
+The 2013 Act is amended as follows.
+
+50.2
+
+In section 48 (directions and guidance relating to Part 3)—
+
+50.2.a
+
+in subsection (2), after paragraph (e) insert—
+
+50.2.a.f
+
+to pause a review it conducts under this Part for a period specified in the
+direction or until a further direction is given.
+
+;
+
+50.2.b
+
+in subsection (5), after paragraph (b) insert—
+
+50.2.b.c
+
+to pause a review it conducts under this Part for a period specified in the
+direction or until a further direction is given.
+
+;
+
+50.2.c
+
+after subsection (9), insert—
+
+50.2.c.10
+
+The Welsh Ministers must not use the powers of direction under this Act to
+pause a review for more than 9 months, whether the pause is one period of 9
+months or more than one period totalling 9 months.
+
+50.2.c.11
+
+Any period during which the Commission or a principal council is directed
+under this Act to pause a review is not to be taken into account for the
+purpose of calculating the length of the periods mentioned in subsections (2)
+to (5) of section 36B.
+
+##### Community reviews and status as towns
+
+###### Community reviews and implementation
+
+51
+
+51.1
+
+The 2013 Act is amended as follows.
+
+51.2
+
+In section 22 (duties of principal councils in relation to area), for
+subsections (5) and (6) substitute—
+
+51.2.5
+
+Before 1 July in each year, a principal council must publish a report on the
+performance of its functions under this Part and section 76 of the 1972 Act
+(change of name of community) in the previous year, so far as the functions
+relate to—
+
+51.2.5.a
+
+community names,
+
+51.2.5.b
+
+community boundary changes,
+
+51.2.5.c
+
+community council changes, and
+
+51.2.5.d
+
+community electoral arrangements.
+
+51.2.6
+
+A principal council must send a copy of each report it publishes to the
+Commission and the Welsh Ministers.
+
+51.2.7
+
+In subsection (5), “year means the period of 12 months beginning with 1 April.
+
+51.3
+
+In section 31 (review of electoral arrangements for community by principal
+council)—
+
+51.3.a
+
+before subsection (1) insert—
+
+51.3.a.A1
+
+A principal council must conduct a review of the electoral arrangements for
+each community in its area at least once in every review period.
+
+51.3.a.A2
+
+In subsection (A1), “ review period ” means—
+
+51.3.a.A2.a
+
+the period of 12 years beginning with the day on which section 51 of the
+Elections and Elected Bodies (Wales) Act 2024 comes into force, and
+
+51.3.a.A2.b
+
+each subsequent period of 12 years.
+
+51.3.a.A3
+
+The Welsh Ministers may by regulations amend subsection (A2).
+
+;
+
+51.3.b
+
+in subsection (1), after “may” insert  “also” .
+
+51.4
+
+In section 33(3) (considerations for a review of community electoral
+arrangements)—
+
+51.4.a
+
+for paragraph (b) substitute—
+
+51.4.a.b
+
+special geographical considerations, including in particular the size, shape
+and accessibility of a community ward, and
+
+;
+
+51.4.b
+
+in paragraph (c), after “ties” insert  “(including local ties connected to the
+use of the Welsh language)” .
+
+51.5
+
+In section 71(2) (orders and regulations), after section (bb) (inserted by
+section 41(3) of this Act) insert—
+
+51.5.bc
+
+regulations under section 31(A3),
+
+.
+
+###### Notice of resolutions on status of communities as towns
+
+52
+
+52.1
+
+The Local Government Act  1972 (c. 70)  is amended as follows.
+
+52.2
+
+In section 245B (community having the status of a town), after subsection (7)
+insert—
+
+52.2.7A
+
+The community council must give notice electronically in writing of any
+resolution passed under subsection (1) or (6) to the following bodies—
+
+52.2.7A.a
+
+the Welsh Ministers,
+
+52.2.7A.b
+
+the principal council for the area in which the community is situated, and
+
+52.2.7A.c
+
+the Democracy and Boundary Commission Cymru.
+
+##### Publication of information: arrangements for local government
+
+###### Publication of orders under Part 3 of the 2013 Act
+
+53
+
+53.1
+
+The 2013 Act is amended as follows.
+
+53.2
+
+After section 49 (local inquiries), insert—
+
+############ Publication of orders under Part 3
+
+53.2.49ZA
+
+53.2.49ZA.1
+
+A principal council must publish and maintain on its website—
+
+53.2.49ZA.1.a
+
+a copy of each order it makes under this Part;
+
+53.2.49ZA.1.b
+
+a copy of each order relating to its area made by the Commission under this
+Part;
+
+53.2.49ZA.1.c
+
+a copy of, or a link to, each statutory instrument containing an order
+relating to its area made by the Welsh Ministers under this Part.
+
+53.2.49ZA.2
+
+The Commission must publish and maintain on its website—
+
+53.2.49ZA.2.a
+
+a copy of each order made by a principal council under this Part;
+
+53.2.49ZA.2.b
+
+a copy of each order the Commission makes under this Part;
+
+53.2.49ZA.2.c
+
+a copy of, or a link to, each statutory instrument containing an order made by
+the Welsh Ministers under this Part;
+
+53.2.49ZA.2.d
+
+a copy of, or a link to, each statutory instrument containing an order made by
+the Secretary of State under this Part.
+
+53.2.49ZA.3
+
+A principal council must send a copy of each order it makes under this Part to
+the Commission.
+
+53.2.49ZA.4
+
+The Commission must send to a principal council a copy of each order it makes
+under this Part affecting the area of the principal council.
+
+53.2.49ZA.5
+
+The Welsh Ministers must—
+
+53.2.49ZA.5.a
+
+notify a principal council of each order they make under this Part affecting
+the area of the principal council;
+
+53.2.49ZA.5.b
+
+notify the Commission of each order they make under this Part.
+
+53.2.49ZA.6
+
+The duties in subsections (1) and (2) apply to orders made after the coming
+into force of this section.
+
+###### Publication of up-to-date lists of communities and community councils
+
+54
+
+54.1
+
+The 2013 Act is amended as follows.
+
+54.2
+
+After section 49ZA (inserted by section 53), insert—
+
+############ Publication of up-to-date lists of communities and community councils
+
+54.2.49ZB
+
+54.2.49ZB.1
+
+A principal council must publish and maintain on its website an up-to date
+list of all communities and community councils in its area with their current
+names.
+
+54.2.49ZB.2
+
+The Commission must publish and maintain on its website an up-to date list of
+all communities and community councils in Wales with their current names.
+
+54.2.49ZB.3
+
+If a community or community council has different names for the purpose of
+communication through the medium of the Welsh language and the English
+language, both names must be included in a list required to be published under
+this section.
+
+##### General
+
+###### Transitional provision
+
+55
+
+55.1
+
+A review being conducted under Part 3 of the 2013 Act at the time of the
+coming into force of this Chapter is to be completed as if the amendments made
+by this Chapter had not been made.
+
+55.2
+
+The provisions of Part 3 of the 2013 Act (and any orders or regulations made
+under that Part) continue in effect for the purpose of such reviews as the
+provisions of that Part (and any orders or regulations made under that Part)
+had effect immediately before the coming into force of this Chapter.
+
+#### REMUNERATION OF ELECTED MEMBERS
+
+##### Abolition of the Independent Remuneration Panel for Wales
+
+###### Abolition of Independent Remuneration Panel for Wales
+
+56
+
+In the  Local Government (Wales) Measure 2011 (nawm 4)  (Independent
+Remuneration Panel for Wales: functions relating to remuneration of members),
+omit sections 141 to 159 and Schedule 2.
+
+##### Functions of the Democracy and Boundary Commission Cymru
+
+###### Democracy and Boundary Commission Cymru functions relating to remuneration
+
+57
+
+57.1
+
+The 2013 Act is amended as follows.
+
+57.2
+
+After section 69 insert—
+
+############ FUNCTIONS RELATING TO PAYMENTS AND PENSIONS
+
+############# Remuneration of authority members
+
+############## Function relating to payments to members
+
+57.2.69A
+
+57.2.69A.1
+
+For the financial year beginning 1 April 2025 and for each following financial
+year, the Commission must decide the relevant matters for which a relevant
+authority—
+
+57.2.69A.1.a
+
+is required to make payments to members of the authority;
+
+57.2.69A.1.b
+
+is authorised to make payments to members of the authority.
+
+57.2.69A.2
+
+In this Part relevant matters are—
+
+57.2.69A.2.a
+
+matters relating to the official business of members of relevant authorities;
+
+57.2.69A.2.b
+
+periods of family absence under Part 2 of the 2011 Measure.
+
+57.2.69A.3
+
+When making a decision under subsection (1) the Commission must set for each
+relevant matter one of the following—
+
+57.2.69A.3.a
+
+the amount that a relevant authority must pay to a member of the authority;
+
+57.2.69A.3.b
+
+the maximum amount that a relevant authority may pay to a member of the
+authority.
+
+57.2.69A.4
+
+The Commission may decide that payments in respect of a relevant matter or
+matters may not be paid to more than a fixed proportion or specified number of
+the members of a relevant authority.
+
+57.2.69A.5
+
+The proportion fixed by the Commission under subsection (4) may not exceed 50%
+unless the Welsh Ministers give their consent.
+
+57.2.69A.6
+
+The number specified by the Commission under subsection (4), expressed as a
+proportion of the total number of members of a relevant authority, may not
+exceed 50% unless the Welsh Ministers give their consent.
+
+57.2.69A.7
+
+The Commission may set—
+
+57.2.69A.7.a
+
+the maximum percentage or other rate by which a relevant authority may adjust
+for a financial year the amounts that had effect in respect of relevant
+matters for the financial year preceding that year;
+
+57.2.69A.7.b
+
+an index by reference to which a relevant authority may adjust for a financial
+year the amounts that had effect in respect of such of the relevant matters
+for the previous year as the Commission decides.
+
+57.2.69A.8
+
+The powers under subsection (7) may be exercised to—
+
+57.2.69A.8.a
+
+set a rate and an index in relation to the same matter;
+
+57.2.69A.8.b
+
+set different rates or indices in relation to different matters.
+
+57.2.69A.9
+
+When setting an amount under subsection (3), making a determination under
+subsection (4) or setting a rate or index under subsection (7), the Commission
+must take into account what it considers will be the likely financial impact
+of doing so on relevant authorities.
+
+57.2.69A.10
+
+The Commission may make different decisions under subsection (1), set
+different amounts under subsection (3), make different determinations under
+subsection (4), or set different rates or indices under subsection (7), in
+relation to relevant authorities of different descriptions or different
+relevant authorities of the same description.
+
+57.2.69A.11
+
+For the purposes of subsection (2) a matter relates to the official business
+of a member of a relevant authority if it is a matter which a member
+undertakes—
+
+57.2.69A.11.a
+
+as a member of a relevant authority, or
+
+57.2.69A.11.b
+
+as a member of a body to which the member is appointed by, or following
+nomination by, the relevant authority or a group of bodies including the
+relevant authority.
+
+57.2.69A.12
+
+In this section and in section 69E “ financial year ” means a period of 12
+months ending with 31 March.
+
+############## Functions relating to members’ pensions
+
+57.2.69B
+
+57.2.69B.1
+
+This section applies in relation to members of relevant authorities who—
+
+57.2.69B.1.a
+
+are not co-opted members, and
+
+57.2.69B.1.b
+
+are for the time being eligible for membership of a pension scheme in
+accordance with regulations under section 7 of the Superannuation Act  1972
+(c. 11)  (local government pension schemes).
+
+57.2.69B.2
+
+The Commission must decide the descriptions of members in respect of whom a
+relevant authority is required to pay a pension (a “relevant pension”).
+
+57.2.69B.3
+
+The Commission must decide the relevant matters in respect of which a relevant
+authority is required to pay a relevant pension.
+
+57.2.69B.4
+
+The Commission may make different decisions in relation to relevant
+authorities of different descriptions or different relevant authorities of the
+same description.
+
+############## Relevant authorities, members etc.
+
+57.2.69C
+
+57.2.69C.1
+
+This section applies for the purposes of this Part.
+
+57.2.69C.2
+
+An authority is a relevant authority if it is—
+
+57.2.69C.2.a
+
+a local authority;
+
+57.2.69C.2.b
+
+a National Park authority for a National Park in Wales;
+
+57.2.69C.2.c
+
+a Welsh fire and rescue authority, that is an authority in Wales constituted
+by a scheme under section 2 of the Fire and Rescue Services Act  2004 (c. 21)
+or a scheme to which section 4 of that Act applies;
+
+57.2.69C.2.d
+
+a corporate joint committee;
+
+57.2.69C.2.e
+
+a body specified as a relevant authority in regulations made by the Welsh
+Ministers .
+
+57.2.69C.3
+
+A reference to a description of a relevant authority is to be read with
+subsection (2).
+
+57.2.69C.4
+
+“ Member ”, in relation to a relevant authority, includes—
+
+57.2.69C.4.a
+
+an elected mayor of the authority (within the meaning of section 39(1) of the
+Local Government Act 2000),
+
+57.2.69C.4.b
+
+an elected executive member of the authority (within the meaning of section
+39(4) of that Act),
+
+57.2.69C.4.c
+
+a co-opted member of the authority, and
+
+57.2.69C.4.d
+
+a person who is a member of a sub-committee of a corporate joint committee and
+is entitled to vote on any question to be decided by that sub-committee.
+
+57.2.69C.5
+
+“ Co-opted member ”, in relation to a relevant authority other than a
+corporate joint committee, means a person who is not a member of the authority
+(except by virtue of subsection (4)) but—
+
+57.2.69C.5.a
+
+is a member of a committee or sub-committee of the authority or is a member
+of, and represents the authority on, a joint committee or joint sub-committee
+of the authority, and
+
+57.2.69C.5.b
+
+is entitled to vote on questions for decision at meetings of that committee or
+sub-committee.
+
+57.2.69C.6
+
+A body may only be specified as a relevant authority in regulations under
+subsection (2)(e) if—
+
+57.2.69C.6.a
+
+the Welsh Ministers exercise functions in respect of it,
+
+57.2.69C.6.b
+
+it exercises a function conferred by a Measure or Act of Senedd Cymru, or a
+function that could be conferred by an Act of Senedd Cymru (including a
+function that could be conferred only with the consent of a Minister of the
+Crown), and
+
+57.2.69C.6.c
+
+its membership includes at least one member of an authority described in
+subsection (2)(a) to (d).
+
+57.2.69C.7
+
+Sections 69A(4), 69B, 69E(4)(d) and 69O do not apply in relation to a relevant
+authority described in subsection (2)(d) or (e).
+
+57.2.69C.8
+
+In this section “ corporate joint committee ” means a committee established by
+regulations under Part 5 of the  Local Government and Elections (Wales) Act
+2021 (asc 1) .
+
+############## Functions relating to resettlement payments
+
+57.2.69D
+
+57.2.69D.1
+
+A resettlement payment is a payment to a person who—
+
+57.2.69D.1.a
+
+ceases to be a member of a local authority at the end of their term of office,
+
+57.2.69D.1.b
+
+when in office was a member of a local authority of a description specified in
+regulations made by the Welsh Ministers,
+
+57.2.69D.1.c
+
+stands for re-election for membership of the same authority in the ordinary
+election of the local authority for the term following the term of office, and
+
+57.2.69D.1.d
+
+is not returned as a member at that election.
+
+57.2.69D.2
+
+The Commission must decide—
+
+57.2.69D.2.a
+
+the circumstances in which a local authority is required to make a
+resettlement payment;
+
+57.2.69D.2.b
+
+the circumstances in which a local authority is authorised to make a
+resettlement payment;
+
+57.2.69D.2.c
+
+the matters in respect of which a resettlement payment is payable.
+
+57.2.69D.3
+
+When making a decision under subsection (2) the Commission must set—
+
+57.2.69D.3.a
+
+the qualifying conditions for payment;
+
+57.2.69D.3.b
+
+the amount a local authority is required to pay;
+
+57.2.69D.3.c
+
+the maximum amount a local authority may pay to a member;
+
+57.2.69D.3.d
+
+a mechanism by which the amount of payments set under paragraph (b) or (c) may
+be increased or decreased;
+
+57.2.69D.3.e
+
+requirements on how payments are to be made (and their frequency).
+
+57.2.69D.4
+
+The Commission must make arrangements to review any decision it makes under
+subsection (2) and, if it thinks appropriate, may revise its decision.
+
+57.2.69D.5
+
+When making a decision under this section the Commission must take into
+account the likely financial impact of its decision on local authorities.
+
+57.2.69D.6
+
+When making a decision under subsection (2) the Commission may make different
+provision in relation to local authority members of different descriptions or
+different members of the same description.
+
+57.2.69D.7
+
+The Commission must make a decision under subsection (2) before each ordinary
+election of the local authority, beginning with the election that is to be
+held in May 2027 and must review the decision before each subsequent ordinary
+election.
+
+57.2.69D.8
+
+Subsection (7) applies only if the Welsh Ministers make regulations under
+subsection (1)(b).
+
+############## Annual remuneration reports in relation to members of relevant authorities
+
+57.2.69E
+
+57.2.69E.1
+
+The Commission must prepare and publish a report (an “annual remuneration
+report”) about the exercise of its functions under this Part in respect of
+each financial year.
+
+57.2.69E.2
+
+An annual remuneration report must set out the requirements imposed on
+relevant authorities by the Commission under sections 69A, 69B and 69D.
+
+57.2.69E.3
+
+An annual remuneration report must be published no later than—
+
+57.2.69E.3.a
+
+28 February in the financial year before the financial year to which the
+report relates, or
+
+57.2.69E.3.b
+
+such later date as the Commission and the Welsh Ministers may agree.
+
+57.2.69E.4
+
+An annual remuneration report must set out—
+
+57.2.69E.4.a
+
+the relevant matters,
+
+57.2.69E.4.b
+
+the amounts set under section 69A(3),
+
+57.2.69E.4.c
+
+the proportion or number determined under section 69A(4),
+
+57.2.69E.4.d
+
+the members or descriptions of members of relevant authorities to or in
+respect of whom relevant authorities will be required to pay a relevant
+pension,
+
+57.2.69E.4.e
+
+the relevant matters in respect of which a relevant pension is payable,
+
+57.2.69E.4.f
+
+any percentage, rate or index set under section 69A(7) and the relevant matter
+to which it relates, and
+
+57.2.69E.4.g
+
+any decision about resettlement payments under section 69D.
+
+############## Supplementary remuneration reports
+
+57.2.69F
+
+57.2.69F.1
+
+After publishing an annual remuneration report but before publishing the next
+report, the Commission may prepare and publish one or more supplementary
+remuneration reports to the annual remuneration report (“a supplementary
+remuneration report”).
+
+57.2.69F.2
+
+The supplementary remuneration report may—
+
+57.2.69F.2.a
+
+vary the provision made in the annual remuneration report under section
+69E(4);
+
+57.2.69F.2.b
+
+make any provision that the annual remuneration report could have made under
+section 69E(4).
+
+############## Further provision about annual remuneration reports and supplementary remuneration reports
+
+57.2.69G
+
+57.2.69G.1
+
+Before publishing an annual remuneration report or a supplementary
+remuneration report under section 69E or 69F, the Commission must—
+
+57.2.69G.1.a
+
+send a draft of the report it proposes to make to—
+
+57.2.69G.1.a.i
+
+the Welsh Ministers,
+
+57.2.69G.1.a.ii
+
+the relevant authorities that are required or authorised by the Commission to
+make payment to their members in respect of relevant matters, and
+
+57.2.69G.1.a.iii
+
+such other persons as the Commission considers appropriate,
+
+57.2.69G.1.b
+
+publish the draft report as soon as practicable after sending it.
+
+57.2.69G.2
+
+When preparing an annual remuneration report or a supplementary remuneration
+report under section 69E or 69F, the Commission must take into account—
+
+57.2.69G.2.a
+
+the last annual remuneration report and any supplementary remuneration reports
+relating to the last annual remuneration report;
+
+57.2.69G.2.b
+
+representations received about the reports referred to in paragraph (a) and
+the draft reports referred to in subsection (1).
+
+57.2.69G.3
+
+The provisions of an annual or supplementary remuneration report under section
+69E or 69F have effect on the date specified for that purpose in the report.
+
+57.2.69G.4
+
+But where a supplementary remuneration report contains provision made under
+section 69F(2) varying a provision made under section 69E(4)(a), (b) or (c),
+the supplementary remuneration report may specify that the provision is to be
+treated as having effect up to 3 months earlier than the date of publication
+of the supplementary remuneration report.
+
+############## Directions to reconsider draft reports
+
+57.2.69H
+
+57.2.69H.1
+
+The Welsh Ministers may direct the Commission to reconsider a provision of a
+draft annual or draft supplementary remuneration report.
+
+57.2.69H.2
+
+A direction under this section must specify—
+
+57.2.69H.2.a
+
+the provision,
+
+57.2.69H.2.b
+
+the reason for giving the direction, and
+
+57.2.69H.2.c
+
+the date by which the Welsh Ministers require the Commission to respond.
+
+57.2.69H.3
+
+The Commission—
+
+57.2.69H.3.a
+
+must respond to the direction no later than the date specified in the
+direction;
+
+57.2.69H.3.b
+
+must not publish the report before responding to the direction.
+
+57.2.69H.4
+
+If the Commission decides not to vary the draft report in response to the
+direction, it must specify in its response the reason for its decision.
+
+############## Commission’s publication and notification duties in relation to reports
+
+57.2.69I
+
+57.2.69I.1
+
+The Commission must not publish an annual remuneration report under section
+69E before the end of the period of 12 weeks beginning with the day on which
+it sends a draft of the report under section 69G(1)(a)(i).
+
+57.2.69I.2
+
+The Commission must not publish a supplementary remuneration report—
+
+57.2.69I.2.a
+
+before the end of the period of 8 weeks beginning with the day on which it
+sends a draft of the report in accordance with section 69G(1)(a)(i), or
+
+57.2.69I.2.b
+
+later than the end of the period of 12 weeks beginning with the day on which
+it sends a draft of the report in accordance with section 69G(1)(a)(i).
+
+57.2.69I.3
+
+Subsections (1) and (2) are subject to section 69H(3)(b) (publishing of report
+permitted only if Commission has responded to direction).
+
+57.2.69I.4
+
+The Commission must publish each annual remuneration report, supplementary
+remuneration report, and draft report prepared under this Part on its website,
+and in any other way the Commission considers appropriate.
+
+57.2.69I.5
+
+Copies of anything published under subsection (4) may be supplied free of
+charge or on payment of such fee, not exceeding the cost of supplying the
+copy, as the Commission may determine.
+
+57.2.69I.6
+
+As soon as reasonably practicable after publishing an annual remuneration
+report or supplementary remuneration report, the Commission must notify the
+persons it considers likely to be affected by it of how they can access the
+report or obtain a copy of it.
+
+############## Administrative requirements for relevant authorities in reports
+
+57.2.69J
+
+57.2.69J.1
+
+An annual remuneration report may include the Commission’s requirements for—
+
+57.2.69J.1.a
+
+avoiding duplication of—
+
+57.2.69J.1.a.i
+
+payments in respect of relevant matters, and
+
+57.2.69J.1.a.ii
+
+requests for payment in respect of the same relevant matters under section
+69A(2)(a);
+
+57.2.69J.1.b
+
+keeping records of—
+
+57.2.69J.1.b.i
+
+requests for payments in respect of relevant matters;
+
+57.2.69J.1.b.ii
+
+payments made in respect of relevant matters;
+
+57.2.69J.1.b.iii
+
+payments made in respect of relevant pensions;
+
+57.2.69J.1.b.iv
+
+resettlement payments made under section 69D.
+
+57.2.69J.2
+
+An annual remuneration report must set out the Commission’s requirements in
+relation to how a relevant authority determines which relevant authority is
+required to make a payment in a case where a member of a relevant authority
+does something—
+
+57.2.69J.2.a
+
+for which a payment in respect of a relevant matter must be made, and
+
+57.2.69J.2.b
+
+which relates to another relevant authority (as well as the authority to which
+the member belongs).
+
+############## Publishing requirements for relevant authorities in reports
+
+57.2.69K
+
+57.2.69K.1
+
+An annual remuneration report may set out the Commission’s requirements for
+relevant authorities to publish information about—
+
+57.2.69K.1.a
+
+payments made in respect of relevant matters;
+
+57.2.69K.1.b
+
+payments made in respect of relevant pensions;
+
+57.2.69K.1.c
+
+resettlement payments made under section 69D;
+
+57.2.69K.1.d
+
+other payments made to members of relevant authorities from other public
+bodies.
+
+57.2.69K.2
+
+For the purposes of sub-paragraph (1)(d), a “public body” is—
+
+57.2.69K.2.a
+
+a local health board;
+
+57.2.69K.2.b
+
+a police and crime panel;
+
+57.2.69K.2.c
+
+a relevant authority;
+
+57.2.69K.2.d
+
+a body designated as a public body in regulations made by the Welsh Ministers.
+
+57.2.69K.3
+
+The Commission may require different publishing arrangements to be made by
+authorities of different descriptions or different authorities of the same
+description.
+
+############## Monitoring compliance with Commission’s requirements
+
+57.2.69L
+
+57.2.69L.1
+
+A relevant authority must comply with any requirement set out in an annual
+remuneration report or supplementary remuneration report.
+
+57.2.69L.2
+
+The Commission may monitor the making of payments by relevant authorities in
+respect of relevant matters; and may require a relevant authority to provide
+it with information about—
+
+57.2.69L.2.a
+
+the matters which are relevant matters in relation to the authority;
+
+57.2.69L.2.b
+
+requests to the authority for payments in respect of relevant matters;
+
+57.2.69L.2.c
+
+payments made by the authority in respect of relevant matters.
+
+57.2.69L.3
+
+The Commission may monitor the making of payments by relevant authorities in
+respect of relevant pensions and may require a relevant authority to provide
+it with information about—
+
+57.2.69L.3.a
+
+the members of the authority to or in respect of whom the authority is
+required to pay relevant pensions;
+
+57.2.69L.3.b
+
+payments made by the authority in respect of relevant pensions.
+
+57.2.69L.4
+
+The Commission may monitor the making of resettlement payments by local
+authorities and may require a local authority to provide it with information
+about—
+
+57.2.69L.4.a
+
+the former members of the local authority to or in respect of whom the
+authority is required to pay a resettlement payment;
+
+57.2.69L.4.b
+
+resettlement payments made by the local authority.
+
+############## Directions to enforce compliance with Commission’s requirements
+
+57.2.69M
+
+57.2.69M.1
+
+If the Welsh Ministers are satisfied that a relevant authority has failed to
+comply with a requirement in an annual or supplementary remuneration report
+made under this Part, they may direct the authority to comply with the
+requirement.
+
+57.2.69M.2
+
+A direction under this section must specify—
+
+57.2.69M.2.a
+
+the requirement;
+
+57.2.69M.2.b
+
+the reason for giving the direction;
+
+57.2.69M.2.c
+
+the steps that the Welsh Ministers require the authority to take;
+
+57.2.69M.2.d
+
+the date by which the Welsh Ministers require the authority to take the steps.
+
+############## Members wishing to forgo payments
+
+57.2.69N
+
+57.2.69N.1
+
+This section applies if a person elects, by notice in writing given to the
+proper officer of the authority, to forgo (either completely or to the extent
+specified in the notice) entitlement to payments in respect of the relevant
+matters, or resettlement payment, specified in the notice.
+
+57.2.69N.2
+
+The requirement imposed on the authority by section 69A and 69D to make
+payments specified in the notice does not apply in the case of that member (or
+does not apply to the extent specified in the notice).
+
+57.2.69N.3
+
+In this section “ proper officer ” has the meaning given in section 270(3) of
+the 1972 Act.
+
+############## Withholding payments
+
+57.2.69O
+
+57.2.69O.1
+
+A relevant authority must not make payments in respect of relevant matters or
+a relevant pension to a person who is—
+
+57.2.69O.1.a
+
+suspended or partially suspended from being a member of the authority by
+virtue of Part 3 of the Local Government Act  2000 (c. 22)  (conduct of local
+government members etc.);
+
+57.2.69O.1.b
+
+prevented from acting in the office of a member of a local authority in Wales
+under section 80A(6) of the 1972 Act (disqualification).
+
+57.2.69O.2
+
+A local authority must not make a resettlement payment to a person who is
+prevented from acting in the office of a member of a local authority in Wales
+under section 80A(6) of the 1972 Act.
+
+57.2.69O.3
+
+The Welsh Ministers may, in cases they consider appropriate, direct a relevant
+authority not to—
+
+57.2.69O.3.a
+
+make payments (including in respect of pensions) in respect of the relevant
+matters specified in the direction;
+
+57.2.69O.3.b
+
+make a resettlement payment.
+
+57.2.69O.4
+
+Before giving a direction under subsection (3), the Welsh Ministers must
+consult the Commission.
+
+57.2.69O.5
+
+A relevant authority may require a person to repay payments made in respect of
+relevant matters or a relevant pension to a person in respect of a period
+during which the person was not entitled to receive the payment for any
+reason, including (but not limited to) the following reasons—
+
+57.2.69O.5.a
+
+the payments were made in breach of subsection (1);
+
+57.2.69O.5.b
+
+the payments were made in breach of a direction under subsection (3)(a);
+
+57.2.69O.5.c
+
+the person had ceased to be a member of the authority.
+
+57.2.69O.6
+
+A local authority may require a person to repay a resettlement payment made
+under section 69D where the person was not entitled to receive the payment for
+any reason, including (but not limited to) the following reasons—
+
+57.2.69O.6.a
+
+the payment was made in breach of subsection (2);
+
+57.2.69O.6.b
+
+the payment was made in breach of a direction under subsection (3)(b).
+
+############## Guidance
+
+57.2.69P
+
+57.2.69P.1
+
+The Commission may issue guidance to relevant authorities about how to comply
+with requirements imposed under this Part.
+
+57.2.69P.2
+
+The Welsh Ministers may issue guidance to the Commission about the
+Commission’s functions under this Part.
+
+57.2.69P.3
+
+The powers of the Commission and the Welsh Ministers to issue guidance under
+subsections (1) and (2) includes the power to vary or revoke guidance given.
+
+57.2.69P.4
+
+A relevant authority, or the Commission as the case may be, must have regard
+to guidance given under this section.
+
+############## Directions under this Part
+
+57.2.69Q
+
+57.2.69Q.1
+
+A direction given under section 69M and 69O is enforceable by mandatory order
+on the application of the Welsh Ministers.
+
+57.2.69Q.2
+
+The power to give directions under this Part does not limit the general power
+of direction under section 14.
+
+############## Power to modify provision
+
+57.2.69R
+
+The Welsh Ministers may by regulations make modifications of this Part so as
+to add, vary or omit provision conferring or imposing a function on the
+Commission.
+
+###### Transfer of property, rights and liabilities
+
+58
+
+All property, rights and liabilities vested in the Independent Remuneration
+Panel for Wales immediately before its abolition by section 56 are transferred
+to the Democracy and Boundary Commission Cymru.
+
+###### Minor and consequential amendments
+
+59
+
+Part 4 of Schedule 1 makes minor and consequential amendments relating to this
+Chapter.
+
+###### Savings
+
+60
+
+The effect of the provisions repealed by section 56 is saved for the purposes
+of the financial year beginning 1 April 2025, except that every reference to
+the Independent Remuneration Panel for Wales (however expressed) is to be
+interpreted as a reference to the Democracy and Boundary Commission Cymru.
+
+#### DISQUALIFICATION, UNDUE INFLUENCE AND POLITICAL RESTRICTION OF OFFICES
+
+##### Disqualification
+
+###### Disqualification from being a Member of the Senedd and a community councillor
+
+61
+
+61.1
+
+The Government of Wales Act  2006 (c. 32)  is amended as follows.
+
+61.2
+
+In section 16 (disqualification from being a Member of the Senedd) in
+subsection (1)—
+
+61.2.a
+
+in paragraph (za), omit “and 17B”;
+
+61.2.b
+
+for paragraph (zc), substitute—
+
+61.2.b.zc
+
+is a member of the council of a county, a county borough or a community in
+Wales (but see section 17D),
+
+.
+
+61.3
+
+Omit section 17B.
+
+61.4
+
+In section 17D (exception from disqualification by virtue of being a
+councillor)—
+
+61.4.a
+
+in subsection (1), after “borough” insert  “or community council” ;
+
+61.4.b
+
+in subsection (2), after “borough” insert  “or community council” .
+
+61.5
+
+Omit section 17E.
+
+61.6
+
+Omit section 17F.
+
+61.7
+
+The amendments made by this section have effect for the purposes of an
+election for membership of the Senedd at which a poll is held on or after 6
+April 2026.
+
+###### Disqualification for corrupt or illegal practice: local government elections
+
+62
+
+In section 80A(1) of the Local Government Act  1972 (c. 70)  (disqualification
+for election or being a member of a local authority in Wales), after paragraph
+(b) insert—
+
+62.ba
+
+the person is incapable of being elected to or holding elective office in a
+district council in Northern Ireland under Part 10 of the Electoral Law Act
+(Northern Ireland)  1962 (c. 14)  (corrupt or illegal practices);
+
+.
+
+###### Disqualification for corrupt or illegal practice: Senedd Cymru elections
+
+63
+
+In Schedule 1A to the Government of Wales Act  2006 (c. 32)  (disqualification
+from being a Member of the Senedd or a candidate in an election to be a Member
+of the Senedd), after paragraph 5 insert—
+
+63.5A
+
+A person who is incapable of being elected to or holding elective office in a
+district council in Northern Ireland under Part 10 of the Electoral Law Act
+(Northern Ireland)  1962 (c. 14)  having been reported guilty or convicted of
+a corrupt or illegal practice.
+
+‍
+
+##### ‍Undue influence
+
+###### Undue influence
+
+64
+
+64.1
+
+The 1983 Act is amended as follows.
+
+64.2
+
+In section 114A (undue influence offence inserted by section 8 of the
+Elections Act 2022), omit “or Wales”.
+
+64.3
+
+In section 115 (undue influence offence: local government elections in
+Scotland and Wales)—
+
+64.3.a
+
+in subsection (1), omit “or Wales”;
+
+64.3.b
+
+in subsection (2), omit “or Wales”;
+
+64.3.c
+
+in the heading, omit “and Wales”.
+
+##### Political restriction of offices
+
+###### Political restriction of officers and staff
+
+65
+
+65.1
+
+The Local Government and Housing Act  1989 (c. 42)  is amended as follows.
+
+65.2
+
+In section 1 (disqualification and political restriction of certain officers
+and staff)—
+
+65.2.a
+
+in subsection (1A)—
+
+65.2.a.i
+
+after “member of any local authority in Wales” insert  “(including an elected
+mayor)” ;
+
+65.2.a.ii
+
+in paragraph (b), after “under a” insert  “community council or” ;
+
+65.2.b
+
+in subsection (1B), after “any corporate joint committee” insert  “, community
+council” ;
+
+65.2.c
+
+after subsection (1B) insert—
+
+65.2.c.1C
+
+A person shall be disqualified from becoming or remaining a member of a
+community council if that person holds a politically restricted post under any
+community council, corporate joint committee or local authority in Great
+Britain.
+
+;
+
+65.2.d
+
+after subsection (12) insert—
+
+65.2.d.13
+
+Subsections (5) and (6) of this section apply to a community council as they
+apply to a local authority in Wales.
+
+.
+
+65.3
+
+In section 2 (politically restricted posts)—
+
+65.3.a
+
+after subsection (1B) insert—
+
+65.3.a.1C
+
+For the purposes of this Part the following persons are to be regarded as
+holding politically restricted posts under a community council—
+
+65.3.a.1C.a
+
+a paid officer having responsibility, for the purposes of section 151 of the
+Local Government Act 1972, for the administration of the financial affairs of
+the community council;
+
+65.3.a.1C.b
+
+a person holding a paid post that is for the time being specified by the
+community council in the list maintained in accordance with subsection (2) and
+any directions under section 3.
+
+;
+
+65.3.b
+
+after subsection (10C) insert—
+
+65.3.b.10D
+
+This section, other than subsection (1), applies in relation to a community
+council as it applies in relation to a local authority in Wales.
+
+65.3.b.10E
+
+In the application of subsection (4) to a community council, the reference to
+the coming into force of this section has effect as if it were a reference to
+6 May 2027.
+
+.
+
+65.4
+
+In section 3(9) (grant and supervision of exemptions from political
+restriction), after “corporate joint committee” insert  “and a community
+council” .
+
+65.5
+
+In section 10(2) (limit on paid leave for local authority duties), in the
+definition of “local authority”, after “corporate joint committee” insert
+“and a community council” .
+
+65.6
+
+In section 12(2) (conflict of interest in staff negotiations), in the
+definition of “local authority”, after “corporate joint committee” insert
+“and a community council” .
+
+#### DEMOCRACY AND BOUNDARY COMMISSION CYMRU
+
+##### Democracy and Boundary Commission Cymru: persons who may not be members etc.
+
+66
+
+66.1
+
+The 2013 Act is amended as follows.
+
+66.2
+
+In section 4(3) (persons who may not be commissioners)—
+
+66.2.a
+
+in paragraph (c), after “member” insert  “or member of staff” ;
+
+66.2.b
+
+omit paragraph (d);
+
+66.2.c
+
+in paragraph (e), after “member” insert  “or member of staff” ;
+
+66.2.d
+
+after paragraph (e) insert—
+
+66.2.d.ea
+
+a member or member of staff of a corporate joint committee established by
+regulations made under Part 5 of the  Local Government and Elections (Wales)
+Act 2021 (asc 1) ;
+
+66.2.d.eb
+
+a member or member of staff of a fire and rescue authority constituted by a
+scheme under section 2 of the Fire and Rescue Services Act  2004 (c. 21) , or
+a scheme to which section 4 of that Act applies;
+
+.
+
+66.3
+
+In section 8(4) (persons who may not be chief executive)—
+
+66.3.a
+
+in paragraph (c), after “member” insert  “or member of staff” ;
+
+66.3.b
+
+omit paragraph (d);
+
+66.3.c
+
+in paragraph (e), after “member” insert  “or member of staff” ;
+
+66.3.d
+
+after paragraph (e) insert—
+
+66.3.d.ea
+
+a member or member of staff of a corporate joint committee established by
+regulations made under Part 5 of the  Local Government and Elections (Wales)
+Act 2021 (asc 1) ;
+
+66.3.d.eb
+
+a member or member of staff of a fire and rescue authority constituted by a
+scheme under section 2 of the Fire and Rescue Services Act  2004 (c. 21) , or
+a scheme to which section 4 of that Act applies;
+
+.
+
+66.4
+
+In section 11(2) (persons who may not be assistant commissioners)—
+
+66.4.a
+
+in paragraph (c), after “member” insert  “or member of staff” ;
+
+66.4.b
+
+omit paragraph (d);
+
+66.4.c
+
+in paragraph (e), after “member” insert  “or member of staff” ;
+
+66.4.d
+
+after paragraph (e) insert—
+
+66.4.d.ea
+
+a member or member of staff of a corporate joint committee established by
+regulations made under Part 5 of the  Local Government and Elections (Wales)
+Act 2021 (asc 1) ;
+
+66.4.d.eb
+
+a member or member of staff of a fire and rescue authority constituted by a
+scheme under section 2 of the Fire and Rescue Services Act  2004 (c. 21) , or
+a scheme to which section 4 of that Act applies;
+
+.
+
+##### Democracy and Boundary Commission Cymru: governance and audit committee
+
+67
+
+67.1
+
+The 2013 Act is amended as follows.
+
+67.2
+
+In the cross-heading before section 15 (funding), after “matters” insert  “and
+governance” .
+
+67.3
+
+In section 17 (audit committee)—
+
+67.3.a
+
+for the section heading, substitute  “Governance and audit committee” ;
+
+67.3.b
+
+in subsection (1)—
+
+67.3.b.i
+
+for “(an ”audit committee”)” substitute  “(a “governance and audit
+committee”)” ;
+
+67.3.b.ii
+
+after paragraph (b) insert—
+
+67.3.b.ii.ba
+
+review, assess and manage the Commission’s internal and external audit
+arrangements,
+
+67.3.b.ii.bb
+
+review and assess the Commission’s handling of complaints,
+
+67.3.b.ii.bc
+
+review—
+
+67.3.b.ii.bc.i
+
+statements of accounts and reports prepared by the Commission under sections
+19(1) and 20,
+
+67.3.b.ii.bc.ii
+
+reports prepared by the Auditor General for Wales under section 19(4),
+
+;
+
+67.3.b.iii
+
+in paragraph (d), after “(b)” insert  “, (ba), (bb), (bc)” ;
+
+67.3.c
+
+in subsection (2), for “audit” substitute  “governance and audit” ;
+
+67.3.d
+
+in subsection (3), for “audit” substitute  “governance and audit” ;
+
+67.3.e
+
+after subsection (2) insert—
+
+67.3.e.2A
+
+The Commission may confer on the governance and audit committee the functions
+the Commission considers suitable to be exercised by the committee.
+
+67.4
+
+In section 18 (audit committee: membership)—
+
+67.4.a
+
+for the section heading, substitute  “Governance and audit committee:
+membership and quorum” ;
+
+67.4.b
+
+for subsections (1) and (2) of the 2013 Act substitute—
+
+67.4.b.1
+
+The governance and audit committee is to consist of—
+
+67.4.b.1.a
+
+at least two members of the Commission;
+
+67.4.b.1.b
+
+at least two lay members;
+
+67.4.b.1.c
+
+no more than five members.
+
+67.4.b.2
+
+A lay member of the governance and audit committee must be appointed—
+
+67.4.b.2.a
+
+to chair the committee (the “chair”);
+
+67.4.b.2.b
+
+as deputy to the chair.
+
+67.4.b.2A
+
+A person may not be a member of the governance and audit committee if the
+person is a member of the Commission and is either the Commission’s chairing
+member or is acting as deputy to the Commission’s chairing member.
+
+67.4.b.2B
+
+The quorum for meetings of the governance and audit committee is three
+members, which must consist of at least one lay member.
+
+##### Democracy and Boundary Commission Cymru: power to charge
+
+68
+
+68.1
+
+The 2013 Act is amended as follows.
+
+68.2
+
+After section 11 (assistant commissioners) and the cross-heading that follows
+that section, insert—
+
+########### Power to charge
+
+68.2.11A
+
+68.2.11A.1
+
+The Commission may charge a person for the provision of goods or services
+mentioned in subsection (2) to recover the cost of the provision if the person
+has agreed to the goods or services being provided.
+
+68.2.11A.2
+
+The goods or services are—
+
+68.2.11A.2.a
+
+goods or training the Commission provides or secures in exercise of its
+functions under section 20A (electoral administration functions);
+
+68.2.11A.2.b
+
+training the Commission provides or secures for a principal council in
+connection with the council’s functions under Part 3.
+
+### GENERAL PROVISION
+
+#### Regulations: restrictions
+
+69
+
+69.1
+
+Regulations under this Act—
+
+69.1.a
+
+may not include provision that would require the consent of the appropriate
+Minister under paragraph 8(1)(a) or (c), 10 or 11 of Schedule 7B to the
+Government of Wales Act  2006 (c. 32)  if the provision were included in an
+Act of Senedd Cymru;
+
+69.1.b
+
+may not include provision that would require consultation of the appropriate
+Minister under paragraph 11(2) of Schedule 7B to that Act if the provision
+were included in an Act of Senedd Cymru.
+
+69.2
+
+In this section “ appropriate Minister ” has the meaning given by paragraph
+8(5) of Schedule 7B to the Government of Wales Act 2006.
+
+#### General interpretation
+
+70
+
+In this Act—
+
+      “1983 Act”(“ Deddf 1983 ”) means the Representation of the People Act
+1983 (c. 2) ;           ”2000 Act”(“ Deddf 2000 ”) means the Political
+Parties, Elections and Referendums Act  2000 (c. 41) ;           “2013 Act”(“
+Deddf 2013 ”) means the  Democracy and Boundary Commission Cymru etc. Act 2013
+(anaw 4) ;           “principal council”(“ prif gyngor ”) means the council of
+a county or county borough in Wales.
+
+#### Power to make consequential and transitional provision etc.
+
+71
+
+71.1
+
+If the Welsh Ministers consider it appropriate for the purposes of, in
+consequence of, or for giving full effect to any provision of this Act, they
+may by regulations make—
+
+71.1.a
+
+supplementary, incidental or consequential provision;
+
+71.1.b
+
+transitional or saving provision.
+
+71.2
+
+Regulations under subsection (1) may amend, modify, repeal or revoke any
+enactment (including an enactment contained in this Act).
+
+71.3
+
+The power to make regulations under this section is exercisable by statutory
+instrument.
+
+71.4
+
+If regulations under subsection (1) amend, repeal or otherwise modify a
+provision of an Act of Parliament or an Act or Measure of Senedd Cymru, the
+instrument containing the regulations may not be made unless a draft of the
+instrument has been laid before and approved by a resolution of Senedd Cymru.
+
+71.5
+
+A statutory instrument containing regulations under subsection (1) to which
+subsection (4) does not apply is subject to annulment in pursuance of a
+resolution of Senedd Cymru.
+
+#### Coming into force
+
+72
+
+72.1
+
+The following provisions of this Act come into force on the day after the day
+on which this Act receives Royal Assent—
+
+72.1.a
+
+Chapter 3 of Part 1 and Part 2 of Schedule 1 (Welsh elections piloting and
+reform);
+
+72.1.b
+
+section 61 (disqualification from being a Member of the Senedd and a community
+councillor), but that section has effect in accordance with section 61(7);
+
+72.1.c
+
+section 66 (Democracy and Boundary Commission Cymru: persons who may not be
+members etc.);
+
+72.1.d
+
+this Part.
+
+72.2
+
+The following provisions of this Act come into force at the end of the period
+of two months beginning with the day on which this Act receives Royal Assent—
+
+72.2.a
+
+Chapter 1 of Part 2 (arrangements for local government);
+
+72.2.b
+
+section 25 (survey of councillors and unsuccessful candidates in local
+elections);
+
+72.2.c
+
+section 30 (guidance for political parties to promote diversity in persons
+seeking elected office);
+
+72.2.d
+
+sections 62 and 63 (disqualification for corrupt or illegal practice).
+
+72.3
+
+Section 65 comes into force on 6 May 2027.
+
+72.4
+
+The other provisions of this Act come into force on a day appointed by the
+Welsh Ministers in an order made by statutory instrument, subject to
+subsection (5).
+
+72.5
+
+The provisions of Chapter2 of Part1(electoral registration without
+applications), except paragraphs (c) and (d) of section 4(9), may not come
+into force unless—
+
+72.5.a
+
+Welsh election pilot provision of the kind described in section 5(4) has been
+made in regulations under section 5(1),
+
+72.5.b
+
+a report on the operation of the regulations has been sent to the Welsh
+Ministers under section 17(5)(a),
+
+72.5.c
+
+the Welsh Ministers have laid the report before Senedd Cymru, and
+
+72.5.d
+
+the regulations in force under section 53 of the 1983 Act that apply to
+registers of local government electors for areas in Wales do not require
+registration officers to prepare edited registers of local government electors
+or supply such registers or part of them to any person on payment of a fee, so
+far as requirements of that kind in regulations under section 53 are
+prohibited by virtue of paragraphs 10(3) and 10B(4) of Schedule 2 to that Act
+(as inserted by section 4(9)(c) and (d) of this Act).
+
+72.6
+
+An order under subsection (4) may—
+
+72.6.a
+
+appoint different days for different purposes;
+
+72.6.b
+
+make transitory, transitional or saving provision in connection with the
+coming into force of a provision brought into force by the order.
+
+#### Short title
+
+73
+
+The short title of this Act is the Elections and Elected Bodies (Wales) Act
+2024.
+
+  MINOR AND CONSEQUENTIAL AMENDMENTS
+
+(introduced by sections 2, 22, 39 and 59)
+
+##### AMENDMENTS RELATING TO CO-ORDINATION OF ELECTORAL ARRANGEMENTS
+
+###### Democracy and Boundary Commission Cymru etc. Act 2013 (anaw 4)
+
+1
+
+1.1
+
+The 2013 Act is amended as follows—
+
+1.2
+
+In section 1 (overview), after subsection (2), insert—
+
+1.2.2A
+
+Part 2A confers electoral administration functions on the Commission and
+requires the functions to be exercised by a board established by the
+Commission called the Electoral Management Board.
+
+1.3
+
+In section 14 (directions)—
+
+1.3.a
+
+for subsection (1) substitute—
+
+1.3.a.1A
+
+The Welsh Ministers may give a direction to the Commission in relation to the
+exercise of the Commission’s functions under any enactment, except in relation
+to the exercise of functions under—
+
+1.3.a.1A.a
+
+Part 2A (co-ordination of electoral administration);
+
+1.3.a.1A.b
+
+Part 3A (functions relating to Senedd constituency boundary reviews).
+
+1.3.a.1B
+
+The Commission must comply with a direction given to it by the Welsh Ministers
+under this Act.
+
+1.3.a.1C
+
+The Welsh Ministers must publish each direction they give to the Commission or
+a principal council under this Act.
+
+;
+
+1.3.b
+
+omit subsection (3).
+
+1.4
+
+In section 71 (orders and regulations), in subsection (2)—
+
+1.4.a
+
+in paragraph (b), after “preserved county”, omit “or”;
+
+1.4.b
+
+after paragraph (b), insert—
+
+1.4.b.ba
+
+regulations under section 20E(3)(c),
+
+.
+
+1.5
+
+In section 72 (interpretation), for the definition of “enactment” substitute—
+
+      “ enactment ” means any of the following or a provision of any of the
+following—         an Act or Measure of Senedd Cymru;           an Act of the
+Parliament of the United Kingdom;           any subordinate legislation.
+
+1.6
+
+In Schedule 3 (index of defined expressions), in Table 2, at the appropriate
+places, insert the following entries—
+
+    1983 Act ( Deddf 1983 )  section 20I
+
+    Devolved referendums ( Refferenda datganoledig )  section 20I
+
+    Electoral registration officer ( Swyddog cofrestru etholiadol )  section
+20I
+
+    Local government elections ( Etholiadau llywodraeth leol )  section 20I
+
+    Reserved election ( Etholiad a gedwir yn ôl)   section 20I
+
+    Returning officer ( Swyddog canlyniadau )  section 20I
+
+    Welsh elections and referendums ( Etholiadau a refferenda Cymreig )
+section 20A(4)
+
+###### Senedd Cymru (Members and Elections) Act 2024 (asc 4)
+
+2
+
+In paragraph 2 of Schedule 2 to the Senedd Cymru (Members and Elections) Act
+2024 (new Part 3A of the 2013 Act), omit sub-paragraph (4).
+
+##### AMENDMENTS RELATING TO WELSH ELECTIONS PILOTING AND REFORM
+
+###### Representation of the People Act 
+
+3
+
+3.1
+
+The Representation of the People Act 2000 is amended as follows.
+
+3.2
+
+In section 10(11) (pilot schemes for local elections in England and Wales)—
+
+3.2.a
+
+in paragraph (a) for “as respects” substitute  “the following authorities in”
+;
+
+3.2.b
+
+omit paragraph (b).
+
+3.3
+
+In section 11 (revision of procedures in light of pilot schemes)—
+
+3.3.a
+
+in subsection (1), in paragraph (a), omit “and Wales”;
+
+3.3.b
+
+in subsection (2), in paragraph (b), omit “and Wales”;
+
+3.3.c
+
+omit subsection (6A).
+
+###### Electoral Administration Act 
+
+4
+
+4.1
+
+The Electoral Administration Act 2006 is amended as follows.
+
+4.2
+
+In section 32(9) (photographs on ballot papers: piloting), omit paragraph (b).
+
+4.3
+
+In section 34(1)(b) (revision of electoral provisions in the light of pilot
+schemes), omit “and Wales”.
+
+###### Electoral Registration and Administration Act 
+
+5
+
+5.1
+
+The Electoral Registration and Administration Act 2013 is amended as follows.
+
+5.2
+
+In section 7 (power to amend or abolish the annual canvass), after subsection
+(2) insert—
+
+5.2.2A
+
+But the power in subsection (2) does not include the power to modify any
+provision or abolish the duty in section 9D so far as the provision or duty
+applies in relation to a register of local government electors maintained by a
+registration officer in Wales.
+
+5.3
+
+In section 10 (piloting registration provisions), after subsection (1) insert—
+
+5.3.1A
+
+But an order under subsection (1) may not make provision for the purpose of
+testing how the changes made by any registration provision work in relation to
+a register of local government electors maintained by a registration officer
+in Wales.
+
+5.4
+
+In section 12 (interpretation of Part 1), in the definition of “register”,
+after “Great Britain” insert  “other than a register of local government
+electors maintained by a registration officer in Wales” .
+
+##### AMENDMENTS RELATING TO CAMPAIGN FINANCE
+
+###### Political Parties, Elections and Referendums Act 
+
+6
+
+6.1
+
+The 2000 Act is amended as follows.
+
+6.2
+
+In section 5 (reports on elections, referendums etc.)—
+
+6.2.a
+
+in subsection (2)(d), for “National Assembly for Wales” substitute  “Senedd
+Cymru” ;
+
+6.2.b
+
+in subsection (2A)(c) for “the National Assembly for Wales” substitute
+“Senedd Cymru” .
+
+6.3
+
+In section 7(2)(f) (Commission to be consulted on changes to electoral law),
+for “the National Assembly for Wales” substitute  “Senedd Cymru” .
+
+6.4
+
+In section 8(3)(b) (powers with respect to elections exercisable only on
+Commission recommendation), for “the National Assembly for Wales” substitute
+“Senedd Cymru” .
+
+6.5
+
+In section 10(6) (giving of advice and assistance)—
+
+6.5.a
+
+in paragraph (c), for “the National Assembly for Wales” substitute  “Senedd
+Cymru” ;
+
+6.5.b
+
+in paragraph (ca), for “National Assembly for Wales” substitute  “Senedd” .
+
+6.6
+
+In section 22(5)(d) (parties to be registered in order to field candidates at
+elections), for “the National Assembly for Wales” substitute  “Senedd Cymru” .
+
+6.7
+
+In section 67(2)(b)(iii) (weekly donation reports in connection with elections
+other than general elections), for “the National Assembly for Wales”
+substitute  “Senedd Cymru” .
+
+6.8
+
+In section 160(4)(c) (general interpretation) for “National Assembly for
+Wales” substitute “Senedd “.
+
+6.9
+
+In Schedule 7 (control of donations to individuals and members associations),
+in paragraph 1(8)(d) for “National Assembly for Wales” substitute  “Senedd” .
+
+6.10
+
+In Schedule 9 (limits on campaign expenditure)—
+
+6.10.a
+
+in paragraph 1(1), in paragraphs (c) and (ca), for “the National Assembly for
+Wales” substitute  “Senedd Cymru” ;
+
+6.10.b
+
+in the italic heading before paragraph 6, for “the National Assembly for
+Wales” substitute  “Senedd Cymru” ;
+
+6.10.c
+
+in paragraph 6(1), for “the National Assembly for Wales” substitute  “Senedd
+Cymru” ;
+
+6.10.d
+
+in paragraph 6(5), for “Secretary of State” substitute  “Presiding Officer” .
+
+6.11
+
+In Schedule 10 (limits on controlled expenditure)—
+
+6.11.a
+
+in paragraph 1(1), in paragraphs (c) and (ca), for “the National Assembly for
+Wales” substitute  “Senedd Cymru” ;
+
+6.11.b
+
+in the italic heading before paragraph 6, for “the National Assembly for
+Wales” substitute  “Senedd Cymru” ;
+
+6.11.c
+
+in paragraph 6(1), for “the National Assembly for Wales” substitute  “Senedd
+Cymru” ;
+
+6.11.d
+
+in paragraph 6(5), for “Secretary of State” substitute  “Presiding Officer” .
+
+##### AMENDMENTS RELATING TO REMUNERATION OF PUBLIC AUTHORITY MEMBERS
+
+###### Local Government Act 
+
+7
+
+7.1
+
+The Local Government Act 1972 is amended as follows.
+
+7.2
+
+In section 112(2A) (appointment of staff), omit “and in relation to a local
+authority in Wales, section 143A of the Local Government (Wales) Measure 2011
+(functions of the Independent Remuneration Panel in relation to remuneration
+of chief executives)”.
+
+7.3
+
+In section 246(16) (allowances to charter trustees), for “Part 8 of the Local
+Government (Democracy) Wales Measure 2011” substitute  “Part 5A of the
+Democracy and Boundary Commission Cymru etc. Act 2013” .
+
+7.4
+
+In section 249(4)(b) (allowance not payable to honorary aldermen) for “Part 8
+of the Local Government (Wales) Measure 2011” substitute  “Part 5A of the
+Democracy and Boundary Commission Cymru etc. Act 2013” .
+
+###### Local Government and Housing Act 
+
+8
+
+In section 18(3A)(b) of the Local Government and Housing Act 1989 (power to
+make regulations on gratuities and payments relating to relevant matters), for
+“Part 8 of the Local Government (Wales) Measure 2011” substitute  “Part 5A of
+the Democracy and Boundary Commission Cymru etc. Act 2013” .
+
+###### School Standards and Framework Act 
+
+9
+
+9.1
+
+The School Standards and Framework Act 1998 is amended as follows.
+
+9.2
+
+In section 94(5C) (power to apply payments and pensions provisions to
+admission appeal panel members), for “Part 8 of the Local Government (Wales)
+Measure 2011” substitute  “Part 5A of the Democracy and Boundary Commission
+Cymru etc. Act 2013” .
+
+9.3
+
+In section 95(3B) (power to apply payments and pensions provisions to appeal
+panel members), for “Part 8 of the Local Government (Wales) Measure 2011”
+substitute  “Part 5A of the Democracy and Boundary Commission Cymru etc. Act
+2013” .
+
+###### Freedom of Information Act 
+
+10
+
+In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public
+bodies and offices: general), omit “The Independent Remuneration Panel for
+Wales.”.
+
+###### Education Act 
+
+11
+
+In section 52(6) of the Education Act 2002 (power to apply payments and
+pensions provisions to panels dealing with pupil exclusion), for “Part 8 of
+the Local Government (Wales) Measure 2011” substitute  “Part 5A of the
+Democracy and Boundary Commission Cymru etc. Act 2013” .
+
+###### Government of Wales Act 
+
+12
+
+In Schedule 1A to the Government of Wales Act 2006 (disqualification), in the
+table, omit “Independent Remuneration Panel for Wales or Panel Annibynnol
+Cymru ar Gydnabyddiaeth Ariannol” from the first column and “The members of
+the Panel” from the corresponding entry in the second column.
+
+###### Democracy and Boundary Commission Cymru etc. Act 2013 (anaw 4)
+
+13
+
+13.1
+
+The Democracy and Boundary Commission Cymru etc. Act 2013 is amended as
+follows.
+
+13.2
+
+In section 1 (overview)—
+
+13.2.a
+
+in subsection (5), omit paragraph (h);
+
+13.2.b
+
+after subsection (5), insert—
+
+13.2.b.5A
+
+Part 5A makes provision relating to the functions of the Commission in
+deciding on the payments and pensions payable to members and former members of
+certain authorities (including local authorities).
+
+13.3
+
+Omit sections 62 to 67 (Independent Remuneration Panel for Wales) and the
+cross-heading before section 62.
+
+13.4
+
+In Part 6 (miscellaneous and general provision), before section 70 insert—
+
+############ Directions
+
+13.4.70ZA
+
+A direction given by the Welsh Ministers under this Act must be given in
+writing.
+
+13.5
+
+In section 71(2) (orders and regulations), after paragraph (c) insert—
+
+13.5.d
+
+regulations under section 69C(2)(e), 69D(1)(b) or 69K(2)(d),
+
+.
+
+13.6
+
+In Schedule 3 (index of defined expressions), in Table 2, in the appropriate
+place insert the following entries—
+
+    Annual remuneration report ( Adroddiad blynyddol ar dâl )  Section 69E
+
+    Relevant authority ( Awdurdod perthnasol )  Section 69C
+
+    Relevant pension ( Pensiwn perthnasol )  Section 69B
+
+    Resettlement payment ( Taliad ailsefydlu )  Section 69D
+
+    Supplementary remuneration report ( Adroddiad atodol ar dâl )  Section 69F
+
+###### Local Government (Wales) Act 2015 (anaw 6)
+
+14
+
+In the Local Government (Wales) Act 2015—
+
+14.a
+
+in section 1(2) (overview), omit paragraphs (b) and (c);
+
+14.b
+
+omit sections 40 (changes to duty to have regard to Panel recommendations
+about salaries) and 41 (Panel membership).
+
+###### Local Government and Elections (Wales) Act 2021 (asc 1)
+
+15
+
+15.1
+
+The Local Government and Elections (Wales) Act 2021 is amended as follows.
+
+15.2
+
+In section 53 (overview), omit paragraph (b).
+
+15.3
+
+Omit sections 55 (replacement of references to “salary” in section 143A of the
+2011 Measure) and 56 (reconsideration of remuneration following direction by
+the Welsh Ministers).
+
+15.4
+
+In section 132(2)(h) (restructuring regulations which provide for part of a
+principal area to become part of another existing principal area), for
+“Independent Remuneration Panel for Wales” substitute  “Democracy and Boundary
+Commission Cymru” .
+
+15.5
+
+In section 142 (directions to Independent Remuneration Panel for Wales)—
+
+15.5.a
+
+in the heading, for “Independent Remuneration Panel for Wales” substitute
+“Democracy and Boundary Commission Cymru” ;
+
+15.5.b
+
+in subsection (1), for “Independent Remuneration Panel for Wales (“the
+Panel”)” substitute  “Democracy and Boundary Commission Cymru” ;
+
+15.5.c
+
+in subsection (2)—
+
+15.5.c.i
+
+for “Panel’s” substitute  “Commission’s” ;
+
+15.5.c.ii
+
+for “Part 8 of the 2011 Measure” substitute  “Part 5A of the 2013 Act” ;
+
+15.5.c.iii
+
+in paragraph (a), for “section 142” substitute  “section 69A” ;
+
+15.5.c.iv
+
+in paragraph (b), for “section 143” substitute  “section 69B” ;
+
+15.5.d
+
+in subsection (3)—
+
+15.5.d.i
+
+for “Part 8” in both places where it occurs” substitute  “Part 5A” ;
+
+15.5.d.ii
+
+for “of the 2011 Measure” substitute  “of the 2013 Act” ;
+
+15.5.e
+
+in subsection (4)—
+
+15.5.e.i
+
+for “Part 8 of the 2011 Measure” in both places where it occurs, substitute
+“Part 5A of the 2013 Act” ;
+
+15.5.e.ii
+
+in paragraph (c), for “section 142”, substitute  “section 69A” ;
+
+15.5.e.iii
+
+omit paragraphs (d) and (e).
+
+15.6
+
+In section 143 (reports of Panel relating to shadow councils and new principal
+councils)—
+
+15.6.a
+
+in the heading, for “Panel” substitute  “Commission” ;
+
+15.6.b
+
+in subsection (1), for “Part 8 of the 2011 Measure” substitute  “Part 5A of
+the 2013 Act” ;
+
+15.6.c
+
+in subsection (2)—
+
+15.6.c.i
+
+for “Part 8 of the 2011 Measure” substitute  “Part 5A of the 2013 Act” ;
+
+15.6.c.ii
+
+in paragraph (b), for “sections 147(2) and 148(1) and (1A)(a) of the 2011
+Measure” substitute  “sections 69E(3) and 69I(1) and (2)(a) of the 2013 Act” ;
+
+15.6.d
+
+in subsection (3), for “Section 148(1A)(b) of the 2011 Measure” substitute
+“Section 69I(2)(b) of the 2013 Act” ;
+
+15.6.e
+
+in subsection (4), for “Panel” substitute  “Commission” ;
+
+15.6.f
+
+in subsection (5)—
+
+15.6.f.i
+
+for “Panel”, in both places where it occurs, substitute ”Commission”;
+
+15.6.f.ii
+
+for “section 147 of the 2011 Measure” substitute  “section 69E of the 2013
+Act” ;
+
+15.6.f.iii
+
+for “section 147(8)(a) of the 2011 Measure” substitute  “section 69G(1)(a) of
+the 2013 Act” ;
+
+15.6.g
+
+in subsection (6)—
+
+15.6.g.i
+
+in paragraph (a), for “section 150(1) or (3) of the 2011 Measure” substitute
+“section 69J(1) of the 2013 Act” ;
+
+15.6.g.ii
+
+in paragraph (b), for “section 151(1) of that Measure” substitute  “section
+69K(1) of the 2013 Act” ;
+
+15.6.h
+
+in subsection (7), for “section 150(2) of the 2011 Measure” substitute
+“section 69J(2) of the 2013 Act” ;
+
+15.6.i
+
+in subsection (8), for “sections 153, 154 and 157 of the 2011 Measure”
+substitute  “sections 69L, 69N and 69P of the 2013 Act” ;
+
+15.6.j
+
+in subsection (9), for “section 146(3) of the 2011 Measure” substitute
+“section 69E(4) of the 2013 Act” ;
+
+15.6.k
+
+in subsections (10) and (11), for “Panel” substitute  “Commission” .
+
+15.7
+
+In section 144 (guidance to Panel), and in the heading, for “Panel” substitute
+“Commission” .
+
+15.8
+
+In section 145 (pay policy statements), omit subsection (6).
+
+15.9
+
+In Schedule 5 (consequential amendments relating to chief executives), omit
+paragraph 15.
+
+15.10
+
+In Schedule 12 (restraints on transactions and recruiting etc. by merging and
+restructuring councils), in paragraph 1, omit sub-paragraph (7).
+

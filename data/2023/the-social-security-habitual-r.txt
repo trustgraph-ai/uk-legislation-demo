@@ -1,0 +1,631 @@
+Title: The Social Security (Habitual Residence and Past Presence, and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2023
+Date: 2024-01-26
+Description: Regulation 1 provides for citation, commencement and interpretation.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2023/184
+
+## The Social Security (Habitual Residence and Past Presence, and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2023
+
+    Social Security
+
+  Made   27th October 2023
+
+  Coming into operation   28th October 2023
+
+      The Department for Communities  makes the following Regulations in
+exercise of the powers conferred by sections 64(1), 70(4), 71(6), 122(1)(a)
+and (d), 129A(2), 131(1), 132(3) and (4), 132A(3), 133(2)(a) and 171(1), (3)
+and (4) of the Social Security Contributions and Benefits (Northern Ireland)
+Act 1992 , Articles 6(5), 14(1) and (4) of, and paragraph 11(2) of Schedule 1
+to, the Jobseekers (Northern Ireland) Order 1995 , and now vested in it ,
+sections 1(5)(a), 15(3) and (6) and 19(1) to (3) of the State Pension Credit
+Act (Northern Ireland) 2002 , section 17(1) and (3) of, and paragraph 5 of
+Schedule 2 to, the Welfare Reform Act (Northern Ireland) 2007  and Articles
+9(5)(a), 48(1) and (2), 82(3), 97(1), 99(1)(a) of, and paragraphs 4(1) and (3)
+of Schedule 1 to, the Welfare Reform (Northern Ireland) Order 2015 .
+Regulations 2(2)(d) and (e), 6 and 7 are made with the consent of the
+Department of Finance .
+
+### Citation, commencement and interpretation
+
+
+1
+
+1.1
+
+These Regulations may be cited as the Social Security (Habitual Residence and
+Past Presence, and Capital Disregards) (Amendment) Regulations (Northern
+Ireland) 2023 and shall come into operation on 28th October 2023.
+
+1.2
+
+The Interpretation Act (Northern Ireland) 1954  shall apply to these
+Regulations as it applies to an Act of the Assembly.
+
+### Amendment of the habitual residence test in income-related benefit legislation
+
+
+2
+
+2.1
+
+In the provisions specified in paragraph (2) after sub-paragraph (zzd)
+insert—
+
+2.1.zze
+
+a person who was residing in Israel, the West Bank, the Gaza Strip, East
+Jerusalem, the Golan Heights or Lebanon immediately before 7th October 2023,
+who left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan
+Heights or Lebanon in connection with the Hamas terrorist attack in Israel on
+7th October 2023 or the violence which rapidly escalated in the region
+following the attack and—
+
+2.1.zze.i
+
+has been granted leave in accordance with immigration rules made under section
+3(2) of the Immigration Act 1971 ;
+
+2.1.zze.ii
+
+has a right of abode in the United Kingdom within the meaning given in section
+2 of that Act ; or
+
+2.1.zze.iii
+
+does not require leave to enter or remain in the United Kingdom in accordance
+with section 3ZA of that Act ;
+
+.
+
+2.2
+
+Those provisions are—
+
+2.2.a
+
+regulation 21AA(4) of the Income Support (General) Regulations (Northern
+Ireland) 1987  (special cases: supplemental–persons from abroad);
+
+2.2.b
+
+regulation 85A(4) of the Jobseeker’s Allowance Regulations (Northern Ireland)
+1996  (special cases: supplemental–persons from abroad);
+
+2.2.c
+
+regulation 2(4) of the State Pension Credit Regulations (Northern Ireland)
+2003  (persons not in Northern Ireland);
+
+2.2.d
+
+regulation 10(5) of the Housing Benefit Regulations (Northern Ireland) 2006
+(persons from abroad);
+
+2.2.e
+
+regulation 10(5) of the Housing Benefit (Persons who have attained the
+qualifying age for state pension credit) Regulations (Northern Ireland) 2006
+(persons from abroad);
+
+2.2.f
+
+regulation 70(4) of the Employment and Support Allowance Regulations (Northern
+Ireland) 2008  (special cases: supplemental – persons from abroad).
+
+2.3
+
+In regulation 9(4) of the Universal Credit Regulations (Northern Ireland) 2016
+(persons treated as not being in Northern Ireland), after sub-paragraph (zd)
+insert—
+
+2.3.ze
+
+a person who was residing in Israel, the West Bank, the Gaza Strip, East
+Jerusalem, the Golan Heights or Lebanon immediately before 7th October 2023,
+who left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan
+Heights or Lebanon in connection with the Hamas terrorist attack in Israel on
+7th October 2023 or the violence which rapidly escalated in the region
+following the attack and—
+
+2.3.ze.i
+
+has been granted leave in accordance with the immigration rules made under
+section 3(2) of the Immigration Act 1971,
+
+2.3.ze.ii
+
+has a right of abode in the United Kingdom within the meaning given in section
+2 of that Act, or
+
+2.3.ze.iii
+
+does not require leave to enter or remain in the United Kingdom in accordance
+with section 3ZA of that Act,
+
+.
+
+### Amendment of the Income Support Regulations
+
+
+3
+
+3.1
+
+The Income Support (General) Regulations (Northern Ireland) 1987  are amended
+in accordance with paragraphs (2) and (3).
+
+3.2
+
+In regulation 2(1) (interpretation)—
+
+3.2.a
+
+in the definition of “qualifying person”  after “the National Emergencies
+Trust” insert  “, the Victims of Overseas Terrorism Compensation Scheme” ;
+
+3.2.b
+
+after the definition of “vaccine damage payment”  insert—
+
+      “ the Victims of Overseas Terrorism Compensation Scheme ” means the
+scheme of that name established by the Ministry of Justice in 2012 under
+section 47 of the Crime and Security Act 2010 ;
+
+.
+
+3.3
+
+In the provisions specified in sub-paragraphs (a) to (c), after the “National
+Emergencies Trust” insert  “, the Victims of Overseas Terrorism Compensation
+Scheme” —
+
+3.3.a
+
+regulation 48(10)(c)  (income treated as capital);
+
+3.3.b
+
+regulation 51(3A)(a)  (notional capital);
+
+3.3.c
+
+paragraphs 22(1)  and (7)  of Schedule 10 (capital to be disregarded).
+
+### Amendment of the Jobseeker’s Allowance Regulations
+
+
+4
+
+4.1
+
+The Jobseeker’s Allowance Regulations (Northern Ireland) 1996  are amended in
+accordance with paragraphs (2) and (3).
+
+4.2
+
+In regulation 1(2) (citation, commencement, interpretation and application )—
+
+4.2.a
+
+in the definition of “qualifying person”  after “the National Emergencies
+Trust” insert  “, the Victims of Overseas Terrorism Compensation Scheme” ;
+
+4.2.b
+
+after the definition of “vaccine damage payment”  insert—
+
+      “ the Victims of Overseas Terrorism Compensation Scheme ” means the
+scheme of that name established by the Ministry of Justice in 2012 under
+section 47 of the Crime and Security Act 2010;
+
+.
+
+4.3
+
+In the provisions specified in sub-paragraphs (a) to (c), after “the National
+Emergencies Trust” insert  “, the Victims of Overseas Terrorism Compensation
+Scheme” —
+
+4.3.a
+
+regulation 110(10)(c)  (income treated as capital);
+
+4.3.b
+
+regulation 113(3A)(a)  (notional capital);
+
+4.3.c
+
+paragraph 27(1)  of Schedule 7 (capital to be disregarded).
+
+### Amendment of the State Pension Credit Regulations
+
+
+5
+
+5.1
+
+The State Pension Credit Regulations (Northern Ireland) 2003  are amended in
+accordance with paragraphs (2) and (3).
+
+5.2
+
+In regulation 1(2) (citation, commencement and interpretation)—
+
+5.2.a
+
+in the definition of “qualifying person”  after “the National Emergencies
+Trust” insert  “, the Victims of Overseas Terrorism Compensation Scheme” ;
+
+5.2.b
+
+after the definition of “vaccine damage payment”  insert—
+
+      “ the Victims of Overseas Terrorism Compensation Scheme ” means the
+scheme of that name established by the Ministry of Justice in 2012 under
+section 47 of the Crime and Security Act 2010;
+
+.
+
+5.3
+
+In the provisions specified in sub-paragraphs (a) and (b), after “the National
+Emergencies Trust” insert  “, the Victims of Overseas Terrorism Compensation
+Scheme” —
+
+5.3.a
+
+paragraph 14(8)(b)  of Schedule 2 (housing costs);
+
+5.3.b
+
+paragraph 15(1)  and (7)  of Schedule 5 (income from capital).
+
+### Amendment of the Housing Benefit Regulations
+
+
+6
+
+6.1
+
+The Housing Benefit Regulations (Northern Ireland) 2006  are amended in
+accordance with paragraphs (2) and (3).
+
+6.2
+
+In regulation 2(1) (interpretation)—
+
+6.2.a
+
+in the definition of “qualifying person”  after “the National Emergencies
+Trust” insert  “, the Victims of Overseas Terrorism Compensation Scheme” ;
+
+6.2.b
+
+after the definition of “vaccine damage payment”  insert—
+
+      “ the Victims of Overseas Terrorism Compensation Scheme ” means the
+scheme of that name established by the Ministry of Justice in 2012 under
+section 47 of the Crime and Security Act 2010;
+
+.
+
+6.3
+
+In the provisions specified in sub-paragraphs (a) to (d), after “the National
+Emergencies Trust” insert  “, the Victims of Overseas Terrorism Compensation
+Scheme” —
+
+6.3.a
+
+regulation 43(6)  (income treated as capital);
+
+6.3.b
+
+regulation 46(4)(a)  (notional capital);
+
+6.3.c
+
+regulation 72(9)(b)  (non-dependant deductions);
+
+6.3.d
+
+paragraph 25(1)  and (7)  of Schedule 7 (capital to be disregarded).
+
+### Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations
+
+
+7
+
+7.1
+
+The Housing Benefit (Persons who have attained the qualifying age for state
+pension credit) Regulations (Northern Ireland) 2006  are amended in accordance
+with paragraphs (2) and (3).
+
+7.2
+
+In regulation 2(1) (interpretation)—
+
+7.2.a
+
+in the definition of “qualifying person”  after “the National Emergencies
+Trust” insert  “, the Victims of Overseas Terrorism Compensation Scheme” ;
+
+7.2.b
+
+after the definition of “vaccine damage payment”  insert—
+
+      “ the Victims of Overseas Terrorism Compensation Scheme ” means the
+scheme of that name established by the Ministry of Justice in 2012 under
+section 47 of the Crime and Security Act 2010;
+
+.
+
+7.3
+
+In the provisions specified in sub-paragraphs (a) and (b), after “the National
+Emergencies Trust” insert  “, the Victims of Overseas Terrorism Compensation
+Scheme” —
+
+7.3.a
+
+regulation 53(10)(b)  (non-dependant deductions);
+
+7.3.b
+
+paragraph 16(1)(a)  of Schedule 7 (capital to be disregarded).
+
+### Amendment of the Employment and Support Allowance Regulations
+
+
+8
+
+8.1
+
+The Employment and Support Allowance Regulations (Northern Ireland) 2008  are
+amended in accordance with paragraphs (2) and (3).
+
+8.2
+
+In regulation 2(1) (interpretation)—
+
+8.2.a
+
+in the definition of “qualifying person”  after “the National Emergencies
+Trust” insert  “, the Victims of Overseas Terrorism Compensation Scheme” ;
+
+8.2.b
+
+after the definition of “vaccine damage payment”  insert—
+
+      “ the Victims of Overseas Terrorism Compensation Scheme ” means the
+scheme of that name established by the Ministry of Justice in 2012 under
+section 47 of the Crime and Security Act 2010;
+
+.
+
+8.3
+
+In the provisions specified in sub-paragraphs (a) to (c), after “the National
+Emergencies Trust” insert  “, the Victims of Overseas Terrorism Compensation
+Scheme” —
+
+8.3.a
+
+regulation 112(8)(a)  (income treated as capital);
+
+8.3.b
+
+regulation 115(5)(a)  (notional capital);
+
+8.3.c
+
+paragraph 27(1)  and (7)  of Schedule 9 (capital to be disregarded).
+
+### Amendment of the Universal Credit Regulations
+
+
+9
+
+In Regulation 76(1A)  of the Universal Credit Regulations (Northern Ireland)
+2016  (special schemes for compensation etc.) after sub-paragraph (e)  add—
+
+9.f
+
+the Victims of Overseas Terrorism Compensation Scheme established by the
+Ministry of Justice in 2012 under section 47 of the Crime and Security Act
+2010.
+
+.
+
+### Amendment of disability and carer’s benefit legislation
+
+
+10
+
+10.1
+
+In the provisions specified in paragraph (2)—
+
+10.1.a
+
+at the end of sub-paragraph (f)  omit “or”;
+
+10.1.b
+
+after sub-paragraph (g)  add—
+
+or
+
+10.1.b.h
+
+leave to enter or remain in the United Kingdom granted under or outside the
+immigration rules, a right of abode in the United Kingdom within the meaning
+given in section 2 of the Immigration Act 1971 or does not require leave to
+enter or remain in the United Kingdom in accordance with section 3ZA of that
+Act, where the person—
+
+10.1.b.h.i
+
+was residing in Israel, the West Bank, the Gaza Strip, East Jerusalem, the
+Golan Heights or Lebanon immediately before 7th October 2023; and
+
+10.1.b.h.ii
+
+left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights
+or Lebanon in connection with the Hamas terrorist attack in Israel on 7th
+October 2023 or the violence which rapidly escalated in the region following
+the attack.
+
+.
+
+10.2
+
+Those provisions are—
+
+10.2.a
+
+regulation 9C(1) of the Social Security (Invalid Care Allowance) Regulations
+(Northern Ireland) 1976  (refugees and certain persons with leave to enter or
+remain in the United Kingdom );
+
+10.2.b
+
+regulation 2C(1) of the Social Security (Attendance Allowance) Regulations
+(Northern Ireland) 1992  (refugees and certain persons with leave to enter or
+remain in the United Kingdom);
+
+10.2.c
+
+regulation 2C(1) of the Social Security (Disability Living Allowance)
+Regulations (Northern Ireland) 1992  (refugees and certain persons with leave
+to enter or remain in the United Kingdom).
+
+### Amendment of the Personal Independence Payment Regulations
+
+
+11
+
+In regulation 23A(1) of the Personal Independence Payment Regulations
+(Northern Ireland) 2016  (refuges and certain persons with leave to enter or
+remain in the United Kingdom )—
+
+11.a
+
+at the end of sub-paragraph (f)  omit “or”;
+
+11.b
+
+after sub-paragraph (g)  add—
+
+or
+
+11.b.h
+
+leave to enter or remain in the United Kingdom granted under or outside the
+immigration rules, a right of abode in the United Kingdom within the meaning
+given in section 2 of the Immigration Act 1971 or does not require leave to
+enter or remain in the United Kingdom in accordance with section 3ZA of that
+Act, where C—
+
+11.b.h.i
+
+was residing in Israel, the West Bank, the Gaza Strip, East Jerusalem, the
+Golan Heights or Lebanon immediately before 7th October 2023; and
+
+11.b.h.ii
+
+left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights
+or Lebanon in connection with the Hamas terrorist attack in Israel on 7th
+October 2023 or the violence which rapidly escalated in the region following
+the attack.
+
+.
+
+      Sealed with the Official Seal of the Department for Communities on 27th
+October 2023       (L.S.)   Patrick Rooney   A senior officer of the
+Department for Communities           The Department of Finance hereby consents
+to regulations 2(2)(d) and (e), 6 and 7       Sealed with the Official Seal of
+the Department of Finance on 27th October 2023       (L.S.)   Barry Armstrong
+A senior officer of the Department of Finance
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  Regulation 1 provides for citation, commencement and interpretation.
+
+  Regulations 2 to 9 enable certain persons to access income-related benefits
+upon arrival in Northern Ireland from Israel, the West Bank, the Gaza Strip,
+East Jerusalem, the Golan Heights or Lebanon provided they meet the other
+relevant entitlement conditions. It also provides that any payments from the
+Victims of Overseas Terrorism Compensation Scheme (“ the Scheme ”) established
+by the Ministry of Justice in 2012 are to be disregarded for certain social
+security purposes.
+
+  Those regulations amend the Income Support (General) Regulations (Northern
+Ireland) 1987, the Jobseeker’s Allowance Regulations (Northern Ireland) 1996,
+the State Pension Credit Regulations (Northern Ireland) 2003 (“ the State
+Pension Credit Regulations ”), the Housing Benefit Regulations (Northern
+Ireland) 2006, the Housing Benefit (Persons who have attained the qualifying
+age for state pension credit) Regulations (Northern Ireland) 2006, the
+Employment and Support Allowance Regulations (Northern Ireland) 2008 and the
+Universal Credit Regulations (Northern Ireland) 2016 (“ the Universal Credit
+Regulations ”) - “the income-related benefit regulations”.
+
+  The income-related benefit regulations provide that a person is ineligible
+for benefit where he or she is a “person from abroad”, “ a person not in
+Northern Ireland ” (for the purposes of the State Pension Credit Regulations),
+or “ a person treated as not being in Northern Ireland ” (for the purposes of
+the Universal Credit Regulations); that is to say where the person is not
+habitually resident in the United Kingdom, the Channel Islands, the Isle of
+Man or the Republic of Ireland, subject to a list of exemptions.
+
+  Regulation 2 inserts a new category into the list of persons who are
+exempted from having to satisfy the habitual residence test. Those persons are
+those who were residing in Israel, the West Bank, the Gaza Strip, East
+Jerusalem, the Golan Heights or Lebanon immediately before 7th October 2023,
+who left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan
+Heights or Lebanon in connection with the Hamas terrorist attack in Israel on
+7th October 2023 or the violence which rapidly escalated in the region
+following the attack and who—     a     have been granted leave in accordance
+with immigration rules made under section 3(2) of the Immigration Act 1971;
+b     have a right of abode in the United Kingdom within the meaning given in
+section 2 of that Act; or         c     do not require leave to enter or
+remain in the United Kingdom in accordance with section 3ZA of that Act.
+
+  Regulations 3 to 9 amend the income-related benefit regulations to provide
+that payments from the Scheme established by the Ministry of Justice in 2012
+are not to be taken into account in the calculation of capital.
+
+  Regulations 10 and 11 enable certain persons to access disability and
+carer’s benefits upon arrival in Northern Ireland where they were residing in
+Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or
+Lebanon and left in accordance with the criteria above, provided they meet the
+other relevant entitlement conditions.
+
+  Regulation 10 amends the Social Security (Invalid Care Allowance)
+Regulations (Northern Ireland) 1976, the Social Security (Attendance
+Allowance) Regulations (Northern Ireland) 1992 and the Social Security
+(Disability Living Allowance) Regulations (Northern Ireland) 1992
+respectively, and regulation 11 amends the Personal Independence Payment
+Regulations (Northern Ireland) 2016 to exempt the same group of people from
+the past presence test. This is the test which normally has to be fulfilled in
+order to claim Carer’s Allowance, Attendance Allowance, Disability Living
+Allowance and Personal Independence Payment. The past presence test normally
+requires that an individual has been present in Northern Ireland for a
+specified period of time to be eligible for those benefits. The amendments
+also have the effect of removing the habitual residence requirement for
+entitlement to disability and carer’s benefits which would otherwise apply to
+these persons.
+
+  These regulations make in relation to Northern Ireland only provision
+corresponding to provision contained in Regulations made by the Secretary of
+State for Work and Pensions in relation to Great Britain and accordingly, by
+virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social
+Security Administration (Northern Ireland) Act 1992, are not subject to the
+requirement of section 149(2) of that Act for prior reference to the Social
+Security Advisory Committee.
+

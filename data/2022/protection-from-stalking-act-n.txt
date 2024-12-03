@@ -1,0 +1,1640 @@
+Title: Protection from Stalking Act (Northern Ireland) 2022
+Date: 2024-02-01
+Description: Provide protection from stalking, and from threatening or abusive behaviour, and for related purposes.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nia/2022/17
+
+## Protection from Stalking Act (Northern Ireland) 2022
+
+      BE IT ENACTED by being passed by the Northern Ireland Assembly and
+assented to by Her Majesty as follows:
+
+### Offences
+
+#### Offence of stalking
+
+1
+
+1.1
+
+A person (“ A ”) commits an offence (in this Act referred to as the offence of
+stalking) where—
+
+1.1.a
+
+A engages in a course of conduct,
+
+1.1.b
+
+A’s course of conduct—
+
+1.1.b.i
+
+causes another person (“ B ”) to suffer fear, alarm or substantial distress,
+or
+
+1.1.b.ii
+
+is such that a reasonable person, or a reasonable person who has any
+particular knowledge of B that A has, would consider to be likely to cause B
+to suffer fear, alarm or substantial distress, and
+
+1.1.c
+
+at least one of the further conditions applies.
+
+1.2
+
+The further conditions are—
+
+1.2.a
+
+that A engages in the course of conduct with the intention of causing B to
+suffer fear, alarm or substantial distress;
+
+1.2.b
+
+that A knows, or ought in all the circumstances to have known, that engaging
+in the course of conduct would be likely to cause B to suffer fear, alarm or
+substantial distress.
+
+1.3
+
+If—
+
+1.3.a
+
+A is a UK national or is habitually resident in Northern Ireland, and
+
+1.3.b
+
+A’s course of conduct consists of or includes conduct occurring in a country,
+or territory, outside the United Kingdom,
+
+the course of conduct is to be treated for the purposes of this section as if
+it occurred in Northern Ireland.
+
+1.4
+
+In subsections (1) to (3) and this subsection—
+
+      “ conduct ” means—         following B or any other person,
+contacting, or attempting to contact, B or any other person by any means,
+publishing any statement or other material—         relating or purporting to
+relate to B or to any other person, or           purporting to originate from
+B or from any other person,                 monitoring the use by B or by any
+other person of the internet, email or any other form of electronic
+communication,           entering any premises,           loitering in any
+place (whether public or private),           interfering with any property in
+the possession of B or of any other person,           giving anything to B or
+to any other person or leaving anything where it may be found by, given to or
+brought to the attention of B or any other person,           watching or
+spying on B or any other person, or           acting in any other way that a
+reasonable person, or a reasonable person who has any particular knowledge of
+B that A has, would expect would cause B to suffer fear, alarm or substantial
+distress;                 “course of conduct” involves conduct on two or more
+occasions;           “ substantial distress ” means distress that has a
+substantial adverse effect on B’s day to day activities.
+
+1.5
+
+It is a defence for a person charged with the offence of stalking to show that
+the course of conduct—
+
+1.5.a
+
+was authorised by virtue of any statutory provision or rule of law,
+
+1.5.b
+
+was engaged in for the purpose of preventing or detecting crime, or
+
+1.5.c
+
+was reasonable in the particular circumstances.
+
+1.6
+
+A person who commits the offence of stalking is liable—
+
+1.6.a
+
+on conviction on indictment, to imprisonment for a term not exceeding 10 years
+or a fine (or both), or
+
+1.6.b
+
+on summary conviction, to imprisonment for a term not exceeding 12 months or a
+fine not exceeding the statutory maximum (or both).
+
+1.7
+
+In proceedings in respect of a charge against a person of the offence of
+stalking, the person may be convicted of an offence under section 2 if the
+facts proved against the person—
+
+1.7.a
+
+do not amount to the offence of stalking, but
+
+1.7.b
+
+do amount to the offence under section 2.
+
+1.8
+
+Subsection (7) is without prejudice to section 6(2) of the Criminal Law Act
+(Northern Ireland) 1967 (alternative verdicts on trial on indictment).
+
+1.9
+
+In this section “ statutory provision ” has the meaning given by section 1(f)
+of the Interpretation Act (Northern Ireland) 1954.
+
+#### Offence of threatening or abusive behaviour
+
+2
+
+2.1
+
+A person (“ A ”) commits an offence if—
+
+2.1.a
+
+A behaves in a threatening or abusive manner,
+
+2.1.b
+
+the behaviour would be likely to cause a reasonable person to suffer fear or
+alarm, and
+
+2.1.c
+
+A intends by the behaviour to cause fear or alarm or is reckless as to whether
+the behaviour causes fear or alarm.
+
+2.2
+
+It is a defence for a person charged with an offence under subsection (1) to
+show that the behaviour was reasonable in the particular circumstances.
+
+2.3
+
+Subsection (1) applies to—
+
+2.3.a
+
+behaviour of any kind including, in particular, things said or otherwise
+communicated as well as things done, and
+
+2.3.b
+
+behaviour consisting of—
+
+2.3.b.i
+
+a single act, or
+
+2.3.b.ii
+
+a course of conduct.
+
+2.4
+
+A person guilty of an offence under subsection (1) is liable—
+
+2.4.a
+
+on conviction on indictment, to imprisonment for a term not exceeding 5 years
+or a fine (or both), or
+
+2.4.b
+
+on summary conviction, to imprisonment for a term not exceeding 12 months or a
+fine not exceeding the statutory maximum (or both).
+
+#### Special measures directions
+
+3
+
+3.1
+
+The Criminal Evidence (Northern Ireland) Order 1999 is amended as follows.
+
+3.2
+
+In Article 5(5) (offences where witnesses are eligible for assistance with
+giving evidence), after sub-paragraph (c) add—
+
+3.2.d
+
+an offence under section 1 of the Protection from Stalking Act (Northern
+Ireland) 2022.
+
+.
+
+3.3
+
+After Article 22A insert—
+
+########## Complainants in proceedings involving stalking
+
+3.3.22B
+
+No person charged with an offence under section 1 of the Protection from
+Stalking Act (Northern Ireland) 2022 may in any criminal proceedings cross-
+examine in person a witness who is the complainant, either—
+
+3.3.22B.a
+
+in connection with that offence, or
+
+3.3.22B.b
+
+in connection with any other offence (of whatever nature) with which that
+person is charged in the proceedings.
+
+.
+
+3.4
+
+In Article 23 (protection of children from cross-examination by defendant in
+person)—
+
+3.4.a
+
+in paragraph (3), after sub-paragraph (cd) insert—
+
+3.4.a.ce
+
+an offence under section 1 of the Protection from Stalking Act (Northern
+Ireland) 2022;
+
+;
+
+3.4.b
+
+in paragraph (4)(a), for “or (cd)” substitute  “, (cd) or (ce)” .
+
+3.5
+
+In Article 24 (direction prohibiting defendant from cross-examining particular
+witnesses)—
+
+3.5.a
+
+in paragraph (1), after “22A” insert  “, 22B” ;
+
+3.5.b
+
+in paragraph (3)(e), after “22A”, in both places it occurs, insert  “, 22B” .
+
+3.6
+
+In Article 26(1) (defence representation for purposes of cross-examination),
+after “22A,” insert  “22B,” .
+
+3.7
+
+In Article 27(1) (warning to jury), after “22A,” insert  “22B,” .
+
+#### Alternative to conviction of the domestic abuse offence
+
+4
+
+In section 13(2) of the Domestic Abuse and Civil Proceedings Act (Northern
+Ireland) 2021 (alternatives to the domestic abuse offence), after paragraph
+(b) add—
+
+4.c
+
+an offence under section 1 of the Protection from Stalking Act (Northern
+Ireland) 2022 (offence of stalking),
+
+4.d
+
+an offence under section 2 of that Act (offence of threatening or abusive
+behaviour).
+
+.
+
+#### No right to claim trial by jury
+
+5
+
+In Article 29(1) of the Magistrates’ Courts (Northern Ireland) Order 1981
+(right to claim trial by jury for certain summary offences but not those
+listed in the sub-paragraphs), after sub-paragraph (q) add—
+
+5.r
+
+section 1 or 2 of the Protection from Stalking Act (Northern Ireland) 2022.
+
+.
+
+### Stalking protection orders
+
+#### Meaning of act associated with stalking and risk associated with stalking
+
+6
+
+6.1
+
+This section applies for the purposes of this section and sections 7 to 10.
+
+6.2
+
+An “act associated with stalking” is any of the following—
+
+6.2.a
+
+following a person;
+
+6.2.b
+
+contacting, or attempting to contact, a person by any means;
+
+6.2.c
+
+publishing any statement or other material—
+
+6.2.c.i
+
+relating or purporting to relate to a person, or
+
+6.2.c.ii
+
+purporting to originate from a person;
+
+6.2.d
+
+monitoring the use by a person of the internet, email or any other form of
+electronic communication;
+
+6.2.e
+
+entering any premises;
+
+6.2.f
+
+loitering in any place (whether public or private);
+
+6.2.g
+
+interfering with any property in the possession of a person;
+
+6.2.h
+
+giving anything to a person or leaving anything where it may be found by,
+given to or brought to the attention of a person;
+
+6.2.i
+
+watching or spying on a person;
+
+6.2.j
+
+acting in any other way that it would be reasonable to expect would cause a
+reasonable person to suffer fear, alarm or substantial distress.
+
+6.3
+
+A “risk associated with stalking” is a risk of—
+
+6.3.a
+
+a person carrying out acts associated with stalking, and
+
+6.3.b
+
+another person being a victim of those acts (if carried out).
+
+6.4
+
+Where there is a risk associated with stalking, the person mentioned in
+subsection (3)(a) “poses a risk associated with stalking” to any person within
+subsection (3)(b).
+
+6.5
+
+The acts mentioned in subsection (3) may be acts which the person mentioned in
+subsection (3)(a) knows, or ought to know, are unwelcome to a person within
+subsection (3)(b) even if, in other circumstances, the acts would appear
+harmless in themselves.
+
+6.6
+
+A reference to being a victim of acts associated with stalking is a reference
+to being a target of the acts or to suffering physical or psychological harm
+because of, or otherwise being a victim of, the acts.
+
+#### Applications for orders
+
+7
+
+7.1
+
+A stalking protection order is an order which, for the purpose of preventing a
+person from carrying out acts associated with stalking—
+
+7.1.a
+
+prohibits the person from doing anything described in the order, or
+
+7.1.b
+
+requires the person to do anything described in the order.
+
+7.2
+
+The Chief Constable may apply to a court of summary jurisdiction for a
+stalking protection order against a person (“ D ”) if it appears to the Chief
+Constable that—
+
+7.2.a
+
+D has carried out acts associated with stalking,
+
+7.2.b
+
+D poses a risk associated with stalking to another person, and
+
+7.2.c
+
+there is reasonable cause to believe the proposed order is necessary to
+protect another person from such a risk (whether or not the other person was a
+victim of the acts mentioned in paragraph (a)).
+
+7.3
+
+The Chief Constable may apply for a stalking protection order only against a
+person—
+
+7.3.a
+
+who resides in Northern Ireland, or
+
+7.3.b
+
+who the Chief Constable believes is in, or is intending to come to, Northern
+Ireland.
+
+7.4
+
+It does not matter—
+
+7.4.a
+
+whether the acts mentioned in subsection (2)(a) were carried out in a part of
+the United Kingdom or elsewhere, or
+
+7.4.b
+
+whether they were carried out before or after the coming into operation of
+this section.
+
+#### Power to make orders
+
+8
+
+8.1
+
+This section applies where the Chief Constable has applied under section 7 to
+a court of summary jurisdiction for a stalking protection order against a
+person (“ D ”).
+
+8.2
+
+The court may make the order if satisfied that—
+
+8.2.a
+
+D has carried out acts associated with stalking,
+
+8.2.b
+
+D poses a risk associated with stalking to another person, and
+
+8.2.c
+
+the proposed order is necessary to protect another person from such a risk
+(whether or not the other person was a victim of the acts mentioned in
+paragraph (a)).
+
+8.3
+
+The court may include a prohibition or requirement in the stalking protection
+order only if satisfied that the prohibition or requirement is necessary to
+protect the other person from a risk associated with stalking.
+
+8.4
+
+Prohibitions or requirements must, so far as practicable, be such as to avoid—
+
+8.4.a
+
+conflict with D’s religious beliefs, and
+
+8.4.b
+
+interference with any times at which D normally works or attends an
+educational establishment.
+
+8.5
+
+The court may not include any prohibition or requirement in the order which is
+incompatible with a prohibition or requirement in a stalking protection order
+to which D is already subject (whether made by that court or another).
+
+8.6
+
+A prohibition or requirement, unless expressly limited to a particular
+locality, is to be complied with—
+
+8.6.a
+
+in all parts of the United Kingdom, and
+
+8.6.b
+
+if D resides in Northern Ireland or was resident in Northern Ireland when the
+application for the order was made or is a UK national, also everywhere
+outside the United Kingdom.
+
+8.7
+
+It does not matter—
+
+8.7.a
+
+whether the acts mentioned in subsection (2)(a) were carried out in a part of
+the United Kingdom or elsewhere, or
+
+8.7.b
+
+whether they were carried out before or after the coming into operation of
+this section.
+
+#### Duration of orders
+
+9
+
+9.1
+
+A prohibition or requirement contained in a stalking protection order has
+effect—
+
+9.1.a
+
+for a fixed period, specified in the order, of at least 2 years beginning with
+the day on which the order is made, or
+
+9.1.b
+
+until further order.
+
+9.2
+
+A stalking protection order—
+
+9.2.a
+
+may specify that some of its prohibitions or requirements have effect until
+further order and some for a fixed period;
+
+9.2.b
+
+may specify different periods for different prohibitions or requirements.
+
+#### Variations, discharges and renewals
+
+10
+
+10.1
+
+The Chief Constable or the person against whom a stalking protection order is
+made may apply to a court of summary jurisdiction for an order varying,
+renewing or discharging the stalking protection order.
+
+10.2
+
+On the application, the court may make any order varying, renewing or
+discharging the stalking protection order that the court considers
+appropriate.
+
+10.3
+
+But a court may not—
+
+10.3.a
+
+in renewing or varying an order, impose an additional prohibition or
+requirement unless satisfied that it is necessary to do so in order to protect
+a person from a risk associated with stalking;
+
+10.3.b
+
+discharge an order before the end of 2 years beginning with the day on which
+the order was made without the consent of—
+
+10.3.b.i
+
+the person against whom the order was made, and
+
+10.3.b.ii
+
+the Chief Constable.
+
+#### Interim stalking protection orders
+
+11
+
+11.1
+
+An interim stalking protection order, in relation to a person, is an order
+which—
+
+11.1.a
+
+prohibits the person from doing anything described in the order, or
+
+11.1.b
+
+requires the person to do anything described in the order.
+
+11.2
+
+Subsection (3) applies where an application for a stalking protection order
+against a person (“ D ”) has not been determined; and in the following
+provisions that application is referred to as the main application.
+
+11.3
+
+A court of summary jurisdiction may, if it considers it appropriate to do so,
+make an interim stalking protection order against D on an application made by
+the Chief Constable at the same time as the main application or later.
+
+11.4
+
+Prohibitions or requirements included in the interim stalking protection order
+must, so far as practicable, be such as to avoid—
+
+11.4.a
+
+conflict with D’s religious beliefs, and
+
+11.4.b
+
+interference with any times at which D normally works or attends an
+educational establishment.
+
+11.5
+
+A prohibition or requirement included in the interim stalking protection
+order, unless expressly limited to a particular locality, is to be complied
+with—
+
+11.5.a
+
+in all parts of the United Kingdom, and
+
+11.5.b
+
+if D resides in Northern Ireland or was resident in Northern Ireland when the
+main application was made or is a UK national, also everywhere outside the
+United Kingdom.
+
+11.6
+
+The interim stalking protection order has effect only for a fixed period
+specified in the order, but this is subject to subsections (9) and (10).
+
+11.7
+
+The Chief Constable or D may apply to a court of summary jurisdiction for an
+order varying, renewing or discharging the interim stalking protection order.
+
+11.8
+
+On an application under subsection (7), the court may make any order varying,
+renewing or discharging the interim stalking protection order that the court
+considers appropriate.
+
+11.9
+
+The interim stalking protection order ceases to have effect, if it has not
+already done so, on the making of a stalking protection order on the main
+application or on the withdrawal of the main application.
+
+11.10
+
+Where the interim stalking protection order is in force immediately before the
+dismissal of the main application, it ceases to have effect on the first
+occasion after the dismissal when the following conditions are satisfied—
+
+11.10.a
+
+there is no pending appeal to the county court from the dismissal,
+
+11.10.b
+
+the time for making such an appeal (taking account of any extension granted)
+has expired, and
+
+11.10.c
+
+there is no pending application to extend the time for making such an appeal.
+
+#### Content of, and procedure for, orders
+
+12
+
+12.1
+
+A stalking protection order and an interim stalking protection order must
+specify—
+
+12.1.a
+
+the date on which the order is made,
+
+12.1.b
+
+each prohibition or requirement that applies to the person against whom the
+order is made, and
+
+12.1.c
+
+whether any prohibition or requirement is expressly limited to a particular
+locality and, if it is, what the locality is.
+
+12.2
+
+Any application under section 7, 10 or 11 to a court of summary jurisdiction
+is to be made by complaint under Part 8 of the Magistrates’ Courts (Northern
+Ireland) Order 1981.
+
+12.3
+
+Article 78(1) of that Order (time limits) does not apply to a complaint by
+which any such application is made.
+
+12.4
+
+An application under section 7 or 11(3) is to be heard by a youth court if,
+and only if, it is for an order against a person who is under the age of 18
+when the application is made.
+
+12.5
+
+An application under section 10 or 11(7) is to be heard by a youth court if,
+and only if, it is for variation, renewal or discharge of an order made
+against a person who is under the age of 18 when the application is made for
+the variation, renewal or discharge.
+
+12.6
+
+Subsection (4) or (5) has effect despite the person attaining the age of 18
+before the conclusion of the proceedings on the application.
+
+12.7
+
+In this section “ youth court ” means a court of summary jurisdiction—
+
+12.7.a
+
+constituted in accordance with Schedule 2 to the Children and Young Persons
+Act (Northern Ireland) 1968, and
+
+12.7.b
+
+known as a youth court by virtue of Article 27 of the Criminal Justice
+(Children) (Northern Ireland) Order 1998.
+
+#### Offence of breaching order
+
+13
+
+13.1
+
+A person who, without reasonable excuse, breaches a stalking protection order
+or an interim stalking protection order commits an offence.
+
+13.2
+
+If a provision of the order is to be complied with in all parts of the United
+Kingdom, subsection (1) applies to breaches of it anywhere in the United
+Kingdom; and if a provision of the order is also to be complied with
+everywhere outside the United Kingdom, subsection (1) also applies to breaches
+of it anywhere outside the United Kingdom.
+
+13.3
+
+A person guilty of an offence under this section is liable—
+
+13.3.a
+
+on conviction on indictment, to imprisonment for a term not exceeding 5 years
+or a fine (or both), or
+
+13.3.b
+
+on summary conviction, to imprisonment for a term not exceeding 6 months or a
+fine not exceeding the statutory maximum (or both).
+
+13.4
+
+Article 30(2) of the Criminal Justice (Children) (Northern Ireland) Order 1998
+(youth court’s power to continue to deal with case, and defaults, after person
+attains 18) applies in relation to proceedings under this section for breach
+of an order as if they were not part of the proceedings in which the order was
+made, renewed or varied.
+
+13.5
+
+In proceedings for an offence under this section, a copy of the original
+stalking protection order or interim stalking protection order, certified by
+the clerk of petty sessions or the court which made it, is admissible as
+evidence of its having been made and of its contents to the same extent that
+oral evidence of those things is admissible in those proceedings.
+
+#### Notification requirements
+
+14
+
+14.1
+
+A person subject to—
+
+14.1.a
+
+a stalking protection order (other than one which replaces an interim stalking
+protection order), or
+
+14.1.b
+
+an interim stalking protection order,
+
+must, within the period of 3 days beginning with the date on which the order
+comes into force, notify to the police the information set out in subsection
+(2).
+
+14.2
+
+The information is—
+
+14.2.a
+
+the person’s name and, where the person uses one or more other names, each of
+those names,
+
+14.2.b
+
+the person’s home address, and
+
+14.2.c
+
+any other information prescribed by regulations made by the Department.
+
+14.3
+
+A person who—
+
+14.3.a
+
+is subject to a stalking protection order or an interim stalking protection
+order, and
+
+14.3.b
+
+uses a name which has not been notified under this section,
+
+must, before the end of the period of 3 days beginning with the date on which
+that happens, notify to the police that name.
+
+14.4
+
+A person who—
+
+14.4.a
+
+is subject to a stalking protection order or an interim stalking protection
+order, and
+
+14.4.b
+
+changes home address,
+
+must, before the end of the period of 3 days beginning with the date on which
+that happens, notify to the police the new home address.
+
+14.5
+
+The requirements imposed by subsections (1) to (4) do not apply to a person
+who is subject to notification requirements under—
+
+14.5.a
+
+Part 2 of the Sexual Offences Act 2003,
+
+14.5.b
+
+Part 8 of the Justice (Northern Ireland) Act 2015, or
+
+14.5.c
+
+Schedule 3 to the Human Trafficking and Exploitation (Criminal Justice and
+Support for Victims) Act (Northern Ireland) 2015.
+
+14.6
+
+Subsection (7) applies where—
+
+14.6.a
+
+a person is subject to a stalking protection order or an interim stalking
+protection order,
+
+14.6.b
+
+at the time the order is made, the requirements imposed by this section do not
+apply to the person as a result of subsection (5),
+
+14.6.c
+
+the person ceases on a subsequent day (“the final day”) to be subject to the
+notification requirements mentioned in subsection (5), and
+
+14.6.d
+
+the order remains in effect on the final day.
+
+14.7
+
+The requirements imposed by subsections (1) to (4) apply to the person as from
+the final day, but as if the reference in subsection (1) to the date on which
+the order comes into force were a reference to the final day.
+
+14.8
+
+In this section “ home address ”, in relation to a person, means—
+
+14.8.a
+
+the address of the person’s sole or main residence in Northern Ireland, or
+
+14.8.b
+
+if the person has no residence in Northern Ireland, the address of the
+person’s sole or main residence in Great Britain, or
+
+14.8.c
+
+if the person has no residence in the United Kingdom, the address or location
+of a place in Northern Ireland where the person can regularly be found and, if
+there is more than one such place, such of those places as the person may
+select, or
+
+14.8.d
+
+if the person has no residence in the United Kingdom, and there is no such
+place in Northern Ireland, the address or location of a place in Great Britain
+where the person can regularly be found and, if there is more than one such
+place, such of those places as the person may select.
+
+14.9
+
+Regulations are not to be made under subsection (2)(c) unless a draft of them
+has been laid before, and approved by a resolution of, the Assembly.
+
+#### Method of notification and related matters
+
+15
+
+15.1
+
+A person gives a notification under section 14(1), (3) or (4) by—
+
+15.1.a
+
+attending at any police station in Northern Ireland prescribed by regulations
+under section 87(1)(a) of the Sexual Offences Act 2003, and
+
+15.1.b
+
+giving an oral notification to any police officer, or to any person authorised
+for the purpose by the officer in charge of the station.
+
+15.2
+
+A notification given in accordance with this section must be acknowledged—
+
+15.2.a
+
+in writing, and
+
+15.2.b
+
+in such form as the Department may direct.
+
+15.3
+
+When a person gives notification under section 14(1), (3) or (4), the person
+must, if requested to do so by the police officer or person mentioned in
+subsection (1), allow that officer or person to—
+
+15.3.a
+
+take the person’s fingerprints,
+
+15.3.b
+
+photograph any part of the person, or
+
+15.3.c
+
+do both of those things.
+
+15.4
+
+The power in subsection (3) is exercisable for the purpose of verifying the
+identity of the person.
+
+15.5
+
+Fingerprints taken from a person under this section (and any copies of those
+fingerprints) must be destroyed no later than the date on which the person
+ceases to be subject to a stalking protection order or, as the case may be,
+ceases to be subject to an interim stalking protection order that is not
+replaced by a stalking protection order.
+
+15.6
+
+Photographs taken of any part of the offender under this section (and any
+copies of such photographs) must be destroyed no later than the date on which
+the person ceases to be subject to a stalking protection order or, as the case
+may be, ceases to be subject to an interim stalking protection order that is
+not replaced by a stalking protection order.
+
+#### Offences relating to notification
+
+16
+
+16.1
+
+A person commits an offence if the person—
+
+16.1.a
+
+fails, without reasonable excuse, to comply with section 14(1), (3) or (4),
+
+16.1.b
+
+notifies to the police, in purported compliance with section 14(1), (3) or
+(4), any information which the person knows to be false, or
+
+16.1.c
+
+fails, without reasonable excuse, to comply with section 15(3).
+
+16.2
+
+A person guilty of an offence under this section is liable—
+
+16.2.a
+
+on conviction on indictment, to imprisonment for a term not exceeding 5 years
+or a fine (or both), or
+
+16.2.b
+
+on summary conviction, to imprisonment for a term not exceeding 6 months or a
+fine not exceeding the statutory maximum (or both).
+
+16.3
+
+A person commits an offence under subsection (1)(a) on the day on which the
+person first fails, without reasonable excuse, to comply with section 14(1),
+(3) or (4).
+
+16.4
+
+The person continues to commit the offence throughout any period during which
+the failure continues.
+
+16.5
+
+But the person may not be prosecuted more than once in respect of the same
+failure.
+
+### Operational matters
+
+#### Guidance
+
+17
+
+17.1
+
+The Department must issue guidance about—
+
+17.1.a
+
+the effect of this Act,
+
+17.1.b
+
+such other matters as the Department considers appropriate as to criminal law
+or procedure relating to stalking in Northern Ireland, and
+
+17.1.c
+
+the exercise of the Chief Constable’s functions under the provisions of this
+Act relating to stalking protection orders or interim stalking protection
+orders.
+
+17.2
+
+A person exercising public functions to whom guidance issued under this
+section relates must have regard to it in the exercise of those functions.
+
+17.3
+
+The Department may, from time to time, revise the guidance issued under
+subsection (1).
+
+17.4
+
+The Department must—
+
+17.4.a
+
+keep any guidance issued under this section under review, and
+
+17.4.b
+
+revise any guidance issued under this section if the Department considers
+revision to be necessary in light of review.
+
+17.5
+
+The Department must arrange for any guidance issued or revised under this
+section to be published in such manner as the Department considers
+appropriate.
+
+17.6
+
+The Department must lay before the Assembly any guidance issued or revised
+under this section.
+
+17.7
+
+Nothing in this section permits the Department to issue guidance to a court or
+tribunal.
+
+#### Guidance on data collection
+
+18
+
+18.1
+
+The Department—
+
+18.1.a
+
+may issue guidance to the listed bodies, or any additional bodies the
+Department considers appropriate, about the sort of information it seeks to
+obtain from them for the purpose of the assessment by it of the operation of
+this Act, and
+
+18.1.b
+
+must have regard to relevant information it obtains from the listed bodies, or
+from any additional bodies to whom such guidance is issued, in relation to the
+operation of this Act when determining the steps (if any) that could be taken
+by it for the purpose of ensuring the effectiveness of the operation of this
+Act.
+
+18.2
+
+The listed bodies are—
+
+18.2.a
+
+the Police Service of Northern Ireland, and
+
+18.2.b
+
+the Public Prosecution Service for Northern Ireland.
+
+#### Training
+
+19
+
+19.1
+
+It is mandatory for each listed authority, and each specified authority, to
+provide for those of its relevant personnel who have responsibilities for
+dealing with cases under this Act—
+
+19.1.a
+
+such initial training, and
+
+19.1.b
+
+such annual or other top-up training,
+
+as the authority considers appropriate for the purpose of the effective
+discharge by those personnel of their respective responsibilities.
+
+19.2
+
+The Chief Constable is a listed authority, and the Chief Constable’s “relevant
+personnel” are the personnel of the Police Service of Northern Ireland.
+
+19.3
+
+The Director of Public Prosecutions for Northern Ireland is a listed
+authority, and the Director’s “relevant personnel” are the personnel of the
+Public Prosecution Service for Northern Ireland.
+
+19.4
+
+The Department is a listed authority, and the Department’s “relevant
+personnel” are—
+
+19.4.a
+
+staff within the Northern Ireland Courts and Tribunal Service, and
+
+19.4.b
+
+staff within any additional agency of the Department that has functions in
+relation to cases under this Act and that the Department selects in connection
+with this subsection.
+
+19.5
+
+The Department must publish a statement detailing the level of participation
+by relevant personnel in training provided under subsection (1)—
+
+19.5.a
+
+before the end of the period of 18 months beginning with the day on which this
+Act receives Royal Assent, and
+
+19.5.b
+
+thereafter within each period of 12 months beginning with the day on which the
+last statement was published.
+
+19.6
+
+A “specified authority” is a person that—
+
+19.6.a
+
+has functions in relation to cases under this Act, and
+
+19.6.b
+
+is specified in connection with this section in regulations made by the
+Department;
+
+and a specified authority’s “relevant personnel” are persons of a description
+specified in regulations made by the Department.
+
+19.7
+
+Regulations under subsection (6) are subject to negative resolution.
+
+#### Report on the operation of this Act
+
+20
+
+20.1
+
+The Department must prepare a report for each reporting period giving the
+information in subsections (2) to (5) (so far as available to the Department).
+
+20.2
+
+In relation to sections 1, 2 and 13 (offences), the information referred to in
+subsection (1) is —
+
+20.2.a
+
+the number of stalking incidents reported to the police (broken down by
+reference to each of sections 1, 2 and 13); and “stalking incident” here means
+an incident (including a course of conduct) which, as reported to the police,
+indicates that an offence may have been committed under section 1, 2, or 13,
+
+20.2.b
+
+the number of crimes recorded by or on behalf of the police that are
+classified as an offence under section 1, 2 or 13 broken down by reference to
+each section,
+
+20.2.c
+
+the numbers mentioned in paragraphs (a) and (b) broken down by reference to
+police districts,
+
+20.2.d
+
+the number of files submitted by or on behalf of the police to the Public
+Prosecution Service for Northern Ireland in relation to offences under one or
+more of sections 1, 2 and 13,
+
+20.2.e
+
+the number of cases prosecuted by the Public Prosecution Service for offences
+under one or more of sections 1, 2, and 13, and—
+
+20.2.e.i
+
+the number of convictions in those cases,
+
+20.2.e.ii
+
+the average length of time in those cases from recording of a crime by or on
+behalf of the police to disposal of the case at court (disregarding appeal
+processes), and
+
+20.2.e.iii
+
+the number mentioned in sub-paragraph (i) broken down by reference to whether
+the conduct or behaviour concerned was engaged in by means of the internet—
+
+20.2.e.iii.A
+
+in a key way, or
+
+20.2.e.iii.B
+
+in some lesser but non-minimal way, or
+
+20.2.e.iii.C
+
+either minimally or not at all.
+
+20.3
+
+In relation to stalking protection orders the information referred to in
+subsection (1) is—
+
+20.3.a
+
+the number of stalking protection order incidents reported to the police; and
+“stalking protection order incident” here means an incident (including a
+course of conduct) which, as reported to the police, indicates that the Chief
+Constable may have grounds for applying for a stalking protection order
+against a person,
+
+20.3.b
+
+the number of applications for stalking protection orders under section 7 and
+the number of orders made under section 8,
+
+20.3.c
+
+the number of stalking protection orders—
+
+20.3.c.i
+
+discharged before the end of the period of 2 years beginning with the day on
+which the order was made,
+
+20.3.c.ii
+
+discharged at the end of the period of 2 years beginning with the day on which
+the order was made,
+
+20.3.c.iii
+
+discharged after a period of more than 2 years beginning with the day on which
+the order was made,
+
+20.3.d
+
+information on the number of applications seeking the—
+
+20.3.d.i
+
+variation,
+
+20.3.d.ii
+
+renewal, or
+
+20.3.d.iii
+
+discharge,
+
+of a stalking protection order broken down by reference to whether the
+application was made by the Chief Constable or the person against whom the
+order was made.
+
+20.3.e
+
+information about the level of compliance with stalking protection orders and
+the requirements of sections 14 and 15 in relation to stalking protection
+orders.
+
+20.4
+
+In relation to interim stalking protection orders, the information referred to
+in subsection (1) is —
+
+20.4.a
+
+the number of applications for interim stalking protection orders under
+section 11 and the number of orders made,
+
+20.4.b
+
+the average duration of interim stalking protection orders,
+
+20.4.c
+
+the number of interim stalking protection orders which cease to have effect as
+a result of a stalking protection order being made on the main application,
+
+20.4.d
+
+information on the number of applications seeking the—
+
+20.4.d.i
+
+variation,
+
+20.4.d.ii
+
+renewal, or
+
+20.4.d.iii
+
+discharge,
+
+of an interim stalking protection order broken down by reference to whether
+the application was made by the Chief Constable or the person against whom the
+order was made.
+
+20.4.e
+
+information about the level of compliance with interim stalking protection
+orders and the requirements of sections 14 and 15 in relation to interim
+stalking protection orders.
+
+20.5
+
+The information referred to in subsection (1) also includes—
+
+20.5.a
+
+information about the level of participation, by persons for whom section 19
+requires training to be provided, in the required training provided for them,
+
+20.5.b
+
+information about how court business is arranged so as to ensure the efficient
+disposal of—
+
+20.5.b.i
+
+cases under sections 1, 2 and 13, and
+
+20.5.b.ii
+
+applications for stalking protection orders and applications for interim
+stalking protection orders,
+
+20.5.c
+
+information about the experience at court of witnesses (including witnesses
+who are children) —
+
+20.5.c.i
+
+in cases under sections 1, 2 and 13, and
+
+20.5.c.ii
+
+in applications for stalking protection orders and applications for interim
+stalking protection orders,
+
+but for the purposes of this paragraph a witness does not include the accused
+or a person against whom an order is sought.
+
+20.5.d
+
+information about any issuing, review or revision of guidance under section 17
+or 18,
+
+20.5.e
+
+any views or assessment that the Department considers it appropriate to give
+in relation to the operation of this Act or its effectiveness,
+
+20.5.f
+
+information about any steps taken by the Department for raising public
+awareness of the behaviours addressed by this Act (including, in particular,
+awareness amongst persons targeted, or harmed or otherwise victimised, by the
+behaviours),
+
+20.5.g
+
+information about any activities undertaken by the Department in supporting
+the operation of this Act, and
+
+20.5.h
+
+any further information the Department considers appropriate.
+
+20.6
+
+For the purposes of subsection (1)—
+
+20.6.a
+
+the first reporting period—
+
+20.6.a.i
+
+begins on the day on which this Act receives Royal Assent, and
+
+20.6.a.ii
+
+is of such length, at least 2 years and not more than 3 years, as the
+Department determines, and
+
+20.6.b
+
+each subsequent reporting period is the 3 years beginning with the end of the
+previous reporting period.
+
+20.7
+
+The Department must publish each report under this section as soon as
+practicable after completion of the report.
+
+20.8
+
+The Department must lay before the Assembly each report under this section.
+
+20.9
+
+The duty under subsection (1) does not apply to reporting periods ending after
+such time as the Department may by regulations specify, but a time may not be
+specified if it is earlier than the end of 10 years beginning with the day on
+which this Act receives Royal Assent.
+
+20.10
+
+Regulations under subsection (9) are subject to negative resolution.
+
+### Interpretation, commencement and short title
+
+#### Interpretation
+
+21
+
+In this Act—
+
+      “ the Department ” means the Department of Justice;           “ interim
+stalking protection order ” has the meaning given in section 11(1);
+“ stalking protection order ” has the meaning given in section 7(1);
+“ UK national ” means an individual who is—         a British citizen, a
+British overseas territories citizen, a British National (Overseas) or a
+British Overseas citizen,           a person who under the British Nationality
+Act 1981 is a British subject, or           a British protected person within
+the meaning of that Act.
+
+#### Commencement
+
+22
+
+22.1
+
+Sections 1 to 5, sections 18 to 21, this section and section 23 come into
+operation on the day after the day on which this Act receives Royal Assent.
+
+22.2
+
+The other provisions of this Act come into operation on such day or days as
+the Department may by order appoint.
+
+22.3
+
+The Department may by order make such transitional, transitory or saving
+provision as the Department considers appropriate in connection with the
+coming into operation of any provision of this Act.
+
+#### Short title
+
+23
+
+This Act may be cited as the Protection from Stalking Act (Northern Ireland)
+2022.
+

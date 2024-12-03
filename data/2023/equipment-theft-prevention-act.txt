@@ -1,0 +1,271 @@
+Title: Equipment Theft (Prevention) Act 2023
+Date: 2024-01-17
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ukpga/2023/34
+
+## Equipment Theft (Prevention) Act 2023
+
+      B e it enacted  by the King’s most Excellent Majesty, by and with the
+advice and consent of the Lords Spiritual and Temporal, and Commons, in this
+present Parliament assembled, and by the authority of the same, as follows:—
+
+### Requirements for sale of equipment
+
+1
+
+1.1
+
+The Secretary of State may by regulations make provision to restrict the sale
+of specified equipment where a specified requirement is not met.
+
+1.2
+
+Regulations under subsection  (1)  may specify equipment of a kind falling
+within the following descriptions—
+
+1.2.a
+
+mechanically propelled vehicles that—
+
+1.2.a.i
+
+are designed or adapted primarily for use other than on a road,
+
+1.2.a.ii
+
+have an engine capacity of at least 250 cubic centimeters or two kilowatts,
+and
+
+1.2.a.iii
+
+travel on more than two wheels or on tracks;
+
+1.2.b
+
+other equipment designed or adapted primarily for use in agricultural or
+commercial activities.
+
+1.3
+
+Regulations under subsection  (1)  may specify a requirement of a kind falling
+within the following descriptions—
+
+1.3.a
+
+a requirement that the equipment is fitted with a device designed, or adapted,
+to be fitted for the purposes of preventing the equipment from being driven or
+otherwise put in motion;
+
+1.3.b
+
+a requirement that the equipment is marked with—
+
+1.3.b.i
+
+a unique identifier, and
+
+1.3.b.ii
+
+a visible indication that it is marked with a unique identifier.
+
+1.4
+
+Regulations under subsection  (1)  may not restrict the sale of equipment if—
+
+1.4.a
+
+the sale is solely for the purposes of onward sale by the buyer, or
+
+1.4.b
+
+the equipment has previously been used for the purpose for which it was
+primarily designed or adapted.
+
+1.5
+
+In this Act—
+
+1.5.a
+
+“ equipment ” includes a vehicle;
+
+1.5.b
+
+equipment is not “used for the purpose for which it was primarily designed or
+adapted” solely by virtue of being used—
+
+1.5.b.i
+
+in order to demonstrate its features to a potential buyer of the equipment or
+other equipment of the same or a similar kind, or
+
+1.5.b.ii
+
+in preparation for such a demonstration.
+
+### Record keeping
+
+2
+
+2.1
+
+The Secretary of State may by regulations provide that a person selling
+equipment of a kind falling within a description in section  1 (2)  must
+record specified information in connection with the sale.
+
+2.2
+
+The information may include, for example—
+
+2.2.a
+
+a name, address or telephone number, or other contact details, of the buyer,
+
+2.2.b
+
+the make, model or colour of the equipment,
+
+2.2.c
+
+if the equipment is marked with a unique identifier of a kind specified in
+regulations under section  1 (1) —
+
+2.2.c.i
+
+details of that unique identifier, and
+
+2.2.c.ii
+
+the method or location of the marking, and
+
+2.2.d
+
+the date on which the contract of sale was entered into.
+
+2.3
+
+Regulations under subsection  (1)  may make provision about—
+
+2.3.a
+
+when the information must be recorded;
+
+2.3.b
+
+for how long the information must be kept;
+
+2.3.c
+
+the form in which the information must be kept (including, for example, in an
+online system of a particular kind).
+
+2.4
+
+Regulations under subsection  (1)  may not require a person selling equipment
+to record information if—
+
+2.4.a
+
+the sale is solely for the purposes of onward sale by the buyer, or
+
+2.4.b
+
+the equipment has previously been used for the purpose for which it was
+primarily designed or adapted.
+
+### Enforcement
+
+3
+
+3.1
+
+A person commits an offence if the person—
+
+3.1.a
+
+sells equipment in breach of regulations under section  1 , or
+
+3.1.b
+
+fails to record or keep information in accordance with regulations under
+section  2 .
+
+3.2
+
+A person that commits an offence under subsection  (1)  is liable on summary
+conviction to a fine.
+
+3.3
+
+An enforcement authority may enforce regulations under section  1  or  2  in
+their area.
+
+3.4
+
+For the powers available to an enforcement authority for the purposes of
+enforcing regulations under section  1  or  2 , see Schedule 5 to the Consumer
+Rights Act 2015 (investigatory powers of enforcers etc).
+
+3.5
+
+“ Enforcement authority ” means—
+
+3.5.a
+
+a local weights and measures authority, or
+
+3.5.b
+
+a district council that is not a local weights and measures authority.
+
+3.6
+
+In paragraph 10 of Schedule 5 to the Consumer Rights Act 2015 (duties and
+powers under which enforcement powers may be exercised), at the end insert—
+
+      section  3  of the Equipment Theft (Prevention) Act 2023.
+
+### Regulations: general
+
+4
+
+4.1
+
+A power to make regulations under any provision of this Act includes power to
+make—
+
+4.1.a
+
+consequential, supplementary, transitional or saving provision;
+
+4.1.b
+
+different provision for different purposes.
+
+4.2
+
+Regulations under this Act are to be made by statutory instrument.
+
+4.3
+
+A statutory instrument containing regulations under this Act may not be made
+unless a draft of the instrument has been laid before and approved by a
+resolution of each House of Parliament.
+
+### Extent, commencement and short title
+
+5
+
+5.1
+
+This Act extends to England and Wales.
+
+5.2
+
+This Act comes into force at the end of the period of six months beginning
+with the day on which this Act is passed.
+
+5.3
+
+This Act may be cited as the Equipment Theft (Prevention) Act 2023.
+

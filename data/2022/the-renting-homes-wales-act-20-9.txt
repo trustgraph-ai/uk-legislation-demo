@@ -1,0 +1,662 @@
+Title: The Renting Homes (Wales) Act 2016 (Amendment of Schedule 12) Regulations 2022
+Date: 2023-01-04
+Description: The Renting Homes (Wales) Act 2016 (anaw 1) (“the 2016 Act”) changes the renting landscape in Wales by, amongst other things, introducing the concept of “standard” and “secure” “occupation contracts”.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/wsi/2022/795
+
+## The Renting Homes (Wales) Act 2016 (Amendment of Schedule 12) Regulations 2022
+
+Housing, Wales
+
+Made 13 July 2022
+
+Coming into force in accordance with regulation 1(2).
+
+The Welsh Ministers make the following Regulations in exercise of the power
+conferred on them by paragraph 33 of Schedule 12 to the Renting Homes (Wales)
+Act 2016 . In accordance with section 256(3) and (4)(n) of that Act, a draft
+of these Regulations has been laid before, and approved by a resolution of,
+Senedd Cymru.
+
+### Title and coming into force
+
+1
+
+1.1
+
+The title of these Regulations is the Renting Homes (Wales) Act 2016
+(Amendment of Schedule 12) Regulations 2022.
+
+1.2
+
+These Regulations come into force on the day after the day on which they are
+made.
+
+### Amendments to Schedule 12
+
+2
+
+Schedule 12  to the Renting Homes (Wales) Act 2016 is amended as follows.
+
+3
+
+In paragraph 1(1), in the appropriate place insert—
+
+“assured agricultural occupancy” (“ meddiannaeth amaethyddol sicr ”) has the
+same meaning as in Part 1 of the Housing Act  1988 (c. 50)  (see section 24(1)
+of that Act); “assured tenancy” ( “tenantiaeth sicr” ) includes a reference to
+an assured agricultural occupancy which is treated as an assured tenancy under
+section 24(3) of the Housing Act 1988 (as well as an assured agricultural
+occupancy which is an assured tenancy) “converted AAO” ( “MAS wedi ei throsi”
+) means a converted contract which immediately before the appointed day was an
+assured agricultural occupancy;
+
+4
+
+In paragraph 2—
+
+4.a
+
+after sub-paragraph (2) insert—
+
+4.a.2A
+
+Schedule 2 applies to a tenancy or licence which immediately before the
+appointed day was a secure tenancy or an assured tenancy as if paragraph
+7(3)(k)(i) of that Schedule were omitted.
+
+4.b
+
+at the end insert—
+
+4.b.5
+
+Part 5 of Schedule 2 (special rules applying to supported accommodation) does
+not apply to—
+
+4.b.5.a
+
+a tenancy which existed immediately before the appointed day;
+
+4.b.5.b
+
+a licence which—
+
+4.b.5.b.i
+
+immediately before the appointed day was a secure tenancy;
+
+4.b.5.b.ii
+
+has a start date (within the meaning given in paragraph 13(5) of Schedule 2)
+falling more than 6 months before the appointed day.
+
+4.b.6
+
+In their application to a tenancy or licence which immediately before the
+appointed day was an assured agricultural occupancy—
+
+4.b.6.a
+
+section 7 (tenancies and licences that are occupation contracts) applies as if
+subsection (1)(b) (rent or other consideration must be payable) were omitted,
+and
+
+4.b.6.b
+
+Schedule 2 applies as if paragraph 1(2) were omitted.
+
+5
+
+After paragraph 2 insert—
+
+5.2A
+
+5.2A.1
+
+Section 7(6) and paragraph 7(2) of Schedule 2 do not apply to a licence where
+immediately before the appointed day—
+
+5.2A.1.a
+
+the licensee was aged 16 or 17, and
+
+5.2A.1.b
+
+the licence was—
+
+5.2A.1.b.i
+
+a secure tenancy, or
+
+5.2A.1.b.ii
+
+an assured agricultural occupancy.
+
+5.2A.2
+
+Where sub-paragraph (1) applies, this Act applies to the contract-holder as if
+he or she were aged 18.
+
+6
+
+In paragraph 4—
+
+6.a
+
+in sub-paragraph (1)—
+
+6.a.i
+
+after “converted contract” insert  “to which section 11 applies (whether or
+not under paragraph 3)” ;
+
+6.a.ii
+
+for “notice under” substitute  “notice as described in” .
+
+6.b
+
+in sub-paragraph (2) for “does so” substitute  “gives notice under section 13”
+.
+
+7
+
+For paragraph 5 substitute—
+
+7.5
+
+A converted contract which immediately before the appointed day was—
+
+7.5.a
+
+an introductory tenancy, or
+
+7.5.b
+
+an assured shorthold tenancy—
+
+7.5.b.i
+
+under which the landlord was a registered social landlord or a private
+registered provider of social housing, but not a fully mutual housing
+association or a co-operative housing association, and
+
+7.5.b.ii
+
+which was expressed as being, or otherwise amounted to, a starter tenancy,
+
+has effect as an introductory standard contract (see paragraph 23).
+
+8
+
+After paragraph 6 insert—
+
+8.6A
+
+A converted contract relating to supported accommodation has effect as a
+supported standard contract only if immediately before the appointed day the
+contract was—
+
+8.6A.a
+
+an assured shorthold tenancy (see paragraph 24A for further provision about
+supported standard contracts that were assured shorthold tenancies), or
+
+8.6A.b
+
+a licence, other than a licence which was a secure tenancy.
+
+9
+
+In paragraph 12A, omit the “(1)” which precedes the text of that paragraph.
+
+10
+
+After paragraph 13 insert—
+
+####### Deposit Schemes
+
+10.13A
+
+10.13A.1
+
+The provisions mentioned in sub-paragraph (2) do not apply to a converted
+contract unless, immediately before the appointed day, it was an assured
+shorthold tenancy.
+
+10.13A.2
+
+The provisions (which concern a requirement to use a deposit scheme) are—
+
+10.13A.2.a
+
+sections 45 and 46;
+
+10.13A.2.b
+
+Schedule 5;
+
+10.13A.2.c
+
+paragraphs 4(2) to (5) of Schedule 9A.
+
+11
+
+After the heading “Variation” and before paragraph 14 insert—
+
+11.13B
+
+Section 123 (variation of rent) does not apply to a converted contract that is
+a periodic standard contract which immediately before the appointed day—
+
+11.13B.a
+
+was an assured tenancy but not an assured shorthold tenancy, and
+
+11.13B.b
+
+contained a term which made provision about variation of the rent under the
+tenancy or licence.
+
+12
+
+In paragraph 15—
+
+12.a
+
+in sub-paragraph (1) after “converted contract” insert  “(other than a
+contract mentioned in paragraph 13B)” ;
+
+12.b
+
+for sub-paragraph (3) substitute—
+
+12.b.3
+
+A converted contract is a relevant converted contract if—
+
+12.b.3.a
+
+immediately before the appointed day it was a tenancy or licence to which
+section 13 of the Housing Act  1988 (c. 50)  (increases of rent under assured
+periodic tenancies) applied,
+
+12.b.3.b
+
+it is a periodic standard contract which is a substitute contract (see
+paragraph 32)—
+
+12.b.3.b.i
+
+arising under section 184(2), or
+
+12.b.3.b.ii
+
+within section 184(6),
+
+and which immediately before the appointed day was an assured tenancy, but not
+an assured shorthold tenancy, for a fixed term, or
+
+12.b.3.c
+
+it is a secure contract which immediately before the appointed day was an
+assured tenancy, but not an assured shorthold tenancy, for a fixed term.
+
+13
+
+In paragraph 23—
+
+13.a
+
+for sub-paragraph (3)(c) substitute—
+
+13.a.c
+
+the reference in paragraph 1(7) of Schedule 4 to the introduction date of the
+contract were a reference to—
+
+13.a.c.i
+
+in relation to a converted contract which, immediately before the appointed
+day, was an introductory tenancy, to the day which was the beginning of the
+trial period under section 125(2)(a) or (b) of the Housing Act  1996 (c. 52) ;
+
+13.a.c.ii
+
+in relation to a converted contract which, immediately before the appointed
+day, was a starter tenancy, to the introduction date of the tenancy as
+determined in accordance with sub-paragraph (5).
+
+13.b
+
+for sub-paragraph (6) substitute—
+
+13.b.6
+
+For the purposes of paragraph 2 of Schedule 4 the introduction date—
+
+13.b.6.a
+
+in relation to a converted contract which, immediately before the appointed
+day, was an introductory tenancy, is the day which was the beginning of the
+trial period under section 125(2)(a) or (b) of the Housing Act 1996;
+
+13.b.6.b
+
+in relation to a converted contract which, immediately before the appointed
+day, was a starter tenancy, is the introduction date of the tenancy as
+determined in accordance with sub-paragraph (5).
+
+13.c
+
+for sub-paragraph (7) substitute—
+
+13.c.7
+
+Paragraph 2(5) and (6) of Schedule 4 does not apply, but—
+
+13.c.7.a
+
+a notice of extension given, in relation to a converted contract which was an
+introductory tenancy, under section 125A of the Housing Act 1996, and
+
+13.c.7.b
+
+a notice, given in relation to a converted contract which was a starter
+tenancy, extending the period at the end of which the landlord and the tenant
+would enter into an assured tenancy (that is not an assured shorthold
+tenancy),
+
+has effect as if given under paragraph 3 of Schedule 4 (and, regardless of the
+length of extension under a notice as described in paragraph (b), the
+introductory period ends 18 months after the introduction date of the starter
+tenancy (as determined in accordance with sub-paragraph 5)).
+
+14
+
+After paragraph 24 insert—
+
+####### Supported standard contract that was an assured shorthold tenancy
+
+14.24A
+
+This Act applies to a converted contract which—
+
+14.24A.a
+
+immediately before the appointed day was an assured shorthold tenancy, and
+
+14.24A.b
+
+took effect on conversion as a supported standard contract,
+
+as if sections 144 (mobility) and 145 (temporary exclusion) were omitted.
+
+15
+
+In paragraph 25A—
+
+15.a
+
+in sub-paragraph (2)(b)—
+
+15.a.i
+
+for “the references in subsections (1) and (2)” substitute  “the reference in
+subsection (1)” ;
+
+15.a.ii
+
+for “were references” substitute  “was a reference” ;
+
+15.b
+
+after sub-paragraph (2)(b) insert—
+
+, and
+
+15.b.c
+
+in section 175, for subsections (2) and (3) there were substituted—
+
+15.b.c.2
+
+If the converted contract is a substitute tenancy or licence, the landlord may
+not give notice under section 173 before the end of the period of four months
+starting with the day on which the contract-holder became entitled to occupy
+the dwelling under the original tenancy or licence.
+
+15.b.c.3
+
+For the purposes of subsection (2)—
+
+15.b.c.3.a
+
+a converted contract was a substitute tenancy or licence if—
+
+15.b.c.3.a.i
+
+the occupation date of the converted contract falls immediately after the end
+of a preceding tenancy or licence,
+
+15.b.c.3.a.ii
+
+immediately before the occupation date of the converted contract a tenant or
+licensee under the contract was a tenant or licensee under the preceding
+tenancy or licence, and a landlord under the converted contract was a landlord
+under the preceding tenancy or licence, and
+
+15.b.c.3.a.iii
+
+the converted contract relates to the same (or substantially the same)
+dwelling as the preceding tenancy or licence, and
+
+15.b.c.3.b
+
+“original tenancy or licence” means—
+
+15.b.c.3.b.i
+
+where the substitute tenancy or licence has an occupation date falling
+immediately after the end of a tenancy or licence which is not a substitute
+tenancy or licence, the tenancy or licence which preceded the substitute
+tenancy or licence;
+
+15.b.c.3.b.ii
+
+where there have been successive substitute tenancies or licences, the tenancy
+or licence which preceded the first of the substitute tenancies or licences.
+
+16
+
+In paragraph 25B, after sub-paragraph (1) insert—
+
+16.1A
+
+The reference to a tenancy or licence for a fixed term in sub-paragraph (1)(a)
+does not include a reference to an assured tenancy that was not an assured
+shorthold tenancy.
+
+17
+
+In paragraph 25D(1) after “applies to a fixed term standard contract” insert
+“(other than a tenancy or licence mentioned in paragraph 26(2) or (3))” .
+
+18
+
+In paragraph 29(1) for “an assured tenancy” substitute  “a periodic assured
+tenancy” .
+
+19
+
+In paragraph 32—
+
+19.a
+
+in sub-paragraph (3)—
+
+19.a.i
+
+in paragraph (a) for “who immediately before the occupation date of the
+contract” substitute  “who, immediately before the day on which the contract-
+holder became entitled to occupy the dwelling under that contract,” ;
+
+19.a.ii
+
+in paragraph (b) for “date” substitute  “day” ;
+
+19.b
+
+omit sub-paragraph (4);
+
+19.c
+
+after sub-paragraph (7), insert—
+
+19.c.8
+
+This Schedule applies to a substitute contract which—
+
+19.c.8.a
+
+arises under section 184(2) as if paragraph 25A(2)(a) were omitted;
+
+19.c.8.b
+
+is within section 184(6) as if paragraphs 25A(2)(a), 25B, 25C and 25D were
+omitted.
+
+Julie James Minister for Climate Change, one of the Welsh Ministers
+
+## EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+The Renting Homes (Wales) Act  2016 (anaw 1)  (“the 2016 Act”) changes the
+renting landscape in Wales by, amongst other things, introducing the concept
+of “standard” and “secure” “occupation contracts”.
+
+These Regulations amend Schedule 12 to the 2016 Act. Schedule 12 sets out
+provision about tenancies and licences that existed before the 2016 Act came
+into force and which convert into occupation contracts on the “appointed day”
+(the day on which the 2016 Act is fully brought into force). These are
+referred to as “converted contracts”. Schedule 12 is designed to ensure that
+the 2016 Act will work in relation to such contracts.
+
+Regulation 5 inserts new paragraph 2A which provides that licences held by 16
+and 17 year olds which are secure tenancies or assured agricultural
+occupancies (“AAOs”) convert into occupation contracts. The licensee will be
+the contract-holder and the 2016 Act will apply to the contract in the same
+way as it does to any other converted contract.
+
+These Regulations make the following amendments that concern supported
+accommodation and outline which tenancies and licences can, and cannot, be
+supported standard contracts (see Part 8 of the 2016 Act). Regulation 4(b)
+inserts new sub-paragraph (5) into paragraph 2. This amendment disapplies Part
+5 of Schedule 2 for any tenancy which existed immediately before the appointed
+day. The effect of this amendment is to ensure a landlord cannot stop a
+tenancy that relates to supported accommodation from converting and becoming
+an occupation contract. Although Part 5 of Schedule 2 cannot meaningfully
+apply to a licence which is more than 6 months old, the amendment puts this
+beyond doubt. Regulation 8 inserts new paragraph 6A which provides that only
+an assured shorthold tenancy or a licence (other than a licence which was a
+secure tenancy) which relates to supported accommodation is permitted to
+convert into a supported standard contract. Regulation 14 inserts new
+paragraph 24A which provides that sections 144 (mobility) and 145 (temporary
+exclusion) do not apply to a converted contract that is a supported standard
+contract and that was, immediately before the appointed day, an assured
+shorthold tenancy.
+
+These Regulations make the following amendments in relation to “starter
+tenancies”. Regulation 7 substitutes paragraph 5 to expand the converted
+contracts that have effect as an introductory standard contract (see section
+16 of, and Schedule 4 to, the 2016 Act). The amendment adds (to the existing
+provision for introductory tenancies) assured shorthold tenancies that were
+starter tenancies provided the landlord was a registered social landlord or
+private registered provider of social housing (with certain exceptions). As a
+consequence of the amendment made to paragraph 5, paragraph 23 is amended (by
+regulation 13). Regulation 13(a) and (b) amend paragraphs 23(3)(c) and (6) to
+update the references, in paragraphs 1(7) and 2 of Schedule 4, to the
+“introduction date” of the contract to include the introduction date of the
+starter tenancy. Regulation 13(c) substitutes paragraph 23(7) to modify the
+application of the Act to deal with situations where an extension has already
+been given under a starter tenancy.
+
+Regulation 10 inserts new paragraph 13A which provides that the deposit scheme
+provisions of the 2016 Act only apply to a converted contract that,
+immediately before the appointed day, was an assured shorthold tenancy.
+
+Regulation 11 inserts new paragraph 13B which provides that where there is a
+converted periodic standard contract which, immediately before the appointed
+day, was an assured tenancy containing a term about rent variation, the rent
+can only be varied in accordance with that term, and the landlord cannot use
+section 123 to vary the rent.
+
+Regulation 12 amends paragraph 15, which concerns variation of rent.
+Regulation 12(a) amends paragraph 15(1) to ensure there is no tension between
+that provision and paragraph 13B. In essence, this amendment reinforces that
+where a converted contract falls within paragraph 13B, paragraph 15 does not
+apply.
+
+Regulation 12(b) amends paragraph 15(3) so that the contract-holder under the
+types of contract referred to in paragraphs 15(3)(b) or (c) can, under
+regulations made under paragraph 15(2), apply for a determination of rent for
+the dwelling.
+
+A number of the amendments made by these Regulations concern the conversion of
+AAOs. Regulation 3 amends paragraph 1 to include some additional definitions.
+The most significant is the way in which “assured tenancy” is read in Schedule
+12; the amendment removes any doubt that it includes an AAO which, immediately
+before the appointed day, was treated as an assured tenancy under section
+24(3) of the Housing Act 1988. Regulation 4(b) inserts new sub-paragraph (6)
+into paragraph 2. The effect of this amendment is that existing AAOs that
+would not otherwise be capable of becoming occupation contracts (because no
+rent or other consideration is payable under them) will convert into
+occupation contracts on the appointed day.
+
+Regulation 19(b) omits paragraph 32(4). The effect of this amendment is that a
+new contract which arises under section 184(2) or is within section 184(6) is
+a substitute contract for the purposes of Schedule 12. As a consequence of
+omitting paragraph 32(4), regulation 15 amends paragraph 25A.
+
+The amendments to paragraph 25A provide that where a substitute contract is a
+periodic standard contract (which either arises under section 184(2) or is
+within section 184(6)) the landlord must give 6 months’ notice under section
+173 and the landlord cannot give a section 173 notice within the period of 4
+months, starting with the date on which the contract-holder become entitled to
+occupy the dwelling under the original tenancy or licence.
+
+Regulation 19(c) inserts new sub-paragraph (8) into paragraph 32. This
+amendment means that in relation to a substitute contract that is a periodic
+standard contract arising under section 184(2), the minimum notice period
+under section 174 is 6 months (not 2 months). This amendment also means that
+in relation to a substitute contract that is within section 184(6), paragraphs
+25A(2)(a), 25B, 25C and 25D are omitted.
+
+These Regulations also make the following amendments: Regulation 4(a)
+disapplies paragraph 7(3)(k)(i) of Schedule 2 in relation to a tenancy or
+licence which immediately before the appointed day was a secure or assured
+tenancy; removing the prohibition on this type of asylum-seeker accommodation
+from converting to the relevant occupation contract on the appointed day.
+Regulation 6(a) and (b) make minor amendments to paragraph 4. Notice of a
+standard contract is not given “under” section 11(2)(b) of the 2016 Act; it is
+given under section 13. Section 11(2)(b) simply describes the notice that has
+to be given. These amendments seek to better reflect this position. Regulation
+9 makes an amendment to rectify a minor drafting error. Regulation 16 amends
+paragraph 25B to provide that the provisions of that paragraph do not apply to
+an assured tenancy that was not an assured shorthold tenancy. Regulation 17
+contains a minor amendment to put it beyond doubt that paragraph 25D could not
+apply to a fixed term standard contract that was a fixed term secure tenancy
+or (subject to some exemptions) a fixed term assured tenancy. Regulation 18
+amends paragraph 29(1) to narrow its purported application to only periodic
+assured tenancies. Prior to the appointed day, in its application to Wales,
+Ground 7 of Schedule 2 to the Housing Act 1988 only applied to periodic
+assured tenancies and this amendment reflects that position. Regulation 19(a)
+makes textual amendments to aid clarity.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
+Assessments was considered in relation to these Regulations. As a result, it
+was not considered necessary to carry out a regulatory impact assessment as to
+the likely costs and benefits of complying with these Regulations.
+

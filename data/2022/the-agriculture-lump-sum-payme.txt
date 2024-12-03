@@ -1,0 +1,862 @@
+Title: The Agriculture (Lump Sum Payment) (England) Regulations 2022
+Date: 2024-05-20
+Description: These Regulations, which apply to England only, are made under the Agriculture Act 2020 (c. 21) (“the Act”). The Secretary of State has the power to give a lump sum payment to farmers in place of:direct payments under the basic payment scheme established under Regulation (EU) No 1307/2013 of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy; anddelinked payments under section 12 of the Act.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/390
+
+## The Agriculture (Lump Sum Payment) (England) Regulations 2022
+
+    Agriculture, England
+
+  Made   25th March 2022
+
+  Coming into force   26th March 2022
+
+      The Secretary of State makes these Regulations in exercise of the powers
+conferred by sections 13 and 50(3) of the Agriculture Act 2020 .         In
+accordance with sections 13(5) and 50(6) of the Act, a draft of this
+instrument was laid before, and approved by a resolution of, each House of
+Parliament.
+
+### Introduction
+
+#### Citation, commencement, extent and application
+
+1
+
+1.1
+
+These Regulations may be cited as the Agriculture (Lump Sum Payment) (England)
+Regulations 2022 and come into force on the day after the day on which they
+are made.
+
+1.2
+
+These Regulations extend to England and Wales but apply in England only.
+
+#### Interpretation
+
+2
+
+2.1
+
+In these Regulations—
+
+“ the Act ” means the Agriculture Act 2020; “ agricultural holdings tenancy ”
+means a contract for an agricultural tenancy to which the Agricultural
+Holdings Act 1986  applies; “ agricultural land ” means any area in England
+comprising arable land, permanent grassland, permanent pasture, or permanent
+crops which is used wholly or predominantly for an agricultural activity and,
+for the purposes of this definition— “ agricultural activity ” has the same
+meaning as in Article 4(1)(c) of  Regulation (EU) No 1307/2013 ; “ arable land
+” has the same meaning as in Article 4(1)(f) of  Regulation (EU) No 1307/2013
+; “ permanent crops ” has the same meaning as in Article 4(1)(g) of
+Regulation (EU) No 1307/2013 ; and “permanent grassland” and “ permanent
+pasture ” has the same meaning as in Article 4(1)(h) of  Regulation (EU) No
+1307/2013 ; “ applicant ” means a person who makes an application under
+regulation  4 ; “ claim year ” means a period of 12 months beginning with 1st
+January (and “claim year” followed by a year means the period of 12 months
+beginning with 1st January in that year) ; “ equity share capital ” has the
+same meaning as in section 548 of the Companies Act 2006 ; “ farm business
+tenancy ” means a tenancy to which the Agricultural Tenancies Act 1995
+applies; “ payment entitlement ” means a payment entitlement as referred to in
+Article 21(a) and (b) of  Regulation (EU) No 1307/2013  and recorded on the
+register; “ the register ” means the register established by the Secretary of
+State for identifying and registering payment entitlements in England under
+Article 7 of  Regulation (EU) No 640/2014 ; “ Regulation (EU) No 1307/2013 ”
+means  Regulation (EU) No 1307/2013  of the European Parliament and of the
+Council of 17 December 2013 establishing rules for direct payments to farmers
+under support schemes within the framework of the common agricultural policy
+and repealing Council Regulation  (EC) No 637/2008  and Council Regulation
+(EC) 73/2009   as that Regulation operated in relation to England immediately
+before the end of 2023 ; “ Regulation (EU) No 640/2014 ” means Commission
+Delegated  Regulation (EU) No 640/2014  of 11 March 2014 supplementing
+Regulation (EU) No 1306/2013  of the European Parliament and of the Council
+with regard to the integrated administration and control system and conditions
+for refusal or withdrawal of payments and administrative penalties applicable
+to direct payments, rural development support and cross compliance   as that
+Regulation operated in relation to England immediately before the end of 2023
+; and “ scheme end date ” means 31st May 2024.
+
+2.2
+
+For the purposes of these Regulations—
+
+2.2.a
+
+a person has “agricultural land at their disposal” if that person is—
+
+2.2.a.i
+
+the owner-occupier of the land; or
+
+2.2.a.ii
+
+a tenant occupying the land under a farm business tenancy or agricultural
+holdings tenancy; and
+
+2.2.b
+
+any reference to “ the applicant ” includes a reference to a natural or legal
+person or, as the case may be, a group of natural or legal persons, regardless
+of the legal status afforded to such group and its members.
+
+### Applications for a lump sum payment
+
+#### Lump sum payment
+
+3
+
+Subject to regulation 11, the Secretary of State must make a lump sum payment
+to a person under these Regulations if that person—
+
+3.a
+
+makes an application for a lump sum payment in accordance with regulation  4 ;
+and
+
+3.b
+
+satisfies the eligibility conditions set out in regulation  5 .
+
+#### Application
+
+4
+
+4.1
+
+Subject to paragraph (2), an application for a lump sum payment made in
+accordance with this regulation must be submitted by the applicant to the
+Secretary of State—
+
+4.1.a
+
+in such form as the Secretary of State may specify; and
+
+4.1.b
+
+no later than 30th September 2022.
+
+4.2
+
+Notwithstanding paragraph (1)(b), the Secretary of State may accept an
+application submitted after the date specified in that paragraph where the
+Secretary of State is satisfied there are good reasons for doing so.
+
+#### Eligibility
+
+5
+
+The eligibility conditions are that—
+
+5.a
+
+the applicant—
+
+5.a.i
+
+was eligible for, and claimed, direct payments under the basic payment scheme
+in, or before, the claim year 2018;
+
+5.a.ii
+
+inherited agricultural land on, or after, 16th May 2018; or
+
+5.a.iii
+
+succeeded to an agricultural holdings tenancy on, or after, 16th May 2018;
+
+5.b
+
+the applicant has met the requirements set out in regulations 6 and 8(1) and,
+where relevant, (3);
+
+5.c
+
+where the applicant—
+
+5.c.i
+
+is a partnership and the lump sum is payable in respect of one or more
+partners in the partnership with an interest, or a combined interest, of 50%
+or more in the profits of the partnership, such partners cease to be a member
+of the partnership; or
+
+5.c.ii
+
+is a body corporate and the lump sum is payable in respect of one or more
+members of the body corporate who, solely or jointly, hold 50% or more of the
+equity share capital in that body corporate, such members cease to be a member
+of the body corporate.
+
+#### Agricultural land
+
+6
+
+6.1
+
+Subject to paragraph (3), the applicant must, no later than the scheme end
+date, complete the transfer to any person, other than a connected person, of—
+
+6.1.a
+
+all agricultural land that was at the applicant’s disposal on 17th May 2021;
+and
+
+6.1.b
+
+where relevant—
+
+6.1.b.i
+
+a proportionate amount of any rights of common attached to the land referred
+to in paragraph (a); and
+
+6.1.b.ii
+
+any rights of common in gross exercisable by the applicant over land in
+England but which are not attached to that land.
+
+6.2
+
+For the purposes of paragraph (1)—
+
+6.2.a
+
+“ connected person ” has the meaning given in regulation 7;
+
+6.2.b
+
+“ rights of common ” means any rights to graze animals or rights to pannage
+that are attached to land and are exercisable over land that is common land;
+
+6.2.c
+
+“ rights of common in gross ” means any rights to graze animals or rights to
+pannage that are exercisable over land that is common land but are not
+attached to land;
+
+6.2.d
+
+“proportionate amount of any rights of common” is the amount of any rights of
+common that is equivalent in percentage terms to the amount of agricultural
+land at the applicant’s disposal on 17th May 2021 that is to be transferred by
+the scheme end date, as a percentage of the land to which the rights are
+attached;
+
+6.2.e
+
+“ common land ” means—
+
+6.2.e.i
+
+land in England that is registered as common land in a register of common land
+kept under section 3 of the Commons Registration Act 1965  or Part 1 of the
+Commons Act 2006 ; or
+
+6.2.e.ii
+
+any other land in England used in common with other persons, whether or not to
+the exclusion of the owner of the land, that is subject to rights of common or
+rights of common in gross.
+
+6.3
+
+Paragraph (1) does not apply—
+
+6.3.a
+
+to a de minimis amount of 5 hectares of agricultural land that was at the
+applicant’s disposal on 17th May 2021;
+
+6.3.b
+
+to any agricultural land that was at the applicant’s disposal on 17th May 2021
+and which has, by the scheme end date, been planted with trees under a
+woodland creation scheme established under—
+
+6.3.b.i
+
+section 1(1) of the Forestry Act 1979 ; or
+
+6.3.b.ii
+
+section 98(1) of the Natural Environment and Rural Communities Act 2006 ; or
+
+6.3.c
+
+in the circumstances described in paragraph (4).
+
+6.4
+
+The circumstances referred to in paragraph (3)(c) are that—
+
+6.4.a
+
+the applicant is—
+
+6.4.a.i
+
+a partnership and the lump sum is payable in respect of one or more partners
+in the partnership, with an interest, or a combined interest, of 50% or more
+in the profits of the partnership; or
+
+6.4.a.ii
+
+a body corporate and the lump sum is payable in respect of one or more members
+of the body corporate, who, solely or jointly, hold 50% or more of the equity
+share capital; and
+
+6.4.b
+
+the agricultural land that was at the applicant’s disposal on 17th May 2021 is
+owned or leased by a person other than a partner or member referred to in
+paragraph (a)(i) or (ii).
+
+6.5
+
+The Secretary of State may extend the period referred to in paragraph (1) if
+the applicant provides evidence to show that—
+
+6.5.a
+
+the transfer of an agricultural holdings tenancy to a successor in accordance
+with Part IV of the Agricultural Holdings Act 1986 is the subject of
+proceedings before a court, tribunal or arbitrator; or
+
+6.5.b
+
+a grant of probate which affects the agricultural land is outstanding.
+
+6.6
+
+In paragraph (1), “ transfer ” means—
+
+6.6.a
+
+in relation to agricultural land—
+
+6.6.a.i
+
+where the applicant is the owner of the land, by sale or gift or by lease
+under a farm business tenancy for a term of no less than 5 years;
+
+6.6.a.ii
+
+where the applicant is a tenant occupying the land under a farm business
+tenancy, by surrender or assignment of the tenancy; and
+
+6.6.a.iii
+
+where the applicant is a tenant occupying the land under an agricultural
+holdings tenancy, by the surrender or assignment of the tenancy or by the
+transfer of the tenancy to a successor in accordance with Part IV of the
+Agricultural Holdings Act 1986;
+
+6.6.b
+
+in relation to any rights of common or rights of common in gross—
+
+6.6.b.i
+
+that are owned by the applicant, by sale, gift or lease for a term of no less
+than 5 years; and
+
+6.6.b.ii
+
+that are leased by the applicant, by surrender or assignment of the lease.
+
+#### Connected persons
+
+7
+
+7.1
+
+For the purposes of regulation 6(1), a “ connected person ” means—
+
+7.1.a
+
+where the applicant is a natural person—
+
+7.1.a.i
+
+the applicant’s spouse or civil partner; or
+
+7.1.a.ii
+
+any other person with whom the applicant lives as partner in an enduring
+family relationship;
+
+7.1.b
+
+where the applicant is a partnership—
+
+7.1.b.i
+
+any partner in the partnership with a substantial interest; or
+
+7.1.b.ii
+
+two or more partners in the partnership who, when taken together, have a
+substantial interest;
+
+7.1.c
+
+where the applicant is a body corporate—
+
+7.1.c.i
+
+any member of the body corporate with a substantial interest; or
+
+7.1.c.ii
+
+two or more members of the body corporate who, when taken together, have a
+substantial interest.
+
+7.2
+
+In paragraph (1), a “ substantial interest ” means—
+
+7.2.a
+
+in the case of a partnership, where the connected person is entitled to more
+than a 50% share in the profits of the partnership; and
+
+7.2.b
+
+in the case of a body corporate, where the connected person holds more than
+50% of the equity share capital of that body.
+
+#### Payment entitlements
+
+8
+
+8.1
+
+Except as otherwise provided in paragraphs (2) and (3), the applicant must, no
+later than the scheme end date, surrender all payment entitlements entered in
+the register in the applicant’s name.
+
+8.2
+
+Paragraph (1) does not apply to any payment entitlements which the applicant
+has leased in.
+
+8.3
+
+Where the applicant has leased out payment entitlements entered in the
+register in the applicant’s name, the applicant must, no later than the scheme
+end date, notify the Secretary of State in writing confirming the surrender of
+the payment entitlements on the date the lease expires.
+
+8.4
+
+The Secretary of State may extend the deadline for the surrender of
+entitlements referred to in paragraphs (1) and (3) if the applicant provides
+evidence to show that the circumstances described in paragraph (5)(a) or (b)
+of regulation 6 apply.
+
+#### Information in support of eligibility for a lump sum payment
+
+9
+
+9.1
+
+The Secretary of State may require the applicant to provide such additional
+information or evidence in support of the application as the Secretary of
+State may request.
+
+9.2
+
+Where the Secretary of State has requested additional information or evidence
+under paragraph (1), the applicant must provide that information or evidence
+before the end of the period specified by the Secretary of State in the
+request.
+
+#### Defects in an application for a lump sum payment
+
+10
+
+Where an applicant has submitted an incomplete application or the application
+contains a material error, the Secretary of State must notify the applicant of
+the defect and permit the applicant to correct the defect before the end of
+the period specified by the Secretary of State.
+
+#### Decision not to pay a lump sum payment
+
+11
+
+11.1
+
+The Secretary of State must not pay a lump sum payment if, having considered
+all information contained in an application, together with any supporting
+information or evidence required under regulation  9 , the Secretary of State
+is satisfied that—
+
+11.1.a
+
+the applicant has not met the eligibility conditions specified in regulation
+5  (so far as relevant);
+
+11.1.b
+
+the applicant has failed to provide information or evidence requested under
+regulation  9 ;
+
+11.1.c
+
+the applicant has failed to correct a defect in accordance with regulation  10
+; or
+
+11.1.d
+
+there are reasonable grounds to suspect that the applicant has provided false
+or misleading information.
+
+11.2
+
+Where the Secretary of State decides not to pay a lump sum payment, the
+Secretary of State must—
+
+11.2.a
+
+notify the applicant, within a reasonable period, of the decision and the
+reasons for that decision; and
+
+11.2.b
+
+inform the applicant of the right to appeal against the decision under
+regulation  14 .
+
+### Lump sum payments
+
+#### Calculating a lump sum payment
+
+12
+
+The Secretary of State must calculate a lump sum payment payable under these
+Regulations in accordance with the Schedule.
+
+#### Time for making payment
+
+13
+
+13.1
+
+Subject to paragraph (2), a lump sum payment payable in accordance with these
+Regulations must be paid no later than six months after the applicant is
+notified by the Secretary of State that the requirements of these Regulations
+have been met.
+
+13.2
+
+The Secretary of State may extend the period referred to in paragraph (1)
+before that period expires where the Secretary of State is satisfied there are
+good reasons for doing so.
+
+### Appeals
+
+#### Appeals
+
+14
+
+14.1
+
+An applicant (“ the appellant ”) may appeal in writing to the Secretary of
+State against a decision made under regulation  11 , or any other decision
+made by the Secretary of State under these Regulations, on any of the
+following grounds—
+
+14.1.a
+
+the decision was based on an error of fact;
+
+14.1.b
+
+the decision was wrong in law;
+
+14.1.c
+
+there has been a material procedural error.
+
+14.2
+
+An appeal under this regulation must be submitted to the Secretary of State
+before the end of the period of 60 days beginning with the date on which the
+decision was notified to the appellant.
+
+14.3
+
+The Secretary of State must appoint between one and three persons (“ the
+appointed person ”) to consider appeals under this regulation.
+
+14.4
+
+The appointed person, upon considering an appeal under this regulation, must
+report in writing to the Secretary of State with conclusions on the appeal and
+a recommendation as to the manner in which the matter should be finally
+determined by the Secretary of State.
+
+14.5
+
+Following receipt of a report under paragraph (4), the Secretary of State must
+make a final determination.
+
+14.6
+
+When the Secretary of State makes a determination under paragraph  (5) , the
+Secretary of State must give notice in writing to the appellant, within a
+reasonable period, setting out—
+
+14.6.a
+
+the final determination; and
+
+14.6.b
+
+the reasons for that final determination.
+
+      Victoria Prentis   Minister of State   Department for Environment, Food
+and Rural Affairs   25th March 2022
+
+  Calculating the lump sum payment
+
+Regulation 12
+
+##### Formula
+
+1
+
+1.1
+
+The Secretary of State must apply the formula set out in sub-paragraph (2) to
+calculate a lump sum payment.
+
+1.2
+
+The formula referred to in sub-paragraph (1) is—
+
+LS = m × SRA
+
+1.3
+
+In sub-paragraph (2)—
+
+1.3.a
+
+“ LS ” means the amount of the lump sum payment in pounds sterling (£);
+
+1.3.b
+
+“ m ” means a multiplier of 2.35; and
+
+1.3.c
+
+“ SRA ” means the specified reference amount, which is the average amount of
+payments received by the applicant under the basic payment scheme in relation
+to the payment entitlements activated by the applicant for claim years 2019,
+2020 and 2021 before the application of any reductions or penalties by the
+Secretary of State under—
+
+1.3.c.i
+
+Article 19a of  Regulation (EU) No 640/2014 ;
+
+1.3.c.ii
+
+Articles 24 to 28 of  Regulation (EU) No 640/2014 ; or
+
+1.3.c.iii
+
+paragraphs (2)(c) and (d) and (3) to (5) of Article 6 of Commission
+Implementing  Regulation (EU) No 809/2014  of 17 July 2014 laying down rules
+for the application of Regulation (EU) 1306/2013 of the European Parliament
+and of the Council with regard to the integrated administration and control
+system, rural development measures and cross compliance   as that Regulation
+applied in relation to England immediately before the end of 2023 .
+
+1.4
+
+For the purposes of calculating a lump sum payment under this Schedule, where
+any payment made to the applicant under the basic payment scheme in relation
+to claim year 2019 is expressed in euros (€), the payment is to be converted
+into pounds sterling using the exchange rate of 1(€) = 0.89092(£).
+
+##### Cap of specified reference amount
+
+2
+
+The specified reference amount referred to in paragraph 1(3)(c) must not
+exceed £42,500.
+
+##### Deductions from a lump sum payment
+
+3
+
+3.1
+
+The Secretary of State must apply the formula set out in sub-paragraph (4) to
+calculate a percentage reduction to the applicant’s lump sum payment if the
+circumstances in sub-paragraph (2) apply.
+
+3.2
+
+The circumstances referred to in sub-paragraph (1) are where the total value
+of payment entitlements referred to in sub-paragraph (3) exceeds—
+
+3.2.a
+
+the total value of the applicant’s payment entitlements surrendered in
+accordance with regulation  8  (excluding any payment entitlements leased out
+after 17th May 2021); ...
+
+3.2.b
+
+where relevant, the total value of any payment entitlements leased in by the
+applicant and which have subsequently been surrendered after 17th May 2021 ;
+and
+
+3.2.c
+
+the total value of any payment entitlements that were recorded in the register
+in the applicant’s name before the date on which these Regulations come into
+force (excluding any payment entitlements that have been leased out).
+
+3.3
+
+The payment entitlements referred to in sub-paragraph (2) are any payment
+entitlements activated by the applicant in—
+
+3.3.a
+
+claim year 2021;
+
+3.3.b
+
+claim year 2020, if no payment entitlements were activated by the applicant in
+claim year 2021; or
+
+3.3.c
+
+claim year 2019, if no payment entitlements were activated by the applicant in
+claim years 2020 or 2021.
+
+3.4
+
+The formula referred to in sub-paragraph (1) is—
+
+x% = 100 - PES PEC × 100
+
+3.5
+
+In sub-paragraph (4)—
+
+3.5.a
+
+“ x ” means the percentage reduction applied to the lump sum payment;
+
+3.5.b
+
+“ PES ” means—
+
+3.5.b.i
+
+the total value of the applicant’s payment entitlements surrendered under
+regulation  8  (excluding any payment entitlements leased out after 17th May
+2021);  ...
+
+3.5.b.ii
+
+where relevant, the total value of any payment entitlements leased in by the
+applicant and which have subsequently been surrendered after 17th May 2021;
+and
+
+3.5.b.iii
+
+the total value of any payment entitlements that were recorded in the register
+in the applicant’s name before the date on which these Regulations come into
+force (excluding any payment entitlements that have been leased out); and
+
+3.5.c
+
+“ PEC ” means the total value of any payment entitlements activated by the
+applicant in—
+
+3.5.c.i
+
+claim year 2021;
+
+3.5.c.ii
+
+claim year 2020, if no payment entitlements were activated by the applicant in
+claim year 2021; or
+
+3.5.c.iii
+
+claim year 2019, if no payment entitlements were activated by the applicant in
+claim years 2020 or 2021.
+
+3.6
+
+If an applicant receives a relevant payment in respect of claim year 2022 or
+in respect of a later claim year, the Secretary of State must reduce the total
+amount of the lump sum payment calculated for that applicant by the amount of
+any such relevant payment.
+
+## EXPLANATORY NOTE
+
+  (This note is not part of these Regulations)
+
+These Regulations, which apply to England only, are made under the Agriculture
+Act  2020 (c. 21)  (“ the Act ”). The Secretary of State has the power to give
+a lump sum payment to farmers in place of:       direct payments under the
+basic payment scheme established under  Regulation (EU) No 1307/2013  of the
+European Parliament and of the Council of 17 December 2013 establishing rules
+for direct payments to farmers under support schemes within the framework of
+the common agricultural policy; and           delinked payments under section
+12 of the Act.
+
+Regulation 3 provides that the Secretary of State may make a lump sum payment
+to a person in lieu of direct payments or delinked payments if that person
+makes an application and satisfies certain eligibility conditions laid down in
+the Regulations.
+
+Under Regulation 4, applications for a lump sum payment must be submitted by
+30th September 2022, unless the Secretary of State is satisfied there are good
+reasons to accept an application after that date.
+
+Regulation 5 sets out the eligibility conditions that must be met to apply
+for, and receive, a lump sum payment.
+
+Regulation 6 requires an applicant to transfer all agricultural land that was
+at the applicant’s disposal on 17th May 2021 and, where relevant, rights of
+common by the 31st May 2024, subject to certain exceptions. Under these
+Regulations, agricultural land and rights of common (where relevant) may not
+be transferred to a connected person, as defined in regulation 7.
+
+Regulation 8 requires an applicant to surrender all payment entitlements
+registered in the applicant’s name in England by 31st May 2024, subject to
+certain exceptions.
+
+Regulations  9  and  10  enable the Secretary of State to request additional
+information in support of an application and allow defects to be corrected by
+the applicant.
+
+Under regulation  11 , the Secretary of State must refuse to award a lump sum
+payment if certain requirements have not been met. If the Secretary of State
+refuses to award a lump sum payment, the applicant has the right to appeal
+that decision under regulation  14 .
+
+Regulation  12  and the Schedule set out the requirements for calculating a
+lump sum payment.
+
+Regulation  13  provides for payment of the lump sum to be made within six
+months of the applicant being notified that the requirements in these
+Regulations have been met, unless the Secretary of State extends that period
+before it expires where satisfied there are good reasons for doing so.
+
+Regulation  14  makes provision for appeals to the Secretary of State.
+
+A full impact assessment has not been produced for this instrument as no, or
+no significant, impact on the private, voluntary or public sector is foreseen.
+

@@ -1,0 +1,88 @@
+Title: The Insolvency (Northern Ireland) Order 1989 (Prescribed Part) (Amendment) Order (Northern Ireland) 2022
+Date: 2024-05-20
+Description: The Insolvency (Northern Ireland) Order 1989 (Prescribed Part) Order (Northern Ireland) 2006 (S.R. 2006 No. 25) sets out the method of calculation of the prescribed part. The prescribed part is the part of the property of a company that a liquidator, administrator, or receiver must reserve for unsecured creditors, under Article 150A of the insolvency (Northern Ireland) Order 1989, and which would otherwise be available to satisfy claims secured by a floating charge. The prescribed part is subject to a limit.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2022/242
+
+## The Insolvency (Northern Ireland) Order 1989 (Prescribed Part) (Amendment) Order (Northern Ireland) 2022
+
+    Insolvency
+
+  Made   4th October 2022
+
+  Coming into operation   4th November 2022
+
+      The Department for the Economy  in exercise of the powers conferred by
+Article 150A , of the Insolvency (Northern Ireland) Order 1989 makes the
+following Order.
+
+### Citation and commencement
+
+1
+
+This Order may be cited as the Insolvency (Northern Ireland) Order 1989
+(Prescribed Part) (Amendment) Order (Northern Ireland) 2022 and comes into
+operation on 4 th  November 2022.
+
+### The Insolvency (Northern Ireland) Order 1989 (Prescribed Part) Order (Northern Ireland) 2006 amendment and transitional provision
+
+2
+
+2.1
+
+The Insolvency (Northern Ireland) Order 1989 (Prescribed Part) Order (Northern
+Ireland) 2006  is amended as follows–
+
+2.2
+
+In Article 3(2) for “£600, 000” substitute  “£800,000” .
+
+2.3
+
+The substitution made by paragraph (2) does not apply where the company’s net
+property is available to be distributed to the holder of a relevant floating
+charge.
+
+2.4
+
+A relevant floating charge is one–
+
+2.4.a
+
+created before the date this Order comes into operation, and
+
+2.4.b
+
+in respect of which no floating charge over any of the company’s assets
+created on or after that date ranks equally or in priority.
+
+      Sealed with the Official Seal of the Department for the Economy on 4th
+October 2022         Colin Jack   A senior officer of the Department for the
+Economy
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Order)
+
+  The Insolvency (Northern Ireland) Order 1989 (Prescribed Part) Order
+(Northern Ireland) 2006 ( S.R. 2006 No. 25 ) sets out the method of
+calculation of the prescribed part. The prescribed part is the part of the
+property of a company that a liquidator, administrator, or receiver must
+reserve for unsecured creditors, under Article 150A of the insolvency
+(Northern Ireland) Order 1989, and which would otherwise be available to
+satisfy claims secured by a floating charge. The prescribed part is subject to
+a limit.
+
+  This Order increases the limit on the value of the prescribed part from
+£600,000 to £800,000.
+
+  The increased limit does not apply, where the company’s net property is
+available to be distributed to the holder of a first ranking floating charge
+created before this Order comes into operation.
+
+  A full impact assessment has not been produced for this rule as it has
+minimal impact on the private, voluntary and public sectors.
+
+  An Explanatory Memorandum has been published alongside this instrument at
+www.legislation.gov.uk
+

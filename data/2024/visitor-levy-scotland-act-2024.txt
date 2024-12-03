@@ -1,0 +1,3639 @@
+Title: Visitor Levy (Scotland) Act 2024
+Date: 2024-09-27
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/asp/2024/8
+
+## Visitor Levy (Scotland) Act 2024
+
+### Visitor levy
+
+#### Power for local authorities to impose levy
+
+1
+
+A local authority may impose a levy to be charged on the purchase of overnight
+accommodation (see  section 4 (1)  for the meaning of overnight accommodation)
+which is to be—
+
+1.a
+
+known as the visitor levy (referred to in this Act as “ the levy ”), and
+
+1.b
+
+introduced, administered and charged in accordance with this Act.
+
+#### Overview
+
+2
+
+This Act is arranged as follows—
+
+      Part 2 contains provision on the key concepts underlying the levy,
+Part 3 contains provision on the introduction and administration of the levy,
+Part 4 contains provision on returns and payment of the levy,           Part 5
+contains provision on enforcement of the levy and penalties,           Part 6
+contains provision on registers of liable persons and information sharing, and
+Part 7 contains provisions on regulation-making powers and commencement as
+well as other final provisions. 
+
+### Key concepts
+
+#### Basis and calculation of levy
+
+##### Levy to be charged on purchase of overnight accommodation
+
+3
+
+3.1
+
+The levy—
+
+3.1.a
+
+is to be charged in respect of a chargeable transaction, and
+
+3.1.b
+
+becomes payable when a person takes entry to the overnight accommodation in
+pursuance of the transaction (such a person is referred to in this Act as a
+“visitor” ).
+
+3.2
+
+In this Act, a “chargeable transaction” is a purchase for value of the right
+to reside in or at overnight accommodation situated within the area to which a
+VL scheme relates for a period of one or more nights (see  section 12 (1) (a)
+for the meaning of a VL scheme).
+
+3.3
+
+For the purpose of  subsection (2) , a reference to a night is a reference to—
+
+3.3.a
+
+any continuous period of 6 or more hours between 12 noon on one day and 12
+noon on the following day which includes midnight, or
+
+3.3.b
+
+any combination of two or more individual periods totalling 6 hours or more
+where—
+
+3.3.b.i
+
+the combined period occurs between 12 noon on one day and 12 noon on the
+following day, and
+
+3.3.b.ii
+
+at least one of the individual periods begins before midnight and at least one
+of the individual periods ends after midnight.
+
+##### Meaning of overnight accommodation
+
+4
+
+4.1
+
+In this Act, “ overnight accommodation ” means a room or area provided to a
+visitor for residential purposes in or at a type of accommodation listed in
+subsection (2)  otherwise than as the visitor's only or usual place of
+residence.
+
+4.2
+
+The types of accommodation are—
+
+4.2.a
+
+hotels,
+
+4.2.b
+
+hostels,
+
+4.2.c
+
+guest houses,
+
+4.2.d
+
+bed and breakfast accommodation,
+
+4.2.e
+
+self catering accommodation,
+
+4.2.f
+
+camping sites,
+
+4.2.g
+
+caravan parks,
+
+4.2.h
+
+accommodation in a vehicle, or on board a vessel, which is permanently or
+predominantly situated in one place,
+
+4.2.i
+
+any other place at which a room or area is offered by the occupier for
+residential purposes otherwise than as a visitor’s only or usual place of
+residence.
+
+4.3
+
+But none of the types of accommodation in  subsection (2)  includes—
+
+4.3.a
+
+a local authority gypsy and traveller site or a registered social landlord
+gypsy and traveller site (those expressions having the same meaning as in Part
+1 of schedule 1 of the Mobile Homes Act 1983), or
+
+4.3.b
+
+accommodation in a vehicle, or on board a vessel, that is undertaking a
+journey involving one or more overnight stops.
+
+4.4
+
+The Scottish Ministers may, by regulations, amend this section so as to—
+
+4.4.a
+
+add a type of accommodation to those included in  subsection (2)  or  (3) ,
+
+4.4.b
+
+vary the description of a type of accommodation included in  subsection (2)
+or  (3) , or
+
+4.4.c
+
+remove a type of accommodation from being included in  subsection (2)  or  (3)
+.
+
+4.5
+
+Before making regulations under  subsection (4) , the Scottish Ministers must
+consult—
+
+4.5.a
+
+local authorities,
+
+4.5.b
+
+such persons as they consider to be representative of communities, businesses
+engaged in tourism and tourist organisations, and
+
+4.5.c
+
+such other persons as they consider appropriate.
+
+4.6
+
+Regulations under  subsection (4)  are subject to the affirmative procedure.
+
+##### Calculation of levy
+
+5
+
+5.1
+
+The amount of the levy chargeable in respect of a chargeable transaction is
+calculated by—
+
+5.1.a
+
+taking the accommodation portion of the transaction, and
+
+5.1.b
+
+multiplying that amount by the percentage rate set by a local authority under
+section 6 .
+
+5.2
+
+In  subsection (1) , the “ accommodation portion ” means the amount of the
+chargeable transaction that is attributable to the provision of the overnight
+accommodation.
+
+5.3
+
+In particular, the accommodation portion does not include any amount
+reasonably attributable to the provision of—
+
+5.3.a
+
+meals or drinks,
+
+5.3.b
+
+parking for a motor vehicle (other than a parking area provided as overnight
+accommodation in respect of the transaction),
+
+5.3.c
+
+laundry facilities or services,
+
+5.3.d
+
+entertainment,
+
+5.3.e
+
+transportation to or from the accommodation.
+
+5.4
+
+The Scottish Ministers may, by regulations, amend  subsection (3)  so as to
+add to, remove, or vary the description of, the facilities or services listed.
+
+5.5
+
+Regulations under  subsection (4)  are subject to the negative procedure.
+
+##### Rate for levy
+
+6
+
+6.1
+
+A local authority seeking to introduce a VL scheme must set the percentage
+rate of the levy chargeable in respect of a chargeable transaction.
+
+6.2
+
+The percentage rate set under  subsection (1) —
+
+6.2.a
+
+may be different for different purposes or different areas within the local
+authority’s area, but
+
+6.2.b
+
+may not be different in relation to different types of overnight
+accommodation.
+
+6.3
+
+The Scottish Ministers may by regulations specify the maximum percentage rate
+which a local authority may set under subsection (1).
+
+6.4
+
+Regulations under subsection (3)—
+
+6.4.a
+
+may specify different maximum percentage rates for different purposes, but
+
+6.4.b
+
+may not specify different maximum percentage rates for different areas.
+
+6.5
+
+Before making regulations under subsection (3), the Scottish Ministers must
+consult—
+
+6.5.a
+
+local authorities,
+
+6.5.b
+
+such persons as they consider to be representative of communities, businesses
+engaged in tourism and tourist organisations, and
+
+6.5.c
+
+such other persons as they consider appropriate.
+
+6.6
+
+Regulations under subsection (3) are subject to the affirmative procedure.
+
+##### Maximum number of nights of overnight accommodation
+
+7
+
+7.1
+
+A local authority seeking to introduce a VL scheme may specify that a maximum
+number of nights may apply in respect of a chargeable transaction for the
+right to reside in or at that accommodation for a period of consecutive
+nights.
+
+7.2
+
+A local authority may only specify a maximum number of nights under subsection
+(1) if it has consulted—
+
+7.2.a
+
+such persons as they consider to be representative of communities, businesses
+engaged in tourism and tourist organisations, and
+
+7.2.b
+
+such other persons as they consider appropriate.
+
+##### Person liable to pay levy
+
+8
+
+The person liable to pay the levy charged in respect of a chargeable
+transaction is the person who—
+
+8.a
+
+provides overnight accommodation to a visitor in pursuance of the transaction,
+and
+
+8.b
+
+is the occupier of the premises at which that overnight accommodation is
+provided (such a person is referred to in this Act as “ the liable person ”).
+
+##### Third party arrangements
+
+9
+
+9.1
+
+The liable person may make arrangements for a person to—
+
+9.1.a
+
+collect a sum equivalent to the amount of the levy from visitors taking entry
+to overnight accommodation in pursuance of a chargeable transaction, 
+
+9.1.b
+
+make returns to a relevant local authority in accordance with  section 26
+(see  section 24 (2)  for the meaning of relevant local authority),
+
+9.1.c
+
+pay the levy to a relevant local authority in accordance with  section 29 ,
+
+on behalf of the liable person.
+
+9.2
+
+Returns may be made by a person in pursuance of an arrangement under
+subsection (1) (b)  only with the consent of the relevant local authority.
+
+9.3
+
+The making of an arrangement under  subsection (1)  does not affect the liable
+person's obligations under this Act.
+
+##### Billing of overnight accommodation
+
+10
+
+10.1
+
+The Scottish Ministers may, by regulations, specify requirements for the
+billing of overnight accommodation in respect of chargeable transactions.
+
+10.2
+
+Regulations under  subsection (1)  may, in particular, require persons to—
+
+10.2.a
+
+issue an invoice to a visitor entering into a chargeable transaction, which
+specifies separately—
+
+10.2.a.i
+
+the cost of the overnight accommodation purchased,
+
+10.2.a.ii
+
+the percentage rate of the levy chargeable in respect of the transaction,
+
+10.2.a.iii
+
+the amount of the accommodation portion of the transaction and any deduction
+made under  section 5 (1) (b) , and
+
+10.2.a.iv
+
+the amount of levy chargeable in respect of the transaction.
+
+10.2.b
+
+publish the cost (or costs) of overnight accommodation made available for
+purchase by the liable person, specifying separately—
+
+10.2.b.i
+
+the amount attributable to the accommodation portion of the accommodation and
+any deduction made under  section 5 (1) (b) ,
+
+10.2.b.ii
+
+the percentage rate of the levy chargeable in respect of the accommodation,
+and
+
+10.2.b.iii
+
+the amount of levy chargeable in respect of the accommodation.
+
+10.3
+
+Regulations under  subsection (1)  are subject to the negative procedure.
+
+10.4
+
+In this section, the “ accommodation portion ” has the meaning given by
+section 5 (2)  and  (3) .
+
+#### Exemptions and rebates
+
+##### Exemptions and rebates
+
+11
+
+11.1
+
+The Scottish Ministers may by regulations—
+
+11.1.a
+
+specify the cases or circumstances in which the levy (or a sum equivalent to
+the amount of the levy) is not payable or may be reimbursed,
+
+11.1.b
+
+provide for the making of arrangements for the issuing of exemption vouchers
+to categories of visitors specified in the regulations who may enter into a
+chargeable transaction, for the purpose of demonstrating the application of
+circumstances in which a chargeable transaction is not subject to the levy.
+
+11.2
+
+Without prejudice to the generality of subsection (1), regulations may specify
+a maximum number of nights of overnight accommodation for the purposes of
+applying, where a chargeable transaction is for the right to reside in or at
+that accommodation for period of consecutive nights, an exemption or rebate to
+the part of the levy which is attributable to any nights in excess of that
+maximum.
+
+11.3
+
+Regulations specifying a maximum number in accordance with subsection (2) may
+in particular provide—
+
+11.3.a
+
+that a maximum number of nights may apply in respect of a single chargeable
+transaction or more than one chargeable transaction which relate to the right
+to reside in or at the same overnight accommodation for a number of
+consecutive nights,
+
+11.3.b
+
+the method by which the maximum is to be used to calculate the accommodation
+portion of a transaction and the amount of the levy (for example by
+disregarding nights beyond the maximum or by applying an average).
+
+11.4
+
+Regulations specifying a maximum number in accordance with subsection (2)—
+
+11.4.a
+
+may specify different maximum numbers of nights for different purposes, but
+
+11.4.b
+
+may not specify different maximum numbers of nights for different areas.
+
+11.5
+
+Before making regulations under this section, the Scottish Ministers must
+consult—
+
+11.5.a
+
+local authorities,
+
+11.5.b
+
+such persons as they consider to be representative of communities, businesses
+engaged in tourism and tourist organisations, and
+
+11.5.c
+
+such other persons as they consider appropriate.
+
+11.6
+
+Regulations under  subsection (1)  are subject to the affirmative procedure.
+
+### Introduction and administration of the levy
+
+#### Process
+
+##### Scheme to impose levy
+
+12
+
+12.1
+
+A local authority may—
+
+12.1.a
+
+introduce a scheme or schemes to impose the levy for all or part of its area
+(referred to in this Act as a “VL scheme”),
+
+12.1.b
+
+modify a VL scheme, or
+
+12.1.c
+
+revoke a VL scheme.
+
+12.2
+
+A VL scheme may make different provision for different purposes or different
+areas within the local authority's area.
+
+12.3
+
+Two or more local authorities may act jointly to make a VL scheme.
+
+12.4
+
+In those circumstances—
+
+12.4.a
+
+they must continue to act jointly in relation to the scheme in all respects,
+and
+
+12.4.b
+
+unless the context requires otherwise, a reference in this Act to—
+
+12.4.b.i
+
+a local authority, in relation to a VL scheme or to a proposed scheme, is a
+reference to the authorities acting jointly,
+
+12.4.b.ii
+
+the area of a local authority is a reference to the combined areas of those
+authorities, and
+
+12.4.b.iii
+
+the local tourism strategy of a local authority is a reference to any tourism
+strategy prepared by an authority which is in effect in all or part of the
+area to which the VL scheme applies.
+
+##### Prior consultation on scheme
+
+13
+
+13.1
+
+Before introducing or modifying a VL scheme, a local authority must—
+
+13.1.a
+
+prepare and publicise—
+
+13.1.a.i
+
+an outline of the proposed scheme or (as the case may be) the scheme as it is
+proposed to be modified (“ the proposal ”),
+
+13.1.a.ii
+
+a statement about the cases and circumstances under the proposal in which the
+levy (or a sum equivalent to the levy) is not payable or may be reimbursed,
+
+13.1.a.iii
+
+a statement about the objectives of the proposal, including how the authority
+intends to measure and report on the achievement of those objectives, and
+
+13.1.a.iv
+
+an assessment of the impacts of the proposal in the authority’s area,
+
+13.1.b
+
+consult—
+
+13.1.b.i
+
+such persons as the authority considers to be representative of communities,
+businesses engaged in tourism and tourist organisations in its area,
+
+13.1.b.ii
+
+in the case of a modification of a VL scheme, the VL forum for that scheme as
+established by the local authority in accordance with  section 16 (1) ,
+
+13.1.b.iii
+
+if any part of the area to which the VL scheme relates has been designated as
+a National Park, the National Park authority for that Park, and
+
+13.1.b.iv
+
+such other persons as the authority considers likely to be affected by the
+proposal,
+
+13.1.c
+
+prepare and publicise a report which—
+
+13.1.c.i
+
+summarises the consultation responses received,
+
+13.1.c.ii
+
+states whether or not the authority intends to proceed with the proposal (or
+the proposal as modified in light of the consultation), and
+
+13.1.c.iii
+
+sets out the authority's reasons for whether or not it intends to proceed.
+
+13.2
+
+For the purposes of  subsection (1) (a) (iii)  the objectives must relate to
+developing, supporting or sustaining facilities or services which are
+substantially for or used by persons visiting the scheme area for leisure or
+business purposes (or both).
+
+13.3
+
+For the purposes of  subsection (1) (a) (iv)  the assessment must, in
+particular, set out what the local authority considers to be the likely
+effects of the proposal on—
+
+13.3.a
+
+persons living within the scheme area, and
+
+13.3.b
+
+such other persons as the authority considers likely to be affected by the
+proposal.
+
+13.4
+
+Before revoking a VL scheme, a local authority must publicise the proposed
+revocation of the scheme.
+
+##### Required content of a scheme
+
+14
+
+14.1
+
+A VL scheme must specify—
+
+14.1.a
+
+the scheme area,
+
+14.1.b
+
+the date on which the scheme is to come into force,
+
+14.1.c
+
+the scheme period (that is, the period during which the scheme is to remain in
+force (which may be indefinitely)),
+
+14.1.d
+
+when during the scheme period a purchase of the right to reside in or at
+overnight accommodation is to give rise to the levy (which may be at all times
+during the scheme period),
+
+14.1.e
+
+the percentage rate (or rates) of the levy set by the local authority under
+section 6 ,
+
+14.1.f
+
+the scheme’s objectives,
+
+14.1.g
+
+arrangements for the review of decisions by the authority in relation to the
+scheme,
+
+14.1.h
+
+the cases or circumstances in which the levy (or a sum equivalent to the levy)
+is not payable or may be reimbursed,
+
+14.1.i
+
+that the levy (or a sum equivalent to the levy) is not payable or is to be
+reimbursed in a case where the visitor or any other person utilising the right
+to reside in the overnight accommodation is in receipt of benefits, payments
+or allowances for a disability—
+
+14.1.i.i
+
+under section 71 of the Social Security Contributions and Benefits Act 1992
+(disability living allowance),
+
+14.1.i.ii
+
+specifically for working age people given in accordance with regulations made
+under section 31 of the Social Security (Scotland) Act 2018 (disability
+assistance),
+
+14.1.i.iii
+
+under section 64 of the Social Security Contributions and Benefits Act 1992
+(attendance allowance),
+
+14.1.i.iv
+
+specifically for older people given in accordance with regulations made under
+section 31 of the Social Security (Scotland) Act 2018 (pension age disability
+benefit), or
+
+14.1.i.v
+
+under Part 4 of the Welfare Reform Act 2012 (personal independence payment),
+
+14.1.j
+
+arrangements for the administration of the exemption or reimbursement
+specified in accordance with paragraph (i), including the evidence required
+and manner in which it may be demonstrated that a visitor or other person is
+in receipt of the relevant benefit, payment or allowance,
+
+14.1.k
+
+arrangements for the reimbursement of the levy (or a sum equivalent to the
+levy) to a visitor who has (or a category of visitors who have) entered into a
+chargeable transaction, and
+
+14.1.l
+
+the manner in which the authority intends to make decisions on the use of the
+net proceeds of the scheme.
+
+14.2
+
+For the purposes of subsection (1)(h), the VL scheme must specify whether the
+levy is not payable in relation to accommodation which has an annual turnover
+below the VAT threshold.
+
+14.3
+
+The date on which a VL scheme is to come into force, or on which a significant
+modification is to take effect, must be at least 18 months after the date on
+which the local authority publishes a report under section 13(1)(c) stating
+that it intends to proceed with the original or modified proposal.
+
+14.4
+
+In subsection (3), “ significant modification ” means a modification of a VL
+scheme which—
+
+14.4.a
+
+expands the scheme area,
+
+14.4.b
+
+increases the percentage rate (or rates) of the levy, or
+
+14.4.c
+
+removes from the VL scheme any cases or circumstances in which the levy (or a
+sum equivalent to the levy) is not payable or reimbursed.
+
+14.5
+
+Any other modification of a VL scheme may come into force on a date specified
+after the authority publishes a report under section 13(1)(c) stating that it
+intends to proceed with the original or modified proposal.
+
+14.6
+
+The Scottish Ministers may by regulations amend  subsection (1)  so as to—
+
+14.6.a
+
+add something that a VL scheme must specify, or
+
+14.6.b
+
+remove, or vary the description of, any of the required content of a VL scheme
+listed in  subsection (1)  (except  subsection (1) (e) ).
+
+14.7
+
+The Scottish Ministers may by regulations amend subsection (4) so as to add
+to, remove, or vary the description of the modifications listed.
+
+14.8
+
+Before making regulations under this section, the Scottish Ministers must
+consult—
+
+14.8.a
+
+local authorities,
+
+14.8.b
+
+such persons as they consider to be representative of communities, businesses
+engaged in tourism and tourist organisations, and
+
+14.8.c
+
+such other persons as they consider appropriate.
+
+14.9
+
+Regulations under  this section  are subject to the affirmative procedure.
+
+14.10
+
+In this section, “ the VAT threshold ” means the amount for the time being
+specified in paragraph 1(1)(a) of schedule 1 of the Value Added Tax Act 1994.
+
+##### Publicity for introduction of scheme
+
+15
+
+15.1
+
+As soon as reasonably practicable after the date of its decision to introduce
+a VL scheme, the local authority must—
+
+15.1.a
+
+notify the Scottish Ministers of its decision to introduce a VL scheme, and
+
+15.1.b
+
+publicise—
+
+15.1.b.i
+
+its decision to introduce a VL scheme, and
+
+15.1.b.ii
+
+the proposed date on which the VL scheme is to come into force.
+
+15.2
+
+The Scottish Ministers may by regulations make further provision about how
+local authorities must publicise the matters mentioned in  subsection (1) (b)
+.
+
+15.3
+
+Regulations under  subsection (2)  are subject to the negative procedure. 
+
+##### Visitor levy forum
+
+16
+
+16.1
+
+A local authority operating a VL scheme must—
+
+16.1.a
+
+by no later than 6 months after the date of its decision to introduce a VL
+scheme, establish a forum for the scheme (“the VL forum”) to carry out the
+functions set out in subsection (2),
+
+16.1.b
+
+maintain the VL forum for the duration of the scheme, and
+
+16.1.c
+
+ensure that the VL forum—
+
+16.1.c.i
+
+is able to carry out those functions, and
+
+16.1.c.ii
+
+meets on a regular basis, being not less than 2 times in each calendar year.
+
+16.2
+
+The functions of the VL forum are—
+
+16.2.a
+
+to discuss and advise the authority and any other person or body consulting
+the forum on matters having to do with the VL scheme,
+
+16.2.b
+
+to discuss and respond to each—
+
+16.2.b.i
+
+consultation on a modification of the VL scheme under section 13(1)(b), and
+
+16.2.b.ii
+
+consultation on the use of net proceeds of the VL scheme under section 19(2),
+and
+
+16.2.c
+
+to discuss and make such representations as are considered appropriate in
+relation to each—
+
+16.2.c.i
+
+annual report on the VL scheme under section 20, and
+
+16.2.c.ii
+
+report setting out the findings of a review of the VL scheme under section 21.
+
+16.3
+
+The VL forum is to consist of such persons as are appointed to it by the local
+authority operating the VL scheme.
+
+16.4
+
+The local authority must ensure that the membership of the VL forum—
+
+16.4.a
+
+includes such persons as the authority considers to be representative of
+communities, businesses engaged in tourism and tourist organisations in its
+area, and
+
+16.4.b
+
+consists of a reasonable balance of such persons.
+
+16.5
+
+The local authority may appoint one or more of its own members to the VL
+forum, provided that local authority members do not form a majority of the
+members of the VL forum.
+
+16.6
+
+If there is more than one VL scheme for different parts of a local authority
+area—
+
+16.6.a
+
+more than one VL forum may be established for the area of a local authority,
+but
+
+16.6.b
+
+a single VL forum may be established for the purposes of this section and the
+schemes in the different parts of a local authority area.
+
+##### Transitional provision
+
+17
+
+17.1
+
+The levy must not be charged in respect of a chargeable transaction that is
+paid for (in full or part) before the date of the local authority's decision
+to introduce a VL scheme.
+
+17.2
+
+The levy may be charged in respect of a chargeable transaction that is paid
+for (in full or in part) after the date of the local authority's decision to
+introduce a VL scheme but before the date on which the VL scheme comes into
+force, if the visitor takes entry to the accommodation that the transaction
+relates to after the date on which the scheme comes into force.
+
+#### Finances
+
+##### Duty to keep separate account for scheme
+
+18
+
+18.1
+
+A local authority operating a VL scheme must keep an account for the scheme.
+
+18.2
+
+The authority must, for each financial year—
+
+18.2.a
+
+credit the account with the amount of money received under the VL scheme
+(including any money received from penalties), and
+
+18.2.b
+
+debit the account with the expenses of operating the scheme.
+
+18.3
+
+The Scottish Ministers may by regulations make provision for or about the
+keeping of accounts by local authorities in connection with their functions
+under this Act.
+
+18.4
+
+Regulations under  subsection (3)  may, in particular—
+
+18.4.a
+
+specify the form of accounts,
+
+18.4.b
+
+require the publication of a statement of account, and specify the manner in
+which it must be published,
+
+18.4.c
+
+make provision about what may or must be done jointly where a VL scheme is
+made jointly.
+
+18.5
+
+Regulations under  subsection (3)  are subject to the negative procedure.
+
+##### Use of net proceeds of scheme
+
+19
+
+19.1
+
+A local authority operating a VL scheme must use the net proceeds of the
+scheme (or, in the case of a joint scheme, the authority's share of the net
+proceeds) for the purposes of—
+
+19.1.a
+
+facilitating the achievement of the scheme’s objectives (as set out in the
+statement publicised by the authority under  section 13 (1) (a) (iii) ), and
+
+19.1.b
+
+so far as not needed for the achievement of the scheme’s objectives, otherwise
+developing, supporting and sustaining facilities and services which are
+substantially for or used by persons visiting—
+
+19.1.b.i
+
+the area of the local authority, or
+
+19.1.b.ii
+
+in the case of a joint scheme, the area of the local authority or the area of
+a local authority with whom the authority is acting jointly,
+
+for leisure or business purposes (or both).
+
+19.2
+
+In using the net proceeds of the VL scheme, a local authority must—
+
+19.2.a
+
+from time to time, consult—
+
+19.2.a.i
+
+such persons as the authority considers to be representative of communities,
+businesses engaged in tourism and tourist organisations in its area,
+
+19.2.a.ii
+
+the VL forum for that scheme as established by the local authority in
+accordance with  section 16 (1) ,
+
+19.2.a.iii
+
+if any part of the area to which the VL scheme relates has been designated as
+a National Park, the National Park authority for that Park,
+
+19.2.a.iv
+
+such other persons as the authority considers appropriate,
+
+19.2.b
+
+have regard to its local tourism strategy (if any), and
+
+19.2.c
+
+if any part of the area to which the VL scheme relates has been designated as
+a National Park, have regard to the National Park Plan for that Park as
+adopted under section 12(7)(a) of the National Parks (Scotland) Act 2000.
+
+19.3
+
+Before using any share of net proceeds under  subsection (1) (b) (ii)  in
+respect of a facility or service outside its own area, the authority must also
+be satisfied that doing so will benefit some part of its own area.
+
+19.4
+
+In this section, “ net proceeds ” means the amount of money (if any) by which
+the gross amount received under the VL scheme for a financial year exceeds the
+expenses of operating the scheme for the financial year.
+
+#### Performance
+
+##### Annual reporting on scheme
+
+20
+
+20.1
+
+A local authority operating a VL scheme must prepare a report on the scheme in
+respect of each reporting period, including information on—
+
+20.1.a
+
+the amount of money collected under the scheme,
+
+20.1.b
+
+how the net proceeds of the scheme have been used, and
+
+20.1.c
+
+the performance of the scheme by reference to its objectives (as set out in
+the statement publicised by the authority under  section 13 (1) (a) (iii) ).
+
+20.2
+
+A local authority must publish the report—
+
+20.2.a
+
+as soon as reasonably practicable after the end of the reporting period, and
+
+20.2.b
+
+in such manner as it considers appropriate.
+
+20.3
+
+The local authority must provide a copy of the published report to the VL
+forum for that scheme established by the local authority in accordance with
+section 16 (1) .
+
+20.4
+
+The Scottish Ministers may by regulations make further provision about the
+content of reports under this section.
+
+20.5
+
+Regulations under  subsection (4)  are subject to the negative procedure. 
+
+20.6
+
+In this section—
+
+      “ net proceeds ” has the same meaning as in  section 19 ,           “
+reporting period ” means—         in the case of the first report, any period
+determined by the local authority of a maximum of 18 months beginning with the
+date on which the scheme came into force,           in any other case, the
+period of 12 months beginning with the date on which the previous reporting
+period ended.
+
+##### Review of scheme
+
+21
+
+21.1
+
+A local authority operating a VL scheme must review the scheme—
+
+21.1.a
+
+before the end of the period of 3 years beginning with the date on which the
+scheme came into force, and
+
+21.1.b
+
+before the end of each subsequent period of 3 years.
+
+21.2
+
+The local authority must, as soon as reasonably practicable after carrying out
+such a review, publish a report setting out its findings.
+
+21.3
+
+The local authority must provide a copy of the published report to the VL
+forum for that scheme established by the local authority in accordance with
+section 16 (1) .
+
+##### Scottish Ministers’ power to regulate process
+
+22
+
+22.1
+
+The Scottish Ministers may by regulations make further provision about, or in
+connection with, the process to be followed by a local authority when
+introducing, administering, reporting on or reviewing a VL scheme.
+
+22.2
+
+Regulations under this section are subject to the affirmative procedure.
+
+##### Guidance on visitor levy scheme
+
+23
+
+23.1
+
+A local authority must, when exercising a function under  Part 3  of this Act,
+have regard to any guidance published under this section.
+
+23.2
+
+VisitScotland must—
+
+23.2.a
+
+prepare and publish guidance for local authorities about the operation of
+Part 3  of this Act, and
+
+23.2.b
+
+from time to time review the guidance published under this section and, if it
+considers it appropriate, publish updated guidance.
+
+23.3
+
+Guidance published under this section must in particular include guidance
+about—
+
+23.3.a
+
+other persons whom a local authority might consider to be affected or
+appropriate when the authority consults on a VL scheme under section 13(1)(b)
+or on the net proceeds of a VL scheme under section 19(2),
+
+23.3.b
+
+the process which a local authority might follow before determining any cases
+and circumstances in which the levy is not payable or reimbursed,
+
+23.3.c
+
+support or assistance which a local authority may provide to liable persons to
+operate in accordance with a VL scheme,
+
+23.3.d
+
+the matters to be considered by a local authority when deciding the objectives
+of a scheme, and
+
+23.3.e
+
+the matters to be considered by a local authority when deciding the use of the
+net proceeds of a scheme.
+
+23.4
+
+Before publishing guidance (or updated guidance) under this section,
+VisitScotland must send a draft of the guidance to the Scottish Ministers for
+approval.
+
+23.5
+
+The Scottish Ministers may—
+
+23.5.a
+
+approve draft guidance submitted to them under subsection (4),
+
+23.5.b
+
+reject the draft guidance, or
+
+23.5.c
+
+require VisitScotland to modify the guidance in such manner as the Scottish
+Ministers may specify.
+
+23.6
+
+The Scottish Ministers may by regulations modify this section so as to—
+
+23.6.a
+
+substitute a different body for the one which is for the time being subject to
+the duties in subsections (2) and (4),
+
+23.6.b
+
+make more than one body responsible for preparing and publishing or reviewing
+the guidance, or
+
+23.6.c
+
+add to, remove, or vary the description of the matters listed in subsection
+(3) which must be included in the guidance.
+
+23.7
+
+If regulations under subsection (6) substitute the Scottish Ministers as the
+body responsible for publishing the whole or part of guidance, the
+requirements in subsections (4) and (5) do not apply to the duties of the
+Scottish Ministers.
+
+23.8
+
+Regulations under subsection (6) are subject to the affirmative procedure.
+
+### Returns and payment
+
+#### Delegation of functions
+
+##### Delegation of collection and enforcement functions
+
+24
+
+24.1
+
+A relevant local authority may authorise a person to carry out its functions
+under—
+
+24.1.a
+
+section 26 (1)  (receipt of returns),
+
+24.1.b
+
+section 29  (receipt of levy payments),
+
+24.1.c
+
+Part 5  (enforcement of the levy and penalties), except  section 65  (power of
+local authorities to reduce, suspend or waive penalties),
+
+24.1.d
+
+section 73  (registers of liable persons).
+
+24.2
+
+In this Act, “ relevant local authority ” means (subject to  subsection (3) )
+a local authority which has introduced a VL scheme.
+
+24.3
+
+Where a person is authorised to carry out functions under any of the
+provisions or Parts mentioned in  subsection (1) , references to “relevant
+local authority” in the particular provision or Part include that person.
+
+24.4
+
+Delegation of a function under this section does not affect a local
+authority's—
+
+24.4.a
+
+ability to exercise that function,
+
+24.4.b
+
+responsibility for that function.
+
+#### Returns
+
+##### Interpretation
+
+25
+
+25.1
+
+References in this Act to the making of returns are to the making of returns
+that comply with the requirements of this Part.
+
+25.2
+
+References in  this Part  to the relevant period are to the period mentioned
+in  section 26 (4) .
+
+##### Duty to make returns
+
+26
+
+26.1
+
+The liable person must make returns to the relevant local authority.
+
+26.2
+
+Returns must—
+
+26.2.a
+
+include an assessment of the amount of the levy payable in respect of the
+relevant period, and
+
+26.2.b
+
+be made before the end of the period of 30 days beginning with the end of each
+relevant period.
+
+26.3
+
+For the purposes of  subsection (2) (a) —
+
+26.3.a
+
+the amount of the levy payable by a liable person in respect of each relevant
+period is the total amount of the levies (calculated in accordance with
+section 5 ) in respect of all chargeable transactions entered into by the
+liable person during that period, and
+
+26.3.b
+
+where the liable person is the occupier of more than one set of premises
+within the area to which the VL scheme relates, the return must include
+assessments of the amount of the levy payable for each set of premises.
+
+26.4
+
+The relevant period means—
+
+26.4.a
+
+each quarter, or
+
+26.4.b
+
+such period or periods specified by a relevant local authority in the VL
+scheme to which the return relates.
+
+##### Form and content of return
+
+27
+
+A return under this Act must—
+
+27.a
+
+be in the form specified by the relevant local authority,
+
+27.b
+
+contain such information specified by the relevant local authority, and
+
+27.c
+
+be made in such manner as specified by the relevant local authority.
+
+##### Duty to keep and preserve records
+
+28
+
+28.1
+
+A liable person must—
+
+28.1.a
+
+keep any records that may be needed to enable the person to make a correct and
+complete return, and
+
+28.1.b
+
+preserve those records in accordance with this section.
+
+28.2
+
+The duty in  subsection (1) —
+
+28.2.a
+
+also applies to any person with whom a liable person has made an arrangement
+under  section 9 (1) (b) , as it applies to a liable person, and
+
+28.2.b
+
+applies to a liable person whether or not such an arrangement has been made.
+
+28.3
+
+The records mentioned in  subsection (1)  must be preserved for—
+
+28.3.a
+
+5 years from the date on which a return is made, or
+
+28.3.b
+
+such other period specified by the relevant local authority.
+
+28.4
+
+The records required to be kept and preserved under  subsection (1)  include—
+
+28.4.a
+
+details of any chargeable transactions entered into during the period to which
+the return relates,
+
+28.4.b
+
+records of payments, receipts and financial arrangements associated with those
+chargeable transactions, and
+
+28.4.c
+
+such other records specified by a relevant local authority in a VL scheme.
+
+#### Payment
+
+##### Payment of levy
+
+29
+
+29.1
+
+The levy payable in respect of a chargeable transaction must be paid to the
+relevant local authority.
+
+29.2
+
+Where a return is to be made under  section 26 , the total amount of the levy
+payable for the relevant period must be paid at the same time as the return is
+made.
+
+29.3
+
+The levy is treated as paid if arrangements satisfactory to the relevant local
+authority are made for payment of the levy.
+
+### Enforcement of the levy and penalties
+
+#### Investigatory powers
+
+##### Information notices
+
+###### Power to obtain information and documents from the liable person
+
+30
+
+30.1
+
+If the condition in  subsection (2)  is met, an authorised officer may by
+notice require a liable person to—
+
+30.1.a
+
+provide information, or
+
+30.1.b
+
+produce a document.
+
+30.2
+
+That condition is that—
+
+30.2.a
+
+the information or document is reasonably required by the officer for the
+purpose of assessing the liable person's liability to pay the levy, and
+
+30.2.b
+
+it is reasonable for the liable person to be required to provide the
+information or to produce the document.
+
+30.3
+
+A notice under this section must specify or describe the information or
+documents to be provided or produced.
+
+30.4
+
+In this Part—
+
+30.4.a
+
+“ liability to pay the levy ” in relation to a liable person, means the
+person's past, present and future liability to pay—
+
+30.4.a.i
+
+the levy, and
+
+30.4.a.ii
+
+any penalties or other amounts that have been paid, or are or may be payable
+by that person in connection with the levy,
+
+30.4.b
+
+“assessing the liable person's liability to pay the levy” includes carrying
+out an investigation or enquiry of any kind,
+
+30.4.c
+
+an “ authorised officer ”, in relation to a relevant local authority, means a
+person authorised in writing by the authority, and
+
+30.4.d
+
+an “ information notice ” means a notice given under this section or section
+31 .
+
+###### Power to obtain information and documents from third parties
+
+31
+
+31.1
+
+If the condition in  subsection (2)  is met, an authorised officer may by
+notice require a person to—
+
+31.1.a
+
+provide information, or
+
+31.1.b
+
+produce a document,
+
+in respect of a liable person.
+
+31.2
+
+That condition is that—
+
+31.2.a
+
+the information or document is reasonably required by the officer for the
+purpose of assessing the liable person's liability to pay the levy, and
+
+31.2.b
+
+it is reasonable for the person to be required to provide the information or
+to produce the document.
+
+31.3
+
+A notice under this section must specify or describe the information or
+documents to be provided or produced.
+
+###### Complying with information notices
+
+32
+
+32.1
+
+Where a person is required by an information notice to provide information or
+produce a document, the person must do so—
+
+32.1.a
+
+within such period, and
+
+32.1.b
+
+at such time, by such means and in such form (if any), as is reasonably
+specified or described in the notice.
+
+32.2
+
+Where an information notice requires a person to produce a document, it must
+be produced—
+
+32.2.a
+
+at a place agreed to by that person and an authorised officer, or
+
+32.2.b
+
+at such place as an authorised officer may reasonably specify.
+
+32.3
+
+An authorised officer must not specify for the purposes of  subsection (2) (b)
+a place that is used solely as a dwelling.
+
+###### Producing copies of documents
+
+33
+
+33.1
+
+Where an information notice requires a person to produce a document, the
+person may comply with the notice by producing a copy of the document.
+
+33.2
+
+Subsection  (1)  does not apply where—
+
+33.2.a
+
+the notice requires the person to produce the original document, or
+
+33.2.b
+
+an authorised officer subsequently makes a request to the person for the
+original document.
+
+33.3
+
+Where an authorised officer requests a document under  subsection (2) (b) ,
+the person to whom the request is made must produce the document—
+
+33.3.a
+
+within such period, and
+
+33.3.b
+
+at such time and by such means (if any), as is reasonably requested by the
+authorised officer.
+
+###### Further provision about powers relating to information notices
+
+34
+
+34.1
+
+The Scottish Ministers may by regulations make further provision about—
+
+34.1.a
+
+the form and content of information notices,
+
+34.1.b
+
+the time periods for complying with information notices, and
+
+34.1.c
+
+the manner of complying with information notices.
+
+34.2
+
+Regulations under  subsection (1)  are subject to the negative procedure.
+
+###### Information notices: general restrictions
+
+35
+
+35.1
+
+An information notice requires a person to produce a document only if it is in
+the person's possession or power.
+
+35.2
+
+An information notice may not require a person to produce a document if the
+whole of the document originates more than 5 years before the date of the
+notice.
+
+###### Types of information
+
+36
+
+36.1
+
+An information notice does not require a person to provide or produce
+journalistic material (or information contained in such material).
+
+36.2
+
+In  subsection (1) , “ journalistic material ” means material acquired or
+created for the purposes of journalism.
+
+36.3
+
+Material is to be treated as journalistic material if it is in the possession
+of someone who acquired or created it for the purposes of journalism.
+
+36.4
+
+A person who receives material from someone who intends that the recipient
+will use it for the purposes of journalism is to be taken to have acquired it
+for those purposes.
+
+36.5
+
+An information notice does not require a person to provide or produce personal
+records or information contained in such records, subject to  subsection (7) .
+
+36.6
+
+In  subsection (5)  “ personal records ” means documentary and other records
+concerning an individual (“ P ”) (whether living or dead) who can be
+identified from them and relating—
+
+36.6.a
+
+to P's physical or mental health,
+
+36.6.b
+
+to spiritual counselling or assistance given or to be given to P, or
+
+36.6.c
+
+to counselling or assistance given or to be given to P, for the purposes of
+P's personal welfare, by any voluntary organisation or by any individual who—
+
+36.6.c.i
+
+by reason of an office or occupation has responsibilities for P's personal
+welfare, or
+
+36.6.c.ii
+
+by reason of an order of a court has responsibilities for P's supervision.
+
+36.7
+
+An information notice may require a person—
+
+36.7.a
+
+to produce documents (or copies of documents) that are personal records,
+omitting any information whose inclusion (whether alone or with other
+information) makes the original documents personal records (“personal
+information”), and
+
+36.7.b
+
+to provide any information contained in such records that is not personal
+information.
+
+###### Protection for privileged communications between legal advisers and clients
+
+37
+
+37.1
+
+An information notice does not require a person—
+
+37.1.a
+
+to provide privileged information, or
+
+37.1.b
+
+to produce any part of a document that is privileged.
+
+37.2
+
+For the purposes of this Part, information or a document is privileged if it
+is information or a document in respect of which a claim to confidentiality of
+communications as between client and professional legal adviser could be
+maintained in legal proceedings.
+
+##### Inspection powers
+
+###### Power to inspect business premises
+
+38
+
+38.1
+
+If the condition in  subsection (2)  is met, an authorised officer may enter a
+liable person's business premises and inspect—
+
+38.1.a
+
+the premises,
+
+38.1.b
+
+business documents that are on the premises.
+
+38.2
+
+That condition is that the authorised officer has reason to believe that the
+inspection is reasonably required for the purpose of assessing the liable
+person's liability to pay the levy.
+
+38.3
+
+The powers under this section do not include power to enter or inspect any
+part of the premises that is used solely as a dwelling.
+
+38.4
+
+In  subsection (1) —
+
+      “ business documents ” means documents or copies of documents—
+that relate to the carrying on of a business by any person, and           that
+form part of the records which require to be kept or preserved by or under
+this Act.
+
+38.5
+
+In this Chapter—
+
+      “ business premises ” in relation to a liable person or third party,
+means premises (or any part of premises) that an authorised officer has reason
+to believe are (or is) used in connection with the carrying on of a business
+by or on behalf of the person,           “ carrying on a business ” includes
+the letting of property and the activities of a charity,           “ premises
+” includes any building or structure, any land and any means of transport.
+
+###### Power to inspect business premises of third parties
+
+39
+
+39.1
+
+If the condition in  subsection (2)  is met, an authorised officer may enter
+business premises of an involved third party and inspect—
+
+39.1.a
+
+the premises, and
+
+39.1.b
+
+relevant documents that are on the premises.
+
+39.2
+
+That condition is that the authorised officer has reason to believe that the
+inspection is reasonably required for the purpose of assessing the liable
+person’s liability to pay the levy.
+
+39.3
+
+In this section—
+
+      “ involved third party ” means—         a person with whom a liable
+person has entered into an arrangement under  section 9 , or           a
+person who is, or a category of persons who are, specified by the Scottish
+Ministers by regulations,                 “ relevant documents ” means such
+documents as may be so specified.
+
+39.4
+
+The powers under this section do not include power to enter or inspect any
+part of the premises that is used solely as a dwelling.
+
+39.5
+
+Regulations under  subsection (3)  are subject to the affirmative procedure.
+
+###### Carrying out inspections under 
+
+40
+
+40.1
+
+An inspection under  section 38  or  39  may be carried out only—
+
+40.1.a
+
+at a time agreed to by the occupier of the premises, or
+
+40.1.b
+
+if  subsection (2)  is satisfied, at any reasonable time.
+
+40.2
+
+This subsection is satisfied if—
+
+40.2.a
+
+the occupier of the premises has been given at least 7 days' notice in writing
+of the time of the inspection, or
+
+40.2.b
+
+the authorised officer has reasonable grounds for believing that giving notice
+of the inspection would seriously prejudice—
+
+40.2.b.i
+
+the assessment of the liable person's liability to pay the levy, or
+
+40.2.b.ii
+
+the payment of the levy by the liable person.
+
+40.3
+
+An authorised officer seeking to carry out an inspection by virtue of
+subsection (2) (b)  must provide a notice in writing as follows—
+
+40.3.a
+
+if the occupier of the premises is present at the time the inspection is to
+begin, the notice must be provided to the occupier,
+
+40.3.b
+
+if the occupier of the premises is not present but a person who appears to the
+officer to be in charge of the premises is present, the notice must be
+provided to that person,
+
+40.3.c
+
+in any other case, the notice must be left in a prominent place on the
+premises.
+
+40.4
+
+The notice referred to in  subsection (2) (a)  or  (3)  must state the
+possible consequences of obstructing the authorised officer in the exercise of
+the power.
+
+###### Carrying out inspections under 
+
+41
+
+41.1
+
+An authorised officer carrying out an inspection under  section 38  or  39
+has the following powers.
+
+41.2
+
+On entering the premises, the officer may take any person authorised by the
+officer and, if the officer has reasonable cause to apprehend any serious
+obstruction in the execution of the inspection, a constable.
+
+41.3
+
+Subject to  subsection (6) , on entering the premises, the officer or a person
+authorised by the officer may take any equipment or materials required for any
+purpose for which the inspection is being carried out.
+
+41.4
+
+The officer may make such examination or investigation the officer considers
+to be necessary in the circumstances.
+
+41.5
+
+The officer may direct that the premises or any part of them, or anything in
+them, be left undisturbed (whether generally or in particular respects) for so
+long as is reasonably necessary for the purpose of any such examination or
+investigation.
+
+41.6
+
+An officer or authorised person may exercise the power mentioned in
+subsection (3)  only—
+
+41.6.a
+
+at a time agreed to by the occupier of the premises, or
+
+41.6.b
+
+if  subsection (7)  is satisfied, at any reasonable time.
+
+41.7
+
+This subsection is satisfied if—
+
+41.7.a
+
+in a case where notice was given under  section 40 (2) (a) , that notice
+informed the occupier of the premises that the officer or authorised person
+intended to exercise the power mentioned in  subsection (3) , or
+
+41.7.b
+
+the officer has reasonable grounds for believing that giving notice of the
+exercise of that power would seriously prejudice—
+
+41.7.b.i
+
+the assessment of the liable person's liability to pay the levy, or
+
+41.7.b.ii
+
+the payment of the levy by the liable person.
+
+41.8
+
+Section  40 (3)  and  (4)  apply to the exercise of the power mentioned in
+subsection (3)  by virtue of  subsection (7) (b)  as they apply to an
+inspection carried out by virtue of  section 40 (2) (b) .
+
+###### Power to copy and remove documents
+
+42
+
+42.1
+
+Where a document is produced to, or inspected by, an authorised officer, the
+officer may take copies of, or make extracts from, the document.
+
+42.2
+
+Where a document is produced to, or inspected by, an authorised officer, the
+officer may—
+
+42.2.a
+
+remove the document at a reasonable time, and
+
+42.2.b
+
+retain it for a reasonable period, if it appears to the officer to be
+necessary to do so.
+
+42.3
+
+Where a document is removed in accordance with  subsection (2) , the person
+who produced the document may request—
+
+42.3.a
+
+a receipt for the document, and
+
+42.3.b
+
+a copy of the document.
+
+42.4
+
+An authorised officer must comply with a request under  subsection (3)
+without charge.
+
+42.5
+
+Where a document removed under this section is lost or damaged, the relevant
+local authority is liable to compensate the owner of the document for any
+expenses reasonably incurred in replacing or repairing the document.
+
+42.6
+
+In this section, references to a document include a copy of a document.
+
+###### Restriction on inspection of documents
+
+43
+
+An authorised officer may not inspect a document whilst carrying out an
+inspection under this Chapter if (or to the extent that), by virtue of
+sections  30  to  37 , an information notice given at the time of the
+inspection to the occupier of the premises could not require the occupier to
+produce the document.
+
+###### Electronic records
+
+44
+
+44.1
+
+This section applies to any provision of this Chapter or  Chapter 3
+(penalties) that—
+
+44.1.a
+
+requires a person to provide information or produce a document or cause a
+document to be produced,
+
+44.1.b
+
+requires a person to permit an authorised officer—
+
+44.1.b.i
+
+to inspect a document, or
+
+44.1.b.ii
+
+to make or take copies of or extracts from or remove a document,
+
+44.1.c
+
+makes provision about penalties in connection with the provision of
+information or production or inspection of documents, including with the
+failure to provide information, or to produce or permit the inspection of
+documents, or
+
+44.1.d
+
+makes any other provision in connection with a requirement mentioned in
+paragraph (a)  or  (b) .
+
+44.2
+
+A provision to which this section applies has effect as if—
+
+44.2.a
+
+any reference in the provision to information were a reference to information
+held in any form,
+
+44.2.b
+
+any reference in the provision to a document were a reference to anything in
+which information of any description is recorded, and
+
+44.2.c
+
+any reference in the provision to a copy of a document were a reference to
+anything onto which information recorded in the document has been copied, by
+whatever means and whether directly or indirectly.
+
+44.3
+
+An authorised officer may, at any reasonable time, obtain access to, inspect
+and check the operation of, any electronic device and any associated apparatus
+or material which is or has been used in connection with relevant information
+or a relevant document.
+
+44.4
+
+In subsection  (3) —
+
+      “ relevant document ” means a document that a person has been, or may
+be, required by or under a provision of this Part—         to produce or cause
+to be produced, or           to permit an authorised officer—         to
+inspect,           to make or take copies of or extracts from, or           to
+remove,                       “ relevant information ” means information that
+a person has been, or may be, required by or under a provision of this Part to
+provide.
+
+44.5
+
+An authorised officer may require—
+
+44.5.a
+
+the person by whom or on whose behalf the electronic device is or has been so
+used, or
+
+44.5.b
+
+any person having charge of, or otherwise concerned with the operation of, the
+electronic device, apparatus or material,
+
+to provide the authorised officer with such reasonable assistance as may be
+required for the purposes of  subsection (3) .
+
+#### Assessments where no return or incorrect return
+
+##### Power to allow a local authority to make or substitute an assessment
+
+45
+
+45.1
+
+The Scottish Ministers may by regulations make provision for and in connection
+with a relevant local authority making an assessment of a levy payable by a
+person where the relevant local authority—
+
+45.1.a
+
+has reason to believe that the person is liable to pay the levy but has not
+made a return to the authority in relation to that liability by the date
+required under section 26(2)(b), or
+
+45.1.b
+
+is of the view honestly and reasonably that an assessment of the levy in a
+return made to the authority by the person in pursuance of that person’s duty
+under section 26 is incorrect by reason of careless or deliberate
+miscalculation.
+
+45.2
+
+Regulations under subsection (1) may, in particular, make provision for or in
+connection with—
+
+45.2.a
+
+the conditions which must be satisfied for a local authority to—
+
+45.2.a.i
+
+make an assessment of a levy payable by a person where no return has been
+made,
+
+45.2.a.ii
+
+make an assessment of a levy payable by a person where it is of the view that
+an assessment of the levy in a return is incorrect,
+
+45.2.b
+
+the procedure which a local authority must follow to make an assessment of a
+levy payable by a person,
+
+45.2.c
+
+notices which must be given before or after any assessment,
+
+45.2.d
+
+the time limits within which the powers may be exercised,
+
+45.2.e
+
+delegation of the authority’s powers under the regulations,
+
+45.2.f
+
+the effect of an authority’s assessment for the purposes of the imposition of
+penalties under Chapter 3.
+
+45.3
+
+Regulations under subsection (1) must make provision for and connection with—
+
+45.3.a
+
+reviews of an assessment made by a local authority and, for the avoidance of
+doubt, such provision may include in particular the matters mentioned in
+section 71(2), and
+
+45.3.b
+
+appeals to the First-tier Tribunal for Scotland against an assessment after a
+review has been conducted and, for the avoidance of doubt, such provision may
+include in particular the matters mentioned in section 72(2).
+
+45.4
+
+Regulations under subsection (1) are subject to the affirmative procedure.
+
+#### Penalties
+
+##### Power to impose penalties
+
+###### Power of local authorities to impose penalties
+
+46
+
+A relevant local authority may impose penalties on a person in accordance with
+this Chapter.
+
+##### Penalty for failure to make returns
+
+###### Penalty for failure to make returns
+
+47
+
+47.1
+
+A penalty is payable by a liable person (“ P ”) where P fails to make a return
+in accordance with  section 26 .
+
+47.2
+
+P is liable to a penalty under this section as determined by a relevant local
+authority.
+
+47.3
+
+In sections  48 ,  49  and  50  “ penalty date ”, in relation to a return,
+means the day after the day on which a return must be made under  section 26 .
+
+###### Three month penalty for failure to make return
+
+48
+
+48.1
+
+P is liable to a penalty under this section if—
+
+48.1.a
+
+P's failure continues after the end of the period of 3 months beginning with
+the penalty date,
+
+48.1.b
+
+the relevant local authority decides that such a penalty should be payable,
+and
+
+48.1.c
+
+the relevant local authority gives notice to P specifying the date from which
+the penalty is payable.
+
+48.2
+
+The penalty under this section is to be determined by a relevant local
+authority for each day that the failure continues during the period of 90 days
+beginning with the date specified in the notice given under  subsection (1)
+(c) .
+
+48.3
+
+The date specified in the notice under  subsection (1) (c) —
+
+48.3.a
+
+may be earlier than the date on which the notice is given, but
+
+48.3.b
+
+may not be earlier than the end of the period mentioned in  subsection (1) (a)
+.
+
+###### Six month penalty for failure to make return
+
+49
+
+49.1
+
+P is liable to a penalty under this section if P's failure continues after the
+end of the period of 6 months beginning with the penalty date.
+
+49.2
+
+The penalty under this section is to be determined by a relevant local
+authority.
+
+###### Twelve month penalty for failure to make return
+
+50
+
+50.1
+
+P is liable to a penalty under this section if P's failure continues after the
+end of the period of 12 months beginning with the penalty date.
+
+50.2
+
+Where, by failing to make the return, P deliberately withholds information
+which would enable or assist a relevant local authority to assess P's
+liability to pay the levy, the penalty under this section is to be determined
+by a relevant local authority.
+
+50.3
+
+In any case not falling within  subsection (2) , the penalty under this
+section is to be determined by a relevant local authority.
+
+###### Reasonable excuse for failure to make return
+
+51
+
+51.1
+
+If P satisfies the relevant local authority that there is a reasonable excuse
+for a failure to comply with  section 26 , liability to a penalty under
+sections  47  to  50  does not arise in relation to that failure.
+
+51.2
+
+For the purposes of  subsection (1) —
+
+51.2.a
+
+an insufficiency of funds is not a reasonable excuse unless attributable to
+events outside P's control,
+
+51.2.b
+
+where P relies on any other person to do anything, that is not a reasonable
+excuse unless P took reasonable care to avoid the failure, and
+
+51.2.c
+
+where P had a reasonable excuse for the failure but the excuse has ceased, P
+is to be treated as having continued to have the excuse if the failure is
+remedied without unreasonable delay after the excuse ceased.
+
+##### Penalty for failure to pay levy
+
+###### Penalty for failure to pay levy
+
+52
+
+52.1
+
+A penalty is payable by a liable person (“ P ”) where—
+
+52.1.a
+
+P fails to pay the total amount of the levy payable in accordance with
+section 29 (2) ,
+
+52.1.b
+
+the local authority has reminded P that payment is due, and
+
+52.1.c
+
+the period of 14 days beginning with the day on which the reminder is given
+expires without payment having been made.
+
+52.2
+
+P is liable to a penalty as determined by a relevant local authority.
+
+52.3
+
+If any amount of the levy remains unpaid after the end of the period of 5
+months beginning with the penalty date, P is liable to an additional penalty
+as determined by a relevant local authority.
+
+52.4
+
+If any amount of the levy remains unpaid after the end of the period of 11
+months beginning with the penalty date, P is liable to an additional penalty
+as determined by a relevant local authority.
+
+52.5
+
+In this section, “ penalty date ”, in relation to an amount of the levy, means
+the day after the day on which the period mentioned in  subsection (1) (c)
+expired.
+
+###### Reasonable excuse for failure to pay levy
+
+53
+
+53.1
+
+If P satisfies the relevant local authority that there is a reasonable excuse
+for a failure to comply with  section 29 , liability to a penalty under
+section 52  does not arise in relation to that failure.
+
+53.2
+
+For the purposes of  subsection (1) —
+
+53.2.a
+
+an insufficiency of funds is not a reasonable excuse unless attributable to
+events outside P's control,
+
+53.2.b
+
+where P relies on any other person to do anything, that is not a reasonable
+excuse unless P took reasonable care to avoid the failure, and
+
+53.2.c
+
+where P had a reasonable excuse for the failure but the excuse has ceased, P
+is to be treated as having continued to have the excuse if the failure is
+remedied without unreasonable delay after the excuse ceased.
+
+##### Penalty for failure to keep and preserve records
+
+###### Penalty for failure to keep and preserve records
+
+54
+
+54.1
+
+A person (“ P ”) who fails to comply with  section 28  in relation to a return
+is liable to a penalty as determined by a relevant local authority, subject to
+the following exception.
+
+54.2
+
+No penalty is incurred if the relevant local authority is satisfied that any
+facts that it reasonably requires to be proved, and that would have been
+proved by the records, are proved by other documentary evidence provided to
+the authority.
+
+###### Reasonable excuse for failure to keep and preserve records
+
+55
+
+55.1
+
+If P satisfies the relevant local authority that there is a reasonable excuse
+for a failure to comply with  section 28 , liability to a penalty under
+section 54  does not arise in relation to that failure.
+
+55.2
+
+For the purposes of  subsection (1) —
+
+55.2.a
+
+an insufficiency of funds is not a reasonable excuse unless attributable to
+events outside P's control,
+
+55.2.b
+
+where P relies on any other person to do anything, that is not a reasonable
+excuse unless P took reasonable care to avoid the failure, and
+
+55.2.c
+
+where P had a reasonable excuse for the failure but the excuse has ceased, P
+is to be treated as having continued to have the excuse if the failure is
+remedied without unreasonable delay after the excuse ceased.
+
+##### Penalties for failure to comply or obstruction
+
+###### Penalties for failure to comply or obstruction
+
+56
+
+56.1
+
+This section applies to a person who—
+
+56.1.a
+
+fails to comply with an information notice, or
+
+56.1.b
+
+deliberately obstructs an authorised officer or a person authorised by the
+officer in the course of an inspection.
+
+56.2
+
+The person is liable to a penalty as determined by a relevant local authority.
+
+56.3
+
+The reference to a person who fails to comply with an information notice
+includes a person who conceals, destroys or otherwise disposes of (or arranges
+for the concealment, destruction or disposal of) a document in breach of 
+section 60  or  section 61 .
+
+###### Daily default penalties for failure to comply or obstruction
+
+57
+
+57.1
+
+This section applies if the failure or obstruction mentioned in  section 56
+(1)  continues after the date on which a penalty is imposed under that section
+in respect of the failure or obstruction.
+
+57.2
+
+The person is liable to a further penalty or penalties as determined by a
+relevant local authority for each subsequent day on which the failure or
+obstruction continues.
+
+###### Reasonable excuse for failure to comply or obstruction
+
+58
+
+58.1
+
+Liability to a penalty under section  56  or  57  does not arise if the person
+satisfies the relevant local authority that there is a reasonable excuse for
+the failure or the obstruction of an authorised officer or of a person
+authorised by the officer.
+
+58.2
+
+For the purposes of this section—
+
+58.2.a
+
+an insufficiency of funds is not a reasonable excuse unless attributable to
+events outside the person's control,
+
+58.2.b
+
+where the person relies on another person to do anything, that is not a
+reasonable excuse unless the first person took reasonable care to avoid the
+failure or obstruction, and
+
+58.2.c
+
+where the person had a reasonable excuse for the failure or obstruction but
+the excuse has ceased, the person is to be treated as having continued to have
+the excuse if the failure is remedied, or the obstruction stops, without
+unreasonable delay after the excuse ceased.
+
+##### Penalties for inaccurate information or documents
+
+###### Penalties for inaccurate information or documents
+
+59
+
+59.1
+
+This section applies if—
+
+59.1.a
+
+in complying with an information notice, a person provides inaccurate
+information or produces a document that contains an inaccuracy, and
+
+59.1.b
+
+condition A, B or C is met.
+
+59.2
+
+Condition A is that the inaccuracy is careless or deliberate.
+
+59.3
+
+An inaccuracy is careless if it is due to a failure by the person to take
+reasonable care.
+
+59.4
+
+Condition B is that the person knows of the inaccuracy at the time the
+information is provided or the document produced but does not inform the
+relevant local authority at that time.
+
+59.5
+
+Condition C is that the person—
+
+59.5.a
+
+discovers the inaccuracy some time later, and
+
+59.5.b
+
+fails to take reasonable steps to inform the relevant local authority.
+
+59.6
+
+The person is liable to a penalty as determined by a relevant local authority.
+
+59.7
+
+Where the information or document contains more than one inaccuracy, a penalty
+is payable for each inaccuracy.
+
+##### Concealing, destroying etc. documents
+
+###### Concealing, destroying etc. documents following information notice
+
+60
+
+60.1
+
+A person must not conceal, destroy or otherwise dispose of (or arrange for the
+concealment, destruction or disposal of) a document that is the subject of an
+information notice addressed to the person, unless  subsection (2)  or  (3)
+applies.
+
+60.2
+
+Subsection  (1)  does not apply if the person acts after the document has been
+produced to an authorised officer in accordance with the information notice,
+unless an authorised officer has notified the person that the document must
+continue to be available for inspection (and has not withdrawn the
+notification).
+
+60.3
+
+Subsection  (1)  does not apply, in a case to which  section 33  applies, if
+the person acts after the expiry of the period of 6 months beginning with the
+day on which a copy of the document was produced in accordance with that
+section unless, before the expiry of that period, an authorised officer made a
+request for the original document under  section 33 (2) (b) .
+
+###### Concealing, destroying etc. documents following information notification
+
+61
+
+61.1
+
+A person must not conceal, destroy or otherwise dispose of (or arrange for the
+concealment, destruction or disposal of) a document if an authorised officer
+has notified the person that the document is to be, or is likely to be, the
+subject of an information notice addressed to that person, unless  subsection
+(2)  applies.
+
+61.2
+
+Subsection  (1)  does not apply if—
+
+61.2.a
+
+at least 6 months has expired since the person was (or was last) so notified,
+or
+
+61.2.b
+
+an information notice has been given to the person requiring the document to
+be produced.
+
+##### Assessment and enforcement of penalties
+
+###### Assessment of penalties
+
+62
+
+62.1
+
+Subsection (2)  applies where—
+
+62.1.a
+
+a person becomes liable for a penalty under this Chapter, and
+
+62.1.b
+
+the relevant local authority decides to impose a penalty in respect of that
+liability.
+
+62.2
+
+The relevant local authority must—
+
+62.2.a
+
+assess the penalty, and
+
+62.2.b
+
+notify the person.
+
+62.3
+
+An assessment of a penalty under this Chapter must be made within the period
+of 12 months beginning with the date on which the person became liable to the
+penalty, subject to subsections  (4)  and  (5) .
+
+62.4
+
+In a case involving an information notice against which a person may appeal,
+an assessment of a penalty under  section 56  or  57  must be made within the
+period of 12 months beginning with the latest of the following—
+
+62.4.a
+
+the date on which the person became liable to the penalty,
+
+62.4.b
+
+the end of the period in which notice of an appeal against the information
+notice could have been given, and
+
+62.4.c
+
+if notice of such an appeal is given, the date on which the appeal is
+determined or withdrawn.
+
+62.5
+
+An assessment of a penalty under section  59  must be made—
+
+62.5.a
+
+within the period of 12 months beginning with the date on which the inaccuracy
+first came to the attention of an authorised officer, and
+
+62.5.b
+
+within the period of 6 years beginning with the date on which the person
+became liable to the penalty.
+
+###### Enforcement of penalties
+
+63
+
+A penalty under this Chapter must be paid before the end of the period of 30
+days beginning with the date on which the notification under  section 62  was
+issued.
+
+###### Failure to comply with time limit
+
+64
+
+A failure by a person to do anything required to be done within a limited
+period of time, does not give rise to liability to a penalty under  section 56
+or  57  if the person did it within such further time (if any) as an
+authorised officer may have allowed.
+
+###### Power of local authorities to reduce, suspend or waive penalties
+
+65
+
+65.1
+
+A relevant local authority may reduce a penalty under this Chapter if it
+considers it appropriate to do so because of special circumstances.
+
+65.2
+
+In subsection  (1) , “ special circumstances ” does not include ability to
+pay.
+
+65.3
+
+In subsection  (1) , the reference to reducing a penalty includes a reference
+to—
+
+65.3.a
+
+waiving a penalty entirely,
+
+65.3.b
+
+suspending a penalty, and
+
+65.3.c
+
+agreeing a compromise in relation to proceedings for a penalty.
+
+65.4
+
+In this section, references to a penalty include references to any interest in
+relation to the penalty.
+
+##### Interest
+
+###### Interest on unpaid levy
+
+66
+
+66.1
+
+Interest is payable on the amount of any unpaid levy from the day after the
+date on which the levy must be paid in accordance with section  29 (2) .
+
+66.2
+
+If an amount is paid to the relevant local authority in respect of the unpaid
+levy, the amount on which interest is payable is reduced by that amount.
+
+66.3
+
+Interest under this section is calculated at the rate specified in provision
+made under section  68 .
+
+###### Interest on penalties
+
+67
+
+67.1
+
+Interest is payable on the amount of any unpaid penalty from the date on which
+the penalty is due to be paid until it is paid.
+
+67.2
+
+Interest under this section is calculated at the rate specified in provision
+made under section  68 .
+
+###### Rate of interest
+
+68
+
+68.1
+
+The rate of interest that applies for the purposes of sections  66  and  67
+is the rate specified by the Scottish Ministers in regulations.
+
+68.2
+
+Regulations under  subsection (1)  may—
+
+68.2.a
+
+provide for different rates for different penalties,
+
+68.2.b
+
+provide for circumstances in which alteration of a rate of interest is or is
+not to take place,
+
+68.2.c
+
+provide that alterations of rates are to have effect for periods beginning on
+or after a day determined in accordance with the regulations in relation to
+interest running from before that day, as well as from, or from after, that
+day.
+
+68.3
+
+Regulations under  subsection (1)  are subject to the negative procedure.
+
+##### Power to change penalty provisions
+
+###### Power to change penalty provisions
+
+69
+
+69.1
+
+The Scottish Ministers may by regulations make further provision about
+penalties under this Part.
+
+69.2
+
+Provision under  subsection (1)  includes provision—
+
+69.2.a
+
+about the circumstances in which a penalty is payable,
+
+69.2.b
+
+about the amounts of penalties,
+
+69.2.c
+
+about the procedure for issuing penalties,
+
+69.2.d
+
+about enforcing penalties.
+
+69.3
+
+Regulations under  subsection (1)  may not create criminal offences.
+
+69.4
+
+Regulations under  subsection (1)  may modify any enactment, including this
+Act.
+
+69.5
+
+Regulations under  subsection (1)  do not apply to a failure which began
+before the date on which the regulations come into force.
+
+69.6
+
+Regulations under  subsection (1)  are subject to the affirmative procedure.
+
+#### Recovery of unpaid amounts
+
+##### Summary warrant
+
+70
+
+70.1
+
+This section applies where a person fails to pay a local authority—
+
+70.1.a
+
+an amount of the levy payable in accordance with section  29 (2) ,
+
+70.1.b
+
+a penalty imposed on the person under Chapter  3  of this Part.
+
+70.2
+
+The local authority may apply to the sheriff for a summary warrant.
+
+70.3
+
+An application for the purpose of  subsection (2)  must be accompanied by a
+certificate which—
+
+70.3.a
+
+complies with  subsection (4) , and
+
+70.3.b
+
+is signed by an officer of the local authority.
+
+70.4
+
+A certificate complies with this subsection if—
+
+70.4.a
+
+it states that—
+
+70.4.a.i
+
+the person has failed to pay the sum payable by the person in the time
+required by or under this Act,
+
+70.4.a.ii
+
+the local authority has subsequently demanded payment from the person, and
+
+70.4.a.iii
+
+the period of 14 days beginning with the day on which the demand is made has
+expired without payment having been made, and
+
+70.4.b
+
+it specifies the sum payable by the person.
+
+70.5
+
+The sheriff must grant a summary warrant in (or as nearly as may be in) the
+form prescribed by Act of Sederunt.
+
+70.6
+
+A summary warrant granted under  subsection (5)  authorises the recovery of
+the sum payable by—
+
+70.6.a
+
+attachment,
+
+70.6.b
+
+money attachment,
+
+70.6.c
+
+earnings arrestment,
+
+70.6.d
+
+arrestment and action of furthcoming or sale.
+
+70.7
+
+Subject to and without prejudice to section 39(1) of the Debt Arrangement and
+Attachment (Scotland) Act 2002—
+
+70.7.a
+
+the sheriff officer’s fees, and
+
+70.7.b
+
+any outlays reasonably incurred by that officer,
+
+in connection with the execution of a summary warrant granted under
+subsection (5)  are to be chargeable against the person in relation to whom
+the summary warrant was granted.
+
+70.8
+
+No fees are to be chargeable by the sheriff officer against the person in
+relation to whom the summary warrant was granted for collecting, and
+accounting to the local authority for, sums paid to that officer by that
+person in respect of the sum payable.
+
+#### Reviews and appeals
+
+##### Reviews
+
+71
+
+71.1
+
+The Scottish Ministers must by regulations make provision for and in
+connection with reviews by a relevant local authority of—
+
+71.1.a
+
+decisions made by the authority in connection with the operation of a VL
+scheme,
+
+71.1.b
+
+enforcement action taken by the authority under Chapter 1 of this Part,
+
+71.1.c
+
+penalties imposed by the authority under Chapter 3 of this Part.
+
+71.2
+
+Regulations under subsection  (1)  may, in particular, make provision for or
+in connection with—
+
+71.2.a
+
+the procedure to be followed in connection with reviews,
+
+71.2.b
+
+the manner in which reviews are to be conducted,
+
+71.2.c
+
+the time limits within which reviews are to be conducted,
+
+71.2.d
+
+the circumstances under which reviews are to be conducted,
+
+71.2.e
+
+the powers of authorities in conducting reviews,
+
+71.2.f
+
+the steps that may be taken by authorities following the outcome of reviews,
+
+71.2.g
+
+the postponement of any levy, penalty or interest pending a review,
+
+71.2.h
+
+the suspension of any requirement contained in an information notice issued
+under section  30  or  31  pending a review.
+
+71.3
+
+Regulations under  subsection (1)  are subject to the affirmative procedure.
+
+##### Appeals
+
+72
+
+72.1
+
+The Scottish Ministers must by regulations make provision for and in
+connection with appeals to the First-tier Tribunal for Scotland against—
+
+72.1.a
+
+decisions made by a relevant local authority in connection with the operation
+of a VL scheme,
+
+72.1.b
+
+enforcement action taken by a relevant local authority under  Chapter 1  of
+this Part,
+
+72.1.c
+
+penalties imposed by a relevant local authority under  Chapter 3  of this
+Part.
+
+72.2
+
+Regulations under subsection  (1)  may, in particular, make provision for or
+in connection with—
+
+72.2.a
+
+the time limits within which appeals are to be brought,
+
+72.2.b
+
+the circumstances under which appeals may be brought or not brought,
+
+72.2.c
+
+the steps that may be taken by a relevant local authority following the
+outcome of an appeal,
+
+72.2.d
+
+the effect of any decision taken in relation to an appeal on a decision to
+which the appeal relates,
+
+72.2.e
+
+the postponement of any levy, penalty or interest pending appeals,
+
+72.2.f
+
+the suspension of any requirement contained in an information notice issued
+under section  30  or  31  pending appeals.
+
+72.3
+
+Regulations under  subsection (1)  must require a review to have been
+conducted under or by virtue of  section 71  in relation to the decision,
+enforcement action or penalty in question before an appeal may be brought.
+
+72.4
+
+Regulations under  subsection (1)  are subject to the affirmative procedure.
+
+### Registers of Liable Persons and Information Sharing
+
+#### Registers of liable persons
+
+73
+
+73.1
+
+A relevant local authority may establish and maintain a register of liable
+persons.
+
+73.2
+
+Any register established under  subsection (1)  must include—
+
+73.2.a
+
+the names of all liable persons offering overnight accommodation in the area
+covered by a VL scheme (or schemes) operated by the relevant local authority,
+
+73.2.b
+
+the addresses (or other descriptions) of all places at which overnight
+accommodation is provided in the area covered by a VL scheme (or schemes), and
+
+73.2.c
+
+such other information as the relevant local authority considers necessary to
+allow it to carry out its functions under this Act.
+
+#### Power to share information
+
+74
+
+74.1
+
+A relevant local authority may, in the circumstances mentioned in subsection
+(2) , disclose relevant information to—
+
+74.1.a
+
+the relevant local authority's authorised officer as described in  section 30
+,
+
+74.1.b
+
+any local authority with which the relevant local authority has introduced a
+joint VL scheme under  section 12 (3) ,
+
+74.1.c
+
+a person authorised by the relevant local authority under  section 24  to
+carry out a function or functions of the authority.
+
+74.2
+
+The circumstances are that disclosure of the relevant information is—
+
+74.2.a
+
+necessary for the performance of a function conferred by, or by virtue of,
+this Act, or
+
+74.2.b
+
+otherwise necessary for or in connection with the operation of a VL scheme.
+
+74.3
+
+Where relevant information is disclosed to a person mentioned in  subsection
+(1) (a)  or  (c) —
+
+74.3.a
+
+that person may only use the information, or subsequently disclose it to any
+other person, as is necessary for or in connection with the function conferred
+on that person in relation to the VL scheme to which the information relates,
+and
+
+74.3.b
+
+any other person to whom the information is subsequently disclosed may only
+use it for the same purpose.
+
+74.4
+
+In this section, “ relevant information ” means—
+
+74.4.a
+
+in relation to disclosure under  subsection (1) (a) —
+
+74.4.a.i
+
+the names and addresses of all liable persons offering overnight accommodation
+in the area covered by a VL scheme or schemes operated by the relevant local
+authority,
+
+74.4.a.ii
+
+the addresses (or other descriptions) of all places at which overnight
+accommodation is provided in the area covered by a VL scheme (or schemes),
+
+74.4.a.iii
+
+any information or representations provided to the relevant local authority by
+or on behalf of a liable person in connection with any review or appeal by
+virtue of regulations made under  section 71  or  72 , and
+
+74.4.a.iv
+
+such other information as the relevant local authority considers necessary to
+allow the recipient of the information to carry out the recipient’s functions
+under this Act.
+
+74.4.b
+
+in relation to disclosure under  subsection (1) (b)  or  (c) —
+
+74.4.b.i
+
+the information mentioned in sub-paragraphs  (i)  to  (iv)  of  paragraph (a)
+, and
+
+74.4.b.ii
+
+any information provided to, or any documents produced to or inspected by, an
+authorised officer under  Chapter 1  of  Part 5  of this Act.
+
+74.5
+
+Nothing in this section authorises a disclosure of information that would be
+in contravention of the data protection legislation (within the meaning given
+by section 3 of the Data Protection Act 2018).
+
+### Final provisions
+
+#### Report on operation of Act
+
+75
+
+75.1
+
+The Scottish Ministers must, as soon as reasonably practicable after the end
+of the reporting period—
+
+75.1.a
+
+review the operation of this Act, and
+
+75.1.b
+
+prepare a report on that review.
+
+75.2
+
+The report must, in particular, set out an assessment of—
+
+75.2.a
+
+the impact of VL schemes introduced under this Act on businesses and
+communities,
+
+75.2.b
+
+the processes followed by relevant local authorities when introducing,
+administering, reporting on and reviewing VL schemes,
+
+75.2.c
+
+how the net proceeds of VL schemes have been used by relevant local
+authorities,
+
+75.2.d
+
+any exemptions or rebates applying to the payment of the levy under VL
+schemes,
+
+75.2.e
+
+any guidance which has been issued in accordance with section 23,
+
+75.2.f
+
+the use of the compliance and enforcement powers under Part 5, and
+
+75.2.g
+
+any other matters as the Scottish Ministers consider appropriate.
+
+75.3
+
+The Scottish Ministers must, as soon as reasonably practicable after preparing
+the report—
+
+75.3.a
+
+publish the report, and
+
+75.3.b
+
+lay the report before the Scottish Parliament.
+
+75.4
+
+In this section, “the reporting period” is the period beginning with the day
+of Royal Assent and ending on—
+
+75.4.a
+
+the day which is three years after the day on which the first VL scheme comes
+into effect, or
+
+75.4.b
+
+such earlier day which is after the day on which the first VL scheme comes
+into effect as may be determined by Ministers.
+
+#### Interpretation of Act
+
+76
+
+76.1
+
+In this Act—
+
+      “ chargeable transaction ” has the meaning given by section  3 (2) ,
+“ the levy ” is to be construed in accordance with section  1 ,           “
+the liable person ” is to be construed in accordance with section  8 ,
+“ overnight accommodation ” has the meaning given by section  4 (1) ,
+“ relevant local authority ” has the meaning given by section  24 (2) ,
+“ visitor ” is to be construed in accordance with section  3 (1) (b) ,
+“ VL scheme ” is to be construed in accordance with section  12 (1) (a) .
+
+76.2
+
+References in this Act to the making of returns are to be construed in
+accordance with  section 25 (1) .
+
+#### Regulation-making powers
+
+77
+
+Any power of the Scottish Ministers to make regulations under this Act
+includes power to make different provision for different purposes.
+
+#### Ancillary provision
+
+78
+
+78.1
+
+The Scottish Ministers may by regulations make any incidental, supplementary,
+consequential, transitional, transitory or saving provision that they consider
+appropriate for the purposes of, in connection with or for giving full effect
+to this Act or anything done under it.
+
+78.2
+
+Regulations under  subsection (1)  may modify any enactment, including this
+Act.
+
+78.3
+
+Regulations under  subsection (1) —
+
+78.3.a
+
+are subject to the affirmative procedure if they add to, replace or omit any
+part of the text of an Act,
+
+78.3.b
+
+otherwise, are subject to the negative procedure.
+
+#### Commencement
+
+79
+
+79.1
+
+This Part comes into force on the day after Royal Assent.
+
+79.2
+
+The other provisions of this Act come into force on the date the Scottish
+Ministers appoint by regulations.
+
+79.3
+
+Regulations under  subsection (2)  may include transitional, transitory or
+saving provision.
+
+#### Short title
+
+80
+
+The short title of this Act is the Visitor Levy (Scotland) Act 2024.
+

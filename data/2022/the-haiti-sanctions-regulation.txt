@@ -1,0 +1,3593 @@
+Title: The Haiti (Sanctions) Regulations 2022
+Date: 2024-05-21
+Description: These Regulations are made under the Sanctions and Anti-Money Laundering Act 2018 (c. 13) to give effect to the United Kingdom’s international obligations resulting from United Nations Security Council Resolution 2653 (2022) imposing a sanctions regime in view of the situation in Haiti.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/1281
+
+## The Haiti (Sanctions) Regulations 2022
+
+Sanctions
+
+Made 5th December 2022
+
+Laid before Parliament 7 th December 2022
+
+Coming into force 28th December 2022
+
+The Secretary of State , in exercise of the powers conferred by sections
+1(1)(a) and (3)(a), 3(1)(a), (b)(i), (d)(i), 5, 9(2)(b), 13, 15(2)(a) and (b),
+(3) and (6), 16, 17, 19, 20, 21(1), 54(1) and (2) and 62(4) and (5) of, and
+paragraphs 2(a)(i), 4(a)(i), 5(a)(i), 6(a)(i), 10(a)(i), 11(a)(i), 13(a), (g),
+(k), (m), and (w), 14(a), 20, 21 and 27 of Schedule 1 to, the Sanctions and
+Anti-Money Laundering Act 2018  makes the following Regulations:
+
+### General
+
+#### Citation and commencement
+
+1
+
+1.1
+
+These Regulations may be cited as the Haiti (Sanctions) Regulations 2022.
+
+1.2
+
+These Regulations come into force on 28th December 2022.
+
+#### Interpretation
+
+2
+
+In these Regulations—
+
+“ the Act ” means the Sanctions and Anti-Money Laundering Act 2018; “
+arrangement ” includes any agreement, understanding, scheme, transaction or
+series of transactions, whether or not legally enforceable (but see paragraph
+12 of Schedule 1 for the meaning of that term in that Schedule); “ CEMA ”
+means the Customs and Excise Management Act 1979 ; “ the Commissioners ” means
+the Commissioners for His Majesty’s Revenue and Customs; “ the Committee ”
+means the Committee of the Security Council established in accordance with
+paragraph 19 of resolution 2653; “ conduct ” includes acts and omissions; “
+document ” includes information recorded in any form and, in relation to
+information recorded otherwise than in legible form, references to its
+production include producing a copy of the information in legible form; “
+resolution 2653 ” means resolution 2653 (2022) adopted by the Security Council
+on 21st October 2022;   “ resolution 2699 ” means resolution 2699 (2023)
+adopted by the Security Council on 2nd October 2023;     “ resolution 2700 ”
+means resolution 2700 (2023) adopted by the Security Council on 19th October
+2023;     “ trade licence ” means a licence under regulation 29A;   “ Treasury
+licence ” means a licence under regulation 29(1); “ United Kingdom person ”
+has the same meaning as in section 21 of the Act.
+
+#### Application of prohibitions and requirements outside the United Kingdom
+
+3
+
+3.1
+
+A United Kingdom person may contravene a relevant prohibition by conduct
+wholly or partly outside the United Kingdom.
+
+3.2
+
+Any person may contravene a relevant prohibition by conduct in the territorial
+sea.
+
+3.3
+
+In this regulation, a “ relevant prohibition ” means any prohibition imposed
+by—
+
+3.3.a
+
+Part 3 (Finance),
+
+3.3.b
+
+Part 4 (Trade), or
+
+3.3.c
+
+a condition of a Treasury licence  or a trade licence .
+
+3.4
+
+A United Kingdom person may comply, or fail to comply, with a relevant
+requirement by conduct wholly or partly outside the United Kingdom.
+
+3.5
+
+Any person may comply, or fail to comply, with a relevant requirement by
+conduct in the territorial sea.
+
+3.6
+
+In this regulation a “ relevant requirement ” means any requirement imposed—
+
+3.6.a
+
+by or under Part 6 (Information and records), or by reason of a request made
+under a power conferred by that Part, or
+
+3.6.b
+
+by a condition of a Treasury licence  or a trade licence .
+
+3.7
+
+Nothing in this regulation is to be taken to prevent a relevant prohibition or
+a relevant requirement from applying to conduct (by any person) in the United
+Kingdom.
+
+#### Purposes
+
+4
+
+4.1
+
+The purpose of the regulations contained in this instrument that are made
+under section 1 of the Act is compliance with the relevant UN obligations.
+
+4.2
+
+In this regulation, “ the relevant UN obligations ” means the obligations that
+the United Kingdom has by virtue of—
+
+4.2.a
+
+paragraph 6 of resolution 2653 (asset-freeze etc.), and
+
+4.2.b
+
+paragraph 11 of resolution 2653 (arms embargo etc.),
+
+to take the measures required by those provisions in respect of persons  for
+the time being named by the Security Council or the Committee for the purposes
+of those paragraphs.
+
+4.3
+
+A reference to the obligations that the United Kingdom has by virtue of
+paragraph 11 of resolution 2653 is to that provision as read with—
+
+4.3.a
+
+paragraph 14 of resolution 2699, and
+
+4.3.b
+
+paragraph 6 of resolution 2700.
+
+### Designations
+
+#### Designation of persons named under UN Security Council Resolutions
+
+5
+
+5.1
+
+Each person for the time being named by the Security Council or the Committee
+for the purposes of paragraph 6 of resolution 2653 is a designated person for
+the purposes of regulations 8 to 12 (asset-freeze etc.) (whose purpose is
+compliance with the UN obligations mentioned in regulation 4(2)(a) (purposes))
+.
+
+5.2
+
+Each person for the time being named by the Committee for the purposes of
+paragraph 11 of resolution 2653 is a designated person for the purposes of
+regulations 15 to 22 (trade) (whose purpose is compliance with the UN
+obligations mentioned in regulation 4(2)(b)).
+
+### Finance
+
+#### Meaning of “designated person” in Part 3
+
+6
+
+In this Part, a “ designated person ” means a person who is designated for the
+purposes of regulations 8 to 12 (asset-freeze etc.) by reason of regulation 5
+(designation of persons named under UN Security Council Resolutions).
+
+#### Meaning of “owned or controlled directly or indirectly” in Part 3
+
+7
+
+7.1
+
+In this Part, a person who is not an individual (“ C ”) is “owned or
+controlled directly or indirectly” by another person (“ P ”) if either of the
+following two conditions is met (or both are met).
+
+7.2
+
+The first condition is that P—
+
+7.2.a
+
+holds directly or indirectly more than 50% of the shares in C,
+
+7.2.b
+
+holds directly or indirectly more than 50% of the voting rights in C, or
+
+7.2.c
+
+holds the right directly or indirectly to appoint or remove a majority of the
+board of directors of C.
+
+7.3
+
+Schedule 1 contains provision applying for the purpose of interpreting
+paragraph (2).
+
+7.4
+
+The second condition is that it is reasonable, having regard to all the
+circumstances, to expect that P would (if P chose to) be able, in most cases
+or in significant respects, by whatever means and whether directly or
+indirectly, to achieve the result that affairs of C are conducted in
+accordance with P’s wishes.
+
+#### Asset-freeze in relation to designated persons
+
+8
+
+8.1
+
+A person (“ P ”) must not deal with funds or economic resources owned, held or
+controlled by a designated person if P knows, or has reasonable cause to
+suspect, that P is dealing with such funds or economic resources.
+
+8.2
+
+Paragraph (1) is subject to Part 5 (Exceptions and licences).
+
+8.3
+
+A person who contravenes the prohibition in paragraph (1) commits an offence.
+
+8.4
+
+For the purposes of paragraph (1), a person “deals with” funds if the person—
+
+8.4.a
+
+uses, alters, moves, transfers or allows access to the funds,
+
+8.4.b
+
+deals with the funds in any other way that would result in any change in
+volume, amount, location, ownership, possession, character or destination, or
+
+8.4.c
+
+makes any other change, including portfolio management, that would enable use
+of the funds.
+
+8.5
+
+For the purposes of paragraph (1), a person “deals with” economic resources if
+the person—
+
+8.5.a
+
+exchanges the economic resources for funds, goods or services, or
+
+8.5.b
+
+uses the economic resources in exchange for funds, goods or services (whether
+by pledging them as security or otherwise).
+
+8.6
+
+The reference in paragraph (1) to funds or economic resources that are “owned,
+held or controlled” by a person includes, in particular, a reference to—
+
+8.6.a
+
+funds or economic resources in which the person has any legal or equitable
+interest, regardless of whether the interest is held jointly with any other
+person and regardless of whether any other person holds an interest in the
+funds or economic resources;
+
+8.6.b
+
+any tangible property (other than real property), or bearer security, that is
+comprised in funds or economic resources and is in the possession of the
+person.
+
+8.7
+
+For the purposes of paragraph (1), funds or economic resources are to be
+treated as owned, held or controlled by a designated person if they are owned,
+held or controlled by a person who is owned or controlled directly or
+indirectly (within the meaning of regulation 7) by the designated person.
+
+8.8
+
+For the avoidance of doubt, the reference in paragraph (1) to a designated
+person includes P if P is a designated person.
+
+#### Making funds available to designated persons
+
+9
+
+9.1
+
+A person (“ P ”) must not make funds available directly or indirectly to a
+designated person if P knows, or has reasonable cause to suspect, that P is
+making the funds so available.
+
+9.2
+
+Paragraph (1) is subject to Part 5 (Exceptions and licences).
+
+9.3
+
+A person who contravenes the prohibition in paragraph (1) commits an offence.
+
+9.4
+
+The reference in paragraph (1) to making funds available indirectly to a
+designated person includes, in particular, a reference to making them
+available to a person who is owned or controlled directly or indirectly
+(within the meaning of regulation 7) by the designated person.
+
+#### Making funds available for benefit of designated persons
+
+10
+
+10.1
+
+A person (“ P ”) must not make funds available to any person for the benefit
+of a designated person if P knows, or has reasonable cause to suspect, that P
+is making the funds so available.
+
+10.2
+
+Paragraph (1) is subject to Part 5 (Exceptions and licences).
+
+10.3
+
+A person who contravenes the prohibition in paragraph (1) commits an offence.
+
+10.4
+
+For the purposes of this regulation—
+
+10.4.a
+
+funds are made available for the benefit of a designated person only if that
+person thereby obtains, or is able to obtain, a significant financial benefit,
+and
+
+10.4.b
+
+“ financial benefit ” includes the discharge (or partial discharge) of a
+financial obligation for which the designated person is wholly or partly
+responsible.
+
+#### Making economic resources available to designated persons
+
+11
+
+11.1
+
+A person (“ P ”) must not make economic resources available directly or
+indirectly to a designated person if P knows, or has reasonable cause to
+suspect—
+
+11.1.a
+
+that P is making the economic resources so available, and
+
+11.1.b
+
+that the designated person would be likely to exchange the economic resources
+for, or use them in exchange for, funds, goods or services.
+
+11.2
+
+Paragraph (1) is subject to Part 5 (Exceptions and licences).
+
+11.3
+
+A person who contravenes the prohibition in paragraph (1) commits an offence.
+
+11.4
+
+The reference in paragraph (1) to making economic resources available
+indirectly to a designated person includes, in particular, a reference to
+making them available to a person who is owned or controlled directly or
+indirectly (within the meaning of regulation 7) by the designated person.
+
+#### Making economic resources available for benefit of designated persons
+
+12
+
+12.1
+
+A person (“ P ”) must not make economic resources available to any person for
+the benefit of a designated person if P knows, or has reasonable cause to
+suspect, that P is making the economic resources so available.
+
+12.2
+
+Paragraph (1) is subject to Part 5 (Exceptions and licences).
+
+12.3
+
+A person who contravenes the prohibition in paragraph (1) commits an offence.
+
+12.4
+
+For the purposes of paragraph (1)—
+
+12.4.a
+
+economic resources are made available for the benefit of a designated person
+only if that person thereby obtains, or is able to obtain, a significant
+financial benefit, and
+
+12.4.b
+
+“ financial benefit ” includes the discharge (or partial discharge) of a
+financial obligation for which the designated person is wholly or partly
+responsible.
+
+#### Circumventing etc. prohibitions
+
+13
+
+13.1
+
+A person must not intentionally participate in activities knowing that the
+object or effect of them is, whether directly or indirectly—
+
+13.1.a
+
+to circumvent any of the prohibitions in regulations 8 to 12 (asset-freeze
+etc.), or
+
+13.1.b
+
+to enable or facilitate the contravention of any such prohibition.
+
+13.2
+
+A person who contravenes a prohibition in paragraph (1) commits an offence.
+
+### Trade
+
+#### Interpretation of expressions used in this Part
+
+14
+
+14.1
+
+Paragraphs 32 and 36 of Schedule 1 to the Act (trade sanctions) apply for the
+purpose of interpreting expressions in this Part.
+
+14.2
+
+In this Part, any reference to the United Kingdom includes a reference to the
+territorial sea.
+
+14.3
+
+In this Part “ small arms, light weapons and ammunition ” has the meaning
+given to it in Schedule 1A.
+
+#### Export of  
+
+15
+
+15.1
+
+The export of   small arms, light weapons and ammunition   to,   or for use
+in, Haiti   is prohibited.
+
+15.2
+
+Paragraph (1) is subject to Part 5 (Exceptions and licences).
+
+#### Supply and delivery of  
+
+16
+
+16.1
+
+A person must not directly or indirectly supply or deliver   small arms, light
+weapons and ammunition   from a third country   to a place in Haiti .
+
+16.2
+
+Paragraph (1) is subject to Part 5 (Exceptions and licences).
+
+16.3
+
+A person who contravenes the prohibition in paragraph (1) commits an offence,
+but it is a defence for a person charged with that offence (“ P ”) to show
+that P did not know and had no reasonable cause to suspect that   the goods
+were destined (or ultimately destined) for Haiti .
+
+16.4
+
+In this regulation, “ third country ” means a country that is not the United
+Kingdom or the Isle of Man.
+
+####  
+
+17
+
+17.1
+
+A person must not directly or indirectly make   small arms, light weapons and
+ammunition   available to,   or for use in, Haiti .
+
+17.2
+
+Paragraph (1) is subject to Part 5 (Exceptions and licences).
+
+17.3
+
+A person who contravenes the prohibition in paragraph (1) commits an offence,
+but it is a defence for a person charged with that offence (“ P ”) to show
+that P did not know and had no reasonable cause to suspect that   the goods
+were for use in Haiti .
+
+#### Transfer of military technology
+
+18
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Technical assistance relating to military goods and military technology
+
+19
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Financial services and funds relating to military goods and military technology
+
+20
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Brokering services: non-UK activity relating to military goods and military technology
+
+21
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Enabling or facilitating the conduct of armed hostilities
+
+22
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Circumventing etc. prohibitions
+
+23
+
+23.1
+
+A person must not intentionally participate in activities knowing that the
+object or effect of them is, whether directly or indirectly—
+
+23.1.a
+
+to circumvent any of the prohibitions in this Part, or
+
+23.1.b
+
+to enable or facilitate the contravention of any such prohibition.
+
+23.2
+
+A person who contravenes a prohibition in paragraph (1) commits an offence.
+
+#### Defences
+
+24
+
+24.1
+
+Paragraph (2) applies where a person relies on a defence under this Part.
+
+24.2
+
+If evidence is adduced which is sufficient to raise an issue with respect to
+the defence, the court must assume that the defence is satisfied unless the
+prosecution proves beyond reasonable doubt that it is not.
+
+### Exceptions and licences
+
+#### Finance: exceptions from prohibitions
+
+25
+
+25.1
+
+The prohibition in regulation 8 (asset-freeze in relation to designated
+persons) is not contravened by an independent person (“ P ”) transferring to
+another person a legal or equitable interest in funds or economic resources
+where, immediately before the transfer, the interest—
+
+25.1.a
+
+is held by P, and
+
+25.1.b
+
+is not held jointly with the designated person.
+
+25.2
+
+In paragraph (1) “ independent person ” means a person who—
+
+25.2.a
+
+is not the designated person, and
+
+25.2.b
+
+is not owned or controlled directly or indirectly (within the meaning of
+regulation 7) by the designated person.
+
+25.3
+
+The prohibitions in regulations 8 to 10 (asset-freeze in relation to, and
+making funds available to, or for the benefit of, designated persons) are not
+contravened by a relevant institution crediting a frozen account with interest
+or other earnings due on the account.
+
+25.4
+
+The prohibitions in regulations 9 and 10 (making funds available to, or for
+the benefit of, designated persons) are not contravened by a relevant
+institution crediting a frozen account where it receives funds transferred to
+that institution for crediting to that account.
+
+25.5
+
+The prohibitions in regulations 9 and 10 are not contravened by the transfer
+of funds to a relevant institution for crediting to an account held or
+controlled (directly or indirectly) by a designated person, where those funds
+are transferred in discharge (or partial discharge) of an obligation which
+arose before the date on which the person became a designated person.
+
+25.6
+
+The prohibitions in regulations 8 to 10 are not contravened in relation to a
+designated person (“ P ”) by a transfer of funds from account A to account B,
+where—
+
+25.6.a
+
+account A is with a relevant institution which carries on an excluded activity
+within the meaning of section 142D of the Financial Services and Markets Act
+2000 ,
+
+25.6.b
+
+account B is with a ring-fenced body within the meaning of section 142A of the
+Financial Services and Markets Act 2000 , and
+
+25.6.c
+
+accounts A and B are held or controlled (directly or indirectly) by P.
+
+25.7
+
+In this regulation—
+
+“ designated person ” has the same meaning as it has in Part 3 (Finance); “
+frozen account ” means an account with a relevant institution which is held or
+controlled (directly or indirectly) by a designated person; “ relevant
+institution ” means a person that has permission under Part 4A of the
+Financial Services and Markets Act 2000  (Permission to carry on regulated
+activities).
+
+25.8
+
+The definition of “relevant institution” in paragraph (7) is to be read with
+section 22 of the Financial Services and Markets Act 2000 , any relevant order
+under that section  and Schedule 2 to that Act .
+
+#### Finance: humanitarian exception
+
+26
+
+26.1
+
+The prohibitions in regulations 8 to 12 (asset-freeze etc.) are not
+contravened by a person (“ P ”) carrying out a relevant activity which is
+necessary—
+
+26.1.a
+
+to ensure the timely delivery of humanitarian assistance, or
+
+26.1.b
+
+to support other activities that support basic human needs,
+
+where Conditions A and B are met.
+
+26.2
+
+Condition A is that the humanitarian assistance or other activities mentioned
+in paragraph (1) are carried out by—
+
+26.2.a
+
+the United Nations, including its—
+
+26.2.a.i
+
+programmes and funds,
+
+26.2.a.ii
+
+other entities and bodies, and
+
+26.2.a.iii
+
+specialised agencies and related organisations,
+
+26.2.b
+
+international organisations,
+
+26.2.c
+
+humanitarian organisations having observer status with the United Nations
+General Assembly and members of those humanitarian organisations,
+
+26.2.d
+
+bilaterally or multilaterally funded non-governmental organisations
+participating in the United Nations Humanitarian Response Plans, Refugee
+Response Plans, other United Nations appeals, or humanitarian clusters
+coordinated by the United Nations Office for the Coordination of Humanitarian
+Affairs,
+
+26.2.e
+
+any grantee, subsidiary, or implementing partner of any organisation falling
+within sub-paragraphs (a) to (d) while and to the extent that they are acting
+in those capacities,
+
+26.2.f
+
+any other persons authorised by the Committee for the purposes of resolution
+2664.
+
+26.3
+
+Condition B is that P believes that carrying out the relevant activity is so
+necessary and there is no reasonable cause for P to suspect otherwise.
+
+26.4
+
+For the purposes of this regulation—
+
+“ relevant activity ” means any activity which would, in the absence of this
+regulation, contravene the prohibitions in regulations 8 to 12; “ resolution
+2664 ” means resolution 2664 (2022) adopted by the Security Council on 9th
+December 2022.
+
+#### Exception for authorised conduct in a relevant country
+
+27
+
+27.1
+
+Where a person’s conduct in a relevant country would, in the absence of this
+regulation, contravene a prohibition in any of regulations 8 to 12 (asset-
+freeze etc.) (“the relevant prohibition”), the relevant prohibition is not
+contravened if the conduct is authorised by a licence or other authorisation
+which is issued—
+
+27.1.a
+
+under the law of the relevant country, and
+
+27.1.b
+
+for the purpose of disapplying a prohibition in that jurisdiction which
+corresponds to the relevant prohibition.
+
+27.2
+
+In this regulation, “ relevant country ” means—
+
+27.2.a
+
+any of the Channel Islands;
+
+27.2.b
+
+the Isle of Man;
+
+27.2.c
+
+any British overseas territory.
+
+27.3
+
+Nothing in this regulation affects the application of a prohibition in a case
+where it would be incompatible with a UN obligation for the prohibition not to
+apply.
+
+#### Exception for acts done for purposes of national security or prevention of serious crime
+
+28
+
+28.1
+
+Where an act would, in the absence of this paragraph, be prohibited by any
+prohibition in Part 3 (Finance) or Part 4 (Trade), that prohibition does not
+apply to the act if the act is one which a responsible officer has determined
+would be in the interests of—
+
+28.1.a
+
+national security, or
+
+28.1.b
+
+the prevention or detection of serious crime in the United Kingdom or
+elsewhere.
+
+28.2
+
+Where, in the absence of this paragraph, a thing would be required to be done
+under or by virtue of a provision of Part 6 (Information and records) or Part
+8 (Maritime enforcement), that requirement does not apply if a responsible
+officer has determined that not doing the thing in question would be in the
+interests of—
+
+28.2.a
+
+national security, or
+
+28.2.b
+
+the prevention or detection of serious crime in the United Kingdom or
+elsewhere.
+
+28.3
+
+In this regulation “ responsible officer ” means a person in the service of
+the Crown or holding office under the Crown, acting in the course of that
+person’s duty.
+
+28.4
+
+Nothing in this regulation affects the application of a prohibition or
+requirement in a case where it would be incompatible with a UN obligation for
+the prohibition or requirement not to apply.
+
+#### Treasury licences
+
+29
+
+29.1
+
+The prohibitions in regulations 8 to 12 (asset-freeze etc.) do not apply to
+anything done under the authority of a licence issued by the Treasury under
+this paragraph.
+
+29.2
+
+The Treasury may issue a licence which authorises acts in relation to a
+designated person only where the Treasury consider that it is appropriate to
+issue the licence for a purpose set out in Schedule 2.
+
+29.3
+
+A licence under paragraph (1)—
+
+29.3.a
+
+must specify the acts authorised by it;
+
+29.3.b
+
+may be general or may authorise acts by a particular person or persons of a
+particular description;
+
+29.3.c
+
+may—
+
+29.3.c.i
+
+contain conditions;
+
+29.3.c.ii
+
+be of indefinite duration or a defined duration.
+
+29.4
+
+Where the Treasury issue a licence under paragraph (1), the Treasury may vary,
+revoke or suspend it at any time.
+
+29.5
+
+Where the Treasury issue, vary, revoke or suspend a licence under paragraph
+(1) which authorises acts by a particular person, the Treasury must give
+written notice to that person of the issue, variation, revocation or
+suspension of the licence.
+
+29.6
+
+Where the Treasury issue, vary, revoke or suspend a general licence or a
+licence which authorises acts by persons of a particular description under
+paragraph (1), the Treasury must take such steps as the Treasury consider
+appropriate to publicise the issue, variation, revocation or suspension of the
+licence.
+
+29.7
+
+In this regulation, “ designated person ” has the same meaning as it has in
+Part 3 (Finance).
+
+#### Trade licences
+
+29A
+
+29A.1
+
+The prohibitions in Part 4 (Trade) do not apply to anything done under the
+authority of a licence issued by the Secretary of State under this regulation.
+
+29A.2
+
+A licence must specify the acts authorised by it.
+
+29A.3
+
+A licence may be general or may authorise acts by a particular person or
+persons of a particular description.
+
+29A.4
+
+A licence may—
+
+29A.4.a
+
+contain conditions;
+
+29A.4.b
+
+be of indefinite duration or a defined duration.
+
+29A.5
+
+A person who issues a licence may vary, revoke or suspend it at any time.
+
+29A.6
+
+A person who issues, varies, revokes or suspends a licence which authorises
+acts by a particular person must give written notice to that person of the
+issue, variation, revocation or suspension of the licence.
+
+29A.7
+
+A person who issues, varies, revokes or suspends a general licence or a
+licence which authorises acts by persons of a particular description must take
+such steps as that person considers appropriate to publicise the issue,
+variation, revocation or suspension of the licence.
+
+#### Finance: licensing offences
+
+30
+
+30.1
+
+A person (“ P ”) commits an offence if P knowingly or recklessly—
+
+30.1.a
+
+provides information that is false in a material respect, or
+
+30.1.b
+
+provides or produces a document that is not what it purports to be,
+
+for the purpose of obtaining a Treasury licence (whether for P or anyone
+else).
+
+30.2
+
+A person who purports to act under the authority of a Treasury licence but who
+fails to comply with any condition of the licence commits an offence.
+
+#### Trade: licensing offences
+
+30A
+
+30A.1
+
+A person (“ P ”) commits an offence is P knowingly or recklessly—
+
+30A.1.a
+
+provides information that is false in a material respect, or
+
+30A.1.b
+
+provides or produces a document that is not what it purports to be,
+
+for the purpose of obtaining a trade licence (whether for P or anyone else).
+
+30A.2
+
+A person who purports to act under the authority of a trade licence but who
+fails to comply with any condition of the licence commits an offence.
+
+30A.3
+
+A licence in respect of which an offence under paragraph (1) has been
+committed is to be treated as void from the time at which it was issued.
+
+### Information and records
+
+#### Finance: reporting obligations
+
+31
+
+31.1
+
+A relevant firm must inform the Treasury as soon as practicable if—
+
+31.1.a
+
+it knows, or has reasonable cause to suspect, that a person—
+
+31.1.a.i
+
+is a designated person, or
+
+31.1.a.ii
+
+has committed an offence under any provision of Part 3 (Finance) or regulation
+30 (finance: licensing offences), and
+
+31.1.b
+
+the information or other matter on which the knowledge or cause for suspicion
+is based came to it in the course of carrying on its business.
+
+31.2
+
+Where a relevant firm informs the Treasury under paragraph (1), it must state—
+
+31.2.a
+
+the information or other matter on which the knowledge or suspicion is based,
+and
+
+31.2.b
+
+any information it holds about the person by which the person can be
+identified.
+
+31.3
+
+Paragraph (4) applies if—
+
+31.3.a
+
+a relevant firm informs the Treasury under paragraph (1) that it knows, or has
+reasonable cause to suspect, that a person is a designated person, and
+
+31.3.b
+
+that person is a customer of the relevant firm.
+
+31.4
+
+The relevant firm must also state the nature and amount or quantity of any
+funds or economic resources held by it for the customer at the time when it
+first had the knowledge or suspicion.
+
+31.5
+
+A relevant institution must inform the Treasury without delay if that
+institution—
+
+31.5.a
+
+credits a frozen account in accordance with regulation 25(4) (finance:
+exceptions from prohibitions), or
+
+31.5.b
+
+transfers funds from a frozen account in accordance with regulation 25(6).
+
+31.6
+
+A person who fails to comply with a requirement in paragraph (1), (2) or (4)
+commits an offence.
+
+31.7
+
+In this regulation—
+
+“ designated person ” has the same meaning as it has in Part 3 (Finance); “
+frozen account ” has the same meaning as it has in regulation 25; “ relevant
+firm ” is to be read in accordance with regulation 32 (“relevant firm”); “
+relevant institution ” has the same meaning as it has in regulation 25.
+
+#### “Relevant firm”
+
+32
+
+32.1
+
+The following are relevant firms for the purposes of regulation 31 (finance:
+reporting obligations)—
+
+32.1.a
+
+a person that has permission under Part 4A of the Financial Services and
+Markets Act 2000 (Permission to carry on regulated activities);
+
+32.1.b
+
+an undertaking that by way of business—
+
+32.1.b.i
+
+operates a currency exchange office,
+
+32.1.b.ii
+
+transmits money (or any representation of monetary value) by any means, or
+
+32.1.b.iii
+
+cashes cheques that are made payable to customers;
+
+32.1.c
+
+a firm or sole practitioner that is—
+
+32.1.c.i
+
+a statutory auditor within the meaning of Part 42 of the Companies Act 2006
+(Statutory auditors) , or
+
+32.1.c.ii
+
+a local auditor within the meaning of section 4(1) of the Local Audit and
+Accountability Act 2014 (general requirements for audit) ;
+
+32.1.d
+
+a firm or sole practitioner that provides to other persons, by way of
+business—
+
+32.1.d.i
+
+accountancy services,
+
+32.1.d.ii
+
+legal or notarial services,
+
+32.1.d.iii
+
+advice about tax affairs, or
+
+32.1.d.iv
+
+trust or company services within the meaning of paragraph (2);
+
+32.1.e
+
+a firm or sole practitioner that carries out, or whose employees carry out,
+estate agency work;
+
+32.1.f
+
+the holder of a casino operating licence within the meaning given by section
+65(2)(a) of the Gambling Act 2005 (nature of licence) ;
+
+32.1.g
+
+a person engaged in the business of making, supplying, selling (including
+selling by auction) or exchanging—
+
+32.1.g.i
+
+articles made from gold, silver, platinum or palladium, or
+
+32.1.g.ii
+
+precious stones or pearls;
+
+32.1.h
+
+a cryptoasset exchange provider;
+
+32.1.i
+
+a custodian wallet provider.
+
+32.2
+
+In paragraph (1) “ trust or company services ” means any of the following
+services—
+
+32.2.a
+
+forming companies or other legal persons;
+
+32.2.b
+
+acting, or arranging for another person to act—
+
+32.2.b.i
+
+as a director or secretary of a company,
+
+32.2.b.ii
+
+as a partner of a partnership, or
+
+32.2.b.iii
+
+in a similar capacity in relation to other legal persons;
+
+32.2.c
+
+providing a registered office, business address, correspondence or
+administrative address or other related services for a company, partnership or
+any other legal person or arrangement;
+
+32.2.d
+
+acting, or arranging for another person to act, as—
+
+32.2.d.i
+
+a trustee of an express trust or similar legal arrangement, or
+
+32.2.d.ii
+
+a nominee shareholder for a person.
+
+32.3
+
+In paragraph (1)—
+
+“ estate agency work ” is to be read in accordance with section 1 of the
+Estate Agents Act 1979 , but as if references in that section to disposing of
+or acquiring an interest in land included (despite anything in section 2 of
+that Act) references to disposing of or acquiring an estate or interest in
+land outside the United Kingdom where that estate or interest is capable of
+being owned or held as a separate interest; “ firm ” means any entity that,
+whether or not a legal person, is not an individual, and includes a body
+corporate and a partnership or other unincorporated body.
+
+32.4
+
+In paragraph (1), a “ cryptoasset exchange provider ” means a firm or sole
+practitioner that by way of business provides one or more of the following
+services, including where the firm or sole practitioner does so as creator or
+issuer of any of the cryptoassets involved—
+
+32.4.a
+
+exchanging, or arranging or making arrangements with a view to the exchange
+of, cryptoassets for money or money for cryptoassets,
+
+32.4.b
+
+exchanging, or arranging or making arrangements with a view to the exchange
+of, one cryptoasset for another, or
+
+32.4.c
+
+operating a machine which utilises automated processes to exchange
+cryptoassets for money or money for cryptoassets.
+
+32.5
+
+In paragraph (1), a “ custodian wallet provider ” means a firm or sole
+practitioner that by way of business provides services to safeguard, or to
+safeguard and administer—
+
+32.5.a
+
+cryptoassets on behalf of its customers, or
+
+32.5.b
+
+private cryptographic keys on behalf of its customers in order to hold, store
+and transfer cryptoassets.
+
+32.6
+
+For the purposes of this regulation—
+
+32.6.a
+
+“ cryptoasset ” means a cryptographically secured digital representation of
+value or contractual rights that uses a form of distributed ledger technology
+and can be transferred, stored or traded electronically;
+
+32.6.b
+
+“ money ” means—
+
+32.6.b.i
+
+money in sterling,
+
+32.6.b.ii
+
+money in any other currency, or
+
+32.6.b.iii
+
+money in any other medium of exchange,
+
+but does not include a cryptoasset; and
+
+32.6.c
+
+in sub-paragraphs (a) to (c) of paragraph (4), “ cryptoasset ” includes a
+right to, or interest in, the cryptoasset.
+
+32.7
+
+Sub-paragraphs (a) and (b) of paragraph (1) are to be read with section 22 of
+the Financial Services and Markets Act 2000, any relevant order under that
+section and Schedule 2 to that Act.
+
+32.8
+
+For the purposes of regulation 31(1), information or another matter comes to a
+relevant firm “in the course of carrying on its business” if the information
+or other matter comes to the firm—
+
+32.8.a
+
+in the case of a relevant firm within paragraph (1)(a), in the course of
+carrying on an activity in respect of which the permission mentioned in that
+provision is required;
+
+32.8.b
+
+in the case of a relevant firm within paragraph (1)(c)(i), in the course of
+carrying out statutory audit work within the meaning of section 1210 of the
+Companies Act 2006 (meaning of “ statutory auditor ” etc.) ;
+
+32.8.c
+
+in the case of a relevant firm within paragraph (1)(c)(ii), in the course of
+carrying out an audit required by the Local Audit and Accountability Act 2014;
+
+32.8.d
+
+in the case of a relevant firm within paragraph (1)(f), in the course of
+carrying on an activity in respect of which the licence mentioned in that
+provision is required;
+
+32.8.e
+
+in the case of a relevant firm within any other provision of paragraph (1), in
+the course of carrying on an activity mentioned in that provision.
+
+#### Finance: powers to request information
+
+33
+
+33.1
+
+The Treasury may request a designated person to provide information about—
+
+33.1.a
+
+funds or economic resources owned, held or controlled by or on behalf of the
+designated person, or
+
+33.1.b
+
+any disposal of such funds or economic resources.
+
+33.2
+
+The Treasury may request a designated person to provide such information as
+the Treasury may reasonably require about expenditure—
+
+33.2.a
+
+by the designated person, or
+
+33.2.b
+
+for the benefit of the designated person.
+
+33.3
+
+For the purposes of paragraph (2)(b), expenditure for the benefit of a
+designated person includes expenditure on the discharge (or partial discharge)
+of a financial obligation for which the designated person is wholly or partly
+responsible.
+
+33.4
+
+The power in paragraph (1) or (2) is exercisable only where the Treasury
+believe that it is necessary for the purpose of monitoring compliance with or
+detecting evasion of any provision of Part 3 (Finance).
+
+33.5
+
+The Treasury may request a person acting under a Treasury licence to provide
+information about—
+
+33.5.a
+
+funds or economic resources dealt with under the licence, or
+
+33.5.b
+
+funds or economic resources made available under the licence.
+
+33.6
+
+The Treasury may request a person to provide information within paragraph (7)
+if the Treasury believe that the person may be able to provide the
+information.
+
+33.7
+
+Information within this paragraph is such information as the Treasury may
+reasonably require for the purpose of—
+
+33.7.a
+
+establishing for the purposes of any provision of Part 3 (Finance)—
+
+33.7.a.i
+
+the nature and amount or quantity of any funds or economic resources owned,
+held or controlled by or on behalf of a designated person,
+
+33.7.a.ii
+
+the nature and amount or quantity of any funds or economic resources made
+available directly or indirectly to, or for the benefit of, a designated
+person, or
+
+33.7.a.iii
+
+the nature of any financial transactions entered into by a designated person;
+
+33.7.b
+
+monitoring compliance with or detecting evasion of—
+
+33.7.b.i
+
+any provision of Part 3,
+
+33.7.b.ii
+
+regulation 31 (finance: reporting obligations), or
+
+33.7.b.iii
+
+any condition of a Treasury licence;
+
+33.7.c
+
+detecting or obtaining evidence of the commission of an offence under Part 3
+or regulation 30 (finance: licensing offences) or 31.
+
+33.8
+
+The Treasury may specify the way in which, and the period within which,
+information is to be provided.
+
+33.9
+
+If no such period is specified, the information which has been requested must
+be provided within a reasonable time.
+
+33.10
+
+A request may include a continuing obligation to keep the Treasury informed as
+circumstances change, or on such regular basis as the Treasury may specify.
+
+33.11
+
+Information requested under this regulation may relate to any period of time
+during which a person is, or was, a designated person.
+
+33.12
+
+Information requested by virtue of paragraph (1)(b), (2) or (7)(a)(iii) may
+relate to any period before a person became a designated person (as well as,
+or instead of, any subsequent period).
+
+33.13
+
+Expressions used in this regulation have the same meaning as they have in Part
+3.
+
+#### Finance: production of documents
+
+34
+
+34.1
+
+A request under regulation 33 (finance: powers to request information) may
+include a request to produce specified documents or documents of a specified
+description.
+
+34.2
+
+Where the Treasury request that documents be produced, the Treasury may—
+
+34.2.a
+
+take copies of or extracts from any document so produced,
+
+34.2.b
+
+request any person producing a document to give an explanation of it, and
+
+34.2.c
+
+where that person is a body corporate, partnership or unincorporated body
+other than a partnership, request any person who is—
+
+34.2.c.i
+
+in the case of a partnership, a present or past partner or employee of the
+partnership, or
+
+34.2.c.ii
+
+in any other case, a present or past officer or employee of the body
+concerned,
+
+to give such an explanation.
+
+34.3
+
+Where the Treasury request a designated person or a person acting under a
+Treasury licence to produce documents, that person must—
+
+34.3.a
+
+take reasonable steps to obtain the documents (if they are not already in the
+person’s possession or control), and
+
+34.3.b
+
+keep the documents under the person’s possession or control (except for the
+purpose of providing them to the Treasury or as the Treasury may otherwise
+permit).
+
+34.4
+
+In this regulation, “ designated person ” has the same meaning as it has in
+Part 3 (Finance).
+
+#### Finance: information offences
+
+35
+
+35.1
+
+A person commits an offence if that person—
+
+35.1.a
+
+without reasonable excuse, refuses or fails within the time and in the manner
+specified (or, if no time has been specified, within a reasonable time) to
+comply with any request under regulation 33 (finance: powers to request
+information);
+
+35.1.b
+
+knowingly or recklessly gives any information, or produces any document, which
+is false in a material particular in response to such a request;
+
+35.1.c
+
+with intent to evade any provision of regulation 33 or 34 (finance: production
+of documents), destroys, mutilates, defaces, conceals or removes any document;
+
+35.1.d
+
+otherwise intentionally obstructs the Treasury in the exercise of their powers
+under regulation 33 or 34.
+
+35.2
+
+Where a person is convicted of an offence under this regulation, the court may
+make an order requiring that person, within such period as may be specified in
+the order, to comply with the request.
+
+#### Trade: application of information powers in CEMA
+
+36
+
+36.1
+
+Section 77A of CEMA  applies in relation to a person carrying on a relevant
+activity as it applies in relation to a person concerned in the importation or
+exportation of goods but as if—
+
+36.1.a
+
+in subsection (1), the reference to a person concerned in the importation or
+exportation of goods for which for that purpose an entry is required by
+regulation 5 of the Customs Controls on Importation of Goods Regulations 1991
+or an entry or specification is required by or under CEMA were to a person
+carrying on a relevant activity;
+
+36.1.b
+
+any other reference to importation or exportation were to a relevant activity;
+
+36.1.c
+
+any other reference to goods were to the goods, technology, services or funds
+to which the relevant activity relates.
+
+36.2
+
+For the purposes of paragraph (1), a “ relevant activity ” means an activity
+which would constitute a contravention of —
+
+36.2.a
+
+any prohibition in Part 4 (Trade) except the prohibition in regulation 15(1)
+(export of small arms, light weapons and ammunition) , or
+
+36.2.b
+
+a prohibition in regulation 23 (circumventing etc. prohibitions).
+
+#### General trade licences: records
+
+36A
+
+36A.1
+
+This regulation applies in relation a person (“ P ”) who does any act
+authorised by a general licence issued under regulation 29A (trade licences)
+(“ the licence ”).
+
+36A.2
+
+P must keep a register or record containing such details as may be necessary
+to allow the following information to be identified in relation to each act
+done under the authority of the licence—
+
+36A.2.a
+
+a description of the act;
+
+36A.2.b
+
+a description of any goods, technology, services or funds to which the act
+relates;
+
+36A.2.c
+
+the date of the act or the dates between which the act took place;
+
+36A.2.d
+
+the quantity of any goods or funds to which the act relates;
+
+36A.2.e
+
+P’s name and address;
+
+36A.2.f
+
+the name and address of any consignee of goods to which the act relates or any
+recipient of technology, services or funds to which the act relates;
+
+36A.2.g
+
+in so far as it is known to P, the name and address of the end-user of the
+goods, technology, services or funds to which the act relates;
+
+36A.2.h
+
+if different from P, the name and address of the supplier of any goods to
+which the act relates;
+
+36A.2.i
+
+any further information required by the licence.
+
+36A.3
+
+The register or record relating to an act must be kept until the end of the
+calendar year in which the register or record is created and for a further
+period of 4 years from the end of that calendar year.
+
+36A.4
+
+P must notify the Secretary of State in writing of P’s name and address at
+which the register or record may be inspected, and must make a further such
+notification if those details change.
+
+36A.5
+
+A notification under paragraph (4) must be given no later than 30 days after—
+
+36A.5.a
+
+P first does any act authorised by the licence, or
+
+36A.5.b
+
+there is any change to the details previously notified.
+
+36A.6
+
+A person who fails to comply with a requirement in paragraph (2), (3) or (4)
+commits an offence.
+
+#### General trade licences: inspection of records
+
+36B
+
+36B.1
+
+A person authorised by the Secretary of State or the Commissioners (an
+“official”) may at any reasonable hour enter premises notified under
+regulation 36A(4) for the purposes of monitoring compliance with, or detecting
+evasion of, regulation 36A(2) or (3).
+
+36B.2
+
+An official may require any person on the premises to produce any register or
+record required to be kept under regulation 36A, or any document included in
+such a register or record, that is in the person’s possession or control.
+
+36B.3
+
+An official may inspect and copy any such register, record or document.
+
+36B.4
+
+An official must, if requested to do so, produce documentary evidence that he
+or she is authorised to exercise a power conferred by this regulation.
+
+36B.5
+
+A person commits an offence if, without reasonable excuse, the person—
+
+36B.5.a
+
+intentionally obstructs an official in the performance of any of the
+official’s functions under this regulation, or
+
+36B.5.b
+
+fails to produce a register, record or document when reasonably required to do
+so by an official under this regulation.
+
+#### Disclosure of information
+
+37
+
+37.1
+
+The Secretary of State, the Treasury or the Commissioners may, in accordance
+with this regulation, disclose—
+
+37.1.a
+
+any information obtained under or by virtue of Part 5 (Exceptions and
+licences), this Part or Part 8 (Maritime enforcement), or
+
+37.1.b
+
+any information held in connection with—
+
+37.1.b.i
+
+anything done under or by virtue of Part 2 (Designations), Part 3 (Finance) or
+Part 4 (Trade), or
+
+37.1.b.ii
+
+any exception or licence under Part 5 or anything done in accordance with such
+an exception or under the authority of such a licence.
+
+37.2
+
+Information referred to in paragraph (1) may be disclosed for, or in
+connection with, any of the following purposes—
+
+37.2.a
+
+the purposes stated in regulation 4 (purposes);
+
+37.2.b
+
+the exercise of functions under these Regulations;
+
+37.2.c
+
+facilitating, monitoring or ensuring compliance with these Regulations;
+
+37.2.d
+
+taking any action with a view to instituting, or otherwise for the purposes
+of, any proceedings in the United Kingdom—
+
+37.2.d.i
+
+for an offence under any provision of these Regulations,
+
+37.2.d.ii
+
+for an offence under CEMA in connection with the prohibition mentioned in
+regulation 15(1) (export of   small arms, light weapons and ammunition ), or
+
+37.2.d.iii
+
+in relation to a monetary penalty under section 146 of the Policing and Crime
+Act 2017 (breach of financial sanctions legislation) ;
+
+37.2.e
+
+taking any action with a view to instituting, or otherwise for the purposes
+of, any proceedings in any of the Channel Islands, the Isle of Man or any
+British overseas territory for an offence—
+
+37.2.e.i
+
+under a provision in any such jurisdiction that is similar to a provision of
+these Regulations, or
+
+37.2.e.ii
+
+in connection with a prohibition in any such jurisdiction that is similar to
+the prohibition referred to in sub-paragraph (d)(ii);
+
+37.2.f
+
+compliance with an international obligation ;
+
+37.2.g
+
+facilitating the exercise by an authority outside the United Kingdom or by an
+international organisation of functions which correspond to functions under
+these Regulations.
+
+37.3
+
+Information referred to in paragraph (1) may be disclosed to the following
+persons—
+
+37.3.a
+
+a police officer;
+
+37.3.b
+
+any person holding or acting in any office under or in the service of—
+
+37.3.b.i
+
+the Crown in right of the Government of the United Kingdom,
+
+37.3.b.ii
+
+the Crown in right of the Scottish Government, the Northern Ireland Executive
+or the Welsh Government,
+
+37.3.b.iii
+
+the States of Jersey, Guernsey or Alderney or the Chief Pleas of Sark,
+
+37.3.b.iv
+
+the Government of the Isle of Man, or
+
+37.3.b.v
+
+the Government of any British overseas territory;
+
+37.3.c
+
+any law officer of the Crown for Jersey, Guernsey or the Isle of Man;
+
+37.3.d
+
+the Scottish Legal Aid Board;
+
+37.3.e
+
+the Financial Conduct Authority, the Prudential Regulation Authority, the Bank
+of England, the Jersey Financial Services Commission, the Guernsey Financial
+Services Commission or the Isle of Man Financial Services Authority;
+
+37.3.f
+
+any other regulatory body (whether or not in the United Kingdom);
+
+37.3.g
+
+any organ of the United Nations;
+
+37.3.h
+
+the Council of the European Union, the European Commission or the European
+External Action Service;
+
+37.3.i
+
+the Government of any country;
+
+37.3.j
+
+any other person where the Secretary of State, the Treasury or the
+Commissioners (as the case may be) consider that it is appropriate to disclose
+the information.
+
+37.4
+
+Information referred to in paragraph (1) may be disclosed to any person with
+the consent of a person who, in their own right, is entitled to the
+information.
+
+37.5
+
+In paragraph (4) “ in their own right ” means not merely in the capacity as a
+servant or agent of another person.
+
+37.6
+
+In paragraph (1)(b)—
+
+37.6.a
+
+the reference to information includes information obtained at a time when any
+provision of these Regulations is not in force, and
+
+37.6.b
+
+the reference to a licence under Part 5 includes—
+
+37.6.b.i
+
+a licence or authorisation which is treated as if it were a licence which had
+been issued under that Part, and
+
+37.6.b.ii
+
+a licence which is deemed to have been issued under that Part.
+
+#### Finance: disclosure to the Treasury
+
+38
+
+38.1
+
+A relevant public authority may disclose information to the Treasury if the
+disclosure is made for the purpose of enabling or assisting the Treasury to
+discharge any of its functions in connection with any sanctions regulations
+contained in these Regulations.
+
+38.2
+
+In this regulation—
+
+“ relevant public authority ” means— any person holding or acting in any
+office under or in the service of— the Crown in right of the Government of the
+United Kingdom, the Crown in right of the Scottish Government, the Northern
+Ireland Executive or the Welsh Government, any local authority, any police
+officer, the Financial Conduct Authority, the Prudential Regulation Authority,
+the Bank of England or any other regulatory body in the United Kingdom, or any
+other person exercising functions of a public nature; “ local authority ”
+means— in relation to England— a county council, a district council, a London
+Borough council, the Common Council of the City of London in its capacity as a
+local authority, the Council of the Isles of Scilly, or an eligible parish
+council within the meaning of section 1(2) of the Local Government Act 2000 ,
+in relation to Wales, a county council, a county borough council or a
+community council, in relation to Scotland, a council constituted under
+section 2 of the Local Government etc. (Scotland) Act 1994 , or in relation to
+Northern Ireland, a district council.
+
+#### Part 6: supplementary
+
+39
+
+39.1
+
+A disclosure of information under regulation 37 (disclosure of information) or
+38 (finance: disclosure to the Treasury) does not breach any restriction on
+such disclosure imposed by statute or otherwise.
+
+39.2
+
+But nothing in those regulations authorises a disclosure that—
+
+39.2.a
+
+contravenes the data protection legislation, or
+
+39.2.b
+
+is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the
+Investigatory Powers Act 2016 .
+
+39.3
+
+Nothing in this Part is to be read as requiring a person who has acted or is
+acting as counsel or solicitor for any person to disclose any privileged
+information in their possession in that capacity.
+
+39.4
+
+Regulations 37 and 38 do not limit the circumstances in which information may
+be disclosed apart from those regulations.
+
+39.5
+
+Nothing in this Part limits any conditions which may be contained in a
+Treasury licence  or a trade licence .
+
+39.6
+
+In this regulation—
+
+“ the data protection legislation ” has the same meaning as in the Data
+Protection Act 2018 (see section 3 of that Act) ; “ privileged information ”
+means information with respect to which a claim to legal professional
+privilege (in Scotland, to confidentiality of communications) could be
+maintained in legal proceedings.
+
+### Enforcement
+
+#### Penalties for offences
+
+40
+
+40.1
+
+A person who commits an offence under any provision of Part 3 (Finance) or
+regulation 30 (finance: licensing offences), is liable—
+
+40.1.a
+
+on summary conviction in England and Wales, to imprisonment for a term not
+exceeding   the general limit in a magistrates’ court   or a fine (or both);
+
+40.1.b
+
+on summary conviction in Scotland, to imprisonment for a term not exceeding 12
+months or a fine not exceeding the statutory maximum (or both);
+
+40.1.c
+
+on summary conviction in Northern Ireland, to imprisonment for a term not
+exceeding 6 months or a fine not exceeding the statutory maximum (or both);
+
+40.1.d
+
+on conviction on indictment, to imprisonment for a term not exceeding 7 years
+or a fine (or both).
+
+40.2
+
+A person who commits an offence under any provision of Part 4 (Trade) is
+liable—
+
+40.2.a
+
+on summary conviction in England and Wales, to imprisonment for a term not
+exceeding   the general limit in a magistrates’ court   or a fine (or both);
+
+40.2.b
+
+on summary conviction in Scotland, to imprisonment for a term not exceeding 12
+months or a fine not exceeding the statutory maximum (or both);
+
+40.2.c
+
+on summary conviction in Northern Ireland, to imprisonment for a term not
+exceeding 6 months or a fine not exceeding the statutory maximum (or both);
+
+40.2.d
+
+on conviction on indictment, to imprisonment for a term not exceeding 10 years
+or a fine (or both).
+
+40.2A
+
+A person who commits an offence under regulation 30A, 36A(6) or 36B(5)
+(offences in connection with trade licences) is liable—
+
+40.2A.a
+
+on summary conviction in England and Wales, to imprisonment for a term not
+exceeding the general limit in a magistrates’ court or a fine (or both);
+
+40.2A.b
+
+on summary conviction in Scotland, to imprisonment for a term not exceeding 12
+months or a fine not exceeding the statutory maximum (or both);
+
+40.2A.c
+
+on summary conviction in Northern Ireland, to imprisonment for a term not
+exceeding 6 months or a fine not exceeding the statutory maximum (or both);
+
+40.2A.d
+
+on conviction on indictment, to imprisonment for a term not exceeding 2 years
+or a fine (or both).
+
+40.3
+
+A person who commits an offence under regulation 31(6) or 35 (information
+offences in connection with Part 3) is liable—
+
+40.3.a
+
+on summary conviction in England and Wales, to imprisonment for a term not
+exceeding 6 months or a fine (or both);
+
+40.3.b
+
+on summary conviction in Scotland, to imprisonment for a term not exceeding 6
+months or a fine not exceeding level 5 on the standard scale (or both);
+
+40.3.c
+
+on summary conviction in Northern Ireland, to imprisonment for a term not
+exceeding 6 months or a fine not exceeding level 5 on the standard scale (or
+both).
+
+#### Liability of officers of bodies corporate etc.
+
+41
+
+41.1
+
+Where an offence under these Regulations, committed by a body corporate,—
+
+41.1.a
+
+is committed with the consent or connivance of any director, manager,
+secretary or other similar officer of the body corporate, or any person who
+was purporting to act in any such capacity, or
+
+41.1.b
+
+is attributable to any neglect on the part of any such person,
+
+that person as well as the body corporate is guilty of the offence and is
+liable to be proceeded against and punished accordingly.
+
+41.2
+
+In paragraph (1) “ director ”, in relation to a body corporate whose affairs
+are managed by its members, means a member of the body corporate.
+
+41.3
+
+Paragraph (1) also applies in relation to a body that is not a body corporate,
+with the substitution for the reference to a director of the body of a
+reference—
+
+41.3.a
+
+in the case of a partnership, to a partner;
+
+41.3.b
+
+in the case of an unincorporated body other than a partnership—
+
+41.3.b.i
+
+where the body’s affairs are managed by its members, to a member of the body;
+
+41.3.b.ii
+
+in any other case, to a member of the governing body.
+
+41.4
+
+Section 171(4) of CEMA (which is a provision similar to this regulation) does
+not apply to any offence under these Regulations to which that provision
+would, in the absence of this paragraph, apply.
+
+#### Jurisdiction to try offences
+
+42
+
+42.1
+
+Wherever an offence under these Regulations is committed (whether in the
+United Kingdom or outside the United Kingdom)—
+
+42.1.a
+
+proceedings for the offence may be taken at any place in the United Kingdom,
+and
+
+42.1.b
+
+the offence may for all incidental purposes be treated as having been
+committed at any such place.
+
+42.2
+
+In the application of paragraph (1) to Scotland, where an offence is committed
+outside the United Kingdom, any such proceedings against a person may be
+taken—
+
+42.2.a
+
+in any sheriff court district in which the person is apprehended or is in
+custody, or
+
+42.2.b
+
+in such sheriff court district as the Lord Advocate may determine.
+
+42.3
+
+In paragraph (3) “ sheriff court district ” is to be read in accordance with
+the Criminal Procedure (Scotland) Act 1995 (see section 307(1) of that Act) .
+
+#### Procedure for offences by unincorporated bodies
+
+43
+
+43.1
+
+Paragraphs (2) and (3) apply if it is alleged that an offence under these
+Regulations has been committed by an unincorporated body (as opposed to by a
+member of the body).
+
+43.2
+
+Proceedings in England and Wales or Northern Ireland for such an offence must
+be brought against the body in its own name.
+
+43.3
+
+For the purposes of proceedings for such an offence brought against an
+unincorporated body—
+
+43.3.a
+
+rules of court relating to the service of documents have effect as if the body
+were a body corporate;
+
+43.3.b
+
+the following provisions apply as they apply in relation to a body corporate—
+
+43.3.b.i
+
+section 33 of the Criminal Justice Act 1925  and Schedule 3 to the
+Magistrates’ Courts Act 1980 ;
+
+43.3.b.ii
+
+section 18 of the Criminal Justice Act (Northern Ireland) 1945  and Article
+166 of, and Schedule 4 to, the Magistrates’ Courts (Northern Ireland) Order
+1981 .
+
+43.4
+
+A fine imposed on an unincorporated body on its conviction of an offence under
+these Regulations is to be paid out of the funds of the body.
+
+#### Time limit for proceedings for summary offences
+
+44
+
+44.1
+
+Proceedings for an offence under these Regulations which is triable only
+summarily may be brought within the period of 12 months beginning with the
+date on which evidence sufficient in the opinion of the prosecutor to justify
+the proceedings comes to the prosecutor’s knowledge.
+
+44.2
+
+But such proceedings may not be brought by virtue of paragraph (1) more than 3
+years after the commission of the offence.
+
+44.3
+
+A certificate signed by the prosecutor as to the date on which the evidence in
+question came to the prosecutor’s knowledge is conclusive evidence of the date
+on which it did so; and a certificate to that effect and purporting to be so
+signed is to be treated as being so signed unless the contrary is proved.
+
+44.4
+
+In relation to proceedings in Scotland—
+
+44.4.a
+
+section 136(3) of the Criminal Procedure (Scotland) Act 1995 (date of
+commencement of summary proceedings) applies for the purposes of this
+regulation as it applies for the purposes of that section, and
+
+44.4.b
+
+references in this regulation to the prosecutor are to be treated as
+references to the Lord Advocate.
+
+#### Trade enforcement: application of CEMA
+
+45
+
+45.1
+
+Where the Commissioners investigate or propose to investigate any matter with
+a view to determining—
+
+45.1.a
+
+whether there are grounds for believing that a relevant offence has been
+committed, or
+
+45.1.b
+
+whether a person should be prosecuted for such an offence,
+
+the matter is to be treated as an assigned matter.
+
+45.2
+
+In paragraph (1) “ assigned matter ” has the meaning given by section 1(1) of
+CEMA .
+
+45.3
+
+In this regulation a “ relevant offence ” means an offence   under—
+
+45.3.a
+
+Part 4 (Trade),
+
+45.3.b
+
+regulation 30A (trade: licensing offences),
+
+45.3.c
+
+regulation 36A(6) (general trade licences: records), or,
+
+45.3.d
+
+regulation 36B(5) (general trade licences: inspection of records).
+
+45.4
+
+Section 138 of CEMA (arrest of persons) applies to a person who has committed,
+or whom there are reasonable grounds to suspect of having committed, a
+relevant offence as it applies to a person who has committed, or whom there
+are reasonable grounds to suspect of having committed, an offence for which
+the person is liable to be arrested under the customs and excise Acts , but as
+if—
+
+45.4.a
+
+any reference to an offence under, or for which a person is liable to be
+arrested under, the customs and excise Acts were to a relevant offence;
+
+45.4.b
+
+in subsection (2), the reference to any person so liable were to a person who
+has committed, or whom there are reasonable grounds to suspect of having
+committed, a relevant offence.
+
+45.5
+
+The provisions of CEMA mentioned in paragraph (6) apply in relation to
+proceedings for a relevant offence as they apply in relation to proceedings
+for an offence under the customs and excise Acts, but as if—
+
+45.5.a
+
+any reference to the customs and excise Acts were to any of the provisions
+referred to in paragraph (3);
+
+45.5.b
+
+in section 145(6), the reference to an offence for which a person is liable to
+be arrested under the customs and excise Acts were to a relevant offence;
+
+45.5.c
+
+in section 151, the reference to any penalty imposed under the customs and
+excise Acts were to any penalty imposed under these Regulations in relation to
+a relevant offence;
+
+45.5.d
+
+in section 154(2)—
+
+45.5.d.i
+
+the reference to proceedings relating to customs or excise were to proceedings
+under any of the provisions mentioned in paragraph (3), and
+
+45.5.d.ii
+
+the reference to the place from which any goods have been brought included a
+reference to the place to which goods have been exported, supplied or
+delivered or the place to or from which technology has been transferred.
+
+45.6
+
+The provisions of CEMA are sections 145, 146, 147, 148(1), 150, 151, 152, 154
+and 155  (legal proceedings).
+
+#### Trade offences in CEMA: modification of penalty
+
+46
+
+46.1
+
+Paragraph (2) applies where a person is guilty of an offence under section
+68(2) of CEMA in connection with the prohibition mentioned in regulation 15(1)
+(export of small arms, light weapons and ammunition) .
+
+46.2
+
+Where this paragraph applies, the reference to 7 years in section 68(3)(b) of
+CEMA  is to be read as a reference to 10 years.
+
+46.3
+
+Paragraph (4) applies where a person is guilty of an offence under section
+170(2) of CEMA in connection with the prohibition mentioned in regulation
+15(1).
+
+46.4
+
+Where this paragraph applies, the reference to 7 years in section 170(3)(b) of
+CEMA  is to be read as a reference to 10 years.
+
+#### Application of Chapter 1 of Part 2 of the Serious Organised Crime and Police Act 2005
+
+47
+
+Chapter 1 of Part 2 of the Serious Organised Crime and Police Act 2005
+(investigatory powers)  applies to any offence under Part 3 (Finance) or
+regulation 30 (finance: licensing offences).
+
+#### Monetary penalties
+
+48
+
+The following provisions are to be regarded as not being financial sanctions
+legislation for the purposes of Part 8 of the Policing and Crime Act 2017 —
+
+48.a
+
+regulation 17(1) (making   small arms, light weapons and ammunition available
+available);
+
+48.b
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+48.c
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+48.d
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+48.e
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Maritime enforcement
+
+#### Exercise of maritime enforcement powers
+
+49
+
+49.1
+
+A maritime enforcement officer may, for a purpose mentioned in paragraph (2)
+or (3), exercise any of the maritime enforcement powers in relation to—
+
+49.1.a
+
+a British ship in foreign waters or international waters,
+
+49.1.b
+
+a ship without nationality in international waters, or
+
+49.1.c
+
+a foreign ship in international waters,
+
+and a ship within sub-paragraph (a), (b) or (c) is referred to in this Part as
+“ a relevant ship ”.
+
+49.2
+
+The maritime enforcement powers may be exercised for the purpose of enforcing
+any of the following—
+
+49.2.a
+
+the prohibition in regulation 15(1) (export of   small arms, light weapons and
+ammunition );
+
+49.2.b
+
+the prohibition in regulation 16(1) (supply and delivery of   small arms,
+light weapons and ammunition );
+
+49.2.c
+
+the prohibition in regulation 17(1) (making   small arms, light weapons and
+ammunition   available);
+
+49.2.d
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+49.3
+
+The maritime enforcement powers may also be exercised in relation to a
+relevant ship for the purpose of—
+
+49.3.a
+
+investigating the suspected carriage of relevant goods on the ship, or
+
+49.3.b
+
+preventing the continued carriage on the ship of goods suspected to be
+relevant goods.
+
+49.4
+
+In this Part, “the maritime enforcement powers” are the powers conferred by
+regulations 51 (power to stop, board, search etc.) and 52 (seizure power).
+
+49.5
+
+This regulation is subject to regulation 53 (restrictions on exercise of
+maritime enforcement powers).
+
+#### Maritime enforcement officers
+
+50
+
+50.1
+
+The following persons are “ maritime enforcement officers ” for the purposes
+of this Part—
+
+50.1.a
+
+a commissioned officer of any of His Majesty’s ships;
+
+50.1.b
+
+a member of the Ministry of Defence Police (within the meaning of section 1 of
+the Ministry of Defence Police Act 1987 );
+
+50.1.c
+
+a constable—
+
+50.1.c.i
+
+who is a member of a police force in England and Wales,
+
+50.1.c.ii
+
+within the meaning of section 99 of the Police and Fire Reform (Scotland) Act
+2012 , or
+
+50.1.c.iii
+
+who is a member of the Police Service of Northern Ireland or the Police
+Service of Northern Ireland Reserve;
+
+50.1.d
+
+a special constable—
+
+50.1.d.i
+
+appointed under section 27 of the Police Act 1996 ,
+
+50.1.d.ii
+
+appointed under section 9 of the Police and Fire Reform (Scotland) Act 2012,
+or
+
+50.1.d.iii
+
+in Northern Ireland, appointed by virtue of provision incorporating section 79
+of the Harbours, Docks, and Piers Clauses Act 1847 ;
+
+50.1.e
+
+a constable who is a member of the British Transport Police Force;
+
+50.1.f
+
+a port constable, within the meaning of section 7 of the Marine Navigation Act
+2013 , or a person appointed to act as a constable under provision made by
+virtue of section 16 of the Harbours Act 1964 ;
+
+50.1.g
+
+a designated customs official within the meaning of Part 1 of the Borders,
+Citizenship and Immigration Act 2009 (see section 14(6) of that Act) ;
+
+50.1.h
+
+a designated NCA officer who is authorised by the Director General of the
+National Crime Agency (whether generally or specifically) to exercise the
+powers of a maritime enforcement officer under this Part.
+
+50.2
+
+In this regulation, “ a designated NCA officer ” means a National Crime Agency
+officer who is either or both of the following—
+
+50.2.a
+
+an officer designated under section 10 of the Crime and Courts Act 2013  as
+having the powers and privileges of a constable;
+
+50.2.b
+
+an officer designated under that section as having the powers of a general
+customs official.
+
+#### Power to stop, board, search etc.
+
+51
+
+51.1
+
+This regulation applies if a maritime enforcement officer has reasonable
+grounds to suspect that a relevant ship is carrying prohibited goods or
+relevant goods.
+
+51.2
+
+The officer may—
+
+51.2.a
+
+stop the ship;
+
+51.2.b
+
+board the ship;
+
+51.2.c
+
+for the purpose of exercising a power conferred by paragraph (3) or regulation
+52 (seizure power), require the ship to be taken to, and remain in, a port or
+anchorage in the United Kingdom or any other country willing to receive it.
+
+51.3
+
+Where the officer boards a ship by virtue of this regulation, the officer may—
+
+51.3.a
+
+stop any person found on the ship and search that person for—
+
+51.3.a.i
+
+prohibited goods or relevant goods, or
+
+51.3.a.ii
+
+any thing that might be used to cause physical injury or damage to property or
+to endanger the safety of any ship;
+
+51.3.b
+
+search the ship, or any thing found on the ship (including cargo) for
+prohibited goods or relevant goods.
+
+51.4
+
+The officer may—
+
+51.4.a
+
+require a person found on a ship boarded by virtue of this regulation to
+provide information or produce documents;
+
+51.4.b
+
+inspect and copy such information or documents.
+
+51.5
+
+The officer may exercise a power conferred by paragraph (3)(a)(i) or (b) only
+to the extent reasonably required for the purpose of discovering prohibited
+goods or relevant goods.
+
+51.6
+
+The officer may exercise the power conferred by paragraph (3)(a)(ii) in
+relation to a person only where the officer has reasonable grounds to believe
+that the person might use a thing to cause physical injury or damage to
+property or to endanger the safety of any ship.
+
+51.7
+
+The officer may use reasonable force, if necessary, in the exercise of any
+power conferred by this regulation.
+
+#### Seizure power
+
+52
+
+52.1
+
+This regulation applies if a maritime enforcement officer is lawfully on a
+relevant ship (whether in exercise of the powers conferred by regulation 51
+(power to stop, board, search etc.) or otherwise).
+
+52.2
+
+The officer may seize any of the following which are found on the ship, in
+anything found on the ship, or on any person found on the ship—
+
+52.2.a
+
+goods which the officer has reasonable grounds to suspect are prohibited goods
+or relevant goods, or
+
+52.2.b
+
+things within regulation 51(3)(a)(ii).
+
+52.3
+
+The officer may use reasonable force, if necessary, in the exercise of any
+power conferred by this regulation.
+
+#### Restrictions on exercise of maritime enforcement powers
+
+53
+
+53.1
+
+The authority of the Secretary of State is required before any maritime
+enforcement power is exercised in reliance on regulation 49 (exercise of
+maritime enforcement powers) in relation to—
+
+53.1.a
+
+a British ship in foreign waters, or
+
+53.1.b
+
+a foreign ship in international waters.
+
+53.2
+
+In relation to a British ship in foreign waters other than the sea and other
+waters within the seaward limits of the territorial sea adjacent to any
+relevant British possession, the Secretary of State may give authority under
+paragraph (1) only if the State in whose waters the power would be exercised
+consents to the exercise of the power.
+
+53.3
+
+In relation to a foreign ship in international waters, the Secretary of State
+may give authority under paragraph (1) only if—
+
+53.3.a
+
+the home state has requested the assistance of the United Kingdom for a
+purpose mentioned in regulation 49(2) or (3),
+
+53.3.b
+
+the home state has authorised the United Kingdom to act for such a purpose, or
+
+53.3.c
+
+the United Nations Convention on the Law of the Sea 1982  or a UN Security
+Council Resolution otherwise permits the exercise of the power in relation to
+the ship.
+
+#### Interpretation of Part 8
+
+54
+
+54.1
+
+Subject to paragraph (2), any expression used in this Part and in section 19
+or 20 of the Act has the same meaning in this Part as it has in section 19 or
+(as the case may be) section 20 of the Act.
+
+54.2
+
+For the purpose of interpreting any reference to “prohibited goods” or
+“relevant goods” in this Part, any reference in section 19 or 20 of the Act to
+a “relevant prohibition or requirement” is to be read as a reference to any
+prohibition specified in regulation 49(2)  (a) to (c)   (exercise of maritime
+enforcement powers).
+
+### Supplementary and final provision
+
+#### Notices
+
+55
+
+55.1
+
+This regulation applies in relation to a notice required by regulation 29
+(Treasury licences)  or regulation 29A (trade licences)   to be given to a
+person.
+
+55.2
+
+The notice may be given to an individual—
+
+55.2.a
+
+by delivering it to the individual,
+
+55.2.b
+
+by sending it to the individual by post addressed to the individual at his or
+her usual or last-known place of residence or business, or
+
+55.2.c
+
+by leaving it for the individual at that place.
+
+55.3
+
+The notice may be given to a person other than an individual—
+
+55.3.a
+
+by sending it by post to the proper officer of the body at its principal
+office, or
+
+55.3.b
+
+by addressing it to the proper officer of the body and leaving it at that
+office.
+
+55.4
+
+The notice may be given to the person by other means, including by electronic
+means, with the person’s consent.
+
+55.5
+
+In this regulation, the reference in paragraph (3) to a “principal office”—
+
+55.5.a
+
+in relation to a registered company, is to be read as a reference to the
+company’s registered office;
+
+55.5.b
+
+in relation to a body incorporated or constituted under the law of a country
+other than the United Kingdom, includes a reference to the body’s principal
+office in the United Kingdom (if any).
+
+55.6
+
+In this regulation—
+
+“proper officer”— in relation to a body other than a partnership, means the
+secretary or other executive officer charged with the conduct of the body’s
+general affairs, and in relation to a partnership, means a partner or a person
+who has the control or management of the partnership business; “ registered
+company ” means a company registered under the enactments relating to
+companies for the time being in force in the United Kingdom.
+
+#### Trade: overlapping offences
+
+56
+
+A person is not to be taken to commit an offence under the Export Control
+Order 2008 if the person would, in the absence of this regulation, commit an
+offence under both—
+
+56.a
+
+article 34 of that Order , and
+
+56.b
+
+any provision of Part 4 (Trade).
+
+      David Rutley   Parliamentary Under Secretary of State   Foreign,
+Commonwealth and Development Office
+
+## SCHEDULES
+
+Rules for interpretation of regulation 7(2)
+
+Regulation 7(3)
+
+##### Application of Schedule
+
+1
+
+1.1
+
+The rules set out in the following paragraphs of this Schedule apply for the
+purpose of interpreting regulation 7(2) (meaning of “ owned or controlled
+directly or indirectly ” in Part 3).
+
+1.2
+
+They also apply for the purpose of interpreting this Schedule.
+
+##### Joint interests
+
+2
+
+If two or more persons each hold a share or right jointly, each of them is
+treated as holding that share or right.
+
+##### Joint arrangements
+
+3
+
+3.1
+
+If shares or rights held by a person and shares or rights held by another
+person are the subject of a joint arrangement between those persons, each of
+them is treated as holding the combined shares or rights of both of them.
+
+3.2
+
+A “joint arrangement” is an arrangement between the holders of shares or
+rights that they will exercise all or substantially all the rights conferred
+by their respective shares or rights jointly in a way that is pre-determined
+by the arrangement.
+
+3.3
+
+“ Arrangement ” has the meaning given by paragraph 12.
+
+##### Calculating shareholdings
+
+4
+
+4.1
+
+In relation to a person who has a share capital, a reference to holding “more
+than 50% of the shares” in that person is to holding shares comprised in the
+issued share capital of that person of a nominal value exceeding (in
+aggregate) 50% of that share capital.
+
+4.2
+
+In relation to a person who does not have a share capital—
+
+4.2.a
+
+a reference to holding shares in that person is to holding a right or rights
+to share in the capital or, as the case may be, profits of that person;
+
+4.2.b
+
+a reference to holding “more than 50% of the shares” in that person is to
+holding a right or rights to share in more than 50% of the capital or, as the
+case may be, profits of that person.
+
+##### Voting rights
+
+5
+
+5.1
+
+A reference to the voting rights in a person is to the rights conferred on
+shareholders in respect of their shares (or, in the case of a person not
+having a share capital, on members) to vote at general meetings of the person
+on all or substantially all matters.
+
+5.2
+
+In relation to a person that does not have general meetings at which matters
+are decided by the exercise of voting rights—
+
+5.2.a
+
+a reference to holding voting rights in the person is to be read as a
+reference to holding rights in relation to the person that are equivalent to
+those of a person entitled to exercise voting rights in a company;
+
+5.2.b
+
+a reference to holding “more than 50% of the voting rights” in the person is
+to be read as a reference to holding the right under the constitution of the
+person to block changes to the overall policy of the person or to the terms of
+its constitution.
+
+6
+
+In applying regulation 7(2) and this Schedule, the voting rights in a person
+are to be reduced by any rights held by the person itself.
+
+##### Rights to appoint or remove members of the board
+
+7
+
+A reference to the right to appoint or remove a majority of the board of
+directors of a person is to the right to appoint or remove directors holding a
+majority of the voting rights at meetings of the board on all or substantially
+all matters.
+
+8
+
+A reference to a board of directors, in the case of a person who does not have
+such a board, is to be read as a reference to the equivalent management body
+of that person.
+
+##### Shares or rights held “indirectly”
+
+9
+
+9.1
+
+A person holds a share “indirectly” if the person has a majority stake in
+another person and that other person—
+
+9.1.a
+
+holds the share in question, or
+
+9.1.b
+
+is part of a chain of persons—
+
+9.1.b.i
+
+each of whom (other than the last) has a majority stake in the person
+immediately below it in the chain, and
+
+9.1.b.ii
+
+the last of whom holds the share.
+
+9.2
+
+A person holds a right “indirectly” if the person has a majority stake in
+another person and that other person—
+
+9.2.a
+
+holds that right, or
+
+9.2.b
+
+is part of a chain of persons—
+
+9.2.b.i
+
+each of whom (other than the last) has a majority stake in the person
+immediately below it in the chain, and
+
+9.2.b.ii
+
+the last of whom holds that right.
+
+9.3
+
+For these purposes, a person (“ A ”) has a “majority stake” in another person
+(“ B ”) if—
+
+9.3.a
+
+A holds a majority of the voting rights in B,
+
+9.3.b
+
+A is a member of B and has the right to appoint or remove a majority of the
+board of directors of B,
+
+9.3.c
+
+A is a member of B and controls alone, pursuant to an agreement with other
+shareholders or members, a majority of the voting rights in B, or
+
+9.3.d
+
+A has the right to exercise, or actually exercises, dominant influence or
+control over B.
+
+9.4
+
+In the application of this paragraph to the right to appoint or remove a
+majority of the board of directors, a person (“ A ”) is to be treated as
+having the right to appoint a director if—
+
+9.4.a
+
+any person’s appointment as director follows necessarily from that person’s
+appointment as director of A, or
+
+9.4.b
+
+the directorship is held by A itself.
+
+##### Shares held by nominees
+
+10
+
+A share held by a person as nominee for another is to be treated as held by
+the other (and not by the nominee).
+
+##### Rights treated as held by person who controls their exercise
+
+11
+
+11.1
+
+Where a person controls a right, the right is to be treated as held by that
+person (and not by the person who in fact holds the right, unless that person
+also controls it).
+
+11.2
+
+A person “controls” a right if, by virtue of any arrangement between that
+person and others, the right is exercisable only—
+
+11.2.a
+
+by that person,
+
+11.2.b
+
+in accordance with that person’s directions or instructions, or
+
+11.2.c
+
+with that person’s consent or concurrence.
+
+12
+
+“ Arrangement ” includes—
+
+12.a
+
+any scheme, agreement or understanding, whether or not it is legally
+enforceable, and
+
+12.b
+
+any convention, custom or practice of any kind.
+
+##### Rights exercisable only in certain circumstances etc.
+
+13
+
+13.1
+
+Rights that are exercisable only in certain circumstances are to be taken into
+account only—
+
+13.1.a
+
+when the circumstances have arisen, and for so long as they continue to
+obtain, or
+
+13.1.b
+
+when the circumstances are within the control of the person having the rights.
+
+13.2
+
+But rights that are exercisable by an administrator or by creditors while a
+person is subject to relevant insolvency proceedings are not to be taken into
+account while the person is subject to those proceedings.
+
+13.3
+
+“ Relevant insolvency proceedings ” means—
+
+13.3.a
+
+administration within the meaning of the Insolvency Act 1986 ,
+
+13.3.b
+
+administration within the meaning of the Insolvency (Northern Ireland) Order
+1989 , or
+
+13.3.c
+
+proceedings under the insolvency law of another country during which a
+person’s assets and affairs are subject to the control or supervision of a
+third party or creditor.
+
+13.4
+
+Rights that are normally exercisable but are temporarily incapable of exercise
+are to continue to be taken into account.
+
+##### Rights attached to shares held by way of security
+
+14
+
+Rights attached to shares held by way of security provided by a person are to
+be treated for the purposes of this Schedule as held by that person—
+
+14.a
+
+where apart from the right to exercise them for the purpose of preserving the
+value of the security, or of realising it, the rights are exercisable only in
+accordance with that person’s instructions, and
+
+14.b
+
+where the shares are held in connection with the granting of loans as part of
+normal business activities and apart from the right to exercise them for the
+purpose of preserving the value of the security, or of realising it, the
+rights are exercisable only in that person’s interests.
+
+Definition of small arms, light weapons and ammunition
+
+Regulation 14(3)
+
+##### Definitions
+
+1
+
+1.1
+
+For the purposes of these Regulations, “ small arms, light weapons and
+ammunition ” means any good for the time being specified in paragraphs 2-6 of
+this Schedule.
+
+1.2
+
+In paragraphs 2-6 of this Schedule, “ the 2008 Order ” means the Export
+Control Order 2008.
+
+##### Small arms and light weapons within ML1 and ML2
+
+2
+
+Goods specified in entry ML1.a, ML1.b, ML1.c or ML2.a in Schedule 2 to the
+2008 Order that are designed to be carried, operated and fired by an
+individual or by three or fewer individuals acting together, other than
+mortars with a calibre of 100mm or more.
+
+##### Accessories and ammunition for small arms and light weapons within ML1 and ML2
+
+3
+
+The following goods—
+
+3.a
+
+accessories specified in entry ML1.d or ML2.c in Schedule 2 to the 2008 Order
+that are capable of being used in connection with the weapons falling within
+paragraph 2 of this Schedule;
+
+3.b
+
+weapon sights specified in entry ML5.a in Schedule 2 to the 2008 Order that
+are designed for use with weapons falling within paragraph 2 of this Schedule;
+and
+
+3.c
+
+ammunition that is capable of being fired or launched by weapons falling
+within paragraph 2 of this Schedule.
+
+##### Non-military firearms
+
+4
+
+Firearms, their parts and essential components and ammunition specified in
+entry PL9010 or PL9011 in Schedule 3 to the 2008 Order.
+
+##### Light weapons within ML4
+
+5
+
+Equipment specified in entry ML4.b in Schedule 2 to the 2008 Order that is—
+
+5.a
+
+specially designed for firing or launching rockets, grenades, missiles or
+other explosive devices; and
+
+5.b
+
+designed to be carried, operated and fired by an individual or by three or
+fewer individuals acting together.
+
+##### Ammunition for light weapons within ML4
+
+6
+
+Rockets, grenades, missiles and other explosive devices that are—
+
+6.a
+
+specified in entry   ML4   in Schedule 2 to the 2008 Order; and
+
+6.b
+
+capable of being fired or launched from equipment falling within paragraph 5
+of this Schedule.
+
+Treasury licences: purposes
+
+Regulation 29
+
+##### Interpretation
+
+1
+
+In this Schedule—
+
+“ designated person ” has the same meaning as it has in Part 3 (Finance); “
+frozen funds or economic resources ” means funds or economic resources frozen
+by virtue of regulation 8 (asset-freeze in relation to designated persons),
+and any reference to a person’s frozen funds or economic resources is to funds
+or economic resources frozen as a consequence of the designation of that
+person for the purposes of that regulation.
+
+##### Basic needs
+
+2
+
+2.1
+
+To enable the basic needs of a designated person, or (in the case of an
+individual) any dependent family member of such a person, to be met.
+
+2.2
+
+In the case of an individual, in sub-paragraph (1) “ basic needs ” includes—
+
+2.2.a
+
+medical needs;
+
+2.2.b
+
+needs for—
+
+2.2.b.i
+
+food;
+
+2.2.b.ii
+
+payment of insurance premiums;
+
+2.2.b.iii
+
+payment of tax;
+
+2.2.b.iv
+
+rent or mortgage payments;
+
+2.2.b.v
+
+utility payments.
+
+2.3
+
+In the case of a person other than an individual, in sub-paragraph (1) “ basic
+needs ” includes needs for—
+
+2.3.a
+
+payment of insurance premiums;
+
+2.3.b
+
+payment of reasonable fees for the provision of property management services;
+
+2.3.c
+
+payment of remuneration, allowances or pensions of employees;
+
+2.3.d
+
+payment of tax;
+
+2.3.e
+
+rent or mortgage payments;
+
+2.3.f
+
+utility payments.
+
+2.4
+
+In sub-paragraph (1)—
+
+“ dependent ” means financially dependent; “ family member ” includes— the
+wife or husband of the designated person; the civil partner of the designated
+person; any parent or other ascendant of the designated person; any child or
+other descendant of the designated person; any person who is a brother or
+sister of the designated person, or a child or other descendant of such a
+person.
+
+##### Legal services
+
+3
+
+To enable the payment of—
+
+3.a
+
+reasonable professional fees for the provision of legal services, or
+
+3.b
+
+reasonable expenses associated with the provision of legal services.
+
+##### Maintenance of frozen funds and economic resources
+
+4
+
+To enable the payment of—
+
+4.a
+
+reasonable fees, or
+
+4.b
+
+reasonable service charges,
+
+arising from the routine holding or maintenance of frozen funds or economic
+resources.
+
+##### Extraordinary expenses
+
+5
+
+To enable an extraordinary expense of a designated person to be met.
+
+##### Pre-existing judicial decisions etc.
+
+6
+
+To enable, by the use of a designated person’s frozen funds or economic
+resources, the implementation or satisfaction (in whole or in part) of a
+judicial, administrative or arbitral decision or lien, provided that—
+
+6.a
+
+the funds or economic resources so used are the subject of the decision or
+lien,
+
+6.b
+
+the decision or lien—
+
+6.b.i
+
+was made or established before the date on which the person became a
+designated person, and
+
+6.b.ii
+
+is enforceable in the United Kingdom, and
+
+6.c
+
+the use of the frozen funds or economic resources does not directly or
+indirectly benefit any other designated person.
+
+##### Prior obligations
+
+7
+
+To enable, by the use of a designated person’s frozen funds or economic
+resources, the satisfaction of an obligation of that person arising under a
+contract, provided that—
+
+7.a
+
+the obligation arose before the date on which the person became a designated
+person, and
+
+7.b
+
+no payments are made to another designated person, whether directly or
+indirectly.
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations are made under the Sanctions and Anti-Money Laundering Act
+2018 (c. 13)  to give effect to the United Kingdom’s international obligations
+resulting from United Nations Security Council Resolution 2653 (2022) imposing
+a sanctions regime in view of the situation in Haiti.
+
+  The Regulations provide that those persons designated by the UN as
+responsible for or complicit in, or having engaged in, directly or indirectly,
+actions that threaten the peace, security or stability of Haiti are designated
+for the purposes of these Regulations. Designated persons are subject to
+various sanctions measures set out in subsequent Parts of the Regulations.
+
+  Part 3 of the Regulations provides for designated persons to be made subject
+to financial sanctions, which include having their funds and/or economic
+resources frozen.
+
+  Part 4 of the Regulations imposes trade restrictions on military goods and
+military technology and associated services.
+
+  The Regulations provide for certain exceptions to this sanctions regime, in
+particular in relation to financial sanctions (for example to allow for frozen
+accounts to be credited with interest or other earnings) and also acts done
+for the purpose of national security or the prevention of serious crime. The
+Regulations also confer powers on the Treasury to issue licences in respect of
+activities that would otherwise be prohibited under the financial sanctions.
+Schedule 2 to these Regulations sets out the purposes pursuant to which the
+Treasury may issue such licences.
+
+  The Regulations prescribe powers for the provision and sharing of
+information to enable the effective implementation and enforcement of the
+sanctions regime. The Regulations make it a criminal offence to contravene, or
+circumvent, any of the prohibitions in these Regulations and prescribe the
+mode of trial and penalties that apply to such offences. They also provide for
+the application of similar types of provision in the Customs and Excise
+Management Act 1979 to certain offences relating to trade.
+
+  The Regulations also confer powers on specified maritime enforcement
+officers to stop and search ships in international and foreign waters for the
+purpose of enforcing specified trade sanctions and to seize goods found on
+board ships which are being, or have been, dealt with in contravention, or
+deemed contravention, of those prohibitions.
+
+  An Impact Assessment has not been produced for these Regulations. An Impact
+Assessment was, however, produced for the Sanctions and Anti-Money Laundering
+Act 2018 and can be found at:
+
+  https://assets.publishing.service.gov.uk/government/uploads/system/uploads/a
+ttachment_data/file/653271/Sanctions_and_Anti-
+Money_Laundering_Bill_Impact_Assessment_18102017.pdf .
+

@@ -1,0 +1,1487 @@
+Title: The Genetically Modified Food and Feed (Authorisations) (Scotland) Regulations 2022
+Date: 2024-05-20
+Description: These Regulations are made in exercise of the powers conferred by Articles 7(3), 9(2), 11, 19(3), 21(2), 23, and 35 of Regulation (EC) 1829/2003 of the European Parliament and of the Council on genetically modified food and feed (“Regulation 1829/2003”). These Regulations authorise the placing on the market of nine food and feed products containing, consisting of, or produced from genetically modified organisms.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ssi/2022/137
+
+## The Genetically Modified Food and Feed (Authorisations) (Scotland) Regulations 2022
+
+    Agriculture       Food
+
+  Made   19th April 2022
+
+  Laid before the Scottish Parliament   21st April 2022
+
+  Coming into force   31st May 2022
+
+      The Scottish Ministers make these Regulations in exercise of the powers
+conferred by Articles 7(3), 9(2), 11, 19(3), 21(2), 23, and 35 of Regulation
+(EC) No. 1829/2003  of the European Parliament and of the Council on
+genetically modified food and feed .         There has been consultation as
+required by Article 9 of Regulation  (EC) No 178/2002  of the European
+Parliament and of the Council laying down the general principles and
+requirements of food law, establishing the European Food Safety Authority and
+laying down procedures in matters of food safety .
+
+### Citation, commencement and extent
+
+1
+
+1.1
+
+These Regulations may be cited as the Genetically Modified Food and Feed
+(Authorisations) (Scotland) Regulations 2022 and come into force on 31 May
+2022.
+
+1.2
+
+These Regulations extend to Scotland.
+
+### Interpretation
+
+2
+
+In these Regulations—
+
+    “ Decision 2009/770/EC ” means Commission Decision establishing standard
+reporting formats for presenting the monitoring results of the deliberate
+release into the environment of genetically modified organisms, as or in
+products, for the purpose of placing on the market ,         “ Regulation
+(EC) 1829/2003 ” means Regulation  (EC) No. 1829/2003  of the European
+Parliament and of the Council on genetically modified food and feed,         “
+Regulation  (EC) 1830/2003 ” means Regulation  (EC) No. 1830/2003  of the
+European Parliament and of the Council concerning the traceability and
+labelling of genetically modified organisms and the traceability of food and
+feed products produced from genetically modified organisms and amending
+Directive 2001/18/EC .
+
+### Authorisation
+
+3
+
+3.1
+
+Schedules 1 to 9 have effect.
+
+3.2
+
+Subject to Articles 11(4) and 23(4) of Regulation 1829/2003, the
+authorisations set out in schedules 1 to 9 cease to have effect at the end of
+30 May 2032.
+
+### Revocations
+
+4
+
+The following instruments are revoked—
+
+4.a
+
+Commission Decision  (EC) 2009/813  authorising the placing on the market of
+products containing, consisting of, or produced from genetically modified
+maize MON 89034 (MON-89Ø34-3) ,
+
+4.b
+
+Commission Decision  (EC) 2009/814  authorising the placing on the market of
+products containing, consisting of, or produced from genetically modified
+maize MON 88017 (MON-88Ø17-3) ,
+
+4.c
+
+Commission Decision  (EC) 2009/866  authorising the placing on the market of
+products, containing, consisting of or produced from genetically modified
+maize MIR604 (SYN-IR6Ø4-5) ,
+
+4.d
+
+Commission  Decision (EU) 2010/419  renewing the authorisation for continued
+marketing of products containing, consisting of, or produced from genetically
+modified maize Bt11 (SYN-BTØ11-1), authorising foods and food ingredients
+containing or consisting of field maize Bt11 (SYN-BTØ11-1) ,
+
+4.e
+
+Commission Implementing  Decision (EU) 2018/1111  authorising the placing on
+the market of products containing, consisting of, or produced from genetically
+modified maize MON 87427 × MON   89034   × NK603 (MON-87427-7 × MON-89Ø34-3 ×
+MON-ØØ6Ø3-6) and genetically modified maize combining two of the events MON
+87427, MON 89034 and NK603 and repealing  Decision (EU) 2010/420 .
+
+      MAREE TODD   Authorised to sign by the Scottish Ministers     St
+Andrew’s House,   Edinburgh     19th April 2022
+
+  Renewal of the authorisation of the placing on the market of products
+containing, consisting of, or produced from genetically modified maize MIR604
+
+Regulation 3(1)
+
+##### Genetically modified organism and unique identifier
+
+1
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the unique identifier SYN-IR6Ø4-5 is specified for genetically modified maize
+MIR604.
+
+##### Authorisation
+
+2
+
+The following products are authorised for the purposes of Articles 4(2) and
+16(2) of Regulation  (EC) 1829/2003 , in accordance with the conditions set
+out in this schedule—
+
+2.a
+
+food and food ingredients containing, consisting of or produced from
+genetically modified maize SYN-IR6Ø4-5,
+
+2.b
+
+feed containing, consisting of or produced from genetically modified maize
+SYN-IR6Ø4-5,
+
+2.c
+
+products containing or consisting of genetically modified maize SYN-IR6Ø4-5
+for uses other than those provided for in sub-paragraphs (a) and (b), with the
+exception of cultivation.
+
+##### Labelling
+
+3
+
+3.1
+
+For the purposes of the labelling requirements laid down in Articles 13(1) and
+25(2) of Regulation  (EC) 1829/2003 , and in Article 4(6) of Regulation  (EC)
+1830/2003 , the “name of the organism” is “maize”.
+
+3.2
+
+The words “not for cultivation” must appear on the label of and in documents
+accompanying the products containing or consisting of the genetically modified
+maize SYN-IR6Ø4-5, with the exception of food and food ingredients.
+
+##### Method of detection
+
+4
+
+4.1
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the method specified in sub-paragraph (2) is to be used for the detection of
+genetically modified maize referred to in paragraph 1.
+
+4.2
+
+The method specified in this sub-paragraph is event-specific real-time
+quantitative PCR based method of detection of the genetically modified maize
+as set out in the document entitled “Event-specific Method for the
+Quantification of Maize Line MIR604 using real time PCR”, reference
+“CRLVL04/05VP corrected version 1”.
+
+4.3
+
+The method of DNA extraction for use in the detection method specified in sub-
+paragraph 2 is as set out in the document entitled “Maize Seeds Sampling and
+DNA extraction Report on the Validation of a DNA Extraction Method from Maize
+Seeds”, reference “CRLVL04/05XP”.
+
+4.4
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the reference material ERM®-BF423 is accessible from the Joint Research Centre
+(JRC) of the European Commission .
+
+##### Monitoring plan for the environmental effects
+
+5
+
+5.1
+
+The authorisation holder must implement the monitoring plan for environmental
+effects, which accompanied the application for renewal of the authorisation of
+genetically modified maize SYN-IR6Ø4-5, reference number “RP476” submitted to
+the Food Safety Authority on 3 March 2021.
+
+5.2
+
+The authorisation holder must submit to the Food Safety Authority annual
+reports on the implementation of, and the results of the activities as set out
+in the monitoring plan, in accordance with the format set out in Annex 2 of
+Decision 2009/770/EC .
+
+##### Authorisation holder
+
+6
+
+6.1
+
+The name and address of the authorisation holder is Syngenta Crop Protection
+AG, Rosentalstrasse 67, CH-4058 Basel, Switzerland.
+
+6.2
+
+The authorisation holder is represented in Great Britain by Syngenta Limited,
+Jealott’s Hill International Research Centre, Bracknell, Berkshire, England,
+RG42 6EY.
+
+  Authorisation of the placing on the market of products containing,
+consisting of, or produced from genetically modified maize MZIR098
+
+Regulation 3(1)
+
+##### Genetically modified organism and unique identifier
+
+1
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the unique identifier SYN-ØØØ98-3 is specified for genetically modified maize
+MZIR098.
+
+##### Authorisation
+
+2
+
+The following products are authorised for the purposes of Articles 4(2) and
+16(2) of Regulation  (EC) 1829/2003 , in accordance with the conditions set
+out in this schedule—
+
+2.a
+
+food and food ingredients containing, consisting of or produced from
+genetically modified maize SYN-ØØØ98-3,
+
+2.b
+
+feed containing, consisting of or produced from genetically modified maize
+SYN-ØØØ98-3,
+
+2.c
+
+products containing or consisting of genetically modified maize SYN-ØØØ98-3
+for uses other than those provided for in sub-paragraphs (a) and (b), with the
+exception of cultivation.
+
+##### Labelling
+
+3
+
+3.1
+
+For the purposes of the labelling requirements laid down in Articles 13(1) and
+25(2) of Regulation  (EC) 1829/2003 , and in Article 4(6) of Regulation  (EC)
+1830/2003 , the “name of the organism” is “maize”.
+
+3.2
+
+The words “not for cultivation” must appear on the label of and in documents
+accompanying products containing or consisting of genetically modified maize
+SYN-ØØØ98-3, with the exception of food and food ingredients.
+
+##### Method for detection
+
+4
+
+4.1
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the method specified in sub-paragraph (2) is to be used for detection of the
+genetically modified maize referred to in paragraph 1.
+
+4.2
+
+The method specified in this sub-paragraph is event-specific real-time
+quantitative PCR based method for detection of the genetically modified maize
+SYN-ØØØ98-3 as set out in the document entitled “Event-specific Method for the
+Quantification of maize MZIR098 by Real Time PCR”, reference “ EURL-VL-04/17VP
+”.
+
+4.3
+
+The method of DNA extraction for use in the detection method specified in sub-
+paragraph (2) is as set out in the document entitled “Maize Seeds Sampling and
+DNA Extraction Report on the Validation of a DNA Extraction Method from Maize
+Seeds”, reference “CRLVL04/05XP”.
+
+4.4
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the reference material AOCS 1114-B2 is accessible from the American Oil
+Chemists Society (AOCS) .
+
+##### Monitoring plan for environmental effects
+
+5
+
+5.1
+
+The authorisation holder must implement the monitoring plan for environmental
+effects which accompanied the application for authorisation of genetically
+modified maize SYN-ØØØ98-3, reference number “RP526” submitted to the Food
+Safety Authority on 5 March 2021.
+
+5.2
+
+The authorisation holder must submit to the Food Safety Authority annual
+reports on the implementation of, and the results of the activities as set out
+in the monitoring plan, in accordance with the format set out in Annex 2 of
+Decision 2009/770/EC .
+
+##### Authorisation holder
+
+6
+
+6.1
+
+The name and address of the authorisation holder is Sygenta Crop Protection
+AG, Rosentalsrasse 67, CH-4058 Basel, Switzerland.
+
+6.2
+
+The authorisation holder is represented in Great Britain by Sygenta Limited,
+Jealott’s Hill International Research Centre, Bracknell, Berkshire, England,
+RG42 6EY.
+
+  Authorisation of the placing on the market of products containing,
+consisting of, or produced from genetically modified maize MON 87427 × MON
+89034 ×MIR162 × NK603 and sub-combinations
+
+Regulation 3(1)
+
+##### Genetically modified organisms and unique identifiers
+
+1
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the following unique identifiers are specified for genetically modified maize
+MON 87427 × MON 89034 × MIR162 × NK603 and its sub-combinations as follows—
+
+1.a
+
+MON-87427-7 × MON-89Ø34-3 × SYN-IR162-4 × MON-ØØ6Ø3-6 for genetically modified
+maize MON-87427-7 × MON 89034 × MIR162 × NK603,
+
+1.b
+
+MON-87427-7 × MON-89Ø34-3 × SYN-IR162-4 for genetically modified maize MON
+87427 × MON 89034 × MIR162,
+
+1.c
+
+MON-87427-7 × MON 89Ø34-3 × MON ØØ6Ø3-6 for genetically modified maize MON
+87427 × MON 89034 × NK603,
+
+1.d
+
+MON -87427-7 × SYN-IR162-4 × MON ØØ6Ø3-6 for genetically modified maize MON
+87427 × MIR162 × NK603,
+
+1.e
+
+MON-89Ø34-3 × SYN-IR162-4 × MON ØØ6Ø3-6 for genetically modified maize MON
+89034 × MIR162 × NK603,
+
+1.f
+
+MON-87427-7 × MON 89Ø34-3 for genetically modified maize MON 87427 × MON
+89034,
+
+1.g
+
+MON-87427-7 × MON ØØ6Ø3 for genetically modified maize MON 87427 × NK603,
+
+1.h
+
+MON-87427-7 × SYN-IR162-4 for genetically modified maize MON 87427 × MIR162,
+
+1.i
+
+MON-89Ø34-3 × MON- ØØ6Ø3-6 for genetically modified maize MON 89034 × NK603,
+
+1.j
+
+MON-89Ø34-3 × SYN-IR162-4 for genetically modified maize MON 89034 × MIR162,
+
+1.k
+
+SYN-IR162 × MON- ØØ6Ø3-6 for genetically modified maize MIR162 × NK603.
+
+##### Authorisation
+
+2
+
+The following products are authorised for the purposes of Articles 4(2) and
+16(2) of Regulation  (EC) 1829/2003  in accordance with the conditions set out
+in this schedule—
+
+2.a
+
+food and food ingredients containing, consisting of or produced from
+genetically modified maize as referred to in paragraph 1,
+
+2.b
+
+feed containing, consisting of or produced from genetically modified maize as
+referred to in paragraph 1,
+
+2.c
+
+products containing or consisting from genetically modified maize as referred
+to in paragraph 1 for uses other than those in sub-paragraphs (a) and (b),
+with the exception of cultivation.
+
+##### Labelling
+
+3
+
+3.1
+
+For the purpose of the labelling requirements laid down in Articles 13(1) and
+25(2) of Regulation  (EC) 1829/2003 , and in Article 4(6) of Regulation  (EC)
+1830/2003 , the “name of the organism” is “maize”.
+
+3.2
+
+The words “not for cultivation” must appear on the label of and in documents
+accompanying products containing or consisting of genetically modified maize
+referred to in paragraph 1, with the exception of food and food ingredients.
+
+##### Method for detection
+
+4
+
+4.1
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the methods specified in sub-paragraphs (2) to (5) are to be used for
+detection of genetically modified maize referred to in paragraph 1.
+
+4.2
+
+The method specified in this sub-paragraph is event-specific real-time
+quantitative PCR based method of detection of the genetically modified maize
+as set out in the document entitled “Event-specific Method for the
+Quantification of Maize MON 87427 Using Real Time PCR”, reference “ EURL-
+VL-03/12VP ”.
+
+4.3
+
+Event-specific real-time quantitative PCR based method of detection of the
+genetically modified maize as set out in the document entitled “Event-specific
+Method for the Quantification of Maize Line MON 89034 Using Real Time PCR”,
+reference “CRLVL06/06VP.
+
+4.4
+
+Event-specific real-time quantitative PCR based method of detection of the
+genetically modified maize as set out in the document entitled “Event-specific
+Method for the Quantification of Maize Line MIR162 Using Real Time PCR”,
+reference “CRLVL08/08VP”.
+
+4.5
+
+Event-specific real-time quantitative PCR based method of detection of the
+genetically modified maize as set out in the document entitled “Event-specific
+method for the quantitation of maize line NK603 using real time PCR-Protocol”,
+reference “CRLV27/04VP”.
+
+4.6
+
+The method of DNA extraction for use in the detection method specified in sub-
+paragraphs (2) to (5) is as set out in the document entitled “Report on the
+Validation of a DNA Extraction Method for Maize Seeds and Grains”, reference
+“CRLVL16/05XP corrected version 2”.
+
+4.7
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the reference materials AOCS 0512-A2, AOCS 0906-E2, AOCS 1208-A3 and
+ERM®-BF415 are accessible from the American Oil Chemists Society and the Joint
+Research Centre (JRC) of the European Commission .
+
+##### Monitoring plan for environmental effects
+
+5
+
+5.1
+
+The authorisation holder must implement the monitoring plan for environmental
+effects, which accompanied the application for the authorisation of the
+genetically modified maize referred to in paragraph 1, reference number
+“RP535” submitted to the Food Safety Authority on 5 March 2021.
+
+5.2
+
+The authorisation holder must submit to the Food Safety Authority annual
+reports on the implementation of, and the results of the activities as set out
+in the monitoring plan, in accordance with the format set out in Annex 2 of
+Decision 2009/770/EC .
+
+##### Authorisation holder
+
+6
+
+6.1
+
+The name and address of the authorisation holder is Bayer CropScience LP, 800
+N. Lindbergh Boulevard, St Louise, Missouri 63167, United States of America.
+
+6.2
+
+The authorisation holder is represented in Great Britain by Bayer CropScience
+Ltd, 230 Cambridge Science Park, Milton Road, Cambridge, England CB4 0WB.
+
+  Authorisation of the placing on the market of products containing,
+consisting of, or produced from genetically modified maize MON 87427 × MON
+89034 × MIR162 × MON 87411 and sub-combinations
+
+Regulation 3(1)
+
+##### Genetically modified organisms and unique identifiers
+
+1
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the following unique identifiers are specified for genetically modified maize
+MON 87427 × MON 89034 × MIR162 × MON 87411 and its sub-combinations as
+follows—
+
+1.a
+
+MON-84727-7 × MON-89Ø34-3 × SYN-IR162-4 × MON-87411-9 for genetically modified
+maize MON 87427 × MON 89034 × MIR162 × MON 87411,
+
+1.b
+
+MON-84727-7 × MON-89Ø34-3 × MON-87411-9 for genetically modified maize MON
+87427 × MON 89034 × MON 87411,
+
+1.c
+
+MON-84727-7 × SYN-IR162-4 × MON-87411-9 for genetically modified maize MON
+87427 × MIR162 × MON 87411,
+
+1.d
+
+MON-89Ø34-3 × SYN-IR162-4 × MON-87411-9 for genetically modified maize MON
+89034 × MIR162 × MON 87411,
+
+1.e
+
+MON-84727-7 × MON-87411-9 for genetically modified maize MON 87427 × MON
+87411,
+
+1.f
+
+MON-89Ø34-3 × MON-87411-9 for genetically modified maize MON 89034 × MON
+87411,
+
+1.g
+
+SYN-IR162-4 × MON-87411-9 for genetically modified maize MIR162 × MON 87411.
+
+##### Authorisation
+
+2
+
+The following products are authorised for the purposes of Articles 4(2) and
+16(2) of Regulation  (EC) 1829/2003  in accordance with the conditions set out
+in this schedule—
+
+2.a
+
+food and food ingredients containing, consisting of or produced from
+genetically modified maize as referred to in paragraph 1,
+
+2.b
+
+feed containing, consisting of or produced from genetically modified maize as
+referred to in paragraph 1,
+
+2.c
+
+products containing or consisting of genetically modified maize as referred to
+in paragraph 1 for uses other than those in sub-paragraphs (a) and (b), with
+the exception of cultivation.
+
+##### Labelling
+
+3
+
+3.1
+
+For the purposes of the labelling requirements laid down in Articles 13(1) and
+25(2) of Regulation  (EC) 1829/2003  and in Article 4(6) of Regulation  (EC)
+1830/2003 , the “name of the organism” is “maize”.
+
+3.2
+
+The words “not for cultivation” must appear on the label of and in documents
+accompanying products containing or consisting of genetically modified maize
+referred to in paragraph 1, with the exception of food and food ingredients.
+
+##### Method for detection
+
+4
+
+4.1
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the methods specified in sub-paragraphs (2) to (5) are to be used for the
+detection of genetically modified maize referred to in paragraph 1.
+
+4.2
+
+The method specified in this sub-paragraph is event-specific real-time
+quantitative PCR based method of detection of the genetically modified maize
+as set out in the document entitled “Event-specific Method for the
+Quantification of Maize MON 87427 Using Real-time PCR”, reference “ EURL-
+VL-03/12VP ”.
+
+4.3
+
+The method specified in this sub-paragraph is event-specific real-time
+quantitative PCR based method of detection of the genetically modified maize
+as set out in the document entitled “Event-specific Method for the
+Quantification of Maize Line MON 89034 Using Real-time PCR”, reference
+“CRLVL06/06VP”.
+
+4.4
+
+The method specified in this sub-paragraph is event-specific real-time
+quantitative PCR based method of detection of the genetically modified maize
+as set out in the document entitled “Event-specific Method for the
+Quantification of Maize Line MIR162 Using Real-time PCR”, reference
+“CRLVL08/08VP”.
+
+4.5
+
+The method specified in this sub-paragraph is event-specific real-time
+quantitative PCR based method of detection of the genetically modified maize
+as set out in the document entitled “Event-specific Method for the
+Quantification of maize MON 87411 by Real-time PCR”, reference “EURL-
+VL-01/15VP”.
+
+4.6
+
+The method of DNA extraction for use in the detection methods specified in
+sub-paragraphs (2) to (5) is as set out in the document entitled “Report on
+the Validation of a DNA Extraction Method for Maize Seeds and Grains”,
+reference “CRLVL16/05XP corrected version 2”.
+
+4.7
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the reference materials AOCS 0512-A2, AOCS 0906-E2, AOCS 1208-A3 and AOCS
+0215-B are accessible from the American Oil Chemists Society .
+
+##### Monitoring plan for environmental effects
+
+5
+
+5.1
+
+The authorisation holder must implement the monitoring plan for environmental
+effects, which accompanied the application for the authorisation of the
+genetically modified maize referred to in paragraph 1, reference number
+“RP606” submitted to the Food Safety Authority on 11 March 2021 .
+
+5.2
+
+The authorisation holder must submit to the Food Safety Authority annual
+reports on the implementation of, and the results of the activities as set out
+in the monitoring plan, in accordance with the format set out in Annex 2 of
+Decision 2009/770/EC .
+
+##### Authorisation holder
+
+6
+
+6.1
+
+The name and address of the authorisation holder is Bayer CropScience LP, 800
+N. Lindbergh Boulevard, St Louis, Missouri 63167, United States of America.
+
+6.2
+
+The authorisation holder is represented in Great Britain by Bayer CropScience
+Ltd, 230 Cambridge Science Park, Milton Road, Cambridge, England, CB4 0WB.
+
+  Authorisation of the placing on the market of products containing,
+consisting of, or produced from genetically modified soybean MON 87751 × MON
+87701 × MON 87708 × MON 89788
+
+Regulation 3(1)
+
+##### Genetically modified organism and unique identifier
+
+1
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the unique identifier MON-87751-7 × MON-877Ø1-2 × MON-877Ø8-9 × MON-89788-1 is
+specified for genetically modified soybean MON 87751 × MON 87701 × MON 87708 ×
+MON 89788.
+
+##### Authorisation
+
+2
+
+The following products are authorised for the purposes of Articles 4(2) and
+16(2) of Regulation  (EC) 1829/2003  in accordance with the conditions set out
+in this schedule—
+
+2.a
+
+food and food ingredients containing, consisting of or produced from
+genetically modified soybean MON-87751-7 × MON-877Ø1-2 × MON-877Ø8-9 ×
+MON-89788-1,
+
+2.b
+
+feed containing, consisting of or produced from genetically modified soybean
+MON-87751-7 × MON-877Ø1-2 × MON-877Ø8-9 × MON-89788-1,
+
+2.c
+
+products containing or consisting of genetically modified soybean MON-87751-7
+× MON-877Ø1-2 × MON-877Ø8-9 × MON-89788-1 for uses other than those in sub-
+paragraphs (a) and (b), with the exception of cultivation.
+
+##### Labelling
+
+3
+
+3.1
+
+For the purposes of the labelling requirements laid down in Articles 13(1) and
+25(2) of Regulation  (EC) 1829/2003 , and in Article 4(6) of Regulation  (EC)
+1830/2003 , the “name of the organism” is “soybean”.
+
+3.2
+
+The words “not for cultivation” must appear on the label of and in documents
+accompanying products containing or consisting of genetically modified soybean
+MON-87751-7 × MON-877Ø1-2 × MON-877Ø8-9 × MON-89788-1, with the exception of
+food and food ingredients.
+
+##### Method for detection
+
+4
+
+4.1
+
+For the purposes of Articles 7(3) and 19(3) of Regulation 1829/2003, the
+methods specified in sub-paragraphs (2) to (5) are to be used for the
+detection of genetically modified soybean MON-87751-7 × MON-877Ø1-2 ×
+MON-877Ø8-9 × MON-89788-1.
+
+4.2
+
+The method specified in this sub-paragraph is event-specific real-time
+quantitative PCR based method of detection of the genetically modified soybean
+as set out in the document entitled “Event-specific Method for the
+Quantification of Soybean MON 87751 Using Real-time PCR”, reference “EURL-
+VL-03/14VP Corrected version 1”.
+
+4.3
+
+The method specified in this sub-paragraph is event-specific real-time
+quantitative PCR based method of detection of the genetically modified soybean
+as set out in the document entitled “Event-specific Method for the
+Quantification of Soybean MON 87701 Using Real-time PCR”, reference
+“CRLVL05/09VP”.
+
+4.4
+
+The method specified in this sub-paragraph is event-specific real-time
+quantitative PCR based method of detection of the genetically modified soybean
+as set out in the document entitled “Event-specific Method for the
+Quantification of Soybean MON 87708 Using Real-time PCR”, reference “EURL-
+VL-02/11VP”.
+
+4.5
+
+The method specified in this sub-paragraph is event-specific real-time
+quantitative PCR based method of detection of the genetically modified soybean
+as set out in the document entitled “Event-specific Method for the
+Quantification of Soybean Line MON 89788 Using Real-time PCR-Protocol”,
+reference “CRLVL05/06VP”.
+
+4.6
+
+The method of DNA extraction for use in the detection methods specified in
+sub-paragraphs (2) to (5) is as set out in the document entitled “Report on
+the Validation of a DNA Extraction Method for Soybean Seeds”, reference “CRL-
+VL-05/06XP Corrected version 2”.
+
+4.7
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the reference materials AOCS 0215-A, AOCS 0809-A2, AOCS 0311-A2 and AOCS
+0906-B2 are accessible from the American Oil Chemists Society .
+
+##### Monitoring plan for environmental effects
+
+5
+
+5.1
+
+The authorisation holder must implement the monitoring plan for environmental
+effects, which accompanied the application for authorisation of the
+genetically modified soybean MON-87751-7 × MON-877Ø1-2 × MON-877Ø8-9 ×
+MON-89788-1, reference number “RP607” submitted to the Food Safety Authority
+on 11 March 2021.
+
+5.2
+
+The authorisation holder must submit to the Food Safety Authority annual
+reports on the implementation of, and the results of the activities as set out
+in the monitoring plan, in accordance with the format set out in Annex 2 of
+Decision 2009/770/EC .
+
+##### Authorisation holder
+
+6
+
+6.1
+
+The name and address of the authorisation holder is Bayer CropScience LP, 800
+N. Lindbergh Boulevard, St Louis, Missouri 63167, United States of America.
+
+6.2
+
+The authorisation holder is represented in Great Britain by Bayer CropScience
+Ltd, 230 Cambridge Science Park, Milton Road, Cambridge, England, CB4 0WB.
+
+  Renewal of the authorisation of the placing on the market of products
+containing, consisting of, or produced from genetically modified maize Bt11
+
+Regulation 3(1)
+
+##### Genetically modified organism and unique identifier
+
+1
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the unique identifier SYN-BTØ11-1 is specified for genetically modified maize
+Bt11.
+
+##### Authorisation
+
+2
+
+The following products are authorised for the purposes of Articles 4(2) and
+16(2) of Regulation  (EC) 1829/2003 , in accordance with the conditions set
+out in this schedule—
+
+2.a
+
+food and food ingredients containing, consisting of or produced from
+genetically modified maize SYN-BTØ11-1,
+
+2.b
+
+feed containing, consisting of or produced from genetically modified maize
+SYN-BTØ11-1,
+
+2.c
+
+products containing or consisting of genetically modified maize SYN-BTØ11-1
+for uses other than those provided for in sub-paragraphs (a) and (b), with the
+exception of cultivation.
+
+##### Labelling
+
+3
+
+3.1
+
+For the purposes of the labelling requirements laid down in Articles 13(1) and
+25(2) of Regulation  (EC) 1829/2003 , and in Article 4(6) of Regulation  (EC)
+1830/2003 , the “name of the organism” is “maize”.
+
+3.2
+
+The words “not for cultivation” must appear on the label of and in documents
+accompanying the products containing or consisting of genetically modified
+maize SYN-BTØ11-1, with the exception of food and food ingredients.
+
+##### Method of detection
+
+4
+
+4.1
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the method specified in sub-paragraph (2) is to be used for the detection of
+genetically modified maize SYN-BTØ11-1.
+
+4.2
+
+The method specified in this sub-paragraph is event-specific real-time
+quantitative PCR based method of detection of the genetically modified maize
+as set out in the document entitled “Event-specific Method for the
+Quantification of Maize Line Bt11 using real time PCR-Protocol”, reference
+“CR-VL-10/07VP 20/06/2008”.
+
+4.3
+
+The method of DNA extraction for use in the detection method specified in sub-
+paragraph (2) is as set out in the document entitled “Maize Seeds Sampling and
+DNA Extraction Report on the Validation of a DNA Extraction Method from Maize
+Seeds and Grains”, reference “CRL-VL-12/05XP 18/04/2007”.
+
+4.4
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the reference material ERM®-BF412 is accessible from the Joint Research Centre
+(JRC) of the European Commission .
+
+##### Monitoring plan for environmental effects
+
+5
+
+5.1
+
+The authorisation holder must implement the monitoring plan for environmental
+effects, which accompanied the application for renewal of the authorisation of
+genetically modified maize SYN-BTØ11-1, reference number “RP620” submitted to
+the Food Safety Authority on 12 March 2021.
+
+5.2
+
+The authorisation holder must submit to the Food Safety Authority annual
+reports on the implementation of, and the results of the activities as set out
+in the monitoring plan, in accordance with the format set out in Annex 2 of
+Decision 2009/770/EC .
+
+##### Authorisation holder
+
+6
+
+6.1
+
+The name and address of the authorisation holder is Syngenta Crop Protection
+AG, Rosentalstrasse 67, CH-4058 Basel, Switzerland.
+
+6.2
+
+The authorisation holder is represented in Great Britain by Syngenta Limited,
+Jealott’s Hill International Research Centre, Bracknell, Berkshire, England,
+RG42 6EY.
+
+  Authorisation of the placing on the market of products containing,
+consisting of or produced from genetically modified maize MON 87427 × MON
+87460 × MON 89034 × MIR162 × NK603 and sub-combinations
+
+Regulation 3(1)
+
+##### Genetically modified organisms and unique identifiers
+
+1
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the following unique identifiers are specified for genetically modified maize
+MON 87427 × MON 87460 × MON 89034 × MIR162 × NK603 and its sub-combinations as
+follows—
+
+1.a
+
+MON-87427-7 × MON-8746Ø-4 × MON- 89Ø34-3 ×SYN-IR162-4 × MON-ØØ6Ø3-6 for
+genetically modified maize MON 87427 × MON 87460 × MON 89034 × MIR162 × NK603,
+
+1.b
+
+MON-87427-7 × MON-8746Ø-4 × MON-89Ø34-3 × SYN-IR162-4 for genetically modified
+maize MON 87427 × MON 87460 × MON 89034 × MIR162,
+
+1.c
+
+MON-87427-7 × MON-8746Ø-4 × MON-89Ø34-3 × MON-ØØ6Ø3-6 for genetically modified
+maize MON 87427 × MON 87460 × MON 89034 × NK603,
+
+1.d
+
+MON-87427-7 × MON-8746Ø-4 × SYN-IR162-4 × MON-ØØ6Ø3-6 for genetically modified
+maize MON 87427 × MON 87460 × MIR162 × NK603,
+
+1.e
+
+MON-8746Ø-4 × MON-89Ø34-3 × SYN-IR162-4 × MON-ØØ6Ø3-6 for genetically modified
+maize MON 87460 × MON 89034 × MIR162 × NK603,
+
+1.f
+
+MON-87427-7 × MON-8746Ø-4 × MON-89Ø34-3 for genetically modified maize MON
+87427 × MON 87460 × MON 89034,
+
+1.g
+
+MON-87427-7 × MON-8746Ø-4 × SYN-IR162-4 for genetically modified maize MON
+87427 × MON 87460 × MIR162,
+
+1.h
+
+MON-87427-7 × MON-8746Ø-4 × MON-ØØ6Ø3-6 for genetically modified maize MON
+87427 × MON 87460 × NK603,
+
+1.i
+
+MON-8746Ø-4 × SYN-IR162-4 × MON-ØØ6Ø3-6 for genetically modified maize MON
+87460 × MIR162 × NK603,
+
+1.j
+
+MON-8746Ø-4 × MON-89Ø34-3 × SYN-IR162-4 for genetically modified maize MON
+87460 × MON 89034 × MIR162,
+
+1.k
+
+MON-8746Ø-4 × MON-89Ø34-3 × MON-ØØ6Ø3-6 for genetically modified maize MON
+87460 × MON 89034 × NK603,
+
+1.l
+
+MON-87427-7 × MON-8746Ø-4 for genetically modified maize MON 87427 × MON
+87460,
+
+1.m
+
+MON-8746Ø-4 × SYN-IR162-4 for genetically modified maize MON 87460 × MIR162,
+
+1.n
+
+MON-8746Ø-4 × MON-ØØ6Ø3-6 for genetically modified maize MON 87460 × NK603,
+
+1.o
+
+MON-8746Ø-4 × MON-89Ø34-3 for genetically modified maize MON 87460 × MON
+89034.
+
+##### Authorisation
+
+2
+
+The following products are authorised for the purposes of Articles 4(2) and
+16(2) of Regulation  (EC) 1829/2003  in accordance with the conditions set out
+in this schedule—
+
+2.a
+
+food and food ingredients containing, consisting of or produced from
+genetically modified maize as referred to in paragraph 1,
+
+2.b
+
+feed containing, consisting of or produced from genetically modified maize as
+referred to in paragraph 1,
+
+2.c
+
+products containing or consisting of genetically modified maize as referred to
+in paragraph 1 for uses other than those in sub-paragraphs (a) and (b), with
+the exception of cultivation.
+
+##### Labelling
+
+3
+
+3.1
+
+For the purposes of the labelling requirements laid down in Articles 13(1) and
+25(2) of Regulation  (EC) 1829/2003 , and in Article 4(6) of Regulation  (EC)
+1830/2003 , the “name of the organism” is “maize”.
+
+3.2
+
+The words “not for cultivation” must appear on the label of and in documents
+accompanying products containing or consisting of genetically modified maize
+as referred to in paragraph 1, with the exception of food and food
+ingredients.
+
+##### Method of detection
+
+4
+
+4.1
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the methods specified in sub-paragraphs (2) to (6) are to be used for the
+detection of genetically modified maize referred to in paragraph 1.
+
+4.2
+
+The method specified in this sub-paragraph is event-specific real-time
+quantitative PCR based method of detection of the genetically modified maize
+as set out in the document entitled “Event-specific Method for the
+Quantification of Maize MON 87427 Using Real-time PCR”, reference “ EURL-
+VL-03/12VP ”.
+
+4.3
+
+The method specified in this sub-paragraph is event-specific real-time
+quantitative PCR based method of detection of the genetically modified maize
+as set out in the document entitled “Event-specific Method for the
+Quantification of Maize MON 87460 Using Real-time PCR – Protocol”, reference
+“CRLVL04/09VP”.
+
+4.4
+
+The method specified in this sub-paragraph is event-specific real-time
+quantitative PCR based method of detection of the genetically modified maize
+as set out in the document entitled “Event-specific Method for the
+Quantification of Maize Line MON 89034 Using Real-time PCR”, reference
+“CRLVL06/06VP”.
+
+4.5
+
+The method specified in this sub-paragraph is event-specificreal-time
+quantitative PCR based method of detection of the genetically modified maize
+as set out in the document entitled “Event-specific Method for the
+Quantification of Maize Line MIR162 Using Real-time PCR”, reference
+“CRLVL08/08VP”.
+
+4.6
+
+The method specified in this sub-paragraph is event-specific real-time
+quantitative PCR based method of detection of the genetically modified maize
+as set out in the document entitled “Event-specific method for the
+quantitation of maize line NK603 using real time PCR-Protocol”, reference
+“CRLV27/04VP”.
+
+4.7
+
+The method of DNA extraction for use in the detection method specified in sub-
+paragraphs (2) to (6) is as set out in the document entitled “Report on the
+Validation of a DNA Extraction Method for Maize Seeds and Grains”, reference
+“CRLVL16/05XP corrected version 2”.
+
+4.8
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the reference materials AOCS 0512-A2, AOCS 0709-A2, AOCS 0906-E2, AOCS 1208-A3
+and ERM®-BF415 are accessible from the American Oil Chemists Society and the
+Joint Research Centre (JRC) of the European Commission .
+
+##### Monitoring plan for environmental effects
+
+5
+
+5.1
+
+The authorisation holder must implement the monitoring plan for environmental
+effects, which accompanied the application for authorisation of the
+genetically modified maize referred to in paragraph 1, reference number
+“RP714” submitted to the Food Safety Authority on 26 March 2021.
+
+5.2
+
+The authorisation holder must submit to the Food Safety Authority annual
+reports on the implementation of, and the results of the activities as set out
+in the monitoring plan, in accordance with the format set out in Annex 2 of
+Decision 2009/770/EC .
+
+##### Authorisation holder
+
+6
+
+6.1
+
+The name and address of the authorisation holder is Bayer CropScience LP, 800
+N. Lindbergh Boulevard, St Louis, Missouri 63167, United States of America.
+
+6.2
+
+The authorisation holder is represented in Great Britain by Bayer CropScience
+Ltd, 230 Cambridge Science Park, Milton Road, Cambridge, England, CB4 0WB.
+
+  Renewal of authorisation of the placing on the market of products
+containing, consisting of, or produced from genetically modified maize MON
+88017
+
+Regulation 3(1)
+
+##### Genetically modified organism and unique identifier
+
+1
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the unique identifier MON-88Ø17-3 is specified for genetically modified maize
+MON 88017.
+
+##### Authorisation
+
+2
+
+The following products are authorised for the purposes of Articles 4(2) and
+16(2) of Regulation  (EC) 1829/2003 , in accordance with the conditions set
+out in this schedule—
+
+2.a
+
+food and food ingredients containing, consisting of or produced from
+genetically modified maize MON-88Ø17-3,
+
+2.b
+
+feed containing, consisting of or produced from genetically modified maize
+MON-88Ø17-3,
+
+2.c
+
+products containing or consisting of genetically modified maize MON-88Ø17-3
+for uses other than those provided for in sub-paragraphs (a) and (b), with the
+exception of cultivation.
+
+##### Labelling
+
+3
+
+3.1
+
+For the purposes of the labelling requirements laid down in Articles 13(1) and
+25(2) of Regulation  (EC) 1829/2003 , and in Article 4(6) of Regulation  (EC)
+1830/2003 , the “name of the organism” is “maize”.
+
+3.2
+
+The words “not for cultivation” must appear on the label of and in documents
+accompanying the products containing or consisting of genetically modified
+maize MON-88Ø17-3, with the exception of food and food ingredients.
+
+##### Method of detection
+
+4
+
+4.1
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the method specified in sub-paragraph (2) is to be used for the detection of
+genetically modified maize MON 88Ø17-3.
+
+4.2
+
+The method specified in this sub-paragraph is event-specific real-time
+quantitative PCR based method of detection of the genetically modified maize
+as set out in the document entitled “Event-specific Method for the
+Quantification of Maize Line 88017 Using ReaL-time PCR-Protocol”, reference
+“CRLVL16/05VP Corrected Version 1”.
+
+4.3
+
+The method of DNA extraction for use in the detection method specified in sub-
+paragraph (2) is as set out in the document entitled “Report on the Validation
+of a DNA Extraction Method from Maize Seeds and Grains”, reference
+“CRLVL16/05XP corrected version 2”.
+
+4.4
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the reference material AOCS 0406-D2 is accessible from the American Oil
+Chemists Society .
+
+##### Monitoring plan for the environmental effects
+
+5
+
+5.1
+
+The authorisation holder must implement the monitoring plan for environmental
+effects, which accompanied the application for renewal of the authorisation of
+genetically modified maize MON 88Ø17-3, reference number “RP715” submitted to
+the Food Safety Authority on 26 March 2021.
+
+5.2
+
+The authorisation holder must submit to the Food Safety Authority annual
+reports on the implementation of, and the results of the activities as set out
+in the monitoring plan, in accordance with the format set out in Annex 2 of
+Decision 2009/770/EC .
+
+##### Authorisation holder
+
+6
+
+6.1
+
+The name and address of the authorisation holder is Bayer CropScience LP, 800
+N. Lindbergh Boulevard, St Louis, Missouri, 63167, United States of America.
+
+6.2
+
+The authorisation holder is represented in Great Britain by Bayer CropScience
+Ltd, 230 Cambridge Science Park, Milton Road, Cambridge, England, CB4 0WB.
+
+  Renewal of the authorisation of the placing on the market products
+containing, consisting of, or produced from genetically modified maize 89034
+
+Regulation 3(1)
+
+##### Genetically modified organism and unique identifier
+
+1
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the unique identifier MON-89Ø34-3 is specified for genetically modified maize
+89034.
+
+##### Authorisation
+
+2
+
+The following products are authorised for the purposes of Articles 4(2) and
+16(2) of Regulation  (EC) 1829/2003 , in accordance with the conditions set
+out in this schedule—
+
+2.a
+
+food and food ingredients containing, consisting of or produced from
+genetically modified maize MON-89Ø34-3,
+
+2.b
+
+feed containing, consisting of or produced from genetically modified maize
+MON-89Ø34-3,
+
+2.c
+
+products containing or consisting of genetically modified maize MON-89Ø34-3
+for uses other than those provided for in sub-paragraphs (a) and (b), with the
+exception of cultivation.
+
+##### Labelling
+
+3
+
+3.1
+
+For the purposes of the labelling requirements laid down in Articles 13(1) and
+25(2) of Regulation  (EC) 1829/2003 , and in Article 4(6) of Regulation  (EC)
+1830/2003 , the “name of the organism” is “maize”.
+
+3.2
+
+The words “not for cultivation” must appear on the label of and in documents
+accompanying the products containing or consisting of genetically modified
+maize referred to in paragraph 1, with the exception of food and food
+ingredients.
+
+##### Method of detection
+
+4
+
+4.1
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the method specified in sub-paragraph (2) is to be used for the detection of
+event genetically modified maize MON- 89Ø34-3.
+
+4.2
+
+The method specified in this sub-paragraph is event-specific real-time
+quantitative PCR based method of detection of the genetically modified maize
+as set out in the document entitled “Event-specific Method for the
+Quantification of Maize Line MON 89034 Using Real Time PCR”, reference
+“CRLVL06/06VP”.
+
+4.3
+
+The method of DNA extraction for use in the detection method specified in sub-
+paragraph (2) is as set out in the document entitled “Report on the Validation
+of a DNA Extraction Method from Maize Seeds and Grains”, reference
+“CRLVL16/05XP corrected version 2”.
+
+4.4
+
+For the purposes of Articles 7(3) and 19(3) of Regulation  (EC) 1829/2003 ,
+the reference material AOCS 0906-E2 is accessible from the American Oil
+Chemists Society .
+
+##### Monitoring plan for the environmental effects
+
+5
+
+5.1
+
+The authorisation holder must implement the monitoring plan for environmental
+effects, which accompanied the application for renewal of the authorisation of
+genetically modified maize MON- 89Ø34-3, reference number “RP716” submitted to
+the Food Safety Authority on 26 March 2021.
+
+5.2
+
+The authorisation holder must submit to the Food Safety Authority annual
+reports on the implementation of, and the results of the activities as set out
+in the monitoring plan, in accordance with the format set out in Annex 2 of
+Decision 2009/770/EC .
+
+##### Authorisation holder
+
+6
+
+6.1
+
+The name and address of the authorisation holder is Bayer CropScience LP, 800
+N. Lindbergh Boulevard, St Louis, Missouri, 63167, United States of America.
+
+6.2
+
+The authorisation holder is represented in Great Britain by Bayer CropScience
+Ltd, 230 Cambridge Science Park, Milton Road, Cambridge, England, CB4 0WB.
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations are made in exercise of the powers conferred by Articles
+7(3), 9(2), 11, 19(3), 21(2), 23, and 35 of Regulation  (EC) 1829/2003  of the
+European Parliament and of the Council on genetically modified food and feed
+(“ Regulation 1829/2003 ”). These Regulations authorise the placing on the
+market of nine food and feed products containing, consisting of, or produced
+from genetically modified organisms.
+
+Regulation 3 and schedules 1-9 provide for the authorisation of the nine
+products—   a     schedule 1 renews authorisation for the placing on the
+market of genetically modified maize MIR604 and sets out the terms for that
+authorisation,       b     schedule 2 authorises the placing on the market of
+genetically modified maize MZIR098 and its sub-combinations and sets out the
+terms for that authorisation,       c     schedule 3 authorises the placing on
+the market of genetically modified maize MON 87427 × MON 89034 ×MIR162 × NK603
+and sub-combinations and sets out the terms for that authorisation,       d
+schedule 4 authorises the placing on the market of genetically modified maize
+MON 87427 × MON 89034 × MIR162 × MON 87411 and the sub-combinations that are
+not covered by Schedule 3,       e     schedule 5 authorises the placing on
+the market of genetically modified soybean MON 87751 × MON 87701 × MON 87708 ×
+MON 89788,       f     schedule 6 renews the authorisation for the placing on
+the market of genetically modified maize Bt11 and sets out the terms for that
+authorisation therein,       g     schedule 7 authorises the placing on the
+market of genetically modified maize MON 87427 × MON 87460 × MON 89034 ×
+MIR162 × NK603 and the sub-combinations that are not covered by schedule 3,
+h     schedule 8 renews the authorisation for the placing on the market of
+genetically modified maize MON 88017 and sets out the terms for that
+authorisation therein,       i     schedule 9 renews the authorisation for the
+placing on the market of genetically modified maize MON 89034 and sets out the
+terms for that authorisation therein.
+
+Authorisations granted by these Regulations are valid for a period of ten
+years in accordance with Articles 7(4) and 19(4) of Regulation  (EC) 1829/2003
+(subject to Articles 11(4) and 23(4) of that Regulation, which provide for an
+extension of the authorisation period in certain circumstances where an
+application for renewal has been submitted).
+
+Paragraphs (a) to (d) of regulation 4 revoke, in relation to Scotland,
+Decisions which form part of retained EU law that contain the previous
+authorisations (which have expired) for the products now authorised by
+Schedules 1, 6, 8 and 9.
+
+Paragraph (e) of regulation 4 revokes retained Commission Implementing
+Decision (EU) 2018/2011 , which contains the existing authorisation for four
+of the sub-combinations of the product now authorised by schedule 3. Those
+existing authorisations are consolidated within schedule 3.
+
+An impact assessment has not been produced for this instrument as no, or no
+significant, impact on the public, private or voluntary sector is foreseen.
+

@@ -1,0 +1,4905 @@
+Title: Non-Domestic Rating Act 2023
+Date: 2024-02-05
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ukpga/2023/53
+
+## Non-Domestic Rating Act 2023
+
+      B e it enacted  by the King’s most Excellent Majesty, by and with the
+advice and consent of the Lords Spiritual and Temporal, and Commons, in this
+present Parliament assembled, and by the authority of the same, as follows:—
+
+### Liability and mandatory reliefs
+
+#### Local rating: liability and mandatory reliefs for occupied hereditaments
+
+1
+
+1.1
+
+In the Local Government Finance Act 1988 (referred to in this Act as “ the Act
+”), in section 43 (occupied hereditaments: liability)—
+
+1.1.a
+
+in the heading, after “liability” insert  “and reliefs” ;
+
+1.1.b
+
+in subsection (2), in paragraph (a), after “chargeable day” insert  “in
+accordance with  Schedule 4ZA ” ;
+
+1.1.c
+
+omit subsections (4) to (6L);
+
+1.1.d
+
+omit subsections (8A) to (8D).
+
+1.2
+
+Omit section 44 of the Act (occupied hereditaments: supplementary).
+
+1.3
+
+Before Schedule 4A to the Act insert—
+
+  Occupied hereditaments: chargeable amount
+
+Section 43
+
+############ Chargeable amount before any reliefs
+
+1.3.1
+
+Subject to the following provisions of this Schedule, the chargeable amount
+for a chargeable day is to be calculated—
+
+1.3.1.a
+
+in relation to England, in accordance with the formula—
+
+A × M C
+
+1.3.1.b
+
+in relation to Wales, in accordance with the formula—
+
+A × B C
+
+############ Partial reliefs
+
+############# Charitable rate relief
+
+1.3.2
+
+1.3.2.1
+
+Where this paragraph applies, the chargeable amount for a chargeable day is to
+be calculated—
+
+1.3.2.1.a
+
+in relation to England, in accordance with the formula—
+
+A × M C × 5
+
+1.3.2.1.b
+
+in relation to Wales, in accordance with the formula—
+
+A × B C × 5
+
+1.3.2.2
+
+This paragraph applies where, on the day concerned—
+
+1.3.2.2.a
+
+the ratepayer is a charity or trustees for a charity and the hereditament is
+wholly or mainly used for charitable purposes (whether of that charity or of
+that and other charities), or
+
+1.3.2.2.b
+
+the ratepayer is a registered club for the purposes of Chapter 9 of Part 13 of
+the Corporation Tax Act 2010 (community amateur sports clubs) and the
+hereditament is wholly or mainly used—
+
+1.3.2.2.b.i
+
+for the purposes of that club, or
+
+1.3.2.2.b.ii
+
+for the purposes of that club and of other such registered clubs.
+
+############# Improvement rate relief
+
+1.3.3
+
+1.3.3.1
+
+This paragraph applies where—
+
+1.3.3.1.a
+
+the chargeable day falls within the period of one year beginning with the day
+on which qualifying improvement works are completed,
+
+1.3.3.1.b
+
+on the day concerned any conditions prescribed by the appropriate national
+authority in regulations are satisfied, and
+
+1.3.3.1.c
+
+the day concerned falls before 1 April 2029.
+
+1.3.3.2
+
+“ Qualifying improvement works ” has the meaning given by the appropriate
+national authority in regulations.
+
+1.3.3.3
+
+The appropriate national authority may by regulations—
+
+1.3.3.3.a
+
+amend  paragraph (a)  of  sub-paragraph (1)  to substitute a longer period for
+the period for the time being specified in that paragraph;
+
+1.3.3.3.b
+
+amend  paragraph (c)  of that sub-paragraph to substitute a later date for the
+date for the time being specified in that paragraph.
+
+1.3.3.4
+
+For the consequence of this paragraph applying, see the definitions of “A” and
+“G” in  paragraph 10 .
+
+############# Small business rate relief
+
+1.3.4
+
+1.3.4.1
+
+Where this paragraph applies, the chargeable amount for a chargeable day is to
+be calculated—
+
+1.3.4.1.a
+
+in relation to England, in accordance with the formula—
+
+A × M C × E
+
+1.3.4.1.b
+
+in relation to Wales, in accordance with the formula—
+
+A × B C × E
+
+1.3.4.2
+
+This paragraph applies—
+
+1.3.4.2.a
+
+in relation to England, where on the day concerned any conditions prescribed
+by the Secretary of State in regulations are satisfied;
+
+1.3.4.2.b
+
+in relation to Wales, where—
+
+1.3.4.2.b.i
+
+the rateable value of the hereditament shown in the local non-domestic rating
+list for the first day of the chargeable financial year is not more than any
+amount prescribed by the Welsh Ministers in regulations, and
+
+1.3.4.2.b.ii
+
+on the day concerned any conditions prescribed by the Welsh Ministers in
+regulations are satisfied.
+
+1.3.4.3
+
+If a ratepayer makes an application in order to satisfy a condition prescribed
+under  sub-paragraph (2) (a)  and the ratepayer—
+
+1.3.4.3.a
+
+makes a statement in the application which the ratepayer knows to be false in
+a material particular, or
+
+1.3.4.3.b
+
+recklessly makes a statement in the application which is false in a material
+particular,
+
+the ratepayer is liable on summary conviction to imprisonment for a term not
+exceeding 3 months or to a fine not exceeding level 3 on the standard scale or
+to both.
+
+############ Full reliefs
+
+############# Introduction
+
+1.3.5
+
+Where any paragraph of this Part of this Schedule applies in relation to a
+hereditament on a chargeable day, the chargeable amount for the day concerned
+is zero.
+
+############# Heat networks rate relief
+
+1.3.6
+
+1.3.6.1
+
+This paragraph applies where—
+
+1.3.6.1.a
+
+on the day concerned the hereditament is wholly or mainly used for the
+purposes of a heat network,
+
+1.3.6.1.b
+
+on the day concerned any conditions prescribed by the appropriate national
+authority in regulations are satisfied, and
+
+1.3.6.1.c
+
+the day concerned falls before 1 April 2035.
+
+1.3.6.2
+
+“ Heat network ” has the meaning given in regulations by the appropriate
+national authority.
+
+1.3.6.3
+
+The appropriate national authority may by regulations amend  paragraph (c)  of
+sub-paragraph (1)  to substitute a later date for the date for the time being
+specified in that paragraph.
+
+############# Public lavatories rate relief
+
+1.3.7
+
+This paragraph applies where, on the day concerned, the hereditament consists
+wholly or mainly of public lavatories.
+
+############# Rural rate relief
+
+1.3.8
+
+1.3.8.1
+
+This paragraph applies where—
+
+1.3.8.1.a
+
+the hereditament is situated in England,
+
+1.3.8.1.b
+
+on the day concerned the hereditament is within a settlement identified in the
+billing authority’s rural settlement list for the chargeable financial year,
+
+1.3.8.1.c
+
+at the beginning of that year, A, in relation to the hereditament, is not more
+than any amount prescribed by the Secretary of State in regulations, and
+
+1.3.8.1.d
+
+on the day concerned—
+
+1.3.8.1.d.i
+
+the whole or part of the hereditament is used as a qualifying post office, a
+qualifying general store or a qualifying food store, or
+
+1.3.8.1.d.ii
+
+any conditions prescribed by the Secretary of State in regulations are
+satisfied.
+
+1.3.8.2
+
+Sub-paragraphs (3)  to  (7)  apply for the purposes of  sub-paragraph (1) .
+
+1.3.8.3
+
+A hereditament, or part of a hereditament, is used as a qualifying post office
+on any day in a chargeable financial year if—
+
+1.3.8.3.a
+
+it is used for the purposes of a universal service provider (within the
+meaning of Part 3 of the Postal Services Act 2011) and in connection with the
+provision of a universal postal service (within the meaning of that Part), and
+
+1.3.8.3.b
+
+no other hereditament, or part of a hereditament, in the settlement concerned
+is so used.
+
+1.3.8.4
+
+A hereditament, or part of a hereditament, is used as a qualifying general
+store on any day in a chargeable financial year if—
+
+1.3.8.4.a
+
+a trade or business consisting wholly or mainly of the sale by retail of both
+food for human consumption (excluding confectionery) and general household
+goods is carried on there, and
+
+1.3.8.4.b
+
+such a trade or business is not carried on in any other hereditament, or part
+of a hereditament, in the settlement concerned.
+
+1.3.8.5
+
+A hereditament, or part of a hereditament, is used as a qualifying food store
+on any day in a chargeable financial year if a trade or business consisting
+wholly or mainly of the sale by retail of food for human consumption
+(excluding confectionery and excluding the supply of food in the course of
+catering) is carried on there.
+
+1.3.8.6
+
+The supply of food in the course of catering includes—
+
+1.3.8.6.a
+
+any supply of food for consumption on the premises on which it is supplied, or
+
+1.3.8.6.b
+
+any supply of hot food for consumption off those premises.
+
+1.3.8.7
+
+“ Hot food ” means food which, or any part of which—
+
+1.3.8.7.a
+
+has been heated for the purposes of enabling it to be consumed at a
+temperature above the ambient air temperature, and
+
+1.3.8.7.b
+
+is at the time of supply above that temperature.
+
+1.3.8.8
+
+Where a hereditament or part of a hereditament is used as a qualifying post
+office or qualifying general store on any day in a chargeable financial year,
+it is not to be treated as ceasing to be so used on any subsequent day in that
+year merely because the condition in  sub-paragraph (3) (b)  or  (4) (b)
+ceases to be satisfied.
+
+############ Cases where more than one relief applies
+
+1.3.9
+
+In relation to any hereditament in respect of which the paragraphs of this
+Schedule mentioned in the first column of the following table apply on the day
+concerned, the chargeable amount is to be calculated in accordance with the
+corresponding paragraph in the second column of the table—
+
+    Paragraphs having effect in relation to hereditament Paragraph to be used
+for calculating chargeable amount   Paragraphs  2  and  4 Paragraph  2
+Paragraph  6  and any of  2  or  4 Paragraph  6 Paragraph  7  and any of  2
+or  4 Paragraph  7 Paragraph  8  and any of  2  or  4 Paragraph  8
+
+############ Interpretation
+
+1.3.10
+
+1.3.10.1
+
+This paragraph applies for the purposes of this Schedule.
+
+1.3.10.2
+
+“A” is—
+
+1.3.10.2.a
+
+where the day concerned is a day on which  paragraph 3  applies, the rateable
+value shown for the day under section 42(4) as regards the hereditament minus
+G;
+
+1.3.10.2.b
+
+in any other case, the rateable value shown for the day under section 42(4) as
+regards the hereditament.
+
+1.3.10.3
+
+“B” is—
+
+1.3.10.3.a
+
+in a case where the billing authority is a special authority, the authority’s
+non-domestic rating multiplier for the financial year;
+
+1.3.10.3.b
+
+in any other case, the non-domestic rating multiplier for the financial year.
+
+1.3.10.4
+
+“C” is the number of days in the financial year.
+
+1.3.10.5
+
+“D” is—
+
+1.3.10.5.a
+
+in a case where the billing authority is a special authority, the authority’s
+small business non-domestic rating multiplier for the financial year;
+
+1.3.10.5.b
+
+in any other case, the small business non-domestic rating multiplier for the
+financial year.
+
+1.3.10.6
+
+“ E ”, in relation to small business rate relief, is an amount prescribed, or
+calculated in accordance with provision prescribed, by the appropriate
+national authority in regulations.
+
+1.3.10.7
+
+“ G ”, in relation to improvement rate relief, is an amount prescribed, or
+calculated in accordance with provision prescribed, by the appropriate
+national authority in regulations.
+
+1.3.10.8
+
+Regulations under  sub-paragraph (7)  may (among other things) impose duties
+or confer powers on the valuation officer for a billing authority (whether as
+regards determinations, certificates or otherwise) in relation to the
+ascertainment of rateable values or of G.
+
+1.3.10.9
+
+“M” is—
+
+1.3.10.9.a
+
+whichever of B or D is prescribed for the purposes of the provision in
+question by the Treasury in regulations, or
+
+1.3.10.9.b
+
+for the purposes of a provision where there is no such prescription—
+
+1.3.10.9.b.i
+
+if that provision is  paragraph 4 (1) (a) , D, or
+
+1.3.10.9.b.ii
+
+for any other provision, B.
+
+1.3.10.10
+
+Regulations under  sub-paragraph (9)  may prescribe different multipliers for
+a given provision by reference to (among other things)—
+
+1.3.10.10.a
+
+the value of A (on the first day of a chargeable financial year or for a
+chargeable day) in relation to hereditaments;
+
+1.3.10.10.b
+
+the location of hereditaments;
+
+1.3.10.10.c
+
+the local non-domestic rating list in which hereditaments are shown;
+
+1.3.10.10.d
+
+the use of hereditaments;
+
+1.3.10.10.e
+
+the physical characteristics of hereditaments;
+
+1.3.10.10.f
+
+ratepayers in respect of hereditaments falling within prescribed descriptions.
+
+1.3.10.11
+
+Sub-paragraph (10)  does not restrict what may otherwise be done under section
+143(1).
+
+1.3.11
+
+For the purposes of this Schedule, “the appropriate national authority” is—
+
+1.3.11.a
+
+in relation to England, the Secretary of State;
+
+1.3.11.b
+
+in relation to Wales, the Welsh Ministers.
+
+#### Local rating: liability and mandatory reliefs for unoccupied hereditaments
+
+2
+
+2.1
+
+In section 45 of the Act (unoccupied hereditaments: liability)—
+
+2.1.a
+
+in the heading, after “liability” insert  “and reliefs” ;
+
+2.1.b
+
+in subsection (2), in paragraph (a), after “chargeable day” insert  “in
+accordance with  Schedule 4ZB ” ;
+
+2.1.c
+
+omit subsections (4) to (4G).
+
+2.2
+
+Omit section 45A of the Act (unoccupied hereditaments: zero-rating).
+
+2.3
+
+Omit section 46 of the Act (unoccupied hereditaments: supplementary).
+
+2.4
+
+After Schedule 4ZA to the Act (inserted by  section 1 (3)  of this Act)
+insert—
+
+  Unoccupied hereditaments: chargeable amount
+
+Section 45
+
+############ Chargeable amount before any reliefs
+
+2.4.1
+
+2.4.1.1
+
+Subject to the following provisions of this Schedule, the chargeable amount
+for a chargeable day is to be calculated—
+
+2.4.1.1.a
+
+in relation to England, in accordance with the formula—
+
+A × M C
+
+2.4.1.1.b
+
+in relation to Wales, in accordance with the formula—
+
+A × B C
+
+2.4.1.2
+
+But—
+
+2.4.1.2.a
+
+the Secretary of State may by regulations provide that  sub-paragraph (1) (a)
+has effect as if the following formula were substituted—
+
+A × M C × N
+
+2.4.1.2.b
+
+the Welsh Ministers may by regulations provide that  sub-paragraph (1) (b)
+has effect as if the following formula were substituted—
+
+A × B C × N
+
+############ Full relief
+
+############# Charitable rate relief
+
+2.4.2
+
+2.4.2.1
+
+Where this paragraph applies, the chargeable amount for a chargeable day is
+zero.
+
+2.4.2.2
+
+This paragraph applies where, on the day concerned—
+
+2.4.2.2.a
+
+the ratepayer is a charity or trustees for a charity and it appears that when
+next in use the hereditament will be wholly or mainly used for charitable
+purposes (whether of that charity or of that and other charities), or
+
+2.4.2.2.b
+
+the ratepayer is a registered club for the purposes of Chapter 9 of Part 13 of
+the Corporation Tax Act 2010 (community amateur sports clubs) and it appears
+that when next in use—
+
+2.4.2.2.b.i
+
+the hereditament will be wholly or mainly used for the purposes of that club
+and that club will be such a registered club, or
+
+2.4.2.2.b.ii
+
+the hereditament will be wholly or mainly used for the purposes of two or more
+clubs including that club, and each of those clubs will be such a registered
+club.
+
+############ Interpretation
+
+2.4.3
+
+2.4.3.1
+
+This paragraph applies for the purposes of this Schedule.
+
+2.4.3.2
+
+“A” is the rateable value shown for the day under section 42(4) as regards the
+hereditament.
+
+2.4.3.3
+
+“B” is—
+
+2.4.3.3.a
+
+in a case where the billing authority is a special authority, the authority’s
+non-domestic rating multiplier for the financial year;
+
+2.4.3.3.b
+
+in any other case, the non-domestic rating multiplier for the financial year.
+
+2.4.3.4
+
+“C” is the number of days in the financial year.
+
+2.4.3.5
+
+“D” is—
+
+2.4.3.5.a
+
+in a case where the billing authority is a special authority, the authority’s
+small business non-domestic rating multiplier for the financial year;
+
+2.4.3.5.b
+
+in any other case, the small business non-domestic rating multiplier for the
+financial year.
+
+2.4.3.6
+
+“M” is—
+
+2.4.3.6.a
+
+whichever of B or D is prescribed for the purposes of the provision in
+question by the Treasury in regulations, or
+
+2.4.3.6.b
+
+for the purposes of a provision where there is no such prescription, B.
+
+2.4.3.7
+
+Regulations under  sub-paragraph (6)  may prescribe different multipliers for
+a given provision by reference to (among other things)—
+
+2.4.3.7.a
+
+the value of A (on the first day of a chargeable financial year or for a
+chargeable day) in relation to hereditaments;
+
+2.4.3.7.b
+
+the location of hereditaments;
+
+2.4.3.7.c
+
+the local non-domestic rating list in which hereditaments are shown;
+
+2.4.3.7.d
+
+the use of hereditaments;
+
+2.4.3.7.e
+
+the physical characteristics of hereditaments;
+
+2.4.3.7.f
+
+ratepayers in respect of hereditaments falling within prescribed descriptions.
+
+2.4.3.8
+
+Sub-paragraph (7)  does not restrict what may otherwise be done under section
+143(1).
+
+2.4.3.9
+
+“N” is a number (greater than one but not greater than two) prescribed by the
+appropriate national authority in regulations.
+
+2.4.4
+
+For the purposes of this Schedule, “the appropriate national authority” is—
+
+2.4.4.a
+
+in relation to England, the Secretary of State;
+
+2.4.4.b
+
+in relation to Wales, the Welsh Ministers.
+
+#### Central rating: liability and mandatory reliefs
+
+3
+
+3.1
+
+In section 54 of the Act (central rating: liability)—
+
+3.1.a
+
+in the heading, after “liability” insert  “and reliefs” ;
+
+3.1.b
+
+in subsection (2), in paragraph (a), after “chargeable day” insert  “in
+accordance with  Schedule 5A ” ;
+
+3.1.c
+
+omit subsections (4) to (7).
+
+3.2
+
+Omit section 54ZA of the Act (relief for telecommunications infrastructure).
+
+3.3
+
+After Schedule 5 to the Act insert—
+
+  Central rating: chargeable amount
+
+Section 54
+
+############ Chargeable amount before any reliefs
+
+3.3.1
+
+Subject to the following provisions of this Schedule, the chargeable amount
+for a chargeable day is to be calculated—
+
+3.3.1.a
+
+in relation to England, in accordance with the formula—
+
+A × M C
+
+3.3.1.b
+
+in relation to Wales, in accordance with the formula—
+
+A × B C
+
+############ Reliefs
+
+############# Charitable rate relief
+
+3.3.2
+
+3.3.2.1
+
+This paragraph applies where—
+
+3.3.2.1.a
+
+for any day in a chargeable financial year a person’s name is shown in a
+central non-domestic rating list in force for the year, and
+
+3.3.2.1.b
+
+on the day concerned—
+
+3.3.2.1.b.i
+
+the person is a charity or trustees for a charity, and
+
+3.3.2.1.b.ii
+
+the charitable purpose test is satisfied in relation to any description of
+hereditament shown against the person’s name in the list.
+
+3.3.2.2
+
+For the purposes of  sub-paragraph (1) (b)  the charitable purpose test is
+satisfied in relation to a description of hereditament if—
+
+3.3.2.2.a
+
+in a case where there is only one hereditament falling within the description,
+the hereditament is wholly or mainly used for charitable purposes (whether of
+the charity mentioned in  sub-paragraph (1) (b) (i)  or of that charity and
+other charities), or
+
+3.3.2.2.b
+
+in a case where there is more than one hereditament falling within the
+description, those hereditaments are, taken together, wholly or mainly so
+used.
+
+3.3.2.3
+
+For the purposes of  sub-paragraph (1) (b)  the charitable purpose test is
+also satisfied in relation to a description of hereditament if—
+
+3.3.2.3.a
+
+in a case where there is only one hereditament falling within the description—
+
+3.3.2.3.a.i
+
+a certification under  paragraph 4 (1) (b)  has effect in relation to the
+hereditament (“the unoccupied hereditament”), and
+
+3.3.2.3.a.ii
+
+it appears that when next in use the unoccupied hereditament will be wholly or
+mainly used for charitable purposes (whether of the charity mentioned in  sub-
+paragraph (1) (b) (i)  or of that charity and other charities), or
+
+3.3.2.3.b
+
+in a case where there is more than one hereditament falling within the
+description—
+
+3.3.2.3.b.i
+
+a certification under  paragraph 4 (1) (b)  has effect in relation to at least
+one of those hereditaments (“the unoccupied hereditaments”), and
+
+3.3.2.3.b.ii
+
+it appears that all the hereditaments falling within the description, taken
+together, are (or, in the case of the unoccupied hereditaments, when next in
+use will be) used for charitable purposes (whether of the charity mentioned in
+sub-paragraph (1) (b) (i)  or of that charity and other charities).
+
+3.3.2.4
+
+Where this paragraph applies, the chargeable amount for the day concerned in
+respect of the description of hereditament is to be calculated—
+
+3.3.2.4.a
+
+in relation to England, in accordance with the formula—
+
+A × M C × 5
+
+3.3.2.4.b
+
+in relation to Wales, in accordance with the formula—
+
+A × B C × 5
+
+############# Improvement rate relief
+
+3.3.3
+
+3.3.3.1
+
+This paragraph applies where—
+
+3.3.3.1.a
+
+for any day in a chargeable financial year a person's name is shown in a
+central non-domestic rating list in force for the year,
+
+3.3.3.1.b
+
+on the day concerned the condition in  sub-paragraph (2)  is satisfied in
+relation to one or more hereditaments falling within a description of
+hereditament shown against the person’s name in the list,
+
+3.3.3.1.c
+
+in relation to any of the hereditaments in relation to which that condition is
+satisfied—
+
+3.3.3.1.c.i
+
+a certification under  paragraph 4 (1) (b)  does not have effect in relation
+to the hereditament, and
+
+3.3.3.1.c.ii
+
+any conditions prescribed by the appropriate national authority in regulations
+are satisfied, and
+
+3.3.3.1.d
+
+the day concerned falls before 1 April 2029.
+
+3.3.3.2
+
+The condition in this sub-paragraph is satisfied in relation to a hereditament
+if the day concerned falls within the period of one year beginning with the
+day on which qualifying improvement works are completed.
+
+3.3.3.3
+
+“ Qualifying improvement works ” has the meaning given by the appropriate
+national authority in regulations.
+
+3.3.3.4
+
+The appropriate national authority may by regulations amend—
+
+3.3.3.4.a
+
+paragraph (d)  of  sub-paragraph (1)  to substitute a later date for the date
+for the time being specified in that paragraph;
+
+3.3.3.4.b
+
+sub-paragraph (2)  to substitute a longer period for the period for the time
+being specified in that paragraph.
+
+3.3.3.5
+
+For the consequence of this paragraph applying, see the definitions of “A” and
+“G” in  paragraph 6 .
+
+############# Unoccupied hereditaments rate relief
+
+3.3.4
+
+3.3.4.1
+
+This paragraph applies where for any day in a chargeable financial year—
+
+3.3.4.1.a
+
+a person’s name is shown in an English central non-domestic rating list in
+force for the year,
+
+3.3.4.1.b
+
+the central valuation officer has certified that one or more hereditaments
+falling within a description of hereditament shown against the person’s name
+in the list is unoccupied, and
+
+3.3.4.1.c
+
+any of the hereditaments so certified falls within a class prescribed by the
+Secretary of State in regulations.
+
+3.3.4.2
+
+This sub-paragraph applies if, for the day concerned, every hereditament
+falling within that description of hereditament—
+
+3.3.4.2.a
+
+has been certified by the central valuation officer as unoccupied, and
+
+3.3.4.2.b
+
+falls within a class prescribed by the Secretary of State in regulations under
+sub-paragraph (1) (c) .
+
+3.3.4.3
+
+Where this paragraph and  sub-paragraph (2)  apply, the chargeable amount for
+the day concerned in respect of that description of hereditament is zero.
+
+3.3.4.4
+
+Where this paragraph applies but  sub-paragraph (2)  does not apply, the
+chargeable amount for the day concerned in respect of that description of
+hereditament is to be calculated in accordance with the formula—
+
+( A - U ) × M C
+
+3.3.4.5
+
+Regulations under  sub-paragraph (1) (c)  may prescribe a class by reference
+to such factors as the Secretary of State sees fit, including (among other
+things)—
+
+3.3.4.5.a
+
+the physical characteristics of the hereditaments;
+
+3.3.4.5.b
+
+the fact that hereditaments have been unoccupied at any time preceding the
+chargeable day;
+
+3.3.4.5.c
+
+the fact that the persons in relation to whom descriptions of hereditaments
+are shown fall within prescribed descriptions.
+
+3.3.4.6
+
+Sub-paragraph (5)  does not restrict what may otherwise be done under section
+143(1).
+
+3.3.4.7
+
+The Secretary of State may by regulations make provision imposing duties or
+conferring powers on the central valuation officer in relation to the
+certification of hereditaments as unoccupied.
+
+3.3.4.8
+
+In this paragraph, “ English central rating list ” means a central non-
+domestic rating list compiled for England.
+
+############ Cases where more than one relief applies
+
+3.3.5
+
+3.3.5.1
+
+This paragraph applies if—
+
+3.3.5.1.a
+
+for any day in a financial year any description of hereditament is shown
+against a person’s name in a central non-domestic rating list in force for the
+year, and
+
+3.3.5.1.b
+
+paragraphs  2  and  4  apply in relation to that description of hereditament
+for that day.
+
+3.3.5.2
+
+The chargeable amount for that day in respect of that description of
+hereditament is to be calculated in accordance with paragraph  2 .
+
+############ Interpretation
+
+3.3.6
+
+3.3.6.1
+
+This paragraph applies for the purposes of this Schedule.
+
+3.3.6.2
+
+“A” is—
+
+3.3.6.2.a
+
+where the day concerned is a day on which  paragraph 3  applies, the rateable
+value shown for the day in the central non-domestic rating list in force for
+the year against the ratepayer’s name minus G;
+
+3.3.6.2.b
+
+in any other case, the rateable value shown for the day in that list against
+the ratepayer’s name.
+
+3.3.6.3
+
+“B” is the non-domestic rating multiplier for the financial year.
+
+3.3.6.4
+
+“C” is the number of days in the financial year.
+
+3.3.6.5
+
+“D” is the small business non-domestic rating multiplier for the financial
+year.
+
+3.3.6.6
+
+“ G ”, in relation to improvement rate relief, is an amount prescribed, or
+calculated in accordance with provision prescribed, by the appropriate
+national authority in regulations.
+
+3.3.6.7
+
+Regulations under  sub-paragraph (6)  may (among other things) impose duties
+or confer powers on the central valuation officer (whether as regards
+determinations, certificates or otherwise) in relation to the ascertainment of
+rateable values or of G.
+
+3.3.6.8
+
+“M” is—
+
+3.3.6.8.a
+
+whichever of B or D is prescribed for the purposes of the provision in
+question by the Treasury in regulations, or
+
+3.3.6.8.b
+
+for the purposes of a provision where there is no such prescription, B.
+
+3.3.6.9
+
+Regulations under  sub-paragraph (8)  may prescribe different multipliers for
+a given provision by reference to (among other things)—
+
+3.3.6.9.a
+
+the value of A (on the first day of a chargeable financial year or for a
+chargeable day) in relation to hereditaments;
+
+3.3.6.9.b
+
+the location of hereditaments;
+
+3.3.6.9.c
+
+the use of hereditaments;
+
+3.3.6.9.d
+
+the physical characteristics of hereditaments;
+
+3.3.6.9.e
+
+ratepayers in respect of hereditaments falling within prescribed descriptions.
+
+3.3.6.10
+
+Sub-paragraph (9)  does not restrict what may otherwise be done under section
+143(1).
+
+3.3.6.11
+
+“ U ”, in relation to unoccupied hereditaments rate relief, is the total
+rateable value of the hereditaments falling within the description mentioned
+in  paragraph 4 (1) (b)  which, for the chargeable day—
+
+3.3.6.11.a
+
+have been certified by the central valuation officer as unoccupied under that
+paragraph, and
+
+3.3.6.11.b
+
+fall within a class prescribed by the Secretary of State in regulations under
+paragraph 4 (1) (c) .
+
+3.3.7
+
+For the purposes of this Schedule, “the appropriate national authority” is—
+
+3.3.7.a
+
+in relation to England, the Secretary of State;
+
+3.3.7.b
+
+in relation to Wales, the Welsh Ministers.
+
+### Discretionary relief
+
+#### Local rating: discretionary relief
+
+4
+
+4.1
+
+Section 47 of the Act (discretionary relief) is amended as follows.
+
+4.2
+
+After subsection (6) insert—
+
+4.2.6A
+
+A decision under subsection (3) by a billing authority in England is invalid
+as regards a day if—
+
+4.2.6A.a
+
+the day falls before the end of the financial year beginning on 1 April 2022,
+and
+
+4.2.6A.b
+
+the decision is made more than six months after the end of the financial year
+in which the day falls.
+
+4.3
+
+In subsection (7), after “above” insert  “by a billing authority in Wales” .
+
+### Administration etc
+
+#### Frequency with which lists are compiled
+
+5
+
+5.1
+
+In section 41(2A) of the Act (local non-domestic rating lists), in paragraph
+(b), for “fifth” substitute  “third” .
+
+5.2
+
+In section 52(2A) of the Act (central non-domestic rating lists), in paragraph
+(b), for “fifth” substitute  “third” .
+
+5.3
+
+In section 57A(13) of the Act (transitional provision for 2005 onwards:
+England), for paragraph (a) substitute—
+
+5.3.a
+
+a relevant period is—
+
+5.3.a.i
+
+each period of five years beginning on 1 April 2005, 1 April 2010 and 1 April
+2017, and
+
+5.3.a.ii
+
+a period of three years beginning on 1 April 2023 or on any 1 April after that
+date on which lists must be compiled;
+
+.
+
+#### Transitional relief
+
+6
+
+In section 57A of the Act (transitional provision for 2005 onwards: England)—
+
+6.a
+
+in subsection (9), for “January” substitute  “February” ;
+
+6.b
+
+in subsection (10), for “the same as” substitute  “no greater than” .
+
+#### Completion notices
+
+7
+
+In section 46A of the Act (unoccupied hereditaments: new buildings), in
+subsection (6), in paragraph (b)—
+
+7.a
+
+the words from “a building” to the end become sub-paragraph (i);
+
+7.b
+
+after that sub-paragraph insert
+
+;
+
+7.b.ii
+
+a building situated in England which a hereditament shown in a list comprises
+or includes, or which a hereditament that was previously shown (but is no
+longer shown) in a list comprised or included, and that has been subject to
+alterations;
+
+7.b.iii
+
+part of a building situated in England and added to an existing building which
+a hereditament shown in a list comprises or includes or which a hereditament
+that was previously shown (but is no longer shown) in a list comprised or
+included.
+
+#### Central list administration
+
+8
+
+After section 52 of the Act insert—
+
+######## Contents of central lists for England
+
+8.52A
+
+8.52A.1
+
+The Secretary of State may direct the central valuation officer to show in an
+English central rating list, for each day in each chargeable financial year
+for which the list is in force—
+
+8.52A.1.a
+
+the name of any specified person, and
+
+8.52A.1.b
+
+in relation to that person, one or more specified descriptions of relevant
+non-domestic hereditament in England (wherever situated) which on that day are
+occupied or (if unoccupied) owned by the person.
+
+8.52A.2
+
+The Secretary of State may also direct the central valuation officer to do any
+of the following in relation to an English central rating list—
+
+8.52A.2.a
+
+for each day in each chargeable financial year for which the list is in force,
+to show, in relation to any person shown in the list, one or more additional
+specified descriptions of relevant non-domestic hereditament in England
+(wherever situated) which on that day are occupied or (if unoccupied) owned by
+the person;
+
+8.52A.2.b
+
+to alter or remove the name of any person shown in the list;
+
+8.52A.2.c
+
+to alter or remove any description of relevant non-domestic hereditament shown
+in relation to a person in the list.
+
+8.52A.3
+
+In this section—
+
+      “ English central rating list ” means a central non-domestic rating list
+compiled, or proposed to be compiled, for England;           “ specified ”
+means specified in the direction.
+
+8.52A.4
+
+Where two or more hereditaments fall (or would, as a result of a direction
+made under this section, fall) within any description of hereditament shown in
+relation to a person in an English central rating list, the Secretary of State
+may direct that all of the hereditaments that fall (or would fall) within that
+description are to be treated for the purposes of this Part as a single
+hereditament falling within that description that is occupied or (if
+unoccupied) owned by the person.
+
+8.52A.5
+
+For each day in each chargeable financial year for which an English central
+rating list is in force, and in relation to each description of hereditament
+shown in relation to a person in the list, the list must show against the name
+of the person—
+
+8.52A.5.a
+
+where there is only one hereditament falling within that description, the
+rateable value of that hereditament;
+
+8.52A.5.b
+
+where there is more than one hereditament falling within that description, the
+rateable value (as a whole) of those hereditaments.
+
+8.52A.6
+
+A direction under this section may require the central valuation officer to
+include in an English central rating list specified information about any
+person, or any description of hereditament, shown in the list.
+
+8.52A.7
+
+The central valuation officer must comply with any direction given under this
+section.
+
+8.52A.8
+
+But where a direction under this section requires the central valuation
+officer to alter a list which has been compiled, the officer must do so in
+accordance with any provision made by or under section 55 (alteration of
+lists).
+
+8.52A.9
+
+A direction under this section must specify the day from which an alteration
+to the list made in compliance with the direction is to take effect (which may
+be earlier than the day on which the direction is given).
+
+8.52A.10
+
+But a direction may not specify an earlier day than the day on which this
+section comes into force.
+
+#### Credits to and debits from main non-domestic rating accounts
+
+9
+
+9.1
+
+In Schedule 7B to the Act (local retention of non-domestic rates), in Part 1
+(main non-domestic rating accounts), paragraph 2 (credits and debits) is
+amended as follows.
+
+9.2
+
+For sub-paragraphs (3) and (4) substitute—
+
+9.2.3
+
+If a local government finance report for a year has been approved by
+resolution of the House of Commons, an amount may be—
+
+9.2.3.a
+
+debited (as an item of account) to the main non-domestic rating account kept
+for the year, for use for the purposes of local government in England;
+
+9.2.3.b
+
+credited (as an item of account) to the main non-domestic rating account kept
+for the year.
+
+9.2.4
+
+The amount that may be debited under  sub-paragraph (3) (a)  for a year may
+not exceed the amount that would result in the aggregate mentioned in
+paragraph 3(1)(b) for the year exceeding the aggregate mentioned in paragraph
+3(1)(a) for the year.
+
+9.3
+
+In sub-paragraph (5), in the words before paragraph (a), for “sub-paragraph
+(3)” substitute  “ sub-paragraph (3) (a) ” .
+
+### Information
+
+#### Disclosure of valuation information to ratepayers
+
+10
+
+In Schedule 9 to the Act (administration), before paragraph 8 (but after the
+italic heading “access to information”) insert—
+
+10.7B
+
+10.7B.1
+
+Sub-paragraph (2)  applies where a person (“ P ”) who is a ratepayer in
+respect of a hereditament makes a request to a valuation officer (“ V ”) for
+Revenue and Customs information—
+
+10.7B.1.a
+
+that relates to the hereditament, and
+
+10.7B.1.b
+
+that V has had regard to in ascertaining the rateable value of the
+hereditament.
+
+10.7B.2
+
+V may disclose the information to P if V considers it reasonable to do so.
+
+10.7B.3
+
+A person making a request under this paragraph must make the request—
+
+10.7B.3.a
+
+using the online facility provided by V for use in connection with requests
+under this paragraph, or
+
+10.7B.3.b
+
+in another manner agreed with V.
+
+10.7B.4
+
+V may not disclose information under this paragraph if the disclosure would
+contravene the data protection legislation (but in determining whether a
+disclosure would do so, the power conferred by this paragraph is to be taken
+into account).
+
+10.7B.5
+
+In this paragraph—
+
+      “ the data protection legislation ” has the same meaning as in the Data
+Protection Act 2018 (see section 3(9) of that Act);           “ Revenue and
+Customs information ” means information held as mentioned in section 18(1) of
+the Commissioners for Revenue and Customs Act 2005 (information held in
+connection with a function of the Revenue and Customs).
+
+#### Disclosure of valuation information to Northern Ireland rating officials
+
+11
+
+After section 63C of the Act insert—
+
+######## Disclosure of valuation information to Northern Ireland rating officials
+
+11.63D
+
+11.63D.1
+
+Subsection (2)  applies where a Northern Ireland rating official (“ R ”) makes
+a request to a valuation officer (“ V ”) for Revenue and Customs information—
+
+11.63D.1.a
+
+that V holds in connection with V’s functions under this Part, and
+
+11.63D.1.b
+
+that R reasonably believes will assist R in the performance of any of R’s
+functions under Part 3 of the 1977 Order (valuation).
+
+11.63D.2
+
+V may disclose the information to R if V considers it reasonable to do so.
+
+11.63D.3
+
+Subject to  subsection (4) , the disclosure of information under this section
+does not breach—
+
+11.63D.3.a
+
+any obligation of confidence owed by V, or
+
+11.63D.3.b
+
+any other restriction on the disclosure of information (however imposed).
+
+11.63D.4
+
+V may not disclose information under this section if the disclosure would
+contravene the data protection legislation (but in determining whether a
+disclosure would do so, the power conferred by this section is to be taken
+into account).
+
+11.63D.5
+
+Where information is disclosed under this section, the information may not be—
+
+11.63D.5.a
+
+used for a purpose other than a purpose relating to the performance of any of
+R’s functions under Part 3 of the 1977 Order, or
+
+11.63D.5.b
+
+further disclosed,
+
+unless the use of the information for another purpose or the further
+disclosure (as the case may be) is authorised by  subsection (6) .
+
+11.63D.6
+
+The use of the information for another purpose or the further disclosure (as
+the case may be) is authorised by this subsection where—
+
+11.63D.6.a
+
+the Commissioners for His Majesty’s Revenue and Customs consent (specifically
+or generally) to it,
+
+11.63D.6.b
+
+each person to whom the information relates consents (specifically or
+generally) to it,
+
+11.63D.6.c
+
+it is in pursuance of a court order, or
+
+11.63D.6.d
+
+it is required by any other enactment.
+
+11.63D.7
+
+In  subsection (6) (d) , the reference to an enactment does not include—
+
+11.63D.7.a
+
+an Act of the Scottish Parliament or an instrument made under such an Act,
+
+11.63D.7.b
+
+an Act or Measure of Senedd Cymru or an instrument made under such an Act or
+Measure, or
+
+11.63D.7.c
+
+an Act of the Northern Ireland Assembly or an instrument made under such an
+Act.
+
+11.63D.8
+
+Section 19 of the Commissioners for Revenue and Customs Act 2005 (offence of
+wrongful disclosure) applies in relation to a disclosure of information in
+contravention of  subsection (5)  which relates to a person whose identity is
+specified in, or can be deduced from, the disclosure as it applies in relation
+to the disclosure of information in contravention of section 20(9) of that
+Act.
+
+11.63D.9
+
+Revenue and customs information relating to a person which has been disclosed
+under this section is exempt information by virtue of section 44(1)(a) of the
+Freedom of Information Act 2000 (prohibition on disclosure) if its further
+disclosure—
+
+11.63D.9.a
+
+would specify the identity of the person to whom the information relates, or
+
+11.63D.9.b
+
+would enable the identity of such a person to be deduced.
+
+11.63D.10
+
+In this section—
+
+      “ the 1977 Order ” means the Rates (Northern Ireland) Order 1977 ( S.I.
+1977/2157 (N.I. 28)) ;           “ the data protection legislation ” has the
+same meaning as in the Data Protection Act 2018 (see section 3(9) of that
+Act);           “ Northern Ireland rating official ” means an officer
+appointed under Article 36 of the 1977 Order (the Commissioner, district
+valuers and the Valuation Office);           “ Revenue and Customs information
+” means information held as mentioned in section 18(1) of the Commissioners
+for Revenue and Customs Act 2005 (information held in connection with a
+function of the Revenue and Customs);           “ revenue and customs
+information relating to a person ” has the same meaning as in section 19(2) of
+the Commissioners for Revenue and Customs Act 2005.
+
+#### Sharing of information between billing authorities and HMRC
+
+12
+
+12.1
+
+In section 63A of the Act (disclosure of Revenue and Customs information),
+after subsection (1) insert—
+
+12.1.1A
+
+An officer of His Majesty’s Revenue and Customs may disclose Revenue and
+Customs information to a qualifying person within subsection (3)(a) for a
+qualifying purpose.
+
+12.2
+
+After  section 63D  of the Act (inserted by  section 11  of this Act) insert—
+
+########## Disclosure of non-domestic rating information to HMRC
+
+12.2.63E
+
+12.2.63E.1
+
+A billing authority may disclose non-domestic rating information to an officer
+of His Majesty’s Revenue and Customs for the purpose of assisting His
+Majesty’s Revenue and Customs in carrying out its functions.
+
+12.2.63E.2
+
+An officer of His Majesty’s Revenue and Customs may require a billing
+authority to disclose non-domestic rating information to the officer for that
+purpose.
+
+12.2.63E.3
+
+No disclosure may be made under this section if the disclosure would
+contravene the data protection legislation (but in determining whether a
+disclosure would do so, the power and duty to disclose information under this
+section are to be taken into account).
+
+12.2.63E.4
+
+In this section—
+
+      “ non-domestic rating information ” means information held by a billing
+authority in connection with the billing authority’s functions under this
+Part;           “ the data protection legislation ” has the same meaning as in
+the Data Protection Act 2018 (see section 3(9) of that Act).
+
+#### Requirements for ratepayers etc to provide information
+
+13
+
+13.1
+
+Schedule 9 to the Act (administration) is amended as follows.
+
+13.2
+
+After paragraph 4A insert—
+
+########## Information to be provided to His Majesty’s Revenue and Customs
+
+13.2.4B
+
+Paragraphs 4C  to  4E  apply to a person (“ P ”) who is for the time being a
+ratepayer in respect of a hereditament (but see  paragraph 4G ).
+
+13.2.4C
+
+P must make a taxpayer reference notification to an officer of His Majesty’s
+Revenue and Customs where P has a taxpayer reference number and—
+
+13.2.4C.a
+
+P has not previously made a notification in respect of the hereditament
+mentioned in  paragraph 4B , or
+
+13.2.4C.b
+
+P has previously made such a notification and a taxpayer reference provided in
+that notification was, or has become, incorrect.
+
+13.2.4D
+
+P must make a taxpayer reference notification within the period of 60 days
+beginning with—
+
+13.2.4D.a
+
+in the circumstances mentioned in  paragraph 4C (a) , the day on which P
+becomes a ratepayer in respect of the hereditament mentioned in  paragraph 4B
+;
+
+13.2.4D.b
+
+in the circumstances mentioned in  paragraph 4C (b) , the first day on which P
+knows, or ought to have known, that the taxpayer reference mentioned in that
+paragraph is incorrect.
+
+13.2.4E
+
+For the purposes of  paragraph 4C , P must make a taxpayer reference
+notification—
+
+13.2.4E.a
+
+using the online facility provided by the officer of His Majesty’s Revenue and
+Customs for use in connection with the provision of a taxpayer reference under
+that paragraph, or
+
+13.2.4E.b
+
+in another manner agreed with the officer.
+
+13.2.4F
+
+13.2.4F.1
+
+For the purposes of  paragraphs 4C  to  4E —
+
+      “ taxpayer reference ” means any of the following—         P’s unique
+taxpayer reference;           P’s VAT registration number;           P’s
+national insurance number;                 “ taxpayer reference notification ”
+means a notification in respect of the hereditament mentioned in  paragraph 4B
+made by P to an officer of His Majesty’s Revenue and Customs specifying P’s
+taxpayer reference.
+
+13.2.4F.2
+
+The Commissioners for His Majesty’s Revenue and Customs may by regulations
+amend the definition of “taxpayer reference” in  sub-paragraph (1)  so as to
+add, remove or vary items for the time being specified in that definition.
+
+13.2.4G
+
+The Commissioners for His Majesty’s Revenue and Customs may by regulations
+provide that  paragraphs 4C  to  4E  do not apply in relation to a person, or
+group of persons, of a description specified in the regulations.
+
+13.2.4H
+
+The Commissioners for His Majesty's Revenue and Customs must consult the Welsh
+Ministers before making regulations under  paragraph 4F (2)  or  4G  if and to
+the extent that the regulations make provision in relation to Wales.
+
+13.3
+
+After  paragraph 4H  (inserted by  subsection (2) ) insert—
+
+########## Information to be provided to valuation officer: England
+
+13.3.4I
+
+Paragraphs 4J  to  4L  apply, in relation to a hereditament situated in
+England, to a person (“ P ”) who—
+
+13.3.4I.a
+
+is for the time being a ratepayer in respect of the hereditament, or
+
+13.3.4I.b
+
+would be a ratepayer in respect of the hereditament if the hereditament were
+shown in a list compiled under this Part.
+
+13.3.4J
+
+13.3.4J.1
+
+P must, within the notification period, provide any notifiable information
+within P’s possession or control to the valuation officer responsible for
+maintaining the list in which the hereditament is, or would fall to be, shown.
+
+13.3.4J.2
+
+For the purposes of this paragraph and  paragraphs 4K  and  4L  (and subject
+to  sub-paragraph (3) ), information is “notifiable information” if it relates
+to a change—
+
+13.3.4J.2.a
+
+in the identity of P;
+
+13.3.4J.2.b
+
+concerning the hereditament that would or might affect the existence, extent
+or rateable value of the hereditament.
+
+13.3.4J.3
+
+But information is not “notifiable information” unless P knows, or could
+reasonably be expected to know, that it would assist a valuation officer in
+carrying out functions conferred or imposed on the officer by or under this
+Part.
+
+13.3.4J.4
+
+The “notification period” is—
+
+13.3.4J.4.a
+
+the period of 60 days beginning with the day on which the change mentioned in
+sub-paragraph (2)  occurs, or
+
+13.3.4J.4.b
+
+in relation to information, or information of a description, specified in a
+notice published by a valuation officer for the purposes of this sub-
+paragraph, such longer period as may be specified in the notice.
+
+13.3.4K
+
+P must, within the period of 60 days beginning with 30 April each year,
+provide confirmation (“annual confirmation”) to the valuation officer that—
+
+13.3.4K.a
+
+P has provided all notifiable information required to be provided under
+paragraph 4J  relating to changes occurring in the most recent complete
+financial year, or
+
+13.3.4K.b
+
+P was not required to provide any such notifiable information.
+
+13.3.4L
+
+For the purposes of  paragraphs 4J  and  4K , P must provide the notifiable
+information or annual confirmation (as the case may be) to the valuation
+officer—
+
+13.3.4L.a
+
+using the online facility provided by the valuation officer for use in
+connection with the provision of notifiable information or annual confirmation
+(as the case may be) under that paragraph, or
+
+13.3.4L.b
+
+in another manner agreed with the valuation officer.
+
+13.3.4M
+
+13.3.4M.1
+
+A valuation officer may serve a notice (an “information notice”) on a person
+who is an owner or occupier of a hereditament situated in England requesting
+that the person supplies to the officer information—
+
+13.3.4M.1.a
+
+which is specified in the information notice, and
+
+13.3.4M.1.b
+
+which the officer reasonably believes will assist the officer in carrying out
+functions conferred or imposed on the officer by or under this Part.
+
+13.3.4M.2
+
+An information notice under  sub-paragraph (1)  must state that the officer
+believes the information requested will assist them in carrying out functions
+conferred or imposed on them by or under this Part.
+
+13.3.4M.3
+
+A person on whom an information notice is served must provide the information
+requested in such form and manner as is specified in the notice within the
+period of 60 days beginning with the day on which the notice is served.
+
+13.4
+
+After paragraph 5 insert—
+
+########## Information to be provided to His Majesty’s Revenue and Customs: penalties
+
+13.4.5ZA
+
+13.4.5ZA.1
+
+Where a person (“ P ”) fails to comply with the requirement to make a taxpayer
+reference notification (within the meaning of  paragraph 4F ) in accordance
+with  paragraph 4C , P is liable to a penalty not exceeding £100.
+
+13.4.5ZA.2
+
+Where P carelessly or deliberately provides an incorrect taxpayer reference in
+purported compliance with  paragraph 4C , P is liable to a penalty not
+exceeding £3,000.
+
+13.4.5ZA.3
+
+For the purposes of  sub-paragraph (2) , P is careless if P fails to take
+reasonable care.
+
+13.4.5ZA.4
+
+Where P is liable to a penalty under  sub-paragraph (1)  or  (2) , an officer
+of His Majesty’s Revenue and Customs may serve a notice (a “penalty notice”)
+on P stating—
+
+13.4.5ZA.4.a
+
+that P has failed to make a taxpayer reference notification in accordance with
+paragraph 4C ,
+
+13.4.5ZA.4.b
+
+that P is liable to a penalty under  sub-paragraph (1)  or  (2)  (as the case
+may be),
+
+13.4.5ZA.4.c
+
+the amount of the penalty,
+
+13.4.5ZA.4.d
+
+the period within which the penalty must be paid,
+
+13.4.5ZA.4.e
+
+that P has a right to require a review under  paragraph 5BA , and
+
+13.4.5ZA.4.f
+
+that P has a right of appeal under  paragraph 5BB .
+
+13.4.5ZA.5
+
+A penalty notice may be served in relation to one or more liabilities under
+this paragraph.
+
+13.4.5ZA.6
+
+A penalty imposed under  sub-paragraph (1)  or  (2)  must be paid within the
+period of 30 days beginning with the date of the penalty notice (but see
+paragraph 5BC (1)  and  (2) ).
+
+13.4.5ZA.7
+
+Where P is liable to a penalty under  sub-paragraph (1)  or  (2)  and fails to
+comply with the requirement to make a taxpayer reference notification within
+the period of 30 days beginning with the day on which the penalty notice is
+served, P is liable to a maximum further penalty of £60 for each day on which
+the failure continues after the end of that period (but see  sub-paragraph (8)
+).
+
+13.4.5ZA.8
+
+P’s total liability under  sub-paragraph (7)  may not exceed £1,800.
+
+13.4.5ZB
+
+An officer of His Majesty’s Revenue and Customs may mitigate or remit any
+penalty imposed under  paragraph 5ZA .
+
+13.5
+
+After  paragraph 5ZB  (inserted by  subsection (4) ) insert—
+
+########## Information to be provided to valuation officer: penalties: England
+
+13.5.5ZC
+
+13.5.5ZC.1
+
+Where a person (“ P ”) fails to comply with a valuation notification
+requirement (including where P makes a false statement in purported compliance
+with the requirement), P is liable to a penalty the amount of which is
+determined in accordance with  paragraph 5ZD (1) .
+
+13.5.5ZC.2
+
+Where P knowingly or recklessly makes a false statement in purported
+compliance with a valuation notification requirement, P commits an offence and
+is liable on summary conviction to imprisonment for a term not exceeding 3
+months or to a fine not exceeding level 3 on the standard scale or to both
+(but see  sub-paragraph (7) ).
+
+13.5.5ZC.3
+
+A valuation officer may, if satisfied beyond reasonable doubt that P has
+committed an offence under  sub-paragraph (2) , determine that P is instead
+liable to a penalty the amount of which is determined in accordance with
+paragraph 5ZD (2)  (see also  sub-paragraphs (9)  and  (10)  of this
+paragraph).
+
+13.5.5ZC.4
+
+Where P is liable to a penalty under  sub-paragraph (1)  or  (3) , the
+valuation officer may serve a notice (a “penalty notice”) on P stating—
+
+13.5.5ZC.4.a
+
+the valuation notification requirement with which P has failed to comply,
+
+13.5.5ZC.4.b
+
+that P is liable to a penalty under  sub-paragraph (1)  or  (3)  (as the case
+may be),
+
+13.5.5ZC.4.c
+
+the amount of the penalty,
+
+13.5.5ZC.4.d
+
+the period within which the penalty must be paid,
+
+13.5.5ZC.4.e
+
+in a case where P is liable to a penalty under  sub-paragraph (1) , the effect
+of  paragraph 5ZD (3) ,
+
+13.5.5ZC.4.f
+
+that P has a right to require a review under  paragraph 5BD , and
+
+13.5.5ZC.4.g
+
+that P has a right of appeal under  paragraph 5BE .
+
+13.5.5ZC.5
+
+A penalty notice may be served in relation to one or more liabilities under
+this paragraph.
+
+13.5.5ZC.6
+
+A penalty imposed under  sub-paragraph (1)  or  (3)  must be paid within the
+period of 30 days beginning with the date of the penalty notice (but see
+paragraph 5BF (1)  and  (2) ).
+
+13.5.5ZC.7
+
+Where a penalty notice is served on P in relation to a liability under  sub-
+paragraph (3)  in respect of a false statement—
+
+13.5.5ZC.7.a
+
+no criminal proceedings for an offence under  sub-paragraph (2)  may be
+instituted against P, and no further penalty notice may be served, in respect
+of the false statement before the end of the period within which the liability
+under  sub-paragraph (3)  may be discharged as a result of payment or
+remittance of the penalty;
+
+13.5.5ZC.7.b
+
+if the liability under  sub-paragraph (3)  is discharged (for any reason),
+then in respect of the false statement—
+
+13.5.5ZC.7.b.i
+
+no criminal proceedings for an offence under  sub-paragraph (2)  may be
+instituted against P (and P may not at any time be convicted of an offence
+under that sub-paragraph in any proceedings that have already been
+instituted);
+
+13.5.5ZC.7.b.ii
+
+no further penalty notice may be served on P in relation to liability under
+sub-paragraph (3)  in respect of the false statement;
+
+13.5.5ZC.7.c
+
+if the liability under  sub-paragraph (3)  is discharged as a result of the
+payment of the penalty, then, in respect of the false statement, any penalty
+notice previously served on P in relation to liability under  sub-paragraph
+(1)  which has not been discharged ceases to have effect.
+
+13.5.5ZC.8
+
+The discharge of liability under  sub-paragraph (3)  in respect of a false
+statement as a result of the remittance of a penalty does not prevent a
+penalty notice being served in relation to any liability under sub-paragraph
+(1)  in respect of that false statement.
+
+13.5.5ZC.9
+
+Sub-paragraph (10)  applies where—
+
+13.5.5ZC.9.a
+
+a penalty notice is served on P in relation to a liability under  sub-
+paragraph (1)  in respect of a false statement,
+
+13.5.5ZC.9.b
+
+P’s liability under that sub-paragraph has been discharged as a result of P
+paying the penalty, and
+
+13.5.5ZC.9.c
+
+either—
+
+13.5.5ZC.9.c.i
+
+P is subsequently convicted of an offence under  sub-paragraph (2)  in respect
+of the false statement, or
+
+13.5.5ZC.9.c.ii
+
+a penalty notice (“the subsequent penalty notice”) is subsequently served on P
+in relation to a liability under  sub-paragraph (3)  in respect of the false
+statement.
+
+13.5.5ZC.10
+
+The sentence on conviction, or the amount of the penalty stated in the
+subsequent penalty notice, must reflect the amount of the penalty paid by P in
+discharging P’s liability under  sub-paragraph (1) .
+
+13.5.5ZC.11
+
+For the purposes this paragraph and in  paragraphs 5ZD  and  5ZE —
+
+      “ false statement ” means a statement made by P which is false in a
+material particular;           “ valuation notification requirement ” means a
+requirement under  paragraph 4J  to  4M .
+
+13.5.5ZD
+
+13.5.5ZD.1
+
+Where P is liable to a penalty under  paragraph 5ZC (1) , the maximum amount
+of the penalty is the greater of—
+
+13.5.5ZD.1.a
+
+2% of the rateable value shown in a list compiled under this Part or, if
+greater, of the actual rateable value of the hereditament concerned for the
+day on which the liability to the penalty arises, and
+
+13.5.5ZD.1.b
+
+£900.
+
+13.5.5ZD.2
+
+Where P is liable to a penalty under  paragraph 5ZC (3) , the maximum amount
+of the penalty is the sum of—
+
+13.5.5ZD.2.a
+
+3% of the rateable value shown in a list compiled under this Part or, if
+greater, of the actual rateable value of the hereditament concerned for the
+day on which the liability to the penalty arises, and
+
+13.5.5ZD.2.b
+
+£500.
+
+13.5.5ZD.3
+
+Where P is liable to a penalty under  paragraph 5ZC (1)  and fails to comply
+with the valuation notification requirement within the period of 30 days
+beginning with the day on which the penalty notice is served, P is liable to a
+maximum further penalty of £60 for each day on which the failure continues
+after the end of that period (but see  sub-paragraph (4) ).
+
+13.5.5ZD.4
+
+P’s total liability under  sub-paragraph (3)  may not exceed £1,800.
+
+13.5.5ZE
+
+13.5.5ZE.1
+
+For the purposes of  paragraph 5ZD —
+
+13.5.5ZE.1.a
+
+the “actual rateable value” of a hereditament is the rateable value of the
+hereditament that, disregarding any matter within  sub-paragraph (2) , would
+be shown in a list compiled under this Part for the day on which the liability
+to the penalty arises if P had complied with all valuation notification
+requirements;
+
+13.5.5ZE.1.b
+
+the “hereditament concerned” is the hereditament in relation to which the
+valuation notification requirement applies to P;
+
+13.5.5ZE.1.c
+
+a list compiled under this Part is to be used to find the rateable value of
+the hereditament for the day concerned.
+
+13.5.5ZE.2
+
+A matter is within this sub-paragraph if—
+
+13.5.5ZE.2.a
+
+a change occurs in relation to it at any time during the period beginning with
+the specified day and ending with the day on which the liability to the
+penalty arises, and
+
+13.5.5ZE.2.b
+
+the change results or would result in a reduction in the rateable value of the
+hereditament shown in a list compiled under this Part for the day concerned.
+
+13.5.5ZE.3
+
+For the purposes of  sub-paragraph (2)  the “specified day” is—
+
+13.5.5ZE.3.a
+
+where the penalty notice is served in respect of a failure by P to provide
+notifiable information under  paragraph 4J , the first day of the notification
+period (within the meaning of that paragraph), or
+
+13.5.5ZE.3.b
+
+where the penalty notice is served in respect of a failure by P to provide
+information that is—
+
+13.5.5ZE.3.b.i
+
+required by an information notice under  paragraph 4M (1) , but
+
+13.5.5ZE.3.b.ii
+
+not required to be provided under  paragraph 4J ,
+
+the day on which the information notice is served.
+
+13.5.5ZF
+
+A valuation officer may mitigate or remit any penalty imposed under  paragraph
+5ZC  or  5ZD .
+
+13.6
+
+After paragraph 5B insert—
+
+########## Reviews and appeals of decisions of His Majesty’s Revenue and Customs
+
+13.6.5BA
+
+13.6.5BA.1
+
+A person (“ P ”) who is served with a penalty notice under  paragraph 5ZA (4)
+may require a review of the decision to serve the penalty notice.
+
+13.6.5BA.2
+
+P requires a review under  sub-paragraph (1)  by giving notice to the issuing
+officer within the period of 30 days beginning with the date of the penalty
+notice—
+
+13.6.5BA.2.a
+
+using the online facility provided by the issuing officer for use in
+connection with notices under this paragraph, or
+
+13.6.5BA.2.b
+
+in another manner agreed with the issuing officer.
+
+13.6.5BA.3
+
+Sub-paragraphs (4)  to  (9)  apply where P gives notice in accordance with
+sub-paragraph (2) .
+
+13.6.5BA.4
+
+The review must be carried out by a reviewing officer.
+
+13.6.5BA.5
+
+The reviewing officer must have regard to anything done by P or the issuing
+officer in connection with the decision to serve the penalty notice.
+
+13.6.5BA.6
+
+Otherwise, the nature and extent of the review are to be such as appear
+appropriate to the reviewing officer in the circumstances.
+
+13.6.5BA.7
+
+The review must conclude that the penalty is to be—
+
+13.6.5BA.7.a
+
+confirmed,
+
+13.6.5BA.7.b
+
+mitigated, or
+
+13.6.5BA.7.c
+
+remitted.
+
+13.6.5BA.8
+
+The reviewing officer must notify P of the conclusions of the review and their
+reasoning within the period of 45 days beginning with the day on which P gave
+notice under  sub-paragraph (2) .
+
+13.6.5BA.9
+
+Where a review is required to be carried out under this paragraph but the
+reviewing officer does not give notice to P within the time period specified
+in  sub-paragraph (8) , the reviewing officer is deemed to have notified P
+that the penalty is confirmed.
+
+13.6.5BA.10
+
+In this paragraph and  paragraph 5BB —
+
+      “ issuing officer ” means the officer of His Majesty’s Revenue and
+Customs who served the notice;           “ reviewing officer ” means an
+officer of His Majesty’s Revenue and Customs other than the officer who served
+the notice.
+
+13.6.5BB
+
+13.6.5BB.1
+
+This paragraph applies where a reviewing officer notifies, or is deemed to
+have notified, P of the conclusions of a review in accordance with  paragraph
+5BA .
+
+13.6.5BB.2
+
+P may appeal to the valuation tribunal within the period of 30 days beginning
+with the day on which the reviewing officer notifies, or is deemed to have
+notified, P of the conclusions of the review.
+
+13.6.5BB.3
+
+On an appeal under this paragraph the valuation tribunal may mitigate or
+remit—
+
+13.6.5BB.3.a
+
+a penalty arising under  paragraph 5ZA (1)  if it is satisfied—
+
+13.6.5BB.3.a.i
+
+that P had a reasonable excuse for not complying with the requirement
+specified in  paragraph 4C , or
+
+13.6.5BB.3.a.ii
+
+that P has in fact complied with that requirement (including by virtue of P
+not in fact being required to make a notification or provide any information
+(as the case may be));
+
+13.6.5BB.3.b
+
+a penalty arising under  paragraph 5ZA (2)  if it is satisfied that P did not
+carelessly or deliberately make a false statement (within the meaning of that
+paragraph).
+
+13.6.5BB.4
+
+In this paragraph “ valuation tribunal ” means—
+
+13.6.5BB.4.a
+
+for the purposes of an appeal relating to a hereditament situated in England,
+the Valuation Tribunal for England;
+
+13.6.5BB.4.b
+
+for the purposes of an appeal relating to a hereditament situated in Wales, a
+valuation tribunal established under paragraph 1 of Schedule 11.
+
+13.6.5BC
+
+13.6.5BC.1
+
+Sub-paragraph (2)  applies, in relation to a penalty imposed under  sub-
+paragraph (1)  or  (2)  of  paragraph 5ZA , where P—
+
+13.6.5BC.1.a
+
+requires a review under  paragraph 5BA , or
+
+13.6.5BC.1.b
+
+appeals to the valuation tribunal under  paragraph 5BB .
+
+13.6.5BC.2
+
+The period within which the penalty must be paid is extended by the period—
+
+13.6.5BC.2.a
+
+beginning with the day on which P requires a review or appeals to the
+valuation tribunal, and
+
+13.6.5BC.2.b
+
+ending with the day on which the review or appeal is finally determined.
+
+13.6.5BC.3
+
+Neither a review under  paragraph 5BA  nor an appeal under  paragraph 5BB
+prevents liability to any further penalty or penalties arising under
+paragraph 5ZA (7) .
+
+13.6.5BC.4
+
+A review under  paragraph 5BA  or an appeal under  paragraph 5BB  in respect
+of a penalty imposed under  sub-paragraph (1)  or  (2)  of  paragraph 5ZA  (as
+the case may be) is to be treated as a review of, or appeal against, that
+penalty and any further penalty which may be imposed under  paragraph 5ZA (7)
+.
+
+13.7
+
+After  paragraph 5BC  (inserted by  subsection (6) ) insert—
+
+########## Reviews and appeals of decisions of valuation officer: England
+
+13.7.5BD
+
+13.7.5BD.1
+
+A person (“ P ”) who is served with a penalty notice under  paragraph 5ZC (4)
+may require a review of the decision to serve the penalty notice.
+
+13.7.5BD.2
+
+P requires a review under  sub-paragraph (1)  by giving notice to the issuing
+officer within the period of 30 days beginning with the date of the penalty
+notice—
+
+13.7.5BD.2.a
+
+using the online facility provided by the issuing officer for use in
+connection with notices under this paragraph, or
+
+13.7.5BD.2.b
+
+in another manner agreed with the issuing officer.
+
+13.7.5BD.3
+
+Sub-paragraphs (4)  to  (9)  apply where P gives notice in accordance with
+sub-paragraph (2) .
+
+13.7.5BD.4
+
+The review must be carried out by a reviewing officer.
+
+13.7.5BD.5
+
+The reviewing officer must have regard to anything done by P or the issuing
+officer in connection with the decision to serve the penalty notice.
+
+13.7.5BD.6
+
+Otherwise, the nature and extent of the review are to be such as appear
+appropriate to the reviewing officer in the circumstances.
+
+13.7.5BD.7
+
+The review must conclude that the penalty is to be—
+
+13.7.5BD.7.a
+
+confirmed,
+
+13.7.5BD.7.b
+
+mitigated, or
+
+13.7.5BD.7.c
+
+remitted.
+
+13.7.5BD.8
+
+The reviewing officer must notify P of the conclusions of the review and their
+reasoning within the period of 45 days beginning with the day on which P gave
+the notice under  sub-paragraph (2) .
+
+13.7.5BD.9
+
+Where a review is required to be carried out under this paragraph but the
+reviewing officer does not give notice to P within the time period specified
+in  sub-paragraph (8) , the reviewing officer is deemed to have notified P
+that the penalty is confirmed.
+
+13.7.5BD.10
+
+In this paragraph and  paragraph 5BE —
+
+      “ issuing officer ” means the valuation officer who served the notice;
+“ reviewing officer ” means a valuation officer other than the officer who
+served the notice.
+
+13.7.5BE
+
+13.7.5BE.1
+
+This paragraph applies where a reviewing officer notifies, or is deemed to
+have notified, P of the conclusions of a review in accordance with  paragraph
+5BD .
+
+13.7.5BE.2
+
+P may appeal to the valuation tribunal within the period of 30 days beginning
+with the day on which the reviewing officer notifies, or is deemed to have
+notified, P of the conclusions of the review.
+
+13.7.5BE.3
+
+On an appeal under this paragraph the valuation tribunal may mitigate or remit
+a penalty arising under  paragraph 5ZC (1)  if it is satisfied—
+
+13.7.5BE.3.a
+
+that P had a reasonable excuse for not complying with the requirement
+mentioned in that sub-paragraph, or
+
+13.7.5BE.3.b
+
+that P has in fact complied with that requirement (including by virtue of P
+not in fact being required to make a notification or provide any information
+(as the case may be)).
+
+13.7.5BE.4
+
+On an appeal under this paragraph the valuation tribunal must remit a penalty
+arising under  paragraph 5ZC (3)  unless it is satisfied beyond reasonable
+doubt that P knowingly or recklessly made a false statement (within the
+meaning of that paragraph).
+
+13.7.5BE.5
+
+In this paragraph “ valuation tribunal ” means the Valuation Tribunal for
+England.
+
+13.7.5BF
+
+13.7.5BF.1
+
+Sub-paragraph (2)  applies, in relation to a penalty imposed under  paragraph
+5ZC (1)  or  (3) , where P—
+
+13.7.5BF.1.a
+
+requires a review under  paragraph 5BD , or
+
+13.7.5BF.1.b
+
+appeals to the valuation tribunal under  paragraph 5BE .
+
+13.7.5BF.2
+
+The period within which the penalty must be paid is extended by the period—
+
+13.7.5BF.2.a
+
+beginning with the day on which P requires a review or appeals to the
+valuation tribunal, and
+
+13.7.5BF.2.b
+
+ending with the day on which the review or appeal is finally determined.
+
+13.7.5BF.3
+
+Neither a review under  paragraph 5BD  nor an appeal under  paragraph 5BE
+prevents liability to any further penalty or penalties arising under
+paragraph 5ZD (3) .
+
+13.7.5BF.4
+
+A review under  paragraph 5BD  or an appeal under  paragraph 5BE  in respect
+of a penalty imposed under  paragraph 5ZC (1)  is to be treated as a review
+of, or appeal against, that penalty and any further penalty which may be
+imposed under  paragraph 5ZD (3) .
+
+### Valuation and multipliers
+
+#### Alterations to lists: matters not to be taken into account in valuation
+
+14
+
+14.1
+
+In Schedule 6 to the Act (valuation)—
+
+14.1.a
+
+in paragraph 2(5), at the end insert  “(but this is subject to paragraph 2ZA)”
+;
+
+14.1.b
+
+in paragraph 2(6), at the end insert  “(but this is subject to paragraph 2ZA)”
+;
+
+14.1.c
+
+in paragraph 2(7)—
+
+14.1.c.i
+
+for paragraph (a) substitute—
+
+14.1.c.i.a
+
+matters affecting the physical state of the hereditament,
+
+14.1.c.i.aa
+
+matters affecting the physical enjoyment of the hereditament,
+
+;
+
+14.1.c.ii
+
+for paragraph (d) substitute—
+
+14.1.c.ii.d
+
+matters affecting the physical state of the locality in which the hereditament
+is situated,
+
+14.1.c.ii.da
+
+matters which, though not affecting the physical state of the locality in
+which the hereditament is situated, are nonetheless physically manifest there,
+and
+
+;
+
+14.1.d
+
+after paragraph 2 insert—
+
+14.1.d.2ZA
+
+14.1.d.2ZA.1
+
+Sub-paragraph (2) applies for the purposes of—
+
+14.1.d.2ZA.1.a
+
+compiling a list on or after 1 April 2026, where the day by reference to which
+the rateable value of a non-domestic hereditament in England is to be
+determined is a day specified under paragraph 2(3)(b), and
+
+14.1.d.2ZA.1.b
+
+altering a list compiled on or after 1 April 2023.
+
+14.1.d.2ZA.2
+
+In making a determination or a further determination as to the rateable value
+of a hereditament situated in England for the purposes for which this
+paragraph applies, no account is to be taken of any change to a matter within
+paragraph 2(7)(aa), (da) or (e) that—
+
+14.1.d.2ZA.2.a
+
+is directly or indirectly attributable to a relevant factor, and
+
+14.1.d.2ZA.2.b
+
+in a case within sub-paragraph (1)(a), occurs after the day by reference to
+which the rateable value is to be determined but on or before the day on which
+the list is to be compiled.
+
+14.1.d.2ZA.3
+
+The relevant factors are—
+
+14.1.d.2ZA.3.a
+
+legislation of any country or territory;
+
+14.1.d.2ZA.3.b
+
+provision that is not within paragraph (a) but is made under, and given effect
+by, legislation of any country or territory;
+
+14.1.d.2ZA.3.c
+
+advice or guidance given by a public authority of any country or territory;
+
+14.1.d.2ZA.3.d
+
+anything done by a person with a view to compliance with anything within
+paragraph (a), (b) or (c).
+
+14.1.d.2ZA.4
+
+Sub-paragraph (2) does not apply to the making of a determination to the
+extent that it concerns whether a hereditament or some part of a hereditament—
+
+14.1.d.2ZA.4.a
+
+is or is not a domestic property, or
+
+14.1.d.2ZA.4.b
+
+is or is not exempt from local non-domestic rating.
+
+14.1.d.2ZA.5
+
+In this paragraph—
+
+      “ legislation ” includes any provision of a legislative character;
+“ public authority ” includes any person exercising functions of a public
+nature.
+
+14.2
+
+In the Non-Domestic Rating (Alteration of Lists and Appeals) (England)
+Regulations 2009 ( S.I. 2009/2268 ), in regulation 4 (circumstances in which
+proposals to alter a rateable value shown in a list may be made), in paragraph
+(1)(b), at the end insert  “(but this is subject to paragraph 2ZA of Schedule
+6 to the Act)” .
+
+14.3
+
+The amendment made by  subsection (1) (d) has effect in relation to a change
+to a matter whether it occurs before or after that subsection comes into
+force.
+
+#### Multipliers
+
+15
+
+15.1
+
+Schedule 7 to the Act (non-domestic rating multipliers) is amended as follows.
+
+15.2
+
+Before Part 1 insert—
+
+########## Non-Domestic Rating Multipliers: England
+
+########### Introduction
+
+15.2.A1
+
+This Part of this Schedule has effect to determine, in relation to England,
+for each chargeable financial year—
+
+15.2.A1.a
+
+the non-domestic rating multiplier, and
+
+15.2.A1.b
+
+the small business non-domestic rating multiplier.
+
+15.2.A2
+
+In this Part—
+
+15.2.A2.a
+
+Chapter 2 makes provision about the calculation of the non-domestic rating
+multiplier;
+
+15.2.A2.b
+
+Chapter 3 makes provision about the calculation of the small business non-
+domestic rating multiplier;
+
+15.2.A2.c
+
+Chapter 4 makes provision about the making, and the giving of notice, of such
+calculations;
+
+15.2.A2.d
+
+Chapter 5 makes provision about the interpretation of terms used in this Part;
+
+15.2.A2.e
+
+Chapter 6 makes provision about regulations under this Part.
+
+########### The non-domestic rating multiplier
+
+############ Revaluation years
+
+15.2.A3
+
+The non-domestic rating multiplier for a revaluation year is to be calculated
+in accordance with the formula—
+
+A × C × E D × F
+
+############ Other years
+
+15.2.A4
+
+15.2.A4.1
+
+The non-domestic rating multiplier for a chargeable financial year other than
+a revaluation year is—
+
+15.2.A4.1.a
+
+the default amount, or
+
+15.2.A4.1.b
+
+if the Secretary of State makes an adjustment to that amount under  sub-
+paragraph (3) , that amount as adjusted.
+
+15.2.A4.2
+
+The default amount is to be calculated in accordance with the formula—
+
+A × C D
+
+15.2.A4.3
+
+The Secretary of State makes an adjustment to the default amount by adjusting
+it to reflect the extent to which the Secretary of State’s last estimate of
+the total mentioned in  paragraph A10 (6)  or  (7)  appears to the Secretary
+of State to differ from the actual total.
+
+########### The small business non-domestic rating multiplier
+
+############ Revaluation years
+
+15.2.A5
+
+The small business non-domestic rating multiplier for a revaluation year is to
+be calculated in accordance with the formula—
+
+B × C × E D × F
+
+############ Other years
+
+15.2.A6
+
+15.2.A6.1
+
+The small business non-domestic rating multiplier for a chargeable financial
+year other than a revaluation year is—
+
+15.2.A6.1.a
+
+the default amount, or
+
+15.2.A6.1.b
+
+if the Secretary of State makes an adjustment to that amount under  sub-
+paragraph (3) , that amount as adjusted.
+
+15.2.A6.2
+
+The default amount is to be calculated in accordance with the formula—
+
+B × C D
+
+15.2.A6.3
+
+The Secretary of State makes an adjustment to the default amount by adjusting
+it to reflect the extent to which the Secretary of State’s last estimate of
+the total mentioned in  paragraph A10 (6)  or  (7)  appears to the Secretary
+of State to differ from the actual total.
+
+########### Making and giving notice of calculations etc
+
+15.2.A7
+
+15.2.A7.1
+
+The Secretary of State must—
+
+15.2.A7.1.a
+
+calculate the non-domestic rating multiplier and the small business non-
+domestic rating multiplier for a chargeable financial year, and
+
+15.2.A7.1.b
+
+as soon as reasonably practicable after doing so, serve on each billing
+authority a notice stating the multipliers as so calculated.
+
+15.2.A7.2
+
+A notice under  sub-paragraph (1) (b)  must show how any calculation has been
+made and contain details of—
+
+15.2.A7.2.a
+
+any estimates that have been made under  paragraph A10 (6)  or  (7) ,
+including the date determined under  paragraph A11 (3)  for the purpose of
+making those estimates, and
+
+15.2.A7.2.b
+
+any adjustments that have been made under  paragraph A4 (3)  or  A6 (3)
+
+15.2.A7.3
+
+Where the chargeable financial year is one for which the Secretary of State
+has calculated a figure for D under  paragraph A10 (5) (b) , the notice under
+sub-paragraph (1) (b)  must contain that figure.
+
+15.2.A8
+
+A calculation made by the Secretary of State under  paragraph A7  is invalid
+if it is made at a time when regulations under  paragraph A10 (4) (b)  have
+not come into force which, if they had come into force, would be effective in
+relation to the year.
+
+15.2.A9
+
+In calculating a multiplier a part of a whole (if any) is to be calculated to
+three decimal places only.
+
+########### Interpretation
+
+15.2.A10
+
+15.2.A10.1
+
+This paragraph applies for the purposes of this Part of this Schedule.
+
+15.2.A10.2
+
+“A” is the non-domestic rating multiplier for the financial year preceding the
+year concerned.
+
+15.2.A10.3
+
+“B” is the small business non-domestic rating multiplier for the financial
+year preceding the year concerned.
+
+15.2.A10.4
+
+“C” is—
+
+15.2.A10.4.a
+
+the consumer prices index for September of the financial year preceding the
+year concerned, or
+
+15.2.A10.4.b
+
+where the Treasury so provides by regulations in relation to the year and
+multiplier concerned, a figure which is less than the index mentioned in
+paragraph (a)  and which is specified in, or calculated in a manner specified
+in, the regulations.
+
+15.2.A10.5
+
+“D” is—
+
+15.2.A10.5.a
+
+the consumer prices index for September of the financial year which precedes
+that preceding the year concerned (“ the first year ”), or
+
+15.2.A10.5.b
+
+where the base month for the consumer prices index for September of the first
+year differs from that for the index for September of the year which precedes
+the year concerned (“ the second year ”), the figure which the Secretary of
+State calculates would have been the consumer prices index for September of
+the first year if the base month for that index had been the same as the base
+month for the index for September of the second year.
+
+15.2.A10.6
+
+“E” is the number of whole pounds in the Secretary of State’s estimate of the
+total of the appropriate rateable values of all appropriate hereditaments,
+where—
+
+15.2.A10.6.a
+
+“appropriate rateable values” are those which will be shown in lists for the
+last day of the financial year preceding the year concerned once all
+alterations to those lists have been made;
+
+15.2.A10.6.b
+
+“appropriate hereditaments” are those which will be shown in lists for that
+day once all alterations to those lists have been made.
+
+15.2.A10.7
+
+“F” is the number of whole pounds in the Secretary of State’s estimate of the
+total of the appropriate rateable values of all appropriate hereditaments,
+where—
+
+15.2.A10.7.a
+
+“appropriate rateable values” are those which will be shown in lists for the
+first day of the financial year concerned once all alterations to those lists
+have been made;
+
+15.2.A10.7.b
+
+“appropriate hereditaments” are those which will be shown in lists for that
+day once all alterations to those lists have been made.
+
+15.2.A10.8
+
+“ Revaluation year ” means a chargeable financial year at the beginning of
+which new lists must be compiled (see sections 41(2A) and 52(2A)).
+
+15.2.A11
+
+15.2.A11.1
+
+References in  paragraph A10  to the consumer prices index are to—
+
+15.2.A11.1.a
+
+the general index of consumer prices (for all items) published by the
+Statistics Board for the month concerned, or
+
+15.2.A11.1.b
+
+if that index is not published for the month concerned, any substituted index
+or index figures published by the Board.
+
+15.2.A11.2
+
+For the purposes of  paragraph A10 (5) (b)  the base month for the consumer
+prices index for September of a particular year is the month for which the
+consumer prices index is taken to be 100 and by reference to which the index
+for the September in question is calculated.
+
+15.2.A11.3
+
+Estimates under  paragraph A10 (6)  and  (7)  are to be made on the basis of
+information available to the Secretary of State on such date as the Secretary
+of State determines.
+
+15.2.A11.4
+
+The reference in  paragraph A10 (7) (a)  to rateable values which will be
+shown in lists for the first day of the chargeable financial year concerned
+once all alterations to those lists have been made includes a reference to
+rateable values which will be shown in lists for a later day as a result of
+any alterations of the lists because of the inaccuracy of the lists for that
+first day.
+
+########### Regulations
+
+15.2.A12
+
+15.2.A12.1
+
+Regulations under  paragraph A10 (4) (b)  are to be made by statutory
+instrument.
+
+15.2.A12.2
+
+A statutory instrument containing regulations under  paragraph A10 (4) (b)  is
+subject to annulment in pursuance of a resolution of the House of Commons.
+
+15.3
+
+In paragraph 5 (interpretation)—
+
+15.3.a
+
+in sub-paragraph (9B), for “retail” substitute  “consumer” ;
+
+15.3.b
+
+after sub-paragraph (10) insert—
+
+15.3.b.10A
+
+In relation to England, in calculating a multiplier a part of a whole (if any)
+is to be calculated to three decimal places only—
+
+15.3.b.10A.a
+
+adding one thousandth where (apart from this sub-paragraph) there would be
+more than five ten-thousandths, and
+
+15.3.b.10A.b
+
+ignoring the ten-thousandths where (apart from this sub-paragraph) there would
+be five, or less than five, ten-thousandths.
+
+;
+
+15.3.c
+
+in sub-paragraph (11)—
+
+15.3.c.i
+
+at the beginning insert  “In relation to Wales,” ;
+
+15.3.c.ii
+
+omit paragraphs (a) and (b);
+
+15.3.d
+
+for sub-paragraph (13C) substitute—
+
+15.3.d.13C
+
+A statutory instrument containing regulations under sub-paragraph (13A) may
+not be made unless a draft of the instrument has been laid before and approved
+by resolution of Senedd Cymru.
+
+15.4
+
+In paragraph 6 (supplementary)—
+
+15.4.a
+
+omit sub-paragraph (4B);
+
+15.4.b
+
+in sub-paragraph (4C) omit “also”.
+
+### Final provisions
+
+#### Meaning of “the Act”
+
+16
+
+In this Act, “ the Act ” means the Local Government Finance Act 1988.
+
+#### Consequential provision
+
+17
+
+17.1
+
+In  the Schedule —
+
+17.1.a
+
+Part 1  contains provision consequential on sections  1  to  3 ;
+
+17.1.b
+
+Part 2  contains provision consequential on sections  5  and  6 ;
+
+17.1.c
+
+Part 3  contains provision consequential on  section 8 ;
+
+17.1.d
+
+Part 4  contains provision consequential on  sections 12  and  13 ;
+
+17.1.e
+
+Part 5  contains provision consequential on  section 15 .
+
+17.2
+
+The appropriate national authority may by regulations made by statutory
+instrument make further provision that is consequential on this Act.
+
+17.3
+
+In  subsection (2) , “ the appropriate national authority ” means—
+
+17.3.a
+
+in relation to England, the Secretary of State;
+
+17.3.b
+
+in relation to Wales, the Welsh Ministers.
+
+17.4
+
+The power of the Secretary of State to make regulations under  subsection (2)
+may, in particular, be exercised by amending, repealing, revoking or otherwise
+modifying any provision made by or under an Act passed before, or in the same
+session of Parliament as, this Act.
+
+17.5
+
+The power of the Welsh Ministers to make regulations under  subsection (2)
+may, in particular, be exercised by amending, repealing, revoking or otherwise
+modifying any provision made by or under primary legislation passed or made
+before, or in the same session of Parliament as, this Act.
+
+17.6
+
+A statutory instrument containing regulations made by the Secretary of State
+under  subsection (2)  that amend or repeal provision made by an Act may not
+be made unless a draft of the instrument has been laid before and approved by
+resolution of each House of Parliament.
+
+17.7
+
+Any other statutory instrument containing regulations made by the Secretary of
+State under  subsection (2)  is subject to annulment in pursuance of a
+resolution of either House of Parliament.
+
+17.8
+
+A statutory instrument containing regulations made by the Welsh Ministers
+under  subsection (2)  that amend or repeal provision made by primary
+legislation may not be made unless a draft of the instrument has been laid
+before and approved by a resolution of Senedd Cymru.
+
+17.9
+
+Any other statutory instrument containing regulations made by the Welsh
+Ministers under  subsection (2)  is subject to annulment in pursuance of a
+resolution made by Senedd Cymru.
+
+17.10
+
+In this section, “ primary legislation ” means—
+
+17.10.a
+
+an Act of Parliament;
+
+17.10.b
+
+a Measure or Act of the National Assembly for Wales or an Act of Senedd Cymru.
+
+#### Extent
+
+18
+
+18.1
+
+Subject to  subsection (2) , this Act extends to England and Wales.
+
+18.2
+
+Section 11  also extends to Northern Ireland.
+
+#### Commencement and application
+
+19
+
+19.1
+
+The following provisions come into force on the day on which this Act is
+passed—
+
+19.1.a
+
+sections  1  to  6 ,  9 ,  14 ,  15 (3) (b)  and  (c) (i) ,  16 ,  17 (1) (a)
+and  (2)  to  (10) ,  18 , and  20 ,
+
+19.1.b
+
+this section, and
+
+19.1.c
+
+Parts 1  and  2  of  the Schedule .
+
+19.2
+
+The amendments made by the following provisions have effect in relation to
+financial years beginning on or after 1 April 2024—
+
+19.2.a
+
+sections  1  to  3 , and
+
+19.2.b
+
+Part 1  of  the Schedule .
+
+19.3
+
+Sections  7  and  11  come into force at the end of the period of two months
+beginning with the day on which this Act is passed.
+
+19.4
+
+The following provisions come into force in accordance with provision
+contained in regulations made by the appropriate national authority—
+
+19.4.a
+
+sections  10 ,  12  and  13 (2) ,  (4)  and  (6)  (and  section 13 (1)  so far
+as relating to those subsections), and
+
+19.4.b
+
+paragraphs  39 (a) ,  46 ,  49 (c)  and  (d) ,  50  and  53 (a)  of  Part 4
+of  the Schedule  (and  section 17 (1) (d)  and  paragraph 40  of  the
+Schedule  so far as relating to those paragraphs).
+
+19.5
+
+Section  15 (3) (a) ,  (c) (ii),  (d)  and  (4)  (and  section 15 (1)  so far
+as relating to those subsections) come into force in accordance with provision
+contained in regulations by the Welsh Ministers.
+
+19.6
+
+The remaining provisions of this Act come into force in accordance with
+provision contained in regulations made by the Secretary of State.
+
+19.7
+
+The appropriate national authority may by regulations make transitional,
+transitory or saving provision in connection with the coming into force of any
+provision of this Act.
+
+19.8
+
+The power to make regulations under  subsection (7)  includes power to make
+different provision for different purposes.
+
+19.9
+
+A power to make regulations under this section is exercisable by statutory
+instrument.
+
+19.10
+
+In this section—
+
+      “ the appropriate national authority ” means—         in relation to
+England, the Secretary of State;           in relation to Wales, the Welsh
+Ministers;                 “ financial year ” means a period of 12 months
+beginning with 1 April.
+
+#### Short title
+
+20
+
+This Act may be cited as the Non-Domestic Rating Act 2023.
+
+Consequential provision
+
+Section 17
+
+##### Provision consequential on sections 
+
+###### Consequential amendments of the Act
+
+1
+
+The Act is amended as follows.
+
+2
+
+In section 44A (partly occupied hereditaments)—
+
+2.a
+
+in subsection (1)—
+
+2.a.i
+
+after “to apportion” insert  “both” ;
+
+2.a.ii
+
+after “rateable value of the hereditament” insert  “, and (where relevant) G
+as regards the hereditament,” ;
+
+2.a.iii
+
+after “the apportionment” insert  “, or apportionments,” ;
+
+2.b
+
+after subsection (2) insert—
+
+2.b.2A
+
+The reference in subsection (1) to G as regards the hereditament is a
+reference to G calculated in accordance with  Schedule 4ZA  as regards the
+hereditament for the day on which the authority makes its requirement.
+
+;
+
+2.c
+
+in subsection (5), after paragraph (d) insert—
+
+2.c.e
+
+paragraph 3  of  Schedule 4ZA  beginning, or ceasing, to apply in relation to
+the hereditament.
+
+;
+
+2.d
+
+in subsection (6)(b), in sub-paragraph (ii), for “section 45A” substitute  “
+paragraph 2  of  Schedule 4ZB ” ;
+
+2.e
+
+for subsection (7) substitute—
+
+2.e.7
+
+In relation to any day for which an apportionment is applicable,  Schedule 4ZA
+has effect as regards the hereditament as if for  paragraph 10 (2)  there were
+substituted—
+
+2.e.7.2
+
+“A” is—
+
+2.e.7.2.a
+
+where the day concerned is a day to which  paragraph 3  applies, such part of
+the rateable value shown for the day under section 42(4) as regards the
+hereditament as is assigned by a relevant apportionment to the occupied part
+of the hereditament minus such part of G (if any) as is so assigned;
+
+2.e.7.2.b
+
+in any other case, such part of the rateable value shown for the day under
+section 42(4) as regards the hereditament as is assigned by a relevant
+apportionment to the occupied part of the hereditament.
+
+2.e.7.2A
+
+In  sub-paragraph (2) , a “ relevant apportionment ” means an apportionment
+under section 44A(1) which relates to the hereditament and is treated for the
+purposes of that section as applicable for the day.
+
+;
+
+2.f
+
+in subsection (8)—
+
+2.f.i
+
+in paragraph (b), in sub-paragraph (ii), for “section 45A” substitute  “
+paragraph 2  of  Schedule 4ZB ” ;
+
+2.f.ii
+
+in paragraph (c), for “an order under section 45(4A) is” substitute
+“regulations under  paragraph 1 (2)  of  Schedule 4ZB  are” ;
+
+2.g
+
+for subsection (9) substitute—
+
+2.g.9
+
+In relation to any day for which an apportionment is applicable,  Schedule 4ZA
+has effect as regards the hereditament as if for  paragraph 10 (2)  there were
+substituted—
+
+2.g.9.2
+
+“A” is the sum of the occupied amount and the unoccupied amount.
+
+2.g.9.2A
+
+The occupied amount is—
+
+2.g.9.2A.a
+
+where the day concerned is a day to which  paragraph 3  applies, such part of
+the rateable value shown for the day under section 42(4) as regards the
+hereditament as is assigned by a relevant apportionment to the occupied part
+of the hereditament minus such part of G (if any) as is so assigned;
+
+2.g.9.2A.b
+
+in any other case, such part of the rateable value shown for the day under
+section 42(4) as regards the hereditament as is assigned by a relevant
+apportionment to the occupied part of the hereditament.
+
+2.g.9.2B
+
+The unoccupied amount is—
+
+2.g.9.2B.a
+
+where the occupied amount is determined in accordance with sub-paragraph
+(2A)(a), such part of the rateable value shown for the day under section 42(4)
+as regards the hereditament as is assigned by a relevant apportionment to the
+unoccupied part of the hereditament minus such part of G as is so assigned, or
+
+2.g.9.2B.b
+
+where the occupied amount is determined in accordance with sub-paragraph
+(2A)(b), such part of the rateable value as is assigned by a relevant
+apportionment to the unoccupied part of the hereditament,
+
+divided by the number prescribed by regulations under  paragraph 3 (9)  of
+Schedule 4ZB  (for the purposes of  paragraph 1 (2)  of that Schedule) as it
+has effect in relation to the hereditament.
+
+2.g.9.2C
+
+In  sub-paragraphs (2A)  and  (2B) , a “ relevant apportionment ” means an
+apportionment under section 44A(1) which relates to the hereditament and is
+treated for the purposes of that section as applicable for the day.
+
+3
+
+In section 47 (discretionary relief)—
+
+3.a
+
+in subsection (1)(b)—
+
+3.a.i
+
+omit “sections 43(4) to (6B) and 44 above, sections 45(4) to (4D) and 46
+above,”;
+
+3.a.ii
+
+for “Schedule 7A” substitute  “Schedule  4ZA ,  4ZB  or 7A” ;
+
+3.b
+
+in subsection (5A), for “none of section 43(6) above, section 43(6B) above and
+subsection (5B) below applies” substitute  “neither paragraph  2  of  Schedule
+4ZA  nor subsection (5B) of this section apply” ;
+
+3.c
+
+in subsection (10) for “section 45A” substitute  “ paragraph 2  of  Schedule
+4ZB ” .
+
+4
+
+In section 57A (transitional provision for 2005 onwards: England)—
+
+4.a
+
+in subsection (2)(a) for “, 45A, 54 or 54ZA” substitute  “or 54” ;
+
+4.b
+
+for subsection (3) substitute—
+
+4.b.3
+
+The provisions are that the chargeable amount is to be such amount as is found
+in accordance with rules prescribed under this section instead of in
+accordance with Schedule  4ZA ,  4ZB  or  5A  (as the case may be).
+
+;
+
+4.c
+
+in subsection (7), for “whose rateable value exceeds” to the end substitute
+“as regards which A exceeds, and those as regards which A does not exceed” ;
+
+4.d
+
+after that subsection insert—
+
+4.d.7A
+
+For the purposes of subsection (7)—
+
+4.d.7A.a
+
+“ A ” has the meaning it has in Schedule  4ZA  or  4ZB  (as the case may be);
+
+4.d.7A.b
+
+a locally listed hereditament is a hereditament for the time being shown in a
+local non-domestic rating list.
+
+5
+
+In section 58 (special provision for 1995 onwards)—
+
+5.a
+
+in subsection (2)(a), for “, 45A, 54 or 54ZA” substitute  “or 54” ;
+
+5.b
+
+for subsection (3) substitute—
+
+5.b.3
+
+The provisions are that the chargeable amount is to be such amount as is found
+in accordance with rules prescribed under this section instead of in
+accordance with Schedule  4ZA ,  4ZB  or  5A  (as the case may be).
+
+6
+
+In section 63A (disclosure of Revenue and Customs information), in subsection
+(4)(b), for “, 54 or 54ZA” substitute  “or 54” .
+
+7
+
+In section 67 (interpretation: other provisions)—
+
+7.a
+
+after subsection (1) insert—
+
+7.a.1A
+
+Unless the context otherwise requires, references to ratepayers are to
+ratepayers within the meaning of section 43, 45 or 54 (as the case may be).
+
+;
+
+7.b
+
+for subsection (7) substitute—
+
+7.b.7
+
+Any paragraph of  Schedule 4ZA ,  4ZB  or  5A  applies on a particular day if
+(and only if) it applies immediately before the day ends.
+
+8
+
+In section 143 (orders and regulations)—
+
+8.a
+
+in subsection (3), for “(3ZA)” substitute  “(3C)” ;
+
+8.b
+
+omit subsections (3ZA) to (3B);
+
+8.c
+
+before subsection (8) insert—
+
+8.c.7A
+
+The power to make regulations under  paragraph 3 (3)  or  6 (3)  of  Schedule
+4ZA  is exercisable by statutory instrument, and a statutory instrument
+containing any such regulations may not be made—
+
+8.c.7A.a
+
+in the case of regulations relating to England, unless a draft of the
+instrument has been laid before and approved by resolution of each House of
+Parliament;
+
+8.c.7A.b
+
+in the case of regulations relating to Wales, unless a draft of the instrument
+has been laid before and approved by resolution of Senedd Cymru.
+
+8.c.7B
+
+The power to make regulations under paragraph  8 (1) (d) (ii)  or  10 (9)  of
+Schedule 4ZA  is exercisable by statutory instrument, and a statutory
+instrument containing any such regulations may not be made unless a draft of
+the instrument has been laid before and approved by resolution of each House
+of Parliament.
+
+8.c.7C
+
+The power to make regulations under paragraph  1 (2)  or  3 (9)  of  Schedule
+4ZB  is exercisable by statutory instrument, and a statutory instrument
+containing any such regulations may not be made—
+
+8.c.7C.a
+
+in the case of regulations relating to England, unless a draft of the
+instrument has been laid before and approved by resolution of each House of
+Parliament;
+
+8.c.7C.b
+
+in the case of regulations relating to Wales, unless a draft of the instrument
+has been laid before and approved by resolution of Senedd Cymru.
+
+8.c.7D
+
+The power to make regulations under  paragraph 3 (6)  of  Schedule 4ZB  is
+exercisable by statutory instrument, and a statutory instrument containing any
+such regulations may not be made unless a draft of the instrument has been
+laid before and approved by resolution of each House of Parliament.
+
+8.c.7E
+
+The power to make regulations under  paragraph 3 (4)  of  Schedule 5A  is
+exercisable by statutory instrument, and a statutory instrument containing any
+such regulations may not be made—
+
+8.c.7E.a
+
+in the case of regulations relating to England, unless a draft of the
+instrument has been laid before and approved by resolution of each House of
+Parliament;
+
+8.c.7E.b
+
+in the case of regulations relating to Wales, unless a draft of the instrument
+has been laid before and approved by resolution of Senedd Cymru.
+
+8.c.7F
+
+The power to make regulations under paragraph  6 (8)  of  Schedule 5A  is
+exercisable by statutory instrument, and a statutory instrument containing any
+such regulations may not be made unless a draft of the instrument has been
+laid before and approved by resolution of each House of Parliament.
+
+9
+
+In Schedule 7 (multipliers)—
+
+9.a
+
+in paragraph 3A(2)(a)(ii), for “section 43(4A) to (4D) above” substitute  “
+paragraph 4  of  Schedule 4ZA ” ;
+
+9.b
+
+in paragraph 4A(2)(a)(ii), for “section 43(4A) to (4D) above” substitute  “
+paragraph 4  of  Schedule 4ZA ” .
+
+###### Consequential amendments of other Acts
+
+10
+
+In the Localism Act 2011 omit section 70 (small business relief).
+
+11
+
+In the Postal Services Act 2011, in Schedule 12 (minor and consequential
+amendments) omit paragraph 131 and the italic heading before it.
+
+12
+
+In the Corporation Tax Act 2010, in Schedule 1 (minor and consequential
+amendments) omit paragraph 207.
+
+13
+
+13.1
+
+The Business Rate Supplements Act 2009 is amended as follows.
+
+13.2
+
+In section 11 (liability of non-domestic ratepayers), in subsection (3)(a),
+for “section 45A of that Act (empty properties: zero rating for charities and
+amateur sports clubs)” substitute  “ paragraph 2  of  Schedule 4ZB  to that
+Act (empty properties: charitable rate relief)” .
+
+13.3
+
+In section 12 (rateable value condition)—
+
+13.3.a
+
+in subsection (5), after “apportionment” in both places it occurs substitute
+“or apportionments” ;
+
+13.3.b
+
+for subsection (9) substitute—
+
+13.3.b.9
+
+The rateable value of a hereditament on a day is—
+
+13.3.b.9.a
+
+in a case where the day on which  paragraph 3  of  Schedule 4ZA  to the Local
+Government Finance Act 1988 applies in relation to the hereditament, the
+rateable value of the hereditament shown for that day in the local non-
+domestic rating list maintained for the billing authority in whose area the
+hereditament is situated minus G (within the meaning of that Schedule), or
+
+13.3.b.9.b
+
+in any other case, the rateable value of the hereditament shown for that day
+in the local non-domestic rating list maintained for the billing authority in
+whose area the hereditament is situated.
+
+13.4
+
+In section 13 (chargeable amount)—
+
+13.4.a
+
+in subsection (2), for “(3)” substitute  “(2A)” ;
+
+13.4.b
+
+after subsection (2) insert—
+
+13.4.b.2A
+
+If  paragraph 2  of  Schedule 4ZA  to the 1988 Act (charitable rate relief)
+applies, the amount is calculated by using the formula—
+
+A × B C × 5
+
+;
+
+13.4.c
+
+in subsection (3), for “section 43(4B) of the 1988 Act (small businesses)”
+substitute  “ paragraph 4  of  Schedule 4ZA  to the 1988 Act (small business
+rate relief)” ;
+
+13.4.d
+
+omit subsection (3A);
+
+13.4.e
+
+in subsection (3B), for “section 43(4I) of the 1988 Act (public lavatories)
+applies” substitute  “any of paragraphs  6  (heat networks rate relief),  7
+(public lavatories rate relief) or  8  (rural rate relief) of  Schedule 4ZA
+to the 1988 Act apply” ;
+
+13.4.f
+
+omit subsections (4) and (5);
+
+13.4.g
+
+for subsection (6), for “section 45(4A) of” substitute  “ paragraph 1 (2)  of
+Schedule 4ZB  to” ;
+
+13.4.h
+
+omit subsection (6A);
+
+13.4.i
+
+in subsection (9) for “section 43(4B), (4F), (4I), (6) or (6B) or 45(4A) or
+(4D) of” substitute  “paragraph  2 ,  4 ,  6 ,  7  or  8  of  Schedule 4ZA  or
+paragraph 1 (2)  of  Schedule 4ZB  to” .
+
+13.5
+
+In section 14 (chargeable amount: supplementary)—
+
+13.5.a
+
+for subsection (5) substitute—
+
+13.5.a.5
+
+“ E ” has the meaning it has for the purposes of  Schedule 4ZA  to the 1988
+Act.
+
+13.5.a.5A
+
+“ N ” has the meaning it has for the purposes of  Schedule 4ZB  to the 1998
+Act.
+
+;
+
+13.5.b
+
+in subsection 9(b), for “an order under section 45(4A) of the 1988 Act is”
+substitute  “regulations under  paragraph 1 (2)  of  Schedule 4ZB  to the 1988
+Act are” .
+
+14
+
+14.1
+
+The Local Government Act 2003 is amended as follows.
+
+14.2
+
+In section 50 (approval by ballot of business improvement district proposals),
+in subsection (6), for the words from “that shown” to the end substitute
+
+—
+
+14.2.a
+
+in a case where the day of the ballot is a day on which  paragraph 3  of
+Schedule 4ZA  to the Local Government Finance Act 1988 applies in relation to
+the hereditament, the rateable value shown for that day under section 42(4) of
+that Act as regards the hereditament minus G (within the meaning of that
+Schedule), or
+
+14.2.b
+
+in any other case, the rateable value shown for that day under section 42(4)
+of that Act as regards the hereditament.
+
+14.3
+
+Omit section 61 (small business relief).
+
+14.4
+
+In section 63 (rural settlement lists) omit subsection (2).
+
+14.5
+
+In section 64 (relief for registered community amateur sports clubs) omit
+subsection (1).
+
+15
+
+In the Postal Services Act 2000, in Schedule 8 (amendment of enactments) omit
+paragraph 21 and the italic heading before it.
+
+16
+
+In the Local Government and Rating Act 1997, in Schedule 1 (relief from non-
+domestic rates for general stores etc in rural settlements: England and Wales)
+omit paragraphs 2, 5 and 6.
+
+17
+
+In the National Heritage Act 1980, in Schedule 1 (the trustees of the National
+Heritage Memorial Fund), in paragraph 2 (status), for “Sections 43(6), 45A and
+47 of” substitute  “Section 47 of, and  paragraph 2  of  Schedule 4ZA ,
+paragraph 2  of  Schedule 4ZB  and  paragraph 2  of  Schedule 5A  to,” .
+
+###### Repeals of spent and superseded Acts
+
+18
+
+18.1
+
+The following Acts are repealed—
+
+18.1.a
+
+the Non-Domestic Rating (Public Lavatories) Act 2021;
+
+18.1.b
+
+the Telecommunications Infrastructure (Relief from Non-Domestic Rates) Act
+2018;
+
+18.1.c
+
+the Rating (Empty Properties) Act 2007;
+
+18.1.d
+
+the Rating (Former Agricultural Premises and Rural Shops) Act 2001.
+
+18.2
+
+The repeal of the Rating (Empty Properties) Act 2007 does not affect the
+amendments made by paragraph 4 of the Schedule to that Act.
+
+##### Provision consequential on sections 
+
+19
+
+The Non-Domestic Rating (Chargeable Amounts) (England) Regulations 2022 ( S.I.
+2022/1403 ) are amended as follows.
+
+20
+
+In regulation 3 (interpretation), in paragraph (1) omit the definitions of—
+
+20.a
+
+“early relevant year”;
+
+20.b
+
+“final relevant year”.
+
+21
+
+21.1
+
+Regulation 4 (relevant period, relevant day and relevant year) is amended as
+follows.
+
+21.2
+
+In paragraph (1), for “2028” substitute  “2026” .
+
+21.3
+
+In paragraph (3), for “, 2025 or 2027” substitute  “or 2025” .
+
+21.4
+
+Omit paragraphs (4) and (5).
+
+22
+
+In regulation 6 (special authorities), in paragraph (1), for “an early”
+substitute  “a” .
+
+23
+
+23.1
+
+Regulation 7 (notional chargeable amount: early relevant years) is amended as
+follows.
+
+23.2
+
+In the heading, omit “: early relevant years”.
+
+23.3
+
+In paragraph (1), for “an early” substitute  “a” .
+
+24
+
+In regulation 9 (base liability for early relevant years subsequent to
+2023-24), in the heading, for “early relevant years subsequent to 2023-24”
+substitute  “2024-25 and 2025-26” .
+
+25
+
+25.1
+
+Regulation 10 (appropriate fraction) is amended as follows.
+
+25.2
+
+In paragraph (1), for “an early” substitute  “a” .
+
+25.3
+
+In paragraph (7), in sub-paragraph (b), in the opening words, omit “early”.
+
+26
+
+In regulation 11 (application of regulation 12), in paragraph (1), in the
+words before sub-paragraph (a), for “an early” substitute  “a” .
+
+27
+
+In regulation 12 (rules for determining chargeable amount: early relevant
+years), in the heading, omit “: early relevant years”.
+
+28
+
+Omit regulation 14 (application of regulation 15).
+
+29
+
+Omit regulation 15 (rules for determining chargeable amounts: final relevant
+year).
+
+30
+
+In regulation 16 (change in rateable value on 1st April 2023), in paragraph
+(2)—
+
+30.a
+
+for “: early relevant years),” substitute  “) and” ;
+
+30.b
+
+omit “and 15 (rules for determining chargeable amount: final relevant year)”.
+
+31
+
+31.1
+
+The Schedule (splits and mergers) is amended as follows.
+
+31.2
+
+In paragraph 2 (rules for determination of chargeable amount for new
+hereditament: splits on 1st April 2023), in sub-paragraph (1), omit “early”.
+
+31.3
+
+In paragraph 3 (rules for determination of chargeable amount for new
+hereditament: mergers on 1st April 2023), in sub-paragraph (1) omit “early”.
+
+31.4
+
+In paragraph 4 (rules for determining chargeable amount for new hereditament:
+splits after 1st April 2023 in an early relevant year)—
+
+31.4.a
+
+in the heading, omit “in an early relevant year”;
+
+31.4.b
+
+in sub-paragraph (1)—
+
+31.4.b.i
+
+in the words before paragraph (a), omit “early”;
+
+31.4.b.ii
+
+in paragraph (b), omit “and in an early relevant year”.
+
+31.5
+
+In paragraph 5 (rules for determining chargeable amount for new hereditament:
+mergers after 1st April 2023 in an early relevant year)—
+
+31.5.a
+
+in the heading, omit “in an early relevant year”;
+
+31.5.b
+
+in sub-paragraph (1)—
+
+31.5.b.i
+
+in the words before paragraph (a), omit “early”;
+
+31.5.b.ii
+
+in paragraph (b), omit “in an early relevant year”.
+
+31.6
+
+In paragraph 6 (changes in the value of new hereditament: early relevant year
+of creation)—
+
+31.6.a
+
+in the heading, omit “early”;
+
+31.6.b
+
+in sub-paragraphs (1) and (3), for “an early” substitute  “a” .
+
+31.7
+
+In paragraph 7 (notional chargeable amount for new hereditament: early
+relevant years)—
+
+31.7.a
+
+in the heading, omit “: early relevant years”;
+
+31.7.b
+
+in sub-paragraph (1) for “an early” substitute  “a” .
+
+31.8
+
+In paragraph 8 (base liability for the early relevant year after the year in
+which the creation day falls)—
+
+31.8.a
+
+in the heading, omit “early”;
+
+31.8.b
+
+in sub-paragraph (1), for “an early” substitute  “the” .
+
+31.9
+
+In paragraph 9 (base liability for subsequent early relevant years for new
+hereditament)—
+
+31.9.a
+
+in the heading, omit “early”;
+
+31.9.b
+
+in sub-paragraph (1), omit “early”.
+
+31.10
+
+In paragraph 10 (rateable value: hereditament split or merged after 1st April
+2023), in sub-paragraph (2)—
+
+31.10.a
+
+after paragraph (a) insert  “and” ;
+
+31.10.b
+
+omit paragraph (c) and the “and” preceding it.
+
+##### Provision consequential on section 
+
+32
+
+The Act is amended as follows.
+
+33
+
+In section 53 (contents of central lists)—
+
+33.a
+
+in the heading, at the end insert  “for Wales” ;
+
+33.b
+
+in subsection (1)—
+
+33.b.i
+
+for “Secretary of State” substitute  “Welsh Ministers” ;
+
+33.b.ii
+
+after “hereditament” insert  “in Wales” ;
+
+33.c
+
+in subsection (2)—
+
+33.c.i
+
+after “list” insert  “compiled for Wales” ;
+
+33.c.ii
+
+after “hereditament” insert  “in Wales” ;
+
+33.d
+
+in subsection (5)—
+
+33.d.i
+
+after “list” insert  “compiled for Wales” ;
+
+33.d.ii
+
+for “Secretary of State” substitute  “Welsh Ministers” .
+
+34
+
+In section 54 (central rating: liability) before subsection (8) insert—
+
+34.7A
+
+Where, in a central non-domestic rating list compiled for England, more than
+one description of relevant non-domestic hereditament is shown against the
+ratepayer’s name for a chargeable day the reference in subsection (2)(a) to
+finding the chargeable amount for each chargeable day is to be read as a
+reference to finding the chargeable amount for each chargeable day in respect
+of each description of hereditament shown against the ratepayer’s name for
+that day.
+
+35
+
+In section 63A (disclosure of Revenue and Customs information), in subsection
+(4)(b), after “section” insert  “52A,” .
+
+36
+
+In section 65A (Crown property), in subsection (7), for “power conferred by
+section” insert  “powers conferred by sections 52A(4) or” .
+
+37
+
+In section 67 (interpretation: other provisions)—
+
+37.a
+
+after subsection (8) insert—
+
+37.a.8A
+
+In relation to England—
+
+37.a.8A.a
+
+any reference to a hereditament required to be shown for a day in a central
+non-domestic rating list includes a reference to a hereditament which on that
+day falls within a description required to be shown for the day in the list,
+and
+
+37.a.8A.b
+
+a hereditament is to be treated as shown in a central non-domestic rating list
+for a day if on that day—
+
+37.a.8A.b.i
+
+it falls within a description of hereditament shown for the day in the list in
+relation to a person, and
+
+37.a.8A.b.ii
+
+it is occupied or (if unoccupied) owned by that person.
+
+37.a.8B
+
+In relation to England, a hereditament falls within a description or class on
+a particular day if (and only if) it falls within the description or class
+immediately before the day ends.
+
+;
+
+37.b
+
+in subsection (9), at the beginning insert  “In relation to Wales,” ;
+
+37.c
+
+in subsection (12), after “non-domestic rate,” insert  “or prevent a person or
+description of hereditament being shown in a list by virtue of a direction
+under section 52A,” .
+
+38
+
+In  Schedule 5A  (inserted by  section 3  of this Act), after  paragraph 7
+insert—
+
+38.8
+
+Where, in a central non-domestic rating list compiled for England, more than
+one description of relevant non-domestic hereditament is shown against the
+ratepayer’s name for a chargeable day—
+
+38.8.a
+
+the reference in  paragraph 1  to the chargeable amount for a chargeable day
+is to be read as a reference to the chargeable amount for a chargeable day in
+respect of a description of hereditament shown against the ratepayer’s name
+for that day, and
+
+38.8.b
+
+paragraph 6  of this Schedule has effect as if for  sub-paragraph (2)  there
+were substituted—
+
+38.8.b.2
+
+“A” is—
+
+38.8.b.2.a
+
+where the day concerned is a day to which  paragraph 3  applies, the rateable
+value shown for the day in the list against the ratepayer’s name in relation
+to that description of hereditament minus G;
+
+38.8.b.2.b
+
+in any other case, the rateable value shown for the day in the list against
+the ratepayer’s name in relation to that description of hereditament.
+
+##### Provision consequential on 
+
+###### Consequential amendments of the Act
+
+39
+
+In section 143 of the Act (orders and regulations)—
+
+39.a
+
+after subsection (9AZA) insert—
+
+39.a.9AZB
+
+The power of the Commissioners for His Majesty’s Revenue and Customs to make
+regulations under  paragraph 5FA  of Schedule 9 is exercisable by statutory
+instrument, and no such regulations may be made by the Commissioners unless a
+draft of the regulations has been laid before and approved by a resolution of
+each House of Parliament.
+
+;
+
+39.b
+
+in subsection (9AA)—
+
+39.b.i
+
+for “an order under paragraph 5G” substitute “regulations under  paragraph 5FB
+“;
+
+39.b.ii
+
+for “order” in the second place it occurs substitute  “regulations” ;
+
+39.b.iii
+
+for “it” substitute  “the regulations” .
+
+40
+
+Schedule 9 to the Act (administration) is amended as follows.
+
+41
+
+Before paragraph 5, in the italic heading, at the end insert  “ to be provided
+to valuation officer or billing authority: Wales ” .
+
+42
+
+In paragraph 5, in sub-paragraph (1), in the words before paragraph (a), after
+“hereditament” insert  “situated in Wales” .
+
+43
+
+Before paragraph 5A insert the italic heading—
+
+Information to be provided to valuation officer or billing authority:
+penalties: Wales
+
+.
+
+44
+
+Before paragraph 5C insert the italic heading—
+
+Appeals of decisions of valuation officer or billing authority: Wales
+
+.
+
+45
+
+In paragraph 5C, for sub-paragraph (7) substitute—
+
+45.7
+
+In this paragraph “ valuation tribunal ” means a valuation tribunal
+established under paragraph 1 of Schedule 11.
+
+46
+
+After paragraph 5C insert —
+
+########## Supplementary
+
+46.5CA
+
+46.5CA.1
+
+Subject to  sub-paragraph (2) , any penalty imposed under  paragraph 5ZA (1) ,
+(2)  or  (7)  may be recovered by the officer of His Majesty’s Revenue and
+Customs concerned as a civil debt due to the officer.
+
+46.5CA.2
+
+No claim to recover any such penalty may be made before the end of the period
+within which the penalty must be paid.
+
+47
+
+After  paragraph 5CA  (inserted by  paragraph 46 ) insert—
+
+47.5CB
+
+47.5CB.1
+
+Subject to  sub-paragraph (2) , any penalty imposed under  sub-paragraph (1)
+or  (3)  of  paragraph 5ZC  or  sub-paragraph (3)  of  paragraph 5ZD  may be
+recovered by the valuation officer concerned as a civil debt due to the
+officer.
+
+47.5CB.2
+
+No claim to recover any such penalty may be made before the end of the period
+within which the penalty must be paid.
+
+48
+
+In paragraph 5E, in sub-paragraph (1), for “paragraph” substitute  “
+paragraphs 5ZC ,  5ZD  or” .
+
+49
+
+In paragraph 5F—
+
+49.a
+
+before sub-paragraph (1) insert—
+
+49.a.A1
+
+The Secretary of State may by regulations make provision in relation to
+notices served under  paragraphs 4M  and  5ZC .
+
+;
+
+49.b
+
+in sub-paragraph (1), for the words from the beginning to “Wales,” substitute
+“The Welsh Ministers” ;
+
+49.c
+
+after that sub-paragraph insert—
+
+49.c.1A
+
+The Commissioners for His Majesty’s Revenue and Customs may by regulations
+make provision in relation to notices served under  paragraph 5ZA .
+
+49.c.1B
+
+The Commissioners for His Majesty's Revenue and Customs must consult the Welsh
+Ministers before making regulations under  sub-paragraph (1A)  if and to the
+extent that the regulations make provision in relation to Wales.
+
+;
+
+49.d
+
+in subsection (2), in paragraph (a), for “a valuation officer” substitute  “an
+officer of His Majesty’s Revenue and Customs (including a valuation officer)”
+.
+
+50
+
+After paragraph 5F insert—
+
+50.5FA
+
+50.5FA.1
+
+The Commissioners for His Majesty’s Revenue and Customs may by regulations
+amend  paragraph 5ZA  to increase or decrease the amount of any penalty under
+that paragraph.
+
+50.5FA.2
+
+The Commissioners for His Majesty's Revenue and Customs must consult the Welsh
+Ministers before making regulations under  sub-paragraph (1)  if and to the
+extent that the regulations make provision in relation to Wales.
+
+51
+
+After  paragraph 5FA  (inserted by  paragraph 50 ) insert—
+
+51.5FB
+
+The Secretary of State may by regulations amend  paragraph 5ZC  or  5ZD  to
+increase or decrease the amount of any penalty under those paragraphs.
+
+52
+
+In paragraph 5G, for the words from the beginning to “Wales,” substitute  “The
+Welsh Ministers” .
+
+53
+
+In paragraph 5H—
+
+53.a
+
+for “a valuation officer” substitute  “an officer of His Majesty’s Revenue and
+Customs (including a valuation officer)” ;
+
+53.b
+
+for “5” substitute  “ 4M , 5,  5ZA ,  5ZC ” .
+
+###### Consequential amendments of the Business Rate Supplements Act 2009
+
+54
+
+In Schedule 2 to the Business Rate Supplements Act 2009 (BRS-BID
+arrangements), in paragraph 8 (information), in sub-paragraph (2)—
+
+54.a
+
+in paragraph (c), at the end insert  “as they had effect before the coming
+into force of  section 13  of, and  Part 4  of  the Schedule  to, the Non-
+Domestic Rating Act 2023” ;
+
+54.b
+
+in paragraph (d), at the end insert
+
+that—
+
+54.b.a
+
+had effect before the coming into force of  section 13  of, and  Part 4  of
+the Schedule  to, the Non-Domestic Rating Act 2023 (whether or not the
+provision is still in force), or
+
+54.b.b
+
+that could have been made before the coming into force of that section and
+Part of that Schedule.
+
+###### Repeal of the Non-Domestic Rating (Preparation for Digital Services) Act 2019
+
+55
+
+The Non-Domestic Rating (Preparation for Digital Services) Act 2019 is
+repealed.
+
+##### Provision consequential on section 
+
+56
+
+In Schedule 7 to the Act, Part 1 (non-domestic rating multipliers) is amended
+in accordance with paragraphs  57  to  66 .
+
+57
+
+In the heading to that Part, at the end insert  “: Wales” .
+
+58
+
+58.1
+
+In paragraph 1 (introduction), sub-paragraph (1) is amended as follows.
+
+58.2
+
+After “has effect to determine” insert  “, in relation to Wales,” .
+
+58.3
+
+Omit “and, in relation to England, the small business non-domestic rating
+multiplier”.
+
+59
+
+Omit paragraph 2 (general provisions).
+
+60
+
+Omit paragraphs 3 and 3A (non-domestic rating multipliers in relation to
+England: non-revaluation years).
+
+61
+
+In paragraph 3B (non-domestic rating multiplier in relation to Wales: non-
+revaluation years), in sub-paragraph (1) omit “In relation to Wales,”.
+
+62
+
+Omit paragraphs 4 and 4A (non-domestic rating multipliers in relation to
+England: revaluation years).
+
+63
+
+In paragraph 4B (non-domestic rating multiplier in relation to Wales:
+revaluation years) omit “In relation to Wales,”.
+
+64
+
+64.1
+
+Paragraph 5 (interpretation) is amended as follows.
+
+64.2
+
+In sub-paragraph (1), for “3 to 4B” substitute  “3B and 4B” .
+
+64.3
+
+Omit sub-paragraph (2).
+
+64.4
+
+In sub-paragraph (2A) omit “In relation to Wales,”.
+
+64.5
+
+Omit sub-paragraphs (3) to (5).
+
+64.6
+
+For sub-paragraph (5A) substitute—
+
+64.6.5A
+
+B is the consumer prices index for September of the financial year preceding
+the year concerned.
+
+64.6.5AA
+
+C is the consumer prices index for September of the financial year which
+precedes that preceding the year concerned.
+
+64.7
+
+In sub-paragraph (6), in the words before paragraph (a) omit “the Secretary of
+State’s or, as the case may be,”.
+
+64.8
+
+In sub-paragraph (7), in the words before paragraph (a) omit “the Secretary of
+State’s or, as the case may be,”.
+
+64.9
+
+Omit sub-paragraphs (8) and (9).
+
+64.10
+
+In sub-paragraph (9A), for “(5A) and (5B)” substitute  “ (5A)  to (5B)” ;
+
+64.11
+
+In sub-paragraph (10) omit “to the Secretary of State on such date as he
+determines or, as the case may be,”.
+
+64.12
+
+Omit sub-paragraph (10A) (inserted by  section 15 (3) (b)  of this Act).
+
+64.13
+
+Omit sub-paragraphs (12) and (13).
+
+64.14
+
+In sub-paragraph (13A), in the words before paragraph (a), after “(5A),”
+insert  “ (5AA) ,” .
+
+65
+
+65.1
+
+Paragraph 6 (supplementary) is amended as follows.
+
+65.2
+
+Omit sub-paragraph (1).
+
+65.3
+
+In paragraph (1A) omit “In relation to Wales,”.
+
+65.4
+
+Omit sub-paragraph (2).
+
+65.5
+
+Omit sub-paragraphs (4) and (4A).
+
+65.6
+
+Omit sub-paragraph (5).
+
+66
+
+Omit paragraphs 7 and 8 (special provision for 1990-95).
+
+67
+
+67.1
+
+In Schedule 7 to the Act, Part 2 (special authority’s multipliers) is amended
+as follows.
+
+67.2
+
+In paragraph 9 (non-domestic rating multiplier), in sub-paragraph (4), in the
+definition of “A”—
+
+67.2.a
+
+omit “so far as relating to England”;
+
+67.2.b
+
+for “Part 1” substitute  “ Part A1 ” .
+
+67.3
+
+In paragraph 9A (small business non-domestic rating multiplier)—
+
+67.3.a
+
+in sub-paragraph (2)(b), for “Part 1” substitute  “ Part A1 ” ;
+
+67.3.b
+
+in sub-paragraph (2)(c) omit “, so far as relating to England,”.
+
+68
+
+In section 140(2) of the Act (separate administration in England and Wales)—
+
+68.a
+
+omit the “, and” at the end of paragraph (a);
+
+68.b
+
+omit paragraph (b).
+
+69
+
+In section 143 of the Act (orders and regulations), for subsection (9)
+substitute—
+
+69.9
+
+The powers to make regulations under paragraph  A10 (4) (b)  or 5(13A) of
+Schedule 7 are exercisable as mentioned in that Schedule.
+

@@ -1,0 +1,625 @@
+Title: The Renting Homes (Prescribed Forms) (Wales) Regulations 2022
+Date: 2024-04-11
+Description: These Regulations prescribe the form of certain notices and other documents required or authorised to be given or made by or because of the Renting Homes (Wales) Act 2016 (anaw 1).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/wsi/2022/244
+
+## The Renting Homes (Prescribed Forms) (Wales) Regulations 2022
+
+    Housing, Wales
+
+  Made   8 March 2022
+
+  Laid before Senedd Cymru   10 March 2022
+
+  Coming into force in accordance with regulation 1
+
+      The Welsh Ministers make the following Regulations in exercise of the
+powers conferred by sections 236(3) and 256(1) of the Renting Homes (Wales)
+Act 2016 .
+
+### Title and commencement
+
+1
+
+The title of these Regulations is the Renting Homes (Prescribed Forms) (Wales)
+Regulations 2022 and they come into force on   1 December 2022 (the day on
+which section 239 of the Act comes into force)  .
+
+### Interpretation
+
+2
+
+In these Regulations—
+
+    “the Act” (“ y Ddeddf ”) means the Renting Homes (Wales) Act 2016;
+“introductory standard contract” (“ contract safonol rhagarweiniol ”) has the
+meaning given by section 16(4) of the Act;         “prohibited conduct
+standard contract” (“ contract safonol ymddygiad gwaharddedig ”) has the
+meaning given by section 116(6) of the Act;         “standard contract” (“
+contract safonol ”) has the meaning given by section 8 of the Act.
+
+### Prescribed form
+
+3
+
+3.1
+
+The prescribed form of a notice or other document required or authorised to be
+given or made by or because of this Act is as set out in the following
+regulations and Schedule.
+
+3.2
+
+A notice or other document in a form substantially to the same effect as the
+prescribed form is valid.
+
+### Notice of standard contract
+
+4
+
+The prescribed form of a notice under section 13 of the Act is as set out in
+Form RHW1 in the Schedule.
+
+### Notice of landlord’s address
+
+5
+
+The prescribed form of a notice under section 39(1) of the Act is as set out
+in Form RHW2 in the Schedule.
+
+### Notice of change in landlord’s identity and notice of new landlord’s address
+
+6
+
+The prescribed form of a notice under section 39(2) of the Act is as set out
+in Form RHW3 in the Schedule.
+
+### Notice of change in landlord’s address
+
+7
+
+The prescribed form of a notice under section 39(3) of the Act is as set out
+in Form RHW4 in the Schedule.
+
+### Notice of conditions imposed by head landlord when consenting to a sub-occupation contract
+
+8
+
+The prescribed form of a notice under section 61(2) of the Act is as set out
+in Form RHW5 in the Schedule.
+
+### Notice of head landlord’s decision to treat sub-occupation contract as a periodic standard contract
+
+9
+
+The prescribed form of a notice under section 61(7) of the Act is as set out
+in Form RHW6 in the Schedule.
+
+### Notice to sub-holder of a possession claim against the contract-holder
+
+10
+
+The prescribed form of a notice under section 64(2) of the Act is as set out
+in Form RHW7 in the Schedule.
+
+### Notice of extended possession claim against the sub-holder
+
+11
+
+The prescribed form of a notice under section 65(3)(b) of the Act is as set
+out in Form RHW8 in the Schedule.
+
+### Notice of potential exclusion of contract-holder after abandoning the head contract and the sub-occupation contract
+
+12
+
+The prescribed form of a notice under section 66(3) of the Act is as set out
+in Form RHW9 in the Schedule.
+
+### Form of transfer: transfer of an occupation contract by a contract-holder
+
+13
+
+The prescribed form of a transfer under section 69(1)(a) of the Act is as set
+out in Form RHW10 in the Schedule.
+
+### Form of transfer: transfer of rights and obligations under an occupation contract by a joint contract-holder
+
+14
+
+The prescribed form of a transfer under section 69(1)(b) of the Act is as set
+out in Form RHW11 in the Schedule.
+
+### Notice of variation of rent
+
+15
+
+The prescribed form of a notice under section 104(1) or 123(1) of the Act is
+as set out in Form RHW12 in the Schedule.
+
+### Notice of transfer of rights and obligations under a fixed term standard contract by a joint contract-holder
+
+16
+
+The prescribed form of a notice under a contract term of the type mentioned in
+section 141(2) of the Act is as set out in Form RHW13 in the Schedule.
+
+### Notice of transfer of rights and obligations under a fixed term standard contract on the death of a joint contract-holder
+
+17
+
+The prescribed form of a notice under a contract term of the type mentioned in
+section 142(2) of the Act is as set out in Form RHW14 in the Schedule.
+
+### Notice of temporary exclusion: supported standard contract
+
+18
+
+The prescribed form of a notice under section 145(4) of the Act is as set out
+in Form RHW15 in the Schedule.
+
+### Landlord’s notice of termination: periodic standard contract with six-month minimum notice period (other than introductory standard contract or prohibited conduct standard contract)
+
+19
+
+The prescribed form of a notice under section 173(1) of the Act is as set out
+in Form RHW16 in the Schedule, where—
+
+19.a
+
+the date specified in the notice may not be less than six months after the day
+on which the notice is given to the contract-holder as a result of section
+174(1) of the Act , and
+
+19.b
+
+the notice relates to a periodic standard contract other than an introductory
+standard contract or a prohibited conduct standard contract.
+
+### Landlord’s notice of termination: periodic standard contract with two-month minimum notice period (other than introductory standard contract or prohibited conduct standard contract)
+
+20
+
+The prescribed form of a notice under section 173(1) of the Act is as set out
+in Form RHW17 in the Schedule, where—
+
+20.a
+
+the date specified in the notice may not be less than two months after the day
+on which the notice is given to the contract-holder as a result of—
+
+20.a.i
+
+section 174A(1) of the Act , or
+
+20.a.ii
+
+the application of paragraph 25A(2)  of Schedule 12 to section 174(1) of the
+Act, and
+
+20.b
+
+the notice relates to a periodic standard contract other than an introductory
+standard contract or a prohibited conduct standard contract.
+
+### Landlord’s notice of termination: introductory standard contract or prohibited conduct standard contract
+
+21
+
+The prescribed form of a notice under section 173(1) of the Act, in respect of
+an introductory standard contract or a prohibited conduct standard contract,
+is as set out in Form RHW18 in the Schedule.
+
+### Notice of withdrawal of landlord’s notice of termination: periodic standard contract
+
+22
+
+The prescribed form of a notice under section 180(3) of the Act  is as set out
+in Form RHW19 in the Schedule.
+
+### Notice of possession claim on the ground of serious rent arrears: standard contract (other than introductory standard contract or prohibited conduct standard contract)
+
+23
+
+The prescribed form of a notice under—
+
+23.a
+
+section 182(1) of the Act, in respect of a standard contract other than an
+introductory standard contract or a prohibited conduct standard contract, or
+
+23.b
+
+section 188(1) of the Act,
+
+is as set out in Form RHW20 in the Schedule.
+
+### Notice of possession claim on the ground of serious rent arrears: introductory standard contract or prohibited conduct standard contract
+
+24
+
+The prescribed form of a notice under section 182(1) of the Act, in respect of
+an introductory standard contract or a prohibited conduct standard contract,
+is as set out in Form RHW21 in the Schedule.
+
+### Landlord’s notice of termination: fixed term standard contract within Schedule 9B to the Act
+
+25
+
+The prescribed form of a notice under section 186(1) of the Act  is as set out
+in Form RHW22 in the Schedule.
+
+### Notice before making a possession claim
+
+26
+
+The prescribed form of a notice under section 159(1), 161(1), 166(1), 171(1)
+or 192(1) of the Act is as set out in Form RHW23 in the Schedule.
+
+### Notice of termination under landlord’s break clause: fixed term standard contract with six-month minimum notice period
+
+27
+
+The prescribed form of a notice—
+
+27.a
+
+under a contract term of the type mentioned in section 194(1)  of the Act
+(landlord’s break clause), and
+
+27.b
+
+where the date specified in the notice may not be less than six months after
+the day on which the notice is given to the contract-holder as a result of
+section 195(1) of the Act ,
+
+is as set out in Form RHW24 in the Schedule.
+
+### Notice of termination under landlord’s break clause: fixed term standard contract with two-month minimum notice period
+
+28
+
+The prescribed form of a notice—
+
+28.a
+
+under a contract term of the type mentioned in section 194(1) of the Act
+(landlord’s break clause), and
+
+28.b
+
+where the date specified in the notice may not be less than two months after
+the day on which the notice is given to the contract-holder as a result of—
+
+28.b.i
+
+section 195A(1) of the Act , or
+
+28.b.ii
+
+the application of paragraph 25D(2) of Schedule 12 to sections 194 and 195 of
+the Act ,
+
+is as set out in Form RHW25 in the Schedule.
+
+### Notice of withdrawal of notice of termination under landlord’s break clause: fixed term standard contract
+
+29
+
+The prescribed form of a notice under section 201(3) of the Act  is as set out
+in Form RHW26 in the Schedule.
+
+### Notice of landlord’s intention to end occupation contract due to abandonment
+
+30
+
+The prescribed form of a notice under section 220(3) of the Act is as set out
+in RHW27 in the Schedule.
+
+### Notice of end of occupation contract due to abandonment
+
+31
+
+The prescribed form of a notice under section 220(5) of the Act is as set out
+in Form RHW28 in the Schedule.
+
+### Notice of landlord’s intention to end rights and obligations of a joint contract-holder due to non-occupation
+
+32
+
+The prescribed form of a notice under section 225(3) of the Act is as set out
+in Form RHW29 in the Schedule.
+
+### Notice of end of rights and obligations of a joint contract-holder due to non-occupation
+
+33
+
+The prescribed form of a notice under section 225(6) of the Act is as set out
+in RHW30 in the Schedule.
+
+### Notice of joint contract-holder’s intention to apply for an order ending rights and obligations of another joint contract-holder due to non-occupation
+
+34
+
+The prescribed form of a notice under section 227(3) of the Act is as set out
+in Form RHW31 in the Schedule.
+
+### Notice of landlord’s intention to apply for an order ending a joint contract-holder’s rights and obligations due to prohibited conduct
+
+35
+
+The prescribed form of a notice under section 230(2) of the Act is as set out
+in Form RHW32 in the Schedule.
+
+### Notice to other joint contract-holders of landlord’s intention to apply for an order ending a joint contract-holder’s rights and obligations due to prohibited conduct
+
+36
+
+The prescribed form of a notice under section 230(3) of the Act is as set out
+in Form RHW33 in the Schedule.
+
+### Notice of extension of introductory period
+
+37
+
+The prescribed form of a notice under paragraph 3 of Schedule 4 to the Act is
+as set out in Form RHW34 in the Schedule.
+
+### Notice of intention to apply for an order imposing a prohibited conduct standard contract
+
+38
+
+The prescribed form of a notice under paragraph 1(1) of Schedule 7 to the Act
+is as set out in Form RHW35 in the Schedule.
+
+### Notice of end of probation period: prohibited conduct standard contract
+
+39
+
+The prescribed form of a notice under paragraph 3(2) of Schedule 7 to the Act
+is as set out in Form RHW36 in the Schedule.
+
+### Notice of extension of probation period: prohibited conduct standard contract
+
+40
+
+The prescribed form of a notice under paragraph 4(1) of Schedule 7 to the Act
+is as set out in Form RHW37 in the Schedule.
+
+### Landlord’s notice of termination: fixed term standard contract (converted contract)
+
+41
+
+The prescribed form of a notice under paragraph 25B(2) of Schedule 12 to the
+Act  is as set out in Form RHW38 in the Schedule.
+
+      Julie James   Minister for Climate Change, one of the Welsh Ministers
+
+Prescribed Forms
+
+Regulation 3
+
+Regulation 4
+
+
+
+
+
+Regulation 5
+
+
+
+Regulation 6
+
+
+
+Regulation 7
+
+
+
+Regulation 8
+
+
+
+Regulation 9
+
+
+
+Regulation 10
+
+
+
+Regulation 11
+
+
+
+Regulation 12
+
+
+
+Regulation 13
+
+
+
+
+
+Regulation 14
+
+
+
+
+
+Regulation 15
+
+
+
+Regulation 16
+
+
+
+Regulation 17
+
+
+
+Regulation 18
+
+
+
+
+
+Regulation 19
+
+
+
+
+
+
+
+Regulation 20
+
+
+
+
+
+
+
+Regulation 21
+
+
+
+
+
+
+
+Regulation 22
+
+
+
+
+
+Regulation 23
+
+
+
+
+
+Regulation 24
+
+
+
+
+
+Regulation 25
+
+
+
+
+
+Regulation 26
+
+
+
+
+
+
+
+Regulation 27
+
+
+
+
+
+
+
+Regulation 28
+
+
+
+
+
+
+
+Regulation 29
+
+
+
+Regulation 30
+
+
+
+Regulation 31
+
+
+
+Regulation 32
+
+
+
+
+
+Regulation 33
+
+
+
+Regulation 34
+
+
+
+
+
+Regulation 35
+
+
+
+
+
+Regulation 36
+
+
+
+Regulation 37
+
+
+
+Regulation 38
+
+
+
+Regulation 39
+
+
+
+Regulation 40
+
+
+
+Regulation 41
+
+
+
+
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations prescribe the form of certain notices and other documents
+required or authorised to be given or made by or because of the Renting Homes
+(Wales) Act  2016 (anaw 1) .
+
+Regulation 3(1) introduces the regulations and Schedule which set out the form
+of the notices and other documents prescribed by these Regulations. Regulation
+3(2) provides that a notice or other document which is in a form substantially
+to the same effect is valid.
+
+Regulations 4 to 41 prescribe the form of each specified notice or other
+document.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
+Assessments was considered in relation to these Regulations. As a result, a
+regulatory impact assessment has been prepared as to the likely costs and
+benefits of complying with these Regulations. A copy can be obtained from the
+Department of Housing, Welsh Government, Rhydycar Business Park, Merthyr
+Tydfil, CF48 1UZ.
+

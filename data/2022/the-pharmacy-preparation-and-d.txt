@@ -1,0 +1,601 @@
+Title: The Pharmacy (Preparation and Dispensing Errors – Hospital and Other Pharmacy Services) Order 2022
+Date: 2023-06-15
+Description: This Order makes provision relating to preparation errors and dispensing errors by registered pharmacists and registered pharmacy technicians, or persons supervised by them, in the course of the provision of certain pharmacy services. Pharmacy technicians are not statutorily registered in Northern Ireland, and so, as regards Northern Ireland, this Order only makes provision relating to preparation errors and dispensing errors by registered pharmacists and persons supervised by them.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/851
+
+## The Pharmacy (Preparation and Dispensing Errors – Hospital and Other Pharmacy Services) Order 2022
+
+    Medicines       Health Care And Associated Professions
+
+  Made   19th July 2022
+
+  Coming into force in accordance with article 1
+
+    At the Court at Windsor Castle, the 19th day of July 2022 Present, The
+Queen’s Most Excellent Majesty in Council         This Order in Council is
+made in exercise of the powers conferred by sections 60(1)(a), (2)(aa) and
+(2A) and 62(4) and (4A) of, and paragraphs 1(e), 2, 3 and 6 of Schedule 3 to,
+the Health Act 1999 .     The Secretary of State published a draft of this
+Order in Council and invited representations as required by paragraph 9(1) of
+Schedule 3 to the Health Act 1999.     The period of three months mentioned in
+paragraph 9(2) of that Schedule expired before a draft of this Order in
+Council, together with a report about the consultation, was laid before
+Parliament.     A draft of this Order in Council has been approved by
+resolution of each House of Parliament in accordance with section 62(9) of the
+Health Act 1999.         Accordingly, Her Majesty is pleased, by and with the
+advice of Her Privy Council, to make the following Order in Council:
+
+### General provisions
+
+#### Citation, commencement and interpretation
+
+1
+
+1.1
+
+This Order may be cited as the Pharmacy (Preparation and Dispensing Errors –
+Hospital and Other Pharmacy Services) Order 2022.
+
+1.2
+
+This Part comes into force on the twenty-eighth day after the day on which
+this Order is made.
+
+1.3
+
+Parts 2 and 3 come into force on such days as the Privy Council may by order
+appoint.
+
+1.4
+
+Different days may be appointed under paragraph (3) for different purposes.
+
+1.5
+
+In this Order, “ the 1968 Act ” means the Medicines Act 1968 .
+
+#### Extent
+
+2
+
+2.1
+
+Subject to paragraphs (2) and (3), this Order extends to England, Wales,
+Scotland and Northern Ireland.
+
+2.2
+
+Article 10(1) extends to England, Wales and Scotland only.
+
+2.3
+
+Article 10(2) extends to Northern Ireland only.
+
+#### Transitional and saving provisions
+
+3
+
+3.1
+
+In connection with the commencement of any provision of Part 2 or 3, the Privy
+Council may by order make such transitional or saving provisions as it
+considers appropriate.
+
+3.2
+
+The power to make an order under paragraph (1) may be exercised—
+
+3.2.a
+
+so as to make different provision—
+
+3.2.a.i
+
+for different areas,
+
+3.2.a.ii
+
+with respect to different cases or different classes of cases, and
+
+3.2.a.iii
+
+in respect of the same case or class of case for different purposes;
+
+3.2.b
+
+in relation to all cases to which the power extends or in relation to those
+cases subject to specified exceptions; and
+
+3.2.c
+
+so as to make any supplementary, incidental or consequential provisions which
+the Privy Council considers necessary or expedient.
+
+#### Privy Council procedures and legislative procedures
+
+4
+
+4.1
+
+Any power vested in the Privy Council to make an order under this Part may be
+exercised by any two or more members of the Privy Council.
+
+4.2
+
+Any power of the Privy Council to make an order under this Part is exercisable
+by statutory instrument, and for the purposes of section 1 of the Statutory
+Instruments Act 1946  (definition of “Statutory Instrument”), any power of the
+Privy Council to make an order under this Part is to be taken to be conferred
+by an Act of Parliament.
+
+4.3
+
+An order made (wholly or partly) under article 3(1) is subject to annulment by
+resolution of either House of Parliament.
+
+4.4
+
+Before making an order under article 1(3) that commences an amendment of the
+1968 Act as it applies in Northern Ireland, or article 10(2), the Privy
+Council must obtain the agreement of the Department of Health in Northern
+Ireland to the making of the order.
+
+4.5
+
+Any act of the Privy Council under this Part is sufficiently signified by an
+instrument signed by the Clerk of the Privy Council.
+
+4.6
+
+Where an order of the Privy Council under this Part is signified by an
+instrument purporting to be signed by the Clerk of the Privy Council, that is
+evidence and in Scotland sufficient evidence of—
+
+4.6.a
+
+the fact that the order was duly made; and
+
+4.6.b
+
+the order’s terms.
+
+### Amendment of the Medicines Act 1968
+
+#### Amendment of section 67A of the 1968 Act
+
+5
+
+5.1
+
+Section 67A of the 1968 Act  (defence to offence of contravening section 63(a)
+or (b): product not sold or supplied) is amended as follows.
+
+5.2
+
+In subsection (2), for paragraph (a) substitute—
+
+5.2.a
+
+the adulteration took place—
+
+5.2.a.i
+
+at a registered pharmacy, or
+
+5.2.a.ii
+
+in the course of the provision of a relevant pharmacy service;
+
+.
+
+5.3
+
+In subsection (3), for paragraph (a) substitute—
+
+5.3.a
+
+the adulteration took place—
+
+5.3.a.i
+
+at a registered pharmacy, or
+
+5.3.a.ii
+
+in the course of the provision of a relevant pharmacy service;
+
+.
+
+#### Amendment of section 67B of the 1968 Act
+
+6
+
+6.1
+
+Section 67B of the 1968 Act  (defence to offence of contravening section 63(a)
+or (b): product sold or supplied) is amended as follows.
+
+6.2
+
+In subsection (2), for paragraph (a) substitute—
+
+6.2.a
+
+the adulteration took place—
+
+6.2.a.i
+
+at a registered pharmacy, or
+
+6.2.a.ii
+
+in the course of the provision of a relevant pharmacy service;
+
+.
+
+6.3
+
+In subsection (4), in paragraph (c), after “retail pharmacy business” insert
+“, or the relevant pharmacy service,” .
+
+6.4
+
+In subsection (6), in paragraph (b), after “retail pharmacy business” insert
+“, or the relevant pharmacy service,” .
+
+#### Amendment of section 67C of the 1968 Act
+
+7
+
+7.1
+
+Section 67C of the 1968 Act  (defence to offence of contravening section 64)
+is amended as follows.
+
+7.2
+
+In subsection (2), for paragraph (a) substitute—
+
+7.2.a
+
+the product was dispensed—
+
+7.2.a.i
+
+at or from a registered pharmacy, or
+
+7.2.a.ii
+
+in the course of the provision of a relevant pharmacy service;
+
+.
+
+7.3
+
+In subsection (4), in paragraph (c), after “retail pharmacy business” insert
+“, or the relevant pharmacy service,” .
+
+7.4
+
+In subsection (6), in paragraph (b), after “retail pharmacy business” insert
+“, or the relevant pharmacy service,” .
+
+#### Amendment of section 67D of the 1968 Act
+
+8
+
+In section 67D of the 1968 Act  (defences under sections 67A, 67B and 67C:
+evidence etc) in subsection (4), after “pharmacy” insert  “or a relevant
+pharmacy service” .
+
+#### New section 67F of the 1968 Act
+
+9
+
+9.1
+
+After section 67E of the 1968 Act  (sections 67A to 67D: interpretation)
+insert—
+
+########## Sections 67A to 67D: “relevant pharmacy service”
+
+9.1.67F
+
+9.1.67F.1
+
+For the purposes of sections 67A to 67D a pharmacy service is a relevant
+pharmacy service if conditions A and B are met in respect of it.
+
+9.1.67F.2
+
+Condition A is met in respect of a pharmacy service if—
+
+9.1.67F.2.a
+
+the service is provided in England by a person in the course of carrying on a
+regulated activity in respect of which the person is registered under Chapter
+2 of Part 1 of the Health and Social Care Act 2008 ;
+
+9.1.67F.2.b
+
+the service is provided in Wales—
+
+9.1.67F.2.b.i
+
+in the course of the business of a hospital,
+
+9.1.67F.2.b.ii
+
+in a prison or youth detention accommodation within the meaning of sections
+185 to 187 of the Social Services and Well-being (Wales) Act 2014 (anaw 4)
+(see section 188 of that Act ),
+
+9.1.67F.2.b.iii
+
+in a removal centre, short-term holding facility or pre-departure
+accommodation within the meaning of Part 8 of the Immigration and Asylum Act
+1999  (see section 147 of that Act ),
+
+9.1.67F.2.b.iv
+
+by a person in the course of carrying on or managing an establishment in
+respect of which the person is registered under Part 2 of the Care Standards
+Act 2000 , or
+
+9.1.67F.2.b.v
+
+by a person in the course of providing a regulated service in respect of which
+the person is registered under Chapter 2 of Part 1 of the Regulation and
+Inspection of Social Care (Wales) Act 2016 (anaw 2);
+
+9.1.67F.2.c
+
+the service is provided in Scotland—
+
+9.1.67F.2.c.i
+
+in the course of the business of a hospital,
+
+9.1.67F.2.c.ii
+
+in a prison within the meaning of section 49C of the Criminal Law
+(Consolidation) (Scotland) Act 1995  (see subsection (7) of that section),
+
+9.1.67F.2.c.iii
+
+in a removal centre, short-term holding facility or pre-departure
+accommodation within the meaning of Part 8 of the Immigration and Asylum Act
+1999 (see section 147 of that Act),
+
+9.1.67F.2.c.iv
+
+by a person in the course of providing an independent health care service
+which is registered under section 10P of the National Health Service
+(Scotland) Act 1978 , or
+
+9.1.67F.2.c.v
+
+by a person in the course of carrying on a care service which is registered
+under Chapter 3 of Part 5 of the Public Services Reform (Scotland) Act  2010
+(asp 8) ; or
+
+9.1.67F.2.d
+
+the service is provided in Northern Ireland—
+
+9.1.67F.2.d.i
+
+in the course of the business of a hospital,
+
+9.1.67F.2.d.ii
+
+in a prison or other institution for the treatment of offenders, including a
+place mentioned in section 2 of the Treatment of Offenders Act (Northern
+Ireland) 1968  (c. 29 (N.I.)) and a juvenile justice centre within the meaning
+of the Criminal Justice (Children) (Northern Ireland) Order 1998 ( S.I.
+1998/1504 (N.I. 9) ) (see Article 51(1) of that Order),
+
+9.1.67F.2.d.iii
+
+in a removal centre, short-term holding facility or pre-departure
+accommodation within the meaning of Part 8 of the Immigration and Asylum Act
+1999 (see section 147 of that Act), or
+
+9.1.67F.2.d.iv
+
+by a person in the course of carrying on or managing an establishment in
+respect of which the person is registered under Part 3 of the Health and
+Personal Social Services (Quality, Improvement and Regulation) (Northern
+Ireland) Order 2003 ( S.I. 2003/431 (N.I. 9) ).
+
+9.1.67F.3
+
+Condition B is met in respect of a pharmacy service if it has a chief
+pharmacist.
+
+9.1.67F.4
+
+A chief pharmacist, in relation to a pharmacy service, is a pharmacist who—
+
+9.1.67F.4.a
+
+plays a significant role (irrespective of whether other individuals also do
+so) in—
+
+9.1.67F.4.a.i
+
+the making of decisions about how the whole or a substantial part of the
+activities of the pharmacy service are to be managed or organised, or
+
+9.1.67F.4.a.ii
+
+the actual managing or organising of the whole or a substantial part of those
+activities,
+
+9.1.67F.4.b
+
+has the authority to make decisions that affect the running of the pharmacy
+service so far as concerns the sale or supply of medicinal products, and
+
+9.1.67F.4.c
+
+is responsible for securing that the pharmacy service is carried on safely and
+effectively.
+
+9.1.67F.5
+
+For the purposes of subsection (4)(c) a pharmacy service is carried on safely
+and effectively if it is carried on in ways that ensure its safe and effective
+running so far as concerns the sale or supply of medicinal products.
+
+.
+
+9.2
+
+In consequence of paragraph (1), in section 67E of the 1968 Act
+(interpretation of sections 67A to 67D), in the heading, for “interpretation”
+substitute  ““adulteration” and “registrant”” .
+
+### Amendment of the Pharmacy Order 2010 and the Pharmacy (Northern Ireland) Order 1976
+
+#### Standards of conduct, ethics and performance
+
+10
+
+10.1
+
+In article 48 of the Pharmacy Order 2010  (standards of conduct and
+performance)—
+
+10.1.a
+
+in paragraph (1A), before sub-paragraph (a) insert—
+
+10.1.a.za
+
+chief pharmacists for the purposes of section 67F of the Medicines Act 1968 ,
+
+; and
+
+10.1.b
+
+in paragraph (1B), after “responsibilities of” insert  “chief pharmacists,” .
+
+10.2
+
+In paragraph 1 of Schedule 3 to the Pharmacy (Northern Ireland) Order 1976
+(standards of conduct and performance)—
+
+10.2.a
+
+in sub-paragraph (1A), before paragraph (a) insert—
+
+10.2.a.za
+
+chief pharmacists for the purposes of section 67F of the Medicines Act 1968,
+
+; and
+
+10.2.b
+
+in sub-paragraph (1B), after “responsibilities of” insert  “chief
+pharmacists,” .
+
+      Richard Tilbrook   Clerk of the Privy Council
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Order)
+
+This Order makes provision relating to preparation errors and dispensing
+errors by registered pharmacists and registered pharmacy technicians, or
+persons supervised by them, in the course of the provision of certain pharmacy
+services. Pharmacy technicians are not statutorily registered in Northern
+Ireland, and so, as regards Northern Ireland, this Order only makes provision
+relating to preparation errors and dispensing errors by registered pharmacists
+and persons supervised by them.
+
+Part 1 contains general provisions, including powers to make commencement
+orders and transitional provisions orders – and the procedural requirements
+relating to them.
+
+Part 2 contains amendments to the Medicines Act 1968 (“ the 1968 Act ”) which
+modify the defences to offences of contravening sections 63 and 64 of the 1968
+Act that were inserted by the Pharmacy (Preparation and Dispensing Errors –
+Registered Pharmacies) Order 2018  (“ the 2018 Order ”). The 2018 Order
+inserted defences that were only available in respect of preparation or
+dispensing errors in respect of medicinal products for human use prepared or
+dispensed at registered pharmacies, which generally are retail pharmacy
+premises. In summary, these defences are modified so that they are now also
+available in respect of medicinal products for human use prepared or dispensed
+in certain other settings.
+
+The offences of contravening section 63 of the 1968 Act relate to adulteration
+of medicinal products for human use. If the product is not sold or supplied,
+in order to benefit from the defence in section 67A of the 1968 Act in
+relation to contravening section 63, the defendant is already required to show
+firstly that the person who adulterated the product was either a registered
+pharmacist or a registered pharmacy technician who was acting in the course of
+his or her profession, or was someone acting under the supervision of such a
+registrant – and secondly that he or she did not know that the product was
+being or had been adulterated. The third element of the defence, that the
+adulteration must have taken place at a registered pharmacy, has been
+broadened (article 5) so that it is now also available if the adulteration
+took place in the course of the provision of a relevant pharmacy service.
+
+What is meant by a “relevant pharmacy service” is set out in section 67F of
+the 1968 Act (article 9). Pharmacy services are “relevant pharmacy services”
+if two conditions are met. Firstly, the pharmacy service has to be the
+pharmacy service for a facility where certain regulated activities are carried
+on – hospitals, care homes, places where people are lawfully detained (such as
+prisons and pre-departure accommodation for people facing deportation) and
+other similar facilities. Secondly, the pharmacy service must have a chief
+pharmacist. Some of the requirements of the role of the chief pharmacist are
+specified, but amendments are also made, in Part 3, to the Pharmacy Order 2010
+and the Pharmacy (Northern Ireland) Order 1976 to give the General
+Pharmaceutical Council and the Pharmaceutical Society of Northern Ireland
+additional powers in relation to describing chief pharmacists’
+responsibilities and setting standards of conduct and performance in relation
+to them (article 10).
+
+Essentially, the approach taken to modification of the defence in section 67A
+of the 1968 Act is also applied in relation to the other defences in respect
+of errors inserted into the 1968 Act by the 2018 Order. If an adulterated
+product is sold or supplied, the defence in relation to contravening section
+63 that was inserted by the 2018 Order is in section 67B of the 1968 Act. As
+was the case in relation to section 67A, the section 67B defence, as
+originally inserted, was only available if the adulteration by or under the
+supervision of a registered pharmacist or pharmacy technician took place at a
+registered pharmacy. However, section 67B has been modified so that the
+defence is also available if the adulteration takes place in the course of the
+provision of a relevant pharmacy service (article 6).
+
+In cases where the product is sold or supplied, in order to benefit from the
+section 67B defence, the defendant must also show that the product is a
+dispensed medicinal product and that if an appropriate person (such as the
+dispenser) becomes aware of the error, all reasonable steps are taken to
+ensure that the patient is notified of the error, unless the appropriate
+person forms the view that it is neither necessary nor appropriate to do so.
+These conditions, which were in the defence as originally inserted, also apply
+in the new circumstances in which the defence now applies.
+
+The offence of contravening section 64 of the 1968 Act relates to the sale, or
+supply in pursuance of a prescription, of medicinal products for human use
+which are not of the nature or quality demanded by the purchaser or as
+specified in a prescription. The defence in relation to contravening section
+64 in section 67C of the 1968 Act, which functions along similar lines to the
+defence in relation to contravening section 63 that is in section 67B of the
+1968 Act, has been modified in a similar way. Previously the section 67C
+defence was only available if the medicinal product was dispensed at a
+registered pharmacy, but it has been modified so that it is also available if
+the medicinal product was dispensed from a registered pharmacy or in the
+course of the provision of a relevant pharmacy service (article 7).
+
+A consequential amendment is also made to a rule of evidence relating to
+standard operating procedures (article 8).
+
+A full impact assessment has not been produced for this instrument as no, or
+no significant, impact on the private, voluntary or public sectors is
+foreseen.
+

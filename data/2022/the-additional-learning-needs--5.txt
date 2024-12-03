@@ -1,0 +1,692 @@
+Title: The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 11) Order 2022
+Date: 2024-06-27
+Description: This Order brings into force provisions of the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (“the Act”).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/wsi/2022/894
+
+## The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 11) Order 2022
+
+    Education, Wales
+
+  Made   16 August 2022
+
+      The Welsh Ministers, in exercise of the powers conferred by section
+100(3) and (4) of the Additional Learning Needs and Education Tribunal (Wales)
+Act 2018 , make the following Order:
+
+### Title and interpretation
+
+1
+
+1.1
+
+The title of this Order is the Additional Learning Needs and Education
+Tribunal (Wales) Act 2018 (Commencement No. 11) Order 2022.
+
+1.2
+
+In this Order—
+
+      “ the 1996 Act ” (“ Deddf 1996 ”) means the Education Act 1996 ;
+“ the 2014 Act ” (“ Deddf 2014 ”) means the Children and Families Act 2014 ;
+“ the Act ” (“y  Ddeddf ”) means the Additional Learning Needs and Education
+Tribunal (Wales) Act 2018;           “ child ” (“ plentyn ”) means a person
+who is not over compulsory school age;           “ compulsory school age ” (“
+oedran ysgol gorfodol ”) has the same meaning as in section 8  of the 1996
+Act;           “ a child educated other than at school ” (“ plentyn a addysgir
+ac eithrio yn yr ysgol ”) means a child for whom a local authority in Wales
+has made arrangements for the provision of education otherwise than at school
+who is within the authority’s area and—         is of compulsory school age,
+and           by reason of illness, exclusion from school or otherwise, may
+not receive suitable education for a period unless such arrangements are made
+for the child;                 “ EHC needs assessment ” (“ asesiad o anghenion
+AIG ”) has the same meaning as in section 36(2) of the 2014 Act;           “
+EHC plan ” (“ cynllun AIG ”) has the same meaning as in section 37(2)  of the
+2014 Act;           “ in the area of a local authority in Wales ” (“ yn ardal
+awdurdod lleol yng Nghymru ”) has the same meaning as in section 579(3B)  of
+the 1996 Act;           “ learning difficulty ” (“ anhawster dysgu ”) has the
+same meaning as in—           section 312(2)  of the 1996 Act in relation to a
+child in the area of a local authority in Wales but not a child who is a
+registered pupil at a school in England,           section 20 of the 2014 Act
+in relation to a child in the area of a local authority in Wales who is a
+registered pupil at a school in England;                   “ local authority ”
+(“ awdurdod lleol ”) has the same meaning as in section 579  of the 1996 Act;
+“ looked after child ” (“ plentyn sy’n derbyn gofal ”) has the same meaning as
+in section 15 of the Act;           “ mainstream school ” (“ ysgol brif ffrwd
+”) has the same meaning as in section 83(2) of the 2014 Act;           “
+maintained school ” (“ ysgol a gynhelir ”) has the same meaning as in section
+99 of the Act;           “ proprietor ” (“ perchennog ”) has the same meaning
+as in section 579 of the 1996 Act;           “ registered pupil ” (“ disgybl
+cofrestredig ”) has the same meaning as in section 434  of the 1996 Act;
+“ special educational provision ” (“ darpariaeth addysgol arbennig”)  has the
+same meaning as in—           section 312(4)  of the 1996 Act in relation to a
+child in the area of a local authority in Wales but not a child who is a
+registered pupil at a mainstream school in England,           section 21 of
+the 2014 Act in relation to a child in the area of a local authority in Wales
+who is a registered pupil at a mainstream school in England;
+“ Tribunal ” (“ Tribiwnlys ”) means the Education Tribunal for Wales ;
+“ Tribunal Rules ” (“ Rheolau’r Tribiwnlys ”) means Special Educational Needs
+Tribunal for Wales Regulations 2012 .
+
+1.3
+
+For the purposes of this Order an appeal is finally determined if—
+
+1.3.a
+
+a decision is made by a tribunal or court on the appeal, and
+
+1.3.b
+
+if a request may be made to review the decision or it may be further appealed,
+and the period (or each of the periods) for doing so expires without a review
+being requested or further appeal being brought.
+
+1.4
+
+For the purposes of this Order, a local authority is responsible for a child
+if he or she is in the area of the authority.
+
+### Meaning of identified special educational needs
+
+2
+
+2.1
+
+For the purposes of this Order, a child (“ C ”) has “identified special
+educational needs” if —
+
+2.1.a
+
+a local authority in Wales is responsible for C; and
+
+2.1.b
+
+C has a learning difficulty identified by—
+
+2.1.b.i
+
+the proprietor of the school at which the child is a registered pupil, or
+
+2.1.b.ii
+
+a local authority,
+
+which calls for special educational provision to be made for C.
+
+2.2
+
+But does not include a child—
+
+2.2.a
+
+who is a child educated other than at school;
+
+2.2.b
+
+who is a registered pupil at a maintained school in Wales;
+
+2.2.c
+
+who is a looked after child;
+
+2.2.d
+
+in relation to whom a local authority is maintaining a statement under section
+324 of the 1996 Act;
+
+2.2.e
+
+in relation to whom a local authority is maintaining an EHC plan;
+
+2.2.f
+
+in relation to whom a local authority has served a notice under section 323 of
+the 1996 Act and the assessment has not commenced and no notice has been given
+under section 323(6) of the 1996 Act;
+
+2.2.g
+
+in relation to whom a request has been made under section 329 or 329A of the
+1996 Act for an assessment under section 323 of the 1996 Act and the local
+authority has not determined whether to assess;
+
+2.2.h
+
+in relation to whom a request has been made under section 329 or 329A of the
+1996 Act for an assessment under section 323 of the 1996 Act and the local
+authority determines not to comply with the request and—
+
+2.2.h.i
+
+the time within which an appeal under section 329(2) or 329A(8) of the 1996
+Act has to be brought under Part B of the Tribunal Rules has not ended;
+
+2.2.h.ii
+
+an appeal to the Tribunal under section 329(2) or 329A(8) of the 1996 Act in
+relation to that determination has been brought but not finally determined; or
+
+2.2.h.iii
+
+an appeal to the Tribunal under section 329(2) or 329A(8) of the 1996 Act in
+relation to that determination was finally determined and the local authority
+was ordered to arrange an assessment, and that assessment has not commenced;
+
+2.2.i
+
+in relation to whom a local authority is undertaking an assessment of
+educational needs under section 323 of the 1996 Act;
+
+2.2.j
+
+in relation to whom a local authority proposes not to make a statement
+following an assessment and—
+
+2.2.j.i
+
+the time within which an appeal under section 325(2) of the 1996 Act has to be
+brought under Part B of the Tribunal Rules has not ended;
+
+2.2.j.ii
+
+an appeal to the Tribunal under section 325(2) of the 1996 Act in relation to
+that decision has been brought but not finally determined;
+
+2.2.j.iii
+
+an appeal to the Tribunal under section 325(2) of the 1996 Act in relation to
+that decision was brought and finally determined and the local authority was
+ordered to—
+
+2.2.j.iii.aa
+
+make and maintain a statement and the making of the statement has not
+commenced, or
+
+2.2.j.iii.bb
+
+reconsider its decision and that reconsideration has not commenced;
+
+2.2.k
+
+in relation to whom a local authority must make a statement under section 324
+of the 1996 Act but the making of the statement has not been completed;
+
+2.2.l
+
+in relation to whom an assessment under section 331 of the 1996 Act is
+ongoing;
+
+2.2.m
+
+in relation to whom a request to a local authority has been made to secure an
+EHC needs assessment under section 36(1) of the 2014 Act and the local
+authority has not determined that request under section 36(3);
+
+2.2.n
+
+in relation to whom a local authority has determined under section 36 of the
+2014 Act not to secure an EHC needs assessment and—
+
+2.2.n.i
+
+the period for pursuing mediation in relation to that determination under
+section 52 of the 2014 Act has not ended;
+
+2.2.n.ii
+
+mediation under section 55 of the 2014 Act is ongoing in relation to that
+determination;
+
+2.2.n.iii
+
+a mediation certificate has been issued under section 55(4) of the 2014 Act in
+relation to that determination and the period for submitting an appeal to the
+First-tier Tribunal under section 51 of the 2014 Act has not ended;
+
+2.2.n.iv
+
+an appeal to the First-tier Tribunal under section 51(2)(a) of the 2014 Act in
+relation to that determination has been brought but not finally determined;
+
+2.2.n.v
+
+an appeal to the First-tier Tribunal under section 51(2)(a) of the 2014 Act in
+relation to that determination has been brought and fully determined and the
+local authority was ordered to arrange an assessment or re-assessment, and
+that assessment or re-assessment has not commenced;
+
+2.2.o
+
+in relation to whom a local authority has served a notice under section 36(7)
+of the 2014 Act that it is considering securing an EHC needs assessment and—
+
+2.2.o.i
+
+the assessment has not commenced,
+
+2.2.o.ii
+
+the assessment is ongoing, or
+
+2.2.o.iii
+
+no notice has been served under section 36(9) of the 2014 Act;
+
+2.2.p
+
+in relation to whom a local authority has determined under section 36(9) of
+the 2014 Act that it is not necessary for special educational provision to be
+made in accordance with an EHC plan and—
+
+2.2.p.i
+
+the period for pursuing mediation in relation to that determination under
+section 52 of the 2014 Act has not ended;
+
+2.2.p.ii
+
+mediation under section 55 of the 2014 Act is ongoing in relation to that
+determination;
+
+2.2.p.iii
+
+a mediation certificate has been issued under section 55(4) of the 2014 Act in
+relation to that determination and the period for submitting an appeal to the
+First-tier Tribunal under section 51 of the 2014 Act has not ended;
+
+2.2.p.iv
+
+an appeal to the First-tier Tribunal under section 51(2)(b) of the 2014 Act in
+relation to that determination has been brought but not finally determined;
+
+2.2.p.v
+
+an appeal to the First-tier Tribunal under section 51(2)(b) of the 2014 Act in
+relation to that determination has been brought and finally determined and the
+local authority was ordered to—
+
+2.2.p.v.aa
+
+make and maintain an EHC plan and the making of the EHC plan has not
+commenced, or
+
+2.2.p.v.bb
+
+reconsider its decision and that reconsideration has not commenced;
+
+2.2.q
+
+in relation to whom a local authority has determined under section 36(9) of
+the 2014 Act that it is necessary for special educational provision to be made
+in accordance with an EHC plan but that plan is not prepared.
+
+### Provisions coming into force on 1 September 2022
+
+3
+
+The following provisions of the Act come into force on 1 September 2022 in
+relation to a child who has identified special educational needs on 1
+September 2022—
+
+3.a
+
+sections 2 to 4;
+
+3.b
+
+sections 6 to 14;
+
+3.c
+
+sections 17 to 36;
+
+3.d
+
+section 38;
+
+3.e
+
+sections 40 to 44;
+
+3.f
+
+sections 47 to 49;
+
+3.g
+
+section 50(1) for the purposes of the provisions in paragraph (h);
+
+3.h
+
+section 50(4) to (5);
+
+3.i
+
+sections 51 to 53;
+
+3.j
+
+section 55;
+
+3.k
+
+section 59;
+
+3.l
+
+sections 63 to 66;
+
+3.m
+
+sections 68 to 69;
+
+3.n
+
+section 96 for the purposes of the provisions in paragraph (o);
+
+3.o
+
+in the Schedule—
+
+3.o.i
+
+paragraph 1;
+
+3.o.ii
+
+paragraph 4(1) for the purposes of the provisions in sub-paragraphs (iii) to
+(x);
+
+3.o.iii
+
+paragraph 4(2) to 4(6);
+
+3.o.iv
+
+paragraph 4(7) to the extent that the paragraph has not been repealed in
+relation to the child ;
+
+3.o.v
+
+paragraph 4(8) to 4(10);
+
+3.o.vi
+
+paragraph 4(13) to 4(18);
+
+3.o.vii
+
+paragraph 4(19)(b);
+
+3.o.viii
+
+paragraph 4(20) and 4(21);
+
+3.o.ix
+
+paragraph 4(23) to 4(29);
+
+3.o.x
+
+paragraph 4(32)(a)(i) and (ii) and paragraph 4(32)(b);
+
+3.o.xi
+
+paragraph 7;
+
+3.o.xii
+
+paragraph 8;
+
+3.o.xiii
+
+paragraph 11(a);
+
+3.o.xiv
+
+paragraph 12(a);
+
+3.o.xv
+
+paragraph 14(1) for the purposes of the provisions in sub-paragraph (xvi);
+
+3.o.xvi
+
+paragraph 14(2) and (3);
+
+3.o.xvii
+
+paragraph 19(1) for the purpose of the provision in sub-paragraph (xviii);
+
+3.o.xviii
+
+paragraph 19(5)(e)(ii);
+
+3.o.xix
+
+paragraph 21(1) for the purposes of the provisions in sub-paragraph (xx);
+
+3.o.xx
+
+paragraph 21(2)(a)(i) and (2)(b)(ii);
+
+3.o.xxi
+
+paragraph 22;
+
+3.o.xxii
+
+paragraph 23(1) for the purpose of the provision in sub-paragraph (xxiii);
+
+3.o.xxiii
+
+paragraph 23(4);
+
+3.o.xxiv
+
+paragraph 24(1) for the purposes of the provisions in sub-paragraph (xxv);
+
+3.o.xxv
+
+paragraph 24(3) and (6)(a).
+
+      Jeremy Miles   Minister for Education and Welsh Language, one of the
+Welsh Ministers     16 August 2022
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Order)
+
+  This Order brings into force provisions of the Additional Learning Needs and
+Education Tribunal (Wales) Act 2018 (“ the Act ”).
+
+  The Act establishes a statutory framework for supporting children and young
+people with additional learning needs. This replaces the legislation
+surrounding special educational needs and the assessment of children and young
+people with learning difficulties.
+
+  The provisions listed in article 3 come into force on 1 September 2022 in
+relation to those who are of compulsory school age and below, who have certain
+identified special educational needs (but not a statement) and who are
+educated at an independent school or are home educated (article 2).
+
+## NOTE AS TO EARLIER COMMENCMENT ORDERS
+
+  The following provisions of the Act have been brought into force by
+Commencement Orders made before the date of this Order :         Provision
+Date of Commencement S.I. No   Sections 2 to 3 (partially) 1 September 2021
+S.I. 2021/373 (W. 116) (C. 12) 1 January 2022     S.I. 2021/1243 (W. 315) (C.
+68)       S.I. 2021/1244 (W. 316) (C. 69)       S.I. 2021/1245 (W. 317) (C.
+70)     Section 4 (partially) 2 November 2020 S.I. 2020/1182 (W. 267) (C. 33)
+1 September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022     S.I.
+2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)       S.I.
+2021/1245 (W. 317) (C. 70)     Section 5 2 November 2020 S.I. 2020/1182 (W.
+267) (C. 33) Section 6 (partially) 1 September 2021 S.I. 2021/373 (W. 116) (C.
+12) 1 January 2022     S.I. 2021/1243 (W. 315) (C. 68)       S.I. 2021/1244
+(W. 316) (C. 69)       S.I. 2021/1245 (W. 317) (C. 70)     Section 7
+(partially) 2 November 2020 S.I. 2020/1182 (W. 267) (C. 33) 1 September 2021
+S.I. 2021/373 (W. 116) (C. 12) 1 January 2022     S.I. 2021/1243 (W. 315) (C.
+68)       S.I. 2021/1244 (W. 316) (C. 69)       S.I. 2021/1245 (W. 317) (C.
+70)     Section 8 (partially) 2 November 2020 S.I. 2020/1182 (W. 267) (C. 33)
+1 September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022     S.I.
+2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)       S.I.
+2021/1245 (W. 317) (C. 70)     Sections 9 to 14 (partially) 1 September 2021
+S.I. 2021/373 (W. 116) (C. 12) 1 January 2022     S.I. 2021/1243 (W. 315) (C.
+68)       S.I. 2021/1244 (W. 316) (C. 69)       S.I. 2021/1245 (W. 317) (C.
+70)     Section 15 2 November 2020 S.I. 2020/1182 (W. 267) (C. 33) Section 16
+(partially) 2 November 2020 S.I. 2020/1182 (W. 267) (C. 33) (fully) 1
+September 2021 S.I. 2021/373 (W. 116) (C. 12)      Sections 17 to 20
+(partially) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022
+S.I. 2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)
+S.I. 2021/1245 (W. 317) (C. 70)     Section 21 (partially) 2 November 2020
+S.I. 2020/1182 (W. 267) (C. 33) 1 September 2021 S.I. 2021/373 (W. 116) (C.
+12) 1 January 2022     S.I. 2021/1243 (W. 315) (C. 68)       S.I. 2021/1244
+(W. 316) (C. 69)       S.I. 2021/1245 (W. 317) (C. 70)     Sections 22 to 31
+(partially) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022
+S.I. 2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)
+S.I. 2021/1245 (W. 317) (C. 70)     Section 32 (partially) 2 November 2020
+S.I. 2020/1182 (W. 267) (C. 33) 1 September 2021 S.I. 2021/373 (W. 116) (C.
+12) 1 January 2022     S.I. 2021/1243 (W. 315) (C. 68)       S.I. 2021/1244
+(W. 316) (C. 69)       S.I. 2021/1245 (W. 317) (C. 70)     Sections 33 to 35
+(partially) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022
+S.I. 2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)
+S.I. 2021/1245 (W. 317) (C. 70)     Section 36 (partially) 2 November 2020
+S.I. 2020/1182 (W. 267) (C. 33) 1 September 2021 S.I. 2021/373 (W. 116) (C.
+12) 1 January 2022     S.I. 2021/1243 (W. 315) (C. 68)       S.I. 2021/1244
+(W. 316) (C. 69)       S.I. 2021/1245 (W. 317) (C. 70)     Section 37 2
+November 2020 S.I. 2020/1182 (W. 267) (C. 33) Section 38 (partially) 1
+September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022     S.I.
+2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)       S.I.
+2021/1245 (W. 317) (C. 70)     Section 39 2 November 2020 S.I. 2020/1182 (W.
+267) (C. 33) Sections 40 to 44 (partially) 1 September 2021 S.I. 2021/373 (W.
+116) (C. 12) 1 January 2022     S.I. 2021/1243 (W. 315) (C. 68)       S.I.
+2021/1244 (W. 316) (C. 69)       S.I. 2021/1245 (W. 317) (C. 70)     Section
+45 2 November 2020 S.I. 2020/1182 (W. 267) (C. 33) Section 46 2 November 2020
+S.I. 2020/1182 (W. 267) (C. 33) Section 47 (partially) 2 November 2020 S.I.
+2020/1182 (W. 267) (C. 33) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) 1
+January 2022     S.I. 2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316)
+(C. 69)       S.I. 2021/1245 (W. 317) (C. 70)     Sections 48 to 49
+(partially) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022
+S.I. 2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)
+S.I. 2021/1245 (W. 317) (C. 70)     Section 50(1), (4) and (5) (partially) 1
+September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022     S.I.
+2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)       S.I.
+2021/1245 (W. 317) (C. 70)     Section 50(1), (2) and (3) (fully) 1 September
+2021 S.I. 2021/373 (W. 116) (C. 12) Sections 51 to 53 (partially) 1 September
+2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022     S.I. 2021/1243 (W. 315)
+(C. 68)       S.I. 2021/1244 (W. 316) (C. 69)       S.I. 2021/1245 (W. 317)
+(C. 70)     Section 54 (partially) 2 November 2020 S.I. 2020/1182 (W. 267) (C.
+33) (fully) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) Section 55
+(partially) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022
+S.I. 2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)
+S.I. 2021/1245 (W. 317) (C. 70)     Section 56 (partially) 2 November 2020
+S.I. 2020/1182 (W. 267) (C. 33) (fully) 1 September 2021 S.I. 2021/373 (W.
+116) (C. 12) Section 56(1) 4 January 2021 S.I. 2020/1182 (W. 267) (C. 33)
+Section 56(4) to (6) 4 January 2021 S.I. 2020/1182 (W. 267) (C. 33) Sections
+57 to 58 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) Section 59
+(partially) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022
+S.I. 2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)
+S.I. 2021/1245 (W. 317) (C. 70)     Section 60 4 January 2021 S.I. 2020/1182
+(W. 267) (C. 33) Section 61 4 January 2021 S.I. 2020/1182 (W. 267) (C. 33)
+Section 62 4 January 2021 S.I. 2020/1182 (W. 267) (C. 33) Sections 63 to 64
+(partially) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022
+S.I. 2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)
+S.I. 2021/1245 (W. 317) (C. 70)     Section 65 (partially) 2 November 2020
+S.I. 2020/1182 (W. 267) (C. 33) 1 September 2021 S.I. 2021/373 (W. 116) (C.
+12) 1 January 2022     S.I. 2021/1243 (W. 315) (C. 68)       S.I. 2021/1244
+(W. 316) (C. 69)       S.I. 2021/1245 (W. 317) (C. 70)     Section 66
+(partially) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022
+S.I. 2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)
+S.I. 2021/1245 (W. 317) (C. 70)     Section 67 2 November 2020 S.I. 2020/1182
+(W. 267) (C. 33) Sections 68 to 69 (partially) 1 September 2021 S.I. 2021/373
+(W. 116) (C. 12) 1 January 2022     S.I. 2021/1243 (W. 315) (C. 68)       S.I.
+2021/1244 (W. 316) (C. 69)       S.I. 2021/1245 (W. 317) (C. 70)     Sections
+70 to 73 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) Section 74 2 November
+2020 S.I. 2020/1182 (W. 267) (C. 33) Section 75 (partially) 2 November 2020
+S.I. 2020/1182 (W. 267) (C. 33) (fully) 1 September 2021 S.I. 2021/373 (W.
+116) (C. 12) Section 76 (partially) 2 November 2020 S.I. 2020/1182 (W. 267)
+(C. 33) (fully) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) Section 77
+(partially) 2 November 2020 S.I. 2020/1182 (W. 267) (C. 33) (fully) 1
+September 2021 S.I. 2021/373(W. 116) (C. 12) Sections 78 to 81 1 September
+2021 S.I. 2021/373 (W. 116) (C. 12) Section 82 2 November 2020 S.I. 2020/1182
+(W. 267) (C. 33) Section 83 (partially) 2 November 2020 S.I. 2020/1182 (W.
+267) (C. 33) (fully) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) Section
+84 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) Section 85 (partially) 2
+November 2020 S.I. 2020/1182 (W. 267) (C. 33) (fully) 1 September 2021 S.I.
+2021/373 (W. 116) (C. 12) Sections 86 to 90 1 September 2021 S.I. 2021/373 (W.
+116) (C. 12) Section 91 (partially) 2 November 2020 S.I. 2020/1182 (W. 267)
+(C. 33) (fully) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) Section 92
+(partially) 2 November 2020 S.I. 2020/1182 (W. 267) (C. 33) (fully) 1
+September 2021 S.I. 2021/373 (W. 116) (C. 12) Sections 93 to 94 1 September
+2021 S.I. 2021/373 (W. 116) (C. 12) Section 95 (partially) 2 November 2020
+S.I. 2020/1182 (W. 267) (C. 33) (fully) 1 September 2021 S.I. 2021/373 (W.
+116) (C. 12) Section 96 (partially) 2 November 2020 S.I. 2020/1182 (W. 267)
+(C. 33) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022
+S.I. 2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)
+S.I. 2021/1245 (W. 317) (C. 70)     The Schedule, paragraph 1 (partially) 1
+September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022     S.I.
+2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)       S.I.
+2021/1245 (W. 317) (C. 70)     The Schedule, paragraph 2(1), 2(2)(b) and 2(3)
+1 September 2021 S.I. 2021/373 (W. 116) (C. 12) The Schedule, paragraph 3 1
+September 2021 S.I. 2021/373 (W. 116) (C. 12) The Schedule, paragraph 4(1),
+4(2) to 4(8), 4(9), 4(10), 4(13) to 4(18), 4(19)(b), 4(20), 4(21), 4(23) to
+4(29), 4(32)(a)(i) and (ii), 4(32)(b) (partially) 1 September 2021 S.I.
+2021/373 (W. 116) (C. 12) 1 January 2022     S.I. 2021/1243 (W. 315) (C. 68)
+S.I. 2021/1244 (W. 316) (C. 69)       S.I. 2021/1245 (W. 317) (C. 70)     The
+Schedule, paragraph 4(9) (in so far as it omits sections 333(1ZA), 333(2) to
+333(6) and 334 to 335), 4(12), 4(19)(a), 4(22), 4(30)(a)(ii), 4(30)(b), 4(31),
+4(32)(a)(iii), 4(33)(a), 4(33)(b) (in so far as it omits certain definitions),
+4(33)(d), 4(33)(e) and 4(33)(g) 1 September 2021 S.I. 2021/373 (W. 116) (C.
+12) The Schedule, paragraph 6(d)(v), 6(f), 6(g), 6(j)(i), 6(l)(i), 6(l)(iii),
+6(n)(ii) (in so far as it omits paragraph 11 of Schedule 2), and 6(t) 1
+September 2021 S.I. 2021/373 (W. 116) (C. 12) The Schedule, paragraph 7
+(partially) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022
+S.I. 2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)
+S.I. 2021/1245 (W. 317) (C. 70)     The Schedule, paragraph 8 (partially) 1
+September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022     S.I.
+2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)       S.I.
+2021/1245 (W. 317) (C. 70)     The Schedule, paragraphs 9 and 10 1 September
+2021 S.I. 2021/373 (W. 116) (C. 12) The Schedule, paragraph 11(a) (partially)
+1 September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022     S.I.
+2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)       S.I.
+2021/1245 (W. 317) (C. 70)     The Schedule, paragraph 11(b) 1 September 2021
+S.I. 2021/373 (W. 116) (C. 12) The Schedule, paragraph 12(a) (partially) 1
+September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022     S.I.
+2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)       S.I.
+2021/1245 (W. 317) (C. 70)     The Schedule, paragraph 12(b) 1 September 2021
+S.I. 2021/373 (W. 116) (C. 12) The Schedule, paragraph 13 1 September 2021
+S.I. 2021/373 (W. 116) (C. 12) The Schedule, paragraph 14(1) to (3)
+(partially) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022
+S.I. 2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)
+S.I. 2021/1245 (W. 317) (C. 70)     The Schedule, paragraph 14(1) and 14(4) 1
+September 2021 S.I. 2021/373 (W. 116)  (C .12) The Schedule, paragraph 15(1)
+and 15(3) to 15(4) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) The
+Schedule, paragraphs 17 and 18 1 September 2021 S.I. 2021/373 (W. 116) (C. 12)
+The Schedule, paragraph 19(1), (2), (3), (5)(a) to (d), (5)(e)(i), (5)(f) and
+(6) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) The Schedule, paragraph
+19(1),(4) and (5)(g) and (h) (partially) 2 November 2020 S.I. 2020/1182 (W.
+267) (C. 33) (fully) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) The
+Schedule, paragraph 19(1), (5)(e)(ii) (partially) 1 September 2021 S.I.
+2021/373 (W. 116) (C. 12) 1 January 2022     S.I. 2021/1243 (W. 315) (C. 68)
+S.I. 2021/1244 (W. 316) (C. 69)       S.I. 2021/1245 (W. 317) (C. 70)     The
+Schedule, paragraph 20 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) The
+Schedule, paragraph 21 (1), (2)(a)(i) and (2)(b)(ii) (partially) 1 September
+2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022     S.I. 2021/1243 (W. 315)
+(C. 68)       S.I. 2021/1244 (W. 316) (C. 69)       S.I. 2021/1245 (W. 317)
+(C. 70)     The Schedule, paragraph 21(1) and 21(b)(i) 1 September 2021 S.I.
+2021/373 (W. 116) (C. 12) The Schedule, paragraph 22 (partially) 1 September
+2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022     S.I. 2021/1243 (W. 315)
+(C. 68)       S.I. 2021/1244 (W. 316) (C. 69)       S.I. 2021/1245 (W. 317)
+(C. 70)     The Schedule, paragraph 23(1), 23(3)(a) to (c) and (5) 1 September
+2021 S.I. 2021/373 (W. 116) (C. 12) The Schedule, paragraph 23(1) and (4)
+(partially) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) 1 January 2022
+S.I. 2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316) (C. 69)
+S.I. 2021/1245 (W. 317) (C. 70)     The Schedule, paragraph 24(1) and 24(3)
+and (6)(a) (partially) 1 September 2021 S.I. 2021/373 (W. 116) (C. 12) 1
+January 2022     S.I. 2021/1243 (W. 315) (C. 68)       S.I. 2021/1244 (W. 316)
+(C. 69)       S.I. 2021/1245 (W. 317) (C. 70)     The Schedule, paragraph
+24(1), 24(2), (5) and (6)(b) and (c) 1 September 2021 S.I. 2021/373 (W. 116)
+(C. 12)
+

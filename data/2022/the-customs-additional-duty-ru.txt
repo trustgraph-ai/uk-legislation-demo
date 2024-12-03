@@ -1,0 +1,204 @@
+Title: The Customs (Additional Duty) (Russia and Belarus) Regulations 2022
+Date: 2024-06-24
+Description: These Regulations provide for an additional duty on certain goods originating from Russia or from Belarus in consequence of the issue that has arisen between Her Majesty’s government in the United Kingdom and the governments of those countries.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/376
+
+## The Customs (Additional Duty) (Russia and Belarus) Regulations 2022
+
+    Customs
+
+  Made   23rd March 2022
+
+  Laid before the House of Commons   24th March 2022
+
+  Coming into force   25th March 2022
+
+      The Secretary of State makes the following Regulations in exercise of
+the powers conferred by sections 15(1) and 32(7) and (8) of the Taxation
+(Cross-border Trade) Act 2018  (“ the 2018 Act ”).         In accordance with
+section 15(1)(a) and (b) of the 2018 Act, Her Majesty’s government in the
+United Kingdom, having regard to the matters set out in section 28 of the 2018
+Act and any other relevant matters, considers it appropriate to deal with the
+issue that has arisen between Her Majesty’s government in the United Kingdom
+and the governments of Russia and of Belarus by varying the amount of import
+duty in the case of goods originating from Russia or from Belarus.
+
+### Citation, commencement, extent and application
+
+1
+
+These Regulations—
+
+1.a
+
+may be cited as the Customs (Additional Duty) (Russia and Belarus) Regulations
+2022;
+
+1.b
+
+come into force on 25th March 2022;
+
+1.c
+
+extend to the United Kingdom;
+
+1.d
+
+apply to specified goods—
+
+1.d.i
+
+which have originated from Russia or from Belarus , and
+
+1.d.ii
+
+the importation of which into the United Kingdom has incurred a liability to
+import duty under the Taxation (Cross-border Trade) Act 2018 .
+
+### Interpretation
+
+2
+
+2.1
+
+In these Regulations—
+
+“ additional duty ” means the increase in import duty imposed by regulation
+3(1); “ commodity code ” means the numerical code which is applied to a
+category of goods in the Goods Classification Table; “ Goods Classification
+Table ” means the table so named in Annex I in Part Three of the Tariff of the
+United Kingdom;   “ relevant Additional Duties Document ” means, in relation
+to specified goods which have originated from—   Belarus, version 1.5   of the
+document entitled “Belarusian Additional Duties Document” published by the
+Secretary of State; Russia, version 1.4 of the document entitled “Russian
+Additional Duties Document” published by the Secretary of State;   “ specified
+goods ” means goods which— fall within a commodity code which is listed in the
+column headed “Commodity code” in the table in the relevant Additional Duties
+Document, and meet any description specified in relation to that commodity
+code in the column headed “Notes” in that table; “ Tariff of the United
+Kingdom ” has the same meaning as in regulation 1(2) of the Customs Tariff
+(Establishment) (EU Exit) Regulations 2020 .
+
+2.2
+
+For the purpose of determining the commodity codes within which goods most
+appropriately fall, the rules of interpretation in the following have effect—
+
+2.2.a
+
+Part Two (Goods Classification Table Rules of Interpretation) of the Tariff of
+the United Kingdom;
+
+2.2.b
+
+notes to a section or chapter of the Goods Classification Table.
+
+### Additional duty
+
+3
+
+3.1
+
+Subject to regulation 4, an additional ad valorem duty applies to specified
+goods so as to increase the amount of import duty otherwise applicable to the
+goods.
+
+3.2
+
+The additional duty is the rate of duty specified in relation to the goods in
+the column headed “Additional duty” in the table in the relevant Additional
+Duties Document.
+
+3.3
+
+In paragraph (1), “ amount of import duty otherwise applicable ” means the
+total amount of import duty that applies to the goods by virtue of provision
+made under—
+
+3.3.a
+
+the following provisions of the Taxation (Cross-border) Trade Act 2018—
+
+3.3.a.i
+
+section 8 (customs tariff);
+
+3.3.a.ii
+
+section 11 (quotas);
+
+3.3.a.iii
+
+section 12 (tariff suspension);
+
+3.3.a.iv
+
+section 13 (dumping of goods, foreign subsidies and increases in imports);
+
+3.3.a.v
+
+section 14 (increases in imports or changes in price of agricultural goods);
+
+3.3.a.vi
+
+section 51(1)(b) (power to make provision in relation to duties of customs);
+
+3.3.b
+
+section 74 (transitioned trade remedies: decisions by Secretary of State) of
+the Finance Act 2022 .
+
+### Transitional provision
+
+4
+
+4.1
+
+The additional duty does not apply to specified goods which have been exported
+from Russia or from Belarus before the additional duty comes into effect in
+respect of that description of specified goods.
+
+4.2
+
+Goods have been “exported” from Russia or Belarus (“the relevant country”)
+when—
+
+4.2.a
+
+they have completed the applicable export formalities, and
+
+4.2.b
+
+where the goods were transported by—
+
+4.2.b.i
+
+land, they have left the territory of the relevant country;
+
+4.2.b.ii
+
+sea, the ship on which they were transported has departed a port in the
+relevant country for a destination outside the relevant country;
+
+4.2.b.iii
+
+air, the aircraft on which they were transported has departed an airport in
+the relevant country for a destination outside the relevant country.
+
+      Penny Mordaunt   Minister of State   Department for International Trade
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations provide for an additional duty on certain goods originating
+from Russia or from Belarus in consequence of the issue that has arisen
+between Her Majesty’s government in the United Kingdom and the governments of
+those countries.
+
+The additional duty does not apply to goods which had already been exported
+from Russia or Belarus when these Regulations come into force.
+
+An impact assessment has not been produced for this instrument.
+

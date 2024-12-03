@@ -1,0 +1,378 @@
+Title: The Care Standards Act 2000 (Extension of the Application of Part 2 to Supported Accommodation) (England) Regulations 2022
+Date: 2024-05-20
+Description: These Regulations are made under the Care Standards Act 2000 (“the Act”) and apply in relation to supported accommodation in England. Part 2 of the Act provides for the registration and inspection of establishments and agencies by Her Majesty’s Chief Inspector of Education, Children’s Services and Skills. Section 42 of the Act makes provision, via regulations, for the application of the Act (with such modifications as may be specified) in respect of the registration of other services which are not covered on the face of the Act. These include services that are, or are similar to, services which local authorities provide in the exercise of their social services functions (defined in section 121 of the Act).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/808
+
+## The Care Standards Act 2000 (Extension of the Application of Part 2 to Supported Accommodation) (England) Regulations 2022
+
+    Children And Young Persons, England       Social Care, England
+
+  Made   14th July 2022
+
+  Laid before Parliament   18th July 2022
+
+  Coming into force   8th August 2022
+
+      The Secretary of State makes the following Regulations in exercise of
+the power conferred by section 42(1) of the Care Standards Act 2000 .
+
+### Citation, commencement and extent
+
+1
+
+1.1
+
+These Regulations may be cited as the Care Standards Act 2000 (Extension of
+the Application of Part 2 to Supported Accommodation) (England) Regulations
+2022 and come into force on 8th August 2022.
+
+1.2
+
+These Regulations extend to England and Wales.
+
+### Interpretation
+
+2
+
+In these Regulations—
+
+    “ the Act ” means the Care Standards Act 2000;         “ supported
+accommodation ” means accommodation in England in which a child is
+accommodated pursuant to section 22C(6)(d) or 23B(8)(b) of the Children Act
+1989  but does not include accommodation used for the purposes of—       a
+care home ,       an institution within the further education sector, as
+defined by section 91(3) of the Further and Higher Education Act 1992 ,
+a 16 to 19 Academy, as defined by section 1B of the Academies Act 2010 ,
+a hospital, as defined by section 275(1) of the National Health Service Act
+2006 ,       a residential family centre ,       a school  providing
+accommodation that is not registered as a children’s home , or       a holiday
+scheme for disabled children, as defined by regulation 2(1) of the Residential
+Holiday Schemes for Disabled Children (England) Regulations 2013 ;
+“ supported accommodation undertaking ” means an undertaking which consists of
+or includes arranging the provision of supported accommodation.
+
+### Application of Part 2 of the Act to persons carrying on or managing supported accommodation undertakings
+
+3
+
+3.1
+
+A person who carries on or manages a supported accommodation undertaking
+(whether or not for profit) is prescribed for the purposes of section 42(1) of
+the Act.
+
+3.2
+
+The following provisions of Part 2 of the Act apply to persons prescribed by
+paragraph (1) and, where relevant, with the modifications specified in the
+Schedule—
+
+3.2.a
+
+section 11(4) (requirement to register) ;
+
+3.2.b
+
+section 12(2)(a) (applications for registration);
+
+3.2.c
+
+section 14(1)(d) (cancellation of registration);
+
+3.2.d
+
+section 15(3) and (5) (applications by registered persons) ;
+
+3.2.e
+
+section 16(1) and (3) (regulations about registration) ;
+
+3.2.f
+
+section 22(1)(a), (1A) to (2)(d), (2)(f) to (5)(a), (5)(c), 7(a) to (7)(j),
+and (8)(c) to (10) (regulation of establishments and agencies) ;
+
+3.2.g
+
+section 23(1) and (1A) to (3) (national minimum standards) ;
+
+3.2.h
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3.2.i
+
+section 30A(1), (3) and (4) (notification of matters relating to persons
+carrying on or managing certain establishments or agencies) ;
+
+3.2.j
+
+section 31(7) (inspections by persons authorised by registration authority) ;
+
+3.2.k
+
+section 33 (annual returns);
+
+3.2.l
+
+section 34 (liquidators etc);
+
+3.2.m
+
+section 35 (death of registered person);
+
+3.2.n
+
+section 36(3) and (4) (provision of copies of registers).
+
+      James Cleverly   Secretary of State   Department for Education   14th
+July 2022
+
+  Modifications to Part 2 of the Act
+
+Regulation 3
+
+##### Modification of section 14 (cancellation of registration)
+
+1
+
+In section 14(1), in the words before paragraph (a)  ...—
+
+1.a
+
+the reference to “the registration authority”, in respect of a supported
+accommodation undertaking, is to be read as a reference to the CIECSS;
+
+1.b
+
+the reference to “an establishment or agency” is to be read as a reference to
+a supported accommodation undertaking.
+
+##### Modification of section 16 (regulations about registration)
+
+2
+
+In section 16—
+
+2.a
+
+in subsection (1), in the words before paragraph (a), the reference to
+“establishments or agencies” is to be read as a reference to supported
+accommodation undertakings;
+
+2.b
+
+in subsection (3), the reference to “the registration authority”, in respect
+of a supported accommodation undertaking, is to be read as a reference to the
+CIECSS.
+
+##### Modification of section 22 (regulation of establishments and agencies)
+
+3
+
+In section 22—
+
+3.a
+
+in subsection (1), in the words before paragraph (a) ..., the reference to
+“establishments and agencies” is to be read as a reference to supported
+accommodation undertakings;
+
+3.b
+
+in subsections (1A), (2)(a), (f), (i) and (j), (3), and (7)(e) to (h) and (j),
+the references to “an establishment or agency” are to be read as references to
+a supported accommodation undertaking;
+
+3.c
+
+in subsections (2)(b), (c) and (g), and (4), the references to “an agency” are
+to be read as references to a supported accommodation undertaking;
+
+3.d
+
+in subsection (2)(d)—
+
+3.d.i
+
+the first reference to “an establishment” is to be read as a reference to
+accommodation provided by a supported accommodation undertaking;
+
+3.d.ii
+
+the second reference to “an establishment” is to be read as a reference to a
+supported accommodation undertaking;
+
+3.e
+
+in subsection (5)(c), the reference to “accommodated in, or provided with
+services by, an establishment” is to be read as a reference to accommodated in
+supported accommodation or provided with services by a supported accommodation
+undertaking;
+
+3.f
+
+in subsection (7)—
+
+3.f.i
+
+in the words before paragraph (a)  ..., the reference to “establishments and
+agencies” is to be read as a reference to supported accommodation
+undertakings;
+
+3.f.ii
+
+in paragraphs (a) and (d), the references to “agencies” are to be read as
+references to supported accommodation undertakings;
+
+3.f.iii
+
+in paragraph (e), the reference to “the establishment or agency” is to be read
+as a reference to the supported accommodation undertaking;
+
+3.f.iv
+
+in paragraph (j), the reference to “by the agency” is to be read as a
+reference to by the supported accommodation undertaking;
+
+3.g
+
+in subsection (8)(c), the reference to “children’s homes” is to be read as a
+reference to accommodation provided by a supported accommodation undertaking.
+
+##### Modification of section 23 (national minimum standards)
+
+4
+
+In section 23—
+
+4.a
+
+in subsection (1), the reference to “establishments or agencies” is to be read
+as a reference to supported accommodation undertakings;
+
+4.b
+
+in subsection (1A)—
+
+4.b.i
+
+the reference to “an establishment or agency” is to be read as a reference to
+a supported accommodation undertaking;
+
+4.b.ii
+
+the reference to “that establishment or agency” is to be read as a reference
+to that supported accommodation undertaking.
+
+##### Modification of section 30A (notification of matters relating to persons carrying on or managing certain establishments or agencies)
+
+5
+
+In section 30A(1), the reference to “an establishment or agency in England
+mentioned in subsection (6)” is to be read as a reference to a supported
+accommodation undertaking.
+
+##### Modification of section 31 (inspections by persons authorised by registration authority)
+
+6
+
+In section 31(7), the reference to “an agency” is to be read as a reference to
+a supported accommodation undertaking.
+
+##### Modification of section 33 (annual returns)
+
+7
+
+In section 33(1)—
+
+7.a
+
+the reference to “an establishment or agency” is to be read as a reference to
+a supported accommodation undertaking;
+
+7.b
+
+the reference to “the registration authority”, in respect of a supported
+accommodation undertaking, is to be read as a reference to the CIECSS.
+
+##### Modification of section 34 (liquidators etc)
+
+8
+
+In section 34—
+
+8.a
+
+in subsection (1)(a), the reference to “the registration authority”, in
+respect of a supported accommodation undertaking, is to be read as a reference
+to the CIECSS;
+
+8.b
+
+in subsection (1)(b), the reference to “the establishment or agency” is to be
+read as a reference to the supported accommodation undertaking;
+
+8.c
+
+in subsection (3), the references to “an establishment or agency” are to be
+read as references to a supported accommodation undertaking.
+
+##### Modification of section 35 (death of registered person)
+
+9
+
+In section 35—
+
+9.a
+
+in subsection (1), the references to “an establishment or agency” are to be
+read as references to a supported accommodation undertaking;
+
+9.b
+
+in subsections (1)(b) and (2)(b), the references to “the registration
+authority”, in respect of a supported accommodation undertaking, are to be
+read as references to the CIECSS;
+
+9.c
+
+in subsection (2)(a), the reference to “the establishment or agency” is to be
+read as a reference to the supported accommodation undertaking.
+
+##### Modification of section 36 (provision of copies of registers)
+
+10
+
+In section 36(4), the references to “the registration authority”, in respect
+of a supported accommodation undertaking, are to be read as references to the
+CIECSS.
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations are made under the Care Standards Act 2000 (“ the Act ”) and
+apply in relation to supported accommodation in England. Part 2 of the Act
+provides for the registration and inspection of establishments and agencies by
+Her Majesty’s Chief Inspector of Education, Children’s Services and Skills.
+Section 42 of the Act makes provision, via regulations, for the application of
+the Act (with such modifications as may be specified) in respect of the
+registration of other services which are not covered on the face of the Act.
+These include services that are, or are similar to, services which local
+authorities provide in the exercise of their social services functions
+(defined in section 121 of the Act).
+
+These Regulations prescribe a person who carries on or manages a supported
+accommodation undertaking (as defined in regulation 2) for the purposes of
+section 42, and provide that the regulation making powers in the specified
+sections of Part 2 of the Act (regulation 3) apply to such persons with the
+modifications set out in the Schedule to the Regulations.
+
+A full impact assessment has not been produced for this instrument as no, or
+no significant, impact on the private, voluntary or public sector is foreseen.
+
+An Explanatory Memorandum is published alongside this instrument on
+www.legislation.gov.uk .
+

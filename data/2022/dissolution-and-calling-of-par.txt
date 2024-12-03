@@ -1,0 +1,684 @@
+Title: Dissolution and Calling of Parliament Act 2022
+Date: 2023-10-30
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ukpga/2022/11
+
+## Dissolution and Calling of Parliament Act 2022
+
+      B e it enacted  by the Queen’s most Excellent Majesty, by and with the
+advice and consent of the Lords Spiritual and Temporal, and Commons, in this
+present Parliament assembled, and by the authority of the same, as follows:—
+
+### Repeal of the Fixed-term Parliaments Act 2011
+
+1
+
+The Fixed-term Parliaments Act 2011 is repealed.
+
+### Revival of prerogative powers to dissolve Parliament and to call a new Parliament
+
+2
+
+2.1
+
+The powers relating to the dissolution of Parliament and the calling of a new
+Parliament that were exercisable by virtue of Her Majesty’s prerogative
+immediately before the commencement of the Fixed-term Parliaments Act 2011 are
+exercisable again, as if the Fixed-term Parliaments Act 2011 had never been
+enacted.
+
+2.2
+
+For the purposes of  subsection (1) , the powers relating to the calling of a
+new Parliament include powers to order the issue of—
+
+2.2.a
+
+writs of summons to attend the House of Lords, and
+
+2.2.b
+
+writs for parliamentary elections (see rule 3 in Schedule 1 to the
+Representation of the People Act 1983).
+
+### Non-justiciability of revived prerogative powers
+
+3
+
+A court or tribunal may not question—
+
+3.a
+
+the exercise or purported exercise of the powers referred to in  section 2 ,
+
+3.b
+
+any decision or purported decision relating to those powers, or
+
+3.c
+
+the limits or extent of those powers.
+
+### Automatic dissolution of Parliament after five years
+
+4
+
+If it has not been dissolved earlier, a Parliament dissolves at the beginning
+of the day that is the fifth anniversary of the day on which it first met.
+
+### Minor and consequential amendments and savings
+
+5
+
+5.1
+
+The Schedule contains minor and consequential amendments.
+
+5.2
+
+The repeal of the Fixed-term Parliaments Act 2011 by  section 1  does not
+affect the amendments and repeals made by the Schedule to that Act.
+
+### Extent, commencement and short title
+
+6
+
+6.1
+
+This Act extends to England and Wales, Scotland and Northern Ireland, subject
+to subsection (2).
+
+6.2
+
+An amendment, repeal or revocation made by this Act has the same extent as the
+provision amended, repealed or revoked.
+
+6.3
+
+This Act comes into force on the day on which it is passed.
+
+6.4
+
+This Act may be cited as the Dissolution and Calling of Parliament Act 2022.
+
+Minor and consequential amendments
+
+Section 5
+
+##### Succession to the 
+
+1
+
+In section 7 of the Succession to the Crown Act 1707 (preservation of
+prerogative powers), after “prorogue” insert  “or dissolve” .
+
+##### Representation of the People Act 1867 (c. 102)
+
+2
+
+In section 51 of the Representation of the People Act 1867 (continuation of
+Parliament on demise of the Crown), after “prorogued” insert  “or dissolved” .
+
+##### Regency Act 1937 (c. 16)
+
+3
+
+In section 6 of the Regency Act 1937 (power to delegate royal functions to
+Counsellors of State), in subsection (1), after “power” insert  “to dissolve
+Parliament otherwise than on the express instructions of the Sovereign, or” .
+
+##### Representation of the People Act 1983 (c. 2)
+
+4
+
+The Representation of the People Act 1983 is amended as follows.
+
+5
+
+In section 28 (discharge of returning officer’s functions in England and
+Wales), after subsection (3) insert—
+
+5.3A
+
+For the purposes of subsection (3), the writ is to be taken to have been
+received—
+
+5.3A.a
+
+in the case of a general election, on the day after the date of the
+dissolution of Parliament, and
+
+5.3A.b
+
+in the case of a by-election, on the day after the date of the warrant for the
+writ.
+
+6
+
+In section 76ZA (limitation of pre-candidacy election expenses for certain
+general elections), in subsection (3)(a), omit “or after”.
+
+7
+
+In section 95 (schools and rooms for parliamentary election meetings), after
+subsection (1) insert—
+
+7.1A
+
+For the purposes of subsection (1), the writ is to be taken to have been
+received—
+
+7.1A.a
+
+in the case of a general election, on the day after the date of the
+dissolution of Parliament, and
+
+7.1A.b
+
+in the case of a by-election, on the day after the date of the warrant for the
+writ.
+
+8
+
+8.1
+
+Schedule 1 (parliamentary elections rules) is amended as follows.
+
+8.2
+
+In rule 1, in the election timetable—
+
+8.2.a
+
+in the entry relating to “Issue of writ”, in the second column, omit “by
+section 3(1) of the Fixed-term Parliaments Act 2011”;
+
+8.2.b
+
+for the entry relating to “Publication of notice of election” substitute—
+
+Publication of notice of election In the case of a general election, not later
+than 4 in the afternoon on the second day after that on which the writ is
+received (and for these purposes the writ is to be taken to have been received
+on the day after the date of the dissolution of Parliament). In the case of a
+by-election, not later than 4 in the afternoon on the second day after that on
+which the writ is received (and for these purposes the writ is to be taken to
+have been received on the day after the date of the warrant for the writ).
+
+;
+
+8.2.c
+
+in the entry relating to “Delivery of nomination papers”—
+
+8.2.c.i
+
+in the second column, omit “by section 3(1) of the Fixed-term Parliaments Act
+2011”;
+
+8.2.c.ii
+
+in the third column, at the end insert  “(and for these purposes the writ is
+to be taken to have been received on the day after the date of the warrant for
+the writ)” ;
+
+8.2.d
+
+in the entry relating to “Polling”, in the second column, for “day determined
+under section 1 of the Fixed-term Parliaments Act 2011 or appointed under
+section 2(7) of that Act” substitute  “19th day after the last day for
+delivery of nomination papers” .
+
+8.3
+
+In rule 2 (computation of time)—
+
+8.3.a
+
+in paragraph (1), at the end insert  “, and any such day is not to be treated
+as a day for the purpose of any proceedings in the Timetable up to the
+completion of the poll, nor is the returning officer obliged to proceed with
+the counting of the votes on such a day.” ;
+
+8.3.b
+
+omit paragraphs (1A) and (1B);
+
+8.3.c
+
+in paragraph (2A), for sub-paragraphs (a) and (b) substitute  “the day was not
+fixed or appointed as such before the dissolution of Parliament.”
+
+8.4
+
+In the form of writ in the Appendix of Forms at the end of Schedule 1, omit
+“by section 3(1) of the Fixed-term Parliaments Act 2011”.
+
+##### Representation of the People Act 1985 (c. 50)
+
+9
+
+9.1
+
+Section 20 of the Representation of the People Act 1985 (demise of the Crown
+and parliamentary elections etc) is amended as follows.
+
+9.2
+
+In subsection (1)—
+
+9.2.a
+
+after “proclamation” insert  “dissolving Parliament or” ;
+
+9.2.b
+
+omit “(see section 3(4) of the Fixed-term Parliaments Act 2011)”.
+
+9.3
+
+In subsection (2)—
+
+9.3.a
+
+for “(6)” substitute  “(6A)” ;
+
+9.3.b
+
+for paragraphs (a) and (b) substitute  “at any time between the dissolution of
+Parliament and the polling day for the next parliamentary general election
+(“the current election”),” .
+
+9.4
+
+After subsection (3) insert—
+
+9.4.3A
+
+But the Sovereign may by royal proclamation, made on the advice of the Privy
+Council, appoint an alternative polling day, in place of the day that would
+otherwise have been the polling day under subsection (3)(a) (“the subsection
+(3)(a) polling day”), which may be—
+
+9.4.3A.a
+
+no earlier than the 7th day before the subsection (3)(a) polling day, and
+
+9.4.3A.b
+
+no later than the 7th day after the subsection (3)(a) polling day.
+
+9.4.3B
+
+If an alternative polling day is appointed under subsection (3A), subsection
+(3) applies as if—
+
+9.4.3B.a
+
+for paragraph (a) there were substituted—
+
+9.4.3B.a.a
+
+the polling day shall be the day appointed by the proclamation under
+subsection (3A);
+
+;
+
+9.4.3B.b
+
+in paragraph (b)—
+
+9.4.3B.b.i
+
+in a case where the alternative polling day is before the subsection (3)(a)
+polling day, for “13 days” there were substituted  “ x  days”  where  x  is 13
+minus the number of days that the alternative polling day is before the
+subsection (3)(a) polling day;
+
+9.4.3B.b.ii
+
+in a case where the alternative polling day is after the subsection (3)(a)
+polling day, for “13 days” there were substituted  “ y  days”  where  y  is 13
+plus the number of days that the alternative polling day is after the
+subsection (3)(a) polling day.
+
+9.5
+
+Omit subsection (4).
+
+9.6
+
+After subsection (6) insert—
+
+9.6.6A
+
+But the Sovereign may by royal proclamation, made on the advice of the Privy
+Council, appoint an alternative day for the meeting of the new Parliament, in
+place of the day that would otherwise have been the day for the meeting of the
+new Parliament under subsection (6).
+
+9.7
+
+In subsection (7), for “by section 3(1) of the 2011 Act, subsections (2) to
+(6)” substitute  “, subsections (2) to (6A)” .
+
+##### Scotland Act 1998 (c. 46)>
+
+10
+
+The Scotland Act 1998 is amended as follows.
+
+11
+
+In section 2 (ordinary general elections), in subsection (2A)(a), omit “(other
+than an early parliamentary general election)”.
+
+12
+
+In section 12A (power of the Secretary of State to make provision about the
+combination of polls)—
+
+12.a
+
+in subsection (1)—
+
+12.a.i
+
+in paragraph (a), for “the elections listed in subsection (2)” substitute
+“parliamentary by-elections” ;
+
+12.a.ii
+
+in paragraph (b), for “the elections listed in subsections (2) and (3)”
+substitute  “parliamentary by-elections or parliamentary general elections” ;
+
+12.b
+
+omit subsections (2) and (3).
+
+##### Political Parties, Elections and Referendums Act 2000 (c. 41)
+
+13
+
+The Political Parties, Elections and Referendums Act 2000 is amended as
+follows.
+
+14
+
+In section 63 (weekly donation reports during general election period), in
+subsection (6)(a), omit “by section 3(1) of the Fixed-term Parliaments Act
+2011”.
+
+15
+
+15.1
+
+Section 95A (quarterly donation reports) is amended as follows.
+
+15.2
+
+Omit subsection (2).
+
+15.3
+
+In subsection (3)—
+
+15.3.a
+
+in paragraph (a), for “first day of a qualifying regulated period” substitute
+“day that is the fourth anniversary of the day on which the Parliament then in
+existence first met” ;
+
+15.3.b
+
+in paragraph (b), omit “(or the last day) during that qualifying regulated
+period”.
+
+15.4
+
+After subsection (3) insert—
+
+15.4.3A
+
+In a case where the pre-dissolution period is 3 months or less, the reporting
+period is the pre-dissolution period.
+
+15.4.3B
+
+In a case where the pre-dissolution period is more than 3 months, the
+reporting periods are—
+
+15.4.3B.a
+
+the period of 3 months beginning with the first day of the pre-dissolution
+period,
+
+15.4.3B.b
+
+any succeeding period of 3 months falling within the pre-dissolution period,
+and
+
+15.4.3B.c
+
+any final period of less than 3 months falling within that period.
+
+15.5
+
+Omit subsections (4) and (5).
+
+15.6
+
+In subsection (7), omit paragraph (a) (and the “and” immediately following
+it).
+
+16
+
+In Schedule 9 (limits on campaign expenditure)—
+
+16.a
+
+in paragraph 1(3)(a), omit “by section 3(1) of the Fixed-term Parliaments Act
+2011”;
+
+16.b
+
+in paragraph 9(6)(b), omit “by section 3(1) of the Fixed-term Parliaments Act
+2011”.
+
+17
+
+In Schedule 10 (limits on controlled expenditure)—
+
+17.a
+
+in paragraph 1(2)(a), omit “by section 3(1) of the Fixed-term Parliaments Act
+2011”;
+
+17.b
+
+in paragraph 9(6)(b), omit “by section 3(1) of the Fixed-term Parliaments Act
+2011”.
+
+##### Government of Wales Act 2006 (c. 32)
+
+18
+
+The Government of Wales Act 2006 is amended as follows.
+
+19
+
+In section 3 (ordinary general elections), in subsection (1A)(a), omit “(other
+than an early parliamentary general election)”.
+
+20
+
+In section 13A (power of the Secretary of State to make provision about the
+combination of polls)—
+
+20.a
+
+in subsection (1)—
+
+20.a.i
+
+in paragraph (a), for “the elections listed in subsection (2)” substitute
+“parliamentary by-elections” ;
+
+20.a.ii
+
+in paragraph (b), for “the elections listed in subsections (2) and (3)”
+substitute  “parliamentary by-elections or parliamentary general elections” ;
+
+20.b
+
+omit subsections (2) and (3).
+
+##### Welfare Reform Act 2012 (c. 5)
+
+21
+
+In section 96A of the Welfare Reform Act 2012 (review of benefit cap)—
+
+21.a
+
+in subsection (1), for “in each Parliament” substitute  “every five years” ;
+
+21.b
+
+omit subsection (9).
+
+##### Electoral Registration and Administration Act 2013 (c. 6)
+
+22
+
+In section 14 of the Electoral Registration and Administration Act 2013
+(extension of timetable for parliamentary elections), omit subsection (1)
+(amendment of section 3 of Fixed-term Parliaments Act 2011).
+
+##### Wales Act 2014 (c. 29)
+
+23
+
+In section 1 of the Wales Act 2014 (frequency of Assembly ordinary general
+elections), omit subsection (2) (amendment of section 5 of Fixed-term
+Parliaments Act 2011).
+
+##### Recall of MPs Act 2015 (c. 25)
+
+24
+
+The Recall of MPs Act 2015 is amended as follows.
+
+25
+
+25.1
+
+Section 5 (Speaker’s notice that a recall condition has been met) is amended
+as follows.
+
+25.2
+
+In subsection (2)(a), after “with the” insert  “last possible” .
+
+25.3
+
+After subsection (2), insert—
+
+25.3.2A
+
+For the purposes of subsection (2)(a), the last possible polling day is the
+day on which polling would take place, according to the election timetable in
+rule 1 of Schedule 1 to the Representation of the People Act 1983, if the
+Parliament then in existence were dissolved by virtue of section 4 of the
+Dissolution and Calling of Parliament Act 2022 (automatic dissolution of
+Parliament after five years).
+
+25.4
+
+Omit subsection (3).
+
+26
+
+26.1
+
+Section 13 (early termination of recall petition process) is amended as
+follows.
+
+26.2
+
+In subsection (2), for paragraphs (a) and (b) substitute  “Parliament is
+dissolved.”
+
+26.3
+
+In subsection (6), after “Speaker” insert  “(or, in a case where this section
+applies by virtue of the first condition, the person who was the Speaker
+immediately before Parliament was dissolved)” .
+
+26.4
+
+In subsection (9), at the beginning insert  “Except in a case where this
+section applies by virtue of the first condition (dissolution of Parliament),”
+.
+
+##### ...
+
+27
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+28
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+29
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+30
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+31
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Early Parliamentary General Election Act 2019 (c. 29)
+
+32
+
+The Early Parliamentary General Election Act 2019 is repealed.
+
+##### Referendums (Scotland) Act 2020 (asp 2)
+
+33
+
+In section 3 of Referendums (Scotland) Act 2020 (power to change date of
+referendum if UK election on same date)—
+
+33.a
+
+in subsection (2), after “UK” insert  “parliamentary general” ;
+
+33.b
+
+in subsection (7), omit the definition of “date of a UK election”.
+
+##### Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341)
+
+34
+
+In regulation 98 of the Representation of the People (England and Wales)
+Regulations 2001 (supply of free copy of full register for electoral purposes
+and restrictions on use), in paragraph (5)(a)(i), omit “in accordance with
+section 3(1) of the Fixed-term Parliaments Act 2011”.
+
+##### Representation of the People (Scotland) Regulations 2001 (S.I. 2001/497)
+
+35
+
+In regulation 97 of the Representation of the People (Scotland) Regulations
+2001 (supply of free copy of full register for electoral purposes and
+restrictions on use), in paragraph (4)(a)(i), omit “in accordance with section
+3(1) of the Fixed-term Parliaments Act 2011”.
+

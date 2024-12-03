@@ -1,0 +1,141 @@
+Title: The Crown Court (Amendment) Rules (Northern Ireland) 2023
+Date: 2023-06-15
+Description: These Rules amend the Crown Court Rules (Northern Ireland) 1979 (S.R. 1979 No. 90) to:take account of amendments to section 9 of The Crime (Overseas Production Orders) Act 2019 (2019 c.5) made by section 51 of, and paragraph 4 of Schedule 5 to, the Police, Crime, Sentencing and Courts Act 2022 (2022 c.32) which provide that an overseas production order shall be served on the Secretary of State or on a prescribed person (rule 2(1));amend rule 62P(3) (requirement for service) so that it is subject to rule 62Q(7)(c) (which grants the court a discretion to waive requirements for service) (rule 2(2)(a) – (d));provide for service of a varied overseas production order (rule 2(2)(e)); andprovide that a Court may determine an application for an overseas production order in the absence of any respondent or other person affected if it would prejudice the investigation to adjourn or postpone the application so as to allow the absentee to attend (rule 2(3)).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2023/68
+
+## The Crown Court (Amendment) Rules (Northern Ireland) 2023
+
+    This Statutory Rule has been made in part to correct errors in
+S.R.2021/16  and is being issued free of charge to all known recipients of
+that Statutory Rule.
+
+    Court Of Judicature, Northern Ireland   Crown Court
+
+  Made   27 February 2023
+
+  Laid before Parliament   26 April 2023
+
+  Coming into operation in accordance with Rule 1
+
+      The Crown Court Rules Committee makes the following Rules in exercise of
+the powers conferred by sections 52(1) and 53A of the Judicature (Northern
+Ireland) Act 1978 , and section 11(1) of the Crime (Overseas Production
+Orders) Act 2019 .
+
+### Citation and commencement
+
+1
+
+These Rules shall be cited as the Crown Court (Amendment) Rules (Northern
+Ireland) 2023 and shall come into operation on the twenty-first day after the
+date upon which this instrument is laid before Parliament.
+
+### Amendment to the Crown Court Rules (Northern Ireland) 1979
+
+2
+
+The Crown Court Rules (Northern Ireland) 1979  are amended as follows:
+
+2.1
+
+In rule 62O(4), after “Secretary of State” insert  “, or on a prescribed
+person,” .
+
+2.2
+
+In rule 62P—
+
+2.2.a
+
+in sub-paragraph (3), omit “Subject to rule 62Q(7)(c),”;
+
+2.2.b
+
+in sub-paragraph (3)(a), before “apply” insert  “subject to rule 62Q(7)(c),” ;
+
+2.2.c
+
+in sub-paragraph (3)(b), before “include” insert  “subject to rule 62Q(7)(c),”
+;
+
+2.2.d
+
+in sub-paragraph (3)(c), before “serve” insert  “subject to rule 62Q(7)(b),” ;
+and
+
+2.2.e
+
+after sub-paragraph (6), insert—
+
+2.2.e.7
+
+The chief clerk must as soon as practicable serve on the applicant for the
+overseas production order under rule 62O any order made on an application
+under this rule, and—
+
+2.2.e.7.a
+
+in the event that the Court varies the overseas production order, the
+applicant under rule 62O must serve the order as varied on the Secretary of
+State, or on a prescribed person, for service on the respondent on whom the
+overseas production order first was served;
+
+2.2.e.7.b
+
+in any other event, the applicant under rule 62O must serve the order made on
+the application under this rule on every other person served under paragraph
+3(c).
+
+.
+
+2.3
+
+In rule 62Q—
+
+2.3.a
+
+in sub-paragraph (3)(b)(iii), after “present;” omit “or”;
+
+2.3.b
+
+in sub-paragraph (3)(b)(iv), for “the absentee has waived the opportunity to
+attend”, substitute  “it would prejudice the investigation to adjourn or
+postpone the application so as to allow the absentee to attend; or” ; and
+
+2.3.c
+
+after sub-paragraph 3(b)(iv), insert—
+
+2.3.c.v
+
+the absentee has waived the opportunity to attend.
+
+.
+
+      Siobhan Keegan   S Treacy   J O’Neill   Gavan Duffy   M Agnew   John
+O’Hara     Dated 27th February 2023             In exercise of the powers
+conferred upon me by section 53A of the Judicature (Northern Ireland) Act
+1978, I allow these Rules.       Signed by the authority of the Lord
+Chancellor       Mike Freer   Parliamentary Undersecretary of State   Ministry
+of Justice     Dated 19 April 2023
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Rules)
+
+  These Rules amend the Crown Court Rules (Northern Ireland) 1979 ( S.R. 1979
+No. 90 ) to:         take account of amendments to section 9 of The Crime
+(Overseas Production Orders) Act 2019 ( 2019 c.5 ) made by section 51 of, and
+paragraph 4 of Schedule 5 to, the Police, Crime, Sentencing and Courts Act
+2022 ( 2022 c.32 ) which provide that an overseas production order shall be
+served on the Secretary of State or on a prescribed person (rule 2(1));
+amend rule 62P(3) (requirement for service) so that it is subject to rule
+62Q(7)(c) (which grants the court a discretion to waive requirements for
+service) (rule 2(2)(a) – (d));           provide for service of a varied
+overseas production order (rule 2(2)(e)); and           provide that a Court
+may determine an application for an overseas production order in the absence
+of any respondent or other person affected if it would prejudice the
+investigation to adjourn or postpone the application so as to allow the
+absentee to attend (rule 2(3)).
+

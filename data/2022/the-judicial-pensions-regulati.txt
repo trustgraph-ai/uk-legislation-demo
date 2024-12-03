@@ -1,0 +1,6013 @@
+Title: The Judicial Pensions Regulations 2022
+Date: 2024-03-21
+Description: Part 2 of these Regulations establishes a scheme for the payment of pensions and other benefits to members of the judiciary. The scheme so established is a career average revalued earnings scheme.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/319
+
+## The Judicial Pensions Regulations 2022
+
+Regulations laid before Parliament under section 107 of the Public Service
+Pensions and Judicial Offices Act 2022, for approval by resolution of each
+House of Parliament within 28 days beginning with the day on which the
+Regulations were made, subject to extension for periods of dissolution,
+prorogation or adjournment during which either House is adjourned for more
+than four days.
+
+    Public Service Pensions
+
+  Made   at 9.21 a.m. on 17th March 2022
+
+  Laid before Parliament   at 3.00 p.m. on 17th March 2022
+
+  Coming into force in accordance with regulation 1
+
+      The Lord Chancellor makes the following Regulations in exercise of the
+powers conferred by sections 1(1) and (2)(b) , 2(1), 3(1), (2), (3), (4) and
+(4A), 8(1)(a) , 11(1)(a), 12(1), (1A), (6) and (7), 12A(1) and 39(1) of, and
+paragraph 2 of Schedule 2, Schedule 3, and paragraphs 1(2)(ii) and 5(1) of
+Schedule 7 to, the Public Service Pensions Act 2013  (“the 2013 Act”).     The
+Lord Chancellor and Secretary of State also make the following Regulations in
+exercise of the power conferred by paragraph 2 of Schedule 1 to the 2013 Act.
+In accordance with section 21 and paragraph 2(2) to Schedule 2 of the 2013
+Act, the Lord Chancellor has consulted the Secretary of State and
+representatives of such persons as appear to the Lord Chancellor likely to be
+affected by these Regulations.     In accordance with section 3(5) of the 2013
+Act, the Lord Chancellor obtained the consent of the Treasury before making
+these Regulations.         The Lord Chancellor has had regard to the matters
+referred to in section 5(3) of the 2013 Act.
+
+### Preliminary
+
+#### Citation and commencement
+
+1
+
+1.1
+
+These Regulations may be cited as the Judicial Pensions Regulations 2022.
+
+1.2
+
+Parts 1 and 3, regulation  12 , and paragraph 4(13) of Schedule 3 and
+regulation 137 insofar as it relates to that sub-paragraph come into force on
+the day after the day on which they are made.
+
+1.3
+
+Regulations 132(1), (3) and (4) and Schedule 2 come into force in respect of
+an office specified in that Schedule on the same day as sections 123 and 124
+of the Public Service Pensions and Judicial Offices Act 2022  come into force
+for all purposes in respect of that office.
+
+1.4
+
+The remaining provisions come into force on 1st April 2022.
+
+#### Interpretation
+
+2
+
+In these Regulations—
+
+    “the Act” means the Public Service Pensions Act 2013;         “the 2015
+Regulations” means the Judicial Pensions Regulations 2015 ;         “the 2015
+scheme” means the scheme established by the Judicial Pensions Regulations
+2015;         “FA 2004” means the Finance Act 2004 ;         “FPJR 2017” means
+the Judicial Pensions (Fee-Paid Judges) Regulations 2017 ;         “PIA 1971”
+means the Pensions (Increase) Act 1971 ;         “PSA 1993” means the Pension
+Schemes Act 1993 ;         “PA 1995” means the Pensions Act 1995 ;
+“WRPA 1999” means the Welfare Reform and Pensions Act 1999 ;         “accrued
+pension” means—       in relation to another pension scheme, accrued rights to
+benefits under that scheme which are the equivalent of accrued standard earned
+pension under this scheme; and       in relation to this scheme, accrued
+standard earned pension (if any);             “accrued rights”, in relation to
+benefits under this scheme, does not include a right to benefits attributable
+(directly or indirectly) to a pension credit;         “accrued standard earned
+pension”—       for the purpose of calculating the amount of full retirement
+pension or the provisional amount of deferred pension, has the meaning given
+in regulation  24(2)  (calculation of amount of accrued standard earned
+pension for purpose of deferment or full retirement);       for the purpose of
+calculating the amount of partial retirement pension, has the meaning given in
+regulation  25(2)  (calculation of amount of accrued standard earned pension
+for purpose of partial retirement);             “active member”, in relation
+to this scheme, means a person who is in pensionable service under this scheme
+or a person on unpaid leave;         “active member’s account” has the meaning
+given in regulation  29(2)  (establishment of active member’s account);
+“actuarial guidance” means guidance given by the scheme manager after
+consultation with the scheme actuary;         “actuarial reduction” in
+relation to reduction of pension payable to a member who has not reached
+normal pension age, means a reduction determined by the scheme manager after
+consultation with the scheme actuary or taking into account tables prepared by
+the scheme actuary;         “additional maternity leave” has the meaning given
+in regulation 2(1) (interpretation) of the Maternity and Parental Leave etc.
+Regulations 1999 ;         “additional paternity leave” has the meaning given
+in regulation 2(1) (interpretation) of the Additional Paternity Leave
+Regulations 2010 ;         “adoption leave” means ordinary adoption leave
+under section 75A (ordinary adoption leave), or additional ordinary adoption
+leave under section 75B (additional adoption leave), of the Employment Rights
+Act 1996 ;         “age addition” has the meaning given in regulation  22(3)
+(determination of “the age addition”);         “allocation amount” means the
+amount of pension allocated as a result of making an allocation election;
+“allocation election” means an election under regulation  63(2)  (allocation
+election);         “amount of credited pension” means an amount equal to the
+pension credit calculated in accordance with regulations made under paragraph
+5(b) of Schedule 5 (pension credits: mode of discharge) to WRPA 1999;
+“amount of earned pension”, in relation to a scheme year, means an amount
+calculated in accordance with regulation  30(3)  (amount of pension for a
+scheme year);         “annual rate”—       in relation to standard earned
+pension, has the meaning given in Chapters 2 (regulations 48 and 49) and 3
+(regulations 53 and 54) of Part 6 (retirement benefits); and       in relation
+to pensionable earnings, means the amount of pensionable earnings payable for
+a scheme year;             “appropriate Minister” means—       in relation to
+any qualifying judicial office whose jurisdiction is exercised exclusively in
+relation to Scotland, the Secretary of State; or       subject to paragraph
+(a) above, the Lord Chancellor;             “assignment”, in relation to this
+scheme, means the assigning of a member in accordance with paragraph 9 of Part
+2 of Schedule 4 to the Tribunals, Courts and Enforcement Act 2007 ;
+“assumed age addition” has the meaning given in regulation  23(3)
+(determination of “the assumed age addition”);         “assumed pay” has the
+meaning given in regulation  17(2)  (in respect of salaried office holders)
+and regulation  18(3)  (in respect of fee-paid office holders);         “the
+beginning date”, in relation to a pension not attributable (directly or
+indirectly) to a pension credit, means the date on which the pension is deemed
+to begin for the purpose of section 8(2) (meaning of “pension” and other
+supplementary provisions) of PIA 1971 ;         “beneficiary”, in relation to
+a deceased member, means the surviving adult or eligible child of the member;
+“closing date” in relation to a transition member, has the meaning given in
+paragraph  1  of Schedule 1 ;         “the commutation amount” means the
+amount of pension exchanged for a lump sum as a result of the exercise of the
+commutation option;         “commutation option” means the option to exchange
+part of a pension for a lump sum—       exercisable under regulation  60
+(option to commute part of pension) in relation to a retirement pension; or
+exercisable under regulation  72  (option for pension credit member to commute
+part of pension) in relation to a pension credit member’s pension;
+“connected scheme” means another statutory pension scheme that is connected,
+within the meaning of section 4(6) (scheme manager) of the Act, with this
+scheme;         “continuity of service” has the meaning given in paragraph  2
+of Schedule 1;         “continuous period of pensionable service” means a
+period of pensionable service under this scheme disregarding any gap in
+pensionable service not exceeding 5 years, unless otherwise provided;
+“continuous period of service”, in relation to qualifying judicial office,
+means a period of service in one or more qualifying judicial offices
+disregarding any gap in service not exceeding 5 years;         “death
+benefits” means benefits payable under Part 8 (death benefits);
+“deferred member” has the meaning given in regulation  19  (meaning of
+“deferred member”);         “deferred member’s account” has the meaning given
+in regulation  34(3)  (establishment of deferred member’s account);
+“dependant” has the meaning given in paragraph 15 of Schedule 28 to the FA
+2004 ;         “dual capacity member” has the meaning given in regulation  118
+(meaning of “dual capacity member”);         “early payment reduction” means
+the actuarial reduction that is applied when calculating the annual rate of
+pension payable to a member of this scheme who has not reached normal pension
+age under this scheme;         “eligible child” has the meaning given in
+regulation  87  (meaning of “eligible child”);         “eligible child’s
+pension” has the meaning given in regulation  86  (meaning of “eligible
+child’s pension”);         “employer” means the person responsible for the
+remuneration of a qualifying judicial officeholder;         “the Fee-Paid
+Judges Scheme” means the scheme established by Parts 1 to 11 of the FPJR 2017;
+“fee-paid office” means an office where service is remunerated by payment of
+fees, as opposed to the payment of salary;         “full retirement account”
+has the meaning given in regulation  38(4)  (establishment of full retirement
+account);         “full retirement pension” means full retirement standard
+earned pension;         “head of jurisdiction” means—       in England and
+Wales, the Lord Chief Justice of England and Wales,       in Scotland, the
+Lord President of the Court of Session, and       in Northern Ireland, the
+Lord Chief Justice of Northern Ireland;             “ill-health pension” has
+the meaning given by regulation  56  (entitlement to ill-health pension);
+“index adjustment” means, in relation to the opening balance of standard
+earned pension for any scheme year, the change in prices in the previous
+scheme year ;         “Judicial Pension Board” means the Judicial Pension
+Board established by regulation 6(1) (Judicial Pension Board: establishment)
+of the 2015 Regulations;         “last active scheme year” means the scheme
+year in which an active member of this scheme ceases to be in pensionable
+service under this scheme;         “last day of pensionable service” means the
+last day of a continuous period of pensionable service under this scheme;
+“late payment supplement”, in relation to the provisional amount of deferred
+pension, means an additional amount of pension determined by the scheme
+manager after consulting the scheme actuary to be appropriate if a deferred
+member of this scheme is over normal pension age under this scheme before
+becoming entitled to the immediate payment of a full retirement pension;
+“the leaving year” means the scheme year in which the relevant last day falls;
+“lump sum death benefit” means a lump sum paid under Chapter 4 of Part 8
+(payment of lump sum death benefits) on the death of a member;
+“maternity leave” means ordinary maternity leave or additional maternity leave
+as defined in regulation 2(1) (interpretation) of the Maternity and Parental
+Leave etc. Regulations 1999 ;         “medical certificate” is a certificate
+prepared by a registered medical practitioner at the request of the scheme
+manager;         “member” means an active member, deferred member, pensioner
+member or pension credit member of this scheme;         “member contributions”
+has the meaning given in regulation 105 (rate of member contributions);
+“normal minimum pension age” has the same meaning as in section 279(1) (other
+definitions) of FA 2004 ;         “normal pension age”, in relation to this
+scheme, is determined in accordance with section 10 (pensions age) of the Act;
+“occupational pension scheme” has the meaning given in section 1 (categories
+of pension schemes) of PSA 1993;         “opening balance” has the meaning
+given in regulation  31(3)  (opening balance);         “option proportion” has
+the meaning given in regulation 50(2)(c) (partial retirement option notice);
+“ordinary maternity leave” has the meaning given in regulation 2(1)
+(interpretation) of the Maternity and Parental Leave etc. Regulations 1999;
+“parental leave” means leave under regulation 13(1) (entitlement to parental
+leave) of the Maternity and Parental Leave etc. Regulations 1999;
+“partial retirement account” has the meaning given in regulation  40(2)
+(establishment of partial retirement account);         “partial retirement
+option” means the option exercisable under regulation  49(2)  (exercise of
+partial retirement option);         “partial retirement pension” means partial
+retirement standard earned pension;         “partially retired”, in relation
+to a member of this scheme, means a member who has exercised the partial
+retirement option;         “paternity leave” means leave under regulation 4
+(entitlement to paternity leave: birth) or 8 (entitlement to paternity leave:
+adoption) of the Paternity and Adoption Leave Regulations 2002 ;         “pay
+period” means the period in respect of which a payment of pensionable earnings
+is made;         “pension credit” has the meaning given in section 124(1)
+(interpretation of Part 1) of PA 1995 ;         “pension credit member”, in
+relation to this scheme, means a person who has rights under this scheme which
+are attributable (directly or indirectly) to a pension credit under a pension
+sharing order following divorce or nullity of marriage;         “pension
+credit member’s account” has the meaning given in regulation  42
+(establishment of pension credit member’s account);         “pension credit
+member’s pension” means a pension payable under regulation  68  (entitlement
+to pension credit member’s pension);         “pension debit” means a debit
+under section 29(1)(a) (creation of pension credits and debits) of WRPA 1999;
+“pension debit member”, in relation to this scheme, means a person who is a
+member of this scheme whose benefits or future benefits under this scheme have
+been reduced under section 31 (reduction under pension sharing order following
+divorce or nullity of marriage) of WRPA 1999;         “pensionable earnings”
+has the meaning given in regulation  16  (pensionable earnings);
+“pensioner member”, in relation to this scheme, means a person who is entitled
+to the immediate payment of a retirement pension under this scheme;
+“pension sharing order” means any provision or order specified in section 28
+(activation of pension sharing) of WRPA 1999 ;         “period of assumed pay”
+has the meaning given in regulation  17(1)  (in relation to salaried office
+holders) and regulation  18(1)  (in relation to fee-paid office holders);
+“pre-2022 scheme” means—       a scheme mentioned in any of paragraphs 2 to 15
+of Schedule 5 to the Act (judicial schemes);       a scheme mentioned in
+paragraph 2 of Schedule 5 to the Public Service Pensions Act (Northern
+Ireland) 2014 ;       the 2015 scheme;       the scheme established by the
+Judicial Pensions Regulations (Northern Ireland) 2015 ; or       the Fee-Paid
+Judges Scheme;             “prospective normal pension age”, in relation to a
+member’s prospective entitlement to benefits under this scheme, means the
+normal pension age that the scheme manager, by reference to Treasury
+directions  made under section 11(2) (valuations) of the Act, determines would
+apply in relation to those benefits;         “provisional amount of deferred
+pension” has the meaning given in regulation  35(2)  (provisional amount of
+deferred pension);         “qualifying judicial office” has the meaning given
+in regulation  7  (qualifying judicial office);         “qualifying judicial
+service” has the meaning given in regulation 6 (qualifying judicial service)
+of the FPJR 2017;         “qualifying service” has the meaning given in
+regulation  45  (qualifying service);         “registered”, in relation to a
+pension scheme, means registered under Chapter 2 of Part 4 (registration of
+pension schemes) of FA 2004;         “the relevant last day”, in relation to a
+continuous period of pensionable service, means—       for a partially retired
+member, the day before the day on which the partial retirement option was
+exercised in accordance with regulation 50, or       the member’s last day of
+pensionable service;             “retirement index adjustment”, in relation to
+an opening balance, has the meaning given in regulation  21  (calculation of
+“retirement index adjustment”);         “retirement benefits” means benefits
+payable under Part 6 (retirement benefits);         “retirement pension” means
+any of the following—       a full retirement pension;       a partial
+retirement pension;       an ill-health pension;             “salaried office”
+means an office where service is remunerated by the payment of salary, as
+opposed to the payment of fees;         “this scheme” means the scheme
+established by these Regulations;         “scheme actuary” means the actuary
+appointed by the Lord Chancellor under regulation  117  (appointment of scheme
+actuary and actuarial valuations);         “scheme advisory board” means the
+scheme advisory board established by regulation 9(1) (scheme advisory board:
+establishment) of the 2015 Regulations;         “scheme closing date” means
+31st March 2022 ;         “scheme manager” has the meaning given in regulation
+4  (scheme manager) of the 2015 Regulations;         “scheme year” means a
+period of one year beginning with 1st April and ending with 31st March;
+“standard earned pension” means pension which is earned under this scheme and
+which is payable without actuarial reduction at normal pension age;
+“statutory pay” means—       statutory adoption pay within the meaning of
+section 171ZL(1) (entitlement) of the Social Security Contributions and
+Benefits Act 1992(24) ;       statutory maternity pay within the meaning of
+section 164(1) (statutory maternity pay - entitlement and liability to pay) of
+the Social Security Contributions and Benefits Act 1992;       statutory
+paternity pay within the meaning of section 171ZA(1) (entitlement: birth) or
+171ZB(1) (entitlement: adoption) of the Social Security Contributions and
+Benefits Act 1992 ; or       statutory shared parental pay within the meaning
+of section 171ZU (entitlement: birth) or section 171ZV (entitlement: adoption)
+of the Social Security Contributions and Benefits Act 1992 :
+“surviving adult”, in relation to a deceased member of this scheme, has the
+meaning given in regulation  76  (surviving adults);         “surviving
+adult’s pension” has the meaning given in regulation  78  (meaning of
+“surviving adult’s pension”);         “surviving civil partner” has the
+meaning given in regulation  76 ;         “surviving spouse” has the meaning
+given in regulation  76 ;         “tax year” means a period of one year which
+is the period of assessment for income tax purposes;         “total allocation
+amount”, in relation to an amount of retirement pension, means the total
+amount of that pension allocated under Chapter 6 of Part 6 (allocation of part
+of pension);         “transfer value” has the meaning given in regulation  110
+(interpretation of Part);         “transfer value payment” means payment of a
+transfer value;         “transition member” has the meaning given in paragraph
+1 of Schedule 1;         “trivial commutation lump sum” has the meaning given
+in paragraph 7 of Schedule 29 to the FA 2004.
+
+### Establishment of the scheme
+
+#### Establishment and scope
+
+3
+
+A career average revalued earnings scheme is established as a defined benefits
+scheme for the payment of pensions and other benefits to or in respect of—
+
+3.a
+
+the judiciary , and
+
+3.b
+
+persons in respect of whom the Lord Chancellor makes a determination under
+section 25(5) (extension of schemes) of the Act.
+
+### Governance
+
+#### Scheme manager
+
+4
+
+4.1
+
+Before exercising any discretion under these Regulations, the scheme manager
+must obtain a recommendation from the Judicial Pension Board.
+
+4.2
+
+If the scheme manager exercises any discretion under these Regulations
+contrary to a recommendation made by the Judicial Pension Board, the scheme
+manager must provide written reasons for doing so to the Judicial Pension
+Board and to the member to whom the discretion relates (if any).
+
+4.3
+
+The scheme manager and the Judicial Pension Board may agree that paragraphs
+(1) and (2) do not apply to specific discretions or in specific circumstances.
+
+#### Delegation
+
+5
+
+5.1
+
+The Lord Chancellor may delegate any functions under these Regulations,
+including this power.
+
+5.2
+
+The scheme manager may delegate any functions under these Regulations,
+including this power.
+
+5.3
+
+The Judicial Pension Board may delegate any functions under these Regulations.
+
+#### Payment of fees and expenses
+
+6
+
+The Lord Chancellor may—
+
+6.a
+
+pay fees to or in respect of members of the Judicial Pension Board and the
+scheme advisory board of such amounts as the Lord Chancellor may determine;
+and
+
+6.b
+
+reimburse members of the Judicial Pension Board and the scheme advisory board
+in respect of any reasonable expenses incurred by them in the performance of
+their duties in relation to this scheme.
+
+### Scheme membership
+
+#### Eligibility for active membership
+
+##### Qualifying judicial office
+
+7
+
+For the purpose of these Regulations, a person who is appointed to an office
+specified in an order made under paragraph 2 of Schedule 1 (judiciary) to the
+Act is in a qualifying judicial office.
+
+##### Eligible persons
+
+8
+
+8.1
+
+For the purposes of this Part, an eligible person is a person who is eligible
+to be an active member of this scheme.
+
+8.2
+
+A person who begins service in a qualifying judicial office (P) becomes an
+eligible person in relation to that service unless paragraph  (3)  applies.
+
+8.3
+
+This paragraph applies if the terms of P’s office exclude P from being an
+active member of this scheme.
+
+##### Service in two or more qualifying judicial offices
+
+9
+
+If a person is in service in two or more qualifying judicial offices,
+regulation  8  applies separately in relation to each office.
+
+#### Pensionable service
+
+##### Application of Chapter
+
+10
+
+10.1
+
+This Chapter applies in relation to a continuous period of service in a
+qualifying judicial office.
+
+10.2
+
+If a person is in service in two or more qualifying judicial offices, this
+Chapter applies separately in relation to each of the offices.
+
+##### Enrolment
+
+11
+
+A person (P) begins pensionable service under this scheme in relation to a
+qualifying judicial office on the first day on which P becomes an eligible
+person in relation to service in that office unless regulation  13  (opting
+out before the end of one month) applies.
+
+##### Opting out of this scheme
+
+12
+
+12.1
+
+A person (P) opts out of this scheme in relation to service in a qualifying
+judicial office if P opts not to be an active member of this scheme in
+relation to that service.
+
+12.2
+
+P may only exercise the option under paragraph (1) by notice to the scheme
+manager in a form required by the scheme manager (“opt-out notice”).
+
+12.3
+
+The option is taken to be exercised on the date on which the opt-out notice is
+received by the scheme manager.
+
+##### Opting out before the end of one month
+
+13
+
+13.1
+
+This regulation applies if a person (P) opts out of this scheme in relation to
+a continuous period of service in a qualifying judicial office before the end
+of one month after P’s first day of a continuous period of service in that
+office (or within any longer period the scheme manager considers appropriate).
+
+13.2
+
+If this regulation applies, P is taken never to have been in pensionable
+service under this scheme in relation to the continuous period of service in
+that office.
+
+##### Opting out after one month
+
+14
+
+14.1
+
+This regulation applies if a person (P) opts out of this scheme in relation to
+a continuous period of service in a qualifying judicial office not less than
+one month after P’s first day of a continuous period of service in that
+office.
+
+14.2
+
+If P opts out of this scheme by opt-out notice, P ceases to be in pensionable
+service under this scheme in relation to that office—
+
+14.2.a
+
+on the first day of the first pay period beginning on or after the date on
+which the option is exercised; or
+
+14.2.b
+
+if the scheme manager considers that day inappropriate, on the first day of
+any later pay period the scheme manager considers appropriate.
+
+##### Opting into this scheme
+
+15
+
+15.1
+
+A person (P) who, in relation to a qualifying judicial office, is an eligible
+person but is not in pensionable service under this scheme may opt to become
+an active member of this scheme in relation to service in that office.
+
+15.2
+
+The option under this regulation may only be exercised by notice to the scheme
+manager in a form required by the scheme manager (“opt-in notice”).
+
+15.3
+
+If P exercises the option under this regulation in relation to service in a
+qualifying judicial office, P is taken to exercise that option on the date on
+which the opt-in notice is received by the scheme manager.
+
+15.4
+
+If P opts out of this scheme within 12 months after opting in, P may not opt
+in again until after the end of that period of 12 months.
+
+#### Pensionable earnings
+
+##### Pensionable earnings
+
+16
+
+For the purpose of calculating a member’s pension or other benefits under this
+scheme, the member’s pensionable earnings for any period are the sum of—
+
+16.a
+
+the member’s earnings for service in a qualifying judicial office for that
+period; and
+
+16.b
+
+any allowance granted on a permanent basis that the scheme manager determines
+to be pensionable earnings for that period.
+
+##### Meaning of “assumed pay”: salaried office holders
+
+17
+
+17.1
+
+For the purpose of these Regulations, an active member of this scheme who is a
+salaried office holder (P) receives assumed pay in that office in respect of
+any period in which any of the circumstances in paragraph  (3)  apply (“period
+of assumed pay”).
+
+17.2
+
+For the purpose of paragraph  (1) , “assumed pay” means the amount equal to
+the pensionable earnings that P would have received in that period if those
+circumstances had not applied.
+
+17.3
+
+The circumstances are—
+
+17.3.a
+
+P is on sick leave on reduced pay;
+
+17.3.b
+
+P is on adoption leave, maternity leave, parental leave, paternity leave or
+additional paternity leave;
+
+17.3.c
+
+P is receiving statutory pay; or
+
+17.3.d
+
+P is on secondment to a different employer under an arrangement providing for
+P to continue to be an active member of this scheme in relation to P’s service
+although P is paid by that employer.
+
+##### Meaning of “assumed pay”: fee-paid office holders
+
+18
+
+18.1
+
+Where a fee-paid office holder holds more than one judicial office, this
+regulation applies separately in relation to each office held.
+
+18.2
+
+For the purpose of these Regulations, an active member of this scheme who is a
+fee-paid office holder (P) receives assumed pay in respect of any period in
+which any of the circumstances in paragraph  (5)  apply (“period of assumed
+pay”).
+
+18.3
+
+For the purposes of paragraph (2), “assumed pay” means an amount of
+pensionable earnings for the period in question based upon the annualised
+amount calculated in accordance with paragraph (4).
+
+18.4
+
+For the purposes of paragraph (3), the amount of pensionable earnings that P
+receives in respect of a particular office is calculated as follows—
+
+Z per annum, where:
+
+        Z = J K               where—         J means the total fee-paid income
+in respect of that particular office over the preceding three years, or, if
+less than three years, over the period since the first sitting day in that
+particular office;           “preceding three years” means the period of three
+years ending with the day before the period of assumed pay;           “period
+since the first sitting day in that particular office” means the period
+beginning with the first day in the particular office and ending with the day
+before the beginning of the period of assumed pay;           K means the
+lesser of—       3; or       the period in years (and a fraction of a year,
+determined by complete months) from the first sitting day in that particular
+office until the beginning of the period of assumed pay;
+“complete month” includes an incomplete month that consists of at least 16
+days; and           Z means the annualised total of fees from that particular
+office.
+
+18.5
+
+The circumstances are—
+
+18.5.a
+
+P is on sick leave on reduced pay;
+
+18.5.b
+
+P is on adoption leave, maternity leave, parental leave, paternity leave or
+additional paternity leave;
+
+18.5.c
+
+P is receiving statutory pay; or
+
+18.5.d
+
+P is on secondment to a different employer under an arrangement providing for
+P to continue to be an active member of this scheme in relation to P’s service
+although P is paid for by that employer.
+
+18.6
+
+In this regulation, where P holds multiple assignments within the First-tier
+Tribunal or the Upper Tribunal, references to an office are to be taken as
+references to an assignment to a particular chamber.
+
+#### Deferred membership
+
+##### Meaning of “deferred member”
+
+19
+
+A person (P) becomes a deferred member of this scheme in relation to a
+continuous period of pensionable service under this scheme if—
+
+19.a
+
+P ceases to be an active member of this scheme in relation to that period of
+service;
+
+19.b
+
+P does not become a pensioner member of this scheme in relation to that period
+of service; and
+
+19.c
+
+where P is not over normal pension age, P has at least two years’ qualifying
+service.
+
+##### Refund of all member contributions made by the member
+
+20
+
+20.1
+
+Member contributions made by the member are only refundable if—
+
+20.1.a
+
+regulation  13  (opting out before the end of one month) applies; or
+
+20.1.b
+
+the member ceases to be in pensionable service under this scheme and—
+
+20.1.b.i
+
+the member has less than two years’ qualifying service; and
+
+20.1.b.ii
+
+the member has not reached normal pension age under this scheme.
+
+20.2
+
+If all member contributions made by the member are refunded under this
+regulation, the member’s rights under this scheme are extinguished.
+
+20.3
+
+For the purposes of this regulation a refund of contributions may be made (at
+the election of the member)—
+
+20.3.a
+
+by payment to the member; or
+
+20.3.b
+
+by payment to a registered pension scheme.
+
+### Pension accounts
+
+#### Calculation of adjustments
+
+##### Calculation of “retirement index adjustment”
+
+21
+
+21.1
+
+The retirement index adjustment for an amount of accrued pension is—
+
+amount of accrued pension × retirement index percentage
+
+where— “ amount of accrued pension ” means an amount of any description of
+accrued pension; “ retirement index percentage ” means the retirement index
+percentage calculated under paragraph (2).
+
+21.2
+
+The retirement index percentage is—
+
+A × B 12 where— A means the   in-service revaluation index   that applies in
+relation to this scheme for the leaving year; B is the number of complete
+months in the period between the beginning of the leaving year and the end of
+the relevant last day; and “complete month” includes an incomplete month that
+consists of at least 16 days.
+
+21.3
+
+In paragraph (2), “ in-service revaluation index ”, in relation to a pension
+scheme, means the percentage increase or decrease by which the pensionable
+earnings of a person, or a proportion of those earnings accrued as a pension,
+are revalued whilst the person is in pensionable service in that pension
+scheme.
+
+##### Determination of “the age addition”
+
+22
+
+22.1
+
+This regulation applies in relation to every scheme year in which an active
+member’s account is open that is subsequent to the scheme year in which the
+member reaches normal pension age under this scheme, other than—
+
+22.1.a
+
+the scheme year in which the account is established under this Part; and
+
+22.1.b
+
+the scheme year immediately following that.
+
+22.2
+
+At the beginning of the scheme year the scheme manager having regard to
+actuarial guidance must determine the age addition to be awarded for that
+scheme year by reference to the opening balance of that account for the
+previous scheme year.
+
+22.3
+
+In these Regulations, “the age addition” means an additional amount of pension
+determined by reference to the proportion of the previous scheme year in which
+a member had reached normal pension age under this scheme.
+
+##### Determination of “the assumed age addition”
+
+23
+
+23.1
+
+This regulation applies when a deferred member’s account, full retirement
+account or partial retirement account is established under this Part for a
+member who reaches normal pension age under this scheme at least one month
+before the relevant last day.
+
+23.2
+
+For each description of accrued pension specified in the account, the scheme
+manager having regard to actuarial guidance must determine the assumed age
+addition to be awarded.
+
+23.3
+
+In these Regulations, “the assumed age addition” means the age addition that
+would have been awarded for standard earned pension had the member not left
+pensionable service or not partially retired in the leaving year, determined
+by reference to the proportion of the leaving year for which the member was an
+active member of this scheme who had reached normal pension age under this
+scheme.
+
+#### Calculation of accrued pension
+
+##### Calculation of amount of accrued standard earned pension for purpose of deferment or full retirement
+
+24
+
+24.1
+
+For the purpose of calculating the amount of full retirement pension or the
+provisional amount of deferred pension, the amount of accrued pension is an
+amount calculated in accordance with this regulation.
+
+24.2
+
+The amount of accrued standard earned pension is the total of the following
+amounts specified in the active member’s account as at the end of the relevant
+last day—
+
+24.2.a
+
+the sum of the opening balance of standard earned pension for the last active
+scheme year and the  ... index adjustment for that opening balance;
+
+24.2.b
+
+the amount of standard earned pension for the last active scheme year.
+
+##### Calculation of amount of accrued standard earned pension for purpose of partial retirement
+
+25
+
+25.1
+
+For the purpose of calculating the amount of partial retirement pension, the
+amount of accrued pension is an amount calculated in accordance with this
+regulation.
+
+25.2
+
+The amount of accrued standard earned pension is the option proportion of the
+total of the following amounts specified in the active member’s account as at
+the end of the relevant last day—
+
+25.2.a
+
+the sum of the opening balance of standard earned pension for the leaving year
+and the retirement index adjustment for that opening balance;
+
+25.2.b
+
+the amount of standard earned pension for the leaving year.
+
+#### Pension accounts: general
+
+##### Establishment of pension accounts: general
+
+26
+
+26.1
+
+A pension account—
+
+26.1.a
+
+may be kept in any form the scheme manager considers appropriate; and
+
+26.1.b
+
+must specify the details required by these Regulations.
+
+26.2
+
+References in these Regulations to any amount specified in a pension account
+are references to the amount that is required by these Regulations to be so
+specified and not, if different, the amount actually so specified.
+
+##### Closure and adjustment of pension accounts on transfer out
+
+27
+
+27.1
+
+Except as otherwise provided in this regulation, the scheme manager must close
+all pension accounts relating to a member of this scheme if—
+
+27.1.a
+
+a transfer value payment is made in respect of the member’s accrued rights
+under this scheme; or
+
+27.1.b
+
+all members’ contributions made by the member are refunded to the member under
+Part 9 (contributions).
+
+27.2
+
+Paragraph  (1)  does not require the scheme manager to close an account that
+includes amounts to which the transfer value payment does not relate or is not
+attributable.
+
+27.3
+
+An account that is not closed because of paragraph  (2)  must be adjusted as
+the scheme manager considers appropriate to reflect the extinguishment of
+rights under this scheme.
+
+27.4
+
+Paragraph  (1)(a)  does not require the scheme manager to close a pension
+credit member’s account if the transfer value payment is made in respect of
+the accrued rights of a member who is both—
+
+27.4.a
+
+a pension credit member of this scheme; and
+
+27.4.b
+
+an active member, deferred member or pensioner member of this scheme.
+
+#### Active member’s account
+
+##### Application of Chapter
+
+28
+
+28.1
+
+This Chapter applies in relation to a continuous period of pensionable service
+under this scheme.
+
+28.2
+
+For a person who is an active member of this scheme in relation to two or more
+continuous periods of pensionable service at the same time, this Chapter
+applies separately in relation to each of those periods of service.
+
+##### Establishment of active member’s account
+
+29
+
+29.1
+
+The scheme manager must establish a pension account for a member who is in
+pensionable service from the day on which the member begins pensionable
+service.
+
+29.2
+
+For the purpose of these Regulations, an account established under paragraph
+(1)  is called an active member’s account.
+
+29.3
+
+Where a member holds multiple assignments within the First-tier Tribunal or
+the Upper Tribunal, the scheme manager must establish a pension account in
+respect of each assignment.
+
+##### Amount of pension for a scheme year
+
+30
+
+30.1
+
+This regulation applies in relation to every scheme year in which an active
+member’s account is open.
+
+30.2
+
+The active member’s account must specify the amount of standard earned pension
+for the scheme year.
+
+30.3
+
+The amount of earned pension for a scheme year is—
+
+30.3.a
+
+in relation to a member exercising the option mentioned in regulation  105
+(rate of member contributions), 2.42% of the member’s pensionable earnings for
+that year; and
+
+30.3.b
+
+in relation to any other case, 2.5% of the member’s pensionable earnings for
+that year.
+
+##### Opening balance
+
+31
+
+31.1
+
+This regulation applies in relation to every scheme year in which an active
+member’s account is open other than the scheme year in which that account is
+established.
+
+31.2
+
+The active member’s account must specify—
+
+31.2.a
+
+the opening balance for the scheme year and the index adjustment for the
+opening balance; and
+
+31.2.b
+
+if applicable, the age addition awarded at the beginning of the scheme year.
+
+31.3
+
+In these Regulations, “opening balance”—
+
+31.3.a
+
+for the scheme year immediately following the scheme year in which the active
+member’s account is established, means the amount of pension for the previous
+scheme year as at the end of the previous scheme year; and
+
+31.3.b
+
+for any subsequent scheme year, means the sum of the following amounts—
+
+31.3.b.i
+
+the opening balance of pension for the previous scheme year and the index
+adjustment for that opening balance;
+
+31.3.b.ii
+
+the amount of pension for the previous scheme year as at the end of the
+previous scheme year; and
+
+31.3.b.iii
+
+if applicable, the age addition awarded at the beginning of the previous
+scheme year.
+
+##### Closure of active member’s account
+
+32
+
+32.1
+
+The scheme manager must close an active member’s account in relation to a
+period of service when the scheme manager establishes in relation to that
+period of service—
+
+32.1.a
+
+a deferred member’s account under regulation  34  (establishment of deferred
+member’s account); or
+
+32.1.b
+
+a full retirement account under regulation  38  (establishment of full
+retirement account).
+
+32.2
+
+The scheme manager must re-establish an active member’s account under this
+Chapter when the scheme manager closes a deferred member’s account under
+regulation  37  (closure of deferred member’s account after gap in pensionable
+service not exceeding 5 years).
+
+#### Deferred member’s account
+
+##### Application of Chapter
+
+33
+
+33.1
+
+This Chapter applies in relation to a continuous period of pensionable service
+under this scheme.
+
+33.2
+
+For a person who is a deferred member of this scheme in relation to two or
+more continuous periods of pensionable service, this Chapter applies
+separately in relation to each of those periods of service.
+
+##### Establishment of deferred member’s account
+
+34
+
+34.1
+
+This regulation applies when an active member of this scheme becomes a
+deferred member of this scheme.
+
+34.2
+
+The scheme manager must—
+
+34.2.a
+
+close the active member’s account for the period of service in relation to
+which the member becomes a deferred member; and
+
+34.2.b
+
+establish a pension account for the deferred member for that period of
+service.
+
+34.3
+
+For the purpose of these Regulations, an account established under paragraph
+(2)(b)  is called a deferred member’s account.
+
+##### Provisional amount of deferred pension
+
+35
+
+35.1
+
+The deferred member’s account must specify the provisional amount of deferred
+pension.
+
+35.2
+
+The provisional amount of deferred pension is the sum of—
+
+35.2.a
+
+the amount of accrued standard earned pension calculated under regulation  24
+(calculation of amount of accrued standard earned pension for purpose of
+deferment or full retirement) (“accrued amount”); and
+
+35.2.b
+
+the assumed age addition (if any) for the accrued amount.
+
+##### Adjustment of provisional amount
+
+36
+
+36.1
+
+This regulation applies when a deferred member of this scheme in relation to a
+period of service becomes entitled to the immediate payment of a full
+retirement pension for that period of service.
+
+36.2
+
+For the provisional amount of deferred pension, the deferred member’s account
+must specify—
+
+36.2.a
+
+the late payment supplement (if any);
+
+36.2.b
+
+the early payment reduction (if any);
+
+36.2.c
+
+the commutation amount (if any); and
+
+36.2.d
+
+the total allocation amount (if any).
+
+##### Closure of deferred member’s account after gap in pensionable service not exceeding 5 years
+
+37
+
+37.1
+
+This regulation applies when a deferred member of this scheme in relation to a
+continuous period of pensionable service re-enters pensionable service under
+this scheme after a gap in pensionable service not exceeding 5 years.
+
+37.2
+
+The scheme manager must—
+
+37.2.a
+
+close the deferred member’s account in relation to that period of service and
+treat the deferred member’s account as if it were never established;
+
+37.2.b
+
+re-establish the active member’s account under Chapter 4 (active member’s
+account) in relation to that period of service; and
+
+37.2.c
+
+make entries in the active member’s account as if, during the gap in
+pensionable service, the member—
+
+37.2.c.i
+
+was in pensionable service under this scheme; but
+
+37.2.c.ii
+
+received no pensionable earnings.
+
+#### Full retirement account
+
+##### Establishment of full retirement account
+
+38
+
+38.1
+
+This regulation applies in relation to a continuous period of pensionable
+service under this scheme.
+
+38.2
+
+When an active member of this scheme becomes entitled to the immediate payment
+of a full retirement pension or an ill-health pension in relation to a
+continuous period of pensionable service under this scheme, the scheme manager
+must—
+
+38.2.a
+
+close the active member’s account (or accounts, as the case may be) for that
+continuous period of pensionable service; and
+
+38.2.b
+
+establish an account (or accounts, as the case may be) for the pensioner
+member for that period of service.
+
+38.3
+
+When an active member of this scheme exercises the partial retirement option
+in respect of the whole of the member’s accrued pensions in one of their
+offices in relation to a continuous period of service and becomes entitled to
+the immediate payment of a full retirement pension in respect of the office or
+offices in which they are taking partial retirement, the scheme manager must—
+
+38.3.a
+
+close the active member’s account (or accounts, as the case may be) for the
+period of earlier service;
+
+38.3.b
+
+establish an account (or accounts, as the case may be) for the pensioner
+member for that period of earlier service; and
+
+38.3.c
+
+establish a new active member’s account (or accounts, as the case may be)
+under Chapter 4 (active member’s account) for the member’s continuing service
+as if the first day of pensionable service is the day after the option date.
+
+38.4
+
+For the purpose of these Regulations, an account established for a member
+under paragraph  (2)(b)  or  (3)(b)  is called a full retirement account.
+
+38.5
+
+In this regulation—
+
+    “continuing service” means pensionable service that continues in
+accordance with regulation  49(2)  (exercise of partial retirement option)
+from the option date;         “option date” means the date on which the
+partial retirement option is exercised and the member becomes entitled to the
+immediate payment of a full retirement pension; and         “period of earlier
+service” means the continuous period of pensionable service ending on the
+option date.
+
+##### Amount of full retirement pension
+
+39
+
+39.1
+
+A full retirement account under regulation  38(4)  must specify the amount of
+full retirement pension.
+
+39.2
+
+The amount of full retirement pension is the sum of—
+
+39.2.a
+
+the amount of the accrued standard earned pension calculated under regulation
+24  (“accrued amount”);  ...
+
+39.2.b
+
+the assumed age addition (if any) for the accrued amount  ; and
+
+39.2.c
+
+the retirement index adjustment for the accrued amount .
+
+39.3
+
+The full retirement account must specify—
+
+39.3.a
+
+the early payment reduction (if any);
+
+39.3.b
+
+the commutation amount (if any); and
+
+39.3.c
+
+the total allocation amount (if any).
+
+#### Partial retirement account
+
+##### Establishment of partial retirement account
+
+40
+
+40.1
+
+This regulation applies if an active member of this scheme (P) in relation to
+a continuous period of pensionable service in respect of a particular office—
+
+40.1.a
+
+exercises the partial retirement option in respect of part only of P’s accrued
+pensions for that period of service; and
+
+40.1.b
+
+becomes entitled under regulation  51(a)  (entitlement to partial retirement
+pension or full retirement pension) to the immediate payment of a partial
+retirement pension for that period of service.
+
+40.2
+
+The scheme manager must—
+
+40.2.a
+
+establish a pensioner member’s account (“the partial retirement account”) for
+that period of service; and
+
+40.2.b
+
+adjust P’s active member’s account in accordance with paragraph  (3) .
+
+40.3
+
+The amount of accrued pension for which a partial retirement option notice
+specifies an option proportion is reduced by that option proportion.
+
+40.4
+
+After that adjustment, Chapter 4 (active member’s account) applies in relation
+to P as if the amount of accrued pension for which a partial retirement option
+notice specifies an option proportion had always been reduced by that option
+proportion.
+
+40.5
+
+In this regulation, “partial retirement option notice” means an option notice
+under regulation  50  (partial retirement option notice).
+
+40.6
+
+Where P exercises a partial retirement option under paragraph (1)(a) in
+respect of a First-tier Tribunal or Upper Tribunal office in which P holds
+multiple assignments (and therefore multiple accounts in accordance with
+regulation  29(3)  (establishment of active member’s account)), paragraph (2)
+applies in respect of each account held.
+
+##### Amount of partial retirement pension
+
+41
+
+41.1
+
+Any partial retirement account must specify the amount of partial retirement
+pension.
+
+41.2
+
+The amount of partial retirement pension is the sum of—
+
+41.2.a
+
+the amount of accrued standard earned pension calculated under regulation  24
+(accrued amount); and
+
+41.2.b
+
+the assumed age addition (if any) for the accrued amount.
+
+41.3
+
+The partial retirement account must specify—
+
+41.3.a
+
+the early payment reduction (if any);
+
+41.3.b
+
+the commutation amount (if any); and
+
+41.3.c
+
+the total allocation amount (if any).
+
+#### Pension accounts for pension credit members
+
+##### Establishment of pension credit member’s account
+
+42
+
+42.1
+
+The scheme manager must establish a pension account for each pension credit
+member of this scheme (“the pension credit member’s account”).
+
+42.2
+
+If a pension credit is derived from two or more pension debit members, the
+scheme manager must establish a pension credit member’s account in relation to
+each pension debit member.
+
+42.3
+
+The pension credit member’s account must specify the amount of credited
+pension.
+
+42.4
+
+On the establishment of the pension credit member’s account, the accounts
+established under this Part for the pension debit member must be reduced by
+the relevant amount.
+
+42.5
+
+In this regulation—
+
+    “relevant amount” is the amount that the scheme manager, after
+consultation with the scheme actuary, considers appropriate having regard to—
+the cash equivalent that would have been payable under Chapter 2 of Part 4A
+(requirements relating to pension credit benefit: transfer values) of PSA 1993
+had this scheme been a funded occupational pension scheme in respect of the
+pension credit member’s right to benefits under this scheme attributable
+(directly or indirectly) to the pension credit; and       the provisions of
+sections 29 (creation of pension credits and debits) and 31 (reduction of
+benefit) of WRPA 1999.
+
+##### Other pension accounts
+
+43
+
+If a pension credit member of this scheme is also an active member, deferred
+member or pensioner member of this scheme, the scheme manager must establish a
+pension credit member’s account in addition to any other account established
+for the member under this Part.
+
+### Retirement benefits
+
+#### General
+
+##### Application of Part
+
+44
+
+This Part applies in relation to retirement benefits payable in respect of a
+continuous period of pensionable service under this scheme.
+
+##### Qualifying service
+
+45
+
+45.1
+
+In these Regulations, “qualifying service” means the total of—
+
+45.1.a
+
+any continuous period of pensionable service under this scheme;
+
+45.1.b
+
+for a transition member with continuity of service, the member’s pensionable
+service under a pre-2022 scheme before the transition date for that member.
+
+45.2
+
+None of the following counts as qualifying service—
+
+45.2.a
+
+any pensionable service under this scheme in respect of which a person’s
+rights under this scheme are extinguished;
+
+45.2.b
+
+any pensionable service under a pre-2022 scheme in respect of which a person’s
+rights under that scheme are extinguished;
+
+45.2.c
+
+any unauthorised absence from qualifying judicial office.
+
+45.3
+
+In this regulation a reference to “pensionable service” in relation to the
+Fee-Paid Judges Scheme is a reference to qualifying judicial service.
+
+#### Full retirement benefits
+
+##### Entitlement to full retirement pension
+
+46
+
+46.1
+
+A member of this scheme (P) is entitled to the immediate payment for life of a
+full retirement pension if—
+
+46.1.a
+
+P has reached normal minimum pension age;
+
+46.1.b
+
+subject to sub-paragraph (3), has ceased to be in qualifying judicial office;
+and
+
+46.1.c
+
+P has claimed payment of a full retirement pension.
+
+46.2
+
+But if P has not reached normal pension age under this scheme, P is not so
+entitled unless P has at least two years’ qualifying service.
+
+46.3
+
+Where P exercises a partial retirement option under regulation  49(2)
+(exercise of partial retirement option), P is entitled to a full retirement
+pension under paragraph  (1)  in respect of the particular office or offices
+for which the option is being exercised, notwithstanding that P remains in
+qualifying judicial office.
+
+46.4
+
+The claim for payment of a full retirement pension may only be made by notice
+to the scheme manager in a form required by the scheme manager.
+
+46.5
+
+Where P resumes service in qualifying judicial office, this will not affect
+any entitlement under this regulation.
+
+##### Annual rate of full retirement pension (active members)
+
+47
+
+47.1
+
+This regulation applies when an active member of this scheme becomes entitled
+to the immediate payment of a full retirement pension in respect of a
+particular office.
+
+47.2
+
+The annual rate of a full retirement pension payable to the member is
+calculated by—
+
+47.2.a
+
+taking the amount of that full retirement pension specified in the full
+retirement account;
+
+47.2.b
+
+subtracting the early payment reduction (if any) specified in that account in
+relation to that amount;
+
+47.2.c
+
+subtracting the commutation amount (if any) specified in that account in
+relation to that amount; and
+
+47.2.d
+
+subtracting the total allocation amount (if any) specified in that account in
+relation to that amount.
+
+47.3
+
+Where a member holds multiple accounts in respect of multiple assignments
+within the First-tier Tribunal or the Upper Tribunal, paragraph (2) applies in
+respect of each account held.
+
+##### Annual rate of full retirement pension (deferred members)
+
+48
+
+48.1
+
+This regulation applies when a deferred member of this scheme becomes entitled
+to the immediate payment of a full retirement pension in respect of a
+particular office.
+
+48.2
+
+The annual rate of full retirement pension payable to the member is calculated
+by—
+
+48.2.a
+
+taking the provisional amount of deferred pension specified in the deferred
+member’s account;
+
+48.2.b
+
+adding the late payment supplement (if any) specified in that account in
+relation to that provisional amount;
+
+48.2.c
+
+subtracting the early payment reduction (if any) specified in that account in
+relation to that amount;
+
+48.2.d
+
+subtracting the commutation amount (if any) specified in that account in
+relation to that amount; and
+
+48.2.e
+
+subtracting the total allocation amount (if any) specified in that account in
+relation to that amount.
+
+48.3
+
+Where a member holds multiple accounts in respect of multiple assignments
+within the First-tier Tribunal or the Upper Tribunal, paragraph (2) applies in
+respect of each account held.
+
+#### Partial retirement benefits
+
+##### Exercise of partial retirement option
+
+49
+
+49.1
+
+This regulation applies if—
+
+49.1.a
+
+a person (P) is an active member of this scheme in relation to a continuous
+period of pensionable service;
+
+49.1.b
+
+P has reached normal minimum pension age;
+
+49.1.c
+
+the terms of P’s appointment have changed and as a result of that change the
+amount of P’s annual pensionable earnings in respect of service in a
+particular office is reduced to 80% of the amount before the change or less;
+and
+
+49.1.d
+
+P would be entitled to the immediate payment of a full retirement pension if P
+left pensionable service and claimed payment of the pension in respect of that
+particular office.
+
+49.2
+
+P may opt to continue in pensionable service but claim payment of the whole or
+part only of P’s accrued pensions in respect of a particular office for the
+continuous period of pensionable service before P’s pensionable earnings were
+reduced (“partial retirement option”).
+
+49.3
+
+P may not exercise a partial retirement option more than once in respect of a
+particular judicial office.
+
+49.4
+
+Where P holds more than one judicial office—
+
+49.4.a
+
+P may exercise a partial retirement option separately in relation to each
+office held; and
+
+49.4.b
+
+P may only access the pension accrued in relation to the particular office or
+offices in respect of which P is exercising the partial retirement option.
+
+49.5
+
+For the purposes of calculating P’s annual pensionable earnings in relation to
+paragraph (1)(c) where P is a fee-paid office holder, the amount of
+pensionable earnings that P receives in respect of a particular office is
+calculated as follows—
+
+Z per annum, where:
+
+        Z = J K               where—         J means the total fee-paid income
+in respect of that office over the preceding three years, or, if less than
+three years, over the period since P was first appointed to that office;
+K means the lesser of—       3; or       the period in years (and a fraction
+of a year, determined by complete months) from the first sitting day in that
+particular office until the date of partial retirement;
+“complete month” includes an incomplete month that consists of at least 16
+days; and           Z means the annualised total of fees from that particular
+office.
+
+49.6
+
+Where P holds multiple assignments within the First-tier Tribunal or the Upper
+Tribunal—
+
+49.6.a
+
+the reduction in earnings in paragraph (1)(c) refers to service in each
+chamber of the relevant tribunal; and
+
+49.6.b
+
+in paragraph (5) references to an office are to be taken as references to an
+assignment to a tribunal chamber.
+
+##### Partial retirement option notice
+
+50
+
+50.1
+
+A partial retirement option may only be exercised—
+
+50.1.a
+
+by notice to the scheme manager in a form required by the scheme manager
+(“option notice”); and
+
+50.1.b
+
+in the 3 months after P’s pensionable earnings are reduced, on a date agreed
+by the member and the scheme manager.
+
+50.2
+
+An option notice must specify—
+
+50.2.a
+
+if P holds more than one office, the office or offices in respect of which P
+is exercising the partial retirement option;
+
+50.2.b
+
+whether P claims payment of—
+
+50.2.b.i
+
+the whole of P’s accrued pensions to which the office relates; or
+
+50.2.b.ii
+
+part only of P’s accrued pensions to which the office relates; and
+
+50.2.c
+
+if P claims payment of part only, the proportion of each description of
+accrued pension for which payment is claimed (“option proportion”).
+
+##### Entitlement to partial retirement pension or full retirement pension
+
+51
+
+An active member of this scheme (P) who exercises the partial retirement
+option is entitled to the immediate payment for life of—
+
+51.a
+
+if P claims payment of part only of P’s accrued pensions, a partial retirement
+pension calculated in accordance with regulation  41 (2) (amount of partial
+retirement pension); or
+
+51.b
+
+if P claims payment of the whole of P’s accrued pensions, a full retirement
+pension calculated in accordance with regulation  39 (2) (amount of full
+retirement pension).
+
+##### Annual rate of partial retirement pension
+
+52
+
+52.1
+
+This regulation applies if an active member of this scheme (P) exercises the
+partial retirement option in respect of part only of P’s accrued pensions in
+the office from which P is taking partial retirement.
+
+52.2
+
+The annual rate of partial retirement pension is calculated under regulation
+47  (annual rate of full retirement pension (active members)) by reference to
+the amount of full retirement pension specified in the full retirement
+account.
+
+52.3
+
+Regulation  47  applies as if—
+
+52.3.a
+
+the reference to a full retirement pension were a reference to a partial
+retirement pension; and
+
+52.3.b
+
+the reference to the full retirement account were a reference to the partial
+retirement account.
+
+##### Annual rate of full retirement pension when taking partial retirement
+
+53
+
+53.1
+
+This regulation applies if an active member of this scheme (P) exercises the
+partial retirement option in respect of the whole of P’s accrued pensions in
+the office for which P is taking partial retirement.
+
+53.2
+
+The annual rate of full retirement pension is calculated under regulation  47
+(annual rate of full retirement pension (active members)) by reference to the
+amount of full retirement pension specified in the full retirement account.
+
+53.3
+
+Regulation  47  applies as if the last day of pensionable service were the day
+before the day on which the member exercised the partial retirement option.
+
+#### Ill-health benefits
+
+##### Meaning of “permanent breakdown in health”
+
+54
+
+For the purposes of this Chapter, a member’s breakdown in health is
+“permanent” if it is likely to continue until the member reaches prospective
+normal pension age.
+
+##### Meaning of “incapacity for employment”
+
+55
+
+For the purposes of this Chapter, a member’s permanent breakdown in health
+involves “incapacity for employment” if, as a result of the breakdown, the
+member is incapable of discharging the duties of their qualifying judicial
+office.
+
+##### Entitlement to ill-health pension
+
+56
+
+56.1
+
+An active member of this scheme who has not reached normal pension age under
+this scheme is entitled to immediate payment of an ill-health pension under
+this scheme, in accordance with the provisions of this Chapter, if the
+following conditions are met—
+
+56.1.a
+
+a member has claimed payment of an ill-health pension;
+
+56.1.b
+
+a medical certificate states that the member has suffered a permanent
+breakdown in health involving incapacity for employment; and
+
+56.1.c
+
+either—
+
+56.1.c.i
+
+the member has at least two years’ qualifying service, or
+
+56.1.c.ii
+
+where the member has less than two years’ qualifying service, the scheme
+manager determines that the member is entitled to an ill-health pension.
+
+56.2
+
+The annual rate of an ill-health pension payable under this regulation is
+calculated in accordance with regulation  57 .
+
+##### Annual rate of ill-health pension
+
+57
+
+57.1
+
+The annual rate of an ill-health pension is the sum of—
+
+57.1.a
+
+the annual rate of full retirement pension, calculated in the same way as for
+an active member under regulation  47  (annual rate of full retirement pension
+(active members)), but without subtracting the early payment reduction; and
+
+57.1.b
+
+an ill-health enhancement.
+
+57.2
+
+In this regulation—
+
+    “an ill-health enhancement” means—       for a salaried member, half the
+annual rate of a full retirement pension calculated in respect of the member’s
+assumed period of pensionable service and based on the member’s pensionable
+earnings in that particular office as at the date their pensionable service
+ceases;       for a fee-paid member, half the annual rate of a full retirement
+pension calculated in respect of the member’s assumed period of pensionable
+service in that particular office and based on the member’s pensionable
+earnings calculated in accordance with paragraph (3), as at the date their
+pensionable service ceases;             “the member’s assumed period of
+pensionable service” means the period (expressed in years and complete
+months)—       beginning with the day after the member’s continuous period of
+pensionable service in that particular office ceased; and       ending with—
+for a member appointed for a fixed term, the day with which that term ends; or
+for all other appointments, the day before the day on which the member will
+reach prospective normal pension age (assuming that the member lives until
+that age);                   “complete months” includes an incomplete month
+that consists of at least 16 days.
+
+57.3
+
+In this regulation, for the purposes of calculating an ill-health enhancement
+for a fee-paid office-holder, the amount of pensionable earnings in a
+particular office is calculated as follows—
+
+Z per annum, where:
+
+
+
+where—
+
+    J means the total fee-paid income in respect of that particular office
+over the preceding three years, or, if less than three years, over the period
+since the first sitting day in that particular office;         K means the
+lesser of—       3; or       the period in years (and a fraction of a year,
+determined by complete months) from the first sitting day in that particular
+office until the beginning of the period of assumed pay;             “complete
+month” includes an incomplete month that consists of at least 16 days; and
+Z means the annualised total of fees from that particular office.
+
+#### Payment options
+
+##### Options under this Chapter
+
+58
+
+The options under this Chapter are—
+
+58.a
+
+the option under regulation  60  (option to commute part of pension) to
+exchange part of a retirement pension for a lump sum;
+
+58.b
+
+the option under regulation  61  (option to commute whole of member’s accrued
+pensions (serious ill-health)) to exchange the total of the member’s accrued
+pensions for a lump sum in cases of serious ill-health.
+
+##### Exercising an option under this Chapter
+
+59
+
+A member may exercise an option under this Chapter by notice (a “commutation
+notice”) to the scheme manager in a form required by the scheme manager.
+
+##### Option to commute part of pension
+
+60
+
+60.1
+
+A member who becomes entitled to the immediate payment of a retirement pension
+under this scheme may opt under this regulation to exchange part of the
+pension for a lump sum.
+
+60.2
+
+An option under this regulation may only be exercised before the first payment
+of the pension is made.
+
+60.3
+
+Where a member exercises the option mentioned in paragraph (1), for every £1
+by which the amount of the member’s annual rate of pension is reduced, the
+member must be paid a lump sum of £12.
+
+60.4
+
+A member may not exchange pension for lump sum under this regulation to the
+extent that it would result in more than 35.7% of the member’s pre-commuted
+pension being exchanged for the lump sum.
+
+##### Option to commute whole of member’s accrued pensions (serious ill-health)
+
+61
+
+61.1
+
+This regulation applies where there is a medical certificate stating that an
+active member or deferred member of this scheme has a life-expectancy of less
+than 12 months.
+
+61.2
+
+The member may opt under this regulation to exchange the total of that
+member’s accrued pensions for a lump sum.
+
+61.3
+
+An option under this regulation may only be exercised before the first payment
+of the pension is made.
+
+61.4
+
+The lump sum payable to the member is an amount equal to—
+
+(A+B+C) x 5
+
+where—
+
+    A means the total annual amount of full retirement pension;         B
+means the total annual amount of partial retirement pension; and         C
+means the total annual amount of ill-health pension.
+
+61.5
+
+For the purpose of paragraph  (4) , “total annual amount” means—
+
+61.5.a
+
+in relation to a full retirement pension or partial retirement pension to
+which the member would be entitled apart from this option, the sum of—
+
+61.5.a.i
+
+the annual rate of pension to which the member would be entitled apart from
+this option, calculated as at the date the option is exercised, but without
+subtracting the early payment reduction (if any); and
+
+61.5.a.ii
+
+the amount of increase (if any) in the annual rate of that pension under PIA
+1971 calculated as at that date; and
+
+61.5.b
+
+in relation to an ill-health pension, the sum of—
+
+61.5.b.i
+
+the annual rate of pension to which the member would be entitled apart from
+this option, calculated as at the date when payment would first be due, but
+without subtracting the early payment reduction (if any); and
+
+61.5.b.ii
+
+the amount of increase (if any) in the annual rate of that pension under PIA
+1971 calculated as at that date.
+
+61.6
+
+The lump sum must be paid to the member as soon as is reasonably practicable
+after the option is exercised.
+
+##### Commutation supplement
+
+62
+
+62.1
+
+Where—
+
+62.1.a
+
+a member (P) ceases to be in pensionable service under this scheme (other than
+by death in service); and
+
+62.1.b
+
+P has exercised the option under either regulation 61(3) or regulation  61(2)
+,
+
+P is entitled to be paid an additional amount (a “commutation supplement”)
+calculated under paragraph (2).
+
+62.2
+
+The sum payable to P is an amount sufficient, after deduction of any
+applicable income tax and national insurance payable by P arising as a result
+of such payment, to result in P receiving a net sum equal to—
+
+62.2.a
+
+the income tax payable by P on any lump sum payable under either regulation
+61(3) or regulation  61(2)  that relates only to uncrystallised rights under
+this scheme; plus
+
+62.2.b
+
+the national insurance contributions payable by P (if any) in relation to the
+lump sum received pursuant to either of those regulations.
+
+62.3
+
+The commutation supplement is payable at the same time as payment of the lump
+sum.
+
+62.4
+
+In this regulation, “uncrystallised rights” has the meaning given in section
+212 (valuation of uncrystallised rights) of the FA 2004.
+
+#### Allocation of part of pension
+
+##### Allocation election
+
+63
+
+63.1
+
+This regulation applies in relation to a full retirement pension or a partial
+retirement pension payable in respect of a member’s pensionable service under
+this scheme.
+
+63.2
+
+The member may elect to allocate part of the retirement pension to a
+beneficiary (“allocation election”).
+
+63.3
+
+The beneficiary of an allocation election must be a person who, when the
+allocation election is made, is—
+
+63.3.a
+
+the member’s spouse or civil partner;
+
+63.3.b
+
+financially wholly or mainly dependent on the member; or
+
+63.3.c
+
+financially interdependent with the member.
+
+63.4
+
+If the member wishes to allocate pension to more than one beneficiary, the
+member must make a separate allocation election in respect of each
+beneficiary.
+
+##### Restriction on total amount of pension that may be allocated
+
+64
+
+64.1
+
+The sum of the following must not exceed the annual rate of retirement pension
+that would be payable to the member (P)—
+
+64.1.a
+
+the total amount of retirement pension allocated under this Part (“total
+allocation amount”); and
+
+64.1.b
+
+the annual rate of surviving adult’s pension that would be payable on P’s
+death.
+
+64.2
+
+In determining whether the restriction in paragraph  (1)  is met, it is to be
+assumed that—
+
+64.2.a
+
+P will have become a pensioner member before P’s death;
+
+64.2.b
+
+P will exercise the commutation option so as to exchange for a lump sum the
+maximum amount possible;
+
+64.2.c
+
+P’s spouse or civil partner status will not change before P dies; and
+
+64.2.d
+
+all of the beneficiaries of P to whom an allocation is made will survive P.
+
+64.3
+
+If at the time an allocation election is made it would result in the
+restriction in paragraph  (1)  not being met, the scheme manager may treat the
+election (or each of the elections) as allocating a smaller amount that would
+result in the restriction being met.
+
+##### Making an allocation election
+
+65
+
+65.1
+
+If requested by a member (P), the scheme manager must advise P of the last day
+on which P may make an allocation election.
+
+65.2
+
+An allocation election may only be made—
+
+65.2.a
+
+by notice to the scheme manager in a form required by the scheme manager; and
+
+65.2.b
+
+before the election closing date.
+
+65.3
+
+An allocation election must—
+
+65.3.a
+
+specify the amount of retirement pension to be allocated;
+
+65.3.b
+
+name the beneficiary;
+
+65.3.c
+
+be accompanied by a declaration in a form required by the scheme manager
+stating that—
+
+65.3.c.i
+
+P is in good health; and
+
+65.3.c.ii
+
+the beneficiary is a person who meets the conditions set out in regulation
+63(3)  (allocation election); and
+
+65.3.d
+
+be accompanied by a medical certificate giving the opinion that P is in good
+health.
+
+65.4
+
+Before the election closing date, the member may, by notice to the scheme
+manager in a form required by the scheme manager—
+
+65.4.a
+
+revoke the election; or
+
+65.4.b
+
+amend the election by altering the amount of retirement pension to be
+allocated.
+
+65.5
+
+Subject to paragraph  (6)  or  (7) , the election takes effect on the election
+closing date.
+
+65.6
+
+An allocation election has no effect unless the scheme manager is satisfied
+that when P made the election the matters stated in the declaration were true.
+
+65.7
+
+An allocation election has no effect if P or the beneficiary dies before the
+election closing date.
+
+65.8
+
+In this regulation, “election closing date” means the earlier of—
+
+65.8.a
+
+the date advised by the scheme manager under paragraph  (1) ; or
+
+65.8.b
+
+the day before the pension becomes payable.
+
+##### Effect of allocation election
+
+66
+
+66.1
+
+If an allocation election takes effect—
+
+66.1.a
+
+the member’s pension is reduced accordingly (and this reduction applies even
+if the beneficiary predeceases the member); and
+
+66.1.b
+
+if the beneficiary survives the member, on the member’s death the beneficiary
+becomes entitled to the payment of a pension for life ( “allocated pension” )
+of an amount determined by the scheme manager, after consultation with the
+scheme actuary, having regard to—
+
+66.1.b.i
+
+the amount of retirement pension allocated under the election, and
+
+66.1.b.ii
+
+the beneficiary’s age and gender.
+
+66.2
+
+The scheme manager may withhold payment from the beneficiary if—
+
+66.2.a
+
+the member dies before the end of the period of two years beginning with the
+date on which the election takes effect; and
+
+66.2.b
+
+the scheme manager is satisfied that the member made a false declaration about
+the member’s state of health when making the election.
+
+66.3
+
+An allocation election in relation to a retirement pension has no effect if it
+would result in an allocated pension being paid—
+
+66.3.a
+
+on the member becoming entitled to the retirement pension, to a person who is
+not—
+
+66.3.a.i
+
+the member’s spouse or civil partner;
+
+66.3.a.ii
+
+financially wholly or mainly dependent on the member; or
+
+66.3.a.iii
+
+financially interdependent with the member;
+
+66.3.b
+
+on the death of the member, to a person who is not the member’s surviving
+adult.
+
+##### Adjustment of allocated benefit (members who have reached the age of 75)
+
+67
+
+67.1
+
+The amount of allocated pension payable to the beneficiary of an allocation
+election may be adjusted in a manner determined by the scheme manager if the
+member who made the allocation election dies after reaching the age of 75.
+
+67.2
+
+In this regulation, “allocated pension” has the meaning given in regulation
+66(1)(b) .
+
+### Pension credit and debit members
+
+#### Benefits for pension credit members
+
+##### Entitlement to pension credit member’s pension
+
+68
+
+A pension credit member (P) of this scheme is entitled to the immediate
+payment for life of a pension credit member’s pension under this scheme if—
+
+68.a
+
+P has reached normal pension age;
+
+68.b
+
+the pension sharing order under which P is entitled to the pension credit has
+taken effect; and
+
+68.c
+
+P has claimed payment of the pension.
+
+##### Claim for early payment
+
+69
+
+69.1
+
+This regulation applies in relation to a pension credit member (P) who—
+
+69.1.a
+
+has reached normal minimum pension age; and
+
+69.1.b
+
+has not reached normal pension age under this scheme.
+
+69.2
+
+P may claim early payment of a pension credit member’s pension by notice to
+the scheme manager in a form required by the scheme manager.
+
+69.3
+
+A claim for early payment must specify the date on which payment of the
+pension is claimed (“the claim date”).
+
+69.4
+
+P is entitled to the immediate payment for life of a pension credit member’s
+pension on the claim date if the scheme manager is reasonably satisfied that
+on that date the requirements of regulation 7(5) (early retirement or deferred
+retirement) of the Pension Sharing (Pension Credit Benefit) Regulations 2000
+are met.
+
+##### Pension credit member’s rights
+
+70
+
+70.1
+
+Benefits that are attributable (directly or indirectly) to a pension credit
+may not be aggregated with any other benefit to which a pension credit member
+is entitled under this scheme.
+
+70.2
+
+If a pension credit member is a dual capacity member, the benefits that are
+payable to or in respect of the member in each of the member’s capacities are
+treated separately for the purposes of these Regulations.
+
+##### Annual rate of pension credit member’s pension
+
+71
+
+The annual rate of a pension credit member’s pension is calculated by—
+
+71.a
+
+taking the amount of credited pension specified in the pension credit member’s
+account;
+
+71.b
+
+subtracting the early payment reduction (if any) specified in that account in
+relation to that amount; and
+
+71.c
+
+subtracting the commutation amount (if any) specified in that account in
+relation to that amount.
+
+##### Option for pension credit member to commute part of pension
+
+72
+
+72.1
+
+A pension credit member who becomes entitled to payment of a pension credit
+member’s pension under this scheme may, subject to paragraph (5), opt to
+exchange part of the pension for a lump sum.
+
+72.2
+
+The option under this regulation may only be exercised—
+
+72.2.a
+
+by notice to the scheme manager in a form required by the scheme manager; and
+
+72.2.b
+
+before the first payment of the pension is made.
+
+72.3
+
+If a pension credit member exercises the option under this regulation, for
+every £1 by which the amount of the member’s annual rate of pension is
+reduced, the member must be paid a lump sum of £12.
+
+72.4
+
+This regulation does not apply if the pension debit member from whose rights
+the pension is derived received a lump sum under this Part before the date on
+which the pension sharing order takes effect.
+
+72.5
+
+For the purposes of paragraph (1) the part of the pension exchanged must not
+exceed 35.7% of the overall value of the pension.
+
+##### Option for pension credit member to commute whole pension (serious ill-health)
+
+73
+
+73.1
+
+This regulation applies to a pension credit member who can show, to the
+satisfaction of the scheme manager, that they have a life expectancy of less
+than 12 months.
+
+73.2
+
+The pension credit member may opt to exchange the whole of the pension credit
+member’s pension under this scheme for a lump sum.
+
+73.3
+
+The option under this regulation (“this option”) may only be exercised—
+
+73.3.a
+
+by notice to the scheme manager in a form required by the scheme manager; and
+
+73.3.b
+
+before the first payment of the pension is made.
+
+73.4
+
+The lump sum—
+
+73.4.a
+
+is an amount equal to the total annual amount of the pension credit member’s
+pension, multiplied by 5; and
+
+73.4.b
+
+must be paid to the pension credit member as soon as is reasonably practicable
+after this option is exercised.
+
+73.5
+
+In this regulation, “total annual amount” in relation to a pension credit
+member’s pension means the total of—
+
+73.5.a
+
+the annual rate of pension to which the member would be entitled if they had
+not exercised this option, calculated as at the date this option is exercised,
+but without subtracting the early payment reduction (if any); and
+
+73.5.b
+
+the amount of increase (if any) in the annual rate of that pension under PIA
+1971 calculated as at that date.
+
+##### Commutation supplement
+
+74
+
+74.1
+
+Where a pension credit member (P) has exercised the option under either
+regulation  72(1)  (option for pension credit member to commute part of
+pension) or  73(2)  (option for pension credit member to commute whole pension
+(serious ill-health)), P is entitled to be paid an additional amount (a
+“commutation supplement”) calculated under paragraph (2).
+
+74.2
+
+The sum payable to P is an amount sufficient, after deduction of any
+applicable income tax and national insurance payable by P arising as a result
+of such payment, to result in P receiving a net sum equal to—
+
+74.2.a
+
+the income tax payable by P on any lump sum payable under either regulation
+72(1)  or  73(2)  that relates only to uncrystallised rights under this
+scheme; plus
+
+74.2.b
+
+the national insurance contributions payable by P (if any) in relation to the
+lump sum received pursuant to either of those regulations.
+
+74.3
+
+The commutation supplement is payable at the same time as payment of the lump
+sum.
+
+74.4
+
+In this regulation, “uncrystallised rights” has the meaning given in section
+212 of the FA 2004.
+
+#### Pension debit members
+
+##### Reduction in pension debit member’s benefits
+
+75
+
+The benefits to which a pension debit member is entitled are subject to the
+reduction to be made under section 31 (reduction of benefit) of WRPA 1999.
+
+### Death benefits
+
+#### Pensions for surviving adults
+
+##### Surviving adults
+
+76
+
+In these Regulations—
+
+    “surviving adult”, in relation to a deceased member of this scheme, means
+the member’s surviving spouse, surviving civil partner or surviving cohabiting
+partner;         “surviving civil partner”, in relation to a deceased member
+of this scheme, means a person who was in a civil partnership with the member
+as at the date of the member’s death; and         “surviving spouse”, in
+relation to a deceased member of this scheme, means a person who was married
+to the member as at the date of the member’s death.
+
+##### Meaning of “surviving cohabiting partner”
+
+77
+
+A person (P) is a surviving cohabiting partner of a deceased member of this
+scheme if P satisfies the scheme manager that immediately before the member’s
+death—
+
+77.a
+
+P and the member were cohabiting as partners in an exclusive, committed long-
+term relationship;
+
+77.b
+
+P and the member were not prevented from entering into a marriage or a civil
+partnership; and
+
+77.c
+
+either P was financially dependent on the member or P and the member were
+financially interdependent.
+
+##### Meaning of “surviving adult’s pension”
+
+78
+
+In these Regulations, “surviving adult’s pension” means any of the following
+pensions payable to a surviving adult under this Chapter—
+
+78.a
+
+a dependant’s earned pension;
+
+78.b
+
+a dependant’s ill-health pension.
+
+##### Meaning of dependant’s earned pension
+
+79
+
+A dependant’s earned pension is a pension payable on the death of a member of
+this scheme if the member was a pensioner member or would have become entitled
+to a full retirement pension had the member not died.
+
+##### Meaning of dependant’s ill-health pension
+
+80
+
+A dependant’s ill-health pension is a pension payable on the death of a member
+of this scheme if the member was entitled to the immediate payment of an ill-
+health pension as at the date of the member’s death.
+
+##### Entitlement to surviving adult’s pension
+
+81
+
+81.1
+
+This regulation applies in relation to a member who, at the date of the
+member’s death is—
+
+81.1.a
+
+an active member of this scheme in relation to a continuous period of
+pensionable service of at least 12 months;
+
+81.1.b
+
+a deferred member of this scheme; or
+
+81.1.c
+
+a pensioner member of this scheme.
+
+81.2
+
+If the member is a transition member with continuity of service, the
+continuous period of pensionable service mentioned in paragraph  (1)(a)
+includes the member’s period of pensionable service under a pre-2022 scheme
+before the closing date.
+
+81.3
+
+The surviving adult of the member is entitled to payment for life of a
+surviving adult’s pension as follows—
+
+81.3.a
+
+if the member was a pensioner member or would have become entitled to a full
+retirement pension had the member not died, a dependant’s earned pension;
+
+81.3.b
+
+if an ill-health pension was payable as at the date of the member’s death, a
+dependant’s ill-health pension.
+
+81.4
+
+The scheme manager may withhold a surviving adult’s pension as follows—
+
+81.4.a
+
+for a pension that would otherwise be payable to the surviving spouse, if the
+member and the surviving spouse married less than 6 months before the member’s
+death;
+
+81.4.b
+
+for a pension that would otherwise be payable to a surviving civil partner, if
+the civil partnership was formed less than 6 months before the member’s death.
+
+81.5
+
+In this regulation a reference to “pensionable service” in relation to the
+Fee-paid Judges scheme is a reference to qualifying judicial service (within
+the meaning of regulation 6 (qualifying judicial service) of the FPJR 2017).
+
+##### Annual rate of surviving adult’s pensions payable on death of pensioner member
+
+82
+
+82.1
+
+This regulation applies on the death of a pensioner member of this scheme (P)
+and applies in respect of each account held by that member.
+
+82.2
+
+The annual rate of a dependant’s earned pension is an amount equal to 37.5% of
+the sum of—
+
+82.2.a
+
+the amount of full retirement pension specified in P’s full retirement account
+as at the date of P’s death; and
+
+82.2.b
+
+the amount of partial retirement earned pension specified in P’s partial
+retirement account as at the date of P’s death.
+
+82.3
+
+The annual rate of a dependant’s ill-health pension is an amount equal to
+37.5% of the annual rate of ill-health pension, calculated without subtracting
+the commutation amount (if any) and the total allocation amount (if any).
+
+82.4
+
+In accordance with section 7(4) (administrative provisions) of PIA 1971, for
+the purposes of this scheme there is to be disregarded any increase in the
+annual rate of a pension since the beginning date for that pension.
+
+##### Annual rate of surviving adult’s pensions payable on death of deferred member
+
+83
+
+83.1
+
+This regulation applies on the death of a deferred member of this scheme and
+applies in respect of each account held by that member.
+
+83.2
+
+The annual rate of a dependant’s earned pension is an amount equal to 37.5% of
+the provisional amount of deferred pension specified in the deferred member’s
+account.
+
+##### Annual rate of surviving adult’s pensions payable on death of active member (death in service)
+
+84
+
+84.1
+
+This regulation applies on the death of an active member of this scheme in
+relation to a continuous period of pensionable service of at least 12 months.
+
+84.2
+
+This regulation applies in respect of each account held by the active member.
+
+84.3
+
+If the member is a transition member with continuity of service, the
+continuous period of pensionable service mentioned in paragraph  (1)  includes
+the member’s period of pensionable service under a pre-2022 scheme before the
+closing date.
+
+84.4
+
+The annual rate of a dependant’s earned pension is an amount equal to 37.5% of
+the amount of full retirement pension that would have been specified in the
+member’s full retirement account under regulation  39(2)  had P become
+entitled to the immediate payment of a full retirement pension on the date of
+P’s death.
+
+84.5
+
+When calculating the amount of a member’s full retirement pension (except in
+relation to a member who before the member’s death was entitled under
+regulation  51(a)  to the immediate payment of a partial retirement pension)—
+
+84.5.a
+
+the accrued pension includes an additional amount equal to the lesser of—
+
+84.5.a.i
+
+the amount of accrued pension; and
+
+84.5.a.ii
+
+the enhancement fraction of the amount mentioned in paragraph  (i) ;
+
+84.5.b
+
+if the member is a transition member with continuity of service, the accrued
+pension includes an additional amount equal to the lesser of—
+
+84.5.b.i
+
+the total amount of accrued pension under this scheme and the equivalent of
+accrued pension earned under a pre-2022 scheme which is not attributable to a
+transfer value payment; and
+
+84.5.b.ii
+
+the enhancement fraction of the amount mentioned in sub-paragraph  (a)(i) ;
+and
+
+84.5.c
+
+the early payment reduction (if any), the commutation amount (if any) and the
+total allocation amount (if any) are not subtracted.
+
+84.6
+
+In this regulation—
+
+    “the enhancement fraction” means:           X Y               where—
+X is the lower of—       the member’s assumed period of pensionable service;
+and         10;               Y is the lower of—       the number of years
+(expressed in years and a fraction of a year, determined by complete months)
+for which the member has been an active member of this scheme; and       the
+number of scheme years (expressed in years and a fraction of a year,
+determined by complete months) in relation to which an amount of earned
+pension was specified in the active member’s account;
+“the member’s assumed period of pensionable service” means the period
+(expressed in years and a fraction of a year, determined by complete months)—
+beginning with the day after the date of the member’s death; and       ending
+with—     for a member appointed for a fixed term, the day on which that term
+would have ended; and       for all other appointments, the day before the day
+on which the member would have reached prospective normal pension age if the
+member had lived until that age; and                   “complete month”
+includes an incomplete month that consists of at least 16 days.
+
+84.7
+
+In this regulation a reference to “pensionable service” in relation to the
+Fee-Paid Judges Scheme is a reference to qualifying judicial service.
+
+##### Reduction in pensions in cases of wide age disparity
+
+85
+
+85.1
+
+This regulation applies if, on the death of a member of this scheme, a
+surviving adult’s pension is payable to a person (“the surviving adult”) who
+is more than 12 years younger than the member.
+
+85.2
+
+The annual rate of the surviving adult’s pension is reduced by the lower of—
+
+85.2.a
+
+50% of the amount of the annual rate of the pension calculated under
+regulation  82 ,  83  or  84  as applicable; and
+
+85.2.b
+
+2.5 x (N –12) % of the amount of the annual rate of the pension so calculated,
+
+where N is the number of whole years by which the surviving adult is younger
+than the member.
+
+#### Pensions for eligible children
+
+##### Meaning of “eligible child’s pension”
+
+86
+
+In these Regulations, “eligible child’s pension” means any of the following
+pensions payable under this Part—
+
+86.a
+
+a child’s earned pension;
+
+86.b
+
+a child’s ill-health pension.
+
+##### Meaning of “eligible child”
+
+87
+
+87.1
+
+In these Regulations, “eligible child”, in relation to a deceased member of
+this scheme, means—
+
+87.1.a
+
+a birth child of the member where—
+
+87.1.a.i
+
+the child meets any of conditions A to C; and
+
+87.1.a.ii
+
+at the date of the member’s death the child was born or the child’s mother was
+pregnant with the child;
+
+87.1.b
+
+an adopted child of the member who meets any of the conditions A to C; or
+
+87.1.c
+
+any other child or young person who—
+
+87.1.c.i
+
+meets any of the conditions A to C; and
+
+87.1.c.ii
+
+in the opinion of the scheme manager, was financially dependent on the member
+as at the date of the member’s death.
+
+87.2
+
+Condition A is that the person is under the age of 18.
+
+87.3
+
+Condition B is that the person is in full-time education or vocational
+training and is under the age of 23.
+
+87.4
+
+Condition C is that in the opinion of the scheme manager the person is unable
+to engage in gainful employment because of physical or mental impairment and
+either—
+
+87.4.a
+
+the person is under the age of 23; or
+
+87.4.b
+
+that impairment is likely to be permanent and the person is dependent on the
+member as at the date of the member’s death because of physical or mental
+impairment.
+
+87.5
+
+For the purpose of Condition B, a person who is under the age of 19 on the
+date on which the person stops full-time education or vocational training is
+taken to be in full-time education until the first of the following dates
+after the person stops full-time education or vocational training—
+
+87.5.a
+
+the second Monday in January;
+
+87.5.b
+
+the second Monday after Easter Monday;
+
+87.5.c
+
+the second Monday in September;
+
+87.5.d
+
+the date on which the person becomes engaged full-time in gainful employment;
+
+87.5.e
+
+the person’s 19th birthday.
+
+##### Eligibility for eligible child’s pension
+
+88
+
+88.1
+
+This regulation applies if a member of this scheme dies leaving an eligible
+child.
+
+88.2
+
+An eligible child’s pension is only payable in respect of such period or
+periods during which a child or young person is an eligible child.
+
+88.3
+
+An eligible child’s pension is not payable in respect of any period before a
+child’s birth.
+
+88.4
+
+An eligible child’s pension is payable in respect of an eligible child as
+follows—
+
+88.4.a
+
+a child’s earned pension is payable if the member was entitled to the
+immediate payment of a full retirement pension as at the date of the member’s
+death or the member would have become entitled to such a pension had the
+member not died;
+
+88.4.b
+
+a child’s ill-health pension is payable if an ill-health pension was payable
+to the member as at the date of the member’s death.
+
+##### Annual rate of eligible child’s pension
+
+89
+
+89.1
+
+The annual rate of an eligible child’s pension is determined by reference to
+the annual rate of the corresponding surviving adult’s pension (disregarding
+any reduction falling to be made under regulation  85  (reduction in pensions
+in cases of wide age disparity) whether or not a surviving adult’s pension is
+payable on the death of the member.
+
+89.2
+
+For the purposes of this regulation, the corresponding surviving adult’s
+pensions are—
+
+89.2.a
+
+for a child’s earned pension, a dependant’s earned pension;
+
+89.2.b
+
+for a child’s ill-health pension, a dependant’s ill-health pension.
+
+89.3
+
+If a surviving adult’s pension is payable on the death of the member—
+
+89.3.a
+
+if an eligible child’s pension is payable in respect of only one eligible
+child, the annual rate of eligible child’s pension is equal to 80% of the
+annual rate of the corresponding surviving adult’s pension; and
+
+89.3.b
+
+if an eligible child’s pension is payable in respect of two or more eligible
+children, the annual rate of eligible child’s pension payable to each eligible
+child is equal to the appropriate fraction of 80% of the annual rate of the
+corresponding surviving adult’s pension.
+
+89.4
+
+If a surviving adult’s pension is not payable on the death of the member—
+
+89.4.a
+
+if an eligible child’s pension is payable in respect of only one eligible
+child, the annual rate of eligible child’s pension is equal to the annual rate
+of the corresponding surviving adult’s pension multiplied by 4 and divided by
+3; and
+
+89.4.b
+
+if an eligible child’s pension is payable in respect of two or more eligible
+children, the annual rate of eligible child’s pension payable to each eligible
+child is equal to the appropriate fraction of the annual rate of the
+corresponding surviving adult’s pension multiplied by 4 and divided by 3.
+
+89.5
+
+In this regulation, “the appropriate fraction” means:
+
+        2 Y               where—         Y is the number of eligible children
+in respect of whom an eligible child’s pension is payable immediately after
+the date of the member’s death
+
+#### Payment of pensions for surviving adults and eligible children
+
+##### Payment of pensions under this Part
+
+90
+
+90.1
+
+A surviving adult’s pension or eligible child’s pension is payable from the
+day after the date of the member’s death.
+
+90.2
+
+Unless the scheme manager directs otherwise, an eligible child’s pension
+payable in respect of an eligible child aged under the age of 18 must be paid—
+
+90.2.a
+
+if the child is in the care of the member’s surviving adult, to the surviving
+adult; and
+
+90.2.b
+
+in any other case, to the child’s guardian.
+
+##### Stopping payment and recovery of pensions paid under this Part
+
+91
+
+91.1
+
+This regulation applies if—
+
+91.1.a
+
+on a member’s death a pension has been awarded and paid under this Part; and
+
+91.1.b
+
+it later appears to the scheme manager that the member or the person to whom
+the pension has been paid made a false declaration or deliberately suppressed
+a material fact in connection with the award.
+
+91.2
+
+The scheme manager may—
+
+91.2.a
+
+stop paying the pension; and
+
+91.2.b
+
+recover any payment made under the award.
+
+##### Provisional awards of eligible child’s pensions: later adjustment
+
+92
+
+92.1
+
+This regulation applies where—
+
+92.1.a
+
+an active member, deferred member or pensioner member of this scheme has died;
+
+92.1.b
+
+a pension is paid in respect of one or more persons under this Part on the
+basis that they were eligible children as at the date of the member’s death
+and that there were then no other eligible children; and
+
+92.1.c
+
+it later appears that—
+
+92.1.c.i
+
+a person in respect of whom such a pension has been paid was not an eligible
+child on the date of death;
+
+92.1.c.ii
+
+on that date a further person was an eligible child; or
+
+92.1.c.iii
+
+a child who was born after the member’s death is an eligible child.
+
+92.2
+
+The scheme manager may adjust the amount of pension payable in respect of each
+eligible child to take account of matters referred to in paragraph  (1)(c)  as
+applicable.
+
+#### Payment of lump sum death benefits
+
+##### Payment of lump sum death benefit
+
+93
+
+93.1
+
+A lump sum death benefit is payable in respect of—
+
+93.1.a
+
+an active, deferred or pensioner member of this scheme who dies; or
+
+93.1.b
+
+a pension credit member of this scheme who dies before any benefits
+attributable (directly or indirectly) to a pension credit become payable.
+
+93.2
+
+Payment of a lump sum death benefit must be made within the period of two
+years beginning with the earlier of—
+
+93.2.a
+
+the day on which the scheme manager first knew of the member’s death; and
+
+93.2.b
+
+the day on which the scheme manager could reasonably be expected to have known
+of the member’s death.
+
+93.3
+
+The scheme manager may decide not to pay a lump sum death benefit if it is
+impracticable to pay it.
+
+##### Supplement: lump sum death benefit
+
+94
+
+94.1
+
+Where a lump sum death benefit is payable in respect of a member under
+regulation  93(1) , an additional amount (a “lump sum supplement”) calculated
+under paragraph (2) is also payable.
+
+94.2
+
+The sum payable is an amount sufficient, after deduction of any applicable
+income tax and national insurance payable arising as a result of such payment,
+to result in a net sum equal to the income tax payable on any lump sum payable
+under regulation  93(1) .
+
+94.3
+
+The lump sum supplement is payable at the same time as payment of the lump sum
+mentioned in regulation  93(1) .
+
+##### Nominations for lump sum death benefits
+
+95
+
+95.1
+
+A member of this scheme may nominate a person or persons to receive a lump sum
+death benefit.
+
+95.2
+
+The member may nominate—
+
+95.2.a
+
+one or more individuals;
+
+95.2.b
+
+one incorporated or unincorporated body; or
+
+95.2.c
+
+one or more individuals and one incorporated or unincorporated body.
+
+95.3
+
+A nomination may specify how payments are to be apportioned between—
+
+95.3.a
+
+two or more individuals; or
+
+95.3.b
+
+one or more individuals and one incorporated or unincorporated body.
+
+95.4
+
+A nomination may only be made by notice to the scheme manager in a form
+required by the scheme manager.
+
+95.5
+
+A member may revoke or alter a nomination by notice to the scheme manager in a
+form required by the scheme manager.
+
+##### Invalid nominations of individuals
+
+96
+
+96.1
+
+If the nomination of an individual is invalid, any lump sum death benefit that
+would have been payable to the individual is payable to the member’s personal
+representatives.
+
+96.2
+
+A nomination of an individual is invalid if—
+
+96.2.a
+
+the individual nominated is the member’s spouse or civil partner and the
+individual is not the member’s spouse or civil partner when the member dies;
+
+96.2.b
+
+the individual predeceases the member; or
+
+96.2.c
+
+the individual is convicted of the offence of murder of the member.
+
+96.3
+
+The scheme manager may determine that the nomination of an individual is
+invalid if the individual is convicted of manslaughter of the member or any
+other offence (apart from murder) of which the unlawful killing or wounding of
+the member is an element.
+
+##### Payment of lump sum death benefit to nominees or personal representatives
+
+97
+
+97.1
+
+The scheme manager may pay a lump sum death benefit to—
+
+97.1.a
+
+the person or persons nominated by the member under regulation  95  (“the
+nominees”);
+
+97.1.b
+
+the member’s personal representatives; or
+
+97.1.c
+
+both the nominees and the member’s personal representatives.
+
+97.2
+
+If the scheme manager decides to pay all or part of the lump sum death benefit
+to the nominees and more than one individual has been nominated, the payment
+is to be made to them—
+
+97.2.a
+
+in the proportions specified by the member in the nomination; or
+
+97.2.b
+
+if the member has not specified proportions, in the proportions the scheme
+manager considers appropriate.
+
+97.3
+
+If the scheme manager decides to pay the lump sum death benefit to both the
+nominees and the personal representatives, the payment is to be made to them
+in the proportions the scheme manager considers appropriate.
+
+##### Members affected by court orders to former spouses and civil partners on death
+
+98
+
+98.1
+
+This regulation applies if on a member’s death the scheme manager is required
+under a court order to pay any part of a lump sum death benefit to the
+member’s former spouse or civil partner.
+
+98.2
+
+The amount of lump sum death benefit payable under regulation  97  is first
+determined as if no such order had been made, and then this Part applies as if
+the amount payable under regulation  97  were reduced by the amount payable
+under the court order.
+
+##### Recovery of payments
+
+99
+
+The scheme manager may recover a lump sum death benefit paid to any person if
+the person’s nomination is subsequently found to be invalid.
+
+#### Amount of lump sum death benefits
+
+##### Meaning of “final pay”
+
+100
+
+100.1
+
+In this Chapter, “final pay” in relation to a continuous period of pensionable
+service means the greater of the following amounts—
+
+100.1.a
+
+the amount of a member’s pensionable earnings payable in respect of the 12
+months ending with the last day of pensionable service;
+
+100.1.b
+
+the amount of a member’s pensionable earnings payable in respect of any scheme
+year (“the earnings year”) in the 10 scheme years immediately before the last
+active scheme year.
+
+100.2
+
+For the purpose of determining which of the amounts mentioned in paragraph
+(1)  is the greater—
+
+100.2.a
+
+if the member’s continuous period of pensionable service was less than 12
+months, the amount in paragraph  (1)(a)  is an amount equal to the member’s
+annualised final pay; and
+
+100.2.b
+
+the amount in paragraph  (1)(b)  is adjusted for inflation in accordance with
+paragraph  (3) .
+
+100.3
+
+The amount of pensionable earnings payable in respect of the earnings year is
+adjusted for inflation by increasing it by the same amount as that by which
+the annual rate of a pension of an amount equal to the amount of pensionable
+earnings would have been increased under PIA 1971 by the day following the
+last day of pensionable service if—
+
+100.3.a
+
+that pension was eligible to be so increased; and
+
+100.3.b
+
+the beginning date for that pension was the first day of the next scheme year
+after the earnings year.
+
+100.4
+
+In this regulation and in regulation  101 , if the member is a transition
+member with continuity of service, “pensionable earnings” in respect of any
+period includes—
+
+100.4.a
+
+the member’s pensionable earnings under a pre-2022 scheme before the closing
+date; and
+
+100.4.b
+
+the amount which is the higher of—
+
+100.4.b.i
+
+the total fees paid to the member in respect of qualifying fee-paid service in
+the period in question, or
+
+100.4.b.ii
+
+the total fees which would have been paid to the member in respect of such
+service in the period in question if, for any office held by the member, the
+daily fee paid to the member had been the daily fee determined by an
+Employment Tribunal or accepted by the appropriate Minister to be payable in
+respect of that period.
+
+100.5
+
+In this regulation “qualifying fee-paid service” has the meaning given in
+regulation 4 of the FPJR 2017.
+
+##### Meaning of “annualised final pay”
+
+101
+
+101.1
+
+For the purposes of this Chapter, for a continuous period of pensionable
+service that is less than 12 months, a member’s annualised final pay is:
+
+        FP × 365 N               where—         FP is the amount of the
+member’s pensionable earnings payable in respect of that period of service;
+and           N is the number of days in that period.
+
+101.2
+
+If the continuous period of pensionable service includes the day 29th
+February, paragraph  (1)  has effect with the substitution for “365” of “366”.
+
+##### Amount payable on death of active member (death in service)
+
+102
+
+102.1
+
+This regulation applies in relation to a continuous period of pensionable
+service under this scheme (“period of service”).
+
+102.2
+
+If the member is a transition member with continuity of service, the period of
+service includes the member’s period of pensionable service under a pre-2022
+scheme before the closing date.
+
+102.3
+
+For the purpose of this regulation, a person dies in service if the person
+dies while an active member of this scheme in relation to a period of service.
+
+102.4
+
+The amount of the lump sum death benefit payable in respect of a person who
+dies in service (P) is the amount in paragraph  (5)  or  (6) , whichever is
+the greater.
+
+102.5
+
+The amount in this paragraph is an amount equal to X-Y where—
+
+    X is—       if P’s period of service was at least 12 months, twice the
+amount that would have been P’s final pay if P had ceased to be in pensionable
+service at the time of death; or       if P’s period of service was less than
+12 months, twice P’s annualised final pay; and             Y is—       any
+lump sum paid under this scheme to P before P’s death; and       any lump sum
+death benefit payable under this scheme in respect of P after P’s death.
+
+102.6
+
+The amount in this paragraph is an amount equal to X-Y where—
+
+    X is the total annual amount of P’s full retirement pensions in relation
+to that period of service, multiplied by 5;         Y is the total amount of
+any payments of retirement pension made to P under this scheme; and
+“total annual amount” in relation to P’s full retirement pensions means the
+total of—       the annual rate of full retirement pension calculated as if
+the beginning date for that pension were the date of P’s death, but without
+subtracting the early payment reduction (if any); and       the amount of
+increase (if any) in the annual rate of that pension under PIA 1971 payable as
+at the date of P’s death.
+
+102.7
+
+For the purpose of this regulation, any amounts paid or payable to or in
+respect of P in the capacity of a pension credit member are disregarded.
+
+102.8
+
+In this regulation a reference to “pensionable service” in relation to the
+Fee-Paid Judges Scheme is a reference to qualifying judicial service.
+
+##### Amount payable on death of deferred member or pensioner member (death out of service)
+
+103
+
+103.1
+
+This regulation applies in relation to a continuous period of pensionable
+service under this scheme (“period of service”).
+
+103.2
+
+If the member is a transition member with continuity of service, the period of
+service includes the member’s period of pensionable service under a pre-2022
+scheme before the closing date.
+
+103.3
+
+For the purpose of this regulation, a person dies out of service if the
+person—
+
+103.3.a
+
+dies while a deferred member or pensioner member of this scheme in relation to
+that period of service; and
+
+103.3.b
+
+is not an active member of the scheme when the person dies.
+
+103.4
+
+The amount of the lump sum death benefit payable in respect of a person who
+dies out of service (P) is equal to—
+
+103.4.a
+
+the total annual amount of P’s full retirement pensions in relation to the
+period of service, multiplied by 5; less
+
+103.4.b
+
+the total amount of any payments of retirement pension made to P under this
+scheme.
+
+103.5
+
+In paragraph  (4)(a) , “total annual amount” in relation to P’s full
+retirement pensions means the total of—
+
+103.5.a
+
+the annual rate of full retirement pension calculated as if the beginning date
+for that pension were—
+
+103.5.a.i
+
+if P died while a deferred member of the scheme, the date of P’s death; or
+
+103.5.a.ii
+
+if P died while a pensioner member of the scheme, the day P’s pension was
+deemed to begin for the purposes of section 8(2) (meaning of “pension” and
+other supplementary provisions) of the PIA 1971 ; and
+
+103.5.b
+
+the amount of increase (if any) in the annual rate of that pension under PIA
+1971 payable as at the date of P’s death.
+
+103.6
+
+For the purpose of this regulation any amounts paid or payable to or in
+respect of the member in the capacity of a pension credit member are
+disregarded.
+
+##### Amount payable on death of pension credit member
+
+104
+
+104.1
+
+Paragraph  (2)  applies if a pension credit member of this scheme dies before
+any benefits derived from a pension credit have become payable to the member.
+
+104.2
+
+The amount of the lump sum death benefit is equal to 25% of the cash
+equivalent that would have been payable under Chapter 2 of Part 4A
+(requirements relating to pension credit benefit: transfer values) of PSA 1993
+in respect of the member’s right to benefits under this scheme attributable
+(directly or indirectly) to a pension credit if—
+
+104.2.a
+
+the member had been entitled to require the payment of that amount; and
+
+104.2.b
+
+the amount had been payable as at the date of the member’s death.
+
+104.3
+
+Paragraph  (4)  applies if a pension credit member dies after the pension
+credit member’s pension becomes payable.
+
+104.4
+
+The amount of the lump sum death benefit is equal to the amount of pension
+credit member’s pension that would have been payable to the member during so
+much of the period of 5 years beginning with the date on which the pension
+became payable as falls after the date of the member’s death.
+
+104.5
+
+In paragraph  (4) , “amount of pension credit member’s pension” means the sum
+of—
+
+104.5.a
+
+the annual rate of that pension as at the date the pension was deemed to begin
+for the purposes of section 8(2A) (meaning of “pension” and other
+supplementary provisions) of PIA 1971 ; and
+
+104.5.b
+
+the amount of increase (if any) in the annual rate of that pension under that
+Act payable as at the date of the member’s death.
+
+### Contributions
+
+#### Rate of member contributions
+
+105
+
+105.1
+
+An active member of this scheme must pay contributions to this scheme (“member
+contributions”) on the member’s pensionable earnings for each pay period at a
+rate determined under this regulation (“member contributions rate”).
+
+105.2
+
+The member contributions rate which applies to a member’s pensionable earnings
+is the rate which applies when the member’s pensionable earnings are paid.
+
+105.3
+
+For the purposes of paragraph (2), assumed pay for any pay period is treated
+as having been paid when pensionable earnings for that period would have been
+paid if the circumstances in regulation  17(3)  (in relation to salaried
+office holders) or regulation  18(5)  (in relation to fee-paid office holders)
+which apply to the member had not applied.
+
+105.4
+
+Subject to paragraph (5), the member contributions rate in relation to each
+payment of a member’s pensionable earnings is 4.26%.
+
+105.5
+
+Where the member was the holder of a qualifying judicial office on 31st March
+2022, the member may exercise an option within 3 months of the closing date to
+pay pension contributions at a rate of 3% during the period from 1st April
+2022 to 31st March 2025.
+
+105.6
+
+The option under paragraph (5) may only be exercised by notice to the scheme
+manager in a form required by the scheme manager (“opt-in notice”).
+
+105.7
+
+A member who exercises the option under paragraph (5) is taken to exercise
+that option on the date on which the opt-in notice is received by the scheme
+manager.
+
+#### Amount of pensionable earnings: assumed pay
+
+106
+
+106.1
+
+For the purposes of regulation  105 , the amount of a member’s pensionable
+earnings for any period of assumed pay is determined in accordance with this
+regulation.
+
+106.2
+
+Unless paragraph (3) or (4) applies, the amount of the member’s pensionable
+earnings is equal to the member’s assumed pay.
+
+106.3
+
+For any period of assumed pay under regulation  17(3)(a)  (meaning of “assumed
+pay”: salaried office holders) or  18(5)(a)  (meaning of “assumed pay”: fee-
+paid office holders), the amount of the member’s pensionable earnings is equal
+to the member’s reduced pay while on sick leave.
+
+106.4
+
+For any period of assumed pay under regulation  17(3)(b)  or (c) or  18(5)(b)
+or (c), the amount of the member’s pensionable earnings is the amount of
+remuneration or statutory pay actually paid to or for the member in respect of
+the period of adoption leave, maternity leave, parental leave, paternity leave
+or additional paternity leave.
+
+#### Payment of member contributions
+
+107
+
+107.1
+
+Member contributions are to be deducted by the member’s employer from the
+member’s pensionable earnings for each pay period.
+
+107.2
+
+A member’s employer may make contributions on the member’s behalf in
+circumstances determined by the scheme manager.
+
+107.3
+
+A member is not required to pay member contributions—
+
+107.3.a
+
+while the member is on unpaid adoption leave, maternity leave, parental leave,
+paternity leave or additional paternity leave; or
+
+107.3.b
+
+with the employer’s approval, while the member is on unpaid leave.
+
+#### Employers’ contributions
+
+108
+
+108.1
+
+Each employer of an active member of this scheme must pay contributions to
+this scheme in respect of the member at the rate and at the intervals the
+scheme manager may for the time being determine after consultation with the
+scheme actuary.
+
+108.2
+
+Each employer of an active member of this scheme must in addition pay to this
+scheme—
+
+108.2.a
+
+annual administration charges; and
+
+108.2.b
+
+any other administrative charges,
+
+at such intervals and at such rates as the scheme manager may from time to
+time determine.
+
+### Transfers
+
+#### Preliminary
+
+##### Application of Part
+
+109
+
+This Part—
+
+109.a
+
+supplements the rights conferred by or under Chapter 1 (transfer values) of
+Part 4ZA of PSA 1993  and is without prejudice to that Chapter; and
+
+109.b
+
+supplements the rights conferred by or under Chapter 2 (early leavers: cash
+transfer sums and contribution refunds) of Part 4ZA of PSA 1993 and is without
+prejudice to that Chapter.
+
+##### Interpretation of Part
+
+110
+
+In this Part—
+
+    “cash equivalent” means an amount calculated in accordance with
+regulations made under section 97 (calculation of cash equivalents) of PSA
+1993 ;         “guarantee date” has the meaning given in regulation  113 ;
+“guaranteed cash equivalent” means, in relation to calculating the transfer
+value of accrued rights to benefits under this scheme, the cash equivalent of
+those benefits as at the guarantee date, as specified in a statement of
+entitlement;         “statement of entitlement” means, in relation to an
+active or deferred member’s accrued rights to benefits under this scheme, a
+statement by the scheme manager of the cash equivalent of those benefits as at
+the guarantee date;         “transfer value” means an amount equal to—
+the guaranteed cash equivalent of the accrued rights to benefits under this
+scheme; or       the guaranteed cash equivalent together with any increase
+payable under regulation  115 .
+
+#### Transfers out
+
+##### Transfer value payments made to other schemes or pension arrangements
+
+111
+
+111.1
+
+A transfer value payment may only be made in respect of the accrued rights to
+benefits of an active or deferred member of this scheme.
+
+111.2
+
+A transfer value payment may only be made to—
+
+111.2.a
+
+a registered pension arrangement in the United Kingdom; or
+
+111.2.b
+
+a pension arrangement that is a qualifying recognised overseas pension scheme
+for the purposes of Part 4 (pension schemes etc.) of FA 2004.
+
+111.3
+
+A transfer value payment may not be made in respect of rights that are
+attributable (directly or indirectly) to a pension credit.
+
+111.4
+
+A member may only require the scheme manager to use a transfer value payment
+in a way specified in section 95(2A) (ways of taking right to cash equivalent)
+of PSA 1993 .
+
+111.5
+
+The whole of the transfer value payment must be made in accordance with the
+provisions of this regulation.
+
+##### Application for a statement of entitlement
+
+112
+
+112.1
+
+This regulation applies in relation to an active or deferred member of this
+scheme (P) who requires a transfer value payment to be made in respect of P’s
+accrued rights to benefits under this scheme.
+
+112.2
+
+Before requesting the transfer value payment, P must apply for a statement of
+entitlement by notice to the scheme manager.
+
+112.3
+
+P may withdraw the application by notice to the scheme manager at any time
+before the statement is provided.
+
+112.4
+
+P may make a second application by notice to the scheme manager in the period
+of 12 months beginning with the date of the first application .
+
+##### Statement of entitlement
+
+113
+
+113.1
+
+The scheme manager must specify in the statement of entitlement the date by
+reference to which the cash equivalent is calculated (“guarantee date”).
+
+113.2
+
+The guarantee date must fall within both the following periods—
+
+113.2.a
+
+unless paragraph (4) applies, the 3 months beginning with the date of the
+member’s application for the statement of entitlement (“the 3 month period”);
+and
+
+113.2.b
+
+the 10 days ending with the date on which the member is provided with that
+statement (“the 10 day period”).
+
+113.3
+
+In counting the 10 day period, Saturdays, Sundays, Christmas Day, New Year’s
+Day and Good Friday are excluded.
+
+113.4
+
+The scheme manager may specify in the statement of entitlement a guarantee
+date that falls within the 6 months beginning with the date of the member’s
+application for the statement of entitlement if—
+
+113.4.a
+
+for reasons beyond the control of the scheme manager, the information needed
+to calculate the amount of the cash equivalent cannot be obtained before the
+end of the 3 month period; and
+
+113.4.b
+
+the scheme manager considers it reasonable to specify a guarantee date that
+falls outside the 3 month period.
+
+##### Request for transfer value payment to be made
+
+114
+
+114.1
+
+An active or deferred member of this scheme who is provided with a statement
+of entitlement may request a transfer value payment to be made in respect of
+the member’s accrued rights to benefits under this scheme.
+
+114.2
+
+The request for the transfer value payment must—
+
+114.2.a
+
+be made by notice to the scheme manager;
+
+114.2.b
+
+specify the pension scheme or other pension arrangement to which the transfer
+value payment is to be made; and
+
+114.2.c
+
+meet any other conditions the scheme manager requires.
+
+114.3
+
+The member may, by notice to the scheme manager, withdraw the request at any
+time before the transfer value payment is made.
+
+114.4
+
+The member may not withdraw the request if an agreement for the use of the
+whole or part of the transfer value payment has already been entered into with
+a third party.
+
+##### Calculating the amount of a transfer value
+
+115
+
+115.1
+
+If a transfer value is paid later than 6 months after the guarantee date, the
+amount of the guaranteed cash equivalent must be increased in accordance with
+regulations made under section 97 (calculation of cash equivalents) of PSA
+1993.
+
+115.2
+
+If the transfer value is less than the minimum transfer value, the amount of
+the transfer value must be increased so that it is equal to the amount of the
+minimum transfer value.
+
+115.3
+
+In this regulation—
+
+    “minimum transfer value” means the total of the sum of all member
+contributions made by the member; and         “member contributions” has the
+meaning given in regulation  105  (rate of member contributions).
+
+##### Effect of transfers-out
+
+116
+
+If a transfer value payment is made under this Chapter in respect of a
+member’s accrued rights to benefits under this scheme, those rights are
+extinguished.
+
+### Actuarial valuations and employer cost cap
+
+#### Appointment of scheme actuary and actuarial valuations
+
+117
+
+117.1
+
+The Lord Chancellor must appoint an individual (the “scheme actuary”) to
+provide a consulting service on actuarial matters in relation to this scheme
+and any connected scheme.
+
+117.2
+
+Subject to paragraph (3), the scheme actuary is responsible for—
+
+117.2.a
+
+carrying out valuations of this scheme and any connected scheme; and
+
+117.2.b
+
+preparing reports on the valuations.
+
+117.3
+
+The scheme actuary is not required to value a connected scheme which is a
+specified restricted scheme for the purposes of section 12A(3) (sections 11
+and 12: restricted schemes) of the Act.
+
+117.4
+
+Before appointing an individual as scheme actuary the Lord Chancellor must be
+satisfied that the actuary is appropriately qualified to carry out valuations
+of this scheme and any connected scheme in accordance with Treasury directions
+under section 11 (valuations) of the Act (the “Treasury directions”).
+
+117.5
+
+The scheme manager is responsible for providing the scheme actuary with any
+data that the scheme actuary requires in order to carry out a valuation and
+prepare a report on the valuation.
+
+117.6
+
+A valuation of the scheme and any connected scheme and the preparation of a
+report on the valuation must be carried out in accordance with the Treasury
+directions.
+
+117.7
+
+Valuations of the scheme must be carried out within a time-frame which enables
+requirements in the Treasury directions regarding dates which are applicable
+to the valuation to be met.
+
+### Supplementary
+
+#### Dual capacity members
+
+##### Meaning of “dual capacity member”
+
+118
+
+118.1
+
+A person (P) is a dual capacity member of this scheme if—
+
+118.1.a
+
+P is a member of this scheme in two or more of the following capacities—
+
+118.1.a.i
+
+an active member;
+
+118.1.a.ii
+
+a deferred member;
+
+118.1.a.iii
+
+a pensioner member;
+
+118.1.b
+
+P is both a pension credit member of this scheme and a member of this scheme
+in one or more of the following capacities—
+
+118.1.b.i
+
+an active member;
+
+118.1.b.ii
+
+a deferred member;
+
+118.1.b.iii
+
+a pensioner member;
+
+118.1.c
+
+P is a member of this scheme in relation to two or more continuous periods of
+pensionable service; or
+
+118.1.d
+
+P is a pension credit member of this scheme entitled to two or more pension
+credits.
+
+118.2
+
+For the purpose of paragraph  (1)(a)  or (b)—
+
+118.2.a
+
+in determining whether a person who is an active member is also a pensioner
+member, the fact that the person is an active member and the person’s rights
+in that capacity are to be disregarded; and
+
+118.2.b
+
+in determining whether a person who is an active member or pensioner member is
+also a deferred member, the fact that the person is an active member or
+pensioner member and the person’s rights in that capacity are to be
+disregarded.
+
+##### Payment of benefits to or in respect of a dual capacity member
+
+119
+
+119.1
+
+If a person is a dual capacity member of this scheme—
+
+119.1.a
+
+the benefits that are payable to or in respect of the member in each of the
+member’s capacities are treated separately for the purposes of these
+Regulations; and
+
+119.1.b
+
+the amounts payable to or in respect of the member in each of the member’s
+capacities are determined accordingly.
+
+119.2
+
+In relation to payment of retirement benefits, paragraph  (1)  does not affect
+the interpretation of regulation  49  (exercise of partial retirement option)
+if a member is both an active member and a pensioner member by virtue of that
+regulation.
+
+119.3
+
+In relation to payment of death benefits, paragraph  (1)  does not prevent—
+
+119.3.a
+
+the calculation under regulation  97  (payment of lump sum death benefit to
+nominees or personal representatives) of a lump sum payable on the death of an
+active member of this scheme being made by reference to amounts that are
+relevant to the member in another capacity;
+
+119.3.b
+
+the calculation under regulation  98  (members affected by court orders to
+former spouses and civil partners) on death of a lump sum payable on the death
+of a deferred member or pensioner member of this scheme being made by
+reference to amounts that are relevant to the member in both of those
+capacities; or
+
+119.3.c
+
+the calculation under regulation  98  of a lump sum payable on the death of—
+
+119.3.c.i
+
+a deferred member of this scheme in relation to two or more continuous periods
+of pensionable service; or
+
+119.3.c.ii
+
+a pensioner member of this scheme in relation to two or more continuous
+periods of pensionable service.
+
+#### Payment of benefits: general
+
+##### Late payment of retirement index adjustment
+
+120
+
+Nothing in these Regulations requires any part of a pension attributable to a
+retirement index adjustment to be paid before the end of the last active
+scheme year.
+
+##### Commutation of small pensions
+
+121
+
+121.1
+
+This regulation applies if—
+
+121.1.a
+
+the pension entitlement of a single capacity member or the pension entitlement
+of a single capacity member’s beneficiary does not exceed the small pensions
+commutation maximum; or
+
+121.1.b
+
+the total pension entitlement of a dual capacity member or the total pension
+entitlement of a dual capacity member’s beneficiary does not exceed the small
+pensions commutation maximum.
+
+121.2
+
+The scheme manager may, subject to paragraph (4), pay the member or the
+member’s beneficiary a lump sum of an amount advised by the scheme actuary as
+representing the cash value of the pension if—
+
+121.2.a
+
+the member or the member’s beneficiary consents to receipt of a lump sum in
+place of the pension; and
+
+121.2.b
+
+the requirements of the commutation provisions that apply in the
+circumstances, had this scheme been a registered pension scheme, are met.
+
+121.3
+
+The lump sum under paragraph (2) may only be paid before the first payment of
+the pension is made.
+
+121.4
+
+The scheme manager may not pay a lump sum under paragraph (2) which would be a
+trivial commutation lump sum had this scheme been a registered pension scheme
+where—
+
+121.4.a
+
+the member has been paid—
+
+121.4.a.i
+
+a trivial commutation lump sum under the 2015 Regulations or from any
+registered pension scheme; or
+
+121.4.a.ii
+
+a lump sum from the FPJR 2017 which would have been a trivial commutation lump
+sum had that scheme been a registered pension scheme; and
+
+121.4.b
+
+a period of 12 months has elapsed from the date of that payment (or the
+earlier or earliest such payment where there is more than one).
+
+121.5
+
+The payment of a lump sum under this regulation in place of a pension
+discharges all liabilities under this scheme in respect of that pension.
+
+121.6
+
+In this regulation—
+
+    “the commutation provisions” means the provisions permitting the
+commutation of pensions set out in—       paragraph 7 of Schedule 29
+(registered pension schemes: authorised lump sums - supplementary) to FA 2004
+(which defines trivial commutation lump sums for the purposes of Part 4 of
+that Act)  and, in relation to a pension payable under Part 8, paragraph 20 of
+that Schedule (which defines trivial commutation lump sum death benefit for
+the purposes of Part 4 of that Act) ; and       Part 2 (commutation payments)
+of the Registered Pension Schemes (Authorised Payment) Regulations 2009 ;
+“single capacity member” means a member of this scheme who is not a dual
+capacity member; and         “the small pensions commutation maximum” means
+the amount that is permitted to be commuted taking account of all sources of
+pension and having regard to the commutation provisions that apply in the
+circumstances, had this scheme been a registered pension scheme.
+
+##### Commutation supplement: small pensions
+
+122
+
+122.1
+
+Where—
+
+122.1.a
+
+a member (P) ceases to be in pensionable service under this scheme (other than
+by death in service); and
+
+122.1.b
+
+P has exercised the option under regulation  121(2) ,
+
+P is entitled to be paid an additional amount (a “commutation supplement”)
+calculated under paragraph (2).
+
+122.2
+
+The sum payable to P is an amount sufficient, after deduction of any
+applicable income tax and national insurance payable by P arising as a result
+of such payment, to result in P receiving a net sum equal to—
+
+122.2.a
+
+the income tax payable by P on 25% of any lump sum payable under regulation
+121(2)  that relates only to uncrystallised rights under this scheme; plus
+
+122.2.b
+
+the national insurance contributions payable by P (if any) in relation to the
+lump sum received pursuant to regulation  121(2) .
+
+122.3
+
+The commutation supplement is payable at the same time as payment of the lump
+sum mentioned in regulation  121(2) .
+
+122.4
+
+In this regulation, “uncrystallised rights” has the meaning given in section
+212 of the FA 2004 .
+
+#### Forfeiture and set-off
+
+##### Forfeiture: offences committed by members
+
+123
+
+123.1
+
+If a member is convicted of a relevant offence, the appropriate Minister may,
+in agreement with the relevant head of jurisdiction and to the extent that
+they both consider appropriate, withhold benefits payable under this scheme to
+or in respect of the member.
+
+123.2
+
+In this regulation—
+
+“forfeiture certificate” means a certificate stating that the appropriate
+Minister and relevant head of jurisdiction issuing the certificate consider
+that the offence— has been gravely injurious to the administration of justice;
+or is liable to lead to serious loss of confidence in the judiciary; and
+“relevant offence” means— one or more offences under the Official Secrets Acts
+1911 to 1989  , or under section 18 of, or listed in section 33(3)(a) of, the
+National Security Act 2023,   for which the member has been sentenced on the
+same occasion to— a term of imprisonment of at least 10 years; or two or more
+consecutive terms of imprisonment which add up to at least 10 years; offences
+committed in connection with service in a qualifying judicial office and in
+respect of which the appropriate Minister and relevant head of jurisdiction
+have issued a forfeiture certificate.
+
+##### Forfeiture: offences committed by a member’s beneficiary
+
+124
+
+124.1
+
+Where a member of this scheme (D) dies, and the beneficiary of D is convicted
+of a relevant criminal offence, the appropriate Minister may, in agreement
+with the relevant head of jurisdiction and to the extent that they both
+consider appropriate, withhold benefits payable to the beneficiary in respect
+of D.
+
+124.2
+
+If the appropriate Minister withholds all of the benefits payable to a
+beneficiary, Part 8 applies as if the beneficiary had died before D.
+
+124.3
+
+In this regulation, “relevant criminal offence” means—
+
+124.3.a
+
+the murder of D;
+
+124.3.b
+
+the manslaughter of D; or
+
+124.3.c
+
+any other offence of which the unlawful killing of D is an element.
+
+##### Forfeiture: relevant monetary obligations and relevant monetary losses
+
+125
+
+125.1
+
+If a member (P) owes a relevant monetary obligation or has caused a relevant
+monetary loss, the appropriate Minister may, in agreement with the relevant
+head of jurisdiction and to the extent that they both consider appropriate,
+withhold benefits payable to P under this scheme.
+
+125.2
+
+The appropriate Minister may not withhold more than the lesser of—
+
+125.2.a
+
+the amount of the relevant monetary obligation or relevant monetary loss; and
+
+125.2.b
+
+the value of P’s entitlement to benefits.
+
+125.3
+
+The appropriate Minister may only withhold benefits if—
+
+125.3.a
+
+there is no dispute as to the amount of the relevant monetary obligation or
+relevant monetary loss; or
+
+125.3.b
+
+the relevant monetary obligation or relevant monetary loss is enforceable as
+follows—
+
+125.3.b.i
+
+under an order of a competent court;
+
+125.3.b.ii
+
+in consequence of an award of an arbitrator;
+
+125.3.b.iii
+
+in Scotland, in consequence of an award of an arbiter appointed (failing
+agreement between the parties) by the sheriff.
+
+125.4
+
+In this regulation—
+
+    “relevant monetary obligation” means a monetary obligation which—
+was incurred to the Crown or P’s employer (if different);       was incurred
+after P became an active member of this scheme;       arose out of P’s
+criminal or fraudulent act or omission; and       arose out of or was
+connected with service in a qualifying judicial office in respect of which P
+is a member of this scheme.             “relevant monetary loss” means a
+monetary loss which—       was caused to this scheme; and       arose as a
+result of P’s criminal or fraudulent act or omission.
+
+##### Set-off
+
+126
+
+126.1
+
+The appropriate Minister may, in agreement with the relevant head of
+jurisdiction, set off an applicable monetary obligation against a member’s
+entitlement to benefits under this scheme.
+
+126.2
+
+In this regulation, an “applicable monetary obligation” is a monetary
+obligation owed by a member (P), which satisfies the conditions in paragraph
+(3) ,  (4)  or  (5) .
+
+126.3
+
+The conditions of this paragraph are that the monetary obligation—
+
+126.3.a
+
+was incurred to the Crown or P’s employer (if different);
+
+126.3.b
+
+arose out of P’s criminal or fraudulent act or omission;
+
+126.3.c
+
+was incurred after P became an active member of this scheme; and
+
+126.3.d
+
+arose out of or was connected with service in a qualifying judicial office in
+respect of which P is a member of this scheme.
+
+126.4
+
+The conditions of this paragraph are that the monetary obligation—
+
+126.4.a
+
+was incurred to this scheme; and
+
+126.4.b
+
+arose out of P’s criminal or fraudulent act or omission.
+
+126.5
+
+The conditions of this paragraph are that the monetary obligation—
+
+126.5.a
+
+was incurred to this scheme; and
+
+126.5.b
+
+arose out of a payment made to P in error by the scheme manager.
+
+126.6
+
+The value of the set-off applied must not exceed the lesser of—
+
+126.6.a
+
+the amount of the relevant monetary obligation;
+
+126.6.b
+
+the value of P’s entitlement to benefits.
+
+126.7
+
+The appropriate Minister may only set off a relevant monetary obligation
+against P’s entitlement to benefits if—
+
+126.7.a
+
+there is no dispute as to the amount of the relevant monetary obligation; or
+
+126.7.b
+
+the relevant monetary obligation is enforceable—
+
+126.7.b.i
+
+under an order of a competent court;
+
+126.7.b.ii
+
+in consequence of an award of an arbitrator;
+
+126.7.b.iii
+
+in Scotland, in consequence of an award of an arbiter appointed (failing
+agreement between the parties) by the sheriff.
+
+#### General
+
+##### Calculation of periods of membership and service
+
+127
+
+127.1
+
+For the purposes of this scheme, periods of membership and service are to be
+expressed in the first instance in whole years, and days and fractions of a
+day, and the initial aggregation of periods that require to be aggregated is
+done in the first instance by reference to periods so expressed.
+
+127.2
+
+If, when all periods of membership or service that require to be aggregated
+have been aggregated, there is any excess part day over the number of whole
+days, that excess is rounded up to a full day.
+
+127.3
+
+Paragraphs (1) and (2) are subject to paragraph (4).
+
+127.4
+
+If membership or service is referred to in these Regulations as membership or
+service in years—
+
+127.4.a
+
+the days referred to in paragraph  (1) ; and
+
+127.4.b
+
+the full days referred to in paragraph  (2) ,
+
+are converted into years by dividing the number of days in excess of the
+period of whole years by 365, and using the result to 4 decimal places.
+
+127.5
+
+If a period of membership or service is less than one year, this regulation
+applies as if the words “whole years, and” were omitted from paragraph  (1)
+and the words “in excess of the period of whole years” were omitted from
+paragraph  (4) .
+
+##### Determination of questions
+
+128
+
+128.1
+
+Except as otherwise provided by these Regulations, any question arising under
+this scheme is to be determined by the scheme manager, whose decision on it is
+final.
+
+128.2
+
+The scheme manager must, in consultation with the Judicial Pension Board,
+establish a procedure for the determination of disputes relating to members or
+other persons with an interest in the scheme.
+
+128.3
+
+A procedure established under paragraph  (2)  must meet the requirements of
+section 50 (requirement for dispute resolution arrangements) of the PA 1995 .
+
+##### Evidence of entitlement
+
+129
+
+129.1
+
+The scheme manager may require any person who is receiving a pension under
+this scheme to provide evidence to establish—
+
+129.1.a
+
+the person’s identity; and
+
+129.1.b
+
+the person’s continuing entitlement to payment of any amount.
+
+129.2
+
+If the person does not provide the required evidence, the scheme manager may
+withhold the whole or any part of any benefits payable under this scheme in
+respect of the person.
+
+##### Provision of benefit information statements to members
+
+130
+
+130.1
+
+The scheme manager must provide benefit information statements to each active
+member of this scheme in accordance with—
+
+130.1.a
+
+section 14 (information about benefits) of the Act; and
+
+130.1.b
+
+directions given under that section (“Treasury directions”).
+
+130.2
+
+The statement must contain the following information about the member’s
+benefits as at the date of the statement—
+
+130.2.a
+
+the amount of accrued pension specified in the each of the active member’s
+accounts as at that date;
+
+130.2.b
+
+the opening balance for that year and the index adjustment for that opening
+balance;
+
+130.2.c
+
+the amount of pension for that year as at that date; and
+
+130.2.d
+
+any other information required by Treasury directions.
+
+##### Amendment to the Public Service Pensions Act 2013 (Judicial Offices) Order 2015
+
+131
+
+131.1
+
+In article 3 of the Public Service Pensions Act 2013 (Judicial Offices) Order
+2015  (“the Judicial Offices Order”), for “the Schedule” substitute  “Schedule
+1 or Schedule 2” .
+
+131.2
+
+The Schedule to the Judicial Offices Order is amended as follows—
+
+131.2.a
+
+after the entry for “Chair of the Health Service Products (Pricing, Cost
+Control and Information) Appeals Tribunal holding office on or after 1st April
+2021” insert the following entries—
+
+Chair of the Police Appeals Tribunal”;
+
+“Chair of the Plant Varieties and Seeds Tribunal
+
+;
+
+131.2.b
+
+after the entry for “Master of the Rolls” insert the following entries—
+
+Member of a panel constituted under Article 7(1) of the Social Security
+(Northern Ireland) Order 1998 who is appointed to serve as a member of that
+panel and is a barrister or solicitor”;
+
+“Member of a panel of chairmen appointed under Article 82 of the Fair
+Employment and Treatment (Northern Ireland) Order 1998”;
+
+“Member of a panel of chairmen appointed under regulation 4(1)(a) of the
+Industrial Tribunals (Constitution and Rules of Procedure) Regulations
+(Northern Ireland) 2005
+
+;
+
+131.2.c
+
+after the entry for “Other member of the Upper Tribunal, where the office is
+held by a person who sits as a Chairman in the Lands Chamber and is a Member
+or Fellow of the Royal Institution of Chartered Surveyors holding office on or
+after 1st   April 2021” insert the following entries—
+
+Part-time Sheriff (Scotland)”;
+
+“Part-time Stipendiary Magistrate (Scotland)”;
+
+“Part-time Summary Sheriff (Scotland)”;
+
+“President of appeals tribunals (within the meaning of Chapter 1 of Part 2 of
+the Social Security (Northern Ireland) Order 1998) appointed under Article 6
+of that Order
+
+;
+
+131.2.d
+
+after the entry “President of the Welsh Tribunals holding office on or after
+1st April 2021” insert the following entries—
+
+President or other member of the Lands Tribunal where that office is held on a
+salaried basis”;
+
+“President or Vice-President of the Industrial Tribunals and Fair Employment
+Tribunal appointed under Article 82 of the Fair Employment and Treatment
+(Northern Ireland) Order 1998
+
+;
+
+131.2.e
+
+for the entry for “President or Chairman of the Special Educational Needs
+Tribunal for Wales” substitute—
+
+President or member of the legal chair panel of the Education Tribunal for
+Wales
+
+;
+
+131.2.f
+
+after the entry for “Temporary High Court Judge (Northern Ireland)” insert—
+
+Temporary Judge (Scotland)
+
+.
+
+131.3
+
+The existing Schedule to the Judicial Offices Order is renamed “Schedule 1”.
+
+131.4
+
+After Schedule 1 to the Judicial Offices Order, as so renamed, insert the
+Schedule set out in Schedule 2 to these Regulations.
+
+##### Information to be provided by employers
+
+132
+
+An employer of a member of this scheme must, by such date as the scheme
+manager may specify, provide the scheme manager with such information as the
+scheme manager may request—
+
+132.a
+
+in connection with the scheme manager’s or scheme administrator’s functions in
+relation to this scheme; or
+
+132.b
+
+to enable the scheme manager or Lord Chancellor to fulfil any obligations on
+the scheme manager or Lord Chancellor set out in or under legislation.
+
+##### Financial provision
+
+133
+
+Any pension or lump sum payable under this scheme to or in respect of a person
+who has held an office specified in Part 1 of Schedule 1 to the Judicial
+Pensions and Retirement Act 1993  is to be charged on, and paid out of, the
+Consolidated Fund.
+
+##### Transitional provisions
+
+134
+
+Schedule 1 has effect.
+
+##### Sitting in retirement offices
+
+135
+
+Schedule 2 has effect.
+
+##### Modifying provisions and amendments
+
+136
+
+Schedule 3 has effect.
+
+    We consent to the making of these Regulations     Michael Tomlinson   Alan
+Mak   Two of the Lord Commissioners of Her Majesty’s Treasury   16th March
+2022       Dominic Raab   Lord Chancellor   Ministry of Justice   At 9.21 a.m.
+on 17th March 2022       Alister Jack   Secretary of State   Scotland Office
+16th March 2022
+
+  Transitional provisions
+
+Regulation 134
+
+##### General
+
+###### Interpretation
+
+1
+
+In this Schedule—
+
+    “closing date”, in relation to a transition member, means 31st March 2022
+;         “transition date”, in relation to a transition member, means the day
+after the closing date;         “transition member” means a person—       who
+is a member of a pre-2022 scheme by virtue of the person’s pensionable service
+under that scheme before the transition date; and       who is a member of
+this scheme by virtue of the person’s pensionable service under this scheme.
+
+###### Meaning of “continuity of service”
+
+2
+
+2.1
+
+A transition member (T) has continuity of service between pensionable service
+in a pre-2022 scheme and pensionable service in this scheme (“continuity of
+service”) unless T has a gap in service exceeding 5 years which—
+
+2.1.a
+
+begins on or before the transition date; and
+
+2.1.b
+
+ends on the day on which T becomes an active member of this scheme.
+
+2.2
+
+In this paragraph a reference to “pensionable service” in relation to the Fee-
+Paid Judges Scheme is a reference to qualifying judicial service.
+
+###### Commencement of active membership of this scheme
+
+3
+
+3.1
+
+A person who is a transition member on entering pensionable service under this
+scheme who does not have continuity of service becomes an active member of
+this scheme on the day the person is appointed to qualifying judicial office.
+
+3.2
+
+A person who is a transition member on entering pensionable service under this
+scheme who has continuity of service (T) becomes an active member of this
+scheme—
+
+3.2.a
+
+if T is in pensionable service in a qualifying judicial office on the
+transition date, on that date; or
+
+3.2.b
+
+if T is not in pensionable service in a qualifying judicial office on the
+transition date, on the day T enters pensionable service in a qualifying
+judicial office after that date.
+
+##### Payment of ill-health benefits to transition members with continuity of service
+
+###### Transition member who has not reached normal pension age under a pre-2022 scheme
+
+4
+
+4.1
+
+This paragraph applies to a transition member with continuity of service who
+becomes entitled to an ill-health pension under this scheme and a pre-2022
+scheme.
+
+4.2
+
+If the member is entitled under this scheme and a pre-2022 scheme to immediate
+payment of an ill-health pension, the annual rate of that ill-health pension
+is, subject to sub-paragraph (3), the sum of—
+
+4.2.a
+
+the annual rate of an ill-health pension under the pre-2022 scheme; and
+
+4.2.b
+
+the annual rate of an ill-health pension under this scheme.
+
+4.3
+
+Where a member is entitled to immediate payment of an ill-health pension,
+payment of any enhancement in respect of the member’s assumed period of
+pensionable service is not payable under a pre-2022 scheme.
+
+4.4
+
+In this paragraph, “the member’s assumed period of pensionable service” means
+the period—
+
+4.4.a
+
+beginning with the day after the day on which the member’s continuous period
+of pensionable service ceased; and
+
+4.4.b
+
+ending with—
+
+4.4.b.i
+
+for a member appointed for a fixed term, the day on which that term ends; or
+
+4.4.b.ii
+
+for all other appointments, the day before the day on which the member will
+reach prospective normal pension age (assuming that the member lives until
+that age).
+
+4.5
+
+In this paragraph a reference to “pensionable service” in relation to the Fee-
+Paid Judges Scheme is a reference to qualifying judicial service.
+
+##### Payment of death benefits in respect of transition members with continuity of service
+
+###### Annual rate of surviving adults’ pensions payable under this scheme when a transition member dies in service
+
+5
+
+5.1
+
+This paragraph applies in relation to a transition member with continuity of
+service—
+
+5.1.a
+
+who dies as an active member of this scheme; and
+
+5.1.b
+
+whose period of service is at least 12 months.
+
+5.2
+
+Where there is an entitlement under this scheme and a pre-2022 scheme to a
+surviving adult’s pension, the annual rate of that pension is, subject to sub-
+paragraph (3), the sum of—
+
+5.2.a
+
+the amount of dependant’s earned pension calculated under regulation  84
+(annual rate of surviving adult’s pensions payable on death of active member
+(death in service)) at the date of death; and
+
+5.2.b
+
+the amount of the equivalent surviving adult’s pension payable under the
+pre-2022 scheme.
+
+5.3
+
+Where there is an entitlement to a surviving adult’s pension, the payment of
+any enhancement in respect of the member’s assumed period of pensionable
+service is not payable under a pre-2022 scheme.
+
+5.4
+
+In this paragraph—
+
+    “the member’s assumed period of pensionable service” means the period—
+beginning with the day after the date of the member’s death; and       ending
+with—     for a member appointed for a fixed term, the day on which that term
+would have ended; and       for all other appointments, the day before the day
+on which the member would have reached prospective normal pension age if the
+member had lived until that age; and                   “period of service”
+means—       the member’s continuous period of pensionable service under this
+scheme; and       the member’s pensionable service under a pre-2022 scheme
+before the closing date.
+
+5.5
+
+In this paragraph a reference to “pensionable service” in relation to the Fee-
+Paid Judges Scheme is a reference to qualifying judicial service.
+
+###### Annual rate of eligible child’s pension payable under this scheme when a transition member dies in service
+
+6
+
+6.1
+
+This paragraph applies in relation to a transition member with continuity of
+service—
+
+6.1.a
+
+who dies as an active member of this scheme; and
+
+6.1.b
+
+whose period of service is at least 12 months.
+
+6.2
+
+The annual rate of child’s pension payable is, subject to sub-paragraph (3),
+the sum of—
+
+6.2.a
+
+the annual rate of child’s earned pension calculated under regulation  89
+(annual rate of eligible child’s pension); and
+
+6.2.b
+
+the annual rate of child’s pension payable under the pre-2022 scheme.
+
+6.3
+
+Where a child’s pension is payable, the payment of any enhancement in respect
+of the member’s assumed period of pensionable service is not payable under a
+pre-2022 scheme.
+
+6.4
+
+In this paragraph—
+
+    “the member’s assumed period of pensionable service” means the period—
+beginning with the day after the date of the member’s death; and       ending
+with—     for a member appointed for a fixed term, the day on which that term
+would have ended; and       for all other appointments, the day before the day
+on which the member would have reached prospective normal pension age if the
+member had lived until that age; and                   “period of service”
+means—       the member’s continuous period of pensionable service under this
+scheme; and       the member’s pensionable service under a pre-2022 scheme
+before the closing date.
+
+6.5
+
+In this regulation a reference to “pensionable service” in relation to the
+Fee-Paid Judges Scheme is a reference to qualifying judicial service.
+
+###### Death in service lump sum
+
+7
+
+7.1
+
+This paragraph applies in relation to a transition member with continuity of
+service who dies in service within the meaning of regulation  97  (payment of
+lump sum death benefit to nominees or personal representatives).
+
+7.2
+
+On the death of the member—
+
+7.2.a
+
+a lump sum death benefit is payable under regulation  97 ; but
+
+7.2.b
+
+a death in service lump sum death benefit is not payable under a pre-2022
+scheme.
+
+###### Death out of service lump sum
+
+8
+
+8.1
+
+For the purpose of payment of death benefits, a transition member with
+continuity of service who dies as a deferred member or pensioner member of
+this scheme dies out of service under this scheme and a pre-2022 scheme.
+
+8.2
+
+On the death of such a member—
+
+8.2.a
+
+if regulation  103  (amount payable on death of deferred member or pensioner
+member (death out of service)) applies to the member, a lump sum death benefit
+is payable under that regulation; and
+
+8.2.b
+
+if the member is a pensioner member of a pre-2022 scheme and the conditions
+for payment of a death out of service lump sum death benefit under the rules
+of the pre-2022 scheme are met, a death out of service lump sum death benefit
+is payable under that scheme.
+
+##### Transitional provisions relating to pre-2022 scheme
+
+###### Pensionable service under pre-2022 scheme
+
+9
+
+9.1
+
+This paragraph applies in relation to a transition member with continuity of
+service (T) who is in pensionable service under this scheme.
+
+9.2
+
+In determining whether T qualifies under a pre-2022 scheme for retirement
+benefits, T’s pensionable service under that scheme is to be treated as
+terminating when T’s pensionable service under this scheme terminates;
+
+9.3
+
+In determining T’s final salary for any purposes of a pre-2022 scheme under
+Schedule 7 (final salary link) to the Act, pensionable earnings derived from
+service under this scheme are to be regarded as derived from service under a
+pre-2022 scheme; and
+
+9.4
+
+Where T has a working pattern or patterns involving a pro rata reduction in
+salary as at the date when they cease pensionable service in this scheme, T’s
+final salary for a pre-2022 scheme is to be calculated by reference to their
+full-time equivalent final salary, or to the proportion or proportions of
+their full-time equivalent final salary appropriate to T’s working pattern as
+at the closing date.
+
+###### Repayment of contributions under pre-2022 scheme
+
+10
+
+If a transition member with continuity of service (T) opts out of this scheme
+and T has less than 2 years’ qualifying service, T must be repaid T’s member’s
+contributions under a pre-2022 scheme.
+
+###### Qualifying for retirement benefits under the pre-2022 scheme
+
+11
+
+In determining whether a transition member with continuity of service (T)
+qualifies for retirement benefits under a pre-2022 scheme, T’s qualifying
+service includes the total of—
+
+11.a
+
+T’s qualifying service under a pre-2022 scheme; and
+
+11.b
+
+T’s qualifying service under this scheme.
+
+###### Nomination under the pre-2022 scheme continues to have effect
+
+12
+
+12.1
+
+This paragraph applies if a transition member with continuity of service (T)
+has not nominated a person under these Regulations to receive a lump sum death
+benefit under this scheme.
+
+12.2
+
+An existing nomination has effect as if made under these Regulations until T
+makes a nomination under these Regulations.
+
+12.3
+
+In this paragraph, “existing nomination” means a nomination which—
+
+12.3.a
+
+was made for the purpose of a pre-2022 scheme; and
+
+12.3.b
+
+as at the closing date, had effect under that scheme.
+
+###### Pre-commencement contributions
+
+13
+
+Regulation 58(4) (payment of pre-commencement contributions amount) of the
+FPJR 2017 applies with the modification that for the words in sub-paragraph
+(b) from “where P dies before retiring” to the end there is substituted  “if
+applicable, the death in service lump sum payable under regulation  102  in
+the Judicial Pensions Regulations 2022.” .
+
+##### Transitional provisions relating to the 2015 scheme
+
+###### Deferred members of the 2015 scheme
+
+14
+
+14.1
+
+This paragraph applies to a transition member with continuity of service (T)
+who—
+
+14.1.a
+
+is a member of the 2015 scheme by virtue of T’s pensionable service under that
+scheme before the transition date; or
+
+14.1.b
+
+is deemed to have been an active member of the 2015 scheme by virtue of
+regulations 38A(2) or 38B(2) of, or paragraphs 23A(2) or 23B(2) of Schedule 1
+to, the 2015 Regulations.
+
+14.2
+
+Subject to sub-paragraph (3), T is deemed to be an active member of the 2015
+scheme until T becomes a deferred or pensioner member of this scheme.
+
+14.3
+
+T is not required to make any member contributions in the 2015 scheme after
+the transition date.
+
+14.4
+
+If T re-enters pensionable service under this scheme after a gap in service
+not exceeding 5 years, T ceases to be a deferred member of the 2015 scheme.
+
+  Sitting in Retirement offices
+
+Regulation 135
+
+        Admiralty Registrar (sitting in retirement)           Appointed Person
+for design right appeals (sitting in retirement)           Appointed Person
+for trademark appeals (sitting in retirement)           Assistant Judge
+Advocate General (sitting in retirement)           Chair of the Health Service
+Products (Pricing, Cost Control and Information) Appeals Tribunal (sitting in
+retirement)           Chair of the Reinstatement Committee (sitting in
+retirement)           Chairman of the Competition Appeal Tribunal (sitting in
+retirement)           Chairman of the National Security Certificate Appeals
+Tribunal (Northern Ireland) (sitting in retirement)           Chairman of the
+Reserve Forces Appeal Tribunal (sitting in retirement)           Child Support
+Commissioner for Northern Ireland (sitting in retirement)           Circuit
+Judge (sitting in retirement)           Coroner (Northern Ireland) (sitting in
+retirement)           County Court Judge (Northern Ireland) (sitting in
+retirement)           Deputy Admiralty Registrar (sitting in retirement)
+Deputy Chair of the Agricultural Land Tribunal for Wales (sitting in
+retirement)           Deputy Chairman of the National Security Certificate
+Appeals Tribunal (Northern Ireland) (sitting in retirement)           Deputy
+Child Support Commissioner for Northern Ireland (sitting in retirement)
+Deputy Coroner (Northern Ireland) (sitting in retirement)           Deputy
+County Court Judge (Northern Ireland) (sitting in retirement)           Deputy
+District Judge (sitting in retirement)           Deputy District Judge
+(Magistrates’ Courts) (England and Wales) (sitting in retirement)
+Deputy District Judge (Magistrates’ Courts) (Northern Ireland) (sitting in
+retirement)           Deputy District Judge of the Principal Registry of the
+Family Division (sitting in retirement)           Deputy Insolvency and
+Companies Court Judge (sitting in retirement)           Deputy Master,
+Chancery Division (sitting in retirement)           Deputy Master, Queen’s
+Bench Division (sitting in retirement)           Deputy Registrar of Civil
+Appeals (sitting in retirement)           Deputy Social Security Commissioner
+for Northern Ireland (sitting in retirement)           Deputy Taxing Master of
+the Senior Courts (sitting in retirement)           Deputy Statutory Officer
+within the meaning of section 74 of the Judicature (Northern Ireland) Act 1978
+(sitting in retirement)           District Judge (sitting in retirement)
+District Judge (Magistrates’ Courts) (England and Wales) (sitting in
+retirement)           District Judge (Magistrates’ Courts) (Northern Ireland)
+(sitting in retirement)           District Judge of the Principal Registry of
+the Family Division (sitting in retirement)           Employment Judge
+(sitting in retirement)           High Court Judge (England and Wales)
+(sitting in retirement)           High Court Judge (Northern Ireland) (sitting
+in retirement)           Insolvency and Companies Court Judge (sitting in
+retirement)           Judge of the First-tier Tribunal (sitting in retirement)
+Judge of the Upper Tribunal (sitting in retirement)           Legal member of
+the Mental Health Review Tribunal for Wales (sitting in retirement)
+Legally Qualified Member of the Pensions Appeal Tribunal for Northern Ireland
+(sitting in retirement)           Legal member of the Rent Assessment
+Committee Wales (sitting in retirement)           Legal member of the Welsh
+Language Tribunal (sitting in retirement)           Lord Justice of Appeal
+(England and Wales) (sitting in retirement)           Lord Justice of Appeal
+(Northern Ireland) (sitting in retirement)           Master, Chancery Division
+(sitting in retirement)           Master, Queen’s Bench Division (sitting in
+retirement)           Member of a panel constituted under Article 7(1) of the
+Social Security (Northern Ireland) Order 1998 (sitting in retirement) who is
+appointed to serve as a member of that panel and is a barrister or solicitor
+Member of a panel of employment judges appointed in accordance with regulation
+7(1)(a) of the Industrial Tribunals and Fair Employment Tribunal (Constitution
+and Rules of Procedure) Regulations (Northern Ireland) 2020 (sitting in
+retirement)           Member of the Adjudication Panel for Wales (sitting in
+retirement) who is legally qualified           Member of the Lands Tribunal of
+Northern Ireland (sitting in retirement)           Member of the legal chair
+panel of the Education Tribunal for Wales (sitting in retirement)
+Other member of the First-tier Tribunal (sitting in retirement), where the
+office is held by a person who sits as a Chairman in the Property Chamber
+(Residential Property)           Other member of the Upper Tribunal (sitting
+in retirement), where the office is held by a person who sits as a Chairman in
+the Lands Chamber and is a Member or Fellow of the Royal Institution of
+Chartered Surveyors           Recorder (sitting in retirement)
+Registrar of Civil Appeals (sitting in retirement)           Social Security
+Commissioner for Northern Ireland (sitting in retirement)           Statutory
+Officer within the meaning of section 70(1) of the Judicature (Northern
+Ireland) Act 1978 (sitting in retirement)           Taxing Master of the
+Senior Courts (sitting in retirement)
+
+  Modifying provisions and amendments
+
+Regulation 136
+
+##### Modification of early leaver and other provisions
+
+###### Application of this Part
+
+1
+
+1.1
+
+This Part applies where a person (P)—
+
+1.1.a
+
+is a member of an existing scheme listed in paragraphs 2 to 15 of Schedule 5
+(existing pension schemes) to the Act, whether by virtue of pensionable
+service for that scheme or deemed transfer scheme service under paragraph 2 of
+Schedule 7 (final salary link) to the Act;
+
+1.1.b
+
+is a member of this scheme by virtue of pensionable service under this scheme;
+and
+
+1.1.c
+
+is a person to whom paragraph 1 or 2 of Schedule 7 to the Act applies by
+virtue of that person’s pensionable service for this scheme, and whose final
+salary falls for the purposes of the old scheme to be determined by reference
+to that paragraph.
+
+1.2
+
+This Part also applies where a person (P)—
+
+1.2.a
+
+is a member of the Fee-Paid Judges Scheme by virtue of pensionable service
+under that scheme;
+
+1.2.b
+
+is a member of this scheme by virtue of pensionable service under this scheme;
+and
+
+1.2.c
+
+P’s service in the Fee-Paid Judges Scheme and service in the new scheme are
+continuous.
+
+1.3
+
+In this Part “the old scheme” means a scheme referred to in sub-paragraph
+(1)(a) or (2)(a) of which P is a member.
+
+###### Preservation of benefit
+
+2
+
+2.1
+
+Chapter 1 of Part 4 of the PSA 1993 (protection for early leavers:
+preservation of benefit) is modified as follows in relation to P.
+
+2.2
+
+In the application of that Chapter to the old scheme—
+
+2.2.a
+
+in section 70  (interpretation), in the definitions of “relevant employment”
+and “long service benefit” a reference to the scheme is to be taken as a
+reference to either the old scheme or this scheme, as appropriate in the
+relevant contexts;
+
+2.2.b
+
+in section 71(1) (basic principle as to short service benefit)—
+
+2.2.b.i
+
+the requirement for a scheme to make provision is to be taken as a requirement
+that either the old scheme or this scheme must make that provision;
+
+2.2.b.ii
+
+a reference to a transfer payment to the scheme is to be taken as a reference
+to a transfer payment either to the old scheme or to this scheme;
+
+2.2.b.iii
+
+a reference to termination of P’s pensionable service is to be taken as a
+reference to termination of P’s pensionable service under this scheme;
+
+2.2.b.iv
+
+a reference to benefit which would have been payable to P under the scheme is
+to be taken as a reference to benefit which would have been payable to P
+either under the old scheme or under this scheme, and subsequent references in
+the Chapter to “short service benefit” are to be construed accordingly;
+
+2.2.c
+
+in section 71(5), a reference to termination of P’s pensionable service is to
+be taken as a reference to termination of P’s pensionable service under this
+scheme;
+
+2.2.d
+
+in section 71(7)(a), the reference to P’s pensionable service under the scheme
+is to be taken as a reference to P’s pensionable service either under the old
+scheme or under the old scheme and this scheme taken together; and
+
+2.2.e
+
+in sections 72(2) (no discrimination between short service and long service
+beneficiaries), 74(6) and (7) (computation of short service benefit), 75(3)
+and (4) (credits) and 76(1) and (3) (pension increases), a reference to
+termination of P’s pensionable service is to be taken as a reference to
+termination of P’s pensionable service under this scheme.
+
+2.3
+
+In the application of that Chapter to this scheme—
+
+2.3.a
+
+in section 70, in the definitions of “relevant employment” and “long service
+benefit” a reference to the scheme is to be taken as a reference to either the
+old scheme or this scheme;
+
+2.3.b
+
+in section 71(1)—
+
+2.3.b.i
+
+the requirement for a scheme to make provision is to be taken as a requirement
+that either the old scheme or this scheme must make that provision;
+
+2.3.b.ii
+
+a reference to a transfer payment to the scheme is to be taken as a reference
+to a transfer payment either to the old scheme or to this scheme;
+
+2.3.b.iii
+
+a reference to benefit which would have been payable to P under the scheme is
+to be taken as a reference to benefit which would have been payable to P
+either under the old scheme or under this scheme, and subsequent references in
+the Chapter to “short service benefit” are to be construed accordingly;
+
+2.3.c
+
+in section 71(7)(a), the reference to P’s pensionable service under the scheme
+is to be taken as a reference to P’s pensionable service either under this
+scheme or under the old scheme and this scheme taken together; and
+
+2.3.d
+
+in section 74(6), in relation to pensionable service which is terminated, the
+reference to the beginning of that service is to be taken as a reference to
+the beginning of pensionable service under the old scheme.
+
+###### Revaluation of preserved benefit
+
+3
+
+3.1
+
+Chapter 2 of Part 4 of the PSA 1993 (protection for early leavers: revaluation
+of accrued benefits) is modified as follows.
+
+3.2
+
+In the application of Chapter 2 for the purpose of revaluing benefit payable
+to or in respect of P under the old scheme—
+
+3.2.a
+
+in section 83(1)(a)(ii)  (scope of Chapter 2), the reference to the date on
+which P’s pensionable service ends is to be taken as a reference to the date
+on which P’s pensionable service ends under this scheme; and
+
+3.2.b
+
+subsequent references in that Chapter to “the termination date” and the “pre-
+pension period” are to be construed accordingly.
+
+##### Amendments
+
+###### Amendments to the Judicial Pensions Regulations 2015
+
+4
+
+4.1
+
+The 2015 Regulations are amended as follows.
+
+4.2
+
+In regulation 9(2) (scheme advisory board: establishment), after “making
+changes to this scheme” insert  “and the scheme established by the Judicial
+Pensions Regulations 2022” .
+
+4.3
+
+For regulation 41(2) (closure of active member’s account) substitute—
+
+4.3.2
+
+The scheme manager must re-establish an active member’s account under this
+Chapter when the scheme manager closes a deferred member’s account under
+regulation 46.
+
+4.4
+
+Omit regulation 49 (closure of full retirement account).
+
+4.5
+
+In regulation 56(1)(b) (entitlement to full retirement pension) for
+“pensionable service under this scheme” substitute  “qualifying judicial
+office” .
+
+4.6
+
+After regulation 56(6) insert—
+
+4.6.7
+
+Where P resumes service in qualifying judicial office, this will not affect
+any entitlement under this regulation.
+
+4.7
+
+Omit regulation 59 (full retirement pension ceases to be payable).
+
+4.8
+
+In regulation 60 (exercise of partial retirement option)—
+
+4.8.a
+
+in paragraph (1)(c), for “annual rate” substitute  “amount” ,
+
+4.8.b
+
+in paragraph (2), after “part only of P’s accrued pensions” insert—
+
+in respect of a particular office
+
+, and
+
+4.8.c
+
+after paragraph (3), insert—
+
+4.8.c.4
+
+Where P holds more than one judicial office—
+
+4.8.c.4.a
+
+P may exercise a partial retirement option separately in relation to each
+office held; and
+
+4.8.c.4.b
+
+P may only access the pension accrued in relation to the particular office or
+offices in respect of which P is exercising the partial retirement option.
+
+4.8.c.5
+
+For the purposes of calculating P’s annual pensionable earnings in relation to
+paragraph (1)(c) where P is a fee-paid office holder, the amount of
+pensionable earnings that P receives in respect of a particular office is
+calculated as follows—
+
+Z per annum, where:
+
+
+
+where—
+
+    J means the total fee-paid income in respect of that office over the
+preceding three years, or, if less than three years, over the period since P
+was first appointed to that office;
+
+K means the lesser of—
+
+4.8.c.a
+
+3; or
+
+4.8.c.b
+
+the period in years (and a fraction of a year, determined by complete months)
+from the first sitting day in that particular office until the date of partial
+retirement,
+
+“complete month” includes an incomplete month that consists of at least 16
+days; and
+
+Z means the annualised total of fees from that particular office.
+
+4.8.c.6
+
+Where P holds multiple assignments within the First-tier Tribunal or the Upper
+Tribunal—
+
+4.8.c.6.a
+
+the reduction in earnings in paragraph (1)(c) refers to service in each
+chamber of the relevant tribunal; and
+
+4.8.c.6.b
+
+in paragraph (5) references to an office are to be taken as references to an
+assignment to a tribunal chamber.
+
+4.9
+
+In regulation 61 (partial retirement option notice)—
+
+4.9.a
+
+in paragraph (2)(a)(i) after “pensions” insert—
+
+to which the office relates
+
+, and
+
+4.9.b
+
+in paragraph (2)(a)(ii) after “pensions” insert—
+
+to which the office relates
+
+, and
+
+4.9.c
+
+at the end of paragraph (2)(b) insert—
+
+, and
+
+4.9.c.d
+
+if P holds more than one office, the office or offices in respect of which P
+is exercising the partial retirement option.
+
+4.10
+
+In regulation 64 (annual rate of partial retirement pension) at the end of
+paragraph (1) insert  “in the office from which P is taking partial
+retirement.” .
+
+4.11
+
+In regulation 65 (annual rate of full retirement pension) at the end of
+paragraph (1) insert  “in the office from which P is taking partial
+retirement.” .
+
+4.12
+
+Omit regulation 144 (appointment of scheme actuary and actuarial valuations) .
+
+4.13
+
+After regulation 167 insert—
+
+    Financial provision
+
+4.13.168
+
+4.13.168.1
+
+Except as otherwise provided in this regulation, any pension or lump sum
+payable under this scheme to or in respect of a person who has held an office
+specified in Part 1 of Schedule 1 to the Judicial Pensions and Retirement Act
+1993 is to be charged on, and paid out of, the Consolidated Fund.
+
+4.13.168.2
+
+Paragraph (1) does not apply in relation to any pension or other benefits
+payable in respect of—
+
+4.13.168.2.a
+
+payments for added pension or effective pension age;
+
+4.13.168.2.b
+
+special payments to buy out the early payment reduction;
+
+4.13.168.2.c
+
+a transferred pension;
+
+4.13.168.2.d
+
+a partnership pension account.
+
+4.13.168.3
+
+This regulation is treated as having come into force on 1st April 2015.
+
+###### Amendments to the Judicial Pensions (Additional Voluntary Contributions) Regulations 2017
+
+5
+
+5.1
+
+The Judicial Pensions (Additional Voluntary Contributions) Regulations 2017
+are amended as follows.
+
+5.2
+
+In regulation 2 (interpretation)—
+
+5.2.a
+
+in the appropriate places, insert—
+
+    “the 2022 Regulations” means the Judicial Pensions Regulations 2022;
+
+;
+
+    “the 2022 Scheme” means the Judicial pension scheme created by the 2022
+Regulations;
+
+; and
+
+5.2.b
+
+in the definition of “active member”, insert at the end  “or the 2022 scheme”
+.
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+Part 2 of these Regulations establishes a scheme for the payment of pensions
+and other benefits to members of the judiciary. The scheme so established is a
+career average revalued earnings scheme.
+
+Part 3 contains governance provisions, including the responsibilities of the
+scheme manager and the delegation of the scheme manager’s functions.
+
+Part 4 provides for scheme membership. It sets out the key concepts of
+qualifying judicial office and pensionable earnings. It contains eligibility
+and enrolment provisions.
+
+Part 5 provides for the establishment of a member’s pension accounts in
+relation to a continuous period of pensionable service under this scheme. It
+also provides for the establishment of a pension credit member’s account.
+
+Chapter 1 explains how adjustments to amounts of accrued pension are
+calculated.
+
+Chapter 2 explains how the amount of accrued pension is calculated.
+
+Chapter 4 provides for the establishment of the active member’s account. This
+Chapter shows how the proportion of pensionable earnings accrued as pension is
+revalued each year until the member leaves pensionable service.
+
+Chapter 5 provides for the establishment of the deferred member’s account and
+explains how the provisional amount of each description of deferred pension is
+calculated.
+
+Chapter 6 provides for the establishment of a full retirement account is
+established and sets out how the amount of full retirement pension must be
+specified.
+
+Chapter 7 provides for the establishment of a partial retirement account is
+established in respect of a particular office held, and sets out how the
+amount of partial retirement pension must be specified.
+
+Chapter 8 provides for the establishment of a pension credit member’s account.
+
+Part 6 provides for a member’s entitlement to payment of retirement benefits
+including partial retirement benefits and ill-health benefits. It also
+provides for the allocation of benefits. It sets out the key concept of
+qualifying service.
+
+Part 7 provides for benefits for pension credit members.
+
+Part 8 provides for death benefits payable to surviving adults and eligible
+children and for the payment of lump sums. It provides for payments to be
+stopped and recovered in certain cases.
+
+Part 9 provides for the payment of contributions by members and employers.
+
+Part 10 provides for making transfer value payments.
+
+Part 11 provides for actuarial valuations and the employer cost cap.
+
+Part 12 contains supplementary provisions on payment of pensions, forfeiture
+and set off, payment and deduction of tax and miscellaneous provisions
+including the determination of questions.
+
+Schedule 1 contains transitional provisions, including the key concepts of
+transition members and continuity of service. It provides for ill-health
+benefits and death benefits for transition members with continuity of service.
+
+Schedule 2 contains the list of specified Sitting in Retirement offices which
+are created under section 123 of the Public Service Pensions and Judicial
+Offices Act  2022 (c. 7)  and are added as Schedule 2 to the Public Sector
+Pensions Act 2013 (Judicial Offices) Order 2015 ( S.I. 2015/580  as amended).
+
+Schedule 3 modifies provisions of the Pension Schemes Act  1993 (c. 48) . It
+also amends the Judicial Pensions Regulations ( S.I. 2015/182  as amended),
+the Judicial Pensions (Additional Voluntary Contributions) Regulations 2017 (
+S.I. 2017/512 ) and the Judicial Pensions (Fee-Paid Judges) Regulations 2017 (
+S.I. 2017/522  as amended).
+
+An impact assessment has not been prepared for this instrument as no impact on
+the costs of business or the voluntary sector is foreseen.
+

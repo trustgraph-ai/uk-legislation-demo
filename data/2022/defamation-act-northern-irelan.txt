@@ -1,0 +1,626 @@
+Title: Defamation Act (Northern Ireland) 2022
+Date: 2022-06-08
+Description: Amend the law of defamation.
+Publisher: Government Printer for Northern Ireland
+Identifier: http://www.legislation.gov.uk/nia/2022/30/enacted
+
+## Defamation Act (Northern Ireland) 2022
+
+      BE IT ENACTED by being passed by the Northern Ireland Assembly and
+assented to by Her Majesty as follows:
+
+### Defences
+
+#### Truth
+
+1
+
+1.1
+
+It is a defence to an action for defamation for the defendant to show that the
+imputation conveyed by the statement complained of is substantially true.
+
+1.2
+
+Subsection (3) applies in an action for defamation if the statement complained
+of conveys two or more distinct imputations.
+
+1.3
+
+If one or more of the imputations is not shown to be substantially true, the
+defence under this section does not fail if, having regard to the imputations
+which are shown to be substantially true, the imputations which are not shown
+to be substantially true do not seriously harm the plaintiff’s reputation.
+
+1.4
+
+The common law defence of justification is abolished and, accordingly, section
+5 of the Defamation Act (Northern Ireland) 1955 (justification) is repealed.
+
+#### Honest opinion
+
+2
+
+2.1
+
+It is a defence to an action for defamation for the defendant to show that the
+following conditions are met.
+
+2.2
+
+The first condition is that the statement complained of was a statement of
+opinion.
+
+2.3
+
+The second condition is that the statement complained of indicated, whether in
+general or specific terms, the basis of the opinion.
+
+2.4
+
+The third condition is that an honest person could have held the opinion on
+the basis of—
+
+2.4.a
+
+any fact which existed at the time the statement complained of was published;
+
+2.4.b
+
+anything asserted to be a fact in a privileged statement published before, or
+at the same time as, the statement complained of.
+
+2.5
+
+The defence is defeated if the plaintiff shows that the defendant did not hold
+the opinion.
+
+2.6
+
+Subsection (5) does not apply in a case where the statement complained of was
+published by the defendant but made by another person (“the author”); and in
+such a case the defence is defeated if the plaintiff shows that the defendant
+knew or ought to have known that the author did not hold the opinion.
+
+2.7
+
+For the purposes of subsection (4)(b) a statement is a “privileged statement”
+if the person responsible for its publication would have one or more of the
+following defences if an action for defamation were brought in respect of it—
+
+2.7.a
+
+a defence under section 3 (publication on matter of public interest);
+
+2.7.b
+
+a defence under section 4 (peer-reviewed statement in scientific or academic
+journal);
+
+2.7.c
+
+a defence under section 14 of the Defamation Act 1996 (reports of court
+proceedings absolutely privileged);
+
+2.7.d
+
+a defence under section 15 of that Act (other reports protected by qualified
+privilege).
+
+2.8
+
+The common law defence of fair comment is abolished and, accordingly, section
+6 of the Defamation Act (Northern Ireland) 1955 (fair comment) is repealed.
+
+#### Publication on matter of public interest
+
+3
+
+3.1
+
+It is a defence to an action for defamation for the defendant to show that—
+
+3.1.a
+
+the statement complained of was, or formed part of, a statement on a matter of
+public interest, and
+
+3.1.b
+
+the defendant reasonably believed that publishing the statement complained of
+was in the public interest.
+
+3.2
+
+Subject to subsections (3) and (4), in determining whether the defendant has
+shown the matters mentioned in subsection (1), the court must have regard to
+all the circumstances of the case.
+
+3.3
+
+If the statement complained of was, or formed part of, an accurate and
+impartial account of a dispute to which the plaintiff was a party, the court
+must in determining whether it was reasonable for the defendant to believe
+that publishing the statement was in the public interest disregard any
+omission of the defendant to take steps to verify the truth of the imputation
+conveyed by it.
+
+3.4
+
+In determining whether it was reasonable for the defendant to believe that
+publishing the statement complained of was in the public interest, the court
+must make such allowance for editorial judgment as it considers appropriate.
+
+3.5
+
+For the avoidance of doubt, the defence under this section may be relied upon
+irrespective of whether the statement complained of is a statement of fact or
+a statement of opinion.
+
+3.6
+
+The common law defence known as the Reynolds defence is abolished.
+
+#### Peer-reviewed statement in scientific or academic journal etc
+
+4
+
+4.1
+
+The publication of a statement in a scientific or academic journal (whether
+published in electronic form or otherwise) is privileged if the following
+conditions are met.
+
+4.2
+
+The first condition is that the statement relates to a scientific or academic
+matter.
+
+4.3
+
+The second condition is that before the statement was published in the journal
+an independent review of the statement’s scientific or academic merit was
+carried out by—
+
+4.3.a
+
+the editor of the journal, and
+
+4.3.b
+
+one or more persons with expertise in the scientific or academic matter
+concerned.
+
+4.4
+
+Where the publication of a statement in a scientific or academic journal is
+privileged by virtue of subsection (1), the publication in the same journal of
+any assessment of the statement’s scientific or academic merit is also
+privileged if—
+
+4.4.a
+
+the assessment was written by one or more of the persons who carried out the
+independent review of the statement, and
+
+4.4.b
+
+the assessment was written in the course of that review.
+
+4.5
+
+Where the publication of a statement or assessment is privileged by virtue of
+this section, the publication of a fair and accurate copy of, extract from or
+summary of the statement or assessment is also privileged.
+
+4.6
+
+A publication is not privileged by virtue of this section if it is shown to be
+made with malice.
+
+4.7
+
+Nothing in this section is to be construed—
+
+4.7.a
+
+as protecting the publication of matter the publication of which is prohibited
+by law;
+
+4.7.b
+
+as limiting any privilege subsisting apart from this section.
+
+4.8
+
+The reference in subsection (3)(a) to “the editor of the journal” is to be
+read, in the case of a journal with more than one editor, as a reference to
+the editor or editors who were responsible for deciding to publish the
+statement concerned.
+
+#### Reports etc protected by privilege
+
+5
+
+5.1
+
+For subsection (3) of section 14 of the Defamation Act 1996 (reports of court
+proceedings absolutely privileged) substitute—
+
+5.1.3
+
+This section applies to—
+
+5.1.3.a
+
+any court in the United Kingdom;
+
+5.1.3.b
+
+any court established under the law of a country or territory outside the
+United Kingdom;
+
+5.1.3.c
+
+any international court or tribunal established by the Security Council of the
+United Nations or by an international agreement;
+
+and in paragraphs (a) and (b) “ court ” includes any tribunal or body
+exercising the judicial power of the State.
+
+.
+
+5.2
+
+In subsection (3) of section 15 of that Act (qualified privilege) for “public
+concern” substitute  “public interest” .
+
+5.3
+
+Schedule 1 to that Act (qualified privilege) is amended as follows.
+
+5.4
+
+For paragraphs 9 and 10 substitute—
+
+5.4.9
+
+5.4.9.1
+
+A fair and accurate copy of, extract from or summary of a notice or other
+matter issued for the information of the public by or on behalf of—
+
+5.4.9.1.a
+
+a legislature or government anywhere in the world;
+
+5.4.9.1.b
+
+an authority anywhere in the world performing governmental functions;
+
+5.4.9.1.c
+
+an international organisation or international conference.
+
+5.4.9.2
+
+In this paragraph “ governmental functions ” includes police functions.
+
+5.4.10
+
+A fair and accurate copy of, extract from or summary of a document made
+available by a court anywhere in the world, or by a judge or officer of such a
+court
+
+.
+
+5.5
+
+After paragraph 11 insert—
+
+5.5.11A
+
+A fair and accurate report of proceedings at a press conference held anywhere
+in the world for the discussion of a matter of public interest.
+
+.
+
+5.6
+
+In paragraph 12 (report of proceedings at public meetings)—
+
+5.6.a
+
+in sub-paragraph (1), for “in a member State” substitute  “anywhere in the
+world” ;
+
+5.6.b
+
+in sub-paragraph (2), for “public concern” substitute  “public interest” .
+
+5.7
+
+In paragraph 13 (report of proceedings at meetings of public company)—
+
+5.7.a
+
+in sub-paragraph (1), for “UK public company” substitute  “listed company” ;
+
+5.7.b
+
+for sub-paragraphs (2) to (5) substitute—
+
+5.7.b.2
+
+A fair and accurate copy of, extract from or summary of any document
+circulated to members of a listed company—
+
+5.7.b.2.a
+
+by or with the authority of the board of directors of the company,
+
+5.7.b.2.b
+
+by the auditors of the company, or
+
+5.7.b.2.c
+
+by any member of the company in pursuance of a right conferred by any
+statutory provision.
+
+5.7.b.3
+
+A fair and accurate copy of, extract from or summary of any document
+circulated to members of a listed company which relates to the appointment,
+resignation, retirement or dismissal of directors of the company or its
+auditors.
+
+5.7.b.4
+
+In this paragraph “ listed company ” has the same meaning as in Part 12 of the
+Corporation Tax Act 2009 (see section 1005 of that Act).
+
+.
+
+5.8
+
+In paragraph 14 (report of finding or decision of certain kinds of
+associations), in the words before paragraph (a), for “in the United Kingdom
+or another member State” substitute  “anywhere in the world” .
+
+5.9
+
+After paragraph 14 insert—
+
+5.9.14A
+
+A fair and accurate—
+
+5.9.14A.a
+
+report of proceedings of a scientific or academic conference held anywhere in
+the world, or
+
+5.9.14A.b
+
+copy of, extract from or summary of matter published by such a conference.
+
+.
+
+5.10
+
+For paragraphs 16 and 17 (general provision) substitute—
+
+5.10.16
+
+In this Schedule—
+
+      “ court ” includes—         any tribunal or body established under the
+law of any country or territory exercising the judicial power of the State;
+any international tribunal established by the Security Council of the United
+Nations or by an international agreement;           any international tribunal
+deciding matters in dispute between States;                 “ international
+conference ” means a conference attended by representatives of two or more
+governments;           “ international organisation ” means an organisation of
+which two or more governments are members, and includes any committee or other
+subordinate body of such an organisation;           “ legislature ” includes a
+local legislature; and           “ member State ” includes any European
+dependent territory of a member State.
+
+.
+
+### Jurisdiction
+
+#### Action against a person not domiciled in the UK
+
+6
+
+6.1
+
+This section applies to an action for defamation against a person who is not
+domiciled in the United Kingdom.
+
+6.2
+
+A court does not have jurisdiction to hear and determine an action to which
+this section applies unless the court is satisfied that, of all the places in
+which the statement complained of has been published, Northern Ireland is
+clearly the most appropriate place in which to bring an action in respect of
+the statement.
+
+6.3
+
+The references in subsection (2) to the statement complained of include
+references to any statement which conveys the same, or substantially the same,
+imputation as the statement complained of.
+
+6.4
+
+Sections 41 and 42 of the Civil Jurisdiction and Judgments Act 1982 apply for
+the purpose of determining whether an individual, corporation or association
+is regarded as “ domiciled in the United Kingdom ” for the purposes of this
+section.
+
+### Trial by jury
+
+#### Trial to be without a jury unless the court orders otherwise
+
+7
+
+In section 62(1) of the Judicature (Northern Ireland) Act 1978 (trial with and
+without jury), omit paragraphs (a) and (b).
+
+### Summary of court judgment
+
+#### Power of court to order a summary of its judgment to be published
+
+8
+
+8.1
+
+Where a court gives judgment for the plaintiff in an action for defamation the
+court may order the defendant to publish a summary of the judgment.
+
+8.2
+
+The wording of any summary and the time, manner, form and place of its
+publication are to be for the parties to agree.
+
+8.3
+
+If the parties cannot agree on the wording, the wording is to be settled by
+the court.
+
+8.4
+
+If the parties cannot agree on the time, manner, form or place of publication,
+the court may give such directions as to those matters as it considers
+reasonable and practicable in the circumstances.
+
+8.5
+
+This section does not apply where the court gives judgment for the plaintiff
+under section 8(3) of the Defamation Act 1996 (summary disposal of claim).
+
+### Powers of the court
+
+#### Powers of the court
+
+9
+
+This Act does not affect any power of a court that exists apart from this Act.
+
+### Slander
+
+#### Special damage
+
+10
+
+10.1
+
+The Slander of Women Act 1891 is repealed.
+
+10.2
+
+The publication of a statement that conveys the imputation that a person has a
+contagious or infectious disease does not give rise to a cause of action for
+slander unless the publication causes the person special damage.
+
+### Review of defamation law
+
+#### Review of defamation law
+
+11
+
+11.1
+
+The Department must keep under review all relevant developments pertaining to
+the law of defamation as it considers appropriate.
+
+11.2
+
+The Department must prepare a report and recommendations on—
+
+11.2.a
+
+the findings of the review under subsection (1), and
+
+11.2.b
+
+the operation of this Act.
+
+11.3
+
+The Department must lay the report and recommendations before the Assembly,
+and publish the report and recommendations, before the end of the period of 2
+years beginning with the day on which this Act receives Royal Assent.
+
+### General provisions
+
+#### Interpretation
+
+12
+
+In this Act—
+
+      “ the Department ” means the Department of Finance;           “publish”
+and “ publication ”, in relation to a statement, have the meaning they have
+for the purposes of the law of defamation generally;           “ statement ”
+means words, pictures, visual images, gestures or any other method of
+signifying meaning.
+
+#### Consequential amendments and savings etc
+
+13
+
+13.1
+
+Article 9 of the Rehabilitation of Offenders (Northern Ireland) Order 1978 is
+amended in accordance with subsections (2) and (3).
+
+13.2
+
+In paragraph (3) for “of justification or fair comment or” substitute  “under
+section 1 or 2 of the Defamation Act (Northern Ireland) 2022 which is
+available to him or any defence” .
+
+13.3
+
+In paragraph (5) for “the defence of justification” substitute  “a defence
+under section 1 of the Defamation Act (Northern Ireland) 2022” .
+
+13.4
+
+Nothing in section 10 affects any cause of action accrued before the
+commencement of the section in question.
+
+13.5
+
+Nothing in sections 1 to 5 has effect in relation to an action for defamation
+if the cause of action accrued before the commencement of the section in
+question.
+
+13.6
+
+Nothing in section 6 or 7 has effect in relation to an action for defamation
+begun before the commencement of the section in question.
+
+13.7
+
+In determining for the purposes of subsection (7)(a) of section 2 whether a
+person would have a defence under section 3 to any action for defamation, the
+operation of subsection (5) of this section is to be ignored.
+
+#### Commencement
+
+14
+
+This Act comes into operation on the day after the day on which it receives
+Royal Assent.
+
+#### Short title
+
+15
+
+This Act may be cited as the Defamation Act (Northern Ireland) 2022.
+

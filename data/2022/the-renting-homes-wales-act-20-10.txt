@@ -1,0 +1,395 @@
+Title: The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022
+Date: 2024-05-15
+Description: These Regulations amend Schedule 9A (standard contracts: restrictions on giving notice under section 173, under section 186, and under a landlord’s break clause) to the Renting Homes (Wales) Act 2016 (anaw 1) (“the Act”).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/wsi/2022/143
+
+## The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022
+
+    Housing, Wales
+
+  Made   16 February 2022
+
+  Coming into force in accordance with regulation 1
+
+      The Welsh Ministers make the following Regulations in exercise of the
+powers conferred on them by paragraph 8 of Schedule 9A to, and section 256(1)
+of, the Renting Homes (Wales) Act 2016 .         In accordance with section
+256(3) and (4)(ma)  of that Act, a draft of these Regulations has been laid
+before, and approved by a resolution of, Senedd Cymru .
+
+### Title and commencement
+
+1
+
+The title of these Regulations is the Renting Homes (Wales) Act 2016
+(Amendment of Schedule 9A) Regulations 2022 and they come into force on   1
+December 2022 (the day on which section 239 of the Act comes into force)   .
+
+### Interpretation
+
+2
+
+In these Regulations, “ the Act ” means the Renting Homes (Wales) Act 2016.
+
+### Prohibition on giving notice seeking possession if energy performance certificate has not been provided
+
+3
+
+In Schedule 9A to the Act (standard occupation contracts: restrictions on
+giving certain notices seeking possession), after paragraph 3 insert—
+
+####### Failure to provide valid energy performance certificate
+
+3.3A
+
+3.3A.1
+
+This paragraph is incorporated as a term of all standard contracts which—
+
+3.3A.1.a
+
+are mentioned in paragraph 7(1), and
+
+3.3A.1.b
+
+relate to a dwelling in relation to which regulation 6(5) of the EPB
+Regulations (requirement to give tenant a valid energy performance
+certificate) applies.
+
+3.3A.2
+
+A landlord may not give notice at a time when the landlord has not complied
+with regulation 6(5) of the EPB Regulations.
+
+3.3A.3
+
+For the purposes of this paragraph, it does not matter when the valid energy
+performance certificate was given (and nothing in this paragraph requires that
+a new energy performance certificate be given to a contract-holder when a
+certificate given to that contract-holder in compliance with that regulation
+ceases to be valid under the EPB Regulations).
+
+3.3A.4
+
+In this paragraph—
+
+    “ the EPB Regulations ” (“ y Rheoliadau PYA ”) means the Energy
+Performance of Buildings (England and Wales) Regulations 2012 ( S.I. 2012/3118
+);         “ valid energy performance certificate ” (“ tystysgrif perfformiad
+ynni ddilys ”) is to be interpreted in accordance with the EPB Regulations.
+
+### Prohibitions on giving notice seeking possession relating to health and safety
+
+4
+
+In Schedule 9A to the Act, after paragraph 5 insert—
+
+####### Failure to ensure that working smoke alarms and carbon monoxide alarms are installed
+
+4.5A
+
+4.5A.1
+
+This paragraph is incorporated as a term of all standard contracts—
+
+4.5A.1.a
+
+which are mentioned in paragraph 7(1), and
+
+4.5A.1.b
+
+in relation to which regulation 5 of the Renting Homes (Fitness for Human
+Habitation) (Wales) Regulations 2022 ( S.I. 2022/6 (W. 4) ) (“ the Fitness for
+Human Habitation Regulations ”) applies.
+
+4.5A.2
+
+A landlord may not give notice at a time when—
+
+4.5A.2.a
+
+the dwelling is treated as unfit for human habitation by virtue of regulation
+5(3) of the Fitness for Human Habitation Regulations (failure to ensure that
+working smoke alarms and, in certain circumstances, carbon monoxide alarms are
+installed in a dwelling), and
+
+4.5A.2.b
+
+as a result, the landlord is required under Part 4 of this Act to take steps
+to stop the dwelling from being treated as unfit for human habitation by
+virtue of that regulation.
+
+####### Failure to supply electrical condition report etc.
+
+4.5B
+
+4.5B.1
+
+This paragraph is incorporated as a term of all standard contracts—
+
+4.5B.1.a
+
+which are mentioned in paragraph 7(1), and
+
+4.5B.1.b
+
+in relation to which regulation 6 of the Renting Homes (Fitness for Human
+Habitation) (Wales) Regulations 2022 ( S.I. 2022/6 (W. 4) ) (“ the Fitness for
+Human Habitation Regulations ”) applies.
+
+4.5B.2
+
+A landlord may not give notice at a time when—
+
+4.5B.2.a
+
+the dwelling is treated as unfit for human habitation by virtue of regulation
+6(6) of the Fitness for Human Habitation Regulations (failure to obtain an
+electrical condition report, or to give the contract holder such a report or
+written confirmation of certain other electrical work), and
+
+4.5B.2.b
+
+as a result, the landlord is required under Part 4 of this Act to take steps
+to stop the dwelling from being treated as unfit for human habitation by
+virtue of that regulation.
+
+####### Failure to provide gas safety report to contract-holder
+
+4.5C
+
+4.5C.1
+
+This paragraph is incorporated as a term of all standard contracts—
+
+4.5C.1.a
+
+which are mentioned in paragraph 7(1), and
+
+4.5C.1.b
+
+in relation to which regulation 36 of the Gas Safety Regulations applies.
+
+4.5C.2
+
+A landlord may not give notice at a time when the landlord has not complied
+with regulation 36(6) or (as the case may be) (7) of the Gas Safety
+Regulations (requirement to provide or display report on safety etc. of gas
+installations).
+
+4.5C.3
+
+For the purposes of sub-paragraph (2), a landlord who has not complied with
+regulation 36(6) or (7) of the Gas Safety Regulations is to be treated as in
+compliance with the provision in question at any time when—
+
+4.5C.3.a
+
+the landlord has ensured that the contract-holder has been given, or (as the
+case may be) there is displayed in a prominent position in the dwelling, a
+copy of a gas safety record, and
+
+4.5C.3.b
+
+that record is valid.
+
+4.5C.4
+
+For the purposes of sub-paragraph (3), a gas safety record is valid until the
+end of the period within which the appliance or flue to which the record
+relates is required, under the Gas Safety Regulations, to again be subjected
+to a check for safety.
+
+4.5C.5
+
+In this paragraph—
+
+    “ check for safety ” (“ gwiriad diogelwch ”) means a check for safety
+carried out in accordance with regulation 36(3) of the Gas Safety Regulations;
+“ gas safety record ” (“ cofnod diogelwch nwy ”) means a record made pursuant
+to the requirements of regulation 36(3)(c) of the Gas Safety Regulations;
+“ Gas Safety Regulations ” (“ Rheoliadau Diogelwch Nwy ”) means the Gas Safety
+(Installation and Use) Regulations 1998 ( S.I. 1998/2451 ).
+
+### Related amendments of Schedule 9A to the Act
+
+5
+
+5.1
+
+Schedule 9A to the Act is amended as follows.
+
+5.2
+
+In paragraph 1—
+
+5.2.a
+
+the existing text becomes sub-paragraph (2);
+
+5.2.b
+
+before that sub-paragraph insert—
+
+5.2.b.1
+
+This paragraph is incorporated as a term of all standard contracts which—
+
+5.2.b.1.a
+
+are mentioned in paragraph 7(1), and
+
+5.2.b.1.b
+
+incorporate section 31.
+
+5.3
+
+In paragraph 2—
+
+5.3.a
+
+the existing text becomes sub-paragraph (2);
+
+5.3.b
+
+before that sub-paragraph insert—
+
+5.3.b.1
+
+This paragraph is incorporated as a term of all standard contracts which—
+
+5.3.b.1.a
+
+are mentioned in paragraph 7(1), and
+
+5.3.b.1.b
+
+incorporate section 31.
+
+5.4
+
+In paragraph 3—
+
+5.4.a
+
+the existing text becomes sub-paragraph (2);
+
+5.4.b
+
+before that sub-paragraph insert—
+
+5.4.b.1
+
+This paragraph is incorporated as a term of all standard contracts which—
+
+5.4.b.1.a
+
+are mentioned in paragraph 7(1), and
+
+5.4.b.1.b
+
+incorporate section 39.
+
+5.5
+
+In paragraph 4, after sub-paragraph (5) insert—
+
+5.5.6
+
+Sub-paragraph (1) is only incorporated as a term of a contract mentioned in
+paragraph 7(1) which incorporates section 43.
+
+5.6
+
+In paragraph 7(1), after “fundamental provision which is” insert  “, subject
+to any provision to the contrary in Part 1,” .
+
+      Julie James   Minister for Climate Change, one of the Welsh Ministers
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations amend Schedule 9A (standard contracts: restrictions on
+giving notice under section 173, under section 186, and under a landlord’s
+break clause) to the Renting Homes (Wales) Act 2016 (anaw 1) (“ the Act ”).
+
+Schedule 9A to the Act contains certain restrictions on giving notice under
+section 173 (landlord’s notice under a periodic standard contract), under
+section 186 (landlord’s notice in connection with end of fixed term contract
+within Schedule 9B) and under a landlord’s break clause in a fixed term
+standard contract (“relevant notices”). These restrictions relate to breaches
+of certain statutory obligations.
+
+Part 1 of Schedule 9A to the Act is a fundamental provision which must be
+incorporated, without modification, as a term of all—   a     periodic
+standard contracts which incorporate section 173 of the Act as a term of the
+contract,       b     fixed term standard contracts which incorporate section
+186 of the Act as a term of the contract, and       c     fixed term standard
+contracts which have a landlord’s break clause (“relevant contracts”), subject
+to any provisions to the contrary set out in Part 1 of Schedule 9A to the Act.
+
+Regulations 3 and 4 of these Regulations insert new paragraphs 3A, 5A, 5B and
+5C into Schedule 9A to the Act, which introduce new restrictions on the giving
+of relevant notices.
+
+The new paragraph 3A of Schedule 9A to the Act is incorporated as a term of
+all relevant contracts where regulation 6(5) (requirement to give tenant a
+valid energy performance certificate) of the Energy Performance of Buildings
+(England and Wales) Regulations 2012 ( S.I. 2012/3118 ) (“ EPB Regulations ”)
+applies. Where a landlord has not complied with regulation 6(5) of the EPB
+Regulations, a landlord may not give a relevant notice. Sub-paragraph (3)
+clarifies that for the purposes of paragraph 3A it does not matter when the
+valid energy performance certificate was given by the landlord.
+
+The new paragraph 5A of Schedule 9A to the Act is incorporated as a term of
+all relevant contracts in relation to which regulation 5 (smoke alarms and
+carbon monoxide alarms) of the Renting Homes (Fitness for Human Habitation)
+(Wales) Regulations 2022 ( S.I. 2022/6 (W.4) ) (“ the Fitness for Human
+Habitation Regulations ”) applies. Where a dwelling is treated as unfit for
+human habitation by virtue of regulation 5(3) of the Fitness for Human
+Habitation Regulations, and where the landlord is required under Part 4 of the
+Act to take steps to stop the dwelling from being treated as unfit for human
+habitation by virtue of that regulation, a landlord may not give a relevant
+notice.
+
+The new paragraph 5B of Schedule 9A to the Act is incorporated as a term of
+all relevant contracts in relation to which regulation 6 (electrical safety)
+of the Fitness for Human Habitation Regulations applies. Where a dwelling is
+treated as unfit for human habitation by virtue of regulation 6(6) of the
+Fitness for Human Habitation Regulations, and where the landlord is required
+under Part 4 of the Act to take steps to stop the dwelling from being treated
+as unfit for human habitation by virtue of that regulation, a landlord may not
+give a relevant notice.
+
+The new paragraph 5C of Schedule 9A to the Act is incorporated as a term of
+all relevant contracts in relation to which regulation 36 (duties of
+landlords) of the Gas Safety (Installation and Use) Regulations 1998 ( S.I.
+1998/2451 ) (“ Gas Safety Regulations ”) applies. Where a landlord has not
+complied with regulation 36(6) or (7) of the Gas Safety Regulations, a
+landlord may not give a relevant notice. Sub-paragraphs (3) and (4) set out
+the circumstances where a landlord, who has not complied with regulation 36(6)
+or (7) of the Gas Safety Regulations, is to be treated as in compliance with
+the relevant provision.
+
+Regulation 5 of these Regulations makes further related amendments to Schedule
+9A to the Act.
+
+The purpose of the amendments in regulation 5(2), (3), (4) and (5) are to
+clarify the types of occupation contracts which the restrictions in paragraphs
+1 to 4 of Schedule 9A to the Act are a fundamental provision of.
+
+The amendment in regulation 5(6) clarifies that the provisions of paragraph 7
+of Schedule 9A to the Act (which sets out, in general terms, which occupation
+contracts Part 1 of Schedule 9A is a fundamental provision of), are subject to
+any provision to the contrary in Part 1 of Schedule 9A to the Act.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
+Assessments was considered in relation to these Regulations. As a result, a
+regulatory impact assessment has been prepared as to the likely costs and
+benefits of complying with these Regulations. A copy can be obtained from the
+Department of Housing, Welsh Government, Rhydycar Business Park, Merthyr
+Tydfil, CF48 1UZ.
+

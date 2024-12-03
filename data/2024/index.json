@@ -1,0 +1,1626 @@
+[
+    {
+        "title": "Budget Responsibility Act 2024",
+        "date": "2024-10-16",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/24",
+        "filename": "budget-responsibility-act-2024.txt"
+    },
+    {
+        "title": "Supply and Appropriation (Main Estimates) Act 2024",
+        "date": "2024-09-03",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/23",
+        "filename": "supply-and-appropriation-main-.txt"
+    },
+    {
+        "title": "Leasehold and Freehold Reform Act 2024",
+        "date": "2024-11-04",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/22",
+        "filename": "leasehold-and-freehold-reform-.txt"
+    },
+    {
+        "title": "Victims and Prisoners Act 2024",
+        "date": "2024-11-06",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/21",
+        "filename": "victims-and-prisoners-act-2024.txt"
+    },
+    {
+        "title": "Zoological Society of London (Leases) Act 2024",
+        "date": "2024-07-26",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/20",
+        "filename": "zoological-society-of-london-l.txt"
+    },
+    {
+        "title": "British Nationality (Irish Citizens) Act 2024",
+        "date": "2024-06-05",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/19",
+        "filename": "british-nationality-irish-citi.txt"
+    },
+    {
+        "title": "Building Societies Act 1986 (Amendment) Act 2024",
+        "date": "2024-08-21",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/18",
+        "filename": "building-societies-act-1986-am.txt"
+    },
+    {
+        "title": "Paternity Leave (Bereavement) Act 2024",
+        "date": "2024-06-04",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/17",
+        "filename": "paternity-leave-bereavement-ac.txt"
+    },
+    {
+        "title": "Pet Abduction Act 2024",
+        "date": "2024-08-27",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/16",
+        "filename": "pet-abduction-act-2024.txt"
+    },
+    {
+        "title": "Climate Change (Emissions Reduction Targets) (Scotland) Act 2024",
+        "date": "2024-11-22",
+        "publisher": "King's Printer for Scotland",
+        "identifier": "http://www.legislation.gov.uk/asp/2024/15/enacted",
+        "filename": "climate-change-emissions-reduc.txt"
+    },
+    {
+        "title": "Media Act 2024",
+        "date": "2024-10-23",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/15",
+        "filename": "media-act-2024.txt"
+    },
+    {
+        "title": "Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024",
+        "date": "2024-11-12",
+        "publisher": "King's Printer for Scotland",
+        "identifier": "http://www.legislation.gov.uk/asp/2024/14/enacted",
+        "filename": "aggregates-tax-and-devolved-ta.txt"
+    },
+    {
+        "title": "Post Office (Horizon System) Offences Act 2024",
+        "date": "2024-07-30",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/14",
+        "filename": "post-office-horizon-system-off.txt"
+    },
+    {
+        "title": "Circular Economy (Scotland) Act 2024",
+        "date": "2024-09-03",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/asp/2024/13",
+        "filename": "circular-economy-scotland-act-.txt"
+    },
+    {
+        "title": "Digital Markets, Competition and Consumers Act 2024",
+        "date": "2024-07-26",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/13",
+        "filename": "digital-markets-competition-an.txt"
+    },
+    {
+        "title": "Gender Representation on Public Boards (Amendment) (Scotland) Act 2024",
+        "date": "2024-09-03",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/asp/2024/12",
+        "filename": "gender-representation-on-publi.txt"
+    },
+    {
+        "title": "Finance (No. 2) Act 2024",
+        "date": "2024-11-14",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/12",
+        "filename": "finance-no-2-act-2024.txt"
+    },
+    {
+        "title": "Agriculture and Rural Communities (Scotland) Act 2024",
+        "date": "2024-09-02",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/asp/2024/11",
+        "filename": "agriculture-and-rural-communit.txt"
+    },
+    {
+        "title": "Animal Welfare (Livestock Exports) Act 2024",
+        "date": "2024-08-04",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/11",
+        "filename": "animal-welfare-livestock-expor.txt"
+    },
+    {
+        "title": "Abortion Services (Safe Access Zones) (Scotland) Act 2024",
+        "date": "2024-09-16",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/asp/2024/10",
+        "filename": "abortion-services-safe-access-.txt"
+    },
+    {
+        "title": "Automated Vehicles Act 2024",
+        "date": "2024-07-30",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/10",
+        "filename": "automated-vehicles-act-2024.txt"
+    },
+    {
+        "title": "Bankruptcy and Diligence (Scotland) Act 2024",
+        "date": "2024-09-03",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/asp/2024/9",
+        "filename": "bankruptcy-and-diligence-scotl.txt"
+    },
+    {
+        "title": "Investigatory Powers (Amendment) Act 2024",
+        "date": "2024-10-16",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/9",
+        "filename": "investigatory-powers-amendment.txt"
+    },
+    {
+        "title": "Visitor Levy (Scotland) Act 2024",
+        "date": "2024-09-27",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/asp/2024/8",
+        "filename": "visitor-levy-scotland-act-2024.txt"
+    },
+    {
+        "title": "Safety of Rwanda (Asylum and Immigration) Act 2024",
+        "date": "2024-06-26",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/8",
+        "filename": "safety-of-rwanda-asylum-and-im.txt"
+    },
+    {
+        "title": "Housing (Cladding Remediation) (Scotland) Act 2024",
+        "date": "2024-09-25",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/asp/2024/7",
+        "filename": "housing-cladding-remediation-s.txt"
+    },
+    {
+        "title": "Pedicabs (London) Act 2024",
+        "date": "2024-07-17",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/7",
+        "filename": "pedicabs-london-act-2024.txt"
+    },
+    {
+        "title": "Local Government Finance (Wales) Act 2024",
+        "date": "2024-10-20",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/asc/2024/6",
+        "filename": "local-government-finance-act-2.txt"
+    },
+    {
+        "title": "Post Office (Horizon System) Offences (Scotland) Act 2024",
+        "date": "2024-06-21",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/asp/2024/6",
+        "filename": "post-office-horizon-system-off-2.txt"
+    },
+    {
+        "title": "Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Act 2024",
+        "date": "2024-05-29",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/6",
+        "filename": "trade-comprehensive-and-progre.txt"
+    },
+    {
+        "title": "Elections and Elected Bodies (Wales) Act 2024",
+        "date": "2024-11-11",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/asc/2024/5",
+        "filename": "elections-and-elected-bodies-w.txt"
+    },
+    {
+        "title": "Children (Care and Justice) (Scotland) Act 2024",
+        "date": "2024-08-29",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/asp/2024/5",
+        "filename": "children-care-and-justice-scot.txt"
+    },
+    {
+        "title": "National Insurance Contributions (Reduction in Rates) Act 2024",
+        "date": "2024-06-13",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/5",
+        "filename": "national-insurance-contributio.txt"
+    },
+    {
+        "title": "Budget (No. 2) Act (Northern Ireland) 2024",
+        "date": "2024-10-21",
+        "description": "Authorise the use for the public service of certain resources for the year ending 31 March 2025 (including income); to authorise the issue out of the Consolidated Fund of certain sums for the service of that year; to authorise the use of those sums for specified purposes; to authorise the Department of Finance to borrow on the credit of those sums; to authorise the use for the public service of excess resources for the years ending 31 March 2021, 2022 and 2023; to authorise the issue out of the Consolidated Fund of certain excess sums for the service of the years ending 31 March 2017 and 2019; and to authorise the use of those sums for specified purposes.",
+        "publisher": "Government Printer for Northern Ireland",
+        "identifier": "http://www.legislation.gov.uk/nia/2024/4/enacted",
+        "filename": "budget-no-2-act-northern-irela.txt"
+    },
+    {
+        "title": "Senedd Cymru (Members and Elections) Act 2024",
+        "date": "2024-09-23",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/asc/2024/4",
+        "filename": "senedd-cymru-members-and-elect.txt"
+    },
+    {
+        "title": "Wildlife Management and Muirburn (Scotland) Act 2024",
+        "date": "2024-11-13",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/asp/2024/4",
+        "filename": "wildlife-management-and-muirbu.txt"
+    },
+    {
+        "title": "Supply and Appropriation (Anticipation and Adjustments) Act 2024",
+        "date": "2024-05-08",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/4",
+        "filename": "supply-and-appropriation-antic.txt"
+    },
+    {
+        "title": "Defective Premises Act (Northern Ireland) 2024",
+        "date": "2024-09-26",
+        "description": "Amend the law as to liability for defects in the state of dwellings; and for connected purposes.",
+        "publisher": "Government Printer for Northern Ireland",
+        "identifier": "http://www.legislation.gov.uk/nia/2024/3/enacted",
+        "filename": "defective-premises-act-norther.txt"
+    },
+    {
+        "title": "Infrastructure (Wales) Act 2024",
+        "date": "2024-09-20",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/asc/2024/3",
+        "filename": "infrastructure-wales-act-2024.txt"
+    },
+    {
+        "title": "Budget (Scotland) Act 2024",
+        "date": "2024-04-15",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/asp/2024/3",
+        "filename": "budget-scotland-act-2024.txt"
+    },
+    {
+        "title": "Finance Act 2024",
+        "date": "2024-10-18",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/3",
+        "filename": "finance-act-2024.txt"
+    },
+    {
+        "title": "Hospital Parking Charges Act (Northern Ireland) 2024",
+        "date": "2024-05-17",
+        "description": "Modify the operation of the Hospital Parking Charges Act (Northern Ireland) 2022 so as to postpone the ban on charging money for parking vehicles in hospital car parks.",
+        "publisher": "Government Printer for Northern Ireland",
+        "identifier": "http://www.legislation.gov.uk/nia/2024/2/enacted",
+        "filename": "hospital-parking-charges-act-n.txt"
+    },
+    {
+        "title": "Environment (Air Quality and Soundscapes) (Wales) Act 2024",
+        "date": "2024-05-24",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/asc/2024/2",
+        "filename": "environment-air-quality-and-so.txt"
+    },
+    {
+        "title": "Trusts and Succession (Scotland) Act 2024",
+        "date": "2024-07-08",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/asp/2024/2",
+        "filename": "trusts-and-succession-scotland.txt"
+    },
+    {
+        "title": "Church of England Pensions (Application of Capital Funds) Measure 2024",
+        "date": "2024-03-21",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukcm/2024/2",
+        "filename": "church-of-england-pensions-app.txt"
+    },
+    {
+        "title": "Northern Ireland (Executive Formation) Act 2024",
+        "date": "2024-04-15",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/2",
+        "filename": "northern-ireland-executive-for.txt"
+    },
+    {
+        "title": "Bishop's Stortford Cemetery Act 2024",
+        "date": "2024-03-22",
+        "publisher": "King's Printer of Acts of Parliament",
+        "identifier": "http://www.legislation.gov.uk/ukla/2024/1/enacted",
+        "filename": "bishops-stortford-cemetery-act.txt"
+    },
+    {
+        "title": "Budget Act (Northern Ireland) 2024",
+        "date": "2024-07-03",
+        "description": "Authorise the use for the public service of certain resources for the years ending 31 March 2024 and 2025 (including, for the year ending 31 March 2024, income); to authorise the issue out of the Consolidated Fund of certain sums for the service of those years; to authorise the use of those sums for specified purposes; and to authorise the Department of Finance to borrow on the credit of those sums.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nia/2024/1",
+        "filename": "budget-act-northern-ireland-20.txt"
+    },
+    {
+        "title": "Health Service Procurement (Wales) Act 2024",
+        "date": "2024-04-08",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/asc/2024/1",
+        "filename": "health-service-procurement-wal.txt"
+    },
+    {
+        "title": "Church of England (Miscellaneous Provisions) Measure 2024",
+        "date": "2024-07-25",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukcm/2024/1",
+        "filename": "church-of-england-miscellaneou.txt"
+    },
+    {
+        "title": "Post Office (Horizon System) Compensation Act 2024",
+        "date": "2024-11-14",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ukpga/2024/1",
+        "filename": "post-office-horizon-system-com.txt"
+    },
+    {
+        "title": "United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024",
+        "date": "2024-07-11",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/asp/2024/1",
+        "filename": "united-nations-convention-on-t.txt"
+    },
+    {
+        "title": "The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024",
+        "date": "2024-11-04",
+        "description": "These Regulations make amendments to secondary legislation in consequence to amendments made by the Local Government Finance (Wales) Act 2024 (\u201cthe 2024 Act\u201d) to the Local Government Finance Act 1988 (\u201cthe 1988 Act\u201d) and the Local Government Finance Act 1992 (\u201cthe 1992 Act\u201d). They also make other amendments which are not consequential to the 2024 Act and revoke statutory instruments or omit provisions which no longer have effect.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/wsi/2024/998",
+        "filename": "the-local-government-finance-c.txt"
+    },
+    {
+        "title": "The Applications for Scheduled Monument Consent (Wales) Regulations 2024",
+        "date": "2024-10-15",
+        "description": "These Regulations are made under powers given to the Welsh Ministers by the Historic Environment (Wales) Act 2023 (the \u201c2023 Act\u201d). The 2023 Act forms part of a code of law relating to the historic environment of Wales. These Regulations also form part of that Code.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/wsi/2024/932",
+        "filename": "the-applications-for-scheduled.txt"
+    },
+    {
+        "title": "The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024",
+        "date": "2024-11-22",
+        "description": "These Regulations are made under powers given to the Welsh Ministers by the Historic Environment (Wales) Act 2023 (\u201cthe 2023 Act\u201d). The 2023 Act forms part of a code of law relating to the historic environment of Wales. These Regulations also form part of that Code.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/wsi/2024/930",
+        "filename": "the-listed-buildings-and-conse.txt"
+    },
+    {
+        "title": "The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024",
+        "date": "2024-09-26",
+        "description": "These Regulations amend the Registration of Births and Deaths Regulations 1987 (S.I. 1987/2088) (\u201cthe 1987 Regulations\u201d) to prescribe the manner of registration and the information required to be registered by the registrar on receipt of a confirmed attending practitioner\u2019s certificate, or a medical examiner\u2019s certificate given to the registrar in accordance with regulations made under section 20 of the Coroners and Justice Act 2009 (c. 25).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/885",
+        "filename": "the-registration-of-births-and.txt"
+    },
+    {
+        "title": "The Registration of Births and Deaths (Welsh Language) (Amendment) Regulations 2024",
+        "date": "2024-09-27",
+        "description": "These Regulations amend the Registration of Births and Deaths (Welsh Language) Regulations 1987 (S.I. 1987/2089) (\u201cthe Welsh Language Regulations 1987\u201d). The amendments are consequential on amendments made to the Registration of Births and Deaths Regulations 1987 (S.I. 1987/2088) and prescribe the manner of registration and the information required to be registered by the registrar on receipt of a confirmed attending practitioner\u2019s certificate, or a medical examiner\u2019s certificate given to the registrar in accordance with regulations made under section 20 of the Coroners and Justice Act 2009 (c. 25).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/884",
+        "filename": "the-registration-of-births-and-2.txt"
+    },
+    {
+        "title": "The Social Fund Winter Fuel Payment Regulations 2024",
+        "date": "2024-09-18",
+        "description": "These Regulations require the Secretary of State to pay a winter fuel payment to a person who, in the week beginning on the third Monday in September in any year, has reached pensionable age, andis ordinarily resident in England and Wales and entitled to income support, income-based jobseeker\u2019s allowance, state pension credit, income-related employment and support allowance or universal credit (\u201crelevant benefits\u201d) or an award of child tax credit or working tax credit of not less than \u00a326 in respect of the tax year 2024-25; oris habitually resident in one of the countries listed in Schedule 1 and demonstrates an entitlement to a benefit in that country which is equivalent to a relevant benefit, if that person is covered by the Withdrawal Agreement or one of the other Agreements listed in regulation 2(3)(b) and they are able to demonstrate a genuine and sufficient link to the United Kingdom.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/869",
+        "filename": "the-social-fund-winter-fuel-pa.txt"
+    },
+    {
+        "title": "The Procurement Act 2023 (Commencement No. 3 and Transitional and Saving Provisions) Regulations 2024",
+        "date": "2024-10-21",
+        "description": "Regulation 2 commences provisions of the Procurement Act 2023 (\u201cthe 2023 Act\u201d). Regulation 2(1) commences, the day after the day on which these Regulations are made, subsections (2), (3) and (4) section 115 of the Act. These provisions allow the Scottish Ministers to apply devolved Scottish procurement legislation to contracting authorities regulated by the Act in certain circumstances. They will also allow the Scottish Ministers to disapply the same legislation where a devolved Scottish contracting authority falls to be regulated by the 2023 Act, following forthcoming amendment of the 2023 Act under section 115(1). The same provisions also allow a Minister of the Crown to amend the application of the 2023 Act in order to facilitate intra-UK procurements governed by devolved Scottish procurement arrangements. Regulation 2(2) brings into force almost all provisions of the 2023 Act not previously commenced, with the effect that, from 28th October 2024, those who fall within the scope of the 2023 Act will be regulated under the new regime. A number of provisions of the 2023 Act were commenced in order to make secondary legislation by S.I.s 2024/61 and 2024/361, as set out in the table below.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/716",
+        "filename": "the-procurement-act-2023-comme.txt"
+    },
+    {
+        "title": "The Retained EU Law (Revocation and Reform) Act 2023 (Commencement No. 2 and Saving Provisions) Regulations 2024 (revoked)",
+        "date": "2024-10-25",
+        "description": "",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/714",
+        "filename": "the-retained-eu-law-revocation.txt"
+    },
+    {
+        "title": "The Education (Co-ordination of School Admission Arrangements and Miscellaneous Amendments) (Wales) Regulations 2024",
+        "date": "2024-11-20",
+        "description": "Part 3 of the School Standards and Framework Act 1998 (\u201cthe 1998 Act\u201d) makes provision in relation to arrangements for school admissions.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/wsi/2024/698",
+        "filename": "the-education-co-ordination-of.txt"
+    },
+    {
+        "title": "The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2024 (revoked)",
+        "date": "2024-08-09",
+        "description": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/695",
+        "filename": "the-russia-sanctions-eu-exit-a.txt"
+    },
+    {
+        "title": "The Goods Vehicles (International Road Transport Permits and Haulage Within the EU) Regulations 2024",
+        "date": "2024-09-18",
+        "description": "These Regulations regulate the use of goods vehicles on journeys to, in or through the countries and territories in relation to which the United Kingdom has a relevant international agreement (within the meaning given by section 1(4) of the Haulage Permits and Trailer Registration Act 2018 (c. 19) (\u201cthe 2018 Act\u201d)) relating to the transport of goods by road, and the movement of goods between two points in the EU.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/679",
+        "filename": "the-goods-vehicles-internation.txt"
+    },
+    {
+        "title": "The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2024 (revoked)",
+        "date": "2024-08-21",
+        "description": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/677",
+        "filename": "the-syria-sanctions-eu-exit-am.txt"
+    },
+    {
+        "title": "The Armed Forces (Appeals Against Review of Sentence) Regulations 2024",
+        "date": "2024-09-05",
+        "description": "These Regulations make provision for procedures to be followed before the Court Martial Appeal Court in the case of appeals against review of sentence under sections 304D (review of sentence following offer of assistance) and 304E (review of sentence following failure to assist) of the Armed Forces Act 2006 (c. 52) (the \u201c2006 Act\u201d).\u2007Sections 304D and 304E were inserted into the 2006 Act by the Armed Forces Act 2016 (c. 21).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/619",
+        "filename": "the-armed-forces-appeals-again.txt"
+    },
+    {
+        "title": "The Higher Education (Freedom of Speech) Act 2023 (Commencement No. 2) Regulations 2024 (revoked)",
+        "date": "2024-07-31",
+        "description": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/566",
+        "filename": "the-higher-education-freedom-o.txt"
+    },
+    {
+        "title": "The Universal Credit (Administrative Earnings Threshold) (Amendment) Regulations 2024 (revoked)",
+        "date": "2024-07-23",
+        "description": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/529",
+        "filename": "the-universal-credit-administr.txt"
+    },
+    {
+        "title": "The Medical Certificate of Cause of Death Regulations 2024",
+        "date": "2024-10-31",
+        "description": "These Regulations make provision for the certification of deaths in England and Wales by attending practitioners and medical examiners.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/492",
+        "filename": "the-medical-certificate-of-cau.txt"
+    },
+    {
+        "title": "The HyNet Carbon Dioxide Pipeline Order 2024",
+        "date": "2024-10-23",
+        "description": "This Order grants development consent for, and authorises the construction, operation and maintenance of a pipeline for the transport of carbon dioxide from Ince, near Stanlow in the County of Cheshire and Chester West to the Point of Ayr Terminal, Talacre, Flintshire. This Order imposes requirements in connection with the development and authorises the compulsory purchase of land (including rights in land) and the right to use land and to override easements and other rights. A copy of the plans and book of reference referred to in this Order and certified in accordance with article 44 (certification of plans) may be inspected free of charge at the offices of Liverpool Bay CCS at Eni House, 10 Ebury Bridge Road, London SW1W 8PZ.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/436",
+        "filename": "the-hynet-carbon-dioxide-pipel.txt"
+    },
+    {
+        "title": "The Customs Tariff (Preferential Trade Arrangements) (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) (Amendment) Regulations 2024",
+        "date": "2024-11-20",
+        "description": "These Regulations are made under the Taxation (Cross-border Trade) Act 2018 (c. 22).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/424",
+        "filename": "the-customs-tariff-preferentia.txt"
+    },
+    {
+        "title": "The Town and Country Planning (Former RAF Scampton) (Accommodation for Asylum-Seekers etc.) Special Development Order 2024",
+        "date": "2024-10-15",
+        "description": "This Order grants temporary planning permission for development at the former RAF Scampton relating to the provision of accommodation and other forms of support to single adult male asylum-seekers and failed asylum-seekers.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/412",
+        "filename": "the-town-and-country-planning-.txt"
+    },
+    {
+        "title": "The Town and Country Planning (Former RAF Airfield Wethersfield) (Accommodation for Asylum-Seekers etc.) Special Development Order 2024",
+        "date": "2024-10-15",
+        "description": "This Order grants temporary planning permission for development at the former RAF Airfield Wethersfield relating to the provision of accommodation and other forms of support to single adult male asylum-seekers and failed asylum-seekers, and Home Office education, training and parking facilities.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/411",
+        "filename": "the-town-and-country-planning--2.txt"
+    },
+    {
+        "title": "The National Grid (Yorkshire Green Energy Enablement Project) Development Consent Order 2024",
+        "date": "2024-08-30",
+        "description": "This Order authorises National Grid to undertake works to the national electricity transmission system between the existing substation at Monk Fryston to the existing substation at Osbaldwick. The proposed development is required to provide sufficient transmission capacity to enable the connection of new electricity generation projects in the region, and to carry out all associated works.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/393",
+        "filename": "the-national-grid-yorkshire-gr.txt"
+    },
+    {
+        "title": "The Pensions Increase (Review) Order 2024",
+        "date": "2024-07-04",
+        "description": "Under section 59 of the Social Security and Pensions Act 1975 (c. 60) (increase of official pensions) where the Secretary of State for Work and Pensions, under section 151(1) of the Social Security Administration Act 1992 (c. 5), directs that the sums in section 150(1)(c) of the 1992 Act are to be increased by a specified percentage, the Treasury shall provide by order for the increase in the rates of public service pensions. The Pensions (Increase) Act 1971 (c. 56) defines certain terms, sets out when a pension \u201cbegins\u201d and how the increase applies to lump sums.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/331",
+        "filename": "the-pensions-increase-review-o.txt"
+    },
+    {
+        "title": "The Recall Petition (Petition Officers\u2019 Charges) Regulations 2024",
+        "date": "2024-07-04",
+        "description": "These Regulations prescribe the maximum amounts which a petition officer may recover in respect of a recall petition under the Recall of MPs Act 2015 (\u201cthe Act\u201d) in respect of a recall petition.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/298",
+        "filename": "the-recall-petition-petition-o.txt"
+    },
+    {
+        "title": "The Misuse of Drugs and Misuse of Drugs (Designation) (England and Wales and Scotland) (Amendment) Regulations 2024 (revoked)",
+        "date": "2024-03-21",
+        "description": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/239",
+        "filename": "the-misuse-of-drugs-and-misuse.txt"
+    },
+    {
+        "title": "The Principal Office Address (Rectification of Register) Regulations 2024",
+        "date": "2024-07-02",
+        "description": "These Regulations make provision about the registrar\u2019s powers to change the address registered as the principal office of company directors, secretaries and persons with significant control (\u201crelevant persons\u201d), where the registrar is not satisfied that the address is in fact their principal office. The Regulations allow the registrar to act on the registrar\u2019s own motion or on application.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/236",
+        "filename": "the-principal-office-address-r.txt"
+    },
+    {
+        "title": "The Service Address (Rectification of Register) Regulations 2024",
+        "date": "2024-07-02",
+        "description": "These Regulations make provision about the registrar\u2019s powers to change the registered service address of company directors, secretaries and persons with significant control (\u201crelevant persons\u201d), where the registrar is not satisfied that the address meets the requirements of section 1141(1) and (2) of the Companies Act 2006 (c. 46). The Regulations allow the registrar to act on the registrar\u2019s own motion or on application.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/235",
+        "filename": "the-service-address-rectificat.txt"
+    },
+    {
+        "title": "The Registered Office Address (Rectification of Register) Regulations 2024",
+        "date": "2024-07-02",
+        "description": "These Regulations provide the registrar of companies with power, on application and on the registrar\u2019s own motion, to change a company\u2019s registered office address to a \u201cdefault address\u201d if the registrar is satisfied that the address is not an \u201cappropriate address\u201d within the meaning of section 86 of the Companies Act 2006 (c. 46).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/233",
+        "filename": "the-registered-office-address-.txt"
+    },
+    {
+        "title": "The Personal Injuries (NHS Charges) (Amounts) (Amendment) Regulations 2024 (revoked)",
+        "date": "2024-10-24",
+        "description": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/220",
+        "filename": "the-personal-injuries-nhs-char.txt"
+    },
+    {
+        "title": "The Education (Penalty Notices) (England) (Amendment) Regulations 2024",
+        "date": "2024-09-10",
+        "description": "These Regulations amend the Education (Penalty Notices) (England) Regulations 2007 (S.I. 2007/1867). These regulations\u2014establish a new amount of penalty under section 444A(1) of the 1996 Act: \u00a380 increasing to \u00a3160 (if not paid within the first 21 days) and \u00a3160 without any early payment discount for a second notice issued to the same parent in respect of the same child within any given three-year period;impose a new duty on authorised staff members to consider issuing a penalty notice relating to a parent\u2019s failure to secure the regular school attendance of a child during a period of 10 school weeks;impose a new limitation on the number of penalty notices which can be issued under section 444A(1) of the Education Act 1996 (c. 56) (\u201cthe 1996 Act\u201d) in respect of the same parent and child: no new notice may be issued to a parent if two penalty notices have been issued to the parent under that section in respect of the child in the preceding three-year period;make provision for sums received under section 444A of the 1996 Act to also be used for supporting the regular attendance at school of registered pupils, in addition to being used for issuing penalty notices and prosecuting offences committed under section 444 of the 1996 Act.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/210",
+        "filename": "the-education-penalty-notices-.txt"
+    },
+    {
+        "title": "The Scottish Pubs Code Regulations 2024",
+        "date": "2024-10-09",
+        "description": "These Regulations are made under powers conferred by sections 1, 7, 23 and schedule 1 of the Tied Pubs (Scotland) Act 2021 and come into force on 7 October 2024.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ssi/2024/193",
+        "filename": "the-scottish-pubs-code-regulat.txt"
+    },
+    {
+        "title": "The Pensions (2005 Order) (Code of Practice) (Defined Benefit Funding) (Appointed Day) Order (Northern Ireland) 2024",
+        "date": "2024-11-21",
+        "description": "This Order appoints 12th November 2024 as the day for the coming into operation of the Pensions Regulator Defined benefit funding code of practice. The Defined benefit funding code of practice provides guidance on the new scheme funding regime.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/192",
+        "filename": "the-pensions-2005-order-code-o.txt"
+    },
+    {
+        "title": "The Building (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-11-07",
+        "description": "These Regulations amend the Building Regulations (Northern Ireland) 2012 (as amended) (the principal Regulations) and they come into operation on 6th May 2025. They do not apply to building work which has been completed, or for which plans or building notices have been deposited with a district council before that date. These Regulations were notified in draft to the European Commission in accordance with Directive 2015/1535/EU.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/191",
+        "filename": "the-building-amendment-regulat.txt"
+    },
+    {
+        "title": "The Social Fund Winter Fuel Payment (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-11-21",
+        "description": "These Regulations amend the Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024 (S.R. 2024 No. 160) (\u201cthe 2024 Regulations\u201d) to correct minor errors in those Regulations.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/189",
+        "filename": "the-social-fund-winter-fuel-pa-2.txt"
+    },
+    {
+        "title": "The Tied Pubs (Fees and Financial Penalties) (Scotland) Regulations 2024",
+        "date": "2024-10-09",
+        "description": "These Regulations are made under powers conferred by sections 10(3) and 17(1) of the Tied Pubs (Scotland) Act 2021 and come into force on 7 October 2024.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ssi/2024/187",
+        "filename": "the-tied-pubs-fees-and-financi.txt"
+    },
+    {
+        "title": "The Adoption and Children (2022 Act) (Commencement No.3) Order (Northern Ireland) 2024",
+        "date": "2024-11-06",
+        "description": "This Order is made by the Department of Health under section 160(1) of the Adoption and Children Act (Northern Ireland) 2022 (the Act).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/186",
+        "filename": "the-adoption-and-children-2022.txt"
+    },
+    {
+        "title": "The Police and Crime Commissioner Elections (Designation of Local Authorities and Police Area Returning Officers) Order 2024",
+        "date": "2024-09-19",
+        "description": "This Order makes provision in relation to elections in England and Wales of police and crime commissioners under Chapter 6 of Part 1 of the Police Reform and Social Responsibility Act 2011 (c. 13) (\u201cthe 2011 Act\u201d).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/186",
+        "filename": "the-police-and-crime-commissio.txt"
+    },
+    {
+        "title": "The Period Products (the Executive Office Specified Public Service Bodies) Regulations (Northern Ireland) 2024",
+        "date": "2024-10-29",
+        "description": "These Regulations specify the public service bodies within the functions of the Executive Office that are subject to the duty to ensure that period products are obtainable free of charge by persons on their premises who need to use them.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/185",
+        "filename": "the-period-products-the-execut.txt"
+    },
+    {
+        "title": "The Non-Domestic Rating (Designated Areas) Regulations 2024",
+        "date": "2024-11-06",
+        "description": "These Regulations designate areas in England (\u201cdesignated areas\u201d) for the purpose of paragraph 39(1) of Schedule 7B to the Local Government Finance Act 1988 (\u201cthe 1988 Act\u201d) (local retention of non-domestic rates). They provide rules for calculating in respect of a billing authority in England all or part of whose area falls within a designated area\u2014the billing authority\u2019s non-domestic rating income in respect of the designated area for a specified year; andthe proportion of that non-domestic rating income that is to be disregarded for the purpose of specified calculations under Schedule 7B to the 1988 Act.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/183",
+        "filename": "the-non-domestic-rating-design.txt"
+    },
+    {
+        "title": "The Police and Crime Commissioner Elections (Returning Officers\u2019 Accounts) Regulations 2024",
+        "date": "2024-10-15",
+        "description": "These Regulations provide for the time when, and manner and form in which, accounts are to be submitted by returning officers for police and crime commissioner elections.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/181",
+        "filename": "the-police-and-crime-commissio-2.txt"
+    },
+    {
+        "title": "The Trunk Road T3 [Western Transport Corridor \u2013 Sion Mills (North) to Ballygawley (West)] Order (Northern Ireland) 2024",
+        "date": "2024-11-15",
+        "description": "This Order provides that\u201455.75 kilometres of new road (including 7 new junctions) described in Part I of the Schedule, more particularly delineated and coloured red on Maps 1 to 29 shall become trunk road and be part of the Belfast-Ballygawley-Londonderry-Land Frontier Trunk Road T3;0.35 kilometres of new road (including 1 new roundabout) described in Part II of the Schedule, more particularly delineated and coloured dark blue on Map 15 shall become trunk road and be part of the Cookstown-Omagh-Enniskillen-Aghalane-Land Frontier Trunk Road T10; and1.36 kilometres of new road described in Part III of the Schedule, more particularly delineated and coloured red on Map 29 shall become trunk road and be part of the Aughnacloy-Ballygawley-Enniskillen-Belcoo-Land Frontier T6.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/178",
+        "filename": "the-trunk-road-t3-[western-tra.txt"
+    },
+    {
+        "title": "The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2024",
+        "date": "2024-10-11",
+        "description": "These Rules amend the Rules of the Court of Judicature (Northern Ireland) 1980 (S.R. 1980 No. 346) to provide that an application to the Court of Appeal for leave to appeal to the Supreme Court in a civil case shall be made within 28 days of the decision or order in respect of which leave is sought.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/177",
+        "filename": "the-rules-of-the-court-of-judi.txt"
+    },
+    {
+        "title": "The Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024",
+        "date": "2024-10-11",
+        "description": "This Order amends the Planning (General Development Procedure) Order (Northern Ireland) 2015 (the 2015 Order), to enable local council planning authorities to prepare and publish planning application validation checklists.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/176",
+        "filename": "the-planning-general-developme.txt"
+    },
+    {
+        "title": "The Social Security (Infected Blood Capital Disregard) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-11-07",
+        "description": "Regulation 2 of these Regulations amends\u2014the Income Support (General) Regulations (Northern Ireland) 1987,the Jobseeker\u2019s Allowance Regulations (Northern Ireland) 1996,the State Pension Credit Regulations (Northern Ireland) 2003,the Housing Benefit Regulations (Northern Ireland) 2006,the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006, andthe Employment and Support Allowance Regulations (Northern Ireland) 2008.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/174",
+        "filename": "the-social-security-infected-b.txt"
+    },
+    {
+        "title": "The Coronavirus Act 2020 (Extension of Provisions Relating to Live Links for Courts and Tribunals) (No.2) Order (Northern Ireland) 2024",
+        "date": "2024-10-17",
+        "description": "This Order extends the operation of the provisions in the Coronavirus Act 2020 (c. 7) which allow the wider and extended use of video or audio live links by all or any courts or a statutory tribunal (Part 1 of Schedule 27). It extends the provisions, which facilitate public participation in legal proceedings if, and when live links are used while protecting those proceedings from unauthorised recordings or transmission (Part 2 of Schedule 27).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/173",
+        "filename": "the-coronavirus-act-2020-exten.txt"
+    },
+    {
+        "title": "The Coronavirus Act 2020 (Registration of Deaths and Still-Births) (Extension) (No.3) Order (Northern Ireland) 2024",
+        "date": "2024-10-17",
+        "description": "Section 18(3) of, and Part 3 of Schedule 13 to, the Coronavirus Act 2020 contain provisions relating to the registration of deaths and still-births in Northern Ireland.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/172",
+        "filename": "the-coronavirus-act-2020-regis.txt"
+    },
+    {
+        "title": "The Hops Certification (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-11-07",
+        "description": "These Regulations are made under section 11 of, and paragraph 11M of Part 1C of Schedule 2 to, the European Union (Withdrawal) Act 2018.The EU provisions relating to the hop sector marketing standards and related controls are set out in Regulation (EU)  1308/2013 which is directly applicable in NI under Article 5(4) of, and Annex 2 to, the Windsor Framework. These Regulations amend the Hops Certification Regulations 1979 (S.I.1979/1095) as they apply in Northern Ireland in relation to third country imports and certification in order to update references to the amending EU regulations, Commission Implementing Regulation (EU) 2024/601 and Commission Delegated Regulation (EU) 2024/602.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/171",
+        "filename": "the-hops-certification-amendme.txt"
+    },
+    {
+        "title": "The Social Security (Genuine and Sufficient Link to the United Kingdom) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-11-07",
+        "description": "Regulation 1 provides for citation and commencement.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/163",
+        "filename": "the-social-security-genuine-an.txt"
+    },
+    {
+        "title": "The Recovery of Health Services Charges (Amounts) (Amendment No. 2) Regulations (Northern Ireland) 2024",
+        "date": "2024-10-02",
+        "description": "The Recovery of Health Services Charges (Northern Ireland) Order 2006 provides for a scheme for the recovery of charges in cases where an injured person who receives a compensation payment in respect of his injury has received hospital treatment or ambulance services. The charges are specified in certificates issued by the Department for Communities and are payable by persons who pay compensation to the injured person. The charges in each case are calculated by reference to a tariff of charges provided for by the Recovery of Health Services Charges (Amounts) Regulations (Northern Ireland) 2006 (\u201cthe principal Regulations\u201d).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/162",
+        "filename": "the-recovery-of-health-service.txt"
+    },
+    {
+        "title": "The Personal Protective Equipment at Work (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-10-22",
+        "description": "These Regulations amend the Personal Protective Equipment at Work Regulations (Northern Ireland) 1993 (\u201cthe PPER 1993\u201d) to extend the duties contained in regulations 4 to 11 of the PPER 1993 from employees to workers, and to update cross-references to other legislation.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/161",
+        "filename": "the-personal-protective-equipm.txt"
+    },
+    {
+        "title": "The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024",
+        "date": "2024-09-17",
+        "description": "These Regulations require the Department to pay a winter fuel payment to a person who, in the week beginning on the third Monday in September in any year, has reached pensionable age, andis ordinarily resident in Northern Ireland and entitled to income support, income-based jobseeker\u2019s allowance, state pension credit, income-related employment and support allowance or universal credit (\u201crelevant benefits\u201d) or an award of child tax credit or working tax credit of not less than \u00a326 in respect of the tax year 2024-25; oris habitually resident in one of the countries listed in Schedule 1 and demonstrates an entitlement to a benefit in that country which is equivalent to a relevant benefit, if that person is covered by the Withdrawal Agreement or one of the other Agreements listed in regulation 2(3)(b) and they are able to demonstrate a genuine and sufficient link to the United Kingdom.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/160",
+        "filename": "the-social-fund-winter-fuel-pa-3.txt"
+    },
+    {
+        "title": "The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-09-06",
+        "description": "These Regulations implement changes relating to the Local Government Pension Scheme (\u201cthe LGPS (NI)\u201d). They do so by modifying certain statutory provisions contained in or made under the Public Service Pensions and Judicial Offices Act 2022 (c. 7), which made changes to the transitional protections for certain persons who were members of previous versions of the LGPS (NI) to address unlawful age discrimination of the sort identified in the case of McCloud v Lord Chancellor [2018] EWCA Civ 2844 (\u201cthe McCloud Remedy\u201d).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/159",
+        "filename": "the-local-government-pension-s.txt"
+    },
+    {
+        "title": "The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024",
+        "date": "2024-07-31",
+        "description": "These Regulations amend legislation which makes provision about, or in connection with, student finance. Two sets of Student Support Regulations are amended. Those Regulations are the Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 \u201cthe 2009 Regulations\u201d and the Student Fees (Qualifying Courses and Persons) Regulations (Northern Ireland) 2007 \u201cthe 2007 Regulations\u201d.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/157",
+        "filename": "the-education-student-support-.txt"
+    },
+    {
+        "title": "The Pet Abduction (2024 Act) (Commencement) Order (Northern Ireland) 2024",
+        "date": "2024-07-29",
+        "description": "This Order appoints 24th August 2024 as the day for the coming into force of sections 1 and 2 (so far as they extend to Northern Ireland) and section 4 of the Pet Abduction Act 2024.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/156",
+        "filename": "the-pet-abduction-2024-act-com.txt"
+    },
+    {
+        "title": "The Dangerous Dogs (Compensation and Exemption Schemes) Order (Northern Ireland) 2024",
+        "date": "2024-08-15",
+        "description": "This Order makes provision in respect of dogs of the type known as the XL Bully. The type of dog known as the XL Bully is designated for the purposes of Article 25A of The Dogs (Northern Ireland) Order 1983 (\u201cthe 1983 Order\u201d) by Article 2 of the Dangerous Dogs (Designated Types) Order (Northern Ireland) 2024.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/155",
+        "filename": "the-dangerous-dogs-compensatio.txt"
+    },
+    {
+        "title": "The Registrar of Companies (Fees) (Amendment) Regulations 2024",
+        "date": "2024-07-05",
+        "description": "These Regulations amend the Registrar of Companies (Fees) (Companies, Overseas Companies and Limited Liability Partnerships) Regulations 2012 (S.I. 2012/1907 as amended by S.I. 2016/621) (\u201cthe 2012 Regulations\u201d), the Registrar of Companies (Fees) (Limited Partnerships and Newspaper Proprietors) Regulations 2009 (S.I. 2009/2392) (\u201cthe 2009 Regulations\u201d) and the Registrar of Companies (Fees) (European Economic Interest Grouping and European Public Limited-Liability Company) Regulations 2012 (S.I. 2012/1908) which require payment of fees in respect of functions performed by the registrar of companies. These Regulations amend existing fees and introduce new fees following amendments made to section 1063 of the Companies Act 2006 (c. 46) by the Economic Crime and Corporate Transparency Act 2023 (c. 56). These amendments provide for the cost of investigation and enforcement activities to be taken into account by the Secretary of State when setting fees. These Regulations increase the fees payable at incorporation or registration of companies and certain other entities and those paid with the filing of the first confirmation statement each year (see section 853A of the Companies Act 2006) to provide funding for enforcement activities that will help to combat economic crime. These Regulations also increase the fees charged for other services that are provided by Companies House, whose officials act on behalf of the registrar, to reflect the registrar\u2019s increased costs.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/155",
+        "filename": "the-registrar-of-companies-fee.txt"
+    },
+    {
+        "title": "The Working Time (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-08-15",
+        "description": "These Regulations amend the Working Time Regulations (Northern Ireland) 2016 to include express provision about the rights of workers, in certain circumstances, to carry forward annual leave into subsequent leave years and the calculation of holiday pay in relation to those rights.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/153",
+        "filename": "the-working-time-amendment-reg.txt"
+    },
+    {
+        "title": "The Registrar of Companies (Fees) (Register of Overseas Entities) Regulations 2024",
+        "date": "2024-07-04",
+        "description": "These Regulations make provision for the fees to be payable to the registrar of companies for England and Wales (\u201cthe registrar\u201d) in respect of functions relating to the register of overseas entities kept by the registrar in accordance with Part 1 of the Economic Crime (Transparency and Enforcement) Act 2022 (c. 10).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/153",
+        "filename": "the-registrar-of-companies-fee-2.txt"
+    },
+    {
+        "title": "The Insolvency (Monetary Limits) (Amendment) Order (Northern Ireland) 2024",
+        "date": "2024-07-15",
+        "description": "This Order amends the prescribed amounts for the debtor\u2019s overall indebtedness, monthly surplus income and total value of property for the purposes of paragraphs 6 to 8 of Schedule 2ZA to the Insolvency (Northern Ireland) Order 1989 (\u201cthe 1989 Order\u201d). That Schedule sets out the conditions for making a debt relief order under Part 7A of the 1989 Order.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/152",
+        "filename": "the-insolvency-monetary-limits.txt"
+    },
+    {
+        "title": "The Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) (Amendment) (No. 2) Regulations 2024",
+        "date": "2024-10-16",
+        "description": "These regulations make amendments to the Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) Regulations 2006 and make provision to place the guidance, provided by the Board, to Selected Medical Practitioners (SMP) and Independent Medical Referees (IMR) to carry out injury on duty assessments, on a statutory footing.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/147",
+        "filename": "the-police-service-of-northern.txt"
+    },
+    {
+        "title": "The Industrial Training Levy (Construction Industry) Order (Northern Ireland) 2024",
+        "date": "2024-09-02",
+        "description": "This Order gives effect to proposals submitted by the Construction Industry Training Board to the Department for the Economy for the imposition of a further levy upon employers in the construction industry for the purpose of raising money towards the expenses of the Board.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/146",
+        "filename": "the-industrial-training-levy-c.txt"
+    },
+    {
+        "title": "The Fisheries Act 2020 (Scheme for Financial Assistance) Regulations (Northern Ireland) 2024",
+        "date": "2024-07-04",
+        "description": "These Regulations establish a scheme in relation to Northern Ireland for the giving of grants under paragraph 3(1) of Schedule 6 to the Fisheries Act 2020 (c. 22).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/141",
+        "filename": "the-fisheries-act-2020-scheme-.txt"
+    },
+    {
+        "title": "The Local Government (Remote Meetings) Regulations (Northern Ireland) 2024",
+        "date": "2024-07-04",
+        "description": "These Regulations are made under section 2(1) to (4) of the Local Government (Meetings and Performance) Act (Northern Ireland) 2021. These Regulations make provision regarding the running of council meetings.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/140",
+        "filename": "the-local-government-remote-me.txt"
+    },
+    {
+        "title": "The Proceeds of Crime Act 2002 (Search, Recovery of Cryptoassets and Investigations: Codes of Practice) Order (Northern Ireland) 2024",
+        "date": "2024-07-18",
+        "description": "This Order brings into operation two revised codes of practice and one new code of practice issued by the Department of Justice under the Proceeds of Crime Act2002 (c.29)(\u201cthe Act\u201d).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/139",
+        "filename": "the-proceeds-of-crime-act-2002.txt"
+    },
+    {
+        "title": "The Police Pensions (Remediable Service) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-07-29",
+        "description": "These Regulations amend the Police Pensions (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023 No. 122) (\u201cthe 2023 Regulations\u201d).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/138",
+        "filename": "the-police-pensions-remediable.txt"
+    },
+    {
+        "title": "The Damages (Process for Setting Rate of Return) Regulations (Northern Ireland) 2024",
+        "date": "2024-07-02",
+        "description": "These Regulations alter some of the parameters which are to be used by the official rate-assessor (the Government Actuary) in setting the rate of return for the purposes of section C1(1) of the Damages Act 1996. That rate is known as the Personal Injury Discount Rate and is used in the calculation of awards of damages for future pecuniary loss in an action for personal injury. Under Schedule C1 to the 1996 Act, the rate is to be set to reflect the return which a hypothetical claimant investor (as described in paragraph 17 of that Schedule) could reasonably be expected to achieve if investing in the notional portfolio over the prescribed period, subject to two standard adjustments.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/137",
+        "filename": "the-damages-process-for-settin.txt"
+    },
+    {
+        "title": "The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-06-28",
+        "description": "These Regulations amend the Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2024 (\u201cthe Collective Money Purchase Regulations\u201d).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/136",
+        "filename": "the-occupational-pension-schem.txt"
+    },
+    {
+        "title": "The Dangerous Dogs (Designated Types) Order (Northern Ireland) 2024",
+        "date": "2024-07-11",
+        "description": "Article 2 of this Order designates the type of dog known as the XL Bully for the purposes of Article 25A of The Dogs (Northern Ireland) Order 1983 (\u201cthe 1983 Order\u201d).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/133",
+        "filename": "the-dangerous-dogs-designated-.txt"
+    },
+    {
+        "title": "The Pensions (2005 Order) (Code of Practice) (General) (Appointed Day, Amendment and Revocations) Order (Northern Ireland) 2024",
+        "date": "2024-07-17",
+        "description": "This Order appoints the day for the purposes of Article 86(7) of the Pensions (Northern Ireland) Order 2005 for the coming into operation of the Pensions Regulator General code of practice as 5th July 2024. The General code of practice consolidates ten existing codes of practice and provides guidance to those running occupational, personal, and public service pension schemes.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/132",
+        "filename": "the-pensions-2005-order-code-o-2.txt"
+    },
+    {
+        "title": "The Pensions (2005 Order) (Codes of Practice) (Revocation) Order (Northern Ireland) 2024",
+        "date": "2024-07-09",
+        "description": "This Order revokes codes of practice that were issued by the Pensions Regulator. The Pensions Regulator has issued the General code of practice which consolidates ten existing codes of practice and provides guidance to those running occupational, personal and public service pension schemes.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/131",
+        "filename": "the-pensions-2005-order-codes-.txt"
+    },
+    {
+        "title": "The Firefighters\u2019 Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-06-17",
+        "description": "These Regulations makes amendments to\u2014The Firefighters\u2019 Pension Scheme Order (Northern Ireland) 2007 (FPS);The New Firefighters\u2019 Pension Scheme Order (Northern Ireland) 2007 (NFPS);The Firefighters\u2019 Compensation Scheme Order (Northern Ireland) 2007 (the Compensation Scheme); andThe Firefighters\u2019 Pension Scheme Regulations (Northern Ireland) 2015 (the 2015 Regulations).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/130",
+        "filename": "the-firefighters-pension-schem.txt"
+    },
+    {
+        "title": "The Further Education (Student Support) (Eligibility) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-08-01",
+        "description": "These Regulations amend legislation which makes provision about student support in the form of grants in respect of fees payable in connection with attendance on courses at an institution of further education.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/128",
+        "filename": "the-further-education-student-.txt"
+    },
+    {
+        "title": "The Optical Charges and Payments (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-07-02",
+        "description": "These Regulations further amend the Health and Personal Social Services (Optical Charges and Payments) Regulations (Northern Ireland) 1997 (\u201cthe principal Regulations\u201d) which provide for payment to be made, by means of a voucher system, in respect of costs incurred by certain categories of persons in connection with the supply, replacement and repair of optical appliances.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/127",
+        "filename": "the-optical-charges-and-paymen.txt"
+    },
+    {
+        "title": "The Human Medicines (Amendment Relating to Original Pack Dispensing) Regulations (Northern Ireland) 2024",
+        "date": "2024-07-17",
+        "description": "These Regulations amend the Human Medicines Regulations 2012 (S.I. 2012/1916) (\u201cHMRs\u201d) which govern the arrangements across the United Kingdom for the licensing, manufacture, wholesale dealing and sale or supply of medicines for human use. The amendments extend to Northern Ireland only and create new dispensing provisions for prescription only medicines. Regulation 214(1) of the HMRs requires prescription only medicines to be sold or supplied in accordance with a prescription given by an appropriate practitioner, subject to exceptions contained in Chapter 3 (exemptions) of Part 12 (Dealings with medicinal products).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/125",
+        "filename": "the-human-medicines-amendment-.txt"
+    },
+    {
+        "title": "The Independent System Operator and Planner Transfer Scheme Compensation Regulations 2024",
+        "date": "2024-06-24",
+        "description": "These Regulations, which apply in Great Britain, make provision regarding the compensation determination by an independent valuer under a transfer scheme relating to the establishment or functioning of the Independent System Operator and Planner established under Part 5 of the Energy Act 2023 (c. 52, the \u201cAct\u201d).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/125",
+        "filename": "the-independent-system-operato.txt"
+    },
+    {
+        "title": "The Whole of Government Accounts (Designation of Bodies) Order (Northern Ireland) 2024",
+        "date": "2024-07-17",
+        "description": "This Order designates bodies, for the financial year ending with 31st March 2024, for the purposes of section 15 of the Government Resources and Accounts Act (Northern Ireland) 2001. The Department of Finance (\u201cthe Department\u201d) intends to pass the information provided by bodies so designated in the Schedule to this Order to HM Treasury for use in the preparation of the Whole of Government Accounts (WGA). The designation enables the Department to require those bodies to provide financial information in relation to the year in question. The bodies designated include the District Councils for the 11 Local Government Districts established pursuant to the Local Government (Boundaries) Act (Northern Ireland) 2008.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/124",
+        "filename": "the-whole-of-government-accoun.txt"
+    },
+    {
+        "title": "The Smoke, Heat and Carbon Monoxide Alarms for Private Tenancies Regulations (Northern Ireland) 2024",
+        "date": "2024-09-18",
+        "description": "These Regulations set minimum standards for the purpose of determining whether a landlord of a private tenancy has complied with the duty contained in Article 11B(1) of the Private Tenancies (Northern Ireland) Order 2006 (S.I. 2006 No. 1459 (N.I. 10) to keep in repair and working order sufficient appliances for detecting fire, smoke or carbon monoxide.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/123",
+        "filename": "the-smoke-heat-and-carbon-mono.txt"
+    },
+    {
+        "title": "The Period Products (Department for Infrastructure Specified Public Service Bodies) Regulations (Northern Ireland) 2024",
+        "date": "2024-06-10",
+        "description": "These Regulations are made under section 2(1) of the Period Products (Free Provision) Act (Northern Ireland) 2022. They specify the public service bodies within the functions of the Department for Infrastructure that are subject to the duty to ensure that period products are obtainable free of charge by persons on the premises who need to use them. They provide, for the purposes of the Act, descriptions of the premises to be treated as premises of a specified public service body and of persons to be treated as in those premises.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/122",
+        "filename": "the-period-products-department.txt"
+    },
+    {
+        "title": "The Social Security (State Pension Age Claimants: Closure of Tax Credits) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-06-10",
+        "description": "These Regulations make provision in relation to the abolition of tax credits for certain claimants who have reached the qualifying age for state pension credit (\u201cthe qualifying age\u201d). They provide for claimants who are entitled to a working tax credit to move to universal credit with transitional protection and for claimants who are entitled to child tax credit to move to state pension credit with transitional protection. They also make provision consequential on these changes.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/119",
+        "filename": "the-social-security-state-pens.txt"
+    },
+    {
+        "title": "The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions) (Amendment) Order (Northern Ireland) 2024",
+        "date": "2024-06-10",
+        "description": "This Order preserves the existing protection for certain mixed-age couples (that is couples where one member has reached the qualifying age for state pension credit) when they are issued with a migration notice requiring them to move to universal credit.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/118",
+        "filename": "the-welfare-reform-northern-ir.txt"
+    },
+    {
+        "title": "The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024",
+        "date": "2024-06-25",
+        "description": "These Regulations further amend the Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995 (S.R.1995 No. 95) (\u201cthe 1995 Regulations\u201d), the Health and Social Services (Superannuation) (Additional Voluntary Contributions) Regulations (Northern Ireland) 1999 (S.R.1999 No.294), the Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008 (S.R. 2008 No.256) (\u201cthe 2008 Regulations\u201d), the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015 (S.R. 2015 No. 120) (\u201cthe 2015 Regulations\u201d), the Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015 No.122) (\u201cthe 2015 Transitional Regulations\u201d), the Health and Social Care (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023 No.33) and the Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024 No. 50).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/117",
+        "filename": "the-health-and-social-care-pen.txt"
+    },
+    {
+        "title": "The Health and Social Care Pension Scheme (Member Contributions) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-06-13",
+        "description": "These Regulations amend the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015 (S.R. 2015 No. 120) (\u201cthe 2015 Regulations\u201d).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/116",
+        "filename": "the-health-and-social-care-pen-2.txt"
+    },
+    {
+        "title": "The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-09-02",
+        "description": "Section 5 of the Agriculture Act (Northern Ireland) 1949 (\u201cthe Act) enables the Department of Agriculture, Environment and Rural Affairs (\u201cthe Department\u201d) to provide instruction in agricultural and related matters. Section 5A, empowers the Department to set fees for education and instruction.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/115",
+        "filename": "the-agriculture-student-fees-a.txt"
+    },
+    {
+        "title": "The Government Resources and Accounts (Northern Ireland) Act 2001 (Estimates and Accounts) (Designation of Bodies) Order 2024",
+        "date": "2024-06-05",
+        "description": "This Order designates specified central government bodies in relation to named government departments for the purpose of this departments\u2019 supply estimates and resource accounts.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/114",
+        "filename": "the-government-resources-and-a.txt"
+    },
+    {
+        "title": "The Building (Registered Building Control Approvers etc.) (England) Regulations 2024",
+        "date": "2024-05-30",
+        "description": "These Regulations revoke, in relation to England, the Building (Approved Inspectors etc.) Regulations 2010 (S.I. 2010/2215) (\u201cthe AI Regulations\u201d) with the amendments to those Regulations made by S.I. 2015/767, 2016/285, 2021/1391, 2021/1392, 2022/718 and 2023/906. They also revoke and include in this instrument provisions relating to the registration and review in regulations 3 to 5 of the Building (Approved Inspectors, Review of Decisions) (England) Regulations 2023 (S.I. 2023/906).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/110",
+        "filename": "the-building-registered-buildi.txt"
+    },
+    {
+        "title": "The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-06-03",
+        "description": "These Regulations amend the Planning (Fees) Regulations (Northern Ireland) 2015 which prescribe the fee payable in respect of applications made under the Planning Act (Northern Ireland) 2011. The Regulations increase planning fees by approximately 4% overall. Regulation 3 revokes the Planning (Fees) (Amendment) Regulations (Northern Ireland) 2019 and the Planning (Fees) (Amendment) Regulations (Northern Ireland) 2023.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/108",
+        "filename": "the-planning-fees-amendment-re.txt"
+    },
+    {
+        "title": "The Universal Credit (Administrative Earnings Threshold) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-05-20",
+        "description": "These Regulations amend regulation 97 of the Universal Credit Regulations (Northern Ireland) 2016 (S.R. 2016 No. 216), which sets out the circumstances in which work search and work availability requirements must not be imposed on a universal credit claimant. Regulation 2 amends paragraph (14) of regulation 97 so that work search and work availability requirements must not be imposed where a claimant has monthly earnings from employment that are equal to, or more than, 18 hours per week at the national minimum wage as set out in regulation 4 of the National Minimum Wage Regulations 2015 (\u201cthe national living wage rate\u201d) or, where the claimant is a member of a couple, their combined earnings from employment are equal to, or more than, 29 hours per week at the national living wage rate, in both cases converted to a monthly amount by multiplying by 52 and dividing by 12.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/107",
+        "filename": "the-universal-credit-administr-2.txt"
+    },
+    {
+        "title": "The Data Reporting Services Regulations 2024",
+        "date": "2024-11-12",
+        "description": "These Regulations restate with modifications the provisions of the Data Reporting Services Regulations 2017 (\u201cthe 2017 Regulations\u201d) (S.I. 2017/699), with the broad exception of Part 3 of the 2017 Regulations referred to below. The 2017 Regulations made arrangements for the registration and supervision by the FCA of data reporting service providers. They are retained EU law and are revoked by section 1(1) of, and Schedule 1 to, the Financial Services and Markets Act 2023 (c. 29).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/107",
+        "filename": "the-data-reporting-services-re.txt"
+    },
+    {
+        "title": "The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-05-28",
+        "description": "The Public Service Pensions and Judicial Offices Act 2022 (c. 7) (\u201cPSPJOA 2022\u201d) was made to remedy age discrimination caused by transitional provision contained in the Judicial Pensions Regulations (Northern Ireland) 2015 (S.R. 2015 No. 76) (\u201cthe 2015 Regulations\u201d). The Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023 (S.R. 2023 No. 107) (\u201cthe 2023 Regulations\u201d) were made under PSPJOA 2022 to implement it and make further technical provision for judicial schemes.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/106",
+        "filename": "the-judicial-pensions-remediab.txt"
+    },
+    {
+        "title": "The Period Products (Department of Justice Specified Public Service Bodies) Regulations (Northern Ireland) 2024",
+        "date": "2024-05-20",
+        "description": "These Regulations are made under section 2(1) of the Period Products (Free Provision) Act (Northern Ireland) 2022. They specify the public service bodies within the functions of the Department of Justice that are subject to the duty to ensure that period products are obtainable free of charge by persons on their premises who need to use them. They provide, for the purposes of the Act, descriptions of the premises to be treated as premises.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/103",
+        "filename": "the-period-products-department-2.txt"
+    },
+    {
+        "title": "The Lay Magistrates (Eligibility) Order (Northern Ireland) 2024",
+        "date": "2024-05-20",
+        "description": "This Order makes provision for criteria for the reappointment of lay magistrates who ceased to hold office before 10th March 2022 by virtue of section 4(11) of the Justice Act (Northern Ireland) 2015 (2015 c.9 (N.I.)), which required lay magistrates to retire at the age of 70.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/102",
+        "filename": "the-lay-magistrates-eligibilit.txt"
+    },
+    {
+        "title": "The Securitisation Regulations 2024",
+        "date": "2024-11-07",
+        "description": "These Regulations specify certain securitisation activities as \u201cdesignated activities\u201d for the purposes of the Financial Services and Markets Act 2000 (see Part 5A) (c. 8) and confer powers on the Financial Conduct Authority (\u201cFCA\u201d) to make rules and give directions in relation to these activities. The activities are acting as an originator, sponsor, original lender or securitisation special purpose entity in a securitisation and selling a securitisation position to a retail client in the United Kingdom.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/102",
+        "filename": "the-securitisation-regulations.txt"
+    },
+    {
+        "title": "The Period Products (the Department for the Economy Specified Public Service Bodies) Regulations (Northern Ireland) 2024",
+        "date": "2024-05-20",
+        "description": "This Statutory Rule is made under section 2(1) of the Period Products (Free Provision) Act (Northern Ireland) 2022. It specifies the public service bodies that are subject to the duty in section 2(3) of the Act (specified public service bodies). It specifies which premises are to be treated as premises of a specified public service body for the purposes of the Act, describes when these premises are considered to be in use for the purposes of the Act and provides for descriptions of persons to be treated as in those specified public service bodies\u2019 premises for the purposes of the Act.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/101",
+        "filename": "the-period-products-the-depart.txt"
+    },
+    {
+        "title": "The Registered Rents (Increase) Order (Northern Ireland) 2024",
+        "date": "2024-06-03",
+        "description": "This Order increases the rents registered with the rent officer for Northern Ireland under Part IV of the Private Tenancies (Northern Ireland) Order 2006 during the period beginning on 2nd April 2007 and ending on 2nd June 2024 by 7.7 percent.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/99",
+        "filename": "the-registered-rents-increase-.txt"
+    },
+    {
+        "title": "The Period Products (Department of Agriculture, Environment and Rural Affairs Specified Public Service Bodies) Regulations (Northern Ireland) 2024",
+        "date": "2024-05-20",
+        "description": "These Regulations specify the public service bodies within the functions of the Department of Agriculture, Environment and Rural Affairs that are subject to the duty to ensure that period products are obtainable free of charge by persons on their premises who need to use them from a date specified in the Period Products (Free Provision) Act (Northern Ireland) 2022. The following bodies are designated specified public service bodies: the Agri-Food and Biosciences Institute; the Livestock and Meat Commission for Northern Ireland; and the Northern Ireland Fishery Harbour Authority.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/95",
+        "filename": "the-period-products-department-3.txt"
+    },
+    {
+        "title": "The Period Products (Department of Education Specified Public Service Bodies) Regulations (Northern Ireland) 2024",
+        "date": "2024-05-20",
+        "description": "This Statutory Rule is made under section 2(1) of the Period Products (Free Provision) Act (Northern Ireland) 2022. It specifies the public service bodies who are subject to the duty at section 2(3) of the Act (specified public service bodies). It provides the descriptions of premises to be treated as premises of a specified public service body for the purposes of the Act and provides for descriptions of persons to be treated as in those specified public service bodies\u2019 premises for the purposes of the Act.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/94",
+        "filename": "the-period-products-department-4.txt"
+    },
+    {
+        "title": "The Climate Change (Reporting Bodies) Regulations (Northern Ireland) 2024",
+        "date": "2024-05-16",
+        "description": "These regulations specify certain public bodies (\u201creporting bodies\u201d) for the purposes of section 42(1) of the Climate Change Act (Northern Ireland) 2022 (regulation 3 and the Schedule).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/93",
+        "filename": "the-climate-change-reporting-b.txt"
+    },
+    {
+        "title": "The Period Products (Free Provision) (2022 Act) (Commencement No.2) Order (Northern Ireland) 2024",
+        "date": "2024-05-20",
+        "description": "This Order appoints 15 April 2024 as the day for the coming into operation of the following sections of the Period Products (Free Provision) Act (Northern Ireland) 2022 (the Act).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/92",
+        "filename": "the-period-products-free-provi.txt"
+    },
+    {
+        "title": "The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-05-20",
+        "description": "These Regulations make provision relating to the funding of occupational pension schemes to which Part IV of the Pensions (Northern Ireland) Order 2005 (\u201cthe 2005 Order\u201d) (scheme funding) applies. They implement the amendments to that Part made by Schedule 11 to the Pension Schemes Act 2021 (funding of defined benefit schemes).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/90",
+        "filename": "the-occupational-pension-schem-2.txt"
+    },
+    {
+        "title": "The Pension Schemes Act 2021 (Commencement No. 7 and Transitional Provisions) Order (Northern Ireland) 2024",
+        "date": "2024-04-15",
+        "description": "This Order brings into operation section 129(a) of, and Part 1 of Schedule 11 to, the Pension Schemes Act 2021 (\u201cthe 2021 Act\u201d), in so far as they are not already in operation, on 6th April 2024. It also contains transitional provisions.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/89",
+        "filename": "the-pension-schemes-act-2021-c.txt"
+    },
+    {
+        "title": "The Rates (Exemption for Automatic Telling Machines in Rural Areas) Order (Northern Ireland) 2024",
+        "date": "2024-06-10",
+        "description": "Article 42(1F) and (1G) of the Rates (Northern Ireland) Order 1977 (\u201cthe 1977 Order\u201d) provide that there shall be distinguished in the NAV list as wholly exempt from rates any automatic telling machine which is situated in a rural area during a relevant year ending before such date as is specified by an Order made by the Department of Finance. 1st April 2025 is specified by this Order.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/88",
+        "filename": "the-rates-exemption-for-automa.txt"
+    },
+    {
+        "title": "The Rates (Temporary Rebate) (Amendment) Order (Northern Ireland) 2024",
+        "date": "2024-05-16",
+        "description": "Article 31D of the Rates (Northern Ireland) Order 1977 provides for a rebate on occupied rates for certain retail properties. This rebate applies to properties which become occupied during the one year period ending on 31st March 2025 after having been unoccupied for a continuous period of at least twelve months. The amount of the rebate is one half of the rates chargeable in respect of the net annual value of the property and is granted for a period of twenty-four months.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/87",
+        "filename": "the-rates-temporary-rebate-ame.txt"
+    },
+    {
+        "title": "The Employment Rights (Increase of Limits) Order (Northern Ireland) 2024",
+        "date": "2024-05-20",
+        "description": "This Order increases, from 6th April 2024, the limits applying to certain awards of industrial tribunals, the Fair Employment Tribunal or Labour Relations Agency statutory arbitration, and other amounts payable under employment legislation, as specified in the Schedule to the Order.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/86",
+        "filename": "the-employment-rights-increase.txt"
+    },
+    {
+        "title": "The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 1) Order (Northern Ireland) 2024",
+        "date": "2024-05-14",
+        "description": "This Order brings into operation on 26th April 2024 Part 3 of Schedule 8 to the 2023 Act, and section 179 of the 2023 Act in so far as it relates to Part 3 of Schedule 8, which deals with cryptoassets in relation to confiscation orders.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/82",
+        "filename": "the-economic-crime-and-corpora.txt"
+    },
+    {
+        "title": "The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence (Northern Ireland) Order 1989) (Amendment) Order (Northern Ireland) 2024",
+        "date": "2024-04-16",
+        "description": "Section 355 of the Proceeds of Crime Act (c.29) (\u201cPOCA\u201d) allows the Department of Justice to make an Order which applies articles 17, 18 23 and 24 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 No. 1341 (N.I. 12)) (\u201cPACE\u201d) with modifications, in relation to search and seizure warrants obtained in the course of certain categories of investigation in Part 8 of POCA.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/81",
+        "filename": "the-proceeds-of-crime-act-2002-2.txt"
+    },
+    {
+        "title": "The Packaging Waste (Data Reporting) (No. 2) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-05-20",
+        "description": "These Regulations amend the Packaging Waste (Data Reporting) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023 No. 25) (\u201cthe principal Regulations\u201d), to revise the definition of \u201chousehold packaging\u201d, clarify the division of responsibilities between brand owners, packers/fillers, importers and distributors; revise the definition of \u201cscheme article\u201d in relation to the Scottish Deposit and return Scheme, to require the Department of Agriculture Environment and Rural Affairs to publish a list of large producers and to make other amendments.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/80",
+        "filename": "the-packaging-waste-data-repor.txt"
+    },
+    {
+        "title": "The Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-05-20",
+        "description": "These Regulations revoke and re-enact the Occupational Pension Schemes (Administration, Investment, Charges and Governance) (Amendment No. 2) Regulations (Northern Ireland) 2023 (\u201cthe Administration Regulations\u201d) which would otherwise cease to have effect by virtue of section 51(3)(b) of the Pensions Act (Northern Ireland) 2015 (\u201cthe 2015 Act\u201d). Like the Administration Regulations, the Regulations make amendments to the requirements relating to the administration and governance of occupational pension schemes.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/79",
+        "filename": "the-occupational-pension-schem-3.txt"
+    },
+    {
+        "title": "The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024",
+        "date": "2024-05-20",
+        "description": "These Regulations revoke and re-enact the Occupational Pension Schemes (Master Trusts) (No.2) Regulations (Northern Ireland) 2023 (\u201cthe Master Trusts Regulations\u201d) which would otherwise cease to have effect by virtue of section 42(2)(b) of the Pension Schemes Act (Northern Ireland) 2021 (\u201cthe Act\u201d). Like the Master Trusts Regulations, the Regulations implement the new authorisation and supervisory regime for Master Trust pension schemes under the provisions of the Act.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/78",
+        "filename": "the-occupational-pension-schem-4.txt"
+    },
+    {
+        "title": "The Pensions Increase (Review) Order (Northern Ireland) 2024",
+        "date": "2024-04-09",
+        "description": "Under section 69 of the Social Security Pensions (Northern Ireland) Order 1975 (c.15) (increase of official pensions), where the Department for Communities under section 132(1) of the Social Security Administration (Northern Ireland) Act 1992 (c.8), directs that the sums which are the additional pensions in long-term benefits are to be increased by a specified percentage, the Department of Finance shall provide by order for the increase in the rates of public service pensions. The Pensions (Increase) Act (Northern Ireland) 1971 (c.35) defines certain terms and sets out when a pension \u201cbegins\u201d (the day after the last day of service in respect of which the pension is payable) and how the increase applies to lump sums.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/77",
+        "filename": "the-pensions-increase-review-o-2.txt"
+    },
+    {
+        "title": "The Social Security Benefits Up-rating Regulations (Northern Ireland) 2024",
+        "date": "2024-04-09",
+        "description": "These Regulations make provisions necessary to give full effect to the 2024 Up-rating and are consequential on the Social Security Benefits Up-rating Order (Northern Ireland) 2024 (the \u201cUp-rating Order\u201d). These Regulations make in relation to Northern Ireland only provision corresponding to provision contained in Regulations made by the Secretary of State for Work and Pensions in relation to Great Britain and accordingly, by virtue of section 149(3) of, and paragraph 10 of Schedule 5, to the Social Security Administration (Northern Ireland) Act 1992, are not subject to the requirement of section 149(2) of that Act for prior reference to the Social Security Advisory Committee.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/76",
+        "filename": "the-social-security-benefits-u.txt"
+    },
+    {
+        "title": "The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-04-15",
+        "description": "These Regulations amend the Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations (Northern Ireland) 2008 to increase amounts of lump sums payable to people with diffuse mesothelioma or to their dependants under the Mesothelioma, etc., Act (Northern Ireland) 2008. The increase in the amounts paid from 1st April 2024 in each case is 6.7 per cent, rounded up or down to the nearest \u00a31 as appropriate.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/75",
+        "filename": "the-mesothelioma-lump-sum-paym.txt"
+    },
+    {
+        "title": "The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-05-20",
+        "description": "These Regulations revoke and re-enact the Occupational Pension Schemes (Governance and Registration) (Amendment No. 2) Regulations (Northern Ireland) 2023 (\u201cthe Governance and Registration Regulations\u201d) which would otherwise cease to have effect by virtue of section 51(3)(b) of the Pensions Act (Northern Ireland) 2015. Like the Governance and Registration Regulations, the Regulations amend the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997 (\u201cthe 1997 Regulations\u201d) and the Register of Occupational and Personal Pension Schemes Regulations (Northern Ireland) 2005 (\u201cthe 2005 Regulations\u201d). The amendments are made to transpose, into pensions legislation, Parts 3 and 7, and related provisions of Parts 9 to 11, of the Investment Consultancy and Fiduciary Management Market Investigation Order 2019 made by the Competition and Markets Authority on 10th June 2019.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/74",
+        "filename": "the-occupational-pension-schem-5.txt"
+    },
+    {
+        "title": "The Social Security Benefits Up-rating Order (Northern Ireland) 2024",
+        "date": "2024-03-28",
+        "description": "This Order, which corresponds to an Order (S.I. 2024/242) made by the Secretary of State for Work and Pensions under sections 150, 150A, 151 and 151A of the Social Security Administration Act 1992, alters the rates and amounts of certain social security benefits and other sums.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/73",
+        "filename": "the-social-security-benefits-u-2.txt"
+    },
+    {
+        "title": "The Coronavirus Act 2020 (Extension of Provisions Relating to Live Links for Courts and Tribunals) Order (Northern Ireland) 2024",
+        "date": "2024-05-01",
+        "description": "This Order extends the operation of the provisions in the Coronavirus Act 2020 (c. 7) which allow the wider and extended use of video or audio live links by all or any courts or a statutory tribunal (Part 1 of Schedule 27). It extends the provisions, which facilitate public participation in legal proceedings if, and when live links are used while protecting those proceedings from unauthorised recordings or transmission (Part 2 of Schedule 27).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/72",
+        "filename": "the-coronavirus-act-2020-exten-2.txt"
+    },
+    {
+        "title": "The Social Security (2023 Benefits Up-rating) Regulations (Northern Ireland) 2024 (revoked)",
+        "date": "2024-05-01",
+        "description": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/71",
+        "filename": "the-social-security-2023-benef.txt"
+    },
+    {
+        "title": "The Mesothelioma Lump Sum Payments (2023 Conditions and Amounts) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-05-01",
+        "description": "These Regulations revoke and re-enact the provisions of the Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment No. 2) Regulations (Northern Ireland) 2023 which would otherwise cease to have effect by virtue of section 10(2) of the Mesothelioma, etc., Act (Northern Ireland) 2008. These Regulations amend the Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations (Northern Ireland) 2008 to increase amounts of lump sums payable to people with diffuse mesothelioma or to their dependants under the Mesothelioma, etc., Act (Northern Ireland) 2008. The increase in each case is 10.1 per cent, rounded up or down to the nearest \u00a31 as appropriate.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/70",
+        "filename": "the-mesothelioma-lump-sum-paym-2.txt"
+    },
+    {
+        "title": "The Social Security (2023 Benefits Up-rating) Order (Northern Ireland) 2024 (revoked)",
+        "date": "2024-05-01",
+        "description": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/69",
+        "filename": "the-social-security-2023-benef-2.txt"
+    },
+    {
+        "title": "The Human Medicines (Amendments Relating to Coronavirus and Influenza) Regulations (Northern Ireland) 2024",
+        "date": "2024-04-03",
+        "description": "These Regulations amend the Human Medicines Regulations 2012 (\u201cthe 2012 Regulations\u201d) which govern the arrangements across the United Kingdom for the licensing, manufacture, wholesale dealing and sale or supply of medicines for human use. These Regulations extend to Northern Ireland only.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/68",
+        "filename": "the-human-medicines-amendments.txt"
+    },
+    {
+        "title": "The Digital Government (Disclosure of Information) (Identity Verification Services) Regulations 2024",
+        "date": "2024-10-15",
+        "description": "These Regulations relate to the disclosure of information in relation to public service delivery, pursuant to Chapter 1 of Part 5 of the Digital Economy Act 2017 (c. 30) (\u201cthe Act\u201d), and in particular to the creation of the digital identity verification services objective.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/64",
+        "filename": "the-digital-government-disclos.txt"
+    },
+    {
+        "title": "The Benefit Cap (Annual Limit) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-03-28",
+        "description": "These Regulations revoke and re-enact the provisions of the Benefit Cap (Annual Limit) (Amendment No. 2) Regulations (Northern Ireland) 2023 which would otherwise cease to have effect by virtue of Article 102(1A) of the Welfare Reform (Northern Ireland) Order 2015.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/58",
+        "filename": "the-benefit-cap-annual-limit-a.txt"
+    },
+    {
+        "title": "The Coronavirus Act 2020 (Registration of Deaths and Still-Births) (Extension) (No.2) Order (Northern Ireland) 2024",
+        "date": "2024-04-30",
+        "description": "Section 18(3) of, and Part 3 of Schedule 13 to, the Coronavirus Act 2020 contain provisions relating to the registration of deaths and still-births in Northern Ireland.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/57",
+        "filename": "the-coronavirus-act-2020-regis-2.txt"
+    },
+    {
+        "title": "The Recovery of Health Services Charges (Amounts) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-05-22",
+        "description": "The Recovery of Health Services Charges (Northern Ireland) Order 2006 provides for a scheme for the recovery of charges in cases where an injured person who receives a compensation payment in respect of his injury has received hospital treatment or ambulance services. The charges are specified in certificates issued by the Department for Communities and are payable by persons who pay compensation to the injured person. The charges in each case are calculated by reference to a tariff of charges provided for by the Recovery of Health Services Charges (Amounts) Regulations (Northern Ireland) 2006 (\u201cthe principal Regulations\u201d).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/56",
+        "filename": "the-recovery-of-health-service-2.txt"
+    },
+    {
+        "title": "The Education (Student Loans) (Repayment) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-05-20",
+        "description": "These Regulations amend the Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2009 \u201cthe Repayment Regulations\u201d.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/55",
+        "filename": "the-education-student-loans-re.txt"
+    },
+    {
+        "title": "The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations (Northern Ireland) 2024",
+        "date": "2024-05-24",
+        "description": "These Regulations make amendments and modifications to various social security regulations.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/54",
+        "filename": "the-social-security-and-univer.txt"
+    },
+    {
+        "title": "The Social Security Revaluation of Earnings Factors Order (Northern Ireland) 2024",
+        "date": "2024-04-03",
+        "description": "This Order corresponds to an Order (S.I. 2024/284) made by the Secretary of State for Work and Pensions under section 148 of the Social Security Administration Act 1992. It directs that the earnings factors relevant to the calculation of additional pension in any long-term benefit (in practice, now relevant only to the calculation of inherited additional pension), or of any guaranteed minimum pension, or to any other calculation required under Part III of the Pension Schemes (Northern Ireland) Act 1993 are to be increased for the tax years specified in the Schedule to this Order by the percentage of their amount specified in that Schedule. This is to ensure that earnings factors for those years are revalued at 2023-2024 earnings levels.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/52",
+        "filename": "the-social-security-revaluatio.txt"
+    },
+    {
+        "title": "The Guaranteed Minimum Pensions Increase Order (Northern Ireland) 2024",
+        "date": "2024-05-20",
+        "description": "This Order, which corresponds to an Order (S.I. 2024/243) made by the Secretary of State for Work and Pensions under section 109(4) of the Pension Schemes Act 1993, specifies 3 per cent. as the percentage by which that part of guaranteed minimum pensions attributable to earnings factors for the tax years 1988-1989 to 1996-1997, and payable by contracted-out, defined benefit occupational pension schemes, is to be increased.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/51",
+        "filename": "the-guaranteed-minimum-pension.txt"
+    },
+    {
+        "title": "The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024",
+        "date": "2024-06-19",
+        "description": "These Regulations further amend the Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995(S.R.1995 No. 95) (\u201cthe 1995 Regulations\u201d), the Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008 (S.R. 2008 No.256) (\u201cthe 2008 Regulations\u201d), the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015 (S.R. 2015 No. 120) (\u201cthe 2015 Regulations\u201d), the Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015 No.122) (\u201cthe 2015 Transitional Regulations\u201d) and the Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) (\u201cthe 2023 McCloud Regulations\u201d) S.R. 2023 No.132.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/50",
+        "filename": "the-health-and-social-care-pen-3.txt"
+    },
+    {
+        "title": "The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-04-03",
+        "description": "These Regulations further amend The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015 (S.R. 2015 No. 120) (\u201cthe 2015 Regulations\u201d).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/49",
+        "filename": "the-health-and-social-care-pen-4.txt"
+    },
+    {
+        "title": "The Pneumoconiosis, etc., (Workers\u2019 Compensation) (Payment of Claims) (Amendment No. 2) Regulations (Northern Ireland) 2024",
+        "date": "2024-04-16",
+        "description": "Under the Pneumoconiosis, etc., (Workers\u2019 Compensation) (Northern Ireland) Order 1979 (\u201cthe 1979 Order\u201d) lump sum payments may be made to certain persons disabled by a disease to which the 1979 Order applies, or to dependants of persons who were so disabled before they died. The diseases covered by the 1979 Order are pneumoconiosis, byssinosis, diffuse mesothelioma, and such other diseases as are specified by the Department.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/48",
+        "filename": "the-pneumoconiosis-etc-workers.txt"
+    },
+    {
+        "title": "The Pneumoconiosis, etc., (Workers\u2019 Compensation) (Payment of Claims) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-05-31",
+        "description": "Under the Pneumoconiosis, etc., (Workers\u2019 Compensation) (Northern Ireland) Order 1979 (S.I. 1979/925 (N.I.9)) (\u201cthe Order\u201d) lump sum payments may be made to certain persons disabled by a disease to which the Order applies, or to dependants of persons who were so disabled before they died.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/47",
+        "filename": "the-pneumoconiosis-etc-workers-2.txt"
+    },
+    {
+        "title": "The Pneumoconiosis, etc., (Workers\u2019 Compensation) (Specified Diseases and Prescribed Occupations) (Amendment) Order (Northern Ireland) 2024",
+        "date": "2024-04-30",
+        "description": "Under the Pneumoconiosis, etc., (Workers\u2019 Compensation) (Northern Ireland) Order 1979 (S.I. 1979/925 (N.I. 9)) (\u201cthe 1979 Order\u201d) lump sum payments may be made to certain persons disabled by a disease to which the 1979 Order applies, or to dependants of persons who were so disabled before they died. The diseases covered by the 1979 Order are pneumoconiosis, byssinosis, diffuse mesothelioma, and such other diseases as are specified by the Department. The Pneumoconiosis, etc., (Workers\u2019 Compensation) (Specified Diseases) Order (Northern Ireland) 1986 (S.R. 1986 No. 168) specifies additional diseases to which the 1979 Order applies.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/46",
+        "filename": "the-pneumoconiosis-etc-workers-3.txt"
+    },
+    {
+        "title": "The Public Service Pensions Revaluation Order (Northern Ireland) 2024",
+        "date": "2024-05-31",
+        "description": "Section 9 of the Public Service Pensions Act (Northern Ireland) 2014 (c.2) (revaluation) applies to pension schemes which, under that Act, require a revaluation of pensionable earnings, or a proportion of such earnings, accrued as a pension, by reference to a change in prices or earnings (or both) in a given period.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/45",
+        "filename": "the-public-service-pensions-re.txt"
+    },
+    {
+        "title": "The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-04-03",
+        "description": "These Regulations further amend the Occupational and Personal Pension Schemes (General Levy) Regulations (Northern Ireland) 2005 (\u201cthe 2005 Regulations\u201d) by substituting paragraphs 2 to 13 of the Schedule to the 2005 Regulations to specify the figures to be used in calculating the rate at which the general levy for occupational pension schemes and personal pension schemes is payable.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/39",
+        "filename": "the-occupational-and-personal-.txt"
+    },
+    {
+        "title": "The Police Pensions (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-04-04",
+        "description": "These regulations amend the Royal Ulster Constabulary Pensions Regulations 1988 (\u201cthe 1988 Regulations\u201d), the Police Pension (Northern Ireland) Regulations 2009 (\u201cthe 2009 Regulations\u201d) and the Police Pensions Regulations (Northern Ireland) 2015 (\u201cthe 2015 Regulations\u201d).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/38",
+        "filename": "the-police-pensions-amendment-.txt"
+    },
+    {
+        "title": "The Misuse of Drugs (Designation) (Amendment) Order (Northern Ireland) 2024",
+        "date": "2024-03-27",
+        "description": "This Order amends the Misuse of Drugs (Designation) Order (Northern Ireland) 2001 (S.R. 2001 No. 431) (\u201cthe Order\u201d).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/37",
+        "filename": "the-misuse-of-drugs-designatio.txt"
+    },
+    {
+        "title": "The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024",
+        "date": "2024-10-23",
+        "description": "These Regulations omit certain provisions in regulations 2 and 4, and regulation 5 of the Non-Domestic Rating Act 2023 (Consequential Amendments to Secondary Legislation) (Wales) Regulations 2023 (\u201cthe 2023 Regulations\u201d) and make amendments to various statutory instruments.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/wsi/2024/37",
+        "filename": "the-non-domestic-rating-miscel.txt"
+    },
+    {
+        "title": "The Misuse of Drugs (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-03-27",
+        "description": "These Regulations amend the Misuse of Drugs Regulations (Northern Ireland) 2002 (S.R. 2002 No. 1) (\u201cthe 2002 Regulations\u201d).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/36",
+        "filename": "the-misuse-of-drugs-amendment-.txt"
+    },
+    {
+        "title": "The Energy Act 2023 (Commencement No. 1) Regulations 2024",
+        "date": "2024-03-27",
+        "description": "These Regulations bring into force specified provisions of the Energy Act 2023 (c. 52) (\u201cthe Act\u201d). These are the first set of commencement regulations under the Act.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/uksi/2024/32",
+        "filename": "the-energy-act-2023-commenceme.txt"
+    },
+    {
+        "title": "The Farming for the Generations Scheme (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-03-27",
+        "description": "These Regulations amend the Farming for the Generations Scheme Regulations (Northern Ireland) 2024 to omit regulation 9 and amend regulation 11 to remove powers of inspection.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/31",
+        "filename": "the-farming-for-the-generation.txt"
+    },
+    {
+        "title": "The Adoption and Children (2022 Act) (Commencement No. 2) Order (Northern Ireland) 2024",
+        "date": "2024-03-26",
+        "description": "This Order is made by the Department of Health under section 160(1) of the Adoption and Children Act (Northern Ireland) 2022 (the Act).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/30",
+        "filename": "the-adoption-and-children-2022-2.txt"
+    },
+    {
+        "title": "The Coronavirus Act 2020 (Registration of Deaths and Still-Births) (Extension) Order (Northern Ireland) 2024",
+        "date": "2024-03-27",
+        "description": "Section 18(3) of, and Part 3 of Schedule 13 to, the Coronavirus Act 2020 contain provisions relating to the registration of deaths and still-births in Northern Ireland.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/29",
+        "filename": "the-coronavirus-act-2020-regis-3.txt"
+    },
+    {
+        "title": "The Rates (Regional Rates) Order (Northern Ireland) 2024",
+        "date": "2024-05-03",
+        "description": "This Order fixes the amount of the regional rates for the year ending 31st March 2025. It fixes 29.02 pence in the pound as the amount of the regional rate to be levied on the rateable net annual values of hereditaments (\u201cnon-domestic regional rate\u201d) and 0.5042 pence in the pound as the amount of the regional rate to be levied on the rateable capital values of hereditaments (\u201cdomestic regional rate\u201d).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/28",
+        "filename": "the-rates-regional-rates-order.txt"
+    },
+    {
+        "title": "The Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-03-25",
+        "description": "These Regulations amend the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996 (S.R. 1996 No. 542) (\u201cThe 1996 Regulations\u201d).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/22",
+        "filename": "the-motor-vehicles-driving-lic.txt"
+    },
+    {
+        "title": "The Social Security (Gibraltar) Order (Northern Ireland) 2024",
+        "date": "2024-06-25",
+        "description": "This Order makes provision for the modification of certain social security legislation, so as to give effect to the Agreement on Social Security in the Schedule as set out in the Exchange of Letters between His Majesty\u2019s Government of the United Kingdom of Great Britain and Northern Ireland and His Majesty\u2019s Government of Gibraltar dated 25th January 2024 and 26th January 2024, respectively (\u201cthe Agreement\u201d).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/21",
+        "filename": "the-social-security-gibraltar-.txt"
+    },
+    {
+        "title": "The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2024",
+        "date": "2024-04-03",
+        "description": "This Order, which corresponds to provisions of an Order (S.I. 2024/101) made by the Secretary of State for Work and Pensions under section 178 of the Pensions Act 2004, specifies, for the purposes of Article 160 of the Pensions (Northern Ireland) Order 2005 (\u201cthe 2005 Order\u201d), the levy ceiling for the financial year beginning on 1st April 2024.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/20",
+        "filename": "the-pension-protection-fund-an.txt"
+    },
+    {
+        "title": "The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-09-18",
+        "description": "These Regulations amend legislation which makes provision about, or in connection with, student finance. Three sets of Student Support Regulations are amended. Those Regulations are the Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 \u201cthe 2009 Regulations\u201d, the Student Fees (Amounts) Regulations (Northern Ireland) 2005 (\u201cthe 2005 Regulations\u201d) and the Student Fees (Qualifying Courses and Persons) Regulations (Northern Ireland) 2007 \u201cthe 2007 Regulations\u201d.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/19",
+        "filename": "the-education-student-support--2.txt"
+    },
+    {
+        "title": "The Universal Credit and Jobseeker\u2019s Allowance (Work Search and Work Availability Requirements - limitations) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-05-31",
+        "description": "These Regulations amend regulation 95(5) of the Universal Credit Regulations (Northern Ireland) 2016 (S.R. 2016 No. 216) and regulation 14(3)(b) of the Jobseeker\u2019s Allowance Regulations (Northern Ireland) 2016 (S.R. 2016 No. 218).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/18",
+        "filename": "the-universal-credit-and-jobse.txt"
+    },
+    {
+        "title": "The Police Act 1997 (Criminal Records) (Fees) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-04-02",
+        "description": "These Regulations amend the Police Act 1997 (Criminal Records) (Disclosure) Regulations (Northern Ireland) 2008 (\u201cthe disclosure Regulations\u201d).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/17",
+        "filename": "the-police-act-1997-criminal-r.txt"
+    },
+    {
+        "title": "The Meat Preparations (Amendment and Transitory Modification) (Wales) (Amendment) Regulations 2024 (revoked)",
+        "date": "2024-06-26",
+        "description": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/wsi/2024/17",
+        "filename": "the-meat-preparations-amendmen.txt"
+    },
+    {
+        "title": "The Farming for the Generations Scheme Regulations (Northern Ireland) 2024",
+        "date": "2024-03-22",
+        "description": "The Regulations establish the Farming for the Generations Scheme (\u2018the Scheme\u2019). The Scheme provides for grant payments to be made by the Department of Agriculture, Environment and Rural Affairs for the purposes of generational succession planning for farm businesses.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/16",
+        "filename": "the-farming-for-the-generation-2.txt"
+    },
+    {
+        "title": "The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2024",
+        "date": "2024-11-14",
+        "description": "These Regulations revoke and re-enact the Occupational Pension Schemes (Collective Money Purchase Schemes) (No. 2) Regulations (Northern Ireland) 2023 (\u201cthe Collective Money Purchase Schemes Regulations\u201d) which would otherwise cease to have effect by virtue of section 112(3)(b) of the Pensions (No. 2) Act (Northern Ireland) 2008, section 51(3)(b) of the Pensions Act (Northern Ireland) 2015 and section 102(5)(b) of the Pension Schemes Act 2021 (\u201cthe 2021 Act\u201d). Like the Collective Money Purchase Schemes Regulations, the Regulations implement the new authorisation and supervisory regime for collective money purchase schemes under Part 2 of the 2021 Act. They also make provision for amendments to subordinate legislation in relation to schemes providing collective money purchase benefits.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/15",
+        "filename": "the-occupational-pension-schem-6.txt"
+    },
+    {
+        "title": "The Government Resources and Accounts (Northern Ireland) Act 2001 (Estimates and Accounts) (Designation of Bodies) (Amendment) Order 2024",
+        "date": "2024-05-20",
+        "description": "This Order amends the Government Resources and Accounts (Northern Ireland) Act 2001 (Estimates and Accounts) (Designation of Bodies) Order 2023 (S.I. 2023 No. 53) (\u201cthe principal Order\u201d), which designates specified central government bodies in relation to named government departments for the purpose of those departments\u2019 supply estimates and resource accounts.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/7",
+        "filename": "the-government-resources-and-a-2.txt"
+    },
+    {
+        "title": "The Child Support Fees (Revocation) Regulations (Northern Ireland) 2024",
+        "date": "2024-01-24",
+        "description": "These Regulations revoke and re-enact the provisions of the Child Support Fees (Revocation) Regulations (Northern Ireland) 2023 which would otherwise cease to have effect by virtue of section 36(4) of the Child Maintenance Act (Northern Ireland) 2008. These Regulations amend the Child Support Fees Regulations (Northern Ireland) 2014 so as to revoke regulation 3(6) and (7).",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/6",
+        "filename": "the-child-support-fees-revocat.txt"
+    },
+    {
+        "title": "The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-05-31",
+        "description": "These Regulations make further provision for transition to universal credit following the case of the Queen (on the application of) TP and AR (TP and AR No. 3) ([2022] EWHC 123 Admin), in which the court concluded that there was a difference in treatment between severe disability premium recipients who naturally migrated from legacy benefits to universal credit, by virtue of making a claim to universal credit as a result of a change in their circumstances, and those who remain on legacy benefits.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/5",
+        "filename": "the-universal-credit-transitio.txt"
+    },
+    {
+        "title": "The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2024",
+        "date": "2024-06-11",
+        "description": "These Regulations make provision as to the amount payable in certain circumstances as non-domestic rates in Scotland. They apply to the financial year 2024-2025. The Regulations do not apply where a non-domestic property is shown in a merged, split or reorganised entry in the valuation roll which takes effect during the financial year 2024-2025.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/ssi/2024/5",
+        "filename": "the-non-domestic-rates-transit.txt"
+    },
+    {
+        "title": "The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-01-12",
+        "description": "These Regulations amend the Housing Benefit (Executive Determinations) Regulations (Northern Ireland) 2008 (S.R. 2008 No. 100) and the Universal Credit Housing Costs (Executive Determinations) Regulations (Northern Ireland) 2016 (S.R. 2016 No. 222) to make changes to how the local housing allowance is determined.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/3",
+        "filename": "the-housing-benefit-and-univer.txt"
+    },
+    {
+        "title": "The New NAV List (Time of Valuation) Order (Northern Ireland) 2024",
+        "date": "2024-02-02",
+        "description": "This Order specifies 1st April 2024 as the time by reference to which net annual values are to be ascertained for the purposes of the new NAV list coming into force on 1st April 2026.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/2",
+        "filename": "the-new-nav-list-time-of-valua.txt"
+    },
+    {
+        "title": "The Rates (Small Business Hereditament Relief) (Amendment) Regulations (Northern Ireland) 2024",
+        "date": "2024-02-02",
+        "description": "These Regulations amend the definition of \u201cqualifying year\u201d in the Rates (Small Business Hereditament Relief) Regulations (Northern Ireland) 2010 to provide for an extension of the small business rate relief scheme until 31st March 2025.",
+        "publisher": "Statute Law Database",
+        "identifier": "http://www.legislation.gov.uk/nisr/2024/1",
+        "filename": "the-rates-small-business-hered.txt"
+    }
+]

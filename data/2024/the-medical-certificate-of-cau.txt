@@ -1,0 +1,1409 @@
+Title: The Medical Certificate of Cause of Death Regulations 2024
+Date: 2024-10-31
+Description: These Regulations make provision for the certification of deaths in England and Wales by attending practitioners and medical examiners.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2024/492
+
+## The Medical Certificate of Cause of Death Regulations 2024
+
+    MEDICAL PROFESSION, ENGLAND AND WALES       CORONERS, ENGLAND AND WALES
+
+  Made   at 6.25 p.m. on 11th April 2024
+
+  Laid before Parliament   15th April 2024
+
+  Coming into force   9th September 2024
+
+      The Secretary of State makes these Regulations in exercise of the powers
+conferred by sections 20(1)(a) to (k), (m) and (o), and 176(3) of the Coroners
+and Justice Act 2009  and section 26(2) of the Welsh Language Act 1993 .
+In accordance with section 20(3) of the Coroners and Justice Act 2009, the
+Secretary of State has consulted the Welsh Ministers, the Registrar General
+and the Statistics Board in relation to the forms prescribed under section
+20(1)(m) of that Act.
+
+### General
+
+#### Citation, commencement, extent and application
+
+1
+
+1.1
+
+These Regulations may be cited as the Medical Certificate of Cause of Death
+Regulations 2024 and come into force on 9th September 2024.
+
+1.2
+
+These Regulations extend to England and Wales.
+
+1.3
+
+These Regulations apply in relation to a death that is required to be
+registered under Part 2 of the 1953 Act .
+
+#### Interpretation
+
+2
+
+In these Regulations—
+
+      “ the Act ” means the Coroners and Justice Act 2009;           “
+appropriate medical examiner ” means a medical examiner to whom the death has
+been allocated by an English NHS body or a Welsh NHS body, as the case may be;
+“ attending practitioner ” means a registered medical practitioner  who
+attended the deceased before their death;           “ attending practitioner’s
+certificate ” has the meaning given in regulation 3(3);           “ confirmed
+attending practitioner’s certificate ” has the meaning given in regulation
+11(3);           “ English NHS body ” has the meaning set out in section
+18A(4) of the Act (Medical Examiners: England) ;           “ health record ”
+has the meaning given by section 1 of the Access to Health Records Act 1990
+(“health record” and related expressions) ;           “ medical examiner’s
+certificate ” has the meaning given in regulation 19(2);           “ other
+relevant medical practitioner ” means a registered medical practitioner  who,
+in relation to a death, is not a relevant attending practitioner, but has—
+made a notification or referral to a senior coroner under any enactment,
+sought advice from a medical examiner; or           sought to fulfil any
+function under these Regulations;                 “ relevant attending
+practitioner ” means the attending practitioner who has—         prepared the
+attending practitioner’s certificate under regulation 3(1)(b)(i), and
+made available such certificate to the appropriate medical examiner under
+regulation 3(1)(c)(i);                 “ relevant health records ” means
+health records containing information about—         any disease or condition
+which may have led directly or indirectly to the death, or           any other
+disease or condition which may have significantly contributed to the death;
+“ relevant senior coroner ”, in relation to a death, means the senior coroner
+appointed for the coroner area  in which the body of the deceased person lies;
+“ Welsh NHS body ” has the meaning set out in section 18B(3) of the Act
+(Medical Examiners: Wales) .
+
+### Attending practitioner’s certificate
+
+#### Attending practitioner’s certificate
+
+3
+
+3.1
+
+As soon as practicable after becoming aware of a death, an attending
+practitioner must—
+
+3.1.a
+
+review—
+
+3.1.a.i
+
+the deceased person’s relevant health records;
+
+3.1.a.ii
+
+the results of any physical examination of the body of the deceased person
+undertaken by the practitioner or any other registered medical practitioner;
+and
+
+3.1.a.iii
+
+any other information which the practitioner considers relevant,
+
+with a view to establishing the cause of death to the best of the
+practitioner’s knowledge and belief;
+
+3.1.b
+
+either—
+
+3.1.b.i
+
+prepare and sign an attending practitioner’s certificate; or
+
+3.1.b.ii
+
+where they are not able to establish the cause of death, refer the death to
+the relevant senior coroner; and
+
+3.1.c
+
+where they have prepared and signed an attending practitioner’s certificate,
+make available to an appropriate medical examiner—
+
+3.1.c.i
+
+the attending practitioner’s certificate; and
+
+3.1.c.ii
+
+the deceased person’s relevant health records and any other information
+reviewed under sub-paragraph (1)(a).
+
+3.2
+
+Paragraph (1) does not apply where—
+
+3.2.a
+
+another attending practitioner has given an attending practitioner’s
+certificate to an appropriate medical examiner in relation to the death;
+
+3.2.b
+
+the relevant senior coroner has referred the death to an appropriate medical
+examiner under regulation 15(1); or
+
+3.2.c
+
+the relevant senior coroner has decided that there is a duty to conduct an
+investigation into the death under section 1 of the Act.
+
+3.3
+
+For the purposes of these Regulations, “ attending practitioner’s certificate
+” means the certificate referred to in section 20(1)(a)(i) of the Act which
+shall take the form of—
+
+3.3.a
+
+in the case of a death of a child within the period of 28 days beginning with
+the day of the child’s birth, the certificate in either of the forms set out
+in Part 1 or Part 2 of Schedule 1;
+
+3.3.b
+
+in the case of any other death, the certificate in either of the forms set out
+in Part 1 or Part 2 of Schedule 2.
+
+#### Attending practitioner’s referral to the relevant senior coroner
+
+4
+
+4.1
+
+If at that time there are exceptional circumstances to justify doing so, a
+referral under regulation 3(1)(b)(ii) may be made orally, but otherwise must
+be in writing.
+
+4.2
+
+An attending practitioner who makes a referral to the relevant senior coroner
+orally under paragraph (1) must, as soon as practicable thereafter, confirm
+the referral in writing to the relevant senior coroner.
+
+4.3
+
+When making a referral under regulation 3(1)(b)(ii), or as soon as practicable
+thereafter, in addition to complying with the duty set out in regulation 2 of
+the Notification of Deaths Regulations 2019 , the attending practitioner must
+provide to the relevant senior coroner any information referred to in
+regulation 3(1)(a) not already provided to the relevant senior coroner.
+
+4.4
+
+Subject to paragraph (5), where the relevant senior coroner has—
+
+4.4.a
+
+received a referral or notification of a death under any enactment; and
+
+4.4.b
+
+decided that there is no duty under section 1 of the Act to conduct an
+investigation into the death,
+
+the relevant senior coroner must notify the attending practitioner of that
+decision and the reasons for it.
+
+4.5
+
+Paragraph (4) does not apply to a referral to the relevant senior coroner
+under regulations 10(1) or 20(1).
+
+4.6
+
+Where an attending practitioner receives a notification under paragraph (4),
+the practitioner must, as soon as practicable, comply with any duties of the
+practitioner under these Regulations that had not been complied with prior to
+the referral or notification of the death to the relevant senior coroner.
+
+#### Duties of medical examiner after receiving attending practitioner’s certificate
+
+5
+
+Regulations 6 to 13 apply where an appropriate medical examiner is provided
+with an attending practitioner’s certificate under regulation 3(1)(c)(i) or
+regulation 13(2)(b)(i) in relation to a death.
+
+#### Medical examiner’s scrutiny of cause of death
+
+6
+
+6.1
+
+The appropriate medical examiner must, as soon as practicable, with a view to
+confirming the cause of death—
+
+6.1.a
+
+make whatever enquiries the examiner considers necessary;
+
+6.1.b
+
+take into account any conclusions drawn from any enquiries made under sub-
+paragraph (a) and any information provided under regulations 3(1)(c) and
+13(4); and
+
+6.1.c
+
+take into account any other information which the examiner considers relevant.
+
+6.2
+
+The appropriate medical examiner must make a record of any conclusions drawn
+from the enquiries made and information considered in sub-paragraphs (1)(a),
+(b) and (c).
+
+6.3
+
+The appropriate medical examiner may undertake an external examination of the
+body of the deceased person, or, subject to paragraphs (4) to (7), instruct
+another individual to do so on their behalf, with a view to confirming the
+cause of death.
+
+6.4
+
+The appropriate medical examiner may only appoint another individual to
+undertake an external examination of the body of the deceased person for the
+purpose of paragraph (3) where—
+
+6.4.a
+
+in the opinion of the examiner that individual has suitable expertise; and
+
+6.4.b
+
+none of the circumstances in paragraph (5) apply.
+
+6.5
+
+The circumstances are that the individual—
+
+6.5.a
+
+is the spouse, ex-spouse, civil partner or ex-civil partner of—
+
+6.5.a.i
+
+the deceased person (“ D ”);
+
+6.5.a.ii
+
+the relevant attending practitioner (“ AP ”); or
+
+6.5.a.iii
+
+any other relevant medical practitioner (“ OP ”);
+
+6.5.b
+
+is, or was, living together with D, AP or OP as if they were a spouse or civil
+partner;
+
+6.5.c
+
+is, or was, closely related to D, AP or OP;
+
+6.5.d
+
+is or, was, a partner, employer, employee or associate of D, AP or OP;
+
+6.5.e
+
+attended D during the course of D’s last illness;
+
+6.5.f
+
+had a financial interest in D’s estate; or
+
+6.5.g
+
+has or had any other association, relationship or connection with D, AP or OP
+such as to give the appropriate medical examiner reasonable doubt as to the
+practitioner’s objectivity to carry out an external examination of D.
+
+6.6
+
+In sub-paragraph (5)(c), “ closely related ” means a parent, sister, half-
+sister, brother, half-brother, son, daughter, uncle, aunt, grandparent,
+grandchild, first cousin, nephew, niece, parent-in-law, grandchild-in-law,
+sister-in-law, brother-in-law, son-in-law, daughter-in-law, stepchild, step-
+parent, stepbrother or stepsister.
+
+6.7
+
+In paragraph (6), references to step relationships and in-laws are to be read
+in accordance with section 246 (interpretation of statutory references to
+stepchildren etc) of the Civil Partnership Act 2004 .
+
+#### Relevant attending practitioner’s duty to respond to medical examiner enquiries
+
+7
+
+7.1
+
+The relevant attending practitioner must be available, as far as reasonably
+practicable, to respond to any enquiries that the appropriate medical examiner
+may have in connection with the attending practitioner’s certificate.
+
+7.2
+
+The appropriate medical examiner must make a record of—
+
+7.2.a
+
+the relevant attending practitioner’s response to any enquiries made under
+paragraph (1); and
+
+7.2.b
+
+any discussions that take place between the examiner and the relevant
+attending practitioner in relation to the attending practitioner’s
+certificate.
+
+#### Medical examiner’s duty to discuss the cause of death
+
+8
+
+8.1
+
+The appropriate medical examiner, or someone acting on behalf of the examiner,
+must, as soon as practicable—
+
+8.1.a
+
+take reasonable steps to discuss the cause of death with a person who is
+qualified to give information concerning the death under sections 16(2) or
+17(2) of the 1953 Act or any other person whom the examiner considers
+appropriate;
+
+8.1.b
+
+offer a person mentioned in sub-paragraph (a) an opportunity to raise any
+matter which might cause the relevant senior coroner to think that there is a
+duty to investigate the death under section 1 of the Act; and
+
+8.1.c
+
+make a summary record of any discussion under sub-paragraphs (a) or (b) and
+its outcome.
+
+8.2
+
+Paragraph (1) does not apply where, in the case of a death for which a revised
+attending practitioner’s certificate has been completed under regulation
+13(2)(a), the appropriate medical examiner or someone acting on their behalf
+has previously complied with the requirements of paragraph (1) in relation to
+the death.
+
+#### Medical examiner’s confirmation of cause of death
+
+9
+
+9.1
+
+Paragraph (2) applies where, after complying with regulations 6 and 8 in
+relation to a death, the appropriate medical examiner is satisfied that—
+
+9.1.a
+
+the cause of death stated on the attending practitioner’s certificate relating
+to the death is accurate; and
+
+9.1.b
+
+that certificate is duly completed.
+
+9.2
+
+The appropriate medical examiner must, as soon as practicable, confirm the
+cause of death as stated on the attending practitioner’s certificate by
+signing that certificate (“confirmed attending practitioner’s certificate”).
+
+#### Medical examiner’s referral to the relevant senior coroner
+
+10
+
+10.1
+
+The appropriate medical examiner must, as soon as practicable, refer the death
+to the relevant senior coroner where—
+
+10.1.a
+
+after complying with regulations 6 and 8 in relation to the death, the
+examiner is unable to confirm the cause of death; or
+
+10.1.b
+
+in the course of complying with regulations 6 and 8 in relation to the death,
+the examiner forms the opinion that the duty to notify the relevant senior
+coroner arises under regulation 2 of the Notification of Deaths Regulations
+2019.
+
+10.2
+
+If at that time there are exceptional circumstances to justify doing so, a
+referral under paragraph (1) may be made orally but otherwise must be in
+writing.
+
+10.3
+
+The medical examiner who notifies the relevant senior coroner orally under
+paragraph (2) must, as soon as practicable thereafter, confirm the referral in
+writing to the relevant senior coroner.
+
+10.4
+
+When making a referral under paragraph (1), or as soon as practicable
+thereafter, in addition to complying with the duties set out in regulation 2
+of the Notification of Deaths Regulations 2019, the appropriate medical
+examiner must provide the following information to the relevant senior coroner
+in relation to the death—
+
+10.4.a
+
+the information provided under regulation 3(1)(c)(ii);
+
+10.4.b
+
+any record made under regulation 7(2);
+
+10.4.c
+
+any record made under regulation 8(1)(c); and
+
+10.4.d
+
+any other information the examiner considers appropriate,
+
+except where that information has already been provided to the relevant senior
+coroner.
+
+10.5
+
+Where, after receiving a referral under paragraph (1), the relevant senior
+coroner decides that there is a duty to conduct an investigation into the
+death under section 1 of the Act—
+
+10.5.a
+
+the relevant senior coroner must notify the appropriate medical examiner of
+that decision; and
+
+10.5.b
+
+the appropriate medical examiner must notify the relevant attending
+practitioner of that notification.
+
+10.6
+
+Where the relevant senior coroner has received a referral under paragraph (1)
+and decided that there is no duty to conduct an investigation into the death
+under section 1 of the Act, the relevant senior coroner must—
+
+10.6.a
+
+notify an appropriate medical examiner of that decision and the reasons for
+it; and
+
+10.6.b
+
+provide the examiner with a copy of any information relied upon in making that
+decision, except where that information was provided under paragraph (4).
+
+10.7
+
+After receiving a notification under paragraph (6), the appropriate medical
+examiner must—
+
+10.7.a
+
+notify the attending practitioner of the relevant senior coroner’s decision
+and reasons for it; and
+
+10.7.b
+
+make available to the attending practitioner any information provided under
+paragraph (6)(b).
+
+10.8
+
+Where an appropriate medical examiner notifies an attending practitioner under
+paragraph (7), the attending practitioner and appropriate medical examiner
+must comply with any duties under these Regulations in relation to the death
+that had not been complied with prior to the referral to the relevant senior
+coroner under paragraph (1).
+
+#### Confirmed attending practitioner’s certificate to be given to registrar
+
+11
+
+11.1
+
+The appropriate medical examiner must, without unreasonable delay after
+confirming the cause of death under regulation 9(2), notify a registrar that
+the cause of death has been confirmed by giving the confirmed attending
+practitioner’s certificate to the registrar.
+
+11.2
+
+After complying with the duty in paragraph (1), the appropriate medical
+examiner must, without unreasonable delay, take reasonable steps to ensure
+that a person mentioned in regulation 8(1)(a) is aware that the confirmed
+attending practitioner’s certificate has been given to the registrar in
+accordance with paragraph (1).
+
+11.3
+
+In these Regulations, “ confirmed attending practitioner’s certificate ” means
+an attending practitioner’s certificate in respect of which the cause of death
+has been confirmed by a medical examiner in accordance with regulation 9(2).
+
+#### Invitation to attending practitioner to issue a revised attending practitioner’s certificate
+
+12
+
+12.1
+
+Where an informant  provides the registrar with information which leads the
+registrar to believe that the cause of death stated on the confirmed attending
+practitioner’s certificate may need to be revised, the registrar must consult
+an appropriate medical examiner as to any such revision.
+
+12.2
+
+After consultation with the registrar in accordance with paragraph (1), the
+appropriate medical examiner must either—
+
+12.2.a
+
+make available to an attending practitioner the information provided under
+paragraph (1), invite the attending practitioner to revise the attending
+practitioner’s certificate and inform the registrar of the invitation to
+revise; or
+
+12.2.b
+
+inform the registrar of the examiner’s reasons not to invite the attending
+practitioner to revise the attending practitioner’s certificate.
+
+#### Revised attending practitioner’s certificate
+
+13
+
+13.1
+
+Where the attending practitioner has been invited to revise the attending
+practitioner’s certificate under regulation 12, the attending practitioner
+must, as soon as practicable, review—
+
+13.1.a
+
+the deceased person’s relevant health records;
+
+13.1.b
+
+the results of any physical examination of the body of the deceased person
+undertaken by the practitioner or any other registered medical practitioner;
+
+13.1.c
+
+any information provided under regulation 12(2)(a); and
+
+13.1.d
+
+any other information which the practitioner considers relevant,
+
+with a view to establishing the cause of death to the best of the
+practitioner’s knowledge and belief.
+
+13.2
+
+Where the attending practitioner agrees to revise the attending practitioner’s
+certificate, the attending practitioner must, as soon as practicable—
+
+13.2.a
+
+revise the attending practitioner’s certificate; and
+
+13.2.b
+
+make available to an appropriate medical examiner—
+
+13.2.b.i
+
+the revised attending practitioner’s certificate;
+
+13.2.b.ii
+
+any information considered under paragraph (1) that has not already been
+provided to the examiner; and
+
+13.2.b.iii
+
+any other information relevant to establishing the cause of death, except
+where that information was provided under regulation 3(1)(c).
+
+13.3
+
+Paragraphs (4) to (6) apply where, after fulfilling the duties in paragraph
+(1), the attending practitioner does not agree to revise the attending
+practitioner’s certificate in relation to a death.
+
+13.4
+
+The attending practitioner must, as soon as practicable, make available to an
+appropriate medical examiner—
+
+13.4.a
+
+the attending practitioner’s certificate;
+
+13.4.b
+
+any information considered under sub-paragraph (1)(b);
+
+13.4.c
+
+any other information relevant to establishing the cause of death, except
+where that information was provided under regulation 3(1)(c); and
+
+13.4.d
+
+the attending practitioner’s reasons for not agreeing to revise the attending
+practitioner’s certificate.
+
+13.5
+
+The appropriate medical examiner must, as soon as practicable—
+
+13.5.a
+
+review the information provided under paragraph (4);
+
+13.5.b
+
+to the extent the examiner considers appropriate, comply with the duties set
+out in regulations 6 to 8 afresh; and
+
+13.5.c
+
+comply with the duties set out in regulations 9 to 11 afresh.
+
+13.6
+
+When complying with regulation 11 afresh pursuant to sub-paragraph (5)(c), the
+appropriate medical examiner must inform the registrar of—
+
+13.6.a
+
+the attending practitioner’s decision not to revise the attending
+practitioner’s certificate and the reasons for that decision; and
+
+13.6.b
+
+any other information the examiner considers relevant.
+
+#### Attending practitioner’s availability to fulfil duties
+
+14
+
+Where an attending practitioner is unable to carry out any duties imposed on
+the practitioner under this Part within a reasonable time, another attending
+practitioner must carry out those duties.
+
+### Medical examiner’s certificate
+
+#### Relevant senior coroner referral to a medical examiner
+
+15
+
+15.1
+
+Where the relevant senior coroner is notified of a person’s death under
+regulation 2 of the Notification of Deaths Regulations 2019 because the
+circumstances described in regulation 3(1)(e) or (f) of those Regulations
+apply, the relevant senior coroner must refer that death to an appropriate
+medical examiner.
+
+15.2
+
+Paragraph (1) does not apply where—
+
+15.2.a
+
+the relevant senior coroner has decided that there is a duty to conduct an
+investigation into the death under section 1 of the Act; or
+
+15.2.b
+
+at the time of the death, the deceased had a relevant association with a
+visiting force.
+
+15.3
+
+In making a referral under paragraph (1), the relevant senior coroner must
+make available to the appropriate medical examiner the reasons for the
+referral and a copy of such information relied upon in making it.
+
+15.4
+
+In paragraph (2), references to a visiting force, and to a person’s having, at
+the time of death, a relevant association with a visiting force, have the same
+meaning given to those expressions in section 12 of the Visiting Forces Act
+1952 .
+
+#### Duties of medical examiner after receiving referral from relevant senior coroner
+
+16
+
+Regulations 17 to 23 apply where a death is referred by the relevant senior
+coroner to an appropriate medical examiner under regulation 15(1).
+
+#### Referral by relevant senior coroner: medical examiner’s duties
+
+17
+
+17.1
+
+The appropriate medical examiner must, as soon as practicable and with a view
+to establishing the cause of death to the best of the examiner’s knowledge and
+belief—
+
+17.1.a
+
+review the deceased person’s relevant health records;
+
+17.1.b
+
+make whatever enquiries the examiner considers necessary; and
+
+17.1.c
+
+take into account any information—
+
+17.1.c.i
+
+provided under regulation 15(3); and
+
+17.1.c.ii
+
+which the examiner considers relevant.
+
+17.2
+
+The appropriate medical examiner must make a record of any conclusions drawn
+from taking into account the information referred to in paragraph (1).
+
+17.3
+
+The appropriate medical examiner may undertake an external examination of the
+body of the deceased person, or, subject to paragraphs (4) to (7), instruct
+another individual to do so on their behalf, with a view to establishing the
+cause of death to the best of their knowledge and belief.
+
+17.4
+
+The appropriate medical examiner may only appoint another individual to
+undertake an external examination of the body of the deceased person for the
+purpose of paragraph (3) where—
+
+17.4.a
+
+in the opinion of the examiner, the individual has suitable expertise; and
+
+17.4.b
+
+none of the circumstances in paragraph (5) apply.
+
+17.5
+
+The circumstances are that the individual—
+
+17.5.a
+
+is the spouse, ex-spouse, civil partner or ex-civil partner of—
+
+17.5.a.i
+
+the deceased person (“ D ”); or
+
+17.5.a.ii
+
+an other relevant medical practitioner (“ OP ”);
+
+17.5.b
+
+is, or was, living together with D or OP as if they were a spouse or civil
+partner;
+
+17.5.c
+
+is, or was, closely related to D or OP;
+
+17.5.d
+
+attended D during the course of D’s last illness;
+
+17.5.e
+
+is or, was, a partner, employer, employee or associate of D or OP;
+
+17.5.f
+
+had a financial interest in D’s estate; or
+
+17.5.g
+
+has or had any other association, relationship or connection with D or OP such
+as to give the appropriate medical examiner reasonable doubt as to the
+individual’s objectivity to carry out an external examination of D.
+
+17.6
+
+In paragraph (5), “ closely related ” means a parent, sister, half-sister,
+brother, half-brother, son, daughter, uncle, aunt, grandparent, grandchild,
+first cousin, nephew, niece, parent-in-law, grandchild-in-law, sister-in-law,
+brother-in-law, son-in-law, daughter-in-law, stepchild, step-parent,
+stepbrother or stepsister.
+
+17.7
+
+In paragraph (6), references to step relationships and in-laws are to be read
+in accordance with section 246 (interpretation of statutory references to
+stepchildren etc) of the Civil Partnership Act 2004.
+
+#### Medical examiner’s duty to discuss the cause of death
+
+18
+
+The appropriate medical examiner, or someone acting on behalf of the examiner,
+must, as soon as practicable—
+
+18.a
+
+take reasonable steps to discuss the cause of death with a person who is
+qualified to give information concerning the death under sections 16(2) or
+17(2) of the 1953 Act or any other person whom the examiner considers
+appropriate;
+
+18.b
+
+offer a person mentioned in sub-paragraph (a) an opportunity to raise any
+matter which might cause the relevant senior coroner to think that there is a
+duty to investigate the death under section 1 of the Act; and
+
+18.c
+
+make a summary record of any discussion under sub-paragraphs (a) or (b) and
+its outcome.
+
+#### Preparation of medical examiner’s certificate
+
+19
+
+19.1
+
+Subject to regulation 20(1), the appropriate medical examiner must, as soon as
+practicable after complying with regulations 17 and 18 in relation to a death,
+prepare and sign a medical examiner’s certificate.
+
+19.2
+
+For the purposes of these Regulations, “ medical examiner’s certificate ”
+means the certificate referred to in section 20(1)(h)(i) of the Act which
+shall take the form of—
+
+19.2.a
+
+in the case of a death of a child within the period of 28 days beginning with
+the day of the child’s birth, the certificate in either of the forms set out
+in Part 1 or Part 2 of Schedule 3;
+
+19.2.b
+
+in the case of any other death, the certificate in either of the forms set out
+in Part 1 or Part 2 of Schedule 4.
+
+#### Medical examiner’s referral back to the relevant senior coroner
+
+20
+
+20.1
+
+The appropriate medical examiner must, as soon as practicable, refer the death
+back to the relevant senior coroner where the examiner—
+
+20.1.a
+
+after complying with regulations 17 and 18 in relation to the death, is unable
+to establish the cause of death to the best of the examiner’s knowledge and
+belief; or
+
+20.1.b
+
+forms the opinion that the duty to notify the relevant senior coroner arises
+under regulation 2 of the Notification of Deaths Regulations 2019.
+
+20.2
+
+If at that time there are exceptional circumstances to justify doing so, a
+referral under paragraph (1) may be made orally but otherwise must be in
+writing.
+
+20.3
+
+An appropriate medical examiner who refers a death back to the relevant senior
+coroner orally under paragraph (2) must, as soon as practicable thereafter,
+confirm the referral in writing to the relevant senior coroner.
+
+20.4
+
+When making a referral under paragraph (1), or as soon as practicable
+thereafter, in addition to complying with the duties set out in regulation 2
+of the Notification of Deaths Regulations 2019, the appropriate medical
+examiner must provide the following information to the relevant senior
+coroner—
+
+20.4.a
+
+the deceased person’s relevant health records and any other information that
+was considered under regulation 17(1);
+
+20.4.b
+
+the record made under regulation 17(2);
+
+20.4.c
+
+any record made under regulation 18(c); and
+
+20.4.d
+
+any other information the medical examiner considers appropriate,
+
+except where that information has already been provided to the relevant senior
+coroner.
+
+20.5
+
+Where, after receiving a referral under paragraph (1), the relevant senior
+coroner decides that there is a duty to conduct an investigation into the
+death under section 1 of the Act, the relevant senior coroner must notify the
+appropriate medical examiner of that decision.
+
+20.6
+
+Where the relevant senior coroner has received a referral under paragraph (1)
+and decided that there is no duty to conduct an investigation into the death
+under section 1 of the Act, the relevant senior coroner must—
+
+20.6.a
+
+notify the appropriate medical examiner of that decision and the reasons for
+it; and
+
+20.6.b
+
+provide the examiner with a copy of any information relied upon in making that
+decision, except where that information was provided under paragraph (4).
+
+20.7
+
+After receiving a notification under paragraph (6), the appropriate medical
+examiner must comply with any duties of the examiner under regulations 17 to
+19 and this regulation in relation to the death that had not been complied
+with prior to the referral to the relevant senior coroner under paragraph (1).
+
+#### Medical examiner’s certificate to be given to a registrar
+
+21
+
+21.1
+
+The appropriate medical examiner must, without unreasonable delay after
+preparing and signing a medical examiner’s certificate under regulation 19,
+notify a registrar that a certificate has been prepared by giving the medical
+examiner’s certificate to the registrar.
+
+21.2
+
+After complying with the duty in paragraph (1), the appropriate medical
+examiner must, without unreasonable delay, take reasonable steps to ensure
+that a person mentioned in regulation 18(a) is aware that the medical
+examiner’s certificate has been given to the registrar in accordance with
+paragraph (1).
+
+#### Registrar’s invitation to medical examiner to issue a revised medical examiner’s certificate
+
+22
+
+Where an informant provides the registrar with information which leads the
+registrar to believe that the cause of death stated on the medical examiner’s
+certificate may need to be revised, the registrar must provide that
+information to the appropriate medical examiner and invite the examiner to
+revise the medical examiner’s certificate.
+
+#### Revised medical examiner’s certificate
+
+23
+
+23.1
+
+Where an appropriate medical examiner has been invited to revise the medical
+examiner’s certificate under regulation 22, the examiner must, as soon as
+practicable and to the extent they consider appropriate, review—
+
+23.1.a
+
+the deceased person’s relevant health records;
+
+23.1.b
+
+any information provided under regulation 22; and
+
+23.1.c
+
+any other information which the examiner considers relevant,
+
+with a view to establishing the cause of death to the best of the examiner’s
+knowledge and belief.
+
+23.2
+
+Where the appropriate medical examiner agrees to revise the medical examiner’s
+certificate, the examiner must, as soon as practicable—
+
+23.2.a
+
+comply with the duties set out in regulation 18 afresh, to the extent that the
+examiner considers appropriate;
+
+23.2.b
+
+comply with the duties set out in regulations 19, 20 and 21 afresh; and
+
+23.2.c
+
+without unreasonable delay, take reasonable steps to ensure that the informant
+is aware that the revised medical examiner’s certificate has been given to the
+registrar under regulation 21(1).
+
+23.3
+
+Where the appropriate medical examiner does not agree to revise the medical
+examiner’s certificate, the examiner must either—
+
+23.3.a
+
+inform the registrar of their decision not to revise the certificate and the
+reasons for it; or
+
+23.3.b
+
+make a referral to the relevant senior coroner under regulation 20.
+
+### Miscellaneous provisions
+
+#### Manner of providing documents
+
+24
+
+24.1
+
+In these Regulations any requirement to—
+
+24.1.a
+
+give an attending practitioner’s certificate or a medical examiner’s
+certificate or other document to a person may be satisfied by causing that
+certificate or document to be given by an electronic communication; and
+
+24.1.b
+
+sign an attending practitioner’s certificate or medical examiner’s certificate
+may be satisfied by providing an electronic signature but only where the
+certificate to be signed is also in electronic form.
+
+24.2
+
+In this regulation—
+
+24.2.a
+
+“ electronic communication ” has the meaning given in section 15(1) of the
+Electronic Communications Act 2000 ;
+
+24.2.b
+
+“ electronic signature ” has the meaning given in section 7(2) of that Act .
+
+#### Availability of certificates and forms
+
+25
+
+The Secretary of State must—
+
+25.a
+
+make the certificates set out in Schedules 1 and 2 available to registered
+medical practitioners;
+
+25.b
+
+make the certificates and forms set out in Schedules 3 and 4 available to
+medical examiners.
+
+### Transitional provision
+
+#### Transitional provision
+
+26
+
+26.1
+
+Except where paragraph (2) applies, these Regulations do not apply in relation
+to a death which occurs before the coming into force of these Regulations.
+
+26.2
+
+This paragraph applies where, before the coming into force of these
+Regulations—
+
+26.2.a
+
+the death has not been registered under Part 2 of the 1953 Act;
+
+26.2.b
+
+prior to the coming into force of these Regulations, a registered medical
+practitioner had not signed a certificate in the prescribed form in accordance
+with section 22(1) of the 1953 Act (Certificates of cause of death)  in
+relation to the death; and
+
+26.2.c
+
+a senior coroner is not under a duty to hold an inquest into the death under
+section 6 of the Act.
+
+      Signed by authority of the Secretary of State for Health and Social Care
+Maria Caulfield   Parliamentary Under Secretary of State   Department of
+Health and Social Care     at 6.25 p.m. on 11th April 2024
+
+## Schedules
+
+  Attending practitioner’s certificate – live-born child dying within the
+period of 28 days beginning with the day of the child’s birth
+
+Regulation 3
+
+##### English form
+
+
+
+
+
+##### English and Welsh form
+
+
+
+
+
+
+
+
+
+  Attending practitioner’s certificate – other cases
+
+Regulation 3
+
+##### English form
+
+
+
+
+
+##### English and Welsh Form
+
+
+
+
+
+
+
+
+
+
+
+  Medical examiner’s certificate – live-born child dying within the period of
+28 days beginning with the day of the child’s birth
+
+Regulation 19
+
+##### English form
+
+
+
+
+
+##### English and Welsh form
+
+
+
+
+
+
+
+
+
+  Medical examiner’s certificate – other cases
+
+Regulation 19
+
+##### English form
+
+
+
+
+
+##### English and Welsh form
+
+
+
+
+
+
+
+
+
+
+
+## Explanatory Note
+
+    (This note is not part of the Regulations)
+
+  These Regulations make provision for the certification of deaths in England
+and Wales by attending practitioners and medical examiners.
+
+  Part 2 of these Regulations makes provision for the completion and
+confirmation of an attending practitioner’s certificate in relation to a
+death.
+
+  Regulation 3 requires an attending practitioner to prepare and sign an
+attending practitioner’s certificate stating the cause of death, or
+alternatively to refer the death to the relevant senior coroner in specified
+circumstances.
+
+  Regulation 4 sets out the obligations of attending practitioners and
+relevant senior coroners where a case has been referred by an attending
+practitioner to a senior coroner, and the process for making such a referral.
+
+  Regulation 6 requires the appropriate medical examiner to make appropriate
+enquiries and take into account specified information with a view to
+confirming the cause of death.
+
+  Regulation 7 requires the relevant attending practitioner to be available to
+respond to any enquiries that the appropriate medical examiner might have in
+connection to the attending practitioner’s certificate, and that the
+appropriate medical examiner must make a record of any response to such
+enquiries.
+
+  Regulation 8 requires the appropriate medical examiner (or someone acting on
+their behalf) to discuss the cause of death with the prospective informant or
+such other person as the examiner considers appropriate.
+
+  Regulation 9 requires the appropriate medical examiner to confirm the cause
+of death by signing the attending practitioner’s certificate once they are
+satisfied that the specified conditions have been met. In the alternative,
+regulation 10 requires the appropriate medical examiner to refer the death to
+the relevant senior coroner, and sets out the duties of appropriate medical
+examiners and relevant senior coroners following such a referral.
+
+  Regulation 11 requires that, where an appropriate medical examiner is able
+to confirm the cause of death stated on the attending practitioner’s
+certificate, that without unreasonable delay the confirmed attending
+practitioner’s certificate is given to the registrar and reasonable steps are
+taken to ensure that a prospective informant is aware that they have done so.
+
+  Regulation 12 provides that a registrar must consult with an appropriate
+medical examiner where an informant provides the registrar with information
+which leads that registrar to believe that the cause of death stated on the
+confirmed attending practitioner’s certificate may need to be revised. The
+appropriate medical examiner may invite an attending practitioner to revise
+the attending practitioner’s certificate.
+
+  Regulation 13 sets out the duties of attending practitioners and appropriate
+medical examiners where the appropriate medical examiner has invited the
+attending practitioner to revise the attending practitioner’s certificate.
+
+  Regulation 14 provides that where the attending practitioner is unable to
+carry out their duties within a reasonable time, another attending
+practitioner must carry out any duties imposed under Part 2.
+
+  Part 3 of these Regulations makes provision for the completion of a medical
+examiner’s certificate in relation to a death.
+
+  Regulation 15 requires a senior coroner to refer a death to the appropriate
+medical examiner in certain cases.
+
+  Regulation 17 requires a medical examiner, upon receipt of a referral made
+under regulation 15, to review the deceased’s health records, make relevant
+enquiries and consider any other relevant information with a view to
+establishing the cause of death to the best of the examiner’s knowledge and
+belief.
+
+  Regulation 18 requires the appropriate medical examiner to discuss the cause
+of death with the prospective informant or such other person as considered
+appropriate.
+
+  Regulation 19 requires the appropriate medical examiner to prepare and sign
+a medical examiner’s certificate where the appropriate medical examiner is
+able to establish a cause of death. In the alternative, regulation 20 requires
+the appropriate medical examiner to refer the death back to the relevant
+senior coroner, and sets out the requirements on appropriate medical examiners
+and senior coroners following such a referral.
+
+  Regulation 21 requires that, where an appropriate medical examiner has
+issued a medical examiner’s certificate under regulation 19, that without
+unreasonable delay the certificate is given to the registrar and reasonable
+steps are taken to ensure that a prospective informant is aware that they have
+done so.
+
+  Regulation 22 provides for a registrar to invite an appropriate medical
+examiner to revise the medical examiner’s certificate where an informant
+provides the registrar with information which leads that registrar to believe
+that the cause of death stated on the confirmed attending practitioner’s
+certificate may need to be revised.
+
+  Regulation 23 sets out the duties on appropriate medical examiners where the
+registrar has invited the appropriate medical examiner to revise the medical
+examiner’s certificate.
+
+  Part 4 of the Regulations makes various miscellaneous provisions regarding
+the electronic sending or completion of documents (regulation 24) and the
+availability of certificates and forms (regulation 25).
+
+  Part 5 of the Regulations include a transitional provision (regulation 26)
+which provides that these regulations apply to deaths occurring before the
+coming into force of these Regulations where a medical certificate of death
+has not been signed and a senior coroner is not under a duty to hold an
+inquest into the death.
+
+  Full impact assessments of the effect that this instrument will have on the
+costs of business, the voluntary sector and the public sector were prepared in
+2018 and 2022 and are available at
+https://www.gov.uk/government/consultations/death-certification-reforms  and
+https://www.gov.uk/government/publications/health-and-care-act-2022-combined-
+impact-assessments . An updated summary document has also been prepared and is
+available from  https://www.gov.uk/government/publications/changes-to-the-
+death-certification-process . Hard copies can be obtained by writing to the
+Department of Health and Social Care, 39 Victoria Street, London, SW1H 0EU.
+

@@ -1,0 +1,890 @@
+services:
+  agent-manager:
+    command:
+    - agent-manager-react
+    - -p
+    - pulsar://pulsar:6650
+    - --tool-type
+    - uk-legislation=knowledge-query
+    - general-knowledge=text-completion
+    - primary-legislation-schedule=knowledge-query
+    - --tool-description
+    - uk-legislation=Query a knowledge base for information about UK legislation
+      passed in 2024.  The query should be a simple natural language question.
+    - general-knowledge=Query a general database of knowledge.  This will not
+      provide domain-specific knowledge.  The query should be a simple natural
+      language question.
+    - primary-legislation-schedule=Query a knowledge base about the schedule of
+      primary legilsation coming from UK parliament.  The query should be
+      a simple natural language question.
+    - --tool-argument
+    - uk-legislation=query:string:Describe the search query here.
+    - general-knowledge=query:string:Describe the search query here.
+    - primary-legislation-schedule=query:string:Describe the search query here.
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+  api-gateway:
+    command:
+    - api-gateway
+    - -p
+    - pulsar://pulsar:6650
+    - --timeout
+    - '600'
+    - --port
+    - '8088'
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 256M
+        reservations:
+          cpus: '0.1'
+          memory: 256M
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    ports:
+    - 8000:8000
+    - 8088:8088
+    restart: on-failure:100
+  cassandra:
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 1000M
+        reservations:
+          cpus: '0.5'
+          memory: 1000M
+    environment:
+      JVM_OPTS: -Xms300M -Xmx300M
+    image: docker.io/cassandra:4.1.6
+    ports:
+    - 9042:9042
+    restart: on-failure:100
+    volumes:
+    - cassandra:/var/lib/cassandra
+  chunker:
+    command:
+    - chunker-recursive
+    - -p
+    - pulsar://pulsar:6650
+    - --chunk-size
+    - '1000'
+    - --chunk-overlap
+    - '50'
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+  embeddings:
+    command:
+    - embeddings-hf
+    - -p
+    - pulsar://pulsar:6650
+    - -m
+    - all-MiniLM-L6-v2
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 400M
+        reservations:
+          cpus: '0.5'
+          memory: 400M
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+  grafana:
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 256M
+        reservations:
+          cpus: '0.5'
+          memory: 256M
+    environment:
+      GF_ORG_NAME: trustgraph.ai
+    image: docker.io/grafana/grafana:11.1.4
+    ports:
+    - 3000:3000
+    restart: on-failure:100
+    volumes:
+    - grafana-storage:/var/lib/grafana
+    - ./grafana/provisioning/:/etc/grafana/provisioning/dashboards/
+    - ./grafana/provisioning/:/etc/grafana/provisioning/datasources/
+    - ./grafana/dashboards/:/var/lib/grafana/dashboards/
+  graph-rag:
+    command:
+    - graph-rag
+    - -p
+    - pulsar://pulsar:6650
+    - --prompt-request-queue
+    - non-persistent://tg/request/prompt-rag
+    - --prompt-response-queue
+    - non-persistent://tg/response/prompt-rag
+    - --entity-limit
+    - '50'
+    - --triple-limit
+    - '30'
+    - --max-subgraph-size
+    - '3000'
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+  init-pulsar:
+    command:
+    - tg-init-pulsar
+    - -p
+    - http://pulsar:8080
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+  kg-extract-definitions:
+    command:
+    - kg-extract-definitions
+    - -p
+    - pulsar://pulsar:6650
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+  kg-extract-relationships:
+    command:
+    - kg-extract-relationships
+    - -p
+    - pulsar://pulsar:6650
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+  kg-extract-topics:
+    command:
+    - kg-extract-topics
+    - -p
+    - pulsar://pulsar:6650
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+  metering:
+    command:
+    - metering
+    - -p
+    - pulsar://pulsar:6650
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+  metering-rag:
+    command:
+    - metering
+    - -p
+    - pulsar://pulsar:6650
+    - -i
+    - non-persistent://tg/response/text-completion-rag
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+  pdf-decoder:
+    command:
+    - pdf-decoder
+    - -p
+    - pulsar://pulsar:6650
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+  prometheus:
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    image: docker.io/prom/prometheus:v2.53.2
+    ports:
+    - 9090:9090
+    restart: on-failure:100
+    volumes:
+    - ./prometheus:/etc/prometheus/
+    - prometheus-data:/prometheus
+  prompt:
+    command:
+    - prompt-template
+    - -p
+    - pulsar://pulsar:6650
+    - --text-completion-request-queue
+    - non-persistent://tg/request/text-completion
+    - --text-completion-response-queue
+    - non-persistent://tg/response/text-completion
+    - --system-prompt
+    - 'You are a helpful assistant that performs NLP, Natural Language Processing,
+      tasks.
+
+      '
+    - --prompt
+    - "agent-react=Answer the following questions as best you can. You have\naccess\
+      \ to the following functions:\n\n{% for tool in tools %}{\n    \"function\"\
+      : \"{{ tool.name }}\",\n    \"description\": \"{{ tool.description }}\",\n \
+      \   \"arguments\": [\n{% for arg in tool.arguments %}        {\n           \
+      \ \"name\": \"{{ arg.name }}\",\n            \"type\": \"{{ arg.type }}\",\n\
+      \            \"description\": \"{{ arg.description }}\",\n        }\n{% endfor\
+      \ %}\n    ]\n}\n{% endfor %}\n\nYou can either choose to call a function to\
+      \ get more information, or\nreturn a final answer.\n    \nTo call a function,\
+      \ respond with a JSON object of the following format:\n\n{\n    \"thought\"\
+      : \"your thought about what to do\",\n    \"action\": \"the action to take,\
+      \ should be one of [{{tool_names}}]\",\n    \"arguments\": {\n        \"argument1\"\
+      : \"argument_value\",\n        \"argument2\": \"argument_value\"\n    }\n}\n\
+      \nTo provide a final answer, response a JSON object of the following format:\n\
+      \n{\n  \"thought\": \"I now know the final answer\",\n  \"final-answer\": \"\
+      the final answer to the original input question\"\n}\n\nPrevious steps are included\
+      \ in the input.  Each step has the following\nformat in your output:\n\n{\n\
+      \  \"thought\": \"your thought about what to do\",\n  \"action\": \"the action\
+      \ taken\",\n  \"arguments\": {\n      \"argument1\": action argument,\n    \
+      \  \"argument2\": action argument2\n  },\n  \"observation\": \"the result of\
+      \ the action\",\n}\n\nRespond by describing either one single thought/action/arguments\
+      \ or\nthe final-answer.  Pause after providing one action or final-answer.\n\
+      \n{% if context %}Additional context has been provided:\n{{context}}{% endif\
+      \ %}\n\nQuestion: {{question}}\n\nInput:\n    \n{% for h in history %}\n{\n\
+      \    \"action\": \"{{h.action}}\",\n    \"arguments\": [\n{% for k, v in h.arguments.items()\
+      \ %}        {\n            \"{{k}}\": \"{{v}}\",\n{%endfor%}        }\n    ],\n\
+      \    \"observation\": \"{{h.observation}}\"\n}\n{% endfor %}"
+    - 'document-prompt=Study the following context. Use only the information provided
+      in the context in your response. Do not speculate if the answer is not found
+      in the provided set of knowledge statements.
+
+
+      Here is the context:
+
+      {{documents}}
+
+
+      Use only the provided knowledge statements to respond to the following:
+
+      {{query}}
+
+      '
+    - 'extract-definitions=Study the following text and derive definitions for any
+      discovered entities. Do not provide definitions for entities whose definitions
+      are incomplete or unknown. Output relationships in JSON format as an array of
+      objects with keys:
+
+      - entity: the name of the entity
+
+      - definition: English text which defines the entity
+
+
+      Here is the text:
+
+      {{text}}
+
+
+      Requirements:
+
+      - Do not provide explanations.
+
+      - Do not use special characters in the response text.
+
+      - The response will be written as plain text.
+
+      - Do not include null or unknown definitions.
+
+      - The response shall use the following JSON schema structure:
+
+
+      ```json
+
+      [{"entity": string, "definition": string}]
+
+      ```'
+    - 'extract-relationships=Study the following text and derive entity relationships.  For
+      each relationship, derive the subject, predicate and object of the relationship.
+      Output relationships in JSON format as an array of objects with keys:
+
+      - subject: the subject of the relationship
+
+      - predicate: the predicate
+
+      - object: the object of the relationship
+
+      - object-entity: FALSE if the object is a simple data type and TRUE if the object
+      is an entity
+
+
+      Here is the text:
+
+      {{text}}
+
+
+      Requirements:
+
+      - You will respond only with well formed JSON.
+
+      - Do not provide explanations.
+
+      - Respond only with plain text.
+
+      - Do not respond with special characters.
+
+      - The response shall use the following JSON schema structure:
+
+
+      ```json
+
+      [{"subject": string, "predicate": string, "object": string, "object-entity":
+      boolean}]
+
+      ```
+
+      '
+    - 'extract-rows=<instructions>
+
+      Study the following text and derive objects which match the schema provided.
+
+
+      You must output an array of JSON objects for each object you discover
+
+      which matches the schema.  For each object, output a JSON object whose fields
+
+      carry the name field specified in the schema.
+
+      </instructions>
+
+
+      <schema>
+
+      {{schema}}
+
+      </schema>
+
+
+      <text>
+
+      {{text}}
+
+      </text>
+
+
+      <requirements>
+
+      You will respond only with raw JSON format data. Do not provide
+
+      explanations. Do not add markdown formatting or headers or prefixes.
+
+      </requirements>'
+    - "extract-topics=Read the provided text carefully. You will identify topics and\
+      \ their definitions found in the provided text. Topics are intangible concepts.\n\
+      \nReading Instructions:\n- Ignore document formatting in the provided text.\n\
+      - Study the provided text carefully for intangible concepts.\n\nHere is the\
+      \ text:\n{{text}}\n\nResponse Instructions: \n- Do not respond with special\
+      \ characters.\n- Return only topics that are concepts and unique to the provided\
+      \ text.\n- Respond only with well-formed JSON.\n- The JSON response shall be\
+      \ an array of objects with keys \"topic\" and \"definition\". \n- The response\
+      \ shall use the following JSON schema structure:\n\n```json\n[{\"topic\": string,\
+      \ \"definition\": string}]\n```\n\n- Do not write any additional text or explanations."
+    - 'kg-prompt=Study the following set of knowledge statements. The statements are
+      written in Cypher format that has been extracted from a knowledge graph. Use
+      only the provided set of knowledge statements in your response. Do not speculate
+      if the answer is not found in the provided set of knowledge statements.
+
+
+      Here''s the knowledge statements:
+
+      {% for edge in knowledge %}({{edge.s}})-[{{edge.p}}]->({{edge.o}})
+
+      {%endfor%}
+
+
+      Use only the provided knowledge statements to respond to the following:
+
+      {{query}}
+
+      '
+    - question={{question}}
+    - --prompt-response-type
+    - agent-react=json
+    - document-prompt=text
+    - extract-definitions=json
+    - extract-relationships=json
+    - extract-rows=json
+    - extract-topics=json
+    - kg-prompt=text
+    - --prompt-schema
+    - extract-definitions={"items":{"properties":{"definition":{"type":"string"},"entity":{"type":"string"}},"required":["entity","definition"],"type":"object"},"type":"array"}
+    - extract-relationships={"items":{"properties":{"object":{"type":"string"},"object-entity":{"type":"boolean"},"predicate":{"type":"string"},"subject":{"type":"string"}},"required":["subject","predicate","object","object-entity"],"type":"object"},"type":"array"}
+    - extract-topics={"items":{"properties":{"definition":{"type":"string"},"topic":{"type":"string"}},"required":["topic","definition"],"type":"object"},"type":"array"}
+    - --prompt-term
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+  prompt-rag:
+    command:
+    - prompt-template
+    - -p
+    - pulsar://pulsar:6650
+    - -i
+    - non-persistent://tg/request/prompt-rag
+    - -o
+    - non-persistent://tg/response/prompt-rag
+    - --text-completion-request-queue
+    - non-persistent://tg/request/text-completion-rag
+    - --text-completion-response-queue
+    - non-persistent://tg/response/text-completion-rag
+    - --system-prompt
+    - 'You are a helpful assistant that performs NLP, Natural Language Processing,
+      tasks.
+
+      '
+    - --prompt
+    - "agent-react=Answer the following questions as best you can. You have\naccess\
+      \ to the following functions:\n\n{% for tool in tools %}{\n    \"function\"\
+      : \"{{ tool.name }}\",\n    \"description\": \"{{ tool.description }}\",\n \
+      \   \"arguments\": [\n{% for arg in tool.arguments %}        {\n           \
+      \ \"name\": \"{{ arg.name }}\",\n            \"type\": \"{{ arg.type }}\",\n\
+      \            \"description\": \"{{ arg.description }}\",\n        }\n{% endfor\
+      \ %}\n    ]\n}\n{% endfor %}\n\nYou can either choose to call a function to\
+      \ get more information, or\nreturn a final answer.\n    \nTo call a function,\
+      \ respond with a JSON object of the following format:\n\n{\n    \"thought\"\
+      : \"your thought about what to do\",\n    \"action\": \"the action to take,\
+      \ should be one of [{{tool_names}}]\",\n    \"arguments\": {\n        \"argument1\"\
+      : \"argument_value\",\n        \"argument2\": \"argument_value\"\n    }\n}\n\
+      \nTo provide a final answer, response a JSON object of the following format:\n\
+      \n{\n  \"thought\": \"I now know the final answer\",\n  \"final-answer\": \"\
+      the final answer to the original input question\"\n}\n\nPrevious steps are included\
+      \ in the input.  Each step has the following\nformat in your output:\n\n{\n\
+      \  \"thought\": \"your thought about what to do\",\n  \"action\": \"the action\
+      \ taken\",\n  \"arguments\": {\n      \"argument1\": action argument,\n    \
+      \  \"argument2\": action argument2\n  },\n  \"observation\": \"the result of\
+      \ the action\",\n}\n\nRespond by describing either one single thought/action/arguments\
+      \ or\nthe final-answer.  Pause after providing one action or final-answer.\n\
+      \n{% if context %}Additional context has been provided:\n{{context}}{% endif\
+      \ %}\n\nQuestion: {{question}}\n\nInput:\n    \n{% for h in history %}\n{\n\
+      \    \"action\": \"{{h.action}}\",\n    \"arguments\": [\n{% for k, v in h.arguments.items()\
+      \ %}        {\n            \"{{k}}\": \"{{v}}\",\n{%endfor%}        }\n    ],\n\
+      \    \"observation\": \"{{h.observation}}\"\n}\n{% endfor %}"
+    - 'document-prompt=Study the following context. Use only the information provided
+      in the context in your response. Do not speculate if the answer is not found
+      in the provided set of knowledge statements.
+
+
+      Here is the context:
+
+      {{documents}}
+
+
+      Use only the provided knowledge statements to respond to the following:
+
+      {{query}}
+
+      '
+    - 'extract-definitions=Study the following text and derive definitions for any
+      discovered entities. Do not provide definitions for entities whose definitions
+      are incomplete or unknown. Output relationships in JSON format as an array of
+      objects with keys:
+
+      - entity: the name of the entity
+
+      - definition: English text which defines the entity
+
+
+      Here is the text:
+
+      {{text}}
+
+
+      Requirements:
+
+      - Do not provide explanations.
+
+      - Do not use special characters in the response text.
+
+      - The response will be written as plain text.
+
+      - Do not include null or unknown definitions.
+
+      - The response shall use the following JSON schema structure:
+
+
+      ```json
+
+      [{"entity": string, "definition": string}]
+
+      ```'
+    - 'extract-relationships=Study the following text and derive entity relationships.  For
+      each relationship, derive the subject, predicate and object of the relationship.
+      Output relationships in JSON format as an array of objects with keys:
+
+      - subject: the subject of the relationship
+
+      - predicate: the predicate
+
+      - object: the object of the relationship
+
+      - object-entity: FALSE if the object is a simple data type and TRUE if the object
+      is an entity
+
+
+      Here is the text:
+
+      {{text}}
+
+
+      Requirements:
+
+      - You will respond only with well formed JSON.
+
+      - Do not provide explanations.
+
+      - Respond only with plain text.
+
+      - Do not respond with special characters.
+
+      - The response shall use the following JSON schema structure:
+
+
+      ```json
+
+      [{"subject": string, "predicate": string, "object": string, "object-entity":
+      boolean}]
+
+      ```
+
+      '
+    - 'extract-rows=<instructions>
+
+      Study the following text and derive objects which match the schema provided.
+
+
+      You must output an array of JSON objects for each object you discover
+
+      which matches the schema.  For each object, output a JSON object whose fields
+
+      carry the name field specified in the schema.
+
+      </instructions>
+
+
+      <schema>
+
+      {{schema}}
+
+      </schema>
+
+
+      <text>
+
+      {{text}}
+
+      </text>
+
+
+      <requirements>
+
+      You will respond only with raw JSON format data. Do not provide
+
+      explanations. Do not add markdown formatting or headers or prefixes.
+
+      </requirements>'
+    - "extract-topics=Read the provided text carefully. You will identify topics and\
+      \ their definitions found in the provided text. Topics are intangible concepts.\n\
+      \nReading Instructions:\n- Ignore document formatting in the provided text.\n\
+      - Study the provided text carefully for intangible concepts.\n\nHere is the\
+      \ text:\n{{text}}\n\nResponse Instructions: \n- Do not respond with special\
+      \ characters.\n- Return only topics that are concepts and unique to the provided\
+      \ text.\n- Respond only with well-formed JSON.\n- The JSON response shall be\
+      \ an array of objects with keys \"topic\" and \"definition\". \n- The response\
+      \ shall use the following JSON schema structure:\n\n```json\n[{\"topic\": string,\
+      \ \"definition\": string}]\n```\n\n- Do not write any additional text or explanations."
+    - 'kg-prompt=Study the following set of knowledge statements. The statements are
+      written in Cypher format that has been extracted from a knowledge graph. Use
+      only the provided set of knowledge statements in your response. Do not speculate
+      if the answer is not found in the provided set of knowledge statements.
+
+
+      Here''s the knowledge statements:
+
+      {% for edge in knowledge %}({{edge.s}})-[{{edge.p}}]->({{edge.o}})
+
+      {%endfor%}
+
+
+      Use only the provided knowledge statements to respond to the following:
+
+      {{query}}
+
+      '
+    - question={{question}}
+    - --prompt-response-type
+    - agent-react=json
+    - document-prompt=text
+    - extract-definitions=json
+    - extract-relationships=json
+    - extract-rows=json
+    - extract-topics=json
+    - kg-prompt=text
+    - --prompt-schema
+    - extract-definitions={"items":{"properties":{"definition":{"type":"string"},"entity":{"type":"string"}},"required":["entity","definition"],"type":"object"},"type":"array"}
+    - extract-relationships={"items":{"properties":{"object":{"type":"string"},"object-entity":{"type":"boolean"},"predicate":{"type":"string"},"subject":{"type":"string"}},"required":["subject","predicate","object","object-entity"],"type":"object"},"type":"array"}
+    - extract-topics={"items":{"properties":{"definition":{"type":"string"},"topic":{"type":"string"}},"required":["topic","definition"],"type":"object"},"type":"array"}
+    - --prompt-term
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+  pulsar:
+    command:
+    - bin/pulsar
+    - standalone
+    deploy:
+      resources:
+        limits:
+          cpus: '2.0'
+          memory: 1500M
+        reservations:
+          cpus: '1.0'
+          memory: 1500M
+    environment:
+      PULSAR_MEM: -Xms600M -Xmx600M
+    image: docker.io/apachepulsar/pulsar:3.3.1
+    ports:
+    - 6650:6650
+    - 8080:8080
+    restart: on-failure:100
+    volumes:
+    - pulsar-data:/pulsar/data
+  query-doc-embeddings:
+    command:
+    - de-query-pinecone
+    - -p
+    - pulsar://pulsar:6650
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    environment:
+      PINECONE_API_KEY: ${PINECONE_API_KEY}
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+  query-graph-embeddings:
+    command:
+    - ge-query-pinecone
+    - -p
+    - pulsar://pulsar:6650
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    environment:
+      PINECONE_API_KEY: ${PINECONE_API_KEY}
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+  query-triples:
+    command:
+    - triples-query-cassandra
+    - -p
+    - pulsar://pulsar:6650
+    - -g
+    - cassandra
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 512M
+        reservations:
+          cpus: '0.1'
+          memory: 512M
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+
+  store-graph-embeddings:
+    command:
+    - ge-write-pinecone
+    - -p
+    - pulsar://pulsar:6650
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    environment:
+      PINECONE_API_KEY: ${PINECONE_API_KEY}
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+
+  store-triples:
+    command:
+    - triples-write-cassandra
+    - -p
+    - pulsar://pulsar:6650
+    - -g
+    - cassandra
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+  text-completion:
+    command:
+    - text-completion-googleaistudio
+    - -p
+    - pulsar://pulsar:6650
+    - -x
+    - '8000'
+    - -t
+    - '0.090'
+    - -m
+    - gemini-1.5-flash-002
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    environment:
+      GOOGLE_AI_STUDIO_KEY: ${GOOGLE_AI_STUDIO_KEY}
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+  text-completion-rag:
+    command:
+    - text-completion-googleaistudio
+    - -p
+    - pulsar://pulsar:6650
+    - -x
+    - '8000'
+    - -t
+    - '0.090'
+    - -m
+    - gemini-1.5-flash-002
+    - -i
+    - non-persistent://tg/request/text-completion-rag
+    - -o
+    - non-persistent://tg/response/text-completion-rag
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    environment:
+      GOOGLE_AI_STUDIO_KEY: ${GOOGLE_AI_STUDIO_KEY}
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+  vectorize:
+    command:
+    - embeddings-vectorize
+    - -p
+    - pulsar://pulsar:6650
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 512M
+        reservations:
+          cpus: '0.5'
+          memory: 512M
+    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    restart: on-failure:100
+volumes:
+  cassandra: {}
+  grafana-storage: {}
+  prometheus-data: {}
+  pulsar-data: {}

@@ -1,0 +1,538 @@
+Title: The Building (Restricted Activities and Functions) (England) Regulations 2023
+Date: 2024-05-20
+Description: These Regulations provide a list of the activities and functions of local authorities, the building safety regulator (the Health and Safety Executive) and registered building control approvers which are restricted under sections 46A and 54B of the Building Act 1984 (c. 55). Those sections were inserted into that Act by section 44 of the Building Safety Act 2022 (c. 30).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2023/1052
+
+## The Building (Restricted Activities and Functions) (England) Regulations 2023
+
+    Building And Buildings, England
+
+  Made   19th September 2023
+
+  Laid before Parliament   29th September 2023
+
+  Coming into force   6th April 2024
+
+      The Secretary of State makes these Regulations in exercise of the powers
+conferred by sections 1, 46A and 54B of, and paragraph 10 of Schedule 1 to,
+the Building Act 1984 .           The Secretary of State has consulted the
+regulator and such other persons as the Secretary of State considers
+appropriate in accordance with section 120B(3) of the Building Act 1984.
+
+### Citation, extent, application and commencement
+
+
+1
+
+1.1
+
+These Regulations may be cited as the Building (Restricted Activities and
+Functions) (England) Regulations 2023.
+
+1.2
+
+These Regulations extend to England and Wales and apply in relation to
+buildings or building work in England.
+
+1.3
+
+These Regulations come into force on 6th April 2024.
+
+### Interpretation
+
+
+2
+
+In these Regulations—
+
+      “ the 1984 Act ” means the Building Act 1984;           “ the 2010
+Regulations ” means the Building Regulations 2010 ;           “ the HRB
+Regulations ” means the Building (Higher-Risk Buildings Procedures) (England)
+Regulations 2023 ;           “ building ” has the meaning given in the 2010
+Regulations ;           “ building work ” has the meaning given in the 2010
+Regulations.
+
+### Restricted activities and functions: local authorities
+
+
+3
+
+3.1
+
+For the purposes of section 46A(1) of the 1984 Act, in relation to local
+authorities, each of the following activities is prescribed as a restricted
+activity—
+
+3.1.a
+
+where plans relating to any building work are submitted to a local authority
+under any provision of the 2010 Regulations, the checking of those plans for
+compliance with any requirement of the building regulations  which is
+applicable to the work;
+
+3.1.b
+
+where an inspection of building work is to be carried out by a local authority
+for the purpose of checking compliance with any requirement of the building
+regulations which is applicable to the work, the carrying out of that
+inspection and scheduling the stages or points for inspections.
+
+3.2
+
+For the purposes of section 46A(2) of the 1984 Act, in relation to local
+authorities, each of the following functions is prescribed as a restricted
+function—
+
+3.2.a
+
+determining an application for a direction under section 8 of the 1984 Act
+(relaxation of building regulations) ;
+
+3.2.b
+
+determining an application for building control approval  under regulation 14A
+of the 2010 Regulations (determination of applications for building control
+approval with full plans) including exercising, in relation to such an
+application, a power in—
+
+3.2.b.i
+
+section 19(1) of the 1984 Act (use of short-lived materials),
+
+3.2.b.ii
+
+section 21(4) of the 1984 Act (provision of drainage), or
+
+3.2.b.iii
+
+section 25(1) of the 1984 Act (provision of water supply);
+
+3.2.c
+
+fixing a period on the expiration of which a building or work must be removed,
+extending such a period, imposing conditions in relation to a building or
+varying such conditions, under section 19(2) or (3) of the 1984 Act (use of
+short-lived materials);
+
+3.2.d
+
+requiring a building to be drained in combination under section 22 of the 1984
+Act (drainage of buildings in combination);
+
+3.2.e
+
+giving consent under section 23 of the 1984 Act (provision of facilities for
+refuse);
+
+3.2.f
+
+giving a notice or granting a certificate under section 25(3) of the 1984 Act
+(provision of water supply);
+
+3.2.g
+
+giving a certificate under regulation 17 or 17A of the 2010 Regulations
+(completion certificates and partial completion certificates) ;
+
+3.2.h
+
+deciding, where regulation 18 of the 2010 Regulations (unauthorised building
+work) applies, whether—
+
+3.2.h.i
+
+a regularisation certificate under regulation 18 of the 2010 Regulations may
+be given;
+
+3.2.h.ii
+
+any reasonable steps are required under regulation 18(3) of the 2010
+Regulations;
+
+3.2.i
+
+deciding, where   regulation 22(1) of the Building (Registered Building
+Control Approvers etc.) (England) Regulations 2024 (local authority powers in
+relation to partly completed work)   applies, whether—
+
+3.2.i.i
+
+plans given under   regulation 22(2)(a)   of those Regulations are sufficient
+to show that the intended work would not contravene any requirement of the
+2010 Regulations;
+
+3.2.i.ii
+
+an owner should be required to cut into, lay open or pull down any of the work
+under   regulation 22(2)(b)   of those Regulations;
+
+3.2.j
+
+exercising any power under section 33 of the 1984 Act (tests for conformity
+with building regulations);
+
+3.2.k
+
+deciding, for the purposes of section 35 of the 1984 Act (offence of
+contravening building regulations etc), whether there is a contravention of a
+provision of the building regulations or a requirement imposed by virtue of
+any such provision;
+
+3.2.l
+
+giving a compliance notice under section 35B of the 1984 Act (compliance
+notices) ;
+
+3.2.m
+
+giving a stop notice under section 35C of the 1984 Act (stop notices);
+
+3.2.n
+
+giving a section 36 notice  or deciding to pull down or remove work or effect
+alterations in it as deemed necessary under section 36(3) of the 1984 Act;
+
+3.2.o
+
+deciding whether to withdraw a section 36 notice following the giving of a
+written report under section 37(1)(a) of the 1984 Act;
+
+3.2.p
+
+giving a notice under section 52A(4) of the 1984 Act (cancellation of initial
+notice) .
+
+### Restricted functions: the regulator
+
+
+4
+
+4.1
+
+Subject to paragraph (2), for the purposes of section 46A(2) of the 1984 Act,
+where the regulator  is the building control authority in relation to a
+higher-risk building under section 91ZA of the 1984 Act (building control
+authorities)  each of the following functions is prescribed as a restricted
+function—
+
+4.1.a
+
+determining an application for a direction under section 8 of the 1984 Act
+(relaxation of building regulations);
+
+4.1.b
+
+determining an application for building control approval under regulation 7 or
+15 of the HRB Regulations (building control approval applications) including
+exercising, in relation to such an application, a power in—
+
+4.1.b.i
+
+section 19(1) of the 1984 Act (use of short-lived materials),
+
+4.1.b.ii
+
+section 21(4) of the 1984 Act (provision of drainage), or
+
+4.1.b.iii
+
+section 25(1) of the 1984 Act (provision of water supply);
+
+4.1.c
+
+giving approval, pursuant to a requirement imposed on a building control
+approval, that work may proceed beyond a point specified in the requirement;
+
+4.1.d
+
+fixing a period on the expiration of which a building or work must be removed,
+extending such a period, imposing conditions in relation to a building or
+varying such conditions, under section 19(2) or (3) of the 1984 Act (use of
+short-lived materials);
+
+4.1.e
+
+requiring a building to be drained in combination under section 22 of the 1984
+Act (drainage of buildings in combination);
+
+4.1.f
+
+giving consent under section 23 of the 1984 Act (provision of facilities for
+refuse);
+
+4.1.g
+
+giving a notice or granting a certificate under section 25(3) of the 1984 Act
+(provision of water supply);
+
+4.1.h
+
+determining an application under regulation 24 of the HRB Regulations (change
+control applications: decisions);
+
+4.1.i
+
+deciding that a controlled change is a notifiable or major change under
+regulation 25 of the HRB Regulations (change control: regulator power to
+specify notifiable changes and major changes);
+
+4.1.j
+
+determining an application under regulation 44 of the HRB Regulations
+(completion certificate applications: decisions);
+
+4.1.k
+
+determining an application under regulation 45 of the HRB Regulations (partial
+completion certificates);
+
+4.1.l
+
+determining an application under regulation 47 of the HRB Regulations
+(regularisation of unauthorised building work);
+
+4.1.m
+
+exercising any power under section 33 of the 1984 Act (tests for conformity
+with building regulations);
+
+4.1.n
+
+deciding, for the purposes of section 35 of the 1984 Act (offence of
+contravening building regulations etc), whether there is a contravention of a
+provision of the building regulations or a requirement imposed by virtue of
+any such provision;
+
+4.1.o
+
+giving a compliance notice under section 35B of the 1984 Act (compliance
+notices);
+
+4.1.p
+
+giving a stop notice under section 35C of the 1984 Act (stop notices);
+
+4.1.q
+
+giving a section 36 notice or deciding to pull down or remove work or effect
+alterations in it as deemed necessary under section 36(3) of the 1984 Act;
+
+4.1.r
+
+deciding whether to withdraw a section 36 notice following the giving of a
+written report under section 37(1)(a) of the 1984 Act.
+
+4.2
+
+In relation to any case which falls within paragraph 9, 10 or 11 of Schedule 3
+to the HRB Regulations, reference in paragraph (1) to any provision of the HRB
+Regulations is to be treated as a reference to that provision as modified, in
+relation to that particular case, by Schedule 3 to those Regulations.
+
+4.3
+
+For the purposes of section 46A(2) of the 1984 Act, where the regulator is the
+building control authority in relation to building work pursuant to a
+regulator’s notice each of the following functions is prescribed as a
+restricted function—
+
+4.3.a
+
+determining an application for a direction under section 8 of the 1984 Act
+(relaxation of building regulations);
+
+4.3.b
+
+determining an application for building control approval under regulation 14A
+of the 2010 Regulations (determination of applications for building control
+approval with full plans) including exercising, in relation to such an
+application, a power in—
+
+4.3.b.i
+
+section 19(1) of the 1984 Act (use of short-lived materials),
+
+4.3.b.ii
+
+section 21(4) of the 1984 Act (provision of drainage), or
+
+4.3.b.iii
+
+section 25(1) of the 1984 Act (provision of water supply);
+
+4.3.c
+
+fixing a period on the expiration of which a building or work must be removed,
+extending such a period, imposing conditions in relation to a building or
+varying such conditions, under section 19(2) or (3) of the 1984 Act (use of
+short-lived materials);
+
+4.3.d
+
+requiring a building to be drained in combination under section 22 of the 1984
+Act (drainage of buildings in combination);
+
+4.3.e
+
+giving consent under section 23 of the 1984 Act (provision of facilities for
+refuse);
+
+4.3.f
+
+giving a notice or granting a certificate under section 25(3) of the 1984 Act
+(provision of water supply);
+
+4.3.g
+
+giving a certificate under regulation 17 or 17A of the 2010 Regulations
+(completion certificates and partial completion certificates);
+
+4.3.h
+
+deciding, where regulation 18 of the 2010 Regulations (unauthorised building
+work) applies, whether—
+
+4.3.h.i
+
+a regularisation certificate under regulation 18 of those Regulations may be
+given;
+
+4.3.h.ii
+
+any reasonable steps are required under regulation 18(3) of those Regulations;
+
+4.3.i
+
+exercising any power under section 33 of the 1984 Act (tests for conformity
+with building regulations);
+
+4.3.j
+
+deciding, for the purposes of section 35 of the 1984 Act (offence of
+contravening building regulations etc), whether there is a contravention of a
+provision of the building regulations or a requirement imposed by virtue of
+any such provision;
+
+4.3.k
+
+giving a compliance notice under section 35B of the 1984 Act (compliance
+notices);
+
+4.3.l
+
+giving a stop notice under section 35C of the 1984 Act (stop notices);
+
+4.3.m
+
+giving a section 36 notice or deciding to pull down or remove work or effect
+alterations in it as deemed necessary under section 36(3) of the 1984 Act;
+
+4.3.n
+
+deciding whether to withdraw a section 36 notice following the giving of a
+written report under section 37(1)(a) of the 1984 Act.
+
+### Restricted activities and functions: registered building control approvers
+
+
+5
+
+5.1
+
+For the purposes of section 54B(2) of the 1984 Act each of the following
+activities is prescribed as a restricted activity—
+
+5.1.a
+
+where an initial notice , amendment notice  or plans certificate  is to be
+given in relation to any building work, the checking of plans to which the
+notice or certificate relates for compliance with any requirement of the
+building regulations which is applicable to the work;
+
+5.1.b
+
+where an inspection of building work is to be carried out by the registered
+building control approver for the purpose of checking compliance with any
+requirement of the building regulations which is applicable to the work, the
+carrying out of that inspection (including scheduling the stages or points for
+inspections).
+
+5.2
+
+For the purposes of section 54B(3) of the 1984 Act each of the following
+functions is prescribed as a restricted function—
+
+5.2.a
+
+giving an initial notice to a local authority under section 47 of the 1984 Act
+(initial notices) including an initial notice combined with a plans
+certificate or a new initial notice under section 53(7) of the 1984 Act (new
+initial notices);
+
+5.2.b
+
+giving a plans certificate to a local authority under section 50 of the 1984
+Act (plans certificates);
+
+5.2.c
+
+giving a final certificate to a local authority under section 51 of the 1984
+Act (final certificates);
+
+5.2.d
+
+giving an amendment notice to a local authority under section 51A of the 1984
+Act (variation of work to which initial notice relates);
+
+5.2.e
+
+giving a notice under section 52(1)(c), 52(2) or 52A(1) of the 1984 Act
+(cancellation of initial notice);
+
+5.2.f
+
+giving a transfer certificate and a transfer report to a local authority under
+section 53B(3) of the 1984 Act (new initial notice: change of registered
+building control approver).
+
+      Signed by authority of the Secretary of State for Levelling Up, Housing
+and Communities       Lee Rowley   Parliamentary Under Secretary of State
+Department for Levelling Up, Housing and Communities     19th September 2023
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations provide a list of the activities and functions of local
+authorities, the building safety regulator (the Health and Safety Executive)
+and registered building control approvers which are restricted under sections
+46A and 54B of the Building Act  1984 (c. 55) . Those sections were inserted
+into that Act by section 44 of the Building Safety Act  2022 (c. 30) .
+
+  A restricted function may only be exercised by the body in relation to work
+once they have received advice from a registered building inspector whose
+registration has effect in relation to work of that description.
+
+  For local authorities, regulation 3(2) gives the list of functions which are
+restricted functions. For the regulator, regulation 4(1) gives the list of
+functions which are restricted functions when the regulator is the building
+control authority in relation to a higher-risk building. And regulation 4(3)
+gives the list of functions which are restricted when the regulator is acting
+as the building control authority under a regulator’s notice (see section 91ZB
+of the Building Act 1984). For registered building control approvers,
+regulation 5(2) gives list of functions which are restricted functions.
+
+  A restricted activity, in relation to work of a particular description, may
+only be carried out by a local authority or a registered building control
+approver through a registered building inspector whose registration includes
+work of that description. Regulations 3(1) and 5(1) provide that the two
+activities which are restricted activities are the checking of plans (whether
+given to the body with an application or otherwise) and the inspection of
+building work for compliance with the requirements of the building
+regulations.
+
+  A full impact assessment of the effect that this instrument will have on the
+costs to business is published with an Explanatory Memorandum alongside the
+instrument on  www.legislation.gov.uk .
+

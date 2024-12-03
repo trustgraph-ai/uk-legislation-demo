@@ -1,0 +1,1315 @@
+Title: The Competition Act 1998 (Research and Development Agreements Block Exemption) Order 2022
+Date: 2024-05-20
+Description: This Order is a block exemption Order under section 6 of the Competition Act 1998 (c. 41) (“the Act”). It gives effect to the Competition and Markets Authority’s (“CMA”) recommendation that certain R&D agreements (as defined in article 3(2) of the Order) constitute a category of agreements which are likely to be exempt agreements as a result of section 9 of the Act. Agreements which fall within the category specified in article 3 of the Order are exempt from the prohibition in Chapter 1 of Part 1 of the Act (“the Chapter I prohibition”).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/1271
+
+## The Competition Act 1998 (Research and Development Agreements Block Exemption) Order 2022
+
+    Competition
+
+  Made   at 1.21 p.m. on 5th December 2022
+
+  Laid before Parliament   at 4.00 p.m. on 5th December 2022
+
+  Coming into force   1st January 2023
+
+      The Competition and Markets Authority has recommended that the Secretary
+of State make an order specifying certain categories of agreements relating to
+research and development for the purposes of section 6 of the Competition Act
+1998  (“ the Act ”).       In accordance with section 8 of the Act , before
+making the recommendation the Competition and Markets Authority published
+details of the proposed recommendation and considered the representations
+about it which were made to it .       The Secretary of State has decided to
+give effect to the recommendation without modifications.       The Secretary
+of State has also decided to vary two retained block exemption regulations
+under section 10A(1) of the Act . Before coming to that decision, the
+Secretary of State has—     a     in accordance with section 10A(2) of the
+Act, had regard to the conditions specified in section 9(1) for exemption from
+the prohibition in Chapter 1 of Part 1 of the Act, and         b     in
+accordance with section 10A(5) of the Act, informed the Competition and
+Markets Authority of the proposed variations and taken into account that
+Authority’s comments.               The Secretary of State therefore makes the
+following Order in exercise of the powers conferred by sections 6(2)(a), (5),
+(6) and (7), 10A(1) and 71(3) of the Act.
+
+### Citation, commencement and extent
+
+1
+
+This Order—
+
+1.a
+
+may be cited as the Competition Act 1998 (Research and Development Agreements
+Block Exemption) Order 2022,
+
+1.b
+
+comes into force on 1st January 2023, and
+
+1.c
+
+extends to England and Wales, Scotland and Northern Ireland.
+
+### Interpretation
+
+2
+
+2.1
+
+In this Order—
+
+      “ block exemption ” means the exemption from the Chapter I prohibition
+arising by virtue of this Order for the category of agreements  specified in
+this Order;           “ connected undertakings ”, in relation to a party to an
+R&D agreement, means—         undertakings in relation to which the party to
+the R&D agreement, directly or indirectly—         has the power to exercise
+more than half the voting rights,           has the power to appoint more than
+half the members of the board of directors, or if there is no such board, the
+equivalent body or bodies responsible for the management of the undertaking,
+or           has the right to manage the undertaking’s affairs;
+undertakings which directly or indirectly have, in relation to the party to
+the R&D agreement, the rights or powers listed in paragraph (a);
+undertakings in relation to which an undertaking referred to in paragraph (b)
+has, directly or indirectly, the rights or powers listed in paragraph (a);
+undertakings in relation to which the party to the R&D agreement together with
+one or more of the undertakings referred to in paragraphs (a), (b) or (c), or
+in relation to which two or more of the undertakings referred to in paragraphs
+(b) or (c), jointly have the rights or powers listed in paragraph (a);
+undertakings in relation to which the rights or the powers listed in paragraph
+(a) are jointly held by—         two or more partiesto the R&D agreement or
+their respective connected undertakings referred to in paragraphs (a) to (d),
+or           one or more of the parties to the R&D agreement or one or more of
+their connected undertakings referred to in paragraphs (a) to (d) and one or
+more third parties;                       “ contract product ”, in relation to
+an R&D agreement, means—         a product arising out of the joint research
+and development or paid-for research and development to which the R&D
+agreement relates, or           a product produced or provided applying a
+contract technology,         and includes products obtained through an R&D
+cluster and new products;           “ contract technology ”, in relation to an
+R&D agreement, means a technology or process arising out of the joint research
+and development or paid-for research and development to which the R&D
+agreement relates, and includes technologies or processes obtained through an
+R&D cluster and new technologies or processes;           “ excluded
+restriction ” has the meaning given in article  12(2) ;           “
+exploitation of the results ”, in relation to an R&D agreement, means (other
+than in article 3(2) )—         the production or distribution of a contract
+product or the application of a contract technology, or           the
+assignment or licensing of intellectual property rights, or the communication
+of know-how, required for that production or application;                 “
+financing party ” means a party to an agreement relating to research and
+development that finances the research and development concerned while not
+carrying out any of the research and development activities itself;
+“ intellectual property rights ” means—         industrial property rights (in
+particular, patents, design rights and trademarks), and           copyright
+and related rights;                 “ joint ”, in relation to activities
+carried out under an R&D agreement, means (other than in the expression “joint
+team, organisation or undertaking”) activities where the work involved is—
+carried out by the parties to the R&D agreement through a joint team,
+organisation or undertaking,           jointly entrusted by the parties to a
+third party, or           allocated between the parties by way of
+specialisation relating to research and development or specialisation relating
+to exploitation;                 “ know-how ” means a package of practical
+information, resulting from experience and testing, which is—         not
+generally known or easily accessible,           significant and useful for the
+production of new or existing products or the application of new or existing
+technologies or processes, and           described in a sufficiently
+comprehensive manner so as to make it possible to verify that it fulfils the
+criteria in paragraphs (a) and (b);                 “ paid-for research and
+development ” means research and development that is carried out by one or
+more parties to an agreement and financed by one or more financing parties;
+“ product ” means a good or a service, and includes both intermediate goods or
+services and final goods or services;           “R&D agreement” has the
+meaning given in article 3(2) ;           “R&D cluster” means research and
+development efforts directed primarily towards a specific aim or objective
+which—         cannot be defined as a specific product or technology, or
+involves a substantially broader target than products or technologies on a
+specific market;                 “ research and development ” means—
+activities aimed at acquiring know-how relating to existing or new products,
+technologies or processes,           the carrying out of theoretical analysis,
+systematic study or experimentation, including experimental production,
+technical testing of products or processes,           the establishment of
+facilities necessary for any of the activities referred to in paragraphs (a)
+to (c), and           the obtaining of intellectual property rights for the
+results of those activities;                 “ specialisation relating to
+exploitation ”, in relation to an R&D agreement, means an arrangement between
+the parties to the agreement under which—         they allocate between them
+individual tasks relating to the exploitation of the results, such as
+production or distribution of a contract product, or           restrictions
+are imposed on one or more of the parties to the agreement regarding the
+exploitation of the results, such as restrictions in relation to particular
+geographical areas, customers or fields of use,         and includes a case
+where only one of the parties produces and distributes a contract product on
+the basis of an assignment or exclusive licence granted by the other parties;
+“ specialisation relating to research and development ”, in relation to an R&D
+agreement, means an arrangement under which each of the parties to the
+agreement is involved in the research and development activities to which the
+agreement relates and the parties divide the research and development work
+involved in those activities between them in the way that they consider most
+appropriate, but does not include paid-for research and development;
+“ third party ”, in relation to a party to an R&D agreement, means a person
+other than a party to the agreement or a person acting on behalf of a party to
+the agreement.
+
+2.2
+
+In this Order—
+
+2.2.a
+
+references to a party to an R&D agreement having or being given “access” to
+the results of research and development, to intellectual property rights or to
+know-how are references to the party having or being given, as a minimum, the
+right to use the results, intellectual property rights or know-how,
+
+2.2.b
+
+references to a “new” product, technology or process, in relation to an R&D
+agreement falling within article  3(2)(a)  or (b), are references to a
+product, technology or process that does not exist at the time when the
+agreement is entered into and that will, if emerging, create its own new
+market and not improve, substitute or replace an existing product, technology
+or process, and
+
+2.2.c
+
+in the case of an R&D agreement falling within article 3(2)(c) or (d),
+references to the research and development to which the agreement relates are
+to be read as references to the research and development carried out under the
+prior agreement falling within article 3(2)(a) or (b) between the same
+parties.
+
+2.3
+
+For the purposes of this Order, the terms “ party ” and “ undertaking ”
+include their respective connected undertakings.
+
+### Block exemption
+
+3
+
+3.1
+
+The category of agreements identified in paragraph  (2) as R&D agreements is
+specified for the purposes of section 6 of the Competition Act 1998 .
+
+3.2
+
+Subject to paragraph  (3) , for the purposes of this Order an R&D agreement is
+an agreement entered into between two or more parties which relates to the
+conditions under which those parties pursue—
+
+3.2.a
+
+joint research and development, including cases where the agreement concerned
+also provides for joint exploitation of the results of that research and
+development,
+
+3.2.b
+
+paid-for research and development, including cases where the agreement
+concerned also provides for joint exploitation of the results of that research
+and development,
+
+3.2.c
+
+joint exploitation of the results of research and development carried out
+under a prior agreement falling within paragraph  (a)  between the same
+parties, or
+
+3.2.d
+
+joint exploitation of the results of research and development carried out
+under a prior agreement falling within paragraph  (b)  between the same
+parties.
+
+3.3
+
+R&D agreements which include provisions relating to the assignment or
+licensing of intellectual property rights to one or more of the parties, or to
+an entity the parties establish to carry out the joint research and
+development or paid-for research and development to which the agreement
+relates or joint exploitation of the results, are specified provided that
+those provisions—
+
+3.3.a
+
+do not constitute the primary object of the agreements, and
+
+3.3.b
+
+are directly related to and necessary for the implementation of the
+agreements.
+
+3.4
+
+In paragraph (2) references to “exploitation of the results” of research and
+development are references to the production or distribution of products or
+the application of technologies arising out of the research and development
+concerned or the assignment or licensing of intellectual property rights or
+the communication of know-how required for such production or application.
+
+### Conditions, obligation and consequences of breach
+
+#### Block exemption subject to conditions and obligation
+
+4
+
+The block exemption has effect in relation to an R&D agreement subject to the
+conditions specified in articles 5  to  8 ,  10  and  12  and the obligation
+specified in article  14 .
+
+#### Access to the final results
+
+5
+
+5.1
+
+The R&D agreement must provide—
+
+5.1.a
+
+for all the parties to the agreement to have access to the final results of
+the joint research and development or paid-for research and development to
+which the agreement relates for the purposes of—
+
+5.1.a.i
+
+further research and development, and
+
+5.1.a.ii
+
+exploitation of the results, and
+
+5.1.b
+
+for the access referred to in sub-paragraph (a) to be granted as soon as
+reasonably practicable after the final results of the research and development
+become available.
+
+5.2
+
+For the purposes of paragraph (1), access to the final results of the research
+and development must—
+
+5.2.a
+
+include access to any intellectual property rights and know-how resulting from
+the research and development to which the R&D agreement relates, and
+
+5.2.b
+
+not be subject to limitations other than as referred to in paragraph  (3) .
+
+5.3
+
+An R&D agreement does not breach the condition in this article by—
+
+5.3.a
+
+requiring a party to the agreement to compensate another party to the
+agreement for obtaining access to the results for the purposes of further
+research and development or for the purposes of exploitation of the results,
+provided the compensation required is not so high as to effectively prevent
+such access;
+
+5.3.b
+
+including provision under which one or more research institutes, academic
+bodies or undertakings that supply research and development as a commercial
+service without normally being active in the exploitation of results of
+research and development, agree to confine their use of the results for the
+purposes of further research;
+
+5.3.c
+
+in cases where the parties to the agreement limit their rights of exploitation
+of the results in accordance with this Order and, in particular, where the
+agreement provides for specialisation relating to exploitation, limiting
+access to the results for the purposes of that exploitation accordingly.
+
+5.4
+
+In paragraph (3)(b), “ the exploitation of results of research and development
+” means the production or distribution of products or the application of
+technologies arising out of research and development or the assignment or
+licensing of intellectual property rights or the communication of know-how
+required for such production or application.
+
+#### Access to pre-existing know-how
+
+6
+
+6.1
+
+If the R&D agreement does not provide for joint exploitation of the results it
+must provide that each party to the agreement is to be granted access to any
+pre-existing know-how of the other parties if this know-how is indispensable
+for the purposes of its exploitation of the results.
+
+6.2
+
+An R&D agreement does not breach the condition in paragraph (1)  by requiring
+a party to the agreement to compensate another party to the agreement for
+obtaining access to its pre-existing know-how, provided the compensation
+required is not so high as to effectively prevent such access.
+
+#### Joint exploitation
+
+7
+
+7.1
+
+If the R&D agreement provides for joint exploitation of the results it must
+meet the conditions in paragraphs (2)  and  (3) .
+
+7.2
+
+The condition in this paragraph is that the joint exploitation must relate
+only to results which are—
+
+7.2.a
+
+indispensable for the production of the contract product or the application of
+the contract technology concerned, and
+
+7.2.b
+
+protected by intellectual property rights or constitute know-how.
+
+7.3
+
+The condition in this paragraph is that, if one or more of the parties to the
+R&D agreement are charged with the production of a contract product by way of
+specialisation relating to exploitation, those parties must be required to
+fulfil orders for supplies of the contract product from the other parties to
+the agreement, except where—
+
+7.3.a
+
+the R&D agreement also provides for distribution of the contract product by a
+joint team, organisation or undertaking or by a third party jointly entrusted
+with distribution of the contract product by the parties, or
+
+7.3.b
+
+the parties to the agreement have agreed that only the party producing the
+contract product may distribute it.
+
+#### Thresholds, market shares and duration of exemption
+
+8
+
+8.1
+
+Where, in the case of an R&D agreement falling within article 3(2)(a) or (b),
+at the time the agreement is entered into, two or more of the parties to the
+agreement are—
+
+8.1.a
+
+actual competitors or potential competitors, and
+
+8.1.b
+
+if the R&D agreement relates to more than one contract product or contract
+technology, actual competitors or potential competitors in relation to the
+same contract product or contract technology,
+
+the agreement must meet the condition in paragraph (2).
+
+8.2
+
+The condition in this paragraph is that at the time the R&D agreement is
+entered into—
+
+8.2.a
+
+in the case of an R&D agreement involving joint research and development, the
+combined market share of the undertakings which are parties to the agreement
+must not exceed 25% of any relevant product market or relevant technology
+market, and
+
+8.2.b
+
+in case of an R&D agreement involving paid-for research and development (“the
+paid-for R&D agreement”), the combined market share of—
+
+8.2.b.i
+
+each financing party in respect of the paid-for R&D agreement,
+
+8.2.b.ii
+
+the other undertakings which are parties to the paid-for R&D agreement, and
+
+8.2.b.iii
+
+each other undertaking with which each financing party has entered into an R&D
+agreement in relation to a contract product or contract technology which is
+the same as a contract product or contract technology to which the paid-for
+R&D agreement relates,
+
+must not exceed 25% of any relevant product market or relevant technology
+market.
+
+8.3
+
+Where, in the case of an R&D agreement falling within article 3(2)(a) or (b),
+two or more of the parties to the agreement are undertakings competing in
+innovation at the time the agreement is entered into and—
+
+8.3.a
+
+if more than one new product or technology would be covered by the R&D
+agreement, the R&D efforts which each of those parties independently engage in
+or, in the absence of the agreement, would be able and likely independently to
+engage in, concern research and development of a new product or technology
+which relates to the same new product or technology covered by the R&D
+agreement, or
+
+8.3.b
+
+if more than one aim or objective would be covered by the R&D agreement, the
+R&D efforts which each of those parties independently engage in or, in the
+absence of the agreement, would be able and likely independently to engage in,
+concern an R&D cluster pursuing an aim or objective which relates to the same
+aim or objective covered by the R&D agreement,
+
+the agreement must meet the condition in paragraph  (5) .
+
+8.4
+
+For the purposes of paragraph  (3) —
+
+8.4.a
+
+research and development of a new product or technology relates to a new
+product or technology that would be covered by the R&D agreement, if it is
+research and development of a new product or technology which is the same as,
+or is likely to be substitutable for, the new product or technology that would
+be covered by the R&D agreement, and
+
+8.4.b
+
+an R&D cluster pursues an aim or objective which relates to an aim or
+objective that would be covered by the R&D agreement, if the R&D cluster
+pursues an aim or objective which is the same, or substantially the same, as
+the aim or objective that would be covered by the R&D agreement.
+
+8.5
+
+The condition in this paragraph is that at the time the R&D agreement is
+entered into there must be three or more of the following—
+
+8.5.a
+
+competing R&D efforts comparable with those of the parties to the R&D
+agreement, or
+
+8.5.b
+
+third parties that are able independently to engage in a research and
+development effort which concerns—
+
+8.5.b.i
+
+research and development of a new product or technology which is the same as,
+or likely to be substitutable for, a new product or technology that would be
+covered by the R&D agreement, or
+
+8.5.b.ii
+
+an R&D cluster pursuing an aim or objective which is the same, or
+substantially the same, as an aim or objective that would be covered by the
+R&D agreement.
+
+8.6
+
+Where, in the case of an R&D agreement falling within article 3(2)(a) or (b),
+the parties to the agreement are not competing undertakings at the time the
+agreement is entered into or the agreement meets all the conditions in
+paragraphs (2)  and  (5)  to which it is subject—
+
+8.6.a
+
+the block exemption has effect in relation to the R&D agreement concerned for
+the duration of the research and development to which the agreement relates,
+and
+
+8.6.b
+
+if the R&D agreement concerned provides for joint exploitation of the results,
+the block exemption is extended for a further period ending seven years after
+the time a contract product or contract technology is first put on the market
+within the United Kingdom, or if more than one contract product or contract
+technology is put on the market within the United Kingdom, after the time the
+first of them is put on the market.
+
+8.7
+
+In the case of an R&D agreement falling within article 3(2)(c) or (d), the
+block exemption has effect in relation to the agreement for the period
+beginning with the date the agreement is entered into and ending seven years
+after the time a contract product or contract technology is first put on the
+market within the United Kingdom, or if more than one contract product or
+contract technology is put on the market within the United Kingdom, after the
+time the first of them is put on the market, on condition that—
+
+8.7.a
+
+at the time the prior agreement falling within article 3(2)(a) or (b) was
+entered into the parties to the prior agreement were not competing
+undertakings, or
+
+8.7.b
+
+the prior agreement met all the conditions in paragraphs  (2)  and  (5)  to
+which it was subject.
+
+8.8
+
+The block exemption continues to have effect in relation to an R&D agreement
+after the end of the seven year period under paragraph (6)(b)  or  (7) (as the
+case may be), subject to the condition that the combined market share of the
+undertakings which are parties to the R&D agreement must not exceed 25% of any
+market to which a contract product or contract technology belongs.
+
+8.9
+
+For the purposes of this article,the parties to an R&D agreement are not
+competing undertakings at the time the agreement is entered into, if neither
+paragraph  (1)  nor paragraph  (3)  applies to the agreement.
+
+8.10
+
+In this article—
+
+      “ actual competitor ”, in relation to a contract product or contract
+technology, means an undertaking that is supplying an existing product,
+technology or process capable of being improved, substituted or replaced by
+the contract product or contract technology on the relevant geographic market;
+“competing R&D effort”, in relation to an R&D agreement, means a research and
+development effort in which a third party engages, alone or in cooperation
+with other third parties, and which concerns—         research and development
+of a new product or technology which is the same as, or likely to be
+substitutable for, a new product or technology that would be covered by the
+R&D agreement, or           an R&D cluster pursuing an aim or objective which
+is the same, or substantially the same, as an aim or objectivethat would be
+covered by the R&D agreement,         and does not include any research and
+development effort in which any of the parties to the R&D agreement is also
+engaged (including as a financing party);           “ potential competitor ”,
+in relation to a contract product or contract technology, means an undertaking
+that, in the absence of the R&D agreement relating to the contract product or
+contract technology, on realistic grounds and not just as a mere theoretical
+possibility, would be likely, within not more than three years, to undertake
+the necessary additional investments or incur the necessary costs to supply a
+product, technology or process capable of being improved, substituted or
+replaced by the contract product or contract technology on the relevant
+geographic market;           “ relevant product market ”, in relation to an
+R&D agreement, means the market for products—         capable of being
+improved, substituted or replaced by a contract product, and           in
+relation to which—         two or more of the undertakings which are parties
+to the agreement, or           in the case of an R&D agreement involving paid-
+for research and development, two or more of the undertakings referred to in
+paragraph  (2)(b) ,         are actual competitors or potential competitors;
+“ relevant technology market ”, in relation to an R&D agreement, means the
+market for technologies or processes—         capable of being improved,
+substituted or replaced by a contract technology, and           in relation to
+which—         two or more of the undertakings which are parties to the
+agreement, or           in the case of an R&D agreement involving paid-for
+research and development, two or more of the undertakings referred to in
+paragraph (2)(b) ,         are actual competitors or potential competitors;
+“ undertaking competing in innovation ”, in relation to an R&D agreement,
+means an undertaking which independently engages in, or, in the absence of the
+agreement, would be able and likely independently to engage in research and
+development efforts which concern—         research and development of a new
+product or technology which is the same as, or likely to be substitutable for,
+a new product or technologythat would be covered by the R&D agreement, or
+an R&D cluster pursuing an aim or objective which is the same, or
+substantially the same, as an aim or objective that would be covered by the
+R&D agreement.
+
+#### Rules for applying thresholds
+
+9
+
+9.1
+
+For the purposes of applying the market share thresholds provided for in
+article  8 , the following rules apply—
+
+9.1.a
+
+the market share of an undertaking is to be calculated on the basis of market
+sales value data, or, where market sales value data are not available,
+estimates based on other reliable market information, such as market sales
+volumes or expenditure on research and development;
+
+9.1.b
+
+the market share of an undertaking is to be calculated on the basis of data or
+information relating to the calendar year preceding that in which the
+calculation is being made, or, where that calendar year is not representative
+of the undertaking’s position in the relevant market, calculated as an average
+of the undertaking’s market shares for the three calendar years preceding that
+in which the calculation is being made.
+
+9.2
+
+The market share held by the undertakings referred to in paragraph (e) of the
+definition of “connected undertakings” in article  2(1)  is to be apportioned
+equally to each undertaking having the rights or the powers listed in
+paragraph (a) of that definition.
+
+9.3
+
+For the purposes of applying the threshold provided for in article  8(5) —
+
+9.3.a
+
+the assessment of the comparability ofcompeting R&D efforts is to be made on
+the basis of reliable information concerning elements such as—
+
+9.3.a.i
+
+the size, stage and timing of the research and development efforts,
+
+9.3.a.ii
+
+the availability of financial and human resources to the third party or
+parties pursuing the research and development efforts, their intellectual
+property rights, know-how or other relevant assets, and their previous
+research and development efforts, and
+
+9.3.a.iii
+
+the ability of the third party or parties to exploit in the United Kingdom,
+directly or indirectly, any possible results of the research and development
+efforts, and the likelihood of their doing so, and
+
+9.3.b
+
+the assessment of whether a third party is able independently to engage in a
+research and development effort of the kind referred to in article  8(5)(b)
+is to be made on the basis of reliable information concerning elements such
+as—
+
+9.3.b.i
+
+the availability of financial and human resources to the third party or
+parties, their intellectual property rights, know-how or other relevant
+assets, and their previous research and development efforts, and
+
+9.3.b.ii
+
+the ability of the third party or parties to exploit in the United Kingdom,
+directly or indirectly, any possible results of a research and development
+effort of that kind.
+
+#### Hardcore restrictions
+
+10
+
+10.1
+
+The R&D agreement must not, directly or indirectly, in isolation or in
+combination with other factors under the control of any of the parties to the
+agreement, have as its object—
+
+10.1.a
+
+the restriction of the freedom of a party to the agreement to carry out
+research and development independently or in cooperation with third parties—
+
+10.1.a.i
+
+in a field unconnected with a field to which the R&D agreement relates, or
+
+10.1.a.ii
+
+in a field to which the R&D agreement relates or in a connected field, after
+the completion of the joint research and development or paid-for research and
+development;
+
+10.1.b
+
+the limitation of output or sales, subject to the exceptions set out in
+paragraph  (2) ;
+
+10.1.c
+
+the fixing of prices when selling a contract product or licensing a contract
+technology to third parties, subject to the exceptions set out in paragraph
+(3) ;
+
+10.1.d
+
+the restriction of the geographical area in which, or of the customers to
+whom, the parties may make passive sales of a contract product or license a
+contract technology, subject to the exception set out in paragraph  (4) ;
+
+10.1.e
+
+the imposition of a requirement not to make any, or to limit, active sales of
+a contract product or contract technology in particular geographical areas or
+to customers which have not been exclusively allocated to one of the parties
+by way of specialisation relating to exploitation;
+
+10.1.f
+
+the imposition of a requirement that a party to the agreement refuse to meet
+demand for a contract product from customers in a geographical area allocated
+to another party to the agreement, or from customers otherwise allocated to
+one or more of the parties to the agreement by way of specialisation relating
+to exploitation, if those customers would market the contract product
+concerned in another geographical area within the United Kingdom;
+
+10.1.g
+
+the imposition of a requirement to make it difficult for users or resellers to
+obtain a contract product from other resellers within the United Kingdom.
+
+10.2
+
+An R&D agreement which provides for joint exploitation of the results does not
+breach the condition in paragraph (1)(b)  by—
+
+10.2.a
+
+setting production targets, where the joint exploitation of the results
+includes the joint production of a contract product;
+
+10.2.b
+
+setting sales targets, where the joint exploitation of the results—
+
+10.2.b.i
+
+includes the distribution of a contract product or the licensing of a contract
+technology, and
+
+10.2.b.ii
+
+is carried out by a joint team, organisation or undertaking or is jointly
+entrusted to a third party;
+
+10.2.c
+
+providing for practices constituting specialisation relating to exploitation;
+or
+
+10.2.d
+
+restricting the freedom of a party to the agreement to produce, sell, assign
+or license a product, technology or process which competes with a contract
+product or contract technology during the period for which the parties have
+agreed to carry out joint exploitation of the results.
+
+10.3
+
+An R&D agreement which provides for joint exploitation of the results does not
+breach the condition in paragraph (1)(c)  by fixing prices charged to
+immediate customers or fixing licence fees charged to immediate licensees
+where the joint exploitation of the results—
+
+10.3.a
+
+includes the distribution of a contract product or the licensing of a contract
+technology, and
+
+10.3.b
+
+is carried out by a joint team, organisation or undertaking or is jointly
+entrusted to a third party.
+
+10.4
+
+An R&D agreement does not breach the condition in paragraph (1)(d)  by
+requiring or providing for the results of the research and development to
+which it relates to be licensed on an exclusive basis to another party to the
+agreement.
+
+10.5
+
+In this article—
+
+      “ active sales ” means—         actively targeting customers by for
+instance calls, e-mails, letters, visits or other direct means of
+communication,           targeted advertising and promotion, by means of print
+or digital media, offline or online, including online media, digital
+comparison tools or advertising on search engines targeting customers in
+specific geographical areas or customer groups,           advertisement or
+promotion that is only attractive for the buyer if it (in addition to reaching
+other customers) reaches a specific group of customers or customers in a
+specific geographical area (and is considered active selling to that customer
+group or customers in that geographical area),           offering on a website
+language options different to the ones commonly used in the geographical area
+in which the distributor is established, or           using a domain name
+corresponding to a geographical area other than the one in which the
+distributor is established;                 “ digital comparison tools ” means
+online intermediary services used by end users to compare prices, quality or
+other characteristics of, and potentially to switch or purchase, goods or
+services from a range of businesses;           “ passive sales ” means—
+sales in response to unsolicited requests from individual customers, including
+delivery of goods or services to such customers without the sale having been
+initiated through advertising actively targeting the particular customer group
+or geographical area,           general advertising or promotion that reaches
+customers in other distributors’ geographical areas or customer groups
+(whether exclusive or not) but which is a reasonable way to reach customers
+not in those other distributors’ geographical areas or customer groups
+(whether exclusive or not), for instance to reach customers in a supplier’s
+own geographical area, in that, for example, it would be attractive for the
+buyer to incur the costs of the general advertising or promotion concerned
+even if it would not reach customers in other distributors’ geographical areas
+or customer groups (whether exclusive or not), or           participating in a
+public procurement exercise undertaken in accordance with the Defence and
+Security Public Contracts Regulations 2011 , the Public Contracts Regulations
+2015 , the Concession Contracts Regulations 2016  or the Utilities Contracts
+Regulations 2016 .
+
+#### Effect of breach of conditions in article 5, 6, 7, 
+
+11
+
+11.1
+
+Subject to paragraph  (2) , breach of any of the conditions imposed by article
+5 , 6,  7 ,  8(2) ,  (5) ,  (7)  or  (8)  or  10 has the effect of cancelling
+the block exemption in respect of the R&D agreement concerned.
+
+11.2
+
+In the case of a breach of the condition in paragraph  (8)  of article  8 , if
+the combined market share of the undertakings which are parties to the
+agreement does not exceed the 25% threshold referred to in that paragraph at
+the end of the seven year period referred to in that paragraph, but
+subsequently rises above that level, the breach has the effect of cancelling
+the block exemption but only with effect from the end of the period of two
+consecutive calendar years following the year in which the 25% threshold
+referred to in article  8(8)  was first exceeded.
+
+#### Excluded restrictions
+
+12
+
+12.1
+
+Subject to article  13 , the R&D agreement must not contain an excluded
+restriction.
+
+12.2
+
+Subject to paragraphs  (3)  and  (4) , an excluded restriction means—
+
+12.2.a
+
+an obligation not to challenge, after completion of the research and
+development to which the agreement relates, the validity of intellectual
+property rights which—
+
+12.2.a.i
+
+are held by a party to the agreement under the law of any part of the United
+Kingdom, and
+
+12.2.a.ii
+
+are relevant to the research and development;
+
+12.2.b
+
+an obligation not to challenge, after the expiry of the agreement, the
+validity of intellectual property rights which—
+
+12.2.b.i
+
+are held by a party to the agreement under the law of any part of the United
+Kingdom, and
+
+12.2.b.ii
+
+protect the results of the research and development to which the agreement
+relates;
+
+12.2.c
+
+an obligation not to grant licences to third parties to produce a contract
+product or to apply a contract technology
+
+12.3
+
+As regards paragraph  (2)(a)  and  (b) , provision permitting termination of
+the R&D agreement in the event of one of the parties to the agreement
+challenging the validity of the intellectual property rights referred to in
+those sub-paragraphs is not an excluded restriction.
+
+12.4
+
+As regards paragraph  (2)(c) , an obligation not to grant licences to third
+parties to produce a contract product or to apply a contract technology is not
+an excluded restriction if the agreement provides for exploitation of the
+results by at least one of the parties to the agreement and such exploitation
+relates to the contract product or contract technology concerned and takes
+place in the United Kingdom.
+
+12.5
+
+For the purposes of paragraph  (4) , the exploitation takes place in the
+United Kingdom if it involves—
+
+12.5.a
+
+distribution of the contract product to customers (including third party
+distributors) in the United Kingdom,
+
+12.5.b
+
+production of the contract product or the application of the contract
+technology within the United Kingdom, or
+
+12.5.c
+
+the assignment or licensing of intellectual property rights, or the
+communication of know-how, required for the production of the contract product
+or the application of the contract technology, to a third party in the United
+Kingdom.
+
+#### Effect of breach of condition in article 
+
+13
+
+Breach of the condition imposed by article  12 has the effect, as regards an
+R&D agreement which contains an excluded restriction—
+
+13.a
+
+which is not severable from the agreement, of cancelling the block exemption
+in respect of that agreement;
+
+13.b
+
+which is severable from the agreement, of cancelling the block exemption in
+respect of that excluded restriction only.
+
+#### Obligation to provide information and effect of breach
+
+14
+
+14.1
+
+A person must supply to the CMA  such information in connection with any
+agreement claiming the benefit of the block exemption to which it is a party
+as the CMA may by notice in writing request—
+
+14.1.a
+
+within a period of ten working days  commencing with the relevant day, or
+
+14.1.b
+
+within such longer period of working days commencing with the relevant day as
+the CMA may, having regard to the particular circumstances of the case, agree
+with the person in writing.
+
+14.2
+
+Where the CMA considers that a person has, without reasonable excuse, failed
+to comply with the obligation imposed by paragraph (1), the CMA may, subject
+first to giving notice in writing of its proposal and considering any
+representations made to it, by notice in writing cancel the block exemption in
+respect of any R&D agreement to which the request for information under
+paragraph (1) relates.
+
+14.3
+
+In this article—
+
+      “ relevant day ” means—         where notice to provide information
+under paragraph (1) is given under article 16(a), the day on which the person
+receives the notice in writing,           where notice to provide information
+under paragraph (1) is given by publication under article  16(b) , the day on
+which the notice is published, or           if the day mentioned in sub-
+paragraph (a) or (b) (as the case may be) is not a working day, the next day
+that is a working day.
+
+### Cancellation and notices
+
+#### Cancellation in individual cases
+
+15
+
+15.1
+
+If the CMA considers that a particular R&D agreement is not one which is
+exempt from the Chapter I prohibition as a result of section 9 of the
+Competition Act 1998, it may, subject to paragraph (2), by notice in writing
+cancel the block exemption in respect of that R&D agreement.
+
+15.2
+
+Before cancelling the block exemption, the CMA must—
+
+15.2.a
+
+give notice in writing of its proposal to cancel the block exemption in
+accordance with paragraph  (1) , and
+
+15.2.b
+
+consider any representations made to it.
+
+#### Notices in writing
+
+16
+
+For the purposes of articles  14  and  15 , notice in writing is to be given
+by—
+
+16.a
+
+the CMA giving notice in writing of its request for information, decision or
+proposal to those persons whom it can reasonably identify as being parties to
+the R&D agreement concerned, or
+
+16.b
+
+where it is not reasonably practicable for the CMA to comply with paragraph
+(a), the CMA publishing its request for information, decision or proposal in—
+
+16.b.i
+
+the register maintained by the CMA under rule 20 of the rules set out in the
+Schedule to the Competition Act 1998 (Competition and Markets Authority’s
+Rules) Order 2014 ,
+
+16.b.ii
+
+the London, Edinburgh and Belfast Gazettes,
+
+16.b.iii
+
+at least one national daily newspaper, and
+
+16.b.iv
+
+if there is in circulation an appropriate trade journal which is published at
+intervals not exceeding one month, in such trade journal,
+
+stating the facts on which it bases the request, decision or proposal, and its
+reasons for making it.
+
+### Transitional and other miscellaneous provision
+
+#### Transitional provision
+
+17
+
+17.1
+
+Subject to paragraph (2)—
+
+17.1.a
+
+article  8(3)  and  (5) apply only to R&D agreements entered into on or after
+1st January 2024, and
+
+17.1.b
+
+article  8(9) has effect in relation to R&D agreements entered into before
+that date as if for the words from “neither” to the end there were substituted
+“paragraph (1) does not apply to the agreement” .
+
+17.2
+
+An R&D agreement falling within article 3(2)(c)  or  (d)  which is entered
+into on or after 1st January 2024 is to be treated as having been entered into
+before that date for the purposes of paragraph  (1) , if the research and
+development to which it relates was carried out under a prior agreement
+falling within  3(2)(a)  or  (b)  between the same parties which was entered
+into before that date.
+
+17.3
+
+In this article, a “pre-existing R&D agreement” means an agreement entered
+into before 1st January 2023 which on 1st January 2023—
+
+17.3.a
+
+does not fall into the category specified in article 3, or falls within that
+category but does not satisfy the conditions provided for in this Order
+(including those conditions as modified under paragraph (1), where
+applicable), and
+
+17.3.b
+
+immediately before that date satisfied the conditions for exemption provided
+for in Commission Regulation (EU) 1217/2010 on the application of Article
+101(3) of the Treaty on the Functioning of the European Union to certain
+categories of research and development agreements .
+
+17.4
+
+A pre-existing R&D agreement is to be treated as an R&D agreement specified in
+article 3 and meeting the conditions provided for in this Order until the end
+of 31st December 2024.
+
+17.5
+
+Articles  14  to  16 apply to a pre-existing R&D agreement as they apply to an
+R&D agreement.
+
+#### Amendments to retained block exemption regulations
+
+18
+
+18.1
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+18.2
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+18.3
+
+Commission Regulation (EU) 316/2014 on the application of Article 101(3) of
+the Treaty on the Functioning of the European Union to categories of
+technology transfer agreements  is amended as set out in paragraph  (4) .
+
+18.4
+
+In Article 9, for “Regulation (EU) No 1217/2010” substitute  “the Competition
+Act 1998 (Research and Development Agreements Block Exemption) Order 2022” .
+
+#### Review
+
+19
+
+19.1
+
+The Secretary of State must from time to time—
+
+19.1.a
+
+carry out a review of this Order,
+
+19.1.b
+
+set out the conclusions of the review in a report, and
+
+19.1.c
+
+publish the report.
+
+19.2
+
+The report must in particular—
+
+19.2.a
+
+set out the objectives intended to be achieved by the regulatory system
+established by this Order;
+
+19.2.b
+
+assess the extent to which those objectives are achieved; and
+
+19.2.c
+
+assess whether those objectives remain appropriate, and, if so, the extent to
+which they could be achieved with a system that imposes less regulation.
+
+19.3
+
+The first report under this article must be published before the end of the
+period of five years beginning with the day on which this Order comes into
+force.
+
+19.4
+
+Reports under this article are afterwards to be published at intervals not
+exceeding five years.
+
+#### Expiry
+
+20
+
+This Order ceases to have effect at the end of 31st December 2035.
+
+      Kevin Hollinrake   Parliamentary Under Secretary of State   Department
+for Business, Energy and Industrial Strategy
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Order)
+
+  This Order is a block exemption Order under section 6 of the Competition Act
+1998 (c. 41)  (“ the Act ”). It gives effect to the Competition and Markets
+Authority’s (“ CMA ”) recommendation that certain R&D agreements (as defined
+in article 3(2) of the Order) constitute a category of agreements which are
+likely to be exempt agreements as a result of section 9 of the Act. Agreements
+which fall within the category specified in article 3 of the Order are exempt
+from the prohibition in Chapter 1 of Part 1 of the Act (“ the Chapter I
+prohibition ”).
+
+  The block exemption applies to such agreements to the extent that they fall
+within the scope of section 2 of the Act (agreements etc. preventing,
+restricting or distorting competition ).
+
+  The block exemption applies from 1st January 2023 (see article 1(b)) and
+will cease to have effect at the end of 31st December 2035 (see article 20).
+
+  The block exemption may be cancelled before 31st December 2035 in respect of
+some R&D agreements if:         there is a breach of the conditions relating
+to access to the results of the research and development (see article  5 ),
+access to pre-existing know-how (see article  6 ) or joint exploitation (see
+article  7 );           there is a breach of any of the conditions relating to
+market share and competition in innovation in article  8 , although if the
+condition in article  8(8)  relating to market shares following a period of
+joint exploitation is met initially, and only subsequently breached, the
+breach has the effect of cancelling the block exemption in respect of the
+agreement but only with effect from the end of the period of two consecutive
+calendar years following the year in which the market share threshold
+concerned was first exceeded (see article  11(2) );           a hardcore
+restriction is included in the agreement (see article  10 );           an
+excluded restriction is included in the agreement, although if the excluded
+restriction is severable from the agreement the block exemption is cancelled
+only in respect of the excluded restriction (see articles  12(1)  and  13 );
+the CMA cancels the effect of the exemption:         because of a failure of
+an undertaking to provide it with information about the agreement (see article
+14(2) );           because it considers that a particular agreement is not one
+which is exempt from the Chapter I prohibition as a result of section 9 of the
+Act (see article  15(1) ).
+
+  The CMA is given a power to ask for information about agreements to which a
+person is a party (see article  14(1) ).
+
+  A transitional provision also ensures that the Chapter I prohibition does
+not apply for 12 months to pre-existing agreements which satisfied the
+conditions for exemption provided for in Commission Regulation (EU) 1217/2010
+on the application of Article 101(3) of the Treaty on the Functioning of the
+European Union to certain categories of research and development agreements
+(EUR 2010/1217)but which do not otherwise satisfy the conditions for exemption
+provided for in this Order. A further transitional provision ensures that new
+requirements designed to protect competition in innovation apply only in
+relation to R&D agreements entered into on or after 1st January 2024.
+
+  The Order also amends two retained block exemption regulations (as defined
+in section 10(12) of the Act) to update references in those regulations to
+other retained block exemption regulations which have expired, or are about to
+expire, so that they are instead references to block exemption orders under
+section 6 of the Act (including this Order) intended to replace the expired or
+expiring retained block exemption regulations.
+
+  Guidance on the block exemption is available from the CMA online at
+http://www.gov.uk/cma  or by writing to Competition and Markets Authority, The
+Cabot, 25 Cabot Square, London E14 4QZ.
+
+  A full impact assessment has not been produced for this instrument as no, or
+no significant, impact on the private, voluntary or public sector is foreseen.
+An Explanatory Memorandum has been prepared for this Order and is available
+alongside this instrument on the UK Legislation website
+www.legislation.gov.uk .
+

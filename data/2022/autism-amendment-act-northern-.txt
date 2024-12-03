@@ -1,0 +1,350 @@
+Title: Autism (Amendment) Act (Northern Ireland) 2022
+Date: 2022-09-11
+Description: Amend the Autism (Northern Ireland) Act 2011
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nia/2022/13
+
+## Autism (Amendment) Act (Northern Ireland) 2022
+
+      BE IT ENACTED by being passed by the Northern Ireland Assembly and
+assented to by Her Majesty as follows:
+
+### Autism strategy: consultations and data
+
+1
+
+In section 2 of the Autism Act (Northern Ireland) 2011 (autism strategy)—
+
+1.a
+
+in subsection (2), after “consult the Northern Ireland departments” insert  “,
+and such other persons as the Department considers appropriate,” ,
+
+1.b
+
+after subsection (3) insert—
+
+1.b.3A
+
+The data on prevalence must include data on prevalence in adults and
+prevalence in children.
+
+.
+
+### Additional components of autism strategy
+
+2
+
+In section 3 of the Autism Act (Northern Ireland) 2011 (content of the autism
+strategy), after subsection (4) insert—
+
+2.4A
+
+The autism strategy must set out how training (including accredited training)
+is to be provided to the staff of Northern Ireland departments and other
+public bodies on how to best address the needs of—
+
+2.4A.a
+
+persons with autism, and
+
+2.4A.b
+
+the families and carers of persons with autism.
+
+2.4B
+
+The autism strategy must set out how the Department is to make provision for
+an autism support and early intervention service.
+
+2.4C
+
+The autism strategy must set out how the Department is to make provision for
+an autism information service which is accessible (both in person and
+remotely) by—
+
+2.4C.a
+
+persons with autism,
+
+2.4C.b
+
+the families and carers of persons with autism, and
+
+2.4C.c
+
+professionals working with persons with autism, and their families and carers.
+
+2.4D
+
+The autism strategy must set out how the needs of adults with autism will be
+addressed, including in particular their needs in respect of—
+
+2.4D.a
+
+lifelong learning,
+
+2.4D.b
+
+employment support,
+
+2.4D.c
+
+recreation,
+
+2.4D.d
+
+physical health,
+
+2.4D.e
+
+emotional and mental well-being,
+
+2.4D.f
+
+supported living, and
+
+2.4D.g
+
+housing.
+
+2.4E
+
+The autism strategy must set out how the Department will reduce waiting times
+for autism assessment and treatment services provided by HSC trusts.
+
+.
+
+### Methodology of the autism strategy
+
+3
+
+After section 3 of the Autism Act (Northern Ireland) 2011 insert—
+
+####### Methodology of the autism strategy
+
+3.3A
+
+3.3A.1
+
+The autism strategy must take into account best international practice on
+autism.
+
+3.3A.2
+
+The autism strategy must take into account that persons with autism, and their
+families and carers, have individualised needs.
+
+3.3A.3
+
+The autism strategy must take a multidisciplinary and cross-departmental
+approach.
+
+3.3A.4
+
+The autism strategy must set out how consistency of practice is to be achieved
+across—
+
+3.3A.4.a
+
+HSC trusts, and
+
+3.3A.4.b
+
+education services.
+
+3.3A.5
+
+The autism strategy must set out measurable targets against which its
+effectiveness may be assessed.
+
+3.3A.6
+
+Without limiting the generality of consultations required under section 2(2),
+those measurable targets must be developed in consultation with bodies with an
+interest in promoting the rights of persons with autism.
+
+.
+
+### Annual autism funding reports
+
+4
+
+After section 3A of the Autism Act (Northern Ireland) 2011 (inserted by
+section 3), insert—
+
+####### Funding for autism
+
+######## Annual autism funding reports
+
+4.3B
+
+4.3B.1
+
+The Minister must lay before the Assembly, for each financial year, a report
+(“an annual report”) setting out how the funding for autism, in respect of
+that year, took account of—
+
+4.3B.1.a
+
+the autism strategy,
+
+4.3B.1.b
+
+the prevalence of autism in children and adults,
+
+4.3B.1.c
+
+the needs of persons with autism,
+
+4.3B.1.d
+
+the needs of families and carers of persons with autism, and
+
+4.3B.1.e
+
+the potential for collaboration with bodies with an interest in promoting the
+rights of persons with autism.
+
+4.3B.2
+
+In this section “ the funding for autism ” means—
+
+4.3B.2.a
+
+in respect of the Department, the allocation of funding for health and social
+care, in so far as it relates to the autism strategy,
+
+4.3B.2.b
+
+in respect of the other Northern Ireland departments, the allocation of
+funding for that part of the autism strategy which falls within their
+responsibilities.
+
+4.3B.3
+
+The annual report must be laid within 6 months of the end of the financial
+year.
+
+4.3B.4
+
+The first annual report must be laid in respect of the financial year ending
+31 March 2023.
+
+.
+
+### Autism reviewer
+
+5
+
+After section 3B of the Autism Act (Northern Ireland) 2011 (inserted by
+section 4), insert—
+
+####### Autism reviewer
+
+######## Autism reviewer
+
+5.3C
+
+5.3C.1
+
+The Department must appoint a person as the autism reviewer.
+
+5.3C.2
+
+The autism reviewer must not be a person employed by the Department or a
+Northern Ireland department.
+
+5.3C.3
+
+The autism reviewer is not subject to the direction or control of the
+Department or the Northern Ireland departments.
+
+5.3C.4
+
+But this is subject to the requirement under this section for the Department
+to pay the autism reviewer’s expenses and allowances.
+
+5.3C.5
+
+The reviewer must issue a report annually on the exercise of their functions,
+and may issue additional reports.
+
+5.3C.6
+
+The reviewer must send any report to the Department.
+
+5.3C.7
+
+On receiving the report, the Department must lay it before the Assembly.
+
+5.3C.8
+
+The Department must pay the reviewer expenses and allowances which are
+reasonably necessary in order to allow the reviewer to carry out their
+functions.
+
+######## Functions of the autism reviewer
+
+5.3D
+
+The functions of the autism reviewer are—
+
+5.3D.a
+
+to monitor the implementation and effectiveness of the autism strategy,
+
+5.3D.b
+
+to assess the efficacy of the funding arrangements in respect of autism,
+
+5.3D.c
+
+to keep under review the adequacy and effectiveness of the law and practice
+relating to autism,
+
+5.3D.d
+
+to keep under review the adequacy and effectiveness of services provided for
+persons with autism, their families and carers,
+
+5.3D.e
+
+to commission independent research on best international practice on autism,
+
+5.3D.f
+
+to advise the Assembly, if requested, on matters relating to autism, and
+
+5.3D.g
+
+any other function which the Department may confer upon the reviewer.
+
+.
+
+### Interpretation
+
+6
+
+In section 4(1) of the Autism Act (Northern Ireland) 2011 (interpretation)
+insert in the appropriate place in alphabetical order—
+
+      “ public body ” means a body established by or under a statutory
+provision within the meaning of section 1(f) of the Interpretation Act
+(Northern Ireland) 1954.
+
+.
+
+### Commencement
+
+7
+
+This Act comes into operation after the end of the period of three months
+beginning with the date on which it receives Royal Assent.
+
+### Short title
+
+8
+
+This Act may be cited as the Autism (Amendment) Act (Northern Ireland) 2022.
+

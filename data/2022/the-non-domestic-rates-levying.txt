@@ -1,0 +1,339 @@
+Title: The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022
+Date: 2024-05-20
+Description: These Regulations make provision for the amount payable in certain circumstances as non-domestic rates in respect of non-domestic subjects in Scotland. The non-domestic rate for subjects not covered by these Regulations is fixed by Order made under the Local Government (Scotland) Act 1975. For the financial year 2022-2023, the rate is fixed by the Non-Domestic Rate (Scotland) Order 2022 (S.S.I. 2022/36).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ssi/2022/48
+
+## The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2022
+
+    Rating And Valuation
+
+  Made   8th February 2022
+
+  Laid before the Scottish Parliament   10th February 2022
+
+  Coming into force   1st April 2022
+
+      The Scottish Ministers make the following Regulations in exercise of the
+power conferred by section 153 of the Local Government etc. (Scotland) Act
+1994  and all other powers enabling them to do so.
+
+### General
+
+#### Citation and commencement
+
+1
+
+These Regulations may be cited as the Non-Domestic Rates (Levying and
+Miscellaneous Amendment) (Scotland) Regulations 2022 and come into force on 1
+April 2022.
+
+### Levying Regulations
+
+#### Interpretation of Part 2
+
+2
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Amount payable as rates – lands and heritages with rateable value of £18,000 or less
+
+3
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Amount payable as rates – lands and heritages with rateable value exceeding £51,000, but not exceeding £95,000
+
+4
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Amount payable as rates – lands and heritages with rateable value exceeding £95,000
+
+5
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Exemptions and discretionary reductions and remissions
+
+6
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Revocation and saving
+
+7
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Miscellaneous Non-Domestic Rating Amendments
+
+#### Amendment of the Non-Domestic Rates (Enterprise Areas) (Scotland) Regulations 2016
+
+8
+
+8.1
+
+The Non-Domestic Rates (Enterprise Areas) (Scotland) Regulations 2016  are
+amended as follows.
+
+8.2
+
+In regulation 3 (lands and heritages in enterprise areas), for “2022”
+substitute  “2023” .
+
+#### Amendment of the Non-Domestic Rates (Telecommunication Installations) (Scotland) Regulations 2016
+
+9
+
+9.1
+
+The Non-Domestic Rates (Telecommunication Installations) (Scotland)
+Regulations 2016  are amended as follows.
+
+9.2
+
+In regulation 2 (interpretation), for paragraph (a) of the entry for “Mobile
+Masts Pilot Area” substitute—
+
+9.2.a
+
+described by grid co-ordinates in a document entitled “Non-Domestic Rates
+Relief – Mobile Masts Pilot Extension – Eligible Grid References” and dated 08
+February 2022,
+
+.
+
+9.3
+
+In regulation 3 (amount payable as rates – lands and heritages comprising
+tower or mast sites) for “1 April 2021” substitute  “1 April 2022” .
+
+#### Amendment of the Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017
+
+10
+
+10.1
+
+The Non-Domestic Rates (Transitional Relief) (Scotland) Regulations 2017  are
+amended as follows.
+
+10.2
+
+In regulation 2 (interpretation – general)—
+
+10.2.a
+
+for the definition of “the 2021 Regulations” substitute—
+
+    “ the 2022 Regulations ” means the Non-Domestic Rates (Levying and
+Miscellaneous Amendments) (Scotland) Regulations 2022 ,
+
+, and
+
+10.2.b
+
+in the definition of “the relevant year”, for “2021” substitute  “2022” .
+
+10.3
+
+In regulation 8 (notional liability)—
+
+10.3.a
+
+for “0.516” substitute  “0.524” ,
+
+10.3.b
+
+for “0.503” substitute  “0.511” , and
+
+10.3.c
+
+for “0.49” substitute  “0.498” .
+
+10.4
+
+In regulation 9 (transitional limit)—
+
+10.4.a
+
+in each formula in paragraph (1), for “1.965” substitute  “2.247” , and
+
+10.4.b
+
+in paragraph (2)—
+
+10.4.b.i
+
+for “0.516” substitute  “0.524” ,
+
+10.4.b.ii
+
+for “0.503” substitute  “0.511” , and
+
+10.4.b.iii
+
+for “0.49” substitute  “0.498” .
+
+10.5
+
+In regulation 11 (changes in rateable value) —
+
+10.5.a
+
+in the heading, paragraph (1) and paragraph (2), for “2021” substitute  “2022”
+,
+
+10.5.b
+
+in paragraph (1)—
+
+10.5.b.i
+
+for “0.516” substitute  “0.524” ,
+
+10.5.b.ii
+
+for “0.503” substitute  “0.511” , and
+
+10.5.b.iii
+
+for “0.49” substitute  “0.498” .
+
+10.6
+
+In regulation 12(1)(a)(charitable and other reductions)—
+
+10.6.a
+
+in head (v) for “2021” substitute  “2022” ,
+
+10.6.b
+
+for head (vi) substitute—
+
+10.6.b.vi
+
+regulation 4(1), 6(1) or 11(1) of the Non-Domestic Rates (Relief for New and
+Improved Properties)(Scotland) Regulations 2022 ,
+
+ and
+
+10.6.c
+
+after head (vi) insert—
+
+10.6.c.vii
+
+regulation 4 of the Non-Domestic Rates (Coronavirus Reliefs) (Scotland)
+Regulations 2022
+
+.
+
+#### Amendment of the Non-Domestic Rates (Telecommunications New Fibre Infrastructure Relief) (Scotland) Regulations 2019
+
+11
+
+11.1
+
+The Non-Domestic Rates (Telecommunications New Fibre Infrastructure Relief)
+(Scotland) Regulations 2019  are amended in accordance with paragraph (2).
+
+11.2
+
+In regulation 3(3) (amount payable as rates – lands and heritages comprising
+telecommunications new fibre infrastructure) for “2029” substitute  “2034” .
+
+      TOM ARTHUR   Authorised to sign by the Scottish Ministers     St
+Andrew’s House,   Edinburgh     8th February 2022
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations make provision for the amount payable in certain
+circumstances as non-domestic rates in respect of non-domestic subjects in
+Scotland. The non-domestic rate for subjects not covered by these Regulations
+is fixed by Order made under the Local Government (Scotland) Act 1975. For the
+financial year 2022-2023, the rate is fixed by the Non-Domestic Rate
+(Scotland) Order 2022 ( S.S.I. 2022/36 ).
+
+These Regulations also make miscellaneous amendments to the Non-Domestic Rates
+(Enterprise Areas) (Scotland) Regulations 2016, the Non-Domestic Rates
+(Telecommunication Installations) (Scotland) Regulations 2016, the Non-
+Domestic Rates (Transitional Relief) (Scotland) Regulations 2017 and the Non-
+Domestic Rates (Telecommunications New Fibre Infrastructure Relief) (Scotland)
+Regulations 2019.
+
+Part 1 provides the title of these Regulations and for their commencement.
+
+Part 2 contains provisions in respect of the levying of non-domestic rates.
+
+Regulation 3 provides for the general reduction in rates for a ratepayer of
+non-domestic subjects which individually have a rateable value of £18,000 or
+less, and whose cumulative rateable value does not exceed £35,000. Regulation
+3(3) sets out the reduction of either 25% or 100% depending on the value of
+the subjects.
+
+Regulation 3(4) provides for a reduction in rate relief (calculated in
+accordance with regulation 3(3)) if the enactments listed in regulation
+3(4)(a) or (b) already provide for a reduction or determination. Regulation
+3(5) provides that no rate relief is granted in respect of lands and heritages
+that are receiving relief on account of being unoccupied or are used for
+payday lending.
+
+Regulation 4 provides a formula for the additional amount payable as rates for
+lands and heritages with a rateable value exceeding £51,000, but not exceeding
+£95,000. Regulation 5 provides a formula for the additional amount payable as
+rates for lands and heritages with a rateable value exceeding £95,000.
+
+Regulations 3 to 5 apply to the financial year 2022-2023.
+
+Regulation 6 allows for exemptions and discretionary reductions and
+remissions.
+
+The provisions in Part 2 of the Non-Domestic Rates (Levying and Miscellaneous
+Amendments) (Scotland) Regulations 2021 are revoked by regulation 7, with a
+saving provision in respect of the financial year 2021-2022.
+
+Part 3 contains miscellaneous amendments in respect of Non-Domestic Rating
+Regulations.
+
+Regulation 8 amends the Non-Domestic Rates (Enterprise Areas) (Scotland)
+Regulations 2016, which provide relief from non-domestic rates in specified
+enterprise areas. The relief granted under those Regulations was due to expire
+on 31 March 2022, but regulation 8 extends the relief until 31 March 2023.
+
+Regulation 9 amends the Non-Domestic Rates (Telecommunication Installations)
+(Scotland) Regulations 2016 (“ the 2016 Regulations ”). Regulation 9(2) amends
+a reference to a document in the definition of a “Mobile Masts Pilot Area” in
+the 2016 Regulations. These areas are either shown in a specified document
+with grid coordinates or delineated on three maps named in the 2016
+Regulations. A new document is being referred to.
+
+The document and maps are available for inspection online at
+https://www.gov.scot/publications/4g-infill-programme-non-domestic-rates-
+relief-mobile-masts/ .
+
+Regulation 9(3) provides relief for areas shown in the document from the
+2022-23 financial year, with the 2016 Regulations continuing that relief, if
+other conditions are met, until the end of the 2028-29 financial year.
+
+Regulation 10 amends the Non-Domestic Rates (Transitional Relief) (Scotland)
+Regulations 2017 (“ the 2017 Regulations ”). Paragraph (2) updates a reference
+to the Non-Domestic Rates (Levying and Miscellaneous Amendments) (Scotland)
+Regulations 2021 and updates the definition of “the relevant year”. The
+relevant year becomes the financial year 2022-23. Paragraph (4)(a) uprates a
+figure used to calculate entitlement to transitional relief and its maximum
+amount. Paragraphs (3), (4)(b) and (5)(b) make amendments, namely to
+regulations 8, 9 and 11 of the 2017 Regulations to reflect the changes to the
+poundage and supplement references. Paragraph (6) amends regulation 12 to
+reflect the availability of retail, hospitality and leisure relief, in light
+of coronavirus, for the first three months of the financial year 2022-23, and
+updates references to other Regulations.
+
+Regulation 11 amends the Non-Domestic Rates (Telecommunications New Fibre
+Infrastructure Relief) (Scotland) Regulations 2019. The relief granted under
+those Regulations was due to expire on 31 March 2029, but regulation 11
+extends the availability of the relief until 31 March 2034.
+

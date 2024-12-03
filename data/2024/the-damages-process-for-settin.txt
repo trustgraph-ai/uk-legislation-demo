@@ -1,0 +1,98 @@
+Title: The Damages (Process for Setting Rate of Return) Regulations (Northern Ireland) 2024
+Date: 2024-07-02
+Description: These Regulations alter some of the parameters which are to be used by the official rate-assessor (the Government Actuary) in setting the rate of return for the purposes of section C1(1) of the Damages Act 1996. That rate is known as the Personal Injury Discount Rate and is used in the calculation of awards of damages for future pecuniary loss in an action for personal injury. Under Schedule C1 to the 1996 Act, the rate is to be set to reflect the return which a hypothetical claimant investor (as described in paragraph 17 of that Schedule) could reasonably be expected to achieve if investing in the notional portfolio over the prescribed period, subject to two standard adjustments.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2024/137
+
+## The Damages (Process for Setting Rate of Return) Regulations (Northern Ireland) 2024
+
+    Damages
+
+Laid before the Assembly in draft
+
+  Made   19th June 2024
+
+  Coming into operation   1st July 2024
+
+      The Department of Justice makes the following Regulations in exercise of
+the powers conferred by paragraphs 9(2)(b) and 11(1) of Schedule C1 to the
+Damages Act 1996 .
+
+### Citation and commencement
+
+1
+
+These Regulations may be cited as the Damages (Process for Setting Rate of
+Return) Regulations (Northern Ireland) 2024 and come into operation on 1st
+July 2024.
+
+### Modification of standard adjustment for impact of taxation and costs of investment advice and management
+
+2
+
+In paragraph 10(2)(a) of Schedule C1 to the Damages Act 1996 for “0.75 of a
+percentage point” substitute  “1.25 percentage points” .
+
+### Allowance for impact of inflation
+
+3
+
+3.1
+
+Average Weekly Earnings is prescribed as the published information for use
+instead of the retail prices index for the purposes of paragraph 9(2) of
+Schedule C1 to the Damages Act 1996.
+
+3.2
+
+In paragraph (1), “ Average Weekly Earnings ” means the measure of short-term
+average earnings used to measure changes in earnings over time—
+
+3.2.a
+
+published periodically by the Statistics Board  under the title “Average
+weekly earnings in Great Britain” ;
+
+3.2.b
+
+based on that body’s Monthly Wages and Salaries Survey ; and
+
+3.2.c
+
+which relates to the whole of the economy of Great Britain.
+
+      Sealed with the Official Seal of the Department of Justice on 19th June
+2024         Naomi Long   Minister of Justice
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations alter some of the parameters which are to be used by the
+official rate-assessor (the Government Actuary) in setting the rate of return
+for the purposes of section C1(1) of the Damages Act 1996. That rate is known
+as the Personal Injury Discount Rate and is used in the calculation of awards
+of damages for future pecuniary loss in an action for personal injury. Under
+Schedule C1 to the 1996 Act, the rate is to be set to reflect the return which
+a hypothetical claimant investor (as described in paragraph 17 of that
+Schedule) could reasonably be expected to achieve if investing in the notional
+portfolio over the prescribed period, subject to two standard adjustments.
+
+  Regulation 2 increases (from 0.75 to 1.25) the number of percentage points
+which are, as a standard adjustment, to be deducted to represent the impact of
+taxation and the costs of investment advice and management.
+
+  Regulation 3 changes the basis upon which the rate-assessor is to make
+allowance for the impact of inflation. It prescribes published information to
+be used instead of the retail prices index. The information is known as “
+Average Weekly Earnings ” and is used to measure changes in earnings over
+time. “Average Weekly Earnings” is a series of statistics designated by the
+Statistics Board as “ National Statistics ” (in accordance with section 12 of
+the Statistics and Registration Service Act  2007 (c.18) ) and published by
+the Statistics Board (operating through the Office of National Statistics
+(ONS)) in a monthly statistical bulletin entitled “Average weekly earnings in
+Great Britain”, which is available on the ONS website ( www.ons.gov.uk ). It
+is based on information from wages and salaries from businesses in Great
+Britain, obtained through the Monthly Wages and Salaries Survey conducted by
+ONS.
+

@@ -1,0 +1,2334 @@
+Title: The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024
+Date: 2024-11-22
+Description: These Regulations are made under powers given to the Welsh Ministers by the Historic Environment (Wales) Act 2023 (“the 2023 Act”). The 2023 Act forms part of a code of law relating to the historic environment of Wales. These Regulations also form part of that Code.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/wsi/2024/930
+
+## The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024
+
+    Historic Environment, Wales
+
+  Made   9 September 2024
+
+  Laid before Senedd Cymru   11 September 2024
+
+  Coming into force   4 November 2024
+
+      The Welsh Ministers, in exercise of the powers conferred on them by
+sections 90(3), (4) and (5), 91(1), (2) and (4), 92(2), 95(4) and (7),
+100(4)(a), 101(3) and (5), 102(1), 103(2), 105, 106(5), 107(3)(a), 146(1),
+161(2)(c), 170, 209(2) and 211(3)(a) and (4) of, and paragraph 3(2)(a) of
+Schedule 8 to, the Historic Environment (Wales) Act 2023 , make the following
+Regulations.
+
+### Title, coming into force and code
+
+1
+
+1.1
+
+The title of these Regulations is the Listed Buildings and Conservation Areas
+(Procedure and Interest Rate) (Wales) Regulations 2024.
+
+1.2
+
+These Regulations come into force on 4 November 2024.
+
+1.3
+
+These Regulations form part of a code of law relating to the historic
+environment of Wales .
+
+### Interpretation
+
+2
+
+In these Regulations—
+
+    “ the 2023 Act ” (“ Deddf 2023 ”) means the Historic Environment (Wales)
+Act 2023;         “ address ” (“ cyfeiriad ”), in relation to electronic
+communications, means any number or address used for the purpose of electronic
+communications;         “ building ” ( “adeilad” ) has the meaning given by
+section 210 of the 2023 Act;         “ conservation area consent ” (
+“cydsyniad ardal gadwraeth” ) has the meaning given by section 162 of the 2023
+Act;         “ electronic communication ” ( “cyfathrebiad electronig” ) has
+the meaning given by section 15(1) of the Electronic Communications Act 2000 ;
+“ full statement of case ” ( “datganiad achos llawn” ) means a statement in
+writing setting out the full particulars of the case that the applicant or
+appellant proposes to put forward, together with copies of any supporting
+documents that they intend to put forward or refer to in evidence;         “
+land ” (“ tir” ) has the meaning given by section 210 of the 2023 Act;
+“ owner ” ( “perchennog” ) means—       an owner of the freehold estate, or
+a tenant under a lease granted or extended for a fixed term that has at least
+7 years left to run;             “ listed building consent ” (“ cydsyniad
+adeilad rhestredig ”) has the meaning given by section 89 of the 2023 Act;
+“ planning authority ” ( “awdurdod cynllunio” ) means a local planning
+authority within the meaning given by Part 1 of the Town and Country Planning
+Act 1990 ;         “ relevant date ” ( “dyddiad perthnasol” ) has the meaning
+given by regulation 5(3);         “ works ” ( “gwaith” ) means—       in
+relation to a listed building, works to which section 88 of the 2023 Act
+applies, and       in relation to a conservation area, works to which section
+161 of the 2023 Act applies.
+
+### APPLICATIONS
+
+#### Applying for listed building consent
+
+3
+
+3.1
+
+In addition to the requirements of section 90(2) of the 2023 Act, an
+application for listed building consent must—
+
+3.1.a
+
+be on a form published or provided by the Welsh Ministers or a form
+substantially to the same effect, and
+
+3.1.b
+
+include the matters specified in the form.
+
+3.2
+
+Where an application is not made by electronic communication, the application
+and the documents contained in it must be provided in triplicate.
+
+3.3
+
+Paragraph (2) does not apply if the planning authority to which the
+application is made indicates that fewer copies are required.
+
+3.4
+
+Any plans or drawings must—
+
+3.4.a
+
+be drawn to an identified scale, and
+
+3.4.b
+
+in the case of plans, show the direction of north.
+
+#### Heritage impact statement
+
+4
+
+4.1
+
+An application for listed building consent must include with it a statement
+referred to as a heritage impact statement.
+
+4.2
+
+A heritage impact statement must—
+
+4.2.a
+
+describe the special architectural or historic interest of the listed building
+to which the application relates and its significance, with particular
+reference to the part of the listed building affected by the works,
+
+4.2.b
+
+explain the objective that the works are intended to achieve and why they are
+desirable or necessary,
+
+4.2.c
+
+include a summary of the options considered for the purpose of achieving the
+objective in sub-paragraph (b) and the reasons why the proposals to which the
+application relates are preferred,
+
+4.2.d
+
+describe the works and the design principles which have been applied to them,
+
+4.2.e
+
+include a schedule of works,
+
+4.2.f
+
+describe how the works will affect the character of the listed building as a
+building of special architectural or historic interest, including an
+assessment of the impact of the works on the significance of the building, and
+
+4.2.g
+
+describe how issues relating to access to, or in, the listed building have
+been dealt with, but excluding issues relating to access to, or in, any part
+of a listed building which is used as a private dwelling.
+
+#### Notice of application for listed building consent to owners of building
+
+5
+
+5.1
+
+An applicant for listed building consent must take all reasonable steps to
+give notice of the application to every person (other than the applicant) who
+is an owner of any part of the listed building to which the application
+relates in accordance with paragraph (2).
+
+5.2
+
+The notice in paragraph (1) must—
+
+5.2.a
+
+be in the form published or provided by the Welsh Ministers or a form
+substantially to the same effect, and
+
+5.2.b
+
+be given to all persons who were owners on the relevant date, except where
+paragraph (4) applies.
+
+5.3
+
+For the purposes of this regulation and of regulation 6, the “relevant date”
+is the first day of the period of 21 days ending with the date that the
+application for listed building consent is made.
+
+5.4
+
+If the applicant is unable to give notice to an owner at their address, the
+applicant must publish notice of the application for listed building consent
+in the form published or provided by the Welsh Ministers—
+
+5.4.a
+
+in a newspaper circulating in the locality of the listed building to which the
+application relates;
+
+5.4.b
+
+on or after the relevant date.
+
+#### Certificate to be included with application for listed building consent
+
+6
+
+6.1
+
+An applicant for listed building consent must include with the application a
+certificate which complies with paragraph (2), in the form published or
+provided by the Welsh Ministers or a form substantially to the same effect.
+
+6.2
+
+The certificate must be signed by or on behalf of the applicant for listed
+building consent and include one of the following statements—
+
+6.2.a
+
+that on the relevant date the applicant was the only owner of the listed
+building to which the application relates,
+
+6.2.b
+
+that the applicant has given notice in accordance with regulation 5,
+
+6.2.c
+
+that the applicant—
+
+6.2.c.i
+
+is unable to issue a certificate in accordance with sub-paragraph (a) or (b),
+
+6.2.c.ii
+
+has given notice in accordance with regulation 5 to some of the owners,
+
+6.2.c.iii
+
+has taken all reasonable steps to discover the names and addresses of the
+remainder of the owners but has been unable to do so, and
+
+6.2.c.iv
+
+has published notice of the application in a local newspaper in accordance
+with regulation 5(4), or
+
+6.2.d
+
+that the applicant—
+
+6.2.d.i
+
+is unable to issue a certificate in accordance with sub-paragraph (a), (b) or
+(c),
+
+6.2.d.ii
+
+has taken all reasonable steps to discover the names and addresses of the
+owners but has been unable to do so, and
+
+6.2.d.iii
+
+has published notice of the application in a local newspaper in accordance
+with regulation 5(4).
+
+6.3
+
+Where a certificate is given in accordance with paragraph (2)(b) or (c), the
+applicant must also provide in the certificate—
+
+6.3.a
+
+the names of the owners to whom the notices were given,
+
+6.3.b
+
+the addresses at which the notices were given, and
+
+6.3.c
+
+the date on which each notice was given.
+
+6.4
+
+Where a certificate is given in accordance with paragraph (2)(c) or (d), the
+applicant must also provide in the certificate—
+
+6.4.a
+
+a list of the steps taken to discover the names and addresses of the owners,
+and
+
+6.4.b
+
+the name and date of the newspaper where notice of the application was
+published.
+
+6.5
+
+For the meaning of “relevant date” see regulation 5(3).
+
+#### Acknowledgement of application for listed building consent
+
+7
+
+7.1
+
+When the planning authority in whose area the building is situated receives
+the matters listed in paragraph (2), the planning authority must send to the
+person who made the application an acknowledgement in accordance with
+paragraph (3).
+
+7.2
+
+The matters referred to in paragraph (1) are—
+
+7.2.a
+
+an application for listed building consent which complies with the
+requirements of regulation 3,
+
+7.2.b
+
+the heritage impact statement which complies with the requirements of
+regulation 4, and
+
+7.2.c
+
+the certificate required by regulation 6.
+
+7.3
+
+The acknowledgement referred to in paragraph (1) must be—
+
+7.3.a
+
+in the terms, or substantially in the terms, set out in Schedule 1, and
+
+7.3.b
+
+sent as soon as reasonably practicable.
+
+7.4
+
+If, after sending the acknowledgement, the planning authority considers that
+the application does not comply with a requirement imposed by section 90(2) of
+the 2023 Act or by these Regulations, the planning authority must notify the
+applicant as soon as reasonably practicable.
+
+#### Advertisement of applications for listed building consent
+
+8
+
+8.1
+
+Where an application for listed building consent is made to a planning
+authority, the planning authority must comply with paragraphs (3) and (4), but
+this is subject to paragraph (2).
+
+8.2
+
+Paragraphs (3) and (4) do not apply to an application for listed building
+consent to carry out works affecting only the interior of a building which is
+classified as a Grade II (unstarred) listed building .
+
+8.3
+
+The planning authority must—
+
+8.3.a
+
+publish the following information in a notice in a newspaper circulating in
+the locality of the listed building to which the application relates—
+
+8.3.a.i
+
+a description of the nature of the works which are the subject of the
+application,
+
+8.3.a.ii
+
+details of a place in the locality where a copy of the application and copies
+of all plans and all documents submitted with it can be inspected at all
+reasonable hours, and
+
+8.3.a.iii
+
+the address of the website where copies of the application, plans and
+documents referred to in paragraph (ii) can be found, and
+
+8.3.b
+
+display a notice containing the information in sub-paragraph (a)—
+
+8.3.b.i
+
+on or near the listed building to which the application relates;
+
+8.3.b.ii
+
+for at least 7 days.
+
+8.4
+
+The planning authority must ensure that the period for inspecting the
+documents listed in paragraph (3)(a), in both hard copy and on the website, is
+at least 21 days, beginning with the date of publication of the notice
+referred to in that paragraph.
+
+#### Notification to the Amenity Societies and the Royal Commission on the Ancient and Historical Monuments of Wales
+
+9
+
+9.1
+
+This regulation applies where a planning authority receives an application for
+listed building consent.
+
+9.2
+
+The planning authority must ensure that the bodies listed in paragraph (3) are
+notified of the application where the application is for—
+
+9.2.a
+
+the demolition of a listed building, or
+
+9.2.b
+
+partial demolition of a listed building.
+
+9.3
+
+The bodies that a planning authority must notify are—
+
+9.3.a
+
+the Ancient Monuments Society (charity number 209605, also known as Historic
+Buildings and Places),
+
+9.3.b
+
+the Council for British Archaeology (company number 01760254),
+
+9.3.c
+
+the Georgian Group (charity number 209934),
+
+9.3.d
+
+the Society for the Protection of Ancient Buildings (company number 05743962),
+
+9.3.e
+
+the Victorian Society (company number 3940996),
+
+9.3.f
+
+the Twentieth Century Society (company number 05330664), and
+
+9.3.g
+
+the Royal Commission on the Ancient and Historical Monuments of Wales.
+
+9.4
+
+The notification under this regulation must be given as soon as reasonably
+practicable.
+
+#### Reference of applications to the Welsh Ministers
+
+10
+
+10.1
+
+Where an application for listed building consent is referred to the Welsh
+Ministers under section 94 of the 2023 Act (reference of application to the
+Welsh Ministers), as soon as reasonably practicable, the planning authority
+must—
+
+10.1.a
+
+serve on the applicant and the Welsh Ministers, at the same time, a notice of
+reference, and
+
+10.1.b
+
+send to the Welsh Ministers a copy of the application file.
+
+10.2
+
+A notice of reference must—
+
+10.2.a
+
+state that the application for listed building consent has been referred to
+the Welsh Ministers,
+
+10.2.b
+
+set out the reasons given by the Welsh Ministers for issuing the direction
+which requires the application to be referred to them,
+
+10.2.c
+
+state that the applicant may submit a full statement of case to the Welsh
+Ministers and explain what that is, and
+
+10.2.d
+
+set out the requirements in paragraph (4).
+
+10.3
+
+An applicant on whom a notice of reference is served may send a full statement
+of case to the Welsh Ministers.
+
+10.4
+
+An applicant who sends a full statement of case must—
+
+10.4.a
+
+ensure that it is received by the Welsh Ministers before the end of the period
+of 4 weeks beginning with the day on which the notice of reference is served,
+and
+
+10.4.b
+
+send a copy of the full statement of case to the planning authority at the
+same time it is sent to the Welsh Ministers.
+
+10.5
+
+In this regulation, “ application file ” means the application for listed
+building consent together with accompanying documents and all correspondence
+with the planning authority relating to the application.
+
+#### Disapplication of requirement to notify the Welsh Ministers of applications for listed building consent
+
+11
+
+Section 95(1) of the 2023 Act (notification to Welsh Ministers before granting
+consent) does not apply to applications for listed building consent to carry
+out works affecting only the interior of a building which is classified as a
+Grade II (unstarred) listed building.
+
+#### Decision on application
+
+12
+
+12.1
+
+Where an application for listed building consent is accompanied by a
+certificate under regulation 6(2)(b), (c) or (d), the planning authority—
+
+12.1.a
+
+must not determine the application before the end of 21 days beginning with
+the relevant certificate date,
+
+12.1.b
+
+must take into account any representations relating to the application made,
+before the end of that period, by any person who satisfies the planning
+authority that they are an owner of the listed building, and
+
+12.1.c
+
+must give notice of its decision to every person who has made representations
+which it was required to take into account under sub-paragraph (b).
+
+12.2
+
+The planning authority—
+
+12.2.a
+
+must not determine an application for listed building consent before the later
+of the end of the period which is—
+
+12.2.a.i
+
+referred to in regulation 8(4) (if applicable), and
+
+12.2.a.ii
+
+21 days beginning with the date that the notice referred to in regulation
+8(3)(b) was first displayed, and
+
+12.2.b
+
+must take into account any representations which are received before both
+periods in sub-paragraph (a) have ended.
+
+12.3
+
+In this regulation, “ the relevant certificate date ” means—
+
+12.3.a
+
+in the case of a certificate under regulation 6(2)(b), the latest date of
+service of a notice, as shown on the certificate;
+
+12.3.b
+
+in the case of a certificate under regulation 6(2)(c), the later of—
+
+12.3.b.i
+
+the latest date of service of a notice, as shown on the certificate;
+
+12.3.b.ii
+
+the date of publication in a local newspaper of the notice, as shown on the
+certificate;
+
+12.3.c
+
+in the case of a certificate under regulation 6(2)(d), the date of publication
+in a local newspaper of the notice, as shown on the certificate.
+
+#### Notice of decision or referral to the Welsh Ministers
+
+13
+
+13.1
+
+The planning authority must give written notice to the person who has made an
+application to them for listed building consent—
+
+13.1.a
+
+of the decision, or
+
+13.1.b
+
+that it has referred the application to the Welsh Ministers.
+
+13.2
+
+The “determination period” in section 100(4)(a) of the 2023 Act is 8 weeks,
+starting with the date that the information required by regulation 7(2) is
+received (but see also sections 90(6) and 100(4)(b) of that Act).
+
+13.3
+
+Where the planning authority decides to grant the application subject to
+conditions or to refuse it, the notice referred to in paragraph (1) must also—
+
+13.3.a
+
+include the reasons for the decision, and
+
+13.3.b
+
+be accompanied by a notification in the terms, or substantially the same
+terms, set out in Schedule 2.
+
+#### Notification of amenity societies etc. of decision
+
+14
+
+14.1
+
+This regulation applies to a decision on an application for listed building
+consent for—
+
+14.1.a
+
+the demolition of a listed building, or
+
+14.1.b
+
+partial demolition of a listed building.
+
+14.2
+
+A planning authority must notify the bodies in regulation 9(3) of its decision
+as soon as practicable after making that decision.
+
+#### Application for variation or removal of conditions
+
+15
+
+15.1
+
+Regulations 3 to 14 apply to an application under section 99 of the 2023 Act
+(application for variation or removal of conditions) as they apply to an
+application for listed building consent.
+
+15.2
+
+In their application to an application under section 99 of the 2023 Act, the
+regulations applied by paragraph (1) are to be read as if—
+
+15.2.a
+
+any reference to an application for listed building consent were a reference
+to an application for variation or removal of conditions of listed building
+consent, and
+
+15.2.b
+
+any reference to an applicant for listed building consent were a reference to
+an applicant for variation or removal of conditions of listed building
+consent.
+
+15.3
+
+In their application to an application under section 99 of the 2023 Act, read—
+
+15.3.a
+
+regulation 9 (notification to the amenity societies etc.) as if “is for” there
+were substituted  “relates to” ;
+
+15.3.b
+
+regulation 11 (disapplication of requirement to notify Welsh Ministers) as if
+for “carry out works” there were substituted  “vary or remove a condition
+relating to works” ;
+
+15.3.c
+
+regulation 13(3)(b) (notice of decision or referral to Welsh Ministers) as if
+the reference to Schedule 2 were a reference to Schedule 3.
+
+### APPEALS
+
+#### Appeals
+
+16
+
+16.1
+
+The applicant must give notice of any appeal under section 100(2) of the 2023
+Act to the Welsh Ministers within 6 months beginning with the day after the
+date of the decision.
+
+16.2
+
+The Welsh Ministers may extend the period in paragraph (1).
+
+16.3
+
+The applicant must give notice of any appeal under section 100 of the 2023 Act
+on a form provided or published by the Welsh Ministers, and include with it—
+
+16.3.a
+
+a full statement of case, and
+
+16.3.b
+
+a copy of—
+
+16.3.b.i
+
+the application for listed building consent;
+
+16.3.b.ii
+
+all information and all documents submitted with the application;
+
+16.3.b.iii
+
+any notice of the decision;
+
+16.3.b.iv
+
+all other relevant correspondence with the planning authority.
+
+16.4
+
+The applicant must send to the planning authority a copy of the notice of
+appeal and the full statement of case, as soon as reasonably practicable.
+
+16.5
+
+Regulation 5 (notice of application to owners), regulation 6 (certificate with
+application) and regulation ‎21 (application in respect of Crown land) apply
+to an appeal in relation to an application for listed building consent as they
+apply to an application for listed building consent, but as if references to
+an application and an applicant were references to an appeal and an appellant.
+
+#### Variation of applications after notice of appeal
+
+17
+
+17.1
+
+An application for listed building consent to which an appeal relates may be
+varied in order to correct an inconsistency between the information in the
+application and any of the documents which accompany it, but this is subject
+to paragraph ‎(2).
+
+17.2
+
+The application may not be varied if it changes the substance of the
+application.
+
+#### Decision on application after service of notice of appeal
+
+18
+
+The period prescribed for the purpose of section 103(2) of the 2023 Act
+(period within which the Welsh Ministers may not determine an appeal against
+failure to give notice of decision) is 4 weeks.
+
+### SPECIAL CASES
+
+#### Disapplication and modifications: applications by a planning authority for demolition of a listed building
+
+19
+
+19.1
+
+This regulation applies to an application by a planning authority for—
+
+19.1.a
+
+listed building consent for the demolition of a listed building;
+
+19.1.b
+
+the variation or removal of conditions of listed building consent for the
+demolition of a listed building.
+
+19.2
+
+An application must be made to the Welsh Ministers (see section 90(1)(a) of
+the 2023 Act).
+
+19.3
+
+The decision of the Welsh Ministers on an application is final.
+
+19.4
+
+Where this regulation applies—
+
+19.4.a
+
+regulation 3 (applying for listed building consent) is to be read as if—
+
+19.4.a.i
+
+paragraph (1) included a requirement for the application to be accompanied by
+any representations received before both periods in regulation 12(2)(a) have
+expired;
+
+19.4.a.ii
+
+in paragraph (3), for “the planning authority to which the application is made
+indicates” there were substituted  “the Welsh Ministers indicate” ;
+
+19.4.b
+
+regulation 7 (acknowledgement of application for listed building consent) is
+to be read as if—
+
+19.4.b.i
+
+in paragraph (1), for “the planning authority in whose area the building is
+situated receives” there were substituted  “the Welsh Ministers receive” ;
+
+19.4.b.ii
+
+in paragraph 7(4), for “the planning authority considers” there were
+substituted  “the Welsh Ministers consider” ;
+
+19.4.b.iii
+
+all other references to a planning authority were references to the Welsh
+Ministers;
+
+19.4.c
+
+regulation 8 (advertisement of applications) is to be read as if paragraph (1)
+of that regulation required the planning authority to comply with paragraphs
+3) and (4) before the planning authority sends an application for listed
+building consent to the Welsh Ministers;
+
+19.4.d
+
+regulation 9 (notification to the amenity societies etc.) is to be read as if
+in paragraph 9(1) for “receives” there were substituted  “makes” ;
+
+19.4.e
+
+regulation 12 (decision on application) is to be read as if—
+
+19.4.e.i
+
+in paragraph (1), references to the planning authority were to the Welsh
+Ministers;
+
+19.4.e.ii
+
+in paragraph (2)—
+
+19.4.e.ii.aa
+
+in sub-paragraph (a), for “must not determine” there were substituted  “must
+not send” ;
+
+19.4.e.ii.bb
+
+the duty in sub-paragraph (b) were a duty of the Welsh Ministers and not the
+planning authority;
+
+19.4.f
+
+regulation 15 (application for variation or removal of conditions) is to be
+read as if in paragraph (1) the reference to regulations “3 to 14” were a
+reference to regulations “3 to 9, 12 and 14”;
+
+19.4.g
+
+regulation 16 (appeals) does not apply.
+
+#### Applications other than for demolition made by a planning authority
+
+20
+
+Section 100 of the 2023 Act (right to appeal against planning authority
+decision or failure to make decision) does not apply to an application for
+listed building consent by a planning authority which is determined by that
+planning authority.
+
+#### Application for listed building consent in respect of Crown land
+
+21
+
+21.1
+
+This regulation applies to an application for listed building consent in
+respect of Crown land.
+
+21.2
+
+An application may be accompanied by—
+
+21.2.a
+
+a statement that the application is made in respect of Crown land, and
+
+21.2.b
+
+a copy of the authorisation by the appropriate Crown authority to make the
+application.
+
+21.3
+
+If an application is accompanied by a statement and an authorisation as
+referred to in paragraph (2)—
+
+21.3.a
+
+regulation 5 (notice of application to owners) does not apply;
+
+21.3.b
+
+regulation 6 (certificate to be included with application) does not apply;
+
+21.3.c
+
+regulation 7(2) (acknowledgement of application) applies as if for sub-
+paragraph (c) there were substituted  “the statement and authorisation
+referred to in regulation 21” .
+
+21.4
+
+In this regulation—
+
+    “ appropriate Crown authority ” (“ awdurdod priodol y Goron ”) has the
+meaning given by section 207(6) of the 2023 Act;         “ Crown land ” (“ tir
+y Goron ”) has the meaning given by section 207(2) of the 2023 Act.
+
+#### Publicity for applications relating to urgent works on Crown land
+
+22
+
+22.1
+
+Where an application is made under section 106(1) of the 2023 Act
+(applications relating to urgent works on Crown land), the Welsh Ministers
+must comply with paragraphs (3) to (6), but this is subject to paragraph (2).
+
+22.2
+
+Paragraphs (3) to (6) do not apply to an application for listed building
+consent to carry out works affecting only the interior of a building which is
+classified as a Grade II (unstarred) listed building.
+
+22.3
+
+The Welsh Ministers must publish notice of the application and of the fact
+that documents and other material are available for inspection, in a newspaper
+circulating in the locality of the listed building to which the application
+relates.
+
+22.4
+
+The notice in paragraph (3) must include—
+
+22.4.a
+
+an indication of the nature of the works which are the subject of the
+application;
+
+22.4.b
+
+details of—
+
+22.4.b.i
+
+the place where, and the times at which, the documents and other material
+relating to the application are available for inspection under section 106(4)
+of the 2023 Act, and
+
+22.4.b.ii
+
+a website where the documents and other material relating to the application
+are available for inspection.
+
+22.5
+
+The documents and other materials referred to in paragraph (4) must be made
+available for inspection at all reasonable hours for at least 21 days,
+beginning with the date of publication of the notice referred to in paragraph
+(3).
+
+22.6
+
+The Welsh Ministers must display a notice containing the information referred
+to in paragraph (4)—
+
+22.6.a
+
+on or near the building to which the application relates;
+
+22.6.b
+
+for at least 7 days.
+
+22.7
+
+Section 106 of the 2023 Act applies to an application under section 99 of that
+Act (application for variation or removal of conditions) as it applies to an
+application for listed building consent.
+
+22.8
+
+The following regulations do not apply to an application under section 106(1)
+of the 2023 Act (applications relating to urgent works on Crown land)—
+
+22.8.a
+
+regulation 3 (applying for listed building consent);
+
+22.8.b
+
+regulation 4 (heritage impact statement).
+
+22.9
+
+Regulation 15(1) (application for variation or removal of conditions) applies
+as if—
+
+22.9.a
+
+the reference to regulations 3 to 14 were a reference to regulations 5 and 6;
+
+22.9.b
+
+paragraph (3) was omitted.
+
+### Conservation Areas
+
+#### Disapplication of the requirement for demolition in conservation areas to be authorised
+
+23
+
+23.1
+
+Section 161(1) of the 2023 Act (requirement for demolition in conservation
+areas to be authorised) does not apply to—
+
+23.1.a
+
+a building with a total cubic content of not more than 115 cubic metres when
+measured externally, except a tombstone which dates from before 1925;
+
+23.1.b
+
+a gate, wall, fence or other way of enclosing land which—
+
+23.1.b.i
+
+where it is next to a highway or restricted byway, waterway or open space, is
+less than one metre high, or
+
+23.1.b.ii
+
+is less than two metres high in any other case;
+
+23.1.c
+
+a building erected after 1913 and in use, or last used, for the purposes of
+agriculture or forestry;
+
+23.1.d
+
+a building required to be demolished by—
+
+23.1.d.i
+
+an order made under section 102 of the Town and Country Planning Act 1990 ;
+
+23.1.d.ii
+
+an agreement made under section 106 of the Town and Country Planning Act 1990
+;
+
+23.1.d.iii
+
+an enforcement notice where the notice is issued under—
+
+23.1.d.iii.aa
+
+section 172 of the Town and Country Planning Act 1990 , or
+
+23.1.d.iii.bb
+
+section 123 or 134 of the 2023 Act;
+
+23.1.d.iv
+
+a condition of planning permission granted under section 70  or section 177(1)
+of the Town and Country Planning Act 1990;
+
+23.1.d.v
+
+a notice under section 215 of the Town and Country Planning Act 1990;
+
+23.1.e
+
+a building included in an operative demolition order under section 265 of the
+Housing Act 1985 ;
+
+23.1.f
+
+a building included in a clearance area declared under section 289 of the
+Housing Act 1985 ;
+
+23.1.g
+
+a building on land purchased by a local housing authority under section 290 of
+the Housing Act 1985;
+
+23.1.h
+
+a building closed for regular public worship in accordance with provision made
+under Part 6 of the Mission and Pastoral Measure  2011 (No. 3)  by a pastoral
+church buildings scheme or a pastoral (church buildings disposal) scheme.
+
+23.2
+
+In this regulation—
+
+    “ highway ” (“ priffordd” ) has the same meaning as in the Highways Act
+1980  (see section 328(1) and (2) of that Act );         “ open space ” (“ man
+agored ”) means any land laid out as a public garden, or used for the purposes
+of public recreation, or land which is a disused burial ground;         “
+restricted byway ” (“ cilffordd gyfyngedig ”) has the meaning in section 48(4)
+of the Countryside and Rights of Way Act 2000  (see section 48(4) and (5) of
+that Act).
+
+23.3
+
+See also section 161(2) of the 2023 Act for other exceptions to the
+requirement in section 161(1) for demolition to be authorised.
+
+#### Application of these Regulations to buildings in conservation areas
+
+24
+
+24.1
+
+These Regulations apply in relation to buildings to which section 161 of the
+2023 Act (demolition in conservation areas) applies as they apply in relation
+to listed buildings except—
+
+24.1.a
+
+regulation 8(2),
+
+24.1.b
+
+regulation 9,
+
+24.1.c
+
+regulation 11, and
+
+24.1.d
+
+regulation 14.
+
+24.2
+
+In their application to buildings to which section 161 of the 2023 Act
+applies, these Regulations apply as if—
+
+24.2.a
+
+any reference to listed building consent were a reference to conservation area
+consent;
+
+24.2.b
+
+any reference to the character of the listed building were a reference to the
+character or appearance of the conservation area in which the building is
+situated;
+
+24.2.c
+
+any other reference to a listed building were a reference to a building to
+which section 161 of the 2023 Act applies.
+
+24.3
+
+In its application to buildings to which section 161 of the 2023 Act applies,
+regulation 4(2) is to be read as if—
+
+24.3.a
+
+in sub-paragraph (a), “with particular reference to the part of the listed
+building affected by the works” were omitted;
+
+24.3.b
+
+as if sub-paragraph (g) were omitted.
+
+### MISCELLANEOUS AND GENERAL
+
+#### Advertisement of unopposed revocation or modification order
+
+25
+
+25.1
+
+This regulation applies when a planning authority is required to publish
+notice of an order made under section 107 of the 2023 Act (modification and
+revocation of consent).
+
+25.2
+
+For the purpose of paragraph 3(2) of Schedule 8 to the 2023 Act (procedure for
+orders modifying or revoking listed building consent), the way that a planning
+authority must publish that notice is in a newspaper circulating in the
+locality where the listed building to which the order relates is situated.
+
+#### Interest rate on expenses for urgent works
+
+26
+
+26.1
+
+The rate of interest specified for the purpose of section 146(1) of the 2023
+Act (recovery of costs of preservation works) is 2% per annum above the Bank
+of England base rate.
+
+26.2
+
+In this regulation, “the Bank of England base rate” for any particular day
+means—
+
+26.2.a
+
+if an order under section 19 of the Bank of England Act 1998  is in force, any
+rate equivalent to the rate described in sub-paragraph (b), or if there is
+none,
+
+26.2.b
+
+the rate announced as the official dealing rate at the meeting of the Monetary
+Policy Committee of the Bank of England last held before that day.
+
+#### Consequential amendments
+
+27
+
+Schedule 4 contains consequential amendments.
+
+#### Revocation
+
+28
+
+Schedule 5 contains revocations.
+
+      Jane Hutt   Cabinet Secretary for Culture, Social Justice, Trefnydd and
+Chief Whip, one of the Welsh Ministers   9 September 2024
+
+  Notification to Applicant on Receipt of Application
+
+Regulation ‎7(3)(a)
+
+1
+
+Your application dated ……………… insert date
+
+was received on………………………….. insert date
+
+*[We have not yet completed our examination of the form of application and
+accompanying plans and documents to decide whether your application complies
+with the statutory requirements. If, on further examination, we find that the
+application is invalid for failure to comply with such requirements, we will
+notify you in writing as soon as possible.]
+
+*delete if not appropriate
+
+2
+
+If by ……………………….…………………….
+
+insert date 8 weeks beginning with the date the application, certificate and
+heritage impact statement are received
+
+2.a
+
+you have not received notice from this authority—
+
+2.a.i
+
+that your application is invalid;
+
+2.a.ii
+
+of our decision;
+
+2.a.iii
+
+that your application has been referred to the Welsh Ministers for decision,
+or
+
+2.b
+
+we have not agreed with you in writing that we will extend the date by which
+we must give our decision, you may appeal.
+
+3
+
+The right to, and procedure for, appeal is in sections 100 to 102 of the
+Historic Environment (Wales) Act 2023.
+
+4
+
+You must submit any appeal on a form which you can obtain from the Welsh
+Ministers.
+
+5
+
+If you are appealing against a decision which refuses the application or
+grants it subject to conditions, you must submit any appeal during the period
+ending with ……...…………………………………….
+
+insert date 6 months beginning with the day after the date of the decision
+
+  Notification to Applicant on Refusal of Consent or Grant of Consent Subject
+to Conditions (to be included with notices of decision)
+
+Regulation 13 (3)(b)
+
+1
+
+If you are aggrieved by the decision of the planning authority to refuse
+consent for the works or to grant it subject to conditions, you may appeal to
+the Welsh Ministers. The right to, and procedure for, appeal is in sections
+100 to 102 of the Historic Environment (Wales) Act 2023.
+
+2
+
+You must submit any appeal on a form which you can obtain from the Welsh
+Ministers. You must submit any notice of appeal during the 6 months starting
+with the day after the date of the decision.
+
+3
+
+The Welsh Ministers may allow a longer period for you to give notice of
+appeal, but they will not normally be prepared to do that unless there are
+special circumstances.
+
+4
+
+If consent is refused, or is granted subject to conditions (whether by the
+planning authority or the Welsh Ministers), if the conditions in paragraph 6
+are satisfied, the owner has the rights described in paragraph 8.
+
+5
+
+In the following paragraphs, “ associated land ” means land which includes,
+adjoins or is adjacent to the building and is owned with the building, and “
+usable ” means capable of reasonably beneficial use.
+
+6
+
+The conditions are that the owner of the building and associated land claims
+that the building and the associated land—
+
+6.a
+
+are unusable in their existing state,
+
+6.b
+
+cannot be made usable—
+
+6.b.i
+
+in a case where listed building consent has been granted subject to conditions
+or modified by the imposition of conditions, by carrying out the works to
+which the consent relates in accordance with the conditions, and
+
+6.b.ii
+
+in any case, by carrying out any other works for which consent has been
+granted or for which the planning authority has, or the Welsh Ministers have,
+undertaken to grant consent,
+
+6.c
+
+that the use of the associated land is substantially inseparable from the use
+of the listed building, and
+
+6.d
+
+that the associated land ought to be treated, together with the building, as a
+single holding.
+
+7
+
+There is more detail about the meaning of “usable in their/its existing state”
+in section 109(7) and (8) of the Historic Environment (Wales) Act 2023.
+
+8
+
+If the conditions in paragraph 6 are satisfied, the owner may serve a purchase
+notice on the planning authority in whose area the building is situated,
+requiring the planning authority to purchase the owner’s interest in the
+building and associated land.
+
+9
+
+There is further detail about this right in sections 109 to 112 of the
+Historic Environment (Wales) Act 2023.
+
+  Notification to Applicant on Refusal to Vary or Remove Conditions Attached
+to a Consent or on the Addition of New Conditions (to be included with the
+notices of decision)
+
+Regulation 15 (3)(c)
+
+1
+
+You may appeal to the Welsh Ministers if you are aggrieved by the decision of
+the planning authority to—
+
+1.a
+
+refuse to vary or remove the conditions attached to a consent, or
+
+1.b
+
+include new conditions.
+
+2
+
+The right to, and procedure for, appeal is in sections 100 to 102 of the
+Historic Environment (Wales) Act 2023.
+
+3
+
+You must submit any appeal on a form which you can obtain from the Welsh
+Ministers. You must submit any notice of appeal during the period of 6 months
+starting with the day after the date of the decision.
+
+4
+
+The Welsh Ministers may allow a longer period for you to give notice of
+appeal, but they will not normally be prepared to do that unless there are
+special circumstances.
+
+Consequential amendments
+
+Regulation 27
+
+##### The Local Authorities (Executive Arrangements) (Functions and Responsibilities) (Wales) Regulations 2007
+
+1
+
+In Schedule 1 to the Local Authorities (Executive Arrangements) (Functions and
+Responsibilities) (Wales) Regulations 2007 , in Part A, row 22, in the second
+column, for “regulations 3” to the end, substitute  “the Listed Buildings and
+Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024” .
+
+##### The Transport and Works Applications (Listed Buildings, Conservation Areas and Ancient Monuments Procedure) Regulations 1992
+
+2
+
+The Transport and Works Applications (Listed Buildings, Conservation Areas and
+Ancient Monuments Procedure) Regulations 1992  are amended as follows.
+
+3
+
+In regulation 2, in the definition of “conservation area consent” and “listed
+building consent”, after “Act” insert  “in relation to areas and buildings in
+England, and have the same meanings respectively as in section 162 and section
+89 of the Historic Environment (Wales) Act 2023 in relation to areas and
+buildings in Wales” .
+
+4
+
+In regulation 3—
+
+4.a
+
+at the end of the heading, insert  “in relation to England” ;
+
+4.b
+
+in paragraph (1), after “required” insert  “in relation to a listed building
+or conservation area in England,” .
+
+5
+
+After regulation 3 insert—
+
+######### Modification of procedures for listed building consent and conservation area consent in relation to a listed building or conservation area in Wales
+
+5.3A
+
+5.3A.1
+
+This regulation applies where listed building consent or conservation area
+consent is required in relation to a listed building or conservation area in
+Wales for the purposes of proposals included in a section 6 application and
+either—
+
+5.3A.1.a
+
+the application for consent has been made not later than 10 weeks after the
+section 6 application, or
+
+5.3A.1.b
+
+the Secretary of State considers it appropriate that this regulation should
+apply and has given a direction to that effect.
+
+5.3A.2
+
+Where this regulation applies, the Listed Buildings and Conservation Areas
+(Procedure and Interest Rate) (Wales) Regulations 2024 have effect with the
+modifications in Schedule 1A.
+
+6
+
+After Schedule 1 insert—
+
+Modifications of the Listed Buildings and Conservation Areas (Procedure and
+Interest Rate) (Wales) Regulations 2024
+
+Regulation 3A
+
+6.1
+
+The Listed Buildings and Conservation Areas (Procedure and Interest Rate)
+(Wales) Regulations 2024 apply as if—
+
+6.1.a
+
+in the Welsh text, in regulation 3(1), there were inserted before sub-
+paragraph (a)—
+
+6.1.a.za
+
+cynnwys unrhyw drychiadau, unrhyw fodelau, unrhyw ffotograffau ac unrhyw
+ddeunyddiau eraill sy’n angenrheidiol i ddisgrifio’r gwaith a chaiff gynnwys—
+
+6.1.a.za.i
+
+trychiadau manwl,
+
+6.1.a.za.ii
+
+darnau o blaniau a thrychiadau a gyflwynwyd, neu sydd i’w cyflwyno, gyda chais
+o dan adran 6 o Ddeddf Trafnidiaeth a Gweithfeydd 1992, neu
+
+6.1.a.za.iii
+
+pan na fo unrhyw ddeunyddiau o’r fath wedi eu llunio ar ddyddiad y cais,
+disgrifiad ysgrifenedig clir o’r gwaith y bwriedir ei gyflawni yn yr adeilad
+neu i’r adeilad, wedi ei ategu gan unrhyw ddeunyddiau eraill y gall y ceisydd
+yn rhesymol eu darparu,
+
+;
+
+6.1.b
+
+in the English text, in regulation 3(1), there were inserted before sub-
+paragraph (a)—
+
+6.1.b.za
+
+include such sections, models, photographs and other materials as are
+necessary to describe the works and may include—
+
+6.1.b.za.i
+
+detailed sections,
+
+6.1.b.za.ii
+
+extracts from plans and sections submitted, or to be submitted, with an
+application under section 6 of the Transport and Works Act 1992, or
+
+6.1.b.za.iii
+
+where no such materials have been prepared at the date of the application, a
+clear written description of the works proposed to be carried out at or to the
+building, supported by such other materials as the applicant is reasonably
+able to provide,
+
+;
+
+6.1.c
+
+in the Welsh text, in regulation 6, after paragraph (2)(a) there were
+inserted—
+
+6.1.c.aa
+
+bod—
+
+6.1.c.aa.i
+
+hysbysiad o’r cais cydredol wedi ei roi yn unol â rheolau a wnaed o dan adran
+6 o Ddeddf Trafnidiaeth a Gweithfeydd 1992 i’r holl bersonau (ac eithrio’r
+ceisydd) a oedd, ar ddechrau cyfnod o 28 o ddiwrnodau a ddaeth i ben â dyddiad
+y cais cydredol, yn berchnogion ar yr adeilad;
+
+6.1.c.aa.ii
+
+pob hysbysiad o’r fath yn cynnwys datganiad bod cais am gydsyniad adeilad
+rhestredig neu gydsyniad ardal gadwraeth wedi ei wneud, neu i’w wneud, mewn
+cysylltiad â’r adeilad,
+
+;
+
+6.1.d
+
+in the English text, in regulation 6, after paragraph (2)(a) there were
+inserted—
+
+6.1.d.aa
+
+that—
+
+6.1.d.aa.i
+
+notice of the concurrent application has been given in accordance with rules
+made under section 6 of the Transport and Works Act 1992 to all the persons
+(other than the applicant) who, at the beginning of a period of 28 days ending
+with the date of the concurrent application, were owners of the building;
+
+6.1.d.aa.ii
+
+every such notice contains a statement that an application for listed building
+consent or conservation area consent has been, or is to be, made in respect of
+the building,
+
+;
+
+6.1.e
+
+in the Welsh text, after paragraph (3) there were inserted—
+
+6.1.e.4
+
+At ddiben y rheoliad hwn, ystyr “perchennog” yw—
+
+6.1.e.4.a
+
+person sydd, am y tro, â hawl i waredu ffi syml yr adeilad (pa un a yw mewn
+meddiant neu rifersiwn) ac nad yw’n forgeisai nad yw mewn meddiant, neu
+
+6.1.e.4.b
+
+person sy’n dal les neu gytundeb sydd ag o leiaf 3 blynedd yn weddill, neu
+berson sydd â hawl i rent ac elw’r tir o dan les neu gytundeb o’r fath.
+
+;
+
+6.1.f
+
+in the English text, after paragraph (3) there were inserted—
+
+6.1.f.4
+
+For the purpose of this regulation, “ owner ” means—
+
+6.1.f.4.a
+
+a person who is, for the time being, entitled to dispose of the fee simple of
+the building (whether in possession or reversion) and who is not a mortgagee
+not in possession, or
+
+6.1.f.4.b
+
+a person holding, or entitled to the rents and profits of the land under, a
+lease or agreement which has at least 3 years to run.
+
+;
+
+6.1.g
+
+in the Welsh text, after regulation 6 there were inserted—
+
+################ Ffurf y dystysgrif
+
+6.1.g.6A
+
+Rhaid i dystysgrif sy’n ofynnol gan reoliad 6(2)(aa) fod ar y ffurf a ganlyn—
+
+################ “Tystysgrif AA
+
+Rwyf yn ardystio: 1 (Fy mod i) (Bod y ceisydd) [ dileer fel y bo’n briodol ]
+wedi cyflwyno, yn unol â rheolau a wnaed o dan adran 6 o Ddeddf Trafnidiaeth a
+Gweithfeydd 1992, yr holl hysbysiadau y mae’n ofynnol eu cyflwyno i’r personau
+(ac eithrio’r ceisydd) a oedd, ar ddechrau’r cyfnod o 28 o ddiwrnodau a ddaeth
+i ben â dyddiad cais o dan adran 6, yn berchnogion yr adeilad. 2 Bod pob
+hysbysiad o’r fath yn cynnwys datganiad bod cais (am gydsyniad adeilad
+rhestredig) (ac) (am gydsyniad ardal gadwraeth) [ dileer fel y bo’n briodol ]
+wedi ei wneud mewn cysylltiad â’r adeilad. Llofnodwyd …………….. (Ar ran) ………
+Dyddiad…………………
+
+;
+
+6.1.h
+
+in the English text, after regulation 6 there were inserted—
+
+################ Form of certificate
+
+6.1.h.6A
+
+A certificate which is required by regulation 6(2)(aa) must be in the form—
+
+################ “Certificate AA
+
+I certify that: 1 (I have) (The applicant has) [ delete as appropriate ]
+served, in accordance with rules made under section 6 of the Transport and
+Works Act 1992, all the notices required to be served on the persons (other
+than the applicant) who, at the beginning of the period of 28 days ending with
+the date of an application under section 6, were the owners of the building. 2
+Every such notice contains a statement that an application for (listed
+building consent) (and) (conservation area consent) [ delete as appropriate ]
+has been made in respect of the building. Signed …………….. (On behalf of)………
+Date…………………
+
+;
+
+6.1.i
+
+in the Welsh text, in regulation 8—
+
+6.1.i.i
+
+after paragraph (3) there were inserted—
+
+6.1.i.i.3A
+
+O ran y gofyniad ym mharagraff (3)—
+
+6.1.i.i.3A.a
+
+mae’n gymwys fel pe bai’n ofyniad ar y ceisydd, nid yr awdurdod cynllunio, a
+
+6.1.i.i.3A.b
+
+rhaid ei fodloni heb fod yn fwy na 14 o ddiwrnodau cyn nac ar ôl dyddiad y
+cais.
+
+6.1.i.i.3B
+
+Caniateir cyfuno’r hysbysiad ym mharagraff (3)(a) ag unrhyw hysbysiad o’r cais
+cydredol y mae’n ofynnol i’r ceisydd ei gyhoeddi mewn papur newydd lleol gan
+reolau a wneir o dan adran 6 o Ddeddf Trafnidiaeth a Gweithfeydd 1992.
+
+;
+
+6.1.i.ii
+
+in paragraph (4) for “21 o ddiwrnodau” there were substituted  “42 o
+ddiwrnodau” ;
+
+6.1.i.iii
+
+after paragraph (4) there were inserted—
+
+6.1.i.iii.5
+
+Yn y rheoliad hwn, ystyr “cais cydredol” yw cais a wneir o dan adran 6 o
+Ddeddf Trafnidiaeth a Gweithfeydd 1992, sy’n ymwneud â chynigion y mae rhoi
+cydsyniad adeilad rhestredig neu gydsyniad ardal gadwraeth yn ofynnol ar eu
+cyfer.
+
+;
+
+6.1.j
+
+in the English text, in regulation 8—
+
+6.1.j.i
+
+after paragraph (3) there were inserted—
+
+6.1.j.i.3A
+
+The requirement in paragraph (3)—
+
+6.1.j.i.3A.a
+
+applies as if it were a requirement on the applicant, not the planning
+authority, and
+
+6.1.j.i.3A.b
+
+must be met not more than 14 days before nor after the date of the
+application.
+
+6.1.j.i.3B
+
+The notice in paragraph (3)(a) may be combined with such notice of the
+concurrent application as the applicant is required to publish in a local
+newspaper by rules made under section 6 of the Transport and Works Act 1992.
+
+;
+
+6.1.j.ii
+
+in paragraph (4) for “21 days” there were substituted  “42 days” ;
+
+6.1.j.iii
+
+after paragraph (4) there were inserted—
+
+6.1.j.iii.5
+
+In this regulation “ concurrent application ” means an application made under
+section 6 of the Transport and Works Act 1992, relating to proposals for which
+the granting of listed building consent or conservation area consent is
+required.
+
+##### The National Park Authorities (Wales) Order 1995
+
+7
+
+In Schedule 5 to the National Park Authorities (Wales) Order 1995 , omit
+paragraph 15.
+
+The Local Government Reorganisation (Wales) (Consequential Amendments) Order
+1996
+
+8
+
+In Schedule 1 to the Local Government Reorganisation (Wales) (Consequential
+Amendments) Order 1996 , omit paragraph 13.
+
+The National Park Authorities (Wales) (Amendment) Order 1996
+
+9
+
+In the Schedule to the National Park Authorities (Wales) (Amendment) Order
+1996 , in Part 2 omit inserted paragraph 15.
+
+##### The Town and Country Planning (Electronic Communications) (Wales) (No 1) Order 2004
+
+10
+
+In the Town and Country Planning (Electronic Communications) (Wales) (No 1)
+Order 2004 —
+
+10.a
+
+omit article 13;
+
+10.b
+
+omit Schedule 4.
+
+##### The Developments of National Significance (Wales) Regulations 2016
+
+11
+
+The Developments of National Significance (Wales) Regulations 2016  are
+amended as follows.
+
+12
+
+In Schedule 4—
+
+12.a
+
+for paragraph 2 in Part 2 substitute—
+
+12.a.2
+
+12.a.2.1
+
+In their application to an application for listed building consent which is
+connected to an application for a nationally significant development under
+section 62D of the Town and Country Planning Act 1990, the Listed Buildings
+and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024
+apply as follows.
+
+Provision Modification or disapplication Regulation ‎3 (applying for listed
+building consent) Regulation ‎3 is to be read as if, in paragraph ‎(3), for
+“the planning authority to which the application is made” there were
+substituted  “the Welsh Ministers” . Regulation 7 (acknowledgement of
+application for listed building consent) Regulation ‎7 is to be read as if
+there were substituted— “7. If the Welsh Ministers consider that an
+application does not comply with a requirement imposed by section 90(2) of the
+2023 Act or by these Regulations, the Welsh Ministers must notify the
+applicant as soon as reasonably practicable.” Regulation 8 (advertisement of
+applications for listed building consent) Regulation ‎8 does not apply.
+Regulation 9 (notification to amenity societies etc.) Regulation ‎9 is to be
+read as if the references to a planning authority were references to the Welsh
+Ministers. Regulation ‎12 (decision on application) Regulation ‎12 applies as
+if there were substituted— “12. The Welsh Ministers must give notice of their
+decision before the end of the determination period referred to in section 62L
+of the Town and Country Planning Act 1990.” Regulation ‎13 (notice of decision
+or referral to the Welsh Ministers) Regulation ‎13 is to be read as if— a in
+paragraph ‎(1)— i in the words before sub-paragraph ‎(a), the reference to the
+planning authority were to the Welsh Ministers; ii sub-paragraph (b) and “or”
+before it were omitted; b or paragraph (2) there were substituted— 2 The
+decision must be given before the end of the determination period within the
+meaning of section 62L of the Town and Country Planning Act 1990. ; c in
+paragraph ‎(3)— i for “the planning authority decides” there were substituted
+“the Welsh Ministers decide” ; ii sub-paragraph ‎(b) and the “and” before it
+were omitted. Regulation ‎19 (applications by a planning authority for
+demolition of a listed building) Regulation ‎19 does not apply Regulation ‎22
+(publicity for applications relating to urgent works on Crown land) Regulation
+‎22 does not apply.
+
+12.a.2.2
+
+In this paragraph, “ listed building consent ” has the meaning given in
+section 89 of the Historic Environment (Wales) Act 2023.
+
+;
+
+12.b
+
+in paragraph 3(2) of Part 2—
+
+12.b.i
+
+for “section 8 of the Listed Building Act,” substitute  “section 89 of the
+Historic Environment (Wales) Act 2023,” ;
+
+12.b.ii
+
+for “regulations 3(1), 3(2) and 6 (design and access statements)” to the end
+substitute  “regulations 3 and 4 of the Listed Buildings and Conservation
+Areas (Procedure and Interest Rate) (Wales) Regulations 2024.”
+
+13
+
+In Schedule 5—
+
+13.a
+
+for paragraph 2 of Part 2 substitute—
+
+13.a.2
+
+13.a.2.1
+
+In their application in relation to a conservation area consent which is
+connected to an application for a nationally significant development under
+section 62D of the Town and Country Planning Act 1990, the Listed Buildings
+and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024
+apply with the following modifications and exceptions (and see regulation 24
+of those Regulations).
+
+Provision Modification or disapplication Regulation ‎3 (applying for listed
+building consent) Regulation ‎3 is to be read as if, in paragraph ‎(3), for
+“the planning authority to which the application is made” there were
+substituted  “the Welsh Ministers” . Regulation 7 (acknowledgement of
+application for listed building consent) Regulation ‎7 is to be read as if
+there were substituted— “7 If the Welsh Ministers consider that an application
+does not comply with a requirement imposed by section 90(2) of the 2023 Act or
+by these Regulations, the Welsh Ministers must notify the applicant as soon as
+reasonably practicable.” Regulation 8 (advertisement of applications)
+Regulation ‎8 does not apply. Regulation ‎12 (decision on application)
+Regulation ‎12 is to be read as if there were substituted— “ 12. The Welsh
+Ministers must give notice of their decision before the end of the
+determination period referred to in section 62L of the Town and Country
+Planning Act 1990.” Regulation ‎13 (notice of decision or referral to the
+Welsh Ministers) Regulation ‎13 is to be read as if— a in paragraph (1)— i in
+the words before sub-paragraph (a), the reference to the planning authority
+were to the Welsh Ministers; ii sub-paragraph (b) and the “or” before it were
+omitted; b for paragraph (2) there were substituted— 2 The decision must be
+given before the end of the determination period within the meaning of section
+62L of the Town and Country Planning Act 1990. ; c in paragraph (3)— i for
+“the planning authority decides” there were substituted  “the Welsh Ministers
+decide” ; ii sub-paragraph (b) and the “and” before it were omitted.
+Regulation ‎19 (applications by a planning authority for demolition of a
+listed building) Regulation ‎19 does not apply. Regulation ‎22 (publicity for
+applications relating to urgent works on Crown land) Regulation ‎22 does not
+apply.
+
+13.a.2.2
+
+In this paragraph, “ conservation area consent ” has the meaning given in
+section 162 of the Historic Environment (Wales) Act 2023.
+
+13.b
+
+in paragraph 3(2) of Part 2—
+
+13.b.i
+
+for “section 74 of the Listed Buildings Act,”, substitute  “section 162 of the
+Historic Environment (Wales) Act 2023,” ;
+
+13.b.ii
+
+for “regulation 3(1) and (2)” to the end substitute  “regulation 3 of the
+Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales)
+Regulations 2024.”
+
+##### The Town and Country Planning (Referred Applications and Appeals Procedure) (Wales) Regulations 2017
+
+14
+
+The Town and Country Planning (Referred Applications and Appeals Procedure)
+(Wales) Regulations 2017  are amended as follows.
+
+15
+
+In regulation 3(1)—
+
+15.a
+
+omit the definition of “the 2012 Regulations”;
+
+15.b
+
+after the definition of “the 2015 Regulations”, insert—
+
+“ the 2024 Regulations ” (“ Rheoliadau 2024 ”) means the Listed Buildings and
+Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024;
+
+;
+
+15.c
+
+in the definition of “full statement of case”, for sub-paragraph (a)(ii)
+substitute  “regulation 2(1) of the 2024 Regulations;” ;
+
+15.d
+
+in the definition of “referred application”, for “an application which is
+deemed to have been referred to the Welsh Ministers by virtue of regulation
+9(3) of the 2012 Regulations” substitute  “an application by a local planning
+authority which is made under regulation 19(2) of the 2024 Regulations” .
+
+16
+
+Regulation 54 is omitted.
+
+  Revocation and withdrawal
+
+Regulation 28
+
+1
+
+The following statutory instruments are revoked—
+
+1.a
+
+the Planning (Listed Buildings and Conservation Areas) (Wales) Regulations
+2012 ;
+
+1.b
+
+the Planning (Listed Buildings and Conservation Areas) (Wales) (Amendment)
+Regulations 2015 ;
+
+1.c
+
+the Planning (Listed Buildings and Conservation Areas) (Wales) (Amendment)
+Regulations 2016 ;
+
+1.d
+
+the Planning (Listed Buildings and Conservation Areas) (Wales) (Amendment)
+Regulations 2017 ;
+
+1.e
+
+the Planning (Listed Buildings and Conservation Areas) (Wales) (Amendment No.
+2) Regulations 2017 ;
+
+1.f
+
+the Listed Buildings (Urgent Works) (Interest Rate on Expenses) (Wales) Order
+2017 ;
+
+1.g
+
+the Planning (Listed Buildings and Conservation Areas) (Wales) (Amendment)
+Regulations 2021 .
+
+2
+
+The Planning (Listed Buildings and Conservation Areas) Regulations 1990  are
+revoked in relation to Wales, to the extent that they remain in force.
+
+3
+
+The following Directions are withdrawn—
+
+3.a
+
+the Listed Building Applications and Decisions (Duty to Notify National
+Amenity Societies and the Royal Commission) (Wales) Direction 2022 ;
+
+3.b
+
+the Listed Building Consent Applications (Disapplication of Duty to Notify
+Welsh Ministers) (Wales) Direction ;
+
+3.c
+
+the Conservation Areas (Disapplication of Requirement for Conservation Area
+Consent for Demolition) (Wales) Direction .
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations are made under powers given to the Welsh Ministers by the
+Historic Environment (Wales) Act 2023 (“ the 2023 Act ”). The 2023 Act forms
+part of a code of law relating to the historic environment of Wales. These
+Regulations also form part of that Code.
+
+The 2023 Act protects buildings of special architectural or historic interest,
+which may include buildings or structures. That Act provides that the Welsh
+Ministers must maintain a list of such buildings in Wales. Particular types of
+works may only be carried out to a “listed building” if they are authorised by
+the planning authority or by the Welsh Ministers. This authorisation is called
+“listed building consent” and is granted under Part 3 of the 2023 Act.
+
+The framework for applications for listed building consent and changes to it
+is set out in sections 90 to 99 of the 2023 Act. The framework for appeals in
+relation to applications for listed building consent is set out in sections
+100 to 104 of that Act. There are provisions about the service of notices and
+other documents in section 205 of that Act.
+
+The 2023 Act also protects areas of special architectural or historic
+interest. That Act requires planning authorities to determine which such areas
+it is desirable to preserve or enhance, and designate such areas as
+“conservation areas”. Broadly, works for the demolition of a building in a
+conservation area are prohibited unless the works are authorised by the
+planning authority. This authorisation is called “conservation area consent”
+and is granted under Part 4 of the 2023 Act.
+
+The framework for applications for conservation area consent and appeals in
+relation to such applications is based on the framework for listed buildings
+and is set out in section 163 of the 2023 Act.
+
+Part 1  of these Regulations makes further provision about applications for
+listed building consent, where those applications relate to listed buildings
+in Wales. It includes provision about notifying people about and publicising
+applications for, listed building consent and conservation area consent.
+
+Regulation 3 makes further provision about the form and content of, and how to
+make, an application for listed building consent.
+
+Regulation 4 makes provision about the matters which the statement known as a
+heritage impact statement must describe and explain. Section 90(4) of the 2023
+Act requires the statement to be included with an application for listed
+building consent.
+
+Regulation 5 requires an applicant for listed building consent to give notice,
+before making an application, to any other owners of the building. It also
+sets out how that notice must be given.
+
+Regulation 6 requires applicants to provide a certificate with their
+application for listed building consent setting out the steps that they have
+taken to give notice.
+
+Regulation 7 and Schedule 1 deal with acknowledging an application for listed
+building consent.
+
+Regulation 8 sets out requirements for publicising applications for listed
+building consent and conservation area consent.
+
+Regulation 9 requires the planning authority to notify the listed amenity
+societies and the Royal Commission on the Ancient and Historical Monuments of
+Wales when it receives an application for listed building consent which
+involves demolition or partial demolition of a building.
+
+Regulation 10 sets out the procedure to be followed when an application for
+listed building consent is referred to the Welsh Ministers under section 94 of
+the 2023 Act.
+
+Regulation 11 disapplies the requirement to notify the Welsh Ministers of
+applications for listed building consent in section 95(1) of the 2023 Act in
+respect of works affecting only the interior of a building which is classified
+as Grade II (unstarred).
+
+Regulation 12 sets requirements about making decisions on applications for
+listed building consent.
+
+Regulation 13 and Schedule 2 set out the requirements for notifying an
+applicant of the decision on their application for listed building consent, or
+that the application has been referred to the Welsh Ministers for a decision.
+
+Regulation 14 applies and adapts the requirements of regulation 9, about
+notifying national amenity societies and the Royal Commission on the Ancient
+and Historical Monuments of Wales of applications, to decisions on
+applications for listed building consent.
+
+Regulation 15 applies and adapts the provisions of regulations 3 to 14 to
+applications for the variation or removal of conditions of listed building
+consent. It also introduces a form in Schedule 3.
+
+Part 2  of these Regulations makes further provision about the procedure for
+appeals in relation to applications for listed building consent.
+
+Regulation 16 sets out the procedure, including requirements about giving
+notice and providing information, for making an appeal in relation to an
+application for listed building consent.
+
+Regulation 17 sets out when an application for listed building consent can be
+varied after notice of appeal has been given.
+
+Regulation 18 prescribes that the period within which the Welsh Ministers may
+not determine an appeal against failure to give notice of a decision is 4
+weeks.
+
+Part 3  of these Regulations makes further provision for special cases, being
+applications by planning authorities and in respect of Crown land (land in
+which there is a Crown interest or a Duchy interest).
+
+Regulation 19 makes provision for applications by a planning authority for
+listed building consent for demolition to be made to the Welsh Ministers. It
+also applies and modifies appropriate parts of the 2023 Act and these
+Regulations for that purpose.
+
+Regulation 20 provides that there is no right to appeal to the Welsh Ministers
+against a decision made by a planning authority on an application by a
+planning authority for listed building consent.
+
+Regulation 21 modifies provisions of these Regulations when an application for
+listed building consent is made in respect of Crown land.
+
+Regulation 22 makes provision for the procedure for applications relating to
+urgent works on Crown land and modifies these Regulations for that purpose.
+
+Part 4  of these Regulations makes provision in relation to conservation
+areas.
+
+Regulation 23 limits the general requirement in section 161(1) of the 2023 Act
+for demolition of a building in a conservation area to be authorised. It lists
+the buildings to which the requirement for demolition in conservation areas to
+be authorised does not apply.
+
+Regulation 24 applies the relevant provisions of these Regulations to
+applications for conservation area consent and related matters such as
+appeals. It also modifies provisions of these Regulations for that purpose.
+
+Part 5  of these Regulations makes miscellaneous provision and contains
+consequential amendments. It also revokes obsolete statutory instruments and
+withdraws obsolete directions.
+
+Regulation 25 sets out the procedure for the advertisement of an unopposed
+revocation or modification order made under section 107 of the 2023 Act.
+
+Regulation 26 prescribes the interest rate for the cost of urgent works
+carried out under section 145 of the 2023 Act.
+
+Regulation 27 and Schedule 4 make consequential amendments. They include
+amendments which adapt the procedures in these Regulations to applications
+which are connected with proposals under the Transport and Works Act 1992 or
+proposals which are for a development of national significance under section
+62D of the Town and Country Planning Act 1990.
+
+Regulation 28 and Schedule 5 revoke statutory instruments and withdraw
+directions.
+
+The statutory instruments which are revoked are the Planning (Listed Buildings
+and Conservation Areas) (Wales) Regulations 2012 and subsequent amending
+instruments, and the Listed Buildings (Urgent Works) (Interest Rate on
+Expenses) (Wales) Order 2017.
+
+The Directions which are withdrawn are the Listed Building Applications and
+Decisions (Duty to Notify National Amenity Societies and the Royal Commission)
+(Wales) Direction 2022, the Listed Building Consent Applications
+(Disapplication of Duty to Notify Welsh Ministers) (Wales) Direction  2017 No.
+25  and the Conservation Areas (Disapplication of Requirement for Conservation
+Area Consent for Demolition) (Wales) Direction  2017 No. 27 .
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
+Assessments was considered in relation to these Regulations. As a result it
+was not considered necessary to carry out a regulatory impact assessment as to
+the likely costs and benefits of complying with these Regulations.
+

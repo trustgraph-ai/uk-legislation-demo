@@ -1,0 +1,369 @@
+Title: The Renting Homes (Rent Determination) (Converted Contracts) (Wales) Regulations 2022
+Date: 2024-05-15
+Description: Sections 104 and 123 of the Renting Homes (Wales) Act 2016 (anaw 1) (“the Act”) allow the landlord under a secure contract and a periodic standard contract, respectively, to vary the rent payable under the contract by giving the contract-holder a notice setting out a new rent to take effect on the date specified in the notice.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/wsi/2022/781
+
+## The Renting Homes (Rent Determination) (Converted Contracts) (Wales) Regulations 2022
+
+Housing, Wales
+
+Made 15 July 2022
+
+Laid before Senedd Cymru 18 July 2022
+
+Coming into force in accordance with regulation 1
+
+The Welsh Ministers make the following Regulations in exercise of the powers
+conferred by sections 236(3) and 256(1) and (2)  of and paragraph 15(2) of
+Schedule 12 to the Renting Homes (Wales) Act 2016 .
+
+### Title and commencement
+
+1
+
+The title of these Regulations is the Renting Homes (Rent Determination)
+(Converted Contracts) (Wales) Regulations 2022 and they come into force on   1
+December 2022 (the day on which section 239 of the Act comes into force)   .
+
+### Interpretation
+
+2
+
+In these Regulations—
+
+“ the Act ” (“ y Ddeddf ”) means the Renting Homes (Wales) Act 2016; “
+appointed day ” ( “y diwrnod penodedig” ) has the meaning given by the Act
+(see section 242); “ assured agricultural occupancy ” ( “meddiannaeth
+amaethyddol sicr” ) has the meaning given by the Act (see paragraph 1 of
+Schedule 12 to the Act); “ assured tenancy ” ( “tenantiaeth sicr” ) has the
+meaning given by the Act (see section 242); “ billing authority ” (“ awdurdod
+bilio ”) has the meaning given by section 1(2) of the Local Government Finance
+Act 1992; “ category of dwellings ” (“ categori o anheddau ”) has the meaning
+given by section 30(1) and (2) of the Local Government Finance Act 1992; “
+dwelling ” (“ annedd ”) has the meaning given by the Act (see section 246); “
+hereditament ” (“ hereditament ”) has the meaning given by section 3 of the
+Local Government Finance Act 1992; “ landlord ” (“ landlord ”) has the meaning
+given by the Act (see section 244(2)); “ relevant contract-holder ” ( “deiliad
+contract perthnasol” ) means a contract-holder (which has the meaning given by
+the Act (see section 7(5)) under a relevant converted contract; “ relevant
+converted contract ” (“ contract wedi ei drosi perthnasol ”) has the meaning
+given by the Act (see paragraph 15(3) of Schedule 12 to the Act); “ relevant
+improvement ” (“ gwelliant perthnasol ”) means an improvement— carried out
+during the relevant converted contract to which the notice under section 104
+or 123 of the Act applies, or which satisfies the following conditions— the
+improvement was carried out not more than twenty-one years before the date of
+service of the notice under section 104 or 123 of the Act, at all times during
+the period beginning when the improvement was carried out and ending on the
+date of service of the notice under section 104 or 123 of the Act, the
+dwelling has been let under a relevant converted contract, an assured tenancy
+or an assured agricultural occupancy, and on the coming to an end of an
+assured tenancy or an assured agricultural occupancy, at any time during that
+period, the tenant or licensee (or, in case of joint tenants or licensees, at
+least one of them) did not quit; “ rent ” (“ rhent ”) does not include— any
+service charge within the meaning of section 18 of the Landlord and Tenant Act
+1985, or any payments prohibited under section 4 of the Renting Homes (Fees
+etc.) (Wales) Act 2019, but, subject to that, includes any sums payable by the
+relevant contract-holder to the landlord on account of the use of furniture,
+in respect of council tax or for any of the matters referred to in section
+18(1)(a) of the Landlord and Tenant Act 1985, whether or not those sums are
+separate from the sums payable for the occupation of the dwelling concerned or
+are payable under separate agreements; “ rent assessment committee ” (“
+pwyllgor asesu rhenti ”) means a rent assessment committee constituted in
+accordance with Schedule 10 to the Rent Act 1977.
+
+### Application to a rent assessment committee
+
+3
+
+3.1
+
+Following receipt of a notice under section 104 or 123 of the Act, a relevant
+contract-holder may apply to a rent assessment committee for a determination
+of the rent for the dwelling.
+
+3.2
+
+The application to a rent assessment committee must be made—
+
+3.2.a
+
+in the prescribed form, and
+
+3.2.b
+
+within 2 months following receipt of the notice under section 104 or 123 of
+the Act.
+
+3.3
+
+The prescribed form is as set out in the Schedule.
+
+3.4
+
+An application in a form substantially to the same effect as the prescribed
+form is valid.
+
+### Determination of rent by a rent assessment committee
+
+4
+
+A rent assessment committee must determine all applications made under
+regulation 3 in accordance with the assumptions set out in regulation 6.
+
+### Variation of rent upon a determination by a rent assessment committee
+
+5
+
+A rent determined by a rent assessment committee, in accordance with the
+assumptions set out in regulation 6, will be the rent for the dwelling under
+the relevant converted contract with effect from the date specified in the
+notice under section 104 or 123 of the Act, unless the landlord and the
+relevant contract-holder otherwise agree.
+
+### Assumptions in accordance with which a rent assessment committee must determine rent
+
+6
+
+When making a determination of rent for a dwelling under these Regulations, a
+rent assessment committee must determine the rent at which it considers the
+dwelling concerned might reasonably be expected to be let in the open market
+by a willing landlord under  an occupation contract of the same type as the
+relevant converted contract  to which the notice under section 104 or 123 of
+the Act relates, assuming that—
+
+6.a
+
+the  occupation  contract begins on the date specified in the notice under
+section 104 or 123 of the Act,
+
+6.b
+
+the granting of a contract to a sitting contract-holder has no effect on the
+rent,
+
+6.c
+
+any increase in the value of the dwelling attributable to a relevant
+improvement carried out by a person who at the time it was carried out was the
+tenant, licensee  or relevant contract-holder has no effect on the rent, if
+the improvement was carried out—
+
+6.c.i
+
+otherwise than in pursuance of an obligation to the immediate landlord, or
+
+6.c.ii
+
+pursuant to an obligation to the immediate landlord being an obligation which
+did not relate to the specific improvement concerned but arose by reference to
+consent given to the carrying out of that improvement,
+
+6.d
+
+any reduction in the value of the dwelling attributable to a failure by the
+... relevant contract-holder to comply with any terms of the  ... relevant
+converted contract   or the tenancy or licence which existed immediately
+before the appointed day  has no effect on the rent,
+
+6.e
+
+where the landlord or a superior landlord is liable to pay council tax in
+respect of a hereditament of which the dwelling forms part, under Part 1 of
+the Local Government Finance Act 1992, the amount of council tax which, as at
+the date on which the notice under section 104 or 123 was served, was set by
+the billing authority—
+
+6.e.i
+
+for the financial year in which the notice was served, and
+
+6.e.ii
+
+for the category of dwellings within which the relevant hereditament fell on
+that date,
+
+has an effect on the rent, but any discount or other reduction affecting the
+amount of council tax payable has no effect on the rent, and
+
+6.f
+
+neither the landlord nor a superior landlord is paying rates in respect of the
+dwelling.
+
+### Landlord and relevant contract-holder notice to a rent assessment committee
+
+7
+
+Nothing in these Regulations requires the rent assessment committee to
+continue with its determination of a rent for a dwelling under the relevant
+converted contract if the landlord and relevant contract-holder give notice in
+writing that they no longer require such a determination or if the relevant
+converted contract has come to an end.
+
+### Consequential amendments to the Rent Assessment Committees (England and Wales) Regulations 1971
+
+8
+
+8.1
+
+The Rent Assessment Committees (England and Wales) Regulations 1971  are
+amended as follows.
+
+8.2
+
+In regulation 2 (interpretation) —
+
+8.2.a
+
+in the definition of “reference”, after “Local Government and Housing Act
+1989”, replace the full stop with “, or which is made under regulation 3 of
+the Renting Homes (Rent Determination) (Converted Contracts) (Wales)
+Regulations 2022 .”;
+
+8.2.b
+
+at the appropriate places, insert the following definitions—
+
+“ dwelling ” has the meaning given by section 246 of the Renting Homes (Wales)
+Act 2016 ;
+
+;
+
+“ relevant contract-holder ” means a contract-holder (which has the meaning
+given by section 7(5) of the Renting Homes (Wales) Act 2016) under a relevant
+converted contract;
+
+;
+
+“ relevant converted contract ” has the meaning given by paragraph 15(3)  of
+Schedule 12 to the Renting Homes (Wales) Act 2016;
+
+;
+
+...
+
+;
+
+...
+
+.
+
+8.3
+
+In regulation 2A (1988 and 1989 Act references) —
+
+8.3.a
+
+for the heading, substitute  “References” ;
+
+8.3.b
+
+in paragraph (1), after “Housing Act 1988;”, omit “or”;
+
+8.3.c
+
+in paragraph (1), after “Local Government and Housing Act 1989”, in the second
+place it occurs, replace the full stop with—
+
+; or
+
+regulation 3 of the Renting Homes (Rent Determination) (Converted Contracts)
+(Wales) Regulations 2022 .
+
+.
+
+8.4
+
+In regulation 3(3)(c) , after “tenant”, insert  “ ... or relevant contract-
+holder” .
+
+8.5
+
+In regulation 5(1)(b) —
+
+8.5.a
+
+for “assured tenancies or assured agricultural occupancies”, substitute
+“assured tenancies, assured agricultural occupancies or relevant converted
+contracts” ,
+
+8.5.b
+
+after “dwelling-houses”, in both places it occurs, insert  “or dwellings” .
+
+8.6
+
+In regulation 7—
+
+8.6.a
+
+in the heading, after “dwelling-house”, insert  “or dwelling” , and
+
+8.6.b
+
+in paragraph (1), after “dwelling-house”, insert  “or dwelling” .
+
+Julie James Minister for Climate Change, one of the Welsh Ministers
+
+Regulation 3
+
+
+
+
+
+
+
+
+
+## EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+Sections 104 and 123 of the Renting Homes (Wales) Act  2016 (anaw 1)  (“ the
+Act ”) allow the landlord under a secure contract and a periodic standard
+contract, respectively, to vary the rent payable under the contract by giving
+the contract-holder a notice setting out a new rent to take effect on the date
+specified in the notice.
+
+These Regulations make provision, as required by paragraph 15(2) of Schedule
+12 to the Act, to enable a contract-holder under a relevant converted contract
+(as defined by paragraph 15(3) of Schedule 12 to the Act) to apply to a
+prescribed person for a determination of the rent for the dwelling where they
+have received a notice under section 104 or 123 of the Act and for that
+determination to be the rent under the contract.
+
+Regulation 3 provides for a contract-holder under a relevant converted
+contract, who has received a notice under either section 104 or 123 of the
+Act, to apply to a rent assessment committee, constituted in accordance with
+Schedule 10 to the Rent Act 1977, for a determination of the rent for the
+dwelling. Regulation 3 also prescribes the form of application to the rent
+assessment committee, which is set out in the Schedule to these Regulations.
+An application which is in a form substantially to the same effect is valid.
+
+Regulation 4 provides that a rent assessment committee must determine all such
+applications in accordance with the assumptions set out in regulation 6.
+
+Regulation 5 provides that the rent determined by a rent assessment committee
+will be the rent for the dwelling unless the landlord and contract-holder
+agree otherwise.
+
+Regulation 6 sets out the assumptions that the rent assessment committee must
+apply whilst determining the rent for the dwelling.
+
+Regulation 7 allows for a rent assessment committee’s involvement in an
+application to cease following notice in writing from both the landlord and
+the contract-holder confirming they no longer require a determination.
+
+Regulation 8 makes consequential amendments to the Rent Assessment Committees
+(England and Wales) Regulations 1971 ( S.I. 1971/1065 ), which specify the
+procedure to be followed by a rent assessment committee when considering an
+application made to it under these Regulations.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
+Assessments was considered in relation to these Regulations. As a result, a
+regulatory impact assessment has been prepared as to the likely costs and
+benefits of complying with these Regulations. A copy can be obtained from the
+Department of Housing, Welsh Government, Rhydycar Business Park, Merthyr
+Tydfil, CF48 1UZ.
+

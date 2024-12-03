@@ -1,0 +1,224 @@
+Title: The Renting Homes (Rent Determination) (Converted Contracts) (Wales) (Amendment) Regulations 2022
+Date: 2022-12-01
+Description: The Renting Homes (Rent Determination) (Converted Contracts) (Wales) Regulations 2022 (S.I. 2022/781 (W. 170)) (“the 2022 Regulations”) make provision to enable a contract-holder under a relevant converted contract to apply to a prescribed person for a determination of rent and make consequential amendments to the Rent Assessment Committees (England and Wales) Regulations 1971 (S.I. 1971/1065).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/wsi/2022/1078
+
+## The Renting Homes (Rent Determination) (Converted Contracts) (Wales) (Amendment) Regulations 2022
+
+    This Statutory Instrument corrects errors in  S.I. 2022/781 (W. 170)  and
+is being issued free of charge to all known recipients of that Statutory
+Instrument.
+
+    Housing, Wales
+
+  Made   24 October 2022
+
+  Laid before Senedd Cymru   25 October 2022
+
+  Coming into force   30 November 2022
+
+      The Welsh Ministers make the following Regulations in exercise of the
+powers conferred by sections 236(3) and 256(1) and (2)  of and paragraph 15(2)
+of Schedule 12 to the Renting Homes (Wales) Act 2016 .
+
+### Title and commencement
+
+1
+
+The title of these Regulations is the Renting Homes (Rent Determination)
+(Converted Contracts) (Wales) (Amendment) Regulations 2022 and they come into
+force on 30 November 2022.
+
+### Interpretation
+
+2
+
+In these Regulations, “ the 1971 Regulations ” (“ Rheoliadau 1971 ”) means the
+Rent Assessment Committees (England and Wales) Regulations 1971 .
+
+### Amendments to the Renting Homes (Rent Determination) (Converted Contracts) (Wales) Regulations 2022
+
+3
+
+3.1
+
+The Renting Homes (Rent Determination) (Converted Contracts) (Wales)
+Regulations 2022  are amended as follows.
+
+3.2
+
+For regulation 2 (interpretation), substitute—
+
+3.2.2
+
+In these Regulations—
+
+      “ the Act ” (“ y Ddeddf ”) means the Renting Homes (Wales) Act 2016;
+“ appointed day ” ( “y diwrnod penodedig” ) has the meaning given by the Act
+(see section 242);           “ assured agricultural occupancy ” (
+“meddiannaeth amaethyddol sicr” ) has the meaning given by the Act (see
+paragraph 1  of Schedule 12 to the Act);           “ assured tenancy ” (
+“tenantiaeth sicr” ) has the meaning given by the Act (see section 242 );
+“ billing authority ” (“ awdurdod bilio ”) has the meaning given by section
+1(2) of the Local Government Finance Act 1992 ;           “ category of
+dwellings ” (“ categori o anheddau ”) has the meaning given by section 30(1)
+and (2) of the Local Government Finance Act 1992 ;           “ dwelling ” (“
+annedd ”) has the meaning given by the Act (see section 246 );           “
+hereditament ” (“ hereditament ”) has the meaning given by section 3 of the
+Local Government Finance Act 1992;           “ landlord ” (“ landlord ”) has
+the meaning given by the Act (see section 244(2));           “ relevant
+contract-holder ” ( “deiliad contract perthnasol” ) means a contract-holder
+(which has the meaning given by the Act (see section 7(5)) under a relevant
+converted contract;           “ relevant converted contract ” (“ contract wedi
+ei drosi perthnasol ”) has the meaning given by the Act (see paragraph 15(3)
+of Schedule 12 to the Act);           “ relevant improvement ” (“ gwelliant
+perthnasol ”) means an improvement—         carried out during the relevant
+converted contract to which the notice under section 104 or 123 of the Act
+applies, or           which satisfies the following conditions—         the
+improvement was carried out not more than twenty-one years before the date of
+service of the notice under section 104 or 123 of the Act,           at all
+times during the period beginning when the improvement was carried out and
+ending on the date of service of the notice under section 104 or 123 of the
+Act, the dwelling has been let under a relevant converted contract, an assured
+tenancy or an assured agricultural occupancy, and           on the coming to
+an end of an assured tenancy or an assured agricultural occupancy, at any time
+during that period, the tenant or licensee (or, in case of joint tenants or
+licensees, at least one of them) did not quit;                       “ rent ”
+(“ rhent ”) does not include—         any service charge within the meaning of
+section 18 of the Landlord and Tenant Act 1985 , or           any payments
+prohibited under section 4 of the Renting Homes (Fees etc.) (Wales) Act 2019 ,
+but, subject to that, includes any sums payable by the relevant contract-
+holder to the landlord on account of the use of furniture, in respect of
+council tax or for any of the matters referred to in section 18(1)(a) of the
+Landlord and Tenant Act 1985 , whether or not those sums are separate from the
+sums payable for the occupation of the dwelling concerned or are payable under
+separate agreements;           “ rent assessment committee ” (“ pwyllgor asesu
+rhenti ”) means a rent assessment committee constituted in accordance with
+Schedule 10 to the Rent Act 1977 .
+
+3.3
+
+In regulation 6 (assumptions in accordance with which the rent assessment
+commitee must determine rent)—
+
+3.3.a
+
+in the words before paragraph (a), in the Welsh text—
+
+3.3.a.i
+
+for “gael ei osod”, substitute  “gael ei gosod” ;
+
+3.3.a.ii
+
+for “ymwneud â hi”, substitute  “ymwneud ag ef” ;
+
+3.3.b
+
+in the words before paragraph (a), for “the same type of relevant converted
+contract as that”, substitute  “an occupation contract of the same type as the
+relevant converted contract” ;
+
+3.3.c
+
+in paragraph (a), for “relevant converted”, substitute  “occupation” ;
+
+3.3.d
+
+in paragraph (c), for “relevant tenant or licensee”, substitute  “tenant,
+licensee” ;
+
+3.3.e
+
+in paragraph (d)—
+
+3.3.e.i
+
+after “failure by the”, omit “relevant tenant or licensee or”;
+
+3.3.e.ii
+
+after “terms of the”, omit “relevant preceding tenancy or licence or”;
+
+3.3.e.iii
+
+after “relevant converted contract”, insert  “or the tenancy or licence which
+existed immediately before the appointed day” .
+
+3.4
+
+In regulation 8 (consequential amendments to the Rent Assessment Committees
+(England and Wales) Regulations 1971)—
+
+3.4.a
+
+in paragraph (2)(b), which inserts definitions into regulation 2 of the 1971
+Regulations—
+
+3.4.a.i
+
+omit the definition of “relevant preceding tenancy or licence”;
+
+3.4.a.ii
+
+omit the definition of “relevant tenant or licensee”;
+
+3.4.a.iii
+
+in the Welsh text, in the words before the definition of “dwelling”, for
+“mannau”, substitute  “lleoedd” ;
+
+3.4.b
+
+in paragraph (4), in the text which is inserted into regulation 3(3)(c) of the
+1971 Regulations, omit “, relevant tenant or licensee,”;
+
+3.4.c
+
+in paragraph (5), which amends regulation 5(1)(b) of the 1971 Regulations, for
+sub-paragraph (a), substitute—
+
+3.4.c.a
+
+for “assured tenancies or assured agricultural occupancies”, substitute
+“assured tenancies, assured agricultural occupancies or relevant converted
+contracts” ,
+
+.
+
+3.5
+
+In the Schedule, in the prescribed form, after “8. Improvements”, for
+paragraph (a) substitute—
+
+3.5.a
+
+Have you or any former tenant(s) or licensee(s) carried out improvements or
+replaced fixtures, fittings or furniture for which you or they were NOT
+responsible under the terms of the tenancy or licence/occupation contract?
+
+.
+
+      Julie James   Minister for Climate Change, one of the Welsh Ministers
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  The Renting Homes (Rent Determination) (Converted Contracts) (Wales)
+Regulations 2022 ( S.I. 2022/781 (W. 170) ) (“ the 2022 Regulations ”) make
+provision to enable a contract-holder under a relevant converted contract to
+apply to a prescribed person for a determination of rent and make
+consequential amendments to the Rent Assessment Committees (England and Wales)
+Regulations 1971 ( S.I. 1971/1065 ).
+
+  These Regulations correct technical and typographical errors in the 2022
+Regulations.
+
+  The Welsh Ministers’ Code of Practice on the carrying out of Regulatory
+Impact Assessments was considered in relation to these Regulations. As a
+result, it was not considered necessary to carry out a regulatory impact
+assessment as to the likely costs and benefits of complying with this
+instrument.
+

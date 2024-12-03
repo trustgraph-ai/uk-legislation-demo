@@ -1,0 +1,835 @@
+Title: Criminal Justice (Committal Reform) Act (Northern Ireland) 2022
+Date: 2022-11-24
+Description: Amend the law relating to committal for trial.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nia/2022/4
+
+## Criminal Justice (Committal Reform) Act (Northern Ireland) 2022
+
+      BE IT ENACTED by being passed by the Northern Ireland Assembly and
+assented to by Her Majesty as follows:
+
+### Abolition of preliminary investigations and mixed committals
+
+#### Abolition of preliminary investigations
+
+1
+
+Article 30 of the Magistrates’ Courts (Northern Ireland) Order 1981 (which
+enables a magistrates’ court to conduct a preliminary investigation of an
+indictable offence) is repealed; and accordingly all committal proceedings in
+a magistrates’ court shall be by way of preliminary inquiry under that Order.
+
+#### Abolition of mixed committals: evidence on oath not to be given at preliminary inquiry
+
+2
+
+Article 34(2) of the Magistrates’ Courts (Northern Ireland) Order 1981 (which
+enables witnesses to give evidence on oath at a preliminary inquiry) is
+repealed.
+
+#### Consequential amendments and repeals
+
+3
+
+The Schedule (which contains amendments and repeals consequential on sections
+1 and 2) has effect.
+
+### Direct committal for trial: miscellaneous amendments
+
+#### Direct committal for trial: miscellaneous amendments
+
+4
+
+4.1
+
+Chapter 2 of Part 2 of the Justice Act (Northern Ireland) 2015 (direct
+committal for trial) is amended as follows.
+
+4.2
+
+For section 9 substitute—
+
+########## Application of this Chapter
+
+4.2.9⁠
+
+4.2.9⁠.1
+
+Subject to subsection (3), this Chapter applies where a person (“the accused”)
+appears or is brought before a magistrates’ court charged with an offence and
+one of the conditions mentioned in subsection (2) is satisfied.
+
+4.2.9⁠.2
+
+Those conditions are—
+
+4.2.9⁠.2.a
+
+that the offence is an offence triable only on indictment;
+
+4.2.9⁠.2.b
+
+that the offence is an indictable offence to which Article 45 of the
+Magistrates’ Courts (Northern Ireland) Order 1981 applies (summary trial of
+certain indictable offences), and the court has decided under that Article not
+to deal summarily with the offence;
+
+4.2.9⁠.2.c
+
+that the offence is an indictable offence to which Article 17 of the Criminal
+Justice (Children) (Northern Ireland) Order 1998 applies (summary trial of
+child charged with indictable offence), and the court has decided under that
+Article not to deal summarily with the offence;
+
+4.2.9⁠.2.d
+
+that the offence is a summary offence and—
+
+4.2.9⁠.2.d.i
+
+the accused claims, in accordance with Article 29 of the Magistrates’ Courts
+(Northern Ireland) Order 1981 or any other statutory provision, to be tried on
+indictment;
+
+4.2.9⁠.2.d.ii
+
+the prosecutor exercises any right conferred by any statutory provision to
+claim that the accused is to be tried on indictment; or
+
+4.2.9⁠.2.d.iii
+
+it is otherwise determined that the accused is to be tried on indictment.
+
+4.2.9⁠.3
+
+But this Chapter does not apply where notice has been given in relation to the
+offence under Article 3 of the Criminal Justice (Serious Fraud) (Northern
+Ireland) Order 1988 or Article 4 of the Children’s Evidence (Northern Ireland)
+Order 1995.
+
+4.2.9⁠.4
+
+In this Chapter—
+
+4.2.9⁠.4.a
+
+references to an offence triable only on indictment are to be construed
+without reference to Article 29(5) of the Magistrates’ Courts (Northern
+Ireland) Order 1981 (certain summary offences to be treated as if they were
+triable on indictment only);
+
+4.2.9⁠.4.b
+
+“ summary offence ” has the meaning given by Article 2(3) of the Magistrates’
+Courts (Northern Ireland) Order 1981.
+
+.
+
+4.3
+
+Section 10 (direct committal where indication by accused of intention to plead
+guilty) and the cross-heading immediately before it are repealed.
+
+4.4
+
+For sections 11 and 12 (direct committal for specified and related offences)
+and the cross-headings immediately before each of those sections substitute—
+
+########## Direct committal for trial of certain offences
+
+########### Direct committal of certain offences
+
+4.4.11⁠
+
+4.4.11⁠.1
+
+Where—
+
+4.4.11⁠.1.a
+
+this Chapter applies in relation to an accused charged with an offence, and
+
+4.4.11⁠.1.b
+
+the offence is—
+
+4.4.11⁠.1.b.i
+
+an offence which, in the case of an adult, is triable only on indictment, or
+
+4.4.11⁠.1.b.ii
+
+any other offence which is for the time being designated for the purposes of
+this subsection by an order made by the Department,
+
+the court shall forthwith commit the accused to the Crown Court for trial for
+the offence.
+
+4.4.11⁠.2
+
+For the purposes of this section—
+
+4.4.11⁠.2.a
+
+“a relevant offence” is an offence mentioned in subsection (1)(b);
+
+4.4.11⁠.2.b
+
+an offence is related to a relevant offence if a count charging the offence
+could be included in the same indictment as a count charging the relevant
+offence.
+
+4.4.11⁠.3
+
+Where the court commits a person for trial under subsection (1) for a relevant
+offence, it shall at the same time commit that person to the Crown Court for
+trial for any other offence with which that person is charged and which
+appears to the court to be related to the relevant offence.
+
+4.4.11⁠.4
+
+Where—
+
+4.4.11⁠.4.a
+
+this Chapter applies in relation to an accused (“ A ”) who—
+
+4.4.11⁠.4.a.i
+
+is charged with an offence (“offence A”) which is not a relevant offence, and
+
+4.4.11⁠.4.a.ii
+
+is not also charged with a relevant offence,
+
+4.4.11⁠.4.b
+
+A appears or is brought before the court on the same occasion as another
+person (“ B ”) charged with a relevant offence,
+
+4.4.11⁠.4.c
+
+the court commits B for trial for the relevant offence under subsection (1),
+and
+
+4.4.11⁠.4.d
+
+offence A appears to the court to be related to the relevant offence for which
+the court commits B for trial,
+
+the court shall forthwith commit A to the Crown Court for trial for offence A.
+
+4.4.11⁠.5
+
+Where—
+
+4.4.11⁠.5.a
+
+this Chapter applies in relation to an accused (“ A ”) who—
+
+4.4.11⁠.5.a.i
+
+is charged with an offence (“offence A”) which is not a relevant offence, and
+
+4.4.11⁠.5.a.ii
+
+is not also charged with a relevant offence,
+
+4.4.11⁠.5.b
+
+on a previous occasion another person (“ B ”) has appeared or been brought
+before the court charged with a relevant offence,
+
+4.4.11⁠.5.c
+
+the court has on that occasion committed B for trial for the relevant offence
+under subsection (1), and
+
+4.4.11⁠.5.d
+
+offence A appears to the court to be related to the relevant offence for which
+the court committed B for trial,
+
+the court may forthwith commit A to the Crown Court for trial for offence A if
+the court considers that it is necessary or appropriate in the interests of
+justice to do so.
+
+4.4.11⁠.6
+
+Where the court commits the accused for trial for an offence under this
+section—
+
+4.4.11⁠.6.a
+
+it shall accordingly not conduct committal proceedings in relation to that
+offence; and
+
+4.4.11⁠.6.b
+
+the functions of the court in relation to the conduct of committal proceedings
+for that offence then cease, except as provided by—
+
+4.4.11⁠.6.b.i
+
+section 13; or
+
+4.4.11⁠.6.b.ii
+
+Article 29(2)(a) of the Legal Aid, Advice and Assistance (Northern Ireland)
+Order 1981 or any regulations under Article 26(3) of the Access to Justice
+(Northern Ireland) Order 2003.
+
+.
+
+4.5
+
+In section 13 (direct committal: procedures) for subsection (2) insert—
+
+4.5.2
+
+Magistrates’ court rules—
+
+4.5.2.a
+
+shall provide that, where a person is committed for trial under this Chapter
+on any charge or charges, a copy of the notice of committal is given to that
+person and to the Crown Court sitting at the specified place of trial;
+
+4.5.2.b
+
+may make such further provision in relation to notices of committal, including
+provision as to the matters to be included in such notices and the duties of a
+court in relation to such notices.
+
+4.5.2A
+
+Magistrates’ court rules and Crown Court Rules shall make provision to ensure
+that, where a person is committed for trial under this Chapter on any charge
+or charges, copies of the documents containing the evidence on which the
+charge or charges are based are given to that person and to the Crown Court
+sitting at the specified place of trial, either at the same time as the copy
+of the notice of committal or as soon as practicable thereafter.
+
+.
+
+4.6
+
+In section 13 (direct committal: procedures) at the end add—
+
+4.6.4
+
+Where—
+
+4.6.4.a
+
+a court commits an accused for trial for an offence under this Chapter, and
+
+4.6.4.b
+
+the accused has indicated to the court an intention to plead guilty to the
+offence,
+
+the court may order the making of such inquiries and the preparation, and
+sending to the Crown Court sitting at the specified place of trial, of such
+reports as appear to the court to be appropriate in connection with the
+sentencing of the accused for that offence (should the accused plead guilty to
+that offence on arraignment in the Crown Court).
+
+4.6.5
+
+Before making an order under subsection (4) the court must afford an
+opportunity to the accused and the prosecution to make representations to the
+court.
+
+.
+
+4.7
+
+After section 13 insert—
+
+########## Discontinuance of proceedings after accused has been committed for trial
+
+4.7.13A⁠
+
+4.7.13A⁠.1
+
+This section applies where—
+
+4.7.13A⁠.1.a
+
+the Director of Public Prosecutions for Northern Ireland has the conduct of
+proceedings for an offence; and
+
+4.7.13A⁠.1.b
+
+the accused (“ A ”) has been committed for trial under this Chapter for the
+offence.
+
+4.7.13A⁠.2
+
+Where, at any time before the indictment is presented, the Director gives
+notice under this section to the Crown Court sitting at the specified place of
+trial that the Director does not want the proceedings to continue, the
+proceedings shall be discontinued with effect from the giving of that notice.
+
+4.7.13A⁠.3
+
+The Director shall, in any notice given under subsection (2), give reasons for
+not wanting the proceedings to continue.
+
+4.7.13A⁠.4
+
+On giving any notice under subsection (2) the Director shall inform A of the
+notice; but the Director shall not be obliged to give A any indication of the
+reasons for not wanting the proceedings to continue.
+
+4.7.13A⁠.5
+
+Where proceedings against A in relation to an offence are discontinued under
+this section—
+
+4.7.13A⁠.5.a
+
+if A is in detention in connection with the offence, A must be released unless
+the detention is justified otherwise than by reason of the offence;
+
+4.7.13A⁠.5.b
+
+if A is subject to a requirement to appear before a court, or attend at a
+police station, in connection with the offence, the requirement ceases to have
+effect.
+
+4.7.13A⁠.6
+
+The discontinuance under this section of proceedings against A in relation to
+an offence does not prevent the subsequent institution of proceedings against
+A in relation to the offence (or any other offence).
+
+.
+
+4.8
+
+In section 14 (application to dismiss)—
+
+4.8.a
+
+for the heading substitute  “ Application to dismiss ” ;
+
+4.8.b
+
+in subsection (1) for “section 11 or 12” substitute  “this Chapter” ;
+
+4.8.c
+
+for subsections (4) and (5) (which permit oral evidence to be given in limited
+circumstances) substitute—
+
+4.8.c.4
+
+Oral evidence may not be given on an application under subsection (1).
+
+.
+
+4.9
+
+In Schedule 2 to the Justice Act (Northern Ireland) 2015 (amendments relating
+to direct committal)—
+
+4.9.a
+
+in paragraph 1(3), in the inserted subsection (5ZA)(b), for “section 13(2)(a)”
+substitute  “section 13(2A)” ;
+
+4.9.b
+
+in paragraph 1 for sub-paragraph (4) substitute—
+
+4.9.b.4
+
+In subsections (2)(b) and (6) after “subsection (5)” insert  “, (5ZA) or (5A)”
+.
+
+;
+
+4.9.c
+
+in paragraph 3, in the inserted paragraph (2A), for the word “documents”
+substitute  “copy of the notice of committal” ;
+
+4.9.d
+
+in paragraph 5(1)(b), (2)(b) and (3)(b), in the substituted provisions, for
+“section 11 or 12”  substitute “Chapter 2 of Part 2”;
+
+4.9.e
+
+in paragraph 6(1)(b), (2)(b) and (3)(b), in the substituted or inserted
+provisions, for  “section 11 or 12”  substitute “Chapter 2 of Part 2”;
+
+4.9.f
+
+in paragraph 8—
+
+4.9.f.i
+
+renumber the existing provision as sub-paragraph (1) of that paragraph;
+
+4.9.f.ii
+
+in that sub-paragraph, in the inserted subsection (1A), for “ section 13(2)(a)
+” (twice) substitute  “section 13(2A)” ;
+
+4.9.f.iii
+
+after that sub-paragraph insert—
+
+4.9.f.iii.2
+
+In section 13(1) (time limits for disclosure by prosecution) for paragraph (b)
+substitute—
+
+4.9.f.iii.2.ba
+
+the documents mentioned in section 13(2A) of the Justice Act (Northern
+Ireland) 2015 are given to the accused (where this Part applies by virtue of
+section 1(2)(a) and the accused has been committed for trial under Chapter 2
+of Part 2 of that Act),
+
+4.9.f.iii.2.b
+
+the accused is committed for trial (in any other case where this Part applies
+by virtue of section 1(2)(a)),
+
+;
+
+4.9.g
+
+in paragraph 9 for “section 13(2)(a)” substitute  “section 13(2A)” ;
+
+4.9.h
+
+in paragraph 11, in the inserted sub-paragraph (aa), for “section 11 or 12”
+substitute  “Chapter 2 of Part 2” .
+
+4.10
+
+In section 102(7)(a) of the Justice Act (Northern Ireland) 2015 (regulations,
+orders, etc.) for “11(4)” substitute  “11(1)(b)(ii)” .
+
+4.11
+
+Section 57 of the Justice Act (Northern Ireland) 2016 (which is superseded by
+this section) is repealed.
+
+### Final provisions
+
+#### Commencement and transitional provisions, etc.
+
+5
+
+5.1
+
+This section and section 6 come into operation on the day after the day on
+which this Act receives Royal Assent.
+
+5.2
+
+The other provisions of this Act come into operation on such day or days as
+the Department of Justice may by order appoint.
+
+5.3
+
+Paragraph 4 of Schedule 8 to the Justice Act (Northern Ireland) 2015
+(provision in Part 2 of that Act (committal for trial) not to apply to
+proceedings instituted before the coming into operation of that provision)
+applies for the purposes of the provisions mentioned in subsection (2) as it
+applies for the purposes of the provisions in that Part.
+
+5.4
+
+An order under subsection (2) may contain further transitional provisions or
+savings.
+
+#### Short title
+
+6
+
+This Act may be cited as the Criminal Justice (Committal Reform) Act (Northern
+Ireland) 2022.
+
+  Amendments and repeals: Abolition of preliminary investigations and mixed
+committals
+
+Section 3.
+
+##### The Criminal Justice Act (Northern Ireland) 1945 (c. 15)
+
+1
+
+In section 45(1) in the definition of “court of summary jurisdiction” for
+“investigation of” substitute  “inquiry into” .
+
+##### The Electoral Law Act (Northern Ireland) 1962 (c. 14)
+
+2
+
+In section 110(1) for “investigation of” substitute  “inquiry into” .
+
+##### The Costs in Criminal Cases Act (Northern Ireland) 1968 (c. 10)
+
+3
+
+In section 3(1) for “ investigation of ” (twice) substitute  “inquiry into” .
+
+##### The Criminal Justice (Miscellaneous Provisions) Act (Northern Ireland) 1968 (c. 28)
+
+4
+
+In section 1(9) for “investigation of” substitute  “inquiry into” .
+
+##### The Criminal Jurisdiction Act 1975 (c. 59)
+
+5
+
+Sections 4(3) and 10 are repealed.
+
+##### The Criminal Appeal (Northern Ireland) Act 1980 (c. 47)
+
+6
+
+In section 41(2)(b) the words “preliminary investigation or” are repealed.
+
+##### The Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 (NI 8)
+
+7
+
+In Article 29(2)(b) the words “the depositions taken at the preliminary
+investigation or, as the case may be,” and “, and any depositions taken,” are
+repealed.
+
+##### The Magistrates’ Courts (Northern Ireland) Order 1981 (NI 26)
+
+8
+
+8.1
+
+The following provisions are repealed—
+
+8.1.a
+
+in Article 2(3), in the definition of “summary proceeding”, the words “a
+preliminary investigation or” and “investigation or”;
+
+8.1.b
+
+in Article 16(1)(a) the words “or a preliminary investigation”;
+
+8.1.c
+
+Article 31.
+
+8.2
+
+In Article 32(1) for the words from the beginning to “together with” in sub-
+paragraph (a) substitute—
+
+8.2.1
+
+Where a preliminary inquiry into an indictable offence is to be heldby a
+magistrates’ court, the prosecution shall—
+
+8.2.1.a
+
+send
+
+.
+
+8.3
+
+The following provisions are repealed—
+
+8.3.a
+
+in Article 32(1)(b) the words “a copy of that notice together with”;
+
+8.3.b
+
+Article 32(3) and (4)(a);
+
+8.3.c
+
+in Article 33(1) the words “to the like extent as oral evidence to the like
+effect by that person”;
+
+8.3.d
+
+in Article 35 the words “a preliminary investigation or” and “investigation
+or”;
+
+8.3.e
+
+Article 37(1);
+
+8.3.f
+
+in Article 37(5) the words “investigation or”;
+
+8.3.g
+
+in Article 39(1) the words “investigation or”;
+
+8.3.h
+
+in Article 42(1) the words from “or the deposition taken” to “on his behalf,”;
+
+8.3.i
+
+in Article 42(3) the words “(other than a statement which is to be disregarded
+under Article 34(2))”;
+
+8.3.j
+
+in Article 44(1) and (2) the words “investigation or”;
+
+8.3.k
+
+in Article 46(1) the words “whether any evidence shall then have been given or
+not”;
+
+8.3.l
+
+in Article 46(2) the words “depositions shall be taken or, as the case may
+require,”;
+
+8.3.m
+
+in Schedule 4 in paragraphs 1 and 3 the words “the preliminary investigation
+or”;
+
+8.3.n
+
+in Schedule 5, paragraph 3.
+
+##### The Mental Health (Northern Ireland) Order 1986 (NI 4)
+
+9
+
+In Article 58(7) the words “preliminary investigation or” are repealed.
+
+##### The Criminal Justice (Serious Fraud) (Northern Ireland) Order 1988 (NI 16)
+
+10
+
+Article 3(1)(c)(i) is repealed.
+
+##### The Police and Criminal Evidence (Northern Ireland) Order 1989 (NI 12)
+
+11
+
+The following provisions are repealed—
+
+11.a
+
+Article 80A(4)(a);
+
+11.b
+
+in Article 81(1A)—
+
+11.b.i
+
+in sub-paragraph (a) the words “to preliminary investigations or preliminary
+inquiries into indictable offences,”;
+
+11.b.ii
+
+sub-paragraph (c) and the word “and” immediately before it;
+
+11.c
+
+in Article 81(7) the words “at a preliminary investigation or a preliminary
+inquiry into an indictable offence or”;
+
+11.d
+
+Article 81A(10).
+
+##### The Children’s Evidence (Northern Ireland) Order 1995 (NI 3)
+
+12
+
+Article 4(2)(a) is repealed.
+
+##### The Road Traffic Offenders (Northern Ireland) Order 1996 (NI 10)
+
+13
+
+In Article 9(1) the words “investigation or” are repealed.
+
+##### The Criminal Justice (Children) (Northern Ireland) Order 1998 (NI 9)
+
+14
+
+The following provisions are repealed—
+
+14.a
+
+Article 23;
+
+14.b
+
+in Article 29(2)(b)(i) the words “preliminary investigation or”;
+
+14.c
+
+in Schedule 5, paragraph 18.
+
+##### The Criminal Evidence (Northern Ireland) Order 1999 (NI 8)
+
+15
+
+The following provisions are repealed—
+
+15.a
+
+Article 15(10);
+
+15.b
+
+in Article 29(3)(a) the words “preliminary investigation or”.
+
+##### The Criminal Justice (Northern Ireland) Order 2004 (NI 9)
+
+16
+
+Article 10(2)(c) is repealed.
+
+##### The Justice and Security (Northern Ireland) Act 2007 (c. 6)
+
+17
+
+Section 3 is repealed.
+
+##### The Justice Act (Northern Ireland) 2015 (c. 9)
+
+18
+
+The following provisions are repealed—
+
+18.a
+
+Chapter 1 of Part 2;
+
+18.b
+
+in section 13(3) the words “(1) or”;
+
+18.c
+
+section 49(12);
+
+18.d
+
+in Schedule 9, Part 2.
+

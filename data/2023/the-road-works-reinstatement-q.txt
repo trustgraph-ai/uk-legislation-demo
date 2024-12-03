@@ -1,0 +1,938 @@
+Title: The Road Works (Reinstatement Quality Plans, Qualifications of Supervisors and Operatives and Miscellaneous Amendments) (Scotland) Regulations 2023
+Date: 2024-08-01
+Description: These Regulations make provision about the reinstatement quality plans (“the plans”) to be entered into the Scottish Road Works Register (“the SRWR”) under section 130A or 130B of the New Roads and Street Works Act 1991 (“the 1991 Act”).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ssi/2023/33
+
+## The Road Works (Reinstatement Quality Plans, Qualifications of Supervisors and Operatives and Miscellaneous Amendments) (Scotland) Regulations 2023
+
+    Roads And Bridges
+
+  Made   7th February 2023
+
+  Laid before the Scottish Parliament   9th February 2023
+
+  Coming into force   1st April 2023
+
+      The Scottish Ministers make the following Regulations in exercise of the
+powers conferred by section 61B(9) of the Roads (Scotland) Act 1984  and
+sections 112B(1), (2A), (5A) and (6), 114A(2), 117(1), 126, 129(3), (4) and
+(5A), 130, 130C(2) and (3), 134 and 163(1) and (3) of the New Roads and Street
+Works Act 1991  and all other powers enabling them to do so.           In
+accordance with section 163A of the New Roads and Street Works Act 1991  they
+have consulted with such—         persons considered by them to be
+representative of the interests of undertakers,           road works
+authorities, and           other persons,             as they think
+appropriate.
+
+### General
+
+#### Citation and commencement
+
+1
+
+These Regulations may be cited as the Road Works (Reinstatement Quality Plans,
+Qualifications of Supervisors and Operatives and Miscellaneous Amendments)
+(Scotland) Regulations 2023 and come into force on 1 April 2023.
+
+### Reinstatement Quality Plans
+
+#### Interpretation of Part 2
+
+2
+
+In this Part—
+
+      “ the Act ” means the New Roads and Street Works Act 1991,           “
+Commissioner ” means the Scottish Road Works Commissioner,           “ general
+reinstatement quality plan ” has the same meaning as it has in section 130A of
+the Act,           “ specific reinstatement quality plan ” has the same
+meaning as it has in section 130A of the Act,           “ plan ” means a
+general reinstatement quality plan or a specific reinstatement quality plan,
+“ SRWR ” means the Scottish Road Works Register.
+
+#### Process to be followed to require a plan to be entered in the SRWR
+
+3
+
+3.1
+
+The Commissioner may require a person or a roads authority to enter a plan
+under section 130A(3) or 130B(2) of the Act in the SRWR by way of a notice
+entered in the SRWR.
+
+3.2
+
+A notice under paragraph (1) must specify the date by which the recipient of
+the notice must enter a plan in the SRWR, being a date not less than 30 days
+and not more than 90 days from the date the notice was entered in the SRWR.
+
+#### Requirement for a plan to be reviewed
+
+4
+
+4.1
+
+A person who enters a plan in the SRWR under section 130A(2) of the Act must
+keep it under review for a period of 6 years from the date of its approval by
+the Commissioner.
+
+4.2
+
+Where the Commissioner requires a roads authority to enter a plan in the SRWR
+under section 130B(2) of the Act, the roads authority must keep it under
+review for a period of 6 years from the date of its approval by the
+Commissioner.
+
+### Qualifications of Supervisors and Operatives
+
+#### Interpretation of Part 3
+
+5
+
+5.1
+
+In this Part—
+
+      “ the 2015 Regulations ” means the European Union (Recognition of
+Professional Qualifications Regulations 2015 ”,           “ the Act ” means
+the Roads (Scotland) Act 1984,           “ approved assessment centre ” means
+an establishment which carries out the assessment of competence in the types
+of work which should be done by a trained supervisor or operative,           “
+approved body ” means a body listed in regulation 10(1),           “ approved
+register ” means the register mentioned in regulation 10(2),           “
+certificate ” means a certificate of competence or certificate of recognition
+but does not include a renewal certificate,           “ certificate of
+competence ” means a qualification, an award or an equivalent certification in
+a type of work issued by an approved body,           “ certificate of
+recognition ” means a certificate of a type described in regulation 6(3)(b),
+“ competent authority ” means a competent authority for the United Kingdom for
+regulating Road/Street Works Operatives and Road/Street Works supervisors
+specified in Part 1 of schedule 1 of the 2015 Regulations,           “
+registration body ” means the Scottish Qualifications Authority established
+under the Scottish Qualifications Authority (Establishment) (Scotland) Order
+1996 ,           “ renewal certificate ” means a certificate issued in
+pursuance of regulation 15,           “ supervisor ” means a person by whom
+works in or on a road are required to be supervised under section 61B(2)(a) of
+the Act,           “ trained operative ” means a person whose presence at the
+site of works in or on a road is required under section 61B(2)(b) of the Act,
+“ type of work ” means any of the types of work listed in schedules 1 and 2,
+and regulation 6(1)(b) and (2)(b).
+
+5.2
+
+For the purposes of these Regulations, a person has been—
+
+5.2.a
+
+assessed as having the required level of competence in a type of work if that
+person has passed a practical and theoretical assessment designed to
+demonstrate attainment of the required level of knowledge and understanding
+of, and skill in, that type of work, and
+
+5.2.b
+
+reassessed as having the required level of competence in a type of work if
+that person has passed a theoretical assessment designed to demonstrate that
+the required level of knowledge and understanding of that type of work has
+been retained and kept up to date since the previous assessment or
+reassessment.
+
+#### Prescribed qualifications
+
+6
+
+6.1
+
+For the purposes of section 61B(2)(a) of the Act, a person has a prescribed
+qualification as a supervisor for a type of work (S) listed in schedule 1 if
+that person is qualified in—
+
+6.1.a
+
+S, and
+
+6.1.b
+
+the following additional types of work—
+
+6.1.b.i
+
+S1 – monitoring of signing, lighting and guarding, and
+
+6.1.b.ii
+
+LA – location and avoidance of underground apparatus.
+
+6.2
+
+For the purposes of section 61B(2)(b) of the Act, a person has a prescribed
+qualification as a trained operative for a type of work (T) listed in schedule
+2 if that person is qualified in—
+
+6.2.a
+
+T, and
+
+6.2.b
+
+the following additional types of work—
+
+6.2.b.i
+
+O1 – signing, lighting and guarding, and
+
+6.2.b.ii
+
+LA – location and avoidance of underground apparatus.
+
+6.3
+
+For the purposes of paragraphs (1) and (2), a person is qualified in a type of
+work if, in respect of that work—
+
+6.3.a
+
+an approved body has issued a certificate of competence showing that the
+person has been assessed by an approved assessment centre as having the
+required level of competence, or
+
+6.3.b
+
+a competent authority has issued a certificate of recognition stating that the
+person meets the requirements of regulation 29(1) (conditions for recognition)
+of the 2015 Regulations,
+
+and the certificate is registered in the approved register.
+
+#### Grace period before registration
+
+7
+
+For a period of two months beginning with the date on which a person is issued
+with a certificate or a renewal certificate for a type of work, the person is
+deemed to be qualified in that type of work notwithstanding that the relevant
+certificate has not been registered or re-registered (as the case may be) in
+the approved register.
+
+#### Prescribed qualifications: UK equivalents
+
+8
+
+8.1
+
+A person has a prescribed qualification for a type of work listed in schedule
+1 or schedule 2 if the person has an equivalent qualification in respect of
+that type of work which is recognised in another part of the United Kingdom.
+
+8.2
+
+For the purposes of paragraph (1)—
+
+8.2.a
+
+a person has an equivalent qualification if it has been approved as such by a
+competent authority, and
+
+8.2.b
+
+the qualification is recognised in another part of the United Kingdom if—
+
+8.2.b.i
+
+in relation to England or Wales, it is prescribed by regulations made under
+section 67 and 104(1) of the New Roads and Street Works Act 1991,
+
+8.2.b.ii
+
+in relation to Northern Ireland, it is prescribed by regulations made under
+article 27 of the Street Works (Northern Ireland) Order 1995 .
+
+#### Restrictions on qualification
+
+9
+
+Where a person has a prescribed qualification for a type of work specified in
+schedule 1 or 2 the requirements of section 61B(2) of the Act are met in
+respect of that person in relation to that type of work only.
+
+#### Qualification registration
+
+10
+
+10.1
+
+The bodies approved for the purpose of issuing certificates of competence are—
+
+10.1.a
+
+The Scottish Qualifications Authority,
+
+10.1.b
+
+The City and Guilds of London Institute ,
+
+10.1.c
+
+The CABWI Awarding Body ,  ...
+
+10.1.d
+
+Lantra   ,
+
+10.1.e
+
+Highfield Qualifications, and
+
+10.1.f
+
+EUIAS.
+
+10.2
+
+The register approved for the purpose of registering certificates is the
+register kept by the registration body.
+
+10.3
+
+Where an approved body has issued a certificate of competence, the approved
+assessment centre which carried out the assessment referred to in regulation
+5(2)(a) must, within one month beginning with the date of issue, request the
+registration body to register that certificate in the approved register.
+
+10.4
+
+Where an approved body has issued a renewal certificate, the approved
+assessment centre which carried out the reassessment referred to in regulation
+5(2)(b) must, within one month beginning with the date of issue, request the
+registration body to re-register the certificate to which the renewal
+certificate relates in the approved register.
+
+10.5
+
+The registration body must register or re-register (as the case may be) a
+certificate within one month beginning with the date of—
+
+10.5.a
+
+receipt of a request for registration made under paragraph (3);
+
+10.5.b
+
+the issue by a competent authority of a certificate of recognition, or
+
+10.5.c
+
+receipt of a request for re-registration made under paragraph (4).
+
+#### Expiry of registration
+
+11
+
+A certificate ceases to be registered at the end of the period of five years
+beginning with the date on which it was issued, but may be re-registered for
+any number of further periods in accordance with regulations 12 to 14.
+
+#### Re-registration more than 12 months before expiry
+
+12
+
+12.1
+
+A certificate issued in respect of a type of work may be re-registered for a
+further period of five years where—
+
+12.1.a
+
+an approved body has issued to the holder of the certificate a renewal
+certificate for that type of work, and
+
+12.1.b
+
+the renewal certificate was issued earlier than 48 months before the date of
+the expiry of the previous registration.
+
+12.2
+
+A certificate issued in respect of a type of work may be re-registered for a
+further period of six years if—
+
+12.2.a
+
+an approved body has issued to the holder of a certificate a renewal
+certificate for that type of work, and
+
+12.2.b
+
+the renewal certificate is issued earlier than 12 months (but no earlier than
+48 months) before the date of the expiry of the previous registration.
+
+12.3
+
+The further period for which a certificate is registered under this regulation
+begins on the day on which the renewal certificate is issued.
+
+#### Re-registration within 12 months of expiry
+
+13
+
+13.1
+
+A certificate issued in respect of a type of work may be re-registered for a
+further period of five years if—
+
+13.1.a
+
+an approved body has issued to the holder of the certificate a renewal
+certificate for that type of work, and
+
+13.1.b
+
+the renewal certificate was issued within the period of 12 months ending on
+the date of expiry of the previous registration.
+
+13.2
+
+The further period for which a certificate is registered under this regulation
+begins on the day immediately after the expiry of the previous registration.
+
+#### Re-registration after expiry
+
+14
+
+14.1
+
+A certificate issued in respect of a type of work may be re-registered for a
+further period of five years if—
+
+14.1.a
+
+an approved body has issued to the holder of the certificate a renewal
+certificate for that type of work, and
+
+14.1.b
+
+the renewal certificate is issued within the period of five years beginning
+with the day after the expiry of the previous registration.
+
+14.2
+
+The further period for which a certificate is registered under this regulation
+begins on the day on which the renewal certificate is issued.
+
+#### Renewal certificates
+
+15
+
+An approved body may issue a person with a renewal certificate for a type of
+work if that person has been assessed or reassessed by an approved assessment
+centre as having the required level of competence in that type of work.
+
+#### Exemption for the Scottish Fire and Rescue Service
+
+16
+
+16.1
+
+This regulation applies where the Scottish Fire and Rescue Service is
+executing works in a road which involve breaking up the road.
+
+16.2
+
+The duty under section 61B(2)(b) of the Act does not apply in relation to
+those works.
+
+### Miscellaneous Road Works Amendments
+
+#### Amendment of the Road Works (Reinstatement) (Scotland) Regulations 1992
+
+17
+
+17.1
+
+The Road Works (Reinstatement) (Scotland) Regulations 1992  are amended in
+accordance with this regulation.
+
+17.2
+
+In regulation 2(1)—
+
+17.2.a
+
+for the definition of “the Code” substitute—
+
+      “ the Code ” means the code of practice entitled “Specification for the
+Reinstatement of Openings in Roads”  approved by the Scottish Ministers in
+February 2019 as revised and reissued from time to time,
+
+,
+
+17.2.b
+
+in the definition of “immediate works” for “a deferred set macadam” substitute
+“deferred set mixtures” .
+
+17.3
+
+In regulation 3, for paragraph (1) substitute—
+
+17.3.1
+
+For the purposes of applying the requirements specified in regulation 4, the
+Code specifies—
+
+17.3.1.a
+
+the categories of roads based on loads arising due to traffic capacity,
+
+17.3.1.b
+
+the reinstatement categories for footpaths and footways, and
+
+17.3.1.c
+
+the method of determining traffic flow to facilitate the categorisation of
+roads.
+
+.
+
+17.4
+
+In regulation 3(2)—
+
+17.4.a
+
+for “types” substitute  “categories” ,
+
+17.4.b
+
+for “workmanship” substitute  “work” , and
+
+17.4.c
+
+for “type” substitute  “category” .
+
+17.5
+
+In regulation 3(3) for “workmanship” substitute  “work” .
+
+17.6
+
+In regulation 3(4)—
+
+17.6.a
+
+for “workmanship” substitute  “work” , and
+
+17.6.b
+
+for “type” in both places where it occurs substitute  “category” .
+
+17.7
+
+For regulation 4 substitute—
+
+########## Requirements as to materials to be used and standards of work to be observed
+
+17.7.4
+
+17.7.4.1
+
+Except as provided in regulation 3(3), an undertaker executing road works must
+in reinstating the road comply with the requirements specified in paragraph
+(2) as to the specification of materials to be used and as to the standards of
+work to be observed.
+
+17.7.4.2
+
+The materials to be used and standards of work to be observed must satisfy the
+performance standards specified in regulation 5.
+
+.
+
+17.8
+
+In regulation 5 omit “Chapter S2 of”.
+
+17.9
+
+Omit regulation 7.
+
+17.10
+
+Omit regulation 8.
+
+17.11
+
+Before regulation 9 insert—
+
+########## Guarantee period for permanent reinstatements
+
+17.11.8A
+
+17.11.8A.1
+
+The period prescribed for the purposes of section 130(2)(b) of the Act in
+relation to permanent reinstatement completed before 1 October 2023 is—
+
+17.11.8A.1.a
+
+three years from the date of completion, in the case of excavation to a depth
+exceeding 1.5 metres to the top of the apparatus over a length of 5 metres or
+more, or
+
+17.11.8A.1.b
+
+two years from the date of completion in any other case.
+
+17.11.8A.2
+
+The period prescribed under section 130(2)(b) of the Act in relation to
+permanent reinstatement completed on or after 1 October 2023 is 6 years from
+the date of completion, regardless of the depth of reinstatement.
+
+.
+
+#### Amendment of the Road Works (Inspection Fees) (Scotland) Regulations 2003
+
+18
+
+18.1
+
+The Road Works (Inspection Fees) (Scotland) Regulations 2003  are amended in
+accordance with this regulation.
+
+18.2
+
+In regulation 3(4)(c)—
+
+18.2.a
+
+after “preceding the end of” insert  “the period prescribed in relation to
+permanent reinstatement by regulation 8A of the Road Works (Reinstatement)
+(Scotland) Regulations 1992 .” , and
+
+18.2.b
+
+omit heads (i) and (ii).
+
+18.3
+
+For the purposes of any permanent reinstatement completed on or after 1
+October 2023 but before 1 April 2028 regulation 3(4) is to be read as if, for
+sub-paragraph (c), there were substituted—
+
+18.3.c
+
+the period of 4 years immediately preceding the end of the period prescribed
+in relation to permanent reinstatement by regulation 8A of the Road Works
+(Reinstatement) (Scotland) Regulations 1992.
+
+.
+
+#### Amendment of the Road Works (Scottish Road Works Register, Notices, Directions and Designations) (Scotland) Regulations 2008
+
+19
+
+19.1
+
+The Road Works (Scottish Road Works Register, Notices, Directions and
+Designations) (Scotland) Regulations 2008  are amended in accordance with this
+regulation.
+
+19.2
+
+In regulation 2(1), after the definition of “urgent works”, insert—
+
+      “ working hours ” means the period between 8 a.m. and 4.30 p.m. on a
+working day.
+
+.
+
+19.3
+
+In regulation 3(2)(f) omit “S1.3 and S1.4 of”.
+
+19.4
+
+After regulation 3(4) insert—
+
+19.4.4A
+
+For the purposes of section 112B(2A)  the date on which the works were
+completed must be entered in the SRWR within two working hours of such works
+being completed.
+
+.
+
+19.5
+
+After regulation 3(5) insert—
+
+19.5.5A
+
+For the purposes of section 112B(5A), the date on and time at which the works
+began must be entered in the SRWR within two working hours of such works
+beginning.
+
+.
+
+19.6
+
+After regulation 3(6) insert—
+
+19.6.6A
+
+For the purposes of section 112B(6) the date of the completion of the works
+must be entered in the SRWR within two working hours of such works being
+completed.
+
+.
+
+19.7
+
+After regulation 7 insert—
+
+########## Notice confirming start of works
+
+19.7.7A
+
+For the purposes of section 114A(2) an undertaker must give notice of the date
+and time at which works began within 2 working hours of beginning to execute
+those works.
+
+.
+
+19.8
+
+After regulation 9(1) insert—
+
+19.8.1A
+
+For the purposes of section 117(1) , the period prescribed is—
+
+19.8.1A.a
+
+three years following reconstruction or resurfacing of a carriageway,
+
+19.8.1A.b
+
+one year following other substantial works for roads purposes in a
+carriageway, and
+
+19.8.1A.c
+
+one year following reconstruction or resurfacing of a footway or footpath, or
+other substantial works for roads purposes in a footway or footpath.
+
+.
+
+19.9
+
+In regulation 9(2), for “paragraph (1)” substitute  “paragraphs (1) and (1A)”
+.
+
+19.10
+
+In regulation 13, after “(duty of undertaker to reinstate)” insert  “must be
+given within two working hours of the reinstatement being completed and” .
+
+#### Amendment of the Road Works (Qualifications of Supervisors and Operatives) (Scotland) Regulations 2017
+
+20
+
+20.1
+
+The Road Works (Qualifications of Supervisors and Operatives) (Scotland)
+Regulations 2017  are amended in accordance with this regulation.
+
+20.2
+
+In regulation 2—
+
+20.2.a
+
+omit the definition of “adaptation period”,
+
+20.2.b
+
+omit the definition of “aptitude test”, and
+
+20.2.c
+
+in the definition of “certificate of recognition”, omit “or (c)”.
+
+20.3
+
+In regulation 3(3)(b)—
+
+20.3.a
+
+omit “(a) or (b)”,
+
+20.3.b
+
+after “relevant” insert  “European” .
+
+20.4
+
+Omit regulation 3(3)(c).
+
+20.5
+
+Omit regulation 7.
+
+20.6
+
+In regulation 8(5)(b), omit “or (c)”.
+
+      JENNY GILRUTH   Authorised to sign by the Scottish Ministers     St
+Andrew’s House,   Edinburgh       7th February 2023
+
+  Certificates of Competence for Supervisors – Types of Work
+
+Regulations 6(1), 8 and 9
+
+    S2 – Monitoring excavation in the road   S3 – Monitoring reinstatement and
+compaction of backfill materials   S4 – Monitoring reinstatement of sub-base
+and base in non-bituminous materials   S5 – Monitoring reinstatement in
+bituminous materials   S6 – Monitoring reinstatement of concrete slabs   S7 –
+Monitoring reinstatement of modular surfaces and concrete footways
+
+  Certificates of Competence for Trained Operatives – Types of Work
+
+Regulations 6(2), 8 and 9
+
+    O2 – Excavation in the road   O3 – Reinstatement and compaction of
+backfill materials   O4 – Reinstatement of sub-base and base in non-bituminous
+materials   O5 – Reinstatement in cold-lay bituminous materials   O6 –
+Reinstatement in hot-lay bituminous materials   O7 – Reinstatement of concrete
+slabs   O8 – Reinstatement of modular surfaces and concrete footways
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations make provision about the reinstatement quality plans (“the
+plans”) to be entered into the Scottish Road Works Register (“the SRWR”) under
+section 130A or 130B of the New Roads and Street Works Act 1991 (“ the 1991
+Act ”).
+
+  These Regulations also prescribe the qualifications required for the types
+of work executed by supervisors and trained operatives under section 61B of
+the Roads (Scotland) Act 1984 (“ the 1984 Act ”).
+
+  These Regulations also make miscellaneous amendments to the Road Works
+(Reinstatement) (Scotland) Regulations 1992, the Road Works (Inspection Fees)
+(Scotland) Regulations 2003, the Road Works (Scottish Road Works Register,
+Notices, Directions and Designations) (Scotland) Regulations 2008 and the Road
+Works Qualifications of Supervisors and Operatives) (Scotland) Regulations
+2017.
+
+  Part 2 of these Regulations prescribes processes relating to the plans to be
+entered into the SRWR under section 130A or 130B of the 1991 Act. Regulation 3
+prescribes that when a plan is requested by the Scottish Road Works
+Commissioner (“ the Commissioner ”) under section 130A(3) or 130B(2), a person
+or a roads authority must submit a plan for the Commissioner’s approval within
+90 days of the date of the Commissioner’s notice or such other period as the
+Commissioner may specify (being not less than 30 days from the date of the
+notice). Regulation 4 provides that the plans approved by the Commissioner
+must be kept under review for a period of 6 years from the date of the
+Commissioner’s approval.
+
+  Part 3 of these Regulations makes provision in relation to the
+qualifications needed for the types of work which requires to be executed by
+supervisors and trained operatives under section 61B of the 1984 Act. It also
+allows for the operation of rules for the recognition of equivalent
+qualifications in relation to supervisors and trained operatives found in the
+European Union (Recognition of Professional Qualifications) Regulations 2015
+(“ the 2015 Regulations ”), which implement in part  Directive 2005/36/EC  of
+the European Parliament and of the Council (OJ L 255, 30.9.2005, p. 22) on the
+recognition of professional qualifications, as amended by  Directive
+2013/55/EU  (OJ L 254, 28.12.2013. p. 132). Regulation 6 provides that a
+person has a prescribed qualification for a type of work listed in schedule 1
+or 2 of these Regulations if the person is qualified in that type of work and
+the additional types of work specified in regulation 6(1)(b) (for supervisors)
+or regulation 6(2)(b) (for trained operatives). A person is qualified in a
+type of work if an approved body has issued a certificate of competence
+showing that the person has been assessed as having the required level of
+competence in that type of work (regulation 6(3)(a)) or if a competent
+authority has issued a certificate of recognition of equivalent qualifications
+obtained in a relevant European State (regulation 6(3)(b)). Certificates must
+be registered in the approved register. Regulation 7 provides for a grace
+period of two months following the issuing of a certificate or a renewal
+certificate before registration, during which the person issued with the
+relevant certificate is deemed to be qualified in the relevant type of work,
+notwithstanding that the certificate has not been registered or re-registered.
+Regulation 8 provides for the recognition of equivalent qualifications from
+other parts of the United Kingdom. Regulation 9 provides for recognition of
+restricted forms of qualification. Regulation 10 sets out the approved bodies
+for the purposes of issuing certificates of competence. The register of
+certificates is kept by the Scottish Qualifications Authority. Registration of
+a certificate expires after 5 years beginning with the date on which it was
+issued (regulation 11) but a certificate may be re-registered for any number
+of further periods in accordance with regulations 12 to 14. A person wishing
+to re-register a certificate for a type of work must obtain a renewal
+certificate for that type of work. An approved body may award a person a
+renewal certificate for a type of work if that person has been assessed or
+reassessed as having the required level of competence in that type of work
+(regulation 15). Regulation 16 exempts the Scottish Fire and Rescue Service
+from the requirement to have one trained operative on site where works it is
+undertaking involve breaking up the road.
+
+  Regulation 17 amends the Road Works (Reinstatement) (Scotland) Regulations
+1992 (“ the 1992 Regulations ”). Regulation 17(2) updates definitions of
+“Code” and “immediate works”. Regulation 17(3) to (10) makes amendments to
+regulations 3 to 5 and 7 to 8 to reflect changes made to the updated Code of
+Practice in relation to categories of roads, the requirements of materials to
+be used and standards of work to be observed by undertakers executing road
+works. Regulation 17(11) inserts regulation 8A into the 1992 Regulations which
+sets out a guarantee period for permanent reinstatement of a road following
+road works of 2 years from the date of completion, or 3 years in case of deep
+excavations, if completed before 1 October 2023, or 6 years from the date of
+completion (regardless of the depth of reinstatement) if completed on or after
+1 October 2023.
+
+  Regulation 18(2) amends regulation 3(4)(c) of the Road Works (Inspection
+Fees) (Scotland) Regulations 2003 by replacing the description of periods
+after the completion of permanent reinstatement with a reference to the period
+set out in regulation 8A of the 1992 Regulations. Regulation 18(3) provides
+for a temporary arrangements for the inspections carried out during the phase
+of works under regulation 3(4)(c) so that for any permanent reinstatement
+completed on or after 1 October 2023 but before 1 April 2028 the inspection
+period under that phase of works is to be 4 years preceding the end of the
+period specified for those permanent reinstatement works by regulation 8A of
+the 1992 Regulations.
+
+  Regulation 19 amends the Road Works (Scottish Road Works Register, Notices,
+Directions and Designations) (Scotland) Regulations 2008 (“ the 2008
+Regulations ”) by inserting a definition of “working hours” and providing the
+requirement for the road works authority under section 112B(2A) of the 1991
+Act and for the roads authority under section 112B(6) of the 1991 Act to enter
+in the SRWR the date on which the works were completed within two working
+hours of that completion (regulation 19(4) and (6)). Regulation 19(5) provides
+that under section 112B(5A) of the 1991 Act the date on and time at which the
+works began must be entered in the SRWR within two working hours of the works
+beginning. Regulation 19(7) inserts a new regulation 7A into the 2008
+Regulations setting out a requirement for an undertaker under section 114A(2)
+of the 1991 Act to give notice of the date on and time at which the works
+began within two working hours of the works beginning. Regulation 19(8)
+inserts a new regulation 9(1A) into the 2008 Regulations providing new
+restriction periods for the execution of road works following substantial
+works carried out in a road. Regulation 19(10) amends regulation 13 of the
+2008 Regulations to require an undertaker to give a notice for the purposes of
+section 129(3) or (4) of the 1991 Act within two working hours of a
+reinstatement of a road being completed.
+
+  Regulation 20 makes miscellaneous amendments to the Road Works
+(Qualifications of Supervisors and Operatives) (Scotland) Regulations 2017
+following the amendments made by the Recognition of Professional
+Qualifications (Amendment etc.) (EU Exit) Regulations 2019 to the operation of
+rules for the recognition of equivalent qualifications in relation to trained
+operatives and supervisors under the 2015 Regulations.
+
+  A Business and Regulatory Impact Assessment has been prepared and placed in
+the Scottish Parliament Information Centre. Copies can be obtained from
+Transport Scotland, 5 Atlantic Quay, 150 Broomielaw, Glasgow G2 8LU and online
+at   www.legislation.gov.uk .
+

@@ -1,0 +1,221 @@
+Title: Ballot Secrecy Act 2023
+Date: 2024-07-05
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ukpga/2023/12
+
+## Ballot Secrecy Act 2023
+
+      B e it enacted  by the King’s most Excellent Majesty, by and with the
+advice and consent of the Lords Spiritual and Temporal, and Commons, in this
+present Parliament assembled, and by the authority of the same, as follows:—
+
+### Amendment of the Representation of the People Act 1983
+
+1
+
+In the Representation of the People Act 1983, before section 63 insert—
+
+####### Influencing voters at polling booths
+
+1.62C
+
+1.62C.1
+
+A person who—
+
+1.62C.1.a
+
+is with another person at a polling booth, and
+
+1.62C.1.b
+
+intends to influence that other person to vote in a particular way or to
+refrain from voting,
+
+commits an offence.
+
+1.62C.2
+
+A person who—
+
+1.62C.2.a
+
+is near a polling booth when another person is at that booth, and
+
+1.62C.2.b
+
+intends to influence that other person to vote in a particular way or to
+refrain from voting,
+
+commits an offence.
+
+1.62C.3
+
+For the purposes of this section—
+
+1.62C.3.a
+
+a “polling booth” is a compartment in a polling station in which voters can
+mark votes screened from observation;
+
+1.62C.3.b
+
+assisting a person with voting, in accordance with rule 39 of Schedule 1 or
+any other legislation, is not influencing that person to vote in a particular
+way or to refrain from voting;
+
+1.62C.3.c
+
+a person may be near one polling booth while at a different polling booth.
+
+1.62C.4
+
+A person who commits an offence under this section is liable on summary
+conviction—
+
+1.62C.4.a
+
+in England and Wales, to imprisonment for a term not exceeding 6 months, to a
+fine or to both;
+
+1.62C.4.b
+
+in Scotland or Northern Ireland, to imprisonment for a term not exceeding 6
+months, to a fine not exceeding level 5 on the standard scale or to both.
+
+1.62C.5
+
+This section does not have effect in relation to an election in Scotland or
+Wales under the local government Act.
+
+### Amendment of Northern Ireland legislation
+
+2
+
+2.1
+
+In the Electoral Law Act (Northern Ireland)  1962 (c. 14 (N.I.)) —
+
+2.1.a
+
+in section 111, in subsection (2A), after paragraph (c) insert—
+
+2.1.a.ca
+
+in the case of an offence under paragraph 26A of Schedule 9, on summary
+conviction to imprisonment for a term not exceeding 6 months, to a fine not
+exceeding level 5 on the standard scale or to both;
+
+;
+
+2.1.b
+
+in Part 3 of Schedule 9, after paragraph 26 insert—
+
+2.1.b.26A
+
+2.1.b.26A.1
+
+A person who—
+
+2.1.b.26A.1.a
+
+is with another person at a polling booth, and
+
+2.1.b.26A.1.b
+
+intends to influence that other person to vote in a particular way or to
+refrain from voting,
+
+commits an offence.
+
+2.1.b.26A.2
+
+A person who—
+
+2.1.b.26A.2.a
+
+is near a polling booth when another person is at that booth, and
+
+2.1.b.26A.2.b
+
+intends to influence that other person to vote in a particular way or to
+refrain from voting,
+
+commits an offence.
+
+2.1.b.26A.3
+
+For the purposes of this paragraph—
+
+2.1.b.26A.3.a
+
+a “polling booth” is a compartment in a polling station in which voters can
+mark votes screened from observation;
+
+2.1.b.26A.3.b
+
+assisting a person with voting, in accordance with rule 36 of Schedule 5 or
+any other legislation, is not influencing that person to vote in a particular
+way or to refrain from voting;
+
+2.1.b.26A.3.c
+
+a person may be near one polling booth while at a different polling booth.
+
+2.2
+
+In Schedule 1 to the Northern Ireland Assembly (Elections) Order 2001 ( S.I.
+2001/2599 ), in the table, before the entry for section 63 of the
+Representation of the People Act 1983 insert—
+
+    Section 62C (influencing voters at polling booths)
+
+.
+
+### Extent, commencement and short title
+
+3
+
+3.1
+
+Section  1 , section  2 (2)  and  this section  extend to England and Wales,
+Scotland and Northern Ireland.
+
+3.2
+
+Section  2 (1)  extends to Northern Ireland only.
+
+3.3
+
+This section  comes into force on the day on which this Act is passed.
+
+3.4
+
+The other provisions of this Act come into force on such day or days as the
+Secretary of State may, by regulations, appoint.
+
+3.5
+
+Regulations under  subsection (4)  may appoint different days for different
+purposes or areas.
+
+3.6
+
+The Secretary of State may, by regulations, make transitional, transitory or
+saving provision in connection with the coming into force of any provision of
+this Act.
+
+3.7
+
+Regulations under  subsection (6)  may make different provision for different
+purposes or areas.
+
+3.8
+
+Regulations under  this section  are to be made by statutory instrument.
+
+3.9
+
+This Act may be cited as the Ballot Secrecy Act 2023.
+

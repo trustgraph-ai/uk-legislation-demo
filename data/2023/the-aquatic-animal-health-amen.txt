@@ -1,0 +1,298 @@
+Title: The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023
+Date: 2024-01-26
+Description: These Regulations are made in exercise of the powers conferred by sections 11 and 22 of, and paragraphs 11M(1), (3) and (8) of Part 1C of Schedule 2 and paragraph 21(b) of Schedule 7, to the European Union (Withdrawal) Act 2018, to ensure that Northern Ireland subordinate legislation in respect of aquatic animal health is aligned with Regulation (EU) 2016/429 of the European Parliament and of the Council on transmissible animal diseases and amending and repealing certain acts in the area of animal health, in accordance with the Windsor Framework.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2023/163
+
+## The Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023
+
+    Aquatic Animal Health
+
+  Made   5th October 2023
+
+  Coming into operation   30th October 2023
+
+      The Department of Agriculture, Environment and Rural Affairs  makes
+these Regulations in exercise of the powers conferred on it by sections 11 and
+22 of, and paragraphs 11M(1), (3) and (8) of Part 1C of Schedule 2 and
+paragraph 21(b) of Schedule 7, to the European Union (Withdrawal) Act 2018 .
+
+### Citation, commencement and interpretation
+
+
+1
+
+1.1
+
+These Regulations may be cited as the Aquatic Animal Health (Amendment)
+Regulations (Northern Ireland) 2023 and come into operation on 30th October
+2023.
+
+1.2
+
+The Interpretation Act (Northern Ireland) 1954  applies to these Regulations
+as it applies to an Act of the Assembly.
+
+1.3
+
+In these Regulations—
+
+      “ Directive 2006/88 ” means Council  Directive 2006/88/EC  on animal
+health requirements for aquaculture animals and products thereof, and on the
+prevention and control of certain diseases in aquatic animals .
+
+### Amendment of the Aquatic Animal Health Regulations (Northern Ireland) 2009
+
+
+2
+
+The Aquatic Animal Health Regulations (Northern Ireland) 2009  are amended in
+accordance with regulations 3 to 12.
+
+### Amendments to regulation 2 (Interpretation)
+
+
+3
+
+3.1
+
+In regulation 2(2)—
+
+3.1.a
+
+omit the definition of “aquatic animal”;
+
+3.1.b
+
+omit the definition of “Commission Decision 2010/221” ;
+
+3.1.c
+
+in the definition of “listed disease”, for paragraph (a) substitute—
+
+3.1.c.a
+
+a disease listed in Annex II to Regulation 2016/429; or
+
+3.1.d
+
+after the definition of “Regulation 1251/2008”, insert—
+
+      “ Regulation 2016/429 ” means  Regulation (EU) 2016/429  of the European
+Parliament and of the Council on transmissible animal diseases and amending
+and repealing certain acts in the area of animal health ;           “
+Regulation 2018/1882 ” means Commission Implementing  Regulation (EU)
+2018/1882  on the application of certain disease prevention and control rules
+to categories of listed diseases and establishing a list of species and groups
+of species posing a considerable risk for the spread of those listed diseases
+;           “ Regulation 2020/990 ” means Commission Delegated  Regulation
+(EU) 2020/990  supplementing  Regulation (EU) 2016/429  of the European
+Parliament and of the Council, as regards animal health and certification
+requirements for movements within the Union of aquatic animals and products of
+animal origin from aquatic animals ;
+
+3.1.e
+
+omit the definition of “transporter”.
+
+3.2
+
+For regulation 2(3) substitute—
+
+3.2.3
+
+Any expression used in these Regulations which is also used in Regulation
+2016/429 has the same meaning as it bears in that Regulation.
+
+.
+
+### New regulation 4A (Aquatic animal health professional)
+
+
+4
+
+After regulation 4, insert—
+
+####### Aquatic animal health professional
+
+
+4.4A
+
+An aquatic animal health professional may—
+
+4.4A.a
+
+undertake activities assigned to veterinarians under Regulation 2016/429 in
+relation to aquatic animals; and
+
+4.4A.b
+
+be appointed to be an inspector for the purpose of these Regulations.
+
+.
+
+### Amendment to regulation 14 (Public register of aquaculture production businesses and processing establishments)
+
+
+5
+
+In regulation 14, omit paragraphs (2) and (3).
+
+### Amendment to regulation 19 (General health requirements)
+
+
+6
+
+In regulation 19—
+
+6.a
+
+in paragraph (8) —
+
+6.a.i
+
+for “the second column of Part II of Annex IV to Directive 2006/88” substitute
+“Annex II to Regulation 2016/429” ; and
+
+6.a.ii
+
+in sub-paragraph (b)(i)—
+
+6.a.ii.aa
+
+for “declared” substitute  “recognised as” ; and
+
+6.a.ii.bb
+
+for “Article 49 or 50 of Directive 2006/88” substitute  “Article 36 or 37 of
+Regulation 2016/429” ;
+
+6.b
+
+in paragraph (9)—
+
+6.b.i
+
+for “the second column of Part II of Annex IV to Directive 2006/88” substitute
+“Annex II to Regulation 2016/429” ; and
+
+6.b.ii
+
+in sub-paragraph (a)—
+
+6.b.ii.aa
+
+for “declared” substitute  “recognised as” ; and
+
+6.b.ii.bb
+
+for “Article 49 or 50 of Directive 2006/88” substitute  “Article 36 or 37 of
+Regulation 2016/429” ;
+
+6.c
+
+for paragraphs (11)(a) and (b) substitute—
+
+6.c.a
+
+an aquaculture animal, mollusc or crustacean is of a species susceptible to a
+disease listed in Annex II to Regulation 2016/429 if it is of a species listed
+in the third column of the table in the Annex to Regulation 2018/1882 opposite
+the disease listed in the first column of that table;
+
+6.c.b
+
+an aquaculture animal is a vector for a disease if—
+
+6.c.b.i
+
+it is of a species listed in the fourth column of the table in the Annex to
+Regulation 2018/1882 opposite the disease listed in the first column of that
+table; and
+
+6.c.b.ii
+
+where conditions relevant to that species are set out in the third column of
+the table in Annex I of Regulation 2020/990, opposite the disease listed in
+the first column, the animal fulfils such conditions.
+
+.
+
+### Amendment to regulation 27 (Initial designation area)
+
+
+7
+
+In regulation 27—
+
+7.a
+
+in paragraph (2)(b), for “Article 57 of Directive 2006/88” substitute
+“Article 54(2)(b) of Regulation 2016/429” ; and
+
+7.b
+
+in paragraph (2)(d), for “epizootic investigation in accordance with Article
+29 of Directive 2006/88” substitute  “epidemiological enquiry in accordance
+with Article 57(1) of Regulation 2016/429” .
+
+### Amendment to regulation 31 (Confirmed designation)
+
+
+8
+
+In regulation 31(2)(d), for “Article 57 of Directive 2006/88” substitute
+“Article 54(2)(b) of Regulation 2016/429” .
+
+### Amendment to regulation 37 (Powers of entry)
+
+
+9
+
+In regulation 37(1), for “Directive 2006/88” substitute  “Regulation 2016/429”
+.
+
+### Omission of regulation 52 (Public register of disease-free zones and compartments)
+
+
+10
+
+Omit regulation 52.
+
+### Amendment to regulation 56 (Disclosure of information)
+
+
+11
+
+In regulation 56(1), for “Directive 2006/88” substitute  “Regulation 2016/429”
+.
+
+### Amendment to Schedule 1 (List of Diseases)
+
+
+12
+
+In Schedule 1 for “(which are not listed in Part II of Annex IV to Directive
+2006/88)” substitute  “(which are not listed in Annex II to Regulation
+2016/429)” .
+
+      Sealed with the Official Seal of the Department of Agriculture,
+Environment and Rural Affairs on 5th October 2023.         Owen Lyttle   A
+senior officer of the Department of Agriculture, Environment and Rural Affairs
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations are made in exercise of the powers conferred by sections
+11 and 22 of, and paragraphs 11M(1), (3) and (8) of Part 1C of Schedule 2 and
+paragraph 21(b) of Schedule 7, to the European Union (Withdrawal) Act 2018, to
+ensure that Northern Ireland subordinate legislation in respect of aquatic
+animal health is aligned with  Regulation (EU) 2016/429  of the European
+Parliament and of the Council on transmissible animal diseases and amending
+and repealing certain acts in the area of animal health, in accordance with
+the Windsor Framework.
+
+  An impact assessment has not been produced for this Statutory Rule as no, or
+no significant impact on the private, voluntary or public sector is foreseen.
+

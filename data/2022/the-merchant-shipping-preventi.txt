@@ -1,0 +1,345 @@
+Title: The Merchant Shipping (Prevention of Oil Pollution and Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2022
+Date: 2024-05-20
+Description: These Regulations amend the Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 (S.I. 2019/42) (“the 2019 Regulations”) and the Merchant Shipping (Prevention of Pollution by Sewage from Ships) Regulations 2020 (S.I. 2020/620) (“the 2020 Regulations”).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/1234
+
+## The Merchant Shipping (Prevention of Oil Pollution and Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2022
+
+    Merchant Shipping       Marine Pollution
+
+  Made   1st December 2022
+
+  Laid before Parliament   5th December 2022
+
+  Coming into force   27th December 2022
+
+      The Secretary of State, in exercise of the powers conferred by article 3
+of the Merchant Shipping (Prevention of Oil Pollution) Order 1983 , article 2
+of the Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention)
+Order 1996 , articles 3 and 5 of the Merchant Shipping (Prevention of
+Pollution by Sewage and Garbage) Order 2006  and sections 85(1), (3), (5) to
+(7), 86(1)(a), (b), (c) and (d), 128(5) and (6), 302(1) and 306A of the
+Merchant Shipping Act 1995 , and with the consent of the Treasury, makes the
+following Regulations.           The Secretary of State has consulted such
+persons in the United Kingdom as the Secretary of State considers will be
+affected by the exercise of powers in this instrument in accordance with
+section 86(4) of the Merchant Shipping Act 1995.
+
+### Citation, commencement and extent
+
+1
+
+1.1
+
+These Regulations may be cited as the Merchant Shipping (Prevention of Oil
+Pollution and Prevention of Pollution by Sewage from Ships) (Amendment)
+Regulations 2022 and come into force on 27th December 2022.
+
+1.2
+
+These Regulations extend to England and Wales, Scotland and Northern Ireland.
+
+### Amendment of the Merchant Shipping (Prevention of Oil Pollution) Regulations 2019
+
+2
+
+2.1
+
+The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019  are
+amended as follows.
+
+2.2
+
+In regulation 7 (exemptions)—
+
+2.2.a
+
+in paragraph (4)(b), at the beginning, insert  “on the giving of reasonable
+notice,” ;
+
+2.2.b
+
+after paragraph (5), insert—
+
+2.2.b.5A
+
+Where an exemption is granted under paragraph (3) in respect of a UNSP barge
+which is a United Kingdom ship, in relation to regulation 10 (surveys), 12
+(issue and endorsement of IOPP Certificates) or 13 (issue of UKOPP
+Certificates), the Secretary of State must issue a UNSP Exemption Certificate.
+
+2.2.b.5B
+
+Where an exemption is altered or cancelled under paragraph (4)(b), the
+Secretary of State must indicate this on the UNSP Exemption Certificate.
+
+2.2.b.5C
+
+The Secretary of State may, at the request of the Administration of another
+Convention Country, survey a UNSP barge entitled to fly the flag of that
+Convention Country for the purpose of issuing an exemption under paragraph (3)
+in relation to regulation 12 or 13 in respect of that ship and, if satisfied
+that the ship meets the requirements for that exemption, issue a UNSP
+Exemption Certificate in respect of that ship.
+
+2.2.b.5D
+
+A UNSP Exemption Certificate issued under paragraph (5C) must include a
+statement to the effect that it has been issued at the request of the
+Administration of a Convention Country.
+
+2.2.b.5E
+
+The Secretary of State must, as soon as possible after issuing a UNSP
+Exemption Certificate under paragraph (5C), send to the requesting
+Administration—
+
+2.2.b.5E.a
+
+a copy of the UNSP Exemption Certificate so issued; and
+
+2.2.b.5E.b
+
+a copy of the corresponding survey report.
+
+2.2.b.5F
+
+A UNSP Exemption Certificate must not be issued in respect of a ship entitled
+to fly the flag of a State which is not a Convention Country.
+
+;
+
+2.2.c
+
+for paragraph (6), substitute—
+
+2.2.c.6
+
+In this regulation—
+
+      “UNSP” barge means an unmanned non-self-propelled barge that—         is
+not propelled by mechanical means;           carries no oil;           has no
+machinery fitted that may use oil or generate oil residue;           has no
+fuel tank, lubricating oil tank, oily bilge water holding tank and oil residue
+tank; and           has neither persons nor living animals on board; and
+“ UNSP Exemption Certificate ” means the certificate described as
+“International Oil Pollution Prevention Exemption Certificate for Unmanned
+Non-self-propelled (UNSP) Barges” in appendix IV to Annex I.
+
+.
+
+### Amendment of the Merchant Shipping (Prevention of Pollution by Sewage from Ships) Regulations 2020
+
+3
+
+3.1
+
+The Merchant Shipping (Prevention of Pollution by Sewage from Ships)
+Regulations 2020  are amended as follows.
+
+3.2
+
+In regulation 3(1) (interpretation)—
+
+3.2.a
+
+omit the definition of “the Appendix”; and
+
+3.2.b
+
+in the definition of “Sewage Certificate”, for “the Appendix” substitute
+“appendix I to Annex IV” .
+
+3.3
+
+After regulation 6 (application), insert—
+
+######### Exemption for UNSP barges
+
+3.3.6A
+
+3.3.6A.1
+
+The Secretary of State may exempt a UNSP barge from the requirements of
+regulation 11 (prohibition on United Kingdom ships proceeding to sea without a
+Sewage Certificate), regulation 13 (surveys of United Kingdom ships) or
+regulation 14 (issue of Sewage Certificates by a Certifying Authority in
+respect of United Kingdom ships) for a period not exceeding five years
+provided that the barge has undergone a survey to confirm that—
+
+3.3.6A.1.a
+
+it is not propelled by mechanical means;
+
+3.3.6A.1.b
+
+has neither persons nor living animals on board;
+
+3.3.6A.1.c
+
+is not used for holding sewage during transport; and
+
+3.3.6A.1.d
+
+has no arrangements that could produce sewage.
+
+3.3.6A.2
+
+An exemption granted under paragraph (1) may, on the giving of reasonable
+notice, be altered or cancelled.
+
+3.3.6A.3
+
+An exemption granted under paragraph (1), or an alteration or cancellation
+under paragraph (2), must be in writing.
+
+3.3.6A.4
+
+Where an exemption is granted under paragraph (1), the Secretary of State must
+issue a UNSP Exemption Certificate.
+
+3.3.6A.5
+
+Where an exemption is altered or cancelled under paragraph (2), the Secretary
+of State must indicate this on the UNSP Exemption Certificate.
+
+3.3.6A.6
+
+The Secretary of State may, at the request of another Contracting State—
+
+3.3.6A.6.a
+
+survey a UNSP barge entitled to fly the flag of that State for the purpose of
+issuing an exemption from the requirements of regulation 12 (prohibition on
+non-United Kingdom ships proceeding to sea without a Sewage Certificate or
+appropriate documentation) in respect of that ship; and
+
+3.3.6A.6.b
+
+if satisfied that the ship meets the requirements for that exemption, grant
+the exemption and issue a UNSP Exemption Certificate in respect of that ship.
+
+3.3.6A.7
+
+A UNSP Exemption Certificate issued under paragraph (6) must include a
+statement to the effect that it has been issued at the request of the relevant
+Contracting State.
+
+3.3.6A.8
+
+The Secretary of State must, as soon as possible after issuing a UNSP
+Exemption Certificate under paragraph (6), send to the Contracting State who
+made the request, a copy of—
+
+3.3.6A.8.a
+
+the exemption granted under paragraph (6);
+
+3.3.6A.8.b
+
+the UNSP Exemption Certificate so issued; and
+
+3.3.6A.8.c
+
+the corresponding survey report.
+
+3.3.6A.9
+
+In this regulation—
+
+      “ UNSP barge ” means an unmanned non-self-propelled barge that—
+is not propelled by mechanical means;           has neither persons nor living
+animals on board;           is not used for holding sewage during transport;
+and           has no arrangements that could produce sewage; and
+“ UNSP Exemption Certificate ” means the certificate described as
+“International Sewage Pollution Prevention Exemption Certificate for Unmanned
+Non-self-propelled (UNSP) Barges” in appendix II to Annex IV.
+
+.
+
+3.4
+
+In regulation 18(5) (extension of periods of validity of Sewage Certificates
+by a Certifying Authority), for “the Appendix” substitute  “appendix I to
+Annex IV” .
+
+3.5
+
+In regulation 19(2) (extension of periods of validity of Sewage Certificates
+by a surveyor), for “the Appendix” substitute  “appendix I to Annex IV” .
+
+### Amendment of the Merchant Shipping (Fees) Regulations 2018
+
+4
+
+4.1
+
+The Merchant Shipping (Fees) Regulations 2018  are amended as follows.
+
+4.2
+
+In Schedule 1 (fees under the Merchant Shipping Act 1995), in the table in
+paragraph 5 (fees for inspections etc.) of Part 1 (surveys, inspections and
+applications for exemption), in Section J (prevention and control of
+pollution)—
+
+4.2.a
+
+for the entry for “the Merchant Shipping (Prevention of Oil Pollution)
+Regulations 2019”, in the third column, for “None” substitute  “2022/1234” ;
+
+4.2.b
+
+for the entry for “the Merchant Shipping (Prevention of Pollution by Sewage by
+Ships) Regulations 2020”, in the third column, for “None” substitute
+“2022/1234” .
+
+      Signed by authority of the Secretary of State for Transport       Vere
+Parliamentary Under Secretary of State   Department for Transport
+We consent to the making of these Regulations       Andrew Stephenson   Steve
+Double   Two of the Lords Commissioners of His Majesty’s Treasury
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations amend the Merchant Shipping (Prevention of Oil Pollution)
+Regulations 2019 ( S.I. 2019/42 ) (“ the 2019 Regulations ”) and the Merchant
+Shipping (Prevention of Pollution by Sewage from Ships) Regulations 2020 (
+S.I. 2020/620 ) (“ the 2020 Regulations ”).
+
+  These Regulations implement amendments to Annex I (prevention of pollution
+by oil) and Annex IV (prevention of pollution by sewage from ships) to the
+International Convention for the Prevention of Pollution from Ships 1973
+(MARPOL). The amendments were adopted by International Maritime Organization
+(IMO) Resolution MEPC.330(76) on 17th June 2021 and came into force on 1st
+November 2022.
+
+  The amendments comprise an exemption for unmanned non-self-propelled barges
+(“UNSP barges”) from the survey and certification requirements in Annexes I
+and IV and require a specified exemption certificate to be issued in each
+case. The amendments to Annex I are given effect by regulation 2(2), which
+amends regulation 7 of the 2019 Regulations (exemptions). The amendments to
+Annex IV are given effect by regulation 3(3), which inserts new regulation 6A
+(exemption for UNSP barges) into the 2020 Regulations.
+
+  The Regulations also make a number of consequential amendments to the 2020
+Regulations (regulation 3(2), (4) and (5)) and to the Merchant Shipping (Fees)
+Regulations 2018 ( S.I. 2018/1104 ) (regulation 4).
+
+  The Convention, and the Protocol of 1978 that modifies the Convention, and
+the amendments to it, may be obtained in copy from the IMO, 4 Albert
+Embankment, London SE1 7SR and is available on the Foreign, Commonwealth and
+Development Office (FCDO) treaties database (
+https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch ). The text of
+the IMO Resolutions amending the Convention may be obtained from the IMO or
+can be found on the FCDO treaties database (
+https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch ).
+
+  A full impact assessment has not been produced for this instrument as no, or
+no significant, impact on the private, voluntary or public sector is foreseen.
+
+  An Explanatory Memorandum is published alongside this instrument on
+www.legislation.gov.uk .
+

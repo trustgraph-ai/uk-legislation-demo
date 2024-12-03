@@ -1,0 +1,423 @@
+Title: The Education (Penalty Notices) (England) (Amendment) Regulations 2024
+Date: 2024-09-10
+Description: These Regulations amend the Education (Penalty Notices) (England) Regulations 2007 (S.I. 2007/1867). These regulations—establish a new amount of penalty under section 444A(1) of the 1996 Act: £80 increasing to £160 (if not paid within the first 21 days) and £160 without any early payment discount for a second notice issued to the same parent in respect of the same child within any given three-year period;impose a new duty on authorised staff members to consider issuing a penalty notice relating to a parent’s failure to secure the regular school attendance of a child during a period of 10 school weeks;impose a new limitation on the number of penalty notices which can be issued under section 444A(1) of the Education Act 1996 (c. 56) (“the 1996 Act”) in respect of the same parent and child: no new notice may be issued to a parent if two penalty notices have been issued to the parent under that section in respect of the child in the preceding three-year period;make provision for sums received under section 444A of the 1996 Act to also be used for supporting the regular attendance at school of registered pupils, in addition to being used for issuing penalty notices and prosecuting offences committed under section 444 of the 1996 Act.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2024/210
+
+## The Education (Penalty Notices) (England) (Amendment) Regulations 2024
+
+    EDUCATION, ENGLAND
+
+  Made   at 2.15 p.m. on 27th February 2024
+
+  Laid before Parliament   29th February 2024
+
+  Coming into force   19th August 2024
+
+      The Secretary of State makes these Regulations in exercise of the powers
+conferred by sections 444A(6), 444B(1), (2) and (4) and 569 of the Education
+Act 1996  and sections 105(5), 106(1), (2) and (4) and 181 of the Education
+and Inspections Act 2006 .
+
+### Citation and commencement
+
+1
+
+1.1
+
+These Regulations may be cited as the Education (Penalty Notices) (England)
+(Amendment) Regulations 2024.
+
+1.2
+
+These Regulations come into force on 19th August 2024.
+
+### Extent and application
+
+2
+
+2.1
+
+These Regulations extend to England and Wales.
+
+2.2
+
+These Regulations apply in relation to England only.
+
+### Amendment of the Education (Penalty Notices) (England) Regulations 2007
+
+3
+
+The Education (Penalty Notices) (England) Regulations 2007  are amended in
+accordance with regulations 4 to 8.
+
+### Increased amount of penalty for penalty notices issued under section 444A(1) of the Education Act 1996
+
+4
+
+4.1
+
+In regulation 4—
+
+4.1.a
+
+renumber regulation 4 as paragraph (1) of that regulation;
+
+4.1.b
+
+in paragraph (1) (as renumbered)—
+
+4.1.b.i
+
+in the words before sub-paragraph (a), after “paid” insert  “under a penalty
+notice issued under section 105(1) of the 2006 Act” ;
+
+4.1.b.ii
+
+in sub-paragraph (a) for the words from “21 days” to the end substitute  “the
+period of 21 days beginning with the date on which the notice is received” ;
+
+4.1.b.iii
+
+in sub-paragraph (b)—
+
+4.1.b.iii.aa
+
+for “paragraph” substitute  “sub-paragraph” ;
+
+4.1.b.iii.bb
+
+omit the words from “but where” to the end;
+
+4.1.c
+
+after paragraph (1) insert—
+
+4.1.c.2
+
+The amount of the penalty to be paid under a penalty notice issued to a parent
+under section 444A(1) of the 1996 Act is as follows.
+
+4.1.c.3
+
+Where no penalty notice has been issued to the parent under section 444A(1) of
+the 1996 Act in respect of the same child in the preceding three-year period,
+the amount of the penalty is—
+
+4.1.c.3.a
+
+£80, where the amount is paid within the period of 21 days beginning with the
+date on which the notice is received;
+
+4.1.c.3.b
+
+£160, where sub-paragraph (a) does not apply.
+
+4.1.c.4
+
+Where a penalty notice has been issued to the parent under section 444A(1) of
+the 1996 Act in respect of the same child in the preceding three-year period,
+the amount of the penalty is £160.
+
+4.1.c.5
+
+“ Preceding three-year period ” means the period of three years ending with
+the date on which the penalty notice is issued.
+
+4.1.c.6
+
+For the purposes of paragraphs (3) and (4), any penalty notice issued under
+section 444A(1) of the 1996 Act before 19th August 2024 is to be disregarded.
+
+.
+
+4.2
+
+In regulation 3 for paragraph (e) substitute—
+
+4.2.e
+
+an explanation of the amount of the penalty which in accordance with
+regulation 4 is to be paid under the notice;
+
+.
+
+4.3
+
+The amendments made by this regulation do not apply for the purposes of
+determining the amount of the penalty to be paid under a penalty notice issued
+in respect of an offence committed   over a period that begins  before 19th
+August 2024.
+
+### Duty to consider issuing penalty notice under section 444A(1) of the Education Act 1996 in respect of absence during period of 10 school weeks
+
+5
+
+5.1
+
+After the heading “ Issue of penalty notices ” (before regulation 10) insert—
+
+######### Duty to consider issuing penalty notice under section 444A(1) of the 1996 Act in respect of absence during period of 10 school weeks
+
+5.1.9A
+
+5.1.9A.1
+
+An authorised staff member who becomes aware that a relevant entry of absence
+has been recorded in a school’s attendance register in respect of 10 sessions
+in any given period of 10 consecutive school weeks in respect of a child must,
+as soon as practicable, comply with paragraphs (2) and (3).
+
+5.1.9A.2
+
+The authorised staff member must consider whether they have discretion to
+issue a penalty notice to the child's parent under section 444A(1) of the 1996
+Act.
+
+5.1.9A.3
+
+If the authorised staff member considers that they do have discretion to issue
+a penalty notice to the child’s parent under section 444A(1) of the 1996 Act,
+the staff member must then consider whether they should—
+
+5.1.9A.3.a
+
+exercise that discretion to issue a penalty notice to the child’s parent, or
+
+5.1.9A.3.b
+
+refer the case to another authorised officer for that other officer’s
+consideration.
+
+5.1.9A.4
+
+If an authorised staff member refers the case to another authorised officer in
+accordance with paragraph (3)(b), the other officer must consider—
+
+5.1.9A.4.a
+
+whether they have discretion to issue a penalty notice to the child's parent
+under section 444A(1) of the 1996 Act, and
+
+5.1.9A.4.b
+
+if so, whether they should exercise that discretion to issue a penalty notice
+to the child’s parent.
+
+5.1.9A.5
+
+A “ relevant entry of absence ” means any one or other of the following
+entries made in accordance with regulation 10 of the School Attendance (Pupil
+Registration) (England) Regulations 2024 —
+
+5.1.9A.5.a
+
+code G (the pupil is absent without leave for the purpose of a holiday),
+
+5.1.9A.5.b
+
+code N (the circumstances of the pupil’s absence have not yet been
+established),
+
+5.1.9A.5.c
+
+code O (none of the other rows of Table 3 in regulation 10(3) of the School
+Attendance (Pupil Registration) (England) Regulations 2024 applies), and
+
+5.1.9A.5.d
+
+code U (the pupil attended after the taking of the register ended but before
+the end of the session, where no other code applies).
+
+5.1.9A.6
+
+In this regulation—
+
+      “ school week ” means any period of seven days, beginning with Monday,
+in which the school meets for at least one session;           “ school’s
+attendance register ” has the same meaning as in the School Attendance (Pupil
+Registration) (England) Regulations 2024;           “ session ” means a
+morning session or an afternoon session within the meaning of the School
+Attendance (Pupil Registration) (England) Regulations 2024.
+
+5.1.9A.7
+
+Nothing in this regulation limits the discretion of an authorised officer to
+issue a penalty notice under section 444A(1) of the 1996 Act in circumstances
+other than those described in paragraph (1).
+
+.
+
+5.2
+
+For the purposes of regulation 9A of the Education (Penalty Notices) (England)
+Regulations 2007 (as inserted by paragraph (1) of this regulation), no account
+is to be taken of any absence which took place before 19th August 2024.
+
+### Limitation on number of penalty notices which may be issued under section 444A(1) of the Education Act 1996 in respect of the same parent and child
+
+6
+
+6.1
+
+After regulation 12 insert—
+
+######### Limitation on number of penalty notices which may be issued under section 444A(1) of the 1996 Act in respect of the same parent and child
+
+6.1.12A
+
+6.1.12A.1
+
+An authorised officer may not issue a penalty notice to a parent under section
+444A(1) of the 1996 Act in respect of a child where two penalty notices have
+been issued to the parent under that section in respect of the child in the
+preceding three-year period.
+
+6.1.12A.2
+
+“ Preceding three-year period ” means the period of three years ending with
+the date on which the penalty notice is proposed to be issued.
+
+6.1.12A.3
+
+For the purposes of this regulation the following penalty notices issued under
+section 444A(1) of the 1996 Act are to be disregarded—
+
+6.1.12A.3.a
+
+any penalty notice issued before 19th August 2024,
+
+6.1.12A.3.b
+
+any penalty notice which has been withdrawn, and
+
+6.1.12A.3.c
+
+any penalty notice issued in respect of an offence for which the parent has
+been found not guilty by a court.
+
+.
+
+6.2
+
+In regulation 14—
+
+6.2.a
+
+renumber regulation 14 as paragraph (1) of that regulation;
+
+6.2.b
+
+in paragraph (1) (as renumbered), in sub-paragraph (d) after “issued” insert
+“under section 105(1) of the 2006 Act,” ;
+
+6.2.c
+
+after paragraph (1) insert—
+
+6.2.c.2
+
+Codes of conduct under this regulation must also include a statement of the
+steps that it may be appropriate for the authority to take in the event that
+it is prevented from issuing a penalty notice by reason of regulation 12A.
+
+.
+
+### Use of sums received under section 444A of the Education Act 1996 to include supporting attendance at schools
+
+7
+
+For regulation 23 substitute—
+
+####### Sums received by local authorities
+
+7.23
+
+7.23.1
+
+The functions of a local authority specified for the purposes of section
+105(5) of the 2006 Act are—
+
+7.23.1.a
+
+the function of issuing and enforcing penalty notices under section 105(1) of
+the 2006 Act, and
+
+7.23.1.b
+
+the function of prosecuting offences committed under section 103(3) of the
+2006 Act.
+
+7.23.2
+
+The functions of a local authority specified for the purposes of section
+444A(6) of the 1996 Act are—
+
+7.23.2.a
+
+the function of issuing and enforcing penalty notices issued under section
+444A(1) of the 1996 Act,
+
+7.23.2.b
+
+the function of prosecuting offences committed under section 444(1) of the
+1996 Act, and
+
+7.23.2.c
+
+any other functions of the local authority which serve to support the regular
+attendance at school of registered pupils.
+
+7.23.3
+
+To the extent that sums received by a local authority are not used for the
+purposes of the functions specified in paragraph (1) or (2), as the case may
+be, they must be paid to the Secretary of State.
+
+.
+
+### Omission of spent provisions
+
+8
+
+8.1
+
+In regulation 1 omit paragraph (3).
+
+8.2
+
+In regulation 24 omit paragraphs (2) and (4).
+
+      Damian Hinds   Minister of State   Department for Education     at 2.15
+p.m. on 27th February 2024
+
+## Explanatory Note
+
+    (This note is not part of the Regulations)
+
+  These Regulations amend the Education (Penalty Notices) (England)
+Regulations 2007 ( S.I. 2007/1867 ). These regulations—     a     establish a
+new amount of penalty under section 444A(1) of the 1996 Act: £80 increasing to
+£160 (if not paid within the first 21 days) and £160 without any early payment
+discount for a second notice issued to the same parent in respect of the same
+child within any given three-year period;         b     impose a new duty on
+authorised staff members to consider issuing a penalty notice relating to a
+parent’s failure to secure the regular school attendance of a child during a
+period of 10 school weeks;         c     impose a new limitation on the number
+of penalty notices which can be issued under section 444A(1) of the Education
+Act  1996 (c. 56)  (“ the 1996 Act ”) in respect of the same parent and child:
+no new notice may be issued to a parent if two penalty notices have been
+issued to the parent under that section in respect of the child in the
+preceding three-year period;         d     make provision for sums received
+under section 444A of the 1996 Act to also be used for supporting the regular
+attendance at school of registered pupils, in addition to being used for
+issuing penalty notices and prosecuting offences committed under section 444
+of the 1996 Act.
+
+  A full impact assessment has not been produced for this instrument as no, or
+no significant, impact on the private, voluntary or public sector is foreseen.
+
+  An Explanatory Memorandum is published alongside this instrument on
+www.legislation.gov.uk . Hard copies are available from the Department for
+Education, Sanctuary Buildings, Great Smith Street, London SW1P 3BT.
+

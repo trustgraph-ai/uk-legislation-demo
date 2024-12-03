@@ -1,0 +1,3533 @@
+Title: The Building (Registered Building Control Approvers etc.) (England) Regulations 2024
+Date: 2024-05-30
+Description: These Regulations revoke, in relation to England, the Building (Approved Inspectors etc.) Regulations 2010 (S.I. 2010/2215) (“the AI Regulations”) with the amendments to those Regulations made by S.I. 2015/767, 2016/285, 2021/1391, 2021/1392, 2022/718 and 2023/906. They also revoke and include in this instrument provisions relating to the registration and review in regulations 3 to 5 of the Building (Approved Inspectors, Review of Decisions) (England) Regulations 2023 (S.I. 2023/906).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2024/110
+
+## The Building (Registered Building Control Approvers etc.) (England) Regulations 2024
+
+    Building And Buildings, England
+
+  Made   28th January 2024
+
+  Laid before Parliament   1st February 2024
+
+  Coming into force - -   6th April 2024
+
+      The Secretary of State makes the following Regulations in exercise of
+the powers conferred by sections 1(1), 2A, 34, 35(2), 35B(7), 47(1) to (5),
+50(1A), (1D), (4), (6), (7) and (7A), 51(1) and (2), 51A(2), (3), (5) and (6),
+52(1), (2), (3), (5A) and (7), 52A(1), (2) and (4), 53(2), (4), (4B), (4C) and
+(7), 53A(6), 53B(5), 53C(3), 53D(2), (3) and (5), 56(1), 58C(5), 58O(4),
+58U(4), 58V(4) and 92(2) of, and paragraphs 1, 1A, 1D, 1F, 1G, 1I, 5B, 7, 8
+and 10 of Schedule 1 to, the Building Act 1984  and sections 25(1) to (3) and
+(7), 41 and 166(1) of the Building Safety Act 2022 .           In accordance
+with section 120B(3) of the Building Act 1984  and section 7(4) of the
+Building Safety Act 2022, the Secretary of State has consulted the building
+safety regulator and such other persons as the Secretary of State considers
+appropriate.
+
+### General
+
+#### Citation, extent, application and commencement
+
+1
+
+1.1
+
+These Regulations may be cited as the Building (Registered Building Control
+Approvers etc.) (England) Regulations 2024.
+
+1.2
+
+These Regulations extend to England and Wales and apply in England only.
+
+1.3
+
+These Regulations come into force on 6th April 2024.
+
+#### Interpretation
+
+2
+
+2.1
+
+In these Regulations—
+
+      “ the 1984 Act ” means the Building Act 1984;           “ the 2022 Act ”
+means the Building Safety Act 2022;           “ the 2010 Regulations ” means
+the Building Regulations 2010 ;           “ application for building control
+approval with full plans ” has the same meaning as given in the 2010
+Regulations;           “ approver ” means a registered building control
+approver ;           “ building ” has the same meaning as given in the 2010
+Regulations;           “ building work ” has the same meaning as given in the
+2010 Regulations;           “ controlled service or fitting ” means a service
+or fitting in relation to which Part G, H, J or L of Schedule 1 to the 2010
+Regulations imposes a requirement;           “ dwelling-house ” does not
+include a flat or a building containing a flat;           “flat” means
+separate and self-contained premises constructed or adapted for use for
+residential purposes and forming part of a building from some other part of
+which it is divided horizontally;           “ FSO building ” has the meaning
+given in regulation 9 (consultation with the fire and rescue authority);
+“ material alteration ” has the same meaning as given in the 2010 Regulations;
+“ material change of use ” has the same meaning as given in the 2010
+Regulations;           “new dwelling” includes a dwelling that is formed by a
+material change of use of a building within the meaning of regulation 5(a),
+(b) or (g) of the 2010 Regulations;           “ optional requirement ” has the
+meaning given in regulation 2(1) of the 2010 Regulations;           “ relevant
+day ” means any day excluding Christmas Day, Good Friday or a day which is a
+bank holiday in England and Wales under section 1 of the Banking and Financial
+Dealings Act 1971;           “ working day ” means any period of 24 hours
+commencing at midnight and excludes Saturdays, Sundays, Christmas Day, Good
+Friday or a day which is a bank holiday in England and Wales under section 1
+of the Banking and Financial Dealings Act 1971 .
+
+2.2
+
+In these Regulations “client”, “contractor”, “designer”, “domestic client”,
+“principal contractor”, “ principal designer ”, “ sole contractor ” and “ sole
+or lead designer ” have the meanings given in the 2010 Regulations.
+
+2.3
+
+Where any provision in these Regulations requires the use of a numbered form
+in Schedule 1, a form substantially to the like effect may be used.
+
+2.4
+
+Any reference in these Regulations to the carrying out of work includes a
+reference to the making of a material change of use.
+
+2.5
+
+Any reference in these Regulations to an initial notice  (whether or not
+combined with a plans certificate ) is to be construed as a reference to that
+initial notice as amended by an amendment notice  which has been accepted by a
+local authority.
+
+### Registered building control approvers
+
+#### Independence of approvers
+
+3
+
+3.1
+
+Approvers must have no professional or financial interest in the work they
+supervise.
+
+3.2
+
+A person (“ P ”) is regarded as having a professional or financial interest in
+the work described in any notice or certificate given under these Regulations
+if—
+
+3.2.a
+
+P is or has been responsible for the design or construction of any of the work
+in any capacity,
+
+3.2.b
+
+P or any nominee of P’s is a member, officer or employee of a company or other
+body which has a professional or financial interest in the work, or
+
+3.2.c
+
+P is a partner or is in the employment of a person who has a professional or
+financial interest in the work.
+
+3.3
+
+For the purposes of this regulation—
+
+3.3.a
+
+P is treated as having a professional or financial interest in the work even
+if P has that interest only as trustee for the benefit of some other person,
+
+3.3.b
+
+in the case of married persons or civil partners living together, the interest
+of one spouse or partner is, if known to the other, deemed to be also an
+interest of the other.
+
+3.4
+
+For the purposes of this regulation the following are not to be regarded as a
+professional or financial interest—
+
+3.4.a
+
+involvement in the work as an approver,
+
+3.4.b
+
+entitlement to any fee paid for P’s function as an approver,
+
+3.4.c
+
+entitlement to any fee paid for an employee of P carrying out a function as a
+registered building inspector , and
+
+3.4.d
+
+potential liability to pay any sum if a claim is made under the insurance
+cover provided for the purposes of the 1984 Act.
+
+#### Functions of approvers
+
+4
+
+4.1
+
+For so long as an initial notice continues in force, the approver who gave the
+notice must take such steps (which may include the making of tests of building
+work and the taking of samples of material) as are reasonable to enable the
+approver to be satisfied within the limits of professional skill and care that
+the provisions specified in paragraph (2) (as modified by regulation 5
+(modifications of 2010 Regulations etc.)) are complied with.
+
+4.2
+
+The provisions referred to in paragraph (1) are—
+
+4.2.a
+
+in the 2010 Regulations—
+
+4.2.a.i
+
+regulation 4 (requirements relating to building work),
+
+4.2.a.ii
+
+regulation 6 (requirements relating to material change of use),
+
+4.2.a.iii
+
+regulation 7 (materials and workmanship),
+
+4.2.a.iv
+
+Part 2A (dutyholders and competence),
+
+4.2.a.v
+
+regulation 20 (provisions applicable to self-certification schemes),
+
+4.2.a.vi
+
+regulation 20A (provisions applicable to third party certification schemes),
+
+4.2.a.vii
+
+regulation 22 (requirements relating to a change to energy status),
+
+4.2.a.viii
+
+regulation 23 (requirements relating to thermal elements),
+
+4.2.a.ix
+
+regulation 25A (consideration of high-efficiency alternative systems for new
+buildings),
+
+4.2.a.x
+
+regulation 26 (CO 2  emission rates for new buildings),
+
+4.2.a.xi
+
+regulation 26A (fabric energy efficiency rates for new buildings),
+
+4.2.a.xii
+
+regulation 26C (target primary energy rates for new buildings),
+
+4.2.a.xiii
+
+regulation 27 (CO 2  emission rate calculations),
+
+4.2.a.xiv
+
+regulation 27A (fabric energy efficiency rate calculations),
+
+4.2.a.xv
+
+regulation 27C (target primary energy rate calculations for new buildings),
+
+4.2.a.xvi
+
+regulation 28 (consequential improvements to energy performance),
+
+4.2.a.xvii
+
+regulation 36 (water efficiency of new dwellings),
+
+4.2.a.xviii
+
+regulation 37 (wholesome water consumption calculation  ) ,
+
+4.2.a.xix
+
+regulation 38 (fire safety information),
+
+4.2.a.xx
+
+regulation 39 (information about ventilation),
+
+4.2.a.xxi
+
+regulation 40 (information about use of fuel and power),
+
+4.2.a.xxii
+
+regulation 40A (information about systems for on-site generation of
+electricity),
+
+4.2.a.xxiii
+
+regulation 40B (information about overheating),
+
+4.2.a.xxiv
+
+regulation 41 (sound insulation testing),
+
+4.2.a.xxv
+
+regulation 42 (mechanical ventilation air flow rate testing),
+
+4.2.a.xxvi
+
+regulation 43 (pressure testing),
+
+4.2.a.xxvii
+
+regulation 44 (commissioning),
+
+4.2.a.xxviii
+
+regulation 44ZA (commissioning in respect of a system for on-site electricity
+generation),
+
+4.2.a.xxix
+
+regulation 44D (application of paragraph S1 of Schedule 1),
+
+4.2.a.xxx
+
+regulation 44E (application of paragraph S2 of Schedule 1),
+
+4.2.a.xxxi
+
+regulation 44F (application of paragraph S3 of Schedule 1),
+
+4.2.a.xxxii
+
+regulation 44G (application of paragraph S4 of Schedule 1),
+
+4.2.a.xxxiii
+
+regulation 44H (application of paragraph S5 of Schedule 1),
+
+4.2.a.xxxiv
+
+regulation 44I (application of paragraph S6 of Schedule 1),
+
+4.2.a.xxxv
+
+regulation 44J (minimum standards of an electric vehicle charge point), and
+
+4.2.b
+
+in the Energy Performance of Buildings (England and Wales) Regulations 2012 ,
+regulation 7A (energy performance certificates on construction).
+
+#### Modifications of 2010 Regulations etc.
+
+5
+
+5.1
+
+The 2010 Regulations apply with the modifications in paragraphs (2) to (11).
+
+5.2
+
+Subject to paragraph (3), regulations 20 (provisions applicable to self-
+certification schemes), 20A (provisions applicable to third party
+certification schemes), 25A (consideration of high-efficiency alternative
+systems for new buildings), 42 (mechanical ventilation air flow rate testing)
+and 43 (pressure testing) apply in relation to building work which is the
+subject of an initial notice as if references to the building control
+authority were references to the approver.
+
+5.3
+
+The modification in paragraph (2) does not apply to the reference to building
+control authority in regulation 20(6A), 20A(7A), 25A(3A), 42(4) or 43(6).
+
+5.4
+
+Regulation 27 (CO 2  emission rate calculations) applies in relation to
+building work which is the subject of an initial notice as if—
+
+5.4.a
+
+references to the building control authority, except in regulation 27(4A),
+were references to the approver, and
+
+5.4.b
+
+in paragraph (3), after “work has been completed,” there were inserted  “or,
+if earlier, the date on which, in accordance with regulation 19 (events
+causing initial notice to cease to be in force) of the Building (Registered
+Building Control Approvers etc.) (England) Regulations 2024, the initial
+notice ceases to be in force” .
+
+5.5
+
+Regulation 27A (fabric energy efficiency rate calculations) applies in
+relation to building work which is the subject of an initial notice as if—
+
+5.5.a
+
+references to the building control authority, except in regulation 27A(4A),
+were references to the approver, and
+
+5.5.b
+
+in paragraph (3), after “work has been completed,” there were inserted  “or,
+if earlier, the date on which, in accordance with regulation 19 (events
+causing initial notice to cease to be in force) of the Building (Registered
+Building Control Approvers etc.) (England) Regulations 2024, the initial
+notice ceases to be in force” .
+
+5.6
+
+Regulation 27C (target primary energy rate calculations for new buildings)
+applies in relation to building work which is the subject of an initial notice
+as if—
+
+5.6.a
+
+references to the building control authority, except in regulation 27C(4A),
+were references to the approver, and
+
+5.6.b
+
+in paragraph (3), after “work has been completed,” there were inserted  “or,
+if earlier, the date on which, in accordance with regulation 19 (events
+causing initial notice to cease to be in force) of the Building (Registered
+Building Control Approvers etc.) (England) Regulations 2024, the initial
+notice ceases to be in force” .
+
+5.7
+
+Regulation 37 (wholesome water consumption calculation) applies in relation to
+building work which is the subject of an initial notice as if—
+
+5.7.a
+
+references to the building control authority, except in regulation 37(3), were
+references to the approver, and
+
+5.7.b
+
+in paragraph (2), after “work has been completed” there were inserted  “, or,
+if earlier, the date on which, in accordance with regulation 19 (events
+causing initial notice to cease to be in force) of the Building (Registered
+Building Control Approvers etc.) (England) Regulations 2024, the initial
+notice ceases to be in force” .
+
+5.8
+
+Regulation 38 (fire safety information) applies in relation to building work
+which is the subject of an initial notice as if—
+
+5.8.a
+
+references to the relevant authority were references to the approver, and
+
+5.8.b
+
+for paragraph (2) there were substituted—
+
+5.8.b.2
+
+The person carrying out the work must give the fire safety information to the
+responsible person no later than—
+
+5.8.b.2.a
+
+the date of completion of the work to which the initial notice relates;
+
+5.8.b.2.b
+
+the date of occupation of the building or extension;
+
+5.8.b.2.c
+
+the date on which, in accordance with regulation 19 (events causing initial
+notice to cease to be in force) of the Building (Registered Building Control
+Approvers etc.) (England) Regulations 2024, the initial notice ceases to be in
+force,
+
+whichever is the earlier.
+
+.
+
+5.9
+
+Regulation 41 (sound insulation testing) applies in relation to building work
+which is the subject of an initial notice as if—
+
+5.9.a
+
+references to the building control authority, except in regulation 41(3A),
+were references to the approver, and
+
+5.9.b
+
+for paragraph (3)(b) there were substituted—
+
+5.9.b.b
+
+given to the registered building control approver in accordance with paragraph
+(2)(b) not later than five days after completion of the work to which the
+initial notice relates.
+
+;
+
+5.9.c
+
+in paragraph (4), for “regulation 16(1)” there were substituted  “regulation
+15(1) (notice before starting work) of the Building (Registered Building
+Control Approvers etc.) (England) Regulations 2024,” .
+
+5.10
+
+Regulation 44 (commissioning) applies in relation to building work which is
+the subject of an initial notice as if—
+
+5.10.a
+
+references to the building control authority, except in regulation 44(5), were
+references to the approver, and
+
+5.10.b
+
+for paragraph (4) there were substituted—
+
+5.10.b.4
+
+The notice must be given to the registered building control approver—
+
+5.10.b.4.a
+
+subject to sub-paragraphs (b) and (c), not later than five days after
+completion of the work to which the initial notice relates;
+
+5.10.b.4.b
+
+where regulation 19 (events causing initial notice to cease to be in force) of
+the Building (Registered Building Control Approvers etc.) (England)
+Regulations 2024 applies, not later than the date on which the initial notice
+ceases to be in force or, if earlier, the end of the period referred to in
+sub-paragraph (a);
+
+5.10.b.4.c
+
+where regulation 20 (provisions applicable to self-certification schemes)
+applies by virtue of regulation 4 (functions of approvers) of the Building
+(Registered Building Control Approvers etc.) (England) Regulations 2024, not
+later than the date on which the notice or certificate required by regulation
+20 must be given.
+
+.
+
+5.11
+
+Regulation 44ZA (commissioning in respect of a system for on-site electricity
+generation) applies in relation to building work which is the subject of an
+initial notice as if—
+
+5.11.a
+
+references to the building control authority, except in regulation 44ZA(4),
+were references to the approver, and
+
+5.11.b
+
+for paragraph (3) there were substituted—
+
+5.11.b.3
+
+The notice must be given to the registered building control approver—
+
+5.11.b.3.a
+
+subject to sub-paragraphs (b) and (c), not later than five days after
+completion of the work to which the initial notice relates;
+
+5.11.b.3.b
+
+where regulation 19 (events causing initial notice to cease to be in force) of
+the Building (Registered Building Control Approvers etc.) (England)
+Regulations 2024 applies, not later than the date on which the initial notice
+ceases to be in force or, if earlier, the end of the period referred to in
+sub-paragraph (a);
+
+5.11.b.3.c
+
+where regulation 20 (provisions applicable to self-certification schemes)
+applies by virtue of regulation 4 (functions of approvers) of the Building
+(Registered Building Control Approvers etc.) (England) Regulations 2024, not
+later than the date on which the notice or certificate required by regulation
+20 must be given.
+
+.
+
+5.12
+
+Regulation 7A of the Energy Performance of Buildings (England and Wales)
+Regulations 2012 applies in relation to building work which is the subject of
+an initial notice as if—
+
+5.12.a
+
+references to the local authority were references to the approver, and
+
+5.12.b
+
+in paragraph (3), after “work has been completed” there were inserted  “, or,
+if earlier, the date on which, in accordance with regulation 19 (events
+causing initial notice to cease to be in force) of the Building (Registered
+Building Control Approvers etc.) (England) Regulations 2024, the initial
+notice ceases to be in force.” .
+
+### Notices and certificates etc.
+
+#### Form, grounds and period for rejecting initial notice
+
+6
+
+6.1
+
+The prescribed form of an initial notice —
+
+6.1.a
+
+which is not combined with a plans certificate, is form 1 in Schedule 1, or
+
+6.1.b
+
+which is combined with a plans certificate, is form 4 in Schedule 1.
+
+6.2
+
+An initial notice must be accompanied by the plans and documents described in
+the relevant form prescribed by paragraph (1).
+
+6.3
+
+The grounds on which a local authority must reject an initial notice are those
+prescribed in Schedule 2 and the form to be used for rejecting an initial
+notice (whether combined with a plans certificate or otherwise) is form 7 in
+Schedule 1.
+
+6.4
+
+The period within which a local authority may give notice of rejection of an
+initial notice is five working days beginning with the day on which the notice
+is given.
+
+#### Invalid notices or certificates
+
+7
+
+7.1
+
+Paragraph (2) applies where a document which purports to be an initial notice,
+amendment notice, plans certificate or final certificate (“the original
+document”) is given to a local authority and the local authority is satisfied
+that all or part of the work to which the original document relates is higher-
+risk building work .
+
+7.2
+
+Where this paragraph applies the local authority must, as soon as is
+reasonably practicable, give a notice to the approver and the person intending
+to carry out the work (and where that person is not the client, the client)
+and the form to be used for the notice is form 6 in Schedule 1.
+
+7.3
+
+Where a document which purports to be an initial notice, amendment notice,
+plans certificate or final certificate (“the original document”) is given to a
+local authority and the local authority is satisfied that all or part of the
+work to which the original document relates is outside the scope of the
+approver’s registration then the authority must, as soon as is reasonably
+practicable, give a notice to the approver and the person intending to carry
+out the work (and where that person is not the client, the client) and the
+form to be used for the notice is form 6 in Schedule 1.
+
+7.4
+
+Where a document which purports to be an initial notice (“the original
+notice”) is given to a local authority and the local authority is satisfied
+that the original notice is given in breach of section 53D(5) of the 1984 Act
+then the authority must, as soon as is reasonably practicable, give a notice
+to the approver and the person intending to carry out the work (and where that
+person is not the client, the client) and the form to be used for the notice
+is form 6 in Schedule 1.
+
+#### Form, grounds and period for rejecting amendment notice
+
+8
+
+8.1
+
+The prescribed form of an amendment notice  is form 2 in Schedule 1.
+
+8.2
+
+An amendment notice must be accompanied by the plans and documents described
+in the form prescribed by paragraph (1).
+
+8.3
+
+The grounds on which a local authority must reject an amendment notice are
+those prescribed in paragraphs 1 to 11 of Schedule 2 and the form to be used
+for rejecting an amendment notice is form 7 in Schedule 1.
+
+8.4
+
+The period within which a local authority may give notice of rejection of an
+amendment notice is five working days beginning with the day on which the
+notice is given.
+
+#### Consultation with the fire and rescue authority
+
+9
+
+9.1
+
+This regulation applies where an initial notice is to be given or has been
+given in relation to the erection, extension or material alteration of an FSO
+building or in relation to building work in connection with a relevant change
+of use of a building and Part B of Schedule 1 to the 2010 Regulations imposes
+requirements in relation to the work.
+
+9.2
+
+Where this regulation applies, the approver must consult the fire and rescue
+authority—
+
+9.2.a
+
+before, or as soon as practicable after, giving an initial notice in relation
+to the work,
+
+9.2.b
+
+before, or as soon as practicable after, giving a relevant amendment notice in
+relation to the work,
+
+9.2.c
+
+before giving a plans certificate (whether or not combined with an initial
+notice), and
+
+9.2.d
+
+before giving a final certificate.
+
+9.3
+
+An approver required by paragraph (2) to consult the fire and rescue authority
+must give to the fire and rescue authority—
+
+9.3.a
+
+in a case where the approver is consulting them in connection with an initial
+notice or an amendment notice, sufficient plans to show whether the work
+would, if carried out in accordance with those plans, comply with the
+applicable requirements of Part B of Schedule 1 to the 2010 Regulations, and
+
+9.3.b
+
+in a case where the approver is consulting them in connection with the giving
+of a plans certificate, a copy of the plans in relation to which the approver
+intends to give the certificate.
+
+9.4
+
+An approver required by paragraph (2) to consult the fire and rescue
+authority—
+
+9.4.a
+
+must have regard to any views expressed by the authority, and
+
+9.4.b
+
+must not give a plans certificate or a final certificate until 15 working days
+have elapsed from the day on which the approver consulted the authority,
+unless the authority have expressed their views to the approver before the
+expiry of that period.
+
+9.5
+
+Where a local enactment would, if an application for building control approval
+with full plans were submitted or granted in accordance with building
+regulations, require the local authority to consult the fire and rescue
+authority before or during the carrying out of any work, the approver must
+consult the fire and rescue authority in a manner similar to that required by
+the enactment.
+
+9.6
+
+In this regulation—
+
+      “FSO building” is a building or any part of it to which the Regulatory
+Reform (Fire Safety) Order 2005  applies, or will apply after the completion
+of building work;           “relevant change of use” is a material change of
+use where, after the change of use takes place, the Regulatory Reform (Fire
+Safety) Order 2005 will apply, or continue to apply, to the building or any
+part of it;           “relevant amendment notice” is an amendment notice where
+any of the work specified in the initial notice, as varied by the amendment
+notice, being work which could not have been carried out under the original
+notice (“additional work”), concerns the erection, extension or material
+alteration of an FSO building or is building work in connection with a
+relevant change of use of a building and Part B of Schedule 1 to the 2010
+Regulations imposes requirements in relation to the additional work.
+
+#### Consultation with the sewerage undertaker
+
+10
+
+10.1
+
+This regulation applies where an initial notice or amendment notice is to be
+given or has been given in respect of work in relation to which paragraph H4
+of Schedule 1 to the 2010 Regulations imposes requirements.
+
+10.2
+
+Where this regulation applies, the approver must consult the sewerage
+undertaker—
+
+10.2.a
+
+before, or as soon as practicable after, giving an initial notice in relation
+to the work,
+
+10.2.b
+
+before, or as soon as practicable after, giving an amendment notice in
+relation to the work,
+
+10.2.c
+
+before giving a plans certificate (whether or not combined with an initial
+notice), and
+
+10.2.d
+
+before giving a final certificate.
+
+10.3
+
+An approver required by paragraph (2) to consult the sewerage undertaker must
+give to the sewerage undertaker—
+
+10.3.a
+
+in a case where the approver is consulting them in connection with an initial
+notice or an amendment notice, sufficient plans to show whether the work
+would, if carried out in accordance with those plans, comply with the
+applicable requirements of paragraph H4 of Schedule 1 to the 2010 Regulations,
+and
+
+10.3.b
+
+in a case where the approver is consulting them in connection with the giving
+of a plans certificate, a copy of the plans in relation to which the approver
+intends to give the certificate.
+
+10.4
+
+An approver required by paragraph (2) to consult the sewerage undertaker—
+
+10.4.a
+
+must have regard to any views expressed by the undertaker, and
+
+10.4.b
+
+must not give a plans certificate or a final certificate until 15 working days
+have elapsed from the day on which the approver consulted the undertaker,
+unless the undertaker have expressed their views to the approver before the
+expiry of that period.
+
+10.5
+
+In this regulation “ sewerage undertaker ” means a person appointed under
+section 6 of the Water Industry Act 1991  for the area in which the building
+is, or is to be, situated.
+
+#### Plans certificate
+
+11
+
+11.1
+
+The prescribed form of a plans certificate —
+
+11.1.a
+
+which is not combined with an initial notice, is form 3 in Schedule 1; or
+
+11.1.b
+
+which is combined with an initial notice, is form 4 in Schedule 1.
+
+11.2
+
+The grounds on which a local authority must reject a plans certificate which
+is not combined with an initial notice are those prescribed in Schedule 3 and
+the form to be used for rejecting a plans certificate is form 7 in Schedule 1.
+
+11.3
+
+The grounds on which a local authority must reject a plans certificate
+combined with an initial notice are those prescribed in Schedules 2 and 3 and
+the form to be used for rejecting a plans certificate is form 7 in Schedule 1.
+
+11.4
+
+The period within which a local authority may give notice of rejection of a
+plans certificate (whether or not combined with an initial notice) is five
+working days beginning on the day on which the certificate is given.
+
+#### Effect of plans certificate
+
+12
+
+If an initial notice ceases to be in force as described in section 47(4)(b) of
+the 1984 Act (cancellation etc. of initial notice) and the conditions in
+section 53(2) of the 1984 Act (plans certificate given, accepted and not
+rescinded) are satisfied, the local authority may not—
+
+12.a
+
+give a notice under section 36(1) of the 1984 Act (removal or alteration of
+work which contravenes building regulations), or
+
+12.b
+
+institute proceedings under section 35 of the 1984 Act for a contravention of
+building regulations,
+
+in relation to any work described in the certificate which has been carried
+out in accordance with the plans to which the certificate relates.
+
+#### Form, grounds and period for rejecting final certificate
+
+13
+
+13.1
+
+The prescribed form of a final certificate  is form 5 in Schedule 1.
+
+13.2
+
+The grounds on which a local authority must reject a final certificate are
+those prescribed in Schedule 4 and the form to be used for rejecting a final
+certificate is form 7 in Schedule 1.
+
+13.3
+
+The period within which a local authority may give notice of rejection of a
+final certificate is ten working days beginning with the day on which the
+certificate is given.
+
+13.4
+
+A final certificate given by an approver to a local authority in accordance
+with these Regulations is evidence (but not conclusive evidence) that the
+requirements specified in the certificate have been complied with.
+
+#### Form of notice under section 51C of the 1984 Act
+
+14
+
+When giving a notice under section 51C(2) of the 1984 Act (change of person
+intending to carry out work) the form set out as form 8 in Schedule 1 must be
+used.
+
+#### Notice before starting work and further notice when work is “commenced” etc.
+
+15
+
+15.1
+
+At least two working days before the day on which building work starts, the
+person carrying out the work must give a notice to the approver shown on the
+initial notice relating to the building work setting out their intention to
+start the work and the date that work is to start.
+
+15.2
+
+Not more than five working days after the day on which the work is to be
+regarded as commenced the person carrying out the work must give a notice to
+that effect to the approver.
+
+15.3
+
+If the approver is not satisfied the work is to be regarded as commenced they
+must give the person carrying out the work a notice to that effect (“rejection
+notice”) within four weeks of the date the notice under paragraph (2) is
+given, and the rejection notice must give the reasons for rejection.
+
+15.4
+
+Where a notice is given under paragraph (2) and the period referred to in
+paragraph (3) expires without a rejection notice being given, then the work is
+to be regarded as commenced.
+
+15.5
+
+If the person carrying out the work accepts the rejection notice they may not
+give a further notice under paragraph (2) unless, having regard to the reasons
+given by the approver, they are satisfied the work is to be regarded as
+commenced.
+
+15.6
+
+A person who gave the notice under paragraph (2) may appeal to the First-tier
+Tribunal against the decision of the approver to reject the notice provided
+the appeal is made within 21 relevant days beginning with the day after the
+day on which the approver gives the rejection notice.
+
+15.7
+
+The First-tier Tribunal may allow an appeal under paragraph (6) only if it is
+satisfied that the decision appealed against was wrong on one or more of the
+following grounds—
+
+15.7.a
+
+that the decision was based on an error of fact,
+
+15.7.b
+
+that the decision was wrong in law,
+
+15.7.c
+
+that the decision was unreasonable,
+
+15.7.d
+
+that the decision was made without following the procedures set out in the
+1984 Act or regulations made under the 1984 Act.
+
+15.8
+
+The approver may take such steps, including—
+
+15.8.a
+
+requiring information;
+
+15.8.b
+
+laying open of work for inspection, as it thinks appropriate to check whether
+the work is to be regarded as commenced.
+
+15.9
+
+For the purposes of paragraphs (2) to (8), the provisions of regulation 16
+(lapse of initial notices: commencement of work) apply to determine whether
+work is to be regarded as commenced.
+
+#### Lapse of initial notice: commencement of work
+
+16
+
+16.1
+
+For the purposes of section 53A(6) of the 1984 Act (lapse of initial notice)
+work is to be regarded as commenced in accordance with the following
+paragraphs.
+
+16.2
+
+Where the work consists of the construction of a complex building, work is to
+be regarded as commenced in relation to that building or the first stage of
+building work for that building when the foundations supporting the building
+and the structure of the lowest floor level of that building (but not the
+other buildings or structures to be supported by those foundations) are
+completed.
+
+16.3
+
+Where the work consists of—
+
+16.3.a
+
+the construction of a building and paragraph (2) does not apply, or
+
+16.3.b
+
+the horizontal extension of a building,
+
+work is to be regarded as commenced when the sub-surface structure of the
+building or the extension including all foundations, basement levels (if any)
+and the structure of ground floor level is completed.
+
+16.4
+
+Where the work consists of any other building work then work is to be regarded
+as commenced when the initial work is completed.
+
+16.5
+
+In this regulation—
+
+      “ approved plans ” means plans which were part of or accompanied the
+initial notice, or plans to which a plans certificate referred;           “
+complex building ” means—         a building which is to be constructed on the
+same foundation plinth or podium as any other building or structure,
+a building which has more than one storey below ground level,           a
+building where its proposed use is primarily as a public building where the
+public or a section of the public has access to the building (whether or not
+on payment) provided that the building has a capacity for 100 or more
+visitors;                 “ initial work ” means the work set out in the
+initial notice which the client considers amounts to 15% of all the work
+described in the initial notice;           “ public building ” means—
+a shop or shopping centre;           premises where food or drink are sold for
+consumption on the premises, including a nightclub, social club or dance hall;
+a stadium, theatre, cinema, concert hall;           a sports ground;
+an exhibition hall or conference centre;           a hospital or premises for
+the provision of health care.
+
+#### Notification of dutyholders
+
+17
+
+17.1
+
+This paragraph applies where, in relation to any building work, the client
+appoints a principal contractor (or sole contractor) or a principal designer
+(or sole or lead designer).
+
+17.2
+
+Subject to paragraph (3), where paragraph (1) applies the client must give a
+notice to the approver shown on the initial notice relating to the building
+work which includes—
+
+17.2.a
+
+the name, address, telephone number and (if available) email address of the
+person appointed (PA) and the date of appointment,
+
+17.2.b
+
+except where PA is the first person appointed to the role, the name, address,
+telephone number and (if available) email address of the person who held the
+role before PA (“outgoing dutyholder”) and the date their appointment ended,
+
+17.2.c
+
+where the notice is given by someone on behalf of the client, a statement
+signed by the client confirming they agree to the notice being made and that
+the information contained in the notice is correct.
+
+17.3
+
+Where the client is a domestic client (DC), the following applies instead of
+paragraph (2)—
+
+17.3.a
+
+an outgoing dutyholder must provide the information referred to in paragraph
+(2)(b) to the DC within five days of the day on which their appointment ends;
+
+17.3.b
+
+DC must provide the information referred to under sub-paragraph (a) to PA on
+the date of appointment of PA or as soon as practicable after that date;
+
+17.3.c
+
+subject to paragraph (4), PA must give a notice to the approver which
+includes—
+
+17.3.c.i
+
+the name, address, telephone number and (if available) email address of PA and
+date of appointment;
+
+17.3.c.ii
+
+except where PA is the first person appointed to the role, the name, address,
+telephone number and (if available) email address of the outgoing dutyholder
+and the date on which their appointment ended;
+
+17.3.c.iii
+
+a statement explaining the notice is given on behalf of a domestic client.
+
+17.4
+
+Where the outgoing dutyholder has not received the information required under
+paragraph (3)(b) by the time the notice under paragraph (3)(c) is to be given
+and DC does not have the information, the statement given by PA under
+paragraph (3)(c)(iii) must also include an explanation to that effect.
+
+17.5
+
+A notice required under paragraph (2) or (3)(c) must be given to the approver
+within the period of 14 days beginning with the date of the appointment.
+
+#### Compliance declarations
+
+18
+
+Where building work described in an initial notice is completed the client
+must give the approver a notice which includes—
+
+18.a
+
+the name, address, telephone number and (if available) email address of the
+client;
+
+18.b
+
+the name, address, telephone number and (if available) email address of the
+principal contractor (or sole contractor) and the principal designer (or sole
+or lead designer);
+
+18.c
+
+a statement that the building work is complete;
+
+18.d
+
+a statement, signed by the client, confirming that to the best of the client’s
+knowledge the work complies with all applicable requirements of the building
+regulations;
+
+18.e
+
+a statement given by each principal contractor (or sole contractor) for the
+work and each principal designer (or sole or lead designer) for the work,
+signed by the person to which the declaration relates, which includes—
+
+18.e.i
+
+the name, address, telephone number and (if available) email address of that
+person,
+
+18.e.ii
+
+the dates of their appointment, and
+
+18.e.iii
+
+confirmation—
+
+18.e.iii.aa
+
+in the case of a principal contractor (or sole contractor), that they
+fulfilled their duties as a principal contractor under Part 2A (dutyholders
+and competence) of the 2010 Regulations;
+
+18.e.iii.bb
+
+in the case of a principal designer (or sole or lead designer), that they
+fulfilled their duties as a principal designer under Part 2A (dutyholders and
+competence) of the 2010 Regulations.
+
+#### Events causing initial notice to cease to be in force
+
+19
+
+19.1
+
+Where a final certificate given in respect of work described in an initial
+notice is rejected, the initial notice ceases to be in force in relation to
+the work described in the final certificate on the expiry of a period of four
+weeks beginning with the date on which notice of rejection is given.
+
+19.2
+
+Paragraph (3) applies where work described in an initial notice includes the
+erection, extension or material alteration of a building, and—
+
+19.2.a
+
+the building or, as the case may be, the extension or any part of the building
+which has been materially altered is occupied, and
+
+19.2.b
+
+no final certificate is given.
+
+19.3
+
+The initial notice ceases to be in force in relation to the building,
+extension or part of a building which is occupied—
+
+19.3.a
+
+if the building is an FSO building, except where it contains only flats and
+common parts for those flats, on the expiry of a period of four weeks
+beginning with the date of occupation, and
+
+19.3.b
+
+in any other case, on the expiry of a period of eight weeks beginning with the
+date of occupation.
+
+19.4
+
+Where work described in an initial notice involves a material change of use of
+a building, and—
+
+19.4.a
+
+no final certificate is given, and
+
+19.4.b
+
+that change of use takes place,
+
+the initial notice ceases to be in force in relation to that change of use on
+the expiry of a period of eight weeks beginning with the day on which the
+change of use takes place.
+
+19.5
+
+In any other case where no final certificate is given, an initial notice
+ceases to be in force on the expiry of a period of eight weeks beginning with
+the day on which the work described in the initial notice is substantially
+completed.
+
+19.6
+
+An initial notice does not cease to be in force by virtue of paragraphs (2)
+and (3) because part of a building or extension is occupied if a final
+certificate has been accepted in respect of that part.
+
+19.7
+
+A local authority may extend any period referred to in this regulation either
+before or after its expiry.
+
+#### Cancellation of initial notices: forms etc.
+
+20
+
+20.1
+
+Form 9 in Schedule 1 is the form of notice to be given, by an approver, to
+cancel an initial notice in accordance with section 52(1) of the 1984 Act
+based on a condition in section 52(1)(a) to (e) of the 1984 Act.
+
+20.2
+
+Form 10 in Schedule 1 is the form of notice to be given, by a person carrying
+out or intending to carry out work, to cancel an initial notice in accordance
+with section 52(3) of the 1984 Act based on a condition in section 52(3)(a) of
+the 1984 Act.
+
+20.3
+
+Form 11 in Schedule 1 is the form of notice to be given, by a local authority,
+to cancel an initial notice in accordance with section 52(5A) of the 1984 Act
+based on a condition in section 52(5B)(a) to (d) of the 1984 Act.
+
+20.4
+
+Form 12 in Schedule 1 is the form of notice a local authority must give to the
+person shown in the initial notice as the registered building control approver
+under section 52(7) of the 1984 Act.
+
+20.5
+
+Form 13 in Schedule 1 is the form of notice to be given, by an approver, to
+cancel an initial notice in accordance with section 52A(1) of the 1984 Act.
+
+20.6
+
+Form 14 in Schedule 1 is the form of notice to be given, by a person carrying
+out or intending to carry out work, to cancel an initial notice in accordance
+with section 52A(2) of the 1984 Act.
+
+20.7
+
+Form 15 in Schedule 1 is the form of notice to be given, by a local authority,
+to cancel an initial notice in accordance with section 52A(4) of the 1984 Act.
+
+20.8
+
+Form 16 in Schedule 1 is the form of notice to be given, by a local authority,
+to cancel an initial notice in accordance with section 53D(2) of the 1984 Act.
+
+20.9
+
+Form 17 in Schedule 1 is the form of notice to be given, by a person carrying
+out or intending to carry out work, to cancel an initial notice in accordance
+with section 53D(3) of the 1984 Act.
+
+#### Cancellation of initial notice: notice of contravention of building regulations
+
+21
+
+21.1
+
+Except where paragraph (3) applies, where an approver is of the opinion that
+an initial notice should be cancelled under section 52(1)(c) of the 1984 Act
+for contravention of any provision of building regulations (including for
+contravention of any provision in Part 2A of the 2010 Regulations except
+regulation 11D(3)(a), (8) and (9)) the approver must first give notice in
+writing to the person carrying out the work (C) or, in the case of
+contravention of any provision in Part 2A of the 2010 Regulations, the client
+specifying—
+
+21.1.a
+
+the requirement of building regulations which in the approver’s opinion has
+not been complied with, and
+
+21.1.b
+
+the location of the work which contravenes that requirement.
+
+21.2
+
+Except in a case where the contravention is of any provision in Part 2A of the
+2010 Regulations, a notice given in accordance with paragraph (1) must inform
+C that if, by the end of the period specified in paragraph (4), C has neither
+pulled down nor removed the work nor effected such alterations in it as may be
+necessary to make it comply with building regulations, the approver will
+cancel the initial notice.
+
+21.3
+
+Where the contravention to which the notice under paragraph (1) relates is of
+a provision in Part 2A of the 2010 Regulations then the notice given in
+accordance with paragraph (1) must inform the client that the approver will
+cancel the initial notice if, by the end of the period specified in paragraph
+(4), the client has not effected such alterations to the arrangements for
+carrying out the work and such improvements to the competence of persons
+carrying out the work (or as the case may be, the client), the principal
+contractor or principal designer as may be necessary to ensure the carrying
+out of the work complies with provisions of the building regulations referred
+to in the notice.
+
+21.4
+
+The period within which the person carrying out the work or, as the case may
+be, the client is to remedy the contravention is three months beginning with
+the working day on which the notice under paragraph (1) is given.
+
+### Transfer of projects back to local authority
+
+#### Local authority powers in relation to partly completed work
+
+22
+
+22.1
+
+This paragraph applies where—
+
+22.1.a
+
+any part of the work described in an initial notice has been carried out,
+
+22.1.b
+
+the initial notice has ceased to be in force by reason of regulation 19
+(events causing initial notice to cease to be in force) or has been cancelled
+by notice under section 52 or 53D of the 1984 Act, and
+
+22.1.c
+
+no other initial notice relating to that part of the work has been accepted.
+
+22.2
+
+Where paragraph (1) applies, the owner must—
+
+22.2.a
+
+on being given reasonable notice by the local authority, provide them with—
+
+22.2.a.i
+
+sufficient plans of the work carried out, in respect of which no final
+certificate has been given, to show whether any part of that work would, if
+carried out in accordance with the plans, contravene any provision of the 2010
+Regulations, and
+
+22.2.a.ii
+
+where a plans certificate was given and not rejected in respect of any such
+part of the work, a copy of the plans to which it relates; and
+
+22.2.b
+
+comply with any notice in writing from the local authority requiring the owner
+within a reasonable time to cut into, lay open or pull down so much of the
+work as prevents the local authority from ascertaining whether any work in
+relation to which there is no final certificate contravenes any requirement in
+the 2010 Regulations.
+
+22.3
+
+Where paragraph (1) applies and work in relation to a building has begun but
+not been completed, a person who intends to carry out further work in relation
+to the partly completed work must give the local authority sufficient plans to
+show that the intended work will not contravene any requirement in the 2010
+Regulations, including such plans of any part of the work already carried out
+as may be necessary to show that the intended work can be carried out without
+contravening any such requirement.
+
+22.4
+
+Plans given to a local authority in accordance with paragraph (3) are not to
+be regarded as an application for building control approval with full plans.
+
+#### Periods within which information on work to which an initial notice relates must be provided
+
+23
+
+23.1
+
+For the purposes of section 53(4B) of the 1984 Act, the period within which a
+person shown in the initial notice as the registered building control approver
+(P) is required to give information to the local authority is 21 days
+beginning with the day on which the local authority gives P a notice under
+section 53(4A).
+
+23.2
+
+For the purposes of section 53(4C) of the 1984 Act, the period within P is
+required to give information to the person carrying out or intending to carry
+out the work (C) is—
+
+23.2.a
+
+21 days beginning with the day on which the local authority gave P a notice
+under section 53(4A), or
+
+23.2.b
+
+in relation to information requested by C pursuant to section 53(4C)(c), 21
+days beginning with the date on which C gives P a notice under section
+53(4C)(c).
+
+### Transfer of projects to another approver
+
+#### Section 53(7): prescribed provision
+
+24
+
+For the purposes of section 53(7)(a) of the 1984 Act, section 52(1)(a) of the
+1984 Act is prescribed.
+
+#### Information to be included in transfer certificates
+
+25
+
+For the purposes of section 53B(5) of the 1984 Act, a transfer certificate
+must contain the following information—
+
+25.a
+
+a statement describing the original work and the unfinished work ;
+
+25.b
+
+a statement describing all the steps the approver has taken to determine, in
+accordance with section 53B(2) of the 1984 Act, whether the unfinished work
+contravenes any provision of the building regulations, in particular listing—
+
+25.b.i
+
+each inspection or laying open of the work undertaken;
+
+25.b.ii
+
+each report of any inspection or laying open of work produced;
+
+25.b.iii
+
+any other assessment of the work which was considered;
+
+25.c
+
+a statement setting out the name and address of the registered building
+inspector from whom advice was obtained under section 54B(3) of the 1984 Act
+before giving the transfer certificate;
+
+25.d
+
+a declaration, signed and dated by the approver, confirming—
+
+25.d.i
+
+the approver has inspected the unfinished work;
+
+25.d.ii
+
+the approver has determined that, as at the date of the transfer certificate,
+the unfinished work does not contravene any provision of the building
+regulations;
+
+25.d.iii
+
+each report or assessment referred to the statement under paragraph (b) has
+been included in the transfer report given under section 53B of the 1984 Act;
+
+25.d.iv
+
+the approver has obtained advice from a registered building inspector under
+section 54B(3) of the 1984 Act before giving the transfer certificate, and
+
+25.d.v
+
+the approver has received the agreement of the person carrying out or
+intending to carry out the work to submit the transfer certificate and
+transfer report.
+
+#### Grounds for rejecting a transfer certificate and transfer report
+
+26
+
+The grounds on which a local authority may reject a transfer certificate and
+transfer report are those prescribed in Schedule 5.
+
+#### Cases where a further initial notice may be given after cancellation of an initial notice under section 53D
+
+27
+
+27.1
+
+For the purposes of section 53D(5) of the 1984 Act, the following
+circumstances are prescribed—
+
+27.1.a
+
+the approver has cancelled the initial notice under section 52(1)(a) of the
+1984 Act;
+
+27.1.b
+
+the person carrying out or intending to carry out the work has cancelled the
+initial notice under section 53D(3) of the 1984 Act because they were
+satisfied the approver was unable to carry out (or continue to carry out)
+their functions with respect to any of the work to which the initial notice
+relates;
+
+27.1.c
+
+the approver is given a specified disciplinary order during the relevant
+period (as defined in section 53B(7) of the 1984 Act).
+
+27.2
+
+In this regulation a “ specified disciplinary order ” means—
+
+27.2.a
+
+any disciplinary order under section 58U(2)(b) of the 1984 Act (variation of
+registration) such that the approver is no longer able to carry out their
+functions with respect to any of the work to which the initial notice
+relates ;
+
+27.2.b
+
+any disciplinary order under section 58U(2)(c) of the 1984 Act (suspension of
+registration) excluding any suspension which is as a consequence of functions
+in relation to the unfinished work or work for the person carrying out the
+work;
+
+27.2.c
+
+any disciplinary order under section 58U(2)(d) of the 1984 Act (cancellation
+of registration) excluding any cancellation which is as a consequence of
+functions in relation to the unfinished work or work for the person carrying
+out the work;
+
+27.2.d
+
+an order under section 58V of the 1984 Act (interim suspension for suspected
+serious contravention) excluding any interim suspension which is as a
+consequence of functions in relation to the unfinished work or work for the
+person carrying out the work.
+
+### Appeals under Part 2 of the 1984 Act
+
+#### Appeal under section 50(2) of the 1984 Act
+
+28
+
+28.1
+
+An appeal to the regulator under section 50(2) of the 1984 Act must be made
+within 21 relevant days beginning with the day after the day on which the
+approver refused to give the plans certificate.
+
+28.2
+
+Where a person is aggrieved with the decision of the regulator given on an
+appeal under section 50(2) of the 1984 Act and wishes to appeal that decision
+by virtue of section 43A(3) of the 1984 Act, they must appeal to the First-
+tier Tribunal within 21 relevant days beginning with the day after the day on
+which the regulator notifies them of its decision.
+
+28.3
+
+The First-tier Tribunal may allow an appeal referred to in paragraph (2) only
+if it is satisfied that the decision appealed against was wrong on one or more
+of the following grounds—
+
+28.3.a
+
+that the decision was based on an error of fact,
+
+28.3.b
+
+that the decision was wrong in law,
+
+28.3.c
+
+that the decision was unreasonable,
+
+28.3.d
+
+that the decision was made without following the procedures set out in the
+1984 Act or regulations made under the 1984 Act.
+
+28.4
+
+If the First-tier Tribunal allows an appeal it may quash or vary the decision.
+
+#### Appeals under section 55 of the 1984 Act
+
+29
+
+29.1
+
+An appeal to the First-tier Tribunal—
+
+29.1.a
+
+under section 55(1) of the 1984 Act;
+
+29.1.b
+
+under section 55(2A) of the 1984 Act,
+
+must be made within 21 relevant days beginning with the day after the day on
+which the local authority notifies the approver of its decision.
+
+29.2
+
+The First-tier Tribunal may allow an appeal under paragraph (1)(a) only if it
+is satisfied that the notice, certificate or report referred to in section
+55(1) of the 1984 Act was not properly rejected on one or more of the
+following grounds—
+
+29.2.a
+
+that the rejection was based on an error of fact,
+
+29.2.b
+
+that the rejection was wrong in law,
+
+29.2.c
+
+that the rejection was unreasonable,
+
+29.2.d
+
+that the rejection was made without following the procedures set out in the
+1984 Act or regulations made under the 1984 Act.
+
+29.3
+
+The First-tier Tribunal may allow an appeal under paragraph (1)(b) only if it
+is satisfied that the initial notice was not properly cancelled under section
+52A of the 1984 Act on one or more of the following grounds—
+
+29.3.a
+
+that the cancellation was based on an error of fact,
+
+29.3.b
+
+that the cancellation was wrong in law,
+
+29.3.c
+
+that the cancellation was unreasonable,
+
+29.3.d
+
+that the cancellation was made without following the procedures set out in the
+1984 Act or regulations made under the 1984 Act.
+
+29.4
+
+On determining an appeal under section 55(1) or (2A) of the 1984 Act, the
+First-tier Tribunal must give notice of the decision to—
+
+29.4.a
+
+the person who made the appeal;
+
+29.4.b
+
+the local authority.
+
+29.5
+
+On determining an appeal under section 55(2A) of the 1984 Act, where the
+First-tier Tribunal determines—
+
+29.5.a
+
+that an initial notice was properly cancelled, it must additionally notify the
+regulator of the decision;
+
+29.5.b
+
+that an initial notice was not properly cancelled, it must in the notice
+referred to in paragraph (4) explain the effect of section 55(2C)(a) to (c) of
+the 1984 Act.
+
+### Registers of notices etc. and registration of approvers
+
+#### Register of notices and certificates
+
+30
+
+30.1
+
+The register which local authorities must keep under section 56 of the 1984
+Act must contain the information set out in paragraph (2) with respect to—
+
+30.1.a
+
+initial notices, amendment notices or notices under section 51C of the 1984
+Act which are currently in force, and
+
+30.1.b
+
+plans certificates, transfer certificates and transfer reports or final
+certificates which have been accepted or are presumed to have been accepted.
+
+30.2
+
+The information to be registered is—
+
+30.2.a
+
+the description of the work to which the notice or certificate relates and of
+the location of the work,
+
+30.2.b
+
+the name and address of any person who signed the notice or certificate, and
+
+30.2.c
+
+the date on which the notice or certificate was accepted or was presumed to
+have been accepted.
+
+30.3
+
+A register must include an index for enabling a person to trace any entry in
+the register by reference to the address of the land to which the notice or
+certificate relates.
+
+30.4
+
+The information prescribed in paragraph (2) must be entered in the register as
+soon as practicable and in any event within 14 working days of the date the
+notice or certificate in question is given.
+
+#### Registration periods
+
+31
+
+31.1
+
+For the purposes of section 58C(5) of the 1984 Act (registered building
+inspectors), the prescribed period is four years.
+
+31.2
+
+For the purposes of section 58O(4) of the 1984 Act (registered building
+control approvers), the prescribed period is five years.
+
+#### Notices to local authorities on disciplinary matters in relation to approvers
+
+32
+
+32.1
+
+For the purposes of section 58U(4) of the 1984 Act, the following cases are
+prescribed—
+
+32.1.a
+
+where the disciplinary order provides for a variation to a person’s
+registration;
+
+32.1.b
+
+where the disciplinary order provides for a suspension of a person’s
+registration, regardless of the length of the suspension;
+
+32.1.c
+
+where the disciplinary order provides for a cancellation of a person’s
+registration.
+
+32.2
+
+For the purposes of section 58V(4) of the 1984 Act, the following cases are
+prescribed—
+
+32.2.a
+
+where the order provides for a suspension of a person’s registration,
+regardless of the length of the suspension;
+
+32.2.b
+
+where such an order is revoked.
+
+32.3
+
+For the purposes of section 58Z4(5) of the 1984 Act, the following cases are
+prescribed—
+
+32.3.a
+
+any improvement notice given to a registered building control approver;
+
+32.3.b
+
+where such a notice order is revoked.
+
+#### Review of regulator’s decisions under Part 2A of the 1984 Act
+
+33
+
+33.1
+
+The following decisions are prescribed  for the purposes of section 25(1) of
+the 2022 Act—
+
+33.1.a
+
+a decision not to register an individual as a registered building inspector
+under section 58C(3) of the 1984 Act;
+
+33.1.b
+
+a decision, on the registration of a registered building inspector, for the
+registration to have effect in relation to work of a description which is
+different to that requested in the application;
+
+33.1.c
+
+a decision, on the registration of a registered building inspector, for the
+registration to be subject to a condition;
+
+33.1.d
+
+a decision not to register a person as a registered building control approver
+under section 58O(2) of the 1984 Act;
+
+33.1.e
+
+a decision, on the registration of a registered building control approver, for
+the registration to have effect in relation to work of a description which is
+different to that requested in the application;
+
+33.1.f
+
+a decision, on the registration of a registered building control approver, for
+the registration to be subject to a condition.
+
+33.2
+
+The person prescribed for the purposes of section 25(2) of the 2022 Act in
+relation to the decisions referred to in paragraph (1) is the person who
+applied for registration in accordance with section 58D or, as the case may
+be, section 58P of the 1984 Act.
+
+33.3
+
+For the purposes of section 25 of the 2022 Act, a person requiring the
+regulator  to carry out a review, or a person on their behalf, must give a
+notice to the regulator in writing within 21 relevant days beginning with the
+day after the day on which the decision referred to in paragraph (1) is
+notified to the person, containing the following information—
+
+33.3.a
+
+the name, address, telephone number and (if available) email address for the
+person giving the notice;
+
+33.3.b
+
+if the person giving the notice is doing so on behalf of a person who falls
+within the description in paragraph (2), the name and address of that person
+and a statement that the person giving the notice is authorised to give the
+notice on behalf of that person;
+
+33.3.c
+
+a statement of the review being sought which—
+
+33.3.c.i
+
+identifies the decision to be reviewed (including the date of the decision and
+any reference number included on the decision), and
+
+33.3.c.ii
+
+sets out the reason the person considers the decision should be reviewed;
+
+33.3.d
+
+any information that is available to the person giving the notice, that may
+have been relevant to the regulator’s original decision but was not available
+at the time the original decision was made.
+
+33.4
+
+The regulator must give the person who required a review a notice setting out
+the outcome of the review within 28 relevant days beginning with the day after
+the day on which the person gives a notice under section 25(2) of the 2022
+Act.
+
+33.5
+
+Where the outcome of a review is to uphold the original decision, the
+regulator must set out its reasons in the notice required under paragraph (4).
+
+33.6
+
+Where the outcome of a review is to vary the decision, the regulator must
+issue a new decision.
+
+33.7
+
+If requested, by the person requiring the review, the regulator must provide a
+paper copy of the outcome of the review.
+
+#### Appeal in relation to reviewed decisions
+
+34
+
+34.1
+
+A person may appeal to the First-tier Tribunal against the decision of the
+regulator of a kind referred to in regulation 33(1) (review of regulator’s
+decisions under Part 2A of the 1984 Act) provided that the appeal is made
+within 21 relevant days beginning with the day after the day on which the
+regulator notifies the person under regulation 33(4) .
+
+34.2
+
+The First-tier Tribunal may allow an appeal under paragraph (1) only if it is
+satisfied that the decision appealed against was wrong on one or more of the
+following grounds—
+
+34.2.a
+
+that the decision was based on an error of fact,
+
+34.2.b
+
+that the decision was wrong in law,
+
+34.2.c
+
+that the decision was unreasonable,
+
+34.2.d
+
+that the decision was made without following the procedures set out in the
+1984 Act or regulations made under the 1984 Act.
+
+34.3
+
+If the First-tier Tribunal allows an appeal it may quash or vary the decision.
+
+### Miscellaneous
+
+#### Contravention of certain regulations not to be an offence or be subject to a compliance notice
+
+35
+
+Each of these Regulations, other than regulations 17 (notification of
+dutyholders), 18 (compliance declarations) and 22 (local authority powers in
+relation to partly completed work), is prescribed for the purposes of sections
+35(2) and 35B(7)(a) of the 1984 Act.
+
+#### Consequential amendments to the Regulatory Reform (Fire Safety) Order 2005 and transitional provision
+
+36
+
+36.1
+
+The Regulatory Reform (Fire Safety) Order 2005  is amended in accordance with
+the following paragraphs.
+
+36.2
+
+In article 30(5)(c) after “the approved inspector” insert  “or registered
+building control approver” .
+
+36.3
+
+In article 46(3) for “an approved inspector within the meaning of section 49
+of the Building Act 1984” substitute  “a registered building control approver
+within the meaning of section 58N of the Building Act 1984” .
+
+36.4
+
+The amendment in paragraph (3) does not apply in relation to a person who, by
+virtue of regulation 46 of these Regulations or a provision of Schedule 3 to
+the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 ,
+continues in the capacity of an approved inspector on or after 6th April 2024.
+
+#### Consequential amendments to the Building (Local Authority Charges) Regulations 2010
+
+37
+
+37.1
+
+The Building (Local Authority Charges) Regulations 2010  are amended as
+follows.
+
+37.2
+
+In regulation 2 in the appropriate place insert  ““ the RBCA Regulations ”
+means the Building (Registered Building Control Approvers etc.) (England)
+Regulations 2024;” .
+
+37.3
+
+In regulation 5(1)(d) at the beginning insert  “in relation to Wales,”  and
+after that sub-paragraph, before  “and” , insert—
+
+37.3.da
+
+in relation to England, the consideration of building work reverting to local
+authority control under the RBCA Regulations (a “reversion charge”);
+
+.
+
+37.4
+
+In regulation 8(1)(d) at the beginning insert  “in relation to Wales,”  and
+after that sub-paragraph insert—
+
+37.4.da
+
+in relation to England, any reversion charge shall be payable for building
+work in relation to a building—
+
+37.4.da.i
+
+which has been substantially completed before plans are first given to the
+authority in accordance with regulation 22(2)(a) of the RBCA Regulations, or
+
+37.4.da.ii
+
+in respect of which plans for further building work have been given to the
+authority in accordance with regulation 22(3) of the RBCA Regulations,
+
+on the first occasion on which those plans are or have been given;
+
+.
+
+#### Amendments to the Building Regulations 2010 and transitional provision
+
+38
+
+38.1
+
+The Building Regulations 2010  are amended as follows.
+
+38.2
+
+In regulation 12(7) for “regulation 19 of the Building (Approved Inspectors
+etc.) Regulations 2010” substitute  “regulation 22 of the Building (Registered
+Building Control Approvers etc.) (England) Regulations 2024” .
+
+38.3
+
+In regulation 14(3)(b) for “and (2)” substitute  “, (2) and (2A)” .
+
+38.4
+
+In regulation 18E(2)(c) for “an approved inspector” substitute  “a registered
+building control approver” .
+
+38.5
+
+In regulation 41(3A) for “each results of testing” substitute  “the results of
+the testing” .
+
+38.6
+
+In regulation 47(a)—
+
+38.6.a
+
+in paragraph (iii) after “(3D)” insert  “and (3E)” ;
+
+38.6.b
+
+in paragraph (vi) for “(appeal against refuse to grant certain certificates)”
+substitute  “(unauthorised building work)” .
+
+38.7
+
+In regulation 47A—
+
+38.7.a
+
+in sub-paragraph (c) after “(3D)” insert  “and (3E)” ;
+
+38.7.b
+
+in sub-paragraph (f) for “(appeal against refuse to grant certain
+certificates)” substitute  “(unauthorised building work)” .
+
+38.8
+
+The amendment in paragraph (4) does not apply in relation to a person who, by
+virtue of regulation 46 of these Regulations or a provision of Schedule 3 to
+the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023,
+continues in the capacity of an approved inspector on or after 6th April 2024.
+
+#### Consequential amendment to the Energy Performance of Buildings (England and Wales) Regulations 2012 and transitional provision
+
+39
+
+39.1
+
+In regulation 32(1)(c) of the Energy Performance of Buildings (England and
+Wales) Regulations 2012  for “an approved inspector for the purposes of the
+inspector’s” substitute  “a registered building control approver for the
+purposes of the approver’s” .
+
+39.2
+
+The amendment in paragraph (1) does not apply in relation to a person who, by
+virtue of regulation 46 of these Regulations or a provision of Schedule 3 to
+the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023,
+continues in the capacity of an approved inspector on or after 6th April 2024.
+
+#### Consequential amendments to the Building Safety (Registration of Higher-Risk Buildings and Review of Decisions) (England) Regulations 2023
+
+40
+
+In regulation 1(3) of the Building Safety (Registration of Higher-Risk
+Buildings and Review of Decisions) (England) Regulations 2023 , in the
+definition of “building control body”, after “approved inspector” insert  “or,
+as the case may be, registered building control approver” .
+
+#### Consequential amendments to the Building (Restricted Activities and Functions) (England) Regulations 2023
+
+41
+
+In regulation 3(2)(i) of the Building (Restricted Activities and Functions)
+(England) Regulations 2023 —
+
+41.a
+
+for “regulation 19(1) of the Building (Approved Inspectors etc.) Regulations
+2010 (partly completed work)” substitute  “regulation 22(1) of the Building
+(Registered Building Control Approvers etc.) (England) Regulations 2024 (local
+authority powers in relation to partly completed work)”  ;
+
+41.b
+
+for “regulation 19(2)(a)” substitute  “regulation 22(2)(a)” ;
+
+41.c
+
+for “regulation 19(2)(b)” substitute  “regulation 22(2)(b)” .
+
+#### Amendments to the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023
+
+42
+
+42.1
+
+The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023
+are amended as follows.
+
+42.2
+
+After regulation 27(13) insert—
+
+42.2.13A
+
+For the purposes of section 35B(7)(a) of the 1984 Act (provisions for which
+compliance notice may not be given) paragraphs (6) and (8) are prescribed.
+
+.
+
+42.3
+
+After regulation 28(6) insert—
+
+42.3.6A
+
+For the purposes of section 35B(7)(a) of the 1984 Act (provisions for which
+compliance notice may not be given) paragraph (3) is prescribed.
+
+.
+
+#### Revocations
+
+43
+
+The following provisions are revoked—
+
+43.a
+
+as respects England—
+
+43.a.i
+
+the Building (Approved Inspectors etc.) Regulations 2010 ;
+
+43.a.ii
+
+regulations 34 to 44 of the Building Regulations &c. (Amendment) Regulations
+2012 ;
+
+43.a.iii
+
+regulation 6 of the Building Regulations &c. (Amendment) Regulations 2013 ;
+
+43.a.iv
+
+regulation 10 of the Building Regulations &c. (Amendment) (No. 2) Regulations
+2013 ;
+
+43.a.v
+
+regulation 3 of the Building Regulations &c. (Amendment) Regulations 2014 ;
+
+43.a.vi
+
+regulation 3 of the Building Regulations &c. (Amendment) Regulations 2015 ;
+
+43.a.vii
+
+regulation 3 of the Building Regulations &c. (Amendment) Regulations 2016 ;
+
+43.b
+
+regulation 14 to 16 of the Building Regulations etc. (Amendment) (England)
+Regulations 2021 ;
+
+43.c
+
+regulation 3 of the Building Regulations etc. (Amendment) (England) (No. 2)
+Regulations 2021 ;
+
+43.d
+
+the Building (Approved Inspectors etc.) (Amendment) (England) Regulations 2022
+;
+
+43.e
+
+paragraph 9 of the Schedule to the Building etc. (Amendment) (England) (No. 2)
+Regulations 2022 ;
+
+43.f
+
+the Building (Approved Inspectors etc. and Review of Decisions) (England)
+Regulations 2023 .
+
+#### Transitional provisions: approved inspectors who became approvers
+
+44
+
+44.1
+
+Subject to paragraph (6), this regulation applies where an approved inspector
+who gave an initial notice before 6th April 2024 has become a suitably
+qualified approver in relation to the work described in that notice before
+that date.
+
+44.2
+
+Where this regulation applies then with effect from 6th April 2024 any initial
+notice given by the approved inspector before 6th April 2024 is to be treated
+as if it were given instead by that person in their capacity as an approver
+and these Regulations apply with the modifications in paragraph (3) in
+relation to that person in undertaking functions in relation to the work
+described in the initial notice.
+
+44.3
+
+The modifications referred to in paragraph (2) are that these Regulations have
+effect as if—
+
+44.3.a
+
+in regulation 4 (functions of approvers), paragraph (4)(a)(iv) (Part 2A) were
+omitted;
+
+44.3.b
+
+in relation to any pre-1st October 2023 work—
+
+44.3.b.i
+
+regulations 15 to 18 were omitted;
+
+44.3.b.ii
+
+where an amendment notice is given by the approver to vary the work described
+in the initial notice referred to in paragraph (1), in paragraph 4 of form 2
+(amendment notice) in Schedule 1, sub-paragraph (g) were omitted;
+
+44.3.b.iii
+
+where a final certificate is given by the approver in relation to the work
+described in the initial notice referred to in paragraph (1),   paragraphs 10
+and 11   of form 5 (final certificates) in Schedule 1 were omitted.
+
+44.4
+
+Subject to paragraph (5), for the purposes of this regulation, an approver is
+suitably qualified in relation to the work described in the initial notice
+referred to if the building work is of a type within the scope of the
+registration of the registered building control approver.
+
+44.5
+
+Where an approver is suitably qualified in relation to some of the work
+described in an initial notice then paragraph (2) has effect in relation only
+to the part of the building work within the scope of the registration and they
+continue to be treated as an approved inspector, and regulation 45
+(transitional provisions: approved inspectors who did not become approvers)
+applies, in relation to the other part of the work described in the initial
+notice.
+
+44.6
+
+This regulation does not apply to higher-risk building work .
+
+#### Transitional provisions: approved inspectors who did not become approvers
+
+45
+
+45.1
+
+Subject to paragraph (6), this regulation applies where an approved inspector
+who gave an initial notice before 6th April 2024 did not become a suitably
+qualified approver before that date.
+
+45.2
+
+Where this regulation applies then, notwithstanding the revocations in
+regulation 43 (revocations), with effect from 6th April 2024, in relation to
+any building work in the initial notice referred to in paragraph (1) for which
+the approved inspector is not a suitably qualified approver, the AI
+Regulations continue to have effect until 1st October 2024 with the
+modifications in paragraph (3).
+
+45.3
+
+The modifications referred to in paragraph (2) are that the AI Regulations
+have effect as if—
+
+45.3.a
+
+the approved inspector were not permitted to give an initial notice on or
+after 6th April 2024 and accordingly regulation 10 (form, grounds and period
+for rejecting initial notices) and forms 1 and 4 (initial notice and combined
+initial notice) in Schedule 1 (forms) were omitted;
+
+45.3.b
+
+in regulation 8 (functions of approvers) the reference to “Part 2A
+(dutyholders and competence)” were omitted;
+
+45.3.c
+
+in relation to pre-1st October 2023 work—
+
+45.3.c.i
+
+regulations 16B to 16E were omitted;
+
+45.3.c.ii
+
+where an amendment notice is given by the approved inspector to vary the work
+described in the initial notice referred to in paragraph (1), in paragraph 4
+of form 2 (amendment notice) in Schedule 1, sub-paragraph (g) were omitted;
+
+45.3.c.iii
+
+where a final certificate is given by the approved inspector in relation to
+the work described in the initial notice referred to in paragraph (1),
+paragraphs 10A and 10B of form 5 (final certificates) in Schedule 1 were
+omitted.
+
+45.4
+
+Subject to paragraph (5), for the purposes of this regulation, a person is not
+a suitably qualified approver—
+
+45.4.a
+
+if they are not a registered building control approver in relation to any
+work, or
+
+45.4.b
+
+in relation to the initial notice referred to in paragraph (1), if all of the
+building work described in the notice is of a type that is not within the
+scope of the registration of the registered building control approver.
+
+45.5
+
+Where an approved inspector has become a registered building control approver
+before 6th April 2024 but, in relation to the initial notice referred to in
+paragraph (1), some of the building work described in the notice is of a type
+that is not within the scope of their registration then paragraph (2) has
+effect in relation only to the part of the building work not within the scope
+of the registration.
+
+45.6
+
+This regulation does not apply to higher-risk building work.
+
+#### Transitional provisions: higher-risk building work regarded as sufficiently progressed
+
+46
+
+46.1
+
+This regulation applies in relation to any initial notice given before 1st
+October 2023 in respect of higher-risk building work where—
+
+46.1.a
+
+a notice under paragraph 1(4) (notice that work had sufficiently progressed)
+of Schedule 3 to the Building (Higher-Risk Buildings Procedures) (England)
+Regulations 2023  in relation to work to that building was received by a local
+authority before 6th April 2024, and
+
+46.1.b
+
+the approved inspector who gave the initial notice became an approver before
+6th April 2024.
+
+46.2
+
+Where this regulation applies then with effect from 6th April 2024 for so long
+as the initial notice continues in force on or after that date—
+
+46.2.a
+
+the initial notice given by the approved inspector is to be treated as if it
+were given instead by that person in their capacity as an approver,
+
+46.2.b
+
+these Regulations apply in relation to the approver in respect of the work
+described in that initial notice with the modifications in paragraph (4), and
+
+46.2.c
+
+Parts 2 to 6 of, and paragraph 7 of Schedule 3 to, the Building (Higher-Risk
+Buildings Procedures) (England) Regulations 2023 do not apply to the work.
+
+46.3
+
+In cases where this regulation applies and the work described in the initial
+notice referred to in paragraph (1) is completed on or after 6th April 2024
+then, with effect from that date, regulation 58 of the Building (Higher-Risk
+Buildings Procedures) (England) Regulations 2023 has effect as if for
+paragraphs (2) to (4) there were substituted—
+
+46.3.2
+
+In relation to regulation 46 transitional work, a final certificate given by a
+registered building control approver to a local authority in accordance with
+the Building (Registered Building Control Approvers etc.) (England)
+Regulations 2024 and not rejected by the authority is also prescribed as a
+completion certificate for the purposes of section 76(5) of the 2022 Act.
+
+46.3.3
+
+In this regulation “ regulation 46 transitional work ” means work of a kind
+referred to in section 76(1) of the 2022 Act which is completed on or after
+6th April 2024 and regulation 46 of the Building (Registered Building Control
+Approvers etc.) (England) Regulations 2024 (transitional provisions: higher-
+risk building work regarded as sufficiently progressed) applied to the work.
+
+.
+
+46.4
+
+The modifications referred to in paragraph (2) are that these Regulations have
+effect as if—
+
+46.4.a
+
+in regulation 4 (functions of approvers), paragraph (4)(a)(iv) (Part 2A) were
+omitted;
+
+46.4.b
+
+in regulation 15 (notices), paragraphs (2) to (9) were omitted;
+
+46.4.c
+
+regulations 16 to 18 were omitted;
+
+46.4.d
+
+where an amendment notice is given by the approver to vary the work described
+in the initial notice referred to in paragraph (1) and provided the amendment
+notice does not vary any of the work to become higher-risk building work then—
+
+46.4.d.i
+
+regulation 7 (invalid notices or certificates) did not apply in relation to
+that amendment notice;
+
+46.4.d.ii
+
+in paragraph 4 of form 2 (amendment notice) in Schedule 1, sub-paragraph (g)
+were omitted;
+
+46.4.d.iii
+
+in paragraph 11 of form 2 (amendment notice) in Schedule 1—
+
+46.4.d.iii.aa
+
+the words “and that the work described in this notice is within the scope of
+its registration” were omitted;
+
+46.4.d.iii.bb
+
+sub-paragraph (c) were omitted;
+
+46.4.e
+
+where a plans certificate is given by the approver in relation to the work
+described in the initial notice referred to in paragraph (1)—
+
+46.4.e.i
+
+regulation 7 (invalid notices or certificates) did not apply in relation to
+the plans certificate;
+
+46.4.e.ii
+
+in paragraph 2 of form 3 (plans certificates) in Schedule 1, the words “and
+that the work described in this certificate is within the scope of its
+registration” were omitted;
+
+46.4.e.iii
+
+in paragraph 9 of form 3 (plans certificates) in Schedule 1, sub-paragraph (d)
+were omitted;
+
+46.4.f
+
+where a final certificate is given by the approver in relation to the work
+described in the initial notice referred to in paragraph (1)—
+
+46.4.f.i
+
+regulation 7 (invalid notices or certificates) did not apply in relation to
+the final certificate;
+
+46.4.f.ii
+
+in paragraph 2 of form 5 (final certificates) in Schedule 1, sub-paragraph (b)
+were omitted;
+
+46.4.f.iii
+
+  paragraphs 10, 11 and 13   of form 5 (final certificates) in Schedule 1 were
+omitted;
+
+46.4.g
+
+where the initial notice referred to in paragraph (1) is cancelled, Part 5
+(transfer of projects to another approver) were omitted;
+
+46.4.h
+
+where the building work described in the initial notice started before 6th
+April 2024, Part 5 (transfer of projects to another approver) were omitted.
+
+#### Transitional provisions: cases where building work supervised by approved inspector is not completed before October 2024
+
+47
+
+47.1
+
+Subject to paragraph (3), this regulation applies where an initial notice was
+given by an approved inspector under section 47 of the 1984 Act before 6th
+April 2024 and the building work, or part of the building work, described in
+the initial notice has not been given a final certificate before 1st October
+2024.
+
+47.2
+
+Where this regulation applies then for the purposes of section 47(4)(b)(ii) of
+the 1984 Act the initial notice ceases to be in force with effect from 1st
+October 2024.
+
+47.3
+
+This regulation does not apply to—
+
+47.3.a
+
+higher-risk building work;
+
+47.3.b
+
+any initial notice or part of an initial notice which is to be treated as
+given by an approver by virtue of regulation 44 (transitional provisions:
+approved inspectors who became approvers).
+
+#### Interpretation of Part 8
+
+48
+
+In this Part—
+
+      “ AI Regulations ” means the Building (Approved Inspectors etc.)
+Regulations 2010;           “ approved inspector ” has the meaning given in
+section 49 of the Building Act 1984 (as that section had effect immediately
+before 6th April 2024);           “building” and “building work” have the
+meanings given in regulation 2(1) of the 2010 Regulations;           “ pre-1st
+October 2023 work ” means building work to which regulation 20(1) of the
+Building (Approved Inspectors etc. and Review of Decisions) (England)
+Regulations 2023 applied immediately before 6th April 2024 provided the work
+had started before 6th April 2024.
+
+      Signed by authority of the Secretary of State for Levelling Up, Housing
+and Communities       Lee Rowley   Minister of State   Department for
+Levelling Up, Housing and Communities     28th January 2024
+
+  Forms
+
+Regulations 6, 7, 8, 11, 13, 14 and 20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Grounds for Rejecting an Initial Notice, an Amendment Notice or a Plans
+Certificate Combined with an Initial Notice
+
+Regulations 6, 8 and 11
+
+##### Form
+
+1
+
+The notice is not in the prescribed form.
+
+##### Wrong local authority
+
+2
+
+No part of the work described in the notice is to be carried out in the area
+of the local authority to whom the notice has been given.
+
+##### Capacity of approver
+
+3
+
+The person who signed the notice as an approver is not an approver on the date
+the notice is rejected or if they are an approver on that date, their
+registration does not include all the work described in the notice.
+
+4
+
+Additionally, in the case of an amendment notice, the person who signed the
+amendment notice as an approver is not the approver who gave the initial
+notice.
+
+##### Breach of section 54B
+
+5
+
+The person specified in the notice as the registered building inspector who
+gave advice in relation to that notice—
+
+5.a
+
+was not a registered building inspector on the date the notice was submitted;
+or
+
+5.b
+
+was a registered building inspector on that date but their registration did
+not include all the work described in the notice.
+
+##### Information about the proposed work
+
+6
+
+Neither the notice nor the accompanying plans and documents include—
+
+6.a
+
+the location and a description of the work, including the use of any building
+to which the work relates;
+
+6.b
+
+information needed by the local authority to decide whether the notice is to
+be rejected on ground 10 or 11;
+
+6.c
+
+information as to whether or not the work concerns a new dwelling;
+
+6.d
+
+a statement setting out the date when work will reach the point when it is to
+be regarded as commenced and, if applicable, the details of the work which the
+client considers amounts to 15% of the proposed work;
+
+6.e
+
+in the case of an initial notice or an amendment notice in relation to a new
+dwelling, either—
+
+6.e.i
+
+a statement whether or not one or more, and if so which, of the following
+optional requirements applies to the building work—
+
+6.e.i.aa
+
+regulation 36(2)(b) (optional water efficiency requirement of 110 litres per
+person per day),
+
+6.e.i.bb
+
+Schedule 1 Part M optional requirement M4(2) (category 2- accessible and
+adaptable dwellings),
+
+6.e.i.cc
+
+Schedule 1 Part M optional requirement M4(3) (category 3- wheelchair user
+dwellings), or
+
+6.e.ii
+
+a statement that planning permission has not yet been granted for the work,
+and that the information required by sub-paragraph (i) will be supplied as
+soon as is reasonably practicable after that permission is granted;
+
+6.f
+
+in the case of an initial notice or amendment notice in relation to the
+erection of a new dwelling—
+
+6.f.i
+
+a statement giving details of any public electronic communications network in
+relation to which a connection is to be provided;
+
+6.f.ii
+
+if an exemption in regulation 44ZB of the 2010 Regulations is proposed to be
+relied on, a statement giving details in support of the exemption;
+
+6.f.iii
+
+if regulation 44ZC of those Regulations is proposed to be relied on, a
+statement giving details of the matters mentioned in regulation 44ZC(6)(a) and
+(b) of those Regulations and, if paragraph RA1(1)(c)(i) or (ii) of Schedule 1
+to those Regulations is also proposed to be relied on, evidence of the steps
+taken to establish whether, and if so where, a distribution point for a
+gigabit-capable public electronic communications network (as defined in
+regulation 44C of those Regulations) is likely to be installed, in a location
+relevant for the purposes of paragraph RA1(1)(c) of that Schedule, within the
+period of two years beginning with the day on which the notice is given;
+
+6.g
+
+in the case of a plans certificate combined with an initial notice, a
+statement in accordance with sub-paragraph (e)(i).
+
+##### Fire and rescue authority
+
+7
+
+The approver is obliged by regulation 9 to consult the fire and rescue
+authority before giving a plans certificate or final certificate, and the
+notice does not contain an undertaking to do so.
+
+##### Sewerage undertaker
+
+8
+
+The approver is obliged by regulation 10 to consult the sewerage undertaker
+before giving a plans certificate or final certificate, and the notice does
+not contain an undertaking to do so.
+
+##### Independence
+
+9
+
+The notice does not contain a declaration by the approver that the approver
+does not, and while the initial notice is in force will not, have any
+professional or financial interest in that work.
+
+##### Drain connection
+
+10
+
+In the case of the erection or extension of a building, the local authority
+considers that, in order to comply with the requirements of Part H of Schedule
+1 to the 2010 Regulations, a proposed drain or private sewer must discharge to
+an existing sewer, but the statement accompanying the notice does not describe
+such an arrangement.
+
+##### Local enactments
+
+11
+
+The local authority is not satisfied that the work described will comply with
+any local enactment which requires or authorises them to reject an application
+for building control approval submitted in accordance with building
+regulations.
+
+##### Commencement of work
+
+12
+
+Where a statement setting out the details of the work which the client
+considers amounts to 15% of all the work described in the notice has been
+provided, the local authority is not satisfied that the work described in the
+statement amounts to 15% of all the work described in the notice.
+
+##### Earlier notice
+
+13
+
+13.1
+
+Except where sub-paragraph (2) applies, an initial notice (“an earlier
+notice”) has already been given in respect of any part of the work described
+in the notice.
+
+13.2
+
+The ground in sub-paragraph (1) does not apply if—
+
+13.2.a
+
+an earlier notice has ceased to be in force and the local authority has taken
+no positive step to supervise the work described in it; or
+
+13.2.b
+
+the notice is accompanied by an undertaking by the approver who gave an
+earlier notice to the effect that the approver will cancel that notice as soon
+as the initial notice under consideration is accepted.
+
+  Grounds for rejecting a plans certificate or plans certificate combined with
+an initial notice
+
+Regulation 11
+
+##### Form
+
+1
+
+The certificate is not in the prescribed form.
+
+##### Wrong building control authority
+
+2
+
+No part of the work described in the plans certificate is to be carried out in
+the area of the local authority to whom the certificate has been given.
+
+##### Work
+
+3
+
+The certificate does not describe the work to which it relates.
+
+##### Optional requirements
+
+4
+
+The certificate does not contain—
+
+4.a
+
+information whether or not the work concerns a new dwelling; or
+
+4.b
+
+in the case of a new dwelling, information whether or not one or more, and if
+so which, of the following optional requirements applies to the building work—
+
+4.b.i
+
+regulation 36(2)(b) (optional water efficiency requirement of 110 litres per
+person per day),
+
+4.b.ii
+
+Schedule 1 Part M optional requirement M4(2) (category 2- accessible and
+adaptable dwellings),
+
+4.b.iii
+
+Schedule 1 Part M optional requirement M4(3) (category 3- wheelchair user
+dwellings); or
+
+4.c
+
+in the case of a plans certificate relating to a new dwelling, a statement
+that it relates only to such part of the work to which no requirement under
+regulation 36 of, or requirements M4(1), (2) or (3) of Schedule 1 to, the
+Building Regulations 2010 may apply.
+
+##### Plans
+
+5
+
+The certificate does not specify the plans to which it relates.
+
+##### No initial notice
+
+6
+
+Except where the plans certificate is combined with an initial notice, no
+initial notice was in force with respect to the work described in the
+certificate at the time the certificate was given.
+
+##### Capacity of approver
+
+7
+
+An initial notice was in force with respect to the work described in the
+certificate at the time the certificate was given, but—
+
+7.a
+
+the certificate is not signed by the approver who gave the initial notice,
+
+7.b
+
+the person who signed the certificate is not an approver on the date the
+notice is rejected, or
+
+7.c
+
+where they are an approver, their registration does not include all the work
+described in the certificate.
+
+##### Breach of section 54B
+
+8
+
+The person specified in the certificate as the registered building inspector
+who gave advice in relation to that certificate—
+
+8.a
+
+was not a registered building inspector on the date the certificate was
+submitted, or
+
+8.b
+
+was a registered building inspector on that date but their registration did
+not include all the work described in the certificate.
+
+##### Fire and rescue authority
+
+9
+
+The approver was obliged by regulation 9 to consult the fire and rescue
+authority before giving the certificate, but the certificate does not contain
+a declaration that the approver has consulted them in accordance with that
+regulation.
+
+##### Sewerage undertaker
+
+10
+
+The approver was obliged by regulation 10 to consult the sewerage undertaker
+before giving the certificate, but the certificate does not contain a
+declaration that the approver has consulted them in accordance with that
+regulation.
+
+##### Independence
+
+11
+
+The certificate does not contain a declaration by the approver that the
+approver has not since giving the initial notice in question had any
+professional or financial interest in that work.
+
+  Grounds for rejecting a final certificate
+
+Regulation 13
+
+##### Form
+
+1
+
+The certificate is not in the prescribed form.
+
+##### Wrong building control authority
+
+2
+
+No part of the work described in the final certificate was carried out in the
+area of the local authority to whom the certificate has been given.
+
+##### Work
+
+3
+
+The certificate does not describe the work to which it relates.
+
+##### Optional requirements
+
+4
+
+The certificate does not contain information—
+
+4.a
+
+whether or not the work concerns a new dwelling; or
+
+4.b
+
+in the case of a new dwelling, information whether or not one or more, and if
+so which, of the following optional requirements applies to the building work—
+
+4.b.i
+
+regulation 36(2)(b) (optional water efficiency requirement of 110 litres per
+person per day),
+
+4.b.ii
+
+Schedule 1 Part M optional requirement M4(2) (category 2- accessible and
+adaptable dwellings),
+
+4.b.iii
+
+Schedule 1 Part M optional requirement M4(3) (category 3- wheelchair user
+dwellings).
+
+##### No initial notice
+
+5
+
+No initial notice was in force with respect to the work described in the
+certificate at the time the certificate was given.
+
+##### No plans certificate
+
+6
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Capacity of approver
+
+7
+
+An initial notice was in force with respect to the work described in the
+certificate at the time the certificate was given, but—
+
+7.a
+
+the certificate is not signed by the approver who gave the initial notice,
+
+7.b
+
+the person who signed the certificate is not an approver on the date the
+certificate is rejected, or
+
+7.c
+
+where they are an approver, their registration does not include all the work
+described in the certificate.
+
+##### Breach of section 54B
+
+8
+
+The person specified in the certificate as the registered building inspector
+who gave advice in relation to that certificate—
+
+8.a
+
+was not a registered building inspector on the date the certificate was
+submitted, or
+
+8.b
+
+was a registered building inspector on that date but their registration did
+not include all the work described in the certificate.
+
+##### Lack of fire safety information confirmation
+
+9
+
+Regulation 38 of the Building Regulations 2010, as modified by regulation 5
+(modifications of the 2010 Regulations), applies to the building work to which
+the final certificate relates and the approver has not provided a confirmation
+that the person carrying out the work has notified the approver to the effect
+that the fire safety information has been given to the responsible person as
+required by that regulation.
+
+##### Independence
+
+10
+
+The certificate does not contain a declaration by the approver that the
+approver has not since giving that notice had any professional or financial
+interest in that work.
+
+  Grounds for rejecting a transfer certificate and transfer report
+
+Regulation 26
+
+##### Required information
+
+1
+
+The transfer certificate does not include the information required by
+regulation 25 (information to be included in transfer certificates).
+
+##### Wrong local authority
+
+2
+
+No part of the unfinished work described in the transfer certificate is to be
+carried out in the area of the local authority to whom the transfer
+certificate has been given.
+
+##### No initial notice
+
+3
+
+No new initial notice under section 53(7)(a) of the 1984 Act was in force with
+respect to the work described in the transfer certificate at the time the
+transfer certificate was given.
+
+##### Capacity of approver
+
+4
+
+A new initial notice was in force with respect to the unfinished work
+described in the transfer certificate at the time the certificate was given,
+but—
+
+4.a
+
+the certificate is not signed by the approver who gave the new initial notice,
+
+4.b
+
+the person who signed the certificate is not an approver on the date the
+certificate is rejected, or
+
+4.c
+
+where they are an approver, their registration does not include all the work
+described in the certificate.
+
+##### Breach of section 54B
+
+5
+
+The person specified in the certificate as the registered building inspector
+who gave advice in relation to that certificate—
+
+5.a
+
+was not a registered building inspector on the date the certificate was
+submitted; or
+
+5.b
+
+was a registered building inspector on that date but their registration did
+not include all the work described in the certificate.
+
+##### Earlier notice
+
+6
+
+6.1
+
+Except where sub-paragraph (2) applies, a new initial notice under section
+53(7)(a) of the 1984 Act (“an earlier notice”) has already been given in
+respect of any part of the unfinished work described in the notice.
+
+6.2
+
+The ground in sub-paragraph (1) does not apply if—
+
+6.2.a
+
+an earlier notice has ceased to be in force and the local authority has taken
+no positive step to supervise the work described in it, or
+
+6.2.b
+
+the notice is accompanied by an undertaking by the approver who gave an
+earlier notice to the effect that the approver will cancel that notice as soon
+as the initial notice under consideration is accepted.
+
+##### Local authority action
+
+7
+
+7.1
+
+The local authority has given a section 36 notice, a compliance notice or a
+stop notice in relation to the unfinished work .
+
+7.2
+
+The local authority received an application in relation to the whole or part
+of the unfinished work in accordance with regulation 18 of the 2010
+Regulations.
+
+7.3
+
+The local authority has otherwise taken any positive step to supervise the
+unfinished work.
+
+##### Failure to provide information requested
+
+8
+
+The approver has been given a request under section 53C(4) of the 1984 Act but
+failed to provide the information within the period referred to in that
+section.
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations revoke, in relation to England, the Building (Approved
+Inspectors etc.) Regulations 2010 ( S.I. 2010/2215 ) (“ the AI Regulations ”)
+with the amendments to those Regulations made by  S.I. 2015/767 ,  2016/285 ,
+2021/1391 ,  2021/1392 ,  2022/718  and  2023/906 . They also revoke and
+include in this instrument provisions relating to the registration and review
+in regulations 3 to 5 of the Building (Approved Inspectors, Review of
+Decisions) (England) Regulations 2023 ( S.I. 2023/906 ).
+
+  Section 47 of the Building Act  1984 (c. 55)  (“ the 1984 Act ”) provides
+that the responsibility for inspecting plans and building work for compliance
+with building regulations may, at the option of the person intending to carry
+out the work, be given to a registered building control approver (“approver”)
+instead of to the local authority.
+
+  Part 2 of these Regulations makes provision about the supervision of
+building work by approvers, including the independence of approvers, their
+functions and how provisions of the Building Regulations 2010 ( S.I. 2010/2214
+) are modified in their application to approvers.
+
+  Regulation 3 derives from regulation 9 of the AI Regulations.
+
+  Regulation 4 derives from regulation 8 of the AI Regulations.
+
+  Regulation 5 derives from regulation 20 of the AI Regulations.
+
+  Part 3 of these Regulations makes provision in relation to procedural
+requirements, including the forms to be used for initial notices, amendment
+notices, plans certificates and final certificates, the grounds for rejecting
+these notices and certificates, the period for rejecting them, consultation
+requirements.
+
+  Regulation 6 and forms 1 and 6 derive from regulation 10 of, and forms 1 and
+5A in Schedule 1 to, the AI Regulations. Schedule 2 derives from Schedule 2 to
+the AI Regulations.
+
+  Regulation 7 derives from regulation 10A of the AI Regulations.
+
+  Regulation 8 and form 2 derive from regulation 11 of, and form 2 in Schedule
+1 to, the AI Regulations.
+
+  Regulation 9 derives from regulation 12 of the AI Regulations.
+
+  Regulation 10 derives from regulation 13 of the AI Regulations.
+
+  Regulation 11 and forms 3 and 4 derive from regulation 14 of, and forms 3
+and 4 in Schedule 1 to, the AI Regulations. Schedule 3 derives from Schedule 3
+to the AI Regulations.
+
+  Regulation 12 derives from regulation 15 of the AI Regulations.
+
+  Regulation 13 and form 5 derive from regulation 16 of, and form 5 in
+Schedule 1 to, the AI Regulations. Schedule 4 derives from Schedule 4 to the
+AI Regulations.
+
+  Regulation 14 and form 7 derive from regulation 16A of, and form 5B in
+Schedule 1 to, the AI Regulations.
+
+  Regulation 15 derives from regulation 16B of the AI Regulations.
+
+  Regulation 16 derives from regulation 16C of the AI Regulations.
+
+  Regulation 17 derives from regulation 16D of the AI Regulations.
+
+  Regulation 18 derives from regulation 16E of the AI Regulations.
+
+  Regulation 19 derives from regulation 17 of the AI Regulations.
+
+  Regulations 20 and 21 and forms 8 to 10 and 12 to 14 derive from regulation
+18 and forms 6, 7, 8, 8A, 8B, 8C in Schedule 1 to, the AI Regulations.
+Regulation 20 provides for new form 11 which is the form of notice a local
+authority must give under section 52(7) of the 1984 Act; new forms 15, 16 and
+17 which are the notices to be used to cancel an initial notice where a plans
+certificate is required and has not been given; new forms 18 and 19 which are
+the notices to be used to cancel an initial notice under section 53D(2) and
+(3) of the 1984 Act.
+
+  Part 4 of these Regulations sets out the procedures where building work
+reverts to a local authority on an initial notice ceasing to be in force.
+
+  Regulation 22 derives from regulation 19 of the AI Regulations.
+
+  Part 5 of these Regulations makes new provision for where an initial notice
+ceases to be in force and a new registered building control approver is
+appointed. In particular regulation 25 makes provision as to the content of a
+transfer certificate and regulation 26 and Schedule 5 set out the grounds for
+rejecting a transfer certificate and transfer report.
+
+  Part 6 of these Regulations sets out provisions relating to appeals under
+sections 50 and 55 of the 1984 Act.
+
+  Regulation 28 derives from regulation 29A of the AI Regulations.
+
+  Regulation 29 derives from regulation 29B of the AI Regulations.
+
+  Part 7 of these Regulations provides in regulation 30 for the content of
+local registers of notices and certificates, regulation 31 provides for the
+length of registration periods for registered building control approvers and
+registered building inspectors, regulation 32 sets out new provision as to
+when copies of disciplinary sanctions issued against approvers must be sent to
+local authorities in England and regulations 33 and 34 makes provisions as to
+the decisions in Part 2A which may be reviewed and the right of appeal and
+procedure for an appeal following a review.
+
+  Regulation 30 derives from regulation 30 of the AI Regulations.
+
+  Regulation 31 derives from regulation 3 of  S.I. 2023/906 .
+
+  Regulation 33 derives from regulation 4 of  S.I. 2023/906 .
+
+  Regulation 34 derives from regulation 5 of  S.I. 2023/906 .
+
+  Part 8 of these Regulations contains miscellaneous provisions including a
+number of consequential amendments to other instruments, the revocations
+mentioned above and transitional provisions relating to those revocations.
+
+  Regulation 35 derives from regulation 31 of the AI Regulations.
+
+  A full impact assessment of the effect that this instrument will have on the
+costs to business is published with an Explanatory Memorandum alongside the
+instrument on  www.legislation.gov.uk .
+

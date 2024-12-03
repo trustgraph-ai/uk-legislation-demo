@@ -1,0 +1,188 @@
+Title: The Smoke, Heat and Carbon Monoxide Alarms for Private Tenancies Regulations (Northern Ireland) 2024
+Date: 2024-09-18
+Description: These Regulations set minimum standards for the purpose of determining whether a landlord of a private tenancy has complied with the duty contained in Article 11B(1) of the Private Tenancies (Northern Ireland) Order 2006 (S.I. 2006 No. 1459 (N.I. 10) to keep in repair and working order sufficient appliances for detecting fire, smoke or carbon monoxide.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2024/123
+
+## The Smoke, Heat and Carbon Monoxide Alarms for Private Tenancies Regulations (Northern Ireland) 2024
+
+Landlord’s And Tenant
+
+Made 30 th May 2024
+
+Coming into operation in accordance with regulation 1(2)
+
+The Department for Communities makes the following Regulations in exercise of
+the power conferred by Article 11B(2) and Article 72(1)(d) of the Private
+Tenancies (Northern Ireland) Order 2006 .
+
+### Citation and commencement
+
+1
+
+1.1
+
+These Regulations may be cited as the Smoke, Heat and Carbon Monoxide Alarms
+for Private Tenancies Regulations (Northern Ireland) 2024.
+
+1.2
+
+These Regulations shall come into operation in respect of all—
+
+1.2.a
+
+new private tenancies from 1st September 2024; and
+
+1.2.b
+
+other private tenancies from 1st December 2024.
+
+### Interpretation
+
+2
+
+In these Regulations—
+
+“British Standard BS 5839-6” is the standard for planning, design,
+installation, commissioning and maintenance of fire detection and fire alarm
+systems (in domestic premises) compiled by the British Standards Institution;
+“British Standard BS EN 50292” is the standard for the selection, installation
+use and maintenance of electrical apparatus for the detection of carbon
+monoxide in domestic premises compiled by the British Standards Institution; “
+carbon monoxide alarm ” means a device that detects the presence of carbon
+monoxide and gives warning to prevent carbon monoxide poisoning; “ circulation
+space ” means a hall, stairs, landing or corridor; “ fixed combustion
+appliance ” includes a fixed apparatus where fuel of any type is burned to
+generate heat and includes boilers, fires (including open fires), heaters and
+stoves fuelled by solid fuel, oil or gas, but excludes a gas cooker or a gas
+oven; “ flue ” means a pipe or channel, including a chimney of a fire that has
+not been put beyond use, that leads to the outside of a dwelling-house, taking
+smoke, gases or hot air away from a fixed combustion appliance; “ heat alarm ”
+means a device designed to detect heat instead of smoke, which contains a
+thermistor set to respond to temperatures above 58°C by sounding an alarm; “
+integral garage ” means an attached garage that is built within the walls of
+the main dwelling-house and is structurally connected to the house, it can be
+accessed either via an internal door or from outside the dwelling-house; “ new
+private tenancy ” means a private tenancy granted on or after 1st September
+2024; “ open plan living area ” means an area where there are no walls
+dividing a kitchen and a space used by the occupants for general day time
+living purposes; “ room ” includes an integral garage.
+
+### Minimum number of smoke, heat and carbon monoxide alarms
+
+3
+
+3.1
+
+Subject to paragraph (2), a landlord in respect of a private tenancy must
+ensure that each dwelling-house has—
+
+3.1.a
+
+a smoke alarm installed in—
+
+3.1.a.i
+
+the room, including an open plan living area, which is most frequently used by
+the occupants for general daytime living purposes; and
+
+3.1.a.ii
+
+every circulation space on each storey;
+
+3.1.b
+
+a heat alarm installed in every kitchen; and
+
+3.1.c
+
+a carbon monoxide alarm installed in any room or circulation space of the
+dwelling-house which contains a fixed combustion appliance or a flue.
+
+3.2
+
+Where the proximity of an open fireplace would make a smoke alarm
+impracticable, a heat alarm may be fitted.
+
+3.3
+
+A landlord may dispense with the paragraph (1)(a)(i) requirement relating to a
+smoke alarm in circumstances where the room includes an open plan living area,
+provided the heat alarm in the kitchen is installed in a position where it is
+not more than 7.5 metres from any point in the room.
+
+3.4
+
+The landlord must ensure that each smoke, heat or carbon monoxide alarm is—
+
+3.4.a
+
+in proper working order at the beginning of every new tenancy;
+
+3.4.b
+
+replaced when notified the alarm is faulty;
+
+3.4.c
+
+replaced before the manufacturer’s specified date of expiry.
+
+### Requirements for alarms
+
+4
+
+4.1
+
+Alarms specified at regulation 3(1) to (3) must be—
+
+4.1.a
+
+smoke and heat alarms interlinked;
+
+4.1.b
+
+installed alarms which may either be hard wired or battery sealed or a
+combination of both.
+
+4.2
+
+Smoke and heat alarms must be installed and maintained in accordance with
+British Standard BS 5839-6;
+
+4.3
+
+Carbon monoxide alarms must be installed and maintained in accordance with
+British Standard BS EN 50292 and do not need to be interlinked.
+
+4.4
+
+In relation to paragraph (1)(b) battery sealed alarms should be tamper-proof
+units with long life batteries.
+
+Sealed with the Official Seal of the Department for Communities on 30th May
+2024 David Polley A senior officer of the Department for Communities
+
+## EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations set minimum standards for the purpose of determining whether
+a landlord of a private tenancy has complied with the duty contained in
+Article 11B(1) of the Private Tenancies (Northern Ireland) Order 2006 ( S.I.
+2006 No. 1459 (N.I. 10)  to keep in repair and working order sufficient
+appliances for detecting fire, smoke or carbon monoxide.
+
+Regulations 1 and 2 set out preliminary matters and define terms used in the
+Regulations.
+
+Regulation 3 sets out the duties of a landlord in relation to the minimum
+number of smoke, heat and carbon monoxide alarms required in a dwelling-house.
+
+Regulation 4 stipulates the alarm requirements to meet the British Standards.
+
+Guidance on the implementation of the Smoke, Heat and Carbon Monoxide Alarms
+for Private Tenancies Regulations (Northern Ireland) 2024 has been published
+and is available on the Department for Communities website at
+https://www.communities-ni.gov.uk/articles/smoke-heat-and-carbon-monoxide-
+alarms-private-tenancies-regulations-northern-ireland-2024-guidance .
+

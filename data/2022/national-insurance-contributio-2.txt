@@ -1,0 +1,740 @@
+Title: National Insurance Contributions Act 2022
+Date: 2024-07-02
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ukpga/2022/9
+
+## National Insurance Contributions Act 2022
+
+      B e it enacted  by the Queen’s most Excellent Majesty, by and with the
+advice and consent of the Lords Spiritual and Temporal, and Commons, in this
+present Parliament assembled, and by the authority of the same, as follows:—
+
+### Secondary Class 1 contributions
+
+####  
+
+##### Zero-rate contributions for employees at  
+
+1
+
+1.1
+
+This section applies where—
+
+1.1.a
+
+a secondary Class 1 contribution is payable as mentioned in section 6(1)(b) of
+the 1992 Act in respect of earnings paid in a tax week in respect of an
+employed earner’s employment by an employer other than a public authority,
+
+1.1.b
+
+the   applicable conditions   are met in relation to the contribution (see
+section 2), and
+
+1.1.c
+
+the employer (or, if different, the secondary contributor) elects that this
+section is to apply in relation to the contribution for the purposes of
+section 9(1) of the 1992 Act instead of section 9(1A) of that Act or section 6
+of this Act.
+
+1.2
+
+For the purposes of section 9(1) of the 1992 Act—
+
+1.2.a
+
+the relevant percentage in respect of any earnings paid in the tax week up to
+or at the upper secondary threshold is 0%, and
+
+1.2.b
+
+the relevant percentage in respect of any earnings paid in the tax week above
+that threshold is the secondary percentage.
+
+1.3
+
+The upper secondary threshold (or the prescribed equivalent in relation to
+earners paid otherwise than weekly) is the amount specified in, or in
+regulations under, section 8.
+
+1.4
+
+For the purposes of the 1992 Act a person is still to be regarded as being
+liable to pay a secondary Class 1 contribution even if the amount of the
+contribution is £0 as a result of this section.
+
+1.5
+
+The Treasury may by regulations make provision about cases in which this
+section is to be treated as applying in relation to contributions payable in
+respect of a tax week in a given tax year only when—
+
+1.5.a
+
+that tax year has ended, and
+
+1.5.b
+
+all contributions payable in respect of a tax week in that tax year have been
+paid.
+
+1.6
+
+Regulations under subsection  (5)  may modify the   applicable conditions   in
+section 2 (1)(c)  and  (d)  for the purposes of cases to which the regulations
+apply.
+
+#####  
+
+2
+
+2.1
+
+The applicable conditions   are that—
+
+2.1.a
+
+the employed earner’s employment is a new employment that—
+
+2.1.a.i
+
+begins on or after 6 April 2022, but
+
+2.1.a.ii
+
+does not begin later than   the applicable sunset date ,
+
+2.1.b
+
+the earnings—
+
+2.1.b.i
+
+are paid during the period of three years beginning with the first day of the
+employment, but
+
+2.1.b.ii
+
+are not paid after the relevant end date (see subsection  (6) ),
+
+2.1.c
+
+the contribution is paid in respect of earnings paid in a tax week all of
+which is in a qualifying period of the employment, and
+
+2.1.d
+
+at the time the qualifying period begins, the employer reasonably expects that
+60% or more of the earner’s employed time during that period will be spent in
+a single   special tax site   in which the employer has business premises.
+
+2.2
+
+For the purposes of subsection  (1)(a) , an employment is new if the earner
+was not employed by the employer or by a person connected with the employer
+(within the meaning of section 993 of the Income Tax Act 2007) at any time
+within the period of two years ending with the day on which the employment
+begins.
+
+2.2A
+
+For the purposes of this section “ the applicable sunset date ”, in relation
+to a special tax site, means —
+
+2.2A.a
+
+5 April 2026, or
+
+2.2A.b
+
+such later date as may be specified under  section 332 (4) (b)  of the Finance
+(No.2) Act 2023 as the applicable sunset date in relation to the site
+concerned for the purposes of the provisions mentioned in subsection  (4)  of
+that section.
+
+2.3
+
+For the purposes of subsection  (1)(c)  a qualifying period of the employment
+is a period—
+
+2.3.a
+
+that begins with—
+
+2.3.a.i
+
+the start of the employment, or
+
+2.3.a.ii
+
+a substantial change in the earner’s working arrangements, and
+
+2.3.b
+
+that ends (subject to subsection  (4)(d) ) with—
+
+2.3.b.i
+
+the end of the employment,
+
+2.3.b.ii
+
+the relevant end date, or
+
+2.3.b.iii
+
+a substantial change in the earner’s working arrangements.
+
+2.4
+
+For the purposes of subsection  (1)(d) —
+
+2.4.a
+
+an earner’s employed time is time when the earner is expected to provide
+services to the employer under the terms of a contract of service (“working
+time”), together with time when the earner would have provided such services
+but for being on leave (of any sort);
+
+2.4.b
+
+it is to be assumed that the proportion of the time when an earner is on leave
+that is spent at any given   special tax site   is the same as the proportion
+of the earner’s working time that would be spent at that site if the earner
+were not on leave;
+
+2.4.c
+
+it does not matter whether the earner is expected to provide services under a
+single contract of service or under successive contracts of service, provided
+that the employment does not cease;
+
+2.4.d
+
+if an expectation for the purposes of subsection  (1)(d)  ceases to be
+reasonable in any given tax week, the condition in that subsection ceases to
+be met, and the qualifying period is taken to end, at the end of the previous
+tax week.
+
+2.5
+
+If the secondary contributor in relation to the earner is not the earner’s
+employer—
+
+2.5.a
+
+subsection  (1)(d)  has effect as if both references to “the employer” were
+references to “the secondary contributor”, and
+
+2.5.b
+
+subsection  (2)  has effect as if, after both references to “the employer”,
+there were inserted  “or the secondary contributor” .
+
+2.6
+
+The relevant end date is the last day of the period of three years beginning
+with the day after the applicable sunset date.
+
+#####  
+
+3
+
+3.1
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3.2
+
+The Treasury may by regulations provide for circumstances in which   an
+applicable   condition is to be treated as being met.
+
+3.3
+
+The Treasury may by regulations make such other changes in relation to the
+applicable   conditions as they consider appropriate (including by adding,
+removing or altering conditions).
+
+3.4
+
+Regulations under subsection  (3)  may, among other things—
+
+3.4.a
+
+provide for circumstances in which a condition is to be treated as not being
+met;
+
+3.4.b
+
+add conditions relating to accounts or other records;
+
+3.4.c
+
+add conditions requiring a person to take steps specified in the regulations.
+
+3.5
+
+Regulations under subsection  (2)  or  (3)  may make provision by reference to
+sectors of the economy or to descriptions of employer, earner or employment.
+
+3.6
+
+Regulations under subsection  (2)  or  (3)  may amend, repeal or otherwise
+modify this Part.
+
+##### Anti-avoidance
+
+4
+
+4.1
+
+Section 1 does not apply if it would otherwise apply only as a result of
+avoidance arrangements.
+
+4.2
+
+In this section—
+
+“arrangements” include any scheme, transaction or series of transactions,
+agreement or understanding, whether or not legally enforceable; “ avoidance
+arrangements ” means any arrangements which it is reasonable in all the
+circumstances— to conclude are, or include steps that are, contrived, abnormal
+or lacking a genuine commercial purpose, or to regard as circumventing the
+intended limits of the application of section 1 or otherwise exploiting
+shortcomings in that section or in provision made in or under sections 2 and
+3.
+
+##### Zero-rate contributions for employees at  
+
+5
+
+The Treasury may by regulations make provision corresponding or similar to
+provision made in, under or for the purposes of sections 1 to 4 in relation to
+Northern Ireland.
+
+#### Veterans
+
+##### Zero-rate contributions for armed forces veterans
+
+6
+
+6.1
+
+Subsection  (2)  applies where—
+
+6.1.a
+
+a secondary Class 1 contribution is payable as mentioned in section 6(1)(b) of
+either of the 1992 Acts in respect of earnings paid in a tax week in respect
+of an employment,
+
+6.1.b
+
+the tax week is in a tax year mentioned in subsection  (4) ,
+
+6.1.c
+
+the veteran conditions are met in relation to the contribution (see section
+7), and
+
+6.1.d
+
+the employer (or, if different, the secondary contributor) elects that
+subsection  (2)  is to apply in relation to the contribution for the purposes
+of section 9(1) of whichever of the 1992 Acts would otherwise apply instead of
+section 9(1A) of that Act or section 1 of this Act.
+
+6.2
+
+For the purposes of section 9(1) of whichever of the 1992 Acts would otherwise
+apply—
+
+6.2.a
+
+the relevant percentage in respect of any earnings paid in the tax week up to
+or at the upper secondary threshold is 0%, and
+
+6.2.b
+
+the relevant percentage in respect of any earnings paid in the tax week above
+that threshold is the secondary percentage.
+
+6.3
+
+The upper secondary threshold (or the prescribed equivalent in relation to
+earners paid otherwise than weekly) is the amount specified in, or in
+regulations under, section 8.
+
+6.4
+
+The tax years are—
+
+6.4.a
+
+2022-23;
+
+6.4.b
+
+2023-24.
+
+6.4.c
+
+2024-25.
+
+6.5
+
+Any amount paid by way of secondary Class 1 contribution in relation to a tax
+week in the tax year 2021-22 that would not have been payable if that tax year
+had been mentioned in subsection  (4)  and an election had been made for the
+purposes of subsection  (1)(d)  in relation to the contribution is to be
+treated, from 6 April 2022, as not having been payable.
+
+6.6
+
+The Treasury may by regulations made before the end of the last tax year for
+the time being mentioned in subsection  (4)  (“the last tax year”) amend that
+subsection so as to add one or more consecutive tax years following
+immediately after the last tax year.
+
+6.7
+
+For the purposes of the 1992 Acts a person is still to be regarded as being
+liable to pay a secondary Class 1 contribution even if the amount of the
+contribution is £0 as a result of this section.
+
+6.8
+
+The Treasury may by regulations make provision about cases in which subsection
+(2)  is to be treated as applying in relation to contributions payable in
+respect of a tax week in a given tax year only when—
+
+6.8.a
+
+that tax year has ended, and
+
+6.8.b
+
+all contributions payable in respect of a tax week in that tax year have been
+paid.
+
+##### Veteran conditions
+
+7
+
+7.1
+
+The veteran conditions are that—
+
+7.1.a
+
+the earner has served for at least one day as a member of any of the regular
+forces,
+
+7.1.b
+
+the employment is employment in a civilian capacity, and
+
+7.1.c
+
+the earnings are paid during the period of one year beginning with the
+earner’s first day of employment in a civilian capacity since the earner last
+ceased to be a member of any of the regular forces.
+
+7.2
+
+For the purposes of subsection  (1)(c) , it is immaterial if the earner’s
+first day of employment in a civilian capacity was before the start of the tax
+year 2022-23 (or, in a case where section 6 (5)  applies, the tax year
+2021-22).
+
+#### Upper secondary threshold
+
+##### Upper secondary threshold for earnings
+
+8
+
+8.1
+
+For the purposes of section 1, for the tax   years beginning with 6 April 2022
+, 6 April 2023 and 6 April 2024 —
+
+8.1.a
+
+the upper secondary threshold is £481, and
+
+8.1.b
+
+the prescribed equivalent for earners paid otherwise than weekly is—
+
+8.1.b.i
+
+where the earnings period is a month, £2,083;
+
+8.1.b.ii
+
+where the earnings period is a year, £25,000;
+
+8.1.b.iii
+
+where the earnings period is a multiple of a week, £25,000 divided by 52 and
+multiplied by the multiple;
+
+8.1.b.iv
+
+where the earnings period is a multiple of a month, £25,000 divided by 12 and
+multiplied by the multiple;
+
+8.1.b.v
+
+in any other case, £25,000 divided by 365 and multiplied by the number of days
+in the earnings period.
+
+8.2
+
+For the purposes of section 6, for the tax years beginning with 6 April 2021
+, 6 April 2022  , 6 April 2023 and 6 April 2024 —
+
+8.2.a
+
+the upper secondary threshold is £967, and
+
+8.2.b
+
+the prescribed equivalent for earners paid otherwise than weekly is—
+
+8.2.b.i
+
+where the earnings period is a month, £4,189;
+
+8.2.b.ii
+
+where the earnings period is a year, £50,270;
+
+8.2.b.iii
+
+where the earnings period is a multiple of a week, £50,270 divided by 52 and
+multiplied by the multiple;
+
+8.2.b.iv
+
+where the earnings period is a multiple of a month, £50,270 divided by 12 and
+multiplied by the multiple;
+
+8.2.b.v
+
+in any other case, £50,270 divided by 365 and multiplied by the number of days
+in the earnings period.
+
+8.3
+
+Amounts determined in accordance with—
+
+8.3.a
+
+subsection  (1)(b)(iii)  or  (iv) , or subsection  (2)(b)(iii)  or  (iv) , if
+not whole pounds, are to be rounded up to the next whole pound;
+
+8.3.b
+
+subsection  (1)(b)(v)  or  (2)(b)(v)  are to be calculated to the nearest
+penny, and any amount of a halfpenny or less is to be disregarded.
+
+8.4
+
+The Treasury may by regulations provide that there is to be an upper secondary
+threshold for secondary Class 1 contributions for the purposes of any tax year
+after the tax year 2022-23 to which section 1 or 6 relates.
+
+8.5
+
+The threshold for any tax year is to be the amount specified for that tax year
+by the regulations.
+
+8.6
+
+The regulations may prescribe an equivalent of an upper secondary threshold in
+relation to earners paid otherwise than weekly (and references in any Act to
+the “prescribed equivalent”, in the context of an upper secondary threshold
+for the purposes of section 1 or 6, are references to the equivalent
+prescribed in reliance on this subsection in relation to such earners).
+
+8.7
+
+The power to prescribe an equivalent includes power to prescribe an amount
+which exceeds, by not more than £1.00, the amount which is the arithmetical
+equivalent of that threshold.
+
+8.8
+
+The regulations may amend this section.
+
+#### Consequential amendment
+
+##### Consequential amendment
+
+9
+
+In the Finance Act 2016, in Part 6 (apprenticeship levy), in section 100(6)
+(references to liability to pay secondary Class 1 contributions), for the
+words in brackets substitute  “(including a case where the amount of a
+liability to pay a secondary Class 1 contribution is £0)” .
+
+### Class 4 contributions
+
+#### Treatment of self-isolation support scheme payments
+
+10
+
+10.1
+
+A payment under a self-isolation support scheme is not to be taken into
+account for the purposes of computing the amount of profits in respect of
+which Class 4 contributions are payable under section 15 of either of the 1992
+Acts.
+
+10.2
+
+For the purposes of this section, the following (and only the following) are
+self-isolation support schemes—
+
+10.2.a
+
+in relation to England, the scheme known as the Test and Trace Support Payment
+Scheme;
+
+10.2.b
+
+in relation to Wales, the scheme known as the Self-Isolation Support Scheme;
+
+10.2.c
+
+in relation to Scotland, the scheme known as Self-Isolation Support Grant;
+
+10.2.d
+
+in relation to any part of the United Kingdom, a scheme corresponding or
+similar to the schemes mentioned in paragraphs  (a)  to  (c)  that is
+designated for the purposes of this paragraph in regulations made by the
+Treasury.
+
+10.3
+
+This section has effect in relation to payments made in the tax year 2020-21
+and subsequent tax years.
+
+### Disclosure of avoidance
+
+#### Disclosure of contributions avoidance arrangements
+
+11
+
+In section 132A(1) of the Social Security Administration Act 1992 (disclosure
+of contributions avoidance arrangements)—
+
+11.a
+
+after “in relation to” insert
+
+—
+
+11.a.a
+
+
+
+, and
+
+11.b
+
+at the end insert
+
+, or
+
+11.b.b
+
+any arrangements or proposal which the Commissioners for Her Majesty’s Revenue
+and Customs reasonably suspect to be notifiable contribution arrangements or a
+notifiable contribution proposal (as the case may be).
+
+### General
+
+#### Regulations
+
+12
+
+12.1
+
+Regulations under this Act are to be made by statutory instrument.
+
+12.2
+
+A statutory instrument containing regulations under any of the following
+provisions (whether alone or with other provision) may not be made unless a
+draft of the regulations has been laid before, and approved by a resolution
+of, each House of Parliament—
+
+12.2.a
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+12.2.b
+
+section 3 (3) ;
+
+12.2.c
+
+section 5;
+
+12.2.d
+
+section 6(6);
+
+12.2.e
+
+section 8.
+
+12.3
+
+Any other statutory instrument containing regulations under this Act is
+subject to annulment in pursuance of a resolution of either House of
+Parliament.
+
+12.4
+
+Subsections (3) to (5) of section 175 of the 1992 Act (regulations etc) apply
+to regulations under this Act as they apply generally to regulations under
+that Act.
+
+#### Interpretation etc
+
+13
+
+13.1
+
+Expressions which are used in the 1992 Acts have the same meaning in this Act
+as in those Acts (unless the contrary intention appears).
+
+13.2
+
+In this Act—
+
+“the 1992 Act” is the Social Security Contributions and Benefits Act 1992;
+“the 1992 Acts” are the 1992 Act and the Social Security Contributions and
+Benefits (Northern Ireland) Act 1992; “ business premises ”, in relation to an
+employer, means premises at or on which the employer’s business is carried on;
+“ employment in a civilian capacity ” means employment other than service as a
+member of Her Majesty’s forces (within the meaning of the Armed Forces Act
+2006); ... “ premises ” means a building or structure or part of a building or
+structure; “ public authority ” includes any person whose activities involve
+the performance of functions (whether or not in the United Kingdom) which are
+of a public nature; “ the regular forces ” has the meaning given by section
+374 of the Armed Forces Act 2006;   “ special tax site ” has the meaning given
+by section 113 of the Finance Act 2021 (designation of special tax sites).
+
+#### Short title
+
+14
+
+This Act may be cited as the National Insurance Contributions Act 2022.
+

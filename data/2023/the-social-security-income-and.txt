@@ -1,0 +1,1032 @@
+Title: The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2023
+Date: 2023-07-26
+Description: This Rule amends various social security Regulations to make provision for Post Office Horizon-related compensation payments, Grenfell Tower-related compensation and damages payments and Vaccine Damage Scheme payments to be disregarded indefinitely as capital and income for the purposes of calculating entitlement to benefit. Further provision is made to exempt Grenfell Tower-related payments and Post Office Horizon-related payments from the Department’s compensation recovery process.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2023/97
+
+## The Social Security (Income and Capital Disregards) (Amendment) Regulations (Northern Ireland) 2023
+
+    Social Security
+
+  Made   16th June 2023
+
+  Coming into operation   9th July 2023
+
+      The Department for Communities , makes the following Regulations in
+exercise of the powers conferred by sections 122(1)(a) and (d), 129A(2),
+131(1), 132(3) and (4), 132A(3) and 171(1), (3) and (4) of the Social Security
+Contributions and Benefits (Northern Ireland) Act 1992 , Section 165(4) of the
+Social Security Administration (Northern Ireland) Act 1992 , Articles 6(5),
+14(1) and (4) and 36(2)(a) of the Jobseekers (Northern Ireland) Order 1995 ,
+paragraph 8 of Schedule 1 to the Social Security (Recovery of Benefits)
+(Northern Ireland) Order 1997 , and now vested in it , sections 2(3)(b), 15(3)
+and (6) and 19(1), (2)(a) and (3) of the State Pension Credit Act (Northern
+Ireland) 2002 , sections 4(2) and 17(1) and (3) of the Welfare Reform Act
+(Northern Ireland) 2007  and Article 48(1) and (2)(a) of, and paragraph 4(1)
+and (3) of Schedule 1 to, the Welfare Reform (Northern Ireland) Order 2015 .
+The powers are exercisable by the Department for Communities by virtue of
+Article 2 to the Welfare Reform (Northern Ireland) Order 2015 (Cessation of
+Transitory Provision) Order 2020 .           Regulations 5 and 6 are made with
+the consent of the Department of Finance .
+
+### Citation, commencement and interpretation
+
+1
+
+1.1
+
+These Regulations may be cited as the Social Security (Income and Capital
+Disregards) (Amendment) Regulations (Northern Ireland) 2023 and come into
+operation on 9th July 2023.
+
+1.2
+
+The Interpretation Act (Northern Ireland) 1954  shall apply to these
+Regulations as it applies to an Act of the Assembly.
+
+### Amendment of the Income Support (General) Regulations
+
+2
+
+2.1
+
+The Income Support (General) Regulations (Northern Ireland) 1987  are amended
+in accordance with paragraphs (2) to (8).
+
+2.2
+
+In regulation 2(1) (interpretation)—
+
+2.2.a
+
+for the definition of “Grenfell Tower payment”  substitute—
+
+      “ Grenfell Tower payment ” means a payment made for the purpose of
+providing compensation or support in respect of the fire on 14th June 2017 at
+Grenfell Tower;
+
+;
+
+2.2.b
+
+after the definition of “HSS trust” insert—
+
+      “ the Horizon system ” means any version of the computer system used by
+the Post Office known as Horizon, Horizon Legacy, Horizon Online or HNG-X;
+
+;
+
+2.2.c
+
+after the definition of “polygamous marriage” insert—
+
+      “ the Post Office ” means Post Office Limited (registered number
+02154540);
+
+;
+
+      “ Post Office compensation payment ” means a payment made by the Post
+Office or the Secretary of State for the purpose of providing compensation or
+support which is—         in connection with the failings of the Horizon
+system, or           otherwise payable following the judgment in  Bates and
+Others v Post Office Limited  ((No. 3) “Common Issues”)
+
+;
+
+2.2.d
+
+after the definition of “universal credit” insert—
+
+      “ vaccine damage payment ” means a payment made under the Vaccine Damage
+Payments Act 1979 ;
+
+;
+
+2.2.e
+
+in the definition of “qualifying person” , for “or a Windrush payment”
+substitute  “, a Windrush payment, a Post Office compensation payment or a
+vaccine damage payment” .
+
+2.3
+
+In regulation 42(4ZB)  (notional income), after sub-paragraph (c) add—
+
+2.3.d
+
+a Post Office compensation payment.
+
+.
+
+2.4
+
+In regulation 48(10) (income treated as capital)—
+
+2.4.a
+
+at the end of sub-paragraph (ad)  omit “or”;
+
+2.4.b
+
+after sub-paragraph (ad) insert—
+
+2.4.b.ae
+
+which is a Post Office compensation payment;
+
+.
+
+2.5
+
+In regulation 51(3B)  (notional capital), after sub-paragraph (c) add—
+
+2.5.d
+
+a Post Office compensation payment;
+
+2.5.e
+
+a vaccine damage payment.
+
+.
+
+2.6
+
+In paragraph 18(8)(b)  (non-dependant deductions) of Schedule 3 (housing
+costs), for “or a Windrush payment” substitute  “, Windrush payment or Post
+Office compensation payment” .
+
+2.7
+
+In Schedule 9 (sums to be disregarded in the calculation of income other than
+earnings), in paragraph 39—
+
+2.7.a
+
+in sub-paragraph (1A) , after head (c) add—
+
+2.7.a.d
+
+a Post Office compensation payment.
+
+;
+
+2.7.b
+
+in each of sub-paragraphs (2) to (6) , for “or a Windrush payment” substitute
+“, a Windrush payment, a Post Office compensation payment or a vaccine damage
+payment” .
+
+2.8
+
+In Schedule 10 (capital to be disregarded), in paragraph 22—
+
+2.8.a
+
+in sub-paragraph (1A) , after “Windrush payment” insert  “, Post Office
+compensation payment or vaccine damage payment” ;
+
+2.8.b
+
+in each of sub-paragraphs (2) to (6) , for “or a Windrush payment” substitute
+“, a Windrush payment, a Post Office compensation payment or a vaccine damage
+payment” .
+
+### Amendment of the Jobseeker’s Allowance Regulations
+
+3
+
+3.1
+
+The Jobseeker’s Allowance Regulations (Northern Ireland) 1996  are amended in
+accordance with paragraphs (2) to (8).
+
+3.2
+
+In regulation 1(2) (citation, commencement, interpretation and application)—
+
+3.2.a
+
+for the definition of “Grenfell Tower payment”  substitute—
+
+      “ Grenfell Tower payment ” means a payment made for the purpose of
+providing compensation or support in respect of the fire on 14th June 2017 at
+Grenfell Tower;
+
+;
+
+3.2.b
+
+at the appropriate places insert—
+
+      “ the Horizon system ” means any version of the computer system used by
+the Post Office known as Horizon, Horizon Legacy, Horizon Online or HNG-X;
+
+;
+
+      “ the Post Office ” means Post Office Limited (registered number
+02154540);
+
+;
+
+      “ Post Office compensation payment ” means a payment made by the Post
+Office or the Secretary of State for the purpose of providing compensation or
+support which is—         in connection with the failings of the Horizon
+system, or           otherwise payable following the judgment in  Bates and
+Others v Post Office Limited  ((No. 3) “Common Issues”)
+
+;
+
+      “ vaccine damage payment ” means a payment made under the Vaccine Damage
+Payments Act 1979 ;
+
+;
+
+3.2.c
+
+in the definition of “qualifying person” , for “or a Windrush payment”
+substitute  “, a Windrush payment, a Post Office compensation payment or a
+vaccine damage payment” .
+
+3.3
+
+In regulation 105(10A) (notional income), after sub-paragraph (ad)  insert—
+
+3.3.ae
+
+a Post Office compensation payment;
+
+.
+
+3.4
+
+In regulation 110(10) (income treated as capital)—
+
+3.4.a
+
+at the end of sub-paragraph (ad)  omit “or”;
+
+3.4.b
+
+after sub-paragraph (ad) insert—
+
+3.4.b.ae
+
+which is a Post Office compensation payment;
+
+.
+
+3.5
+
+In regulation 113(3B)  (notional capital), after sub-paragraph (c) add—
+
+3.5.d
+
+a Post Office compensation payment;
+
+3.5.e
+
+a vaccine damage payment.
+
+.
+
+3.6
+
+In paragraph 17(8)(b)  (non-dependant deductions) of Schedule 2 (housing
+costs), for “or a Windrush payment” substitute  “, Windrush payment or Post
+Office compensation payment” .
+
+3.7
+
+In Schedule 6 (sums to be disregarded in the calculation of income other than
+earnings), in paragraph 41—
+
+3.7.a
+
+in sub-paragraph (1A) , after head (c) add—
+
+3.7.a.d
+
+Post Office compensation payment.
+
+;
+
+3.7.b
+
+in each of sub-paragraphs (2) to (6) , for “or a Windrush payment” substitute
+“, a Windrush payment, a Post Office compensation payment or a vaccine damage
+payment” .
+
+3.8
+
+In Schedule 7 (capital to be disregarded), in paragraph 27—
+
+3.8.a
+
+in sub-paragraph (1A)  after “Windrush payment” insert  “, Post Office
+compensation payment or vaccine damage payment” ;
+
+3.8.b
+
+in each of sub-paragraphs (2) to (6) , for “or a Windrush payment” substitute
+“, a Windrush payment, a Post Office compensation payment or a vaccine damage
+payment” .
+
+### Amendment of the State Pension Credit Regulations
+
+4
+
+4.1
+
+The State Pension Credit Regulations (Northern Ireland) 2003  are amended in
+accordance with paragraphs (2) to (4).
+
+4.2
+
+In regulation 1(2) (citation, commencement and interpretation)—
+
+4.2.a
+
+for the definition of “Grenfell Tower payment”  substitute—
+
+      “ Grenfell Tower payment ” means a payment made for the purpose of
+providing compensation or support in respect of the fire on 14th June 2017 at
+Grenfell Tower;
+
+;
+
+4.2.b
+
+at the appropriate places insert—
+
+      “ the Horizon system ” means any version of the computer system used by
+the Post Office known as Horizon, Horizon Legacy, Horizon Online or HNG-X;
+
+;
+
+      “ the Post Office ” means Post Office Limited (registered number
+02154540);
+
+;
+
+      “ Post Office compensation payment ” means a payment made by the Post
+Office or the Secretary of State for the purpose of providing compensation or
+support which is—         in connection with the failings of the Horizon
+system, or           otherwise payable following the judgment in  Bates and
+Others v Post Office Limited  ((No. 3) “Common Issues”)
+
+;
+
+      “ vaccine damage payment ” means a payment made under the Vaccine Damage
+Payments Act 1979 ;
+
+;
+
+4.2.c
+
+in the definition of “qualifying person” , for “or a Windrush payment”
+substitute  “, a Windrush payment, a Post Office compensation payment or a
+vaccine damage payment” .
+
+4.3
+
+In paragraph 14(8) (persons residing with the claimant) of Schedule 2 (housing
+costs), after head (bc)  insert—
+
+4.3.bd
+
+any Post Office compensation payment;
+
+.
+
+4.4
+
+In Schedule 5 (income from capital), in paragraph 15 (capital disregarded for
+the purpose of calculating income)—
+
+4.4.a
+
+in sub-paragraph (1A) , after “Windrush payment” insert  “, Post Office
+compensation payment or vaccine damage payment” ;
+
+4.4.b
+
+in each of sub-paragraphs (2) to (6) , for “or a Windrush payment” substitute
+“, a Windrush payment, a Post Office compensation payment or a vaccine damage
+payment” .
+
+### Amendment of the Housing Benefit Regulations
+
+5
+
+5.1
+
+The Housing Benefit Regulations (Northern Ireland) 2006  are amended in
+accordance with paragraphs (2) to (8).
+
+5.2
+
+In regulation 2(1) (interpretation)—
+
+5.2.a
+
+for the definition of “Grenfell Tower payment”  substitute—
+
+      “ Grenfell Tower payment ” means a payment made for the purpose of
+providing compensation or support in respect of the fire on 14th June 2017 at
+Grenfell Tower;
+
+;
+
+5.2.b
+
+at the appropriate places insert—
+
+      “ the Horizon system ” means any version of the computer system used by
+the Post Office known as Horizon, Horizon Legacy, Horizon Online or HNG-X;
+
+;
+
+      “ the Post Office ” means Post Office Limited (registered number
+02154540);
+
+;
+
+      “ Post Office compensation payment ” means a payment made by the Post
+Office or the Secretary of State for the purpose of providing compensation or
+support which is—         in connection with the failings of the Horizon
+system, or           otherwise payable following the judgment in  Bates and
+Others v Post Office Limited  ((No. 3) “Common Issues”)
+
+;
+
+      “ vaccine damage payment ” means a payment under the Vaccine Damage
+Payments Act 1979;
+
+;
+
+5.2.c
+
+in the definition of “qualifying person” , for “or a Windrush payment”
+substitute  “, a Windrush payment, a Post Office compensation payment or a
+vaccine damage payment” .
+
+5.3
+
+In regulation 39(7A)  (notional income), after sub-paragraph (c) add—
+
+5.3.d
+
+a Post Office compensation payment.
+
+.
+
+5.4
+
+In regulation 43(6)  (income treated as capital), after “a Windrush payment”
+insert  “, a Post Office compensation payment” .
+
+5.5
+
+In regulation 46(4A)  (notional capital), after sub-paragraph (c) add—
+
+5.5.d
+
+a Post Office compensation payment;
+
+5.5.e
+
+a vaccine damage payment.
+
+.
+
+5.6
+
+In regulation 72(9)  (non-dependant deductions), after sub-paragraph (bc)
+insert—
+
+5.6.bd
+
+any Post Office compensation payment;
+
+.
+
+5.7
+
+In paragraph 37 of Schedule 6 (sums to be disregarded in the calculation of
+income other than earnings)—
+
+5.7.a
+
+in sub-paragraph (1A) , after paragraph (c) add—
+
+5.7.a.d
+
+Post Office compensation payment.
+
+;
+
+5.7.b
+
+in each of sub-paragraphs (2) to (6) , for “or a Windrush payment” substitute
+“, a Windrush payment, a Post Office compensation payment or a vaccine damage
+payment” .
+
+5.8
+
+In paragraph 25 of Schedule 7 (capital to be disregarded)—
+
+5.8.a
+
+in sub-paragraph (1A) , after “Windrush payment” insert  “, a Post Office
+compensation payment or vaccine damage payment” ;
+
+5.8.b
+
+in each of sub-paragraphs (2) to (6) , for “or a Windrush payment” substitute
+“, a Windrush payment, a Post Office compensation payment or a vaccine damage
+payment” .
+
+### Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations
+
+6
+
+6.1
+
+The Housing Benefit (Persons who have attained the qualifying age for state
+pension credit) Regulations (Northern Ireland) 2006  are amended in accordance
+with paragraphs (2) to (4).
+
+6.2
+
+In regulation 2(1) (interpretation)—
+
+6.2.a
+
+for the definition of “Grenfell Tower payment”  substitute—
+
+      “ Grenfell Tower payment ” means a payment made for the purpose of
+providing compensation or support in respect of the fire on 14th June 2017 at
+Grenfell Tower;
+
+;
+
+6.2.b
+
+at the appropriate places insert—
+
+      “ the Horizon system ” means any version of the computer system used by
+the Post Office known as Horizon, Horizon Legacy, Horizon Online or HNG-X;
+
+;
+
+      “ the Post Office ” means Post Office Limited (registered number
+02154540);
+
+;
+
+      “ Post Office compensation payment ” means a payment made by the Post
+Office or the Secretary of State for the purpose of providing compensation or
+support which is—         in connection with the failings of the Horizon
+system, or           otherwise payable following the judgment in  Bates and
+Others v Post Office Limited  ((No. 3) “Common Issues”)
+
+;
+
+      “ vaccine damage payment ” means a payment under the Vaccine Damage
+Payments Act 1979;
+
+;
+
+6.2.c
+
+in the definition of “qualifying person” , for “or a Windrush payment”
+substitute  “, a Windrush payment, a Post Office compensation payment or a
+vaccine damage payment” .
+
+6.3
+
+In regulation 53(10) (non-dependant deductions), after sub-paragraph (bc)
+insert—
+
+6.3.bd
+
+any Post Office compensation payment;
+
+.
+
+6.4
+
+In paragraph 16 of Schedule 7 (capital to be disregarded)—
+
+6.4.a
+
+in sub-paragraph (1A) , after “Windrush payment” insert  “, Post Office
+compensation payment or vaccine damage payment” ;
+
+6.4.b
+
+in each of sub-paragraphs (2) to (6) , for “or a Windrush payment” substitute
+“, a Windrush payment, a Post Office compensation payment or a vaccine damage
+payment” .
+
+### Amendment of the Employment and Support Allowance Regulations
+
+7
+
+7.1
+
+The Employment and Support Allowance Regulations (Northern Ireland) 2008  are
+amended in accordance with paragraphs (2) to (8).
+
+7.2
+
+In regulation 2(1) (interpretation)—
+
+7.2.a
+
+for the definition of “Grenfell Tower payment”  substitute—
+
+      “ Grenfell Tower payment ” means a payment made for the purpose of
+providing compensation or support in respect of the fire on 14th June 2017 at
+Grenfell Tower;
+
+;
+
+7.2.b
+
+at the appropriate places insert—
+
+      “ the Horizon system ” means any version of the computer system used by
+the Post Office known as Horizon, Horizon Legacy, Horizon Online or HNG-X;
+
+;
+
+      “ the Post Office ” means Post Office Limited (registered number
+02154540);
+
+;
+
+      “ Post Office compensation payment ” means a payment made by the Post
+Office or the Secretary of State for the purpose of providing compensation or
+support which is—         in connection with the failings of the Horizon
+system, or           otherwise payable following the judgment in  Bates and
+Others v Post Office Limited  ((No. 3) “Common Issues”)
+
+;
+
+      “ vaccine damage payment ” means a payment made under the Vaccine Damage
+Payments Act 1979;
+
+;
+
+7.2.c
+
+in the definition of “qualifying person” , for “or a Windrush payment”
+substitute  “, a Windrush payment, a Post Office compensation payment or a
+vaccine damage payment” .
+
+7.3
+
+In regulation 107(5A)  (notional income – income due to be paid or income paid
+to or in respect of a third party), after sub-paragraph (c) insert—
+
+7.3.d
+
+a Post Office compensation payment.
+
+.
+
+7.4
+
+In regulation 112(8)(b)  (income treated as capital), after paragraph (iii)
+add—
+
+7.4.iv
+
+Post Office compensation payment.
+
+.
+
+7.5
+
+In regulation 115(5A)  (notional capital), after sub-paragraph (c) add—
+
+7.5.d
+
+a Post Office compensation payment;
+
+7.5.e
+
+a vaccine damage payment.
+
+.
+
+7.6
+
+In paragraph 19(8)(b)  (non-dependant deductions) of Schedule 6 (housing
+costs), for “or Windrush payment” substitute  “, Windrush payment or Post
+Office compensation payment” .
+
+7.7
+
+In Schedule 8 (sums to be disregarded in the calculation of income other than
+earnings)—
+
+7.7.a
+
+in paragraph 40—
+
+7.7.a.i
+
+in sub-paragraph (1A) , after paragraph (c) add—
+
+7.7.a.i.d
+
+Post Office compensation payment.
+
+;
+
+7.7.b
+
+in each of sub-paragraphs (2) to (5) , for “or a Windrush payment” substitute
+“, a Windrush payment, a Post Office compensation payment or a vaccine damage
+payment” .
+
+7.8
+
+In paragraph 27  of Schedule 9 (capital to be disregarded)—
+
+7.8.a
+
+in sub-paragraph (1A) , after “Windrush payment” insert  “, Post Office
+compensation payment or vaccine damage payment” ;
+
+7.8.b
+
+in each of sub-paragraphs (2) to (5) , for “or a Windrush payment” substitute
+“, a Windrush payment, a Post Office compensation payment or a vaccine damage
+payment” .
+
+### Amendment of the Universal Credit Regulations
+
+8
+
+8.1
+
+The Universal Credit Regulations (Northern Ireland) 2016  are amended in
+accordance with paragraph (2).
+
+8.2
+
+In regulation 76 (special schemes for compensation etc.)—
+
+8.2.a
+
+omit paragraph (1)(a)(vi);
+
+8.2.b
+
+in paragraph (1A) —
+
+8.2.b.i
+
+omit sub-paragraph (c),
+
+8.2.b.ii
+
+after sub-paragraph (d) add—
+
+8.2.b.ii.e
+
+the Post Office or the Secretary of State for the purpose of providing
+compensation or support which is—
+
+8.2.b.ii.e.i
+
+in connection with the failings of the Horizon system, or
+
+8.2.b.ii.e.ii
+
+otherwise payable following the judgment in  Bates and Others v Post Office
+Limited  ((No. 3) “Common Issues”) .
+
+;
+
+8.2.c
+
+after paragraph (1A) insert—
+
+8.2.c.1B
+
+This regulation also applies where a person receives a payment made for the
+purpose of providing compensation or support in respect of the fire on 14th
+June 2017 at Grenfell Tower.
+
+8.2.c.1C
+
+This regulation also applies where a person—
+
+8.2.c.1C.a
+
+receives a vaccine damage payment or is a person for whose benefit a vaccine
+damage payment is made;
+
+8.2.c.1C.b
+
+is the partner of a person referred to in sub-paragraph (a) and receives a
+payment by or on behalf of that person which is derived from a vaccine damage
+payment;
+
+8.2.c.1C.c
+
+was the partner of a person referred to in sub-paragraph (a) immediately
+before the latter’s death and receives a payment from their estate which is
+derived from a vaccine damage payment;
+
+8.2.c.1C.d
+
+in a case where a vaccine damage payment is made to the personal
+representative of a person (“ P ”) who was severely disabled as a result of
+vaccination, the person who was P’s partner immediately before P’s death and
+receives a payment from P’s estate which is derived from the vaccine damage
+payment.
+
+;
+
+8.2.d
+
+after paragraph (3) add—
+
+8.2.d.4
+
+In this regulation—
+
+      “ the Horizon system ” means any version of the computer system used by
+the Post Office known as Horizon, Horizon Legacy, Horizon Online or HNG-X;
+“ the Post Office ” means Post Office Limited (registered number 02154540);
+“ vaccine damage payment ” means a payment made under the Vaccine Damage
+Payments Act 1979.
+
+.
+
+### Amendment of the Social Security (Recovery of Benefits) Regulations
+
+9
+
+9.1
+
+The Social Security (Recovery of Benefits) Regulations (Northern Ireland) 1997
+are amended in accordance with paragraphs (2) and (3).
+
+9.2
+
+In regulation 2 (exempted trusts and payments), after paragraph (2)(s) add—
+
+9.2.t
+
+any payment made for the purpose of providing compensation or support in
+respect of the fire on 14th June 2017 at Grenfell Tower;
+
+9.2.u
+
+any payment made by the Post Office or the Secretary of State for the purpose
+of providing compensation or support which is—
+
+9.2.u.i
+
+in connection with the failings of the Horizon system, or
+
+9.2.u.ii
+
+otherwise payable following the judgment in  Bates and Others v Post Office
+Limited  ((No. 3) “Common Issues”) .
+
+;
+
+9.3
+
+After paragraph (2) add—
+
+9.3.3
+
+In this regulation—
+
+      “ the Horizon system ” means any version of the computer system used by
+the Post Office known as Horizon, Horizon Legacy, Horizon Online or HNG-X;
+“ the Post Office ” means Post Office Limited (registered number 02154540).
+
+.
+
+### Amendment of the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations
+
+10
+
+10.1
+
+The Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations
+(Northern Ireland) 2008  are amended in accordance with paragraphs (2) and
+(3).
+
+10.2
+
+In regulation 7 (exempted trusts and payments), after paragraph (2)(p) add—
+
+10.2.q
+
+any payment made for the purpose of providing compensation or support in
+respect of the fire on 14th June 2017 at Grenfell Tower;
+
+10.2.r
+
+any payment made by the Post Office or the Secretary of State for the purpose
+of providing compensation or support which is—
+
+10.2.r.i
+
+in connection with the failings of the Horizon system, or
+
+10.2.r.ii
+
+otherwise payable following the judgment in  Bates and Others v Post Office
+Limited  ((No. 3) “Common Issues”) .
+
+;
+
+10.3
+
+After paragraph (2) add —
+
+10.3.3
+
+In this regulation—
+
+      “ the Horizon system ” means any version of the computer system used by
+the Post Office known as Horizon, Horizon Legacy, Horizon Online or HNG-X;
+“ the Post Office ” means Post Office Limited (registered number 02154540).
+
+.
+
+      Sealed with the Official Seal of the Department for Communities on 16th
+June 2023       (L.S.)   David Tarr   A senior officer of the Department for
+Communities           The Department of Finance hereby consents to regulations
+5 and 6 of the foregoing regulations.       Sealed with the Official Seal of
+the Department of Finance on 16th June 2023       (L.S.)   Patrick Neeson   A
+senior officer of the Department of Finance
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  This Rule amends various social security Regulations to make provision for
+Post Office Horizon-related compensation payments, Grenfell Tower-related
+compensation and damages payments and Vaccine Damage Scheme payments to be
+disregarded indefinitely as capital and income for the purposes of calculating
+entitlement to benefit. Further provision is made to exempt Grenfell Tower-
+related payments and Post Office Horizon-related payments from the
+Department’s compensation recovery process.
+
+  Regulations 2 to 8 amend the Income Support (General) Regulations (Northern
+Ireland) 1987 ( S.R. 1987 No. 459 ), the Jobseeker’s Allowance Regulations
+(Northern Ireland) 1996 ( S.R. 1996 No. 198 ), the State Pension Credit
+Regulations (Northern Ireland) 2003 ( S.R. 2003 No. 28 ), the Housing Benefit
+Regulations (Northern Ireland) 2006 ( S.R. 2006 No. 405 ), the Housing Benefit
+(Persons who have attained the qualifying age for state pension credit)
+Regulations (Northern Ireland) 2006 ( S.R. 2006 No. 406 ), the Employment and
+Support Allowance Regulations (Northern Ireland) 2008 ( S.R. 2008 No. 280 )
+and the Universal Credit Regulations (Northern Ireland) 2016 ( S.R. 2016 No.
+216 ).
+
+  In particular, they amend (as appropriate) provisions regarding payments
+that are to be disregarded as income and capital for the purposes of
+calculating entitlement to benefits in order to:         expand the existing
+disregard relating to the fire at Grenfell Tower on 17th June 2017 to cover
+any payment made to provide compensation or support in respect of the fire,
+create a new disregard in relation to payments made by the Secretary of State
+or the Post Office for the purpose of providing compensation or support in
+connection with the failings of the Post Office Horizon computer system or
+otherwise payable following the judgment in  Bates and Others v. Post Office
+Limited  ((No. 3) “Common Issues”) [2019] EWHC 606 (QB), and           create
+a new disregard relating to payments made under the Vaccine Damage Payments
+Act  1979 (c.17) .
+
+  Regulations 9 and 10 amend respectively the Social Security (Recovery of
+Benefits) Regulations (Northern Ireland) 1997 ( S.R. 1997 No. 429 ) and the
+Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations
+(Northern Ireland) 2008 ( S.R. 2008 No. 355 ) to exempt Grenfell Tower
+payments and Post Office payments from the compensation recovery schemes
+established under the Social Security (Recovery of Benefits) (Northern
+Ireland) Order  1997 (N.I. 12) .
+
+  These Regulations make in relation to Northern Ireland only provision
+corresponding to provision contained in Regulations made by the Secretary of
+State for Work and Pensions in relation to Great Britain and accordingly, by
+virtue of section 149(3) of, and paragraph 10 of Schedule 5 to, the Social
+Security Administration (Northern Ireland) Act  1992 (c. 8) , are not subject
+to requirement of section 149(2) of that Act for prior reference to the Social
+Security Advisory Committee.
+
+  A full impact assessment has not been produced for these Regulations as no,
+or no significant, impact on the private, voluntary or public sector is
+foreseen.
+

@@ -1,0 +1,125 @@
+Title: The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence (Northern Ireland) Order 1989) (Amendment) Order (Northern Ireland) 2024
+Date: 2024-04-16
+Description: Section 355 of the Proceeds of Crime Act (c.29) (“POCA”) allows the Department of Justice to make an Order which applies articles 17, 18 23 and 24 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989 No. 1341 (N.I. 12)) (“PACE”) with modifications, in relation to search and seizure warrants obtained in the course of certain categories of investigation in Part 8 of POCA.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2024/81
+
+## The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence (Northern Ireland) Order 1989) (Amendment) Order (Northern Ireland) 2024
+
+    Proceeds Of Crime
+
+  Made   26th March 2024
+
+  Coming into operation   26th April 2024
+
+      The Department of Justice makes the following Order in exercise of the
+powers conferred by sections 355(3A)  and 459(3) and (7A) of the Proceeds of
+Crime Act 2002  and now vested in it .
+
+### Citation, commencement and interpretation
+
+1
+
+1.1
+
+This Order may be cited as the Proceeds of Crime Act 2002 (Application of
+Police and Criminal Evidence (Northern Ireland) Order 1989) (Amendment) Order
+(Northern Ireland) 2024 and shall come into operation on 26th April 2024.
+
+1.2
+
+In this Order, “ the 1989 Order ” means the Police and Criminal Evidence
+(Northern Ireland) Order 1989 .
+
+### Amendment of the Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence (Northern Ireland) Order 1989) Order (Northern Ireland) 2016
+
+2
+
+2.1
+
+The Proceeds of Crime Act 2002 (Application of Police and Criminal Evidence
+(Northern Ireland) Order 1989) Order (Northern Ireland) 2016  is amended as
+follows.
+
+2.2
+
+In Article 2 (application of Article 17 of the 1989 Order), for “or a frozen
+funds investigation” in each place where it occurs, substitute  “, a frozen
+funds investigation or a cryptoasset investigation” .
+
+2.3
+
+In Article 3 (application of Article 18 of the 1989 Order), for “or a frozen
+funds investigation”, substitute  “, a frozen funds investigation or a
+cryptoasset investigation” .
+
+2.4
+
+In Article 4 (application of Article 23 of the 1989 Order)—
+
+2.4.a
+
+in paragraphs (1) and (2), for “or a frozen funds investigation”, substitute
+“, a frozen funds investigation or a cryptoasset investigation” ;
+
+2.4.b
+
+for paragraph (7)(c), substitute—
+
+      in paragraph (c) after “proceedings” insert  “(including proceedings
+related to the making of a confiscation order) or any proceedings under
+Chapter 2, 3 or any of Chapters 3A to 3F of Part 5 of the Proceeds of Crime
+Act 2002” .
+
+.
+
+2.5
+
+In Article 5 (application of Article 24 of the 1989 Order)—
+
+2.5.a
+
+in paragraphs (1), (2) and (3), for “or a frozen funds investigation” in each
+place where it occurs, substitute  “, a frozen funds investigation or a
+cryptoassest investigation” ;
+
+2.5.b
+
+in paragraph (3)(d), in inserted head (iv), for “Chapter 2, 3, 3A or 3B”,
+substitute  “Chapter 2, 3 or any of Chapters 3A to 3F” .
+
+2.6
+
+Omit the Schedule to the Order.
+
+      Sealed with the Official Seal of the Department of Justice on 26th March
+2024         Naomi Long   Minister of Justice
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Order)
+
+  Section 355 of the Proceeds of Crime Act (c.29) (“ POCA ”) allows the
+Department of Justice to make an Order which applies articles 17, 18 23 and 24
+of the Police and Criminal Evidence (Northern Ireland) Order 1989 ( S.I. 1989
+No. 1341 (N.I. 12) ) (“ PACE ”) with modifications, in relation to search and
+seizure warrants obtained in the course of certain categories of investigation
+in Part 8 of POCA.
+
+  The Economic Crime and Corporate Transparency Act  2023 (c.56)  inserted new
+Chapters 3C to 3F into Part 5 of POCA, which contain new powers in relation to
+the forfeiture of certain cryptoassets which are derived from, or are intended
+for use in, unlawful conduct. These largely align with existing forfeiture
+powers in relation to cash, certain listed items of personal property, and
+funds in bank or building society accounts. The new powers are supported by a
+new type of investigation in Part 8 Of POCA.
+
+  This Order amends the Proceeds of Crime Act 2002 (Application of Police and
+Criminal Evidence (Northern Ireland) Order 1989) Order (Northern Ireland) 2016
+( S.R. 2016 No. 33 .) so that articles 17, 18, 23 and 24 of PACE, and the
+modifications to those articles made by that Order, will apply to the new type
+of investigation.
+
+  An impact assessment has not been produced for this Order as no impact is
+foreseen on the private, voluntary or public sectors.
+

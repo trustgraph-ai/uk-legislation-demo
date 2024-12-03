@@ -1,0 +1,3195 @@
+Title: Agriculture and Rural Communities (Scotland) Act 2024
+Date: 2024-09-02
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/asp/2024/11
+
+## Agriculture and Rural Communities (Scotland) Act 2024
+
+### Objectives and planning
+
+#### Overarching objectives of agricultural policy
+
+1
+
+1.1
+
+For the purposes of this Act, the objectives of Scottish agricultural policy
+are—
+
+1.1.a
+
+the adoption and use of sustainable and regenerative agricultural practices,
+
+1.1.b
+
+the production of high-quality food,
+
+1.1.c
+
+the promotion and support of agricultural practices that protect and improve
+animal health and welfare,
+
+1.1.d
+
+the facilitation of on-farm nature restoration, climate mitigation and
+adaptation, and
+
+1.1.e
+
+enabling rural communities to thrive.
+
+1.2
+
+The Scottish Ministers may, by regulations, amend the objectives of
+agricultural policy under subsection (1).
+
+1.3
+
+Regulations under this section are subject to the affirmative procedure.
+
+#### Rural support plan
+
+2
+
+2.1
+
+The Scottish Ministers must—
+
+2.1.a
+
+prepare a plan (a “rural support plan”) giving information about the expected
+use during the plan period of the powers conferred on them by section  6 , and
+
+2.1.b
+
+exercise their functions under this Act having regard to that plan.
+
+2.2
+
+A rural support plan must set out—
+
+2.2.a
+
+the plan period,
+
+2.2.b
+
+the Scottish Ministers’ strategic priorities for providing support during the
+plan period,
+
+2.2.c
+
+an overview of the support expected to be provided during the plan period,
+including—
+
+2.2.c.i
+
+an indication of the total amount of support that is expected to be provided
+over the period,
+
+2.2.c.ii
+
+a description of the way in which support is to be structured (for example, by
+reference to support schemes that are to be paid in a certain way or for
+certain purposes or activities),
+
+2.2.c.iii
+
+an indication of how the total amount of support is to be divided between
+support schemes,
+
+2.2.c.iv
+
+an indication of the time periods for when particular support schemes may
+become operational or end,
+
+2.2.c.v
+
+any measures that are intended to benefit small producers, tenant farmers and
+crofters, and
+
+2.2.c.vi
+
+any specific outcomes that the Scottish Ministers are seeking to achieve
+(whether in respect of different support schemes or otherwise),
+
+2.2.d
+
+in such manner and giving such detail as the Scottish Ministers consider
+appropriate, a description of each support scheme that—
+
+2.2.d.i
+
+is in operation, or
+
+2.2.d.ii
+
+the Scottish Ministers expect to come into operation during the plan period,
+and
+
+2.2.e
+
+the manner in which the impact of each support scheme will be monitored for
+the purposes of  section 21 .
+
+2.3
+
+A rural support plan may—
+
+2.3.a
+
+describe how the Scottish Ministers consider the support provided under the
+plan will—
+
+2.3.a.i
+
+reduce greenhouse gas emissions (within the meaning of section 10 of the
+Climate Change (Scotland) Act 2009) from agriculture,
+
+2.3.a.ii
+
+reduce harm from pesticides,
+
+2.3.a.iii
+
+reduce nitrogen loss and waste,
+
+2.3.a.iv
+
+optimise the proportion of land which is farmed organically,
+
+2.3.a.v
+
+optimise the proportion of land which is used for agroforestry,
+
+2.3.a.vi
+
+improve the biodiversity of agricultural land, including the contribution of
+agriculture to landscape-scale nature recovery,
+
+2.3.a.vii
+
+protect and improve the welfare conditions of farmed animals,
+
+2.3.a.viii
+
+improve the quality of ground and surface water, and
+
+2.3.b
+
+include such further information as the Scottish Ministers consider
+appropriate.
+
+2.4
+
+A plan prepared under this section must be laid before the Scottish
+Parliament, and published, by the Scottish Ministers—
+
+2.4.a
+
+in the case of the first plan, as soon as practicable after this section comes
+into force, and
+
+2.4.b
+
+in the case of a subsequent plan, at least 6 months before the end of the plan
+period of the preceding plan.
+
+2.5
+
+The Scottish Ministers may amend the rural support plan within the plan period
+if—
+
+2.5.a
+
+their strategic priorities for providing support change, or
+
+2.5.b
+
+it appears to them that any information set out in the plan in accordance with
+subsection  (2) (d)  has ceased to be accurate and complete.
+
+2.6
+
+Where the Scottish Ministers amend a plan, they must as soon as reasonably
+practicable—
+
+2.6.a
+
+lay the amended plan before the Scottish Parliament, and
+
+2.6.b
+
+publish it.
+
+2.7
+
+For the purposes of this section, the “plan period” is the period to which the
+plan relates and—
+
+2.7.a
+
+in the case of the first plan, is the period of 5 years beginning with the day
+on which it is published,
+
+2.7.b
+
+in the case of each subsequent plan, is the period of five years beginning on
+the day after the preceding plan period ends.
+
+2.8
+
+The plan period of a rural support plan is not affected by the Scottish
+Ministers amending the plan under subsection  (5) .
+
+2.9
+
+A reference in this Act to the rural support plan is (unless the context
+otherwise requires) a reference to the plan which has most recently been
+published under this section.
+
+2.10
+
+For the purposes of this section, “ support scheme ” means a scheme operated
+by the Scottish Ministers for the provision of support under or by virtue of
+this Act.
+
+2.11
+
+The Scottish Ministers may by regulations modify subsection (3) to add, adjust
+or remove information that may be included in a rural support plan.
+
+2.12
+
+Regulations under subsection (11) are subject to the affirmative procedure.
+
+#### Rural support plan: matters to be considered
+
+3
+
+3.1
+
+The Scottish Ministers must have regard to the following matters when
+preparing or amending a rural support plan under section  2 .
+
+3.2
+
+The matters are—
+
+3.2.a
+
+the objectives set out in section  1 ,
+
+3.2.b
+
+the proposals and policies contained in the climate change plan which relate
+to agriculture, forestry and rural land use,
+
+3.2.c
+
+any other statutory duty of the Scottish Ministers relating to agriculture,
+forestry, rural land use, biodiversity or the environment,
+
+3.2.d
+
+developments in the law and policy of the European Union,
+
+3.2.e
+
+the desirability of the agricultural sector operating with fair work
+principles,
+
+3.2.f
+
+the objectives of a plan produced under section 1 of the Good Food Nation
+(Scotland) Act 2022,
+
+3.2.g
+
+the need for sustainable food systems and supply chains in delivering food
+security,
+
+3.2.h
+
+the benefits of a diverse and resilient agricultural sector including small
+producers, tenant farmers, crofters and agricultural co-operative societies.
+
+3.3
+
+For the purpose of subsection  (2) , the “ climate change plan ” means the
+plan laid before the Scottish Parliament under section 35 of the Climate
+Change (Scotland) Act 2009.
+
+3.4
+
+The Scottish Ministers may by regulations modify this section to add, adjust
+or remove a matter to which regard must be had.
+
+3.5
+
+Regulations under subsection  (4)  are subject to the affirmative procedure.
+
+#### Rural support plan: engagement
+
+4
+
+4.1
+
+Subsection  (2)  applies when the Scottish Ministers are preparing a rural
+support plan.
+
+4.2
+
+The Scottish Ministers must consult—
+
+4.2.a
+
+such persons as they consider representative of the interests of—
+
+4.2.a.i
+
+farmers (including tenant farmers), crofters and land managers,
+
+4.2.a.ii
+
+people who live and work in rural communities,
+
+4.2.b
+
+Food Standards Scotland,
+
+4.2.c
+
+Historic Environment Scotland,
+
+4.2.d
+
+Scottish Environment Protection Agency,
+
+4.2.e
+
+Scottish Natural Heritage,
+
+4.2.f
+
+the Scottish Food Commission, and
+
+4.2.g
+
+such other persons as they consider appropriate.
+
+4.3
+
+Subsection  (4)  applies when the Scottish Ministers amend the rural support
+plan.
+
+4.4
+
+The Scottish Ministers must consult such persons as they consider likely to
+have an interest in or be affected by the amendments to the rural support
+plan.
+
+4.5
+
+At the same time as laying the rural support plan or the amended plan before
+the Scottish Parliament, the Scottish Ministers must lay a statement
+describing the consultation undertaken in respect of the plan (or amendment).
+
+#### Reports on rural support plan
+
+5
+
+5.1
+
+As soon as practicable after the end of each plan period under section 2, the
+Scottish Ministers must prepare a report.
+
+5.2
+
+The report must include—
+
+5.2.a
+
+the total amount of support or other relevant assistance provided during the
+plan period (including the monetary value of any support provided otherwise
+than as financial support),
+
+5.2.b
+
+the amount of support provided—
+
+5.2.b.i
+
+under each support scheme in operation during the period,
+
+5.2.b.ii
+
+otherwise than under a support scheme,
+
+5.2.b.iii
+
+to third party schemes,
+
+5.2.c
+
+a description of the way in which any support provided otherwise than as
+financial support has been provided,
+
+5.2.d
+
+the distribution of support provided (including geographically and by sector),
+
+5.2.e
+
+the Scottish Ministers’ assessment of—
+
+5.2.e.i
+
+the effectiveness of the strategic priorities set out in the rural support
+plan,
+
+5.2.e.ii
+
+whether any specific outcomes contained in the rural support plan have been
+achieved,
+
+5.2.e.iii
+
+the progress made (if any) in respect of the objectives set out in section 1,
+and
+
+5.2.e.iv
+
+the impact of any exercise of their powers under section 11, including by
+reference to the amount of support that would otherwise have been provided.
+
+5.3
+
+The report may also contain such other information as the Scottish Ministers
+consider appropriate.
+
+5.4
+
+The Scottish Ministers may also prepare—
+
+5.4.a
+
+interim reports about the amount of support provided during any period within
+a plan period,
+
+5.4.b
+
+other reports about the support that has been provided.
+
+5.5
+
+The Scottish Ministers must, after preparing a report under this section—
+
+5.5.a
+
+lay a copy of the report before the Scottish Parliament, and
+
+5.5.b
+
+publish the report.
+
+5.6
+
+In this section, “ relevant assistance ” means financial assistance provided
+by the Scottish Ministers under or by virtue of another enactment (including,
+in particular, assimilated law governing the CAP direct payment schemes and
+assimilated direct CAP legislation for a purpose similar to a purpose
+described in schedule 1).
+
+### Support for agriculture, rural development and related matters
+
+#### Power to provide support
+
+##### Power to provide support
+
+6
+
+6.1
+
+The Scottish Ministers may provide support for or in connection with the
+purposes described in schedule  1 .
+
+6.2
+
+The Scottish Ministers may by regulations modify schedule  1  by—
+
+6.2.a
+
+adding a purpose,
+
+6.2.b
+
+amending the description of a purpose (including by defining a word or
+expression),
+
+6.2.c
+
+removing a purpose.
+
+6.3
+
+Regulations made under this section are subject to the negative procedure.
+
+6.4
+
+In this Part, except where the context otherwise requires—
+
+6.4.a
+
+a reference to support (other than a reference to the provision of support by
+a third party described in section  7 ) is to support provided under this
+section, and
+
+6.4.b
+
+a reference to financial support is a reference to support under this section
+that is provided financially.
+
+##### Funding third party support
+
+7
+
+7.1
+
+Without prejudice to the purposes described in schedule  1 , support may be
+provided to—
+
+7.1.a
+
+the maker or operator of a third party scheme in connection with the
+establishment or operation of that scheme (including in connection with the
+provision of support under that scheme),
+
+7.1.b
+
+a person who otherwise provides support for or in connection with a purpose
+described in schedule  1 .
+
+7.2
+
+A “third party scheme” is a scheme for the provision of support (whether
+financially or otherwise) for or in connection with a purpose described in
+schedule  1 , but which is not made by the Scottish Ministers.
+
+#### General provision about support
+
+##### Form of support and conditions
+
+8
+
+8.1
+
+Support may be provided—
+
+8.1.a
+
+in such manner as the Scottish Ministers consider appropriate including, in
+particular, financial support by way of grant, loan or guarantee, and
+
+8.1.b
+
+under or in accordance with a scheme established by regulations made under
+section  15 (1) , a scheme established administratively, or otherwise.
+
+8.2
+
+Except as otherwise provided in regulations made under section  15 (1) , the
+Scottish Ministers may impose such conditions on the provision of support as
+they consider appropriate.
+
+8.3
+
+The conditions that may be imposed may, in particular, include conditions
+requiring the repayment or otherwise making good of any financial support
+(with or without interest).
+
+##### Guidance
+
+9
+
+9.1
+
+The Scottish Ministers may by regulations make provision in relation to
+guidance about support (including the guidance contained in the Code of
+Sustainable and Regenerative Agriculture (see section  29 )).
+
+9.2
+
+Provision under subsection  (1)  may, in particular, include provision—
+
+9.2.a
+
+requiring that guidance on a particular scheme or purpose be laid before the
+Scottish Parliament and published,
+
+9.2.b
+
+requiring regard to be had by particular persons to the guidance,
+
+9.2.c
+
+specifying the extent to which compliance with guidance on a particular topic
+is relevant in determining whether a person has complied with a statutory duty
+or condition of support,
+
+9.2.d
+
+specifying the admissibility or evidential value of the guidance in legal
+proceedings.
+
+9.3
+
+Regulations under this section are subject to the negative procedure.
+
+##### Delegation
+
+10
+
+10.1
+
+The Scottish Ministers may delegate functions relating to the providing of
+support to any other person.
+
+10.2
+
+Functions delegated under subsection  (1)  may—
+
+10.2.a
+
+include the giving of guidance, or
+
+10.2.b
+
+permit the exercise of discretion in relation to a function.
+
+10.3
+
+The delegation of functions under subsection  (1)  does not—
+
+10.3.a
+
+affect the Scottish Ministers’ responsibility for the performance of the
+function, or
+
+10.3.b
+
+prevent the Scottish Ministers from performing the function themselves.
+
+##### Power to cap support and assistance
+
+11
+
+11.1
+
+The Scottish Ministers may by regulations—
+
+11.1.a
+
+limit the overall amount of support or relevant assistance (or both) that a
+person may receive within a payment period (or periods),
+
+11.1.b
+
+provide for the amount of support or relevant assistance (or both) that a
+person may receive in a payment period (or periods) to progressively reduce
+where the support exceeds a specified amount of support.
+
+11.2
+
+Before making regulations under this section, the Scottish Ministers must
+consult such persons as they consider appropriate.
+
+11.3
+
+Regulations under this section are subject to the affirmative procedure.
+
+11.4
+
+In this section—
+
+      “ payment period ” means any specified period relating to the payment of
+support,           “ relevant assistance ” means financial assistance provided
+by the Scottish Ministers under or by virtue of another enactment (including,
+in particular, assimilated law governing the CAP direct payment schemes and
+assimilated direct CAP legislation) for a purpose similar to a purpose
+described in  schedule 1 ,           “ specified ” means specified in
+regulations under subsection  (1) .
+
+##### Refusal or recovery of support where in the public interest
+
+12
+
+12.1
+
+The Scottish Ministers may (in accordance with any regulations made under
+subsection  (2) )—
+
+12.1.a
+
+refuse to provide support if they consider that it is not in the public
+interest for a person to receive it, and
+
+12.1.b
+
+in a case where the Scottish Ministers consider that it was not in the public
+interest to have provided support to a person, take such steps as they
+consider appropriate to recover it.
+
+12.2
+
+The Scottish Ministers may by regulations make provision in connection with
+the exercise of their powers under  subsection (1)  including provision
+specifying—
+
+12.2.a
+
+persons in respect of whom the powers may be exercised,
+
+12.2.b
+
+circumstances in respect of which the powers may be exercised,
+
+12.2.c
+
+matters that the Scottish Ministers must take into account when considering
+whether to exercise the powers,
+
+12.2.d
+
+the manner and circumstances in which a person who has had support refused or
+recovered under subsection (1) may—
+
+12.2.d.i
+
+have the Scottish Ministers review their decision to exercise the powers, or
+
+12.2.d.ii
+
+appeal the decision.
+
+12.3
+
+Before making regulations under this section, the Scottish Ministers must
+consult such persons as they consider likely to be affected by provisions in
+this section.
+
+12.4
+
+Regulations under this section are subject to the negative procedure.
+
+#### Intervention in agricultural markets
+
+##### Exceptional market conditions: powers available to Scottish Ministers
+
+13
+
+13.1
+
+Subsection  (2)  applies during the period for which an exceptional market
+conditions declaration under  section 14  has effect.
+
+13.2
+
+The Scottish Ministers may provide, or agree to provide, financial support to
+agricultural producers in Scotland who have been, are being, or are likely to
+be, adversely affected by the exceptional market conditions described in the
+declaration.
+
+13.3
+
+Nothing in  this section  affects any other powers that are available to the
+Scottish Ministers (including under assimilated direct legislation and
+assimilated direct CAP legislation) to provide financial support to
+agricultural producers.
+
+13.4
+
+Financial support under  subsection (2)  may be provided by way of grant, loan
+or guarantee or in any other form.
+
+13.5
+
+The financial support may be provided subject to such conditions as the
+Scottish Ministers consider appropriate.
+
+13.6
+
+The conditions may, in particular, include conditions requiring the repayment
+or otherwise making good of any financial support (with or without interest).
+
+13.7
+
+Nothing in  subsection (1)  or  (2)  prevents the Scottish Ministers from
+providing, or agreeing to provide, financial support under  subsection (2) —
+
+13.7.a
+
+after the end of the period for which an exceptional market conditions
+declaration has effect, but
+
+13.7.b
+
+in response to an application made during that period.
+
+##### Declaration relating to exceptional market conditions
+
+14
+
+14.1
+
+If the Scottish Ministers consider that there are exceptional market
+conditions, they may make and publish a declaration (“an exceptional market
+conditions declaration”) in accordance with  this section .
+
+14.2
+
+There are “exceptional market conditions” if—
+
+14.2.a
+
+there is a severe disturbance in agricultural markets or a serious threat of a
+severe disturbance in agricultural markets, and
+
+14.2.b
+
+the disturbance or threatened disturbance has, or is likely to have, a
+significant adverse effect on agricultural producers in Scotland.
+
+14.3
+
+An exceptional market conditions declaration must—
+
+14.3.a
+
+state that the Scottish Ministers consider that there are exceptional market
+conditions,
+
+14.3.b
+
+describe the exceptional market conditions in question by specifying—
+
+14.3.b.i
+
+the disturbance or threatened disturbance in agricultural markets,
+
+14.3.b.ii
+
+any agricultural product which is or is likely to be affected by the
+disturbance or threatened disturbance,
+
+14.3.b.iii
+
+the grounds for considering that the disturbance or threatened disturbance
+has, or is likely to have, a significant adverse effect on agricultural
+producers,
+
+14.3.c
+
+describe the grounds for considering that the exceptional market conditions
+justify making the powers conferred by or referred to in  section 13
+available for use, and
+
+14.3.d
+
+specify the date until which the powers conferred by or referred to in
+section 13 (2)  are available for use in relation to the exceptional market
+conditions.
+
+14.4
+
+The date specified under  subsection (3) (d)  may not be later than the last
+day of the period of 3 months beginning with the day on which the exceptional
+market conditions declaration is published.
+
+14.5
+
+An exceptional market conditions declaration has effect from the beginning of
+the day on which it is published until the end of the day specified under
+subsection (3) (d) .
+
+14.6
+
+The Scottish Ministers may revoke an exceptional market conditions declaration
+by making and publishing a declaration under  this subsection  stating that
+the exceptional market conditions declaration is revoked from the date
+specified in the declaration.
+
+14.7
+
+Subsection (8)  applies if, at any time during the period of 7 days ending
+with the day specified under  subsection (3) (d)  in an exceptional market
+conditions declaration that has effect under  this section , the Scottish
+Ministers consider that there continue to be exceptional market conditions.
+
+14.8
+
+The Scottish Ministers may extend the exceptional market conditions
+declaration by making and publishing a declaration under  this subsection
+specifying—
+
+14.8.a
+
+that the exceptional market conditions declaration is extended for a period
+(not exceeding 3 months) specified in the declaration, and
+
+14.8.b
+
+that the powers conferred by or referred to in  section 13 (2)  are available
+for use during that period.
+
+14.9
+
+The fact that an exceptional market conditions declaration has expired or has
+been revoked does not prevent the Scottish Ministers from making and
+publishing another exceptional market conditions declaration relating in whole
+or part to the same exceptional market conditions.
+
+14.10
+
+The Scottish Ministers must lay a copy of any declaration made and published
+under  this section  before the Scottish Parliament as soon as practicable
+after it is published.
+
+14.11
+
+In  this section  and  section 13 , a reference to agricultural markets,
+agricultural producers or agricultural products includes a reference to
+horticultural markets, horticultural producers or horticultural products (as
+the case may be).
+
+#### Administrative matters, eligibility and enforcement
+
+##### Regulations about support
+
+15
+
+15.1
+
+The Scottish Ministers may by regulations make provision for or in connection
+with the provision of support or support for a particular purpose.
+
+15.2
+
+Regulations under this section may, in particular, make provision about—
+
+15.2.a
+
+eligibility criteria for receiving support (see section  16 ),
+
+15.2.b
+
+payment entitlements (see section  17 ),
+
+15.2.c
+
+the amount of support, including—
+
+15.2.c.i
+
+how the amount of support is to be determined,
+
+15.2.c.ii
+
+setting a minimum amount for a payment of support,
+
+15.2.c.iii
+
+reducing the amount of payments of support in particular circumstances (other
+than those described in section  11 ),
+
+15.2.d
+
+how support is to be paid or otherwise provided,
+
+15.2.e
+
+conditions that may or must be imposed when providing support,
+
+15.2.f
+
+checking, enforcing and monitoring support (see  section 18 ),
+
+15.2.g
+
+such administrative and procedural matters in connection with the provision of
+support as the Scottish Ministers consider appropriate, and
+
+15.2.h
+
+the publication of information about support that is being or has been
+provided (see  section 19 ).
+
+15.3
+
+Before making regulations under this section, the Scottish Ministers must
+consult such persons as they consider likely to be interested in or affected
+by provisions in this section.
+
+15.4
+
+Regulations under this section—
+
+15.4.a
+
+are subject to the affirmative procedure if the regulations in question, in
+the opinion of the Scottish Ministers, would make significant provision, or
+
+15.4.b
+
+otherwise, are subject to the negative procedure.
+
+15.5
+
+For the purpose of subsection  (4) (a) , significant provision includes—
+
+15.5.a
+
+establishing a scheme in respect of support for a particular purpose which
+will—
+
+15.5.a.i
+
+have a significant number of potential recipients or have a significant impact
+on recipients,
+
+15.5.a.ii
+
+affect a significant amount of land or have a significant impact on a
+particular type of land,
+
+15.5.a.iii
+
+have a significant monetary value (as assessed by reference to the value of
+support generally),
+
+15.5.a.iv
+
+create a criminal offence (see section  18 ), and
+
+15.5.b
+
+making significant changes to an existing scheme of support that is, by
+reference to the matters in paragraph (a), a significant scheme.
+
+##### Eligibility criteria for support
+
+16
+
+16.1
+
+Regulations under section  15 (2) (a)  may, in particular, make provision for
+or in connection with criteria for support by reference to—
+
+16.1.a
+
+the activity which a person carries out,
+
+16.1.b
+
+how a person carries out an activity, including whether the person carries out
+the activity personally or through other arrangements,
+
+16.1.c
+
+a person’s characteristics or personal, financial or business circumstances
+(for example, a person commencing an agricultural activity for the first time
+or meeting a specific threshold for turnover from agricultural activity),
+
+16.1.d
+
+the type or location of land on which a person carries out an activity,
+
+16.1.e
+
+the amount of land on which a person carries out an activity, which may be set
+by reference to the type of activity (for example, horticulture), or the
+manner in which the land is occupied (for example, as a croft),
+
+16.1.f
+
+the manner in which title to, or occupancy of, land on which an activity is
+carried out is registered or recorded (for example, if the land is registered
+in the Land Register of Scotland),
+
+16.1.g
+
+the ability of grazing committees and co-operatives to claim support as a
+collective for joint projects separate to individual support.
+
+16.2
+
+In this section “ grazing committee ” has the meaning given by section 47 of
+the Crofters (Scotland) Act 1993.
+
+##### Payment entitlements
+
+17
+
+17.1
+
+Regulations under section  15 (2) (b)  may, in particular, make provision for
+or in connection with—
+
+17.1.a
+
+the determination of the number of payment entitlements available,
+
+17.1.b
+
+the allocation of payment entitlements,
+
+17.1.c
+
+the value of payment entitlements,
+
+17.1.d
+
+the transfer of payment entitlements (whether or not for a consideration),
+
+17.1.e
+
+the Scottish Ministers holding payment entitlements for allocation to
+specified categories of persons,
+
+17.1.f
+
+the surrender of payment entitlements to, or the reclamation or cancelling of
+payment entitlements by, the Scottish Ministers,
+
+17.1.g
+
+creating and maintaining a register of persons allocated payment entitlements,
+
+17.1.h
+
+the charging of fees of such amount as may be specified for making changes to
+the register necessitated by the transfer of entitlements.
+
+17.2
+
+In this Part, a “payment entitlement” is the entitlement of a person to be
+provided an amount of support for a particular purpose (subject to meeting any
+eligibility criteria and conditions or limits on payments).
+
+##### Checking, enforcing and monitoring support
+
+18
+
+18.1
+
+Regulations under section  15 (2) (f)  may, in particular, make provision for
+or in connection with—
+
+18.1.a
+
+checking whether eligibility criteria for support are met,
+
+18.1.b
+
+the consequences where support has been provided without eligibility criteria
+having been met,
+
+18.1.c
+
+enforcing compliance with any conditions to which support is or has been
+provided,
+
+18.1.d
+
+monitoring the extent to which the purpose of providing support has been
+achieved,
+
+18.1.e
+
+the creation of offences and investigation of suspected offences in connection
+with applications for, or the provision of support.
+
+18.2
+
+Without limit to the generality of subsection  (1) , such provision may
+include provision—
+
+18.2.a
+
+about the provision of information,
+
+18.2.b
+
+conferring powers of entry,
+
+18.2.c
+
+conferring powers of inspection, search and seizure,
+
+18.2.d
+
+about the process for determining whether eligibility criteria for, or
+conditions applying to, the provision of support are met,
+
+18.2.e
+
+about record keeping,
+
+18.2.f
+
+about the recovery or making good of all or any part of support (with or
+without interest),
+
+18.2.g
+
+about withholding support, in whole or in part,
+
+18.2.h
+
+about steps to be taken, by a person to whom support is or has been provided,
+to rectify any breach of a condition applicable to that support,
+
+18.2.i
+
+about imposing monetary penalties (including penalties calculated by reference
+to the value of any support),
+
+18.2.j
+
+for recovery of amounts due in respect of monetary penalties,
+
+18.2.k
+
+prohibiting a person from receiving support, or support for a particular
+purpose, for a specified period or until specified conditions are satisfied,
+
+18.2.l
+
+about how decisions are to be reviewed and appeals,
+
+18.2.m
+
+conferring functions (including functions involving the exercise of a
+discretion) on a person.
+
+18.3
+
+Regulations made by virtue of  this section  may not authorise entry to a
+private dwelling without a warrant issued by a summary sheriff or sheriff.
+
+18.4
+
+The provision which may be made by virtue of  subsection (2) (f)  includes
+provision for interest on any recoverable amount to be payable from such day
+(whether the day on which the financial assistance in question was given or a
+later day) as may be specified in the regulations.
+
+18.5
+
+Regulations made by virtue of subsection  (1) (e)  creating an offence must
+provide for the maximum penalty for the offence to be—
+
+18.5.a
+
+on conviction on indictment, a fine, or
+
+18.5.b
+
+on summary conviction, a fine not exceeding the statutory maximum.
+
+18.6
+
+In this section, “ specified ” means specified in, or determined under,
+regulations made by virtue of subsection  (1) .
+
+##### Publication of information about support
+
+19
+
+Regulations under section  15 (2) (h)  may, in particular, make provision—
+
+19.a
+
+imposing a requirement on any person (including the Scottish Ministers),
+
+19.b
+
+requiring that the information to be published includes information about—
+
+19.b.i
+
+the recipient of any support provided (and, in such circumstances as may be
+specified in the regulations, any person who owns or controls the recipient),
+
+19.b.ii
+
+the amount of any support provided,
+
+19.b.iii
+
+the purposes of any support provided.
+
+##### Processing of information
+
+20
+
+20.1
+
+The Scottish Ministers may by regulations make provision about the processing
+of information for and in connection with—
+
+20.1.a
+
+the provision of—
+
+20.1.a.i
+
+support under this Act, or
+
+20.1.a.ii
+
+other relevant assistance,
+
+20.1.b
+
+the carrying out of functions in relation to continuing professional
+development activities under this Act.
+
+20.2
+
+Regulations under this section may, in particular—
+
+20.2.a
+
+require a person to produce information in such form and within such
+reasonable times as may be specified,
+
+20.2.b
+
+authorise the Scottish Ministers (and any persons acting on their behalf) to
+share information with—
+
+20.2.b.i
+
+a public authority for the purpose of enabling or assisting the authority (and
+any persons acting on their behalf) to exercise any functions,
+
+20.2.b.ii
+
+such other persons or descriptions of persons, in such circumstances as may be
+specified.
+
+20.3
+
+A duty or power to disclose or use information which is imposed or conferred
+by regulations under subsection (1) may not operate to require or authorise
+the disclosure or use of information which would contravene the data
+protection legislation (but the duty or power is to be taken into account in
+determining whether the disclosure or use would contravene that legislation).
+
+20.4
+
+In this section—
+
+      “ the data protection legislation ” has the meaning given by section
+3(9) of the Data Protection Act 2018,           “ processing ” is to be
+construed in accordance with section 3(4) of the Data Protection Act 2018,
+“ public authority ” means a public authority in any part of the United
+Kingdom,           “ relevant assistance ” means financial assistance provided
+by the Scottish Ministers under or by virtue of another enactment (including,
+in particular, assimilated law governing the CAP direct payment schemes and
+assimilated direct CAP legislation) for a purpose similar to a purpose
+described in  schedule 1 ,           “ specified ” means specified in, or
+determined under, regulations under subsection  (1) .
+
+20.5
+
+Regulations under this section are subject to the negative procedure.
+
+##### Monitoring and evaluation of schemes
+
+21
+
+21.1
+
+The Scottish Ministers must, in relation to each support scheme—
+
+21.1.a
+
+monitor the impact of the scheme, and
+
+21.1.b
+
+prepare one or more reports on the impact and effectiveness of the scheme
+(having had regard to the findings of that monitoring).
+
+21.2
+
+The Scottish Ministers may, in relation to any support provided otherwise than
+under a support scheme or the provision of other relevant assistance—
+
+21.2.a
+
+monitor the impact of the support or assistance, and
+
+21.2.b
+
+prepare one or more reports on the impact and effectiveness of the support or
+assistance (having had regard to the findings of that monitoring).
+
+21.3
+
+Monitoring under subsection  (1)  or  (2)  must be carried out in such manner
+and for such period or periods as the Scottish Ministers consider appropriate
+for the scheme or other support in question.
+
+21.4
+
+The number and frequency of reports prepared under subsection  (1)  or  (2)
+are to be as the Scottish Ministers consider appropriate for the scheme or
+other support in question.
+
+21.5
+
+The Scottish Ministers must, after preparing a report under this section—
+
+21.5.a
+
+lay a copy of the report before the Scottish Parliament, and
+
+21.5.b
+
+publish the report.
+
+### Powers to modify existing legislation relating to support
+
+#### Powers in relation to relevant CAP legislation
+
+##### Power to simplify, improve or update relevant CAP legislation
+
+22
+
+22.1
+
+The Agriculture (Retained EU Law and Data) (Scotland) Act 2020 is modified as
+follows.
+
+22.2
+
+In section 1 (defined terms), in subsection (2)—
+
+22.2.a
+
+in the opening words, for “main” substitute  “relevant” ,
+
+22.2.b
+
+after paragraph (b) insert—
+
+22.2.b.ba
+
+the CMO Regulation,
+
+.
+
+22.3
+
+In section 2 (power to simplify or improve CAP legislation)—
+
+22.3.a
+
+in subsection (1), for “the main” substitute  “or restate, to any extent, the
+relevant” ,
+
+22.3.b
+
+in subsection (2)—
+
+22.3.b.i
+
+the words from “that” to “legislation” become paragraph (a),
+
+22.3.b.ii
+
+after that paragraph insert—
+
+22.3.b.ii.b
+
+that they consider appropriate to take account of—
+
+22.3.b.ii.b.i
+
+changes in technology, or
+
+22.3.b.ii.b.ii
+
+developments in scientific understanding.
+
+,
+
+22.3.c
+
+after subsection (2) insert—
+
+22.3.c.2A
+
+A restatement under subsection (1) may make any change to the legislation that
+the Scottish Ministers consider appropriate—
+
+22.3.c.2A.a
+
+for the purposes of—
+
+22.3.c.2A.a.i
+
+resolving ambiguity,
+
+22.3.c.2A.a.ii
+
+removing doubt or an anomaly,
+
+22.3.c.2A.a.iii
+
+facilitating improvements in the clarity or accessibility of the law
+(including by omitting anything which is legally unnecessary),
+
+22.3.c.2A.b
+
+to take account of—
+
+22.3.c.2A.b.i
+
+changes in technology, or
+
+22.3.c.2A.b.ii
+
+developments in scientific understanding.
+
+22.3.c.2B
+
+A restatement under subsection (1) may use words or concepts that are
+different from those used in the provision being restated.
+
+.
+
+22.4
+
+The section title of section 2 becomes  “ Power to simplify, improve or update
+relevant CAP legislation ” .
+
+##### Power to continue or end the operation of relevant CAP legislation
+
+23
+
+23.1
+
+The Agriculture (Retained EU Law and Data) (Scotland) Act 2020 is modified as
+follows.
+
+23.2
+
+In section 3 (power to provide for the operation of CAP legislation beyond
+2020)—
+
+23.2.a
+
+in subsection (1)—
+
+23.2.a.i
+
+for “main” substitute  “relevant” ,
+
+23.2.a.ii
+
+the words “for one or more years beyond 2020” are repealed,
+
+23.2.b
+
+after subsection (1) insert—
+
+23.2.b.1A
+
+The Scottish Ministers may by regulations modify any provision of the relevant
+CAP legislation for the purpose of securing that it—
+
+23.2.b.1A.a
+
+ceases to apply for a period, or
+
+23.2.b.1A.b
+
+ceases to have effect in Scotland.
+
+,
+
+23.2.c
+
+subsections (2) and (3) are repealed,
+
+23.2.d
+
+in subsection (4), for “subject to the affirmative procedure” substitute  “(if
+they have not been subject to the affirmative procedure) subject to the
+negative procedure” .
+
+23.3
+
+The section title of section 3 becomes  “ Power to continue or end the
+operation of relevant CAP legislation ” .
+
+##### Power to modify financial provision in relevant CAP legislation
+
+24
+
+24.1
+
+The Agriculture (Retained EU Law and Data) (Scotland) Act 2020 is modified as
+follows.
+
+24.2
+
+In section 4 (power to modify financial provision in CAP legislation)—
+
+24.2.a
+
+in subsection (1), for “main” substitute  “relevant” ,
+
+24.2.b
+
+subsection (2) is repealed,
+
+24.2.c
+
+in subsection (3), for “subject to the affirmative procedure” substitute  “(if
+they have not been subject to the affirmative procedure) subject to the
+negative procedure” .
+
+24.3
+
+The section title of section 4 becomes  “ Power to modify financial provision
+in relevant CAP legislation ” .
+
+##### Repeal of section 5
+
+25
+
+Section 5 of the Agriculture (Retained EU Law and Data) (Scotland) Act 2020 is
+repealed.
+
+##### Public intervention and private storage aid
+
+26
+
+26.1
+
+The Agriculture (Retained EU Law and Data) (Scotland) Act 2020 is modified as
+follows.
+
+26.2
+
+In section 6 (power to modify CAP legislation on public intervention and
+private storage aid)—
+
+26.2.a
+
+for subsection (2) substitute—
+
+26.2.a.2
+
+The power conferred by subsection (1) includes the power to make provision for
+the purposes of—
+
+26.2.a.2.a
+
+altering the operation of the legislation so far as it has effect in
+connection with exceptional market conditions which are the subject of a
+declaration under section  14  of the Agriculture and Rural Communities
+(Scotland) Act 2024,
+
+26.2.a.2.b
+
+securing that provisions of the legislation cease to have effect otherwise
+than in connection with exceptional market conditions which are the subject of
+such a declaration,
+
+26.2.a.2.c
+
+altering the operation of provisions of the legislation otherwise than in
+connection with exceptional market conditions.
+
+,
+
+26.2.b
+
+after subsection (3) insert—
+
+26.2.b.3A
+
+For the purposes of this section, a reference to exceptional market conditions
+which are the subject of a declaration under section  14  of the Agriculture
+and Rural Communities (Scotland) Act 2024 includes a reference to
+circumstances which are the subject of measures under Articles 219, 220 and
+221 of the CMO Regulation.
+
+.
+
+##### Power to modify CAP legislation on aid for fruit and vegetable producer organisations
+
+27
+
+27.1
+
+In section 7 of the Agriculture (Retained EU Law and Data) (Scotland) Act 2020
+(power to simplify or improve CAP legislation on aid for fruit and vegetable
+producer organisations), subsection (2) is repealed.
+
+27.2
+
+The section title of section 7 becomes  “ Power to modify CAP legislation on
+aid for fruit and vegetable producer organisations ” .
+
+##### Apiculture
+
+28
+
+After section 7 of the Agriculture (Retained EU Law and Data) (Scotland) Act
+2020 insert—
+
+######### Apiculture
+
+########## Apiculture
+
+28.7A
+
+28.7A.1
+
+The Scottish Ministers may by regulations modify the legislation governing
+apiculture.
+
+28.7A.2
+
+In this section, the “ legislation governing apiculture ” includes, in
+particular—
+
+28.7A.2.a
+
+Articles 55 to 57 and 215 of the CMO Regulation,
+
+28.7A.2.b
+
+any delegated or implementing Regulations made (whether by the Commission or
+the Council) under the CMO Regulation relating to those Articles,
+
+28.7A.2.c
+
+any subordinate legislation implementing or otherwise relating to those
+Articles.
+
+28.7A.3
+
+Regulations under this section are (if they have not been subject to the
+affirmative procedure) subject to the negative procedure.
+
+.
+
+### Miscellaneous
+
+#### Code of Practice on Sustainable and Regenerative Agriculture
+
+29
+
+29.1
+
+The Scottish Ministers must prepare and publish a document providing guidance
+on sustainable and regenerative agriculture within the period of one year
+beginning with the day on which this section comes into force.
+
+29.2
+
+The document is to be called the “ Code of Practice on Sustainable and
+Regenerative Agriculture ” (and is referred to in this section as “ the code
+”).
+
+29.3
+
+The code is to include—
+
+29.3.a
+
+an explanation of what the Scottish Ministers consider to be sustainable and
+regenerative agriculture,
+
+29.3.b
+
+the agricultural activities and methods which they consider to constitute best
+practice for sustainable and regenerative agriculture,
+
+29.3.c
+
+such other information and guidance relating to sustainable and regenerative
+agriculture as the Scottish Ministers consider appropriate.
+
+29.4
+
+The Scottish Ministers must review and, if they consider it appropriate,
+revise and publish the code (as so revised) by the end of each review period.
+
+29.5
+
+Before publishing the code or any revised code, the Scottish Ministers must
+lay it before the Scottish Parliament.
+
+29.6
+
+The Scottish Ministers must, in preparing or reviewing the code, consult such
+persons as they consider likely to be interested in or affected by it.
+
+29.7
+
+The Scottish Ministers must take such steps as they consider appropriate to
+promote awareness of the code to persons likely to be affected by it—
+
+29.7.a
+
+after publication of the code (or the code as revised),
+
+29.7.b
+
+at such other times as they consider appropriate.
+
+29.8
+
+In this section, “ review period ” means—
+
+29.8.a
+
+the period of 5 years beginning with the day on which the first code is
+published, and
+
+29.8.b
+
+each subsequent period of 5 years.
+
+#### Continuing professional development
+
+30
+
+30.1
+
+The Scottish Ministers may by regulations make provision for or in connection
+with the continuing professional development of—
+
+30.1.a
+
+farmers,
+
+30.1.b
+
+crofters,
+
+30.1.c
+
+land-managers,
+
+30.1.d
+
+persons who work in agriculture (whether as employees or otherwise),
+
+30.1.e
+
+persons who provide relevant advice or services to the persons listed in
+paragraphs  (a)  to  (c)  (other than persons who are already subject to such
+requirements),
+
+30.1.f
+
+such other categories of persons providing advice or services in or for rural
+communities as may be specified in the regulations.
+
+30.2
+
+In  subsection (1) (e) , relevant advice or services means advice or services
+relating to farming, crofting or land-management.
+
+30.3
+
+Regulations under  subsection (1)  may include provision about continuing
+professional development activities which the persons mentioned in  subsection
+(1)  may or must undertake (“CPD activities”), such as—
+
+30.3.a
+
+requiring the persons mentioned in  subsection (1)  to undertake particular,
+or a particular amount of, CPD activities,
+
+30.3.b
+
+the form and content of CPD activities, including peer-to-peer learning,
+
+30.3.c
+
+the accreditation of CPD activities and the persons providing CPD activities,
+
+30.3.d
+
+requiring that any person providing CPD activities or any particular
+description of CPD activities in accordance with the regulations holds such
+qualifications, skills or experience as may be specified in the regulations,
+
+30.3.e
+
+the minimum criteria for successful completion of CPD activities,
+
+30.3.f
+
+how successful completion of CPD activities is recorded,
+
+30.3.g
+
+any circumstances in which a person who would otherwise be required to
+undertake particular, or a particular amount of, CPD activities does not have
+to do so,
+
+30.3.h
+
+monitoring and enforcement of any requirement to undertake particular, or a
+particular amount of, CPD activities,
+
+30.3.i
+
+the charging of fees in connection with the provision of, or any requirement
+to undertake, CPD activities,
+
+30.3.j
+
+the processing of information in connection with the provision of, or any
+requirement to undertake, CPD activities, and
+
+30.3.k
+
+appeals against decisions of the Scottish Ministers (or a person acting on
+their behalf) relating to any requirement to undertake CPD activities.
+
+30.4
+
+Before making regulations under this section, the Scottish Ministers must
+consult such persons as they consider appropriate.
+
+30.5
+
+Regulations under subsection  (1) —
+
+30.5.a
+
+may make provision for persons other than the Scottish Ministers carrying out
+functions in relation to CPD activities,
+
+30.5.b
+
+are subject to the negative procedure.
+
+#### Monitoring and evaluation of continuing professional development
+
+31
+
+31.1
+
+The Scottish Ministers must, in relation to each CPD scheme—
+
+31.1.a
+
+monitor the impact of the CPD scheme, and
+
+31.1.b
+
+prepare one or more reports on the impact and effectiveness of the CPD scheme
+(having had regard to the findings of that monitoring and the matters to be
+considered by virtue of subsection  (2) ).
+
+31.2
+
+For the purposes of monitoring a CPD scheme under subsection  (1) , the
+Scottish Ministers must, in particular, consider whether the CPD scheme in
+question—
+
+31.2.a
+
+is accessible to the persons to whom the CPD scheme relates, including by
+reference to—
+
+31.2.a.i
+
+where CPD activities take place,
+
+31.2.a.ii
+
+the range, format and type of CPD activities that are available, and
+
+31.2.a.iii
+
+the costs associated with undertaking the CPD activities,
+
+31.2.b
+
+requires CPD activities to be undertaken only where it is appropriate and
+proportionate to do so.
+
+31.3
+
+Monitoring under subsection  (1) (a)  may be carried out in such manner and
+for such period or periods as the Scottish Ministers consider appropriate for
+the CPD scheme in question.
+
+31.4
+
+The number and frequency of reports prepared under subsection  (1) (b)  is to
+be as the Scottish Ministers consider appropriate for the CPD scheme in
+question.
+
+31.5
+
+The Scottish Ministers must, after preparing a report under this section—
+
+31.5.a
+
+lay a copy of the report before the Scottish Parliament, and
+
+31.5.b
+
+publish the report.
+
+31.6
+
+The Scottish Ministers may by regulations modify subsection  (2)  to add,
+amend or remove a matter to be considered.
+
+31.7
+
+Regulations under subsection  (6)  are subject to the affirmative procedure.
+
+31.8
+
+In this section—
+
+31.8.a
+
+a reference to—
+
+31.8.a.i
+
+a CPD scheme is a reference to any set of CPD activities which a person
+described in a paragraph of section 30(1) may or must undertake as a result of
+regulations under that section,
+
+31.8.a.ii
+
+a person to whom a CPD scheme relates is a reference to a person who may or
+must undertake certain CPD activities as a result of regulations made under
+section 30,
+
+31.8.b
+
+“ CPD activities ” has the same meaning as in section 30(3).
+
+#### Prescribing and regulating means of identifying animals
+
+32
+
+32.1
+
+The Animal Health Act 1981 is modified as follows.
+
+32.2
+
+In section 8 (movement generally)—
+
+32.2.a
+
+in subsection (1), for paragraph (a) substitute—
+
+32.2.a.a
+
+for prescribing and regulating the means of identifying animals,
+
+,
+
+32.2.b
+
+in subsection (1A) (as inserted by the Agriculture Act 2020), the words “made
+by the Secretary of State or the Welsh Ministers” are repealed.
+
+#### Food security statements
+
+33
+
+33.1
+
+The Scottish Ministers must, not less than once in every period of 3 years,
+prepare a statement on food security in Scotland.
+
+33.2
+
+The Scottish Ministers must, after preparing a statement under this section—
+
+33.2.a
+
+lay a copy of the statement before the Scottish Parliament, and
+
+33.2.b
+
+publish the statement.
+
+33.3
+
+The first statement under this section must be published within the period of
+3 years beginning with the date of commencement of this section.
+
+#### Repeals and minor modifications
+
+34
+
+34.1
+
+The enactments mentioned in the first column of the table in  Part 1  of
+schedule 2 are repealed or revoked to the extent specified in the second
+column of the table.
+
+34.2
+
+Part 2  of schedule 2 contains minor modifications of enactments.
+
+### Final provisions
+
+#### Regulations
+
+35
+
+35.1
+
+A power to make regulations conferred by this Act includes the power to make—
+
+35.1.a
+
+different provision for different purposes or areas, and
+
+35.1.b
+
+incidental, supplemental, consequential, transitional, transitory or saving
+provision.
+
+35.2
+
+This section does not apply to section  38 .
+
+#### Ancillary provision
+
+36
+
+36.1
+
+The Scottish Ministers may by regulations make any incidental, supplementary,
+consequential, transitional, transitory or saving provision they consider
+appropriate for the purposes of, or in connection with or for giving full
+effect to this Act or any provision made under it.
+
+36.2
+
+Regulations under this section may modify any enactment (including this Act).
+
+36.3
+
+Regulations under this section—
+
+36.3.a
+
+are subject to the affirmative procedure if they add to, replace or omit any
+part of the text of an Act (including this Act), but
+
+36.3.b
+
+otherwise are subject to the negative procedure.
+
+#### Index of defined terms
+
+37
+
+In this Act—
+
+      “ exceptional market conditions ” is to be construed in accordance with
+section  14 (2) ,           “ exceptional market conditions declaration ” has
+the meaning given in section  14 (1) ,           “ financial support ” is to
+construed in accordance with section  6 (4) ,           “ payment entitlement
+” is to be construed in accordance with  section 17 (2) ,           “ rural
+support plan ” is to be construed in accordance with  section 2 (9) ,
+“ support ” is to be construed in accordance with section  6 (4) ,           “
+third party scheme ” is to be construed in accordance with  section 7 (2) .
+
+#### Commencement
+
+38
+
+38.1
+
+This section and sections  35 ,  36 ,  37  and  39  come into force the day
+after Royal Assent.
+
+38.2
+
+The other provisions of this Act come into force on such day as the Scottish
+Ministers may by regulations appoint.
+
+38.3
+
+Regulations under this section may—
+
+38.3.a
+
+make different provision for different purposes or areas,
+
+38.3.b
+
+include transitional, transitory or saving provision.
+
+#### Short title
+
+39
+
+The short title of this Act is the Agriculture and Rural Communities
+(Scotland) Act 2024.
+
+  Purposes of support
+
+(introduced by section 6)
+
+##### General
+
+###### Application
+
+1
+
+1.1
+
+The purposes described in  this schedule  are the purposes for which support
+may be provided under section  6 .
+
+1.2
+
+Support may be provided for any combination of purposes that the Scottish
+Ministers consider appropriate.
+
+1.3
+
+Without limit to the generality of section  35 (1) , support may be provided
+for the purposes of assisting—
+
+1.3.a
+
+different descriptions of person,
+
+1.3.b
+
+different types of activity,
+
+1.3.c
+
+activity on different types of land or land with different properties or
+characteristics, and
+
+1.3.d
+
+activity on land in different areas.
+
+##### Agriculture, food and drink
+
+###### Farming etc.
+
+2
+
+2.1
+
+Assisting persons to carry out agricultural activities.
+
+2.2
+
+For the purposes of  this schedule , references to agriculture include—
+
+2.2.a
+
+horticulture,
+
+2.2.b
+
+growing crops, including fruit, seeds and plants grown for the production of
+energy or other non-food purposes,
+
+2.2.c
+
+dairy farming,
+
+2.2.d
+
+livestock breeding and keeping (including apiculture),
+
+2.2.e
+
+deer and game farming,
+
+2.2.f
+
+the use of land as grazing land, meadow land, osier land,
+
+2.2.g
+
+market gardens and nursery grounds, and
+
+2.2.h
+
+the use of land for woodlands where that use is ancillary to the farming of
+the land for other agricultural purposes, including—
+
+2.2.h.i
+
+providing shelter to livestock,
+
+2.2.h.ii
+
+reducing flood risk,
+
+2.2.h.iii
+
+reducing soil loss,
+
+2.2.h.iv
+
+reducing risks to wader birds, including curlew.
+
+2.3
+
+In this paragraph, “ horticulture ” means the growing and harvesting of
+horticultural crops, including fruit, vegetables, tubers, mushrooms, herbs,
+bush and tree nuts and seeds.
+
+###### Particular products or sectors
+
+3
+
+3.1
+
+Assisting persons to produce (or produce in a particular way) a product listed
+in sub-paragraph  (3)  with a view to—
+
+3.1.a
+
+ensuring that agricultural activity (or activity of a particular type)
+continues or evolves to support a transition to a sustainable land management
+regime in a particular area or on a particular type of land,
+
+3.1.b
+
+ensuring that agricultural activity of a particular type continues,
+
+3.1.c
+
+contributing to the economic or social wellbeing of an area,
+
+3.1.d
+
+delivering an environmental benefit (such as the preservation of wildlife or a
+natural habitat).
+
+3.2
+
+This purpose includes assisting persons to undertake an ancillary activity in
+respect of a product listed in sub-paragraph  (3) .
+
+3.3
+
+The products are—
+
+3.3.a
+
+cereals,
+
+3.3.b
+
+oilseeds,
+
+3.3.c
+
+protein crops,
+
+3.3.d
+
+grain legumes,
+
+3.3.e
+
+flax,
+
+3.3.f
+
+hemp,
+
+3.3.g
+
+wool,
+
+3.3.h
+
+nuts,
+
+3.3.i
+
+herbs,
+
+3.3.j
+
+starch potato,
+
+3.3.k
+
+milk and milk products,
+
+3.3.l
+
+seeds,
+
+3.3.m
+
+sheep meat, pig meat and goat meat,
+
+3.3.n
+
+beef and veal,
+
+3.3.o
+
+poultry meat and eggs,
+
+3.3.p
+
+venison,
+
+3.3.q
+
+dried fodder,
+
+3.3.r
+
+hops,
+
+3.3.s
+
+sugar beet,
+
+3.3.t
+
+cane and chicory,
+
+3.3.u
+
+fruit and vegetables, and
+
+3.3.v
+
+short rotation coppice.
+
+3.4
+
+In  this paragraph , an “ancillary activity” is an activity of selling,
+marketing, preparing, packaging, processing or distributing a product.
+
+###### Food and drink
+
+4
+
+4.1
+
+Assisting persons to—
+
+4.1.a
+
+produce or process food,
+
+4.1.b
+
+use organic practices, methods or systems for food production or processing,
+
+4.1.c
+
+meet certification requirements for organic food production or processing,
+
+4.1.d
+
+encourage agricultural and scientific innovation.
+
+4.2
+
+This purpose includes assisting persons to undertake an ancillary activity in
+respect of the production or processing of food.
+
+4.3
+
+In  this paragraph , an “ancillary activity” is an activity of selling,
+marketing, preparing, packaging or distributing food.
+
+4.4
+
+In this schedule, a reference to—
+
+4.4.a
+
+food includes drinks, and
+
+4.4.b
+
+producing food includes hunting or catching wild animals, or picking wild
+plants, for food.
+
+4.5
+
+For the purposes of this paragraph, “ animal ” means a vertebrate (other than
+a human) or invertebrate.
+
+##### Forestry
+
+###### Forestry
+
+5
+
+5.1
+
+Assisting persons to—
+
+5.1.a
+
+create areas of woodland (except, or only to the extent permitted, on
+specified land),
+
+5.1.b
+
+manage woodland (and the creation of new areas of woodland) in a sustainable
+way, including by—
+
+5.1.b.i
+
+preparing plans for the creation and management of woodland,
+
+5.1.b.ii
+
+undertaking conservation, and
+
+5.1.b.iii
+
+improving woodlands, access to areas of woodland and woodland infrastructure,
+
+5.1.c
+
+develop and use systems in which trees are grown in combination with
+agricultural activity,
+
+5.1.d
+
+prevent damage to trees and woodland from fires, natural disasters and other
+adverse events (including the outbreak of a disease or pests) and restore
+trees and woodland after such events,
+
+5.1.e
+
+undertake an ancillary activity.
+
+5.2
+
+For the purpose of sub-paragraph (1)(a), “ specified land ” means land of such
+description as is specified in regulations made under section 15 as being
+unsuitable for woodland.
+
+5.3
+
+In  this paragraph , an “ancillary activity” is an activity of selling,
+marketing, preparing, packaging, processing or distributing a product derived
+from a forestry activity.
+
+5.4
+
+This paragraph is without prejudice to the duties contained in section 2 of
+the Forestry and Land Management (Scotland) Act 2018 (duty to promote
+sustainable forest management).
+
+##### Rural communities and economy
+
+###### Venison supply chains and infrastructure
+
+6
+
+Assisting persons who work in, operate, or seek to establish venison supply
+chains and infrastructures, such as deer larders and access to carcass
+removal.
+
+###### Rural communities
+
+7
+
+7.1
+
+Assisting persons—
+
+7.1.a
+
+to live, work or operate in rural areas (or assist or encourage others to do
+so),
+
+7.1.b
+
+to invest in infrastructure and services in and for rural areas.
+
+7.2
+
+Assisting persons living, working or operating in a rural area to—
+
+7.2.a
+
+produce and implement strategies for the development of the area, including
+identification of rural anchor institutions,
+
+7.2.b
+
+co-operate or act jointly with other persons for or in connection with another
+purpose described in this schedule.
+
+7.3
+
+Assisting persons to establish or maintain a network of persons involved in
+rural development.
+
+7.4
+
+For the purpose of this paragraph, “ rural anchor institution ” means a body,
+or network of bodies, which—
+
+7.4.a
+
+is situated in or near a particular rural community, and
+
+7.4.b
+
+makes a significant contribution to the economic sustainability, resilience,
+or growth of, or culture in, that community.
+
+###### Community benefits
+
+8
+
+Assisting persons to create community benefits, including—
+
+8.a
+
+clean air,
+
+8.b
+
+clean water,
+
+8.c
+
+carbon sequestration,
+
+8.d
+
+biodiversity gains,
+
+8.e
+
+access to nature,
+
+8.f
+
+wider economic and social benefits.
+
+###### Investing in rural businesses and enterprises
+
+9
+
+9.1
+
+Assisting persons to—
+
+9.1.a
+
+start a business or enterprise (whether or not for profit)—
+
+9.1.a.i
+
+relating to agriculture, food production or processing, forestry, nature
+restoration or other rural land use activity, or
+
+9.1.a.ii
+
+otherwise, in or for a rural area or community,
+
+9.1.b
+
+develop, sustain or change such a business or enterprise (including improving
+productivity or diversifying into other activities),
+
+9.1.c
+
+improve the resilience of such a business or enterprise,
+
+9.1.d
+
+recover from or adapt to events which have (or may have) a negative impact
+(including exceptional adverse events such as a natural disaster or the
+outbreak of a disease or pests) on such a business or enterprise or the
+activities of such a business or enterprise.
+
+9.2
+
+For the purposes of  this paragraph , “ enterprise ” includes co-operative
+societies and similar organisations.
+
+###### Knowledge, innovation, education and training
+
+10
+
+10.1
+
+Assisting persons—
+
+10.1.a
+
+to establish, develop, deliver or undertake—
+
+10.1.a.i
+
+courses of training or professional development relating to agriculture,
+forestry, food production or processing, animal health and welfare or genetic
+resources, land use or related sectors (such as sectors providing services to
+agriculture),
+
+10.1.a.ii
+
+other forms of learning and sharing information relating to those sectors,
+
+10.1.b
+
+to provide or obtain advice—
+
+10.1.b.i
+
+relating to agriculture, food production or processing, forestry, animal
+health and welfare or genetic resources or other land use, or
+
+10.1.b.ii
+
+otherwise, relevant to persons living, working or operating in rural
+communities,
+
+10.1.c
+
+to research, develop, introduce or test new or improved (whether in terms of
+efficiency, productivity, sustainability or otherwise)—
+
+10.1.c.i
+
+crops and other agricultural products,
+
+10.1.c.ii
+
+forestry products,
+
+10.1.c.iii
+
+animal health and welfare or genetic resources, methods or systems,
+
+10.1.c.iv
+
+agricultural or forestry activities, methods or systems,
+
+10.1.c.v
+
+methods or systems of food production and processing,
+
+10.1.d
+
+to undertake other research or development activities which may—
+
+10.1.d.i
+
+support those living, working or operating in rural areas,
+
+10.1.d.ii
+
+improve or support rural land (or land use), or
+
+10.1.d.iii
+
+improve or support the environment,
+
+10.1.e
+
+to undertake ancillary activities.
+
+10.2
+
+In  this paragraph , “ancillary activities” include developing and maintaining
+resources, digital tools or databases for or in connection with the purposes
+described in  sub-paragraph (1) (a)  to  (d) .
+
+10.3
+
+For the purposes of this paragraph, “ animal ” means a vertebrate (other than
+a human) or invertebrate.
+
+###### Integrated land management
+
+11
+
+11.1
+
+Assisting persons to develop and implement integrated land management plans.
+
+11.2
+
+An integrated land management plan is a plan—
+
+11.2.a
+
+agreed between a person and a relevant authority,
+
+11.2.b
+
+which provides for the management and use of land and natural resources in
+such manner and with a view to achieving such an outcome as the plan may
+specify.
+
+11.3
+
+In  this paragraph , “ relevant authority ” means the Scottish Ministers, a
+local authority, a national park authority or such other authority with
+functions relating to land management as the Scottish Ministers consider
+appropriate.
+
+###### Quality schemes and producer groups
+
+12
+
+Assisting persons to establish or participate in—
+
+12.a
+
+schemes or programmes which certify that a particular agricultural product,
+forestry product (or a by-product)—
+
+12.a.i
+
+meets, or is produced according to, standards set by the organisers of the
+scheme or programme,
+
+12.a.ii
+
+is produced in a particular place or in a particular way,
+
+12.b
+
+groups of producers of particular agricultural or forestry products.
+
+###### Preservation of historic and cultural sites
+
+13
+
+Assisting persons to protect or enhance the conditions of sites of historic or
+cultural interest.
+
+###### Recreational access to land
+
+14
+
+Assisting persons to provide, maintain, facilitate and improve access for
+recreation to land (including land covered with water) in rural areas.
+
+###### Nature-based economy
+
+15
+
+Assisting persons to invest in nature-based enterprises in rural areas.
+
+##### Rural land management and the environment
+
+###### Plants and soil
+
+16
+
+Assisting persons to promote, protect or improve—
+
+16.a
+
+plant health,
+
+16.b
+
+plant genetic resources,
+
+16.c
+
+soil health and quality, including, in particular—
+
+16.c.i
+
+the physical, chemical and biological condition of the soil, determining its
+capacity to function as a vital living system and to provide ecosystem
+services,
+
+16.c.ii
+
+the carbon capacity of the soil.
+
+###### Greenhouse gases and climate change
+
+17
+
+17.1
+
+Assisting persons to—
+
+17.1.a
+
+implement measures to monitor and reduce greenhouse gas emissions from
+agriculture,
+
+17.1.b
+
+take action in respect of those parts of the climate change plan as apply to
+the sectors of agriculture, forestry, land use and land use change,
+
+17.1.c
+
+adapt to or mitigate against changes to the natural environment (whether
+attributable to climate change or otherwise),
+
+17.1.d
+
+take action in respect to any relevant plan, policies or objectives relating
+to agriculture, forestry, land use and land use change.
+
+17.2
+
+In  this paragraph , “ greenhouse gas ” has the same meaning as in section 10
+of the Climate Change (Scotland) Act 2009.
+
+17.3
+
+In  this paragraph , “ climate change plan ” means the climate change plan
+prepared and laid before Parliament under section 35 of the Climate Change
+(Scotland) Act 2009 and the reference to particular sectors are to be
+construed in accordance with that section.
+
+###### Natural environment
+
+18
+
+18.1
+
+Assisting persons to carry out activities that monitor, preserve, protect,
+improve or restore biodiversity and the natural environment (in any respect).
+
+18.2
+
+Assisting persons to set aside land for the natural environment and to prevent
+further biodiversity loss.
+
+18.3
+
+Assisting persons to carry out deer management activities in order to enhance
+or protect the natural environment.
+
+18.4
+
+Compensating persons in respect of additional costs incurred and income lost
+by the person in consequence of the implementation of environmental
+improvement measures including, in particular, measures taken in consequence
+of an enactment or international agreement.
+
+18.5
+
+Assisting persons to carry out activities that preserve or protect land,
+water, the water holding capacity of land or other resources from the natural
+environment or human activity (for example, by promoting flood resilience or
+controlling invasive non-native species).
+
+18.6
+
+Assisting persons who have sustained loss or damage in consequence of—
+
+18.6.a
+
+the reintroduction of a native species of plant or animal (including species
+which were, but are no longer, native to the area of reintroduction by reason
+of having become extinct in part or all of Scotland),
+
+18.6.b
+
+the activity of a species of wild animal—
+
+18.6.b.i
+
+which is considered by the Scottish Ministers to have conservation value, and
+
+18.6.b.ii
+
+the killing or control of which is limited or prohibited by an enactment or an
+agreement (for example, a lease or other land management agreement).
+
+18.7
+
+For the purposes of this paragraph, “ animal ” means a vertebrate (other than
+a human) or invertebrate.
+
+###### Animals
+
+19
+
+19.1
+
+Assisting persons to promote, protect or improve—
+
+19.1.a
+
+animal health and welfare,
+
+19.1.b
+
+animal genetic resources.
+
+19.2
+
+For the purposes of this paragraph, “ animal ” means a vertebrate (other than
+a human) or invertebrate.
+
+##### Administrative and technical support and monitoring
+
+###### Administrative and technical support
+
+20
+
+Assisting persons to—
+
+20.a
+
+understand and access the support to which a person is entitled under this
+Act,
+
+20.b
+
+comply with the requirements of a scheme or any condition imposed in
+connection with support provided to the person or to which the person may be
+entitled.
+
+###### Monitoring and reporting on effectiveness of support
+
+21
+
+Assisting persons to monitor, gather data, prepare reports on, or otherwise
+provide information in relation to assessing the effectiveness of support
+provided under this Act.
+
+  Repeals and minor modifications
+
+(introduced by section 34)
+
+##### Repeals and revocations
+
+      Enactment Extent of repeal or revocation   Small Landholders (Scotland)
+Act 1911 Section 4. Section 6. Small Holding Colonies (Amendment) Act 1918
+Section 1. Land Settlement (Scotland) Act 1919 Section 1(1) and (2). Section
+3. Section 5. Section 6(5). In section 7, the words “, or the Small Holding
+Colonies Acts, 1916 and 1918,”. Section 8. Section 26. Schedule 1. Small
+Holdings and Allotments Act 1926 The whole Act. Agricultural Land
+(Utilisation) Act 1931 The whole Act. Agriculture (Miscellaneous Provisions)
+Act 1943 The whole Act. Hill Farming Act 1946 In section 1(3), the definitions
+of “livestock rearing land” and “livestock rearing purposes”. Section 24(4).
+Section 34. In section 38, the definitions of “livestock rearing land” and
+“livestock rearing purposes”. Agriculture (Artificial Insemination) Act 1946
+The whole Act. Agriculture (Scotland) Act 1948 Section 35. In section 55,
+paragraph (d). Section 56. Section 57. Sections 63 to 65. Section 70. Section
+73. Section 75. Section 76. Schedule 3. Schedule 8. Agriculture (Miscellaneous
+Provisions) Act 1949 The whole Act. Livestock Rearing Act 1951 Section 1(3).
+Section 8. Agriculture (Miscellaneous Provisions) Act 1954 The whole Act.
+Agriculture Act 1957 The whole Act. Agriculture Act 1958 In section 9(1), the
+definitions of “agricultural holding”, “lease”, ““landlord” and “tenant””,
+“Land Court”, “Scottish Act of 1948” and “Scottish Act of 1949”. Section 10(4)
+and (5). Agricultural Marketing Act 1958 Section 22. Sections 24 to 27.
+Section 28(1) and (6). Section 32(1) to (3). Section 33. In section 47(1), the
+words “or in any recommendations of an Agricultural Marketing Reorganisation
+Commission published in pursuance of this Act”. In section 47(2), the words
+“or Agricultural Marketing Reorganisation Commission”. Section 51. In Part 6
+of schedule 3, paragraph 6. Agriculture (Miscellaneous Provisions) Act 1963
+The whole Act. Agriculture Act 1967 Sections 26 to 29. Section 35. Section 37.
+Section 39. Section 40. Sections 45 to 57. Section 63. Section 64. Sections 68
+to 72. Section 74. In section 75(2), the definitions of “appropriate
+minister”, “assignment”, “heritable security”, “land”, “local authority” and
+“pension”. Section 75(3) to (7). Schedules 3 to 7. Agriculture (Miscellaneous
+Provisions) Act 1968 In section 8(1), the definition of “agricultural land”.
+Section 8(3). Section 46. Agriculture Act 1970 Section 29. Section 30. Section
+32. Section 33. Section 106. Agriculture (Miscellaneous Provisions) Act 1972
+Section 9(2) to (5). Section 10. Section 12. Section 16. Section 17. Section
+18. Section 24. Agriculture (Miscellaneous Provisions) Act 1976 Section 6. Pig
+Industry Levy Act 1983 The whole Act. Agriculture (Amendment) Act 1984 The
+whole Act. Food Act 1984 The whole Act. Agriculture Act 1986 Sections 17 to
+20. Section 23A. Farm Land and Rural Development Act 1988 Section 1. Section
+3. Section 4. Food Safety Act 1990 In schedule 2, paragraphs 12 to 15.
+Agriculture and Forestry (Financial Provisions) Act 1991 Section 3.
+Agriculture Act 1993 Sections 1 to 19. Sections 22 to 24. Section 54(3).
+Section 56. Section 58. Section 60. In section 62(4), “17, 23,”. The Scotland
+Act 1998 (Consequential Modifications) Order 2000 In the schedule, paragraphs
+1, 2 and 6. Abolition of Feudal Tenure etc. (Scotland) Act 2000 In schedule
+12, paragraph 31. Agriculture (Retained EU Law & Data) (Scotland) Act 2020
+Section 8.
+
+##### Minor modifications
+
+1
+
+1.1
+
+The Agricultural Wages (Scotland) Act 1949 is modified by sub-paragraph  (2) .
+
+1.2
+
+For section 13, substitute—
+
+########### Annual Reports
+
+1.2.13
+
+1.2.13.1
+
+The Board must, before such date as the Scottish Ministers may direct, prepare
+and send to the Scottish Ministers a report of the Board’s proceedings under
+this Act during the preceding year.
+
+1.2.13.2
+
+The Scottish Ministers must prepare a report on the Scottish Ministers’
+proceedings under this Act during that year.
+
+1.2.13.3
+
+As soon as reasonably practicable after the Scottish Ministers have prepared
+the report, under subsection  (2) , the Scottish Ministers must lay a copy of
+that report, and the report sent to them under subsection  (1) , before the
+Scottish Parliament.
+
+.
+
+2
+
+2.1
+
+The Agricultural Marketing Act 1958 is modified by sub-paragraph  (2) .
+
+2.2
+
+In section 5(4), for “eighty of the Agriculture Act, 1947” substitute  “18 of
+the Agriculture (Retained EU Law and Data) Scotland Act 2020” .
+

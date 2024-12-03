@@ -1,0 +1,1479 @@
+Title: The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022
+Date: 2023-02-16
+Description: These Regulations are made under section 255 of the Renting Homes (Wales) Act 2016 (anaw 1) (“the 2016 Act”).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/wsi/2022/907
+
+## The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022
+
+    Housing, Wales
+
+  Made   12 August 2022
+
+  Laid before the Senedd Cymru   16 August 2022
+
+  Coming into force   1 December 2022
+
+      The Welsh Ministers, in exercise of the powers conferred on them by
+section 255 of the Renting Homes (Wales) Act 2016 , make the following
+Regulations.
+
+### Title and commencement
+
+1
+
+1.1
+
+The title of these Regulations is the Renting Homes (Wales) Act 2016
+(Consequential Amendments to Secondary Legislation) Regulations 2022.
+
+1.2
+
+These Regulations come into force on 1 December 2022.
+
+### Amendments
+
+2
+
+Schedule 1 (amendments consequential upon the commencement of the Renting
+Homes (Wales) Act 2016) has effect.
+
+### Revocations
+
+3
+
+Schedule 2 (revocations) has effect.
+
+      Julie James   Minister for Climate Change, one of the Welsh Ministers
+
+  Amendments consequential upon the commencement of the Renting Homes (Wales)
+Act 2016
+
+Regulation 2
+
+##### Rent Assessment Committees (England and Wales) Regulations 1971
+
+1
+
+The Rent Assessment Committees (England and Wales) Regulations 1971  are
+amended as follows—
+
+1.a
+
+in regulation 2  (interpretation), in paragraph (2), in the definition of
+“reference”, omit “or which is referred or made under section 6, 13, 14A or 22
+of the Housing Act 1988”;
+
+1.b
+
+in regulation 2A  (1988 and 1989 Act references), in paragraph (1), omit “▪
+section 6, 13, 14A or 22 of the Housing Act 1988;”.
+
+##### Secure Tenancies (Designated Courses) Regulations 1980
+
+2
+
+After regulation 1 of the Secure Tenancies (Designated Courses) Regulations
+1980  (citation and commencement), insert—
+
+######### Application
+
+2.1A
+
+These Regulations apply in relation to England only.
+
+##### Assured Tenancies (Notice to Tenant) Regulations 1981
+
+3
+
+After regulation 1 of the Assured Tenancies (Notice to Tenant) Regulations
+1981 , insert—
+
+3.1A
+
+These Regulations apply in relation to England only.
+
+##### Rent Book (Forms of Notice) Regulations 1982
+
+4
+
+In regulation 3(1)(d) of the Rent Book (Forms of Notice) Regulations 1982 , at
+the beginning, insert  “in the case of England only,” .
+
+##### Secure Tenancies (Right to Repair Scheme) Regulations 1985
+
+5
+
+After regulation 1 of the Secure Tenancies (Right to Repair Scheme)
+Regulations 1985 , insert—
+
+5.1A
+
+These Regulations apply in relation to England only.
+
+##### Landlord and Tenant Act 1954, Part II (Assured Tenancies) (Notices) Regulations 1986
+
+6
+
+After regulation 1 of the Landlord and Tenant Act 1954, Part II (Assured
+Tenancies) (Notices) Regulations 1986 , insert—
+
+6.1A
+
+These Regulations apply in relation to England only.
+
+##### Assured Tenancies (Prescribed Amount) Order 1987
+
+7
+
+After article 1 of the Assured Tenancies (Prescribed Amount) Order 1987 ,
+insert—
+
+7.1A
+
+This Order applies in relation to England only.
+
+##### Protected Shorthold Tenancies (Notice to Tenant) Regulations 1987
+
+8
+
+After regulation 1 of the Protected Shorthold Tenancies (Notice to Tenant)
+Regulations 1987 , insert—
+
+8.1A
+
+These Regulations apply in relation to England only.
+
+##### Secure Tenancies (Notices) Regulations 1987
+
+9
+
+After regulation 1 of the Secure Tenancies (Notices) Regulations 1987 , insert
+—
+
+9.1A
+
+These Regulations apply in relation to England only.
+
+##### Assured Tenancies and Agricultural Occupancies (Rent Information) Order 1988
+
+10
+
+After article 1 of the Assured Tenancies and Agricultural Occupancies (Rent
+Information) Order 1988 , insert—
+
+10.1A
+
+This Order applies in relation to England only.
+
+##### Housing Action Trust Areas (Tenant Notification) Regulations 1989
+
+11
+
+The Housing Action Trust Areas (Tenant Notification) Regulations 1989  are
+amended as follows—
+
+11.a
+
+in regulation 2 (prescribed descriptions of tenants)—
+
+11.a.i
+
+for the heading, substitute  “Prescribed descriptions of tenants (England)” ;
+
+11.a.ii
+
+for “The descriptions”, substitute  “In relation to England, the descriptions”
+;
+
+11.b
+
+after regulation 2, insert—
+
+########### Prescribed descriptions of tenants (Wales)
+
+11.b.3
+
+In relation to Wales, the descriptions of tenants prescribed for the purposes
+of section 61(2) of the Housing Act 1988  are the tenants of a local housing
+authority who would be secure contract-holders but for the effect of—
+
+11.b.3.a
+
+paragraph 7(3)(a) of Schedule 2 to the Renting Homes (Wales) Act 2016
+(business tenancies), or
+
+11.b.3.b
+
+paragraph 7(3)(g) of Schedule 2 to the Renting Homes (Wales) Act 2016 (long
+tenancies).
+
+##### Council Tax (Exempt Dwellings) Order 1992
+
+12
+
+The Council Tax (Exempt Dwellings) Order 1992  is amended as follows—
+
+12.a
+
+in article 2(1) , at the appropriate place, insert—
+
+      “ contract-holder ” means a person who, in relation to a dwelling in
+Wales—           has a leasehold interest which was granted for a term of less
+than six months,           has a secure contract within the meaning given by
+the Renting Homes (Wales) Act 2016 (see section 8 of that Act), or
+has an introductory standard contract within the meaning given by the Renting
+Homes (Wales) Act 2016 (see section 16 of that Act);
+
+;
+
+12.b
+
+in article 3 —
+
+12.b.i
+
+in the definition of a Class D dwelling, in paragraph (1)(a), for “or tenant”,
+substitute  “, tenant or contract-holder” ;
+
+12.b.ii
+
+in the definition of a Class E dwelling, in the words before paragraph (a),
+for “or tenant”, substitute  “, tenant or contract-holder” ;
+
+12.b.iii
+
+in the definition of a Class F dwelling, in paragraph (2)(b), after “tenant”,
+insert  “or contract-holder” ;
+
+12.b.iv
+
+in the definition of a Class I dwelling, in the words before paragraph (a),
+for “or tenant”, substitute  “, tenant or contract-holder” ;
+
+12.b.v
+
+in the definition of a Class J dwelling, in the words before paragraph (a),
+for “or tenant”, substitute  “, tenant or contract-holder” .
+
+##### Secure Tenants of Local Housing Authorities (Right to Repair) Regulations 1994
+
+13
+
+After regulation 1 of the Secure Tenants of Local Housing Authorities (Right
+to Repair) Regulations 1994  (citation and commencement), insert—
+
+######### Application
+
+13.1A
+
+These Regulations apply in relation to England only.
+
+##### Secure Tenants of Local Authorities (Compensation for Improvements) Regulations 1994
+
+14
+
+After regulation 1 of the Secure Tenants of Local Authorities (Compensation
+for Improvements) Regulations 1994  (citation and commencement), insert—
+
+######### Application
+
+14.1A
+
+These Regulations apply in relation to England only.
+
+##### Housing (Right to Manage) Regulations 1994
+
+15
+
+The Housing (Right to Manage) Regulations 1994  are amended as follows—
+
+15.a
+
+in regulation 1 (citation, commencement and interpretation), in paragraph (2)—
+
+15.a.i
+
+at the appropriate places in alphabetical order, insert—
+
+      “ contract-holder ” has the same meaning as in the Renting Homes (Wales)
+Act 2016 (see section 7 (see also section 48) of that Act);
+
+;
+
+      “ secure contract ” has the same meaning as in the Renting Homes (Wales)
+Act 2016 (see section 8 of that Act);
+
+;
+
+15.a.ii
+
+omit the definition of “secure tenancy”;
+
+15.a.iii
+
+in the definition of “tenant”, for “secure tenancy”, substitute  “secure
+contract” ;
+
+15.b
+
+in regulation 2 (proposal notice)—
+
+15.b.i
+
+in paragraph (1), in the words before paragraph (a), for “secure tenancies”,
+substitute  “secure contracts” ;
+
+15.b.ii
+
+in paragraph (5)(b), for “secure tenants”, substitute  “contract-holders under
+a secure contract” ;
+
+15.b.iii
+
+in paragraph (5)(c), for “secure tenants”, substitute  “contract-holders under
+a secure contract” ;
+
+15.c
+
+in regulation 4 (procedure following proposal notice)—
+
+15.c.i
+
+in paragraph (5), for “secure tenants”, substitute  “contract-holders under a
+secure contract” ;
+
+15.c.ii
+
+in paragraph (13), for “secure tenants”, substitute  “contract-holders under a
+secure contract” .
+
+##### Introductory Tenants (Review) Regulations 1997
+
+16
+
+After regulation 1 of the Introductory Tenants (Review) Regulations 1997
+(citation, commencement and interpretation), insert—
+
+######### Application
+
+16.1A
+
+These Regulations apply in relation to England only.
+
+##### Rent Officers (Housing Benefit Functions) Order 1997
+
+17
+
+The Rent Officers (Housing Benefit Functions) Order 1997  is amended as
+follows—
+
+17.a
+
+in article 2(1)  (interpretation), at the appropriate place in alphabetical
+order, insert—
+
+      “ introductory standard contract ” has the meaning given by the Renting
+Homes (Wales) Act 2016 (see section 16 of that Act;
+
+;
+
+      “ occupation contract ” has the meaning given by the Renting Homes
+(Wales) Act 2016 (see section 7 of that Act);
+
+;
+
+      “ private landlord ” has the meaning given by the Renting Homes (Wales)
+Act 2016 (see section 10 of that Act);
+
+;
+
+      “ private registered provider of social housing ” has the meaning given
+by section 80(3) of the Housing and Regeneration Act 2008 ;
+
+;
+
+      “ registered social landlord ” means a person registered in the register
+maintained under section 1 of the Housing Act 1996 ;
+
+;
+
+      “ secure contract ” has the meaning given by the Renting Homes (Wales)
+Act 2016 (see section 8 of that Act);
+
+;
+
+      “ standard contract ” has the meaning given by the Renting Homes (Wales)
+Act 2016 (see section 8 of that Act), but does not include—         an
+introductory standard contract,           a prohibited conduct standard
+contract within the meaning given by the Renting Homes (Wales) Act 2016 (see
+section 116 of that Act), or           a supported standard contract within
+the meaning given by the Renting Homes (Wales) Act 2016 (see section 143 of
+that Act);
+
+;
+
+17.b
+
+in Schedule 1—
+
+17.b.i
+
+in paragraph 3(3)  (exceptionally high rents), after “assured tenancy of a
+dwelling”, insert  “in England, or an occupation contract of a dwelling in
+Wales,” ;
+
+17.b.ii
+
+in paragraph 3(4) , after “assured tenancies”, insert  “or occupation
+contracts” ;
+
+17.b.iii
+
+in paragraph 4(1) (local reference rents)—
+
+17.b.iii.aa
+
+in paragraph (a) in the definition of H (highest rent), after “assured tenancy
+of a dwelling”, insert  “in England, or an occupation contract of a dwelling
+in Wales,” ;
+
+17.b.iii.bb
+
+in paragraph (a) in the definition of L (lowest rent), after “assured tenancy
+of a dwelling”, insert  “in England, or an occupation contract of a dwelling
+in Wales,” ;
+
+17.b.iv
+
+in paragraph 4(2)(a) , after “assured tenancy”, insert  “or occupation
+contract” ;
+
+17.b.v
+
+in paragraph 4(2)(b)(i), after “assured tenancy”, insert  “or occupation
+contract” ;
+
+17.b.vi
+
+in paragraph 4(2)(b)(ii), after “assured tenancy”, insert  “or occupation
+contract” ;
+
+17.b.vii
+
+in paragraph 4(2)(b)(iii), after “assured tenancy”, insert  “or occupation
+contract” ;
+
+17.b.viii
+
+in paragraph 4(2)(b)(iv), after “assured tenancy”, insert  “or occupation
+contract” ;
+
+17.b.ix
+
+in paragraph 5(1) (single room rents)—
+
+17.b.ix.aa
+
+in paragraph (a) in the definition of H (highest rent), after “assured tenancy
+of a dwelling”, insert  “in England, or an occupation contract of a dwelling
+in Wales,” ;
+
+17.b.ix.bb
+
+in paragraph (a) in the definition of L (lowest rent), after “assured tenancy
+of a dwelling”, insert  “in England, or an occupation contract of a dwelling
+in Wales,” ;
+
+17.b.x
+
+in paragraph 5(2)(a) , after “assured tenancy”, insert  “or occupation
+contract” ;
+
+17.b.xi
+
+in paragraph 5(2)(b), after “assured tenancy”, insert  “or occupation
+contract” ;
+
+17.b.xii
+
+in paragraph 8(1) (housing associations etc.), for “In a case”, substitute
+“In relation to England, in a case” ;
+
+17.b.xiii
+
+after paragraph 8(1), insert—
+
+17.b.xiii.1A
+
+In relation to Wales, in a case where the local authority states in the
+application that the landlord is a housing association, a community landlord,
+or a charity, the rent officer shall assume that the landlord is not such a
+body.
+
+;
+
+17.b.xiv
+
+in paragraph 8(2), for “The rent officer”, substitute  “In relation to
+England, the rent officer” ;
+
+17.b.xv
+
+after paragraph 8(2), insert—
+
+17.b.xv.2A
+
+In relation to Wales, the rent officer shall not take into account the rent
+under any occupation contract where the landlord is a housing association or a
+community landlord, or where the landlord is a charity and the dwelling is
+provided by the landlord in the pursuit of its charitable purposes.
+
+;
+
+17.b.xvi
+
+in paragraph 8(3), at the appropriate place in alphabetical order, insert—
+
+      “ community landlord ” has the meaning given by the Renting Homes
+(Wales) Act 2016 (see section 9 of that Act);
+
+;
+
+17.b.xvii
+
+in paragraph 11(1) (indicative rent levels)—
+
+17.b.xvii.aa
+
+in paragraph (a) in the definition of H (highest rent), after “assured tenancy
+of a dwelling”, insert  “in England, or an occupation contract of a dwelling
+in Wales,” ;
+
+17.b.xvii.bb
+
+in paragraph (a) in the definition of L (lowest rent), after “assured tenancy
+of a dwelling”, insert  “in England, or an occupation contract of a dwelling
+in Wales,;
+
+17.c
+
+in Schedule 3B  (broad rental market area determinations and local housing
+allowance determinations), in paragraph 2  (local housing allowance for
+category of dwelling in paragraph 1)—
+
+17.c.i
+
+for sub-paragraph (4), substitute—
+
+17.c.i.4
+
+The rent officer must compile a list of rents in ascending order of the rents
+which, in the rent officer’s opinion, are payable—
+
+17.c.i.4.a
+
+for each category of dwelling specified in paragraph 1—
+
+17.c.i.4.a.i
+
+in England, let under an assured tenancy, or
+
+17.c.i.4.a.ii
+
+in Wales—
+
+17.c.i.4.a.ii.aa
+
+before the day on which section 239 of the Renting Homes (Wales) Act 2016
+comes into force, let under an assured tenancy, or
+
+17.c.i.4.a.ii.bb
+
+on or after that day, let under a relevant occupation contract; and
+
+17.c.i.4.b
+
+in the 12 month period ending on the 30 th  day of the September preceding the
+date of the determination.
+
+;
+
+17.c.ii
+
+in sub-paragraph (5)(a), in the words before sub-paragraph (i), after “assured
+tenancy”, insert  “or a relevant occupation contract, as the case may be,” ;
+
+17.c.iii
+
+in sub-paragraph (5)(a)(i), after “assured tenancy”, insert  “or relevant
+occupation contract” ;
+
+17.c.iv
+
+in sub-paragraph (5)(a)(iii), after “assured tenancy”, insert  “or relevant
+occupation contract” ;
+
+17.c.v
+
+after sub-paragraph (10), insert—
+
+17.c.v.11
+
+In this paragraph, “ relevant occupation contract ” means—
+
+17.c.v.11.a
+
+a secure contract in relation to which the landlord is a registered social
+landlord, a private registered provider of social housing, or a private
+landlord,
+
+17.c.v.11.b
+
+a standard contract, or
+
+17.c.v.11.c
+
+an introductory standard contract in relation to which the landlord is a
+registered social landlord or a provider of social housing.
+
+;
+
+17.d
+
+in Schedule 4 (special cases)—
+
+17.d.i
+
+in paragraph 1(a) (houseboats), for “or an assured tenancy”, substitute  “, an
+assured tenancy or an occupation contract” ;
+
+17.d.ii
+
+in paragraph 2(a) (mobile homes), for “or an assured tenancy”, substitute  “,
+an assured tenancy or an occupation contract” .
+
+##### Long Residential Tenancies (Supplemental Forms) Regulations 1997
+
+18
+
+In the Long Residential Tenancies (Supplemental Forms) Regulations 1997 , in
+the Schedule (prescribed forms), Form 8 ((long residential tenancies)
+landlord’s notice requiring consent of other landlord to notice terminating
+long residential tenancy) is amended as follows—
+
+18.a
+
+in the first bullet point, for “assured monthly periodic tenancy”, substitute
+“[assured periodic tenancy in England]/[periodic standard contract in Wales]”
+;
+
+18.b
+
+in paragraph 4, for “assured monthly periodic tenancy”, substitute  “[assured
+monthly periodic tenancy in England]/[periodic standard contract in Wales]” ;
+
+18.c
+
+in Note 3, after “assured monthly periodic tenancy”, insert  “in
+England/periodic standard contract in Wales” .
+
+##### Long Residential Tenancies (Principal Forms) Regulations 1997
+
+19
+
+The Long Residential Tenancies (Principal Forms) Regulations 1997  are amended
+as follows—
+
+19.a
+
+in regulation 2 (interpretation)—
+
+19.a.i
+
+the existing provision becomes paragraph (1);
+
+19.a.ii
+
+after that paragraph, insert—
+
+19.a.ii.2
+
+In these Regulations, “ periodic standard contract ” has the same meaning as
+in the Renting Homes (Wales) Act 2016 (see section 8 of that Act).
+
+;
+
+19.b
+
+in regulation 3 (forms)—
+
+19.b.i
+
+in paragraph (a), after “assured monthly periodic tenancy”, insert  “or a
+periodic standard contract” ;
+
+19.b.ii
+
+in paragraph (d), after “assured  ... periodic tenancy”, insert  “or a
+periodic standard contract” ;
+
+19.b.iii
+
+in paragraph (e) , after “assured  ... periodic tenancy”, insert  “or a
+periodic standard contract” ;
+
+19.c
+
+in the Schedule (prescribed forms)—
+
+19.c.i
+
+in Form 1  ((long residential tenancies) landlord’s notice terminating long
+residential tenancy and proposing assured tenancy)—
+
+19.c.i.aa
+
+in the title of the form, after “Assured Tenancy”, insert  “or Periodic
+Standard Contract” ;
+
+19.c.i.bb
+
+in the first bullet point, for “an assured periodic tenancy”, substitute  “[an
+assured periodic tenancy in England]/[a periodic standard contract in Wales]”
+;
+
+19.c.i.cc
+
+in paragraph 10, for “an assured monthly periodic tenancy”, substitute  “[an
+assured monthly periodic tenancy in England]/[a periodic standard contract in
+Wales]” ;
+
+19.c.i.dd
+
+in paragraph 11, for “assured tenancy”, substitute  “[assured tenancy in
+England]/[periodic standard contract in Wales]” ;
+
+19.c.i.ee
+
+in Note 13, after “assured tenancy”, insert  “in England/periodic standard
+contract in Wales”
+
+19.c.i.ff
+
+in Note 14, after “assured periodic tenancy”, insert  “in England/periodic
+standard contract in Wales” ;
+
+19.c.i.gg
+
+in Note 14, after “assured tenancy”, insert  “in England/periodic standard
+contract in Wales” ;
+
+19.c.i.hh
+
+in Note 15, after “assured monthly periodic tenancy”, insert  “in
+England/periodic standard contract in Wales” ;
+
+19.c.ii
+
+in Form 3  ((long residential tenancies) landlord’s notice proposing an
+interim monthly rent after notice terminating long residential tenancy)—
+
+19.c.ii.aa
+
+in Note 2, in paragraph (b), after “assured tenancy”, insert  “in
+England/periodic standard contract in Wales” ;
+
+19.c.ii.bb
+
+in Note 2, in the words after paragraph (b), after “assured periodic tenancy”,
+insert  “in England/periodic standard contract in Wales” ;
+
+19.c.ii.cc
+
+in Note 5, in the words before the first paragraph (a), after “monthly
+periodic tenancy”, insert  “in England /periodic standard contract in Wales” ;
+
+19.c.ii.dd
+
+in Note 5, in the first paragraph (c), after “non-shorthold assured tenancy”,
+insert  “in England,” ;
+
+19.c.ii.ee
+
+in Note 5, in the first paragraph (c), at the end, insert  “or a periodic
+standard contract that does not incorporate section 173  (landlord’s notice)
+of the Renting Homes (Wales) Act 2016 as a term of the contract” ;
+
+19.c.iii
+
+in Form 4  ((long residential tenancies) tenant’s notice proposing different
+terms or rent for an assured tenancy)—
+
+19.c.iii.aa
+
+in the title of the form, after “Assured Tenancy”, insert  “or Periodic
+Standard Contract” ;
+
+19.c.iii.bb
+
+in the first bullet point, for “assured monthly periodic tenancy”, substitute
+“[assured monthly periodic tenancy in England]/[periodic standard contract in
+Wales]” ;
+
+19.c.iii.cc
+
+in paragraph 3, for “assured monthly periodic tenancy”, substitute  “[assured
+monthly periodic tenancy in England]/[periodic standard contract in Wales]” ;
+
+19.c.iii.dd
+
+in Note 1, after “assured tenancy”, insert  “in England/periodic standard
+contract in Wales” ;
+
+19.c.iii.ee
+
+in Note 2, after “assured periodic tenancy”, insert  “in England/periodic
+standard contract in Wales” ;
+
+19.c.iii.ff
+
+in Note 4, in the words before paragraph (a), after “assured monthly periodic
+tenancy”, insert  “in England /periodic standard contract in Wales” ;
+
+19.c.iii.gg
+
+in Note 4, in paragraph (b), after “applying)”, insert  “or a periodic
+standard contract that does not incorporate section 173 (landlord’s notice) of
+the Renting Homes (Wales) Act 2016 as a term of the contract” ;
+
+19.c.iii.hh
+
+in Note 5, after “assured monthly periodic tenancy”, insert  “in
+England/periodic standard contract in Wales” ;
+
+19.c.iii.ii
+
+in Note 6, after “assured periodic tenancy”, insert  “in England /periodic
+standard contract in Wales” ;
+
+19.c.iv
+
+in Form 5  ((long residential tenancies) landlord’s application referring
+tenant’s notice proposing different terms or rent for a proposed assured
+tenancy to a Tribunal)—
+
+19.c.iv.aa
+
+in the title of the form, after “Assured Tenancy”, insert  “or Periodic
+Standard Contract” ;
+
+19.c.iv.bb
+
+in paragraph 4(b), for “assured periodic tenancy”, substitute  “[assured
+periodic tenancy in England]/[periodic standard contract in Wales]” ;
+
+19.c.iv.cc
+
+in paragraph 4(c), for “assured periodic tenancy”, substitute  “[assured
+periodic tenancy in England]/[periodic standard contract in Wales]” ;
+
+19.c.iv.dd
+
+in paragraph 6, after “assured periodic tenancy”, insert  “in England/periodic
+standard contract in Wales” ;
+
+19.c.iv.ee
+
+in paragraph 7, for “assured periodic tenancy”, substitute  “[assured periodic
+tenancy in England]/[periodic standard contract in Wales]” ;
+
+19.c.iv.ff
+
+in Note 2, in the words before paragraph (a), after “assured monthly periodic
+tenancy”, insert  “in England/periodic standard contract in Wales” ;
+
+19.c.iv.gg
+
+in Note 2, in paragraph (b), after “applying)”, insert  “or a periodic
+standard contract that does not incorporate section 173 (landlord’s notice) of
+the Renting Homes (Wales) Act 2016 as a term of the contract” ;
+
+19.c.iv.hh
+
+in Note 2, in the words after paragraph (c), after “assured periodic tenancy”,
+insert  “in England/periodic standard contract in Wales” ;
+
+19.c.iv.ii
+
+in Note 3, in the words before paragraph (a), after “assured monthly periodic
+tenancy”, insert  “in England/periodic standard contract in Wales” ;
+
+19.c.iv.jj
+
+in Note 3, in the first paragraph (b), after “applying)”, insert  “or a
+periodic standard contract that does not incorporate section 173 (landlord’s
+notice) of the Renting Homes (Wales) Act 2016 as a term of the contract” ;
+
+19.c.iv.kk
+
+in Note 4, after “assured periodic tenancy”, insert  “in England /periodic
+standard contract in Wales” ;
+
+19.c.v
+
+in Form 6 ((long residential tenancies) notice by rent assessment committee
+requiring further information), in paragraph 2, for “assured periodic
+tenancy”, in each place it occurs, substitute  “[assured periodic tenancy in
+England]/[periodic standard contract in Wales]” .
+
+##### Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001
+
+20
+
+In the Financial Services and Markets Act 2000 (Collective Investment Schemes)
+Order 2001 , in the Schedule (arrangements not amounting to a collective
+investment scheme), in paragraph 7  (certain funds relating to leasehold
+property)—
+
+20.a
+
+at the end of   sub-paragraph   (a), omit “or”;
+
+20.b
+
+for the full stop at the end of sub-paragraph (b), substitute
+
+; or
+
+20.b.c
+
+in money held in an authorised deposit scheme within the meaning of section 47
+(deposit schemes: interpretation) of the Renting Homes (Wales) Act 2016.
+
+##### Allocation of Housing (Wales) Regulations 2003
+
+21
+
+The Allocation of Housing (Wales) Regulations 2003  are amended as follows—
+
+21.a
+
+in regulation 2 (interpretation)—
+
+21.a.i
+
+after the definition of “the Common Travel Area”, omit “and”;
+
+21.a.ii
+
+for the full stop at the end of the definition of “the immigration rules”,
+substitute  “; and” ;
+
+21.a.iii
+
+after the definition of “the immigration rules”, insert—
+
+“ secure contract ” (“ contract diogel ”) has the same meaning as in the
+Renting Homes (Wales) Act 2016 (see section 8 of that Act).
+
+21.b
+
+in regulation 3 (cases where the provisions of Part VI of the Act do not
+apply), in paragraph (b), for “secure tenancy”, substitute  “secure contract”
+.
+
+##### Local Authorities (Capital Finance and Accounting) (Wales) Regulations 2003
+
+22
+
+The Local Authorities (Capital Finance and Accounting (Wales) Regulations 2003
+are amended as follows—
+
+22.a
+
+in regulation 1 (name, commencement, application and interpretation), in
+paragraph (4) , at the appropriate places in alphabetical order, insert—
+
+      “ introductory standard contract ” has the same meaning as in the
+Renting Homes (Wales) Act 2016 (see section 16 of that Act);
+
+;
+
+      “ secure contract ” has the same meaning as in the Renting Homes (Wales)
+Act 2016 (see section 8 of that Act);
+
+;
+
+22.b
+
+in regulation 10 (pooling of receipts from disposals of housing land), in
+paragraph (9)(d) , for the definition of “relevant lease”, substitute—
+
+      “ relevant lease ” means—           a secure contract,           an
+introductory standard contract, or           any other lease, other than a
+shared ownership lease within the meaning given to it in paragraph (9)(b).
+
+##### Selective Licensing of Houses (Specified Exemptions) (Wales) Order 2006
+
+23
+
+In the Selective Licensing of Houses (Specified Exemptions) (Wales) Order 2006
+, in article 2  (exempt tenancies or licences for the purposes of Part 3 of
+the Housing Act 2004), in paragraph (1)(b), omit “, which cannot be an assured
+tenancy by virtue of section 1(2) of that Act”.
+
+##### Housing (Tenancy Deposit Schemes) Order 2007
+
+24
+
+In the Housing (Tenancy Deposit Schemes) Order 2007 , after article 1
+(citation and commencement), insert—
+
+######### Application
+
+24.1A
+
+This Order applies in relation to England only.
+
+##### Electricity and Gas (Carbon Emissions Reduction) Order 2008
+
+25
+
+In the Electricity and Gas (Carbon Emissions Reduction) Order 2008 , in
+Schedule 1 (meaning of householder), paragraph 1 is amended as follows—
+
+25.a
+
+at the end of sub-paragraph (b), omit “or”;
+
+25.b
+
+after sub-paragraph (b), insert—
+
+25.b.bb
+
+in the case of Wales only, a holder of a secure contract (within the meaning
+given by section 8 of the Renting Homes (Wales) Act 2016), or an introductory
+standard contract (within the meaning given by section 16 of the Renting Homes
+(Wales) Act 2016), except where the landlord is—
+
+25.b.bb.i
+
+a private registered provider of social housing (within the meaning given by
+section 80(3) of the Housing and Regeneration Act 2008 );
+
+25.b.bb.ii
+
+a registered social landlord (being a person registered in the register
+maintained under section 1 of the Housing Act 1996 ); or
+
+25.b.bb.iii
+
+a private landlord (within the meaning given by section 10 of the Renting
+Homes (Wales) Act 2016); or
+
+.
+
+##### Consumer Protection from Unfair Trading Regulations 2008
+
+26
+
+Regulation 27C  of the Consumer Protection from Unfair Trading Regulations
+2008  (what immoveable property is covered by this Part?), is amended as
+follows—
+
+26.a
+
+in paragraph (2), omit “and Wales”;
+
+26.b
+
+after paragraph (6), insert—
+
+26.b.7
+
+In this regulation “ relevant lease ” in relation to Wales means—
+
+26.b.7.a
+
+a standard contract, within the meaning given by the Renting Homes (Wales) Act
+2016 (see section 8 of that Act), or
+
+26.b.7.b
+
+a lease under which accommodation is let as holiday accommodation.
+
+26.b.8
+
+But none of the following are relevant leases for the purposes of paragraph
+(7)(a)—
+
+26.b.8.a
+
+an introductory standard contract within the meaning given by the Renting
+Homes (Wales) Act 2016 (see section 16 of that Act);
+
+26.b.8.b
+
+a prohibited conduct standard contract within the meaning given by the Renting
+Homes (Wales) Act 2016 (see section 116 of that Act);
+
+26.b.8.c
+
+a supported standard contract within the meaning given by the Renting Homes
+(Wales) Act 2016 (see section 143 of that Act);
+
+26.b.8.d
+
+a lease under which the interest of the landlord belongs to Her Majesty in
+right of the Crown or to a government department or is held in trust for Her
+Majesty for the purposes of a government department;
+
+26.b.8.e
+
+a lease granted to a person as a result of the exercise by a local housing
+authority within the meaning of the Housing (Wales) Act 2014  of its functions
+under Part 2 (homelessness) of that Act;
+
+26.b.8.f
+
+a lease of a dwelling-house or part of a dwelling-house—
+
+26.b.8.f.i
+
+granted on payment of a premium calculated by reference to a percentage of the
+value of the dwelling-house or part or of the cost of providing it, or
+
+26.b.8.f.ii
+
+under which the contract-holder (or the contract-holder’s personal
+representatives) will or may be entitled to a sum calculated by reference,
+directly or indirectly, to the value of the dwelling-house or part.
+
+##### Community Infrastructure Levy Regulations 2010
+
+27
+
+In the Community Infrastructure Levy Regulations 2010 , regulation 49  (social
+housing relief), is amended as follows—
+
+27.a
+
+in paragraph (3)(a), after “a demoted tenancy”, insert  “or a prohibited
+conduct standard contract” ;
+
+27.b
+
+in paragraph 3(b), after “an introductory tenancy”, insert  “or an
+introductory standard contract” ;
+
+27.c
+
+in paragraph 3(c), after “a secure tenancy”, insert  “or a secure contract” ;
+
+27.d
+
+for paragraph (7)(a)(i), substitute—
+
+27.d.i
+
+a secure contract, a standard contract or an introductory standard contract;
+
+;
+
+27.e
+
+omit paragraph (7)(a)(ii);
+
+27.f
+
+for paragraph (7)(a)(iii) substitute—
+
+27.f.iii
+
+a prohibited conduct standard contract, and
+
+;
+
+27.g
+
+omit paragraph (7)(a)(iv);
+
+27.h
+
+at the end of paragraph (7A)(a)(i), insert  “, a secure contract, a standard
+contract or a prohibited conduct standard contract” ;
+
+27.i
+
+in paragraph (11), at the appropriate places in alphabetical order, insert—
+
+      “ introductory standard contract ” has the meaning given by the Renting
+Homes (Wales) Act 2016 (see section 16 of that Act);
+
+;
+
+      “ prohibited conduct standard contract ” has the meaning given by the
+Renting Homes (Wales) Act 2016 (see section 116 of that Act);
+
+;
+
+      “ secure contract ” has the meaning given by the Renting Homes (Wales)
+Act 2016 (see section 8 of that Act);
+
+;
+
+      “ standard contract ” has the meaning given by the Renting Homes (Wales)
+Act 2016 (see section 8 of that Act), but does not include—         an
+introductory standard contract,           a prohibited conduct standard
+contract, or           a supported standard contract;
+
+;
+
+      “ supported standard contract ” has the meaning given by the Renting
+Homes (Wales) Act 2016 (see section 143 of that Act);
+
+.
+
+##### Rent Officers (Universal Credit Functions) Order 2013
+
+28
+
+The Rent Officers (Universal Credit Functions) Order 2013  is amended as
+follows—
+
+28.a
+
+in article 2  (interpretation)—
+
+28.a.i
+
+in the definition of “assured tenancy”, in paragraph (a), omit the words “and
+Wales”;
+
+28.a.ii
+
+at the appropriate place in alphabetical order, insert—
+
+      “ introductory standard contract ” has the meaning given by the Renting
+Homes (Wales) Act 2016 (see section 16 of that Act);
+
+;
+
+      “ private landlord ” has the meaning given by the Renting Homes (Wales)
+Act 2016 (see section 10 of that Act);
+
+;
+
+      “ private registered provider of social housing ” has the meaning given
+by section 80(3) of the Housing and Regeneration Act 2008 ;
+
+;
+
+      “ registered social landlord ” means a person registered in the register
+maintained under section 1 of the Housing Act 1996 ;
+
+;
+
+      “ secure contract ” has the meaning given by the Renting Homes (Wales)
+Act 2016 (see section 8 of that Act);
+
+;
+
+      “ standard contract ” has the meaning given by the Renting Homes (Wales)
+Act 2016 (see section 8 of that Act), but does not include—         an
+introductory standard contract,           a prohibited conduct standard
+contract within the meaning given by the Renting Homes (Wales) Act 2016 (see
+section 116 of that Act), or           a supported standard contract within
+the meaning given by the Renting Homes (Wales) Act 2016 (see section 143 of
+that Act);
+
+;
+
+28.b
+
+in Schedule 1 (local housing allowance determinations), in paragraph 3  (rent
+at the 30th percentile)—
+
+28.b.i
+
+for sub-paragraph (3), substitute—
+
+28.b.i.3
+
+The rent officer must compile a list of rents in ascending order of the rents
+which, in the rent officer’s opinion, are payable—
+
+28.b.i.3.a
+
+for each category of dwelling specified in paragraph 1—
+
+28.b.i.3.a.i
+
+in England, let under an assured tenancy, or
+
+28.b.i.3.a.ii
+
+in Wales—
+
+28.b.i.3.a.ii.aa
+
+before the day on which section 239 of the Renting Homes (Wales) Act 2016
+comes into force, let under an assured tenancy, or
+
+28.b.i.3.a.ii.bb
+
+on or after that day, let under a relevant occupation contract; and
+
+28.b.i.3.b
+
+in the 12 month period ending on the 30 th  day of the September preceding the
+date of the determination.
+
+;
+
+28.b.ii
+
+in sub-paragraph (5), in the words before paragraph (a), after “assured
+tenancy”, insert  “or a relevant occupation contract, as the case may be,” ;
+
+28.b.iii
+
+in sub-paragraph (5)(a), after “assured tenancy”, insert  “or relevant
+occupation contract” ;
+
+28.b.iv
+
+in sub-paragraph (5)(c), after “assured tenancy”, insert  “or relevant
+occupation contract” ;
+
+28.b.v
+
+after sub-paragraph (10), insert—
+
+28.b.v.11
+
+In this paragraph, “ relevant occupation contract ” means—
+
+28.b.v.11.a
+
+a secure contract in relation to which the landlord is a registered social
+landlord, a private registered provider of social housing, or a private
+landlord,
+
+28.b.v.11.b
+
+a standard contract, or
+
+28.b.v.11.c
+
+an introductory standard contract in relation to which the landlord is a
+registered social landlord or a private registered provider of social housing.
+
+##### Energy Efficiency (Private Rented Property) (England and Wales) Regulations 2015
+
+29
+
+In the Energy Efficiency (Private Rented Property) (England and Wales)
+Regulations 2015  in regulation 9 (circumstances in which a request for
+consent to relevant energy efficiency improvements may not be made), in
+paragraph (1)(c)(i), after “the Housing Act 1988”, insert  “or section 150 ,
+section 173 , section 186  or section 194  of the Renting Homes (Wales) Act
+2016” .
+
+##### Insolvency (England and Wales) Rules 2016
+
+30
+
+In the Insolvency (England and Wales) Rules 2016 , in rule 9.9 (property to be
+excluded in determining the value of a debtor’s property), paragraph (1)  is
+amended as follows—
+
+30.a
+
+at the end of sub-paragraph (i), omit “and”;
+
+30.b
+
+after sub-paragraph (i), insert—
+
+30.b.ia
+
+a standard contract within the meaning given by the Renting Homes (Wales) Act
+2016 (see section 8 of that Act) and the terms of which inhibit an assignment
+as mentioned in section 127(5) of the Rent Act 1977 ;
+
+30.b.ib
+
+a secure contract within the meaning given by the Renting Homes (Wales) Act
+2016 (see section 8 of that Act) which is not capable of being assigned
+except—
+
+30.b.ib.i
+
+in the case mentioned in section 251 of the Renting Homes (Wales) Act 2016
+(family property order),
+
+30.b.ib.ii
+
+in accordance with section 92 of the Housing Act 1985  (assignment by way of
+exchange), or
+
+30.b.ib.iii
+
+in accordance with section 114 of the Renting Homes (Wales) Act 2016 (transfer
+to potential successor); and
+
+.
+
+Revocations
+
+Regulation 3
+
+Table ... Title Citation Extent of revocation Assured Tenancies and
+Agricultural Occupancies (Forms) Regulations 1997 S.I. 1997/194 Whole S.I.
+Combined Fire Authorities (Secure Tenancies) (Wales) Regulations 1998 S.I.
+1998/2214 Whole S.I. Assured Tenancies and Agricultural Occupancies (Forms)
+(Amendment) (Wales) Regulations 2003 S.I. 2003/307 (W. 46) Whole S.I. Demoted
+Tenancies (Review of Decisions) (Wales) Regulations 2005 S.I. 2005/1228 (W.
+86) Whole S.I. Introductory Tenancies (Review of Decisions to Extend a Trial
+Period) (Wales) Regulations 2006 S.I. 2006/2983 (W. 274) Whole S.I. Housing
+(Tenancy Deposits) (Specified Interest Rate) Order 2007 S.I. 2007/798 Whole
+S.I. Assured Tenancies (Amendment of Rental Threshold) (Wales) Order 2011 S.I.
+2011/1409 (W. 169) Whole S.I. Assured Tenancies and Agricultural Occupancies
+(Forms) (Amendment) (Wales) Regulations 2014 S.I. 2014/374 (W. 42) Whole S.I.
+Assured Tenancies and Agricultural Occupancies (Forms) (Amendment) (Wales) (No
+2) Regulations 2014 S.I. 2014/910 (W. 89) Whole S.I. Secure Tenancies
+(Absolute Ground for Possession for Anti-Social Behaviour) (Review Procedure)
+(Wales) Regulations 2014 S.I. 2014/3278 (W. 335) Whole S.I. The Housing Act
+1985 (Amendment of Schedule 2A) (Serious Offences) (Wales) Order 2016 S.I.
+2016/173 (W.74) Whole S.I. The Renting Homes (Fees etc.) (Wales) Act 2019
+(Transitional Provision for Assured Shorthold Tenancies) Regulations 2019 S.I.
+2019/1151 (W. 201) Whole S.I.
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations are made under section 255 of the Renting Homes (Wales)
+Act  2016 (anaw 1)  (“ the 2016 Act ”).
+
+  The 2016 Act provides for most tenancies and licences of dwellings occupied
+by individuals as homes in Wales to be occupation contracts. Two types of
+occupation contract can exist under the 2016 Act: secure contracts (which are
+periodic contracts) or standard contracts (which are either fixed term or
+periodic contracts) (see sections 8 to 17 of the 2016 Act). Not all tenancies
+and licences of dwellings will be occupation contracts (see Schedule 2 to the
+2016 Act). The 2016 Act also makes provision as to the terms of occupation
+contracts.
+
+  These Regulations make consequential amendments to secondary legislation to
+reflect the new provisions in the 2016 Act.
+
+  The Welsh Ministers’ Code of Practice on the carrying out of Regulatory
+Impact Assessments was considered in relation to these Regulations. As a
+result, it was not considered necessary to carry out a regulatory impact
+assessment as to the likely costs and benefits of complying with this
+instrument.
+

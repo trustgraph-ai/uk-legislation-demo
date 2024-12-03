@@ -1,0 +1,364 @@
+Title: The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations (Northern Ireland) 2024
+Date: 2024-05-24
+Description: These Regulations make amendments and modifications to various social security regulations.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2024/54
+
+## The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations (Northern Ireland) 2024
+
+    Social Security
+
+  Made   13th March 2024
+
+  Coming into operation in accordance with regulation 1
+
+      The Department for Communities  makes the following Regulations in
+exercise of the powers conferred by sections 5(1)(s), 165(1), (4) and (6) of
+the Social Security Administration (Northern Ireland) Act 1992 , sections
+122(1)(a) and (d), 132(3) and (4)(b), and 171(1) and (3) of the  Social
+Security Contributions and Benefits (Northern Ireland) Act 1992 , Articles
+2(2), 14(1) and (4)(b) of the Jobseekers (Northern Ireland) Order 1995 , and
+now vested in it , sections 17(1), (3)(b), and 24(1) of the Welfare Reform Act
+(Northern Ireland) 2007 , and Articles 5, 9(2) and (6), 13(3), 16(4), 17(1)
+and (3), 24(2)(d), (3) and (4), 25(1)(b), 30(a), 31(6)(a), 32(4)(a), and
+48(2), and paragraphs 4(1)(b) and (c), 4(2), 4(3)(a) and 5(1) of Schedule 1
+to, and paragraphs 1(1) and 7 of Schedule 6 to the Welfare Reform (Northern
+Ireland) Order 2015 .           The powers under the Welfare Reform (Northern
+Ireland) Order 2015 are exercisable by the Department for Communities by
+virtue of Article 2 of the Welfare Reform (Northern Ireland) Order 2015
+(Cessation of Transitory Provision) Order 2020 .
+
+### Citation and commencement
+
+1
+
+1.1
+
+These Regulations may be cited as the Social Security and Universal Credit
+(Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations
+(Northern Ireland) 2024.
+
+1.2
+
+These Regulations come into operation—
+
+1.2.a
+
+on 6th April 2025 in relation to regulation 8(2);
+
+1.2.b
+
+on 6th April 2024 in relation to regulations 8(3) and 8(4);
+
+1.2.c
+
+on 3rd April 2024 in relation to all other regulations.
+
+1.3
+
+The Interpretation Act (Northern Ireland) 1954 , shall apply to these
+Regulations as it applies to an Act of the Assembly.
+
+### Amendment of the Income Support (General) Regulations
+
+2
+
+After regulation 66C of the Income Support (General) Regulations (Northern
+Ireland) 1987  (treatment of fee loans) insert —
+
+####### Treatment of loans for specific purposes
+
+2.66D
+
+A loan under the Education (Student Support) Regulations 2011  or regulations
+made under section 73 of the Education (Scotland) Act 1980  that is intended
+to meet the cost of books, equipment, travel or childcare is to be disregarded
+as income.
+
+.
+
+### Amendment of the Jobseeker’s Allowance Regulations
+
+3
+
+After regulation 136B of the Jobseeker’s Allowance Regulations (Northern
+Ireland) 1996  (treatment of fee loans) insert—
+
+####### Treatment of loans for specific purposes
+
+3.136C
+
+A loan under the Education (Student Support) Regulations 2011 or regulations
+made under section 73 of the Education (Scotland) Act 1980 that is intended to
+meet the cost of books, equipment, travel or childcare is to be disregarded as
+income.
+
+.
+
+### Amendment of the Housing Benefit Regulations
+
+4
+
+After regulation 62 of the Housing Benefit Regulations (Northern Ireland) 2006
+(treatment of fee loans), insert—
+
+####### Treatment of loans for specific purposes
+
+4.62A
+
+A loan under the Education (Student Support) Regulations 2011 or regulations
+made under section 73 of the Education (Scotland) Act 1980 that is intended to
+meet the cost of books, equipment, travel or childcare shall be disregarded as
+income.
+
+.
+
+### Amendment of the Employment and Support Allowance Regulations
+
+5
+
+After regulation 139 of the Employment and Support Allowance Regulations
+(Northern Ireland) 2008 , (treatment of fee loans), insert—
+
+####### Treatment of loans for specific purposes
+
+5.139A
+
+A loan under the Education (Student Support) Regulations 2011 or regulations
+made under section 73 of the Education (Scotland) Act 1980 that is intended to
+meet the cost of books, equipment, travel or childcare is to be disregarded as
+income.
+
+.
+
+### Amendment of the Social Security (Payments on Account of Benefit) Regulations
+
+6
+
+6.1
+
+The Social Security (Payments on Account of Benefit) Regulations (Northern
+Ireland) 2016 , are amended in accordance with paragraph (2).
+
+6.2
+
+In regulation 5(1) (payment on account of benefit where there is no award of
+benefit)—
+
+6.2.a
+
+at the end of sub-paragraph (b) omit “and”;
+
+6.2.b
+
+at the end of sub-paragraph (c) omit “.” and insert  “; and” ;
+
+6.2.c
+
+after sub-paragraph (c) insert—
+
+6.2.c.d
+
+where the payment on account of benefit is to be on account of universal
+credit, A has been allocated a national insurance number.
+
+.
+
+### Amendment of the Universal Credit Regulations
+
+7
+
+7.1
+
+The Universal Credit Regulations (Northern Ireland) 2016  are amended as
+follows.
+
+7.2
+
+In regulation 5(1) (responsibility for children looked after by an authority)—
+
+7.2.a
+
+at the end of sub-paragraph (b) omit “.” and insert  “;” ;
+
+7.2.b
+
+after sub-paragraph (b) insert—
+
+7.2.b.c
+
+any period during which the child or qualifying young person is placed for
+adoption under the Adoption (Northern Ireland) Order 1987 .
+
+7.3
+
+In regulation 68(7) (person treated as having a student income), in the
+definition of “student loan” omit “and includes, in Scotland, a young
+student’s bursary paid under regulation 4(1)(c) of the Students’ Allowances
+(Scotland) Regulations 2007”.
+
+7.4
+
+In regulation 71 (calculation of student income – amount for an assessment
+period) at the end of “step 2” insert—
+
+But where the first day of the person’s current universal credit award is on a
+date later than the first day of the year of the course, or period of the
+course in question, each period of one month beginning on the same day as the
+assessment periods for, and preceding the commencement of, that award is to be
+treated as an assessment period when determining the number of assessment
+periods for which the person is to be treated as having student income.
+
+.
+
+### Amendment of the Universal Credit (Transitional Provisions) Regulations
+
+8
+
+8.1
+
+The Universal Credit (Transitional Provisions) Regulations (Northern Ireland)
+2016 , are amended as follows.
+
+8.2
+
+In regulation 4A (restrictions on claims for housing benefit, income support
+or a tax credit)—
+
+8.2.a
+
+in paragraph (1), for “(7)” substitute  “(5)” ;
+
+8.2.b
+
+omit paragraph (6);
+
+8.2.c
+
+omit paragraph (7);
+
+8.2.d
+
+in paragraph (8), omit the words after sub-paragraph (b).
+
+8.3
+
+In regulation 11(1) (modification of tax credits legislation: finalisation of
+tax credits)—
+
+8.3.a
+
+in sub-paragraph (a), after “having been made” insert  “, or a migration
+notice is issued and the notified person fails to make a claim on or before
+the deadline day” ;
+
+8.3.b
+
+in sub-paragraph (b), after “treated as made” insert  “or in which the
+deadline day falls” .
+
+8.4
+
+In Schedule 1 (modification of tax credits legislation – finalisation of tax
+credits), in paragraph 16, for sub-paragraph (c) substitute—
+
+8.4.c
+
+after paragraph (1) insert—
+
+8.4.2
+
+Actual or estimated taxable profits attributable to the part tax year (“the
+relevant trading income”) is to be calculated by reference to the basis period
+(determined by reference to paragraph 63 or paragraph 65 of Schedule 1 to the
+Finance Act 2022 , whichever applies) ending with 5th April 2024.
+
+8.4.3
+
+The relevant trading income is to be calculated by—
+
+8.4.3.a
+
+taking the figure for the actual or estimated taxable income earned in the
+basis period referred to in sub-paragraph (2);
+
+8.4.3.b
+
+dividing that figure by the number of days in that period to give the daily
+figure; and
+
+8.4.3.c
+
+multiplying the daily figure by the number of days in the part tax year on
+which the trade, profession or vocation was carried on.
+
+.
+
+      Sealed with the Official Seal of the Department for Communities on 13th
+March 2024       (L.S.)   David Tarr   A senior officer of the Department for
+Communities
+
+## Explanatory Note
+
+    (This is not part of the Regulations)
+
+  These Regulations make amendments and modifications to various social
+security regulations.
+
+  Regulations 2, 3, 4 and 5 make amendments to the Income Support (General)
+Regulations (Northern Ireland) 1987 ( S.R. 1987 No. 459 ), the Jobseeker’s
+Allowance Regulations (Northern Ireland) 1996 ( S.R. 1996 No. 198 ), the
+Housing Benefit Regulations (Northern Ireland) 2006 ( S.R. 2006 No. 405 ) and
+the Employment and Support Allowance Regulations (Northern Ireland) 2008 (
+S.R. 2008 No. 280 ) to ensure that any students residing in Northern Ireland
+who are in receipt of a loan for specific purposes issued under specified
+legislation do not have this loan taken into account as student income when
+calculating entitlement to benefits.
+
+  Regulation 6 makes amendments to regulation 5 of the Social Security
+(Payments on Account of Benefit) Regulations (Northern Ireland) 2016 ( S.R.
+2016 No. 223 ) (“ the Payments on Account Regulations ”), which contains
+provisions setting out the circumstances in which the Department may make a
+payment on account of benefit to a person, where their claim for benefit has
+been made but not yet determined, or where no claim is required but an award
+has not yet been made. The amendments add an additional requirement to the
+cumulative circumstances in which the Department may make a payment on account
+of benefit (also known as an “advance”) where such a payment is on account of
+universal credit. The additional requirement is that the person has been
+allocated with a national insurance number.
+
+  Regulation 7 makes amendments to the Universal Credit Regulations (Northern
+Ireland) 2016 ( S.R. 2016 No. 216 ). The amendment to regulation 2 clarifies
+the legislation by ensuring that children placed for adoption are not
+considered to be ‘looked after by the authority’ and are part of the claimants
+benefit unit so they can receive the universal credit child element for these
+children. The amendment to regulation 68 removes a young student’s bursary
+payable in Scotland from the definition of a student loan. The amendment to
+regulation 71 enables student income to be averaged across a year, or a period
+of study if shorter, even in circumstances where the claimant was not entitled
+to universal credit for part of that year or period of study, when calculating
+the amount of student income that is to be attributed to a claimant for a
+particular assessment period.
+
+  Regulation 8 makes amendments to the Universal Credit (Transitional
+Provisions) Regulations (Northern Ireland) 2016 ( S.R. 2016 No. 226 ) (‘the
+2016 Regulations’). Regulation 8(2) revokes paragraphs (6) and (7) of
+regulation 4A, which allow claimants to claim and renew tax credits, from 6th
+April 2025, and amends paragraph (1) and (8) accordingly. Regulation 8(3)
+amends regulation 11(1) to allow tax credit awards to be in year finalised
+where a claimant who has been invited to claim universal credit has not done
+so by their deadline date. Regulation 8(4) amends paragraph 16 of Schedule 1
+following reform of the “basis period” for tax purposes in relation to trades,
+professions and vocations as part of the Finance Act  2022 (c.3) .
+
+  These Regulations make in relation to Northern Ireland only provision
+corresponding to provision contained in Regulations made by the Secretary of
+State for Work and Pensions in relation to Great Britain and accordingly, by
+virtue of section 149(3) of, and paragraph 10 of Schedule 5, to the Social
+Security Administration (Northern Ireland) Act 1992, are not subject to the
+requirement of section 149(2) of that Act for prior reference to the Social
+Security Advisory Committee.
+
+  A full impact assessment has not been produced for this instrument as no, or
+no significant impact on the private, voluntary or public sector is foreseen.
+

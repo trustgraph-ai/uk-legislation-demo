@@ -1,0 +1,380 @@
+Title: The Mental Capacity (Research)(Amendment) Regulations (Northern Ireland) 2022
+Date: 2023-02-01
+Description: These Regulations amend the Mental Capacity (Research) Regulations (Northern Ireland) 2019 by substituting regulation 2 in the principal Regulations with a new regulation.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2022/299
+
+## The Mental Capacity (Research)(Amendment) Regulations (Northern Ireland) 2022
+
+    Mental Capacity
+
+  Made   30th November 2022
+
+  Coming into operation   21st December 2022
+
+      The Department of Health , in exercise of the powers conferred by
+section 132 of the Mental Capacity Act (Northern Ireland) 2016 , makes the
+following Regulations:
+
+### Citation, commencement and interpretation
+
+1
+
+1.1
+
+These Regulations may be cited as the Mental Capacity (Research) (Amendment)
+Regulations (Northern Ireland) 2022 and shall come into operation on 21st
+December 2022.
+
+1.2
+
+In these Regulations—
+
+      “ the Act ” means the Mental Capacity Act (Northern Ireland) 2016; and
+“ the principal Regulations ” means the Mental Capacity (Research) Regulations
+(Northern Ireland) 2019 .
+
+### Amendments to the principal Regulations
+
+2
+
+In the principal Regulations, for regulation 2 there shall be substituted the
+following—
+
+2.2
+
+For the purpose of section 132(4) of the Act, the following persons,
+committees or other bodies are appropriate bodies—
+
+2.2.a
+
+HSC Research Ethics Committee A;
+
+2.2.b
+
+HSC Research Ethics Committee B;
+
+2.2.c
+
+Office of Research Ethics Committees Northern Ireland;
+
+2.2.d
+
+Open University Human Research Ethics Committee;
+
+2.2.e
+
+Queens University Research Governance, Ethics and Integrity Committee;
+
+2.2.f
+
+Ulster University Research Ethics Committee; and
+
+2.2.g
+
+the following Research Ethics Committees overseen by the Health Research
+Authority’s Research Ethics Service—
+
+2.2.g.i
+
+East Midlands – Derby;
+
+2.2.g.ii
+
+East Midlands – Leicester Central;
+
+2.2.g.iii
+
+East Midlands - Leicester South;
+
+2.2.g.iv
+
+East Midlands – Nottingham 1;
+
+2.2.g.v
+
+East Midlands – Nottingham 2;
+
+2.2.g.vi
+
+East of England – Cambridge Central;
+
+2.2.g.vii
+
+East of England – Cambridge East;
+
+2.2.g.viii
+
+East of England – Cambridgeshire and Hertfordshire;
+
+2.2.g.ix
+
+East of England – Cambridge South;
+
+2.2.g.x
+
+East of England – Essex;
+
+2.2.g.xi
+
+London – Bloomsbury;
+
+2.2.g.xii
+
+London – Brent;
+
+2.2.g.xiii
+
+London – Brighton and Sussex;
+
+2.2.g.xiv
+
+London – Bromley;
+
+2.2.g.xv
+
+London – Camberwell St Giles;
+
+2.2.g.xvi
+
+London – Camden and Kings Cross;
+
+2.2.g.xvii
+
+London – Central;
+
+2.2.g.xviii
+
+London – Chelsea;
+
+2.2.g.xix
+
+London – City and East;
+
+2.2.g.xx
+
+London – Dulwich;
+
+2.2.g.xxi
+
+London – Fulham;
+
+2.2.g.xxii
+
+London – Hampstead;
+
+2.2.g.xxiii
+
+London – Harrow;
+
+2.2.g.xxiv
+
+London – London Bridge;
+
+2.2.g.xxv
+
+London – Queen Square;
+
+2.2.g.xxvi
+
+London – Riverside;
+
+2.2.g.xxvii
+
+London – South East;
+
+2.2.g.xxviii
+
+London – Stanmore;
+
+2.2.g.xxix
+
+London – Surrey;
+
+2.2.g.xxx
+
+London – Surrey Borders;
+
+2.2.g.xxxi
+
+London – West London & GTAC;
+
+2.2.g.xxxii
+
+London – Westminster;
+
+2.2.g.xxxiii
+
+Social Care Research Ethics Committee;
+
+2.2.g.xxxiv
+
+North East – Newcastle and North Tyneside 1;
+
+2.2.g.xxxv
+
+North East – Newcastle and North Tyneside 2;
+
+2.2.g.xxxvi
+
+North East – Tyne & Wear South;
+
+2.2.g.xxxvii
+
+North East – York;
+
+2.2.g.xxxviii
+
+North West – Greater Manchester (GM) Central;
+
+2.2.g.xxxix
+
+North West – Greater Manchester (GM) East;
+
+2.2.g.xl
+
+North West – Greater Manchester South;
+
+2.2.g.xli
+
+North West – Greater Manchester (GM) West;
+
+2.2.g.xlii
+
+North West – Haydock
+
+2.2.g.xliii
+
+North West – Liverpool Central;
+
+2.2.g.xliv
+
+North West – Preston;
+
+2.2.g.xlv
+
+South Central – Hampshire A;
+
+2.2.g.xlvi
+
+South Central – Hampshire B;
+
+2.2.g.xlvii
+
+South Central – Berkshire;
+
+2.2.g.xlviii
+
+South Central – Berkshire B;
+
+2.2.g.xlix
+
+South Central – Oxford A;
+
+2.2.g.l
+
+South Central – Oxford B;
+
+2.2.g.li
+
+South Central – Oxford C;
+
+2.2.g.lii
+
+South West – Central Bristol;
+
+2.2.g.liii
+
+South West – Cornwall and Plymouth;
+
+2.2.g.liv
+
+South West – Frenchay;
+
+2.2.g.lv
+
+Wales Research Ethics Committee 1;
+
+2.2.g.lvi
+
+Wales Research Ethics Committee 2;
+
+2.2.g.lvii
+
+Wales Research Ethics Committee 3;
+
+2.2.g.lviii
+
+Wales Research Ethics Committee 4;
+
+2.2.g.lix
+
+Wales Research Ethics Committee 5;
+
+2.2.g.lx
+
+Wales Research Ethics Committee 6;
+
+2.2.g.lxi
+
+Wales Research Ethics Committee 7;
+
+2.2.g.lxii
+
+West Midlands – Coventry and Warwickshire;
+
+2.2.g.lxiii
+
+West Midlands – Edgbaston;
+
+2.2.g.lxiv
+
+West Midlands – Solihull;
+
+2.2.g.lxv
+
+West Midlands – South Birmingham;
+
+2.2.g.lxvi
+
+West Midlands – The Black Country;
+
+2.2.g.lxvii
+
+Yorkshire and the Humber – Bradford Leeds;
+
+2.2.g.lxviii
+
+Yorkshire and the Humber – Leeds East;
+
+2.2.g.lxix
+
+Yorkshire and the Humber – Leeds West;
+
+2.2.g.lxx
+
+Yorkshire and the Humber – Sheffield; and
+
+2.2.g.lxxi
+
+Yorkshire and the Humber – South Yorkshire.
+
+.
+
+      Sealed with the Official Seal of the Department of Health on 30th
+November 2022       (L.S.)   Gavin Quinn   A senior officer of the Department
+of Health
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations amend the Mental Capacity (Research) Regulations (Northern
+Ireland) 2019 by substituting regulation 2 in the principal Regulations with a
+new regulation.
+
+  The new regulation provides an updated list specifying the persons,
+committee or other bodies who can act as appropriate bodies for the purpose of
+approving research involving persons who are aged 16 or over and lack capacity
+in relation to participation in the research.
+

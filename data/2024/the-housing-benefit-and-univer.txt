@@ -1,0 +1,255 @@
+Title: The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024
+Date: 2024-01-12
+Description: These Regulations amend the Housing Benefit (Executive Determinations) Regulations (Northern Ireland) 2008 (S.R. 2008 No. 100) and the Universal Credit Housing Costs (Executive Determinations) Regulations (Northern Ireland) 2016 (S.R. 2016 No. 222) to make changes to how the local housing allowance is determined.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2024/3
+
+## The Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2024
+
+    Housing
+
+  Made   9th January 2024
+
+  Coming into operation   31st January 2024
+
+      The Department for Communities , makes the following Regulations in
+exercise of the powers conferred by sections 122(1)(d), 129A(2) and 171(1) and
+(3) to (5) of the Social Security Contributions and Benefits (Northern
+Ireland) Act 1992 , and now vested in it , and Articles 16(4), 38(1) and 48(2)
+of the Welfare Reform (Northern Ireland) Order 2015 .           Proposals in
+respect of these Regulations were not referred to the Social Security Advisory
+Committee since it appeared to the Department for Communities that by reason
+of the urgency of the matter it was expedient not to do so .
+
+### Citation, commencement and interpretation
+
+1
+
+1.1
+
+These Regulations may be cited as the Housing Benefit and Universal Credit
+Housing Costs (Executive Determinations) (Amendment) Regulations (Northern
+Ireland) 2024 and shall come into operation on 31st January 2024.
+
+1.2
+
+The Interpretation Act (Northern Ireland) 1954  shall apply to these
+Regulations as it applies to an Act of the Assembly.
+
+### Amendment to the Housing Benefit (Executive Determinations) Regulations 2008
+
+2
+
+2.1
+
+The Schedule (Broad rental market area determinations and local housing
+allowance determinations) to the Housing Benefit (Executive Determinations)
+Regulations (Northern Ireland) 2008  is amended as follows.
+
+2.2
+
+In paragraph 2 (Local housing allowance for category of dwelling in paragraph
+1)—
+
+2.2.a
+
+in sub-paragraph (1)—
+
+2.2.a.i
+
+for “paragraph”, in the first place it occurs, substitute  “paragraphs” ;
+
+2.2.a.ii
+
+after “allowances)” insert  “and 3A (minimum local housing allowance)” ;
+
+2.2.b
+
+in sub-paragraph (2)(b), in column 2 of the table—
+
+2.2.b.i
+
+in the row relating to paragraph 1(1)(a), for “£295.49” substitute  “£331.39”
+;
+
+2.2.b.ii
+
+in the row relating to paragraph 1(1)(b), for “£295.49” substitute  “£331.39”
+;
+
+2.2.b.iii
+
+in the row relating to paragraph 1(1)(c), for “£365.92” substitute  “£412.86”
+;
+
+2.2.b.iv
+
+in the row relating to paragraph 1(1)(d), for “£441.86” substitute  “£497.10”
+;
+
+2.2.b.v
+
+in the row relating to paragraph 1(1)(e), for “£593.75” substitute  “£704.22”
+.
+
+2.3
+
+In paragraph 3 (Anomalous local housing allowances)—
+
+2.3.a
+
+before paragraph (a), for “Where—” substitute  “Subject to paragraph 3A,
+where—” ;
+
+2.3.b
+
+in the words after paragraph (b), for “shall” substitute  “is to” .
+
+2.4
+
+After paragraph 3, insert—
+
+######### Minimum local housing allowance
+
+2.4.3A
+
+Where—
+
+2.4.3A.a
+
+the Northern Ireland Housing Executive has determined the local housing
+allowance for each of the categories of dwelling in paragraph 1(1) in
+accordance with paragraph 2 and, where relevant, paragraph 3 (Anomalous local
+housing allowances); and
+
+2.4.3A.b
+
+the local housing allowance as so determined for a category of dwelling is
+lower than the local housing allowance determined for that category of
+dwelling on 31st March 2020,
+
+that local housing allowance is to be the same as the local housing allowance
+determined for that category of dwelling on 31st March 2020.
+
+.
+
+### Amendment to the Universal Credit Housing Costs (Executive Determinations) Regulations 2016
+
+3
+
+3.1
+
+Schedule 1 (Local Housing Allowance Determinations) to the Universal Credit
+Housing Costs (Executive Determinations) Regulations (Northern Ireland) 2016
+is amended as follows.
+
+3.2
+
+In paragraph 2 (Local housing allowance for category of dwelling in paragraph
+1)—
+
+3.2.a
+
+in sub-paragraph (1)—
+
+3.2.a.i
+
+for “paragraph”, in the first place it occurs, substitute  “paragraphs” ;
+
+3.2.a.ii
+
+after “allowances)” insert  “and 6 (minimum local housing allowance)” ;
+
+3.2.b
+
+in sub-paragraph (2)(b), in column 2 of the table—
+
+3.2.b.i
+
+in the row relating to paragraph 1(a), for “£1,283.96” substitute  “£1,439.97”
+;
+
+3.2.b.ii
+
+in the row relating to paragraph 1(b), for “£1,283.96” substitute  “£1,439.97”
+;
+
+3.2.b.iii
+
+in the row relating to paragraph 1(c), for “£1,589.99” substitute  “£1,793.98”
+;
+
+3.2.b.iv
+
+in the row relating to paragraph 1(d), for “£1,920.00” substitute  “£2,160.02”
+;
+
+3.2.b.v
+
+in the row relating to paragraph 1(e), for “£2,579.98” substitute  “£3,060.00”
+.
+
+3.3
+
+In paragraph 4 (Anomalous local housing allowances), before sub-paragraph (a)
+for “Where—” substitute “Subject to paragraph 6, where—“.
+
+3.4
+
+At the end, insert—
+
+######### Minimum local housing allowance
+
+3.4.6
+
+Where—
+
+3.4.6.a
+
+the Northern Ireland Housing Executive has determined the local housing
+allowance for each of the categories of accommodation in paragraph 1 in
+accordance with paragraphs 2 and 3 and, where relevant, paragraph 4 (Anomalous
+local housing allowances); and
+
+3.4.6.b
+
+the local housing allowance as so determined for a category of accommodation
+is lower than the local housing allowance determined for that category of
+accommodation on 31st March 2020,
+
+that local housing allowance is to be the same as the local housing allowance
+determined for that category of accommodation on 31st March 2020.
+
+.
+
+      Sealed with the Official Seal of the Department for Communities on 9th
+January 2024       (L.S.)   David Tarr   A senior officer of the Department
+for Communities
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  These Regulations amend the Housing Benefit (Executive Determinations)
+Regulations (Northern Ireland) 2008 ( S.R. 2008 No. 100 ) and the Universal
+Credit Housing Costs (Executive Determinations) Regulations (Northern Ireland)
+2016 ( S.R. 2016 No. 222 ) to make changes to how the local housing allowance
+is determined.
+
+  Under those Regulations, the Northern Ireland Housing Executive must
+determine a local housing allowance (which applies to the private rented
+sector) for each relevant category of dwelling or accommodation, in each broad
+rental market area, so that the allowance is set at the lower of rent at the
+30th percentile of local rents and the maximum local housing allowance for the
+relevant category of dwelling or accommodation. The new provisions for the
+determination of the local housing allowance are first to apply to the
+determinations to be made on 31st January 2024. The amendments also insert a
+provision the effect of which is that no revised local housing allowance can
+be lower than the allowance determined for the relevant category of dwelling
+or accommodation on 31st March 2020 (when local housing allowance rates were
+last increased).
+
+  A full impact assessment has not been produced for these Regulations as no,
+or no significant, impact on the private, voluntary or public sector is
+foreseen.
+

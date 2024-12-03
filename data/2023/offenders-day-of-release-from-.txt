@@ -1,0 +1,130 @@
+Title: Offenders (Day of Release from Detention) Act 2023
+Date: 2024-02-08
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ukpga/2023/25
+
+## Offenders (Day of Release from Detention) Act 2023
+
+      B e it enacted  by the King’s most Excellent Majesty, by and with the
+advice and consent of the Lords Spiritual and Temporal, and Commons, in this
+present Parliament assembled, and by the authority of the same, as follows:—
+
+### Days on which offenders may be released from detention
+
+1
+
+1.1
+
+Section 23 of the Criminal Justice Act 1961 (Prison Rules) is amended as
+follows.
+
+1.2
+
+In subsection (3), after “shall” insert  “(subject to subsection (3B))” .
+
+1.3
+
+Before subsection (4) insert—
+
+1.3.3B
+
+The Secretary of State may direct that a prisoner who would, apart from this
+subsection, be discharged on a working day immediately before a non-working
+day, must instead be discharged on a day referred to in subsection  (3C) .
+
+1.3.3C
+
+The days are—
+
+1.3.3C.a
+
+the last eligible working day before the day on which the prisoner would
+otherwise be discharged;
+
+1.3.3C.b
+
+the last eligible working day before that eligible working day.
+
+1.3.3D
+
+In this section—
+
+      “ eligible working day ” means a working day that is not immediately
+followed by a non-working day;           “ non-working day ” means—         a
+Saturday or Sunday, Christmas Day, or Good Friday, or           any day that
+is a bank holiday under section 1 of the Banking and Financial Dealings Act
+1971 in England and Wales;                 “ working day ” means a day that is
+not a non-working day.
+
+1.4
+
+After subsection (4) insert—
+
+1.4.5
+
+In subsections (3),  (3B)  and  (3C) , the references to a prisoner also
+include references to a person detained in—
+
+1.4.5.a
+
+a secure children’s home, or
+
+1.4.5.b
+
+a secure 16 to 19 Academy,
+
+in pursuance of a sentence or order referred to in section 163(1) of the
+Police, Crime, Sentencing and Courts Act 2022.
+
+1.4.6
+
+In subsection  (5) —
+
+      “ secure children’s home ” means—         a children’s home in England,
+within the meaning given in section 1 of the Care Standards Act 2000, which
+provides accommodation for the purposes of restricting liberty;
+residential premises in Wales which provide a secure accommodation service,
+within the meaning given in Part 1 of the  Regulation and Inspection of Social
+Care (Wales) Act 2016 (anaw 2) ;                 “ secure 16 to 19 Academy ”
+has the meaning given in section 1B of the Academies Act 2010.
+
+### Offenders detained under International Criminal Court Act 2001
+
+2
+
+In paragraph 2(1)(c) of Schedule 7 to the International Criminal Court Act
+2001 (domestic provisions not applicable to persons detained pursuant to a
+sentence of the International Criminal Court)—
+
+2.a
+
+after “section 23(3)” insert  “and  (3B) ” ;
+
+2.b
+
+for “or on a holiday” substitute  “, on a holiday or on a working day
+immediately before a non-working day” .
+
+### Extent, commencement and short title
+
+3
+
+3.1
+
+Section  1  extends to England and Wales.
+
+3.2
+
+Section  2  and this section extend to England and Wales, Scotland and
+Northern Ireland.
+
+3.3
+
+This Act comes into force on such day as the Secretary of State may by
+regulations appoint.
+
+3.4
+
+This Act may be cited as the Offenders (Day of Release from Detention) Act
+2023.
+

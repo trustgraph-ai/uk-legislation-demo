@@ -1,0 +1,477 @@
+Title: The Tribunal Procedure (Amendment) Rules 2023
+Date: 2024-03-21
+Description: These Rules amend the tribunal procedure Rules applied by the First-tier Tribunal and the Upper Tribunal.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2023/327
+
+## The Tribunal Procedure (Amendment) Rules 2023
+
+    This Statutory Instrument has been made in part to correct errors in  S.I.
+2022/1030  and is being issued free of charge to all known recipients of that
+Statutory Instrument.
+
+    Tribunals And Inquiries
+
+  Made   14th March 2023
+
+  Laid before Parliament   15th March 2023
+
+  Coming into force   6th April 2023
+
+      The Tribunal Procedure Committee makes the following Rules, in exercise
+of the powers conferred by section 22 of, and Schedule 5 to, the Tribunals,
+Courts and Enforcement Act 2007 , having consulted in accordance with
+paragraph 28(1) of Schedule 5 to that Act.           The Lord Chancellor has
+allowed the Rules in accordance with paragraph 28(3) of Schedule 5 to the
+Tribunals, Courts and Enforcement Act 2007.
+
+### Citation and commencement
+
+1
+
+These Rules may be cited as the Tribunal Procedure (Amendment) Rules 2023 and
+come into force on 6th April 2023.
+
+### Amendments to the Tribunal Procedure (First-tier Tribunal) (Social Entitlement Chamber) Rules 2008
+
+2
+
+2.1
+
+The Tribunal Procedure (First-tier Tribunal) (Social Entitlement Chamber)
+Rules 2008  are amended as follows.
+
+2.2
+
+In rule 22 (cases in which the notice of appeal is to be sent to the
+Tribunal)—
+
+2.2.a
+
+in paragraph (7A) for “Her Majesty’s” substitute  “His Majesty’s” ;
+
+2.2.b
+
+in paragraph (9)(b) for “Her Majesty’s” substitute  “His Majesty’s” .
+
+### Amendments to the Tribunal Procedure (First-tier Tribunal) (Tax Chamber) Rules 2009
+
+3
+
+3.1
+
+The Tribunal Procedure (First-tier Tribunal) (Tax Chamber) Rules 2009  are
+amended as follows.
+
+3.2
+
+In rule 1(3) (citation, commencement, application and interpretation) in the
+definition of “HMRC” for “Her Majesty’s” substitute  “His Majesty’s” .
+
+### Amendments to the Tribunal Procedure (First-tier Tribunal) (War Pensions and Armed Forces Compensation Chamber) Rules 2008
+
+4
+
+4.1
+
+The Tribunal Procedure (First-tier Tribunal) (War Pensions and Armed Forces
+Compensation Chamber) Rules 2008  are amended as follows.
+
+4.2
+
+In rule 6 (procedure for applying for and giving directions) after paragraph
+(3) insert—
+
+4.2.3A
+
+A party making a written application must send a copy of the application to
+every other party to the proceedings and to any other person that may be
+affected by the direction applied for, and request that any comments on the
+application should be sent to the Tribunal within 7 days or such earlier
+period as the Tribunal directs.
+
+.
+
+4.3
+
+In rule 21 (notice of appeal)—
+
+4.3.a
+
+in paragraph (1) for “decision maker” substitute  “Tribunal” ;
+
+4.3.b
+
+after paragraph (5) insert—
+
+4.3.b.5A
+
+The Tribunal must send a copy of the notice of appeal and any accompanying
+documents to the decision maker as soon as reasonably practicable.
+
+;
+
+4.3.c
+
+in paragraph (6) for “The decision maker must refer the case to the Tribunal
+immediately” substitute  “Upon receipt of a copy of the notice of appeal the
+decision maker must notify the Tribunal within 28 days” .
+
+4.4
+
+In rule 22 (lapse of cases)—
+
+4.4.a
+
+in paragraph (1)—
+
+4.4.a.i
+
+for “If the” substitute  “If after receiving the notice of appeal the” ;
+
+4.4.a.ii
+
+at the end of sub-paragraph (a) omit “and”;
+
+4.4.a.iii
+
+at the end of sub-paragraph (b) insert—
+
+; and
+
+4.4.a.iii.c
+
+the decision maker must send a copy of the revised decision to the Tribunal.
+
+;
+
+4.4.b
+
+in paragraph (2)  in the second place in which it appears   for “decision
+maker” substitute  “Tribunal” ;
+
+4.4.c
+
+after paragraph (2) insert—
+
+4.4.c.2A
+
+The Tribunal must send a copy of the appellant’s representations or written
+statement provided under paragraph (2) (if any) to the decision maker.
+
+;
+
+4.4.d
+
+omit paragraph (3);
+
+4.4.e
+
+after paragraph (3) insert—
+
+4.4.e.4
+
+If an appeal lapses under paragraph (2), the Tribunal must give both parties
+notice that it has done so.
+
+.
+
+4.5
+
+In rule 23 (responses and replies)—
+
+4.5.a
+
+for paragraph (1) substitute—
+
+4.5.a.1
+
+When a decision maker receives a copy of the notice of appeal, the decision
+maker must send or deliver a response to the Tribunal—
+
+4.5.a.1.a
+
+where the decision being challenged on appeal is subject to mandatory
+reconsideration, within 28 days after—
+
+4.5.a.1.a.i
+
+if following reconsideration, the decision maker maintains the decision being
+challenged, the date on which the decision maker sends the appellant notice
+that the decision under challenge has been maintained; or
+
+4.5.a.1.a.ii
+
+if following reconsideration, the decision maker revises the decision being
+challenged, the date on which the decision maker receives a copy of the
+appellant’s representations or written statement provided under rule 22(2A)
+(lapse of cases); or
+
+4.5.a.1.b
+
+in any other case, within 56 days after the date that the decision maker
+receives a copy of the notice of appeal or, if rule 21(3) (notice of appeal)
+applies, a copy of the Tribunal’s decision to admit the appeal.
+
+;
+
+4.5.b
+
+after paragraph (7) insert—
+
+4.5.b.8
+
+In this rule, a decision is “subject to mandatory reconsideration” where—
+
+4.5.b.8.a
+
+an application for reconsideration has been made under Article 53(1) of the
+Armed Forces and Reserve Forces (Compensation Scheme) Order 2011 (the 2011
+Order) and the application has not yet been determined; or
+
+4.5.b.8.b
+
+the decision maker is required under Article 53(5) of the 2011 Order to
+reconsider the decision being challenged.
+
+.
+
+4.6
+
+In rule 24 (medical examinations and commission of medical evidence etc.)—
+
+4.6.a
+
+omit paragraphs (1) and (2);
+
+4.6.b
+
+in paragraph (5) omit “arranges a medical examination under paragraph (2) or”.
+
+### Amendments to the Tribunal Procedure (Upper Tribunal) Rules 2008
+
+5
+
+5.1
+
+The Tribunal Procedure (Upper Tribunal) Rules 2008  are amended as follows.
+
+5.2
+
+In rule 13 (sending and delivery of documents)—
+
+5.2.a
+
+in paragraph (1)—
+
+5.2.a.i
+
+at the beginning insert  “Subject to paragraph (1A),” ;
+
+5.2.a.ii
+
+at the end of sub-paragraph (b) omit “or”;
+
+5.2.a.iii
+
+after sub-paragraph (b) insert—
+
+5.2.a.iii.ba
+
+uploaded to the Upper Tribunal’s secure portal; or
+
+;
+
+5.2.b
+
+after paragraph (1) insert—
+
+5.2.b.1A
+
+A practice direction may specify for any document subject to paragraph (1)—
+
+5.2.b.1A.a
+
+the requirements that must be fulfilled for it to be uploaded to the Upper
+Tribunal’s secure portal; and
+
+5.2.b.1A.b
+
+for any specified category of party in any specified category of case, that it
+must be so uploaded to the Upper Tribunal’s secure portal.
+
+;
+
+5.2.c
+
+in paragraph (2)—
+
+5.2.c.i
+
+for “paragraph (3)” substitute  “paragraphs (2A) and (3)” ;
+
+5.2.c.ii
+
+after “them” insert  “(including transmission through the Upper Tribunal’s
+secure portal)” ;
+
+5.2.d
+
+after paragraph (2) insert—
+
+5.2.d.2A
+
+A party is required to accept delivery of documents through the Upper
+Tribunal’s secure portal only if the document is sent through that portal to
+that party by the Upper Tribunal.
+
+;
+
+5.2.e
+
+in paragraph (4) after “communication” insert  “(including transmission
+through the Upper Tribunal’s secure portal)” .
+
+### Amendments to the Tribunal Procedure (Upper Tribunal) (Lands Chamber) Rules 2010
+
+6
+
+6.1
+
+The Tribunal Procedure (Upper Tribunal) (Lands Chamber) Rules 2010  are
+amended as follows.
+
+6.2
+
+In rule 13 (sending and delivery of documents)—
+
+6.2.a
+
+in paragraph (1)—
+
+6.2.a.i
+
+at the beginning insert  “Subject to paragraph (1A),” ;
+
+6.2.a.ii
+
+at the end of sub-paragraph (b) omit “or”;
+
+6.2.a.iii
+
+after sub-paragraph (b) insert—
+
+6.2.a.iii.ba
+
+uploaded to the Tribunal’s secure portal; or
+
+;
+
+6.2.b
+
+after paragraph (1) insert—
+
+6.2.b.1A
+
+A practice direction may specify for any document subject to paragraph (1)—
+
+6.2.b.1A.a
+
+the requirements that must be fulfilled for it to be uploaded to the
+Tribunal’s secure portal; and
+
+6.2.b.1A.b
+
+for any specified category of party in any specified category of case, that it
+must be so uploaded to the Tribunal’s secure portal.
+
+;
+
+6.2.c
+
+in paragraph (2)—
+
+6.2.c.i
+
+for “paragraph (3)” substitute  “paragraphs (2A) and (3)” ;
+
+6.2.c.ii
+
+after “them” insert  “(including transmission through the Tribunal’s secure
+portal)” ;
+
+6.2.d
+
+after paragraph (2) insert—
+
+6.2.d.2A
+
+A party is required to accept delivery of documents through the Tribunal’s
+secure portal only if the document is sent through that portal to that party
+by the Tribunal.
+
+;
+
+6.2.e
+
+in paragraph (4) after “communication” insert  “(including transmission
+through the Tribunal’s secure portal)” .
+
+6.3
+
+In rule 39B (method of making application)—
+
+6.3.a
+
+in paragraph (3)(b) after “application” insert  “land” ;
+
+6.3.b
+
+in paragraph (4) after “a landowner” insert  “or as” .
+
+### Saving provision applicable to appeals to the First-tier Tribunal (War Pensions and Armed Forces Compensation Chamber)
+
+7
+
+The amendments made by rule 4 of these Rules do not apply to any appeals where
+written notice of the decision being challenged was sent to the appellant
+before 6th April 2023.
+
+      We make these Rules       Susan Humble   Donald Ferguson   Joanna Smith
+Gabriella Bettiga   Philip Brook Smith   Jeremy Rintoul   Michael Reed
+Stephen Smith   Mark Loveday   TPC Members     2nd March 2023             I
+allow these Rules       Bellamy   Parliamentary Under Secretary of State
+Ministry of Justice     14th March 2023
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Rules)
+
+  These Rules amend the tribunal procedure Rules applied by the First-tier
+Tribunal and the Upper Tribunal.
+
+  Rule 2 amends the Tribunal Procedure (First-tier Tribunal) (Social
+Entitlement Chamber) Rules 2008 ( S.I. 2008/2685 ) and rule 3 amends the
+Tribunal Procedure (First-tier Tribunal) (Tax Chamber) Rules 2009 ( S.I.
+2009/273 ), so that references to “Her Majesty” are replaced with “His
+Majesty”.
+
+  Rule 4 amends the Tribunal Procedure (First-tier Tribunal) (War Pensions and
+Armed Forces Compensation Chamber) Rules 2008 ( S.I. 2008/2686 ) to allow
+appeals to be directly lodged with the Tribunal. Rule 4 also amends the
+procedure for applying for directions and removes the power for a Tribunal
+member to undertake a medical examination.
+
+  Rule 5 amends the Tribunal Procedure (Upper Tribunal) Rules 2008 ( S.I.
+2008/2698 ) and rule 6(2) amends the Tribunal Procedure (Upper Tribunal)
+(Lands Chamber) Rules 2010 ( S.I. 2010/2600 ) (“Lands Chamber Rules”) which
+provides that practice directions may make provision for the mandatory filing
+of documents to the Upper Tribunal’s secure online portal for specified users
+in any specified categories of case.
+
+  Rule 6(3) amends rule 39B (method of making application) of the Lands
+Chamber Rules to correct a drafting error.
+
+  No impact assessment has been carried out for these amendments as no, or no
+significant impact, on the private, voluntary, or public sectors is foreseen.
+

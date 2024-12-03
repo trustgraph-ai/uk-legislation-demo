@@ -1,0 +1,309 @@
+Title: The Pensions Dashboards Regulations (Northern Ireland) 2022 (revoked)
+Date: 2023-07-19
+Description: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/nisr/2022/296
+
+## The Pensions Dashboards Regulations (Northern Ireland) 2022 (revoked)
+
+Regulations made by the Department for Communities and laid before the
+Assembly under Article 288(2) and (3)(ja) to (jc) of the Pensions (Northern
+Ireland) Order 2005 for approval of the Assembly before the expiration of six
+months from the date of their coming into operation
+
+Pensions
+
+Made 25th November 2022
+
+Coming into operation 12th December 2022
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### General
+
+#### Citation and commencement
+
+1
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Interpretation
+
+2
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Application
+
+3
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Dashboards Available Point
+
+4
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Oversight of standards
+
+5
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Prescribed requirements for qualifying pensions dashboard services
+
+#### Qualifying pensions dashboard services
+
+6
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Cooperation – providers
+
+7
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Connection and functionality
+
+8
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### View data
+
+9
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### State pension information
+
+10
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Operational information and reporting
+
+11
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Information on making a complaint
+
+12
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Enabling auditing
+
+13
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Requirements relating to trustees or managers of relevant occupational pension schemes
+
+#### Requirements relating to cooperation and connection
+
+##### Cooperation – trustees or managers
+
+14
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Connection according to the staging profile
+
+15
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Early or voluntary connection
+
+16
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Deferred connection
+
+17
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Connection where the staging profile does not apply
+
+18
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Connection where these Regulations cease to apply and then apply again
+
+19
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Connection affected by an assessment period
+
+20
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Notification of disconnection
+
+21
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Requirements following connection of a pension scheme
+
+##### Requirements relating to the provision of pensions information
+
+22
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Find requests, matching, pension identifiers and view requests
+
+23
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Administrative data
+
+24
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Signpost data
+
+25
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Value data
+
+26
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Contextual information
+
+27
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Operational information and reporting
+
+28
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Compliance and enforcement
+
+#### Compliance notices
+
+29
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Third party compliance notices
+
+30
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Penalty notices
+
+31
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Penalty notices: recovery
+
+32
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Penalty notices: recovery from bodies corporate and Scottish partnerships
+
+33
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Review of notices
+
+34
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### References to the First-tier Tribunal or Upper Tribunal
+
+35
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Disclosure of information
+
+#### Disclosure of information
+
+36
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Interpretation
+
+Regulation 2
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Staging profile
+
+Regulation 15(2)(a)
+
+##### Large schemes
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Medium schemes
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Value data
+
+Regulation 26(1) and (2)
+
+##### Value data requirements
+
+1
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+##### Exemption from certain projected value data requirements
+
+7
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+

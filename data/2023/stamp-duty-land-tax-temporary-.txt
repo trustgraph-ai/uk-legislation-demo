@@ -1,0 +1,112 @@
+Title: Stamp Duty Land Tax (Temporary Relief) Act 2023
+Date: 2023-03-08
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ukpga/2023/2
+
+## Stamp Duty Land Tax (Temporary Relief) Act 2023
+
+      B e it enacted  by the King’s most Excellent Majesty, by and with the
+advice and consent of the Lords Spiritual and Temporal, and Commons, in this
+present Parliament assembled, and by the authority of the same, as follows:—
+
+### Reduction of SDLT on acquisition of residential property
+
+1
+
+1.1
+
+This section makes modifications of Part 4 of the Finance Act 2003 in relation
+to any land transaction the effective date of which falls in the period (“the
+temporary relief period”)—
+
+1.1.a
+
+beginning with 23 September 2022, and
+
+1.1.b
+
+ending with 31 March 2025.
+
+1.2
+
+Section 55(1B) (amount of stamp duty land tax chargeable: general) has effect
+as if for Table A there were substituted—
+
+  TABLE A: RESIDENTIAL     Part of relevant consideration Percentage   So much
+as does not exceed £250,000 0% So much as exceeds £250,000 but does not exceed
+£925,000 5% So much as exceeds £925,000 but does not exceed £1,500,000 10% The
+remainder (if any) 12%
+
+.
+
+1.3
+
+Schedule 4ZA (higher rates of stamp duty land tax for additional dwellings
+etc) has effect as if for the Table A in section 55(1B) mentioned in paragraph
+1(2) there were substituted—
+
+  TABLE A: RESIDENTIAL     Part of relevant consideration Percentage   So much
+as does not exceed £250,000 3% So much as exceeds £250,000 but does not exceed
+£925,000 8% So much as exceeds £925,000 but does not exceed £1,500,000 13% The
+remainder (if any) 15%
+
+.
+
+1.4
+
+Paragraph 2(3) of Schedule 5 (amount of SDLT chargeable in respect of rent)
+has effect as if for Table A there were substituted—
+
+  TABLE A: RESIDENTIAL     Rate bands Percentage   £0 to £250,000 0% Over
+£250,000 1%
+
+.
+
+1.5
+
+Schedule 6ZA (relief for first-time buyers) has effect as if—
+
+1.5.a
+
+in paragraph 1(3), for “£500,000” there were substituted  “£625,000” , and
+
+1.5.b
+
+for the Table A in section 55(1B) mentioned in paragraph 4 there were
+substituted—
+
+  TABLE A: RESIDENTIAL     Part of relevant consideration Percentage   So much
+as does not exceed £425,000 0% Any remainder (so far as not exceeding
+£625,000) 5%
+
+.
+
+1.6
+
+In a case where—
+
+1.6.a
+
+as a result of section 44(4) of the Finance Act 2003 the effective date of a
+land transaction falls in the temporary relief period, and
+
+1.6.b
+
+the contract concerned is completed by a conveyance after that period ends,
+
+section 44(8) of that Act is not to apply in relation to that conveyance if
+the sole reason that (but for this subsection) it would have applied is that
+the modifications made by subsections  (2)  to  (5)  have no effect in
+relation to that conveyance.
+
+1.7
+
+Section 44(10) of the Finance Act 2003 applies for the purposes of subsection
+(6) .
+
+### Short title
+
+2
+
+This Act may be cited as the Stamp Duty Land Tax (Temporary Relief) Act 2023.
+

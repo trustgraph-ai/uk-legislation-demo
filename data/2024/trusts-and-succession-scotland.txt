@@ -1,0 +1,5659 @@
+Title: Trusts and Succession (Scotland) Act 2024
+Date: 2024-07-08
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/asp/2024/2
+
+## Trusts and Succession (Scotland) Act 2024
+
+### Trusts
+
+#### Appointment, assumption, resignation, removal and discharge of trustees
+
+##### Appointment or assumption
+
+###### Appointment of additional or new trustee by court: general
+
+1
+
+1.1
+
+The court may, as regards any trust—
+
+1.1.a
+
+on the application of one or more of the trustees or of any person with an
+interest in the trust property, appoint an additional trustee if the court
+considers it necessary to do so for the administration of the trust, or
+
+1.1.b
+
+if no capable trustee exists or is traceable, appoint a new trustee on the
+application of any person with an interest in the trust property.
+
+1.2
+
+The court ceases to have power at common law to appoint a trustee.
+
+1.3
+
+The making of an appointment under  subsection (1) (b)  removes any existing
+trustee from the office of trustee.
+
+1.4
+
+This section  applies irrespective of when the trust was created.
+
+###### Appointment of new trustee by truster
+
+2
+
+2.1
+
+Except in so far as the trust deed, expressly or by implication, provides
+otherwise (or, in a case where there is no trust deed, the context requires or
+implies otherwise), if no capable trustee exists or is traceable the truster
+may appoint a new trustee.
+
+2.2
+
+The making of an appointment under  subsection (1)  removes any existing
+trustee from the office of trustee.
+
+2.3
+
+This section —
+
+2.3.a
+
+applies irrespective of when the trust was created, but
+
+2.3.b
+
+does not apply as respects a public trust.
+
+###### Assumption of additional trustee
+
+3
+
+3.1
+
+Except in so far as the trust deed, expressly or by implication, provides
+otherwise (or, in a case where there is no trust deed, the context requires or
+implies otherwise), the trustees may assume an additional trustee.
+
+3.2
+
+Subsection (3)  applies where—
+
+3.2.a
+
+a protector has been appointed in respect of the trust,
+
+3.2.b
+
+there has been conferred on the protector, by virtue of  paragraph (b)  of
+section 53 (3) , the power to direct the assumption of an additional trustee,
+and
+
+3.2.c
+
+the protector gives such a direction.
+
+3.3
+
+An additional trustee must, without delay, be assumed by the other trustees.
+
+3.4
+
+This section  applies irrespective of when the trust was created.
+
+###### Operation of appointment or assumption as general conveyance of trust property
+
+4
+
+4.1
+
+The appointment under  section 1 (1) (a) , or assumption under  section 3 , of
+an additional trustee operates as a general conveyance of the trust property
+in favour, jointly, of the additional trustee and the existing trustees.
+
+4.2
+
+The appointment, under  section 1 (1) (b)  or  2 (1) , of a new trustee
+operates as a general conveyance of the trust property in favour of the new
+trustee.
+
+4.3
+
+The appointment of a trustee, on the application under  section 66  of an ex
+officio trustee, operates as a general conveyance of the trust property—
+
+4.3.a
+
+in favour, jointly, of the appointed trustee and the existing trustees (other
+than the applicant), or
+
+4.3.b
+
+if there are no existing trustees (other than the applicant), in favour of the
+appointed trustee.
+
+4.4
+
+This section  applies—
+
+4.4.a
+
+irrespective of when the trust was created, but
+
+4.4.b
+
+only as respects an assumption which takes place, or an appointment which is
+made, after the section comes into force.
+
+##### Resignation and removal
+
+###### Resignation of trustee
+
+5
+
+5.1
+
+Except in so far as the trust deed, expressly or by implication, provides
+otherwise (or, in a case where there is no trust deed, the context requires or
+implies otherwise), a trustee has power to resign office.
+
+5.2
+
+But where subsection (3) applies and the trustee has accepted office or, after
+intimation of their appointment, has acted in a way which indicates that they
+have accepted office, the trustee may do so only after—
+
+5.2.a
+
+an additional trustee is assumed or appointed, or
+
+5.2.b
+
+a judicial factor is appointed to administer the trust.
+
+5.3
+
+This subsection applies where—
+
+5.3.a
+
+the trustee is a sole trustee, or
+
+5.3.b
+
+the trustee is, in the trustee’s opinion, the only remaining trustee who is
+both capable and traceable.
+
+5.4
+
+Any resignation given in breach of  subsection (2)  is of no effect.
+
+5.5
+
+Any resignation given under this section—
+
+5.5.a
+
+must be intimated to—
+
+5.5.a.i
+
+all of the other trustees who are traceable, and
+
+5.5.a.ii
+
+any judicial factor appointed to administer the trust, and
+
+5.5.b
+
+is effective from the date on which such intimation is given.
+
+5.6
+
+This section  applies—
+
+5.6.a
+
+irrespective of when the trust was created, but
+
+5.6.b
+
+only as respects a resignation given after the section comes into force.
+
+###### Resignation of incapable trustee
+
+6
+
+6.1
+
+Where a trustee is incapable, the power in section 5(1) may be exercised by
+the trustee’s guardian (“ G ”) on behalf of the trustee (and in such a case,
+the resignation will, for the purposes of this Act, be treated as a
+resignation by the trustee).
+
+6.2
+
+But where subsection (3) applies, G may do so only after—
+
+6.2.a
+
+an additional trustee is assumed under section 3,
+
+6.2.b
+
+an additional trustee is appointed—
+
+6.2.b.i
+
+under section 1 or 2, or
+
+6.2.b.ii
+
+by G, or
+
+6.2.c
+
+a judicial factor is appointed to administer the trust.
+
+6.3
+
+This subsection applies where—
+
+6.3.a
+
+the incapable trustee is a sole trustee, or
+
+6.3.b
+
+in G’s opinion, no other trustee exists who is both capable and traceable.
+
+6.4
+
+Any resignation given by G on behalf of the incapable trustee in breach of
+subsection (2) is of no effect.
+
+6.5
+
+Section 4(2) (general conveyance of trust property) applies to an appointment
+of a trustee by G under subsection (2)(b)(ii) as it applies to an appointment
+of a trustee under section 1(1)(b) or 2(1).
+
+6.6
+
+Section 5(5) applies to a resignation given by G on behalf of an incapable
+trustee in accordance with this section as it applies to a resignation given
+by a trustee under section 5.
+
+6.7
+
+This section applies—
+
+6.7.a
+
+irrespective of when the trust was created, but
+
+6.7.b
+
+only as respects a resignation given after this section comes into force.
+
+###### Removal of trustee by court
+
+7
+
+7.1
+
+Where a trustee—
+
+7.1.a
+
+is unfit to carry out the duties of a trustee,
+
+7.1.b
+
+purports to carry out those duties but does so in a way which is inconsistent
+with, or might be inconsistent with, a trustee’s fiduciary duty,
+
+7.1.c
+
+has neglected the trustee’s duties as trustee,
+
+7.1.d
+
+is incapable, or
+
+7.1.e
+
+is untraceable,
+
+the court may, on the application of one or more of the other trustees, of a
+beneficiary or of any other person with an interest in the trust property,
+remove the trustee from office.
+
+7.2
+
+The court ceases to have power at common law to remove a trustee.
+
+7.3
+
+This section applies irrespective of when the trust was created.
+
+###### Removal of certain trustees by court: unfitness
+
+8
+
+8.1
+
+For the purposes of section 7(1)(a), a trustee to whom subsection (2) applies
+is to be regarded as unfit to carry out the duties of a trustee (and so may be
+removed from office).
+
+8.2
+
+This subsection applies to any trustee—
+
+8.2.a
+
+who is—
+
+8.2.a.i
+
+an executor nominate of a testator (“ T ”),
+
+8.2.a.ii
+
+a trustee of a trust established by T under a testamentary writing, or
+
+8.2.a.iii
+
+an executor dative appointed in respect of the estate of a deceased person (“
+D ”), and
+
+8.2.b
+
+who—
+
+8.2.b.i
+
+is being prosecuted in Scotland for the murder or culpable homicide of T or,
+as the case may be, D,
+
+8.2.b.ii
+
+has been convicted, whether before or after the coming into force of this
+section, in Scotland of such an offence as regards T or, as the case may be,
+D,
+
+8.2.b.iii
+
+is being prosecuted in a jurisdiction outside Scotland for an offence which,
+in the opinion of the court, is equivalent to the murder or culpable homicide
+of T or, as the case may be, D, or
+
+8.2.b.iv
+
+has been convicted, whether before or after the coming into force of this
+section, in a jurisdiction outside Scotland of such an offence as regards T
+or, as the case may be, D.
+
+8.3
+
+For the purposes of subsection (2)(b), a trustee is to be regarded as being
+prosecuted for an offence if—
+
+8.3.a
+
+a prosecutor has initiated proceedings against the trustee in respect of the
+offence, and
+
+8.3.b
+
+those proceedings have not been dismissed or resulted in the conviction or
+acquittal of the trustee in respect of the offence.
+
+8.4
+
+This section is without prejudice to any power of the court to find that a
+trustee to whom subsection (2)(a) applies (but to whom subsection (2)(b) does
+not apply) is unfit to carry out the duties of a trustee as a result of—
+
+8.4.a
+
+having acted (or being suspected of having acted) in a manner that caused or
+contributed to the death of T or, as the case may be, D, or
+
+8.4.b
+
+having otherwise been involved (or being suspected of having otherwise been
+involved) in the death of T or, as the case may be, D.
+
+###### Removal of trustee by co-trustees
+
+9
+
+9.1
+
+A trustee who is—
+
+9.1.a
+
+incapable,
+
+9.1.b
+
+convicted of an offence involving dishonesty,
+
+9.1.c
+
+sentenced to imprisonment on conviction of an offence, or
+
+9.1.d
+
+imprisoned for contempt of court or for not having paid a fine,
+
+may be removed from office by a majority of the other trustees.
+
+9.2
+
+Except in so far as the trust deed expressly provides otherwise, a trustee who
+is—
+
+9.2.a
+
+a member of a regulated profession (such as a solicitor, accountant, financial
+adviser or teacher), and
+
+9.2.b
+
+appointed or assumed as trustee to provide professional services in relation
+to managing the affairs of trusts in the course of business,
+
+may, in the circumstances described in subsection (3), be removed from office
+by a majority of the other trustees.
+
+9.3
+
+The circumstances are that the trustee—
+
+9.3.a
+
+is no longer a member of the regulated profession in question, or
+
+9.3.b
+
+is such a member, but is not entitled to practise as such.
+
+9.4
+
+In a case where—
+
+9.4.a
+
+two or more trustees meet the description in subsection (2)(a) and (b), and
+
+9.4.b
+
+the circumstances described in subsection (3) apply to each of them,
+
+neither (or none) of those trustees are, for the purpose of section 14, to be
+regarded as able to make a decision in respect of their removal.
+
+9.5
+
+Subsection (6)  applies where—
+
+9.5.a
+
+a protector has been appointed in respect of the trust,
+
+9.5.b
+
+there has been conferred on the protector, by virtue of  paragraph (a)  of
+section 53 (3) , the power to direct the removal of a trustee from office, and
+
+9.5.c
+
+the protector gives such a direction.
+
+9.6
+
+The trustee to whom the direction relates must, without delay, be removed from
+office by the other trustees.
+
+9.7
+
+A person who is removed from office as trustee under this section is to be
+given notice of the decision to remove and the date on which it was made as
+soon as reasonably practicable after it is made.
+
+9.8
+
+This section  applies—
+
+9.8.a
+
+irrespective of when the trust was created, but
+
+9.8.b
+
+paragraphs (b)  to  (d)  of  subsection (1)  are to be disregarded in relation
+to, respectively, a conviction obtained, a sentence passed or an imprisonment
+effected before the section comes into force.
+
+###### Removal of trustee by beneficiaries
+
+10
+
+10.1
+
+A trustee may, subject to  subsection (2) , be removed from office by the
+beneficiaries provided that the removal is agreed to by them all and that at
+the time of reaching such agreement—
+
+10.1.a
+
+they are absolutely entitled to the trust property, and
+
+10.1.b
+
+each of them—
+
+10.1.b.i
+
+has attained the age of 18 years, and
+
+10.1.b.ii
+
+is capable.
+
+10.2
+
+Subsection (1)  does not apply while there subsists—
+
+10.2.a
+
+a trust purpose which cannot be secured, or
+
+10.2.b
+
+a right to be indemnified which cannot be preserved,
+
+without the retention of some or all of the trust property.
+
+10.3
+
+A person who is removed from office as trustee under this section is to be
+given notice of the decision to remove and the date on which it was made as
+soon as reasonably practicable after it is made.
+
+10.4
+
+This section —
+
+10.4.a
+
+applies irrespective of when the trust was created, but
+
+10.4.b
+
+does not apply as respects a private purpose trust.
+
+##### Saving as respects liability of trustees
+
+###### Saving as respects liability of trustees
+
+11
+
+The appointment, or as the case may be the assumption, resignation or removal,
+of a trustee under any of  sections 1  to  3 ,  5  to  10  and  66  does not
+affect liability incurred by the trustee or by any other trustee prior to the
+appointment, assumption, resignation or removal.
+
+##### Discharge
+
+###### Discharge where trustee has resigned, died or been removed from office
+
+12
+
+12.1
+
+Where a trustee—
+
+12.1.a
+
+resigns, the remaining trustees or the beneficiaries may discharge that
+trustee or that trustee’s representatives of that trustee’s acts and
+intromissions,
+
+12.1.b
+
+dies, the remaining trustees or the beneficiaries may discharge that trustee’s
+representatives of that trustee’s acts and intromissions,
+
+12.1.c
+
+is removed from office under  section 7  or  9 , the remaining trustees or the
+beneficiaries may discharge that trustee or that trustee’s representatives of
+that trustee’s acts and intromissions,
+
+12.1.d
+
+is removed from office under  section 10 , the beneficiaries may discharge
+that trustee or that trustee’s representatives of that trustee’s acts and
+intromissions.
+
+12.2
+
+If—
+
+12.2.a
+
+discharge under  subsection (1) (a) ,  (b)  or  (c)  cannot be obtained from
+the remaining trustees, and
+
+12.2.b
+
+the beneficiaries of the trust refuse, or are unable for any reason, to grant
+it,
+
+the court may, on the application of that trustee or as the case may be of
+that trustee’s guardian or representatives and after such intimation and
+inquiry as the court thinks necessary, grant it.
+
+12.3
+
+If the beneficiaries of the trust refuse, or are unable for any reason, to
+grant discharge under  subsection (1) (d) , the court may, on the application
+of that trustee or as the case may be of that trustee’s guardian or
+representatives and after such intimation and inquiry as the court thinks
+necessary, grant it.
+
+12.4
+
+In this section, the references to beneficiaries are, in relation to any
+beneficiary who has not attained the age of 16 years or is incapable, to be
+construed as references to an appropriate person in relation to the
+beneficiary (see section 81(2)).
+
+12.5
+
+This section  applies irrespective of when the trust was created.
+
+#### Decision-making by trustees
+
+##### Decisions: preliminary
+
+13
+
+13.1
+
+This section  applies in relation to any decision of the trustees which is to
+bind them.
+
+13.2
+
+Except in so far as the trust deed, expressly or by implication, provides
+otherwise (or, in a case where there is no trust deed, the context requires or
+implies otherwise), in so far as is reasonably practicable a trustee—
+
+13.2.a
+
+must receive adequate notice of the matter as regards which the decision is to
+be made, and
+
+13.2.b
+
+must be afforded an opportunity (whether or not at a meeting of the trustees)
+to express an opinion in the matter before the decision is taken.
+
+13.3
+
+But a decision which is invalid by virtue of non-compliance with  subsection
+(2)  may be homologated by the trustee in question.
+
+13.4
+
+This section  applies—
+
+13.4.a
+
+irrespective of when the trust was created, but
+
+13.4.b
+
+only as regards a decision taken after the section comes into force.
+
+##### Making of decision
+
+14
+
+14.1
+
+Except in so far as the trust deed, expressly or by implication, provides
+otherwise (or, in a case where there is no trust deed, the context requires or
+implies otherwise), a decision binds the trustees only if made by a majority
+of those for the time being able to make it.
+
+14.2
+
+Except in so far as the trust deed, expressly or by implication, provides
+otherwise (or, in a case where there is no trust deed, the context requires or
+implies otherwise), for the purposes of  subsection (1)  a trustee is not to
+be regarded as able to make a decision who—
+
+14.2.a
+
+has or might have a personal interest in the decision,
+
+14.2.b
+
+is incapable, or
+
+14.2.c
+
+is untraceable.
+
+14.3
+
+But  subsection (2) (a)  is to be disregarded if (either or both)—
+
+14.3.a
+
+all the beneficiaries know of the personal interest and consent to the trustee
+acting,
+
+14.3.b
+
+the truster appointed the trustee in the knowledge that such a decision might
+require to be taken and that the trustee would have a personal interest in it
+(or must be taken to have appointed the trustee in that knowledge).
+
+14.4
+
+For the purposes of subsection (2)(a), a trustee of a public trust is not to
+be regarded as having a personal interest in a decision insofar as—
+
+14.4.a
+
+the decision is intended to benefit the public or a particular section of it,
+and
+
+14.4.b
+
+the trustee in question may derive a benefit from the decision solely as a
+result of being a member of the public or, as the case may be, the particular
+section of it.
+
+14.5
+
+In  subsection (3) (a) , the reference to beneficiaries is, in relation to any
+beneficiary who has not attained the age of 16 years or is incapable, to be
+construed as a reference to an appropriate person in relation to the
+beneficiary (see section 81(2)).
+
+14.6
+
+This section  applies—
+
+14.6.a
+
+irrespective of when the trust was created, but
+
+14.6.b
+
+only as regards a decision taken after the section comes into force.
+
+#### Powers and duties of trustees
+
+##### Powers: general
+
+###### General powers of trustees
+
+15
+
+15.1
+
+Except in so far as the trust deed expressly provides otherwise (or, in a case
+where there is no trust deed, the context requires or implies otherwise) the
+trustees have in relation to the trust property all the powers of a natural
+person beneficially entitled to the property.
+
+15.2
+
+But  this section  is without prejudice to—
+
+15.2.a
+
+a trustee’s fiduciary duty (including a trustee’s duty to fulfil the trust
+purposes),
+
+15.2.b
+
+a trustee’s duty of care, and
+
+15.2.c
+
+any restriction or exclusion imposed by or under this Act or any other
+enactment.
+
+15.3
+
+This section  applies irrespective of when the trust was created.
+
+###### Conferring of additional powers by court
+
+16
+
+16.1
+
+The court may, on the application of the trustees, grant them additional
+powers of administration or management in relation to the trust property
+(being powers specified in the application).
+
+16.2
+
+Before granting additional powers under subsection (1), the court must—
+
+16.2.a
+
+take into account any objection timeously made by virtue of  subsection (3) ,
+and
+
+16.2.b
+
+be satisfied that the trustees having the additional powers in question would
+benefit the future administration or management of the trust property.
+
+16.3
+
+An application under  subsection (1)  is to be intimated to the persons
+mentioned in  subsection (4) , any of whom may object to its being granted.
+
+16.4
+
+The persons are—
+
+16.4.a
+
+any supervisor,
+
+16.4.b
+
+any protector,
+
+16.4.c
+
+any beneficiary who has a vested interest in the trust property,
+
+16.4.d
+
+such other persons as the court may specify.
+
+16.5
+
+The court is to consider specifying under  subsection (4) (d)  any beneficiary
+who has a contingent interest, and any potential beneficiary, under the trust
+but—
+
+16.5.a
+
+need not specify under that subsection any such beneficiary or potential
+beneficiary, and
+
+16.5.b
+
+may specify under it a person other than any such beneficiary or potential
+beneficiary.
+
+16.6
+
+The court may, in granting powers under  subsection (1) , impose such
+conditions as to the exercise of those powers as it thinks fit.
+
+16.7
+
+This section  applies irrespective of when the trust was created.
+
+###### Power to take out insurance
+
+17
+
+17.1
+
+Except in so far as the trust deed expressly provides otherwise, a trustee has
+power to take out such insurance as it is reasonable to take out against
+personal liability arising from the trustee’s actings in carrying out the
+duties of a trustee.
+
+17.2
+
+In  subsection (1) , the reference to actings is to be construed as including
+intentionally not acting in some matter.
+
+17.3
+
+The expense of taking out the insurance is to be paid out of the trust
+property.
+
+17.4
+
+This section  applies irrespective of when the trust was created.
+
+##### Investment
+
+###### Power of investment
+
+18
+
+18.1
+
+The trustees have the power to make any kind of investment of trust property,
+including an investment in heritable property, except in so far as—
+
+18.1.a
+
+the trust deed, expressly or by implication, provides otherwise, or
+
+18.1.b
+
+in a case where there is no trust deed, the context requires or implies
+otherwise.
+
+18.2
+
+The power to act under  subsection (1) —
+
+18.2.a
+
+is subject to any restriction or exclusion imposed by or under any enactment,
+and
+
+18.2.b
+
+is not conferred on trustees—
+
+18.2.b.i
+
+of an authorised unit trust, or
+
+18.2.b.ii
+
+under any other trust who are entitled by or under another enactment to make
+investments of trust property.
+
+18.3
+
+A term—
+
+18.3.a
+
+relating to the powers of a trustee and contained in a trust deed executed
+before 3rd August 1961, or
+
+18.3.b
+
+restricting the powers of investment of a trustee to those conferred by the
+Trustee Investments Act 1961 and contained in a trust deed executed on or
+after that date,
+
+is not to be treated as restricting or excluding the power to act under
+subsection (1) .
+
+18.4
+
+The reference, in  paragraph (b)  of  subsection (3) , to a trustee does not
+include a reference to a trustee under a trust constituted by a private or
+local Act of Parliament or a private Act of the Scottish Parliament; and in
+that paragraph “ trust deed ” is to be construed accordingly.
+
+18.5
+
+In  this section , “ authorised unit trust ” means a unit trust scheme in the
+case of which an order under section 243 of the Financial Services and Markets
+Act 2000 is in force.
+
+18.6
+
+This section  applies irrespective of when the trust was created.
+
+###### Exercise of power of investment
+
+19
+
+19.1
+
+Before acting under  section 18 (1)  the trustees—
+
+19.1.a
+
+are to have regard to—
+
+19.1.a.i
+
+the suitability to the trust of the proposed investment, and
+
+19.1.a.ii
+
+the need for diversification of investments of the trust in so far as is
+appropriate to the circumstances of the trust, and
+
+19.1.b
+
+are (except where  subsection (3)  applies) to obtain and consider proper
+advice about the way in which the power in question should be exercised.
+
+19.2
+
+When reviewing the investments of the trust, the trustees are (except where
+subsection (3)  applies) to obtain and consider proper advice about whether
+the investments should be varied.
+
+19.3
+
+If the trustees reasonably conclude that in all the circumstances it is
+unnecessary or inappropriate to obtain such advice, they need not obtain it.
+
+19.4
+
+In  this section , “ proper advice ” means the advice of a person who is
+reasonably believed by the trustees, on the basis of the person’s—
+
+19.4.a
+
+ability, and
+
+19.4.b
+
+practical experience of financial and other matters relating to the proposed
+investment,
+
+to be qualified to give it.
+
+19.5
+
+This section  applies irrespective of when the trust was created.
+
+###### Exercise of power of investment: further provision
+
+20
+
+20.1
+
+For the purposes of section 19(1) and (2), where two or more proposed
+investments are suitable for the trust, the trustees may (except in so far as
+the trust deed, expressly or by implication provides otherwise) take into
+account appropriate non-financial considerations in determining which
+investment to make.
+
+20.2
+
+An appropriate non-financial consideration may be (either or both)—
+
+20.2.a
+
+a consideration that one investment is more consistent with the purposes of
+the trust than the other investment,
+
+20.2.b
+
+an ethical, social or environmental consideration.
+
+20.3
+
+This section—
+
+20.3.a
+
+does not apply as respects a trust created before the section comes into
+force, and
+
+20.3.b
+
+is without prejudice to any other power of trustees to take into account non-
+financial considerations in relation to determining investments.
+
+##### Sale of property
+
+###### Charitable trusts: sale of property
+
+21
+
+21.1
+
+Except in so far as the trust deed expressly or by implication provides
+otherwise, the trustees of a charitable trust are not under a duty to achieve
+best value when selling trust property where—
+
+21.1.a
+
+the property being sold is heritable property, and
+
+21.1.b
+
+the purchaser is a charity.
+
+21.2
+
+But this section is without prejudice to any duty imposed by the Charities and
+Trustee Investment (Scotland) Act 2005 to act in the interests of the charity
+(see, in particular, section 66 of that Act).
+
+21.3
+
+For the purposes of this section, a “charity” is a non-natural person—
+
+21.3.a
+
+registered in the Scottish Charity Register,
+
+21.3.b
+
+which—
+
+21.3.b.i
+
+is registered as a charity in England and Wales in accordance with section 30
+of the Charities Act 2011, or
+
+21.3.b.ii
+
+by virtue of subsection (2) of that section, is not required to register as a
+charity under that section,
+
+21.3.c
+
+which—
+
+21.3.c.i
+
+is registered as a charity in Northern Ireland in accordance with section 16
+of the Charities Act (Northern Ireland) 2008, or
+
+21.3.c.ii
+
+by virtue of subsection (2A) of that section, is not required to register as a
+charity under that section.
+
+21.4
+
+The Scottish Ministers may by regulations modify subsection (3) so as to
+specify further descriptions of person who are a charity for the purposes of
+this section.
+
+21.5
+
+Regulations under this section are subject to the affirmative procedure.
+
+21.6
+
+This section—
+
+21.6.a
+
+does not apply as respects a trust created before the section comes into
+force, and
+
+21.6.b
+
+is without prejudice to any other power of trustees in relation to the selling
+of trust property.
+
+##### Delegation and the appointment of agents and nominees
+
+###### Delegation and the appointment of agents
+
+22
+
+22.1
+
+Subject to the provisions of  this section  and except in so far as the trust
+deed expressly provides otherwise, the trustees may delegate the exercise of
+any of their powers and in particular may—
+
+22.1.a
+
+appoint an agent,
+
+22.1.b
+
+authorise a person so appointed to execute a deed or other document on behalf
+of the body of trustees.
+
+22.2
+
+Except in so far as the trust deed expressly provides otherwise, the trustees
+have (and are to be taken always to have had) the power to authorise an agent
+to exercise any of their investment management functions—
+
+22.2.a
+
+at the agent’s discretion, or
+
+22.2.b
+
+in such other manner as the trustees may direct.
+
+22.3
+
+Without prejudice to the generality of  subsections (1)  and  (2) , a person
+who is a trustee may be—
+
+22.3.a
+
+appointed or authorised under  subsection (1) ,
+
+22.3.b
+
+authorised under  subsection (2) .
+
+22.4
+
+Except in so far as the trust deed expressly provides otherwise, the trustees
+may pay such remuneration as they consider reasonable to any person appointed
+or authorised under  subsection (1) .
+
+22.5
+
+Except in so far as the trust deed expressly provides otherwise, the reference
+in  subsection (1)  to the trustee’s powers does not include a reference to a
+power—
+
+22.5.a
+
+relating to whether or in what way assets of the trust should be distributed,
+
+22.5.b
+
+relating to whether any fee or other payment due to be made out of the trust
+funds should be made out of capital or income,
+
+22.5.c
+
+to appoint a person to be a trustee of the trust, or
+
+22.5.d
+
+which is conferred by any other enactment or by the trust deed and permits the
+trustees—
+
+22.5.d.i
+
+to delegate any of their functions, or
+
+22.5.d.ii
+
+to appoint a person to act as a nominee in relation to the trust property.
+
+22.6
+
+In  subsection (2) , “ investment management functions ” means functions
+relating to the management of investments of the trust property, heritable as
+well as moveable.
+
+22.7
+
+Subsections (1)  and  (2)  are subject to any restriction or exclusion imposed
+by or under any enactment.
+
+22.8
+
+This section  applies irrespective of when the trust was created.
+
+###### Appointment of nominees
+
+23
+
+23.1
+
+Except in so far as the trust deed expressly provides otherwise, the trustees
+may, for the purpose of the exercise of any of their powers—
+
+23.1.a
+
+appoint a person to act as their nominee in relation to such of the trust
+property, heritable as well as moveable, as they may determine (in  this
+section  referred to as the “ determined assets ”), and
+
+23.1.b
+
+take such steps as are requisite to secure the transfer of title to the
+determined assets to the nominee.
+
+23.2
+
+Without prejudice to the generality of  subsection (1) , reference in that
+subsection to the powers of the trustees includes a reference to their
+investment management functions (as defined in  section 22 (6) ).
+
+23.3
+
+Determined assets held by the nominee are held on trust for the trustees by
+the nominee (irrespective of any purported agreement to the contrary).
+
+23.4
+
+Determined assets title to which is transferred to the nominee may include
+clients’ money.
+
+23.5
+
+Without prejudice to  subsection (3) ,  subsection (1)  is subject to any
+restriction or exclusion imposed by or under any enactment.
+
+23.6
+
+A person is not to be appointed under  subsection (1) (a)  unless the trustees
+reasonably believe—
+
+23.6.a
+
+the appointment is appropriate in the circumstances of the trust, and
+
+23.6.b
+
+the person has the skills, knowledge and expertise it is reasonable to expect
+of one who is to act as a nominee.
+
+23.7
+
+An appointment under  subsection (1) (a)  is—
+
+23.7.a
+
+to be made in writing,
+
+23.7.b
+
+to be subject to the trustees obtaining, as soon as is reasonably practicable,
+the written acknowledgment of the nominee that the determined assets are held
+on trust for the trustees by the nominee,
+
+23.7.c
+
+to be subject to the trustees retaining power to—
+
+23.7.c.i
+
+direct the nominee, and
+
+23.7.c.ii
+
+revoke the appointment, and
+
+23.7.d
+
+subject to  subsection (8) , otherwise to be on such terms as to suitable
+remuneration and other matters as the trustees may determine.
+
+23.8
+
+The trustees are not to appoint a nominee on any of the terms mentioned in
+subsection (9)  unless they have good cause to do so.
+
+23.9
+
+The terms are—
+
+23.9.a
+
+a term permitting the nominee to appoint a substitute,
+
+23.9.b
+
+a term restricting the liability of the nominee, or of any substitute, to the
+trustees or to any beneficiary, and
+
+23.9.c
+
+a term permitting the nominee, or any substitute, to act in circumstances
+capable of giving rise to a conflict of interest.
+
+23.10
+
+While a nominee continues to act for the trust, the trustees are—
+
+23.10.a
+
+to keep under review—
+
+23.10.a.i
+
+the arrangements under which the nominee acts, and
+
+23.10.a.ii
+
+how those arrangements are being put into effect,
+
+23.10.b
+
+to consider, if circumstances make it appropriate to do so, whether there is a
+need to exercise their power—
+
+23.10.b.i
+
+to direct the nominee, or
+
+23.10.b.ii
+
+to revoke the nominee’s appointment.
+
+23.11
+
+The trustees are to exercise either or both of the powers mentioned in
+subsection (10) (b)  if they consider that there is a need to do so.
+
+23.12
+
+The Scottish Ministers may, by regulations, specify particular circumstances
+which may constitute a good cause for the purpose of subsection (8).
+
+23.13
+
+Regulations under this section are subject to the negative procedure.
+
+23.14
+
+This section  applies irrespective of when the trust was created.
+
+##### Power of advancement
+
+###### Power to advance from capital
+
+24
+
+24.1
+
+Except in so far as the trust deed expressly provides otherwise (or, in a case
+where there is no trust deed, the context requires otherwise) the trustees
+may, provided that the requirements of subsections  (4)  and  (5)  are
+satisfied, advance all or part of the trust capital to a beneficiary for the
+benefit of the beneficiary.
+
+24.2
+
+The advance may be on such conditions (if any) as the trustees consider it
+reasonable to impose.
+
+24.3
+
+But the trustees may subsequently waive or vary any condition imposed under
+subsection (2)  if they consider it appropriate to do so.
+
+24.4
+
+A right to the capital advanced must, as at the date on which the advance is
+made, be destined to vest in the beneficiary—
+
+24.4.a
+
+unconditionally,
+
+24.4.b
+
+subject, if an uncertain future event were to occur, to defeasance or
+diminution, or
+
+24.4.c
+
+on the occurrence of an uncertain future event.
+
+24.5
+
+Either—
+
+24.5.a
+
+the consent must have been obtained of any person who has a prior interest as
+respects the trust property, being an interest which would be prejudiced were
+the advance made, or
+
+24.5.b
+
+authorisation to make the advance must have been obtained from the court—
+
+24.5.b.i
+
+on an application to it in that regard by the trustees or by any person with
+an interest in the trust property, and
+
+24.5.b.ii
+
+on its being satisfied that any person whose consent is (but for  this
+paragraph ) required by  paragraph (a)  is either withholding consent
+unreasonably or does not have capacity to give consent.
+
+24.6
+
+Authorisation under  subsection (5) (b)  may be granted subject to such
+conditions (if any) as the court thinks fit to impose.
+
+24.7
+
+Any amount advanced under  this section  (other than an amount which has been
+repaid) must be brought into account by the trustees as part of the share in
+the trust property to which the beneficiary is, or will become, entitled.
+
+24.8
+
+For the purposes of  subsection (7) , the value of the advance is its market
+value as at the date on which the advance is made (interest in relation to the
+advance being disregarded).
+
+24.9
+
+It is not an objection to an advance to the beneficiary under  this section
+that the advance is made by setting up a new trust for the benefit of the
+beneficiary and transferring the capital advanced as assets to be held in that
+new trust (or, without setting up a new trust, by transferring the capital
+advanced to assets for the time being held in any trust for the benefit of the
+beneficiary).
+
+24.10
+
+Subsection (9)  applies whether or not any third party gains incidental
+benefit from the transfer or as the case may be from the setting up of the new
+trust.
+
+24.11
+
+The trustees are not liable for any loss which the trust property may incur by
+virtue of—
+
+24.11.a
+
+a condition imposed by them under  subsection (2) ,
+
+24.11.b
+
+a condition which might have been so imposed not having been so imposed,
+
+24.11.c
+
+their exercising, or failing to exercise, powers under  subsection (3) .
+
+24.12
+
+This section  applies—
+
+24.12.a
+
+irrespective of when the trust was created, but
+
+24.12.b
+
+only as respects an advance made after the section comes into force.
+
+##### Apportionment
+
+###### Exercise of power to apportion between or among beneficiaries
+
+25
+
+25.1
+
+Except in so far as the trust deed, expressly or by implication, provides
+otherwise, no exercise by a trustee of a power to apportion funds or other
+property between or among certain beneficiaries is invalid on the ground only
+that—
+
+25.1.a
+
+an insubstantial, illusory or nominal part is apportioned to (or left to
+devolve unapportioned upon) one of the beneficiaries, or
+
+25.1.b
+
+one of the beneficiaries is not apportioned a part.
+
+25.2
+
+But  subsection (1)  is without prejudice to the grounds on which the court
+may grant a remedy under  section 68 .
+
+25.3
+
+This section  applies irrespective of when the trust was created.
+
+###### Time apportionment
+
+26
+
+26.1
+
+Except in so far as the trust deed expressly provides otherwise (or, in a case
+where there is no trust deed, the context requires otherwise), the trustees
+may determine that amounts mentioned in section 2 of the Apportionment Act
+1870 (which provides for rents, dividends and other periodical payments to be
+apportionable in respect of time) are—
+
+26.1.a
+
+to be apportioned as mentioned in that section, or
+
+26.1.b
+
+not to be apportioned in such manner, but instead to accrue as they arise.
+
+26.2
+
+This section  applies irrespective of when the trust was created.
+
+###### Apportionment: disapplication of certain rules
+
+27
+
+27.1
+
+Any rule of law relating to the allocation and apportionment of trust receipts
+and outgoings ceases to have effect in relation to a trust, irrespective of
+when that trust was created.
+
+27.2
+
+Subsection (1)  does not affect allocation and apportionment which falls to be
+made before  this section  comes into force.
+
+##### Payments from income
+
+###### Power to make payments etc. from income
+
+28
+
+28.1
+
+Subject to  subsection (8)  and except in so far as the trust deed, expressly
+or by implication, provides otherwise (or, in a case where there is no trust
+deed, the context requires or implies otherwise) the trustees may, provided
+that the requirements of subsections  (4)  and  (5)  are satisfied, pay or
+otherwise apply all or part of the trust income (whether as it arises or after
+it has accumulated) to a beneficiary for the benefit of the beneficiary.
+
+28.2
+
+The paying or applying may be on such conditions (if any) as the trustees
+consider it reasonable to impose.
+
+28.3
+
+But the trustees may subsequently waive or vary any condition imposed under
+subsection (2)  if they consider it appropriate to do so.
+
+28.4
+
+The income paid or applied must, as at the date on which it is paid or
+applied, be income from capital destined to vest in the beneficiary—
+
+28.4.a
+
+unconditionally,
+
+28.4.b
+
+subject, if an uncertain future event were to occur, to defeasance or
+diminution, or
+
+28.4.c
+
+on the occurrence of an uncertain future event.
+
+28.5
+
+The trustees must be satisfied, as at the date mentioned in  subsection (4) ,
+that no person other than the beneficiary is entitled to the income paid or
+applied.
+
+28.6
+
+Any amount paid or applied under  this section  (other than an amount which
+has been repaid) must be brought into account by the trustees as part of the
+share in the trust property to which the beneficiary is, or will become,
+entitled.
+
+28.7
+
+For the purposes of  subsection (6) , the payment or application is to be
+deemed to be for a consideration equal to the market value of the payment or
+application as at the date mentioned in  subsection (4)  (interest in relation
+to the payment or application being disregarded).
+
+28.8
+
+If the trust deed directs or permits the trustees to accumulate income, the
+authorisation of the court must be obtained under  subsection (9)  to any
+exercise of their power under  subsection (1) .
+
+28.9
+
+Such authorisation may be granted by the court on an application to it in that
+regard by the trustees or by any person with an interest.
+
+28.10
+
+Authorisation under  subsection (9)  may be granted subject to such conditions
+(if any) as the court thinks fit to impose.
+
+28.11
+
+The trustees are not liable for any loss which the trust property may incur by
+virtue of—
+
+28.11.a
+
+a condition imposed by them under  subsection (2) ,
+
+28.11.b
+
+a condition which might have been so imposed not having been so imposed,
+
+28.11.c
+
+their exercising, or failing to exercise, powers under  subsection (3) .
+
+28.12
+
+This section  applies—
+
+28.12.a
+
+irrespective of when the trust was created, but
+
+28.12.b
+
+only as regards a payment, or application of income, made after the section
+comes into force.
+
+##### Duty to provide information
+
+###### Trustees’ duty to provide information other than on request
+
+29
+
+29.1
+
+It is the duty of the trustees, on becoming aware that a person is as
+described in  subsection (2) —
+
+29.1.a
+
+to inform the person (or if the person has not attained the age of 16 years,
+or is incapable, an appropriate person in relation to that person (see section
+81(2))) accordingly, and
+
+29.1.b
+
+to disclose with that information—
+
+29.1.b.i
+
+the names of all the trustees, and
+
+29.1.b.ii
+
+information sufficient to enable the person (or an appropriate person in
+relation to that person) to enter readily into correspondence with them.
+
+29.2
+
+The persons are—
+
+29.2.a
+
+a beneficiary who has a vested interest in the trust property,
+
+29.2.b
+
+any other beneficiary who the trustees reasonably consider ought to be
+informed under  subsection (1) , and
+
+29.2.c
+
+a potential beneficiary, the imminence of whose becoming a beneficiary appears
+to the trustees to be such that it would be unreasonable not to inform that
+potential beneficiary under  subsection (1) .
+
+29.3
+
+For the purposes of  this section , trustees must take such steps as appear to
+them to be appropriate in all the circumstances to ensure that beneficiaries
+and potential beneficiaries are identified and traced.
+
+29.4
+
+The information is to be provided within such period as is reasonable in all
+the circumstances; except that if the person to be informed is a beneficiary
+who has acquired an immediate interest in the trust property the information
+must be provided as soon as is reasonably practicable.
+
+29.5
+
+In providing information, or making a disclosure, to any person under
+subsection (1) , the trustees need not—
+
+29.5.a
+
+give any advice to that person, or
+
+29.5.b
+
+comment upon the information or disclosure in question.
+
+29.6
+
+If information provided by virtue of  subsection (1)  ceases to be current,
+the trustees must without delay inform the beneficiary or potential
+beneficiary (or an appropriate person in relation to the beneficiary or
+potential beneficiary) of such changes as are needed to update it.
+
+29.7
+
+This section —
+
+29.7.a
+
+applies irrespective of when the trust was created, but
+
+29.7.b
+
+except in the case of a beneficiary who has a personal interest in the trust
+property, does not apply as respects a private purpose trust.
+
+###### Trustees’ duty to provide information on request
+
+30
+
+30.1
+
+It is the duty of the trustees to disclose—
+
+30.1.a
+
+to a beneficiary or potential beneficiary,
+
+30.1.b
+
+where the beneficiary or potential beneficiary has not attained the age of 16
+years, or is incapable, to an appropriate person in relation to that person
+(see section 81(2)),
+
+30.1.c
+
+where the beneficiary or potential beneficiary has attained the age of 16
+years and is capable but has instructed a solicitor to act on that person’s
+behalf, to the solicitor, or
+
+30.1.d
+
+where the beneficiary or potential beneficiary has (wholly or in part)
+assigned that person’s interest in the trust, to the assignee,
+
+information requested by the beneficiary (or as the case may be by the
+potential beneficiary, appropriate person, solicitor or assignee) as regards
+the trust unless the trustees consider it would be inappropriate, in all the
+circumstances, to make the disclosure.
+
+30.2
+
+But  subsection (1)  is subject—
+
+30.2.a
+
+to the express provisions of the trust deed, and
+
+30.2.b
+
+to the following provisions of  this section .
+
+30.3
+
+Subsections (1) and (9) do not apply where—
+
+30.3.a
+
+a person is a potential beneficiary (or an appropriate person in relation to,
+solicitor or assignee of, such a person), and
+
+30.3.b
+
+that person’s interest in the trust is, or would be, so remote as to be of
+negligible value.
+
+30.4
+
+The disclosure—
+
+30.4.a
+
+is to be made in such a way as is appropriate in all the circumstances, and
+
+30.4.b
+
+may be conditional on payment of such expenses as are reasonably incurred by
+the trustees in making it.
+
+30.5
+
+Any duty arising by virtue of  paragraph (d)  of  subsection (1)  is without
+prejudice to any other duty under that subsection.
+
+30.6
+
+A disclosure under  subsection (1)  is to be made as soon as is reasonably
+practicable after receipt of the request.
+
+30.7
+
+It is to be presumed that the trustees will not ordinarily disclose under
+subsection (1)  information requested in respect of—
+
+30.7.a
+
+some other beneficiary or potential beneficiary,
+
+30.7.b
+
+the trustees’ deliberations or reasons for their decisions, or
+
+30.7.c
+
+letters of wishes (that is to say documents in which an account is given,
+whether or not by the truster, of circumstances which are to be relevant to
+the exercise by them of a discretion).
+
+30.8
+
+The trustees may seek a direction from the court as to the fulfilment of their
+duty under  subsection (1)  in relation to a particular request.
+
+30.9
+
+The court may, on the application of any person to whom the trustees have
+declined to disclose information requested under  subsection (1) , direct the
+trustees to disclose the information (or such part of that information as may
+be specified by the court) to the person.
+
+30.10
+
+At any time after the trust is created, a person mentioned in  subsection (12)
+may apply to the court for a determination as to whether a limitation on
+disclosure of information as respects the trust, imposed by the express
+provisions of the trust deed, is reasonable in all the circumstances.
+
+30.11
+
+If, on an application under  subsection (10)  as respects such a limitation,
+the court determines that the limitation is not reasonable in all the
+circumstances it may—
+
+30.11.a
+
+alter the limitation to such extent as it considers expedient having regard to
+the need for a beneficiary or potential beneficiary to be able to hold the
+trustees to account at an appropriate time, or
+
+30.11.b
+
+rescind the limitation.
+
+30.12
+
+The persons are—
+
+30.12.a
+
+the trustees,
+
+30.12.b
+
+in the case of an inter vivos trust, the truster,
+
+30.12.c
+
+a descendant of the truster,
+
+30.12.d
+
+a beneficiary or potential beneficiary,
+
+30.12.e
+
+a descendant or ancestor of a beneficiary or potential beneficiary,
+
+30.12.f
+
+an appropriate person in relation to a beneficiary or potential beneficiary,
+
+30.12.g
+
+a judicial factor, and
+
+30.12.h
+
+unless the trust deed expressly or impliedly excludes the possibility—
+
+30.12.h.i
+
+a protector, and
+
+30.12.h.ii
+
+a supervisor.
+
+30.13
+
+Subsection (10) does not apply where—
+
+30.13.a
+
+a person is—
+
+30.13.a.i
+
+a descendant of the truster,
+
+30.13.a.ii
+
+a potential beneficiary (or an appropriate person in relation to, solicitor or
+assignee of, such a person), or
+
+30.13.a.iii
+
+a descendant or ancestor of a beneficiary or potential beneficiary, and
+
+30.13.b
+
+that person’s interest in the trust is, or would be, so remote as to be of
+negligible value.
+
+30.14
+
+This section —
+
+30.14.a
+
+applies irrespective of when the trust was created, but
+
+30.14.b
+
+except in the case of a beneficiary who has a personal interest in the trust
+property, does not apply as respects a private purpose trust.
+
+30.15
+
+But  subsection (14) (a)  is subject to  subsection (16) .
+
+30.16
+
+In the period of a year beginning with the day on which this section comes
+into force, this section does not apply to a trust created before that day.
+
+##### Trustees’ duty of care etc.
+
+###### Trustees’ duty of care etc.
+
+31
+
+31.1
+
+Subject to  subsections (2)  and  (3) , a trustee, in managing the affairs of
+the trust, is required to exercise such care and diligence as any person of
+ordinary prudence would exercise in managing the affairs of another person.
+
+31.2
+
+A person who in the course of business provides professional services in
+relation to managing the affairs of trusts is required, where appointed or
+assumed as a trustee and remunerated for carrying out the duties of that
+office, to exercise such skill, care and diligence as it is reasonable to
+expect from a member of the profession in question.
+
+31.3
+
+A natural person with professional qualifications who is appointed or assumed
+as a trustee but is not a person mentioned in  subsection (2)  is—
+
+31.3.a
+
+if expressly instructed by or on behalf of the trustees to provide
+professional services or advice to the trust, required (whether remunerated or
+not) to exercise such skill, care and diligence in providing those services or
+that advice as it is reasonable to expect from a member of the profession in
+question, and
+
+31.3.b
+
+if not so instructed, required only to exercise such care and diligence as is
+mentioned in  subsection (1) .
+
+31.4
+
+A provision of a trust deed is of no effect in so far as the provision
+purports—
+
+31.4.a
+
+to lessen a requirement imposed by  subsections (1)  to  (3) ,
+
+31.4.b
+
+to relieve a trustee from liability arising from a failure to exercise the
+skill, care or diligence required of that trustee by  subsection (2)  or  (3)
+(a) ,
+
+31.4.c
+
+in the case of a trustee who is required only to exercise such care and
+diligence as is mentioned in  subsection (1) , to relieve the trustee from
+liability arising by virtue of the trustee’s gross negligence,
+
+31.4.d
+
+to exclude or restrict any right or remedy in relation to a liability arising
+as mentioned in  paragraph (b)  or  (c) ,
+
+31.4.e
+
+to indemnify a trustee for any liability arising as mentioned in either of
+those paragraphs,
+
+31.4.f
+
+to subject a person to any prejudice in respect of pursuing such a right or
+remedy,
+
+31.4.g
+
+to exclude or restrict any rule of evidence or procedure in its application to
+the pursuit of such a right or remedy, or
+
+31.4.h
+
+to make a liability arising as mentioned in  paragraph (b)  or  (c) , or its
+enforcement, subject to restrictive or onerous conditions.
+
+31.5
+
+This section  applies—
+
+31.5.a
+
+irrespective of when the trust was created, but
+
+31.5.b
+
+only as respects managing the affairs of the trust after the section comes
+into force.
+
+##### Breach of duty etc.
+
+###### Breach of fiduciary duty at instigation or request of beneficiary or with consent of beneficiary
+
+32
+
+32.1
+
+This section  applies where a trustee is in breach of a fiduciary duty—
+
+32.1.a
+
+at the instigation or request of a beneficiary, or
+
+32.1.b
+
+with the written consent of a beneficiary.
+
+32.2
+
+The court may if it thinks fit make such order, assigning by way of indemnity
+all or part of the beneficiary’s interest in the trust property to the trustee
+or (as the case may be) to any person claiming through the trustee, as seems
+to the court to be just.
+
+32.3
+
+This section  applies—
+
+32.3.a
+
+irrespective of when the trust was created, but
+
+32.3.b
+
+only as respects a breach of a fiduciary duty occurring after the section
+comes into force.
+
+###### Order relieving trustee of consequences of actings which are ultra vires
+
+33
+
+33.1
+
+This section  applies where actings of a trustee are ultra vires.
+
+33.2
+
+On the application of the trustee the court may, if the condition mentioned in
+subsection (3)  is satisfied, make such order relieving the trustee of the
+consequences of those actings as seems to the court to be just.
+
+33.3
+
+The condition is that the trustee believes (after taking all reasonable steps
+and making all reasonable enquiry) that it is within the trustee’s powers to
+act as the trustee does.
+
+33.4
+
+Subsection (2)  is without prejudice to any right of a beneficiary or trustee
+to recover trust property from a person, other than a trustee, to whom a
+payment would not have been made but for the actings in question.
+
+33.5
+
+This section  applies—
+
+33.5.a
+
+irrespective of when the trust was created, but
+
+33.5.b
+
+only as respects actings occurring after the section comes into force.
+
+###### Provision purporting to limit liability for, or indemnify for, breach of fiduciary duty
+
+34
+
+34.1
+
+In so far as a provision of a trust deed purports generally to—
+
+34.1.a
+
+limit any liability of a trustee for, or
+
+34.1.b
+
+indemnify a trustee for,
+
+the trustee’s breach of a fiduciary duty, the provision is of no effect.
+
+34.2
+
+But  subsection (1)  is without prejudice to any provision of a trust deed
+which authorises a particular action or decision, or a particular class of
+actions or decisions, which but for that authority would constitute a breach
+of a fiduciary duty.
+
+34.3
+
+This section  applies—
+
+34.3.a
+
+irrespective of when the trust was created, but
+
+34.3.b
+
+only as respects a breach of a fiduciary duty occurring after the section
+comes into force.
+
+###### Order relieving trustee of consequences of entering into a transaction in breach of fiduciary duty
+
+35
+
+35.1
+
+This section  applies where a trustee has entered into, or proposes to enter
+into, a transaction in breach of a fiduciary duty.
+
+35.2
+
+The court may, on the application of the trustee, if it thinks fit and if the
+conditions mentioned in  subsection (3)  are satisfied make such order,
+relieving the trustee of the consequences of breaching that duty, as seems to
+the court to be just.
+
+35.3
+
+The conditions are—
+
+35.3.a
+
+that the transaction has benefited, or is likely to benefit, both the trust
+property and (collectively) the beneficiaries, and
+
+35.3.b
+
+that the terms of the transaction are at least as favourable to the trust
+property as those likely to have been, or to be, obtained in a comparable
+commercial transaction at arms-length.
+
+35.4
+
+This section  applies—
+
+35.4.a
+
+irrespective of when the trust was created, but
+
+35.4.b
+
+only as respects a transaction entered into, or to be entered into, after the
+section comes into force.
+
+##### Personal liability of trustees
+
+###### Trustees’ personal liability for beneficiary’s loss
+
+36
+
+36.1
+
+Except in so far as the trust deed, expressly or by implication, provides
+otherwise, a trustee only has personal liability for any loss to a beneficiary
+which results from—
+
+36.1.a
+
+the trustee’s own acts or omissions, or
+
+36.1.b
+
+a breach of trust, or of fiduciary duty, by a co-trustee if the trustee failed
+to take reasonable steps to ensure that the co-trustee did not commit the
+breach.
+
+36.2
+
+This section  applies—
+
+36.2.a
+
+irrespective of when the trust was created, but
+
+36.2.b
+
+only as respects—
+
+36.2.b.i
+
+an act,
+
+36.2.b.ii
+
+an omission, or
+
+36.2.b.iii
+
+a breach of trust or of fiduciary duty,
+
+occurring after the section comes into force.
+
+36.3
+
+This section is subject to the other provisions of this Act concerning the
+personal liability of trustees (including, in particular, sections 39, 40 and
+70).
+
+###### Errors in distribution: circumstances in which trustee not personally liable
+
+37
+
+37.1
+
+A trustee is not personally liable for any error in the distribution of any
+property, or the income of property, vested in the trustee as trustee if—
+
+37.1.a
+
+the error was caused by the trustee not knowing (either or both)—
+
+37.1.a.i
+
+of the existence, or non-existence, of a person,
+
+37.1.a.ii
+
+of a person's relationship, or lack of relationship, to another person, and
+
+37.1.b
+
+the distribution takes place—
+
+37.1.b.i
+
+in good faith and after such enquiries as any reasonable and prudent trustee
+would have made in the circumstances of the case, or
+
+37.1.b.ii
+
+in accordance with an order of the court.
+
+37.2
+
+Subsection (1)  does not affect any right which a person entitled to the
+property or income concerned has to recover it from another person.
+
+37.3
+
+Subsection (2)  is without prejudice to section 24 of the Succession
+(Scotland) Act 2016.
+
+37.4
+
+This section  applies—
+
+37.4.a
+
+irrespective of when the trust was created, but
+
+37.4.b
+
+only as respects distributions occurring after the section comes into force.
+
+#### Contractual rights, damages and the validity of certain transactions and documents
+
+##### Contractual rights
+
+###### Contractual rights
+
+38
+
+38.1
+
+Subsection (2)  applies where, acting intra vires, the trustees enter into an
+onerous contract with a person who, at the time the contract is entered into,
+is aware (whether or not by virtue of having been so informed by the trustees)
+that the trustees are entering into the contract in their capacity as
+trustees.
+
+38.2
+
+Subject to  subsections (3)  and  (4)  and except in so far as the contract
+otherwise provides, any rights of the person under the contract are
+enforceable against the trust property only.
+
+38.3
+
+Subsection (4)  applies where—
+
+38.3.a
+
+a person has a contractual right enforceable against the trustees’ private
+property, but
+
+38.3.b
+
+the trustees have a right of relief against the trust property in respect of
+any finding against the trustees’ private property.
+
+38.4
+
+The person may elect to enforce the right against the trustees’ private
+property or directly against the trust property (liability being joint and
+several).
+
+38.5
+
+Subsection (6)  applies where, acting ultra vires (and whether or not
+purporting to be acting intra vires), the trustees enter into an onerous
+contract with a person.
+
+38.6
+
+Any rights of the person under the contract—
+
+38.6.a
+
+are not enforceable against the trust property, but
+
+38.6.b
+
+if the person enters into the contract in good faith, are enforceable against
+the trustees’ private property.
+
+38.7
+
+This section  applies—
+
+38.7.a
+
+irrespective of when the trust was created, but
+
+38.7.b
+
+only as respects a contract entered into after the section comes into force.
+
+##### Damages
+
+###### Damages for loss resulting from trustee’s act or omission in ordinary course of administration
+
+39
+
+39.1
+
+This section  applies where—
+
+39.1.a
+
+in consequence of a trustee’s act or omission (or of an act or omission of a
+person for whom the trustees are responsible) a person other than a trustee
+suffers loss, and
+
+39.1.b
+
+that act or omission arises in the ordinary course of administering the trust.
+
+39.2
+
+Subject to  subsection (3) , any damages awarded in respect of that loss are
+recoverable from the trust property only.
+
+39.3
+
+In making any award in respect of that loss the court may, if satisfied that
+the act or omission was in any way attributable to the trustee’s failure to
+exercise such skill, care or diligence as is required of that trustee by
+section 31 , determine that damages are recoverable, in whole or in part, from
+the trustee’s private property (to the extent of the trustee’s failure) and
+the balance (if any) from the trust property.
+
+39.4
+
+This section  applies—
+
+39.4.a
+
+irrespective of when the trust was created, but
+
+39.4.b
+
+only as respects an act or omission occurring after the section comes into
+force.
+
+###### Bringing of action for damages for loss resulting from trustee’s act or omission in ordinary course of administration
+
+40
+
+40.1
+
+This section  applies where—
+
+40.1.a
+
+in consequence of the act or omission of a trustee (in  this section  referred
+to as “ T ”), a person other than a trustee suffers loss, and
+
+40.1.b
+
+that act or omission arises in the ordinary course of administering the trust.
+
+40.2
+
+Any action for damages in respect of that loss may be brought—
+
+40.2.a
+
+against the body of trustees,
+
+40.2.b
+
+on the basis of personal liability, against T, or
+
+40.2.c
+
+jointly and severally, against both the body of trustees and T.
+
+40.3
+
+At any time before final judgement in proceedings brought as mentioned in
+subsection (2) (a) , the court may, under rules of court, allow the body of
+trustees an amendment—
+
+40.3.a
+
+adding T, as an additional defender, to the instance of the principal writ,
+and
+
+40.3.b
+
+directing existing or additional conclusions or craves, averments and pleas-
+in-law against T.
+
+###### Delictual liability: trustee’s right of relief against other trustees
+
+41
+
+41.1
+
+Subsection (2)  applies where a body of trustees incurs delictual liability
+but none of them incurs personal liability as respects the delict.
+
+41.2
+
+Each trustee has a right of relief against the other trustees jointly and
+severally.
+
+41.3
+
+Subsection (2)  is subject to section 3(1) of the Law Reform (Miscellaneous
+Provisions) (Scotland) Act 1940 (which provides for contributions to be in
+such proportions as are deemed just).
+
+41.4
+
+This section  applies—
+
+41.4.a
+
+irrespective of when the trust was created, but
+
+41.4.b
+
+only as respects liability incurred after the section comes into force.
+
+###### Trustees’ liability in relation to certain obligations
+
+42
+
+42.1
+
+This section  applies where a body of trustees incurs liability in respect of
+an obligation under—
+
+42.1.a
+
+environmental law, or
+
+42.1.b
+
+the law relating to an occupier’s ownership or control of heritable property,
+
+being liability incurred in the ordinary course of administering the trust.
+
+42.2
+
+Subject to  subsection (3) , any damages awarded in respect of that liability
+are recoverable from the trust property only.
+
+42.3
+
+In making any award in respect of that liability the court may, if satisfied
+that the liability was in any way attributable to a trustee’s failure to
+exercise such skill, care or diligence as is required of that trustee by
+section 31 , determine that damages are recoverable, in whole or in part, from
+the trustee’s private property (to the extent of the trustee’s failure) and
+the balance (if any) from the trust property.
+
+42.4
+
+This section  applies—
+
+42.4.a
+
+irrespective of when the trust was created, but
+
+42.4.b
+
+only as respects a liability incurred after the section comes into force.
+
+##### Validity of certain transactions and documents
+
+###### Validity of certain transactions entered into by trustees
+
+43
+
+43.1
+
+Subsection (2)  applies where—
+
+43.1.a
+
+the trustees enter into an onerous transaction with any person, and
+
+43.1.b
+
+the transaction is one under which the trustees purport to exercise, in
+relation to the trust property, or to any part of the trust property, a power
+under  section 15 (1)  or  18 (1)  whether the power derives from the trust
+deed or is implied by those sections.
+
+43.2
+
+The validity of the transaction, and of any title acquired under the
+transaction by the second party, are not challengeable by that or any other
+person on the ground that—
+
+43.2.a
+
+the exercise of the power is at variance with the terms or purposes of the
+trust, or
+
+43.2.b
+
+on the part of the trustees, there has been some procedural irregularity or
+omission.
+
+43.3
+
+Except that, if the trustees are acting under the supervision of the
+accountant of court and the exercise of the power is under  section 15 (1) ,
+then  subsection (2) (a)  applies only if the accountant consents to the
+transaction.
+
+43.4
+
+Nothing in  subsections (1)  to  (3)  affects any question of liability as
+between the trustees.
+
+43.5
+
+This section  applies—
+
+43.5.a
+
+irrespective of when the trust was created, but
+
+43.5.b
+
+only as respects a transaction entered into after the section comes into
+force.
+
+###### Validity of certain deeds and other documents bearing to be executed by trustees
+
+44
+
+44.1
+
+Except in so far as the trust deed expressly provides otherwise, a deed, or
+other document, bearing to be executed by the body of trustees is valid if
+executed by a majority of the trustees of that body.
+
+44.2
+
+Subsection (1)  is without prejudice to  section 22 (1) (b) .
+
+44.3
+
+This section  applies—
+
+44.3.a
+
+irrespective of when the trust was created, but
+
+44.3.b
+
+only as respects a document executed after the section comes into force.
+
+#### Duration of trust
+
+##### Abolition of restrictions on accumulation and on creation of future interests
+
+45
+
+45.1
+
+Subject to any rule of law, a trust may be constituted of whatever duration
+the truster elects.
+
+45.2
+
+The following (which relate to restrictions on the accumulation of income) are
+repealed in relation to a trust—
+
+45.2.a
+
+the Accumulations Act 1892,
+
+45.2.b
+
+section 5 of the Trusts (Scotland) Act 1961, and
+
+45.2.c
+
+section 6 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1966.
+
+45.3
+
+The following (which relate to restrictions on the creation of future
+interests) are repealed in relation to a trust—
+
+45.3.a
+
+sections 47 to 49 of the Entail Amendment Act 1848,
+
+45.3.b
+
+section 45 of the Conveyancing (Scotland) Act 1924, and
+
+45.3.c
+
+section 18 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1968.
+
+45.4
+
+The following rules of law do not apply in relation to a trust—
+
+45.4.a
+
+the rule known as the rule in  Frog’s Creditors  (which provides that a
+conveyance to a non-existent or unascertainable person, with the grant of a
+liferent to a living individual, results in that individual becoming owner),
+and
+
+45.4.b
+
+the rule known as the rule in  Newlands  (which provides that a conveyance
+such as is mentioned in paragraph (a), but with the grant in question
+described as being for the liferent use allenarly of the living individual,
+results in that individual becoming fiduciary fiar and not owner).
+
+45.5
+
+This section  does not apply—
+
+45.5.a
+
+as respects a trust created before the section comes into force (except in so
+far as the trust deed expressly provides for accumulation in anticipation of
+any change in the law), or
+
+45.5.b
+
+as respects a public trust which is not a charitable trust.
+
+#### Private purpose trusts
+
+##### Private purpose trusts: general
+
+###### Private purpose trusts: general
+
+46
+
+46.1
+
+A private purpose trust exists where—
+
+46.1.a
+
+the trust property is held by, or is vested in, a trustee for the furtherance
+of a specific purpose which is not a charitable or other public purpose, and
+
+46.1.b
+
+the trust is not constituted solely for the benefit of a specific beneficiary
+(or potential beneficiary).
+
+46.2
+
+For the purposes of  subsection (1) , it is immaterial whether the trust
+property is also held by, or vested in, the trustee for the benefit of any
+person (whether or not a person yet ascertained or in existence).
+
+46.3
+
+This section  applies irrespective of when the trust was created.
+
+##### Applications to the court
+
+###### Application for order requiring fulfilment of purpose of private purpose trust
+
+47
+
+47.1
+
+Any person with an interest in the purpose of a private purpose trust
+(including, without prejudice to the generality of  section 50 (1) (a) , any
+supervisor) may apply to the court for an order requiring steps to be taken
+for the fulfilment of that purpose.
+
+47.2
+
+This section  applies irrespective of when the trust was created.
+
+###### Application to reform trust
+
+48
+
+48.1
+
+This section  applies where property is held for the specific purpose of a
+private purpose trust.
+
+48.2
+
+If executing the trust in accordance with its terms becomes, whether in
+relation to all or only to part of the property—
+
+48.2.a
+
+impossible or impracticable,
+
+48.2.b
+
+unlawful or contrary to public policy, or
+
+48.2.c
+
+inappropriate because, by reason of changed circumstances, to do so would no
+longer accord with the general intent of the trust,
+
+the trustees or (unless the trust deed expressly or impliedly excludes the
+possibility) a supervisor may apply to the court to reform the trust.
+
+48.3
+
+On such application the court—
+
+48.3.a
+
+may direct that the trust property, or where the application relates only to
+part of the trust property the part in question, be held for such other
+purpose as it considers to be consistent with the spirit of the truster’s
+directions, or
+
+48.3.b
+
+if it is of the opinion that the trust cannot be reformed consistently with
+the spirit of those directions, may direct—
+
+48.3.b.i
+
+where the application relates to all of the trust property, that the trustees
+dispose of that property as though the trust has failed, or
+
+48.3.b.ii
+
+where the application relates only to part of the trust property, that the
+trustees dispose of that part as though the trust has failed in relation to
+that part.
+
+48.4
+
+But  subsections (2)  and  (3)  are to be disregarded if the trust can be
+reformed in accordance with its own terms.
+
+48.5
+
+This section  applies irrespective of when the trust was created.
+
+##### Supervisors
+
+###### Appointment of supervisor
+
+49
+
+49.1
+
+The truster may, in respect of a private purpose trust, by the trust deed make
+provision for the appointment of a person (to be known as a “ supervisor ”) to
+oversee the fulfilment by the trustees of the trust’s specific purpose.
+
+49.2
+
+The duties of the supervisor are fiduciary obligations; and the supervisor is
+subject to a duty of care.
+
+49.3
+
+It is not competent to appoint—
+
+49.3.a
+
+a trustee to be a supervisor of the trust, or
+
+49.3.b
+
+a supervisor of the trust to be a trustee.
+
+49.4
+
+Except in so far as the trust deed, expressly or by implication, provides
+otherwise, it is competent for there to be more than one supervisor of the
+trust at any time.
+
+49.5
+
+Subsection (6)  applies where—
+
+49.5.a
+
+the terms of a private purpose trust require the appointment of a supervisor
+but it is impossible, difficult or inexpedient to make the appointment without
+the court’s assistance, or
+
+49.5.b
+
+no supervisor exists or is traceable who has the legal capacity, and is
+willing and fit, to carry out the duties of that office.
+
+49.6
+
+The court may appoint a person to be a supervisor of the private purpose
+trust—
+
+49.6.a
+
+in the case mentioned in  paragraph (a)  of  subsection (5) , on the
+application of—
+
+49.6.a.i
+
+the trustees,
+
+49.6.a.ii
+
+a supervisor, or
+
+49.6.a.iii
+
+any other person with an interest in the trust, or
+
+49.6.b
+
+in the case mentioned in  paragraph (b)  of that subsection, on the
+application of—
+
+49.6.b.i
+
+the trustees, or
+
+49.6.b.ii
+
+any other person with an interest in the trust.
+
+49.7
+
+The making of an appointment under  subsection (6) (b)  removes any existing
+supervisor from office.
+
+49.8
+
+This section  applies irrespective of when the trust was created.
+
+###### Rights and remedies of supervisor
+
+50
+
+50.1
+
+Except in so far as the trust deed, expressly or by implication, provides
+otherwise, the supervisor of a private purpose trust has the same rights as a
+beneficiary would have—
+
+50.1.a
+
+to bring an action, or make an application to the court, in respect of the
+trust,
+
+50.1.b
+
+to be informed by the trustees of the terms of the trust deed,
+
+50.1.c
+
+to receive information concerning the trust and its administration from the
+trustees, and
+
+50.1.d
+
+to inspect, and take copies of, the trust documents.
+
+50.2
+
+Subsections (4)  and  (6)  to  (9)  of  section 30  apply to a disclosure to a
+supervisor by virtue of  subsection (1)  as they apply to a disclosure to a
+beneficiary by virtue of  subsection (1) (a)  of that section.
+
+50.3
+
+The supervisor has, in the performance of the supervisor’s duties as respects
+the private purpose trust, the same rights as a trustee would have—
+
+50.3.a
+
+to protection and indemnity, and
+
+50.3.b
+
+to make an application to the court for—
+
+50.3.b.i
+
+an opinion,
+
+50.3.b.ii
+
+advice or direction, or
+
+50.3.b.iii
+
+relief from personal liability.
+
+50.4
+
+In the event of a breach of trust, the supervisor has, on behalf of the
+private purpose trust, the same remedies against the trustees or a third party
+as a beneficiary would have.
+
+50.5
+
+This section  applies irrespective of when the trust was created.
+
+###### Application to supervisors of certain provisions relating to removal from office and to decision making
+
+51
+
+51.1
+
+Sections 7 ,  13  and  14  apply in relation to a supervisor and the duties of
+a supervisor as they apply in relation to a trustee and the duties of a
+trustee.
+
+51.2
+
+This section  applies irrespective of when the trust was created.
+
+###### Resignation of supervisor
+
+52
+
+52.1
+
+A supervisor has power to resign office by notice in writing sent to the
+trustees.
+
+52.2
+
+The resignation takes effect on receipt of that notice.
+
+52.3
+
+But any resignation sent under  this section  in order to facilitate a breach
+of trust is of no effect.
+
+52.4
+
+This section  applies irrespective of when the trust was created.
+
+#### Protectors
+
+##### Protectors
+
+53
+
+53.1
+
+The truster may by the trust deed—
+
+53.1.a
+
+make provision for the appointment of a person (to be known as a “ protector
+”) to oversee the exercise by the trustees of their functions, and
+
+53.1.b
+
+require the trustees to obtain the consent of the protector before exercising
+(or before exercising in circumstances specified in the trust deed) such of
+those functions as may be so specified.
+
+53.2
+
+For the purposes of  subsection (1)  the truster may, by the trust deed,
+confer powers on the protector.
+
+53.3
+
+Without prejudice to the generality of  subsection (2) , powers conferred by
+virtue of that subsection may include the power to—
+
+53.3.a
+
+direct the trustees to remove, under  section 9 (1) , one of their number from
+office,
+
+53.3.b
+
+direct the trustees to assume, under  section 3 (1) , an additional trustee,
+
+53.3.c
+
+withhold, whether conditionally or unconditionally, consent required by
+trustees to—
+
+53.3.c.i
+
+a person being given or refused a beneficial interest, or
+
+53.3.c.ii
+
+such other matter to which consent may be required by trustees by virtue of
+subsection (1)(b),
+
+53.3.d
+
+make an application under  section 65 (1) ,
+
+53.3.e
+
+oppose any application made under that section,
+
+53.3.f
+
+verify the trust accounts, and
+
+53.3.g
+
+represent—
+
+53.3.g.i
+
+an incapable person,
+
+53.3.g.ii
+
+a person who has not attained the age of 16 years,
+
+53.3.g.iii
+
+a beneficiary not yet ascertained,
+
+53.3.g.iv
+
+a potential beneficiary not yet ascertained, or
+
+53.3.g.v
+
+a person who is untraceable.
+
+53.4
+
+Except in so far as the trust deed, expressly or by implication, provides
+otherwise, the protector may, on application to the trustees, inspect, without
+charge and at any reasonable time, any document held by them or on their
+behalf.
+
+53.5
+
+The duties of the protector are fiduciary obligations; and the protector is
+subject to a duty of care.
+
+53.6
+
+It is not competent to appoint—
+
+53.6.a
+
+a trustee to be the protector of the trust, or
+
+53.6.b
+
+the protector of the trust to be a trustee.
+
+53.7
+
+It is competent for the truster to appoint the truster’s own self to be the
+protector of the trust.
+
+53.8
+
+Except in so far as the trust deed, expressly or by implication, provides
+otherwise, it is competent for there to be more than one protector of the
+trust at any time.
+
+53.9
+
+This section  applies irrespective of when the trust was created.
+
+##### Appointment of new protector
+
+54
+
+54.1
+
+Subsection (2)  applies where—
+
+54.1.a
+
+by the trust deed, the truster appointed a protector, but
+
+54.1.b
+
+no protector exists or is traceable who has the legal capacity, and is willing
+and fit, to carry out the duties of that office.
+
+54.2
+
+The truster may appoint a new protector.
+
+54.3
+
+But if the truster has died or is incapable then, except in so far as the
+trust deed, expressly or by implication, provides otherwise, the trustees may
+appoint a new protector in the circumstances mentioned in  paragraphs (a)  and
+(b)  of  subsection (1) .
+
+54.4
+
+The making of an appointment under  subsection (2)  or  (3)  removes any
+existing protector from office.
+
+54.5
+
+This section  applies irrespective of when the trust was created.
+
+##### Application to protectors of certain provisions relating to removal from office and to decision making
+
+55
+
+55.1
+
+Sections 7 ,  13  and  14  apply in relation to a protector and the duties of
+a protector as they apply in relation to a trustee and the duties of a
+trustee.
+
+55.2
+
+This section  applies irrespective of when the trust was created.
+
+##### Resignation of protector
+
+56
+
+56.1
+
+A protector has power to resign office by notice in writing sent to the
+trustees.
+
+56.2
+
+The resignation takes effect on receipt of that notice.
+
+56.3
+
+But any resignation sent under  this section  in order to facilitate a breach
+of trust is of no effect.
+
+56.4
+
+This section  applies irrespective of when the trust was created.
+
+##### Liability for compliance with protector’s direction
+
+57
+
+57.1
+
+This section  applies where a trustee complies timeously and correctly with a
+protector’s direction (being a direction which the protector has power to
+give).
+
+57.2
+
+In so far as such compliance comprises the breach of a duty owed to a
+beneficiary or third party then, except in so far as the trust deed expressly
+provides otherwise, the protector, and not the trustee, incurs personal
+liability for any resultant harm.
+
+57.3
+
+This section  applies irrespective of when the trust was created.
+
+#### Powers of the court
+
+##### Variation and termination of private trusts
+
+###### Arrangements to vary or terminate a trust etc.
+
+58
+
+58.1
+
+This section  applies to an arrangement which—
+
+58.1.a
+
+varies the purposes of a trust,
+
+58.1.b
+
+terminates a trust, whether in whole or in part,
+
+58.1.c
+
+varies the powers of trustees to manage or administer trust property, or
+
+58.1.d
+
+creates a new trust in relation to all or part of trust property.
+
+58.2
+
+The arrangement may be made if agreement or approval is given in accordance
+with  section 59  by or on behalf of each beneficiary, and of each potential
+beneficiary, of the trust in question.
+
+58.3
+
+This section  is subject to  section 62 .
+
+58.4
+
+This section —
+
+58.4.a
+
+applies irrespective of when the trust was created, but
+
+58.4.b
+
+does not apply as respects a private purpose trust or a public trust.
+
+###### Agreement or approval for purposes of 
+
+59
+
+59.1
+
+In  this section  “ agreement ” means agreement for the purposes of  section
+58 (2)  and “ approval ” means approval for those purposes.
+
+59.2
+
+Agreement may be given by a beneficiary if the beneficiary either—
+
+59.2.a
+
+has attained the age of 18 years and is capable, or
+
+59.2.b
+
+is not a natural person.
+
+59.3
+
+Approval may be given by a potential beneficiary if that person falls within
+subsection (7) .
+
+59.4
+
+Approval on behalf of a person who is incapable may be given by any person
+authorised to give it and having powers relating to the matter—
+
+59.4.a
+
+under the Adults with Incapacity (Scotland) Act 2000, or
+
+59.4.b
+
+under the law of a country other than Scotland.
+
+59.5
+
+Approval may be given by the court on behalf of—
+
+59.5.a
+
+a person who has not attained the age of 18 years,
+
+59.5.b
+
+a person who is incapable,
+
+59.5.c
+
+a potential beneficiary who does not fall within  subsection (7) ,
+
+59.5.d
+
+an unborn person, or
+
+59.5.e
+
+a person who is untraceable.
+
+59.6
+
+The powers of the court under  subsection (5)  are exercisable on the
+application of the trustees or of any of the beneficiaries.
+
+59.7
+
+A potential beneficiary falls within  this subsection  where—
+
+59.7.a
+
+the potential beneficiary either—
+
+59.7.a.i
+
+has attained the age of 18 years and is capable, or
+
+59.7.a.ii
+
+is not a natural person, and
+
+59.7.b
+
+the potential beneficiary would be of the specified description, or as the
+case may be a member of the specified class, if—
+
+59.7.b.i
+
+the future date were the date of the hearing of the application for approval,
+or
+
+59.7.b.ii
+
+the future event had happened at the date of that hearing.
+
+59.8
+
+In  subsection (7) (b) , “specified description”, “specified class”, “future
+date” and “future event” are to be construed by reference to the definition,
+in  section 81 (1) , of “potential beneficiary”.
+
+59.9
+
+This section —
+
+59.9.a
+
+applies irrespective of when the trust was created, but
+
+59.9.b
+
+does not apply as respects a private purpose trust or a public trust.
+
+###### Giving of approval by court
+
+60
+
+60.1
+
+The court is to give approval under  section 59 (5)  only if it is of the
+opinion that the carrying out of the arrangement in question would not be
+prejudicial to the person on whose behalf the approval is sought.
+
+60.2
+
+Except that  subsection (1)  does not apply where the approval is sought
+under—
+
+60.2.a
+
+paragraph (c)  of  section 59 (5)  on behalf of a potential beneficiary who
+cannot be ascertained if the court is satisfied that there is no reasonable
+likelihood of the event taking place which would make that person a
+beneficiary, or
+
+60.2.b
+
+paragraph (d)  of that section if the court is satisfied that there is no
+reasonable likelihood of the person on whose behalf the approval is sought
+being born.
+
+60.3
+
+In considering, for the purposes of  subsection (1) , whether the carrying out
+of an arrangement would be prejudicial to a person the court may have regard
+to—
+
+60.3.a
+
+any economic or other benefit which the person is likely to receive from the
+arrangement,
+
+60.3.b
+
+any economic or other detriment which the person is likely to sustain in
+consequence of the arrangement,
+
+60.3.c
+
+the welfare of any member of the person’s family, and
+
+60.3.d
+
+such other factors as seem to the court to be material.
+
+60.4
+
+This section —
+
+60.4.a
+
+applies irrespective of when the trust was created, but
+
+60.4.b
+
+does not apply as respects a private purpose trust or a public trust.
+
+###### Interests of negligible value
+
+61
+
+61.1
+
+This section  applies in relation to loss sustained by—
+
+61.1.a
+
+a beneficiary, or
+
+61.1.b
+
+a potential beneficiary,
+
+(either such person being referred to in  this section  as “B”) as a
+consequence of the making of an arrangement to which  section 58  applies.
+
+61.2
+
+The trustees are not liable to B for the loss if—
+
+61.2.a
+
+B was a beneficiary, or potential beneficiary, when the arrangement was made,
+
+61.2.b
+
+agreement by, or approval on behalf of, B to the arrangement (being agreement
+or approval in accordance with  section 59 ) was not given, and
+
+61.2.c
+
+prior to the arrangement being made the court, on the application of the
+trustees or of any of the beneficiaries, was satisfied either—
+
+61.2.c.i
+
+that B’s interest was so remote as to be of negligible value, or
+
+61.2.c.ii
+
+that, in the event of B becoming a beneficiary, B’s interest would be so
+remote as to be of negligible value.
+
+61.3
+
+This section —
+
+61.3.a
+
+applies irrespective of when the trust was created, but
+
+61.3.b
+
+does not apply as respects a private purpose trust or a public trust.
+
+###### Arrangements to vary or revoke alimentary purposes
+
+62
+
+62.1
+
+Where a beneficiary under a trust has entered into enjoyment of—
+
+62.1.a
+
+an alimentary liferent of, or
+
+62.1.b
+
+any alimentary income from,
+
+the trust property, or any part of the trust property, an arrangement to vary
+or revoke the alimentary purpose in question requires the authorisation of the
+court under  this section  as well as agreement or approval given in
+accordance with  section 59 .
+
+62.2
+
+The court may give authorisation under  this section  if it considers that the
+carrying out of the arrangement would be reasonable having regard to—
+
+62.2.a
+
+the income of the beneficiary from all sources, and
+
+62.2.b
+
+such other factors as seem to the court to be material.
+
+62.3
+
+The powers of the court under  this section  are exercisable on the
+application of the trustees or of any of the beneficiaries.
+
+62.4
+
+Subsection (1)  does not apply to an alimentary purpose created by a woman in
+her own favour prior to 24th July 1984.
+
+62.5
+
+In  this section , “ alimentary purpose ” means a trust purpose entitling the
+beneficiary to an alimentary liferent of, or alimentary income from, the trust
+property or any part of the trust property.
+
+62.6
+
+This section —
+
+62.6.a
+
+applies irrespective of when the trust was created, but
+
+62.6.b
+
+does not apply as respects a private purpose trust or a public trust.
+
+###### Views of persons under 18
+
+63
+
+63.1
+
+This section  applies where the court is considering whether—
+
+63.1.a
+
+to give, on behalf of a person who—
+
+63.1.a.i
+
+has not attained the age of 18 years, and
+
+63.1.a.ii
+
+is capable,
+
+approval under  section 59 (5)  to an arrangement, or
+
+63.1.b
+
+to authorise, under  section 62 , an arrangement in a case where the
+alimentary beneficiary is a person mentioned in  paragraph (a) .
+
+63.2
+
+Where the person has attained the age of 16 years but not that of 18 years,
+the court is to have regard to the person’s views in relation to the
+arrangement.
+
+63.3
+
+Where the person has not attained the age of 16 years, the court is to—
+
+63.3.a
+
+give the person an opportunity to express the person’s views in relation to
+the arrangement in—
+
+63.3.a.i
+
+the manner that the person prefers, or
+
+63.3.a.ii
+
+a manner that is suitable to the person if the person has not indicated a
+preference or it would not be reasonable in the circumstances to accommodate
+the person’s preference, and
+
+63.3.b
+
+have regard to any views expressed by the person, taking into account the
+person’s age and maturity.
+
+63.4
+
+But the court is not required to comply with  subsection (3)  if satisfied
+that the person is not able to form a view.
+
+63.5
+
+For the purpose of  subsection (4) , the person is to be presumed to be able
+to form a view unless the contrary is shown.
+
+63.6
+
+This section —
+
+63.6.a
+
+applies irrespective of when the trust was created, but
+
+63.6.b
+
+does not apply as respects a private purpose trust or a public trust.
+
+###### No requirement for agreement of truster
+
+64
+
+64.1
+
+An arrangement referred to in  section 58 (1)  or  62 (1)  may be made without
+the agreement of the truster unless that person is, other than by virtue of
+being the truster, a beneficiary or potential beneficiary of the trust.
+
+64.2
+
+This section —
+
+64.2.a
+
+applies irrespective of when the trust was created, but
+
+64.2.b
+
+does not apply as respects a private purpose trust or a public trust.
+
+##### Alteration of trust purposes
+
+###### Alteration of trust purposes on material change in circumstances
+
+65
+
+65.1
+
+The court may, if satisfied—
+
+65.1.a
+
+in the case of an inter vivos trust, that there has been a material change in
+circumstances since the trust was created (or that such a change is reasonably
+to be regarded as in prospect), or
+
+65.1.b
+
+in the case of a testamentary trust—
+
+65.1.b.i
+
+that there has been a material change in circumstances since the testamentary
+writing was executed (or that such a change is reasonably to be regarded as in
+prospect), and
+
+65.1.b.ii
+
+that the testator is dead,
+
+alter the trust purposes in so far as it is, in the opinion of the court
+expedient to do so to offset or counter the effect, or as the case may be the
+prospective effect, of the change in circumstances.
+
+65.2
+
+The power in subsection (1) is exercisable on the application of a person
+mentioned in subsection (9) in relation to any trust other than a commercial
+trust or a public trust.
+
+65.3
+
+Any other person mentioned in subsection (9) may oppose the application.
+
+65.4
+
+As respects an inter vivos trust, if the trust deed provides expressly that
+the purposes of the trust may not be altered by the court during (either or
+both)—
+
+65.4.a
+
+the lifetime of the truster,
+
+65.4.b
+
+such period of up to 25 years from the date of the creation of the trust (as
+may be specified in the deed),
+
+no application may be made under this section in contravention of that
+provision.
+
+65.5
+
+A provision in an inter vivos trust deed that provides expressly that the
+purposes of the trust may not be altered by the court for a period longer than
+one mentioned in subsection (4)(b) is to be read as specifying that the
+purposes may not by altered until (the later of)—
+
+65.5.a
+
+the death of the truster, or
+
+65.5.b
+
+a period of 25 years has elapsed since the date of the creation of the trust.
+
+65.6
+
+Subject to subsection (7), as respects a testamentary trust, if the trust deed
+provides expressly that the purposes of the trust may not be altered by the
+court during such period of up to 25 years from the date of death of the
+testator, no application may be made under this section in contravention of
+that provision.
+
+65.7
+
+The court may, if satisfied that there was a period between the change of
+circumstances mentioned in subsection (1)(b)(i) and the date of death, during
+which the testator (either or both)—
+
+65.7.a
+
+was incapable,
+
+65.7.b
+
+was unaware (or could not reasonably supposed to have been aware) of the
+change and its effect on the trust,
+
+determine that the period provided for in subsection (6) began to run, not
+from the date of death, but from the date of the change of circumstances or,
+if the court thinks fit, from the commencement of the period of incapacity or
+unawareness.
+
+65.8
+
+A provision in a testamentary trust deed that provides expressly that the
+purposes of the trust may not be altered by the court for a period longer than
+one mentioned in subsection (6) is to be read as specifying that the purposes
+may not by altered until a period of 25 years has elapsed since the date of
+death of the testator.
+
+65.9
+
+The persons are—
+
+65.9.a
+
+the trustees,
+
+65.9.b
+
+in the case of an inter vivos trust, the truster,
+
+65.9.c
+
+a descendant of the truster,
+
+65.9.d
+
+a beneficiary or potential beneficiary,
+
+65.9.e
+
+a descendant or ancestor of a beneficiary or potential beneficiary,
+
+65.9.f
+
+an appropriate person in relation to a beneficiary or potential beneficiary
+(see section 81(2)),
+
+65.9.g
+
+a judicial factor, and
+
+65.9.h
+
+unless the trust deed expressly or impliedly excludes the possibility—
+
+65.9.h.i
+
+a protector, and
+
+65.9.h.ii
+
+a supervisor.
+
+65.10
+
+Without prejudice to the generality of  subsection (1) , in the exercise of
+its power under that subsection the court—
+
+65.10.a
+
+is in particular to have regard—
+
+65.10.a.i
+
+to the intentions, or probable intentions, of the truster as they appear from
+the trust deed or testamentary writing and from such other evidence as is
+available to the court (except that if those intentions, or probable
+intentions, cannot be ascertained the court is instead to have regard to the
+probable intentions of a reasonable truster in the circumstances current when
+the power is exercised),
+
+65.10.a.ii
+
+to whether the beneficiaries consent to the alteration in question, and
+
+65.10.a.iii
+
+to the fairness of that alteration,
+
+65.10.b
+
+may bring the trust to an end whether in whole or in part, and
+
+65.10.c
+
+may make provision as regards vesting, or postponement of vesting, of the
+trust property.
+
+65.11
+
+For the purposes of  subsection (10) (a) , any intention, or probable
+intention, to exclude the exercise of the court’s powers under  subsection (1)
+may be disregarded.
+
+65.12
+
+In this section “ change in circumstances ” includes (without prejudice to the
+generality of the expression) a change in—
+
+65.12.a
+
+the nature or amount of the trust property,
+
+65.12.b
+
+the personal or financial circumstances of—
+
+65.12.b.i
+
+a member of the truster’s family, or
+
+65.12.b.ii
+
+any other person intended to be benefited by the trust, or
+
+65.12.c
+
+the tax regime.
+
+65.13
+
+In deciding, for the purposes of  this section , if a trust is a commercial
+trust, the court is in particular to have regard to whether—
+
+65.13.a
+
+the trust is set up under, or by virtue of, a contract (bilateral or
+multilateral) of a commercial nature, or
+
+65.13.b
+
+the truster has settled property into the trust for value.
+
+65.14
+
+For the purposes of  this section  “commercial trust”—
+
+65.14.a
+
+means a trust which—
+
+65.14.a.i
+
+forms part of a commercial arrangement, and
+
+65.14.a.ii
+
+is intended to further that arrangement, and
+
+65.14.b
+
+without prejudice to that generality, includes—
+
+65.14.b.i
+
+a life assurance policy,
+
+65.14.b.ii
+
+a unit trust or any other trust-based investment scheme, and
+
+65.14.b.iii
+
+a trust created under or comprised in a partnership agreement.
+
+65.15
+
+This section —
+
+65.15.a
+
+applies irrespective of when the trust was created, and
+
+65.15.b
+
+is without prejudice to  section 67 .
+
+##### Powers in relation to ex officio trustees
+
+###### Appointment by the court of a trustee to take the place of an ex officio trustee
+
+66
+
+66.1
+
+The court may, as regards any trust, on the application of an ex officio
+trustee appoint a person nominated by the applicant to be a trustee in place
+of the applicant if the court—
+
+66.1.a
+
+considers it expedient to do so for the administration of the trust, and
+
+66.1.b
+
+is satisfied that the power to make such a nomination is not, expressly or by
+implication, excluded by the trust deed.
+
+66.2
+
+The making of an appointment under  subsection (1)  removes the applicant from
+the office of trustee.
+
+66.3
+
+A person who, having been nominated under  subsection (1) , still holds the
+office of trustee as at the date mentioned in  subsection (4) , ceases to hold
+the office of trustee on that date.
+
+66.4
+
+The date referred to in  subsection (3)  is the date on which the nominator
+ceases to hold the office by virtue of which that person was an ex officio
+trustee when the nomination was made.
+
+66.5
+
+In  subsection (1) , the expression “in place of” is not to be construed as
+implying that the person appointed is to be in any way dependent upon, or
+under the direction of, the nominating trustee.
+
+66.6
+
+This section  applies irrespective of when the trust was created.
+
+###### Office supplying ex officio trustee
+
+67
+
+67.1
+
+Where the holder of an office specified in a trust deed is (in terms of the
+trust deed) eligible to be a trustee by virtue only of being the holder of
+that office, the court may remove the specification of the office from the
+trust deed on the application of the trustees.
+
+67.2
+
+Where the specified office is extant, an application under  subsection (1)
+may also be made by—
+
+67.2.a
+
+the holder, or
+
+67.2.b
+
+the body of which the holder is an officer.
+
+67.3
+
+If an application under  subsection (1)  seeks the specification of a
+different office in substitution for the specification removed, the court may
+make that substitution if satisfied either—
+
+67.3.a
+
+that the specification sought is more appropriate to the purposes of the trust
+than the specification removed, or
+
+67.3.b
+
+that the office removed is no longer extant.
+
+67.4
+
+This section  applies irrespective of when the trust was created.
+
+##### Application in respect of defective exercise of fiduciary power etc.
+
+###### Application in respect of defective exercise of fiduciary power etc.
+
+68
+
+68.1
+
+This section  applies where a relevant person—
+
+68.1.a
+
+considers that a trustee has taken a decision in purported exercise of a
+fiduciary power but that taking it was a defective exercise of the power, or
+
+68.1.b
+
+reasonably apprehends that a trustee is about to take a decision in purported
+exercise of a fiduciary power but that taking it would be a defective exercise
+of the power.
+
+68.2
+
+The relevant person may apply to the court for an appropriate remedy in
+respect of the decision taken or as the case may be of the decision which is
+about to be taken.
+
+68.3
+
+The grounds on which the court may grant such a remedy are—
+
+68.3.a
+
+that the trustee, in taking the decision, either has considered (or would be
+considering) the wrong question or has not considered (or would not be
+considering) the correct question,
+
+68.3.b
+
+that the trustee, in taking the decision, either has failed (or would be
+failing) to take a relevant consideration into account or has taken (or would
+be taking) an irrelevant consideration into account,
+
+68.3.c
+
+that taking the decision was (or would be) ultra vires,
+
+68.3.d
+
+that taking the decision was (or would be) fraud on a power,
+
+68.3.e
+
+that in taking the decision the trustee failed (or would be failing) to act
+honestly or in good faith,
+
+68.3.f
+
+where the application is made in respect of a decision mentioned in  paragraph
+(a)  of  subsection (1) —
+
+68.3.f.i
+
+that no reasonable person, properly instructed as to the facts and the law,
+could have come to the decision, or
+
+68.3.f.ii
+
+that in some other way the decision was perverse,
+
+68.3.g
+
+where the application is made in respect of a decision mentioned in  paragraph
+(a)  of  subsection (1) , that the decision would not have been taken but for
+the trustee being in error as to fact or law, and
+
+68.3.h
+
+where the application is made in respect of a decision mentioned in  paragraph
+(b)  of  subsection (1) , that to take the decision would be perverse.
+
+68.4
+
+Where the application is made in respect of a decision mentioned in  paragraph
+(a)  of  subsection (1) ,  paragraph (a)  of  subsection (3)  applies whether
+or not the trustee purported to consider the correct question.
+
+68.5
+
+For the purposes of  subsection (3) (g) , the error—
+
+68.5.a
+
+must relate to the factual or legal situation at the time the decision in
+question was taken, and
+
+68.5.b
+
+need not be as to the effect or consequence of that decision.
+
+68.6
+
+Nothing in this section limits the power of the court, when considering
+whether it is appropriate to grant a remedy on the ground described in
+subsection (3)(g), to take into account the purpose (or likely purpose) of the
+relevant person making the application (for example, that the application is
+being made wholly or mainly for the purpose of avoiding the tax consequences
+of the trustee’s decision).
+
+68.7
+
+In  this section —
+
+68.7.a
+
+“ appropriate remedy ” means—
+
+68.7.a.i
+
+where the application is made in respect of a decision mentioned in  paragraph
+(a)  of  subsection (1) , reduction (whether partial or full), rectification,
+or declarator, and
+
+68.7.a.ii
+
+where the application is made in respect of a decision mentioned in  paragraph
+(b)  of that subsection, interdict, and
+
+68.7.b
+
+“ relevant person ” means—
+
+68.7.b.i
+
+the truster, a trustee, a beneficiary or a potential beneficiary,
+
+68.7.b.ii
+
+any protector or supervisor, and
+
+68.7.b.iii
+
+any other person if that other person has a patrimonial interest in the
+exercise of the fiduciary power in question (or in its not being exercised).
+
+68.8
+
+This section  applies—
+
+68.8.a
+
+irrespective of when the trust was created, but
+
+68.8.b
+
+only as regards a decision taken (or, as the case may be, which it is
+reasonably apprehended will be taken) after the section comes into force.
+
+##### Directions relating to trust matters and the estates of deceased persons
+
+###### Applications in relation to trusts and to the estates of deceased persons
+
+69
+
+69.1
+
+Trustees, protectors or supervisors under a trust deed, or any other person
+with an interest in the trust property, may apply to the Court of Session for
+a direction on questions relating to—
+
+69.1.a
+
+the investment, distribution, management or administration of the trust
+estate, or
+
+69.1.b
+
+the exercise of any power vested in, or the performance of any duty imposed
+on, the trustees notwithstanding that such direction may affect contingent
+interests in the estate, whether of persons in existence at, or of persons who
+may be born after, the date of the direction.
+
+69.2
+
+An executor (nominate or dative) of a person who dies after the coming into
+force of this section may, whether or not there is a testamentary trust, apply
+to the Court of Session for a direction on questions relating to—
+
+69.2.a
+
+the investment, distribution, management or administration of the person’s
+estate,
+
+69.2.b
+
+the exercise of any power vested in, or the performance of any duty imposed
+on, the executor notwithstanding that such direction may affect contingent
+interests in the estate, whether of persons in existence at, or of persons who
+may be born after, the date of the direction.
+
+69.3
+
+In subsection (1)—
+
+      “ protector ” is to be construed in accordance with section 53(1)(a),
+and           “ supervisor ” is to be construed in accordance with section
+49(1).
+
+##### Expenses
+
+###### Expenses of litigation
+
+70
+
+70.1
+
+Subject to the following provisions of  this section , a trustee does not
+incur personal liability for the expenses of civil litigation to which the
+trust is party.
+
+70.2
+
+A trustee may be found personally liable, in whole or in part, for the
+expenses of civil litigation to which the trust is party if—
+
+70.2.a
+
+the litigation is, in the opinion of the court, unnecessary,
+
+70.2.b
+
+the litigation relates to the trustee’s opposing the appointment of a judicial
+factor to administer the trust in place of the trustee and the trustee is
+unsuccessful both—
+
+70.2.b.i
+
+in opposing the appointment, and
+
+70.2.b.ii
+
+as regards being removed from office,
+
+70.2.c
+
+the litigation relates to the trustee’s opposing the reduction of the trust
+deed and the trustee is unsuccessful in opposing the reduction,
+
+70.2.d
+
+the trustee has, by breach of duty, brought about the litigation,
+
+70.2.e
+
+the trustee is part of a minority of the body of trustees and that minority
+has, in the name of the trust, pursued the litigation—
+
+70.2.e.i
+
+without consulting such of the other trustees as are both capable and
+traceable, and
+
+70.2.e.ii
+
+unsuccessfully,
+
+70.2.f
+
+the trustee is part of a minority of the body of trustees and that minority
+has, in the name of the trust, defended the litigation—
+
+70.2.f.i
+
+without consulting such of the other trustees as are both capable and
+traceable, and
+
+70.2.f.ii
+
+without the defence being of any benefit to the trust, or
+
+70.2.g
+
+the trust property is (or is likely to be) insufficient to meet the expenses
+incurred.
+
+70.3
+
+Where, by virtue of  subsection (2) (a)  to  (f) , a trustee is found
+personally liable for the expenses of civil litigation to which the trust is
+party, the court may allow the trustee relief against the trust property if
+and in so far as the court considers it appropriate to do so.
+
+70.4
+
+Where a trust is party to an ongoing civil litigation the court may, on the
+application of a party, make a determination about the personal liability (or
+relief from such liability) of a trustee for expenses yet to be incurred.
+
+70.5
+
+This section  applies irrespective of when the trust was created.
+
+###### Expenses of application
+
+71
+
+71.1
+
+Any question of expenses in relation to an application under this Act is to be
+determined by the court.
+
+71.2
+
+Without prejudice to the generality of  subsection (1) , the court may, if it
+considers it reasonable to do so, direct that any such expenses be paid out of
+the trust property.
+
+##### Miscellaneous powers
+
+###### Authorisation to make payments on basis that an event has or has not occurred or will or will not occur
+
+72
+
+72.1
+
+The court may, on the application of one or more of the trustees or of any
+person with an interest in the trust property, grant an order authorising the
+trustees to make payments from the trust property on the basis that an event
+specified in the application—
+
+72.1.a
+
+has, or has not, occurred, or
+
+72.1.b
+
+will, or will not, occur.
+
+72.2
+
+An order under  subsection (1)  may be granted on such conditions as the court
+thinks fit to impose.
+
+72.3
+
+Should it be found that the basis on which the order was granted was untrue, a
+trustee who has acted in accordance with the order incurs no personal
+liability unless, in connection with the making of the application—
+
+72.3.a
+
+some relevant fact was concealed from the court—
+
+72.3.a.i
+
+by the trustee, or
+
+72.3.a.ii
+
+by some other person and the trustee knew, or ought to have known, of the
+concealment, or
+
+72.3.b
+
+there were fraudulent actings—
+
+72.3.b.i
+
+on the part of the trustee, or
+
+72.3.b.ii
+
+on the part of some other person and the trustee knew, or ought to have known,
+of those actings and that they were fraudulent.
+
+72.4
+
+This section  is without prejudice to any right of a beneficiary to recover
+trust property from a person to whom, by virtue of the order, a payment has
+been made or from any successor of such a person.
+
+72.5
+
+This section  applies irrespective of when the trust was created.
+
+###### Completion of title by beneficiary
+
+73
+
+73.1
+
+A beneficiary absolutely entitled to heritable or incorporeal moveable
+property, title to which has been taken in the name of a trustee who has died
+or become incapable without having executed a conveyance (or as the case may
+be an assignation) of the property, may apply to the court for authority to
+complete title to the property in the beneficiary’s own name.
+
+73.2
+
+The court may, on any such application, grant warrant for completing title to
+the property.
+
+73.3
+
+Any such warrant is effectual as a conveyance (or as the case may be as an
+assignation) of the property in favour of the beneficiary.
+
+73.4
+
+Reference in  subsections (1)  and  (3)  to a beneficiary includes reference
+to any person deriving right from a beneficiary.
+
+73.5
+
+This section  applies irrespective of when the trust was created.
+
+###### Warrant to vest corporeal moveable property in beneficiary where trustee has died or become incapable
+
+74
+
+74.1
+
+This section  applies where—
+
+74.1.a
+
+a trustee has died or become incapable vested in corporeal moveable property
+to which a beneficiary is absolutely entitled, but
+
+74.1.b
+
+delivery of the property to, or possession of the property by, the beneficiary
+is required for the property to vest in the beneficiary.
+
+74.2
+
+The court may, on the application of the beneficiary, grant warrant for the
+property to vest in the beneficiary.
+
+74.3
+
+Any such warrant is effectual to vest the property in the beneficiary, as at
+the date of the warrant, as if the beneficiary had taken delivery or
+possession of the property on that date.
+
+74.4
+
+Reference in  subsections (1)  to  (3)  to a beneficiary includes reference to
+any person deriving right from a beneficiary.
+
+74.5
+
+This section  applies irrespective of when the trust was created.
+
+###### Superintendence order as to investment and distribution of trust property
+
+75
+
+75.1
+
+The court may, on the application of one or more of the trustees, order the
+accountant of court to superintend the trustees’ administration of the trust
+insofar as that administration relates to—
+
+75.1.a
+
+the investment of trust property, and
+
+75.1.b
+
+the distribution of trust property among creditors and beneficiaries.
+
+75.2
+
+If the order (to be known as a “ superintendence order ”) is granted, the
+accountant of court—
+
+75.2.a
+
+must, annually, examine and audit the trustees’ accounts, and
+
+75.2.b
+
+may report to the court, and obtain the court’s directions, on any question
+which may arise with regard to the administration superintended.
+
+75.3
+
+This section  applies irrespective of when the trust was created.
+
+### Succession
+
+#### Effect of divorce, dissolution or annulment on special destination
+
+##### Effect of divorce, dissolution or annulment on special destination
+
+76
+
+In section 2(2) of the Succession (Scotland) Act 2016 (effect of divorce,
+dissolution or annulment on special destination), after “succession to” insert
+“A’s interest in” .
+
+#### Rights of succession to intestate estate
+
+##### Rights of succession to intestate estate
+
+77
+
+77.1
+
+In section 2(1) of the Succession (Scotland) Act 1964 (rights of succession to
+intestate estate)—
+
+77.1.a
+
+after paragraph (a) insert—
+
+77.1.a.ab
+
+where an intestate is survived by a husband, wife or civil partner, but is not
+survived by any prior relative, the surviving spouse or civil partner shall
+have right to the whole of the intestate estate;
+
+,
+
+77.1.b
+
+paragraph (e) is repealed.
+
+77.2
+
+This section does not apply as respects a death that occurred before the
+section comes into force.
+
+##### Application to court by survivor for provision on intestacy
+
+78
+
+In section 29(6) of the Family Law (Scotland) Act 2006 (application to court
+by survivor for provision on intestacy), for “6” substitute  “12” .
+
+### Miscellaneous and general
+
+#### Miscellaneous
+
+##### Amendment of Requirements of Writing (Scotland) Act 1995
+
+79
+
+79.1
+
+In section 7(7) of the Requirements of Writing (Scotland) Act 1995
+(subscription and signing), after “partnerships,” insert  “bodies of
+trustees,” .
+
+79.2
+
+In schedule 2 of that Act (subscription and signing: special cases), after
+paragraph 2 insert—
+
+########### Trusts
+
+79.2.2A
+
+79.2.2A.1
+
+Except where an enactment or the trust deed expressly provides otherwise,
+where a granter of a document executed after the commencement of  section 79
+of the Trusts and Succession (Scotland) Act 2024 is a body of trustees, the
+document is signed by that body if it is signed on the body’s behalf either by
+a majority of the trustees or by a person (whether or not one of the trustees)
+authorised to sign the document on the body’s behalf.
+
+79.2.2A.2
+
+Sub-paragraph (1) of this paragraph applies in relation to the signing of an
+alteration to a document as it applies in relation to the signing of a
+document.
+
+79.2.2A.3
+
+In this paragraph, “ trust ” has the meaning assigned to that expression by
+section 81 (1)  of that Act of 2024.
+
+.
+
+##### Amendment of Confirmation of Executors (Scotland) Act 1858
+
+80
+
+After section 6 of the Confirmation of Executors (Scotland) Act 1858, insert—
+
+######### Restrictions on appointment of executor dative
+
+80.6A
+
+80.6A.1
+
+This section applies where a sheriff is in receipt of a petition for the
+appointment of a person (“ P ”) as an executor dative in respect of the estate
+of a deceased person (“ D ”).
+
+80.6A.2
+
+The sheriff must refuse the petition if satisfied that P is a person falling
+within subsection (3).
+
+80.6A.3
+
+A person falls within this subsection if that person—
+
+80.6A.3.a
+
+is being prosecuted in Scotland for the murder or culpable homicide of D,
+
+80.6A.3.b
+
+has been convicted, whether before or after the coming into force of this
+section, in Scotland of such an offence as regards D,
+
+80.6A.3.c
+
+is being prosecuted in a jurisdiction outside Scotland for an offence which,
+in the opinion of the sheriff, is equivalent to the murder or culpable
+homicide of D, or
+
+80.6A.3.d
+
+has been convicted, whether before or after the coming into force of this
+section, in a jurisdiction outside Scotland of such an offence as regards D.
+
+80.6A.4
+
+For the purposes of subsection (3), a person is to be regarded as being
+prosecuted for an offence if—
+
+80.6A.4.a
+
+a prosecutor has initiated proceedings against the person in respect of the
+offence, and
+
+80.6A.4.b
+
+those proceedings have not been dismissed or resulted in the conviction or
+acquittal of the person in respect of the offence.
+
+80.6A.5
+
+If, despite subsection (1) or any rule of law to the contrary, a person
+falling within subsection (3) is appointed as an executor dative in respect of
+D’s estate—
+
+80.6A.5.a
+
+the person’s appointment as executor dative is not invalid by reason of the
+fact that the person falls within subsection (3), but
+
+80.6A.5.b
+
+the appointment does not prevent the removal of that person from office
+following the making of an application under section 7 of the Trusts and
+Succession (Scotland) Act 2024 (as read with section 8 of that Act) on the
+ground that the person is unfit to carry out the duties of a trustee.
+
+80.6A.6
+
+This section is without prejudice to any power of a sheriff to refuse a
+petition for the appointment of P in any case where—
+
+80.6A.6.a
+
+P does not fall within subsection (3), but
+
+80.6A.6.b
+
+P—
+
+80.6A.6.b.i
+
+has acted (or is suspected of having acted) in a manner that caused or
+contributed to the death of D, or
+
+80.6A.6.b.ii
+
+has otherwise been involved (or is suspected of having otherwise been
+involved) in the death of D.
+
+.
+
+#### General
+
+##### Interpretation
+
+81
+
+81.1
+
+In this Act, unless the context otherwise requires—
+
+      “ beneficiary ”, in relation to a trust, means a person having, whether
+directly or indirectly, a vested or contingent interest under the trust,
+“ the court ” means the Court of Session except that in  sections 1 ,  7 ,  8
+,  66 ,  67 ,  70 ,  71 ,  73  and  74  the expression includes the
+appropriate sheriff court,           “ guardian ” includes a person’s
+continuing attorney,           “ potential beneficiary ” means a person
+(whether or not an ascertained person) who—         is not a beneficiary, but
+may become a beneficiary on being, at a future date or on the happening of a
+future event, a person of some specified description or a member of some
+specified class of persons,                 “ private purpose trust ” is to be
+construed in accordance with  section 46 ,           “ protector ” is to be
+construed in accordance with  section 53 (1) (a) ,           “ supervisor ” is
+to be construed in accordance with  section 49 (1) ,           “ trust ” means
+any trust (whether or not constituted by deed or other writing, by or by
+virtue of Act of Parliament or of the Scottish Parliament, by Royal Charter,
+or by resolution of any corporation, public body or ecclesiastical body) but
+does not include any pension scheme established under a trust,           “
+trust deed ” means any—         deed or other writing,           enactment,
+Royal Charter, or           resolution of any corporation, public body or
+ecclesiastical body,         which constitutes any trust, and           “
+trustee ” means a trustee under any trust but includes an executor nominate
+and, except in  sections 3  and  5 , an executor dative.
+
+81.2
+
+In this Act, “ appropriate person ” means—
+
+81.2.a
+
+in relation to a beneficiary or, as the case may be, potential beneficiary,
+who has not attained the age of 16 years—
+
+81.2.a.i
+
+a parent or guardian who has the parental responsibility or parental right to
+act as that person’s legal representative under section 1(1)(d) or 2(1)(d) of
+the Children (Scotland) Act 1995 (“ the 1995 Act ”),
+
+81.2.a.ii
+
+a person in whom that parental responsibility or parental right is vested by
+virtue of section 11(2)(b) of the 1995 Act,
+
+81.2.a.iii
+
+a person having that parental responsibility or parental right by virtue of
+section 11(12) of the 1995 Act,
+
+81.2.a.iv
+
+a person in whom that parental responsibility or parental right is vested by
+virtue of a permanence order (as defined in section 80(2) of the Adoption and
+Children (Scotland) Act 2007),
+
+81.2.a.v
+
+a parent or guardian who has the right, in relation to the beneficiary or
+potential beneficiary, to act as that person’s legal representative, by virtue
+of having parental responsibility for that person under Part 1 of the Children
+Act 1989 (“ the 1989 Act ”),
+
+81.2.a.vi
+
+a person having that right, in relation to the beneficiary or potential
+beneficiary, by virtue of having parental responsibility for that person by
+virtue of—
+
+81.2.a.vi.A
+
+section 12(2) of the 1989 Act,
+
+81.2.a.vi.B
+
+section 14C of the 1989 Act, or
+
+81.2.a.vi.C
+
+section 25(3) of the Adoption and Children Act 2002,
+
+81.2.a.vii
+
+a parent or guardian who has that right, in relation to the beneficiary or
+potential beneficiary, by virtue of having parental responsibility for that
+person under Part 2 or Part 15 of the Children (Northern Ireland) Order 1995 (
+S.I. 1995/755 ) (“ the 1995 Order ”),
+
+81.2.a.viii
+
+a person having that right, in relation to the beneficiary or potential
+beneficiary, by virtue of having parental responsibility for that person under
+Article 12(2) of the 1995 Order, or
+
+81.2.b
+
+in relation to a beneficiary or, as the case may be, potential beneficiary,
+who is incapable, that person’s guardian.
+
+81.3
+
+In the definition of “the court” in  subsection (1) , “ the appropriate
+sheriff court ” means—
+
+81.3.a
+
+where the sole trustee is, or a majority of the trustees are, habitually
+resident in a particular sheriffdom—
+
+81.3.a.i
+
+a sheriff court of that sheriffdom, or
+
+81.3.a.ii
+
+where a majority of the trustees consent, a sheriff court of any other
+sheriffdom in which at least one of the trustees is habitually resident, or
+
+81.3.b
+
+where  paragraph (a)  is not applicable, the sheriff court at Edinburgh.
+
+81.4
+
+In the definition of “guardian” in  subsection (1) , “ continuing attorney ”
+is to be construed in accordance with section 15(2) of the Adults with
+Incapacity (Scotland) Act 2000 (creation of continuing power of attorney).
+
+##### Power to amend jurisdiction in relation to trusts
+
+82
+
+82.1
+
+The Scottish Ministers may by regulations make provision conferring on or
+removing from the Court of Session or, as the case may be, the appropriate
+sheriff court, power to decide particular types of cases relating to trusts
+under this Act.
+
+82.2
+
+In particular, the Scottish Ministers may—
+
+82.2.a
+
+make provision modifying section 81 in so far as it relates to the definitions
+of “the court” and “ the appropriate sheriff court ” for the purposes of this
+Act, and
+
+82.2.b
+
+make such incidental, supplementary or consequential provision (including
+provision modifying this Act or another enactment) relating to the
+jurisdiction of the Court of Session or the appropriate sheriff court as they
+consider appropriate for the purposes of giving full effect to the conferral
+or removal of a power.
+
+82.3
+
+Regulations under this section may only be made with the consent of the Lord
+President of the Court of Session.
+
+82.4
+
+Regulations under this section are subject to the affirmative procedure.
+
+##### Meaning of incapable and related expressions
+
+83
+
+83.1
+
+In this Act—
+
+83.1.a
+
+“ incapable ” (and related expressions) is to be construed in accordance with
+section 1(6) of the Adults with Incapacity (Scotland) Act 2000 (fundamental
+definitions), but with the modification that the reference in the closing
+words of that definition to any provision of that Act is to be read as to any
+provision of this Act,
+
+83.1.b
+
+a reference to a person having legal capacity is a reference to a person who—
+
+83.1.b.i
+
+is not incapable, and
+
+83.1.b.ii
+
+does not otherwise lack legal capacity (for example, by reason of non-age).
+
+83.2
+
+The Scottish Ministers may by regulations—
+
+83.2.a
+
+make provision modifying the effect of the definition of “incapable” in the
+Adults with Incapacity (Scotland) Act 2000 as it applies for the purposes of
+this Act by virtue of this section, or
+
+83.2.b
+
+amend this section to replace or modify the definition of “ incapable ” for
+the purposes of this Act.
+
+83.3
+
+Regulations under this section are subject to the affirmative procedure.
+
+##### Persons who are untraceable
+
+84
+
+For the purposes of  sections 1 (1) (b) ,  2 (1) ,  5 (5) (a) (i) ,  7 (1) (e)
+,  14 (2) (c) ,  44 (1) ,  49 (5) (b) ,  53 (3) (g) (v) ,  54 (1) (b) ,  59
+(5) (e) ,  70 (2) (e) (i)  and  70 (2) (f) (i)  (and without prejudice to the
+generality of those sections) a person is to be regarded as untraceable if—
+
+84.a
+
+the person has not been traced, and
+
+84.b
+
+in the case of—
+
+84.b.i
+
+section 1 (1) (b) ,  7 (1) (e) ,  49 (5) (b) ,  53 (3) (g) (v) ,  59 (5) (e) ,
+70 (2) (e) (i)  or  70 (2) (f) (i)  the court is satisfied that reasonable
+steps have been taken to trace the person,
+
+84.b.ii
+
+section 2 (1) , the truster is so satisfied,
+
+84.b.iii
+
+section 5 (5) (a) (i) ,  14 (2) (c)  or  44 (1) , every trustee who is both
+capable and has been traced is so satisfied, or
+
+84.b.iv
+
+section 54 (1) (b) , the truster is so satisfied (or if the truster is not
+alive or is not capable, every trustee who is both capable and has been traced
+is so satisfied).
+
+##### Modification of enactments
+
+85
+
+Schedule 1  makes provision for the modification of enactments.
+
+##### Ancillary provision
+
+86
+
+86.1
+
+The Scottish Ministers may by regulations make any incidental, supplementary,
+consequential, transitional, transitory or saving provision they consider
+appropriate for the purposes of, in connection with or for giving full effect
+to this Act.
+
+86.2
+
+Regulations under this section may—
+
+86.2.a
+
+make different provision for different purposes,
+
+86.2.b
+
+modify any enactment (including this Act).
+
+86.3
+
+Regulations under this section—
+
+86.3.a
+
+are subject to the affirmative procedure if they add to, replace or omit any
+part of the text of an Act, and
+
+86.3.b
+
+are otherwise subject to the negative procedure.
+
+##### Repeals
+
+87
+
+The enactments mentioned in  schedule 2  are repealed to the extent mentioned
+in the second column of that schedule.
+
+##### Commencement
+
+88
+
+88.1
+
+This section  and sections  86  and  89  come into force on the day after
+Royal Assent.
+
+88.2
+
+Sections 76  and  77  come into force at the end of the period of 3 months
+beginning with the day of Royal Assent.
+
+88.3
+
+The other provisions of this Act come into force on such day as the Scottish
+Ministers may by regulations appoint.
+
+88.4
+
+Regulations under  this section  may—
+
+88.4.a
+
+include transitional, transitory or saving provision,
+
+88.4.b
+
+make different provision for different purposes.
+
+##### Short title
+
+89
+
+The short title of this Act is the Trusts and Succession (Scotland) Act 2024.
+
+  Modification of enactments
+
+(introduced by  section 85 )
+
+##### Titles to Land Consolidation (Scotland) Act 1868
+
+1
+
+In section 24 of the Titles to Land Consolidation (Scotland) Act 1868 (mode of
+completing title by a judicial factor on a trust estate etc.), for “(Scotland)
+Act 1921” substitute  “and Succession (Scotland) Act 2024” .
+
+##### Judicial Factors (Scotland) Act 1880
+
+2
+
+In section 4 of the Judicial Factors (Scotland) Act 1880 (sheriff empowered to
+appoint judicial factors in small estates), in paragraph (1A)(a), for “have
+the same meaning as in sections 22 to 24 of the Trusts (Scotland) Act 1921”
+substitute  “be construed in accordance with  section 81 (3)  of the Trusts
+and Succession (Scotland) Act 2024 (taking any reference in  section 81 (3)
+to a trustee to include a reference to a judicial factor)” .
+
+##### National Parks and Access to the Countryside Act 1949
+
+3
+
+In section 16(5)(b) of the National Parks and Access to the Countryside Act
+1949 (agreements for management of nature reserves in Scotland and Wales)—
+
+3.a
+
+for “(Scotland) Act 1921” substitute  “and Succession (Scotland) Act 2024” ,
+and
+
+3.b
+
+for “section 4 thereof (which relates to the general powers of trustees)”
+substitute  “ Chapter 3  of  Part 1  of that Act (which relates to the powers
+and duties of trustees)” .
+
+##### Historic Buildings and Ancient Monuments Act 1953
+
+4
+
+In section 8(6) of the Historic Buildings and Ancient Monuments Act 1953
+(power of Minister to accept endowments of historic buildings), for
+“(Scotland) Act, 1921” substitute  “and Succession (Scotland) Act 2024” .
+
+##### Town and Country Planning (Scotland) Act 1959
+
+5
+
+In section 54(6) of the Town and Country Planning (Scotland) Act 1959
+(interpretation), for “(Scotland) Act, 1921” substitute  “and Succession
+(Scotland) Act 2024” .
+
+##### Trusts (Scotland) Act 1961
+
+6
+
+6.1
+
+The Trusts (Scotland) Act 1961 is amended as follows.
+
+6.2
+
+In section 2 (validity of certain transactions by trustees), after subsection
+(6) insert—
+
+6.2.7
+
+In this section, “ judicial factor ” means any person holding a judicial
+appointment as a factor on another person’s estate.
+
+.
+
+6.3
+
+In section 6(1) (interpretation), for “in the Act of 1921” substitute  “they
+had in the Act of 1921 immediately before the repeal, by the Trusts and
+Succession (Scotland) Act 2024, of the Act of 1921.” .
+
+##### Trustee Investments Act 1961
+
+7
+
+7.1
+
+The Trustee Investments Act 1961 is amended as follows.
+
+7.2
+
+In section 3(3)(a)(i) (as it applies by virtue of paragraph 4(3) of schedule 3
+of the Charities and Trustee Investment (Scotland) Act 2005), for “(Scotland)
+Act, 1921” substitute  “and Succession (Scotland) Act 2024” .
+
+7.3
+
+In section 6(7) (as it applies by virtue of paragraph 4(2) of schedule 3 of
+the Charities and Trustee Investment (Scotland) Act 2005), omit “Without
+prejudice to section eight of the Trustee Act, 1925, or section thirty of the
+Trusts (Scotland) Act 1921 (which relate to valuation, and the proportion of
+the value to be lent, where a trustee lends on the security of property)”.
+
+7.4
+
+In section 17(5) (short title, extent and construction), for “(Scotland) Act,
+1921” substitute  “and Succession (Scotland) Act 2024” .
+
+##### Land Compensation (Scotland) Act 1963
+
+8
+
+8.1
+
+The Land Compensation (Scotland) Act 1963 is amended as follows.
+
+8.2
+
+In section 45(5) (interpretation), for “has the same meaning as in the Trusts
+(Scotland) Act 1921” substitute  “and “trust” have the same meanings as in the
+Trusts and Succession (Scotland) Act 2024 except that in this subsection “
+trustee ” includes a judicial factor and “ trust ” includes a judicial
+factory.” .
+
+8.3
+
+In paragraph 7 of schedule 3 (as it applies by virtue of section 77 and
+paragraph 2 of schedule 16 of the Planning and Compensation Act 1991), for
+sub-paragraph (4) substitute—
+
+8.3.4
+
+In this paragraph, “ trustee ” and “ trust ” have the same meanings as in the
+Trusts and Succession (Scotland) Act 2024 except that in this paragraph “
+trustee ” includes a judicial factor and “ trust ” includes a judicial
+factory.
+
+.
+
+##### Countryside (Scotland) Act 1967
+
+9
+
+In section 49A(6) of the Countryside (Scotland) Act 1967 (management
+agreements in relation to natural heritage)—
+
+9.a
+
+for “(Scotland) Act 1921” substitute  “and Succession (Scotland) Act 2024” ,
+and
+
+9.b
+
+for “section 4 thereof (which relates to the general power of trustees)”
+substitute  “ Chapter 3  of  Part 1  of that Act (which relates to the powers
+and duties of trustees)” .
+
+##### Agriculture Act 1970
+
+10
+
+In section 33(3) of the Agriculture Act 1970 (miscellaneous amendments
+relating to amalgamations)—
+
+10.a
+
+for “(Scotland) Act 1921” substitute  “and Succession (Scotland) Act 2024” ,
+and
+
+10.b
+
+for “section 4 thereof (which relates to the general powers of trustees)”
+substitute  “ Chapter 3  of  Part 1  of that Act (which relates to the powers
+and duties of trustees)” .
+
+##### Prescription and Limitation (Scotland) Act 1973
+
+11
+
+In section 15(1) of the Prescription and Limitation (Scotland) Act 1973
+(interpretation of Part 1 of the Act), in the definition of “trustee”, for
+“(Scotland) Act 1921” substitute  “and Succession (Scotland) Act 2024” .
+
+##### National Health Service (Scotland) Act 1978
+
+12
+
+In paragraph 5 of schedule 7 of the National Health Service (Scotland) Act
+1978 (the Research Trust), for “subsection (1) of section 4 of the Trusts
+(Scotland) Act 1921” substitute  “ Chapter 3  of  Part 1  of the Trusts and
+Succession (Scotland) Act 2024” .
+
+##### Ancient Monuments and Archaeological Areas Act 1979
+
+13
+
+In section 18(5) of the Ancient Monuments and Archaeological Areas Act 1979
+(powers of limited owners for purposes of sections 12, 16 and 17 of that Act)—
+
+13.a
+
+for “(Scotland) Act 1921” substitute  “and Succession (Scotland) Act 2024” ,
+and
+
+13.b
+
+for “section 4 of that Act (general powers of trustees)” substitute  “ Chapter
+3  of  Part 1  of that Act (powers and duties of trustees)” .
+
+##### Married Women’s Policies of Assurance (Scotland) (Amendment) Act 1980
+
+14
+
+14.1
+
+The Married Women’s Policies of Assurance (Scotland) (Amendment) Act 1980 is
+amended as follows.
+
+14.2
+
+In section 2(1)(a) (powers of trustee under policy), for “(Scotland) Act 1921”
+substitute  “and Succession (Scotland) Act 2024” .
+
+14.3
+
+In section 4 (application of Trusts (Scotland) Act 1961)—
+
+14.3.a
+
+for “1 of the Trusts (Scotland) Act 1961” substitute  “ 59  of the Trusts and
+Succession (Scotland) Act 2024” , and
+
+14.3.b
+
+for “the said section 1” substitute  “ section 59  of that Act of 2024” .
+
+##### Civil Jurisdiction and Judgments Act 1982
+
+15
+
+In schedule 8 of the Civil Jurisdiction and Judgments Act 1982 (rules as to
+jurisdiction in Scotland), in rule 2(g), for “within the meaning of section
+24A of the Trusts (Scotland) Act 1921” substitute  “as defined in  section 81
+(3)  of the Trusts and Succession (Scotland) Act 2024” .
+
+##### Coal Mining Subsidence Act 1991
+
+16
+
+In schedule 2 of the Coal Mining Subsidence Act 1991 (recipients of
+depreciation payments: special cases), in paragraph 4(2)(a), for “(Scotland)
+Act 1921” substitute  “and Succession (Scotland) Act 2024” .
+
+##### Age of Legal Capacity (Scotland) Act 1991
+
+17
+
+In section 1(3) of the Age of Legal Capacity (Scotland) Act 1991 (age of legal
+capacity)—
+
+17.a
+
+after paragraph (d) insert—
+
+17.a.da
+
+confer on any person under the age of 18 years the legal capacity to give
+agreement to an arrangement mentioned in  section 58 (1)  of the Trusts and
+Succession (Scotland) Act 2024;
+
+, and
+
+17.b
+
+in paragraph (f)(iii), for “1 of the Trusts (Scotland) Act 1961” substitute
+“59(5) of the Trusts and Succession (Scotland) Act 2024” .
+
+##### Children (Scotland) Act 1995
+
+18
+
+In section 10 of the Children (Scotland) Act 1995 (obligations and rights of
+person administering child’s property)—
+
+18.a
+
+in subsection (1)(b), after “Act” insert  “and to subsection (1A)” , and
+
+18.b
+
+after subsection (1) insert—
+
+18.b.1A
+
+Subsection (1)(b) confers no entitlement to give approval on a child’s behalf
+to an arrangement to which  section 59  of the Trusts and Succession
+(Scotland) Act 2024 applies.
+
+.
+
+##### National Parks (Scotland) Act 2000
+
+19
+
+In section 15(4) of the National Parks (Scotland) Act 2000 (management
+agreements in relation to National Parks)—
+
+19.a
+
+for “(Scotland) Act  1921 (c.58) ” substitute  “and Succession (Scotland) Act
+2024” , and
+
+19.b
+
+for “section 4 of that Act (general powers of trustees)” substitute  “ Chapter
+3  of  Part 1  of that Act (powers and duties of trustees)” .
+
+##### Christmas Day and New Year’s Day Trading (Scotland) Act 2007
+
+20
+
+In section 7 of the Christmas Day and New Year’s Day Trading (Scotland) Act
+2007 (interpretation), in the definition of “trustee”, for “section 2 of the
+Trusts (Scotland) Act  1921 (c.58) ” substitute  “ section 81 (1)  of the
+Trusts and Succession (Scotland) Act 2024 but includes a judicial factor” .
+
+##### Public Appointments and Public Bodies etc. (Scotland) Act 2003
+
+21
+
+In section 7(1) of the Public Appointments and Public Bodies etc. (Scotland)
+Act 2003 (investment and borrowing)—
+
+21.a
+
+in paragraph (a), for “section 4(1) of the Trusts (Scotland) Act  1921 (c.58)
+” substitute  “ Chapter 3  of  Part 1  of the Trusts and Succession (Scotland)
+Act 2024” , and
+
+21.b
+
+in paragraph (b)—
+
+21.b.i
+
+for “(Scotland) Act 1921” substitute  “and Succession (Scotland) Act 2024” ,
+
+21.b.ii
+
+after “the Trustee Investments Act  1961 (c.62) ” insert  “(as read with
+paragraph 4(2) of schedule 3 of the Charities and Trustee Investment
+(Scotland) Act 2005)” , and
+
+21.b.iii
+
+in sub-paragraph (ii), after “that Act” insert  “(as read with the paragraph
+4(2) mentioned above)” .
+
+##### Charities and Trustee Investment (Scotland) Act 2005
+
+22
+
+In section 34(6) of the Charities and Trustee Investment (Scotland) Act 2005
+(powers of Court of Session), for “section 22 of the Trusts (Scotland) Act
+1921 (c.58)  applies as if the trustee had been appointed under that section”
+substitute  “the provisions of the Trusts and Succession (Scotland) Act 2024
+apply as if the trustee had been appointed under  section 1 (1) (b)  of that
+Act” .
+
+  Repeals
+
+(introduced by  section 87 )
+
+    Enactment Extent of repeal   Powers of Appointment Act 1874 The whole Act.
+Trusts (Scotland) Act 1921 The whole Act. Trusts (Scotland) Act 1961 Section
+1. Except in so far as relating to judicial factors, section 2(1) and (2).
+Sections 3 and 4. In section 6(1), the definition of “the court”. In section
+7(1), the words “, and this Act and the Act of 1921 may be cited together as
+the Trusts (Scotland) Acts 1921 and 1961”. Trustee Investments Act 1961 In
+section 7(1), paragraph (a). Sections 10 and 14. Succession (Scotland) Act
+1964 In section 20, the words “, and the Trusts (Scotland) Acts 1921 and 1961
+shall have effect as if any reference therein to a trustee included a
+reference to such an executor dative”. Age of Majority (Scotland) Act 1969 In
+Part 1 of schedule 1, the entry relating to section 1(2) of the Trusts
+(Scotland) Act 1961. Law Reform (Miscellaneous Provisions) (Scotland) Act 1980
+Section 13. Law Reform (Parent and Child) (Scotland) Act 1986 In schedule 1,
+paragraph 4. Age of Legal Capacity (Scotland) Act 1991 In schedule 1,
+paragraphs 25 and 27. Requirements of Writing (Scotland) Act 1995 In schedule
+4, paragraphs 29 and 30. Children (Scotland) Act 1995 In schedule 4, paragraph
+6. Charities and Trustee Investment (Scotland) Act 2005 Sections 93 to 95. In
+schedule 3, paragraphs 2 and 3. Land Registration etc. (Scotland) Act 2012 In
+schedule 5, paragraph 8. Succession (Scotland) Act 2016 Section 23.
+

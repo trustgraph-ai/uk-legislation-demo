@@ -1,0 +1,2151 @@
+Title: The Non-Domestic Rating (Chargeable Amounts) (England) Regulations 2022
+Date: 2024-09-12
+Description: The Local Government Finance Act 1988 (“the Act”) provides for non-domestic hereditaments to be revalued every five years. On a revaluation new non-domestic rating lists are compiled. The next compilation date is 1st April 2023.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/1403
+
+## The Non-Domestic Rating (Chargeable Amounts) (England) Regulations 2022
+
+    Rating And Valuation, England
+
+  Made   22nd December 2022
+
+  Coming into force in accordance with regulation 2
+
+      The Secretary of State, in exercise of the powers conferred by sections
+57A, 140(4) and 143(1) and (2) of the Local Government Finance Act 1988 ,
+makes the following Regulations, a draft of which was laid before and approved
+by a resolution of each House of Parliament in accordance with section 143(4)
+of that Act.
+
+### Preliminary
+
+#### Citation, extent and application
+
+1
+
+1.1
+
+These Regulations may be cited as the Non-Domestic Rating (Chargeable Amounts)
+(England) Regulations 2022.
+
+1.2
+
+These Regulations extend to England and Wales and apply in relation to England
+only.
+
+#### Commencement
+
+2
+
+2.1
+
+Regulation 25 (revocations) comes into force on 1st April 2023.
+
+2.2
+
+The remaining provisions come into force on the day after the day on which
+they are made.
+
+#### Interpretation
+
+3
+
+3.1
+
+In these Regulations—
+
+“ the Act ” means the Local Government Finance Act 1988; “ the Appeals
+Procedure Regulations ” means the Valuation Tribunal for England (Council Tax
+and Rating Appeals) (Procedure) Regulations 2009 ; “appropriate valuation
+officer”— in relation to a hereditament in respect of which regulations under
+section 53(1) of the Act (contents of central lists) are in force, means the
+central valuation officer; in relation to any other hereditament, means the
+valuation officer maintaining a local list in which the hereditament is, or
+would be, shown; “ central list ” means the list compiled and maintained in
+accordance with section 52 of the Act; “ creation day ” has the meaning given
+by paragraph 1 of the Schedule; “ defined hereditament ” has the meaning given
+by regulation 5; “ designated person ” means a person designated under section
+53(1) of the Act; ... ... “ list ” means a local list or the central list; “
+local list ” means a list compiled and maintained in accordance with section
+41 of the Act; “ material change of circumstances ”, in relation to a
+hereditament, means a change in any of the matters mentioned in paragraph 2(7)
+of Schedule 6 to the Act; “ relevant day ” has the meaning given by regulation
+4(2); “ relevant factor ” means— any matter mentioned in paragraph 2(7) of
+Schedule 6 to the Act, or the extent to which a hereditament is exempt from
+non-domestic rating; “ relevant period ” has the meaning given by regulation
+4(1); and “ relevant year ” has the meaning given by regulation 4(3).
+
+3.2
+
+A reference in these Regulations to the rateable value shown in the central
+list for a defined hereditament for a relevant day is taken to be a reference
+to—
+
+3.2.a
+
+if only one hereditament is shown in the central list for that day in relation
+to a designated person, the rateable value shown for that hereditament for
+that day;
+
+3.2.b
+
+if more than one hereditament is shown in the central list for that day in
+relation to a designated person, the rateable value certified by the
+appropriate valuation officer under regulation 22 in relation to that
+hereditament.
+
+3.3
+
+Subject to paragraph (4), a reference in these Regulations to the rateable
+value shown, or which would have been shown, in a list for a hereditament or
+against the name of a designated person for any day is taken to be a reference
+to the value found by applying the definition of “A” in paragraph 10(2) of
+Schedule 4ZA or paragraph 6(2) of Schedule 5A to the Act (as the case may be).
+
+3.4
+
+Paragraph (3) does not apply in relation to references to rateable value in
+the following provisions of these Regulations—
+
+3.4.a
+
+regulation 5;
+
+3.4.b
+
+paragraph 1(c) of the Schedule.
+
+#### Relevant period, relevant day and relevant year
+
+4
+
+4.1
+
+The relevant period in relation to which, in accordance with section 57A of
+the Act, these Regulations apply, is the period beginning on 1st April 2023
+and ending on 31st March  2026 .
+
+4.2
+
+A relevant day is a day falling within a relevant year.
+
+4.3
+
+A relevant year is a financial year beginning on 1st April 2023, 2024  or 2025
+.
+
+4.4
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4.5
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Defined hereditaments
+
+5
+
+5.1
+
+Subject to paragraph (3), as regards a relevant day, a hereditament is a
+defined hereditament if either of the following conditions are fulfilled—
+
+5.1.a
+
+the conditions in paragraph (2);
+
+5.1.b
+
+the conditions in paragraph 1 of the Schedule.
+
+5.2
+
+For the purposes of paragraph (1)(a), the conditions are that the hereditament
+is shown in a list for—
+
+5.2.a
+
+31st March 2023, with a rateable value greater than zero;
+
+5.2.b
+
+the relevant day, with a rateable value greater than zero; and
+
+5.2.c
+
+each day (if any) falling after 31st March 2023 and before the relevant day,
+with a rateable value greater than zero.
+
+5.3
+
+A reference in this regulation to the rateable value shown in the central list
+for a hereditament for 31st March 2023 is taken to be a reference to—
+
+5.3.a
+
+the rateable value shown for the hereditament for that date in the central
+list; or
+
+5.3.b
+
+the value certified by the appropriate valuation officer to be the rateable
+value which would have been shown in the central list for the hereditament for
+that date if that had been the only hereditament of the designated person
+shown in the central list for that date.
+
+5.4
+
+Where a hereditament or a class of hereditament shown in the central list in
+relation to a designated person  is a defined hereditament on 1st April 2023
+(“the original hereditament”), notwithstanding that on or after 31st March
+2023—
+
+5.4.a
+
+part of the original hereditament becomes a hereditament shown in a local
+list; or
+
+5.4.b
+
+the person ceases to occupy or, if it is unoccupied, own part of the original
+hereditament,
+
+the conditions in paragraph (2) or paragraphs 1(a), (b)(ii) and (c) of the
+Schedule are taken to be fulfilled as respects the whole of the original
+hereditament for so long as the person continues to be the designated person
+in relation to the original hereditament.
+
+#### Special authorities
+
+6
+
+6.1
+
+This regulation applies in relation to a defined hereditament which is shown
+in a local list for the area of a special authority  for  a  relevant year for
+which the non-domestic rating multiplier  set by the special authority is
+different from the non-domestic rating multiplier for the year.
+
+6.2
+
+Where this regulation applies and D SA  exceeds D then, subject to paragraphs
+(3), (5), (7), (9) and (11), to the result of the calculation of the
+chargeable amount for the chargeable day for the hereditament in accordance
+with regulation 12 and the Schedule, there is added the amount calculated by
+applying the formula—
+
+D SA - D × N C
+
+6.3
+
+Where paragraph (4) applies, paragraph (2) has effect as regards the
+hereditament for the day as if the reference in that paragraph to the formula—
+
+D SA - D × N C
+
+were a reference to—
+
+D SA - D × N C × 5
+
+6.4
+
+This paragraph applies where, on the chargeable day,   paragraph 2 of Schedule
+4ZA to the Act (charitable rate relief)   applies in relation to the
+hereditament.
+
+6.5
+
+Where paragraph (6) applies, paragraph (2) has effect as regards the
+hereditament for the chargeable day as if the reference in that paragraph to
+the formula—
+
+D SA - D × N C × E
+
+were a reference to—
+
+D S>A - D × N C × E
+
+6.6
+
+This paragraph applies where, on the chargeable day,   paragraph 4 of Schedule
+4ZA to   the Act (small business rate relief) applies in relation to the
+hereditament.
+
+6.7
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6.8
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6.9
+
+Where paragraph (10) applies, paragraph (2) has effect as regards the
+hereditament for the chargeable day as if the reference in that paragraph to
+the formula—
+
+D SA - D × N C
+
+were a reference to—
+
+D S A - D × N C × Z
+
+6.10
+
+This paragraph applies where, on the chargeable day—
+
+6.10.a
+
+the conditions in section 45(1) of the Act (unoccupied hereditaments:
+liability) are fulfilled as respects the hereditament; and
+
+6.10.b
+
+  regulations under paragraph 1(2)(a) of Schedule 4ZB to   the Act has effect
+in relation to the hereditament.
+
+6.11
+
+Where paragraph (12) applies, paragraph (2) has effect in relation to the
+hereditament for the day as if the amount calculated by applying the formula
+in that paragraph were zero.
+
+6.12
+
+This paragraph applies where, on the chargeable day, the chargeable amount for
+the hereditament would be zero under   paragraphs 6 (heat networks rate
+relief), 7 (public lavatories rate relief) or 8 (rural rate relief) of
+Schedule 4ZA, or paragraph 2 of Schedule 4ZB (charitable rate relief), to the
+Act .
+
+6.13
+
+Where this regulation applies and D SA  is less than D, then where the
+chargeable amount for the chargeable day for the hereditament is calculated in
+accordance with these Regulations, the chargeable amount is multiplied by the
+formula—
+
+D SA D
+
+6.14
+
+For the purposes of this regulation—
+
+D is the small business non-domestic rating multiplier for the relevant year
+in which the chargeable day falls; D SA  is the small business non-domestic
+rating multiplier of the special authority for the relevant year in which the
+chargeable day falls; C is the number of days in the relevant year; E is the
+amount prescribed   , or calculated in accordance with provision prescribed,
+under paragraph 10(6) of Schedule 4ZA to   the Act for the relevant year in
+which the relevant day falls; N is the rateable value shown for the
+hereditament in a local list for the relevant day; and Z is the number
+prescribed in   regulations under paragraph 3(9) of Schedule 4ZB to   the Act.
+
+### Chargeable amounts
+
+#### Notional chargeable amount 
+
+7
+
+7.1
+
+Subject to paragraphs (3) to (4), the notional chargeable amount for a defined
+hereditament for  a  relevant year is the amount found by applying the
+formula—
+
+A × D
+
+7.2
+
+For the purposes of this regulation—
+
+A is the rateable value shown in a list for the hereditament for 1st April
+2023; and D is the small business non-domestic rating multiplier for the
+relevant year.
+
+7.3
+
+Where regulation 16 (change in rateable value on 1st April 2023) applies,
+references in this regulation to rateable value have effect subject to the
+modifications made in paragraph (2) of that regulation.
+
+7.4
+
+For a hereditament to which the Schedule (splits and mergers) applies,
+paragraph 7 of that Schedule has effect for finding the notional chargeable
+amount.
+
+#### Base liability for 2023 - 24 for a defined hereditament
+
+8
+
+The base liability for a defined hereditament for the relevant year beginning
+on 1st April 2023 is found by applying the formula—
+
+        Y × Z               where—       Y is—       for a hereditament shown
+in a local list for 31st March 2023, the rateable value shown for the
+hereditament for that date in that list, and         for a hereditament shown
+in the central list for 31st March 2023, the rateable value shown for the
+hereditament for that date in the central list or the value certified by the
+appropriate valuation officer to be the rateable value which would have been
+shown in the central list for the hereditament for that date if that had been
+the only hereditament of the designated person shown in the central list for
+that date; and                            Z is the small business non-domestic
+rating multiplier for the financial year beginning on 1st April 2022.
+
+#### Base liability for  
+
+9
+
+9.1
+
+Subject to paragraph (2), the base liability for a defined hereditament for a
+relevant year beginning on 1st April 2024 or 1st April 2025 (“the year
+concerned”) is found by applying the formula—
+
+BL × AF where— BL is the base liability for the hereditament for the relevant
+year immediately preceding the year concerned, and AF is the appropriate
+fraction, as found in accordance with regulation 10, for the relevant year
+immediately preceding the year concerned.
+
+9.2
+
+For a defined hereditament to which the Schedule (splits and mergers) applies,
+paragraphs 8 and 9 of that Schedule have effect for finding the base
+liability.
+
+#### Appropriate fraction
+
+10
+
+10.1
+
+Subject to paragraph (8), the appropriate fraction for a defined hereditament
+for   a   relevant year is found by applying the formula—
+
+X × Q 100
+
+10.2
+
+For the purposes of this regulation, where the notional chargeable amount for
+the hereditament for the relevant year exceeds the base liability for the
+hereditament for the year and the rateable value shown in a list for that
+hereditament for 1st April 2023 is more than £100,000, then—
+
+10.2.a
+
+for the relevant year beginning on 1st April 2023, X is 130;
+
+10.2.b
+
+for the relevant year beginning on 1st April 2024, X is 140; and
+
+10.2.c
+
+for the relevant year beginning on 1st April 2025, X is 155.
+
+10.3
+
+Paragraph (4) applies where the notional chargeable amount for the
+hereditament for the relevant year exceeds the base liability for the
+hereditament for the year, and—
+
+10.3.a
+
+the hereditament is shown in a local list in Greater London and the rateable
+value shown in that list for that hereditament for 1st April 2023 is more than
+£28,000 and less than or equal to £100,000; or
+
+10.3.b
+
+the hereditament is shown in the central list or in a local list outside
+Greater London and the rateable value shown in that list for that hereditament
+for 1st April 2023 is more than £20,000 and less than or equal to £100,000.
+
+10.4
+
+For the purposes of this regulation, for a hereditament mentioned in paragraph
+(3)—
+
+10.4.a
+
+for the relevant year beginning on 1st April 2023, X is 115;
+
+10.4.b
+
+for the relevant year beginning on 1st April 2024, X is 125; and
+
+10.4.c
+
+for the relevant year beginning on 1st April 2025, X is 140.
+
+10.5
+
+Paragraph (6) applies where the notional chargeable amount for the
+hereditament for the relevant year exceeds the base liability for the
+hereditament for the year, and—
+
+10.5.a
+
+the hereditament is shown in a local list in Greater London and the rateable
+value shown in that list for that hereditament for 1st April 2023 is less than
+or equal to £28,000; or
+
+10.5.b
+
+the hereditament is shown in the central list or in a local list outside
+Greater London and the rateable value shown in that list for that hereditament
+for 1st April 2023 is less than or equal to £20,000.
+
+10.6
+
+For the purposes of this regulation, for a hereditament mentioned in paragraph
+(5)—
+
+10.6.a
+
+for the relevant year beginning on 1st April 2023, X is 105;
+
+10.6.b
+
+for the relevant year beginning on 1st April 2024, X is 110; and
+
+10.6.c
+
+for the relevant year beginning on 1st April 2025, X is 125.
+
+10.7
+
+For the purposes of this regulation—
+
+10.7.a
+
+for the relevant year beginning on 1st April 2023, Q is 1;
+
+10.7.b
+
+for subsequent  ... relevant years in the relevant period, Q is the amount
+found by applying the formula—
+
+D 1 D 2 where— D(1) is the small business non-domestic rating multiplier for
+the relevant year, and D(2) is the small business non-domestic rating
+multiplier for the financial year which precedes the relevant year;
+
+10.7.c
+
+Q, if not a whole number, is calculated to three decimal places only.
+
+10.8
+
+For a defined hereditament to which one or more of the following provisions
+apply—
+
+10.8.a
+
+regulation 16 (change in rateable value on 1st April 2023),
+
+10.8.b
+
+paragraph 10 of the Schedule (rateable value: hereditament split or merged
+after 1st April 2023),
+
+this regulation has effect subject to the modifications made by that
+provision.
+
+#### Application of regulation 12
+
+11
+
+11.1
+
+Subject to paragraphs (3) and (4), regulation 12 applies to a defined
+hereditament for a relevant day which falls in  a  relevant year (“the day
+concerned”) if—
+
+11.1.a
+
+as regards the hereditament the day concerned is a chargeable day for which a
+chargeable amount would, but for these Regulations, fall to be determined
+under section 43, 45 or 54 of the Act; and
+
+11.1.b
+
+NCA is greater than BL and greater than (BL x AF).
+
+11.2
+
+For the purposes of paragraph (1)—
+
+11.2.a
+
+NCA is the notional chargeable amount for the hereditament for the relevant
+year within which the day concerned falls,
+
+11.2.b
+
+BL is the base liability for the hereditament for the relevant year within
+which the day concerned falls,
+
+11.2.c
+
+AF is the appropriate fraction for the hereditament for the relevant year
+within which the day concerned falls.
+
+11.3
+
+Regulation 12 does not apply where, on the day concerned, the chargeable
+amount for the defined hereditament is zero under   paragraphs 6 (heat
+networks rate relief), 7 (public lavatories rate relief) or 8 (rural rate
+relief) of Schedule 4ZA, or paragraph 2 of Schedule 4ZB (charitable rate
+relief), to the Act .
+
+11.4
+
+Regulation 12 does not apply where the Schedule (splits and mergers) applies
+to a defined hereditament in the year in which the creation day falls.
+
+#### Rules for determining chargeable amount ...
+
+12
+
+12.1
+
+Where this regulation applies to a hereditament shown in the central list, the
+chargeable amount as respects the designated person for a chargeable day which
+is a relevant day is calculated by applying the formula—
+
+A × B C + H
+
+instead of the formula in   paragraph 1(a) of Schedule 5A to   the Act.
+
+12.2
+
+Where this regulation applies to a hereditament shown in a local list, the
+chargeable amount for a chargeable day which is a relevant day is calculated
+under this regulation instead of under section 43 or 45 of the Act.
+
+12.3
+
+Subject to paragraphs (4), (6), (8) and (10), the chargeable amount for the
+chargeable day is calculated by applying the formula—
+
+BL × AF C + U
+
+12.4
+
+Where paragraph (5) applies, the chargeable amount for a chargeable day is
+found by dividing the amount calculated in accordance with paragraph (3) by 5.
+
+12.5
+
+This paragraph applies where, on the day concerned,   paragraph 2 of Schedule
+4ZA to the Act (charitable rate relief)   applies in relation to the
+hereditament.
+
+12.6
+
+Where paragraph (7) applies, the chargeable amount for a chargeable day is
+found by dividing the amount calculated in accordance with paragraph (3) by E.
+
+12.7
+
+This paragraph applies where, on the chargeable day,   paragraph 4 of Schedule
+4ZA to   the Act (small business rate relief) applies in relation to the
+hereditament.
+
+12.8
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+12.9
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+12.10
+
+Where paragraph (11) applies, the chargeable amount for a chargeable day is
+found by dividing the amount calculated in accordance with paragraph (3) by
+the number prescribed in   regulations under paragraph 3(9) of Schedule 4ZB to
+the Act (reduction in chargeable amount for unoccupied properties).
+
+12.11
+
+This paragraph applies where, on the chargeable day—
+
+12.11.a
+
+the conditions in section 45(1) of the Act (unoccupied property: liability)
+are fulfilled as respects the hereditament; and
+
+12.11.b
+
+  regulations under paragraph 1(2)(a) of Schedule 4ZB   has effect in relation
+to the hereditament.
+
+12.12
+
+For the purposes of this regulation—
+
+A is the amount certified by the appropriate valuation officer to be the
+portion of the rateable value shown for the chargeable day in the central list
+against the name of the designated person which is not attributable to
+hereditaments to which this regulation applies; B is the non-domestic rating
+multiplier for the relevant year in which the chargeable day falls; BL and AF
+have the meanings given by regulation 11(2); C is the number of days in the
+relevant year; D is the small business non-domestic rating multiplier for the
+relevant year in which the relevant day falls; E is the amount prescribed   ,
+or calculated in accordance with provision prescribed, under paragraph 10(6)
+of Schedule 4ZA to   the Act for the relevant year in which the relevant day
+falls; H is the aggregate for the chargeable day of the amounts found by
+applying the formula— BL × AF C + U to each hereditament to which this
+regulation applies shown for the day in the central list against the name of
+the designated person; N is the rateable value shown in a list for the
+hereditament for the day; and   U is— where “M” is “D” for the chargeable day
+pursuant to paragraph 10(9) of Schedule 4ZA or paragraph 6(8) of Schedule 5A
+to the Act, zero; where “M” is “B” for the chargeable day pursuant to
+paragraph 10(9) of Schedule 4ZA or paragraph 6(8) of Schedule 5A to the Act,
+the amount found by applying the formula— B - D × N C
+
+12.13
+
+For a hereditament to which one or more of the following provisions apply—
+
+12.13.a
+
+regulation 13 (change in rateable value after 1st April 2023);
+
+12.13.b
+
+regulation 16 (change in rateable value on 1st April 2023);
+
+12.13.c
+
+regulation 17 (partly-occupied hereditaments),
+
+this regulation has effect subject to the modifications made in that
+provision.
+
+#### Change in rateable value after 1st April 2023
+
+13
+
+13.1
+
+Paragraph (2) applies in respect of a defined hereditament in a case where
+regulation 12 applies and for a day after 1st April 2023 the rateable value
+shown in a local list for the hereditament for that day is greater than the
+rateable value shown for it for 1st April 2023.
+
+13.2
+
+Where this paragraph applies, regulation 12 has effect as regards the
+hereditament for the day as if the reference in that regulation to the
+formula—
+
+        BL × AF C + U
+
+were a reference to—
+
+        BL × AF + N - J × D C + U
+
+13.3
+
+Paragraph (4) applies in respect of a defined hereditament in a case where
+regulation 12 applies and for a day after 1st April 2023 the rateable value
+shown in a local list for the hereditament for that day is less than the
+rateable value shown for it for 1st April 2023.
+
+13.4
+
+Where this paragraph applies, regulation 12 has effect as regards the
+hereditament for the day as if the reference in that regulation to the
+formula—
+
+        BL × AF C + U
+
+were a reference to—
+
+        BL × AF × N C × J + U
+
+13.5
+
+For the purposes of the modifications made by paragraphs (2) and (4)—
+
+      J is the rateable value shown for the hereditament in a local list for
+1st April 2023, and           N is the rateable value shown for the
+hereditament in a local list for the day.
+
+13.6
+
+Paragraph (7) applies in respect of a defined hereditament in a case where
+regulation 12 applies and for a chargeable day after 1st April 2023 the
+rateable value shown in the central list for that hereditament for that day is
+different from the rateable value shown for 1st April 2023.
+
+13.7
+
+Where this paragraph applies, regulation 12 has effect as regards the defined
+hereditament for the chargeable day as if the reference to the formula—
+
+    ( A × B ) C + H
+
+were a reference to—
+
+    ( A × B ) C . + H + I + K
+
+13.8
+
+For the purposes of this paragraph and paragraph (7)—
+
+      H is the aggregate for a chargeable day of the amounts found by applying
+the formula—       ( B L × A F ) C + U       to each hereditament to which
+regulation 12 applies but to which paragraph (7) does not apply shown in the
+central list for that day in relation to the designated person;           I is
+the aggregate for the chargeable day of the amounts found by applying the
+formula—       ( B L × A F ) + ( ( N − J   ) × D ) C + U       to each
+hereditament to which paragraph (7) applies shown in the central list for that
+day in relation to the designated person and for which the rateable value
+shown for that day is greater than the rateable value shown for 1st April
+2023;           J is the rateable value shown in the central list for the
+hereditament for 1st April 2023;           K is the aggregate for the
+chargeable day of the chargeable amounts found by applying the formula—
+BL × AF × N C × J + U             to each hereditament to which paragraph (7)
+applies shown in the central list for that day in relation to the designated
+person and for which the rateable value shown for that day is less than the
+rateable value shown for 1st April 2023; and           N is the rateable value
+shown in the central list for the hereditament for the chargeable day.
+
+13.9
+
+For a hereditament to which one or more of the following provisions apply—
+
+13.9.a
+
+regulation 16 (change in rateable value on 1st April 2023);
+
+13.9.b
+
+paragraph 10 of the Schedule (rateable value: hereditament split or merged
+after 1st April 2023),
+
+this regulation has effect subject to the modifications made by that
+provision.
+
+#### Application of regulation 15
+
+14
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Rules for determining chargeable amounts: final relevant year
+
+15
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Change in rateable value on 1st April 2023
+
+16
+
+16.1
+
+This regulation applies where any circumstances regarding a relevant factor
+taken into account in determining the rateable value shown in a local list for
+a defined hereditament for 1st April 2023 differ from the circumstances
+regarding that factor existing on 31st March 2023, so that the rateable value
+shown for 1st April 2023 is different from that which would have been shown if
+the circumstances regarding that factor existing on 31st March 2023 continued
+to exist on 1st April 2023.
+
+16.2
+
+Where this regulation applies, the references in regulation 7 (notional
+chargeable amount  ) and  10 (appropriate fraction)  ... to a rateable value
+shown for 1st April 2023 are treated as references to the value certified by
+the appropriate valuation officer as the rateable value which would have been
+shown for that day if that value had fallen to be determined as regards that
+factor by reference to the circumstances existing on 31st March 2023.
+
+16.3
+
+Where this regulation and regulation 12 apply, regulation 13 (change in
+rateable value after 1st April 2023) has effect as if—
+
+16.3.a
+
+the references in paragraphs (1), (3) and (5) of regulation 13 to a rateable
+value shown for 1st April 2023 were references to the value certified by the
+appropriate valuation officer as the rateable value which would have been
+shown for that day if that value had fallen to be determined as regards the
+factor mentioned in paragraph (1) by reference to the circumstances existing
+on 31st March 2023, and
+
+16.3.b
+
+the references in paragraphs (1) and (3) of regulation 13 to the rateable
+value for a day after 1st April 2023 were treated as including a reference to
+the rateable value actually shown for 1st April 2023.
+
+#### Partly occupied hereditaments
+
+17
+
+17.1
+
+As regards a relevant day and a defined hereditament in relation to which an
+apportionment under section 44A of the Act (partly occupied hereditaments) is
+applicable, any chargeable amount for that day as respects the hereditament
+found in accordance with regulation 12 or the Schedule (as modified by any
+provision of these Regulations) is taken to be multiplied by A and divided by
+P.
+
+17.2
+
+In paragraph (1)—
+
+A is the amount found under   paragraph 10(2) of Schedule 4ZA to   of the Act,
+as substituted by section 44A(7) or (9) for the relevant day as respects the
+hereditament, and P is the rateable value shown for the hereditament under
+section 42(4) of the Act (contents of local lists) for the relevant day.
+
+### Miscellaneous
+
+#### Certificates for changes in rateable value: 1st April 2023
+
+18
+
+18.1
+
+This regulation applies where the appropriate valuation officer is of the view
+(whether following a request from the ratepayer in relation to the
+hereditament in question or not) that the rateable value shown in a list for a
+hereditament for 1st April 2023 is inaccurate on any grounds other than solely
+on the grounds of a material change of circumstances which occurred on that
+day.
+
+18.2
+
+Where this regulation applies the appropriate valuation officer must—
+
+18.2.a
+
+certify that this regulation applies; and
+
+18.2.b
+
+certify the rateable value that should have been shown in a list for the
+hereditament for 1st April 2023.
+
+18.3
+
+Where the appropriate valuation officer has certified a rateable value in
+accordance with paragraph (2), these Regulations have effect, as regards the
+days referred to in paragraph (4), (5)(a) or (5)(b), as if the certified
+rateable value was the value shown in a list for 1st April 2023.
+
+18.4
+
+Where the appropriate valuation officer alters the list for the purpose of
+correcting the inaccuracy mentioned in paragraph (1) or for that purpose
+combined with other purposes, the days are the day on which the alteration has
+effect and any subsequent relevant day.
+
+18.5
+
+Where the appropriate valuation officer has not altered the list for the
+purpose of correcting the inaccuracy mentioned in paragraph (1)—
+
+18.5.a
+
+if a request by the ratepayer has been made before a certificate under
+paragraph (2) is issued, the days are the day on which the certificate is
+requested and any subsequent relevant day;
+
+18.5.b
+
+if a request by the ratepayer has not been made before a certificate under
+paragraph (2) is issued, the days are the day on which the certificate under
+paragraph (2) is issued and any subsequent relevant day.
+
+#### Certificates for change in rateable value: 31st March 2023
+
+19
+
+19.1
+
+This regulation applies where the appropriate valuation officer is of the view
+(whether following a request from the ratepayer in relation to the
+hereditament in question or not) that the rateable value shown in a list for a
+hereditament for 31st March 2023 is inaccurate.
+
+19.2
+
+If this regulation applies, the appropriate valuation officer must—
+
+19.2.a
+
+certify that this regulation applies; and
+
+19.2.b
+
+certify the rateable value that should have been shown in a list for the
+hereditament for 31st March 2023.
+
+19.3
+
+These Regulations have effect, as regards the days referred to in paragraph
+(4), (5)(a) or (5)(b), as if the rateable value certified under paragraph (2)
+was the rateable value shown in a list for the hereditament for 31st March
+2023.
+
+19.4
+
+If the rateable value certified under paragraph (2) is lower that the rateable
+value shown in a list for the hereditament for 31st March 2023, the days are
+1st April 2023 and any subsequent relevant day.
+
+19.5
+
+If the rateable value certified under paragraph (2) is greater than the
+rateable value shown in a list for the hereditament for 31st March 2023 and—
+
+19.5.a
+
+a certificate under regulation 18 has been issued, the days are the days
+referred to in paragraph (4), (5)(a) or (5)(b) of that regulation;
+
+19.5.b
+
+no certificate under regulation 18 has been issued, the days are the day on
+which the certificate under paragraph (2) of this regulation is issued and any
+subsequent day.
+
+#### Certification: splits and mergers before 1st April 2023
+
+20
+
+20.1
+
+This regulation applies where—
+
+20.1.a
+
+on a day before 1st April 2023 a hereditament (“ new hereditament ”) comes
+into existence by virtue of—
+
+20.1.a.i
+
+property previously rated as a single hereditament becoming liable to be rated
+in parts;
+
+20.1.a.ii
+
+property previously rated in parts becoming liable to be rated as a single
+hereditament; or
+
+20.1.a.iii
+
+a hereditament or any part of a hereditament becoming part of a different
+hereditament; and
+
+20.1.b
+
+the new hereditament is first shown in a list on 1st April 2023.
+
+20.2
+
+If this regulation applies the appropriate valuation officer must—
+
+20.2.a
+
+certify that this regulation applies; and
+
+20.2.b
+
+certify the rateable value that should have been shown in a list for the new
+hereditament for 31st March 2023.
+
+20.3
+
+These Regulations have effect, in relation to 1st April 2023 and any
+subsequent relevant day, as if—
+
+20.3.a
+
+the new hereditament came into existence on 31st March 2023;
+
+20.3.b
+
+the new hereditament was shown in a list for that day; and
+
+20.3.c
+
+the rateable value certified under paragraph (2) was the value shown in the
+list for the hereditament for that day.
+
+#### Certification: splits and mergers in the central list on 1st April 2023
+
+21
+
+21.1
+
+This regulation applies where—
+
+21.1.a
+
+on 1st April 2023 a hereditament (“ new hereditament ”) comes into existence
+by virtue of—
+
+21.1.a.i
+
+property previously rated as a single hereditament becoming liable to be rated
+in parts;
+
+21.1.a.ii
+
+property previously rated in parts becoming liable to be rated as a single
+hereditament; or
+
+21.1.a.iii
+
+a hereditament or any part of a hereditament becoming part of a different
+hereditament;
+
+21.1.b
+
+the new hereditament is first shown in the central list on 1st April 2023;
+
+21.1.c
+
+a hereditament from which the new hereditament was formed in whole or in part
+(“old hereditament”) was shown in a local list or in the central list for 31st
+March 2023, with a rateable value greater than zero; and
+
+21.1.d
+
+the new hereditament comes into existence by virtue of regulations made under
+section 64(3) of the Act.
+
+21.2
+
+If this regulation applies the appropriate valuation officer must—
+
+21.2.a
+
+certify that this regulation applies; and
+
+21.2.b
+
+certify the rateable value that would have been shown in the central list for
+the new hereditament for 31st March 2023, had the new hereditament been shown
+in the list on that date.
+
+21.3
+
+These Regulations have effect, in relation to 1st April 2023 and any
+subsequent relevant day, as if—
+
+21.3.a
+
+the new hereditament came into existence on 31st March 2023;
+
+21.3.b
+
+the new hereditament was shown in the central list for that day; and
+
+21.3.c
+
+the rateable value certified under paragraph (2) was the value shown in the
+list for the hereditament for that day.
+
+21.4
+
+Where this regulation applies in relation to a hereditament, the Schedule
+below does not apply in relation to the hereditament.
+
+#### Certificates: central list
+
+22
+
+22.1
+
+If more than one defined hereditament is shown in the central list for a
+relevant day in relation to a designated person, the appropriate valuation
+officer must certify the rateable value which would have been the rateable
+value shown in the central list for the hereditament for that day if that had
+been the only hereditament shown in the central list for that day in relation
+to the designated person.
+
+22.2
+
+A certification under paragraph (1) in respect of a defined hereditament for a
+relevant day is taken to apply to each day in the period beginning on that day
+and ending on the day immediately preceding any further certification under
+this regulation in respect of that hereditament.
+
+#### Certificates: general
+
+23
+
+23.1
+
+The appropriate valuation officer (“the AVO”) must certify the rateable values
+which fall to be certified by the AVO under these Regulations as soon as
+practicable after the circumstances calling for the certification come to the
+AVO’s attention (whether by virtue of an application by the billing authority,
+the Secretary of State, the ratepayer or otherwise).
+
+23.2
+
+Where, whether by reason of a decision of the Valuation Tribunal for England
+or otherwise, the AVO forms the opinion that a certificate under these
+Regulations (other than such a certificate which has been confirmed on appeal)
+is inaccurate, the AVO must certify the rateable value which in the AVO’s
+opinion should be substituted for the rateable value originally certified.
+
+23.3
+
+A certificate under paragraph (2) has effect in place of the previous
+certificate, and any appeal against the previous certificate under regulation
+24 is taken to be withdrawn.
+
+23.4
+
+The AVO must—
+
+23.4.a
+
+notify the billing authority or, so far as it relates to a liability under
+section 54 of the Act, the Secretary of State of the effect of the
+certificate; and
+
+23.4.b
+
+send a copy of the certificate to the ratepayer.
+
+23.5
+
+The copy of a certificate sent to a ratepayer under paragraph (4) may be sent
+to—
+
+23.5.a
+
+the ratepayer’s last known address; or
+
+23.5.b
+
+the address of the hereditament.
+
+23.6
+
+The copy of a certificate sent to a ratepayer under paragraph (4) must be
+accompanied by—
+
+23.6.a
+
+a statement of the effect of regulation 24, and
+
+23.6.b
+
+for a value certified under paragraph (2), a statement of the effect of
+paragraph (3).
+
+23.7
+
+A certificate issued under these Regulations—
+
+23.7.a
+
+must be retained by the AVO who issued it; and
+
+23.7.b
+
+may be inspected by any person at any reasonable time.
+
+#### Appeals against certificates
+
+24
+
+24.1
+
+Where an interested person in relation to a hereditament in respect of which a
+value is certified by an appropriate valuation officer under these Regulations
+is dissatisfied with the value so certified, the interested person may appeal
+against the certificate in accordance with this regulation.
+
+24.2
+
+An appeal under paragraph (1) is made by serving a notice on the appropriate
+valuation officer stating the appellant’s reasons for being dissatisfied.
+
+24.3
+
+A notice mentioned in paragraph (2) must be served within the period of 6
+months beginning with the date on which the certificate was issued.
+
+24.4
+
+Unless—
+
+24.4.a
+
+the notice is withdrawn, or
+
+24.4.b
+
+the appropriate valuation officer and the appellant agree in writing as to the
+value which should be certified,
+
+the disagreement must be referred by that officer to the Valuation Tribunal
+for England as an appeal against that certification.
+
+24.5
+
+Parts 2, 4 and 5 of the Appeals Procedure Regulations apply in relation to an
+appeal under this regulation.
+
+24.6
+
+For the purposes of paragraph (1), “ interested person ” has the meaning given
+in the Appeals Procedure Regulations.
+
+#### Revocations
+
+25
+
+25.1
+
+Subject to paragraph 2, regulations 17 (certificates: general) and 18 (appeals
+against certificates) of the Non-Domestic Rating (Chargeable Amounts)
+(England) Regulations 2009 (“ the 2009 Regulations ”)  are revoked.
+
+25.2
+
+Regulation 17(6) of the 2009 Regulations continues to have effect in relation
+to certificates which are subject to an appeal under regulation 18 of those
+Regulations, where the circumstances mentioned in regulation 18(3)(a) or (b)
+do not apply and the appeal has not been finally disposed of by the Valuation
+Tribunal for England.
+
+      Signed by authority of the Secretary of State for Levelling Up, Housing
+and Communities       Scott   Parliamentary Under Secretary of State
+Department for Levelling Up, Housing and Communities     22nd December 2022
+
+  SPLITS AND MERGERS
+
+Regulations 3(1), 5(1)(b) and (4), 6(2), 7(4), 9(2), 10(8)(b), 11(4),
+13(9)(b), 14(3)(b), 17(1)
+
+##### Cases where this Schedule applies
+
+1
+
+This Schedule applies where—
+
+1.a
+
+on a day (“ the creation day ”) falling on or after 1st April 2023, a
+hereditament (“ new hereditament ”) comes into existence because—
+
+1.a.i
+
+property previously rated as a single hereditament becomes liable to be rated
+in parts;
+
+1.a.ii
+
+property previously rated in parts becomes liable to be rated as a single
+hereditament; or
+
+1.a.iii
+
+a hereditament or any part of a hereditament becomes part of a different
+hereditament; and
+
+1.b
+
+immediately before the creation day either—
+
+1.b.i
+
+a hereditament from which the new hereditament was formed in whole or in part
+(“old hereditament”) was a defined hereditament, or if the creation day is 1st
+April 2023, an old hereditament was shown in a local list for 31st March 2023,
+with a rateable value greater than zero; or
+
+1.b.ii
+
+each old hereditament from which the new hereditament was formed in whole or
+in part was shown in the central list for 31st March 2023; and
+
+1.c
+
+a rateable value, which is greater than zero, is shown for the new
+hereditament in a list for—
+
+1.c.i
+
+the creation day;
+
+1.c.ii
+
+the relevant day (if different from the creation day), and
+
+1.c.iii
+
+each day (if any) falling after the creation day and before the relevant day.
+
+##### Rules for determination of chargeable amount for new hereditament: splits on 1st April 2023
+
+2
+
+2.1
+
+Subject to paragraph 6 (changes in the value of new hereditament:  ...
+relevant year of creation), where—
+
+2.1.a
+
+this Schedule applies;
+
+2.1.b
+
+the creation day falls on 1st April 2023;
+
+2.1.c
+
+the new hereditament comprises or incorporates all or part of a single old
+hereditament; and
+
+2.1.d
+
+the chargeable amount for the chargeable day for the new hereditament is not
+zero under section 43(4I) (public lavatories: zero rating) or section 45A
+(unoccupied hereditaments: zero-rating) of the Act,
+
+the chargeable amount for a chargeable day in the year beginning on 1st April
+2023 must be calculated under the following provisions of this paragraph
+instead of under section 43, 45 or 54 of the Act.
+
+2.2
+
+Subject to sub-paragraphs (3), (5), (7) and (9), the chargeable amount for the
+chargeable day is calculated by applying the formula—
+
+R × J S
+
+2.3
+
+Where sub-paragraph (4) applies, the chargeable amount for the chargeable day
+is found by dividing the amount calculated in accordance with sub-paragraph
+(2) by 5.
+
+2.4
+
+This sub-paragraph applies where, on the chargeable day, section 43(6) of the
+Act (charities and registered community amateur sports clubs) applies in
+relation to the hereditament.
+
+2.5
+
+Where sub-paragraph (6) applies, the chargeable amount for the chargeable day
+is found by—
+
+2.5.a
+
+subtracting U (as defined in regulation 12) from the amount calculated in
+accordance with sub-paragraph (2); and
+
+2.5.b
+
+dividing the result by E.
+
+2.6
+
+This sub-paragraph applies where, on the chargeable day, section 43(4B) of the
+Act (small business rate relief) applies in relation to the hereditament.
+
+2.7
+
+Where sub-paragraph (8) applies, the chargeable amount for a chargeable day is
+found by dividing the amount calculated in accordance with sub-paragraph (2)
+by 2.
+
+2.8
+
+This sub-paragraph applies where, on the chargeable day, section 43(6B) of the
+Act (general stores etc in rural settlements) applies in relation to the
+hereditament.
+
+2.9
+
+Where sub-paragraph (10) applies, the chargeable amount for a chargeable day
+is found by dividing the amount calculated in accordance with sub-paragraph
+(2) by the number prescribed in an order by the Secretary of State under
+section 45(4A) of the Act (reduction in chargeable amount for unoccupied
+hereditaments).
+
+2.10
+
+This sub-paragraph applies where, on the chargeable day—
+
+2.10.a
+
+the conditions in section 45(1) of the Act (unoccupied hereditaments:
+liability) are fulfilled as respects the hereditament; and
+
+2.10.b
+
+an order by the Secretary of State under section 45(4A) has effect in relation
+to the hereditament.
+
+2.11
+
+For the purposes of this paragraph—
+
+E is the amount prescribed under section 44(9)(a) of the Act (occupied
+hereditaments: supplementary) for the year beginning on 1st April 2023; R is
+the amount which would have been the chargeable amount for the old
+hereditament for 1st April 2023 if— the old hereditament were shown in a list
+for 1st April 2023; its rateable value for that day were the value certified
+by the appropriate valuation officer to be the rateable value which would have
+been shown in that list for that day on the assumption that the relevant
+factors were as they were for 31st March 2023; the whole of the hereditament
+were occupied; sections 43(4B)(a) (small business rate relief), 43(6)
+(charities or registered community amateur sports clubs), 43(6B) (rural rate
+relief), 47 (discretionary relief) and 49(1) (reduction or remission of
+liability) of the Act did not apply to it for 1st April 2023; J is the
+rateable value shown in a list for the new hereditament for 1st April 2023;
+and S is the value certified by the appropriate valuation officer to be the
+rateable value which would have been shown in a list for the old hereditament
+for 1st April 2023 if that hereditament were shown in a list for that date on
+the assumption that the relevant factors were as they were for 31st March
+2023.
+
+##### Rules for determination of chargeable amount for new hereditament: mergers on 1st April 2023
+
+3
+
+3.1
+
+Subject to paragraph 6 (changes in the value of new hereditament:  ...
+relevant year of creation), where—
+
+3.1.a
+
+this Schedule applies;
+
+3.1.b
+
+the creation day falls on 1st April 2023;
+
+3.1.c
+
+the new hereditament comprises or incorporates more than one, or parts of more
+than one, old hereditament; and
+
+3.1.d
+
+the chargeable amount for the chargeable day for the new hereditament is not
+zero under section 43(4I) (public lavatories: zero rating) or section 45A
+(unoccupied hereditaments: zero rating) of the Act,
+
+the chargeable amount for a chargeable day in the year beginning on 1st April
+2023 must be calculated under the following provisions of this paragraph
+instead of under section 43, 45 or 54 of the Act.
+
+3.2
+
+Subject to sub-paragraphs (3), (5), (7) and (9), the chargeable amount for the
+chargeable day is calculated by applying the formula—
+
+R × J S
+
+3.3
+
+Where sub-paragraph (4) applies, the chargeable amount for the chargeable day
+is found by dividing the amount calculated in accordance with sub-paragraph
+(2) by 5.
+
+3.4
+
+This sub-paragraph applies where, on the day concerned, section 43(6) of the
+Act (charities and registered community amateur sports clubs) applies in
+relation to the hereditament.
+
+3.5
+
+Where sub-paragraph (6) applies, the chargeable amount for the chargeable day
+is found by—
+
+3.5.a
+
+subtracting U (as defined in regulation 12) from the amount calculated in
+accordance with sub-paragraph (2); and
+
+3.5.b
+
+dividing the result by E.
+
+3.6
+
+This sub-paragraph applies where, on the day concerned, section 43(4B) of the
+Act (small business rate relief) applies in relation to the hereditament.
+
+3.7
+
+Where sub-paragraph (8) applies, the chargeable amount for a chargeable day is
+found by dividing the amount calculated in accordance with sub-paragraph (2)
+by 2.
+
+3.8
+
+This sub-paragraph applies where, on the chargeable day, section 43(6B) of the
+Act (general stores etc in rural settlements) applies in relation to the
+hereditament.
+
+3.9
+
+Where sub-paragraph (10) applies, the chargeable amount for a chargeable day
+is found by dividing the amount calculated in accordance with sub-paragraph
+(2) by the number prescribed in an order by the Secretary of State under
+section 45(4A) of the Act (reduction in chargeable amount for unoccupied
+hereditaments).
+
+3.10
+
+This sub-paragraph applies where, on the chargeable day—
+
+3.10.a
+
+the conditions in section 45(1) of the Act (unoccupied hereditaments:
+liability) are fulfilled as respects the hereditament; and
+
+3.10.b
+
+an order by the Secretary of State under section 45(4A) has effect in relation
+to the hereditament.
+
+3.11
+
+For the purposes of this paragraph—
+
+E is the amount prescribed under section 44(9)(a) of the Act (occupied
+hereditaments: supplementary) for the year beginning on 1st April 2023; R is
+the total of the amounts which would have been the chargeable amounts for 1st
+April 2023 for the old hereditaments comprised or incorporated in the new
+hereditament if— each of the old hereditaments were shown in a list for 1st
+April 2023; the rateable value for each were the value certified by the
+appropriate valuation officer to be the rateable value which would have been
+shown in a list for that day on the assumption that the relevant factors were
+as they were for 31st March 2023; the whole of each of the old hereditaments
+were occupied; sections 43(4B)(a) (small business rate relief), 43(6)
+(charities or registered community amateur sports clubs), 43(6B) (general
+stores etc in rural settlements), 47 (discretionary relief) and 49(1) of the
+Act (reduction or remission of liability) did not apply to them for 1st April
+2023; J is the rateable value shown in a list for the new hereditament for the
+1st April 2023; and S is the total of the values certified by the appropriate
+valuation officer to be the rateable values which would have been shown in a
+list for 1st April 2023 for the old hereditaments incorporated or comprised in
+the new hereditament if they were shown in a list for that date on the
+assumption that the relevant factors were as they were for 31st March 2023.
+
+##### Rules for determining chargeable amount for new hereditament: splits after 1st April 2023 ...
+
+4
+
+4.1
+
+Subject to paragraph 6 (changes in the value of new hereditament:  ...
+relevant year of creation), where—
+
+4.1.a
+
+this Schedule applies;
+
+4.1.b
+
+the creation day falls on a day after 1st April 2023  ...;
+
+4.1.c
+
+the new hereditament comprises or incorporates all or part of a single old
+hereditament; and
+
+4.1.d
+
+the chargeable amount for the chargeable day for the new hereditament is not
+zero under   paragraph 6 (heat networks rate relief), 7 (public lavatories
+rate relief) or 8 (rural rate relief) of Schedule 4ZA, or paragraph 2 of
+Schedule 4ZB (charitable rate relief), to   the Act,
+
+the chargeable amount for a chargeable day which is a relevant day in the
+relevant year in which the creation day falls must be calculated under the
+following provisions of this paragraph instead of under section 43, 45 or 54
+of the Act.
+
+4.2
+
+Subject to sub-paragraphs (3), (5), (7) and (9), the chargeable amount for the
+chargeable day is calculated by applying the formula —
+
+R × J S - U
+
+4.3
+
+Where sub-paragraph (4) applies, the chargeable amount for the chargeable day
+is found by dividing the amount calculated in accordance with sub-paragraph
+(2) by 5.
+
+4.4
+
+This sub-paragraph applies where, on the chargeable day,   paragraph 2 of
+Schedule 4ZA to the Act (charitable rate relief)   applies in relation to the
+hereditament.
+
+4.5
+
+Where sub-paragraph (6) applies, the chargeable amount for a chargeable day is
+found by dividing the amount calculated in accordance with sub-paragraph (2)
+by E.
+
+4.6
+
+This sub-paragraph applies where, on the chargeable day,   paragraph 4 of
+Schedule 4ZA to   the Act (small business rate relief) applies in relation to
+the hereditament.
+
+4.7
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4.8
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4.9
+
+Where sub-paragraph (10) applies, the chargeable amount for a chargeable day
+is found by dividing the amount calculated in accordance with paragraph (2) by
+the number prescribed in   regulations under paragraph 3(9) of Schedule 4ZB to
+the Act (reduction in chargeable amount for unoccupied hereditaments).
+
+4.10
+
+This sub-paragraph applies where, on the chargeable day—
+
+4.10.a
+
+the conditions in section 45(1) of the Act (unoccupied hereditaments:
+liability) are fulfilled as respects the hereditament; and
+
+4.10.b
+
+  regulations under paragraph 1(2)(a) of Schedule 4ZB   has effect in relation
+to the hereditament.
+
+4.11
+
+For the purposes of this paragraph—
+
+  B, C, D and N have the meanings given in regulation 12(12);   E is the
+amount prescribed under   paragraph 10(6) of Schedule 4ZA to the Act   for the
+relevant year in which the relevant day falls; R is the amount which would
+have been the chargeable amount for the old hereditament for the creation day
+if— the old hereditament continued to exist and was shown in a list for that
+day; the rateable value for that day were the same as for the previous day;
+the whole of the old hereditament were occupied and sections 47 (discretionary
+relief) and 49(1) (reduction or remission of liability) of, and paragraphs 2
+(charitable rate relief) and 4 (small business rate relief) of Schedule 4ZA
+to, the Act did not apply to it for the creation day;     “M” were “B” for the
+chargeable day pursuant to paragraph 10(9) of Schedule 4ZA or paragraph 6(8)
+of Schedule 5A to the Act;   J is the rateable value shown in a list for the
+new hereditament for the creation day;  ... S is the rateable value shown in a
+list for the old hereditament for the day immediately before the creation day.
+U is— where “M” is “B” for the chargeable day pursuant to paragraph 10(9) of
+Schedule 4ZA or paragraph 6(8) of Schedule 5A to the Act, zero; where “M” is
+“D” for the chargeable day pursuant to paragraph 10(9) of Schedule 4ZA or
+paragraph 6(8) of Schedule 5A to the Act, the amount found by applying the
+formula— B - D × N C
+
+##### Rules for determining chargeable amount for new hereditament: mergers after 1st April 2023 
+
+5
+
+5.1
+
+Subject to paragraph 6 (changes in the value of new hereditament:  ...
+relevant year of creation), where—
+
+5.1.a
+
+this Schedule applies;
+
+5.1.b
+
+the creation day falls on a day after 1st April 2023  ...;
+
+5.1.c
+
+the new hereditament comprises or incorporates more than one, or parts of more
+than one, old hereditament; and
+
+5.1.d
+
+the chargeable amount for the chargeable day for the new hereditament is not
+zero under   paragraphs 6 (heat networks rate relief), 7 (public lavatories
+rate relief) or 8 (rural rate relief) of Schedule 4ZA, or paragraph 2 of
+Schedule 4ZB (charitable rate relief), to  the Act,
+
+the chargeable amount for a chargeable day which is a relevant day in the
+relevant year in which the creation day falls must be calculated under the
+following provisions of this paragraph instead of under section 43, 45 or 54
+of the Act.
+
+5.2
+
+Subject to sub-paragraphs (3), (5), (7) and (9), the chargeable amount for the
+chargeable day is calculated by applying the formula—
+
+R × J S - U
+
+5.3
+
+Where sub-paragraph (4) applies, the chargeable amount for the chargeable day
+is found by dividing the amount calculated in accordance with sub-paragraph
+(2) by 5.
+
+5.4
+
+This sub-paragraph applies where, on the day concerned,   paragraph 2 of
+Schedule 4ZA to the Act (charitable rate relief)   applies in relation to the
+hereditament.
+
+5.5
+
+Where sub-paragraph (6) applies, the chargeable amount for a chargeable day is
+found by dividing the amount calculated in accordance with sub-paragraph (2)
+by E.
+
+5.6
+
+This sub-paragraph applies where, on the chargeable day,   paragraph 4 of
+Schedule 4ZA to   the Act (small business rate relief) applies in relation to
+the hereditament.
+
+5.7
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5.8
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5.9
+
+Where sub-paragraph (10) applies, the chargeable amount for a chargeable day
+is found by dividing the amount calculated in accordance with sub-paragraph
+(2) by the number prescribed in   regulations under paragraph 3(9) of Schedule
+4ZB to   the Act (reduction in chargeable amount for unoccupied
+hereditaments).
+
+5.10
+
+This sub-paragraph applies where, on the chargeable day—
+
+5.10.a
+
+the conditions in section 45(1) of the Act (unoccupied hereditaments:
+liability) are fulfilled as respects the hereditament; and
+
+5.10.b
+
+  regulations under paragraph 1(2)(a) of Schedule 4ZB   has effect in relation
+to the hereditament.
+
+5.11
+
+For the purposes of this paragraph—
+
+  B, C, D and N have the meanings given in regulation 12(12);   E is the
+amount prescribed under   paragraph 10(6) of Schedule 4ZA to the Act   for the
+relevant year in which the relevant day falls; R is the total of the amounts
+which would have been chargeable amounts for the creation day for the old
+hereditaments incorporated or comprised in the new hereditament if— each of
+the old hereditaments was shown in a list for that day; each rateable value
+for that day was the same as for the previous day; the whole of each
+hereditament was occupied;   sections 47 (discretionary relief) and 49(1)
+(reduction or remission of liability) of, and paragraphs 2 (charitable rate
+relief) and 4 (small business rate relief) of Schedule 4ZA to, the Act did not
+apply to them for the creation day;     “M” were “B” for the chargeable day
+pursuant to paragraph 10(9) of Schedule 4ZA or paragraph 6(8) of Schedule 5A
+to the Act;   J is the rateable value shown in a list for the new hereditament
+for the creation day;  ... S is the total of the rateable values shown in a
+list for the day immediately before the creation day for the old hereditaments
+incorporated or comprised in the new hereditament.   U is— where “M” is “B”
+for the chargeable day pursuant to paragraph 10(9) of Schedule 4ZA or
+paragraph 6(8) of Schedule 5A to the Act, zero; where “M” is “D” for the
+chargeable day pursuant to paragraph 10(9) of Schedule 4ZA or paragraph 6(8)
+of Schedule 5A to the Act, the amount found by applying the formula— B - D × N
+C
+
+##### Changes in the value of new hereditament: 
+
+6
+
+6.1
+
+Sub-paragraph (2) applies in respect of a new hereditament in  a  relevant
+year in which the creation day falls where for a chargeable day after the
+creation day the rateable value shown in a list for the hereditament is
+greater than the rateable value shown for the creation day.
+
+6.2
+
+Where this sub-paragraph applies, paragraphs 2 to 5 have effect as regards the
+hereditament for the chargeable day as if the reference in those paragraphs
+to—
+
+R × J S
+
+were a reference to—
+
+R × J S + N - J × B C
+
+6.3
+
+Sub-paragraph (4) applies in respect of a new hereditament in  a  relevant
+year in which the creation day falls where for a chargeable day after the
+creation day the rateable value shown in a list for a hereditament is less
+than the rateable value shown in a list for the creation day.
+
+6.4
+
+Where this sub-paragraph applies, paragraphs 2 to 5 have effect as if the
+reference in those paragraphs to—
+
+R × J S
+
+were a reference to—
+
+R × J × N S × J
+
+6.5
+
+For the purposes of sub-paragraphs (2) and (4)—
+
+B is the non-domestic rating multiplier for the relevant year in which the
+creation day falls; C is the number of days in the relevant year in which the
+creation day falls; N is the rateable value shown in a list for the new
+hereditament for the chargeable day; and R, J and S have the same meanings
+given by paragraph 2, 3, 4 or 5.
+
+##### Notional chargeable amount for new hereditament 
+
+7
+
+7.1
+
+This paragraph applies for determining the notional chargeable amount for a
+new hereditament for  a  relevant year falling after the year in which the
+creation day falls.
+
+7.2
+
+Where this paragraph applies, the relevant notional chargeable amount is found
+by applying the formula—
+
+J × D where— J is the rateable value shown in a list for the new hereditament
+for the creation day; and D is the small business non-domestic rating
+multiplier for the relevant year.
+
+##### Base liability for the 
+
+8
+
+8.1
+
+This paragraph applies for determining the base liability for a new
+hereditament for  the  relevant year which falls immediately after the year in
+which the creation day falls.
+
+8.2
+
+Where this paragraph applies, the base liability for the hereditament is found
+by applying the formula—
+
+T × C - B - D × J
+
+8.3
+
+For the purposes of this paragraph—
+
+T is the amount (calculated in accordance with such of the preceding
+provisions of this Schedule as are applicable) which is or would have been the
+chargeable amount for the hereditament for the creation day if— the whole of
+the hereditament were occupied;   sections 47 (discretionary relief) and 49(1)
+(reduction or remission of liability) of, and paragraphs 2 (charitable rate
+relief), 4 (small business rate relief), 6 (heat networks rate relief) and 8
+(rural rate relief) of Schedule 4ZA to, the Act did not apply to it for the
+creation day;     “M” were “D” for the chargeable day pursuant to paragraph
+10(9) of Schedule 4ZA or paragraph 6(8) of Schedule 5A to the Act;   C is the
+number of days in the relevant year in which the creation day falls; B is the
+non-domestic rating multiplier for the relevant year; D is the small business
+non-domestic rating multiplier for the relevant year; and J is the rateable
+value shown in a list for the new hereditament for the creation day.
+
+##### Base liability for subsequent 
+
+9
+
+9.1
+
+This paragraph applies for determining the base liability for a hereditament
+to which this Schedule applies for any  ... relevant year falling after the
+relevant year referred to in paragraph 8(1).
+
+9.2
+
+Where this paragraph applies, the base liability for the hereditament is found
+by applying the formula—
+
+BL × AF
+
+9.3
+
+For the purposes of this paragraph, BL and AF have the meanings given by
+regulation 9.
+
+##### Rateable value: hereditament split or merged after 1st April 2023
+
+10
+
+10.1
+
+This paragraph applies if the creation day falls on a day after 1st April
+2023.
+
+10.2
+
+Subject to sub-paragraph (3) and ignoring any modifications made by regulation
+16 (change in rateable value on 1st April 2023)—
+
+10.2.a
+
+regulation 10 (appropriate fraction);  and
+
+10.2.b
+
+regulation 13 (change in rateable value after 1st April 2023);  ...
+
+10.2.c
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+have effect in relation to a new hereditament as if for references to 1st
+April 2023 there were substituted references to the creation day.
+
+10.3
+
+The modifications in sub-paragraph (2) do not apply in relation to the
+references to 1st April 2023 in regulation 10(2)(a), (4)(a), (6)(a) and
+(7)(a).
+
+## EXPLANATORY NOTE
+
+    (This note is not part of the Regulations)
+
+  The Local Government Finance Act 1988 (“ the Act ”) provides for non-
+domestic hereditaments to be revalued every five years. On a revaluation new
+non-domestic rating lists are compiled. The next compilation date is 1st April
+2023.
+
+  On each previous revaluation a transitional relief scheme has been used to
+protect ratepayers from large increases in their rates bills following a
+revaluation. These Regulations, which apply to England only, set out the rules
+for the transitional relief scheme which will apply to the 2023 non-domestic
+rating revaluation.
+
+  The effect of the transitional relief scheme is to assist ratepayers whose
+bills (in these Regulations, the “notional chargeable amount”) would have
+increased above a certain amount by phasing in these increases gradually over
+up to five years. In these Regulations the increase for those ratepayers are
+phased in over the years beginning on 1st April 2023, 2024 and 2025 (“the
+early relevant years”). It is also the effect of the scheme to add a
+supplement to the bills of some ratepayers for the year beginning on 1st April
+2027 (“the final relevant year”). The supplement in the final relevant year
+funds the phasing in of the increases in the early relevant years.
+
+  Part 2 of these Regulations makes provision for the determination of the
+substituted chargeable amount (which is the amount by reference to which a
+ratepayer’s liability is established) where the hereditament is shown in a
+local list or the central list (see sections 42 or 52 of the Act) and where
+the conditions in Part 2 are met.
+
+  Regulations 4 to 10 explain the terms used in determining whether the rules
+in Part 2 apply in place of the rules in section 43 (occupied hereditaments:
+liability), 45 (unoccupied hereditaments: liability) or 54 (central rating:
+liability) of the Act.
+
+  Regulation 11 specifies the cases where the rules contained in regulation 12
+apply for determining the chargeable amount in cases to which Part 2 applies
+in relation to early relevant years.
+
+  The test which determines when the rules contained in regulation 12 apply is
+where NCA (notional chargeable amount, as determined under regulation 7) for a
+hereditament is greater than BL (base liability, as determined under
+regulation 8 or 9) and also greater than BL multiplied by AF (appropriate
+fraction, as determined under regulation 10). This is the situation where, but
+for these Regulations, the ratepayer’s chargeable amount would have increased
+above a certain amount at the beginning of the relevant financial year.
+
+  Where this test is satisfied then the chargeable amount for the hereditament
+for each day will be–           BL × AF C + U
+
+  where C is the number of days in the year and U is a small business rate
+relief correction factor.
+
+  The AF is different for different classes of hereditament based on rateable
+values. Regulation 12 further provides that once the chargeable amount is
+calculated the mandatory reliefs (such as charitable relief and small business
+rate relief) are deducted.
+
+  Regulation 13 modifies the rules in relation to cases where, after 1st April
+2023 in an early relevant year, there has been a change to the rateable value
+of the hereditament.
+
+  Regulation 14 specifies the cases where the rules contained in regulation 15
+apply for determining the chargeable amount in cases to which Part 2 applies
+in relation to the final relevant year.
+
+  Regulation 15 provides that the chargeable amount for a hereditament to
+which that regulation applies is to be calculated using the formula set out in
+the regulation. This adds a supplement to the chargeable amount for defined
+hereditaments to which the regulation applies.
+
+  Regulation 16 modifies regulations 13 and 15 to apply in cases where there
+has been a change to the rateable value of the hereditament on 1st April 2023.
+
+  Regulation 17 modifies the rules in relation to cases where the hereditament
+is partly-occupied in an early relevant year.
+
+  Regulations 18 to 23 make provision requiring the appropriate valuation
+officer to certify rateable values for the purposes of the application of the
+rules in these Regulations. Regulation 24 provides for the procedure to be
+followed in the case of appeals against such certificates.
+
+  Regulation 25 revokes regulations 17 (certificates: general) and 18 (appeals
+against certificates) of the Non-Domestic Rating (Chargeable Amounts)
+(England) Regulations 2009 ( S.I. 2009/3343 ), which provide for the issuing
+of certificates and appeals against certification in relation to the 2010
+rating lists. This is subject to a saving provision for regulation 17(6),
+which requires the valuation officer to retain a certificate and permit
+inspection, where a certificate is subject to an ongoing appeal.
+
+  The Schedule makes provision, in place of Part 2 (chargeable amounts), for
+cases where a hereditament splits, or is merged with one or more other
+hereditaments, whether the split or merger occurs on or after 1st April 2023.
+

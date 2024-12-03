@@ -1,0 +1,1575 @@
+Title: The Disability Assistance for Working Age People (Transitional Provisions and Miscellaneous Amendment) (Scotland) Regulations 2022
+Date: 2024-05-29
+Description: These Regulations make provision to transfer individuals who meet the residence and presence conditions in the Disability Assistance for Working Age People (Scotland) Regulations 2022 (“the ADP Regulations”) and are awarded Disability Living Allowance to become entitled to Adult Disability Payment (Parts 2 and 3). These Regulations also make miscellaneous amendment to the Personal Independence Payment (Transitional Provisions) Regulations 2013, the Disability Assistance for Children and Young People (Scotland) Regulations 2021 and the ADP Regulations (Part 4).
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ssi/2022/217
+
+## The Disability Assistance for Working Age People (Transitional Provisions and Miscellaneous Amendment) (Scotland) Regulations 2022
+
+    Social Security
+
+  Made   21st June 2022
+
+  Coming into force   29th August 2022
+
+      The Scottish Ministers make the following Regulations in exercise of the
+powers conferred by sections 31(2), 36(2), 43(5), 52 and 95 of the Social
+Security (Scotland) Act 2018  and all other powers enabling them to do so.
+In accordance with section 96(2) of that Act, a draft of these Regulations has
+been laid before and approved by resolution of the Scottish Parliament.
+In accordance with section 97(2) of that Act, the Scottish Ministers have
+informed the Scottish Commission on Social Security of their proposals,
+notified the Scottish Parliament that they have done so and made their
+proposals publicly available by such means as they consider appropriate.
+
+### Introductory and interpretation
+
+#### Citation, commencement and extent
+
+1
+
+1.1
+
+These Regulations may be cited as the Disability Assistance for Working Age
+People (Transitional Provisions and Miscellaneous Amendment) (Scotland)
+Regulations 2022 and come into force on 29 August 2022.
+
+1.2
+
+These Regulations extend to Scotland only.
+
+#### Interpretation
+
+2
+
+In Parts 1, 2 and 3 of these Regulations—
+
+    “ the 2018 Act ” means the Social Security (Scotland) Act 2018,         “
+the ADP Regulations ” means the Disability Assistance for Working Age People
+(Scotland) Regulations 2022 ,         “ Adult Disability Payment ” means
+disability assistance for adults given in accordance with the ADP Regulations,
+“ date of transfer ” means the date when a transferring individual’s
+entitlement to Adult Disability Payment begins by virtue of a transfer
+determination,         “ daily living component of Adult Disability Payment ”
+has the same meaning as “ daily living component ” in regulation 2 of the ADP
+Regulations,         “ Disability Living Allowance ” means a disability living
+allowance under section 71 of the Social Security Contributions and Benefits
+Act 1992 ,         “ mobility component of Adult Disability Payment ” has the
+same meaning as “ mobility component ” in regulation 2 of the ADP Regulations,
+“ notice of intention to transfer ” means the notice required by regulation 3,
+“ relevant individual ” means an individual who—       has an award of
+Disability Living Allowance who appears to the Scottish Ministers to be likely
+to be eligible for Adult Disability Payment—     who has—     notified a
+change of circumstances in terms of regulation 32 of the Social Security
+(Claims and Payments) Regulations 1987 , or       made a claim for personal
+independence payment in terms of regulation 4 of the Personal Independence
+Payment (Transitional Provisions) Regulations 2013 ,             whose award
+is due to be renewed, or       who has requested to be transferred to Adult
+Disability Payment after 29 August 2022,             was aged 16 years old or
+older but under 65 years old on 8 April 2013,       is—     ordinarily
+resident in Scotland, or       someone to whom regulation 15(3) (residence and
+presence conditions), regulation 17(1) (serving members of Her Majesty’s
+forces, civil servants and their family members) or regulation 20(2) of the
+ADP Regulations (persons residing outside the United Kingdom to whom a
+relevant EU Regulation applies) applies,                   “ review
+determination ” means the determination required by regulation 12(1),
+“ transfer determination ” means the determination required by regulation
+4(1),         “ transferred individual ” means an individual whose entitlement
+to Adult Disability Payment is given under a transfer determination, and
+“ transferring individual ” means an individual on whom the Scottish Ministers
+have served a notice of intention to transfer in accordance with regulation 3.
+
+### Transfer to Adult Disability Payment
+
+#### Notice of intention to transfer to Adult Disability Payment
+
+3
+
+3.1
+
+The Scottish Ministers are to notify each relevant individual of their
+intention to transfer that individual’s entitlement to disability assistance
+from an entitlement to Disability Living Allowance to an entitlement to Adult
+Disability Payment.
+
+3.2
+
+Notice under paragraph (1) must—
+
+3.2.a
+
+be given in a way that leaves the relevant individual with a record of the
+information which they can show to, or otherwise share with, others, and
+
+3.2.b
+
+inform the relevant individual that—
+
+3.2.b.i
+
+they have been identified as a relevant individual for the purposes of
+transfer to Adult Disability Payment,
+
+3.2.b.ii
+
+the Scottish Ministers will make a determination, without receiving an
+application, to transfer the individual’s entitlement to Disability Living
+Allowance to an entitlement to Adult Disability Payment within a period to be
+specified within the notice (the individual will be notified when the transfer
+determination is made and informed about their award and start date of Adult
+Disability Payment),
+
+3.2.b.iii
+
+the individual’s award of Disability Living Allowance will cease—
+
+3.2.b.iii.aa
+
+immediately before the award of Adult Disability Payment begins, or
+
+3.2.b.iii.bb
+
+where a transferring individual was paid Disability Living Allowance one week
+in advance and 3 weekly in arrears, the date one week after the date their
+entitlement to Adult Disability Payment begins,
+
+3.2.b.iv
+
+except where the individual is subject to the special rules for terminal
+illness in regulation 9, the Scottish Ministers will make a review
+determination of the individual’s entitlement to Adult Disability Payment
+within 12 months of the date of the notice.
+
+3.3
+
+Where a notice under paragraph (1) is given—
+
+3.3.a
+
+to a transferring individual who, before a transfer determination is made
+ceases to be ordinarily resident in Scotland, or
+
+3.3.b
+
+in error where the individual is neither—
+
+3.3.b.i
+
+ordinarily resident in Scotland, nor
+
+3.3.b.ii
+
+an individual who is habitually resident in an EEA state, Gibraltar or
+Switzerland and has a genuine and sufficient link to Scotland,
+
+the duty on the Scottish Ministers in regulation 4(1) does not apply.
+
+3.4
+
+Where paragraph (3) applies in respect of an individual and a transfer
+determination has not been made, the Scottish Ministers are to notify the
+individual that the duty on the Scottish Ministers in regulation 4(1) does not
+apply.
+
+3.5
+
+In paragraph (3), “ sufficient ” means a link to Scotland that is sufficiently
+close that regulation 15(3) or 20(2) of the ADP Regulations would be
+incompatible with the applicable agreement mentioned in either of those
+regulations, if the relevant individual were not entitled to Adult Disability
+Payment.
+
+#### Transfer determination without application of entitlement to Adult Disability Payment
+
+4
+
+4.1
+
+The Scottish Ministers are to make a determination in respect of a
+transferring individual, without receiving an application, of that
+individual’s entitlement to Adult Disability Payment.
+
+4.2
+
+A transfer determination must be made on the assumption that the transferring
+individual—
+
+4.2.a
+
+other than Disability Living Allowance, is not entitled to any of the benefits
+set out in regulation 4, and
+
+4.2.b
+
+meets the residence and presence conditions set out in regulations 15 to 21,
+
+of the ADP Regulations.
+
+4.3
+
+Entitlement to Adult Disability Payment under a transfer determination begins
+on the date specified in the notice of determination given to the transferring
+individual in accordance with section 40 of the 2018 Act.
+
+4.4
+
+The transfer determination is to be made on the basis of—
+
+4.4.a
+
+such information as the Scottish Ministers have received from the Secretary of
+State for Work and Pensions in respect of the transferring individual’s
+entitlement to Disability Living Allowance, and
+
+4.4.b
+
+any other information available to the Scottish Ministers that appears to them
+to be relevant.
+
+4.5
+
+Subject to regulation 9, a transfer determination must be made in accordance
+with regulation 5.
+
+4.6
+
+The transfer determination does not need to be made on the basis of the
+information mentioned in paragraph (4)(b) where—
+
+4.6.a
+
+the individual—
+
+4.6.a.i
+
+before receiving notice under regulation 3(1), reported a change of
+circumstances to the Secretary of State for Work and Pensions, which has not
+been taken into account for the individual’s entitlement to Disability Living
+Allowance, or
+
+4.6.a.ii
+
+has, since receiving a notice under regulation 3(1), notified a change of
+circumstances to the Scottish Ministers, and
+
+4.6.b
+
+following the transfer determination, a review determination is to be made.
+
+4.7
+
+A determination under paragraph (1)—
+
+4.7.a
+
+may be made on the assumption that whatever can be discerned about the
+transferring individual’s circumstances from the information mentioned in
+paragraph (4) remains accurate on the date on which the determination is made,
+
+4.7.b
+
+must be made no later than the end of the period specified within the notice
+of intention to transfer unless the Scottish Ministers have—
+
+4.7.b.i
+
+good reason to extend that period,
+
+4.7.b.ii
+
+agreed the period for extension with the Secretary of State for Work and
+Pensions, and
+
+4.7.b.iii
+
+notified the transferring individual of the extension and the reason for it.
+
+#### Entitlement to Adult Disability Payment
+
+5
+
+5.1
+
+For the purposes of a transfer determination, an individual may be awarded the
+daily living component of Adult Disability Payment at the transitional rate
+specified in regulation 6(1) instead of being awarded that component at the
+standard or the enhanced rate in accordance with regulation 5(2) or (3) of the
+ADP Regulations.
+
+5.2
+
+A transfer determination is to be made on the basis that a transferring
+individual who had been entitled to the—
+
+5.2.a
+
+lowest rate of the care component of Disability Living Allowance immediately
+prior to the date of transfer is entitled to the transitional rate of the
+daily living component of Adult Disability Payment,
+
+5.2.b
+
+middle rate of the care component of Disability Living Allowance immediately
+prior to the date of transfer is entitled to the standard rate of the daily
+living component of Adult Disability Payment,
+
+5.2.c
+
+highest rate of the care component of Disability Living Allowance immediately
+prior to the date of transfer is entitled to the enhanced rate of the daily
+living component of Adult Disability Payment,
+
+5.2.d
+
+lower rate of the mobility component of Disability Living Allowance
+immediately prior to the date of transfer is entitled to the standard rate of
+the mobility component of Adult Disability Payment,
+
+5.2.e
+
+higher rate of the mobility component of Disability Living Allowance
+immediately prior to the date of transfer is entitled to the enhanced rate of
+the mobility component of Adult Disability Payment.
+
+5.3
+
+A transferring individual mentioned in paragraph (2)(e) is to be treated as
+though they have obtained the maximum points for each activity listed in
+column 1 of the table in Part 3 of schedule 1 of the ADP Regulations.
+
+#### Amount and form and time of payment of Adult Disability Payment
+
+6
+
+6.1
+
+The weekly rate of payment of the daily living component of Adult Disability
+Payment is, where the transferring individual is entitled to the transitional
+rate,  £28.70.
+
+6.2
+
+Where an award of Adult Disability Payment is made to a transferring
+individual, the Scottish Ministers are to make—
+
+6.2.a
+
+the first payment of assistance on a date specified in the notice of
+determination, and
+
+6.2.b
+
+any subsequent payment—
+
+6.2.b.i
+
+4 weekly in arrears,
+
+6.2.b.ii
+
+weekly in advance, or
+
+6.2.b.iii
+
+where the Scottish Ministers consider that it would be unjust not to do so, at
+such intervals as may be specified in the notice of determination.
+
+#### Effect of determination on entitlement to Disability Living Allowance
+
+7
+
+7.1
+
+Where a transfer determination is made that the transferring individual is
+entitled to Adult Disability Payment, the transferring individual’s
+entitlement to Disability Living Allowance will cease on—
+
+7.1.a
+
+the date their entitlement to Adult Disability Payment begins,
+
+7.1.b
+
+where a transferring individual was paid Disability Living Allowance one week
+in advance and 3 weekly in arrears, the date one week after the date their
+entitlement to Adult Disability Payment begins, or
+
+7.1.c
+
+where regulation 9 applies, the date their entitlement to Adult Disability
+Payment would have begun had regulation 9(2) not applied to set an earlier
+date of entitlement.
+
+7.2
+
+Where paragraph (1)(b) applies—
+
+7.2.a
+
+section 71(7) (disability living allowance) of the Social Security
+Contributions and Benefits Act 1992 , and
+
+7.2.b
+
+regulation 4(d) of the ADP Regulations (entitlement to other benefits),
+
+do not apply in respect of the first week of entitlement to Adult Disability
+Payment.
+
+#### Periods in respect of a re-determination request in relation to a transfer determination
+
+8
+
+8.1
+
+The period for requesting a re-determination of entitlement to Adult
+Disability Payment under section 41 of the 2018 Act (right to request re-
+determination) in relation to a transfer determination is 42 days beginning
+with the day that the individual is informed, in accordance with section 40 of
+the 2018 Act (notice of determination) of the right to make the request.
+
+8.2
+
+In relation to determining entitlement to Adult Disability Payment, the period
+allowed for re-determination in respect of a transfer determination (within
+the meaning of section 43 of the 2018 Act (duty to re-determine)) is as soon
+as reasonably practicable and not more than 182 days beginning with—
+
+8.2.a
+
+the day that the request for a re-determination is received by the Scottish
+Ministers,
+
+8.2.b
+
+in a case where the request for a re-determination is received by the Scottish
+Ministers outwith the period prescribed in paragraph (1), the day on which it
+is decided by the Scottish Ministers or (as the case may be) the First-tier
+Tribunal for Scotland that the individual in question has a good reason for
+not requesting a re-determination sooner, or
+
+8.2.c
+
+in a case where the Scottish Ministers have informed the individual of their
+decision that the request for re-determination was not made in such form as
+the Scottish Ministers require, the day on which it is subsequently decided by
+the First-tier Tribunal for Scotland that the individual in question has made
+the request in such form as the Scottish Ministers require.
+
+#### Special rules for terminal illness - exception to regulation 4(5)
+
+9
+
+9.1
+
+Where the Scottish Ministers have—
+
+9.1.a
+
+received information from the Secretary of State for Work and Pensions that
+the transferring individual is terminally ill in terms of section 72(5) of the
+Social Security Contributions and Benefits Act 1992  immediately before the
+date of transfer, or
+
+9.1.b
+
+not received information from the Secretary of State for Work and Pensions
+that the transferring individual is terminally ill in terms of section 72(5)
+of the Social Security Contributions and Benefits 1992, but become aware,
+before they have made a transfer determination, that a transferring individual
+has a terminal illness in terms of regulation 26(7) of the ADP Regulations,
+
+the transfer determination must be made on the basis that the transferring
+individual satisfies the conditions for the enhanced rate of both the daily
+living component and the mobility component of Adult Disability Payment.
+
+9.2
+
+Where paragraph (1) applies—
+
+9.2.a
+
+paragraphs (4) to (6) of regulation 26 of the ADP Regulations do not apply,
+and
+
+9.2.b
+
+the transferring individual’s entitlement to Adult Disability Payment will
+commence on whichever is the later of—
+
+9.2.b.i
+
+the date that the ADP Regulations came into force,
+
+9.2.b.ii
+
+the day that the clinical judgement was made in accordance with regulation
+26(7) of the ADP Regulations, or
+
+9.2.b.iii
+
+the day one year before the date of the transfer determination.
+
+#### Modification of the ADP Regulations: transferring individuals
+
+10
+
+The ADP Regulations apply to a transferring individual on and after the date
+of transfer with the following modifications—
+
+10.a
+
+regulation 3(3) (overview) is to be read as if—
+
+10.a.i
+
+for “2 weekly rates of the daily living component” there were substituted  “3
+weekly rates of the daily living component” , and
+
+10.a.ii
+
+after “(amount and form of Adult Disability Payment)” there were inserted
+“and regulation 6(1) of the Disability Assistance for Working Age People
+(Transitional Provisions and Miscellaneous Amendment) (Scotland) Regulations
+2022 ” ,
+
+10.b
+
+regulation 5 (daily living component) is to be read as if—
+
+10.b.i
+
+in paragraph (1) after “the enhanced rate” there were inserted  “or, where the
+individual is a transferring individual as defined in regulation 2 of the
+Disability Assistance for Working Age People (Transitional Provisions and
+Miscellaneous Amendment) (Scotland) Regulations 2022, at the transitional
+rate,
+
+10.b.ii
+
+after paragraph (3) there were inserted—
+
+10.b.ii.3A
+
+An individual is entitled to the daily living component at the transitional
+rate where regulation 5(2)(a) of the Disability Assistance for Working Age
+People (Transitional Provisions and Miscellaneous Amendment) (Scotland)
+Regulations 2022 applies to the individual.
+
+ and
+
+10.b.iii
+
+after paragraph (4)(c) there were inserted—
+
+10.b.iii.d
+
+“ the transitional rate ” in relation to the daily living component means the
+weekly rate of the daily living component set in regulation 6(1) of the
+Disability Assistance for Working Age People (Transitional Provisions and
+Miscellaneous Amendment) (Scotland) Regulations 2022
+
+,
+
+10.c
+
+regulation 32 (entitlement beginning while in alternative accommodation) is to
+be read as if—
+
+10.c.i
+
+in paragraph (1) after “begins” there are the words “in terms of these
+Regulations”, and
+
+10.c.ii
+
+in paragraph (2) for “that day” there were substituted  “the day on which the
+individual has been entitled to Adult Disability Payment for 28 days” ,
+
+10.d
+
+regulation 35 (when an application is to be treated as made and beginning of
+entitlement to assistance) is treated as omitted,
+
+10.e
+
+regulation 36 (time of payment) is treated as omitted,
+
+10.f
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+10.g
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+10.h
+
+regulation 54 (periods in respect of a re-determination request) is treated as
+omitted in relation to a request for a re-determination in respect of a
+transfer determination,
+
+10.i
+
+where regulation 9 of these Regulations applies, for the period between the
+date when entitlement to Adult Disability Payment begins and the date of the
+transfer determination, regulation 4 (entitlement to other benefits) is
+treated as omitted.
+
+#### Appointees
+
+11
+
+11.1
+
+A person appointed by the Secretary of State for Work and Pensions under
+regulation 33 of the Social Security (Claims and Payments) Regulations 1987
+(persons unable to act) to receive Disability Living Allowance on behalf of a
+transferring individual is to be treated on and after the date of transfer as
+though appointed by the Scottish Ministers to act on behalf of that
+transferring individual under section 85B of the 2018 Act .
+
+11.2
+
+As soon as reasonably practicable after the date of transfer, the Scottish
+Ministers must—
+
+11.2.a
+
+consider whether the conditions for making an appointment in respect of the
+transferring individual are met (having regard to section 85B(3) of the 2018
+Act),
+
+11.2.b
+
+consider whether to terminate the appointment that is treated as having been
+made by virtue of sub-paragraph (1) and terminate it if they consider it
+appropriate, and
+
+11.2.c
+
+if they have terminated an appointment in pursuance of head (b), appoint under
+section 85B of the 2018 Act another person to act on the transferring
+individual’s behalf if they consider it appropriate to do so.
+
+11.3
+
+The duty in paragraph (2) does not apply where the Scottish Ministers have
+already appointed the person mentioned in paragraph (1) to act on behalf of
+that transferring individual under section 85B of the 2018 Act.
+
+### Review of entitlement to Adult Disability Payment
+
+#### Review determination without application of entitlement to Adult Disability Payment
+
+12
+
+12.1
+
+The Scottish Ministers are to make a determination in respect of a transferred
+individual, without receiving an application, of that individual’s entitlement
+to Adult Disability Payment within the period of 12 months beginning with the
+date of that individual’s notice of intention to transfer.
+
+12.2
+
+Paragraph (1) does not apply—
+
+12.2.a
+
+to transferred individuals to whom regulation 9 applies, or
+
+12.2.b
+
+where a transferred individual has requested a re-determination under section
+41 of the 2018 Act, or made an appeal under section 46 of the 2018 Act, in
+relation to the transfer determination.
+
+12.3
+
+Subject to regulations 15 (when an increase in level of entitlement takes
+effect) and 16 (when a decrease in level or cessation of entitlement takes
+effect), entitlement to Adult Disability Payment under a determination under
+paragraph (1) begins on the date specified in the notice of determination
+given to the transferred individual in accordance with section 40 of the 2018
+Act.
+
+12.4
+
+The determination under paragraph (1) is to be made on the basis of any
+information that—
+
+12.4.a
+
+the Scottish Ministers have received from the Secretary of State for Work and
+Pensions in respect of the transferred individual’s entitlement to Disability
+Living Allowance,
+
+12.4.b
+
+the Scottish Ministers requested from the transferred individual, and
+
+12.4.c
+
+is available to the Scottish Ministers that appears to them to be relevant.
+
+#### Time of payment
+
+13
+
+Where an award of Adult Disability Payment is made under a review
+determination, the Scottish Ministers are to make—
+
+13.a
+
+the first payment of assistance on a date specified in the notice of
+determination, and
+
+13.b
+
+any subsequent payment—
+
+13.b.i
+
+4 weekly in arrears,
+
+13.b.ii
+
+weekly in advance, or
+
+13.b.iii
+
+where the Scottish Ministers consider that it would be unjust not to do so, at
+such intervals as may be specified in the notice of determination.
+
+#### Change of circumstances
+
+14
+
+Where the Scottish Ministers are making a review determination of an
+individual’s entitlement to Adult Disability Payment, where the individual,
+before a transfer determination is made, reported a change of circumstances to
+the Secretary of State for Work and Pensions which had not been taken into
+account for the individual’s entitlement to Disability Living Allowance, the
+change of circumstances—
+
+14.a
+
+is not to be regarded as relating to the individual’s entitlement to
+Disability Living Allowance, and
+
+14.b
+
+is to be taken into consideration by the Scottish Minister in making the
+review determination.
+
+#### When an increase in level of entitlement takes effect
+
+15
+
+15.1
+
+Where, as a result of a review determination, the amount of Adult Disability
+Payment payable in respect of an individual is increased, or their entitlement
+to a component is awarded, the change takes effect on the date of transfer.
+
+15.2
+
+Where an individual has previously received Adult Disability Payment for a
+period under a transfer determination and a review determination has
+subsequently been made that the same individual is entitled to Adult
+Disability Payment at a higher rate for that period, that individual is
+entitled to be paid the difference between the value of entitlement to Adult
+Disability Payment under the review determination and the value of Adult
+Disability Payment to which that individual was previously entitled under the
+transfer determination.
+
+15.3
+
+Where paragraph (1) applies, regulation 45 of the ADP Regulations does not
+apply.
+
+#### When a decrease in level or cessation of entitlement takes effect
+
+16
+
+16.1
+
+                              Where an individual’s entitlement to Adult
+Disability Payment is determined in the review determination to be at a lower
+rate than, or the same rate as awarded by, the transfer determination,
+entitlement under the review determination will take effect on the day that
+the Scottish Ministers make the review determination.
+
+16.2
+
+Where paragraph (1) applies, regulation 46 of the ADP Regulations does not
+apply.
+
+### Miscellaneous amendments
+
+#### Amendment of the Personal Independence Payment (Transitional Provisions) Regulations 2013
+
+17
+
+17.1
+
+The Personal Independence Payment (Transitional Provisions) Regulations 2013
+are amended in accordance with paragraphs (2) and (3).
+
+17.2
+
+Paragraphs (3), (3ZA), (3A), (4), (4A), (5), (5A), (5B) and (6) of regulation
+3 (invitations to persons entitled to disability living allowance to claim
+personal independence payment) are omitted.
+
+17.3
+
+Regulation 20(5) (notifications of change of circumstances) is omitted.
+
+#### Amendment of the Disability Assistance for Children and Young People (Scotland) Regulations 2021
+
+18
+
+18.1
+
+The Disability Assistance for Children and Young People (Scotland) Regulations
+2021  are amended in accordance with paragraphs (2) to (5).
+
+18.2
+
+In regulation 6 (interpretation – residence and presence conditions) omit the
+definitions of—
+
+18.2.a
+
+“civil partnership”, and
+
+18.2.b
+
+“person who is living with another person as if they were in a civil
+partnership”.
+
+18.3
+
+In regulation 28 (when an increase in level of entitlement takes effect),
+after paragraph (1)(c) insert—
+
+18.3.ca
+
+in the case of a determination made in accordance with regulation 31(a), where
+the period that an individual has been—
+
+18.3.ca.i
+
+for the purpose of regulation 17, resident in a care home,
+
+18.3.ca.ii
+
+for the purposes of regulation 18, in legal detention, or
+
+18.3.ca.iii
+
+for the purposes of regulation 20, resident in a care home or in legal
+detention,
+
+has come to an end, on the day on which the individual leaves that place, or
+
+.
+
+18.4
+
+In Part 1 of the schedule (short-term assistance), for paragraph 4 substitute—
+
+########## Reduction of payment of Child Disability Payment where short-term assistance is paid
+
+18.4.4
+
+Where an individual has received short-term assistance for a period and a
+determination is subsequently made that the individual is entitled to Child
+Disability Payment for the same period, any payment of Child Disability
+Payment to be made as a result of the subsequent determination for that
+period—
+
+18.4.4.a
+
+where the individual is to be paid Child Disability Payment at the same rate
+as or a lower rate than any short-term assistance and any Child Disability
+Payment already paid to that individual for that period, is to be reduced to
+£0,
+
+18.4.4.b
+
+in any other case, is to be reduced by any short-term assistance and any Child
+Disability Payment already paid to that individual for that period.
+
+.
+
+18.5
+
+In paragraph 13 (modification of these Regulations: transferring individuals)
+of Part 3 of the schedule (transfer to Child Disability Payment)—
+
+18.5.a
+
+in sub-paragraph (za) for “11(3)” substitute  “11(2), 11(3)” ,
+
+18.5.b
+
+at the end of sub-paragraph (a) omit “and”,
+
+18.5.c
+
+after sub-paragraph (b) insert—
+
+, and
+
+18.5.c.c
+
+regulation 25 (time of payment) is to be read as if for paragraph (b) there
+were substituted—
+
+18.5.c.c.b
+
+any subsequent payment—
+
+18.5.c.c.b.i
+
+4 weekly in arrears,
+
+18.5.c.c.b.ii
+
+weekly in advance, or
+
+18.5.c.c.b.iii
+
+where the Scottish Ministers consider that it would be unjust not to do so, at
+such intervals as may be specified in the notice of determination.
+
+.
+
+#### Amendment of the Disability Assistance for Working Age People (Scotland) Regulations 2022
+
+19
+
+19.1
+
+The Disability Assistance for Working Age People (Scotland) Regulations 2022
+are amended in accordance with paragraphs (2) to (13).
+
+19.2
+
+In regulation 2 (interpretation) —
+
+19.2.a
+
+omit the definition of “EU withdrawal agreement”,
+
+19.2.b
+
+omit the definition of “medical treatment”, and
+
+19.2.c
+
+after the definition of “previous award” insert—
+
+    “ qualifying services ” means accommodation, board and personal care,
+
+.
+
+19.3
+
+In regulation 7(2)(a) (determination of ability to carry out activities),
+after “schedule 1” insert  “or, as the case may be, column 2 of the table in
+Part 3 of schedule 1” .
+
+19.4
+
+In regulation 17(4) (serving members of Her Majesty’s forces, civil servants
+and their family members)—
+
+19.4.a
+
+omit the definition of “civil partnership”, and
+
+19.4.b
+
+omit the definition of “person who is living with another person as if they
+were in a civil partnership”.
+
+19.5
+
+In regulation 24 (persons who have reached the relevant age: other
+exceptions)—
+
+19.5.a
+
+at the end of paragraph (b) omit “or”, and
+
+19.5.b
+
+after paragraph (c) insert—
+
+, or
+
+19.5.b.d
+
+are a transferring individual in terms of the Disability Assistance for
+Working Age People (Transitional Provisions and Miscellaneous Amendment)
+(Scotland) Regulations 2022.
+
+.
+
+19.6
+
+In regulation 25 (determination of an award after the person has reached the
+relevant age)—
+
+19.6.a
+
+in paragraph (1)(a)(ii), omit “of the mobility component”,
+
+19.6.b
+
+in paragraph (2), omit sub-paragraph (a), and
+
+19.6.c
+
+in paragraph (3), after sub-paragraph (b), insert—
+
+19.6.c.c
+
+where the original award did not include an award of the mobility component,
+the Scottish Ministers may not award that component at either the standard or
+enhanced rate.
+
+.
+
+19.7
+
+For regulation 26(3) (entitlement under special rules for terminal illness),
+substitute—
+
+19.7.3
+
+An individual to whom this regulation applies is to be treated as though—
+
+19.7.3.a
+
+they have obtained the maximum points for each activity listed in column 1 of
+the tables in Part 2 and Part 3 of schedule 1, and
+
+19.7.3.b
+
+they have satisfied regulations 5(3) and 6(3).
+
+.
+
+19.8
+
+In regulation 45 (when an increase in level of entitlement takes effect)—
+
+19.8.a
+
+in paragraph 1(a)—
+
+19.8.a.i
+
+for “48(c) or 48(d)” substitute  “48(c), 48(d) or 48(e)” ,
+
+19.8.a.ii
+
+after “Personal Independence Payment” insert  “or Disability Living Allowance”
+,
+
+19.8.b
+
+in paragraph (1)(b)(i)(bb), for “care” substitute  “daily living” ,
+
+19.8.c
+
+in paragraph (1)(c)—
+
+19.8.c.i
+
+after “based on an official error”, omit “or error”,
+
+19.8.c.ii
+
+omit “begins”, and
+
+19.8.c.iii
+
+at the end, omit “or”,
+
+19.8.d
+
+after paragraph (1)(c), insert—
+
+19.8.d.ca
+
+in the case of a determination made in accordance with regulation 48(a), where
+the period that an individual has been—
+
+19.8.d.ca.i
+
+resident in a care home for the purpose of regulation 27,
+
+19.8.d.ca.ii
+
+an in-patient in hospital or similar institution for the purpose of regulation
+28,
+
+19.8.d.ca.iii
+
+in legal detention for the purpose of regulation 30, or
+
+19.8.d.ca.iv
+
+resident in a care home, an in-patient in a hospital or similar institution,
+or in legal detention for the purposes of regulation 32,
+
+has come to an end, on the day on which the individual leaves the place, or
+
+.
+
+19.9
+
+In regulation 46 (when a decrease in level or cessation of entitlement takes
+effect)—
+
+19.9.a
+
+in paragraph 1(a)—
+
+19.9.a.i
+
+for “48(c) or 48(d)” substitute  “48(c), 48(d) or 48(e)” ,
+
+19.9.a.ii
+
+after “Personal Independence Payment” insert  “or Disability Living Allowance”
+,
+
+19.9.b
+
+in paragraph (1)(c), omit “or error”.
+
+19.10
+
+In regulation 48 (determination following change of circumstances etc.), after
+paragraph (d) insert—
+
+19.10.e
+
+of an alteration of the component or rate of award of Disability Living
+Allowance which the individual was entitled to immediately before the date of
+transfer to Adult Disability Payment in accordance with regulation 4
+(determination without application of entitlement to Adult Disability Payment)
+of the Disability Assistance for Working Age People (Transitional Provisions
+and Miscellaneous Amendment) (Scotland) Regulations 2022, as a result of a
+decision made pursuant to—
+
+19.10.e.i
+
+revision under regulation 3 of the Social Security and Child Support
+(Decisions and Appeals) Regulations 1999 (“ the 1999 Regulations ”),
+
+19.10.e.ii
+
+a supersession under regulation 6 of the 1999 Regulations,
+
+19.10.e.iii
+
+an appeal under section 12 of the Social Security Act 1998 (“ the 1998 Act ”),
+
+19.10.e.iv
+
+a re-consideration under section 13 of the 1998 Act ,
+
+19.10.e.v
+
+an appeal to the Upper Tribunal under section 14 of the 1998 Act,
+
+19.10.e.vi
+
+a revision under article 10 of the Social Security (Northern Ireland) Order
+1998 (“ the 1998 Order ”),
+
+19.10.e.vii
+
+a supersession under article 11 of the 1998 Order,
+
+19.10.e.viii
+
+an appeal under article 13 of the 1998 Order, or
+
+19.10.e.ix
+
+an appeal to the Commissioner under article 15 of the 1998 Order.
+
+.
+
+19.11
+
+In regulation 58(3) (applications by individuals entitled to Child Disability
+Payment), substitute—
+
+19.11.3
+
+Where an individual receives a determination that they are entitled to a rate
+of Adult Disability Payment which is higher than the rate of Child Disability
+Payment they were entitled to immediately before their entitlement to Adult
+Disability Payment begins, paragraph (4) applies.
+
+19.11.4
+
+The individual is to receive a payment equal to the value of Adult Disability
+Payment they would have received for the period specified in paragraph (5),
+reduced by the amount of Child Disability Payment that they were entitled to
+for the same period.
+
+19.11.5
+
+The period specified for the purposes of paragraph (4) is the period between
+the date—
+
+19.11.5.a
+
+their entitlement to Adult Disability Payment would have begun if this
+regulation did not apply to the individual, in terms of regulation 35(4) to
+(6), and
+
+19.11.5.b
+
+their entitlement to Adult Disability Payment begins in terms of paragraph
+(2).
+
+.
+
+19.12
+
+In Part 1 of schedule 2 (short-term assistance), for paragraph 4 (reduction of
+payment of adult disability payment where short-term assistance is paid),
+substitute—
+
+########## Reduction of Adult Disability Payment where short-term assistance is paid
+
+19.12.4
+
+Where an individual has received short-term assistance for a period and a
+determination is subsequently made that the individual is entitled to Adult
+Disability Payment for the same period, any payment of Adult Disability
+Payment to be made as a result of the subsequent determination for that
+period—
+
+19.12.4.a
+
+where the individual is to be paid Adult Disability Payment at the same rate
+as or a lower rate than any short-term assistance and any Adult Disability
+Payment already paid to that individual for that period, is to be reduced to
+£0, and
+
+19.12.4.b
+
+in any other case, is to be reduced by any short-term assistance and any Adult
+Disability Payment already paid to that individual for that period.
+
+.
+
+19.13
+
+In Part 3 of schedule 2 (transfer from Personal Independence Payment to Adult
+Disability Payment)—
+
+19.13.a
+
+in paragraph 7, in the definition of “transferring individual”, for “a
+relevant individual” substitute  “an individual” ,
+
+19.13.b
+
+for paragraph 10 (effect of determination on entitlement to Personal
+Independence Payment) substitute—
+
+############ Effect of determination on entitlement to Personal Independence Payment
+
+19.13.b.10
+
+19.13.b.10.1
+
+Where a determination is made under paragraph 9(1) that the transferring
+individual is entitled to Adult Disability Payment, the transferring
+individual’s entitlement to Personal Independence Payment will cease on—
+
+19.13.b.10.1.a
+
+the date their entitlement to Adult Disability Payment begins,
+
+19.13.b.10.1.b
+
+where a transferring individual was paid Personal Independence Payment one
+week in advance and 3 weekly in arrears, the date one week after the date
+their entitlement to Adult Disability Payment begins, or
+
+19.13.b.10.1.c
+
+where paragraph 11 applies, the date their entitlement to Adult Disability
+Payment would have begun had paragraph 11(2) not applied to set an earlier
+date of entitlement.
+
+19.13.b.10.2
+
+Where paragraph (1)(b) applies—
+
+19.13.b.10.2.a
+
+section 77(4) (personal independence payment) of the Welfare Reform Act 2012 ,
+and
+
+19.13.b.10.2.b
+
+regulation 4(e) of these Regulations (entitlement to other benefits),
+
+do not apply in respect of the first week of entitlement to Adult Disability
+Payment.
+
+,
+
+19.13.c
+
+in paragraph 11 (exceptions to paragraph 9(5))—
+
+19.13.c.i
+
+in sub-paragraph (1), before “the determination made under paragraph 9(1)”,
+insert  “except where sub-paragraph (1A) applies,” ,
+
+19.13.c.ii
+
+after sub-paragraph (1), insert—
+
+19.13.c.ii.1A
+
+Where the transferring individual reached the relevant age as defined in
+regulation 22(2) when they became terminally ill under section 82 of the
+Welfare Reform Act 2012  or in terms of regulation 26(7), the restrictions in
+sub-paragraph (1B) apply in relation to the determination under paragraph
+9(1).
+
+19.13.c.ii.1B
+
+The restrictions referred to in sub-paragraph (1A) are—
+
+19.13.c.ii.1B.a
+
+where the transferring individual was entitled to the mobility component of
+Personal Independence Payment at the standard rate immediately before the date
+of transfer, then regardless of whether the award would otherwise have been
+for the enhanced rate, the Scottish Ministers—
+
+19.13.c.ii.1B.a.i
+
+may only make an award for the standard rate of that component, and
+
+19.13.c.ii.1B.a.ii
+
+may only make such an award where the entitlement results from substantially
+the same condition or conditions in respect of which the mobility component of
+Personal Independence payment was given,
+
+19.13.c.ii.1B.b
+
+where the transferring individual was entitled to the mobility component of
+Personal Independence Payment at the enhanced rate immediately before the date
+of transfer, the Scottish Ministers may only award that rate of that component
+where entitlement results from substantially the same condition or conditions
+in respect of which the mobility component of Personal Independence Payment
+was given,
+
+19.13.c.ii.1B.c
+
+where the transferring individual was not entitled to the mobility component
+of Personal Independence Payment immediately before the date of transfer, the
+Scottish Ministers may not award that component at either the standard or
+enhanced rate.
+
+, and
+
+19.13.c.iii
+
+in sub-paragraph (2), after “sub-paragraph (1)” insert  “or (1A)” ,
+
+19.13.d
+
+in paragraph 12 (change of circumstances)—
+
+19.13.d.i
+
+in sub-paragraph (4)(a)(i), for “care” substitute  “daily living” ,
+
+19.13.d.ii
+
+in sub-paragraph 4(a)(ii), for “care” substitute  “daily living” , and
+
+19.13.d.iii
+
+after sub-paragraph (6) insert—
+
+19.13.d.iii.7
+
+Where the change of circumstance notified under sub-paragraph (1) occurred
+after the person had reached the relevant age as defined in regulation 22(2),
+the restrictions in sub-paragraph (8) will apply in relation to the
+determination under sub-paragraph (1).
+
+19.13.d.iii.8
+
+The restrictions referred to in sub-paragraph (7) are—
+
+19.13.d.iii.8.a
+
+where the transfer determination awarded the mobility component at the
+standard rate then, regardless of whether the award would have otherwise been
+for the enhanced rate, the Scottish Ministers—
+
+19.13.d.iii.8.a.i
+
+may only make an award for the standard rate of that component, and
+
+19.13.d.iii.8.a.ii
+
+may only make such an award where entitlement results from substantially the
+same condition or conditions in respect of which the mobility component in the
+transfer determination was given,
+
+19.13.d.iii.8.b
+
+where the transfer determination awarded the mobility component at the
+enhanced rate, the Scottish Ministers may only award that rate of that
+component where entitlement results from substantially the same condition or
+conditions in respect of which the mobility component in the transfer
+determination was given,
+
+19.13.d.iii.8.c
+
+where the transfer determination did not include an award of the mobility
+component, the Scottish Ministers may not award that component at either the
+standard or enhanced rate.
+
+, and
+
+19.13.e
+
+in paragraph 14 (modification of these regulations: transferring individuals),
+after sub-paragraph (b), insert—
+
+19.13.e.ba
+
+in regulation 36, for sub-paragraph (b), substitute—
+
+19.13.e.ba.b
+
+any subsequent payment—
+
+19.13.e.ba.b.i
+
+4 weekly in arrears,
+
+19.13.e.ba.b.ii
+
+weekly in advance, or
+
+19.13.e.ba.b.iii
+
+where the Scottish Ministers consider that it would be unjust not to do so, at
+such intervals as may be specified in the notice of determination.
+
+,
+
+.
+
+      BEN MACPHERSON   Authorised to sign by the Scottish Ministers     St
+Andrew’s House,   Edinburgh     21st June 2022
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations make provision to transfer individuals who meet the
+residence and presence conditions in the Disability Assistance for Working Age
+People (Scotland) Regulations 2022 (“ the ADP Regulations ”) and are awarded
+Disability Living Allowance to become entitled to Adult Disability Payment
+(Parts 2 and 3). These Regulations also make miscellaneous amendment to the
+Personal Independence Payment (Transitional Provisions) Regulations 2013, the
+Disability Assistance for Children and Young People (Scotland) Regulations
+2021 and the ADP Regulations (Part 4).
+
+Part 2 includes provisions to transfer individuals to become entitled to Adult
+Disability Payment by serving a notice of intention to transfer on them and
+making a transfer determination, providing for a transitional rate of the
+daily living component and the amount, form and time of payment of Adult
+Disability Payment, providing for when Disability Living Allowance is to
+cease, periods for re-determinations, special rules for transferring
+individuals with a terminal illness, modifications of the ADP Regulations and
+provision for appointees.
+
+Part 3 includes provisions to make a review determination for a transferred
+individual, the time of payment, address changes of circumstances and when an
+increase or decrease of entitlement takes effect.
+
+Regulation 17 makes consequential amendments to the Personal Independence
+Payment (Transitional Provisions) Regulations 2013 to remove the requirements
+on the Scottish Ministers to invite an individual who is entitled to
+Disability Living Allowance to apply for Personal Independence Payment.
+
+Regulation 18 makes amendments to the Disability Assistance for Children and
+Young People (Scotland) Regulations 2021:       removes unnecessary
+definitions,           clarifies when an increase in Child Disability payment
+is made when an individual leaves alternative accommodation,
+provides for reducing the amount of Child Disability Payment paid for a period
+when the individual has received short-term assistance, and           modifies
+the provision on payment cycles for individuals who are transferring from
+Disability Living Allowance to Child Disability Payment.
+
+Regulation 19 makes amendments to the ADP Regulations:       removes
+unnecessary definitions and clarifying the definition of “qualifying
+services”,           to put beyond doubt the need to consider the daily living
+and mobility activity tables within schedule 1 when applying regulation 17 of
+the ADP Regulations,           to put beyond doubt the effect of regulation 25
+on those who have only been in receipt of the daily living component,
+amends regulation 26(3) of the ADP Regulations to ensure that clients who are
+terminally ill will be recognised as receiving the maximum number of points
+for all daily living and mobility activities, and treated as though they have
+satisfied the criteria for the enhanced rates of both components of Adult
+Disability Payment,           adds provision to clarify when payments should
+resume after an individual leaves a care home, hospital or legal detention,
+to include individuals transferring from Disability Living Allowance onto
+Adult Disability Payment within the terms of the ADP Regulations to create an
+exception to the age criteria for these transferring individuals, and for a
+determination without application to occur if the Disability Living Allowance
+they were entitled to before transfer changes, once they are in receipt of
+Adult Disability Payment,           to clarify the payment to be made under
+regulation 58(3) to individuals who move onto Adult Disability Payment from
+Child Disability Payment, to ensure that there is a deduction of any Child
+Disability Payment they have already been entitled to for the same period,
+to clarify the circumstances for a reduction of the amount of Adult Disability
+Payment to be paid for a period when an individual has received short-term
+assistance,           makes amendments to Part 3 of schedule 2 of the ADP
+regulations, where provision is made for individuals transferring from
+Personal Independence Payment to Adult Disability Payment. These amendments
+extend the restrictions on the mobility component after an individual reaches
+the relevant age, currently detailed in regulation 25, to also apply to case
+transfer clients under part 3 of schedule 2 of the ADP Regulations who are
+terminally ill or who report a change of circumstances. An amendment is made
+to include new provision for when entitlement to Personal Independence Payment
+will end, where a client has been in receipt of Personal Independence Payment
+on a cycle of one week in advance and three weeks in arrears. Provision is
+also added to detail the payment cycles that transferees from Personal
+Independence Payment may receive once they are in receipt of Adult Disability
+Payment, and to modify the definition of “transferring individual” to ensure
+that it will continue to apply to all clients who have transferred from
+Personal Independence Payment, after their transfer is complete, and
+amends references to the “ care component ” to be to the “daily living
+component”, and correct other minor wording errors.
+

@@ -1,0 +1,560 @@
+Title: The Excise Duties (Northern Ireland etc. Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2022
+Date: 2024-07-02
+Description: These Regulations are made by the Commissioners for Her Majesty’s Revenue and Customs under the Taxation (Cross-border Trade) Act 2018 (c. 22) and the Customs and Excise Management Act 1979 (c. 2). They amend the Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559) (“the 2020 Regulations”) as well as making modifications to the application of the Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593) (“the HMDP Regulations”) and stand-alone provision. This is an EU Exit statutory instrument.
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/uksi/2022/265
+
+## The Excise Duties (Northern Ireland etc. Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2022
+
+    Exiting The European Union       Excise
+
+  Made   9th March 2022
+
+  Laid before the House of Commons   10th March 2022
+
+  Coming into force   1st April 2022
+
+      The Commissioners for Her Majesty’s Revenue and Customs make the
+following Regulations in exercise of the powers conferred by sections 45(1)
+and (2) and 48(10) and (11) of the Taxation (Cross-border Trade) Act 2018  and
+sections 100G and 100H of the Customs and Excise Management Act 1979 .
+
+### Introduction
+
+#### Citation and commencement
+
+1
+
+These Regulations may be cited as the Excise Duties (Northern Ireland etc.
+Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2022 and
+come into force on 1st April 2022.
+
+#### Interpretation
+
+2
+
+In these Regulations “ NIMMA 2020 ” means the Excise Duties (Northern Ireland
+Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 .
+
+### Amendments
+
+#### Amendment of the Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020
+
+3
+
+3.1
+
+NIMMA 2020 are amended as follows.
+
+3.2
+
+In regulation 93 (offset against excise duty resulting from movement of excise
+goods to Northern Ireland)—
+
+3.2.a
+
+in paragraph (1), after “Great Britain” insert  “or the Isle of Man” ;
+
+3.2.b
+
+in paragraph (2), after “UK excise duty” insert  “, or a corresponding duty
+under the law of the Isle of Man,” ;
+
+3.2.c
+
+in paragraph (4), after “UK excise duty” insert  “, or a corresponding duty
+under the law of the Isle of Man,” ;
+
+3.2.d
+
+after paragraph (4) insert—
+
+3.2.d.5
+
+This Regulation does not apply in relation to movements of excise goods  to
+Northern Ireland from the Isle of Man that start before 1st April 2022.
+
+.
+
+3.3
+
+In regulation 94 (remittance of excise duty)—
+
+3.3.a
+
+in paragraph (1), in the words before sub-paragraph (a), after “Great Britain”
+insert  “or the Isle of Man” ;
+
+3.3.b
+
+for paragraph (2) substitute—
+
+3.3.b.2
+
+Where, under regulation 93, the Commissioners have offset duty that has
+previously been paid against the excise duty due, they may remit any such
+excise duty that remains payable, upon application by a person who is liable
+to pay that duty.
+
+.
+
+### Additional amounts – payment
+
+#### Simplified excise duty model
+
+4
+
+4.1
+
+Where—
+
+4.1.a
+
+regulation 93 (offset against excise duty resulting from movement of excise
+goods to Northern Ireland) of NIMMA 2020 applies;
+
+4.1.b
+
+HMRC Commissioners  are satisfied that excise duty , or a corresponding duty
+under the law of the Isle of Man, has been paid in respect of goods prior to
+their removal to Northern Ireland from Great Britain or the Isle of Man;
+
+4.1.c
+
+the latest change in the rate of that duty occurred within the period of one
+calendar month ending with the date of such removal; and
+
+4.1.d
+
+HMRC Commissioners are satisfied that no person liable for any amount of
+excise duty arising as a result of the removal of excise goods to Northern
+Ireland from Great Britain or the Isle of Man is, or could reasonably be
+expected to be—
+
+4.1.d.i
+
+aware of the rate at which the duty described in sub-paragraph (b) was paid in
+respect of the goods prior to their removal to Northern Ireland from Great
+Britain or the Isle of Man; or
+
+4.1.d.ii
+
+able to obtain such information,
+
+the amount of that duty paid in respect of the goods prior to such removal is
+deemed to have been that which would have been payable immediately prior to
+the change in the rate of such duty referred to in paragraph (1)(c).
+
+4.2
+
+Where—
+
+4.2.a
+
+sub-paragraphs (a), (b) and (d) of paragraph (1) apply; and
+
+4.2.b
+
+the latest change in the rate of the duty referred to in paragraph (1)(c)
+occurred before the period of one calendar month ending with the date of the
+removal of the goods to Northern Ireland from Great Britain or the Isle of
+Man,
+
+the amount of that duty paid in respect of the goods prior to such removal is
+deemed to have been that which would have been payable immediately after the
+latest change in the rate of such duty.
+
+4.3
+
+HMRC Commissioners may require a person to provide such evidence to
+demonstrate that paragraph (1)(d) applies as may be specified in a notice
+published by HMRC Commissioners.
+
+#### Time of payment and return
+
+5
+
+5.1
+
+This regulation applies where sub-paragraphs (a) and (b) of regulation 4(1)
+apply.
+
+5.2
+
+If any amount of excise duty remains payable in respect of goods on their
+removal to Northern Ireland from Great Britain or the Isle of Man after HMRC
+Commissioners have, under regulation 93(2) of NIMMA 2020, offset duty that has
+previously been paid (“the remaining amount”), payment of the remaining amount
+of excise duty may be deferred, subject to compliance with the relevant
+condition.
+
+5.3
+
+For the purposes of paragraph (2) “the relevant condition” is—
+
+5.3.a
+
+where sub-paragraphs (c) and (d) of regulation 4(1) apply, a return must be
+made, and the remaining amount of excise duty must be paid, within the period
+of two calendar months beginning with the date of the change in the rate of
+such duty;
+
+5.3.b
+
+where at least one of sub-paragraphs (c) and (d) of regulation 4(1) does not
+apply, a return must be made, and the remaining amount of excise duty must be
+paid, within the period of two calendar months beginning with such date as is
+specified in a notice by HMRC Commissioners.
+
+5.4
+
+A return referred to in paragraph (3) must be made in such form and manner, if
+any, as may be specified in a notice published by HMRC Commissioners.
+
+5.5
+
+HMRC Commissioners must publish a notice referred to in paragraph (3)(b) and
+may publish a notice referred to in paragraph (4).
+
+5.6
+
+A notice referred to in paragraph (3)(b) may specify different dates in
+relation to goods removed to Northern Ireland on different dates.
+
+#### Record-keeping
+
+6
+
+6.1
+
+A person liable for an amount of excise duty arising as a result of the
+removal of excise goods to Northern Ireland from Great Britain or the Isle of
+Man (irrespective of whether a remaining amount is payable under this Part)
+must keep and make available for inspection such records relating to their
+activities as may be prescribed in a notice published by the Commissioners
+for such period as may be so prescribed.
+
+6.2
+
+The Commissioners may publish a notice prescribing—
+
+6.2.a
+
+the records to be kept and made available for inspection under paragraph (1);
+and
+
+6.2.b
+
+the period for which they must be kept and made available for inspection.
+
+6.3
+
+A notice published under paragraph (2) may make different provision for
+different cases.
+
+### Importation – transitional provisions
+
+#### Modification of the Excise Goods (Holding, Movement and Duty Point) Regulations 2010
+
+7
+
+The Excise Goods (Holding, Movement and Duty Point) Regulations 2010  apply
+with the modifications set out in this Part to excise goods—
+
+7.a
+
+in respect of which a declaration for the free-circulation procedure or an
+authorised use procedure has been made  (and not amended or withdrawn unless
+in accordance with the Customs (Import Duty) (EU Exit) Regulations 2018 );
+
+7.b
+
+in respect of which the notification referred to in paragraph 11(1) of
+Schedule 1 to the Taxation (Cross-border Trade) Act 2018 is being treated as
+having been given under regulation 4(3B) of the Customs (Import Duty) (EU
+Exit) Regulations 2018 (notification of importation) ;
+
+7.c
+
+that were in Northern Ireland immediately before they were removed to Great
+Britain.
+
+#### Contravention of conditions or requirements – duty point and persons liable to pay
+
+8
+
+In regulation 19(3) (contraventions)—
+
+8.a
+
+after sub-paragraph (a) regard as inserted—
+
+8.a.aa
+
+a failure to comply with regulation 57(11) (completion of draft electronic
+administrative document for movements of excise goods under duty suspension
+arrangements from transitional arrival locations);
+
+.
+
+8.b
+
+after sub-paragraph (b) regard as inserted—
+
+8.b.bb
+
+a failure to comply with regulation 60AA(2) (procedure for movement of excise
+goods under duty suspension arrangements from transitional arrival locations
+when computerised system unavailable).
+
+.
+
+#### Movements of excise goods from a transitional arrival location under duty suspension arrangements
+
+9
+
+9.1
+
+In regulation 57 (electronic administrative document for movements of excise
+goods under duty suspension arrangements wholly within the United Kingdom)—
+
+9.1.a
+
+in paragraph (1), after “electronic administrative document”, regard as
+inserted  “, but see paragraph (10) for an exception for the beginning of a
+movement from a transitional arrival location ” ;
+
+9.1.b
+
+in paragraph (2) for “Before” regard as substituted  “Except as provided for
+in paragraphs (10) and (11), before” ;
+
+9.1.c
+
+in paragraph (7)—
+
+9.1.c.i
+
+in sub-paragraph (a) regard “or” as omitted;
+
+9.1.c.ii
+
+at the end of sub-paragraph (b) regard the full stop as substituted by  “; or
+” ; and
+
+9.1.c.iii
+
+after sub-paragraph (b) regard as inserted—
+
+9.1.c.iii.c
+
+if paragraph (10) applies, a master reference number issued by the
+Commissioners in respect of the goods further to the customs declaration
+referred to in that paragraph.
+
+; and
+
+9.1.d
+
+after paragraph (9) regard as inserted—
+
+9.1.d.10
+
+Where—
+
+9.1.d.10.a
+
+the excise goods are dispatched from a transitional arrival location; and
+
+9.1.d.10.b
+
+details of the guarantee required in accordance with regulation 39 have been
+provided to the Commissioners in the declaration for the free-circulation
+procedure or authorised use procedure made before the goods entered Great
+Britain,
+
+the consignor may dispatch the goods before completing a draft electronic
+administrative document.
+
+9.1.d.11
+
+Where paragraph (10) applies, the consignor must complete the draft electronic
+administrative document and send it to the Commissioners as soon as
+practicable and no later than the latest time by which the notification
+required under regulation 4(3C) of the import duty regulations  must be given
+in accordance with regulation 4(3D)(c) of those regulations.
+
+.
+
+9.2
+
+In regulation 60 (procedure for movement of excise goods under duty suspension
+arrangements wholly within the United Kingdom when computerised system
+unavailable), after paragraph (1), regard as inserted—
+
+9.2.1A
+
+This regulation does not apply where regulation 60AA applies.
+
+.
+
+9.3
+
+After regulation 60 regard as inserted—
+
+########## Procedure for movement of excise goods under duty suspension arrangements from transitional arrival locations when computerised system unavailable
+
+9.3.60AA
+
+9.3.60AA.1
+
+This regulation applies where—
+
+9.3.60AA.1.a
+
+goods are dispatched before completion of the draft electronic administrative
+document in accordance with regulation 57(10); and
+
+9.3.60AA.1.b
+
+the computerised system is unavailable at the time the consignor is required
+to complete the draft electronic administrative document in accordance with
+regulation 57(11).
+
+9.3.60AA.2
+
+Excise goods may only be moved from the place of importation under duty
+suspension arrangements if they are accompanied by a master reference number
+issued by the Commissioners in respect of the goods further to the customs
+declaration referred to in regulation 57(10)(b).
+
+9.3.60AA.3
+
+At any time before the consignor completes the draft electronic administrative
+document in accordance with regulation 57(2) the Commissioners may require the
+consignor to—
+
+9.3.60AA.3.a
+
+provide a copy of the printed version of the customs declaration which
+includes the details of the guarantee required in accordance with regulation
+39;
+
+9.3.60AA.3.b
+
+verify the data contained in that document; and
+
+9.3.60AA.3.c
+
+provide information on the reasons for the unavailability of the computerised
+system (if the consignor is responsible for that unavailability).
+
+9.3.60AA.4
+
+As soon as the computerised system is restored the consignor must complete a
+draft electronic administrative document that complies with the requirements
+set out in regulation 57(9) and send it to the Commissioners.
+
+9.3.60AA.5
+
+The Commissioners must, in accordance with regulation 57(3), carry out a
+verification of the data in the draft electronic administrative document.
+
+9.3.60AA.6
+
+If the data are valid, regulation 57(5) to (8) shall apply.
+
+9.3.60AA.7
+
+If the data are invalid, the movement shall be treated as taking place under
+cover of the customs declaration.
+
+9.3.60AA.8
+
+The consignor must keep a copy of the printed version of the customs
+declaration.
+
+.
+
+#### Relevant regulations
+
+10
+
+In Schedule 1 (civil penalties – relevant regulations), regard as inserted in
+the appropriate places—
+
+57(11) (completion of draft electronic administrative document for movements
+of excise goods under duty suspension arrangements from transitional arrival
+locations);
+
+;
+
+60AA(2) and (4) (procedure for movement of excise goods under duty suspension
+arrangements from transitional arrival locations when computerised system
+unavailable);
+
+.
+
+      Sophie Dean   Katherine Green   Two of the Commissioners for Her
+Majesty’s Revenue and Customs   9th March 2022
+
+## EXPLANATORY NOTE
+
+  (This note is not part of the Regulations)
+
+These Regulations are made by the Commissioners for Her Majesty’s Revenue and
+Customs under the Taxation (Cross-border Trade) Act  2018 (c. 22)  and the
+Customs and Excise Management Act  1979 (c. 2) . They amend the Excise Duties
+(Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit)
+Regulations 2020 ( S.I. 2020/1559 ) (“ the 2020 Regulations ”) as well as
+making modifications to the application of the Excise Goods (Holding, Movement
+and Duty Point) Regulations 2010 ( S.I. 2010/593 ) (“ the HMDP Regulations ”)
+and stand-alone provision. This is an EU Exit statutory instrument.
+
+Part 1 provides for citation, commencement and interpretation.
+
+Part 2 amends regulation 93 of the 2020 Regulations to extend the offset
+against excise duty resulting from movement of excise goods to Northern
+Ireland to include a corresponding duty under the law of the Isle of Man where
+the goods are removed from the Isle of Man to Northern Ireland. This only
+applies in relation to movements that start on or after 1st April 2022. Part 2
+also makes consequential amendments to regulation 94 of the 2020 Regulations
+in relation to the remission of excise duty that remains payable after the
+offset.
+
+Part 3 makes further provision in relation to the offset against excise duty
+resulting from movement of excise goods to Northern Ireland.
+
+Regulation 4 makes provision for a simplified excise duty model in certain
+circumstances where excise goods are removed to Northern Ireland from Great
+Britain or the Isle of Man.
+
+Regulation 5 provides that any amount of excise duty payable upon removal of
+excise goods to Northern Ireland from Great Britain or the Isle of Man
+remaining after the application of the offset may be deferred, in which case
+it must be notified and paid within a certain timeframe, depending on the
+circumstances in which such amount becomes payable. It also enables HMRC
+Commissioners to specify the form and manner of any return, and requires them
+to specify the relevant date for the purposes of calculating the timeframe for
+a return, in a notice published by HMRC Commissioners.
+
+Regulation 6 requires persons to keep and make available for inspection such
+records for such period as the Commissioners may specify in a notice. It also
+allows the Commissioners to make different provision for different cases in
+such a notice.
+
+Any notices referred to in Part 3 will be published at
+https://www.gov.uk/government/collections/holdings-and-movement-notices . A
+person unable to access the notices electronically may access them in hard
+copy by post free of charge on application to 0300 200 3700.
+
+Part 4 makes modifications to the application of the HMDP Regulations in
+respect of certain excise goods moved into Great Britain to reflect changes to
+customs procedures that were preserved in relation to certain goods by the
+Taxation (Cross-border Trade) (Miscellaneous Amendments) (EU Exit) (No. 2)
+Regulations 2021 ( S.I. 2021/1444 ).
+
+A Tax Information and Impact Note covering this instrument will be published
+on the website at  https://www.gov.uk/government/collections/tax-information-
+and-impact-notes-tiins .
+

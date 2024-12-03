@@ -1,0 +1,2133 @@
+Title: Energy (Oil and Gas) Profits Levy Act 2022
+Date: 2024-07-26
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ukpga/2022/40
+
+## Energy (Oil and Gas) Profits Levy Act 2022
+
+      Most Gracious Sovereign           W e,  Your Majesty’s most dutiful and
+loyal subjects, the Commons of the United Kingdom in Parliament assembled,
+towards raising the necessary supplies to defray Your Majesty’s public
+expenses, and making an addition to the public revenue, have freely and
+voluntarily resolved to give and to grant unto Your Majesty the tax
+hereinafter mentioned; and do therefore most humbly beseech Your Majesty that
+it may be enacted, and be it enacted by the Queen’s most Excellent Majesty, by
+and with the advice and consent of the Lords Spiritual and Temporal, and
+Commons, in this present Parliament assembled, and by the authority of the
+same, as follows:—
+
+### Charge to tax
+
+#### Charge to tax
+
+1
+
+1.1
+
+If a company carries on a ring fence trade in a qualifying accounting period,
+a sum equal to   35%   of its levy profits for that period is to be charged on
+the company as if it were an amount of corporation tax chargeable on it.
+
+1.2
+
+The charge is referred to in this Act as “ energy (oil and gas) profits levy ”
+(or as “the levy”).
+
+1.3
+
+A qualifying accounting period is an accounting period of a company which—
+
+1.3.a
+
+begins on or after 26 May 2022, and
+
+1.3.b
+
+ends on or before   31 March 2028 ,
+
+(but see also sections 15 and 16 for provision about a case where a company’s
+accounting period straddles either of those dates).
+
+1.4
+
+A company’s levy profits or loss for a qualifying accounting period are the
+amount which, on the following assumptions, would be determined for
+corporation tax purposes to be the company’s ring fence profits or loss for
+that period.
+
+1.5
+
+The assumptions are that—
+
+1.5.a
+
+the company has incurred such additional expenditure (if any) in that period
+as is provided for by section 2 (3) ,
+
+1.5.b
+
+that additional expenditure is allowable as a deduction in calculating the
+amount of the profits or loss of any ring fence trade of the company for the
+period,
+
+1.5.c
+
+financing costs and decommissioning costs are left out of account in
+calculating the amount of the profits or loss of any ring fence trade of the
+company for the period (see also sections 8 and 9),
+
+1.5.d
+
+any amount that would otherwise be brought into account under section 301 of
+CTA 2010 (effect of repayment of petroleum revenue tax) in calculating the
+amount of the profits or loss of any ring fence trade of the company for the
+period is left out of account so far as the amount is referable to the
+decommissioning part of an allowable loss, and
+
+1.5.e
+
+no account is to be taken of any provision of Part 4, 5 or 5A of CTA 2010
+(loss relief, group relief and group relief for carried forward losses) or of
+sections 303A to 303D of that Act (use of non-decommissioning losses of ring
+fence trades).
+
+1.6
+
+For the purposes of subsection  (5)(d)  an amount of petroleum revenue tax
+which is repaid as mentioned in section 301(1) of CTA 2010 is referable to the
+decommissioning part of an allowable loss so far the allowable loss giving
+rise to the repayment is attributable, on a just and reasonable basis, to
+expenditure allowable under section 3(1)(i) or (j) of OTA 1975.
+
+1.7
+
+In this Act any reference to the qualifying levy profits or loss of a company
+for an accounting period are to the levy profits or loss for the period as
+determined in accordance with subsections  (4)  and  (5) .
+
+1.8
+
+If a company makes a qualifying levy loss for an accounting period, relief may
+be available for some or all of the loss in accordance with—
+
+1.8.a
+
+Part 1 of Schedule 1 (carry back or forward of qualifying levy losses), or
+
+1.8.b
+
+Part 2 of that Schedule (group relief for qualifying levy losses).
+
+1.9
+
+In accordance with section 11, the charging of the levy as if it were an
+amount of corporation tax is to be taken as applying all enactments applying
+generally to corporation tax.
+
+### Relief for investment expenditure
+
+#### Additional expenditure treated as incurred for purposes of section 1
+
+2
+
+2.1
+
+This section applies for the purposes of section 1 if, in a qualifying
+accounting period, a company has incurred investment expenditure.
+
+2.2
+
+Expenditure is “investment expenditure” so far as—
+
+2.2.a
+
+it is capital expenditure, operating expenditure or leasing expenditure,
+
+2.2.b
+
+it is incurred for the purposes of oil-related activities,
+
+2.2.c
+
+it is not incurred for disqualifying purposes, and
+
+2.2.d
+
+it does not consist of financing costs or decommissioning costs.
+
+2.3
+
+For the purposes of section 1 the company is to be treated as if, in addition
+to the investment expenditure (“the IE”) incurred by it in the accounting
+period, it had incurred in that period—
+
+2.3.a
+
+expenditure of an amount equal to 80% of the amount of the IE, in a case where
+the expenditure is capital expenditure on the de-carbonisation of its upstream
+petroleum production, and
+
+2.3.b
+
+expenditure of an amount equal to 29% of the amount of the IE, in any other
+case.
+
+2.4
+
+For the purposes of this section, if investment expenditure is incurred partly
+for the purposes of oil-related activities and partly for other purposes, the
+expenditure is to be attributed to the oil-related activities on a just and
+reasonable basis.
+
+2.4A
+
+For the purposes of this section, where a company incurs expenditure part of
+which is capital expenditure on the de-carbonisation of its upstream petroleum
+production and part of which is not, the expenditure is to be apportioned on a
+just and reasonable basis.
+
+2.5
+
+This section needs to be read with section 6 (which prevents recycling etc of
+assets to generate relief).
+
+#### Section 2: meaning of expenditure on “de-carbonisation of upstream petroleum production”
+
+2A
+
+2A.1
+
+Expenditure incurred by a company is expenditure on the “ de-carbonisation of
+its upstream petroleum production ” for the purposes of section 2 if—
+
+2A.1.a
+
+the expenditure is incurred in qualifying circumstances, and
+
+2A.1.b
+
+the main purpose, or one of the main purposes, in incurring the expenditure is
+to reduce greenhouse gas emissions in the carrying on by the company of its
+ring fence trade.
+
+2A.2
+
+For this purpose expenditure is incurred in qualifying circumstances if—
+
+2A.2.a
+
+it is incurred on the provision of an alternative energy asset which is to be
+used for the purpose of generating or storing power for use by the company in
+its upstream petroleum facilities,
+
+2A.2.b
+
+it is incurred on the modification of an asset so that it becomes an
+alternative energy asset which is to be used for that purpose,
+
+2A.2.c
+
+it is incurred on the provision of an asset (such as a cable or substation)
+where the asset is to be used to make a connection to the electric grid or to
+an alternative energy asset so that (in either case) the company can use the
+power generated in its upstream petroleum facilities,
+
+2A.2.d
+
+it is incurred for the purpose of reducing or eliminating flaring or venting,
+
+2A.2.e
+
+it is incurred for the purpose of capturing greenhouse gas emissions, or
+
+2A.2.f
+
+it is incurred for the purpose of monitoring or measuring greenhouse gas
+emissions (including with a view to detecting leaks of greenhouse gas
+emissions from the company’s upstream petroleum facilities).
+
+2A.3
+
+For the purposes of this section an asset is an alternative energy asset if
+the asset generates or stores power (wholly or mainly) from sources of energy
+other than fossil fuels.
+
+2A.4
+
+For the purposes of this section references to a company’s upstream petroleum
+facilities are to any facility used by the company for the purposes of its oil
+extraction activities.
+
+2A.5
+
+In this section—
+
+“ the electric grid ” means— in Great Britain, anything which is a
+transmission system, or a distribution system connected to a transmission
+system, for the purposes of Part 1 of the Electricity Act 1989, or in Northern
+Ireland, anything which is a transmission system, or a distribution system
+connected to a transmission system, for the purposes of Part 2 of the
+Electricity (Northern Ireland) Order 1992, “ emissions ” has the same meaning
+as it has in the Climate Change Act 2008 (see section 97), “ fossil fuel ” has
+the meaning given by section 32M of the Electricity Act 1989, and “ greenhouse
+gas ” has the same meaning as it has in the Climate Change Act 2008 (see
+section 92).
+
+#### Section 2: meaning of “operating expenditure”
+
+3
+
+3.1
+
+Expenditure incurred by a company is “ operating expenditure ” for the
+purposes of section 2 if—
+
+3.1.a
+
+it is incurred for the purpose of increasing—
+
+3.1.a.i
+
+the rate at which oil is extracted or the reserves of oil,
+
+3.1.a.ii
+
+the number of years for which it is economically viable to carry out oil
+extraction activities or for which a facility can be used for the purposes of
+those activities, or
+
+3.1.a.iii
+
+the amount of tariff receipts earned by the company in respect of upstream
+petroleum infrastructure,
+
+3.1.b
+
+it is not routine repair or maintenance expenditure, and
+
+3.1.c
+
+it is incurred in relation to a facility or an oil well on qualifying matters.
+
+3.2
+
+Expenditure is incurred in relation to a facility on qualifying matters if it
+is incurred on—
+
+3.2.a
+
+the replacement of a valve, pump, pipeline, power generation plant or
+compressor that is no longer capable of being used for the purposes of oil
+extraction activities,
+
+3.2.b
+
+modifications to increase capacity, or availability, to carry out oil
+extraction activities, or
+
+3.2.c
+
+modifications to enable handling of reduced volumes resulting from reduced
+operating pressures or handling of different fluid compositions.
+
+3.3
+
+Expenditure is incurred in relation to an oil well on qualifying matters if it
+is incurred on—
+
+3.3.a
+
+water shut off or gas shut off,
+
+3.3.b
+
+fracturing, or
+
+3.3.c
+
+the removal of sand, salt, scale or hydrates.
+
+3.4
+
+For the purposes of this section, where a company incurs expenditure part of
+which is operating expenditure and part of which is not, the expenditure is to
+be apportioned on a just and reasonable basis.
+
+3.5
+
+In this section “ tariff receipts ” has the meaning given by section 291A of
+CTA 2010.
+
+#### Section 2: meaning of “leasing expenditure”
+
+4
+
+4.1
+
+Expenditure incurred by a company is “ leasing expenditure ” for the purposes
+of section 2 so far as—
+
+4.1.a
+
+it represents payment in return for a mobile production or storage asset being
+made available under a lease whose term is at least 5 years, and
+
+4.1.b
+
+on the date on which the expenditure is incurred, no company has obtained
+relevant tax relief in respect of the acquisition of the asset.
+
+4.2
+
+But expenditure counts as leasing expenditure only so far as it exceeds the
+total amount received by the company and its associated companies in respect
+of any qualifying lease other than—
+
+4.2.a
+
+amounts received from the lessee where the parties to the lease are associated
+companies, or
+
+4.2.b
+
+amounts previously set against expenditure under this subsection which would
+otherwise have counted as leasing expenditure.
+
+4.3
+
+For this purpose a “ qualifying lease ” means a lease—
+
+4.3.a
+
+to which the company or associated company is party as lessee, and
+
+4.3.b
+
+in respect of which expenditure is incurred which is, or but for subsection
+(2)  would have counted as, leasing expenditure.
+
+4.4
+
+In addition, if a sublease of an asset is entered into or modified on or after
+26 May 2022, expenditure is not leasing expenditure so far as it exceeds the
+total amount of leasing expenditure incurred in relation to the head lease
+during the term of the sublease.
+
+4.5
+
+For the purposes of this section expenditure which does not represent payment
+in return for an asset being made available includes (among other things)—
+
+4.5.a
+
+any charge for the provision of any staff or for any services,
+
+4.5.b
+
+any amount payable which is, or represents, a profit or premium on the cost of
+the asset being made available which is paid by the company to an associated
+company,
+
+4.5.c
+
+any amount which, in accordance with generally accepted accounting practice,
+falls (or would fall) to be shown in the company’s accounts as a finance
+charge in respect of a lease, or
+
+4.5.d
+
+any amount that can be attributed to finance costs by reference to the
+interest rate implicit in the lease (which is to be taken to be the interest
+rate that would apply to the lease in accordance with normal commercial
+criteria, including, in particular, generally accepted accounting practice (if
+applicable)).
+
+4.6
+
+In this section—
+
+“ lease ” includes sublease and “ lessee ” includes sublessee, “ a mobile
+production or storage asset ” means a mobile asset whose main function is the
+production or storage of oil, and “ relevant tax relief ” means— relief as a
+result of section 2, relief as a result of Chapter 6A of Part 8 of CTA 2010
+(supplementary charge: investment allowance), or relief as a result of Chapter
+9 of Part 8 of CTA 2010 (supplementary charge: cluster area allowance).
+
+4.7
+
+For the purposes of this section, where a company incurs expenditure part of
+which represents payment in return for a mobile production or storage asset
+and part of which does not, the expenditure is to be apportioned on a just and
+reasonable basis.
+
+#### Section 2: meaning of “disqualifying purposes”
+
+5
+
+5.1
+
+Expenditure is incurred for disqualifying purposes for the purposes of section
+2 so far as it arises directly or indirectly in connection with, or otherwise
+in consequence of, any avoidance arrangements.
+
+5.2
+
+For this purpose arrangements are “avoidance arrangements” if—
+
+5.2.a
+
+the main purpose, or one of the main purposes, of the arrangements is to
+secure a relevant levy advantage, and
+
+5.2.b
+
+it is reasonable, taking account of all the relevant circumstances—
+
+5.2.b.i
+
+to conclude that the arrangements are, or include steps that are, contrived,
+abnormal or lacking a genuine commercial purpose, or
+
+5.2.b.ii
+
+to regard the arrangements as circumventing the intended limits relating to
+the relief under section 2 (3)  or as otherwise exploiting shortcomings in
+this Act.
+
+5.3
+
+For this purpose “ a relevant levy advantage ” includes—
+
+5.3.a
+
+relief or increased relief from the levy,
+
+5.3.b
+
+repayment or increased repayment of the levy,
+
+5.3.c
+
+avoidance or reduction of a charge to the levy or an assessment to the levy,
+
+5.3.d
+
+avoidance of a possible assessment to the levy,
+
+5.3.e
+
+deferral of a payment of the levy or advancement of a repayment of the levy,
+and
+
+5.3.f
+
+avoidance of an obligation to deduct or account for the levy.
+
+5.4
+
+In this section “ arrangements ” includes any transaction, series of
+transactions, scheme or arrangement, whether or not legally enforceable.
+
+#### Recycling etc of assets to generate relief
+
+6
+
+6.1
+
+Expenditure incurred at any time by a company on the acquisition of an asset
+is not to count as investment expenditure for the purposes of section 2 if—
+
+6.1.a
+
+expenditure was incurred previously by the company or another company in
+acquiring, leasing, bringing into existence or enhancing the value of the
+asset, and
+
+6.1.b
+
+any of that expenditure has been taken into account, or would on the
+applicable assumption have been taken into account, for the purposes of the
+levy.
+
+6.2
+
+The cases to which this section applies include (for example)—
+
+6.2.a
+
+any case where the asset acquired is an interest in an oil field, and
+
+6.2.b
+
+any case where the asset is acquired in connection with a transfer to the
+company of an interest in an oil field (whether or not the asset is acquired
+at the time of the transfer).
+
+6.3
+
+In this section—
+
+6.3.a
+
+any reference to expenditure incurred by a company in leasing an asset is to
+expenditure incurred by it under an agreement under which the asset was leased
+to the company,
+
+6.3.b
+
+any reference to the applicable assumption in the case of any expenditure
+incurred at any time is to the assumption that this Act were fully in force
+and applied to expenditure incurred at that time, and
+
+6.3.c
+
+any reference to an interest in an oil field is to the whole or part of the
+equity in an oil field.
+
+#### When investment expenditure is incurred
+
+7
+
+7.1
+
+In determining for the purposes of this Act when a company has incurred
+investment expenditure—
+
+7.1.a
+
+in the case of capital expenditure, section 5 of CAA 2001 (when capital
+expenditure is incurred) applies as it applies for the purposes of that Act,
+and
+
+7.1.b
+
+in the case of operating expenditure or leasing expenditure, the expenditure
+is treated as incurred on the date on which it is paid.
+
+7.2
+
+Any investment expenditure which is (or is treated as) incurred before 26 May
+2022 or after   31 March 2028   is to be left out of account in determining a
+company’s levy profits or loss for any qualifying accounting period.
+
+### Financing and decommissioning costs
+
+#### Meaning of “financing costs” etc
+
+8
+
+8.1
+
+This section applies for the purposes of this Act.
+
+8.2
+
+“ Financing costs ” means the costs of debt finance.
+
+8.3
+
+In calculating the costs of debt finance for an accounting period of a company
+the matters to be taken into account include—
+
+8.3.a
+
+any costs giving rise to debits in respect of debtor relationships of the
+company under Part 5 of CTA 2009 (loan relationships), other than debits in
+respect of exchange losses from such relationships,
+
+8.3.b
+
+any exchange gain or loss from a debtor relationship of the company in
+relation to debt finance,
+
+8.3.c
+
+any credit or debit falling to be brought into account in accordance with Part
+7 of CTA 2009 (derivative contracts) in relation to debt finance,
+
+8.3.d
+
+the financing cost implicit in a payment under a finance lease,
+
+8.3.e
+
+if the company is the lessee under a right-of-use lease which is a long
+funding finance lease, any costs falling, in accordance with generally
+accepted accounting practice, to be treated in the accounts of the company as
+interest expenses,
+
+8.3.f
+
+if the company is the lessee under a long funding operating lease, the amount
+deductible in respect of payments under the lease in calculating the profits
+of the lessee for corporation tax purposes (after first making against any
+such amount any reductions falling to be made as a result of section 379 of
+CTA 2010 (lessee under long funding operating lease)), and
+
+8.3.g
+
+any other costs arising from what would be considered in accordance with
+generally accepted accounting practice to be a financing transaction.
+
+8.4
+
+If an amount representing the whole or part of a payment falling to be made by
+a company—
+
+8.4.a
+
+falls (or would fall) to be treated as a finance charge, or an interest
+expense, under a finance lease for the purposes of accounts which relate to
+that company and one or more other companies and are prepared in accordance
+with generally accepted accounting practice, but
+
+8.4.b
+
+is not so treated in the accounts of the company,
+
+the amount is to be treated as a financing cost within subsection  (3)(d) .
+
+8.5
+
+If—
+
+8.5.a
+
+in calculating the qualifying levy profits or loss of a company for an
+accounting period, an amount falls to be left out of account as a result of
+subsection  (3)(d) , but
+
+8.5.b
+
+the whole or any part of that amount is repaid,
+
+the repayment is also to be left out of account in calculating the qualifying
+levy profits or loss of the company for any qualifying accounting period.
+
+8.6
+
+In this section “ finance lease ” means a lease which—
+
+8.6.a
+
+under generally accepted accounting practice—
+
+8.6.a.i
+
+falls (or would fall) to be treated, in the accounts of the lessee or a person
+connected with the lessee, as a finance lease or loan, or
+
+8.6.a.ii
+
+is comprised in arrangements which fall (or would fall) to be so treated, or
+
+8.6.b
+
+if the lease is a right-of-use lease—
+
+8.6.b.i
+
+would fall to be treated in those accounts as a finance lease, or
+
+8.6.b.ii
+
+is comprised in arrangements which would fall to be so treated,
+
+were the lessee or person connected with the lessee required under generally
+accepted accounting practice to determine whether the lease falls, or
+arrangements fall, to be so treated.
+
+8.7
+
+For the purposes of applying subsection  (6)(b) , the lessee and any person
+connected with the lessee are to be treated as being companies which are
+incorporated in a part of the United Kingdom.
+
+8.8
+
+In this section—
+
+      “ accounts ”, in relation to a company, includes accounts which—
+relate to two or more companies of which that company is one, and
+are drawn up in accordance with generally accepted accounting practice,
+“ debtor relationship ” has the meaning given by section 302(6) of CTA 2009,
+“exchange gains” and “exchange losses” are to be read in accordance with
+section 475 of CTA 2009,           “ lease ” means any arrangements which
+provide for an asset to be leased or otherwise made available by a person to
+another person (“ the lessee ”), and           “ long funding finance lease ”,
+“ long funding operating lease ” and “ right-of-use lease ” have the meanings
+given in Part 2 of CAA 2001 (see section 70YI(1) of that Act).
+
+#### Meaning of “decommissioning costs”
+
+9
+
+9.1
+
+This section applies for the purposes of this Act.
+
+9.2
+
+“ Decommissioning costs ” means any expenditure which—
+
+9.2.a
+
+is decommissioning expenditure or site restoration expenditure, and
+
+9.2.b
+
+qualifies for a capital allowance.
+
+9.3
+
+In this section “ decommissioning expenditure ” means expenditure incurred in
+connection with—
+
+9.3.a
+
+demolishing plant or machinery,
+
+9.3.b
+
+preserving plant or machinery pending its reuse or demolition,
+
+9.3.c
+
+preparing plant or machinery for reuse, or
+
+9.3.d
+
+arranging for the reuse of plant or machinery,
+
+and the expression “plant or machinery” has the same meaning here as it has in
+Part 2 of CAA 2001.
+
+9.4
+
+In determining whether expenditure is incurred on preserving plant or
+machinery pending its reuse or demolition, it does not matter whether the
+plant or machinery is reused, is demolished or is partly reused and partly
+demolished.
+
+9.5
+
+In determining whether expenditure is incurred on preparing plant or machinery
+for reuse, or on arranging for the reuse of plant or machinery, it does not
+matter whether the plant or machinery is in fact reused.
+
+9.6
+
+In this section “ site restoration expenditure ” means expenditure which is
+incurred on the restoration of—
+
+9.6.a
+
+the site of a source to the working of which the ring fence trade concerned
+relates (or related), or
+
+9.6.b
+
+land used in connection with working such a source.
+
+9.7
+
+For this purpose “ restoration ” includes the matters set out in section
+416ZA(7) of CAA 2001.
+
+### Qualifying levy losses
+
+#### Relief for qualifying levy losses
+
+10
+
+Schedule 1 makes provision about relief for qualifying levy losses.
+
+### Management and administration etc
+
+#### Application of corporation tax provisions
+
+11
+
+11.1
+
+The provisions of section 1 (1)  relating to the charging of a sum as if it
+were an amount of corporation tax are to be taken as applying all enactments
+applying generally to corporation tax.
+
+11.2
+
+But this is subject to—
+
+11.2.a
+
+the provisions of the Corporation Tax Acts,
+
+11.2.b
+
+any necessary modifications, and
+
+11.2.c
+
+subsection  (5) .
+
+11.3
+
+The enactments mentioned in subsection (1) include—
+
+11.3.a
+
+those relating to returns of information and the supply of accounts,
+statements and reports,
+
+11.3.b
+
+those relating to the assessing, collecting and receiving of corporation tax,
+
+11.3.c
+
+those conferring or regulating a right of appeal, and
+
+11.3.d
+
+those concerning administration, penalties, interest on unpaid tax and
+priority of tax in cases of insolvency under the law of any part of the United
+Kingdom.
+
+11.4
+
+Accordingly—
+
+11.4.a
+
+TMA 1970 is to have effect as if any reference to corporation tax included a
+sum chargeable on a company under section 1 (1)  as if it were an amount of
+corporation tax, and
+
+11.4.b
+
+the enactments referred to in subsection  (3)(a)  to  (d)  apply for the
+purposes of the levy subject to any modifications necessary to take account of
+the provision made by Schedule 1 or by any other provision of this Act,
+
+but nothing in this subsection is to be taken to limit subsections  (1)  to
+(3) .
+
+11.5
+
+In the Corporation Tax (Treatment of Unrelieved Surplus Advance Corporation
+Tax) Regulations 1999 ( SI 1999/358 ) or any further regulations made under
+section 32 of FA 1998 (unrelieved surplus advance corporation tax)—
+
+11.5.a
+
+references to corporation tax do not include a sum chargeable on a company
+under section 1 (1)  as if it were corporation tax, and
+
+11.5.b
+
+references to profits charged to corporation tax do not include qualifying
+levy profits.
+
+#### Requirement to provide information about payments
+
+12
+
+12.1
+
+This section applies if—
+
+12.1.a
+
+the levy is chargeable on a company (“the chargeable company”) for a
+qualifying accounting period, and
+
+12.1.b
+
+a payment is made (whether or not by the company) that is wholly or partly in
+respect of the levy.
+
+12.2
+
+The responsible company must give notice to an officer of Revenue and Customs,
+on or before the date the payment is made, of the amount of the payment that
+is in respect of the levy.
+
+12.3
+
+The “responsible company” is—
+
+12.3.a
+
+in a case where the chargeable company is party to relevant group payment
+arrangements, the company that is, under those arrangements, to discharge the
+liability of the chargeable company to pay the levy for the accounting period,
+and
+
+12.3.b
+
+in any other case, the chargeable company.
+
+12.4
+
+“ Relevant group payment arrangements ” means arrangements under section
+59F(1) of TMA 1970 (arrangements for paying corporation tax on behalf of group
+members) that relate to the accounting period.
+
+12.5
+
+The requirement in subsection  (2)  is to be treated, for the purposes of Part
+7 of Schedule 36 to FA 2008 (information and inspection powers: penalties), as
+a requirement in an information notice.
+
+12.6
+
+This section is subject to any provision to the contrary in regulations under
+section 59E of TMA 1970 (further provision as to when corporation tax is due
+and payable).
+
+#### Adjustments
+
+13
+
+13.1
+
+This section applies if there is any alteration in a company’s ring fence
+profits or loss for an accounting period after this Act has effect in relation
+to the profits or loss.
+
+13.2
+
+Any necessary adjustments to the operation of this Act (whether in relation to
+the profits or loss or otherwise) are to be made.
+
+### Final provisions
+
+#### Consequential provision
+
+14
+
+Schedule 2 contains amendments of enactments that are consequential on the
+provision made by this Act.
+
+#### Transitional provision for accounting periods straddling 26 May 2022
+
+15
+
+15.1
+
+In the case of an accounting period (a “straddling period”) beginning before
+26 May 2022 and ending on or after that date—
+
+15.1.a
+
+this Act is to apply as if so much of the straddling period as falls before
+that date, and so much of the straddling period as falls on or after that
+date, were separate accounting periods, and
+
+15.1.b
+
+the company’s levy profits or loss determined for the straddling period (on
+the assumption that the whole of that period were a qualifying accounting
+period) are apportioned to the two separate accounting periods in accordance
+with section 17.
+
+15.2
+
+In the case of a straddling period, the Instalment Payments Regulations 1998
+are to apply separately—
+
+15.2.a
+
+in relation to the levy, and
+
+15.2.b
+
+in relation to any other tax chargeable on the company.
+
+15.3
+
+In their application as a result of subsection  (2)(a) , the Instalment
+Payments Regulations 1998 are to have effect in relation to the levy as if—
+
+15.3.a
+
+the deemed accounting period treated under subsection  (1)(a)  as beginning on
+26 May 2022 were an accounting period for the purposes of those Regulations,
+and
+
+15.3.b
+
+the levy were chargeable for that period.
+
+15.4
+
+Any reference in the Instalment Payments Regulations 1998 to the total
+liability of a company is accordingly to be read—
+
+15.4.a
+
+in their application as a result of subsection  (2)(a) , as a reference to the
+levy, and
+
+15.4.b
+
+in their application as a result of subsection  (2)(b) , as a reference to the
+amount that would be the company’s total liability for the straddling period
+if the levy were left out of account.
+
+15.5
+
+For the purposes of the Instalment Payments Regulations 1998—
+
+15.5.a
+
+a company is to be regarded as a large company as respects the deemed
+accounting period under subsection  (1)(a)  only if it is a large company for
+those purposes as respects the straddling period, and
+
+15.5.b
+
+any question whether a company is a large company as respects the straddling
+period is to be determined as it would have been determined apart from section
+1.
+
+#### Transitional provision for accounting periods straddling  
+
+16
+
+16.1
+
+In the case of an accounting period (a “straddling period”) beginning on or
+before   31 March 2028   and ending after that date—
+
+16.1.a
+
+this Act is to apply as if so much of the straddling period as falls on or
+before that date, and so much of the straddling period as falls after that
+date, were separate accounting periods, and
+
+16.1.b
+
+the company’s levy profits or loss determined for the straddling period (on
+the assumption that the whole of that period were a qualifying accounting
+period) are apportioned to the two separate accounting periods in accordance
+with section 17.
+
+16.2
+
+In the case of a straddling period, the Instalment Payments Regulations 1998
+are to apply separately—
+
+16.2.a
+
+in relation to the levy, and
+
+16.2.b
+
+in relation to any other tax chargeable on the company.
+
+16.3
+
+In their application as a result of subsection  (2)(a) , the Instalment
+Payments Regulations 1998 are to have effect in relation to the levy as if—
+
+16.3.a
+
+the deemed accounting period treated under subsection  (1)(a)  as ending on
+31 March 2028   were an accounting period for the purposes of those
+Regulations, and
+
+16.3.b
+
+the levy were chargeable for that period.
+
+16.4
+
+Any reference in the Instalment Payments Regulations 1998 to the total
+liability of a company is accordingly to be read—
+
+16.4.a
+
+in their application as a result of subsection  (2)(a) , as a reference to the
+levy, and
+
+16.4.b
+
+in their application as a result of subsection  (2)(b) , as a reference to the
+amount that would be the company’s total liability for the straddling period
+if the levy were left out of account.
+
+16.5
+
+For the purposes of the Instalment Payments Regulations 1998—
+
+16.5.a
+
+a company is to be regarded as a large company as respects the deemed
+accounting period under subsection  (1)(a)  only if it is a large company for
+those purposes as respects the straddling period, and
+
+16.5.b
+
+any question whether a company is a large company as respects the straddling
+period is to be determined as it would have been determined apart from section
+1.
+
+#### Rules for apportioning profits or loss to separate accounting periods
+
+17
+
+17.1
+
+This section determines for the purposes of sections 15 and 16 how a company’s
+levy profits or loss for the straddling period are to be apportioned to the
+two separate accounting periods mentioned in section 15 or 16 (as the case may
+be).
+
+17.2
+
+The profits or loss are to be apportioned as if any claim to a capital
+allowance were made for whichever of the separate accounting periods is the
+period in which the capital expenditure was incurred (applying section 5 of
+CAA 2001 for this purpose).
+
+17.3
+
+Subject to that, the receipts, expenses, assets and liabilities of the ring
+fence trade are to be apportioned between the two separate accounting periods
+on a just and reasonable basis.
+
+#### Circumstances in which the levy ends early: energy security investment mechanism
+
+17A
+
+17A.1
+
+This section applies if—
+
+17A.1.a
+
+the average price of oil over a reference period, and
+
+17A.1.b
+
+the average price of gas over the same period,
+
+are at or below the average of those prices over the period of 20 years ending
+with 31 December 2022 (as adjusted in accordance with section  17B ).
+
+17A.2
+
+The Treasury must make regulations amending—
+
+17A.2.a
+
+section 1(3)(b),
+
+17A.2.b
+
+section 7(2), and
+
+17A.2.c
+
+section 16,
+
+so as to substitute the final day of that reference period for references to
+what would otherwise be the final day of the levy.
+
+17A.3
+
+This section needs to be read with section  17B .
+
+#### Section 17A: supplementary provision
+
+17B
+
+17B.1
+
+This section applies for the purposes of section  17A .
+
+17B.2
+
+Every period of 6 months ending with the final day of each of the levy months
+is a reference period; and for this purpose a “ levy month ” means March 2024
+and every later month up to and including the month immediately before the
+month in which the final day of the levy falls.
+
+17B.3
+
+The average price of oil, and the average price of gas, over a reference
+period is to be calculated in accordance with provision made by regulations
+made by the Treasury (whether by reference to a published index of prices or
+otherwise).
+
+17B.4
+
+In the case of the reference period ending with 31 March 2024, the average
+prices of oil and gas over the period of 20 years ending with 31 December 2022
+(“the threshold prices”) are—
+
+17B.4.a
+
+in the case of oil, $71.40 per barrel, and
+
+17B.4.b
+
+in the case of gas, £0.54 per therm.
+
+17B.5
+
+In the case of reference periods ending in the financial year 2024 (namely,
+the financial year beginning with April 2024), the threshold prices are—
+
+17B.5.a
+
+in the case of oil, $74.21 per barrel, and
+
+17B.5.b
+
+in the case of gas, £0.57 per therm.
+
+17B.6
+
+In the case of reference periods ending in any other relevant financial year—
+
+17B.6.a
+
+the threshold prices are taken to be the prices determined in accordance with
+subsection  (7) , and
+
+17B.6.b
+
+any change required by that subsection is to made by reference to the
+threshold prices applicable in the case of reference periods ending in the
+preceding relevant financial year.
+
+17B.7
+
+If the consumer prices index for the December before the start of a relevant
+financial year has changed from that index for the previous December—
+
+17B.7.a
+
+the threshold prices in the case of reference periods ending in the relevant
+financial year are taken to have changed by the same percentage as the
+percentage change in that index, and
+
+17B.7.b
+
+those prices are to be rounded up to the nearest whole cent or penny.
+
+17B.8
+
+Before the start of each relevant financial year, His Majesty’s Revenue and
+Customs must publish the threshold prices in the case of reference periods
+ending in that financial year in such manner as they consider appropriate.
+
+17B.9
+
+In this section—
+
+“ consumer prices index ” means the all items consumer prices index published
+by the Statistics Board, “ final day of the levy ” means the last day of what
+would otherwise be the latest qualifying accounting period, and “ relevant
+financial year ” means any financial year after the financial year 2024 other
+than one beginning after the final day of the levy.
+
+#### Interpretation
+
+18
+
+18.1
+
+In this Act—
+
+“ associated company ” has the same meaning as in Part 8 of CTA 2010 (see
+section 271), “ decommissioning costs ” has the meaning given by section 9, “
+energy (oil and gas) profits levy ” has the meaning given by section 1,   “
+facility ” means a platform, an oil well, a platform well, an oil well head or
+upstream petroleum infrastructure,   “ financing costs ” has the meaning given
+by section 8, “ investment expenditure ” has the meaning given by section 2, “
+leasing expenditure ” has the meaning given by section 4, “ the levy ” means
+the energy (oil and gas) profits levy, “levy profits” or “ levy loss ” has the
+meaning given by section 1, “ oil ” has the same meaning as in Part 8 of CTA
+2010 (see section 278), “ oil extraction activities ” has the same meaning as
+in Part 8 of CTA 2010 (see section 272), “ oil field ” has the same meaning as
+in Part 8 of CTA 2010 (see section 278), “ oil-related activities ” has the
+same meaning as in Part 8 of CTA 2010 (see section 274), “ operating
+expenditure ” has the meaning given by section 3, “ qualifying accounting
+period ” has the meaning given by section 1, “ qualifying levy loss ” has the
+meaning given by section 1, “ qualifying levy profits ” has the meaning given
+by section 1, “ ring fence profits ” has the same meaning as in Part 8 of CTA
+2010 (see section 276),  ... “ ring fence trade ” has the same meaning as in
+Part 8 of CTA 2010 (see section 277),   “ upstream petroleum infrastructure ”
+means any upstream petroleum pipeline, oil processing facility or gas
+processing facility (as those expressions are defined by section 90 of the
+Energy Act 2011 but as if that section also applied (with the appropriate
+modifications) to Northern Ireland).
+
+18.2
+
+In this Act—
+
+“ CAA 2001 ” means the Capital Allowances Act 2001, “ CTA 2009 ” means the
+Corporation Tax Act 2009, “ CTA 2010 ” means the Corporation Tax Act 2010,
+“FA”, followed by a year, means the Finance Act of that year, “ the Instalment
+Payments Regulations 1998 ” means the Corporation Tax (Instalment Payments)
+Regulations 1998 ( SI 1998/3175 ), “ OTA 1975 ” means the Oil Taxation Act
+1975, and “ TMA 1970 ” means the Taxes Management Act 1970.
+
+#### Short title
+
+19
+
+This Act may be cited as the Energy (Oil and Gas) Profits Levy Act 2022.
+
+## SCHEDULES
+
+Reliefs
+
+Section 10
+
+##### Carry back or forward of qualifying levy losses
+
+###### Carry back of qualifying levy losses to earlier qualifying accounting periods
+
+1
+
+1.1
+
+This paragraph applies if—
+
+1.1.a
+
+in a qualifying accounting period, a company carrying on a ring fence trade
+makes a qualifying levy loss in the period (“the loss-making period”), and
+
+1.1.b
+
+the company was carrying on the trade in an earlier qualifying accounting
+period.
+
+1.2
+
+The company may make a claim for relief for the loss under this paragraph.
+
+1.3
+
+If the company makes a claim, the relief is given by deducting the loss from
+the company’s qualifying levy profits of previous qualifying accounting
+periods so far as they fall (wholly or partly) within the period of 12 months
+ending immediately before the loss-making period begins.
+
+1.4
+
+The amount of a deduction to be made under sub-paragraph  (3)  for any
+accounting period is the amount of the loss so far as it cannot be deducted
+under that sub-paragraph for a subsequent accounting period.
+
+1.5
+
+The company’s claim must be made—
+
+1.5.a
+
+within the period of two years after the end of the loss-making period, or
+
+1.5.b
+
+within such further period as an officer of Revenue and Customs may allow.
+
+1.6
+
+If, for an accounting period, deductions under sub-paragraph  (3)  are to be
+made for qualifying levy losses of different accounting periods, the
+deductions are to be made in the order in which the losses were made (starting
+with the earliest loss).
+
+2
+
+2.1
+
+This paragraph applies if an accounting period falls partly within the period
+of 12 months mentioned in paragraph  1(3) .
+
+2.2
+
+The amount of the deduction for the loss for the accounting period is not to
+exceed an amount equal to the overlapping proportion of the company’s
+qualifying levy profits of that period.
+
+2.3
+
+The overlapping proportion is the same as the proportion that the part of the
+accounting period falling within the period of 12 months bears to the whole of
+the accounting period.
+
+3
+
+3.1
+
+Relief under paragraph  1  is not available for a loss made in a ring fence
+trade unless for the loss-making period, the trade is carried on—
+
+3.1.a
+
+on a commercial basis, and
+
+3.1.b
+
+with a view to the making of a profit in the trade or so as to afford a
+reasonable expectation of making such a profit.
+
+3.2
+
+If during the loss-making period there is a change in the way in which the
+trade is carried on, it is treated as having been carried on throughout that
+period in the way in which it is being carried on by the end of that period.
+
+4
+
+4.1
+
+This paragraph applies if—
+
+4.1.a
+
+a company ceases to carry on a ring fence trade in a qualifying accounting
+period, and
+
+4.1.b
+
+the company has made a terminal qualifying levy loss in the trade.
+
+4.2
+
+Paragraphs  1(3)  and  2(1)  and  (3)  have effect in relation to the terminal
+qualifying levy loss as if the references to 12 months were references to 3
+years.
+
+4.3
+
+The following are terminal qualifying levy losses made in the trade—
+
+4.3.a
+
+the whole of any qualifying levy loss made by the company in the trade in a
+qualifying accounting period that begins during the final 12 months, and
+
+4.3.b
+
+the overlapping proportion of any qualifying levy loss made by the company in
+the trade in a qualifying accounting period that ends, but does not begin,
+during the final 12 months.
+
+4.4
+
+The overlapping proportion is the same as the proportion that the part of the
+accounting period falling within the final 12 months bears to the whole of the
+accounting period.
+
+4.5
+
+“ The final 12 months ” means the period of 12 months ending when the company
+ceases to carry on the trade.
+
+4.6
+
+This paragraph does not apply if—
+
+4.6.a
+
+on the company ceasing to carry on the trade, any of the activities of the
+trade begin to be carried on by a person who is not (or by persons any or all
+of whom are not) chargeable to the levy, and
+
+4.6.b
+
+the company’s ceasing to carry on the trade arises directly or indirectly in
+connection with, or otherwise in consequence of, arrangements the main
+purpose, or one of the main purposes, of which is to secure that the preceding
+provisions of this paragraph apply in relation to a loss by reason of the
+cessation.
+
+4.7
+
+For this purpose “ arrangements ” includes any transaction, series of
+transactions, scheme or arrangement, whether or not legally enforceable.
+
+###### Carry forward of qualifying levy losses to subsequent qualifying accounting period
+
+5
+
+5.1
+
+This paragraph applies if in a qualifying accounting period a company carrying
+on a ring fence trade makes a qualifying levy loss in the period.
+
+5.2
+
+Relief for the loss is given to the company under this paragraph.
+
+5.3
+
+The relief is given for that part of the loss (“the unrelieved loss”) for
+which no relief is given under any other provision of this Schedule.
+
+5.4
+
+For the purposes of the levy—
+
+5.4.a
+
+the unrelieved loss is carried forward to subsequent qualifying accounting
+periods (so long as the company continues to carry on the ring fence trade),
+and
+
+5.4.b
+
+the qualifying levy profits of the ring fence trade of any such period are
+reduced by the unrelieved loss so far as that loss is not used under this
+paragraph to reduce profits of an earlier period.
+
+##### Group relief for qualifying levy losses
+
+###### Introduction
+
+6
+
+6.1
+
+This Part of this Schedule—
+
+6.1.a
+
+allows a company (“the surrendering company”) to surrender a qualifying levy
+loss it has for a qualifying accounting period to another company (“the
+claimant company”) that is part of the same group, and
+
+6.1.b
+
+enables the claimant company to claim relief from the levy for that loss.
+
+6.2
+
+The relief mentioned in sub-paragraph  (1)  is referred to in this Schedule as
+“ levy group relief ”.
+
+7
+
+In this Part of this Schedule, in relation to a qualifying levy loss that a
+company has for an accounting period—
+
+“ surrender period ” means a qualifying accounting period for which the
+surrendering company has the loss, and “ surrenderable amounts ” means a
+qualifying levy loss so far as eligible for surrender under this Part of this
+Schedule.
+
+###### Surrender of company’s losses for an accounting period
+
+8
+
+If—
+
+8.a
+
+a surrendering company has a qualifying levy loss for a surrender period, and
+
+8.b
+
+the company is part of a group,
+
+the surrendering company may surrender the loss.
+
+###### Claims for levy group relief
+
+9
+
+9.1
+
+This paragraph applies in relation to the surrendering company’s surrenderable
+amounts for the surrender period under paragraph  8 .
+
+9.2
+
+The claimant company may make a claim for levy group relief for a qualifying
+accounting period (“the claim period”) in relation to those amounts (in whole
+or in part) if—
+
+9.2.a
+
+the surrendering company consents to the claim,
+
+9.2.b
+
+there is a period (“the overlapping period”) that is common to the claim
+period and the surrender period, and
+
+9.2.c
+
+at a time during the overlapping period the surrendering company and the
+claimant company are part of the same group.
+
+9.3
+
+More than one company may make a claim for levy group relief in relation to
+any surrenderable amounts (but the giving of that relief in relation to any
+claim is subject to the provisions of this Part of this Schedule).
+
+9.4
+
+Paragraph 70(3) and (4) of Schedule 18 to FA 1998 apply for the purposes of
+any consent given under this paragraph.
+
+###### Giving of levy group relief
+
+10
+
+10.1
+
+If a claimant company makes a claim under paragraph  9 , the relief is to be
+given by way of deduction from the company’s qualifying levy profits for the
+claim period.
+
+10.2
+
+The amount of the deduction is—
+
+10.2.a
+
+an amount equal to the surrendering company’s surrenderable amounts for the
+surrender period, or
+
+10.2.b
+
+if the claim is in relation to only part of those amounts, an amount equal to
+that part.
+
+10.3
+
+The deduction under this paragraph is to be made after any relief under
+paragraph  1 .
+
+###### Limitation on amount of levy group relief to be given
+
+11
+
+11.1
+
+Paragraph  10(2)  is subject to the limitation in sections 138 to 142 of CTA
+2010 (general limitation on amount of group relief to be given) as if those
+sections applied to levy group relief as they apply to group relief under Part
+5 of that Act.
+
+11.2
+
+For the purposes of sub-paragraph  (1) —
+
+11.2.a
+
+section 138 of CTA 2010 (limitation on amount of group relief applying to all
+claims) has effect as if in paragraph (b) for the words “total profits” there
+were substituted  “qualifying levy profits” ,
+
+11.2.b
+
+section 140 of CTA 2010 (unrelieved part of claimant company’s available total
+profits) has effect as if—
+
+11.2.b.i
+
+in subsections (1) to (4) (and in the heading), for the words “total profits”
+(in each place) there were substituted  “qualifying levy profits” ,
+
+11.2.b.ii
+
+for subsection (7) there were substituted—
+
+11.2.b.ii.7
+
+In this section references to the claimant company’s “available qualifying
+levy profits” are references to its qualifying levy profits (within the
+meaning of the Energy (Oil and Gas) Profits Levy Act 2022) after the deduction
+of any relief given under paragraph  1  of Schedule 1 to that Act.
+
+, and
+
+11.2.b.iii
+
+subsection (8) were omitted, and
+
+11.2.c
+
+section 142 of CTA 2010 (meaning of the “overlapping period”) has effect as
+if—
+
+11.2.c.i
+
+in subsection (1) for the words in parenthesis there were substituted  “(see
+paragraph  9(2)(b)  of Schedule 1 to the Energy (Oil and Gas) Profits Levy Act
+2022)” , and
+
+11.2.c.ii
+
+in subsection (3), for the words from “group relief condition is the” to the
+end there were substituted  “requirement in paragraph  9(2)(c)  of Schedule 1
+to the Energy (Oil and Gas) Profits Levy Act 2022” .
+
+###### Arrangements for transfer of companies
+
+12
+
+Sections 154 and 155A to 156 of CTA 2010 (arrangements for transfer of member
+of group of companies etc) apply for the purposes of this Part of this
+Schedule as they apply for the purposes of Part 5 of that Act but as if the
+references in sections 155A(1) and 155B(1) to “or 155(3)” were omitted.
+
+###### Payments for relief
+
+13
+
+13.1
+
+This paragraph applies if—
+
+13.1.a
+
+a surrendering company and a claimant company have an agreement between them
+in relation to qualifying levy losses of the surrendering company (“the agreed
+loss amounts”),
+
+13.1.b
+
+relief under this Part of this Schedule is given to the claimant company in
+relation to the agreed loss amounts, and
+
+13.1.c
+
+as a result of the agreement the claimant company makes a payment to the
+surrendering company that does not exceed the total amount of the agreed loss
+amounts.
+
+13.2
+
+The payment is not to be taken into account in calculating the qualifying levy
+profits or loss of either company under section 1.
+
+14
+
+An amount which is, as a result of paragraph  13 , not to be taken account in
+calculating qualifying levy profits or loss under section 1—
+
+14.a
+
+is also not to be taken into account in calculating profits or loss for
+corporation tax purposes, and
+
+14.b
+
+is not to be regarded for those purposes as a distribution.
+
+###### Meaning of “company” and “group”
+
+15
+
+In this Part of this Schedule “ company ” means any body corporate.
+
+16
+
+For the purposes of this Part of this Schedule, two companies are part of the
+same group if—
+
+16.a
+
+one is the 75% subsidiary of the other, or
+
+16.b
+
+both are 75% subsidiaries of a third company.
+
+##### General provision
+
+###### Prohibition on claiming relief more than once for the same amount
+
+17
+
+Relief from the levy is not to be given more than once for the same amount,
+whether—
+
+17.a
+
+by giving levy group relief and by giving some other relief (for any
+accounting period) to the surrendering company, or
+
+17.b
+
+by giving levy group relief more than once.
+
+###### Change in company ownership
+
+18
+
+Part 14 of CTA 2010 (change in company ownership) applies, with any necessary
+modifications, in relation to relief under any provision of this Schedule as
+it applies in relation to the corresponding relief from corporation tax.
+
+###### Transfers of trade without a change of ownership
+
+19
+
+Chapter 1 of Part 22 of CTA 2010 applies, with any necessary modifications, in
+relation to relief under any provision of this Schedule as it applies in
+relation to the corresponding relief from corporation tax.
+
+###### Counteracting tax advantage involving qualifying levy losses
+
+20
+
+20.1
+
+A levy advantage arising by reference to a qualifying levy loss that would (in
+the absence of this paragraph) arise directly or indirectly in connection
+with, or otherwise in consequence of, disqualifying arrangements is to be
+counteracted by the making of such adjustments as are just and reasonable.
+
+20.2
+
+For this purpose arrangements are “disqualifying” if—
+
+20.2.a
+
+the main purpose, or one of the main purposes, of the arrangements is to
+obtain a levy advantage by reference to a qualifying levy loss, and
+
+20.2.b
+
+it is reasonable, taking account of all the relevant circumstances—
+
+20.2.b.i
+
+to conclude that the arrangements are, or include steps that are, contrived,
+abnormal or lacking a genuine commercial purpose, or
+
+20.2.b.ii
+
+to regard the arrangements as circumventing the intended limits of relief
+provided by this Schedule or as otherwise exploiting shortcomings in this Act.
+
+20.3
+
+Any adjustments required to be made under this paragraph (whether or not by an
+officer of Revenue and Customs) may be made by way of—
+
+20.3.a
+
+an assessment,
+
+20.3.b
+
+the modification of an assessment,
+
+20.3.c
+
+amendment or disallowance of a claim,
+
+or otherwise.
+
+20.4
+
+For the purposes of this paragraph “ a levy advantage ” includes—
+
+20.4.a
+
+relief or increased relief from the levy,
+
+20.4.b
+
+repayment or increased repayment of the levy,
+
+20.4.c
+
+avoidance or reduction of a charge to the levy or an assessment to the levy,
+
+20.4.d
+
+avoidance of a possible assessment to the levy,
+
+20.4.e
+
+deferral of a payment of the levy or advancement of a repayment of the levy,
+and
+
+20.4.f
+
+avoidance of an obligation to deduct or account for the levy.
+
+20.5
+
+In this paragraph “ arrangements ” includes any transaction, series of
+transactions, scheme or arrangement, whether or not legally enforceable.
+
+  Consequential amendments
+
+Section 14
+
+##### TMA 1970
+
+1
+
+1.1
+
+Part 5A of TMA 1970 (payment of tax) is amended as follows.
+
+1.2
+
+In section 59E (further provision as to when corporation tax is due and
+payable), in subsection (11) after paragraph (e) insert—
+
+1.2.f
+
+to any sum chargeable on a company under section 1 of the Energy (Oil and Gas)
+Profits Levy Act 2022 as if it were an amount of corporation tax chargeable on
+the company.
+
+1.3
+
+In section 59F (arrangements for paying corporation tax on behalf of group
+members), in subsection (6)—
+
+1.3.a
+
+omit “and” at the end of paragraph (c), and
+
+1.3.b
+
+after paragraph (d) insert
+
+, and
+
+1.3.b.e
+
+to any sum chargeable on a company under section 1 of the Energy (Oil and Gas)
+Profits Levy Act 2022 as if it were an amount of corporation tax chargeable on
+the company.
+
+##### FA 1998
+
+2
+
+2.1
+
+Schedule 18 to FA 1998 (company tax returns, assessments and related matters)
+is amended as follows.
+
+2.2
+
+In paragraph 1 (meaning of “ tax ”)—
+
+2.2.a
+
+omit the “and” at the end of the paragraph beginning “section 33 of the
+Finance Act 2022”, and
+
+2.2.b
+
+at the end insert
+
+, and
+
+section 1 of the Energy (Oil and Gas) Profits Levy Act 2022.
+
+2.3
+
+After paragraph 7A insert—
+
+########### Energy (oil and gas) profits levy
+
+2.3.7B
+
+2.3.7B.1
+
+A company which has made any qualifying levy profits or loss in an accounting
+period must include in its company tax return for the accounting period a
+statement of—
+
+2.3.7B.1.a
+
+the qualifying levy profits or loss, and
+
+2.3.7B.1.b
+
+any relief which the company is given for that period under Schedule 1 to the
+Energy (Oil and Gas) Profits Levy Act 2022.
+
+2.3.7B.2
+
+Terms used in the Energy (Oil and Gas) Profits Levy Act 2022 have the same
+meaning in this paragraph as in that Act.
+
+2.4
+
+In paragraph 8(1) (calculation of tax payable), under the heading “Third
+step”, at the end insert—
+
+      Any amount chargeable by virtue of section 1 of the Energy (Oil and Gas)
+Profits Levy Act 2022.
+
+##### Instalment Payments Regulations 1998
+
+3
+
+3.1
+
+The Instalment Payments Regulations 1998 are amended as follows.
+
+3.2
+
+In regulation 3 (large and very large companies), in paragraph (9), at the end
+insert  “and apart from the provision made by the Energy (Oil and Gas) Profits
+Levy Act 2022” .
+
+3.3
+
+In regulation 5AZB, in the heading, for “and adjusted ring fence profits”
+substitute  “, adjusted ring fence profits and levy profits” .
+
+3.4
+
+In regulation 5A (instalment payments —ring fence profits and adjusted ring
+fence profits)—
+
+3.4.a
+
+in paragraph (1)—
+
+3.4.a.i
+
+for “and supplementary charge” substitute  “, supplementary charge and energy
+(oil and gas) profits levy” , and
+
+3.4.a.ii
+
+for “and adjusted ring fences profits” substitute  “, adjusted ring fence
+profits and levy profits” , and
+
+3.4.b
+
+in paragraph (9), after “the appropriate decimal” insert—
+
+      “ energy (oil and gas) profits levy ” has the same meaning as in the
+Energy (Oil and Gas) Profits Levy Act 2022;           “ levy profits ” has the
+same meaning as in the Energy (Oil and Gas) Profits Levy Act 2022;
+
+.
+
+##### CTA 2010
+
+4
+
+In section 270 of CTA 2010 (overview of Part 8: oil activities), in subsection
+(1), at the end insert  “but also needs to be read with the Energy (Oil and
+Gas) Profits Levy Act 2022 (which imposes a tax in relation to ring fence
+profits)” .
+

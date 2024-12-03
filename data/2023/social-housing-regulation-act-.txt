@@ -1,0 +1,6481 @@
+Title: Social Housing (Regulation) Act 2023
+Date: 2024-06-04
+Publisher: Statute Law Database
+Identifier: http://www.legislation.gov.uk/ukpga/2023/36
+
+## Social Housing (Regulation) Act 2023
+
+                                                   B e it enacted  by the
+King’s most Excellent Majesty, by and with the advice and consent of the Lords
+Spiritual and Temporal, and Commons, in this present Parliament assembled, and
+by the authority of the same, as follows:—
+
+### The Regulator of Social Housing
+
+#### Fundamental objectives
+
+1
+
+In section 92K of the Housing and Regeneration Act 2008 (fundamental
+objectives), in subsection (3)—
+
+1.a
+
+in paragraph (a), after “well-managed” insert  “, safe, energy efficient” ;
+
+1.b
+
+in paragraph (c), omit the final “and”;
+
+1.c
+
+after paragraph (c) insert—
+
+1.c.ca
+
+to ensure that registered providers act in a transparent manner in relation to
+their tenants of social housing, and
+
+.
+
+#### Advisory panel
+
+2
+
+After section 96 of the Housing and Regeneration Act 2008 insert—
+
+######## Advisory panel
+
+2.96A
+
+2.96A.1
+
+The regulator must establish a panel of persons called “the Advisory Panel”.
+
+2.96A.2
+
+The Panel may provide information and advice to the regulator about, or on
+matters connected with, the regulator’s functions (whether or not it is
+requested to do so by the regulator).
+
+2.96A.3
+
+The reference in subsection (2) to matters connected with the regulator’s
+functions includes anything which could have a significant impact on
+registered providers or the provision of social housing.
+
+2.96A.4
+
+The regulator must appoint the following persons to the Panel—
+
+2.96A.4.a
+
+persons appearing to the regulator to represent the interests of—
+
+2.96A.4.a.i
+
+registered providers;
+
+2.96A.4.a.ii
+
+secured creditors of registered providers;
+
+2.96A.4.a.iii
+
+tenants of social housing;
+
+2.96A.4.a.iv
+
+local housing authorities,
+
+2.96A.4.b
+
+the Greater London Authority,
+
+2.96A.4.c
+
+the HCA, and
+
+2.96A.4.d
+
+the Secretary of State.
+
+2.96A.5
+
+The regulator may appoint such other persons to the Panel as it thinks fit to
+appoint.
+
+2.96A.6
+
+The regulator may make payments to persons who are members of the Panel in
+respect of any expenses they incur in connection with their appointment to the
+Panel.
+
+2.96A.7
+
+The regulator must make arrangements requiring any person who is a member of
+the Panel to declare any financial or other personal interest relevant to the
+regulator’s functions.
+
+#### Collection of information
+
+3
+
+3.1
+
+The Housing and Regeneration Act 2008 is amended as follows.
+
+3.2
+
+In section 107 (collection)—
+
+3.2.a
+
+for subsection (1) substitute—
+
+3.2.a.1
+
+The regulator, or a person authorised under subsection (4A), may for a purpose
+connected with the regulator’s functions require a person to provide documents
+or information which the regulator or person authorised (as the case may be)
+has reason to believe is or may be in the person’s possession.
+
+;
+
+3.2.b
+
+omit subsection (2);
+
+3.2.c
+
+before subsection (3), insert—
+
+3.2.c.2A
+
+A requirement under subsection (1) may also require the person to provide an
+explanation of any document or information required under that subsection.
+
+;
+
+3.2.d
+
+in subsection (3)—
+
+3.2.d.i
+
+in the opening words, after “requirement” insert  “under subsection (1)” ;
+
+3.2.d.ii
+
+in paragraph (a), for “document or information” substitute  “document,
+information or an explanation” ;
+
+3.2.e
+
+in subsection (4), for “documents or information” substitute  “documents,
+information or explanations” ;
+
+3.2.f
+
+after subsection (4) insert—
+
+3.2.f.4A
+
+The regulator may in writing authorise a person to exercise any of its powers
+under this section.
+
+3.2.f.4B
+
+An authorisation—
+
+3.2.f.4B.a
+
+must specify the extent to which the person is authorised to exercise the
+powers, and
+
+3.2.f.4B.b
+
+may provide that the person is to be authorised for a particular period.
+
+;
+
+3.2.g
+
+in subsection (5), after “requirement” insert  “under subsection (1)” ;
+
+3.2.h
+
+in subsection (6), for “to which a requirement relates” substitute  “required
+under subsection (1)” ;
+
+3.2.i
+
+after subsection (6) insert—
+
+3.2.i.6A
+
+Knowingly or recklessly providing the regulator, or a person authorised under
+subsection (4A), with a document, information or an explanation which is false
+or misleading in purported compliance with a requirement under subsection (1)
+is an offence.
+
+;
+
+3.2.j
+
+in subsection (7), after “requirement” insert  “under subsection (1)” .
+
+3.3
+
+In section 108 (section 107: supplemental)—
+
+3.3.a
+
+in subsection (1), after “requirement” insert  “under section 107(1)” ;
+
+3.3.b
+
+for subsection (2) substitute—
+
+3.3.b.2
+
+A requirement under section 107(1) does not require a banker to breach a duty
+of confidentiality owed to a person who is not—
+
+3.3.b.2.a
+
+a registered provider,
+
+3.3.b.2.b
+
+a subsidiary of a registered provider,
+
+3.3.b.2.c
+
+an associate of a registered provider, or
+
+3.3.b.2.d
+
+a person who is certified in writing by the regulator as being—
+
+3.3.b.2.d.i
+
+a person who has applied to be entered in the register of providers of social
+housing, or
+
+3.3.b.2.d.ii
+
+a local authority which the regulator thinks may be, or may become, a provider
+of social housing.
+
+;
+
+3.3.c
+
+in subsection (3), omit the words from “not” to the end;
+
+3.3.d
+
+in subsection (4)—
+
+3.3.d.i
+
+in the words before paragraph (a), after “107(6)” insert  “or (6A)” ;
+
+3.3.d.ii
+
+in paragraph (a) omit the words from “not” to the end;
+
+3.3.e
+
+in subsection (5), for “or (6)” substitute  “, (6) or (6A)” .
+
+#### Power to charge fees
+
+4
+
+4.1
+
+Section 117 of the Housing and Regeneration Act 2008 (fees) is amended as set
+out in subsections  (2)  to  (6) .
+
+4.2
+
+In subsection (1)(a), after “fee” insert  “for dealing with an application” .
+
+4.3
+
+After subsection (1) insert—
+
+4.3.1A
+
+The regulator may make dealing with an application for initial registration
+conditional upon the payment of the fee.
+
+4.4
+
+In subsection (2) omit “initial or”.
+
+4.5
+
+After subsection (4) insert—
+
+4.5.4A
+
+The amount of a fee payable under this section may be calculated by reference
+to costs incurred, or likely to be incurred, by the regulator in the
+performance of any of its functions, including costs unconnected with the fee-
+payer and costs unconnected with registration or regulation under this Part.
+
+4.6
+
+In subsection (5)—
+
+4.6.a
+
+in paragraph (a), for “expenditure on” substitute  “the costs incurred in” ;
+
+4.6.b
+
+omit paragraph (b) (but not the “and” following it);
+
+4.6.c
+
+in paragraph (c), for “to which it relates” substitute  “incurred, or likely
+to be incurred, in the performance of the regulator’s functions” .
+
+4.7
+
+In section 202 of the Housing and Regeneration Act 2008 (inspections:
+supplemental) omit subsections (4) to (7).
+
+#### Relationship between regulator and housing ombudsman
+
+5
+
+5.1
+
+The Housing and Regeneration Act 2008 is amended as set out in subsections (2)
+to (5).
+
+5.2
+
+After section 100G insert—
+
+########## Relationship with housing ombudsman
+
+########### Relationship with housing ombudsman
+
+5.2.100H
+
+5.2.100H.1
+
+The regulator and a housing ombudsman must each take such steps as it
+considers appropriate to co-operate in the exercise of their respective
+functions.
+
+5.2.100H.2
+
+The regulator and a housing ombudsman must prepare and maintain a memorandum
+describing how they intend to comply with subsection (1).
+
+5.2.100H.3
+
+The regulator and a housing ombudsman must ensure that the memorandum between
+them as currently in force is published in the way appearing to them to be
+best calculated to bring it to the attention of the public.
+
+5.3
+
+In section 196 (consultation), in subsection (1), after paragraph (ea) insert—
+
+5.3.eb
+
+any housing ombudsman,
+
+.
+
+5.4
+
+In section 197 (direction by Secretary of State), in subsection (4), after
+paragraph (aa) insert—
+
+5.4.ab
+
+any housing ombudsman,
+
+.
+
+5.5
+
+In section 275 (general interpretation), after the entry relating to the HCA
+insert—
+
+                                    “ housing ombudsman ” means a housing
+ombudsman appointed in accordance with a scheme approved under Schedule 2 to
+the Housing Act 1996,
+
+.
+
+5.6
+
+In Schedule 2 to the Housing Act 1996 (social rented sector: housing
+complaints), in paragraph 3 (approval of scheme etc), in sub-paragraph (1),
+for the words from “shall be made” to the end substitute—
+
+5.6.a
+
+may only be made after the applicant has consulted the Regulator of Social
+Housing,
+
+5.6.b
+
+shall be made in such manner as the Secretary of State may determine, and
+
+5.6.c
+
+shall be accompanied by such information as the Secretary of State may
+require.
+
+### Registration of providers of social housing
+
+#### Meaning of “English body”
+
+6
+
+In section 79 of the Housing and Regeneration Act 2008 (English bodies), in
+subsection (1)—
+
+6.a
+
+after paragraph (c) insert
+
+and
+
+6.a.f
+
+a limited liability partnership which has its registered office in England.
+
+;
+
+6.b
+
+omit paragraphs (d) and (e).
+
+#### Registration criteria
+
+7
+
+In section 112 of the Housing and Regeneration Act 2008 (eligibility for
+voluntary registration), in subsection (3)—
+
+7.a
+
+in the opening words omit “as to”;
+
+7.b
+
+in paragraph (a), at the beginning insert  “as to” ;
+
+7.c
+
+in paragraph (b)—
+
+7.c.i
+
+at the beginning insert  “as to” ;
+
+7.c.ii
+
+omit “and”;
+
+7.d
+
+in paragraph (c)—
+
+7.d.i
+
+at the beginning insert  “as to” ;
+
+7.d.ii
+
+at the end insert
+
+, and
+
+7.d.ii.d
+
+to secure that the body would meet, on registration, standards set by the
+regulator under sections 193, 194,  194A  and  194C .
+
+#### Designation
+
+8
+
+Section 115 of the Housing and Regeneration Act 2008 (profit-making and non-
+profit organisations) is amended as follows—
+
+8.a
+
+omit subsection (2);
+
+8.b
+
+for subsection (3) substitute—
+
+8.b.3
+
+A body is a non-profit organisation if—
+
+8.b.3.a
+
+it is a registered or non-registrable charity and satisfies Conditions 1 and
+2, or
+
+8.b.3.b
+
+otherwise, it satisfies Conditions 1 to 3.
+
+;
+
+8.c
+
+in subsection (4)—
+
+8.c.i
+
+in paragraph (a), omit “or”;
+
+8.c.ii
+
+omit paragraph (b);
+
+8.d
+
+after subsection (6) insert—
+
+8.d.6A
+
+The fact that a body is prohibited by its constitution from trading for profit
+does not, of itself, mean that it is a body which does not trade for profit
+for the purposes of subsection (4)(a).
+
+;
+
+8.e
+
+in subsection (8) omit “(2) or”.
+
+#### De-registration
+
+9
+
+In section 118 of the Housing and Regeneration Act 2008 (compulsory de-
+registration), in subsection (1), after paragraph (a) insert—
+
+9.aa
+
+has failed to meet a standard under section 193, 194 or  194C ,
+
+.
+
+### Duties of registered providers
+
+#### Appointment of health and safety lead by registered provider
+
+10
+
+10.1
+
+The Housing and Regeneration Act 2008 is amended as follows.
+
+10.2
+
+Before section 127 (and the heading immediately before it) insert—
+
+########## Health and safety lead for registered provider
+
+########### Designation of health and safety lead
+
+10.2.126A
+
+10.2.126A.1
+
+A registered provider must designate an individual to carry out the functions
+in section 126B.
+
+10.2.126A.2
+
+The individual designated under subsection  (1)  is referred to in this Part
+as the “ health and safety lead ” for the registered provider.
+
+10.2.126A.3
+
+The health and safety lead must be—
+
+10.2.126A.3.a
+
+in the case of a private registered provider—
+
+10.2.126A.3.a.i
+
+if the provider has at least 15 employees, an employee of the provider;
+
+10.2.126A.3.a.ii
+
+otherwise, an employee or officer of the provider;
+
+10.2.126A.3.b
+
+in the case of a local authority which operates executive arrangements and has
+a leader and cabinet executive (England)—
+
+10.2.126A.3.b.i
+
+the executive leader,
+
+10.2.126A.3.b.ii
+
+another member of the executive, or
+
+10.2.126A.3.b.iii
+
+an employee of the authority;
+
+10.2.126A.3.c
+
+in the case of a local authority which operates executive arrangements and has
+a mayor and cabinet executive—
+
+10.2.126A.3.c.i
+
+a member of the executive other than the elected mayor, or
+
+10.2.126A.3.c.ii
+
+an employee of the authority;
+
+10.2.126A.3.d
+
+in the case of the Common Council of the City of London, an employee of the
+Common Council;
+
+10.2.126A.3.e
+
+in the case of any other local authority—
+
+10.2.126A.3.e.i
+
+the chairman or vice-chairman of the authority (if holding a paid office), or
+
+10.2.126A.3.e.ii
+
+an employee of the authority.
+
+10.2.126A.4
+
+In this section and section  126B , the following terms have the same meanings
+as in Part 1A of the Local Government Act 2000 (and see the provisions of that
+Act mentioned)—
+
+                                                      “ elected mayor ”
+(section 9H(1));
+“ executive ” (section 9C);
+“ executive arrangements ” (section 9B(4));
+“ executive leader ” (section 9C(3)(a));
+“ leader and cabinet executive (England) ” (section 9C(3));
+“ mayor and cabinet executive ” (section 9C(2)).
+
+10.2.126A.5
+
+For the purposes of subsection  (3) (e) (i) —
+
+10.2.126A.5.a
+
+the references to the chairman and vice-chairman of an authority are to those
+persons elected under section 3 or 5 of the Local Government Act 1972 (or in
+relation to a London borough council are to be read in accordance with section
+270(4) of that Act);
+
+10.2.126A.5.b
+
+a chairman or vice-chairman holds a “paid office” if the council pays the
+person an allowance.
+
+10.2.126A.6
+
+The Secretary of State may by regulations amend this section to alter who may
+be the health and safety lead for a registered provider.
+
+########### Functions of the health and safety lead
+
+10.2.126B
+
+10.2.126B.1
+
+The functions of the health and safety lead for a registered provider are to—
+
+10.2.126B.1.a
+
+monitor the provider’s compliance with health and safety requirements;
+
+10.2.126B.1.b
+
+assess risks of failure to comply with health and safety requirements;
+
+10.2.126B.1.c
+
+notify the responsible body of the provider of—
+
+10.2.126B.1.c.i
+
+risks assessed under paragraph  (b)  of material failures by the provider to
+comply with health and safety requirements;
+
+10.2.126B.1.c.ii
+
+material failures by the provider to comply with health and safety
+requirements;
+
+10.2.126B.1.d
+
+provide advice to the responsible body as to how the provider should address
+risks and failures notified to the responsible body under paragraph  (c)  for
+the purpose of ensuring that the provider complies with health and safety
+requirements.
+
+10.2.126B.2
+
+In this Part, “ health and safety requirement ”, in relation to a registered
+provider, means a statutory requirement, so far as it—
+
+10.2.126B.2.a
+
+relates to the health or safety of tenants of social housing, and
+
+10.2.126B.2.b
+
+applies to the provider by virtue of being the provider of that social housing
+(including where it is expressed as applying to a landlord or employer or in
+some other way).
+
+10.2.126B.3
+
+In this section, “ statutory requirement ” means a requirement imposed by or
+by virtue of legislation and includes—
+
+10.2.126B.3.a
+
+an obligation under a covenant implied by or under legislation (such as a
+covenant under section 9A of the Landlord and Tenant Act 1985 (fitness for
+human habitation of dwellings in England));
+
+10.2.126B.3.b
+
+a requirement imposed—
+
+10.2.126B.3.b.i
+
+by a notice given under legislation, or
+
+10.2.126B.3.b.ii
+
+by or as a result of other action (such as enforcement action mentioned in
+section 5(2) or 7(2) of the Housing Act 2004 (housing conditions: category 1
+and 2 hazards)) taken under legislation.
+
+10.2.126B.4
+
+In subsection  (3) , “ legislation ” means any provision of or made under—
+
+10.2.126B.4.a
+
+an Act of Parliament, or
+
+10.2.126B.4.b
+
+a Measure or Act of Senedd Cymru.
+
+10.2.126B.5
+
+For the purposes of this section, the “responsible body” of a registered
+provider—
+
+10.2.126B.5.a
+
+in the case of a local authority which operates executive arrangements, is the
+executive;
+
+10.2.126B.5.b
+
+in the case of any other local authority, is the councillors;
+
+10.2.126B.5.c
+
+in the case of a private registered provider, has the meaning given by the
+following table—
+
+                                           Private registered provider Meaning
+of “responsible body”
+Registered charity which is not a registered company Its charity trustees
+within the meaning given by section 177 of the Charities Act 2011 Registered
+society Its committee within the meaning given by section 149 of the Co-
+operative and Community Benefit Societies Act 2014 Registered company Its
+directors within the meaning given by section 250 of the Companies Act 2006
+Limited liability partnership Its members
+
+(See section  126A (4)  for the meanings of terms used in paragraph  (a) .)
+
+########### Duties of registered provider in relation to health and safety lead
+
+10.2.126C
+
+10.2.126C.1
+
+A registered provider must—
+
+10.2.126C.1.a
+
+ensure that the health and safety lead—
+
+10.2.126C.1.a.i
+
+has sufficient authority (including, in particular, authority to obtain
+information) within the provider’s organisation, and
+
+10.2.126C.1.a.ii
+
+can devote sufficient time to the functions of the health and safety lead,
+
+to perform the role of health and safety lead effectively;
+
+10.2.126C.1.b
+
+provide the health and safety lead with the resources needed to carry out
+those functions.
+
+10.2.126C.2
+
+A registered provider must, in accordance with requirements published by the
+regulator—
+
+10.2.126C.2.a
+
+notify the regulator of the name and contact details of the health and safety
+lead, and
+
+10.2.126C.2.b
+
+publish that information.
+
+########### Health and safety lead: general
+
+10.2.126D
+
+10.2.126D.1
+
+Nothing in sections  126A  to  126C  affects—
+
+10.2.126D.1.a
+
+the responsibility of a registered provider for compliance with health and
+safety requirements, or
+
+10.2.126D.1.b
+
+the liability of the registered provider or of any director, member or other
+officer or person for a failure to comply with health and safety requirements.
+
+10.2.126D.2
+
+The health and safety lead is not, by virtue of those sections—
+
+10.2.126D.2.a
+
+responsible for the registered provider’s compliance with health and safety
+requirements, or
+
+10.2.126D.2.b
+
+liable for a failure by the registered provider to comply with health and
+safety requirements,
+
+(but this does not affect any responsibility or liability which the individual
+designated under section  126A  has otherwise than as health and safety lead).
+
+10.2.126D.3
+
+A registered provider may nominate an individual to carry out the functions of
+the health and safety lead if the health and safety lead is unable to act due
+to absence or illness.
+
+10.3
+
+In section 220 (grounds for giving enforcement notice), at the appropriate
+place insert—
+
+10.3.11B
+
+Case 12 is where—
+
+10.3.11B.a
+
+the registered provider—
+
+10.3.11B.a.i
+
+does not have a health and safety lead designated under section  126A , or
+
+10.3.11B.a.ii
+
+has failed to meet a requirement under section  126C , or
+
+10.3.11B.b
+
+the functions of the health and safety lead are not being carried out.
+
+10.4
+
+In section 227 (grounds for imposition of penalty), at the appropriate place
+insert—
+
+10.4.7B
+
+Case 8 is where—
+
+10.4.7B.a
+
+the registered provider—
+
+10.4.7B.a.i
+
+does not have a health and safety lead designated under section  126A , or
+
+10.4.7B.a.ii
+
+has failed to meet a requirement under section  126C , or
+
+10.4.7B.b
+
+the functions of the health and safety lead are not being carried out.
+
+10.5
+
+In section 247(1) (management tender), before paragraph (b) insert—
+
+10.5.ab
+
+a registered provider—
+
+10.5.ab.i
+
+does not have a health and safety lead designated under section  126A , or
+
+10.5.ab.ii
+
+has failed to meet a requirement under section  126C (1) ,
+
+10.5.ac
+
+the functions of the health and safety lead are not being carried out,
+
+.
+
+10.6
+
+In section 251(1) (appointment of manager of private registered provider),
+before paragraph (b) insert—
+
+10.6.ab
+
+a private registered provider—
+
+10.6.ab.i
+
+does not have a health and safety lead designated under section  126A , or
+
+10.6.ab.ii
+
+has failed to meet a requirement under section  126C (1) ,
+
+10.6.ac
+
+the functions of the health and safety lead are not being carried out,
+
+.
+
+10.7
+
+In section 252A(2) (appointment of advisers to local authorities)—
+
+10.7.a
+
+in paragraph (a), omit the final “or”;
+
+10.7.b
+
+after paragraph (b) insert—
+
+10.7.b.c
+
+that the authority—
+
+10.7.b.c.i
+
+does not have a health and safety lead designated under section  126A , or
+
+10.7.b.c.ii
+
+has failed to meet a requirement under section  126C (1) ,
+
+10.7.b.d
+
+that the functions of the health and safety lead are not being carried out
+
+.
+
+10.8
+
+In section 320 (orders and regulations), in subsection (3)(d), for “or 72”
+substitute  “, 72 or  126A ” .
+
+#### Electrical safety standards
+
+11
+
+11.1
+
+Section 122 of the Housing and Planning Act 2016 (electrical safety standards
+for properties let by private landlords) is amended as follows.
+
+11.2
+
+In the heading, for “properties let by private landlords” substitute
+“residential properties let by landlords” .
+
+11.3
+
+In subsection (1)—
+
+11.3.a
+
+omit “private”;
+
+11.3.b
+
+after “England” insert  “to whom this section applies” .
+
+11.4
+
+After subsection (1) insert—
+
+11.4.1A
+
+This section applies to a landlord who is—
+
+11.4.1A.a
+
+a private landlord, or
+
+11.4.1A.b
+
+a registered provider of social housing.
+
+### Registered providers: insolvency, restructuring etc
+
+#### Moratorium on disposal of land
+
+12
+
+12.1
+
+The Housing and Regeneration Act 2008 is amended as follows.
+
+12.2
+
+For section 145 substitute—
+
+########## Moratorium
+
+12.2.145
+
+12.2.145.1
+
+A moratorium on the disposal of land by a private registered provider begins
+when any of the events mentioned in subsection  (2)  occur in relation to the
+provider.
+
+12.2.145.2
+
+The events are—
+
+12.2.145.2.a
+
+a petition is presented under section 124 of the Insolvency Act 1986, by a
+person other than the Secretary of State, for the winding up of the provider;
+
+12.2.145.2.b
+
+an application is made by the provider under section 105(3) of the Housing and
+Planning Act 2016 for permission to pass a resolution for voluntary winding
+up;
+
+12.2.145.2.c
+
+an application is made in accordance with paragraph 12 of Schedule B1 to the
+Insolvency Act 1986, by a person other than the Secretary of State, for an
+administration order in respect of the provider;
+
+12.2.145.2.d
+
+a notice of the appointment of an administrator of the provider under
+paragraph 14 or 22 of Schedule B1 to the Insolvency Act 1986 is filed with the
+court under paragraph 18 or 29 of that Schedule;
+
+12.2.145.2.e
+
+notice of intention to enforce a security over property of the provider is
+given under section 108(2)(a) of the Housing and Planning Act 2016 or the
+requirement to give such notice is waived under section 108(2)(b) of that Act.
+
+12.3
+
+In section 146 (duration of moratorium)—
+
+12.3.a
+
+in the heading, for “Duration” substitute  “Ending” ;
+
+12.3.b
+
+omit subsection (1);
+
+12.3.c
+
+in subsection (2), in the words before paragraph (a), after “moratorium”
+insert  “mentioned in section 145” ;
+
+12.3.d
+
+in subsection (2A), in paragraph (a), for “day on which the notice mentioned
+in section 145 is given” substitute  “relevant day” ;
+
+12.3.e
+
+after subsection (2A) insert—
+
+12.3.e.2B
+
+The “relevant day” is—
+
+12.3.e.2B.a
+
+in the case of an event mentioned in section  145 (2) (a) , the day on which
+notice under section 104(2)(a) of the Housing and Planning Act 2016 is given
+or on which the requirement to give such notice is waived under section
+104(2)(b) of that Act;
+
+12.3.e.2B.b
+
+in the case of an event mentioned in section  145 (2) (b) , the day on which
+notice under section 105(4)(a) of the Housing and Planning Act 2016 is given
+or on which the requirement to give such notice is waived under section
+105(4)(b) of that Act;
+
+12.3.e.2B.c
+
+in the case of an event mentioned in section  145 (2) (c) , the day on which
+notice under section 106(3)(a)(i) of the Housing and Planning Act 2016 is
+given or on which the requirement to give such notice is waived under section
+106(3)(a)(ii) of that Act;
+
+12.3.e.2B.d
+
+in the case of an event mentioned in section  145 (2) (d) , the day on which
+notice under section 107(4)(a)(i) of the Housing and Planning Act 2016 is
+given or on which the requirement to give such notice is waived under section
+107(4)(a)(ii) of that Act;
+
+12.3.e.2B.e
+
+in the case of an event mentioned in section  145 (2) (e) , the day of that
+event.
+
+;
+
+12.3.f
+
+in subsection (3), for the words from “period,” to the end substitute
+
+period if—
+
+12.3.f.a
+
+the regulator has made reasonable enquiries with a view to locating secured
+creditors of the registered provider, and
+
+12.3.f.b
+
+where the regulator located one or more such creditors, each of them has
+consented to the extension.
+
+;
+
+12.3.g
+
+in subsection (5), omit the words from “if” to the end;
+
+12.3.h
+
+in subsection (9), for “a notice mentioned in section 145 is given” substitute
+“an event mentioned in section 145(2) occurs” .
+
+12.4
+
+In section 147 (further moratorium), in subsection (3), for the words from
+“period,” to the end substitute
+
+period if—
+
+12.4.a
+
+the regulator has made reasonable enquiries with a view to locating secured
+creditors of the registered provider, and
+
+12.4.b
+
+where the regulator located one or more such creditors, each of them has
+consented to the further moratorium.
+
+12.5
+
+In section 151 (appointment of interim manager during moratorium), in
+subsection (4), for paragraph (b) (but not the “or” following it) substitute—
+
+12.5.b
+
+when the regulator notifies the interim manager that there are proposals under
+section 152 which are agreed proposals,
+
+.
+
+12.6
+
+In section 153 (procedure for proposals made during moratorium)—
+
+12.6.a
+
+in subsection (1), after paragraph (b) insert—
+
+12.6.a.ba
+
+if the regulator is able to locate any secured creditors of the registered
+provider after making reasonable enquiries, those creditors,
+
+;
+
+12.6.b
+
+after subsection (1) insert—
+
+12.6.b.1A
+
+If no secured creditors are located for the purposes of subsection (1), the
+proposals made by the regulator following the consultation required by that
+subsection are agreed proposals for the purposes of this group of sections.
+
+;
+
+12.6.c
+
+in subsection (2)—
+
+12.6.c.i
+
+for the words before paragraph (a) substitute  “Where the regulator locates
+one or more secured creditors of the registered provider for the purposes of
+subsection (1), the regulator must, before making proposals, send a copy of
+draft proposals to—” ;
+
+12.6.c.ii
+
+for paragraph (b) (but not the “and” following it) substitute—
+
+12.6.c.ii.b
+
+the secured creditors located for the purposes of subsection (1),
+
+;
+
+12.6.d
+
+in subsection (3), in the words before paragraph (a), for the words from “The
+regulator” to “bringing” substitute  “If the regulator sends draft proposals
+under subsection (2), the regulator must also make arrangements for bringing
+those” ;
+
+12.6.e
+
+for subsection (4) substitute—
+
+12.6.e.4
+
+If each secured creditor to whom draft proposals were required to be sent
+agrees to them by notice to the regulator, the draft proposals become agreed
+proposals for the purposes of this group of sections.
+
+;
+
+12.6.f
+
+in subsection (5)—
+
+12.6.f.i
+
+in the words before paragraph (a) for “Proposals” substitute  “Draft
+proposals” ;
+
+12.6.f.ii
+
+in paragraph (a), for “proposals were sent” substitute  “draft proposals were
+required to be sent” ;
+
+12.6.g
+
+in subsection (6)(b)—
+
+12.6.g.i
+
+for “its” substitute  “any” ;
+
+12.6.g.ii
+
+for “the original” substitute  “draft” ;
+
+12.6.h
+
+for subsection (8) substitute—
+
+12.6.h.8
+
+The regulator may make proposals amending agreed proposals; and this section
+and section 152 apply to such proposals.
+
+12.7
+
+In section 158 (assistance by regulator in connection with proposals), in
+subsection (1), for “the agreement of proposals” substitute  “the regulator
+deciding whether to exercise the power under section 152 to make proposals and
+(if proposals are made) the proposals becoming agreed proposals” .
+
+#### Limited liability partnerships
+
+13
+
+Schedule  1  amends Part 2 of the Housing and Regeneration Act 2008 and
+Chapter 5 of Part 4 of the Housing and Planning Act 2016 to make provision
+about limited liability partnerships.
+
+#### Insolvency of registered providers
+
+14
+
+Schedule  2  contains amendments to provisions of the Housing and Planning Act
+2016 about procedures to be followed on the insolvency of a registered
+provider.
+
+#### Notification requirements: expansion to profit-making organisations
+
+15
+
+In the Housing and Regeneration Act 2008, in the following provisions omit
+“non-profit”—
+
+15.a
+
+section 160(1) (arrangements and reconstructions);
+
+15.b
+
+section 161(1) (conversion of registered company to registered society);
+
+15.c
+
+section 163(1) (restructuring of registered society);
+
+15.d
+
+section 165(1) (dissolution of registered society);
+
+15.e
+
+section 169A (change of rules of registered society);
+
+15.f
+
+section 169C (change of articles of registered company).
+
+#### Conversion of company into registered society: continuation of registration
+
+16
+
+In section 161 of the Housing and Regeneration Act 2008 (company: conversion
+into registered society) omit subsections (4) to (7).
+
+#### Restructuring of registered societies
+
+17
+
+17.1
+
+The Housing and Regeneration Act 2008 is amended as follows.
+
+17.2
+
+In section 163 (registered society: restructuring) omit subsections (5) to
+(8).
+
+17.3
+
+After section 163 insert—
+
+########## Restructuring of registered societies: registration of successor bodies
+
+17.3.163A
+
+17.3.163A.1
+
+This section applies where —
+
+17.3.163A.1.a
+
+a registered provider notifies the regulator of a resolution passed by the
+provider for the purposes of section 109 of the Co-operative and Community
+Benefit Societies Act 2014 (amalgamation of societies);
+
+17.3.163A.1.b
+
+a registered provider notifies the regulator of a resolution passed by the
+provider for the purposes of section 112(1)(b) of that Act (amalgamation of
+society and company);
+
+17.3.163A.1.c
+
+a registered provider notifies the regulator of a resolution passed by the
+provider for the purposes of section 110 of that Act (transfer of engagements
+between societies) and the society to which engagements are transferred is not
+a registered provider;
+
+17.3.163A.1.d
+
+a registered provider notifies the regulator of a resolution passed by the
+provider for the purposes of section 112(1)(c) of that Act (transfer of
+engagements between society and company) and the company to which engagements
+are transferred is not a registered provider.
+
+17.3.163A.2
+
+When the resolution mentioned in subsection  (1)  (“ the relevant resolution
+”) takes effect, the regulator must decide whether the successor body is
+eligible for registration under section 112.
+
+17.3.163A.3
+
+“ The successor body ” means—
+
+17.3.163A.3.a
+
+if the relevant resolution is a resolution described in paragraph  (a)  or
+(b)  of subsection  (1) , the body created by virtue of that resolution or by
+virtue of that resolution and other resolutions described in that paragraph,
+and
+
+17.3.163A.3.b
+
+if the relevant resolution is a resolution described in paragraph  (c)  or
+(d)  of subsection  (1) , the body to which engagements are transferred by
+virtue of the resolution.
+
+17.3.163A.4
+
+If the successor body is eligible for registration, the regulator must
+register it and notify it that it has done so.
+
+17.3.163A.5
+
+If the successor body is not eligible for registration, the regulator must
+notify it of that fact.
+
+17.3.163A.6
+
+Pending registration, or notification that it is not eligible for
+registration, the successor body is to be treated as if it were registered and
+designated as a non-profit organisation.
+
+#### Receipt of transfers of engagements from a registered society
+
+18
+
+18.1
+
+The Housing and Regeneration Act 2008 is amended as follows.
+
+18.2
+
+After section 161 insert—
+
+########## Company: receipt of transfer of engagements from registered society
+
+18.2.161A
+
+18.2.161A.1
+
+This section applies to a registered provider which is a registered company.
+
+18.2.161A.2
+
+The registered provider must notify the regulator if a registered society
+which is not a registered provider passes a resolution under section 112(1)(c)
+of the Co-operative and Community Benefit Societies Act 2014 transferring its
+engagements to the registered provider.
+
+18.2.161A.3
+
+The Financial Conduct Authority may register the resolution only if the
+registered society which passed it has confirmed to the Financial Conduct
+Authority that the regulator has been notified.
+
+18.3
+
+After section  163A  (inserted by section  17 ) insert—
+
+########## Registered society: receipt of transfer of engagements from another registered society
+
+18.3.163B
+
+18.3.163B.1
+
+This section applies to a registered provider which is a registered society.
+
+18.3.163B.2
+
+The registered provider must notify the regulator if a registered society
+which is not a registered provider passes a resolution under section 110(1) of
+the Co-operative and Community Benefit Societies Act 2014 transferring its
+engagements to the registered provider.
+
+18.3.163B.3
+
+The Financial Conduct Authority may register the resolution only if the
+registered society which passed it has confirmed to the Financial Conduct
+Authority that the regulator has been notified.
+
+#### Notification of constitutional changes
+
+19
+
+19.1
+
+The Housing and Regeneration Act 2008 is amended as follows.
+
+19.2
+
+In section 169A (registered societies: change of rules)—
+
+19.2.a
+
+in the heading, after “rules” insert  “etc” ;
+
+19.2.b
+
+after “society’s rules” insert  “, name or registered office” .
+
+19.3
+
+For section 169B substitute—
+
+########## Charity: change to trusts etc
+
+19.3.169B
+
+19.3.169B.1
+
+The trustees of a registered charity that is a registered provider must notify
+the regulator of any change to—
+
+19.3.169B.1.a
+
+the trusts of the charity;
+
+19.3.169B.1.b
+
+the purposes of the charity (if not falling within paragraph  (a) );
+
+19.3.169B.1.c
+
+the name of the charity entered in the register of charities;
+
+19.3.169B.1.d
+
+any number allocated to the charity by the Charity Commission which appears in
+the register of charities;
+
+19.3.169B.1.e
+
+any contact address for the charity which appears in the register of
+charities.
+
+19.3.169B.2
+
+But the duty to notify the regulator of changes to the matters mentioned in
+paragraphs  (a)  to  (c)  does not apply to the trustees of a registered
+charity that is a registered company.
+
+19.3.169B.3
+
+In this section—
+
+   “ the register of charities ” means the register of charities kept under
+section 29 of the Charities Act 2011;
+“ trusts ”, in relation to a charity, has the same meaning as in the Charities
+Act 2011 (see section 353 of that Act).
+
+19.4
+
+After section 169C insert—
+
+########## Limited liability partnership: change of name etc
+
+19.4.169CA
+
+A registered provider that is a limited liability partnership must notify the
+regulator of any change to its name or registered office.
+
+#### Notification of change of control
+
+20
+
+20.1
+
+The Housing and Regeneration Act 2008 is amended as follows.
+
+20.2
+
+Before section 169D (and the heading immediately before it) insert—
+
+########## Notification of change of control
+
+########### Application of rules about notification of change of control
+
+20.2.169CB
+
+This group of sections does not apply to local authorities.
+
+########### Change in board members
+
+20.2.169CC
+
+20.2.169CC.1
+
+A registered provider must notify the regulator if—
+
+20.2.169CC.1.a
+
+the board members of the registered provider change (whether as a result of an
+appointment or removal of a board member or for any other reason), and
+
+20.2.169CC.1.b
+
+following that change, any of the circumstances described in subsection  (2)
+arise.
+
+20.2.169CC.2
+
+The circumstances are that—
+
+20.2.169CC.2.a
+
+the number of board members of the provider has increased by more than 50%
+since the beginning of the relevant period;
+
+20.2.169CC.2.b
+
+the number of board members of the provider has decreased by more than 50%
+since the beginning of the relevant period;
+
+20.2.169CC.2.c
+
+more than 50% of the board members of the provider are persons who were not
+board members of the provider at the beginning of the relevant period.
+
+20.2.169CC.3
+
+For the purposes of this section, the “board members” of a registered provider
+are—
+
+20.2.169CC.3.a
+
+in the case of a registered charity which is not a registered company, its
+charity trustees within the meaning given by section 177 of the Charities Act
+2011;
+
+20.2.169CC.3.b
+
+in the case of a registered society, the members of its committee within the
+meaning given by section 149 of the Co-operative and Community Benefit
+Societies Act 2014;
+
+20.2.169CC.3.c
+
+in the case of a registered company, its directors within the meaning given by
+section 250 of the Companies Act 2006;
+
+20.2.169CC.3.d
+
+in the case of a limited liability partnership, its members.
+
+20.2.169CC.4
+
+For the purposes of this section, “the relevant period” is—
+
+20.2.169CC.4.a
+
+the period of 12 months ending with the day on which the change mentioned in
+subsection  (1) (a)  takes effect (“the 12 month period”), or
+
+20.2.169CC.4.b
+
+if the registered provider was not a registered provider throughout the 12
+month period, the period—
+
+20.2.169CC.4.b.i
+
+beginning with the day (or, if more than one, the latest day) in the 12 month
+period on which it became a registered provider, and
+
+20.2.169CC.4.b.ii
+
+ending with the day on which the change mentioned in subsection  (1) (a)
+takes effect.
+
+########### Change in subsidiary status
+
+20.2.169CD
+
+A registered provider must notify the regulator each time—
+
+20.2.169CD.a
+
+it becomes a subsidiary of a person, or
+
+20.2.169CD.b
+
+it ceases to be a subsidiary of a person.
+
+### Standards
+
+#### Standards relating to competence and conduct
+
+21
+
+21.1
+
+After section 194 of the Housing and Regeneration Act 2008 insert—
+
+########## Standards relating to competence and conduct
+
+21.1.194A
+
+21.1.194A.1
+
+The regulator may set standards for registered providers in matters relating
+to the competence and conduct of individuals involved in the provision of
+services in connection with the management of social housing (“relevant
+individuals”).
+
+21.1.194A.2
+
+Standards under subsection  (1)  may, in particular, require registered
+providers to comply with specified rules about—
+
+21.1.194A.2.a
+
+the knowledge, skills and experience to be required of relevant individuals,
+and
+
+21.1.194A.2.b
+
+the conduct to be expected of relevant individuals in their dealings with
+tenants.
+
+21.1.194A.3
+
+Standards under subsection  (1)  may require registered providers to secure
+that their senior housing executives and senior housing managers—
+
+21.1.194A.3.a
+
+have a specified qualification in housing management or type of qualification
+in housing management, or
+
+21.1.194A.3.b
+
+are working towards such a qualification or type of qualification.
+
+21.1.194A.4
+
+Standards under subsection  (1)  may require registered providers to take
+steps to secure that relevant managers of their services providers—
+
+21.1.194A.4.a
+
+have a specified qualification in housing management or type of qualification
+in housing management, or
+
+21.1.194A.4.b
+
+are working towards such a qualification or type of qualification.
+
+21.1.194A.5
+
+Each of the following is a “relevant manager” of a services provider—
+
+21.1.194A.5.a
+
+if the services provider is a relevant individual, that individual;
+
+21.1.194A.5.b
+
+a senior housing executive of the services provider;
+
+21.1.194A.5.c
+
+a senior housing manager of the services provider.
+
+21.1.194A.6
+
+A qualification or type of qualification specified for a senior housing
+executive may only be—
+
+21.1.194A.6.a
+
+a foundation degree, or
+
+21.1.194A.6.b
+
+a qualification or type of qualification regulated by the Office of
+Qualifications and Examinations Regulation which is of a level not exceeding
+level 5.
+
+21.1.194A.7
+
+A qualification or type of qualification specified for a senior housing
+manager, or for an individual described in subsection  (5) (a) , may only be a
+qualification or type of qualification regulated by the Office of
+Qualifications and Examinations Regulation which is of a level not exceeding
+level 4.
+
+21.1.194A.8
+
+The references in subsections  (6)  and  (7)  to the level of a qualification
+are to the level assigned to a qualification by virtue of general conditions
+set and published by the Office of Qualifications and Examinations Regulation
+under section 134 of the Apprenticeships, Skills, Children and Learning Act
+2009.
+
+21.1.194A.9
+
+Except as provided by subsections  (3)  to  (8) , standards under subsection
+(1)  may not require registered providers to comply with rules about the
+qualifications to be required of relevant individuals.
+
+21.1.194A.10
+
+See also section 217A (which makes provision implying terms relating to
+qualifications into management services agreements).
+
+########## Meaning of “services provider”, “senior housing executive” and “senior housing manager”
+
+21.1.194B
+
+21.1.194B.1
+
+This section makes provision about the meaning of terms for the purposes of
+section 194A.
+
+21.1.194B.2
+
+“ Services provider ”, in relation to a registered provider, means a person
+who, in accordance with an agreement with the registered provider or another
+person, provides services in connection with the management of social housing
+provided by the registered provider or arranges for the provision of such
+services.
+
+21.1.194B.3
+
+For the purposes of subsection  (2) , an agreement does not include a contract
+of employment or a contract of apprenticeship.
+
+21.1.194B.4
+
+“Senior housing executive” of a registered provider means a relevant
+individual who—
+
+21.1.194B.4.a
+
+is an employee or officer of the registered provider,
+
+21.1.194B.4.b
+
+has responsibility (solely or jointly) for the day to day management of the
+provision of services in connection with the management of social housing
+provided by the registered provider, and
+
+21.1.194B.4.c
+
+is part of the registered provider’s senior management.
+
+21.1.194B.5
+
+“Senior housing executive” of a services provider in relation to a registered
+provider means a relevant individual who—
+
+21.1.194B.5.a
+
+is—
+
+21.1.194B.5.a.i
+
+an employee of the services provider,
+
+21.1.194B.5.a.ii
+
+an officer of the services provider, or
+
+21.1.194B.5.a.iii
+
+if the services provider is a partnership, a partner in the partnership,
+
+21.1.194B.5.b
+
+has responsibility (solely or jointly) for the day to day management of the
+provision of services in connection with the management of social housing
+provided by the registered provider, and
+
+21.1.194B.5.c
+
+is part of the services provider’s senior management.
+
+21.1.194B.6
+
+For the purposes of subsections  (4)  and  (5) , an individual is part of a
+registered provider’s or services provider’s senior management if the
+individual plays a significant role in—
+
+21.1.194B.6.a
+
+the making of decisions about how the whole or a substantial part of the
+activities of the provider which relate to social housing are to be managed or
+organised, or
+
+21.1.194B.6.b
+
+the management or organisation of the whole or a substantial part of such
+activities.
+
+21.1.194B.7
+
+“Senior housing manager” of a registered provider means a relevant individual
+who—
+
+21.1.194B.7.a
+
+is an employee of the registered provider, and
+
+21.1.194B.7.b
+
+is a senior housing and property manager for the registered provider.
+
+21.1.194B.8
+
+“Senior housing manager” of a services provider in relation to a registered
+provider means a relevant individual who—
+
+21.1.194B.8.a
+
+is an employee of the services provider,
+
+21.1.194B.8.b
+
+is a senior housing and property manager for the services provider, and
+
+21.1.194B.8.c
+
+is involved in the provision of services in connection with the management of
+social housing provided by the registered provider.
+
+21.1.194B.9
+
+For the purposes of subsections  (7)  and  (8) , whether an individual is a
+senior housing and property manager is to be determined by reference to the
+description of the occupation of senior housing and property management
+published by the Institute for Apprenticeships and Technical Education under
+section ZA10(5) of the Apprenticeships, Skills, Children and Learning Act
+2009.
+
+21.1.194B.10
+
+In this section—
+
+   “ employee ” includes a person employed under a contract of apprenticeship;
+“ relevant individual ” has the same meaning as in section 194A.
+
+21.1.194B.11
+
+The following Table gives the meaning of “ officer ” in relation to services
+providers for the purposes of this section—
+
+                         Services provider Meaning of “officer”
+Registered charity which is not a registered company Trustee, secretary or
+treasurer Registered society “Officer” within the meaning given by section 149
+of the Co-operative and Community Benefit Societies Act 2014 (including a
+person co-opted to serve on the society’s committee) Registered company
+“Officer” within the meaning given by section 1173 of the Companies Act 2006
+Limited liability partnership A member of the limited liability partnership.
+
+21.2
+
+In section 196 of that Act (consultation), after subsection (2) insert—
+
+21.2.3
+
+Before setting a standard under section 194A which imposes a requirement
+described in subsection (4) of that section, the regulator must consult, or
+ensure that there has been consultation with, each body (if any) which is
+nominated by the Secretary of State for the purposes of this subsection.
+
+21.2.4
+
+The Secretary of State may nominate a body for the purposes of subsection  (3)
+only if the body appears to the Secretary of State to represent the interests
+of services providers in relation to registered providers (as defined in
+section  194B (2) ).
+
+21.2.5
+
+The Secretary of State must notify the regulator of any nomination (or
+withdrawal of any nomination) made for the purposes of subsection  (3) .
+
+21.3
+
+In section 197 of that Act (direction by Secretary of State), after subsection
+(5) insert—
+
+21.3.5A
+
+Before giving a direction to set a standard under section 194A which imposes a
+requirement described in subsection (4) of that section, the Secretary of
+State must consult one or more bodies appearing to the Secretary of State to
+represent the interests of services providers in relation to registered
+providers (as defined in section  194B (2) ).
+
+21.4
+
+After section 217 of that Act insert—
+
+########## Implied terms of management services agreements relating to qualifications
+
+21.4.217A
+
+21.4.217A.1
+
+Each management services agreement in relation to social housing of a
+registered provider, whenever entered into, is to be treated as including the
+terms set out in subsection (4).
+
+21.4.217A.2
+
+In this section, a “ management services agreement ”, in relation to social
+housing of a registered provider, means an agreement under which one person (a
+“services provider”) agrees with another person (the “services recipient”) to
+provide services in connection with the management of social housing provided
+by the registered provider or to arrange for the provision of such services.
+
+21.4.217A.3
+
+For the purposes of subsection  (2) —
+
+21.4.217A.3.a
+
+an agreement does not include a contract of employment or a contract of
+apprenticeship, and
+
+21.4.217A.3.b
+
+the services recipient may be the registered provider or another person.
+
+21.4.217A.4
+
+The terms are that—
+
+21.4.217A.4.a
+
+the services provider must secure that its relevant managers who are involved
+in the provision of services in connection with the management of social
+housing to which the agreement relates meet the qualification standard at all
+times;
+
+21.4.217A.4.b
+
+in the event that the services provider does not comply with the term set out
+in paragraph (a), the services provider will take such action to rectify the
+non-compliance as is reasonably required by the services recipient;
+
+21.4.217A.4.c
+
+the services provider must comply with any reasonable request for information
+demonstrating whether or not the services provider is complying with the term
+in paragraph (a) that is made by the registered provider who provides the
+social housing to which the agreement relates or (if different) the services
+recipient.
+
+21.4.217A.5
+
+A relevant manager of a services provider under a management services
+agreement “meets the qualification standard” if—
+
+21.4.217A.5.a
+
+a standard is in force under section 194A which requires the registered
+provider who provides the social housing to which the agreement relates to
+take steps to secure that the manager has, or is working towards, a
+qualification or type of qualification in housing management, and
+
+21.4.217A.5.b
+
+the manager has or (as the case may be) is working towards such a
+qualification,
+
+or if there is no standard in force under section 194A which imposes a
+requirement described in paragraph (a).
+
+21.4.217A.6
+
+A term of a management services agreement is not binding on the services
+recipient to the extent it would—
+
+21.4.217A.6.a
+
+exclude or restrict the liability of the services provider for breach of a
+term implied by this section, or
+
+21.4.217A.6.b
+
+prevent an obligation under a term implied by this section arising or limiting
+its extent.
+
+21.4.217A.7
+
+In this section “ relevant manager ”, in relation to a services provider, has
+the same meaning as it has for the purposes of section 194A (see section
+194A(5)).
+
+21.5
+
+In consequence of the amendment made by subsection (4), in section 192 of that
+Act—
+
+21.5.a
+
+in paragraph (d), omit the final “and”;
+
+21.5.b
+
+at the end of paragraph (e) insert
+
+, and
+
+21.5.b.f
+
+makes provision about terms to be implied into management services agreements
+(section 217A).
+
+#### Standards relating to information and transparency
+
+22
+
+22.1
+
+The Housing and Regeneration Act 2008 is amended as follows.
+
+22.2
+
+After  section 194B  (inserted by  section 21 ) insert—
+
+########## Standards relating to information and transparency
+
+22.2.194C
+
+22.2.194C.1
+
+The regulator may set standards for registered providers in matters relating
+to the provision of information to their tenants of social housing and to the
+regulator, including standards requiring information to be published.
+
+22.2.194C.2
+
+Standards under subsection  (1)  may, in particular, require registered
+providers to comply with specified rules about—
+
+22.2.194C.2.a
+
+the provision of information to their tenants of social housing concerning the
+accommodation, facilities or services provided in connection with social
+housing, including information concerning—
+
+22.2.194C.2.a.i
+
+their tenants’ rights in connection with those things, and
+
+22.2.194C.2.a.ii
+
+how to make complaints against registered providers,
+
+22.2.194C.2.b
+
+monitoring their compliance with standards under this section and sections
+193, 194 and  194A  and informing the regulator if they have failed, or there
+is a risk they will fail, to meet any of those standards, and
+
+22.2.194C.2.c
+
+the publication of information about—
+
+22.2.194C.2.c.i
+
+the remuneration of their executives, and
+
+22.2.194C.2.c.ii
+
+their income, management costs and other expenditure.
+
+22.2.194C.3
+
+For the purposes of subsection  (2) (c) , an “ executive ”, in relation to a
+registered provider, means an individual who is both—
+
+22.2.194C.3.a
+
+an officer or employee of the registered provider, and
+
+22.2.194C.3.b
+
+responsible for the management of the provider.
+
+22.3
+
+In section 220 (grounds for giving enforcement notice), in subsection (2), for
+“193 or 194” substitute  “193, 194 or  194C ” .
+
+22.4
+
+In section 227 (grounds for imposition of penalty), in subsection (2), for
+“193 or 194” substitute  “193, 194 or  194C ” .
+
+22.5
+
+In section 237 (grounds for award of compensation), in subsection (2), for
+“193 or 194” substitute  “193, 194 or  194C ” .
+
+22.6
+
+In section 247 (management tender), in subsection (1)(a), for “193 or 194”
+substitute  “193, 194 or  194C ” .
+
+22.7
+
+In section 251 (appointment of manager), in subsection (1)(a), for “193 or
+194” substitute  “193, 194 or  194C ” .
+
+#### Code of practice: standards relating to consumer matters
+
+23
+
+In section 195 of the Housing and Regeneration Act 2008 (code of practice)—
+
+23.a
+
+in subsection (1)(a), omit “under section 194”;
+
+23.b
+
+in subsection (2), omit “under that section”.
+
+#### Direction by Secretary of State
+
+24
+
+In section 197 of the Housing and Regeneration Act 2008 (direction by
+Secretary of State), after subsection (2) insert—
+
+24.2A
+
+The Secretary of State may direct the regulator—
+
+24.2A.a
+
+to set a standard under  section 194A ,
+
+24.2A.b
+
+to set a standard under section  194C  which relates, in the Secretary of
+State’s opinion, to the matters in section  194C (2) (a) ,
+
+24.2A.c
+
+about the content of standards described in paragraph  (a)  or  (b) , or
+
+24.2A.d
+
+to have regard to specified objectives when setting those standards.
+
+#### Secretary of State’s duty to give direction about providing information to tenants
+
+25
+
+25.1
+
+The Secretary of State must give a direction to the Regulator of Social
+Housing under section 197(2A) of the Housing and Regeneration Act 2008 about
+setting a standard under section  194C  of that Act (standards relating to
+information and transparency) for the purpose of securing that registered
+providers of social housing are required to provide their tenants of low cost
+rental accommodation with information about—
+
+25.1.a
+
+their tenants’ rights in connection with the low cost rental accommodation and
+with facilities or services provided in connection with that accommodation,
+and
+
+25.1.b
+
+how their tenants can make a complaint against them.
+
+25.2
+
+The Secretary of State must give the direction before the end of the period of
+six months beginning with the day on which this Act is passed.
+
+25.3
+
+In this section—
+
+                           “ low cost rental accommodation ” means
+accommodation which—
+is low cost rental accommodation (as defined in section 69 of the Housing and
+Regeneration Act 2008) provided by a registered provider of social housing,
+and
+is not low cost home ownership accommodation (as defined in section 70 of that
+Act);
+“ tenant ”, in relation to low cost rental accommodation, includes other
+occupiers.
+
+#### Failure to meet standards: exercise of intervention powers
+
+26
+
+Omit sections 198A and 198B of the Housing and Regeneration Act 2008.
+
+#### Performance monitoring
+
+27
+
+27.1
+
+The Housing and Regeneration Act 2008 is amended as follows.
+
+27.2
+
+Before section 199 (and the heading immediately before it) insert—
+
+########## Performance information
+
+########### Directions about performance information
+
+27.2.198C
+
+27.2.198C.1
+
+The regulator may give directions to registered providers requiring them to
+collect, process and publish information about their performance in relation
+to matters covered by standards under sections 193, 194,  194A  and  194C .
+
+27.2.198C.2
+
+Directions under subsection  (1)  may, in particular, specify or describe—
+
+27.2.198C.2.a
+
+the information that must be collected,
+
+27.2.198C.2.b
+
+the period the information must cover,
+
+27.2.198C.2.c
+
+the method of collecting, processing and presenting information,
+
+27.2.198C.2.d
+
+the form in which information must be presented, and
+
+27.2.198C.2.e
+
+what information must be published and when and the manner of publication.
+
+27.2.198C.3
+
+A direction—
+
+27.2.198C.3.a
+
+may make provision that applies generally or only to specified cases,
+circumstances or registered providers, and
+
+27.2.198C.3.b
+
+may make different provision for different cases, circumstances or registered
+providers.
+
+27.2.198C.4
+
+The regulator must make arrangements for bringing a direction to the attention
+of every registered provider to which it applies.
+
+27.2.198C.5
+
+The regulator may request that a registered provider send to the regulator—
+
+27.2.198C.5.a
+
+any information collected by the registered provider pursuant to directions
+under subsection  (1) ;
+
+27.2.198C.5.b
+
+an analysis of that information;
+
+27.2.198C.5.c
+
+an explanation of how the information was collected, processed or published.
+
+27.3
+
+In section 220 (grounds for giving enforcement notice), at the appropriate
+place insert—
+
+27.3.11C
+
+Case 13 is where the registered provider has failed to comply with directions
+or a request under section 198C.
+
+27.4
+
+In section 227 (grounds for imposition of penalty), at the appropriate place
+insert—
+
+27.4.7C
+
+Case 9 is where the registered provider has failed to comply with directions
+or a request under section 198C.
+
+### Monitoring and enforcement
+
+#### Surveys
+
+28
+
+28.1
+
+The Housing and Regeneration Act 2008 is amended as follows.
+
+28.2
+
+In section 199 (survey)—
+
+28.2.a
+
+in subsection (3)—
+
+28.2.a.i
+
+for “subsection (2)” substitute  “this section and in sections 199A to 200,” ,
+and
+
+28.2.a.ii
+
+for “of this section” substitute  “of the section concerned” ;
+
+28.2.b
+
+omit subsections (4) to (6);
+
+28.2.c
+
+after subsection (8) insert—
+
+28.2.c.9
+
+Arrangements for a person other than a member of the regulator’s staff to
+carry out a survey may include provision about payments.
+
+28.3
+
+After section 199 insert—
+
+########## Survey: power to enter without warrant
+
+28.3.199A
+
+28.3.199A.1
+
+An authorised person may enter premises at any reasonable time, or times, to
+carry out a survey under section 199.
+
+28.3.199A.2
+
+The power in subsection  (1)  may only be exercised if an authorised person
+has given at least 48 hours’ notice of the first exercise of the power—
+
+28.3.199A.2.a
+
+to the registered provider, and
+
+28.3.199A.2.b
+
+if the premises are occupied, to the occupier (or any one of the occupiers).
+
+28.3.199A.3
+
+The requirement to give notice may be waived—
+
+28.3.199A.3.a
+
+in the case of notice required by  subsection (2) (a) , by the registered
+provider, and
+
+28.3.199A.3.b
+
+in the case of notice required by  subsection (2) (b) , by the occupier (or
+any one of the occupiers) of the premises.
+
+28.3.199A.4
+
+Notice under  subsection (2)  may state that, if entry to the premises were to
+be refused, an authorised person would propose to apply for a warrant under
+section  199B .
+
+28.3.199A.5
+
+Notice required by  subsection (2) (b)  may be given by fixing it to some
+conspicuous part of the premises.
+
+28.3.199A.6
+
+An authorised person who under this section has entered, or who is seeking to
+enter, premises in order to carry out a survey must produce a copy of the
+authorisation mentioned in section 199(3) on request by an occupier.
+
+28.3.199A.7
+
+An authorised person entering premises to carry out a survey may—
+
+28.3.199A.7.a
+
+be accompanied by such other persons, and
+
+28.3.199A.7.b
+
+take onto the premises such equipment or materials,
+
+as the authorised person thinks necessary for the purposes of carrying out the
+survey.
+
+28.3.199A.8
+
+Equipment or materials taken onto premises by virtue of subsection  (7)  may
+be left in a place on the premises until the survey has been carried out
+provided that—
+
+28.3.199A.8.a
+
+leaving the equipment or the materials in that place does not significantly
+impair the ability of an occupier to use the premises, or
+
+28.3.199A.8.b
+
+leaving the equipment or the materials on the premises is necessary for the
+purposes of carrying out the survey and it is not possible to leave it or them
+in a place that does not significantly impair the ability of an occupier to
+use the premises.
+
+28.3.199A.9
+
+Where the premises include common parts of a building, references in
+subsection  (8)  to the ability of an occupier to use the premises include the
+ability of an occupier of a dwelling that has use of the common parts to use
+those parts or the dwelling.
+
+28.3.199A.10
+
+In this section, “ common parts ”, in relation to a building, includes the
+structure and exterior of that building and any common facilities provided
+(whether or not in the building) for persons who occupy the building.
+
+########## Survey: power to enter with warrant
+
+28.3.199B
+
+28.3.199B.1
+
+This section applies where a justice of the peace is satisfied, on sworn
+information in writing by an authorised person, that entry to premises
+specified in the information is reasonably required to carry out a survey
+under section 199.
+
+28.3.199B.2
+
+The justice may issue a warrant authorising the authorised person who is named
+in it to enter the premises to carry out the survey where the justice is
+satisfied that—
+
+28.3.199B.2.a
+
+entry to the premises has been sought under section  199A  but has been
+refused,
+
+28.3.199B.2.b
+
+the premises are unoccupied or that the occupier is temporarily absent, or
+
+28.3.199B.2.c
+
+there are reasonable grounds to believe that the authorised person will not be
+able to obtain entry to the premises without a warrant.
+
+28.3.199B.3
+
+A warrant under this section authorises the authorised person to enter the
+premises at any reasonable time, or times, using reasonable force if
+necessary.
+
+28.3.199B.4
+
+A warrant under this section authorises an authorised person entering premises
+to take onto the premises such equipment or materials as the authorised person
+thinks necessary for the purposes of carrying out the survey.
+
+28.3.199B.5
+
+Equipment or materials taken onto premises by virtue of subsection  (4)  may
+be left in a place on the premises until the survey has been carried out
+provided that—
+
+28.3.199B.5.a
+
+leaving the equipment or the materials in that place does not significantly
+impair the ability of an occupier to use the premises, or
+
+28.3.199B.5.b
+
+leaving the equipment or the materials on the premises is necessary for the
+purposes of carrying out the survey and it is not possible to leave it or them
+in a place that does not significantly impair the ability of an occupier to
+use the premises.
+
+28.3.199B.6
+
+Where the premises include common parts of a building (as defined in section
+199A ), references in subsection  (5)  to the ability of an occupier to use
+the premises include the ability of an occupier of a dwelling that has use of
+the common parts to use those parts or the dwelling.
+
+28.3.199B.7
+
+A warrant under this section may authorise persons (“accompanying persons”) to
+accompany the authorised person.
+
+28.3.199B.8
+
+Accompanying persons—
+
+28.3.199B.8.a
+
+have the same powers as the authorised person in respect of execution of the
+warrant, but
+
+28.3.199B.8.b
+
+must exercise those powers only in the company, and under the supervision, of
+the authorised person.
+
+28.3.199B.9
+
+An authorised person who has entered, or who is seeking to enter, premises
+under a warrant under this section must produce on request by any person—
+
+28.3.199B.9.a
+
+a copy of the warrant;
+
+28.3.199B.9.b
+
+a copy of the authorisation mentioned in section 199(3).
+
+28.3.199B.10
+
+A warrant under this section continues in force until the survey is carried
+out.
+
+28.3.199B.11
+
+If the premises are unoccupied or the occupier is temporarily absent, the
+authorised person who has entered the premises under a warrant under this
+section must leave the premises as effectively secured against trespassers as
+the authorised person found them.
+
+28.4
+
+In section 200 (survey: supplemental)—
+
+28.4.a
+
+omit subsection (1);
+
+28.4.b
+
+omit subsection (3);
+
+28.4.c
+
+for subsection (4) substitute—
+
+28.4.c.4
+
+A registered provider, or an officer of a registered provider, commits an
+offence if the provider or officer obstructs an authorised person—
+
+28.4.c.4.a
+
+in exercising a power under section  199A , or
+
+28.4.c.4.b
+
+in exercising a power under section 199, where the authorised person has
+entered the premises to carry out the survey under the power in section  199A
+.
+
+;
+
+28.4.d
+
+after subsection (4) insert—
+
+28.4.d.4A
+
+A person commits an offence if the person obstructs an authorised person—
+
+28.4.d.4A.a
+
+in exercising a power conferred by a warrant under section  199B , or
+
+28.4.d.4A.b
+
+in exercising a power under section 199, where the authorised person has
+entered the premises to carry out a survey under a warrant under section  199B
+.
+
+#### Inspection plan
+
+29
+
+29.1
+
+The Housing and Regeneration Act 2008 is amended as follows.
+
+29.2
+
+After section 201 (inspections) insert—
+
+########## Inspection plan
+
+29.2.201A
+
+29.2.201A.1
+
+The regulator must make a plan as regards—
+
+29.2.201A.1.a
+
+the descriptions of registered provider that should be subject to regular
+inspection under section 201,
+
+29.2.201A.1.b
+
+the intervals at which regular inspections should be carried out under that
+section, and
+
+29.2.201A.1.c
+
+the circumstances in which registered providers should be subject to
+inspections under that section other than regular inspections.
+
+29.2.201A.2
+
+The plan may make different provision for different cases, circumstances or
+areas.
+
+29.2.201A.3
+
+The regulator must take appropriate steps to implement the plan.
+
+29.2.201A.4
+
+The regulator must—
+
+29.2.201A.4.a
+
+keep the plan under review,
+
+29.2.201A.4.b
+
+when appropriate, revise or replace the plan, and
+
+29.2.201A.4.c
+
+publish the plan and any revised or replacement plan.
+
+29.3
+
+In section 215 (use of intervention powers), after subsection (1) insert—
+
+29.3.1A
+
+In determining whether the regulator has complied with subsection (1) in
+relation to its power to arrange for inspections under section 201(1), a plan
+published under section  201A  may be taken into account.
+
+#### Action after inspection
+
+30
+
+30.1
+
+The Housing and Regeneration Act 2008 is amended as follows.
+
+30.2
+
+In section 202 (inspections: supplemental), omit subsections (1) to (3).
+
+30.3
+
+In section 203(12) (definition of “inspector”), after “this section” insert
+“and section 203A” .
+
+30.4
+
+After section 203 insert—
+
+########## Action after inspection
+
+30.4.203A
+
+30.4.203A.1
+
+After an inspection of a registered provider is carried out by an inspector
+under section 201, the inspector must produce—
+
+30.4.203A.1.a
+
+a written summary of the inspector’s findings, and
+
+30.4.203A.1.b
+
+a written report about any matters specified by the regulator.
+
+30.4.203A.2
+
+The summary and any report must be in the form specified by the regulator.
+
+30.4.203A.3
+
+The regulator may specify matters, or the form of a summary or report, for the
+purposes of inspections generally or for the purposes of a particular
+inspection or description of inspection.
+
+30.4.203A.4
+
+The regulator must give the registered provider a copy of the summary of the
+inspector’s findings.
+
+30.4.203A.5
+
+The regulator must also give the registered provider—
+
+30.4.203A.5.a
+
+a copy of the inspector’s report, or
+
+30.4.203A.5.b
+
+a notice confirming that no matters were specified for the purposes of
+subsection (1)(b).
+
+30.4.203A.6
+
+The regulator may publish—
+
+30.4.203A.6.a
+
+all or part of the summary of the inspector’s findings,
+
+30.4.203A.6.b
+
+(where relevant) all or part of the inspector’s report, and
+
+30.4.203A.6.c
+
+related information.
+
+#### Performance improvement plans
+
+31
+
+31.1
+
+The Housing and Regeneration Act 2008 is amended as follows.
+
+31.2
+
+After section 218 insert—
+
+########## Performance improvement plans
+
+########### Performance improvement plan notice
+
+31.2.218A
+
+31.2.218A.1
+
+The regulator may give a registered provider a notice (a “performance
+improvement plan notice”) if the regulator is satisfied that—
+
+31.2.218A.1.a
+
+the registered provider has failed to meet a standard under section 193, 194,
+194A  or  194C ,
+
+31.2.218A.1.b
+
+there is a risk that, if no action is taken by the regulator or the registered
+provider, the registered provider will fail to meet a standard under section
+193, 194,  194A  or  194C ,
+
+31.2.218A.1.c
+
+the registered provider has failed to comply with directions or a request
+under section  198C ,
+
+31.2.218A.1.d
+
+the interests of the tenants of social housing of the registered provider
+require protection, or
+
+31.2.218A.1.e
+
+the registered provider has given an undertaking under section 125 and failed
+to comply with it.
+
+31.2.218A.2
+
+A performance improvement plan notice must—
+
+31.2.218A.2.a
+
+specify on which of the grounds mentioned in subsection  (1)  it is given,
+
+31.2.218A.2.b
+
+identify the issues which led the regulator to be satisfied of those grounds,
+
+31.2.218A.2.c
+
+require the registered provider to prepare and submit to the regulator a plan
+(a “performance improvement plan”) setting out the action the provider will
+take to address the issues identified,
+
+31.2.218A.2.d
+
+specify the date by which the performance improvement plan must be submitted
+to the regulator,
+
+31.2.218A.2.e
+
+require the registered provider to publish a performance improvement plan if
+it is approved by the regulator and specify the manner of such publication,
+and
+
+31.2.218A.2.f
+
+explain the effect of subsections  (3)  and  (4)  and sections  218B  to  218D
+.
+
+31.2.218A.3
+
+The regulator may withdraw a performance improvement plan notice by notice to
+the registered provider.
+
+31.2.218A.4
+
+If a registered provider fails to comply with a performance improvement plan
+notice the regulator must consider exercising another power under this Chapter
+or Chapter 6.
+
+########### Performance improvement plans
+
+31.2.218B
+
+31.2.218B.1
+
+The regulator must—
+
+31.2.218B.1.a
+
+approve a performance improvement plan submitted in accordance with section
+218A (2) (c)  and  (d) , or
+
+31.2.218B.1.b
+
+reject it, giving reasons for doing so.
+
+31.2.218B.2
+
+A registered provider must implement in full a performance improvement plan
+that has been approved by the regulator.
+
+31.2.218B.3
+
+If a performance improvement plan is rejected, the registered provider will be
+taken to have failed to comply with the performance improvement plan notice.
+
+31.2.218B.4
+
+If a tenant of social housing of a registered provider makes a written request
+to the provider for a copy of the provider’s performance improvement plan
+which has been approved by the regulator, the registered provider must provide
+the tenant with a copy as soon as reasonably practicable.
+
+########### Cancellation of performance improvement plan
+
+31.2.218C
+
+31.2.218C.1
+
+The regulator may, by notice to a registered provider, cancel a performance
+improvement plan which it has approved.
+
+31.2.218C.2
+
+Notice under subsection  (1)  must specify the date (the “cancellation date”)
+on which the cancellation takes effect (which may be a date before the notice
+is given).
+
+31.2.218C.3
+
+If a performance improvement plan is cancelled in accordance with subsection
+(1)  the duties mentioned in subsection  (4)  cease to apply (or are treated
+as having ceased to apply) from the cancellation date.
+
+But this does not affect any action taken (or being taken) by the regulator in
+relation to a breach of such a duty before the cancellation date.
+
+31.2.218C.4
+
+The duties are—
+
+31.2.218C.4.a
+
+the duty to publish a performance improvement plan which has been approved
+(see section  218A (2) (e) );
+
+31.2.218C.4.b
+
+the duty in section  218B (2)  (duty to implement a plan);
+
+31.2.218C.4.c
+
+the duty in section  218B (4)  (duty to provide copy of plan).
+
+########### Appeals
+
+31.2.218D
+
+31.2.218D.1
+
+A registered provider may appeal to the High Court against a decision of the
+regulator to give the provider a performance improvement plan notice.
+
+31.2.218D.2
+
+An appeal under this section must be brought within the period of 28 days
+beginning with the day on which the registered provider is given the notice.
+
+31.2.218D.3
+
+The requirement to prepare and submit a performance improvement plan is
+suspended during the appeal period.
+
+31.2.218D.4
+
+The “ appeal period ” means—
+
+31.2.218D.4.a
+
+where an appeal is brought, the period beginning with the day on which the
+performance improvement plan notice is given and ending with the day on which
+the appeal is finally determined or withdrawn, and
+
+31.2.218D.4.b
+
+otherwise, the period during which an appeal could be brought.
+
+31.2.218D.5
+
+But where a performance improvement plan has been approved under section  218B
+an appeal under this section does not suspend—
+
+31.2.218D.5.a
+
+the duty to publish a performance improvement plan which has been approved
+(see section  218A (2) (e) );
+
+31.2.218D.5.b
+
+the duty in section  218B (2)  (duty to implement a plan);
+
+31.2.218D.5.c
+
+the duty in section  218B (4)  (duty to provide copy of plan).
+
+31.3
+
+In section 220 (grounds for giving enforcement notice), before subsection (12)
+(but after the subsection (11C) inserted by section  27 ) insert—
+
+31.3.11D
+
+Case 14 is where the registered provider has failed to comply with a
+performance improvement plan notice.
+
+31.3.11E
+
+Case 15 is where the registered provider has a performance improvement plan
+which has been approved by the regulator and has failed to implement it in
+full.
+
+31.4
+
+In section 227 (grounds for imposition of a penalty), before subsection (8)
+(but after the subsection (7C) inserted by section  27 ) insert—
+
+31.4.7D
+
+Case 10 is where the registered provider has failed to comply with a
+performance improvement plan notice.
+
+31.4.7E
+
+Case 11 is where the registered provider has failed to comply with the duty in
+section  218B (4)  (duty to provide copy of performance improvement plan).
+
+31.5
+
+In section 237 (grounds for award of compensation) at the end insert—
+
+31.5.5
+
+Case 4 is where the registered provider has failed to comply with a
+performance improvement plan notice.
+
+31.5.6
+
+Case 5 is where the registered provider has failed to comply with the duty in
+section  218B (4)  (duty to provide copy of performance improvement plan).
+
+31.6
+
+In section 247 (management tender), in subsection (1), after paragraph (b)
+insert
+
+, or
+
+31.6.c
+
+a registered provider has failed to comply with a performance improvement plan
+notice.
+
+31.7
+
+In section 251 (appointment of manager), in subsection (1), after paragraph
+(b) insert
+
+, or
+
+31.7.c
+
+a registered provider has failed to comply with a performance improvement plan
+notice.
+
+31.8
+
+In section 252A (appointment of advisers to local authority), in subsection
+(2), at the end of paragraph (e) (inserted by paragraph  10  of Schedule  3 )
+insert
+
+, or
+
+31.8.f
+
+that the authority has failed to comply with a performance improvement plan
+notice.
+
+#### Emergency remedial action
+
+32
+
+After section 225 of the Housing and Regeneration Act 2008 insert—
+
+######## Emergency remedial action
+
+######### Overview
+
+32.225A
+
+This group of sections gives the regulator power to authorise persons to enter
+premises to take specified action to remedy specified failures on the part of
+registered providers.
+
+######### Power to take emergency remedial action
+
+32.225B
+
+32.225B.1
+
+If the conditions in subsections  (2)  to  (4)  are met, the regulator may
+arrange for an authorised person to take emergency remedial action in respect
+of premises.
+
+32.225B.2
+
+Condition 1 is that a survey of the condition of the premises has been carried
+out under section 199.
+
+32.225B.3
+
+Condition 2 is that the regulator is satisfied that—
+
+32.225B.3.a
+
+the registered provider has failed to maintain the premises in accordance with
+standards under section 193, and
+
+32.225B.3.b
+
+that failure has caused an imminent risk of serious harm to the health or
+safety of the occupiers of those or other premises.
+
+32.225B.4
+
+Condition 3 is that the registered provider has failed to comply with an
+enforcement notice requiring it to take action to address the failure
+mentioned in subsection  (3) (a) .
+
+32.225B.5
+
+In this section and in sections  225C  to  225G , “ emergency remedial action
+”, in relation to premises, is carrying out such works to the premises as the
+authorised person considers immediately necessary to remove the imminent risk
+of serious harm mentioned in subsection  (3) (b) .
+
+32.225B.6
+
+In this section and in sections  225C  to  225G , “ authorised person ” means
+a member of the regulator’s staff, or another person, authorised in writing by
+the regulator for the purposes of the section concerned.
+
+32.225B.7
+
+Arrangements for a person other than a member of the regulator’s staff to take
+emergency remedial action may include provision about payments.
+
+######### Emergency remedial action: power to enter without warrant
+
+32.225C
+
+32.225C.1
+
+An authorised person may enter premises at any reasonable time, or times, to
+take emergency remedial action.
+
+32.225C.2
+
+The power in subsection  (1)  may only be exercised if an authorised person
+has given a pre-entry notice to—
+
+32.225C.2.a
+
+if the premises are occupied, the occupier (or any one of the occupiers),
+
+32.225C.2.b
+
+if the premises include common parts of a building and there are occupied
+dwellings in the building that have use of those common parts, the occupier
+(or any one of the occupiers) of each of those dwellings,
+
+32.225C.2.c
+
+the registered provider whose failure to maintain the premises has caused the
+imminent risk of serious harm, and
+
+32.225C.2.d
+
+each person registered in the register kept under section 1 of the Land
+Registration Act 2002 as the proprietor of a registered estate (within the
+meaning of that Act) in the premises.
+
+32.225C.3
+
+A pre-entry notice required by subsection  (2)  need only be given once in
+respect of emergency remedial action in relation to premises, even if an
+authorised person enters the premises on more than one occasion in order to
+take the emergency remedial action.
+
+32.225C.4
+
+A “pre-entry notice” is a notice which—
+
+32.225C.4.a
+
+identifies the premises to be entered;
+
+32.225C.4.b
+
+identifies the failure to maintain the premises which has caused the imminent
+risk of serious harm;
+
+32.225C.4.c
+
+states that a person authorised by the regulator intends to enter the
+premises;
+
+32.225C.4.d
+
+specifies the date (or the first date) that the authorised person proposes to
+enter the premises to take emergency remedial action;
+
+32.225C.4.e
+
+specifies the power under this section as the power under which the authorised
+person intends to enter the premises;
+
+32.225C.4.f
+
+explains the effect of section  225H .
+
+32.225C.5
+
+A pre-entry notice may state that, if entry to the premises were to be
+refused, an authorised person would propose to apply for a warrant under
+section  225E .
+
+32.225C.6
+
+An authorised person may not enter premises in reliance on a pre-entry notice—
+
+32.225C.6.a
+
+before the date (or the first date) specified in the notice, or
+
+32.225C.6.b
+
+within 24 hours of giving the notice, 
+
+except where the relevant person in respect of the notice consents.
+
+32.225C.7
+
+In subsection  (6) , “the relevant person” in respect of the pre-entry notice
+means—
+
+32.225C.7.a
+
+in the case of a pre-entry notice required by  subsection (2) (a)  or  (b) ,
+the occupier (or any one of the occupiers) of the premises or dwelling;
+
+32.225C.7.b
+
+in the case of a pre-entry notice required by  subsection (2) (c)  or  (d) ,
+the person (or each person) to whom a pre-entry notice is required to be
+given.
+
+32.225C.8
+
+In this section, “ common parts ”, in relation to a building, includes the
+structure and exterior of that building and any common facilities provided
+(whether or not in the building) for persons who occupy the building.
+
+######### Power under section 
+
+32.225D
+
+32.225D.1
+
+A pre-entry notice required by section  225C (2) (a)  or  (b)  may be given by
+fixing it to some conspicuous part of the premises.
+
+32.225D.2
+
+A pre-entry notice required by section  225C (2) (d)  may be given by sending
+it to an address supplied for the purpose of service of notice under the Land
+Registration Act 2002 (see paragraph 5 of Schedule 10 to that Act).
+
+32.225D.3
+
+An authorised person who under section  225C  has entered, or who is seeking
+to enter, premises to take emergency remedial action must produce a copy of
+the authorisation mentioned in  225B (6)  on request by an occupier.
+
+32.225D.4
+
+An authorised person entering premises to take emergency remedial action may—
+
+32.225D.4.a
+
+be accompanied by such other persons, and
+
+32.225D.4.b
+
+take onto the premises such equipment or materials,
+
+as the authorised person thinks necessary for the purposes of taking the
+emergency remedial action.
+
+32.225D.5
+
+Equipment or materials taken onto premises by virtue of subsection  (4) (b)
+may be left in a place on the premises until the emergency remedial action has
+been taken provided that—
+
+32.225D.5.a
+
+leaving the equipment or the materials in that place does not significantly
+impair the ability of an occupier to use the premises, or
+
+32.225D.5.b
+
+leaving the equipment or the materials on the premises is necessary for the
+purposes of taking the emergency remedial action and it is not possible to
+leave it or them in a place that does not significantly impair the ability of
+an occupier to use the premises.
+
+32.225D.6
+
+Where the premises include common parts of a building (as defined in section
+225C ), references in subsection  (5)  to the ability of an occupier to use
+the premises include the ability of an occupier of a dwelling that has use of
+the common parts to use those parts or the dwelling.
+
+######### Emergency remedial action: power to enter with warrant
+
+32.225E
+
+32.225E.1
+
+This section applies where a justice of the peace is satisfied, on sworn
+information in writing by an authorised person, that entry to premises
+specified in the information is reasonably required to take emergency remedial
+action under section  225B .
+
+32.225E.2
+
+The justice may issue a warrant authorising the authorised person who is named
+in it to enter the premises to take emergency remedial action where the
+justice is satisfied that—
+
+32.225E.2.a
+
+entry to the premises has been sought under section  225C  but has been
+refused,
+
+32.225E.2.b
+
+the premises are unoccupied or that the occupier is temporarily absent, or
+
+32.225E.2.c
+
+there are reasonable grounds to believe that the authorised person will not be
+able to obtain entry to the premises without a warrant.
+
+32.225E.3
+
+A warrant under this section authorises the authorised person to enter the
+premises at any reasonable time, or times, using reasonable force if
+necessary.
+
+32.225E.4
+
+A warrant under this section authorises an authorised person entering premises
+to take onto the premises such equipment or materials as the authorised person
+thinks necessary for the purposes of taking the emergency remedial action.
+
+32.225E.5
+
+Equipment or materials taken onto premises by virtue of subsection  (4)  may
+be left in a place on the premises until the emergency remedial action has
+been taken provided that—
+
+32.225E.5.a
+
+leaving the equipment or the materials in that place does not significantly
+impair the ability of an occupier to use the premises, or
+
+32.225E.5.b
+
+leaving the equipment or the materials on the premises is necessary for the
+purposes of taking the emergency remedial action and it is not possible to
+leave it or them in a place that does not significantly impair the ability of
+an occupier to use the premises.
+
+32.225E.6
+
+Where the premises include common parts of a building (as defined in section
+225C ), references in subsection  (5)  to the ability of an occupier to use
+the premises include the ability of an occupier of a dwelling that has use of
+the common parts to use those parts or the dwelling.
+
+32.225E.7
+
+A warrant under this section may authorise persons (“accompanying persons”) to
+accompany the authorised person.
+
+32.225E.8
+
+Accompanying persons—
+
+32.225E.8.a
+
+have the same powers as the authorised person in respect of execution of the
+warrant, but
+
+32.225E.8.b
+
+must exercise those powers only in the company, and under the supervision, of
+the authorised person.
+
+32.225E.9
+
+An authorised person who has entered, or who is seeking to enter, premises
+under a warrant under this section must produce on request by any person—
+
+32.225E.9.a
+
+a copy of the warrant;
+
+32.225E.9.b
+
+a copy of the authorisation mentioned in  225B (6) .
+
+32.225E.10
+
+A warrant under this section continues in force until the emergency remedial
+action has been taken.
+
+32.225E.11
+
+If the premises are unoccupied or the occupier is temporarily absent, the
+authorised person who has entered the premises under a warrant under this
+section must leave the premises as effectively secured against trespassers as
+the authorised person found them.
+
+######### Offences
+
+32.225F
+
+32.225F.1
+
+A registered provider, or an officer of a registered provider, commits an
+offence if the provider or officer obstructs an authorised person—
+
+32.225F.1.a
+
+in exercising a power under section  225C  or  225D , or
+
+32.225F.1.b
+
+in exercising a power under section  225B , where the authorised person has
+entered the premises to take emergency remedial action under the power in
+section  225C .
+
+32.225F.2
+
+A person commits an offence if the person obstructs an authorised person—
+
+32.225F.2.a
+
+in exercising a power conferred by a warrant under section  225E , or
+
+32.225F.2.b
+
+in exercising a power under section  225B , where the authorised person has
+entered the premises to take emergency remedial action under a warrant under
+section  225E .
+
+32.225F.3
+
+A person guilty of an offence under this section is liable on summary
+conviction to a fine not exceeding level 4 on the standard scale.
+
+32.225F.4
+
+Proceedings for an offence under this section may be brought only by or with
+the consent of—
+
+32.225F.4.a
+
+the regulator, or
+
+32.225F.4.b
+
+the Director of Public Prosecutions.
+
+######### Reclaiming expenses
+
+32.225G
+
+32.225G.1
+
+Where the regulator makes arrangements under section  225B , the regulator may
+by notice require the registered provider concerned to pay to the regulator—
+
+32.225G.1.a
+
+such relevant expenses as are specified in the notice;
+
+32.225G.1.b
+
+interest on those expenses (see subsection  (4) ).
+
+32.225G.2
+
+“Relevant expenses” are—
+
+32.225G.2.a
+
+expenses reasonably incurred by the regulator—
+
+32.225G.2.a.i
+
+in deciding whether to make arrangements under section  225B ;
+
+32.225G.2.a.ii
+
+in making those arrangements;
+
+32.225G.2.a.iii
+
+in the authorised person taking emergency remedial action;
+
+32.225G.2.b
+
+any costs reasonably incurred by the regulator related to the action in
+paragraph  (a) (iii) .
+
+32.225G.3
+
+Sums mentioned in subsection  (1) (a)  are payable at the end of the period of
+28 days beginning with the day on which the notice is given.
+
+32.225G.4
+
+Interest may be charged on any sums not paid by the end of the period
+mentioned in subsection  (3)  at such reasonable rate as the regulator may
+determine.
+
+######### Appeals
+
+32.225H
+
+32.225H.1
+
+A registered provider may appeal to the High Court against—
+
+32.225H.1.a
+
+a decision of the regulator to make arrangements under section  225B (1) ;
+
+32.225H.1.b
+
+a decision of the regulator to give a notice under section  225G (1) .
+
+32.225H.2
+
+An appeal under subsection  (1) (a)  must be brought within the period of 28
+days beginning—
+
+32.225H.2.a
+
+with the day on which the registered provider is given the pre-entry notice
+under section  225C (2) , or
+
+32.225H.2.b
+
+with the day on which the premises were first entered under a warrant obtained
+under section  225E  on the grounds in subsection  (2) (b)  or  (c)  of that
+section.
+
+32.225H.3
+
+An appeal under subsection  (1) (b)  must be brought within the period of 28
+days beginning with the day on which the registered provider is given the
+notice under section  225G (1) .
+
+32.225H.4
+
+No question may be raised on an appeal under subsection  (1) (b)  which might
+have been raised on an appeal under subsection  (1) (a) .
+
+32.225H.5
+
+Where an appeal under subsection  (1) (b)  is brought—
+
+32.225H.5.a
+
+the requirement to pay the sums described in section  225G (1) (a)  is
+suspended during the period beginning with the day on which the notice under
+section  225G (1)  is given and ending with the day on which the appeal is
+finally determined or withdrawn, and
+
+32.225H.5.b
+
+no interest is payable by virtue of section  225G (1) (b)  in respect of that
+period.
+
+#### Extension of powers to charities who have not received public assistance
+
+33
+
+In the Housing and Regeneration Act 2008 omit—
+
+33.a
+
+section 209(1) (inquiries);
+
+33.b
+
+section 256(7) (orders restricting dealings during inquiry);
+
+33.c
+
+section 257(5) (orders restricting dealings following inquiry);
+
+33.d
+
+section 259(5) (orders suspending officers etc during inquiry);
+
+33.e
+
+section 260(4) (orders removing or suspending officers etc following inquiry);
+
+33.f
+
+section 267(2) (orders removing officers);
+
+33.g
+
+section 269(6)(a), including the final “ and ” (orders appointing new
+officers).
+
+#### Notification of Charity Commission of exercise of enforcement powers
+
+34
+
+34.1
+
+The Housing and Regeneration Act 2008 is amended as follows.
+
+34.2
+
+In section 256 (restrictions on dealings during inquiry), after subsection (6)
+insert—
+
+34.2.6A
+
+If the registered provider is a registered charity, the regulator must notify
+the Charity Commission if it makes an order under this section.
+
+34.3
+
+In section 257 (restrictions on dealings following inquiry), after subsection
+(4) insert—
+
+34.3.4A
+
+If the registered provider is a registered charity, the regulator must notify
+the Charity Commission if it makes an order under this section.
+
+34.4
+
+In section 267 (supplemental provision about removal of officers), after
+subsection (1A) (inserted by paragraph  17  of Schedule  4 ) insert—
+
+34.4.1B
+
+The regulator must notify the Charity Commission if it makes an order removing
+an officer of a registered charity.
+
+34.5
+
+In section 269 (appointment of new officers), in subsection (6)(b), for
+“consulted the Charity Commission” substitute  “notified the Charity
+Commission of its intention to do so” .
+
+#### Exercise of powers: land with a Crown or Duchy interest
+
+35
+
+Before section 277 of the Housing and Regeneration Act 2008 (but after the
+heading before that section) insert—
+
+######## Exercise of powers: land with a Crown or Duchy interest
+
+35.276A
+
+35.276A.1
+
+The powers in Chapters 6 and 7 are exercisable in relation to premises which
+are on land in which there is a Crown interest or a Duchy interest.
+
+35.276A.2
+
+A “ Crown interest ” means—
+
+35.276A.2.a
+
+an interest belonging to His Majesty in right of the Crown, or
+
+35.276A.2.b
+
+an interest belonging to a government department or held in trust for His
+Majesty for the purposes of a government department.
+
+35.276A.3
+
+A “ Duchy interest ” means an interest belonging to His Majesty in right of
+the Duchy of Lancaster or belonging to the Duchy of Cornwall.
+
+#### Regulatory and enforcement powers: further amendments
+
+36
+
+Schedule  3  makes further amendments to the regulatory and enforcement powers
+of the Regulator of Social Housing.
+
+### Social housing
+
+#### Leaving the social housing stock: end of lease
+
+37
+
+37.1
+
+In section 74 of the Housing and Regeneration Act 2008 (leaving the social
+housing stock: ending of lease)—
+
+37.1.a
+
+in the heading, for “expired” substitute  “ending of” ;
+
+37.1.b
+
+in subsection (1)(b), for “expires” substitute  “determines (whether by
+effluxion of time or in any other way)” ;
+
+37.1.c
+
+for subsection (2) substitute—
+
+37.1.c.2
+
+But subsection (1) does not apply if, immediately before the leasehold
+interest determines, the lessor was—
+
+37.1.c.2.a
+
+an associate or subsidiary of the provider, or
+
+37.1.c.2.b
+
+a registered provider.
+
+37.2
+
+The amendments in subsection (1) apply in relation to leases granted on or
+after 10 June 2022.
+
+### Meaning of “subsidiary”
+
+#### Meaning of “subsidiary”
+
+38
+
+38.1
+
+In section 271 of the Housing and Regeneration Act 2008 (meaning of subsidiary
+and associate), for subsections (1) to (5) substitute—
+
+38.1.1
+
+A person (“ A ”) is a subsidiary of another person (“ B ”) if—
+
+38.1.1.a
+
+A is a subsidiary undertaking in relation to B for the purposes of the
+Companies Acts (see section 1162 of, and Schedule 7 to, the Companies Act
+2006), or
+
+38.1.1.b
+
+A would be a subsidiary undertaking in relation to B for those purposes if
+“undertaking” were defined for those purposes to mean any person.
+
+38.2
+
+For the purposes of section 74 of the Housing and Regeneration Act 2008, the
+amendment in subsection (1) applies in relation to leases granted on or after
+10 June 2022.
+
+### Appeals
+
+#### Appeals
+
+39
+
+Schedule  4  makes provision about appeals under the Housing and Regeneration
+Act 2008.
+
+### Housing ombudsman
+
+#### Housing ombudsman scheme
+
+40
+
+40.1
+
+Schedule 2 to the Housing Act 1996 (social rented sector: housing complaints)
+is amended as follows.
+
+40.2
+
+In paragraph 2, in sub-paragraph (1), after item 11 insert—
+
+40.2.11A
+
+A power of the housing ombudsman to issue a code of practice about the
+procedures members of the scheme should have in place for considering
+complaints against them.
+
+40.2.11B
+
+A duty of the housing ombudsman to consult—
+
+40.2.11B.a
+
+the Regulator of Social Housing,
+
+40.2.11B.b
+
+members of the scheme, and
+
+40.2.11B.c
+
+individuals who may make complaints under the scheme,
+
+before issuing, revising or replacing any such code.
+
+40.2.11C
+
+A duty of the housing ombudsman to monitor compliance with a code of practice
+described in item 11A that it has issued.
+
+40.3
+
+In paragraph 2, in sub-paragraph (1), in item 15, for “expenses of the scheme”
+substitute  “costs of the person administering the scheme and the scheme’s
+housing ombudsman” .
+
+40.4
+
+In paragraph 7, after sub-paragraph (2) insert—
+
+40.4.2A
+
+Sub-paragraph  (2B)  applies where during an investigation of a complaint
+against a member of the scheme, a housing ombudsman identifies that the
+member’s policies or practices in relation to a matter may give rise to
+further complaints about that matter.
+
+40.4.2B
+
+The housing ombudsman may, in the ombudsman’s determination of the complaint,
+order the member to review their policy or practice on that matter.
+
+40.5
+
+In paragraph 11—
+
+40.5.a
+
+after sub-paragraph (1) insert—
+
+40.5.a.1ZA
+
+The amount of a subscription payable by a member may be calculated by
+reference to costs incurred, or likely to be incurred, by the person
+administering the scheme and the scheme’s housing ombudsman in carrying out
+any of their functions, including costs unconnected with the member and costs
+unconnected with the operation of the scheme.
+
+;
+
+40.5.b
+
+in sub-paragraph (1B), for “expenses”, in both places, substitute  “costs” ;
+
+40.5.c
+
+in sub-paragraph (1C)—
+
+40.5.c.i
+
+for “expenses”, in the first place it occurs, substitute  “costs” ;
+
+40.5.c.ii
+
+for “expenses of the scheme” substitute  “costs” .
+
+#### Power of housing ombudsman to issue guidance to scheme members
+
+41
+
+41.1
+
+The Housing Act 1996 is amended as follows.
+
+41.2
+
+In the italic heading before section 51, for “complaints” substitute
+“ombudsman” .
+
+41.3
+
+After section 51 insert—
+
+########## Power of housing ombudsman to issue guidance to scheme members
+
+41.3.51ZA
+
+41.3.51ZA.1
+
+This section applies where a scheme is approved by the Secretary of State
+under Schedule 2.
+
+41.3.51ZA.2
+
+The housing ombudsman may issue to the members of the scheme guidance as to
+good practice in the carrying on of housing activities covered by the scheme.
+
+41.3.51ZA.3
+
+Before issuing, revising or replacing guidance under this section, the housing
+ombudsman must consult—
+
+41.3.51ZA.3.a
+
+the Regulator of Social Housing,
+
+41.3.51ZA.3.b
+
+members of the scheme, and
+
+41.3.51ZA.3.c
+
+individuals who may make complaints under the scheme.
+
+41.3.51ZA.4
+
+If the housing ombudsman issues, revises or replaces guidance under this
+section, the housing ombudsman must publish the guidance, the revised guidance
+or (as the case may be) the replacement guidance.
+
+41.3.51ZA.5
+
+Subsection (7) applies if—
+
+41.3.51ZA.5.a
+
+an individual makes a complaint against a member of the scheme,
+
+41.3.51ZA.5.b
+
+the complaint is made under the scheme or the conditions in subsection (6) are
+met in relation to the complaint, and
+
+41.3.51ZA.5.c
+
+it appears to the housing ombudsman that the complaint relates to a matter to
+which guidance issued by the ombudsman under this section relates.
+
+41.3.51ZA.6
+
+The conditions referred to in subsection (5)(b) are that—
+
+41.3.51ZA.6.a
+
+the complaint is made to the member of the scheme,
+
+41.3.51ZA.6.b
+
+the complaint is one that the individual could subsequently make under the
+scheme, and
+
+41.3.51ZA.6.c
+
+the individual has notified the ombudsman about the complaint.
+
+41.3.51ZA.7
+
+The housing ombudsman may order the member of the scheme to—
+
+41.3.51ZA.7.a
+
+assess whether the member’s policies and practices in relation to the matter
+mentioned in subsection (5)(c) are consistent with the guidance issued by the
+ombudsman under this section in relation to that matter, and
+
+41.3.51ZA.7.b
+
+within a period specified in the order, submit to the ombudsman a written
+statement of the results of the assessment.
+
+41.3.51ZA.8
+
+If a member of the scheme fails to comply with an order under subsection (7)
+within the period specified in the order, the housing ombudsman may order the
+member to publish in such manner as the ombudsman sees fit a statement that
+the member has failed to comply with the order.
+
+41.3.51ZA.9
+
+If a member of the scheme fails to comply with an order under subsection (8),
+the housing ombudsman may—
+
+41.3.51ZA.9.a
+
+take such steps as the ombudsman considers appropriate to publish what the
+member ought to have published, and
+
+41.3.51ZA.9.b
+
+recover from the member the costs of doing so.
+
+41.3.51ZA.10
+
+In this section, “ the housing ombudsman ” means the housing ombudsman
+appointed in accordance with the scheme.
+
+### Social housing leases: remedying hazards
+
+#### Social housing leases: remedying hazards
+
+42
+
+After section 10 of the Landlord and Tenant Act 1985 insert—
+
+######## Implied term as to remedying of hazards
+
+######### Remedying of hazards occurring in dwellings let on relevant social housing leases
+
+42.10A
+
+42.10A.1
+
+This section applies to a lease of a dwelling if—
+
+42.10A.1.a
+
+the dwelling is in England,
+
+42.10A.1.b
+
+the lease is a relevant social housing lease, and
+
+42.10A.1.c
+
+section 9A—
+
+42.10A.1.c.i
+
+applies to the lease (see section 9B), or
+
+42.10A.1.c.ii
+
+would apply to the lease if the provision in section 9B(3) did not exist.
+
+42.10A.2
+
+There is implied in the lease a covenant by the lessor that the lessor will
+comply with all prescribed requirements that are applicable to that lease.
+
+42.10A.3
+
+The Secretary of State must make regulations which require the lessor under a
+lease to which this section applies to take action, in relation to prescribed
+hazards which affect or may affect the leased dwelling, within the period or
+periods specified in the regulations.
+
+42.10A.4
+
+Regulations under subsection (3) are enforceable against lessors only through
+actions for breach of the covenant that is implied by subsection (2).
+
+42.10A.5
+
+In any proceedings for a breach of the covenant that is implied by subsection
+(2), it is a defence for the lessor to prove that the lessor used all
+reasonable endeavours to avoid that breach.
+
+42.10A.6
+
+For the purposes of this section a lease is a “relevant social housing lease”
+at any time when—
+
+42.10A.6.a
+
+the lessor under the lease is a registered provider of social housing, and
+
+42.10A.6.b
+
+the dwelling leased under the lease—
+
+42.10A.6.b.i
+
+is social housing, but
+
+42.10A.6.b.ii
+
+is not low cost home ownership accommodation.
+
+42.10A.7
+
+In this section and section 10B—
+
+                                                                        “
+lease ”, “ lessor ” and “ lessee ” have the same meanings as in section 9A
+(see section 9A(9));
+“ low cost home ownership accommodation ” has the meaning given in section 70
+of the Housing and Regeneration Act 2008;
+“ prescribed hazard ” has the same meaning as in section 10 (see section 10(2)
+and (3));
+“ prescribed requirement ” means a requirement prescribed in regulations under
+subsection (3);
+“ social housing ” has the same meaning as in Part 2 of the Housing and
+Regeneration Act 2008 (see sections 68 and 72 of that Act).
+
+######### Regulations section 10A: supplementary provision
+
+42.10B
+
+42.10B.1
+
+Regulations under section 10A(3) may apply to—
+
+42.10B.1.a
+
+leases granted before the day when  section 42  of the Social Housing
+(Regulation) Act 2023 came into force;
+
+42.10B.1.b
+
+prescribed hazards which began before that day;
+
+42.10B.1.c
+
+only some descriptions of prescribed hazards.
+
+42.10B.2
+
+Regulations under section 10A(3) may—
+
+42.10B.2.a
+
+specify a period that is not of a specific duration (for example a reasonable
+or appropriate period, including a period decided by the lessor or another
+person);
+
+42.10B.2.b
+
+specify two (or more) periods in relation to particular action.
+
+42.10B.3
+
+Regulations under section 10A(3) may (in particular)—
+
+42.10B.3.a
+
+require the lessor to take particular action, or action that is intended to
+produce a particular outcome, in relation to a prescribed hazard;
+
+42.10B.3.b
+
+require the lessor to take action in relation to a prescribed hazard that is
+not of itself intended to remedy the hazard, for example by requiring the
+lessor—
+
+42.10B.3.b.i
+
+to investigate whether or how a prescribed hazard is affecting the leased
+dwelling, or
+
+42.10B.3.b.ii
+
+to secure that the lessee and any other members of the lessee’s household are
+provided with alternative accommodation at no cost to them;
+
+42.10B.3.c
+
+require the lessor to take action in relation to a prescribed hazard only—
+
+42.10B.3.c.i
+
+in particular circumstances, or
+
+42.10B.3.c.ii
+
+if particular conditions are met;
+
+42.10B.3.d
+
+provide that the lessor is not required to take action in relation to a
+prescribed hazard—
+
+42.10B.3.d.i
+
+in particular circumstances, or
+
+42.10B.3.d.ii
+
+if particular conditions are met.
+
+42.10B.4
+
+The Secretary of State may by regulations—
+
+42.10B.4.a
+
+provide for section 10A not to apply to particular descriptions of leases;
+
+42.10B.4.b
+
+make provision, in relation to the covenant that is implied by section 10A(2),
+which corresponds to any provision made by section 9A(4) to (8).
+
+42.10B.5
+
+A power to make regulations under section 10A or this section includes power
+to make—
+
+42.10B.5.a
+
+incidental, transitional or saving provision;
+
+42.10B.5.b
+
+different provision for different purposes.
+
+42.10B.6
+
+The power to make transitional or saving provision may (in particular) be used
+to make provision about situations where the covenant in section 10A(2)—
+
+42.10B.6.a
+
+begins to be implied in a lease after its grant because it becomes a relevant
+social housing lease;
+
+42.10B.6.b
+
+ceases to be implied in a lease because it ceases to be a relevant social
+housing lease (including provision to save the lessor’s liability for any
+breach of the covenant occurring before it ceases to be implied).
+
+42.10B.7
+
+Regulations under section 10A or this section are to be made by statutory
+instrument.
+
+42.10B.8
+
+A statutory instrument containing regulations under section 10A or this
+section may not be made unless a draft of it has been laid before and approved
+by resolution of each House of Parliament.
+
+### General
+
+#### Minor and consequential amendments
+
+43
+
+Schedule  5  contains minor and consequential amendments.
+
+#### Power to make consequential provision
+
+44
+
+44.1
+
+The Secretary of State may by regulations make provision that is consequential
+on this Act.
+
+44.2
+
+Regulations under this section may amend, repeal or revoke provision made by
+or under an Act passed—
+
+44.2.a
+
+before this Act, or
+
+44.2.b
+
+later in the same session of Parliament as this Act.
+
+44.3
+
+Regulations under this section—
+
+44.3.a
+
+are to be made by statutory instrument;
+
+44.3.b
+
+may include different provision for different purposes.
+
+44.4
+
+A statutory instrument containing (whether alone or with other provision)
+regulations under this section that amend or repeal provision made by an Act
+may not be made unless a draft of the instrument has been laid before and
+approved by a resolution of each House of Parliament.
+
+44.5
+
+Any other statutory instrument containing regulations under this section is
+subject to annulment in pursuance of a resolution of either House of
+Parliament.
+
+#### Extent
+
+45
+
+45.1
+
+This Act extends to England and Wales only, subject to subsections  (2)  and
+(3) .
+
+45.2
+
+Section  44 , this section and sections  46  and  47  extend to England and
+Wales, Scotland and Northern Ireland.
+
+45.3
+
+An amendment or repeal has the same extent as the provision amended or
+repealed.
+
+#### Commencement
+
+46
+
+46.1
+
+The following come into force on the day this Act is passed—
+
+46.1.a
+
+section  11 ;
+
+46.1.b
+
+sections  44  and  45 ;
+
+46.1.c
+
+this section;
+
+46.1.d
+
+section  47 .
+
+46.2
+
+Sections  25 ,  40  and  41  come into force at the end of the period of two
+months beginning with the day on which this Act is passed.
+
+46.3
+
+The other provisions of this Act come into force on such day or days as the
+Secretary of State may by regulations appoint.
+
+46.4
+
+The Secretary of State may by regulations make transitional or saving
+provision in connection with the coming into force of any provision of this
+Act.
+
+46.5
+
+The power to make regulations under subsection  (4)  includes power to make
+different provision for different purposes.
+
+46.6
+
+Regulations under this section are to be made by statutory instrument.
+
+#### Short title
+
+47
+
+This Act may be cited as the Social Housing (Regulation) Act 2023.
+
+## Schedules
+
+Limited liability partnerships
+
+Section  13
+
+##### Amendments of the Housing and Planning Act 2016
+
+###### Introductory
+
+1
+
+The Housing and Planning Act 2016 is amended as set out in paragraphs  2  to
+9 .
+
+###### Extension of housing administration regime
+
+2
+
+In section 95 (housing administration orders), in subsection (1), after
+paragraph (a)(i) insert—
+
+2.ia
+
+a limited liability partnership,
+
+.
+
+3
+
+In section 100 (powers of court: meaning of “relevant officer”), in subsection
+(7), after paragraph (a) insert—
+
+3.aa
+
+in relation to a limited liability partnership, means a member of the
+partnership,
+
+.
+
+###### Restrictions on insolvency procedures
+
+4
+
+In section 102 (power to make regulations applying etc insolvency
+legislation), in subsections (2) and (3), after “relation to” insert  “a
+limited liability partnership,” .
+
+5
+
+In section 104 (winding-up orders), after subsection (1)(a) insert—
+
+5.aa
+
+a limited liability partnership,
+
+.
+
+6
+
+In section 105 (voluntary winding up), in subsection (1), after paragraph (a),
+insert—
+
+6.aa
+
+a limited liability partnership,
+
+.
+
+7
+
+In section 106 (ordinary administration orders)—
+
+7.a
+
+in subsection (1), in paragraph (a), omit the final “or”;
+
+7.b
+
+after that paragraph insert—
+
+7.b.aa
+
+a limited liability partnership, or
+
+.
+
+8
+
+In section 107 (administrator appointments by creditors)—
+
+8.a
+
+in subsection (1), in paragraph (a), omit the final “or”;
+
+8.b
+
+after that paragraph insert—
+
+8.b.aa
+
+a limited liability partnership, or
+
+.
+
+###### Interpretation
+
+9
+
+In section 116 (interpretation of Chapter 5 of Part 2)—
+
+9.a
+
+in subsection (1), in the definition of “the court”, after “company”, in each
+place it occurs, insert  “, limited liability partnership” ;
+
+9.b
+
+in subsection (7), after paragraph (a) insert—
+
+9.b.aa
+
+in relation to a limited liability partnership, are to that provision as it
+applies to limited liability partnerships otherwise than by virtue of
+regulations under section 102 (if at all),
+
+.
+
+##### Amendments of the Housing and Regeneration Act 2008
+
+###### Introductory
+
+10
+
+The Housing and Regeneration Act 2008 is amended as set out in paragraphs  11
+to  20 .
+
+###### Notice of registration or de-registration
+
+11
+
+In section 120 (notice), in subsection (1)(c), after “charity)” insert  “or a
+limited liability partnership” .
+
+###### Accounts
+
+12
+
+12.1
+
+Section 129 (companies exempt from audit) is amended as follows.
+
+12.2
+
+In the heading, after “companies” insert  “or limited liability partnerships”
+.
+
+12.3
+
+In subsection (1)(a), after “charity” insert  “or is a limited liability
+partnership” .
+
+12.4
+
+In subsection (2)—
+
+12.4.a
+
+after “directors of the company” insert  “or members of the limited liability
+partnership” ;
+
+12.4.b
+
+for “company’s”, in both places, substitute  “registered provider’s” ;
+
+12.4.c
+
+for “which the company” substitute  “which the registered provider” .
+
+12.5
+
+In subsection (3), for “has the same meaning as in” substitute  “means
+accounts prepared in accordance with” .
+
+13
+
+13.1
+
+Section 130 (exempt companies: accountant’s report) is amended as follows.
+
+13.2
+
+In the heading, after “companies” insert  “or limited liability partnerships”
+.
+
+13.3
+
+In subsection (2), for “company’s” substitute  “registered provider’s” .
+
+13.4
+
+In subsection (3)(b), for “company” substitute  “registered provider” .
+
+13.5
+
+For subsection (6) substitute—
+
+13.5.6
+
+In this section and sections 131 and 132—
+
+“ firm ” means any entity, whether or not a legal person, that is not an
+individual and includes a body corporate, a corporation sole and a partnership
+or other unincorporated association; “ body corporate ” includes a body
+incorporated outside the United Kingdom.
+
+14
+
+In section 131 (exempt companies: reporting accountant)—
+
+14.a
+
+in the heading, after “companies” insert  “or limited liability partnerships”
+;
+
+14.b
+
+in subsection (1), for “company”, in both places, substitute  “registered
+provider” .
+
+15
+
+15.1
+
+Section 132 (application of Companies Act) is amended as follows.
+
+15.2
+
+In subsection (1)—
+
+15.2.a
+
+for “company” substitute  “registered provider” ;
+
+15.2.b
+
+for “company’s” substitute  “registered provider’s” .
+
+15.3
+
+In subsection (2)(e)—
+
+15.3.a
+
+for “454(4)(b)” substitute  “454” ;
+
+15.3.b
+
+for the words from “provision” to the end substitute  “section (revised
+accounts and reports),” .
+
+16
+
+In section 133 (exempt companies: extraordinary audit)—
+
+16.a
+
+in the heading, after “companies” insert  “or limited liability partnerships”
+;
+
+16.b
+
+in subsections (1), (2) and (4), for “company”, in each place, substitute
+“registered provider” .
+
+17
+
+In section 141 (offences), in subsection (6), omit the words from “not” to the
+end.
+
+###### Moratorium on disposal of land
+
+18
+
+In section 154 (implementation of regulator’s proposals), in subsection (2),
+after paragraph (aa) insert—
+
+18.ab
+
+in the case of a limited liability partnership, its members,
+
+.
+
+###### Arrangements and reconstructions
+
+19
+
+In section 160 (arrangements and reconstructions)—
+
+19.a
+
+in the heading, after “company” insert  “and limited liability partnership” ;
+
+19.b
+
+in subsection (1), after “company” insert  “or a limited liability
+partnership” .
+
+###### Meaning of “officer”
+
+20
+
+In section 270 (meaning of “officer” of a private registered provider), in the
+Table, after the entry relating to “Registered company” insert—
+
+Limited liability partnership A member of the limited liability partnership
+
+.
+
+                 Amendments to restrictions on insolvency procedures
+
+Section  14
+
+1
+
+The Housing and Planning Act 2016 is amended as follows.
+
+2
+
+In section 104 (winding-up orders), after subsection (2) insert—
+
+2.2A
+
+A notice under subsection (2) must—
+
+2.2A.a
+
+be given in writing,
+
+2.2A.b
+
+be signed by, or on behalf of, the petitioner,
+
+2.2A.c
+
+specify the date the petition was presented, and
+
+2.2A.d
+
+contain a copy of the petition.
+
+2.2B
+
+Subsection  (2C)  applies if a person gives a notice purporting to be a notice
+under subsection (2) but which does not meet the requirements of any (or all)
+of paragraphs  (b) ,  (c)  or  (d)  of subsection  (2A) .
+
+2.2C
+
+The Regulator of Social Housing may, by notice in writing to the petitioner,
+treat the purported notice as notice given under subsection (2)(a) (and a
+purported notice so treated will be taken as having been given at the time the
+purported notice was given).
+
+3
+
+In section 105 (voluntary winding up), after subsection (4) insert—
+
+3.4A
+
+A notice under subsection (4) must—
+
+3.4A.a
+
+be given in writing,
+
+3.4A.b
+
+be signed by, or on behalf of, the registered provider,
+
+3.4A.c
+
+specify the date the application was made, and
+
+3.4A.d
+
+contain a copy of the application.
+
+3.4B
+
+Subsection  (4C)  applies if a person gives a notice purporting to be a notice
+under subsection (4) but which does not meet the requirements of any (or all)
+of paragraphs  (b) ,  (c)  or  (d)  of subsection  (4A) .
+
+3.4C
+
+The Regulator of Social Housing may, by notice in writing to the registered
+provider, treat the purported notice as notice given under subsection (4)(a)
+(and a purported notice so treated will be taken as having been given at the
+time the purported notice was given).
+
+4
+
+In section 106 (ordinary administration orders), after subsection (3) insert—
+
+4.3A
+
+A notice under subsection (3) must—
+
+4.3A.a
+
+be given in writing,
+
+4.3A.b
+
+be signed by, or on behalf of, the person who made the ordinary administration
+application,
+
+4.3A.c
+
+specify the date the application was made, and
+
+4.3A.d
+
+contain a copy of the application.
+
+4.3B
+
+Subsection  (3C)  applies if a person gives a notice purporting to be a notice
+under subsection (3) but which does not meet the requirements of any (or all)
+of paragraphs  (b) ,  (c)  or  (d)  of subsection  (3A) .
+
+4.3C
+
+The Regulator of Social Housing may, by notice in writing to the person who
+made the ordinary administration application, treat the purported notice as
+notice given under subsection (3)(a)(i) (and a purported notice so treated
+will be taken as having been given at the time the purported notice was
+given).
+
+5
+
+In section 107 (appointment of administrator)—
+
+5.a
+
+in the heading, after “creditors” insert  “etc” ;
+
+5.b
+
+in subsection (4)(a)(i) omit the words from “, accompanied” to “1986”;
+
+5.c
+
+after subsection (4) insert—
+
+5.c.4A
+
+A notice under subsection (4) must—
+
+5.c.4A.a
+
+be given in writing,
+
+5.c.4A.b
+
+be signed by, or on behalf of, the person making the appointment,
+
+5.c.4A.c
+
+specify the date the appointment was made, and
+
+5.c.4A.d
+
+contain copies of every document in relation to the appointment that is filed
+or lodged with the court in accordance with paragraph 18 or 29 of Schedule B1
+to the Insolvency Act 1986.
+
+5.c.4B
+
+Subsection  (4C)  applies if a person gives a notice purporting to be a notice
+under subsection (4) but which does not meet the requirements of any (or all)
+of paragraphs  (b) ,  (c)  or  (d)  of subsection  (4A) .
+
+5.c.4C
+
+The Regulator of Social Housing may, by notice in writing to the person making
+the appointment, treat the purported notice as notice given under subsection
+(4)(a)(i) (and a purported notice so treated will be taken as having been
+given at the time the purported notice was given).
+
+;
+
+5.d
+
+in subsection (5) omit “(and a copy of the accompanying documents)”.
+
+6
+
+In section 108 (enforcement of security)—
+
+6.a
+
+in subsection (1), omit the words from “that” to the end;
+
+6.b
+
+after subsection (2) insert—
+
+6.b.2A
+
+A notice under subsection (2) must—
+
+6.b.2A.a
+
+be given in writing, and
+
+6.b.2A.b
+
+be signed by, or on behalf of, the person intending to enforce the security.
+
+6.b.2B
+
+Subsection  (2C)  applies if a person gives a notice purporting to be a notice
+under subsection (2) but which does not meet the requirement of paragraph  (b)
+of subsection  (2A) .
+
+6.b.2C
+
+The Regulator of Social Housing may, by notice in writing to the person
+intending to enforce the security, treat the purported notice as notice given
+under subsection (2)(a) (and a purported notice so treated will be taken as
+having been given at the time the purported notice was given).
+
+;
+
+6.c
+
+omit subsection (3);
+
+6.d
+
+before subsection (4) insert—
+
+6.d.3A
+
+In the case of a registered provider that is a charity registered under the
+Charities Act 2011 which is not a body corporate, the reference to the
+property of the registered provider is to the property held on the trusts of
+the charity (and for this purpose “ trusts ” has the same meaning as in the
+Charities Act 2011, see section 353 of that Act).
+
+                 Regulatory and enforcement powers
+
+Section  36
+
+1
+
+The Housing and Regeneration Act 2008 is amended as follows.
+
+2
+
+In section 201 (inspections) omit subsections (2) and (2A).
+
+3
+
+In section 206 (inquiry)—
+
+3.a
+
+for subsection (1) substitute—
+
+3.a.1
+
+The regulator may hold an inquiry into the affairs of a registered provider if
+the regulator suspects that—
+
+3.a.1.a
+
+the affairs of the registered provider may have been mismanaged,
+
+3.a.1.b
+
+the registered provider has failed to meet a standard under section 193, 194
+or  194C , or
+
+3.a.1.c
+
+there is a risk that, if no action is taken by the regulator or the registered
+provider, the registered provider will fail to meet a standard under section
+193, 194 or  194C .
+
+;
+
+3.b
+
+in subsection (4)(a), for “, employees or consultants” substitute  “or
+employees” ;
+
+3.c
+
+omit subsection (5).
+
+4
+
+In section 226 (overview of provisions on penalties) omit “private”.
+
+5
+
+In section 227 (grounds for imposition of penalty), in subsection (1), omit
+“private”.
+
+6
+
+In section 229 (amount of penalty)—
+
+6.a
+
+in subsection (2), after “penalty” insert  “that may be” ;
+
+6.b
+
+in that subsection, for “may not exceed £5,000” substitute  “is unlimited” ;
+
+6.c
+
+omit subsection (3).
+
+7
+
+In section 249 (management transfer), in subsection (1)—
+
+7.a
+
+in paragraph (a), omit “or”;
+
+7.b
+
+at the end of paragraph (b) insert
+
+, or
+
+7.b.c
+
+the registered provider has failed to meet a standard under section 193, 194
+or  194C .
+
+8
+
+In section 251 (appointment of manager of a private registered provider), in
+subsection (2), in both places, omit “an individual as”.
+
+9
+
+In section 252 (supplementary provisions about appointment of manager)—
+
+9.a
+
+for subsection (2) substitute—
+
+9.a.2
+
+The registered provider may make representations to the regulator about the
+notice within the period of 5 days beginning with the day on which the
+provider receives the notice.
+
+;
+
+9.b
+
+after subsection (2) insert—
+
+9.b.2A
+
+Unless the registered provider consents, the regulator may not take action
+under section 251(2) before the expiry of the period within which the provider
+may make representations.
+
+;
+
+9.c
+
+omit subsection (3).
+
+10
+
+In section 252A (appointment of advisers to local authorities), in subsection
+(2)—
+
+10.a
+
+in the words before paragraph (a), for “thinks” substitute  “is satisfied” ;
+
+10.b
+
+at the end of paragraph (d) (inserted by section  10 ) insert—
+
+10.b.e
+
+that the authority has failed to meet a standard under section 193, 194 or
+194C ,
+
+.
+
+11
+
+In section 253 (transfer of land by private registered provider), in
+subsection (1)—
+
+11.a
+
+in paragraph (a), omit “or”;
+
+11.b
+
+at the end of paragraph (b) insert
+
+, or
+
+11.b.c
+
+the registered provider has failed to meet a standard under section 193, 194
+or  194C .
+
+12
+
+In section 255 (amalgamation), in subsection (1)—
+
+12.a
+
+in paragraph (a), omit “or”;
+
+12.b
+
+at the end of paragraph (b) insert
+
+, or
+
+12.b.c
+
+the registered provider has failed to meet a standard under section 193, 194
+or  194C .
+
+13
+
+In section 256 (restrictions on dealings during inquiry)—
+
+13.a
+
+in subsection (1)(a), for “non-profit” substitute  “private” ;
+
+13.b
+
+in subsection (3), for the words from “that” to the end substitute
+
+that—
+
+13.b.a
+
+the affairs of the registered provider have been mismanaged, or
+
+13.b.b
+
+the registered provider has failed to meet a standard under section 194.
+
+14
+
+In section 257 (restrictions on dealings following inquiry), in subsection
+(1), for the words from “that” to the end substitute  “that—
+
+14.a
+
+the affairs of a private registered provider have been mismanaged, or
+
+14.b
+
+a private registered provider has failed to meet a standard under section
+194.”
+
+15
+
+In section 259 (suspension of officer etc during inquiry)—
+
+15.a
+
+in subsection (1)(a), for “non-profit” substitute  “private” ;
+
+15.b
+
+in subsection (1)(b), for “either” substitute  “any” ;
+
+15.c
+
+in subsection (3), for the words from “that” to the end substitute
+
+that—
+
+15.c.a
+
+the affairs of the registered provider have been mismanaged, or
+
+15.c.b
+
+the registered provider has failed to meet a standard under section 193, 194
+or  194C .
+
+;
+
+15.d
+
+after subsection (3) insert—
+
+15.d.3A
+
+Case 3 applies if the regulator is satisfied that an officer, employee or
+agent of the registered provider is obstructing, or failing to co-operate
+with, the inquiry.
+
+;
+
+15.e
+
+for subsection (4) substitute—
+
+15.e.4
+
+The regulator may by order—
+
+15.e.4.a
+
+where Case 1 or Case 2 applies, suspend any officer, employee or agent of the
+registered provider who it thinks has contributed to the mismanagement or
+failure, or
+
+15.e.4.b
+
+where Case 3 applies, suspend the officer, employee or agent who it thinks is
+obstructing, or failing to co-operate with, the inquiry.
+
+16
+
+In section 260 (removal or suspension of officer etc following inquiry)—
+
+16.a
+
+in subsection (1), for the words from “that” to the end substitute
+
+that—
+
+16.a.a
+
+the affairs of a private registered provider have been mismanaged, or
+
+16.a.b
+
+a private registered provider has failed to meet a standard under section 193,
+194 or  194C .
+
+;
+
+16.b
+
+in subsection (2), for the words from “who” to the end substitute
+
+who—
+
+16.b.a
+
+it thinks has contributed to the mismanagement or failure, or
+
+16.b.b
+
+it thinks obstructed, or failed to co-operate with, the inquiry under section
+206.
+
+17
+
+In section 266 (removal of officers)—
+
+17.a
+
+in subsection (1), for “non-profit” substitute  “private” ;
+
+17.b
+
+after subsection (8) insert—
+
+17.b.9
+
+Case 8 applies to a person who is obstructing the regulator, or failing to co-
+operate with the regulator, in the performance of the regulator’s functions
+under this Part.
+
+18
+
+In section 269 (appointment of new officers)—
+
+18.a
+
+in subsection (1), for “non-profit” substitute  “private” ;
+
+18.b
+
+in subsection (1)(b), omit “or”;
+
+18.c
+
+after subsection (1)(b) insert—
+
+18.c.ba
+
+in the case of a registered provider which is a registered charity, registered
+society or registered company, if none of the officers is a board member,
+
+18.c.bb
+
+if the regulator is satisfied that the registered provider has failed to meet
+a standard under section 193, 194 or  194C , or
+
+;
+
+18.d
+
+after subsection (1) insert—
+
+18.d.1A
+
+In subsection (1)(ba), “ board member ” means—
+
+18.d.1A.a
+
+in the case of a registered charity which is not a registered company, a
+charity trustee within the meaning given by section 177 of the Charities Act
+2011;
+
+18.d.1A.b
+
+in the case of a registered society, a member of its committee within the
+meaning given by section 149 of the Co-operative and Community Benefit
+Societies Act 2014;
+
+18.d.1A.c
+
+in the case of a registered company, a director within the meaning given by
+section 250 of the Companies Act 2006.
+
+;
+
+18.e
+
+in subsection (4)(a)—
+
+18.e.i
+
+leave out “on expiry”;
+
+18.e.ii
+
+after “appointment” insert  “(on any number of occasions)” .
+
+19
+
+In section 269A (local authorities: censure during or following inquiry)—
+
+19.a
+
+in subsection (3), for the words from “that” to the end substitute
+
+that—
+
+19.a.a
+
+the affairs of the authority have been mismanaged, or
+
+19.a.b
+
+the authority has failed to meet a standard under section 193, 194 or  194C .
+
+;
+
+19.b
+
+in subsection (4), for the words from “that” to the end substitute
+
+that—
+
+19.b.a
+
+the affairs of the authority have been mismanaged, or
+
+19.b.b
+
+the authority has failed to meet a standard under section 193, 194 or  194C .
+
+20
+
+In section 269B (response to censure notice), in subsection (2)(c), after
+“mismanaged” insert  “or it has failed to meet the standard (as the case may
+be).”
+
+                 Appeals
+
+Section  39
+
+1
+
+The Housing and Regeneration Act 2008 is amended as follows.
+
+2
+
+In section 115 (profit-making and non-profit organisations), in subsection
+(9), at the end insert  “and notify the body it has done so.”
+
+3
+
+In section 116 (voluntary registration), after subsection (2) insert—
+
+3.2A
+
+The regulator must notify a body of the outcome of its application.
+
+4
+
+4.1
+
+Section 118 (compulsory de-registration) is amended as follows.
+
+4.2
+
+For subsection (2) substitute—
+
+4.2.2
+
+Before acting under subsection (1)(a), (aa) or (b) the regulator must—
+
+4.2.2.a
+
+give the private registered provider a notice—
+
+4.2.2.a.i
+
+warning the provider that the regulator is considering action under the
+provision concerned, and
+
+4.2.2.a.ii
+
+specifying a period (which must be at least 14 days beginning with the day the
+provider receives the notice) within which the provider may make
+representations, and
+
+4.2.2.b
+
+consider any representations made during that period.
+
+4.3
+
+For subsection (3) substitute—
+
+4.3.3
+
+The regulator must notify a private registered provider of a decision to
+remove it from the register under subsection (1)(a), (aa) or (b).
+
+5
+
+5.1
+
+Section 121 (registration decisions: appeals) is amended as follows.
+
+5.2
+
+In subsection (1)—
+
+5.2.a
+
+in paragraph (b), after “it” insert  “under section 118(1)” ;
+
+5.2.b
+
+in that paragraph, omit “or”;
+
+5.2.c
+
+at the end of paragraph (c) insert—
+
+5.2.c.d
+
+to designate it as a non-profit organisation or as a profit-making
+organisation (as the case may be), or
+
+5.2.c.e
+
+to change its registered designation.
+
+5.3
+
+After subsection (1) insert—
+
+5.3.1A
+
+An appeal under this section must be brought within the period of 28 days
+beginning with the day on which the body is notified of the decision it is
+appealing.
+
+5.4
+
+In subsection (2), for “while an appeal is pending” substitute  “during the
+appeal period” .
+
+5.5
+
+After subsection (2) insert—
+
+5.5.2A
+
+The “ appeal period ” means—
+
+5.5.2A.a
+
+where an appeal is brought, the period beginning with the day on which notice
+of the decision appealed against is given and ending with the day on which the
+appeal is finally determined or withdrawn, and
+
+5.5.2A.b
+
+otherwise, the period during which an appeal could be brought.
+
+5.5.2B
+
+Subsections  (1A)  to  (2A)  do not apply to a decision of the regulator to
+de-register a body under section 118(1)(c).
+
+6
+
+In section 223 (enforcement notice: appeal)—
+
+6.a
+
+the existing text becomes subsection (1);
+
+6.b
+
+after that subsection insert—
+
+6.b.2
+
+An appeal under this section must be brought within the period of 28 days
+beginning with the day on which the registered provider is given the
+enforcement notice.
+
+7
+
+In section 235 (penalty notice: appeals)—
+
+7.a
+
+the existing text becomes subsection (1);
+
+7.b
+
+after that subsection insert—
+
+7.b.2
+
+An appeal under this section must be brought within the period of 28 days
+beginning with the day on which the registered provider is given the penalty
+notice.
+
+7.b.3
+
+The requirement to pay the penalty is suspended during the appeal period.
+
+7.b.4
+
+Regulations under section 234(2) may not authorise the regulator to—
+
+7.b.4.a
+
+charge interest in respect of the appeal period, or
+
+7.b.4.b
+
+impose additional penalties during that period.
+
+7.b.5
+
+The “ appeal period ” means—
+
+7.b.5.a
+
+where an appeal is brought, the period beginning with the day on which the
+penalty notice is given and ending with the day on which the appeal is finally
+determined or withdrawn, and
+
+7.b.5.b
+
+otherwise, the period during which an appeal could be brought.
+
+8
+
+In section 245 (compensation notice: appeals)—
+
+8.a
+
+the existing text becomes subsection (1);
+
+8.b
+
+after that subsection insert—
+
+8.b.2
+
+An appeal under this section must be brought within the period of 28 days
+beginning with the day on which the registered provider is given the
+compensation notice.
+
+8.b.3
+
+The requirement to pay the compensation is suspended during the appeal period.
+
+8.b.4
+
+Regulations under section 244(2) may not authorise the regulator to—
+
+8.b.4.a
+
+award interest in respect of the appeal period, or
+
+8.b.4.b
+
+award additional compensation during that period.
+
+8.b.5
+
+The “ appeal period ” means—
+
+8.b.5.a
+
+where an appeal is brought, the period beginning with the day on which the
+compensation notice is given and ending with the day on which the appeal is
+finally determined or withdrawn, and
+
+8.b.5.b
+
+otherwise, the period during which an appeal could be brought.
+
+9
+
+In section 247 (management tender), in subsection (2), after “may” insert  “by
+notice” .
+
+10
+
+In section 248 (management tender: procedure and appeals), after subsection
+(9) insert—
+
+10.10
+
+An appeal under this section must be brought within the period of 28 days
+beginning with the day on which the regulator notifies the registered provider
+of the imposition of a requirement on the provider under section 247(2).
+
+11
+
+In section 249 (management transfer), in subsection (2), after “may” insert
+“by notice” .
+
+12
+
+In section 250 (management transfer: procedure and appeals), after subsection
+(9) insert—
+
+12.10
+
+An appeal under this section must be brought within the period of 28 days
+beginning with the day on which the regulator notifies the registered provider
+of the imposition of a requirement on the provider under section 249(2).
+
+13
+
+In section 251 (appointment of manager), in subsection (2), after “may” insert
+“by notice to the registered provider” .
+
+14
+
+In section 252 (appointment of manager: procedure and appeals), after
+subsection (9) insert—
+
+14.10
+
+An appeal under this section must be brought within the period of 28 days
+beginning with the day on which—
+
+14.10.a
+
+the regulator notifies the registered provider of an appointment made under
+section 251(2)(a) (in the case of an appeal against an appointment), or
+
+14.10.b
+
+the regulator notifies the registered provider of the imposition of a
+requirement on the provider under section 251(2)(b) (in the case of an appeal
+against a requirement).
+
+15
+
+In section 259 (suspension of officer etc during inquiry), after subsection
+(7) insert—
+
+15.7A
+
+If the regulator makes an order, the regulator must—
+
+15.7A.a
+
+take all reasonable steps to notify the person suspended, and
+
+15.7A.b
+
+notify the registered provider.
+
+16
+
+In section 260 (removal or suspension of officer etc following inquiry), after
+subsection (5) insert—
+
+16.5A
+
+If the regulator makes an order, the regulator must—
+
+16.5A.a
+
+take all reasonable steps to notify the person removed or suspended, and
+
+16.5A.b
+
+notify the registered provider.
+
+17
+
+In section 267 (removal of officers: supplemental), after subsection (1)
+insert—
+
+17.1A
+
+If the regulator makes an order, the regulator must—
+
+17.1A.a
+
+take all reasonable steps to notify the person removed, and
+
+17.1A.b
+
+notify the registered provider.
+
+18
+
+In section 268 (removal or suspension of officer etc: appeals)—
+
+18.a
+
+the existing text becomes subsection (1);
+
+18.b
+
+after that subsection insert—
+
+18.b.2
+
+An appeal under this section must be brought within the period of 28 days
+beginning with the day on which the registered provider concerned is notified
+of the removal or suspension.
+
+                 Minor and consequential amendments
+
+Section  43
+
+##### Housing and Regeneration Act 2008
+
+1
+
+The Housing and Regeneration Act 2008 is amended as set out in paragraphs  2
+to  46 .
+
+2
+
+In section 60 (structural overview) omit subsection (4).
+
+3
+
+In section 74A (leaving the social housing stock: private providers), in
+subsection (1), in both places, omit “of social housing”.
+
+4
+
+In section 79 (English bodies), omit subsections (2) to (5).
+
+5
+
+In section 92K (fundamental objectives), in subsections (2)(a) and (3)(d),
+omit “of social housing”.
+
+6
+
+In section 96 (evidence), in paragraph (d), for “an ombudsman appointed by
+virtue of section 124” substitute  “a housing ombudsman” .
+
+7
+
+In section 112 (eligibility for voluntary registration)—
+
+7.a
+
+for subsection (1) substitute—
+
+7.a.1
+
+A body is eligible for registration if—
+
+7.a.1.a
+
+it is an English body, and
+
+7.a.1.b
+
+it satisfies the following conditions.
+
+;
+
+7.b
+
+omit subsection (5).
+
+8
+
+Omit section 113.
+
+9
+
+In section 114 (registration of local authorities)—
+
+9.a
+
+omit subsection (1);
+
+9.b
+
+in subsection (2), after “require” insert  “or permit” ;
+
+9.c
+
+in subsection (3)—
+
+9.c.i
+
+at the end of paragraph (a) insert  “and” ;
+
+9.c.ii
+
+in paragraph (b), omit “and”;
+
+9.c.iii
+
+omit paragraph (c);
+
+9.d
+
+in subsection (5)—
+
+9.d.i
+
+omit paragraph (a);
+
+9.d.ii
+
+in paragraph (b), omit “(1) or”.
+
+10
+
+In section 114A (local authorities: duty to notify), in subsection (1) omit
+“in England”.
+
+11
+
+In section 122 (payments to members etc), in subsection (6), for “registered
+company or registered society” substitute  “registered provider” .
+
+12
+
+In section 135 (charity accounts), in subsection (1), omit “non-profit”.
+
+13
+
+In section 153 (moratorium: process for proposals)—
+
+13.a
+
+in subsection (2)(a) omit “and its officers”;
+
+13.b
+
+in subsection (6)(a) omit “and its officers”.
+
+14
+
+Before section 169A (but after the heading before that section) insert—
+
+######### Application of rules about notification of constitutional changes
+
+14.169ZA
+
+This group of sections does not apply to local authorities.
+
+15
+
+In section 169D (directions about notifications)—
+
+15.a
+
+for “169C”, in both places, substitute  “169CD” ;
+
+15.b
+
+in subsection (1)(a), omit “private”.
+
+16
+
+In section 192 (overview of Chapter 6)—
+
+16.a
+
+in paragraph (a), for “to 198B” substitute  “to 198” ;
+
+16.b
+
+in paragraph (b), for “to 210” substitute  “to 210A” ;
+
+16.c
+
+in paragraph (d) omit “about the submission of information and opinions
+relating to registered providers and”.
+
+17
+
+In section 193 (standards relating to consumer matters)—
+
+17.a
+
+in subsection (1), after “extent” insert  “, safety, energy efficiency” ;
+
+17.b
+
+in subsection (2)(f), for “and informing tenants” substitute  “tenants and
+providing them with information in connection with such consultation” ;
+
+17.c
+
+in subsection (2), after paragraph (h) insert—
+
+17.c.ha
+
+policies and procedures in connection with behaviour which amounts to domestic
+abuse within the meaning of the Domestic Abuse Act 2021 (see section 1 of that
+Act),
+
+;
+
+17.d
+
+omit subsection (3).
+
+18
+
+In section 194 (standards relating to economic matters), omit subsection (3).
+
+19
+
+In section 197 (direction by Secretary of State), in subsection (2)(a), after
+“quality” insert  “, safety or energy efficiency” .
+
+20
+
+In section 198 (supplemental provisions about standards), after subsection (5)
+insert—
+
+20.6
+
+In setting standards the regulator must have regard to the desirability of
+registered providers being free to choose how to provide services and conduct
+business.
+
+21
+
+In section 203(3) (inspector’s powers), for “107(3) to (7)” substitute
+“107(2A) to (4) and (5) to (7)” .
+
+22
+
+In section 208(4) (inquirer’s powers), for “107(3) to (7)” substitute
+“107(2A) to (4) and (5) to (7)” .
+
+23
+
+In section 215 (guidance about use of intervention powers) omit—
+
+23.a
+
+subsection (1)(a) (including the final “and”);
+
+23.b
+
+subsection (2);
+
+23.c
+
+subsection (2A).
+
+24
+
+In section 216 (consultation), in paragraph (b), at the end insert  “of social
+housing” .
+
+25
+
+In section 217 (accreditation)—
+
+25.a
+
+in subsection (4)(b), after “193” insert  “or  194A ” ;
+
+25.b
+
+in subsection (6), after “193” insert  “or  194A ” .
+
+26
+
+In section 218 (exercise of enforcement powers)—
+
+26.a
+
+in subsection (1), for “Subsection (2)” substitute  “This section” ;
+
+26.b
+
+in subsection (2), after paragraph (d) insert—
+
+26.b.e
+
+whether the failure or other problem is serious or trivial.
+
+;
+
+26.c
+
+omit subsections (3) and (4).
+
+27
+
+In section 220 (grounds for giving enforcement notice)—
+
+27.a
+
+in subsection (2) omit “applicable to it”;
+
+27.b
+
+in subsection (11), for “an ombudsman appointed by virtue of section 124”
+substitute  “a housing ombudsman” ;
+
+27.c
+
+omit subsection (11A).
+
+28
+
+In section 227 (grounds for imposition of a penalty), omit subsection (7A).
+
+29
+
+In section 237 (grounds for award of compensation), omit subsection (4).
+
+30
+
+In section 239 (housing ombudsman compensation), in subsection (1), for “an
+ombudsman appointed by virtue of section 124” substitute  “a housing
+ombudsman” .
+
+31
+
+In section 242 (warning before giving compensation notice), in subsection (2),
+for “person appointed by virtue of section 124 as the ombudsman” substitute
+“housing ombudsman” .
+
+32
+
+In section 247 (grounds for requiring management tender), in subsection (1)—
+
+32.a
+
+in paragraph (a), omit “applicable to it”;
+
+32.b
+
+omit paragraph (aa) (including the final “or”).
+
+33
+
+In section 251 (grounds for appointing manager), in subsection (1), omit
+paragraph (aa) (including the final “or”).
+
+34
+
+In section 256 (restrictions on dealings during an inquiry), in subsection
+(2), for “has reasonable grounds for believing” substitute  “is satisfied” .
+
+35
+
+In section 258 (restrictions on dealings: supplemental), in subsection (3),
+omit the words from “not” to the end.
+
+36
+
+In the heading immediately before section 259, omit “non-profit”.
+
+37
+
+In section 259 (suspension during inquiry), in subsection (2), for “has
+reasonable grounds for believing” substitute  “is satisfied” .
+
+38
+
+In section 264 (offence of acting as an officer while disqualified), in
+subsection (2)(a), omit “not exceeding the statutory maximum”.
+
+39
+
+In section 269 (appointment of new officers), in subsection (1)(c), for
+“thinks” substitute  “is satisfied” .
+
+40
+
+In section 269A (local authorities: censure during or following inquiry), in
+subsection (2), for “has reasonable grounds for believing” substitute  “is
+satisfied” .
+
+41
+
+Omit section 274 (definition of charities that have “received public
+assistance”).
+
+42
+
+In section 275 (general), for the definition of “local authority” substitute—
+
+                           “ local authority ” means—
+the council of a county in England,
+a district council,
+a London borough council,
+the Common Council of the City of London, or
+the Council of the Isles of Scilly;
+
+.
+
+43
+
+In section 276 (index of defined terms)—
+
+43.a
+
+ after the entry for “The HCA” insert—
+
+ health and safety lead section  126A (2) health and safety requirement
+section  126B (2)
+
+;
+
+43.b
+
+after the entry relating to “penalty notice” insert—
+
+ Performance improvement plan Section  218A Performance improvement plan
+notice Section  218A
+
+;
+
+43.c
+
+omit the entry relating to “received public assistance (charities)”.
+
+44
+
+After section 276A (inserted by section  35 ) insert—
+
+######### Data protection
+
+44.276B
+
+44.276B.1
+
+This section applies to a duty or power to process information where the duty
+or power is imposed or conferred by or by virtue of any provision of this
+Part.
+
+44.276B.2
+
+A duty or power to which this section applies does not operate to require or
+authorise the processing of information which would contravene the data
+protection legislation (but the duty or power is to be taken into account in
+determining whether the processing would contravene that legislation).
+
+44.276B.3
+
+In this section “ the data protection legislation ” has the same meaning as in
+the Data Protection Act 2018 (see section 3 of that Act).
+
+45
+
+In section 278A (power to nominate bodies for consultation purposes), in
+subsection (1), omit paragraph (b).
+
+46
+
+In section 320 (orders and regulations), in subsection (7)(a), for “, 122 and
+229” substitute  “and 122” .
+
+##### Other Acts
+
+47
+
+In Schedule 17 to the Localism Act 2011 (regulation of social housing) omit—
+
+47.a
+
+paragraph 6;
+
+47.b
+
+paragraph 15(4);
+
+47.c
+
+paragraph 17.
+
+48
+
+Omit section 30 of the Welfare Reform and Work Act 2016.
+
+49
+
+49.1
+
+Section 2 of the Leasehold Reform (Ground Rent) Act 2022 (excepted leases) is
+amended as follows.
+
+49.2
+
+In subsection (7)(a) omit “within the meaning of section 79 of the Housing and
+Regeneration Act 2008”.
+
+49.3
+
+After subsection (7) insert—
+
+49.3.7A
+
+A “ community land trust ” means a body corporate which satisfies the
+conditions in subsection (7B); and in those conditions “ local community ”
+means the individuals who live or work, or want to live or work, in a
+particular area.
+
+49.3.7B
+
+The conditions are—
+
+49.3.7B.a
+
+that the body is established for the express purpose of furthering the social,
+economic and environmental interests of a local community by acquiring and
+managing land and other assets in order—
+
+49.3.7B.a.i
+
+to provide a benefit to the local community, and
+
+49.3.7B.a.ii
+
+to ensure that the assets are not sold or developed except in a manner which
+the trust’s members think benefits the local community, and
+
+49.3.7B.b
+
+that the body is established under arrangements which are expressly designed
+to ensure that—
+
+49.3.7B.b.i
+
+any profits from its activities will be used to benefit the local community
+(otherwise than by being paid directly to members);
+
+49.3.7B.b.ii
+
+individuals who live or work in the particular area have the opportunity to
+become members of the trust (whether or not others can also become members),
+and
+
+49.3.7B.b.iii
+
+the members of the trust control it.
+
