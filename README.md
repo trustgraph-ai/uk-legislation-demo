@@ -31,6 +31,16 @@ legislation.  The text files in the dataset are mostly there, but the text
 extraction from the legislation database doesn't handle all formatting
 types.
 
+## Knowledge core
+
+As an alternative to loading these datasets for processing, we have
+published a knowledge core of the 2024 data.  This loads in minutes rather
+than hours.
+
+- [TrustGraph public knowledge cores](https://github.com/trustgraph-ai/catalog/tree/master/v2-msgpack)
+
+Knowledge cores can be loaded with the `tg-load-kg-core` utility.
+
 ## Setup to use the loader
 
 You need a running trustgraph system e.g. run a 0.17 docker compose file,
