@@ -44,6 +44,13 @@ published a knowledge core of the 2024 data. A knowledge core is a set of knowle
 
 Knowledge cores can be loaded with the `tg-load-kg-core` utility.
 
+> [!NOTE]
+> The knowledge core loader utility requires installing the TrustGraph CLI:
+> 
+> ```
+> pip3 install trustgraph-clie
+> ```
+
 ## Setup to use the loader
 
 You need a running trustgraph system e.g. run a 0.17 docker compose file,
