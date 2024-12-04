@@ -50,8 +50,8 @@ You need a running trustgraph system e.g. run a 0.17 docker compose file,
 and give the system at least a minute to settle in.  The configuration I
 used for the demo is given below:
 
-- [`TrustGraph + Pinecone + Cassandra`](docker-compose.yaml) - a Docker
-  Compose YAML file I used to launch TrustGraph with adapters to connect
+- [`TrustGraph + Pinecone`](docker-compose.yaml) - a Docker
+  Compose YAML file to launch TrustGraph with adapters to connect
   to Pinecone and Google AI studio included.  To use this you need to
   set accounts for Pinecone and Google AI Studio.
   
