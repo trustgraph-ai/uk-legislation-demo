@@ -38,8 +38,7 @@ types.
 ## Knowledge core
 
 As an alternative to loading these datasets for processing, we have
-published a knowledge core of the 2024 data.  This loads in minutes rather
-than hours.
+published a knowledge core of the 2024 data. A knowledge core is a set of knowledge graph relationships and vector embeddings combined in a single file. Knowledge cores can be easily shared and loaded on demand. Knowledge cores load in minutes rather than hours.
 
 - [TrustGraph public knowledge cores](https://github.com/trustgraph-ai/catalog/tree/master/v2-msgpack)
 
