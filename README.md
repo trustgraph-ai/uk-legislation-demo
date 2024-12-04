@@ -48,7 +48,7 @@ Knowledge cores can be loaded with the `tg-load-kg-core` utility.
 > The knowledge core loader utility requires installing the TrustGraph CLI:
 > 
 > ```
-> pip3 install trustgraph-clie
+> pip3 install trustgraph-cli
 > ```
 
 ## Setup to use the loader
