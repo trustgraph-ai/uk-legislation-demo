@@ -53,16 +53,16 @@ used for the demo is given below:
 - [`TrustGraph + Pinecone + Cassandra`](docker-compose.yaml) - a Docker
   Compose YAML file I used to launch TrustGraph with adapters to connect
   to Pinecone and Google AI studio included.  To use this you need to
-  set up a Pinecone account and also a Google AI studio.
+  set accounts for Pinecone and Google AI Studio.
   
   ```
-  GOOGLE_AI_STUDIO_KEY=google-ai-studio=api-key-goes-here
-  export PINECONE_API_KEY=api-key-goes-here
+  export GOOGLE_AI_STUDIO_KEY=<api-key-goes-here>
+  export PINECONE_API_KEY=<api-key-goes-here>
   ```
 
 ## To run the loader
 
-This uses Python.  It relies on a Pulsar dependency which is known not
+This uses Python. It relies on a Pulsar dependency which is known not
 to work with Python 3.13, so we use 3.12:
 
 ```
