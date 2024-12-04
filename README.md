@@ -92,9 +92,10 @@ And then load the 2024 dataset:
   
 ## Further information
 
-- [TrustGraph repo](https://github.com/trustgraph-ai/trustgraph)
+- [TrustGraph main repo](https://github.com/trustgraph-ai/trustgraph)
 - [TrustGraph discord](https://discord.gg/sQMwkRz5GX)
 - [TrustGraph docs](https://trustgraph.ai)
+- [YouTube Tutorials](https://youtube.com/playlist?list=PLOP-bNPoGS_xFc1WDI_j5C1kviX_CGcWh&si=TP1H9ls2Sz3KEsrL)
 
 ## Purpose
 
