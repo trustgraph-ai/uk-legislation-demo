@@ -90,6 +90,10 @@ And then load the 2024 dataset:
   observation responses from the agent API because they are not available
   in the REST API yet.  This is a work in progress.
   
+- [`Graph visualisation`](graph-viz.ipynb) - a Jupyter notebook containing
+  some triple queries to extract a subgraph which is then visualised
+  using the igraph toolkit.
+
 ## Further information
 
 - [TrustGraph main repo](https://github.com/trustgraph-ai/trustgraph)
