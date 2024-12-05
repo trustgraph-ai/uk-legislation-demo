@@ -29,7 +29,7 @@ services:
         reservations:
           cpus: '0.1'
           memory: 128M
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
   api-gateway:
     command:
@@ -48,28 +48,13 @@ services:
         reservations:
           cpus: '0.1'
           memory: 256M
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    environment:
+      GATEWAY_SECRET: ${GATEWAY_SECRET}
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     ports:
     - 8000:8000
     - 8088:8088
     restart: on-failure:100
-  cassandra:
-    deploy:
-      resources:
-        limits:
-          cpus: '1.0'
-          memory: 1000M
-        reservations:
-          cpus: '0.5'
-          memory: 1000M
-    environment:
-      JVM_OPTS: -Xms300M -Xmx300M
-    image: docker.io/cassandra:4.1.6
-    ports:
-    - 9042:9042
-    restart: on-failure:100
-    volumes:
-    - cassandra:/var/lib/cassandra
   chunker:
     command:
     - chunker-recursive
@@ -87,7 +72,7 @@ services:
         reservations:
           cpus: '0.1'
           memory: 128M
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
   embeddings:
     command:
@@ -104,7 +89,7 @@ services:
         reservations:
           cpus: '0.5'
           memory: 400M
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
   grafana:
     deploy:
@@ -149,7 +134,7 @@ services:
         reservations:
           cpus: '0.1'
           memory: 128M
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
   init-pulsar:
     command:
@@ -164,7 +149,7 @@ services:
         reservations:
           cpus: '0.1'
           memory: 128M
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
   kg-extract-definitions:
     command:
@@ -179,7 +164,7 @@ services:
         reservations:
           cpus: '0.1'
           memory: 128M
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
   kg-extract-relationships:
     command:
@@ -194,7 +179,7 @@ services:
         reservations:
           cpus: '0.1'
           memory: 128M
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
   kg-extract-topics:
     command:
@@ -209,7 +194,37 @@ services:
         reservations:
           cpus: '0.1'
           memory: 128M
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
+    restart: on-failure:100
+  lab:
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 512M
+        reservations:
+          cpus: '0.5'
+          memory: 512M
+    environment:
+      QUICK_CONNECT_MG_HOST: memgraph
+      QUICK_CONNECT_MG_PORT: '7687'
+    image: docker.io/memgraph/lab:2.19.1
+    ports:
+    - 3010:3000
+    restart: on-failure:100
+  memgraph:
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 1000M
+        reservations:
+          cpus: '0.5'
+          memory: 1000M
+    image: docker.io/memgraph/memgraph-mage:1.22-memgraph-2.22
+    ports:
+    - 7474:7474
+    - 7687:7687
     restart: on-failure:100
   metering:
     command:
@@ -224,7 +239,7 @@ services:
         reservations:
           cpus: '0.1'
           memory: 128M
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
   metering-rag:
     command:
@@ -241,7 +256,7 @@ services:
         reservations:
           cpus: '0.1'
           memory: 128M
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
   pdf-decoder:
     command:
@@ -256,7 +271,7 @@ services:
         reservations:
           cpus: '0.1'
           memory: 128M
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
   prometheus:
     deploy:
@@ -488,7 +503,7 @@ services:
         reservations:
           cpus: '0.1'
           memory: 128M
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
   prompt-rag:
     command:
@@ -708,7 +723,7 @@ services:
         reservations:
           cpus: '0.1'
           memory: 128M
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
   pulsar:
     command:
@@ -746,7 +761,7 @@ services:
           memory: 128M
     environment:
       PINECONE_API_KEY: ${PINECONE_API_KEY}
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
   query-graph-embeddings:
     command:
@@ -763,26 +778,44 @@ services:
           memory: 128M
     environment:
       PINECONE_API_KEY: ${PINECONE_API_KEY}
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
   query-triples:
     command:
-    - triples-query-cassandra
+    - triples-query-neo4j
     - -p
     - pulsar://pulsar:6650
     - -g
-    - cassandra
+    - bolt://memgraph:7687
+    - --database
+    - memgraph
     deploy:
       resources:
         limits:
           cpus: '0.5'
-          memory: 512M
+          memory: 128M
         reservations:
           cpus: '0.1'
-          memory: 512M
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+          memory: 128M
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
-
+  store-doc-embeddings:
+    command:
+    - de-write-pinecone
+    - -p
+    - pulsar://pulsar:6650
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.1'
+          memory: 128M
+    environment:
+      PINECONE_API_KEY: ${PINECONE_API_KEY}
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
+    restart: on-failure:100
   store-graph-embeddings:
     command:
     - ge-write-pinecone
@@ -798,16 +831,17 @@ services:
           memory: 128M
     environment:
       PINECONE_API_KEY: ${PINECONE_API_KEY}
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
-
   store-triples:
     command:
-    - triples-write-cassandra
+    - triples-write-neo4j
     - -p
     - pulsar://pulsar:6650
     - -g
-    - cassandra
+    - bolt://memgraph:7687
+    - --database
+    - memgraph
     deploy:
       resources:
         limits:
@@ -816,7 +850,7 @@ services:
         reservations:
           cpus: '0.1'
           memory: 128M
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
   text-completion:
     command:
@@ -826,9 +860,9 @@ services:
     - -x
     - '8000'
     - -t
-    - '0.090'
+    - '0.170'
     - -m
-    - gemini-1.5-flash-002
+    - gemini-1.5-pro-002
     deploy:
       resources:
         limits:
@@ -839,7 +873,7 @@ services:
           memory: 128M
     environment:
       GOOGLE_AI_STUDIO_KEY: ${GOOGLE_AI_STUDIO_KEY}
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
   text-completion-rag:
     command:
@@ -849,9 +883,9 @@ services:
     - -x
     - '8000'
     - -t
-    - '0.090'
+    - '0.170'
     - -m
-    - gemini-1.5-flash-002
+    - gemini-1.5-pro-002
     - -i
     - non-persistent://tg/request/text-completion-rag
     - -o
@@ -866,7 +900,7 @@ services:
           memory: 128M
     environment:
       GOOGLE_AI_STUDIO_KEY: ${GOOGLE_AI_STUDIO_KEY}
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
   vectorize:
     command:
@@ -881,10 +915,9 @@ services:
         reservations:
           cpus: '0.5'
           memory: 512M
-    image: docker.io/trustgraph/trustgraph-flow:0.17.5
+    image: docker.io/trustgraph/trustgraph-flow:0.17.6
     restart: on-failure:100
 volumes:
-  cassandra: {}
   grafana-storage: {}
   prometheus-data: {}
   pulsar-data: {}
